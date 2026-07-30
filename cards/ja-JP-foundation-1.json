@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "ja-001",
+    "sentence": "日曜日は図書館に行きます。",
+    "cloze": "行きます",
+    "answer": "行きます",
+    "accepted_answers": [],
+    "lemma": "行く",
+    "meaning": "go",
+    "audio": "audio/ja-001.mp3"
+  },
+  {
+    "id": "ja-002",
+    "sentence": "これは私のかばんです。",
+    "cloze": "かばん",
+    "answer": "かばん",
+    "accepted_answers": [],
+    "lemma": "かばん",
+    "meaning": "bag",
+    "audio": "audio/ja-002.mp3"
+  },
+  {
+    "id": "ja-003",
+    "sentence": "この部屋は静かです。",
+    "cloze": "静かです",
+    "answer": "静かです",
+    "accepted_answers": [],
+    "lemma": "静か",
+    "meaning": "quiet",
+    "audio": "audio/ja-003.mp3"
+  },
+  {
+    "id": "ja-004",
+    "sentence": "りんごを二つください。",
+    "cloze": "二つ",
+    "answer": "二つ",
+    "accepted_answers": [],
+    "lemma": "二つ",
+    "meaning": "two (things)",
+    "audio": "audio/ja-004.mp3"
+  },
+  {
+    "id": "ja-005",
+    "sentence": "もう一度お願いします。",
+    "cloze": "お願いします",
+    "answer": "お願いします",
+    "accepted_answers": [],
+    "lemma": "お願いする",
+    "meaning": "please",
+    "audio": "audio/ja-005.mp3"
+  },
+  {
+    "id": "ja-006",
+    "sentence": "おはようございます。",
+    "cloze": "おはようございます",
+    "answer": "おはようございます",
+    "accepted_answers": [],
+    "lemma": "おはようございます",
+    "meaning": "good morning",
+    "audio": "audio/ja-006.mp3"
+  },
+  {
+    "id": "ja-007",
+    "sentence": "こんにちは。",
+    "cloze": "こんにちは",
+    "answer": "こんにちは",
+    "accepted_answers": [],
+    "lemma": "こんにちは",
+    "meaning": "hello",
+    "audio": "audio/ja-007.mp3"
+  },
+  {
+    "id": "ja-008",
+    "sentence": "こんばんは。",
+    "cloze": "こんばんは",
+    "answer": "こんばんは",
+    "accepted_answers": [],
+    "lemma": "こんばんは",
+    "meaning": "good evening",
+    "audio": "audio/ja-008.mp3"
+  },
+  {
+    "id": "ja-009",
+    "sentence": "ありがとうございます。",
+    "cloze": "ありがとうございます",
+    "answer": "ありがとうございます",
+    "accepted_answers": [],
+    "lemma": "ありがとうございます",
+    "meaning": "thank you",
+    "audio": "audio/ja-009.mp3"
+  },
+  {
+    "id": "ja-010",
+    "sentence": "どういたしまして。",
+    "cloze": "どういたしまして",
+    "answer": "どういたしまして",
+    "accepted_answers": [],
+    "lemma": "どういたしまして",
+    "meaning": "you're welcome",
+    "audio": "audio/ja-010.mp3"
+  },
+  {
+    "id": "ja-011",
+    "sentence": "はじめまして。",
+    "cloze": "はじめまして",
+    "answer": "はじめまして",
+    "accepted_answers": [],
+    "lemma": "はじめまして",
+    "meaning": "nice to meet you",
+    "audio": "audio/ja-011.mp3"
+  },
+  {
+    "id": "ja-012",
+    "sentence": "私は会社員です。",
+    "cloze": "会社員",
+    "answer": "会社員",
+    "accepted_answers": [],
+    "lemma": "会社員",
+    "meaning": "company employee",
+    "audio": "audio/ja-012.mp3"
+  },
+  {
+    "id": "ja-013",
+    "sentence": "妹は高校生です。",
+    "cloze": "高校生",
+    "answer": "高校生",
+    "accepted_answers": [],
+    "lemma": "高校生",
+    "meaning": "high school student",
+    "audio": "audio/ja-013.mp3"
+  },
+  {
+    "id": "ja-014",
+    "sentence": "あの方は先生です。",
+    "cloze": "あの方",
+    "answer": "あの方",
+    "accepted_answers": [],
+    "lemma": "あの方",
+    "meaning": "that person",
+    "audio": "audio/ja-014.mp3"
+  },
+  {
+    "id": "ja-015",
+    "sentence": "お名前は何ですか。",
+    "cloze": "お名前",
+    "answer": "お名前",
+    "accepted_answers": [],
+    "lemma": "名前",
+    "meaning": "name",
+    "audio": "audio/ja-015.mp3"
+  },
+  {
+    "id": "ja-016",
+    "sentence": "日本語を勉強しています。",
+    "cloze": "勉強しています",
+    "answer": "勉強しています",
+    "accepted_answers": [],
+    "lemma": "勉強する",
+    "meaning": "study",
+    "audio": "audio/ja-016.mp3"
+  },
+  {
+    "id": "ja-017",
+    "sentence": "はい、分かりました。",
+    "cloze": "分かりました",
+    "answer": "分かりました",
+    "accepted_answers": [],
+    "lemma": "分かる",
+    "meaning": "understood",
+    "audio": "audio/ja-017.mp3"
+  },
+  {
+    "id": "ja-018",
+    "sentence": "いいえ、違います。",
+    "cloze": "違います",
+    "answer": "違います",
+    "accepted_answers": [],
+    "lemma": "違う",
+    "meaning": "be different; be wrong",
+    "audio": "audio/ja-018.mp3"
+  },
+  {
+    "id": "ja-019",
+    "sentence": "ゆっくり話してください。",
+    "cloze": "ゆっくり",
+    "answer": "ゆっくり",
+    "accepted_answers": [],
+    "lemma": "ゆっくり",
+    "meaning": "slowly",
+    "audio": "audio/ja-019.mp3"
+  },
+  {
+    "id": "ja-020",
+    "sentence": "もう少し待ってください。",
+    "cloze": "もう少し",
+    "answer": "もう少し",
+    "accepted_answers": [],
+    "lemma": "もう少し",
+    "meaning": "a little longer",
+    "audio": "audio/ja-020.mp3"
+  },
+  {
+    "id": "ja-021",
+    "sentence": "これは何ですか。",
+    "cloze": "何",
+    "answer": "何",
+    "accepted_answers": [],
+    "lemma": "何",
+    "meaning": "what",
+    "audio": "audio/ja-021.mp3"
+  },
+  {
+    "id": "ja-022",
+    "sentence": "それは私の傘です。",
+    "cloze": "傘",
+    "answer": "傘",
+    "accepted_answers": [],
+    "lemma": "傘",
+    "meaning": "umbrella",
+    "audio": "audio/ja-022.mp3"
+  },
+  {
+    "id": "ja-023",
+    "sentence": "あれは駅の地図です。",
+    "cloze": "地図",
+    "answer": "地図",
+    "accepted_answers": [],
+    "lemma": "地図",
+    "meaning": "map",
+    "audio": "audio/ja-023.mp3"
+  },
+  {
+    "id": "ja-024",
+    "sentence": "この本は日本語の辞書です。",
+    "cloze": "辞書",
+    "answer": "辞書",
+    "accepted_answers": [],
+    "lemma": "辞書",
+    "meaning": "dictionary",
+    "audio": "audio/ja-024.mp3"
+  },
+  {
+    "id": "ja-025",
+    "sentence": "机の上にノートがあります。",
+    "cloze": "ノート",
+    "answer": "ノート",
+    "accepted_answers": [],
+    "lemma": "ノート",
+    "meaning": "notebook",
+    "audio": "audio/ja-025.mp3"
+  },
+  {
+    "id": "ja-026",
+    "sentence": "かばんの中に財布があります。",
+    "cloze": "財布",
+    "answer": "財布",
+    "accepted_answers": [],
+    "lemma": "財布",
+    "meaning": "wallet",
+    "audio": "audio/ja-026.mp3"
+  },
+  {
+    "id": "ja-027",
+    "sentence": "鍵はポケットにあります。",
+    "cloze": "鍵",
+    "answer": "鍵",
+    "accepted_answers": [],
+    "lemma": "鍵",
+    "meaning": "key",
+    "audio": "audio/ja-027.mp3"
+  },
+  {
+    "id": "ja-028",
+    "sentence": "めがねを探しています。",
+    "cloze": "めがね",
+    "answer": "めがね",
+    "accepted_answers": [],
+    "lemma": "めがね",
+    "meaning": "glasses",
+    "audio": "audio/ja-028.mp3"
+  },
+  {
+    "id": "ja-029",
+    "sentence": "スマートフォンを忘れました。",
+    "cloze": "スマートフォン",
+    "answer": "スマートフォン",
+    "accepted_answers": [],
+    "lemma": "スマートフォン",
+    "meaning": "smartphone",
+    "audio": "audio/ja-029.mp3"
+  },
+  {
+    "id": "ja-030",
+    "sentence": "このペンを使います。",
+    "cloze": "ペン",
+    "answer": "ペン",
+    "accepted_answers": [],
+    "lemma": "ペン",
+    "meaning": "pen",
+    "audio": "audio/ja-030.mp3"
+  },
+  {
+    "id": "ja-031",
+    "sentence": "母は料理が上手です。",
+    "cloze": "母",
+    "answer": "母",
+    "accepted_answers": [],
+    "lemma": "母",
+    "meaning": "my mother",
+    "audio": "audio/ja-031.mp3"
+  },
+  {
+    "id": "ja-032",
+    "sentence": "父は毎朝新聞を読みます。",
+    "cloze": "父",
+    "answer": "父",
+    "accepted_answers": [],
+    "lemma": "父",
+    "meaning": "my father",
+    "audio": "audio/ja-032.mp3"
+  },
+  {
+    "id": "ja-033",
+    "sentence": "兄は銀行で働いています。",
+    "cloze": "兄",
+    "answer": "兄",
+    "accepted_answers": [],
+    "lemma": "兄",
+    "meaning": "my older brother",
+    "audio": "audio/ja-033.mp3"
+  },
+  {
+    "id": "ja-034",
+    "sentence": "姉は音楽が好きです。",
+    "cloze": "姉",
+    "answer": "姉",
+    "accepted_answers": [],
+    "lemma": "姉",
+    "meaning": "my older sister",
+    "audio": "audio/ja-034.mp3"
+  },
+  {
+    "id": "ja-035",
+    "sentence": "弟と公園へ行きます。",
+    "cloze": "弟",
+    "answer": "弟",
+    "accepted_answers": [],
+    "lemma": "弟",
+    "meaning": "my younger brother",
+    "audio": "audio/ja-035.mp3"
+  },
+  {
+    "id": "ja-036",
+    "sentence": "家族は四人です。",
+    "cloze": "四人",
+    "answer": "四人",
+    "accepted_answers": [],
+    "lemma": "四人",
+    "meaning": "four people",
+    "audio": "audio/ja-036.mp3"
+  },
+  {
+    "id": "ja-037",
+    "sentence": "今は七時です。",
+    "cloze": "七時",
+    "answer": "七時",
+    "accepted_answers": [],
+    "lemma": "七時",
+    "meaning": "seven o'clock",
+    "audio": "audio/ja-037.mp3"
+  },
+  {
+    "id": "ja-038",
+    "sentence": "毎朝六時半に起きます。",
+    "cloze": "六時半",
+    "answer": "六時半",
+    "accepted_answers": [],
+    "lemma": "六時半",
+    "meaning": "half past six",
+    "audio": "audio/ja-038.mp3"
+  },
+  {
+    "id": "ja-039",
+    "sentence": "八時に家を出ます。",
+    "cloze": "八時",
+    "answer": "八時",
+    "accepted_answers": [],
+    "lemma": "八時",
+    "meaning": "eight o'clock",
+    "audio": "audio/ja-039.mp3"
+  },
+  {
+    "id": "ja-040",
+    "sentence": "九時から仕事を始めます。",
+    "cloze": "九時",
+    "answer": "九時",
+    "accepted_answers": [],
+    "lemma": "九時",
+    "meaning": "nine o'clock",
+    "audio": "audio/ja-040.mp3"
+  },
+  {
+    "id": "ja-041",
+    "sentence": "昼休みは十二時からです。",
+    "cloze": "十二時",
+    "answer": "十二時",
+    "accepted_answers": [],
+    "lemma": "十二時",
+    "meaning": "twelve o'clock",
+    "audio": "audio/ja-041.mp3"
+  },
+  {
+    "id": "ja-042",
+    "sentence": "午後三時に休憩します。",
+    "cloze": "午後三時",
+    "answer": "午後三時",
+    "accepted_answers": [],
+    "lemma": "午後三時",
+    "meaning": "three p.m.",
+    "audio": "audio/ja-042.mp3"
+  },
+  {
+    "id": "ja-043",
+    "sentence": "今日は月曜日です。",
+    "cloze": "月曜日",
+    "answer": "月曜日",
+    "accepted_answers": [],
+    "lemma": "月曜日",
+    "meaning": "Monday",
+    "audio": "audio/ja-043.mp3"
+  },
+  {
+    "id": "ja-044",
+    "sentence": "明日は火曜日です。",
+    "cloze": "火曜日",
+    "answer": "火曜日",
+    "accepted_answers": [],
+    "lemma": "火曜日",
+    "meaning": "Tuesday",
+    "audio": "audio/ja-044.mp3"
+  },
+  {
+    "id": "ja-045",
+    "sentence": "水曜日に日本語を勉強します。",
+    "cloze": "水曜日",
+    "answer": "水曜日",
+    "accepted_answers": [],
+    "lemma": "水曜日",
+    "meaning": "Wednesday",
+    "audio": "audio/ja-045.mp3"
+  },
+  {
+    "id": "ja-046",
+    "sentence": "木曜日は仕事を休みます。",
+    "cloze": "木曜日",
+    "answer": "木曜日",
+    "accepted_answers": [],
+    "lemma": "木曜日",
+    "meaning": "Thursday",
+    "audio": "audio/ja-046.mp3"
+  },
+  {
+    "id": "ja-047",
+    "sentence": "金曜日の夜に映画を見ます。",
+    "cloze": "金曜日",
+    "answer": "金曜日",
+    "accepted_answers": [],
+    "lemma": "金曜日",
+    "meaning": "Friday",
+    "audio": "audio/ja-047.mp3"
+  },
+  {
+    "id": "ja-048",
+    "sentence": "土曜日に部屋を掃除します。",
+    "cloze": "土曜日",
+    "answer": "土曜日",
+    "accepted_answers": [],
+    "lemma": "土曜日",
+    "meaning": "Saturday",
+    "audio": "audio/ja-048.mp3"
+  },
+  {
+    "id": "ja-049",
+    "sentence": "日曜日は家で休みます。",
+    "cloze": "休みます",
+    "answer": "休みます",
+    "accepted_answers": [],
+    "lemma": "休む",
+    "meaning": "rest",
+    "audio": "audio/ja-049.mp3"
+  },
+  {
+    "id": "ja-050",
+    "sentence": "今日は四月十日です。",
+    "cloze": "四月十日",
+    "answer": "四月十日",
+    "accepted_answers": [],
+    "lemma": "四月十日",
+    "meaning": "April tenth",
+    "audio": "audio/ja-050.mp3"
+  },
+  {
+    "id": "ja-051",
+    "sentence": "誕生日は五月二十日です。",
+    "cloze": "五月二十日",
+    "answer": "五月二十日",
+    "accepted_answers": [],
+    "lemma": "五月二十日",
+    "meaning": "May twentieth",
+    "audio": "audio/ja-051.mp3"
+  },
+  {
+    "id": "ja-052",
+    "sentence": "六月は雨が多いです。",
+    "cloze": "六月",
+    "answer": "六月",
+    "accepted_answers": [],
+    "lemma": "六月",
+    "meaning": "June",
+    "audio": "audio/ja-052.mp3"
+  },
+  {
+    "id": "ja-053",
+    "sentence": "毎日朝ご飯を食べます。",
+    "cloze": "毎日",
+    "answer": "毎日",
+    "accepted_answers": [],
+    "lemma": "毎日",
+    "meaning": "every day",
+    "audio": "audio/ja-053.mp3"
+  },
+  {
+    "id": "ja-054",
+    "sentence": "ときどきカフェへ行きます。",
+    "cloze": "ときどき",
+    "answer": "ときどき",
+    "accepted_answers": [],
+    "lemma": "ときどき",
+    "meaning": "sometimes",
+    "audio": "audio/ja-054.mp3"
+  },
+  {
+    "id": "ja-055",
+    "sentence": "週末によく料理します。",
+    "cloze": "よく",
+    "answer": "よく",
+    "accepted_answers": [],
+    "lemma": "よく",
+    "meaning": "often",
+    "audio": "audio/ja-055.mp3"
+  },
+  {
+    "id": "ja-056",
+    "sentence": "学校は駅の近くです。",
+    "cloze": "近く",
+    "answer": "近く",
+    "accepted_answers": [],
+    "lemma": "近く",
+    "meaning": "nearby",
+    "audio": "audio/ja-056.mp3"
+  },
+  {
+    "id": "ja-057",
+    "sentence": "銀行は郵便局の隣です。",
+    "cloze": "隣",
+    "answer": "隣",
+    "accepted_answers": [],
+    "lemma": "隣",
+    "meaning": "next to",
+    "audio": "audio/ja-057.mp3"
+  },
+  {
+    "id": "ja-058",
+    "sentence": "コンビニは病院の前です。",
+    "cloze": "前",
+    "answer": "前",
+    "accepted_answers": [],
+    "lemma": "前",
+    "meaning": "in front of",
+    "audio": "audio/ja-058.mp3"
+  },
+  {
+    "id": "ja-059",
+    "sentence": "自転車は家の後ろにあります。",
+    "cloze": "後ろ",
+    "answer": "後ろ",
+    "accepted_answers": [],
+    "lemma": "後ろ",
+    "meaning": "behind",
+    "audio": "audio/ja-059.mp3"
+  },
+  {
+    "id": "ja-060",
+    "sentence": "猫はいすの下にいます。",
+    "cloze": "下",
+    "answer": "下",
+    "accepted_answers": [],
+    "lemma": "下",
+    "meaning": "under",
+    "audio": "audio/ja-060.mp3"
+  },
+  {
+    "id": "ja-061",
+    "sentence": "犬は庭にいます。",
+    "cloze": "庭",
+    "answer": "庭",
+    "accepted_answers": [],
+    "lemma": "庭",
+    "meaning": "garden",
+    "audio": "audio/ja-061.mp3"
+  },
+  {
+    "id": "ja-062",
+    "sentence": "冷蔵庫に牛乳があります。",
+    "cloze": "冷蔵庫",
+    "answer": "冷蔵庫",
+    "accepted_answers": [],
+    "lemma": "冷蔵庫",
+    "meaning": "refrigerator",
+    "audio": "audio/ja-062.mp3"
+  },
+  {
+    "id": "ja-063",
+    "sentence": "部屋に誰もいません。",
+    "cloze": "誰も",
+    "answer": "誰も",
+    "accepted_answers": [],
+    "lemma": "誰も",
+    "meaning": "nobody",
+    "audio": "audio/ja-063.mp3"
+  },
+  {
+    "id": "ja-064",
+    "sentence": "ここに座ってください。",
+    "cloze": "ここ",
+    "answer": "ここ",
+    "accepted_answers": [],
+    "lemma": "ここ",
+    "meaning": "here",
+    "audio": "audio/ja-064.mp3"
+  },
+  {
+    "id": "ja-065",
+    "sentence": "そこが入口です。",
+    "cloze": "入口",
+    "answer": "入口",
+    "accepted_answers": [],
+    "lemma": "入口",
+    "meaning": "entrance",
+    "audio": "audio/ja-065.mp3"
+  },
+  {
+    "id": "ja-066",
+    "sentence": "トイレはあそこです。",
+    "cloze": "あそこ",
+    "answer": "あそこ",
+    "accepted_answers": [],
+    "lemma": "あそこ",
+    "meaning": "over there",
+    "audio": "audio/ja-066.mp3"
+  },
+  {
+    "id": "ja-067",
+    "sentence": "駅まで歩きます。",
+    "cloze": "まで",
+    "answer": "まで",
+    "accepted_answers": [],
+    "lemma": "まで",
+    "meaning": "as far as",
+    "audio": "audio/ja-067.mp3"
+  },
+  {
+    "id": "ja-068",
+    "sentence": "電車で会社へ行きます。",
+    "cloze": "電車で",
+    "answer": "電車で",
+    "accepted_answers": [],
+    "lemma": "電車",
+    "meaning": "by train",
+    "audio": "audio/ja-068.mp3"
+  },
+  {
+    "id": "ja-069",
+    "sentence": "次の駅で降ります。",
+    "cloze": "降ります",
+    "answer": "降ります",
+    "accepted_answers": [],
+    "lemma": "降りる",
+    "meaning": "get off",
+    "audio": "audio/ja-069.mp3"
+  },
+  {
+    "id": "ja-070",
+    "sentence": "バスに乗ります。",
+    "cloze": "乗ります",
+    "answer": "乗ります",
+    "accepted_answers": [],
+    "lemma": "乗る",
+    "meaning": "ride; board",
+    "audio": "audio/ja-070.mp3"
+  },
+  {
+    "id": "ja-071",
+    "sentence": "右に曲がってください。",
+    "cloze": "右",
+    "answer": "右",
+    "accepted_answers": [],
+    "lemma": "右",
+    "meaning": "right",
+    "audio": "audio/ja-071.mp3"
+  },
+  {
+    "id": "ja-072",
+    "sentence": "まっすぐ進んでください。",
+    "cloze": "まっすぐ",
+    "answer": "まっすぐ",
+    "accepted_answers": [],
+    "lemma": "まっすぐ",
+    "meaning": "straight ahead",
+    "audio": "audio/ja-072.mp3"
+  },
+  {
+    "id": "ja-073",
+    "sentence": "橋を渡ります。",
+    "cloze": "渡ります",
+    "answer": "渡ります",
+    "accepted_answers": [],
+    "lemma": "渡る",
+    "meaning": "cross",
+    "audio": "audio/ja-073.mp3"
+  },
+  {
+    "id": "ja-074",
+    "sentence": "家に帰ります。",
+    "cloze": "帰ります",
+    "answer": "帰ります",
+    "accepted_answers": [],
+    "lemma": "帰る",
+    "meaning": "return home",
+    "audio": "audio/ja-074.mp3"
+  },
+  {
+    "id": "ja-075",
+    "sentence": "友達がうちに来ます。",
+    "cloze": "来ます",
+    "answer": "来ます",
+    "accepted_answers": [],
+    "lemma": "来る",
+    "meaning": "come",
+    "audio": "audio/ja-075.mp3"
+  },
+  {
+    "id": "ja-076",
+    "sentence": "朝ご飯にパンを食べます。",
+    "cloze": "パン",
+    "answer": "パン",
+    "accepted_answers": [],
+    "lemma": "パン",
+    "meaning": "bread",
+    "audio": "audio/ja-076.mp3"
+  },
+  {
+    "id": "ja-077",
+    "sentence": "コーヒーを飲みます。",
+    "cloze": "コーヒー",
+    "answer": "コーヒー",
+    "accepted_answers": [],
+    "lemma": "コーヒー",
+    "meaning": "coffee",
+    "audio": "audio/ja-077.mp3"
+  },
+  {
+    "id": "ja-078",
+    "sentence": "お茶はいかがですか。",
+    "cloze": "いかが",
+    "answer": "いかが",
+    "accepted_answers": [],
+    "lemma": "いかが",
+    "meaning": "how about",
+    "audio": "audio/ja-078.mp3"
+  },
+  {
+    "id": "ja-079",
+    "sentence": "水を一杯ください。",
+    "cloze": "一杯",
+    "answer": "一杯",
+    "accepted_answers": [],
+    "lemma": "一杯",
+    "meaning": "one cup",
+    "audio": "audio/ja-079.mp3"
+  },
+  {
+    "id": "ja-080",
+    "sentence": "ご飯をもう一杯お願いします。",
+    "cloze": "もう一杯",
+    "answer": "もう一杯",
+    "accepted_answers": [],
+    "lemma": "もう一杯",
+    "meaning": "another serving",
+    "audio": "audio/ja-080.mp3"
+  },
+  {
+    "id": "ja-081",
+    "sentence": "りんごを三個買います。",
+    "cloze": "三個",
+    "answer": "三個",
+    "accepted_answers": [],
+    "lemma": "三個",
+    "meaning": "three items",
+    "audio": "audio/ja-081.mp3"
+  },
+  {
+    "id": "ja-082",
+    "sentence": "卵を六個使います。",
+    "cloze": "六個",
+    "answer": "六個",
+    "accepted_answers": [],
+    "lemma": "六個",
+    "meaning": "six items",
+    "audio": "audio/ja-082.mp3"
+  },
+  {
+    "id": "ja-083",
+    "sentence": "バナナを一本食べます。",
+    "cloze": "一本",
+    "answer": "一本",
+    "accepted_answers": [],
+    "lemma": "一本",
+    "meaning": "one long item",
+    "audio": "audio/ja-083.mp3"
+  },
+  {
+    "id": "ja-084",
+    "sentence": "水を二本ください。",
+    "cloze": "二本",
+    "answer": "二本",
+    "accepted_answers": [],
+    "lemma": "二本",
+    "meaning": "two bottles",
+    "audio": "audio/ja-084.mp3"
+  },
+  {
+    "id": "ja-085",
+    "sentence": "切手を五枚ください。",
+    "cloze": "五枚",
+    "answer": "五枚",
+    "accepted_answers": [],
+    "lemma": "五枚",
+    "meaning": "five flat items",
+    "audio": "audio/ja-085.mp3"
+  },
+  {
+    "id": "ja-086",
+    "sentence": "シャツを二枚買いました。",
+    "cloze": "二枚",
+    "answer": "二枚",
+    "accepted_answers": [],
+    "lemma": "二枚",
+    "meaning": "two flat items",
+    "audio": "audio/ja-086.mp3"
+  },
+  {
+    "id": "ja-087",
+    "sentence": "このケーキはおいしいです。",
+    "cloze": "おいしいです",
+    "answer": "おいしいです",
+    "accepted_answers": [],
+    "lemma": "おいしい",
+    "meaning": "delicious",
+    "audio": "audio/ja-087.mp3"
+  },
+  {
+    "id": "ja-088",
+    "sentence": "このスープは熱いです。",
+    "cloze": "熱いです",
+    "answer": "熱いです",
+    "accepted_answers": [],
+    "lemma": "熱い",
+    "meaning": "hot",
+    "audio": "audio/ja-088.mp3"
+  },
+  {
+    "id": "ja-089",
+    "sentence": "水が冷たいです。",
+    "cloze": "冷たいです",
+    "answer": "冷たいです",
+    "accepted_answers": [],
+    "lemma": "冷たい",
+    "meaning": "cold",
+    "audio": "audio/ja-089.mp3"
+  },
+  {
+    "id": "ja-090",
+    "sentence": "カレーは少し辛いです。",
+    "cloze": "辛いです",
+    "answer": "辛いです",
+    "accepted_answers": [],
+    "lemma": "辛い",
+    "meaning": "spicy",
+    "audio": "audio/ja-090.mp3"
+  },
+  {
+    "id": "ja-091",
+    "sentence": "このスープには野菜がたくさん入っています。",
+    "cloze": "野菜",
+    "answer": "野菜",
+    "accepted_answers": [],
+    "lemma": "野菜",
+    "meaning": "vegetables",
+    "audio": "audio/ja-091.mp3"
+  },
+  {
+    "id": "ja-092",
+    "sentence": "肉は食べません。",
+    "cloze": "食べません",
+    "answer": "食べません",
+    "accepted_answers": [],
+    "lemma": "食べる",
+    "meaning": "do not eat",
+    "audio": "audio/ja-092.mp3"
+  },
+  {
+    "id": "ja-093",
+    "sentence": "魚が好きです。",
+    "cloze": "魚",
+    "answer": "魚",
+    "accepted_answers": [],
+    "lemma": "魚",
+    "meaning": "fish",
+    "audio": "audio/ja-093.mp3"
+  },
+  {
+    "id": "ja-094",
+    "sentence": "朝は果物を食べます。",
+    "cloze": "果物",
+    "answer": "果物",
+    "accepted_answers": [],
+    "lemma": "果物",
+    "meaning": "fruit",
+    "audio": "audio/ja-094.mp3"
+  },
+  {
+    "id": "ja-095",
+    "sentence": "メニューを見せてください。",
+    "cloze": "メニュー",
+    "answer": "メニュー",
+    "accepted_answers": [],
+    "lemma": "メニュー",
+    "meaning": "menu",
+    "audio": "audio/ja-095.mp3"
+  },
+  {
+    "id": "ja-096",
+    "sentence": "これをください。",
+    "cloze": "これ",
+    "answer": "これ",
+    "accepted_answers": [],
+    "lemma": "これ",
+    "meaning": "this",
+    "audio": "audio/ja-096.mp3"
+  },
+  {
+    "id": "ja-097",
+    "sentence": "これはいくらですか。",
+    "cloze": "いくら",
+    "answer": "いくら",
+    "accepted_answers": [],
+    "lemma": "いくら",
+    "meaning": "how much",
+    "audio": "audio/ja-097.mp3"
+  },
+  {
+    "id": "ja-098",
+    "sentence": "全部で千円です。",
+    "cloze": "千円",
+    "answer": "千円",
+    "accepted_answers": [],
+    "lemma": "千円",
+    "meaning": "one thousand yen",
+    "audio": "audio/ja-098.mp3"
+  },
+  {
+    "id": "ja-099",
+    "sentence": "カードで払えますか。",
+    "cloze": "カードで",
+    "answer": "カードで",
+    "accepted_answers": [],
+    "lemma": "カード",
+    "meaning": "by card",
+    "audio": "audio/ja-099.mp3"
+  },
+  {
+    "id": "ja-100",
+    "sentence": "袋は要りません。",
+    "cloze": "要りません",
+    "answer": "要りません",
+    "accepted_answers": [],
+    "lemma": "要る",
+    "meaning": "do not need",
+    "audio": "audio/ja-100.mp3"
+  },
+  {
+    "id": "ja-101",
+    "sentence": "毎日本を読みます。",
+    "cloze": "読みます",
+    "answer": "読みます",
+    "accepted_answers": [],
+    "lemma": "読む",
+    "meaning": "read",
+    "audio": "audio/ja-101.mp3"
+  },
+  {
+    "id": "ja-102",
+    "sentence": "夜十一時に寝ます。",
+    "cloze": "寝ます",
+    "answer": "寝ます",
+    "accepted_answers": [],
+    "lemma": "寝る",
+    "meaning": "sleep",
+    "audio": "audio/ja-102.mp3"
+  },
+  {
+    "id": "ja-103",
+    "sentence": "朝シャワーを浴びます。",
+    "cloze": "浴びます",
+    "answer": "浴びます",
+    "accepted_answers": [],
+    "lemma": "浴びる",
+    "meaning": "take a shower",
+    "audio": "audio/ja-103.mp3"
+  },
+  {
+    "id": "ja-104",
+    "sentence": "食事の後で歯を磨きます。",
+    "cloze": "磨きます",
+    "answer": "磨きます",
+    "accepted_answers": [],
+    "lemma": "磨く",
+    "meaning": "brush",
+    "audio": "audio/ja-104.mp3"
+  },
+  {
+    "id": "ja-105",
+    "sentence": "音楽を聞きます。",
+    "cloze": "聞きます",
+    "answer": "聞きます",
+    "accepted_answers": [],
+    "lemma": "聞く",
+    "meaning": "listen",
+    "audio": "audio/ja-105.mp3"
+  },
+  {
+    "id": "ja-106",
+    "sentence": "公園で写真を撮ります。",
+    "cloze": "撮ります",
+    "answer": "撮ります",
+    "accepted_answers": [],
+    "lemma": "撮る",
+    "meaning": "take a photograph",
+    "audio": "audio/ja-106.mp3"
+  },
+  {
+    "id": "ja-107",
+    "sentence": "家族に手紙を書きます。",
+    "cloze": "書きます",
+    "answer": "書きます",
+    "accepted_answers": [],
+    "lemma": "書く",
+    "meaning": "write",
+    "audio": "audio/ja-107.mp3"
+  },
+  {
+    "id": "ja-108",
+    "sentence": "ドアを開けます。",
+    "cloze": "開けます",
+    "answer": "開けます",
+    "accepted_answers": [],
+    "lemma": "開ける",
+    "meaning": "open",
+    "audio": "audio/ja-108.mp3"
+  },
+  {
+    "id": "ja-109",
+    "sentence": "窓を閉めてください。",
+    "cloze": "閉めて",
+    "answer": "閉めて",
+    "accepted_answers": [],
+    "lemma": "閉める",
+    "meaning": "close",
+    "audio": "audio/ja-109.mp3"
+  },
+  {
+    "id": "ja-110",
+    "sentence": "部屋の電気をつけます。",
+    "cloze": "つけます",
+    "answer": "つけます",
+    "accepted_answers": [],
+    "lemma": "つける",
+    "meaning": "turn on",
+    "audio": "audio/ja-110.mp3"
+  },
+  {
+    "id": "ja-111",
+    "sentence": "寝る前にテレビを消します。",
+    "cloze": "消します",
+    "answer": "消します",
+    "accepted_answers": [],
+    "lemma": "消す",
+    "meaning": "turn off",
+    "audio": "audio/ja-111.mp3"
+  },
+  {
+    "id": "ja-112",
+    "sentence": "今日は忙しいです。",
+    "cloze": "忙しいです",
+    "answer": "忙しいです",
+    "accepted_answers": [],
+    "lemma": "忙しい",
+    "meaning": "busy",
+    "audio": "audio/ja-112.mp3"
+  },
+  {
+    "id": "ja-113",
+    "sentence": "この道は広いです。",
+    "cloze": "広いです",
+    "answer": "広いです",
+    "accepted_answers": [],
+    "lemma": "広い",
+    "meaning": "wide",
+    "audio": "audio/ja-113.mp3"
+  },
+  {
+    "id": "ja-114",
+    "sentence": "あの店は安いです。",
+    "cloze": "安いです",
+    "answer": "安いです",
+    "accepted_answers": [],
+    "lemma": "安い",
+    "meaning": "inexpensive",
+    "audio": "audio/ja-114.mp3"
+  },
+  {
+    "id": "ja-115",
+    "sentence": "この箱は重いです。",
+    "cloze": "重いです",
+    "answer": "重いです",
+    "accepted_answers": [],
+    "lemma": "重い",
+    "meaning": "heavy",
+    "audio": "audio/ja-115.mp3"
+  },
+  {
+    "id": "ja-116",
+    "sentence": "私の部屋は明るいです。",
+    "cloze": "明るいです",
+    "answer": "明るいです",
+    "accepted_answers": [],
+    "lemma": "明るい",
+    "meaning": "bright",
+    "audio": "audio/ja-116.mp3"
+  },
+  {
+    "id": "ja-117",
+    "sentence": "今日は寒くないです。",
+    "cloze": "寒くないです",
+    "answer": "寒くないです",
+    "accepted_answers": [],
+    "lemma": "寒い",
+    "meaning": "not cold",
+    "audio": "audio/ja-117.mp3"
+  },
+  {
+    "id": "ja-118",
+    "sentence": "この町は便利です。",
+    "cloze": "便利です",
+    "answer": "便利です",
+    "accepted_answers": [],
+    "lemma": "便利",
+    "meaning": "convenient",
+    "audio": "audio/ja-118.mp3"
+  },
+  {
+    "id": "ja-119",
+    "sentence": "この電車は静かではありません。",
+    "cloze": "静かではありません",
+    "answer": "静かではありません",
+    "accepted_answers": [],
+    "lemma": "静か",
+    "meaning": "not quiet",
+    "audio": "audio/ja-119.mp3"
+  },
+  {
+    "id": "ja-120",
+    "sentence": "七時に起きます。",
+    "cloze": "に",
+    "answer": "に",
+    "accepted_answers": [],
+    "lemma": "に",
+    "meaning": "at (a time)",
+    "audio": "audio/ja-120.mp3"
+  },
+  {
+    "id": "ja-121",
+    "sentence": "友達と話します。",
+    "cloze": "と",
+    "answer": "と",
+    "accepted_answers": [],
+    "lemma": "と",
+    "meaning": "with",
+    "audio": "audio/ja-121.mp3"
+  },
+  {
+    "id": "ja-122",
+    "sentence": "バスで学校へ行きます。",
+    "cloze": "で",
+    "answer": "で",
+    "accepted_answers": [],
+    "lemma": "で",
+    "meaning": "by; using",
+    "audio": "audio/ja-122.mp3"
+  },
+  {
+    "id": "ja-123",
+    "sentence": "水を飲みます。",
+    "cloze": "を",
+    "answer": "を",
+    "accepted_answers": [],
+    "lemma": "を",
+    "meaning": "direct-object particle",
+    "audio": "audio/ja-123.mp3"
+  },
+  {
+    "id": "ja-124",
+    "sentence": "庭に猫がいます。",
+    "cloze": "が",
+    "answer": "が",
+    "accepted_answers": [],
+    "lemma": "が",
+    "meaning": "subject particle",
+    "audio": "audio/ja-124.mp3"
+  },
+  {
+    "id": "ja-125",
+    "sentence": "本も買います。",
+    "cloze": "も",
+    "answer": "も",
+    "accepted_answers": [],
+    "lemma": "も",
+    "meaning": "also",
+    "audio": "audio/ja-125.mp3"
+  },
+  {
+    "id": "ja-126",
+    "sentence": "明日は映画を見たいです。",
+    "cloze": "見たいです",
+    "answer": "見たいです",
+    "accepted_answers": [],
+    "lemma": "見る",
+    "meaning": "want to see",
+    "audio": "audio/ja-126.mp3"
+  },
+  {
+    "id": "ja-127",
+    "sentence": "週末は買い物をするつもりです。",
+    "cloze": "つもりです",
+    "answer": "つもりです",
+    "accepted_answers": [],
+    "lemma": "つもり",
+    "meaning": "intend to",
+    "audio": "audio/ja-127.mp3"
+  },
+  {
+    "id": "ja-128",
+    "sentence": "来年、日本へ行く予定です。",
+    "cloze": "予定です",
+    "answer": "予定です",
+    "accepted_answers": [],
+    "lemma": "予定",
+    "meaning": "plan; schedule",
+    "audio": "audio/ja-128.mp3"
+  },
+  {
+    "id": "ja-129",
+    "sentence": "一緒に昼ご飯を食べませんか。",
+    "cloze": "食べませんか",
+    "answer": "食べませんか",
+    "accepted_answers": [],
+    "lemma": "食べる",
+    "meaning": "would you like to eat",
+    "audio": "audio/ja-129.mp3"
+  },
+  {
+    "id": "ja-130",
+    "sentence": "はい、ぜひ行きましょう。",
+    "cloze": "行きましょう",
+    "answer": "行きましょう",
+    "accepted_answers": [],
+    "lemma": "行く",
+    "meaning": "let's go",
+    "audio": "audio/ja-130.mp3"
+  },
+  {
+    "id": "ja-131",
+    "sentence": "コーヒーよりお茶が好きです。",
+    "cloze": "より",
+    "answer": "より",
+    "accepted_answers": [],
+    "lemma": "より",
+    "meaning": "than",
+    "audio": "audio/ja-131.mp3"
+  },
+  {
+    "id": "ja-132",
+    "sentence": "私は犬より猫のほうが好きです。",
+    "cloze": "ほう",
+    "answer": "ほう",
+    "accepted_answers": [],
+    "lemma": "ほう",
+    "meaning": "the preferred one",
+    "audio": "audio/ja-132.mp3"
+  },
+  {
+    "id": "ja-133",
+    "sentence": "料理をするのが好きです。",
+    "cloze": "のが好きです",
+    "answer": "のが好きです",
+    "accepted_answers": [],
+    "lemma": "のが好き",
+    "meaning": "like doing",
+    "audio": "audio/ja-133.mp3"
+  },
+  {
+    "id": "ja-134",
+    "sentence": "私は少し泳ぐことができます。",
+    "cloze": "ことができます",
+    "answer": "ことができます",
+    "accepted_answers": [],
+    "lemma": "ことができる",
+    "meaning": "can do",
+    "audio": "audio/ja-134.mp3"
+  },
+  {
+    "id": "ja-135",
+    "sentence": "ここで写真を撮ってもいいですか。",
+    "cloze": "撮ってもいいですか",
+    "answer": "撮ってもいいですか",
+    "accepted_answers": [],
+    "lemma": "撮る",
+    "meaning": "may I take a photograph",
+    "audio": "audio/ja-135.mp3"
+  },
+  {
+    "id": "ja-136",
+    "sentence": "はい、入ってもいいです。",
+    "cloze": "入ってもいいです",
+    "answer": "入ってもいいです",
+    "accepted_answers": [],
+    "lemma": "入る",
+    "meaning": "may enter",
+    "audio": "audio/ja-136.mp3"
+  },
+  {
+    "id": "ja-137",
+    "sentence": "ここでたばこを吸ってはいけません。",
+    "cloze": "吸ってはいけません",
+    "answer": "吸ってはいけません",
+    "accepted_answers": [],
+    "lemma": "吸う",
+    "meaning": "must not smoke",
+    "audio": "audio/ja-137.mp3"
+  },
+  {
+    "id": "ja-138",
+    "sentence": "窓を開けてもらえますか。",
+    "cloze": "もらえますか",
+    "answer": "もらえますか",
+    "accepted_answers": [],
+    "lemma": "もらう",
+    "meaning": "could you",
+    "audio": "audio/ja-138.mp3"
+  },
+  {
+    "id": "ja-139",
+    "sentence": "荷物を持ちましょうか。",
+    "cloze": "持ちましょうか",
+    "answer": "持ちましょうか",
+    "accepted_answers": [],
+    "lemma": "持つ",
+    "meaning": "shall I carry it",
+    "audio": "audio/ja-139.mp3"
+  },
+  {
+    "id": "ja-140",
+    "sentence": "昨日スーパーへ行きました。",
+    "cloze": "行きました",
+    "answer": "行きました",
+    "accepted_answers": [],
+    "lemma": "行く",
+    "meaning": "went",
+    "audio": "audio/ja-140.mp3"
+  },
+  {
+    "id": "ja-141",
+    "sentence": "先週友達に会いました。",
+    "cloze": "会いました",
+    "answer": "会いました",
+    "accepted_answers": [],
+    "lemma": "会う",
+    "meaning": "met",
+    "audio": "audio/ja-141.mp3"
+  },
+  {
+    "id": "ja-142",
+    "sentence": "朝ご飯を食べませんでした。",
+    "cloze": "食べませんでした",
+    "answer": "食べませんでした",
+    "accepted_answers": [],
+    "lemma": "食べる",
+    "meaning": "did not eat",
+    "audio": "audio/ja-142.mp3"
+  },
+  {
+    "id": "ja-143",
+    "sentence": "昨日は雨でした。",
+    "cloze": "雨でした",
+    "answer": "雨でした",
+    "accepted_answers": [],
+    "lemma": "雨",
+    "meaning": "was rainy",
+    "audio": "audio/ja-143.mp3"
+  },
+  {
+    "id": "ja-144",
+    "sentence": "旅行は楽しかったです。",
+    "cloze": "楽しかったです",
+    "answer": "楽しかったです",
+    "accepted_answers": [],
+    "lemma": "楽しい",
+    "meaning": "was enjoyable",
+    "audio": "audio/ja-144.mp3"
+  },
+  {
+    "id": "ja-145",
+    "sentence": "ホテルはきれいでした。",
+    "cloze": "きれいでした",
+    "answer": "きれいでした",
+    "accepted_answers": [],
+    "lemma": "きれい",
+    "meaning": "was clean",
+    "audio": "audio/ja-145.mp3"
+  },
+  {
+    "id": "ja-146",
+    "sentence": "電車は混んでいました。",
+    "cloze": "混んでいました",
+    "answer": "混んでいました",
+    "accepted_answers": [],
+    "lemma": "混む",
+    "meaning": "was crowded",
+    "audio": "audio/ja-146.mp3"
+  },
+  {
+    "id": "ja-147",
+    "sentence": "財布をなくしました。",
+    "cloze": "なくしました",
+    "answer": "なくしました",
+    "accepted_answers": [],
+    "lemma": "なくす",
+    "meaning": "lost",
+    "audio": "audio/ja-147.mp3"
+  },
+  {
+    "id": "ja-148",
+    "sentence": "なくした鍵はすぐに見つかりました。",
+    "cloze": "見つかりました",
+    "answer": "見つかりました",
+    "accepted_answers": [],
+    "lemma": "見つかる",
+    "meaning": "was found",
+    "audio": "audio/ja-148.mp3"
+  },
+  {
+    "id": "ja-149",
+    "sentence": "大丈夫です。",
+    "cloze": "大丈夫です",
+    "answer": "大丈夫です",
+    "accepted_answers": [],
+    "lemma": "大丈夫",
+    "meaning": "all right",
+    "audio": "audio/ja-149.mp3"
+  },
+  {
+    "id": "ja-150",
+    "sentence": "また明日。",
+    "cloze": "また明日",
+    "answer": "また明日",
+    "accepted_answers": [],
+    "lemma": "また明日",
+    "meaning": "see you tomorrow",
+    "audio": "audio/ja-150.mp3"
+  }
+]
