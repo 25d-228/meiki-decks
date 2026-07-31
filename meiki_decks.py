@@ -94,6 +94,19 @@ DECKS = {
         "voice": "Ono_Anna",
         "tts_language": "Japanese",
     },
+    "ko-KR-foundation-1": {
+        "cards_path": ROOT / "cards" / "ko-KR-foundation-1.json",
+        "archive_path": ROOT / "dist" / "meiki-ko-kr-foundation-1-v0.1.0.meiki",
+        "handoff_path": ROOT / "dist" / "README-ko-KR-foundation-1.txt",
+        "card_prefix": "ko-f1-",
+        "count": 150,
+        "deck_id": "meiki-ko-kr-foundation-1",
+        "name": "Korean Foundation 1",
+        "description": "150 foundation Korean audio-guided typed-cloze cards for practical contemporary South Korean usage.",
+        "language_tag": "ko-KR",
+        "voice": "Sohee",
+        "tts_language": "Korean",
+    },
 }
 REQUIRED_FIELDS = (
     "id",
