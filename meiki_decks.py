@@ -42,6 +42,19 @@ DECKS = {
         "voice": "Ono_Anna",
         "tts_language": "Japanese",
     },
+    "ja-JP-elementary-1": {
+        "cards_path": ROOT / "cards" / "ja-JP-elementary-1.json",
+        "archive_path": ROOT / "dist" / "meiki-ja-jp-elementary-1-v0.1.0.meiki",
+        "handoff_path": ROOT / "dist" / "README-ja-JP-elementary-1.txt",
+        "card_prefix": "ja-e1-",
+        "count": 200,
+        "deck_id": "meiki-ja-jp-elementary-1",
+        "name": "Japanese Elementary 1",
+        "description": "200 elementary Japanese audio-guided typed-cloze cards covering the N4 range.",
+        "language_tag": "ja-JP",
+        "voice": "Ono_Anna",
+        "tts_language": "Japanese",
+    },
 }
 REQUIRED_FIELDS = (
     "id",
