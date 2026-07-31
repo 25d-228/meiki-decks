@@ -81,4 +81,8 @@ dist/README-ja-JP-elementary-1.txt
 audio/ja-JP-intermediate-1/ja-i1-001.mp3 through ja-i1-250.mp3
 dist/meiki-ja-jp-intermediate-1-v0.1.0.meiki
 dist/README-ja-JP-intermediate-1.txt
+
+audio/ja-JP-upper-intermediate-1/ja-u1-001.mp3 through ja-u1-250.mp3
+dist/meiki-ja-jp-upper-intermediate-1-v0.1.0.meiki
+dist/README-ja-JP-upper-intermediate-1.txt
 ```
