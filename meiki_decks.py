@@ -107,6 +107,20 @@ DECKS = {
         "voice": "Sohee",
         "tts_language": "Korean",
     },
+    "zh-Hans-CN-foundation-1": {
+        "cards_path": ROOT / "cards" / "zh-Hans-CN-foundation-1.json",
+        "archive_path": ROOT / "dist" / "meiki-zh-hans-cn-foundation-1-v0.1.0.meiki",
+        "handoff_path": ROOT / "dist" / "README-zh-Hans-CN-foundation-1.txt",
+        "card_prefix": "zh-f1-",
+        "count": 150,
+        "deck_id": "meiki-zh-hans-cn-foundation-1",
+        "name": "Mandarin Foundation 1",
+        "description": "150 foundation Mandarin audio-guided typed-cloze cards for practical Mainland Standard Chinese.",
+        "language_tag": "zh-Hans-CN",
+        "voice": "Vivian",
+        "tts_language": "Chinese",
+        "requires_reading": True,
+    },
 }
 REQUIRED_FIELDS = (
     "id",
@@ -168,6 +182,13 @@ def validation_errors(cards, require_audio, deck, require_complete=True):
                 not isinstance(card[field], str) or not card[field].strip()
             ):
                 errors.append(f"{label}: {field} must be a nonempty string")
+
+        if deck.get("requires_reading") and "reading" not in card:
+            errors.append(f"{label}: missing reading")
+        if "reading" in card and (
+            not isinstance(card["reading"], str) or not card["reading"].strip()
+        ):
+            errors.append(f"{label}: reading must be a nonempty string")
 
         accepted_answers = card.get("accepted_answers")
         if not isinstance(accepted_answers, list):
@@ -506,6 +527,34 @@ def make_note(card, media, deck):
             }
         )
 
+    annotations = [
+        {
+            "id": f"{card_id}-annotation-lemma",
+            "label": "Lemma",
+            "value": card["lemma"],
+            "language_tag": deck["language_tag"],
+            "direction": "auto",
+        },
+        {
+            "id": f"{card_id}-annotation-meaning",
+            "label": "Meaning",
+            "value": card["meaning"],
+            "language_tag": "en",
+            "direction": "auto",
+        },
+    ]
+    if card.get("reading"):
+        annotations.insert(
+            1,
+            {
+                "id": f"{card_id}-annotation-reading",
+                "label": "Reading",
+                "value": card["reading"],
+                "language_tag": "zh-Latn-pinyin",
+                "direction": "auto",
+            },
+        )
+
     source_item = {
         "id": f"{card_id}-note",
         "deck_id": deck["deck_id"],
@@ -513,22 +562,7 @@ def make_note(card, media, deck):
         "language_tag": deck["language_tag"],
         "direction": "auto",
         "tags": [],
-        "annotations": [
-            {
-                "id": f"{card_id}-annotation-lemma",
-                "label": "Lemma",
-                "value": card["lemma"],
-                "language_tag": deck["language_tag"],
-                "direction": "auto",
-            },
-            {
-                "id": f"{card_id}-annotation-meaning",
-                "label": "Meaning",
-                "value": card["meaning"],
-                "language_tag": "en",
-                "direction": "auto",
-            },
-        ],
+        "annotations": annotations,
         "explanation": None,
         "media": [
             make_audio_reference(card, media, "prompt_audio", deck),
