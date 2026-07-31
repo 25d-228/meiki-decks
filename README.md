@@ -77,4 +77,8 @@ dist/README-ja-JP-foundation-2.txt
 audio/ja-JP-elementary-1/ja-e1-001.mp3 through ja-e1-200.mp3
 dist/meiki-ja-jp-elementary-1-v0.1.0.meiki
 dist/README-ja-JP-elementary-1.txt
+
+audio/ja-JP-intermediate-1/ja-i1-001.mp3 through ja-i1-250.mp3
+dist/meiki-ja-jp-intermediate-1-v0.1.0.meiki
+dist/README-ja-JP-intermediate-1.txt
 ```

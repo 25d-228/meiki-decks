@@ -55,6 +55,19 @@ DECKS = {
         "voice": "Ono_Anna",
         "tts_language": "Japanese",
     },
+    "ja-JP-intermediate-1": {
+        "cards_path": ROOT / "cards" / "ja-JP-intermediate-1.json",
+        "archive_path": ROOT / "dist" / "meiki-ja-jp-intermediate-1-v0.1.0.meiki",
+        "handoff_path": ROOT / "dist" / "README-ja-JP-intermediate-1.txt",
+        "card_prefix": "ja-i1-",
+        "count": 250,
+        "deck_id": "meiki-ja-jp-intermediate-1",
+        "name": "Japanese Intermediate 1",
+        "description": "250 intermediate Japanese audio-guided typed-cloze cards covering the N3 range.",
+        "language_tag": "ja-JP",
+        "voice": "Ono_Anna",
+        "tts_language": "Japanese",
+    },
 }
 REQUIRED_FIELDS = (
     "id",
