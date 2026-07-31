@@ -121,6 +121,19 @@ DECKS = {
         "tts_language": "Chinese",
         "requires_reading": True,
     },
+    "fr-FR-foundation-1": {
+        "cards_path": ROOT / "cards" / "fr-FR-foundation-1.json",
+        "archive_path": ROOT / "dist" / "meiki-fr-fr-foundation-1-v0.1.0.meiki",
+        "handoff_path": ROOT / "dist" / "README-fr-FR-foundation-1.txt",
+        "card_prefix": "fr-f1-",
+        "count": 150,
+        "deck_id": "meiki-fr-fr-foundation-1",
+        "name": "French Foundation 1",
+        "description": "150 foundation French audio-guided typed-cloze cards for practical contemporary metropolitan usage.",
+        "language_tag": "fr-FR",
+        "voice": "Serena",
+        "tts_language": "French",
+    },
 }
 REQUIRED_FIELDS = (
     "id",

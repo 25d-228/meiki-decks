@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "fr-f1-001",
+    "sentence": "Je prends le métro tous les matins.",
+    "cloze": "le métro",
+    "answer": "le métro",
+    "accepted_answers": [],
+    "lemma": "métro",
+    "meaning": "the metro",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-001.mp3"
+  },
+  {
+    "id": "fr-f1-002",
+    "sentence": "Bonjour, comment allez-vous ?",
+    "cloze": "comment allez-vous",
+    "answer": "comment allez-vous",
+    "accepted_answers": [],
+    "lemma": "aller",
+    "meaning": "how are you",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-002.mp3"
+  },
+  {
+    "id": "fr-f1-003",
+    "sentence": "Je m'appelle Camille et j'habite à Lyon.",
+    "cloze": "m'appelle Camille",
+    "answer": "m'appelle Camille",
+    "accepted_answers": [],
+    "lemma": "s'appeler",
+    "meaning": "my name is Camille",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-003.mp3"
+  },
+  {
+    "id": "fr-f1-004",
+    "sentence": "Nous avons deux enfants.",
+    "cloze": "avons deux enfants",
+    "answer": "avons deux enfants",
+    "accepted_answers": [],
+    "lemma": "avoir deux enfants",
+    "meaning": "have two children",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-004.mp3"
+  },
+  {
+    "id": "fr-f1-005",
+    "sentence": "C'est mon frère, il travaille à Marseille.",
+    "cloze": "mon frère",
+    "answer": "mon frère",
+    "accepted_answers": [],
+    "lemma": "frère",
+    "meaning": "my brother",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-005.mp3"
+  },
+  {
+    "id": "fr-f1-006",
+    "sentence": "Il y a une clé sur la table.",
+    "cloze": "une clé",
+    "answer": "une clé",
+    "accepted_answers": [],
+    "lemma": "clé",
+    "meaning": "a key",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-006.mp3"
+  },
+  {
+    "id": "fr-f1-007",
+    "sentence": "Je bois du café au petit-déjeuner.",
+    "cloze": "du café",
+    "answer": "du café",
+    "accepted_answers": [],
+    "lemma": "café",
+    "meaning": "some coffee",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-007.mp3"
+  },
+  {
+    "id": "fr-f1-008",
+    "sentence": "Je ne travaille pas le samedi.",
+    "cloze": "ne travaille pas",
+    "answer": "ne travaille pas",
+    "accepted_answers": [],
+    "lemma": "ne pas travailler",
+    "meaning": "do not work",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-008.mp3"
+  },
+  {
+    "id": "fr-f1-009",
+    "sentence": "Où est la gare, s'il vous plaît ?",
+    "cloze": "Où est la gare",
+    "answer": "Où est la gare",
+    "accepted_answers": [],
+    "lemma": "où est la gare",
+    "meaning": "where is the train station",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-009.mp3"
+  },
+  {
+    "id": "fr-f1-010",
+    "sentence": "Ce soir, je vais préparer le dîner.",
+    "cloze": "vais préparer le dîner",
+    "answer": "vais préparer le dîner",
+    "accepted_answers": [],
+    "lemma": "préparer le dîner",
+    "meaning": "am going to prepare dinner",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-010.mp3"
+  },
+  {
+    "id": "fr-f1-011",
+    "sentence": "Paul est français et il habite à Lille.",
+    "cloze": "est français",
+    "answer": "est français",
+    "accepted_answers": [],
+    "lemma": "être français",
+    "meaning": "is French",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-011.mp3"
+  },
+  {
+    "id": "fr-f1-012",
+    "sentence": "Nina est étudiante en médecine.",
+    "cloze": "est étudiante",
+    "answer": "est étudiante",
+    "accepted_answers": [],
+    "lemma": "être étudiante",
+    "meaning": "is a student",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-012.mp3"
+  },
+  {
+    "id": "fr-f1-013",
+    "sentence": "Mon père est professeur de mathématiques.",
+    "cloze": "Mon père",
+    "answer": "Mon père",
+    "accepted_answers": [],
+    "lemma": "père",
+    "meaning": "my father",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-013.mp3"
+  },
+  {
+    "id": "fr-f1-014",
+    "sentence": "Ma mère travaille dans une pharmacie.",
+    "cloze": "Ma mère",
+    "answer": "Ma mère",
+    "accepted_answers": [],
+    "lemma": "mère",
+    "meaning": "my mother",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-014.mp3"
+  },
+  {
+    "id": "fr-f1-015",
+    "sentence": "J'ai une grande sœur et un petit frère.",
+    "cloze": "une grande sœur",
+    "answer": "une grande sœur",
+    "accepted_answers": [],
+    "lemma": "grande sœur",
+    "meaning": "an older sister",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-015.mp3"
+  },
+  {
+    "id": "fr-f1-016",
+    "sentence": "Mes grands-parents habitent à la campagne.",
+    "cloze": "Mes grands-parents",
+    "answer": "Mes grands-parents",
+    "accepted_answers": [],
+    "lemma": "grands-parents",
+    "meaning": "my grandparents",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-016.mp3"
+  },
+  {
+    "id": "fr-f1-017",
+    "sentence": "Voici notre nouvelle voisine.",
+    "cloze": "notre nouvelle voisine",
+    "answer": "notre nouvelle voisine",
+    "accepted_answers": [],
+    "lemma": "nouvelle voisine",
+    "meaning": "our new neighbor",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-017.mp3"
+  },
+  {
+    "id": "fr-f1-018",
+    "sentence": "Ce sont mes collègues de bureau.",
+    "cloze": "mes collègues",
+    "answer": "mes collègues",
+    "accepted_answers": [],
+    "lemma": "collègues",
+    "meaning": "my coworkers",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-018.mp3"
+  },
+  {
+    "id": "fr-f1-019",
+    "sentence": "J'étudie le français à l'université.",
+    "cloze": "étudie le français",
+    "answer": "étudie le français",
+    "accepted_answers": [],
+    "lemma": "étudier le français",
+    "meaning": "study French",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-019.mp3"
+  },
+  {
+    "id": "fr-f1-020",
+    "sentence": "Nous parlons anglais au travail.",
+    "cloze": "parlons anglais",
+    "answer": "parlons anglais",
+    "accepted_answers": [],
+    "lemma": "parler anglais",
+    "meaning": "speak English",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-020.mp3"
+  },
+  {
+    "id": "fr-f1-021",
+    "sentence": "Elle finit ses cours à cinq heures.",
+    "cloze": "finit ses cours",
+    "answer": "finit ses cours",
+    "accepted_answers": [],
+    "lemma": "finir ses cours",
+    "meaning": "finishes her classes",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-021.mp3"
+  },
+  {
+    "id": "fr-f1-022",
+    "sentence": "Ils vendent des livres et des journaux.",
+    "cloze": "des livres et des journaux",
+    "answer": "des livres et des journaux",
+    "accepted_answers": [],
+    "lemma": "livres et journaux",
+    "meaning": "books and newspapers",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-022.mp3"
+  },
+  {
+    "id": "fr-f1-023",
+    "sentence": "C'est un petit appartement lumineux.",
+    "cloze": "un petit appartement",
+    "answer": "un petit appartement",
+    "accepted_answers": [],
+    "lemma": "petit appartement",
+    "meaning": "a small apartment",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-023.mp3"
+  },
+  {
+    "id": "fr-f1-024",
+    "sentence": "Le serveur est très gentil avec les clients.",
+    "cloze": "très gentil",
+    "answer": "très gentil",
+    "accepted_answers": [],
+    "lemma": "gentil",
+    "meaning": "very kind",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-024.mp3"
+  },
+  {
+    "id": "fr-f1-025",
+    "sentence": "La cuisine est petite mais pratique.",
+    "cloze": "petite mais pratique",
+    "answer": "petite mais pratique",
+    "accepted_answers": [],
+    "lemma": "petite et pratique",
+    "meaning": "small but practical",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-025.mp3"
+  },
+  {
+    "id": "fr-f1-026",
+    "sentence": "Les fenêtres sont ouvertes.",
+    "cloze": "sont ouvertes",
+    "answer": "sont ouvertes",
+    "accepted_answers": [],
+    "lemma": "être ouvertes",
+    "meaning": "are open",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-026.mp3"
+  },
+  {
+    "id": "fr-f1-027",
+    "sentence": "Il y a un canapé dans le salon.",
+    "cloze": "un canapé",
+    "answer": "un canapé",
+    "accepted_answers": [],
+    "lemma": "canapé",
+    "meaning": "a sofa",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-027.mp3"
+  },
+  {
+    "id": "fr-f1-028",
+    "sentence": "Il n'y a pas de télévision dans la chambre.",
+    "cloze": "pas de télévision",
+    "answer": "pas de télévision",
+    "accepted_answers": [],
+    "lemma": "pas de télévision",
+    "meaning": "no television",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-028.mp3"
+  },
+  {
+    "id": "fr-f1-029",
+    "sentence": "J'ai besoin d'un stylo bleu.",
+    "cloze": "d'un stylo bleu",
+    "answer": "d'un stylo bleu",
+    "accepted_answers": [],
+    "lemma": "stylo bleu",
+    "meaning": "a blue pen",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-029.mp3"
+  },
+  {
+    "id": "fr-f1-030",
+    "sentence": "Cette valise est trop lourde.",
+    "cloze": "Cette valise",
+    "answer": "Cette valise",
+    "accepted_answers": [],
+    "lemma": "cette valise",
+    "meaning": "this suitcase",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-030.mp3"
+  },
+  {
+    "id": "fr-f1-031",
+    "sentence": "Nous sommes prêts à partir.",
+    "cloze": "sommes prêts",
+    "answer": "sommes prêts",
+    "accepted_answers": [],
+    "lemma": "être prêts",
+    "meaning": "are ready",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-031.mp3"
+  },
+  {
+    "id": "fr-f1-032",
+    "sentence": "Vous avez une réservation ?",
+    "cloze": "avez une réservation",
+    "answer": "avez une réservation",
+    "accepted_answers": [],
+    "lemma": "avoir une réservation",
+    "meaning": "have a reservation",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-032.mp3"
+  },
+  {
+    "id": "fr-f1-033",
+    "sentence": "Tu vas au bureau à pied.",
+    "cloze": "vas au bureau",
+    "answer": "vas au bureau",
+    "accepted_answers": [],
+    "lemma": "aller au bureau",
+    "meaning": "go to the office",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-033.mp3"
+  },
+  {
+    "id": "fr-f1-034",
+    "sentence": "Nous faisons les courses le vendredi.",
+    "cloze": "faisons les courses",
+    "answer": "faisons les courses",
+    "accepted_answers": [],
+    "lemma": "faire les courses",
+    "meaning": "do the shopping",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-034.mp3"
+  },
+  {
+    "id": "fr-f1-035",
+    "sentence": "Il fait chaud, je peux ouvrir la fenêtre ?",
+    "cloze": "peux ouvrir la fenêtre",
+    "answer": "peux ouvrir la fenêtre",
+    "accepted_answers": [],
+    "lemma": "pouvoir ouvrir",
+    "meaning": "may open the window",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-035.mp3"
+  },
+  {
+    "id": "fr-f1-036",
+    "sentence": "Elle veut apprendre à conduire.",
+    "cloze": "veut apprendre à conduire",
+    "answer": "veut apprendre à conduire",
+    "accepted_answers": [],
+    "lemma": "vouloir apprendre",
+    "meaning": "wants to learn to drive",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-036.mp3"
+  },
+  {
+    "id": "fr-f1-037",
+    "sentence": "Vous devez changer de train à Dijon.",
+    "cloze": "devez changer de train",
+    "answer": "devez changer de train",
+    "accepted_answers": [],
+    "lemma": "devoir changer de train",
+    "meaning": "must change trains",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-037.mp3"
+  },
+  {
+    "id": "fr-f1-038",
+    "sentence": "Je ne comprends pas cette phrase.",
+    "cloze": "ne comprends pas",
+    "answer": "ne comprends pas",
+    "accepted_answers": [],
+    "lemma": "ne pas comprendre",
+    "meaning": "do not understand",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-038.mp3"
+  },
+  {
+    "id": "fr-f1-039",
+    "sentence": "Il n'a pas de voiture.",
+    "cloze": "n'a pas de voiture",
+    "answer": "n'a pas de voiture",
+    "accepted_answers": [],
+    "lemma": "ne pas avoir de voiture",
+    "meaning": "does not have a car",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-039.mp3"
+  },
+  {
+    "id": "fr-f1-040",
+    "sentence": "Nous ne sortons jamais le lundi soir.",
+    "cloze": "ne sortons jamais",
+    "answer": "ne sortons jamais",
+    "accepted_answers": [],
+    "lemma": "ne jamais sortir",
+    "meaning": "never go out",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-040.mp3"
+  },
+  {
+    "id": "fr-f1-041",
+    "sentence": "Est-ce que vous parlez français ?",
+    "cloze": "Est-ce que vous parlez français",
+    "answer": "Est-ce que vous parlez français",
+    "accepted_answers": [],
+    "lemma": "parler français",
+    "meaning": "do you speak French",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-041.mp3"
+  },
+  {
+    "id": "fr-f1-042",
+    "sentence": "Vous habitez où, exactement ?",
+    "cloze": "habitez où",
+    "answer": "habitez où",
+    "accepted_answers": [],
+    "lemma": "habiter où",
+    "meaning": "where do you live",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-042.mp3"
+  },
+  {
+    "id": "fr-f1-043",
+    "sentence": "Quand commence le cours de français ?",
+    "cloze": "Quand commence le cours",
+    "answer": "Quand commence le cours",
+    "accepted_answers": [],
+    "lemma": "quand commencer",
+    "meaning": "when does the class start",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-043.mp3"
+  },
+  {
+    "id": "fr-f1-044",
+    "sentence": "Pourquoi prenez-vous le bus aujourd'hui ?",
+    "cloze": "Pourquoi prenez-vous le bus",
+    "answer": "Pourquoi prenez-vous le bus",
+    "accepted_answers": [],
+    "lemma": "pourquoi prendre le bus",
+    "meaning": "why are you taking the bus",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-044.mp3"
+  },
+  {
+    "id": "fr-f1-045",
+    "sentence": "Combien coûte ce pull rouge ?",
+    "cloze": "Combien coûte ce pull",
+    "answer": "Combien coûte ce pull",
+    "accepted_answers": [],
+    "lemma": "combien coûter",
+    "meaning": "how much does this sweater cost",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-045.mp3"
+  },
+  {
+    "id": "fr-f1-046",
+    "sentence": "Quel âge a votre fils ?",
+    "cloze": "Quel âge a votre fils",
+    "answer": "Quel âge a votre fils",
+    "accepted_answers": [],
+    "lemma": "quel âge avoir",
+    "meaning": "how old is your son",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-046.mp3"
+  },
+  {
+    "id": "fr-f1-047",
+    "sentence": "Excusez-moi, quelle heure est-il ?",
+    "cloze": "quelle heure est-il",
+    "answer": "quelle heure est-il",
+    "accepted_answers": [],
+    "lemma": "quelle heure",
+    "meaning": "what time is it",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-047.mp3"
+  },
+  {
+    "id": "fr-f1-048",
+    "sentence": "Qui est cette personne devant la porte ?",
+    "cloze": "cette personne",
+    "answer": "cette personne",
+    "accepted_answers": [],
+    "lemma": "cette personne",
+    "meaning": "this person",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-048.mp3"
+  },
+  {
+    "id": "fr-f1-049",
+    "sentence": "Qu'est-ce que vous cherchez ?",
+    "cloze": "Qu'est-ce que vous cherchez",
+    "answer": "Qu'est-ce que vous cherchez",
+    "accepted_answers": [],
+    "lemma": "chercher quoi",
+    "meaning": "what are you looking for",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-049.mp3"
+  },
+  {
+    "id": "fr-f1-050",
+    "sentence": "Mon sac est sous la chaise.",
+    "cloze": "Mon sac",
+    "answer": "Mon sac",
+    "accepted_answers": [],
+    "lemma": "mon sac",
+    "meaning": "my bag",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-050.mp3"
+  },
+  {
+    "id": "fr-f1-051",
+    "sentence": "Notre voiture est devant la maison.",
+    "cloze": "Notre voiture",
+    "answer": "Notre voiture",
+    "accepted_answers": [],
+    "lemma": "notre voiture",
+    "meaning": "our car",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-051.mp3"
+  },
+  {
+    "id": "fr-f1-052",
+    "sentence": "Leur école est près d'ici.",
+    "cloze": "Leur école",
+    "answer": "Leur école",
+    "accepted_answers": [],
+    "lemma": "leur école",
+    "meaning": "their school",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-052.mp3"
+  },
+  {
+    "id": "fr-f1-053",
+    "sentence": "J'aime beaucoup ce quartier.",
+    "cloze": "ce quartier",
+    "answer": "ce quartier",
+    "accepted_answers": [],
+    "lemma": "ce quartier",
+    "meaning": "this neighborhood",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-053.mp3"
+  },
+  {
+    "id": "fr-f1-054",
+    "sentence": "Regardez ces belles fleurs.",
+    "cloze": "ces belles fleurs",
+    "answer": "ces belles fleurs",
+    "accepted_answers": [],
+    "lemma": "belles fleurs",
+    "meaning": "these beautiful flowers",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-054.mp3"
+  },
+  {
+    "id": "fr-f1-055",
+    "sentence": "Pour la fête, je préfère cette robe noire.",
+    "cloze": "cette robe noire",
+    "answer": "cette robe noire",
+    "accepted_answers": [],
+    "lemma": "robe noire",
+    "meaning": "this black dress",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-055.mp3"
+  },
+  {
+    "id": "fr-f1-056",
+    "sentence": "Je me lève à sept heures en semaine.",
+    "cloze": "à sept heures",
+    "answer": "à sept heures",
+    "accepted_answers": [],
+    "lemma": "sept heures",
+    "meaning": "at seven o'clock",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-056.mp3"
+  },
+  {
+    "id": "fr-f1-057",
+    "sentence": "Il est huit heures et demie.",
+    "cloze": "huit heures et demie",
+    "answer": "huit heures et demie",
+    "accepted_answers": [],
+    "lemma": "huit heures et demie",
+    "meaning": "half past eight",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-057.mp3"
+  },
+  {
+    "id": "fr-f1-058",
+    "sentence": "Le train part à neuf heures et quart.",
+    "cloze": "neuf heures et quart",
+    "answer": "neuf heures et quart",
+    "accepted_answers": [],
+    "lemma": "neuf heures et quart",
+    "meaning": "a quarter past nine",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-058.mp3"
+  },
+  {
+    "id": "fr-f1-059",
+    "sentence": "J'ai rendez-vous lundi à trois heures.",
+    "cloze": "lundi à trois heures",
+    "answer": "lundi à trois heures",
+    "accepted_answers": [],
+    "lemma": "lundi à trois heures",
+    "meaning": "Monday at three o'clock",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-059.mp3"
+  },
+  {
+    "id": "fr-f1-060",
+    "sentence": "Mon anniversaire est le douze avril.",
+    "cloze": "le douze avril",
+    "answer": "le douze avril",
+    "accepted_answers": [],
+    "lemma": "douze avril",
+    "meaning": "April twelfth",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-060.mp3"
+  },
+  {
+    "id": "fr-f1-061",
+    "sentence": "Aujourd'hui, nous sommes le premier septembre.",
+    "cloze": "le premier septembre",
+    "answer": "le premier septembre",
+    "accepted_answers": [],
+    "lemma": "premier septembre",
+    "meaning": "September first",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-061.mp3"
+  },
+  {
+    "id": "fr-f1-062",
+    "sentence": "J'ai vingt-huit ans.",
+    "cloze": "vingt-huit ans",
+    "answer": "vingt-huit ans",
+    "accepted_answers": [],
+    "lemma": "vingt-huit ans",
+    "meaning": "twenty-eight years old",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-062.mp3"
+  },
+  {
+    "id": "fr-f1-063",
+    "sentence": "Avec les enfants, nous sommes cinq à la maison.",
+    "cloze": "cinq à la maison",
+    "answer": "cinq à la maison",
+    "accepted_answers": [],
+    "lemma": "être cinq",
+    "meaning": "there are five of us at home",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-063.mp3"
+  },
+  {
+    "id": "fr-f1-064",
+    "sentence": "Ce livre coûte dix-neuf euros.",
+    "cloze": "dix-neuf euros",
+    "answer": "dix-neuf euros",
+    "accepted_answers": [],
+    "lemma": "dix-neuf euros",
+    "meaning": "nineteen euros",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-064.mp3"
+  },
+  {
+    "id": "fr-f1-065",
+    "sentence": "Je voudrais trois croissants, s'il vous plaît.",
+    "cloze": "trois croissants",
+    "answer": "trois croissants",
+    "accepted_answers": [],
+    "lemma": "trois croissants",
+    "meaning": "three croissants",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-065.mp3"
+  },
+  {
+    "id": "fr-f1-066",
+    "sentence": "Il reste deux bouteilles d'eau dans le frigo.",
+    "cloze": "deux bouteilles d'eau",
+    "answer": "deux bouteilles d'eau",
+    "accepted_answers": [],
+    "lemma": "bouteille d'eau",
+    "meaning": "two bottles of water",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-066.mp3"
+  },
+  {
+    "id": "fr-f1-067",
+    "sentence": "Au marché, achetez un kilo de tomates.",
+    "cloze": "un kilo de tomates",
+    "answer": "un kilo de tomates",
+    "accepted_answers": [],
+    "lemma": "kilo de tomates",
+    "meaning": "a kilogram of tomatoes",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-067.mp3"
+  },
+  {
+    "id": "fr-f1-068",
+    "sentence": "Nous avons assez de pain pour tout le monde.",
+    "cloze": "assez de pain",
+    "answer": "assez de pain",
+    "accepted_answers": [],
+    "lemma": "assez de pain",
+    "meaning": "enough bread",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-068.mp3"
+  },
+  {
+    "id": "fr-f1-069",
+    "sentence": "Le matin, je mange du yaourt et des fruits.",
+    "cloze": "du yaourt",
+    "answer": "du yaourt",
+    "accepted_answers": [],
+    "lemma": "yaourt",
+    "meaning": "some yogurt",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-069.mp3"
+  },
+  {
+    "id": "fr-f1-070",
+    "sentence": "Elle prépare de la soupe pour ce soir.",
+    "cloze": "de la soupe",
+    "answer": "de la soupe",
+    "accepted_answers": [],
+    "lemma": "soupe",
+    "meaning": "some soup",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-070.mp3"
+  },
+  {
+    "id": "fr-f1-071",
+    "sentence": "Vous voulez de l'eau gazeuse ?",
+    "cloze": "de l'eau gazeuse",
+    "answer": "de l'eau gazeuse",
+    "accepted_answers": [],
+    "lemma": "eau gazeuse",
+    "meaning": "some sparkling water",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-071.mp3"
+  },
+  {
+    "id": "fr-f1-072",
+    "sentence": "Dans mon thé, je ne prends pas de sucre.",
+    "cloze": "pas de sucre",
+    "answer": "pas de sucre",
+    "accepted_answers": [],
+    "lemma": "pas de sucre",
+    "meaning": "no sugar",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-072.mp3"
+  },
+  {
+    "id": "fr-f1-073",
+    "sentence": "Pour le petit-déjeuner, je mange une tartine.",
+    "cloze": "une tartine",
+    "answer": "une tartine",
+    "accepted_answers": [],
+    "lemma": "tartine",
+    "meaning": "a slice of bread",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-073.mp3"
+  },
+  {
+    "id": "fr-f1-074",
+    "sentence": "À midi, nous déjeunons à la cantine.",
+    "cloze": "déjeunons à la cantine",
+    "answer": "déjeunons à la cantine",
+    "accepted_answers": [],
+    "lemma": "déjeuner à la cantine",
+    "meaning": "eat lunch in the cafeteria",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-074.mp3"
+  },
+  {
+    "id": "fr-f1-075",
+    "sentence": "Le soir, je rentre vers dix-huit heures.",
+    "cloze": "rentre vers dix-huit heures",
+    "answer": "rentre vers dix-huit heures",
+    "accepted_answers": [],
+    "lemma": "rentrer vers dix-huit heures",
+    "meaning": "get home around six in the evening",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-075.mp3"
+  },
+  {
+    "id": "fr-f1-076",
+    "sentence": "Après le dîner, nous faisons une promenade.",
+    "cloze": "faisons une promenade",
+    "answer": "faisons une promenade",
+    "accepted_answers": [],
+    "lemma": "faire une promenade",
+    "meaning": "take a walk",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-076.mp3"
+  },
+  {
+    "id": "fr-f1-077",
+    "sentence": "Je me couche toujours avant minuit.",
+    "cloze": "me couche toujours avant minuit",
+    "answer": "me couche toujours avant minuit",
+    "accepted_answers": [],
+    "lemma": "se coucher avant minuit",
+    "meaning": "go to bed before midnight",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-077.mp3"
+  },
+  {
+    "id": "fr-f1-078",
+    "sentence": "Le dimanche, elle fait le ménage.",
+    "cloze": "fait le ménage",
+    "answer": "fait le ménage",
+    "accepted_answers": [],
+    "lemma": "faire le ménage",
+    "meaning": "does the housework",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-078.mp3"
+  },
+  {
+    "id": "fr-f1-079",
+    "sentence": "Le vendredi soir, ils regardent un film à la maison.",
+    "cloze": "regardent un film",
+    "answer": "regardent un film",
+    "accepted_answers": [],
+    "lemma": "regarder un film",
+    "meaning": "watch a movie",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-079.mp3"
+  },
+  {
+    "id": "fr-f1-080",
+    "sentence": "Dans la voiture, nous écoutons souvent la radio.",
+    "cloze": "écoutons souvent la radio",
+    "answer": "écoutons souvent la radio",
+    "accepted_answers": [],
+    "lemma": "écouter la radio",
+    "meaning": "often listen to the radio",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-080.mp3"
+  },
+  {
+    "id": "fr-f1-081",
+    "sentence": "J'ai réservé une table pour deux personnes.",
+    "cloze": "une table pour deux personnes",
+    "answer": "une table pour deux personnes",
+    "accepted_answers": [],
+    "lemma": "table pour deux personnes",
+    "meaning": "a table for two",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-081.mp3"
+  },
+  {
+    "id": "fr-f1-082",
+    "sentence": "Voici la carte et le menu du jour.",
+    "cloze": "le menu du jour",
+    "answer": "le menu du jour",
+    "accepted_answers": [],
+    "lemma": "menu du jour",
+    "meaning": "the set menu of the day",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-082.mp3"
+  },
+  {
+    "id": "fr-f1-083",
+    "sentence": "Quel est le plat du jour ?",
+    "cloze": "le plat du jour",
+    "answer": "le plat du jour",
+    "accepted_answers": [],
+    "lemma": "plat du jour",
+    "meaning": "the dish of the day",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-083.mp3"
+  },
+  {
+    "id": "fr-f1-084",
+    "sentence": "Avez-vous un plat végétarien ?",
+    "cloze": "un plat végétarien",
+    "answer": "un plat végétarien",
+    "accepted_answers": [],
+    "lemma": "plat végétarien",
+    "meaning": "a vegetarian dish",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-084.mp3"
+  },
+  {
+    "id": "fr-f1-085",
+    "sentence": "Je prends le poulet rôti avec des légumes.",
+    "cloze": "le poulet rôti",
+    "answer": "le poulet rôti",
+    "accepted_answers": [],
+    "lemma": "poulet rôti",
+    "meaning": "the roast chicken",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-085.mp3"
+  },
+  {
+    "id": "fr-f1-086",
+    "sentence": "Je suis allergique aux noix.",
+    "cloze": "allergique aux noix",
+    "answer": "allergique aux noix",
+    "accepted_answers": [],
+    "lemma": "être allergique aux noix",
+    "meaning": "allergic to nuts",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-086.mp3"
+  },
+  {
+    "id": "fr-f1-087",
+    "sentence": "Pour moi, une salade sans oignons.",
+    "cloze": "sans oignons",
+    "answer": "sans oignons",
+    "accepted_answers": [],
+    "lemma": "sans oignons",
+    "meaning": "without onions",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-087.mp3"
+  },
+  {
+    "id": "fr-f1-088",
+    "sentence": "L'addition, s'il vous plaît.",
+    "cloze": "L'addition",
+    "answer": "L'addition",
+    "accepted_answers": [],
+    "lemma": "addition",
+    "meaning": "the bill",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-088.mp3"
+  },
+  {
+    "id": "fr-f1-089",
+    "sentence": "Est-ce que le service est compris ?",
+    "cloze": "le service est compris",
+    "answer": "le service est compris",
+    "accepted_answers": [],
+    "lemma": "service compris",
+    "meaning": "service is included",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-089.mp3"
+  },
+  {
+    "id": "fr-f1-090",
+    "sentence": "À la boulangerie, je prends une baguette bien cuite.",
+    "cloze": "une baguette bien cuite",
+    "answer": "une baguette bien cuite",
+    "accepted_answers": [],
+    "lemma": "baguette bien cuite",
+    "meaning": "a well-baked baguette",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-090.mp3"
+  },
+  {
+    "id": "fr-f1-091",
+    "sentence": "Ces pommes rouges sont très bonnes.",
+    "cloze": "Ces pommes rouges",
+    "answer": "Ces pommes rouges",
+    "accepted_answers": [],
+    "lemma": "pommes rouges",
+    "meaning": "these red apples",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-091.mp3"
+  },
+  {
+    "id": "fr-f1-092",
+    "sentence": "Je peux essayer ce pull ?",
+    "cloze": "essayer ce pull",
+    "answer": "essayer ce pull",
+    "accepted_answers": [],
+    "lemma": "essayer un pull",
+    "meaning": "try on this sweater",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-092.mp3"
+  },
+  {
+    "id": "fr-f1-093",
+    "sentence": "Je cherche une chemise en taille quarante.",
+    "cloze": "en taille quarante",
+    "answer": "en taille quarante",
+    "accepted_answers": [],
+    "lemma": "taille quarante",
+    "meaning": "in size forty",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-093.mp3"
+  },
+  {
+    "id": "fr-f1-094",
+    "sentence": "Ce modèle est trop petit, vous avez le même en plus grand ?",
+    "cloze": "en plus grand",
+    "answer": "en plus grand",
+    "accepted_answers": [],
+    "lemma": "en plus grand",
+    "meaning": "in a larger size",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-094.mp3"
+  },
+  {
+    "id": "fr-f1-095",
+    "sentence": "La cabine d'essayage est au fond du magasin.",
+    "cloze": "La cabine d'essayage",
+    "answer": "La cabine d'essayage",
+    "accepted_answers": [],
+    "lemma": "cabine d'essayage",
+    "meaning": "the fitting room",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-095.mp3"
+  },
+  {
+    "id": "fr-f1-096",
+    "sentence": "Cette veste est en promotion aujourd'hui.",
+    "cloze": "en promotion",
+    "answer": "en promotion",
+    "accepted_answers": [],
+    "lemma": "être en promotion",
+    "meaning": "on sale",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-096.mp3"
+  },
+  {
+    "id": "fr-f1-097",
+    "sentence": "Je vais payer par carte.",
+    "cloze": "payer par carte",
+    "answer": "payer par carte",
+    "accepted_answers": [],
+    "lemma": "payer par carte",
+    "meaning": "pay by card",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-097.mp3"
+  },
+  {
+    "id": "fr-f1-098",
+    "sentence": "Pour les petites sommes, je préfère payer en espèces.",
+    "cloze": "payer en espèces",
+    "answer": "payer en espèces",
+    "accepted_answers": [],
+    "lemma": "payer en espèces",
+    "meaning": "pay in cash",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-098.mp3"
+  },
+  {
+    "id": "fr-f1-099",
+    "sentence": "Vous pouvez me donner le ticket de caisse ?",
+    "cloze": "le ticket de caisse",
+    "answer": "le ticket de caisse",
+    "accepted_answers": [],
+    "lemma": "ticket de caisse",
+    "meaning": "the receipt",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-099.mp3"
+  },
+  {
+    "id": "fr-f1-100",
+    "sentence": "Le magasin est ouvert jusqu'à dix-neuf heures.",
+    "cloze": "ouvert jusqu'à dix-neuf heures",
+    "answer": "ouvert jusqu'à dix-neuf heures",
+    "accepted_answers": [],
+    "lemma": "être ouvert jusqu'à dix-neuf heures",
+    "meaning": "open until seven in the evening",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-100.mp3"
+  },
+  {
+    "id": "fr-f1-101",
+    "sentence": "La pharmacie ferme à vingt heures.",
+    "cloze": "ferme à vingt heures",
+    "answer": "ferme à vingt heures",
+    "accepted_answers": [],
+    "lemma": "fermer à vingt heures",
+    "meaning": "closes at eight in the evening",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-101.mp3"
+  },
+  {
+    "id": "fr-f1-102",
+    "sentence": "Je voudrais un carnet de timbres.",
+    "cloze": "un carnet de timbres",
+    "answer": "un carnet de timbres",
+    "accepted_answers": [],
+    "lemma": "carnet de timbres",
+    "meaning": "a booklet of stamps",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-102.mp3"
+  },
+  {
+    "id": "fr-f1-103",
+    "sentence": "Chaque matin, j'achète le journal au kiosque.",
+    "cloze": "le journal au kiosque",
+    "answer": "le journal au kiosque",
+    "accepted_answers": [],
+    "lemma": "journal au kiosque",
+    "meaning": "the newspaper at the newsstand",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-103.mp3"
+  },
+  {
+    "id": "fr-f1-104",
+    "sentence": "Est-ce que vous avez des piles pour cette lampe ?",
+    "cloze": "des piles",
+    "answer": "des piles",
+    "accepted_answers": [],
+    "lemma": "piles",
+    "meaning": "some batteries",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-104.mp3"
+  },
+  {
+    "id": "fr-f1-105",
+    "sentence": "Pour le voyage, il me faut une bouteille de shampooing.",
+    "cloze": "une bouteille de shampooing",
+    "answer": "une bouteille de shampooing",
+    "accepted_answers": [],
+    "lemma": "bouteille de shampooing",
+    "meaning": "a bottle of shampoo",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-105.mp3"
+  },
+  {
+    "id": "fr-f1-106",
+    "sentence": "Je voudrais un billet pour Bordeaux.",
+    "cloze": "un billet pour Bordeaux",
+    "answer": "un billet pour Bordeaux",
+    "accepted_answers": [],
+    "lemma": "billet pour Bordeaux",
+    "meaning": "a ticket to Bordeaux",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-106.mp3"
+  },
+  {
+    "id": "fr-f1-107",
+    "sentence": "C'est un aller simple ou un aller-retour ?",
+    "cloze": "un aller simple",
+    "answer": "un aller simple",
+    "accepted_answers": [],
+    "lemma": "aller simple",
+    "meaning": "a one-way ticket",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-107.mp3"
+  },
+  {
+    "id": "fr-f1-108",
+    "sentence": "Le train pour Tours part du quai six.",
+    "cloze": "du quai six",
+    "answer": "du quai six",
+    "accepted_answers": [],
+    "lemma": "quai six",
+    "meaning": "from platform six",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-108.mp3"
+  },
+  {
+    "id": "fr-f1-109",
+    "sentence": "Pour aller au musée, prenez la ligne quatre du métro.",
+    "cloze": "la ligne quatre",
+    "answer": "la ligne quatre",
+    "accepted_answers": [],
+    "lemma": "ligne quatre",
+    "meaning": "line four",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-109.mp3"
+  },
+  {
+    "id": "fr-f1-110",
+    "sentence": "Descendez à la prochaine station.",
+    "cloze": "la prochaine station",
+    "answer": "la prochaine station",
+    "accepted_answers": [],
+    "lemma": "prochaine station",
+    "meaning": "the next station",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-110.mp3"
+  },
+  {
+    "id": "fr-f1-111",
+    "sentence": "Changez à Châtelet pour la ligne un.",
+    "cloze": "Changez à Châtelet",
+    "answer": "Changez à Châtelet",
+    "accepted_answers": [],
+    "lemma": "changer à Châtelet",
+    "meaning": "change at Châtelet",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-111.mp3"
+  },
+  {
+    "id": "fr-f1-112",
+    "sentence": "L'arrêt de bus est devant la poste.",
+    "cloze": "L'arrêt de bus",
+    "answer": "L'arrêt de bus",
+    "accepted_answers": [],
+    "lemma": "arrêt de bus",
+    "meaning": "the bus stop",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-112.mp3"
+  },
+  {
+    "id": "fr-f1-113",
+    "sentence": "Nous prenons un taxi pour aller à l'aéroport.",
+    "cloze": "un taxi pour aller à l'aéroport",
+    "answer": "un taxi pour aller à l'aéroport",
+    "accepted_answers": [],
+    "lemma": "taxi pour l'aéroport",
+    "meaning": "a taxi to the airport",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-113.mp3"
+  },
+  {
+    "id": "fr-f1-114",
+    "sentence": "Continuez tout droit pendant cinq minutes.",
+    "cloze": "Continuez tout droit",
+    "answer": "Continuez tout droit",
+    "accepted_answers": [],
+    "lemma": "continuer tout droit",
+    "meaning": "continue straight ahead",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-114.mp3"
+  },
+  {
+    "id": "fr-f1-115",
+    "sentence": "Tournez à droite après la banque.",
+    "cloze": "Tournez à droite",
+    "answer": "Tournez à droite",
+    "accepted_answers": [],
+    "lemma": "tourner à droite",
+    "meaning": "turn right",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-115.mp3"
+  },
+  {
+    "id": "fr-f1-116",
+    "sentence": "Puis prenez la première rue à gauche.",
+    "cloze": "la première rue à gauche",
+    "answer": "la première rue à gauche",
+    "accepted_answers": [],
+    "lemma": "première rue à gauche",
+    "meaning": "the first street on the left",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-116.mp3"
+  },
+  {
+    "id": "fr-f1-117",
+    "sentence": "Le café est en face de la banque.",
+    "cloze": "en face de la banque",
+    "answer": "en face de la banque",
+    "accepted_answers": [],
+    "lemma": "en face de la banque",
+    "meaning": "opposite the bank",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-117.mp3"
+  },
+  {
+    "id": "fr-f1-118",
+    "sentence": "La mairie est derrière l'église.",
+    "cloze": "derrière l'église",
+    "answer": "derrière l'église",
+    "accepted_answers": [],
+    "lemma": "derrière l'église",
+    "meaning": "behind the church",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-118.mp3"
+  },
+  {
+    "id": "fr-f1-119",
+    "sentence": "L'hôtel est près du musée.",
+    "cloze": "près du musée",
+    "answer": "près du musée",
+    "accepted_answers": [],
+    "lemma": "près du musée",
+    "meaning": "near the museum",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-119.mp3"
+  },
+  {
+    "id": "fr-f1-120",
+    "sentence": "Notre appartement est loin du centre-ville.",
+    "cloze": "loin du centre-ville",
+    "answer": "loin du centre-ville",
+    "accepted_answers": [],
+    "lemma": "loin du centre-ville",
+    "meaning": "far from the city center",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-120.mp3"
+  },
+  {
+    "id": "fr-f1-121",
+    "sentence": "J'ai rendez-vous chez le médecin mardi matin.",
+    "cloze": "chez le médecin mardi matin",
+    "answer": "chez le médecin mardi matin",
+    "accepted_answers": [],
+    "lemma": "rendez-vous chez le médecin",
+    "meaning": "at the doctor's on Tuesday morning",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-121.mp3"
+  },
+  {
+    "id": "fr-f1-122",
+    "sentence": "Mon rendez-vous chez le dentiste est demain.",
+    "cloze": "chez le dentiste",
+    "answer": "chez le dentiste",
+    "accepted_answers": [],
+    "lemma": "dentiste",
+    "meaning": "at the dentist's",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-122.mp3"
+  },
+  {
+    "id": "fr-f1-123",
+    "sentence": "La réunion commence à quatorze heures.",
+    "cloze": "commence à quatorze heures",
+    "answer": "commence à quatorze heures",
+    "accepted_answers": [],
+    "lemma": "commencer à quatorze heures",
+    "meaning": "starts at two in the afternoon",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-123.mp3"
+  },
+  {
+    "id": "fr-f1-124",
+    "sentence": "Merci d'arriver dix minutes en avance.",
+    "cloze": "dix minutes en avance",
+    "answer": "dix minutes en avance",
+    "accepted_answers": [],
+    "lemma": "dix minutes en avance",
+    "meaning": "ten minutes early",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-124.mp3"
+  },
+  {
+    "id": "fr-f1-125",
+    "sentence": "Samedi, nous allons visiter le château.",
+    "cloze": "allons visiter le château",
+    "answer": "allons visiter le château",
+    "accepted_answers": [],
+    "lemma": "visiter le château",
+    "meaning": "are going to visit the castle",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-125.mp3"
+  },
+  {
+    "id": "fr-f1-126",
+    "sentence": "Ce week-end, je vais voyager en Bretagne.",
+    "cloze": "vais voyager en Bretagne",
+    "answer": "vais voyager en Bretagne",
+    "accepted_answers": [],
+    "lemma": "voyager en Bretagne",
+    "meaning": "am going to travel in Brittany",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-126.mp3"
+  },
+  {
+    "id": "fr-f1-127",
+    "sentence": "Ce soir, je vais appeler mes parents.",
+    "cloze": "vais appeler mes parents",
+    "answer": "vais appeler mes parents",
+    "accepted_answers": [],
+    "lemma": "appeler ses parents",
+    "meaning": "am going to call my parents",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-127.mp3"
+  },
+  {
+    "id": "fr-f1-128",
+    "sentence": "Demain, il va pleuvoir toute la journée.",
+    "cloze": "va pleuvoir",
+    "answer": "va pleuvoir",
+    "accepted_answers": [],
+    "lemma": "pleuvoir",
+    "meaning": "is going to rain",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-128.mp3"
+  },
+  {
+    "id": "fr-f1-129",
+    "sentence": "Le ciel est sombre, je vais prendre mon parapluie.",
+    "cloze": "vais prendre mon parapluie",
+    "answer": "vais prendre mon parapluie",
+    "accepted_answers": [],
+    "lemma": "prendre son parapluie",
+    "meaning": "am going to take my umbrella",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-129.mp3"
+  },
+  {
+    "id": "fr-f1-130",
+    "sentence": "Nous allons retrouver nos amis au cinéma.",
+    "cloze": "allons retrouver nos amis",
+    "answer": "allons retrouver nos amis",
+    "accepted_answers": [],
+    "lemma": "retrouver ses amis",
+    "meaning": "are going to meet our friends",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-130.mp3"
+  },
+  {
+    "id": "fr-f1-131",
+    "sentence": "Aujourd'hui, le ciel est gris et le vent est froid.",
+    "cloze": "le ciel est gris",
+    "answer": "le ciel est gris",
+    "accepted_answers": [],
+    "lemma": "ciel gris",
+    "meaning": "the sky is gray",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-131.mp3"
+  },
+  {
+    "id": "fr-f1-132",
+    "sentence": "Elle porte une jolie veste verte.",
+    "cloze": "une jolie veste verte",
+    "answer": "une jolie veste verte",
+    "accepted_answers": [],
+    "lemma": "jolie veste verte",
+    "meaning": "a pretty green jacket",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-132.mp3"
+  },
+  {
+    "id": "fr-f1-133",
+    "sentence": "Au marché, les fraises sont fraîches.",
+    "cloze": "les fraises sont fraîches",
+    "answer": "les fraises sont fraîches",
+    "accepted_answers": [],
+    "lemma": "fraises fraîches",
+    "meaning": "the strawberries are fresh",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-133.mp3"
+  },
+  {
+    "id": "fr-f1-134",
+    "sentence": "Notre chambre d'hôtel est propre et calme.",
+    "cloze": "propre et calme",
+    "answer": "propre et calme",
+    "accepted_answers": [],
+    "lemma": "propre et calme",
+    "meaning": "clean and quiet",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-134.mp3"
+  },
+  {
+    "id": "fr-f1-135",
+    "sentence": "Attention, c'est fermé aujourd'hui.",
+    "cloze": "c'est fermé",
+    "answer": "c'est fermé",
+    "accepted_answers": [],
+    "lemma": "être fermé",
+    "meaning": "it is closed",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-135.mp3"
+  },
+  {
+    "id": "fr-f1-136",
+    "sentence": "Le docteur est en retard de quelques minutes.",
+    "cloze": "est en retard",
+    "answer": "est en retard",
+    "accepted_answers": [],
+    "lemma": "être en retard",
+    "meaning": "is late",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-136.mp3"
+  },
+  {
+    "id": "fr-f1-137",
+    "sentence": "Bonsoir, vous allez bien ?",
+    "cloze": "vous allez bien",
+    "answer": "vous allez bien",
+    "accepted_answers": [],
+    "lemma": "aller bien",
+    "meaning": "are you well",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-137.mp3"
+  },
+  {
+    "id": "fr-f1-138",
+    "sentence": "Merci beaucoup pour votre aide.",
+    "cloze": "Merci beaucoup",
+    "answer": "Merci beaucoup",
+    "accepted_answers": [],
+    "lemma": "merci beaucoup",
+    "meaning": "thank you very much",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-138.mp3"
+  },
+  {
+    "id": "fr-f1-139",
+    "sentence": "Pardon pour le retard, le bus était bloqué.",
+    "cloze": "Pardon pour le retard",
+    "answer": "Pardon pour le retard",
+    "accepted_answers": [],
+    "lemma": "pardon pour le retard",
+    "meaning": "sorry for being late",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-139.mp3"
+  },
+  {
+    "id": "fr-f1-140",
+    "sentence": "Excusez-moi, je peux passer ?",
+    "cloze": "Excusez-moi",
+    "answer": "Excusez-moi",
+    "accepted_answers": [],
+    "lemma": "excuser",
+    "meaning": "excuse me",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-140.mp3"
+  },
+  {
+    "id": "fr-f1-141",
+    "sentence": "Pouvez-vous répéter, s'il vous plaît ?",
+    "cloze": "Pouvez-vous répéter",
+    "answer": "Pouvez-vous répéter",
+    "accepted_answers": [],
+    "lemma": "pouvoir répéter",
+    "meaning": "could you repeat",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-141.mp3"
+  },
+  {
+    "id": "fr-f1-142",
+    "sentence": "Parlez un peu plus lentement, s'il vous plaît.",
+    "cloze": "un peu plus lentement",
+    "answer": "un peu plus lentement",
+    "accepted_answers": [],
+    "lemma": "plus lentement",
+    "meaning": "a little more slowly",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-142.mp3"
+  },
+  {
+    "id": "fr-f1-143",
+    "sentence": "Oui, je comprends maintenant.",
+    "cloze": "comprends maintenant",
+    "answer": "comprends maintenant",
+    "accepted_answers": [],
+    "lemma": "comprendre maintenant",
+    "meaning": "understand now",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-143.mp3"
+  },
+  {
+    "id": "fr-f1-144",
+    "sentence": "Je ne sais pas où il est.",
+    "cloze": "ne sais pas",
+    "answer": "ne sais pas",
+    "accepted_answers": [],
+    "lemma": "ne pas savoir",
+    "meaning": "do not know",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-144.mp3"
+  },
+  {
+    "id": "fr-f1-145",
+    "sentence": "Votre valise est lourde, je peux vous aider.",
+    "cloze": "peux vous aider",
+    "answer": "peux vous aider",
+    "accepted_answers": [],
+    "lemma": "pouvoir aider",
+    "meaning": "can help you",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-145.mp3"
+  },
+  {
+    "id": "fr-f1-146",
+    "sentence": "Tout va bien, merci.",
+    "cloze": "Tout va bien",
+    "answer": "Tout va bien",
+    "accepted_answers": [],
+    "lemma": "aller bien",
+    "meaning": "everything is fine",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-146.mp3"
+  },
+  {
+    "id": "fr-f1-147",
+    "sentence": "Je reviens dans une heure, à tout à l'heure !",
+    "cloze": "à tout à l'heure",
+    "answer": "à tout à l'heure",
+    "accepted_answers": [],
+    "lemma": "à tout à l'heure",
+    "meaning": "see you later",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-147.mp3"
+  },
+  {
+    "id": "fr-f1-148",
+    "sentence": "Merci, bonne journée !",
+    "cloze": "bonne journée",
+    "answer": "bonne journée",
+    "accepted_answers": [],
+    "lemma": "bonne journée",
+    "meaning": "have a good day",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-148.mp3"
+  },
+  {
+    "id": "fr-f1-149",
+    "sentence": "Bon voyage et à bientôt !",
+    "cloze": "Bon voyage",
+    "answer": "Bon voyage",
+    "accepted_answers": [],
+    "lemma": "bon voyage",
+    "meaning": "have a good trip",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-149.mp3"
+  },
+  {
+    "id": "fr-f1-150",
+    "sentence": "On se retrouve demain, à demain !",
+    "cloze": "à demain",
+    "answer": "à demain",
+    "accepted_answers": [],
+    "lemma": "à demain",
+    "meaning": "see you tomorrow",
+    "audio": "audio/fr-FR-foundation-1/fr-f1-150.mp3"
+  }
+]
