@@ -134,6 +134,19 @@ DECKS = {
         "voice": "Serena",
         "tts_language": "French",
     },
+    "es-MX-foundation-1": {
+        "cards_path": ROOT / "cards" / "es-MX-foundation-1.json",
+        "archive_path": ROOT / "dist" / "meiki-es-mx-foundation-1-v0.1.0.meiki",
+        "handoff_path": ROOT / "dist" / "README-es-MX-foundation-1.txt",
+        "card_prefix": "es-f1-",
+        "count": 150,
+        "deck_id": "meiki-es-mx-foundation-1",
+        "name": "Mexican Spanish Foundation 1",
+        "description": "150 foundation Spanish audio-guided typed-cloze cards for practical contemporary central Mexican usage.",
+        "language_tag": "es-MX",
+        "voice": "Aiden",
+        "tts_language": "Spanish",
+    },
 }
 REQUIRED_FIELDS = (
     "id",
