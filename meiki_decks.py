@@ -148,6 +148,46 @@ DECKS = {
         "tts_language": "Spanish",
     },
 }
+BUNDLES = {
+    "ja-JP-complete": {
+        "archive_path": ROOT / "dist" / "meiki-ja-jp-complete-v0.1.0.meiki",
+        "handoff_path": ROOT / "dist" / "README-ja-JP-complete.txt",
+        "decks": (
+            ("ja-JP-foundation-1", "Japanese 01 — Foundation 1"),
+            ("ja-JP-foundation-2", "Japanese 02 — Foundation 2"),
+            ("ja-JP-elementary-1", "Japanese 03 — Elementary 1"),
+            ("ja-JP-intermediate-1", "Japanese 04 — Intermediate 1"),
+            (
+                "ja-JP-upper-intermediate-1",
+                "Japanese 05 — Upper-Intermediate 1",
+            ),
+            ("ja-JP-advanced-1", "Japanese 06 — Advanced 1"),
+        ),
+    },
+    "all-current": {
+        "archive_path": ROOT / "dist" / "meiki-all-current-v0.1.0.meiki",
+        "handoff_path": ROOT / "dist" / "README-all-current.txt",
+        "decks": (
+            ("ja-JP-foundation-1", "Japanese 01 — Foundation 1"),
+            ("ja-JP-foundation-2", "Japanese 02 — Foundation 2"),
+            ("ja-JP-elementary-1", "Japanese 03 — Elementary 1"),
+            ("ja-JP-intermediate-1", "Japanese 04 — Intermediate 1"),
+            (
+                "ja-JP-upper-intermediate-1",
+                "Japanese 05 — Upper-Intermediate 1",
+            ),
+            ("ja-JP-advanced-1", "Japanese 06 — Advanced 1"),
+            ("ko-KR-foundation-1", "Korean 01 — Foundation 1"),
+            ("zh-Hans-CN-foundation-1", "Mandarin 01 — Foundation 1"),
+            ("fr-FR-foundation-1", "French 01 — Foundation 1"),
+            ("es-MX-foundation-1", "Mexican Spanish 01 — Foundation 1"),
+        ),
+    },
+}
+REPLACEMENT_WARNING = (
+    "Importing this archive replaces the current Meiki collection. It is intended "
+    "for initial installation, not for updating an existing studied collection."
+)
 REQUIRED_FIELDS = (
     "id",
     "sentence",
@@ -649,7 +689,7 @@ def make_note(card, media, deck):
     }
 
 
-def make_collection(notes, deck):
+def make_collection(notes, deck, name=None):
     parameters = [
         0.041,
         2.4175,
@@ -695,7 +735,7 @@ def make_collection(notes, deck):
         "decks": [
             {
                 "id": deck["deck_id"],
-                "name": deck["name"],
+                "name": name or deck["name"],
                 "description": deck["description"],
                 "language_tag": deck["language_tag"],
                 "direction": "auto",
@@ -741,23 +781,45 @@ def make_collection(notes, deck):
     }
 
 
-def verify_archive(archive_path, deck):
-    expected_counts = {
-        "decks": 1,
-        "notes": deck["count"],
-        "cards": deck["count"],
-        "review_events": 0,
-        "media_objects": deck["count"],
-    }
+def make_bundle_collection(compiled_decks):
+    collection = None
+    for deck, name, notes in compiled_decks:
+        deck_collection = make_collection(notes, deck, name)
+        if collection is None:
+            collection = deck_collection
+            continue
+        collection["decks"].extend(deck_collection["decks"])
+        collection["notes"].extend(deck_collection["notes"])
+        collection["scheduler_profiles"].extend(
+            deck_collection["scheduler_profiles"]
+        )
+    return collection
+
+
+def verify_archive(archive_path, selected_decks):
+    expected_note_count = sum(deck["count"] for deck, _ in selected_decks)
     with zipfile.ZipFile(archive_path) as archive:
         manifest = json.loads(archive.read("manifest.json"))
-        media_paths = {item["path"] for item in manifest["media"]}
+        media = manifest.get("media", [])
+        media_paths = {item["path"] for item in media}
         expected_names = {"manifest.json", "collection.json"} | media_paths
         names = archive.namelist()
         if len(names) != len(set(names)) or set(names) != expected_names:
             raise ValueError("archive entries do not match the required ZIP layout")
-        if manifest.get("format") != "meiki" or manifest.get("version") != 4:
-            raise ValueError("manifest format or version is incorrect")
+        if (
+            manifest.get("format") != "meiki"
+            or manifest.get("version") != 4
+            or manifest.get("scope") != "full_collection"
+            or manifest.get("collection_path") != "collection.json"
+        ):
+            raise ValueError("manifest format, version, or scope is incorrect")
+        expected_counts = {
+            "decks": len(selected_decks),
+            "notes": expected_note_count,
+            "cards": expected_note_count,
+            "review_events": 0,
+            "media_objects": len(media),
+        }
         if manifest.get("counts") != expected_counts:
             raise ValueError("manifest counts are incorrect")
 
@@ -766,15 +828,47 @@ def verify_archive(archive_path, deck):
             raise ValueError("collection hash does not match collection.json")
         collection = json.loads(collection_data)
         notes = collection.get("notes", [])
-        if len(collection.get("decks", [])) != 1 or len(notes) != deck["count"]:
+        if len(collection.get("decks", [])) != len(selected_decks) or len(
+            notes
+        ) != expected_note_count:
             raise ValueError(
-                f"archive must contain one deck and {deck['count']} notes"
+                f"archive must contain {len(selected_decks)} decks and "
+                f"{expected_note_count} notes"
             )
+        expected_deck_identity = [
+            (deck["deck_id"], name) for deck, name in selected_decks
+        ]
+        actual_deck_identity = [
+            (deck.get("id"), deck.get("name"))
+            for deck in collection.get("decks", [])
+        ]
+        if actual_deck_identity != expected_deck_identity:
+            raise ValueError("deck IDs, names, or order are incorrect")
+        if not isinstance(collection.get("collection_scheduling_settings"), dict):
+            raise ValueError("collection scheduling settings are missing")
 
-        media = manifest.get("media", [])
-        if len(media) != deck["count"] or [
-            item["content_hash"] for item in media
-        ] != sorted(item["content_hash"] for item in media):
+        parameter_sets = collection.get("scheduler_parameter_sets", [])
+        if len(parameter_sets) != 1 or parameter_sets[0].get("id") != "fsrs7-default-v1":
+            raise ValueError("archive must contain one shared FSRS parameter set")
+        profiles = collection.get("scheduler_profiles", [])
+        if len(profiles) != len(selected_decks):
+            raise ValueError("archive must contain one scheduler profile per deck")
+        for profile, (deck, _) in zip(profiles, selected_decks):
+            if (
+                profile.get("deck_id") != deck["deck_id"]
+                or profile.get("active_parameter_set_id") != "fsrs7-default-v1"
+                or profile.get("controller_unseen_count") != deck["count"]
+                or profile.get("controller_review_count") != 0
+            ):
+                raise ValueError(
+                    f"scheduler profile mismatch for {deck['deck_id']}"
+                )
+
+        media_hashes = [item["content_hash"] for item in media]
+        if (
+            len(media_hashes) != len(set(media_hashes))
+            or media_hashes != sorted(media_hashes)
+        ):
             raise ValueError("manifest media entries are incomplete or unsorted")
         for item in media:
             data = archive.read(item["path"])
@@ -786,55 +880,109 @@ def verify_archive(archive_path, deck):
             if item["byte_size"] != len(data):
                 raise ValueError(f"media byte size mismatch for {item['path']}")
 
+        entity_ids = set()
+        referenced_media_hashes = set()
+
+        def record_entity_id(entity_id, label):
+            if not isinstance(entity_id, str) or not entity_id:
+                raise ValueError(f"{label} has no ID")
+            if entity_id in entity_ids:
+                raise ValueError(f"duplicate entity ID: {entity_id}")
+            entity_ids.add(entity_id)
+
+        for deck, _ in selected_decks:
+            record_entity_id(deck["deck_id"], "deck")
+        record_entity_id(parameter_sets[0]["id"], "scheduler parameter set")
+
         card_count = 0
-        for number, note in enumerate(notes, start=1):
-            source = note["source_item"]
-            expected_prefix = f"{deck['card_prefix']}{number:03d}"
-            if source["id"] != f"{expected_prefix}-note":
-                raise ValueError(f"source item ID mismatch for {expected_prefix}")
-            if source["deck_id"] != deck["deck_id"]:
-                raise ValueError(f"deck relationship mismatch for {expected_prefix}")
-            if len(note["clozes"]) != 1 or len(note["cards"]) != 1:
-                raise ValueError(f"portable note shape mismatch for {expected_prefix}")
+        note_offset = 0
+        for deck, _ in selected_decks:
+            deck_notes = notes[note_offset : note_offset + deck["count"]]
+            note_offset += deck["count"]
+            for number, note in enumerate(deck_notes, start=1):
+                source = note["source_item"]
+                expected_prefix = f"{deck['card_prefix']}{number:03d}"
+                if source["id"] != f"{expected_prefix}-note":
+                    raise ValueError(f"source item ID mismatch for {expected_prefix}")
+                if source["deck_id"] != deck["deck_id"]:
+                    raise ValueError(
+                        f"deck relationship mismatch for {expected_prefix}"
+                    )
+                record_entity_id(source["id"], "source item")
+                for segment in source.get("segments", []):
+                    record_entity_id(segment.get("id"), "segment")
+                for annotation in source.get("annotations", []):
+                    record_entity_id(annotation.get("id"), "annotation")
+                if len(note["clozes"]) != 1 or len(note["cards"]) != 1:
+                    raise ValueError(
+                        f"portable note shape mismatch for {expected_prefix}"
+                    )
 
-            cloze = note["clozes"][0]
-            portable_card = note["cards"][0]
-            card = portable_card["card"]
-            if cloze["id"] != f"{expected_prefix}-cloze":
-                raise ValueError(f"cloze ID mismatch for {expected_prefix}")
-            if cloze["source_item_id"] != source["id"]:
-                raise ValueError(f"cloze source relationship mismatch for {expected_prefix}")
-            if card["id"] != f"{expected_prefix}-card":
-                raise ValueError(f"card ID mismatch for {expected_prefix}")
-            if card["cloze_id"] != cloze["id"]:
-                raise ValueError(f"card cloze relationship mismatch for {expected_prefix}")
+                cloze = note["clozes"][0]
+                portable_card = note["cards"][0]
+                card = portable_card["card"]
+                if cloze["id"] != f"{expected_prefix}-cloze":
+                    raise ValueError(f"cloze ID mismatch for {expected_prefix}")
+                if cloze["source_item_id"] != source["id"]:
+                    raise ValueError(
+                        f"cloze source relationship mismatch for {expected_prefix}"
+                    )
+                if card["id"] != f"{expected_prefix}-card":
+                    raise ValueError(f"card ID mismatch for {expected_prefix}")
+                if card["cloze_id"] != cloze["id"]:
+                    raise ValueError(
+                        f"card cloze relationship mismatch for {expected_prefix}"
+                    )
+                record_entity_id(cloze["id"], "cloze")
+                record_entity_id(card["id"], "card")
 
-            source_media = source["media"]
-            roles = {reference["role"] for reference in source_media}
-            hashes = {reference["content_hash"] for reference in source_media}
-            if roles != {"prompt_audio", "answer_audio"} or len(hashes) != 1:
-                raise ValueError(f"audio references mismatch for {expected_prefix}")
+                source_media = source["media"]
+                roles = {reference["role"] for reference in source_media}
+                hashes = {reference["content_hash"] for reference in source_media}
+                if (
+                    len(source_media) != 2
+                    or roles != {"prompt_audio", "answer_audio"}
+                    or len(hashes) != 1
+                ):
+                    raise ValueError(
+                        f"audio references mismatch for {expected_prefix}"
+                    )
+                for reference in source_media:
+                    record_entity_id(reference.get("id"), "media reference")
+                    referenced_media_hashes.add(reference["content_hash"])
 
-            baseline = portable_card["baseline"]
-            schedule = portable_card["schedule"]
-            if baseline != schedule:
-                raise ValueError(f"initial schedules differ for {expected_prefix}")
-            if (
-                baseline["card_id"] != card["id"]
-                or baseline["lifecycle"] != "unseen"
-                or baseline["version"] != 0
-                or baseline["repetitions"] != 0
-                or baseline["last_reviewed_at_ms"] is not None
-                or baseline["last_review_event_id"] is not None
-                or portable_card["review_events"]
-            ):
-                raise ValueError(f"card does not start unseen for {expected_prefix}")
-            card_count += 1
+                baseline = portable_card["baseline"]
+                schedule = portable_card["schedule"]
+                if baseline != schedule:
+                    raise ValueError(
+                        f"initial schedules differ for {expected_prefix}"
+                    )
+                if (
+                    baseline["card_id"] != card["id"]
+                    or baseline["lifecycle"] != "unseen"
+                    or baseline["version"] != 0
+                    or baseline["due_at_ms"] != 0
+                    or baseline["ideal_due_at_ms"] != 0
+                    or baseline["interval_milliseconds"] != 0
+                    or baseline["interval_seconds"] != 0
+                    or baseline["repetitions"] != 0
+                    or baseline["stability_milliseconds"] != 0
+                    or baseline["difficulty_millipoints"] != 0
+                    or baseline["last_reviewed_at_ms"] is not None
+                    or baseline["last_review_event_id"] is not None
+                    or portable_card["review_events"]
+                ):
+                    raise ValueError(
+                        f"card does not start unseen for {expected_prefix}"
+                    )
+                card_count += 1
 
-        if card_count != deck["count"]:
+        if card_count != expected_note_count:
             raise ValueError(
-                f"archive does not contain {deck['count']} cards"
+                f"archive does not contain {expected_note_count} cards"
             )
+        if referenced_media_hashes != set(media_hashes):
+            raise ValueError("manifest media does not match card audio references")
 
 
 def run_build(deck):
@@ -907,7 +1055,7 @@ def run_build(deck):
                     media["path"], media["data"], compress_type=zipfile.ZIP_STORED
                 )
 
-        verify_archive(archive_path, deck)
+        verify_archive(archive_path, [(deck, deck["name"])])
         archive_digest = sha256(archive_path.read_bytes())
         handoff = (
             f"Archive: {archive_path.name}\n"
@@ -929,14 +1077,122 @@ def run_build(deck):
     return 0
 
 
+def run_build_bundle(bundle):
+    selected_decks = [
+        (DECKS[deck_key], name) for deck_key, name in bundle["decks"]
+    ]
+    for deck, _ in selected_decks:
+        if run_check(deck, allow_missing_audio=False) != 0:
+            print("Bundle build stopped because check failed.", file=sys.stderr)
+            return 1
+
+    try:
+        compiled_decks = []
+        media_objects = {}
+        for deck, name in selected_decks:
+            notes = []
+            for card in load_cards(deck):
+                audio_file = ROOT / card["audio"]
+                data = audio_file.read_bytes()
+                digest = sha256(data)
+                media = {
+                    "digest": digest,
+                    "byte_size": len(data),
+                    "duration_ms": audio_duration_ms(audio_file),
+                    "path": f"media/sha256/{digest[:2]}/{digest[2:]}",
+                    "data": data,
+                }
+                media_objects.setdefault(digest, media)
+                notes.append(make_note(card, media, deck))
+            compiled_decks.append((deck, name, notes))
+
+        collection_data = json_bytes(make_bundle_collection(compiled_decks))
+        sorted_media = sorted(
+            media_objects.values(), key=lambda item: item["digest"]
+        )
+        media_entries = [
+            {
+                "content_hash": f"sha256:{media['digest']}",
+                "path": media["path"],
+                "byte_size": media["byte_size"],
+            }
+            for media in sorted_media
+        ]
+        note_count = sum(deck["count"] for deck, _ in selected_decks)
+        manifest = {
+            "format": "meiki",
+            "version": 4,
+            "created_at_ms": 0,
+            "scope": "full_collection",
+            "collection_path": "collection.json",
+            "collection_sha256": f"sha256:{sha256(collection_data)}",
+            "counts": {
+                "decks": len(selected_decks),
+                "notes": note_count,
+                "cards": note_count,
+                "review_events": 0,
+                "media_objects": len(media_objects),
+            },
+            "media": media_entries,
+        }
+
+        archive_path = bundle["archive_path"]
+        archive_path.parent.mkdir(parents=True, exist_ok=True)
+        with zipfile.ZipFile(
+            archive_path, "w", compression=zipfile.ZIP_DEFLATED
+        ) as archive:
+            archive.writestr("manifest.json", json_bytes(manifest))
+            archive.writestr("collection.json", collection_data)
+            for media in sorted_media:
+                archive.writestr(
+                    media["path"], media["data"], compress_type=zipfile.ZIP_STORED
+                )
+
+        verify_archive(archive_path, selected_decks)
+        archive_digest = sha256(archive_path.read_bytes())
+        included_decks = "\n".join(
+            f"- {deck_key}: {name}" for deck_key, name in bundle["decks"]
+        )
+        handoff = (
+            f"Archive: {archive_path.name}\n"
+            f"SHA-256: {archive_digest}\n"
+            f"Decks: {len(selected_decks)}\n"
+            f"Notes: {note_count}\n"
+            f"Cards: {note_count}\n"
+            "Review events: 0\n"
+            f"Media objects: {len(media_objects)}\n\n"
+            f"Included decks:\n{included_decks}\n\n"
+            f"{REPLACEMENT_WARNING}\n"
+        )
+        bundle["handoff_path"].write_text(handoff, encoding="utf-8")
+    except (KeyError, OSError, ValueError, zipfile.BadZipFile) as error:
+        print(f"Bundle build failed: {error}", file=sys.stderr)
+        return 1
+
+    print(f"Built and verified {archive_path.relative_to(ROOT)}")
+    print(f"SHA-256: {archive_digest}")
+    return 0
+
+
 def main():
-    parser = argparse.ArgumentParser(description="Build Japanese audio-cloze decks.")
-    parser.add_argument("command", choices=("generate-audio", "check", "build"))
+    parser = argparse.ArgumentParser(description="Build Meiki audio-cloze decks.")
+    parser.add_argument(
+        "command", choices=("generate-audio", "check", "build", "build-bundle")
+    )
     parser.add_argument("--deck", choices=DECKS, default=DEFAULT_DECK)
+    parser.add_argument("--bundle", choices=BUNDLES)
     parser.add_argument("--allow-missing-audio", action="store_true")
     args = parser.parse_args()
     deck = DECKS[args.deck]
 
+    if args.command == "build-bundle":
+        if args.allow_missing_audio:
+            parser.error("--allow-missing-audio is only valid with check")
+        if args.bundle is None:
+            parser.error("--bundle is required with build-bundle")
+        return run_build_bundle(BUNDLES[args.bundle])
+    if args.bundle is not None:
+        parser.error("--bundle is only valid with build-bundle")
     if args.command == "generate-audio":
         if args.allow_missing_audio:
             parser.error("--allow-missing-audio is only valid with check")
