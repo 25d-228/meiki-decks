@@ -1,7 +1,7 @@
 # meiki-decks
 
-Japanese Foundation 1 contains 150 beginner Japanese audio-cloze cards and one
-full-sentence MP3 for each card.
+The Japanese Foundation series contains 150 beginner audio-cloze cards per
+deck and one full-sentence MP3 for each card.
 
 ## Requirements
 
@@ -39,28 +39,28 @@ HF_HUB_OFFLINE=1 mlx_audio.tts.generate \
 `HF_HUB_OFFLINE=1` prevents generation from silently downloading model
 weights.
 
-Generate missing audio files:
+Commands default to `ja-JP-foundation-1`. Select another deck with `--deck`:
 
 ```bash
-python meiki_decks.py generate-audio
+python meiki_decks.py generate-audio --deck ja-JP-foundation-2
 ```
 
 Check the card data and generated files:
 
 ```bash
-python meiki_decks.py check
+python meiki_decks.py check --deck ja-JP-foundation-2
 ```
 
 While editing card content, the audio requirement can be skipped:
 
 ```bash
-python meiki_decks.py check --allow-missing-audio
+python meiki_decks.py check --deck ja-JP-foundation-2 --allow-missing-audio
 ```
 
 Build and verify the import archive:
 
 ```bash
-python meiki_decks.py build
+python meiki_decks.py build --deck ja-JP-foundation-2
 ```
 
 The completed outputs are:
@@ -69,4 +69,8 @@ The completed outputs are:
 audio/ja-001.mp3 through audio/ja-150.mp3
 dist/meiki-ja-jp-foundation-1-v0.1.0.meiki
 dist/README.txt
+
+audio/ja-JP-foundation-2/ja-f2-001.mp3 through ja-f2-150.mp3
+dist/meiki-ja-jp-foundation-2-v0.1.0.meiki
+dist/README-ja-JP-foundation-2.txt
 ```
