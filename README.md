@@ -101,4 +101,8 @@ dist/README-zh-Hans-CN-foundation-1.txt
 audio/fr-FR-foundation-1/fr-f1-001.mp3 through fr-f1-150.mp3
 dist/meiki-fr-fr-foundation-1-v0.1.0.meiki
 dist/README-fr-FR-foundation-1.txt
+
+audio/es-MX-foundation-1/es-f1-001.mp3 through es-f1-150.mp3
+dist/meiki-es-mx-foundation-1-v0.1.0.meiki
+dist/README-es-MX-foundation-1.txt
 ```
