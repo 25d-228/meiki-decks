@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "ja-a1-001",
+    "sentence": "予想を大幅に下回る結果を受け、制度全体を見直さざるを得ません。",
+    "cloze": "制度全体を見直さざるを得ません",
+    "answer": "制度全体を見直さざるを得ません",
+    "accepted_answers": [],
+    "lemma": "ざるを得ない",
+    "meaning": "we have no choice but to review the entire system",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-001.mp3"
+  },
+  {
+    "id": "ja-a1-002",
+    "sentence": "伸びは鈍化したものの、現時点で深刻な後退とまでは言えません。",
+    "cloze": "深刻な後退とまでは言えません",
+    "answer": "深刻な後退とまでは言えません",
+    "accepted_answers": [],
+    "lemma": "とまでは言えない",
+    "meaning": "it cannot yet be called a serious setback",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-002.mp3"
+  },
+  {
+    "id": "ja-a1-003",
+    "sentence": "発生時期が一致している以上、両者がまったく無関係とは考えにくいです。",
+    "cloze": "まったく無関係とは考えにくいです",
+    "answer": "まったく無関係とは考えにくいです",
+    "accepted_answers": [],
+    "lemma": "とは考えにくい",
+    "meaning": "it is difficult to regard the two as wholly unrelated",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-003.mp3"
+  },
+  {
+    "id": "ja-a1-004",
+    "sentence": "調査当局は、設備の劣化が事故につながった可能性が高いとみています。",
+    "cloze": "事故につながった可能性が高いとみています",
+    "answer": "事故につながった可能性が高いとみています",
+    "accepted_answers": [],
+    "lemma": "可能性が高いとみる",
+    "meaning": "authorities consider it likely to have led to the accident",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-004.mp3"
+  },
+  {
+    "id": "ja-a1-005",
+    "sentence": "導入には課題もありますが、長期的な効果を考えれば十分に検討に値します。",
+    "cloze": "十分に検討に値します",
+    "answer": "十分に検討に値します",
+    "accepted_answers": [],
+    "lemma": "に値する",
+    "meaning": "is well worth considering",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-005.mp3"
+  },
+  {
+    "id": "ja-a1-006",
+    "sentence": "利益を優先して安全確認を省くような姿勢は、到底容認し難いものです。",
+    "cloze": "到底容認し難いものです",
+    "answer": "到底容認し難いものです",
+    "accepted_answers": [],
+    "lemma": "し難い",
+    "meaning": "is simply impossible to condone",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-006.mp3"
+  },
+  {
+    "id": "ja-a1-007",
+    "sentence": "理由のいかんにかかわらず、機密情報を外部へ持ち出すことは禁止されています。",
+    "cloze": "理由のいかんにかかわらず",
+    "answer": "理由のいかんにかかわらず",
+    "accepted_answers": [],
+    "lemma": "いかんにかかわらず",
+    "meaning": "regardless of the reason, in formal written style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-007.mp3"
+  },
+  {
+    "id": "ja-a1-008",
+    "sentence": "本日の午後五時をもって、今年度の応募受付を終了いたします。",
+    "cloze": "本日の午後五時をもって",
+    "answer": "本日の午後五時をもって",
+    "accepted_answers": [],
+    "lemma": "をもって",
+    "meaning": "applications will close as of five p.m., in formal notice style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-008.mp3"
+  },
+  {
+    "id": "ja-a1-009",
+    "sentence": "東京公演を皮切りに、全国十二都市を巡る予定です。",
+    "cloze": "東京公演を皮切りに",
+    "answer": "東京公演を皮切りに",
+    "accepted_answers": [],
+    "lemma": "を皮切りに",
+    "meaning": "starting with the Tokyo performance",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-009.mp3"
+  },
+  {
+    "id": "ja-a1-010",
+    "sentence": "この影響は製造業だけでなく、物流や小売業に至るまで広がっています。",
+    "cloze": "物流や小売業に至るまで広がっています",
+    "answer": "物流や小売業に至るまで広がっています",
+    "accepted_answers": [],
+    "lemma": "に至るまで",
+    "meaning": "extends as far as logistics and retail",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-010.mp3"
+  },
+  {
+    "id": "ja-a1-011",
+    "sentence": "改善の兆しが見えたとはいえ、依然として厳しい状況に変わりはありません。",
+    "cloze": "依然として厳しい状況に変わりはありません",
+    "answer": "依然として厳しい状況に変わりはありません",
+    "accepted_answers": [],
+    "lemma": "に変わりはない",
+    "meaning": "the situation nevertheless remains difficult",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-011.mp3"
+  },
+  {
+    "id": "ja-a1-012",
+    "sentence": "今年は昨年にも増して、海外からの問い合わせが多く寄せられています。",
+    "cloze": "昨年にも増して",
+    "answer": "昨年にも増して",
+    "accepted_answers": [],
+    "lemma": "にも増して",
+    "meaning": "even more than last year",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-012.mp3"
+  },
+  {
+    "id": "ja-a1-013",
+    "sentence": "素材の特徴を生かした、地元の職人ならではの仕上がりです。",
+    "cloze": "地元の職人ならではの仕上がりです",
+    "answer": "地元の職人ならではの仕上がりです",
+    "accepted_answers": [],
+    "lemma": "ならでは",
+    "meaning": "a finish that only local artisans could achieve",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-013.mp3"
+  },
+  {
+    "id": "ja-a1-014",
+    "sentence": "担当者は最後まで結論を明言することなく、会見を終えました。",
+    "cloze": "結論を明言することなく",
+    "answer": "結論を明言することなく",
+    "accepted_answers": [],
+    "lemma": "ことなく",
+    "meaning": "without clearly stating a conclusion",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-014.mp3"
+  },
+  {
+    "id": "ja-a1-015",
+    "sentence": "これは一時的な流行というより、むしろ社会構造の変化と捉えるべきでしょう。",
+    "cloze": "一時的な流行というより",
+    "answer": "一時的な流行というより",
+    "accepted_answers": [],
+    "lemma": "というよりむしろ",
+    "meaning": "not so much a passing trend as a structural social change",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-015.mp3"
+  },
+  {
+    "id": "ja-a1-016",
+    "sentence": "複数の地域で同様の事例が確認されたことから、全国調査が始まりました。",
+    "cloze": "同様の事例が確認されたことから",
+    "answer": "同様の事例が確認されたことから",
+    "accepted_answers": [],
+    "lemma": "ことから",
+    "meaning": "because similar cases were confirmed",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-016.mp3"
+  },
+  {
+    "id": "ja-a1-017",
+    "sentence": "専門家の助言を踏まえたうえで、最終的な避難計画を決定します。",
+    "cloze": "専門家の助言を踏まえたうえで",
+    "answer": "専門家の助言を踏まえたうえで",
+    "accepted_answers": [],
+    "lemma": "を踏まえたうえで",
+    "meaning": "after taking expert advice into account",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-017.mp3"
+  },
+  {
+    "id": "ja-a1-018",
+    "sentence": "住民団体は、工事が生活環境に与える影響について強い懸念を表明しました。",
+    "cloze": "生活環境に与える影響について強い懸念を表明しました",
+    "answer": "生活環境に与える影響について強い懸念を表明しました",
+    "accepted_answers": [],
+    "lemma": "懸念を表明する",
+    "meaning": "expressed serious concern about the impact on living conditions",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-018.mp3"
+  },
+  {
+    "id": "ja-a1-019",
+    "sentence": "委員会は、現行制度を直ちに廃止する必要はないとの見解を示しました。",
+    "cloze": "廃止する必要はないとの見解を示しました",
+    "answer": "廃止する必要はないとの見解を示しました",
+    "accepted_answers": [],
+    "lemma": "見解を示す",
+    "meaning": "expressed the view that immediate abolition is unnecessary",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-019.mp3"
+  },
+  {
+    "id": "ja-a1-020",
+    "sentence": "双方が条件を少しずつ譲り、ようやく費用負担について折り合いをつけました。",
+    "cloze": "費用負担について折り合いをつけました",
+    "answer": "費用負担について折り合いをつけました",
+    "accepted_answers": [],
+    "lemma": "折り合いをつける",
+    "meaning": "reached a compromise over how to share the cost",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-020.mp3"
+  },
+  {
+    "id": "ja-a1-021",
+    "sentence": "平素より格別のご高配を賜り、厚く御礼申し上げます。",
+    "cloze": "格別のご高配を賜り",
+    "answer": "格別のご高配を賜り",
+    "accepted_answers": [],
+    "lemma": "ご高配を賜る",
+    "meaning": "for your exceptional support, in formal correspondence",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-021.mp3"
+  },
+  {
+    "id": "ja-a1-022",
+    "sentence": "新事業の立ち上げにあたり、皆様のお力添えをいただければ幸いです。",
+    "cloze": "皆様のお力添えをいただければ幸いです",
+    "answer": "皆様のお力添えをいただければ幸いです",
+    "accepted_answers": [],
+    "lemma": "お力添え",
+    "meaning": "we would appreciate your support",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-022.mp3"
+  },
+  {
+    "id": "ja-a1-023",
+    "sentence": "誠に恐縮ではございますが、その条件でのご依頼はお受けいたしかねます。",
+    "cloze": "その条件でのご依頼はお受けいたしかねます",
+    "answer": "その条件でのご依頼はお受けいたしかねます",
+    "accepted_answers": [],
+    "lemma": "お受けいたしかねる",
+    "meaning": "we regret that we cannot accept the request on those terms",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-023.mp3"
+  },
+  {
+    "id": "ja-a1-024",
+    "sentence": "その点は認めますが、提案全体の妥当性を裏づけるものではありません。",
+    "cloze": "提案全体の妥当性を裏づけるものではありません",
+    "answer": "提案全体の妥当性を裏づけるものではありません",
+    "accepted_answers": [],
+    "lemma": "裏づける",
+    "meaning": "does not substantiate the validity of the proposal as a whole",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-024.mp3"
+  },
+  {
+    "id": "ja-a1-025",
+    "sentence": "二つの調査資料を総合すると、需要は地域ごとに大きく異なることが分かります。",
+    "cloze": "二つの調査資料を総合すると",
+    "answer": "二つの調査資料を総合すると",
+    "accepted_answers": [],
+    "lemma": "資料を総合する",
+    "meaning": "when the two research sources are considered together",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-025.mp3"
+  },
+  {
+    "id": "ja-a1-026",
+    "sentence": "完全な解決には至らないまでも、状況は以前より安定してきました。",
+    "cloze": "完全な解決には至らないまでも",
+    "answer": "完全な解決には至らないまでも",
+    "accepted_answers": [],
+    "lemma": "ないまでも",
+    "meaning": "even if it has not led to a complete solution",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-026.mp3"
+  },
+  {
+    "id": "ja-a1-027",
+    "sentence": "過去の失敗を見れば、同じ方法が通用しないことは説明するまでもありません。",
+    "cloze": "説明するまでもありません",
+    "answer": "説明するまでもありません",
+    "accepted_answers": [],
+    "lemma": "までもない",
+    "meaning": "goes without explanation",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-027.mp3"
+  },
+  {
+    "id": "ja-a1-028",
+    "sentence": "この報告書は、今後の政策を考えるうえで十分に参考にするに足る内容です。",
+    "cloze": "参考にするに足る内容です",
+    "answer": "参考にするに足る内容です",
+    "accepted_answers": [],
+    "lemma": "に足る",
+    "meaning": "contains material worthy of reference",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-028.mp3"
+  },
+  {
+    "id": "ja-a1-029",
+    "sentence": "主張を支える証拠がなく、学術的な批判に耐える論文とは言えません。",
+    "cloze": "学術的な批判に耐える論文とは言えません",
+    "answer": "学術的な批判に耐える論文とは言えません",
+    "accepted_answers": [],
+    "lemma": "に耐える",
+    "meaning": "cannot be called a paper capable of withstanding academic scrutiny",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-029.mp3"
+  },
+  {
+    "id": "ja-a1-030",
+    "sentence": "長年にわたり支えてくださった皆様への感謝に堪えません。",
+    "cloze": "皆様への感謝に堪えません",
+    "answer": "皆様への感謝に堪えません",
+    "accepted_answers": [],
+    "lemma": "感謝に堪えない",
+    "meaning": "I am deeply grateful to everyone, in formal style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-030.mp3"
+  },
+  {
+    "id": "ja-a1-031",
+    "sentence": "彼の説明は細部にこだわるあまり、全体の目的を見失うきらいがあります。",
+    "cloze": "全体の目的を見失うきらいがあります",
+    "answer": "全体の目的を見失うきらいがあります",
+    "accepted_answers": [],
+    "lemma": "きらいがある",
+    "meaning": "has a tendency to lose sight of the overall purpose",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-031.mp3"
+  },
+  {
+    "id": "ja-a1-032",
+    "sentence": "短期間のデータだけでは、この傾向が今後も続くとは断定できません。",
+    "cloze": "今後も続くとは断定できません",
+    "answer": "今後も続くとは断定できません",
+    "accepted_answers": [],
+    "lemma": "とは断定できない",
+    "meaning": "we cannot conclude that the trend will continue",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-032.mp3"
+  },
+  {
+    "id": "ja-a1-033",
+    "sentence": "複数の証言が一致しているため、説明には信頼性があると見るのが妥当です。",
+    "cloze": "信頼性があると見るのが妥当です",
+    "answer": "信頼性があると見るのが妥当です",
+    "accepted_answers": [],
+    "lemma": "と見るのが妥当だ",
+    "meaning": "it is reasonable to regard the account as reliable",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-033.mp3"
+  },
+  {
+    "id": "ja-a1-034",
+    "sentence": "この規定には複数の読み方があり、例外を認めると解釈する余地もあります。",
+    "cloze": "例外を認めると解釈する余地もあります",
+    "answer": "例外を認めると解釈する余地もあります",
+    "accepted_answers": [],
+    "lemma": "と解釈する余地がある",
+    "meaning": "leaves room for an interpretation that permits exceptions",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-034.mp3"
+  },
+  {
+    "id": "ja-a1-035",
+    "sentence": "必要な情報を隠したまま発表した対応は、不誠実だったと言わざるを得ません。",
+    "cloze": "不誠実だったと言わざるを得ません",
+    "answer": "不誠実だったと言わざるを得ません",
+    "accepted_answers": [],
+    "lemma": "と言わざるを得ない",
+    "meaning": "must be described as dishonest",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-035.mp3"
+  },
+  {
+    "id": "ja-a1-036",
+    "sentence": "現場の記録が失われている以上、人為的なミスの可能性も排除できません。",
+    "cloze": "人為的なミスの可能性も排除できません",
+    "answer": "人為的なミスの可能性も排除できません",
+    "accepted_answers": [],
+    "lemma": "可能性を排除できない",
+    "meaning": "human error cannot be ruled out",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-036.mp3"
+  },
+  {
+    "id": "ja-a1-037",
+    "sentence": "重大な規則違反が確認された場合、一定期間の業務停止は免れません。",
+    "cloze": "一定期間の業務停止は免れません",
+    "answer": "一定期間の業務停止は免れません",
+    "accepted_answers": [],
+    "lemma": "を免れない",
+    "meaning": "a temporary suspension of operations will be unavoidable",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-037.mp3"
+  },
+  {
+    "id": "ja-a1-038",
+    "sentence": "人口が減り続ければ、公共施設の統合は避けられないでしょう。",
+    "cloze": "公共施設の統合は避けられないでしょう",
+    "answer": "公共施設の統合は避けられないでしょう",
+    "accepted_answers": [],
+    "lemma": "避けられない",
+    "meaning": "the consolidation of public facilities will be unavoidable",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-038.mp3"
+  },
+  {
+    "id": "ja-a1-039",
+    "sentence": "これだけ詳細な内部情報を知っている人物は、関係者に違いありません。",
+    "cloze": "関係者に違いありません",
+    "answer": "関係者に違いありません",
+    "accepted_answers": [],
+    "lemma": "に違いない",
+    "meaning": "must be someone involved",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-039.mp3"
+  },
+  {
+    "id": "ja-a1-040",
+    "sentence": "現在の混乱は、責任の所在が曖昧な組織構造の表れにほかなりません。",
+    "cloze": "曖昧な組織構造の表れにほかなりません",
+    "answer": "曖昧な組織構造の表れにほかなりません",
+    "accepted_answers": [],
+    "lemma": "にほかならない",
+    "meaning": "is nothing other than a sign of an ambiguous structure",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-040.mp3"
+  },
+  {
+    "id": "ja-a1-041",
+    "sentence": "この技術が医療のあり方を大きく変えたと言っても過言ではありません。",
+    "cloze": "医療のあり方を大きく変えたと言っても過言ではありません",
+    "answer": "医療のあり方を大きく変えたと言っても過言ではありません",
+    "accepted_answers": [],
+    "lemma": "と言っても過言ではない",
+    "meaning": "it is no exaggeration to say it transformed medical care",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-041.mp3"
+  },
+  {
+    "id": "ja-a1-042",
+    "sentence": "災害への備えは、早めに始めるに越したことはありません。",
+    "cloze": "早めに始めるに越したことはありません",
+    "answer": "早めに始めるに越したことはありません",
+    "accepted_answers": [],
+    "lemma": "に越したことはない",
+    "meaning": "it is best to begin preparations early",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-042.mp3"
+  },
+  {
+    "id": "ja-a1-043",
+    "sentence": "短期的な利益だけでなく、地域社会への影響も考慮すべきではないでしょうか。",
+    "cloze": "地域社会への影響も考慮すべきではないでしょうか",
+    "answer": "地域社会への影響も考慮すべきではないでしょうか",
+    "accepted_answers": [],
+    "lemma": "べきではないでしょうか",
+    "meaning": "should we not also consider the impact on the community",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-043.mp3"
+  },
+  {
+    "id": "ja-a1-044",
+    "sentence": "この沈黙は、組織への不信感の表れではあるまいか。",
+    "cloze": "組織への不信感の表れではあるまいか",
+    "answer": "組織への不信感の表れではあるまいか",
+    "accepted_answers": [],
+    "lemma": "ではあるまいか",
+    "meaning": "might this not be an expression of distrust, in formal argument",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-044.mp3"
+  },
+  {
+    "id": "ja-a1-045",
+    "sentence": "被害を受けた方々の状況を思うと、同情を禁じ得ません。",
+    "cloze": "同情を禁じ得ません",
+    "answer": "同情を禁じ得ません",
+    "accepted_answers": [],
+    "lemma": "を禁じ得ない",
+    "meaning": "one cannot help but feel sympathy, in formal style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-045.mp3"
+  },
+  {
+    "id": "ja-a1-046",
+    "sentence": "資金不足により、研究チームは計画の大幅な縮小を余儀なくされました。",
+    "cloze": "計画の大幅な縮小を余儀なくされました",
+    "answer": "計画の大幅な縮小を余儀なくされました",
+    "accepted_answers": [],
+    "lemma": "を余儀なくされる",
+    "meaning": "was forced to scale the project back substantially",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-046.mp3"
+  },
+  {
+    "id": "ja-a1-047",
+    "sentence": "不正確な情報を公表すれば、市場の混乱を招きかねません。",
+    "cloze": "市場の混乱を招きかねません",
+    "answer": "市場の混乱を招きかねません",
+    "accepted_answers": [],
+    "lemma": "かねない",
+    "meaning": "could cause market disruption",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-047.mp3"
+  },
+  {
+    "id": "ja-a1-048",
+    "sentence": "資料が不足しているため、現時点では責任の所在について明言しかねます。",
+    "cloze": "責任の所在について明言しかねます",
+    "answer": "責任の所在について明言しかねます",
+    "accepted_answers": [],
+    "lemma": "かねる",
+    "meaning": "we are unable to state who is responsible at this time",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-048.mp3"
+  },
+  {
+    "id": "ja-a1-049",
+    "sentence": "適切な支援があれば、小規模な組織でも十分に実現し得る計画です。",
+    "cloze": "十分に実現し得る計画です",
+    "answer": "十分に実現し得る計画です",
+    "accepted_answers": [],
+    "lemma": "得る",
+    "meaning": "is a plan that even a small organization can realize",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-049.mp3"
+  },
+  {
+    "id": "ja-a1-050",
+    "sentence": "個人の判断だけに任せれば、同じ誤りが再び起こることもあり得ます。",
+    "cloze": "同じ誤りが再び起こることもあり得ます",
+    "answer": "同じ誤りが再び起こることもあり得ます",
+    "accepted_answers": [],
+    "lemma": "あり得る",
+    "meaning": "the same mistake could happen again",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-050.mp3"
+  },
+  {
+    "id": "ja-a1-051",
+    "sentence": "突然職を失った人々がどれほど不安を感じたかは、想像に難くありません。",
+    "cloze": "想像に難くありません",
+    "answer": "想像に難くありません",
+    "accepted_answers": [],
+    "lemma": "想像に難くない",
+    "meaning": "it is not difficult to imagine how anxious they felt",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-051.mp3"
+  },
+  {
+    "id": "ja-a1-052",
+    "sentence": "出典が示されていない情報は、政策判断の根拠として採用するに値しません。",
+    "cloze": "政策判断の根拠として採用するに値しません",
+    "answer": "政策判断の根拠として採用するに値しません",
+    "accepted_answers": [],
+    "lemma": "に値しない",
+    "meaning": "is not worthy of use as a basis for policy",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-052.mp3"
+  },
+  {
+    "id": "ja-a1-053",
+    "sentence": "説明が何度も変わっている以上、発表内容の信頼性を疑わざるを得ません。",
+    "cloze": "発表内容の信頼性を疑わざるを得ません",
+    "answer": "発表内容の信頼性を疑わざるを得ません",
+    "accepted_answers": [],
+    "lemma": "疑わざるを得ない",
+    "meaning": "we have no choice but to doubt the announcement's reliability",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-053.mp3"
+  },
+  {
+    "id": "ja-a1-054",
+    "sentence": "安全性を確認できないため、現状では運転再開は困難と判断せざるを得ません。",
+    "cloze": "運転再開は困難と判断せざるを得ません",
+    "answer": "運転再開は困難と判断せざるを得ません",
+    "accepted_answers": [],
+    "lemma": "と判断せざるを得ない",
+    "meaning": "we must conclude that restarting operations is difficult",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-054.mp3"
+  },
+  {
+    "id": "ja-a1-055",
+    "sentence": "会社は今回の指摘を、管理体制を改善するための重要な機会と受け止めています。",
+    "cloze": "改善するための重要な機会と受け止めています",
+    "answer": "改善するための重要な機会と受け止めています",
+    "accepted_answers": [],
+    "lemma": "と受け止める",
+    "meaning": "regards it as an important opportunity for improvement",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-055.mp3"
+  },
+  {
+    "id": "ja-a1-056",
+    "sentence": "限られた予算で目標を達成した点は、高く評価できるでしょう。",
+    "cloze": "高く評価できるでしょう",
+    "answer": "高く評価できるでしょう",
+    "accepted_answers": [],
+    "lemma": "高く評価する",
+    "meaning": "can be evaluated very positively",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-056.mp3"
+  },
+  {
+    "id": "ja-a1-057",
+    "sentence": "多様な立場の人が議論に参加したこと自体に、一定の意義があります。",
+    "cloze": "一定の意義があります",
+    "answer": "一定の意義があります",
+    "accepted_answers": [],
+    "lemma": "一定の意義がある",
+    "meaning": "the participation itself has a certain significance",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-057.mp3"
+  },
+  {
+    "id": "ja-a1-058",
+    "sentence": "制度は改善されましたが、対象者が限られているという限界も否めません。",
+    "cloze": "対象者が限られているという限界も否めません",
+    "answer": "対象者が限られているという限界も否めません",
+    "accepted_answers": [],
+    "lemma": "否めない",
+    "meaning": "we cannot deny the limitation of restricted eligibility",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-058.mp3"
+  },
+  {
+    "id": "ja-a1-059",
+    "sentence": "説明の透明性は高まりましたが、情報の正確性にはなお懸念が残ります。",
+    "cloze": "情報の正確性にはなお懸念が残ります",
+    "answer": "情報の正確性にはなお懸念が残ります",
+    "accepted_answers": [],
+    "lemma": "懸念が残る",
+    "meaning": "concerns about the accuracy of the information remain",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-059.mp3"
+  },
+  {
+    "id": "ja-a1-060",
+    "sentence": "影響を十分に調べずに承認した判断には、疑問を抱かざるを得ません。",
+    "cloze": "疑問を抱かざるを得ません",
+    "answer": "疑問を抱かざるを得ません",
+    "accepted_answers": [],
+    "lemma": "疑問を抱く",
+    "meaning": "we cannot help questioning the decision to approve it",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-060.mp3"
+  },
+  {
+    "id": "ja-a1-061",
+    "sentence": "当事者の意見を聞かずに決めた手続きは、公平性の点で妥当性を欠きます。",
+    "cloze": "公平性の点で妥当性を欠きます",
+    "answer": "公平性の点で妥当性を欠きます",
+    "accepted_answers": [],
+    "lemma": "妥当性を欠く",
+    "meaning": "lacks validity in terms of fairness",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-061.mp3"
+  },
+  {
+    "id": "ja-a1-062",
+    "sentence": "具体的な数字が示されておらず、費用削減の説明は説得力に乏しいです。",
+    "cloze": "費用削減の説明は説得力に乏しいです",
+    "answer": "費用削減の説明は説得力に乏しいです",
+    "accepted_answers": [],
+    "lemma": "説得力に乏しい",
+    "meaning": "the explanation for cost savings is unconvincing",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-062.mp3"
+  },
+  {
+    "id": "ja-a1-063",
+    "sentence": "現場の負担が増えるという反対意見にも、確かに一理あります。",
+    "cloze": "確かに一理あります",
+    "answer": "確かに一理あります",
+    "accepted_answers": [],
+    "lemma": "一理ある",
+    "meaning": "there is certainly some truth in the objection",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-063.mp3"
+  },
+  {
+    "id": "ja-a1-064",
+    "sentence": "責任だけを求めても再発は防げないという指摘は、的を射ています。",
+    "cloze": "的を射ています",
+    "answer": "的を射ています",
+    "accepted_answers": [],
+    "lemma": "的を射る",
+    "meaning": "the observation is exactly on point",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-064.mp3"
+  },
+  {
+    "id": "ja-a1-065",
+    "sentence": "少数とはいえ、制度から取り残される人がいる事実を見過ごすことはできません。",
+    "cloze": "取り残される人がいる事実を見過ごすことはできません",
+    "answer": "取り残される人がいる事実を見過ごすことはできません",
+    "accepted_answers": [],
+    "lemma": "見過ごすことはできない",
+    "meaning": "we cannot overlook the fact that some people are left behind",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-065.mp3"
+  },
+  {
+    "id": "ja-a1-066",
+    "sentence": "利益のために安全基準を緩めたという事実は、看過できません。",
+    "cloze": "看過できません",
+    "answer": "看過できません",
+    "accepted_answers": [],
+    "lemma": "看過できない",
+    "meaning": "the relaxation of safety standards cannot be ignored",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-066.mp3"
+  },
+  {
+    "id": "ja-a1-067",
+    "sentence": "利用者の同意を得ずに情報を共有する方法は、望ましいとは言い難いです。",
+    "cloze": "望ましいとは言い難いです",
+    "answer": "望ましいとは言い難いです",
+    "accepted_answers": [],
+    "lemma": "とは言い難い",
+    "meaning": "can hardly be called desirable",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-067.mp3"
+  },
+  {
+    "id": "ja-a1-068",
+    "sentence": "人員も予算も増やさず、来月までに全業務を移行するのは現実的とは思えません。",
+    "cloze": "来月までに全業務を移行するのは現実的とは思えません",
+    "answer": "来月までに全業務を移行するのは現実的とは思えません",
+    "accepted_answers": [],
+    "lemma": "現実的とは思えない",
+    "meaning": "a complete migration by next month does not seem realistic",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-068.mp3"
+  },
+  {
+    "id": "ja-a1-069",
+    "sentence": "成果が一部に限られている以上、成功と呼ぶにはまだ早いでしょう。",
+    "cloze": "成功と呼ぶにはまだ早いでしょう",
+    "answer": "成功と呼ぶにはまだ早いでしょう",
+    "accepted_answers": [],
+    "lemma": "にはまだ早い",
+    "meaning": "it is still too early to call it a success",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-069.mp3"
+  },
+  {
+    "id": "ja-a1-070",
+    "sentence": "今ある証拠だけで一方に責任があると決めつけるのは、適切ではありません。",
+    "cloze": "一方に責任があると決めつけるのは",
+    "answer": "一方に責任があると決めつけるのは",
+    "accepted_answers": [],
+    "lemma": "決めつける",
+    "meaning": "it is inappropriate to assume one side is responsible",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-070.mp3"
+  },
+  {
+    "id": "ja-a1-071",
+    "sentence": "変化の激しい時代にあって、組織には柔軟な判断が求められます。",
+    "cloze": "変化の激しい時代にあって",
+    "answer": "変化の激しい時代にあって",
+    "accepted_answers": [],
+    "lemma": "にあって",
+    "meaning": "in an era of rapid change, in written style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-071.mp3"
+  },
+  {
+    "id": "ja-a1-072",
+    "sentence": "本調査において、年齢による明確な差は確認されませんでした。",
+    "cloze": "本調査において",
+    "answer": "本調査において",
+    "accepted_answers": [],
+    "lemma": "において",
+    "meaning": "in the present study",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-072.mp3"
+  },
+  {
+    "id": "ja-a1-073",
+    "sentence": "緊急時における情報共有の手順を、あらかじめ定めておく必要があります。",
+    "cloze": "緊急時における情報共有の手順",
+    "answer": "緊急時における情報共有の手順",
+    "accepted_answers": [],
+    "lemma": "における",
+    "meaning": "procedures for sharing information during emergencies",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-073.mp3"
+  },
+  {
+    "id": "ja-a1-074",
+    "sentence": "国内での正式発売に先駆けて、一部の利用者に試験版が公開されました。",
+    "cloze": "正式発売に先駆けて",
+    "answer": "正式発売に先駆けて",
+    "accepted_answers": [],
+    "lemma": "に先駆けて",
+    "meaning": "ahead of the official domestic launch",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-074.mp3"
+  },
+  {
+    "id": "ja-a1-075",
+    "sentence": "制度の改正に先立ち、関係団体から幅広く意見を募ります。",
+    "cloze": "制度の改正に先立ち",
+    "answer": "制度の改正に先立ち",
+    "accepted_answers": [],
+    "lemma": "に先立ち",
+    "meaning": "prior to revising the system",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-075.mp3"
+  },
+  {
+    "id": "ja-a1-076",
+    "sentence": "事業の開始に際し、地域住民を対象とした説明会を開催しました。",
+    "cloze": "事業の開始に際し",
+    "answer": "事業の開始に際し",
+    "accepted_answers": [],
+    "lemma": "に際し",
+    "meaning": "upon launching the project",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-076.mp3"
+  },
+  {
+    "id": "ja-a1-077",
+    "sentence": "報告書の作成にあたり、過去十年分の記録を精査しました。",
+    "cloze": "報告書の作成にあたり",
+    "answer": "報告書の作成にあたり",
+    "accepted_answers": [],
+    "lemma": "にあたり",
+    "meaning": "in preparing the report",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-077.mp3"
+  },
+  {
+    "id": "ja-a1-078",
+    "sentence": "複数回の実証実験を経て、新しい治療法が実用化されました。",
+    "cloze": "複数回の実証実験を経て",
+    "answer": "複数回の実証実験を経て",
+    "accepted_answers": [],
+    "lemma": "を経て",
+    "meaning": "after undergoing multiple field trials",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-078.mp3"
+  },
+  {
+    "id": "ja-a1-079",
+    "sentence": "通常の承認手続きを経ずに、予算が執行されていたことが判明しました。",
+    "cloze": "通常の承認手続きを経ずに",
+    "answer": "通常の承認手続きを経ずに",
+    "accepted_answers": [],
+    "lemma": "を経ずに",
+    "meaning": "without going through the normal approval process",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-079.mp3"
+  },
+  {
+    "id": "ja-a1-080",
+    "sentence": "会社は、事業撤退に至った経緯を株主に詳しく説明しました。",
+    "cloze": "事業撤退に至った経緯",
+    "answer": "事業撤退に至った経緯",
+    "accepted_answers": [],
+    "lemma": "に至った経緯",
+    "meaning": "the circumstances that led to withdrawal from the business",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-080.mp3"
+  },
+  {
+    "id": "ja-a1-081",
+    "sentence": "今回の方針転換に至った背景には、原材料価格の急騰があります。",
+    "cloze": "方針転換に至った背景には",
+    "answer": "方針転換に至った背景には",
+    "accepted_answers": [],
+    "lemma": "に至った背景",
+    "meaning": "behind the decision to change policy",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-081.mp3"
+  },
+  {
+    "id": "ja-a1-082",
+    "sentence": "人手不足と需要の急増が相まって、配送の遅れが深刻化しました。",
+    "cloze": "人手不足と需要の急増が相まって",
+    "answer": "人手不足と需要の急増が相まって",
+    "accepted_answers": [],
+    "lemma": "と相まって",
+    "meaning": "the labor shortage combined with surging demand",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-082.mp3"
+  },
+  {
+    "id": "ja-a1-083",
+    "sentence": "豊かな自然と歴史的な町並みが相まった景観が、多くの観光客を引きつけています。",
+    "cloze": "自然と歴史的な町並みが相まった景観",
+    "answer": "自然と歴史的な町並みが相まった景観",
+    "accepted_answers": [],
+    "lemma": "と相まった",
+    "meaning": "a landscape combining nature and historic streets",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-083.mp3"
+  },
+  {
+    "id": "ja-a1-084",
+    "sentence": "在宅勤務の普及を背景に、郊外の住宅需要が高まっています。",
+    "cloze": "在宅勤務の普及を背景に",
+    "answer": "在宅勤務の普及を背景に",
+    "accepted_answers": [],
+    "lemma": "を背景に",
+    "meaning": "against the backdrop of widespread remote work",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-084.mp3"
+  },
+  {
+    "id": "ja-a1-085",
+    "sentence": "相次ぐ苦情を受け、運営会社は料金体系の見直しを発表しました。",
+    "cloze": "相次ぐ苦情を受け",
+    "answer": "相次ぐ苦情を受け",
+    "accepted_answers": [],
+    "lemma": "を受け",
+    "meaning": "in response to a series of complaints",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-085.mp3"
+  },
+  {
+    "id": "ja-a1-086",
+    "sentence": "海外での勤務を契機として、自分の専門分野を見直すようになりました。",
+    "cloze": "海外での勤務を契機として",
+    "answer": "海外での勤務を契機として",
+    "accepted_answers": [],
+    "lemma": "を契機として",
+    "meaning": "with overseas work as a turning point",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-086.mp3"
+  },
+  {
+    "id": "ja-a1-087",
+    "sentence": "新駅の開業を境に、周辺地域の人口は増加に転じました。",
+    "cloze": "新駅の開業を境に",
+    "answer": "新駅の開業を境に",
+    "accepted_answers": [],
+    "lemma": "を境に",
+    "meaning": "from the opening of the new station onward",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-087.mp3"
+  },
+  {
+    "id": "ja-a1-088",
+    "sentence": "一年間の研修を通じて、異なる部署の業務を体系的に学びます。",
+    "cloze": "一年間の研修を通じて",
+    "answer": "一年間の研修を通じて",
+    "accepted_answers": [],
+    "lemma": "を通じて",
+    "meaning": "throughout the year-long training",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-088.mp3"
+  },
+  {
+    "id": "ja-a1-089",
+    "sentence": "現地の協力団体を介して、必要な物資を被災地へ届けました。",
+    "cloze": "現地の協力団体を介して",
+    "answer": "現地の協力団体を介して",
+    "accepted_answers": [],
+    "lemma": "を介して",
+    "meaning": "through a local partner organization",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-089.mp3"
+  },
+  {
+    "id": "ja-a1-090",
+    "sentence": "実際の利用状況に即して、支援の対象と金額を決定します。",
+    "cloze": "実際の利用状況に即して",
+    "answer": "実際の利用状況に即して",
+    "accepted_answers": [],
+    "lemma": "に即して",
+    "meaning": "in accordance with actual usage",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-090.mp3"
+  },
+  {
+    "id": "ja-a1-091",
+    "sentence": "自治体は、国が示した指針に沿って避難計画を改定しました。",
+    "cloze": "国が示した指針に沿って",
+    "answer": "国が示した指針に沿って",
+    "accepted_answers": [],
+    "lemma": "に沿って",
+    "meaning": "in line with the national guidelines",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-091.mp3"
+  },
+  {
+    "id": "ja-a1-092",
+    "sentence": "これまでに得られた証拠に照らして、当初の仮説を修正しました。",
+    "cloze": "得られた証拠に照らして",
+    "answer": "得られた証拠に照らして",
+    "accepted_answers": [],
+    "lemma": "に照らして",
+    "meaning": "in light of the evidence obtained",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-092.mp3"
+  },
+  {
+    "id": "ja-a1-093",
+    "sentence": "近年の利用者減少に鑑み、運行本数を段階的に見直します。",
+    "cloze": "近年の利用者減少に鑑み",
+    "answer": "近年の利用者減少に鑑み",
+    "accepted_answers": [],
+    "lemma": "に鑑み",
+    "meaning": "in view of the recent decline in users, in formal style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-093.mp3"
+  },
+  {
+    "id": "ja-a1-094",
+    "sentence": "すべての申請は、所定の手続きに則って審査されます。",
+    "cloze": "所定の手続きに則って",
+    "answer": "所定の手続きに則って",
+    "accepted_answers": [],
+    "lemma": "に則って",
+    "meaning": "in accordance with the prescribed procedure",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-094.mp3"
+  },
+  {
+    "id": "ja-a1-095",
+    "sentence": "これは組織の信頼にかかわる問題であり、早急な説明が必要です。",
+    "cloze": "組織の信頼にかかわる問題",
+    "answer": "組織の信頼にかかわる問題",
+    "accepted_answers": [],
+    "lemma": "にかかわる",
+    "meaning": "an issue affecting the organization's credibility",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-095.mp3"
+  },
+  {
+    "id": "ja-a1-096",
+    "sentence": "新空港の建設をめぐる議論は、十年以上にわたって続きました。",
+    "cloze": "新空港の建設をめぐる議論",
+    "answer": "新空港の建設をめぐる議論",
+    "accepted_answers": [],
+    "lemma": "をめぐる",
+    "meaning": "the debate surrounding construction of the new airport",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-096.mp3"
+  },
+  {
+    "id": "ja-a1-097",
+    "sentence": "この土地にまつわる伝承は、今も地域の行事に受け継がれています。",
+    "cloze": "この土地にまつわる伝承",
+    "answer": "この土地にまつわる伝承",
+    "accepted_answers": [],
+    "lemma": "にまつわる",
+    "meaning": "legends associated with this land",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-097.mp3"
+  },
+  {
+    "id": "ja-a1-098",
+    "sentence": "制度変更に伴う事務負担を減らすため、移行期間を設けます。",
+    "cloze": "制度変更に伴う事務負担",
+    "answer": "制度変更に伴う事務負担",
+    "accepted_answers": [],
+    "lemma": "に伴う",
+    "meaning": "the administrative burden accompanying the policy change",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-098.mp3"
+  },
+  {
+    "id": "ja-a1-099",
+    "sentence": "急速な都市化に伴って生じる住宅不足が、深刻な課題となっています。",
+    "cloze": "都市化に伴って生じる住宅不足",
+    "answer": "都市化に伴って生じる住宅不足",
+    "accepted_answers": [],
+    "lemma": "に伴って生じる",
+    "meaning": "the housing shortage arising from rapid urbanization",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-099.mp3"
+  },
+  {
+    "id": "ja-a1-100",
+    "sentence": "担当者による確認を要する案件については、回答に数日かかります。",
+    "cloze": "担当者による確認を要する案件",
+    "answer": "担当者による確認を要する案件",
+    "accepted_answers": [],
+    "lemma": "を要する",
+    "meaning": "cases requiring confirmation by the person in charge",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-100.mp3"
+  },
+  {
+    "id": "ja-a1-101",
+    "sentence": "専門家との検討を重ねた結果、設計を全面的に変更することになりました。",
+    "cloze": "専門家との検討を重ねた結果",
+    "answer": "専門家との検討を重ねた結果",
+    "accepted_answers": [],
+    "lemma": "検討を重ねる",
+    "meaning": "after repeated consultation with experts",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-101.mp3"
+  },
+  {
+    "id": "ja-a1-102",
+    "sentence": "住民との合意形成を図りながら、段階的に計画を進めます。",
+    "cloze": "住民との合意形成を図りながら",
+    "answer": "住民との合意形成を図りながら",
+    "accepted_answers": [],
+    "lemma": "合意形成を図る",
+    "meaning": "while working to build consensus with residents",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-102.mp3"
+  },
+  {
+    "id": "ja-a1-103",
+    "sentence": "来年度の実施に向けた調整が、関係部署の間で進められています。",
+    "cloze": "来年度の実施に向けた調整",
+    "answer": "来年度の実施に向けた調整",
+    "accepted_answers": [],
+    "lemma": "に向けた調整",
+    "meaning": "coordination toward implementation next fiscal year",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-103.mp3"
+  },
+  {
+    "id": "ja-a1-104",
+    "sentence": "市長は、方針転換に至った理由を記者会見で明らかにしました。",
+    "cloze": "方針転換に至った理由",
+    "answer": "方針転換に至った理由",
+    "accepted_answers": [],
+    "lemma": "に至った理由",
+    "meaning": "the reasons that led to the policy reversal",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-104.mp3"
+  },
+  {
+    "id": "ja-a1-105",
+    "sentence": "まず住民生活への影響の把握を行い、必要な支援策を検討します。",
+    "cloze": "住民生活への影響の把握",
+    "answer": "住民生活への影響の把握",
+    "accepted_answers": [],
+    "lemma": "影響の把握",
+    "meaning": "assessment of the impact on residents' lives",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-105.mp3"
+  },
+  {
+    "id": "ja-a1-106",
+    "sentence": "複数の業務を共通化することで、長期的な費用の削減につながります。",
+    "cloze": "長期的な費用の削減につながります",
+    "answer": "長期的な費用の削減につながります",
+    "accepted_answers": [],
+    "lemma": "につながる",
+    "meaning": "will lead to long-term cost reductions",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-106.mp3"
+  },
+  {
+    "id": "ja-a1-107",
+    "sentence": "研究チームは、廃棄物を再利用する技術の実現可能性を探っています。",
+    "cloze": "再利用する技術の実現可能性を探っています",
+    "answer": "再利用する技術の実現可能性を探っています",
+    "accepted_answers": [],
+    "lemma": "可能性を探る",
+    "meaning": "is exploring the feasibility of recycling technology",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-107.mp3"
+  },
+  {
+    "id": "ja-a1-108",
+    "sentence": "自治体は、地域間の医療格差の解消を目指す新制度を発表しました。",
+    "cloze": "医療格差の解消を目指す新制度",
+    "answer": "医療格差の解消を目指す新制度",
+    "accepted_answers": [],
+    "lemma": "解消を目指す",
+    "meaning": "a new program aimed at eliminating healthcare disparities",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-108.mp3"
+  },
+  {
+    "id": "ja-a1-109",
+    "sentence": "再発を防止するための取り組みとして、外部監査を毎年実施します。",
+    "cloze": "再発を防止するための取り組みとして",
+    "answer": "再発を防止するための取り組みとして",
+    "accepted_answers": [],
+    "lemma": "取り組み",
+    "meaning": "as an initiative to prevent recurrence",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-109.mp3"
+  },
+  {
+    "id": "ja-a1-110",
+    "sentence": "重要な会議の記録を公開し、意思決定の透明性を確保します。",
+    "cloze": "意思決定の透明性を確保します",
+    "answer": "意思決定の透明性を確保します",
+    "accepted_answers": [],
+    "lemma": "透明性を確保する",
+    "meaning": "will ensure transparency in decision-making",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-110.mp3"
+  },
+  {
+    "id": "ja-a1-111",
+    "sentence": "そもそも、この制度はどのような問題を解決するために作られたのでしょうか。",
+    "cloze": "そもそも、この制度は",
+    "answer": "そもそも、この制度は",
+    "accepted_answers": [],
+    "lemma": "そもそも",
+    "meaning": "to begin with, what was this system intended to do",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-111.mp3"
+  },
+  {
+    "id": "ja-a1-112",
+    "sentence": "まずもって、長期間にわたる皆様のご協力に感謝申し上げます。",
+    "cloze": "まずもって",
+    "answer": "まずもって",
+    "accepted_answers": [],
+    "lemma": "まずもって",
+    "meaning": "first and foremost, in formal remarks",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-112.mp3"
+  },
+  {
+    "id": "ja-a1-113",
+    "sentence": "第一の案は費用を抑えられます。これに対して、第二の案は安全性に優れています。",
+    "cloze": "これに対して、第二の案は安全性に優れています",
+    "answer": "これに対して、第二の案は安全性に優れています",
+    "accepted_answers": [],
+    "lemma": "これに対して",
+    "meaning": "by contrast, the second option offers better safety",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-113.mp3"
+  },
+  {
+    "id": "ja-a1-114",
+    "sentence": "都市部では雇用が増えています。その一方で、住宅不足が深刻化しています。",
+    "cloze": "その一方で、住宅不足が深刻化しています",
+    "answer": "その一方で、住宅不足が深刻化しています",
+    "accepted_answers": [],
+    "lemma": "その一方で",
+    "meaning": "on the other hand, the housing shortage is worsening",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-114.mp3"
+  },
+  {
+    "id": "ja-a1-115",
+    "sentence": "翻って国内市場を見ると、同じ製品の需要は伸び悩んでいます。",
+    "cloze": "翻って国内市場を見ると",
+    "answer": "翻って国内市場を見ると",
+    "accepted_answers": [],
+    "lemma": "翻って",
+    "meaning": "turning our attention to the domestic market, in formal analysis",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-115.mp3"
+  },
+  {
+    "id": "ja-a1-116",
+    "sentence": "制度の方向性には賛成です。もっとも、財源の確保という課題は残ります。",
+    "cloze": "財源の確保という課題は残ります",
+    "answer": "財源の確保という課題は残ります",
+    "accepted_answers": [],
+    "lemma": "もっとも",
+    "meaning": "that said, the issue of funding remains",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-116.mp3"
+  },
+  {
+    "id": "ja-a1-117",
+    "sentence": "一定の改善は見られます。ただ、地域による差は依然として大きいです。",
+    "cloze": "ただ、地域による差は依然として大きいです",
+    "answer": "ただ、地域による差は依然として大きいです",
+    "accepted_answers": [],
+    "lemma": "ただ",
+    "meaning": "however, regional disparities remain considerable",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-117.mp3"
+  },
+  {
+    "id": "ja-a1-118",
+    "sentence": "新制度が始まったとはいうものの、現場では旧来の手順も残っています。",
+    "cloze": "新制度が始まったとはいうものの",
+    "answer": "新制度が始まったとはいうものの",
+    "accepted_answers": [],
+    "lemma": "とはいうものの",
+    "meaning": "although the new system has begun",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-118.mp3"
+  },
+  {
+    "id": "ja-a1-119",
+    "sentence": "十分な時間があったにもかかわらず、必要な確認が行われませんでした。",
+    "cloze": "十分な時間があったにもかかわらず",
+    "answer": "十分な時間があったにもかかわらず",
+    "accepted_answers": [],
+    "lemma": "にもかかわらず",
+    "meaning": "despite there having been sufficient time",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-119.mp3"
+  },
+  {
+    "id": "ja-a1-120",
+    "sentence": "責任者といえども、定められた手続きを無視することは許されません。",
+    "cloze": "責任者といえども",
+    "answer": "責任者といえども",
+    "accepted_answers": [],
+    "lemma": "といえども",
+    "meaning": "even a person in charge",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-120.mp3"
+  },
+  {
+    "id": "ja-a1-121",
+    "sentence": "一度成功したからといって、次も同じ結果になるとは限りません。",
+    "cloze": "一度成功したからといって",
+    "answer": "一度成功したからといって",
+    "accepted_answers": [],
+    "lemma": "からといって",
+    "meaning": "just because it succeeded once",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-121.mp3"
+  },
+  {
+    "id": "ja-a1-122",
+    "sentence": "早く相談してくれれば対応できたものを、なぜ一人で抱え込んだのですか。",
+    "cloze": "早く相談してくれれば対応できたものを",
+    "answer": "早く相談してくれれば対応できたものを",
+    "accepted_answers": [],
+    "lemma": "ものを",
+    "meaning": "we could have dealt with it if you had consulted us earlier",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-122.mp3"
+  },
+  {
+    "id": "ja-a1-123",
+    "sentence": "ご多忙のところをお越しいただき、心より御礼申し上げます。",
+    "cloze": "ご多忙のところをお越しいただき",
+    "answer": "ご多忙のところをお越しいただき",
+    "accepted_answers": [],
+    "lemma": "ところを",
+    "meaning": "thank you for coming despite your busy schedule",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-123.mp3"
+  },
+  {
+    "id": "ja-a1-124",
+    "sentence": "互いに信頼していればこそ、率直な意見を交わせるのです。",
+    "cloze": "互いに信頼していればこそ",
+    "answer": "互いに信頼していればこそ",
+    "accepted_answers": [],
+    "lemma": "ばこそ",
+    "meaning": "precisely because they trust one another",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-124.mp3"
+  },
+  {
+    "id": "ja-a1-125",
+    "sentence": "意見が異なるからこそ、共通の事実を丁寧に確認する必要があります。",
+    "cloze": "意見が異なるからこそ",
+    "answer": "意見が異なるからこそ",
+    "accepted_answers": [],
+    "lemma": "からこそ",
+    "meaning": "precisely because their opinions differ",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-125.mp3"
+  },
+  {
+    "id": "ja-a1-126",
+    "sentence": "現行の設備では需要に対応できない。それゆえに、増設が必要なのです。",
+    "cloze": "それゆえに、増設が必要なのです",
+    "answer": "それゆえに、増設が必要なのです",
+    "accepted_answers": [],
+    "lemma": "それゆえに",
+    "meaning": "therefore, additional facilities are necessary",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-126.mp3"
+  },
+  {
+    "id": "ja-a1-127",
+    "sentence": "前例のない事態であるがゆえに、判断には十分な注意が求められます。",
+    "cloze": "前例のない事態であるがゆえに",
+    "answer": "前例のない事態であるがゆえに",
+    "accepted_answers": [],
+    "lemma": "がゆえに",
+    "meaning": "because this is an unprecedented situation, in written style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-127.mp3"
+  },
+  {
+    "id": "ja-a1-128",
+    "sentence": "部署間で情報を共有することによって、判断の重複を避けられます。",
+    "cloze": "部署間で情報を共有することによって",
+    "answer": "部署間で情報を共有することによって",
+    "accepted_answers": [],
+    "lemma": "ことによって",
+    "meaning": "by sharing information across departments",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-128.mp3"
+  },
+  {
+    "id": "ja-a1-129",
+    "sentence": "地域によっては、最寄りの病院まで二時間以上かかります。",
+    "cloze": "地域によっては",
+    "answer": "地域によっては",
+    "accepted_answers": [],
+    "lemma": "によっては",
+    "meaning": "in some regions",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-129.mp3"
+  },
+  {
+    "id": "ja-a1-130",
+    "sentence": "今後の交渉次第では、計画の開始が半年ほど遅れる可能性があります。",
+    "cloze": "今後の交渉次第では",
+    "answer": "今後の交渉次第では",
+    "accepted_answers": [],
+    "lemma": "次第では",
+    "meaning": "depending on how future negotiations proceed",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-130.mp3"
+  },
+  {
+    "id": "ja-a1-131",
+    "sentence": "被害の程度いかんでは、追加の支援措置も検討します。",
+    "cloze": "被害の程度いかんでは",
+    "answer": "被害の程度いかんでは",
+    "accepted_answers": [],
+    "lemma": "いかんでは",
+    "meaning": "depending on the extent of the damage, in formal style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-131.mp3"
+  },
+  {
+    "id": "ja-a1-132",
+    "sentence": "今から予算を増やしたところで、今年度中の完成には間に合いません。",
+    "cloze": "今から予算を増やしたところで",
+    "answer": "今から予算を増やしたところで",
+    "accepted_answers": [],
+    "lemma": "たところで",
+    "meaning": "even if the budget were increased now",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-132.mp3"
+  },
+  {
+    "id": "ja-a1-133",
+    "sentence": "どの案を選ぶにせよ、住民への丁寧な説明が欠かせません。",
+    "cloze": "どの案を選ぶにせよ",
+    "answer": "どの案を選ぶにせよ",
+    "accepted_answers": [],
+    "lemma": "にせよ",
+    "meaning": "whichever option is selected",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-133.mp3"
+  },
+  {
+    "id": "ja-a1-134",
+    "sentence": "賛成するにしろ反対するにしろ、まず資料を読んでから判断してください。",
+    "cloze": "賛成するにしろ反対するにしろ",
+    "answer": "賛成するにしろ反対するにしろ",
+    "accepted_answers": [],
+    "lemma": "にしろ〜にしろ",
+    "meaning": "whether you support it or oppose it",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-134.mp3"
+  },
+  {
+    "id": "ja-a1-135",
+    "sentence": "正社員であれ契約社員であれ、安全上の規則は全員に適用されます。",
+    "cloze": "正社員であれ契約社員であれ",
+    "answer": "正社員であれ契約社員であれ",
+    "accepted_answers": [],
+    "lemma": "であれ〜であれ",
+    "meaning": "whether permanent or contract staff",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-135.mp3"
+  },
+  {
+    "id": "ja-a1-136",
+    "sentence": "全国規模の事業ともなると、関係者の調整だけでも数か月かかります。",
+    "cloze": "全国規模の事業ともなると",
+    "answer": "全国規模の事業ともなると",
+    "accepted_answers": [],
+    "lemma": "ともなると",
+    "meaning": "when it comes to a nationwide project",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-136.mp3"
+  },
+  {
+    "id": "ja-a1-137",
+    "sentence": "一日ならまだしも、一週間も連絡が取れないのは異常です。",
+    "cloze": "一日ならまだしも",
+    "answer": "一日ならまだしも",
+    "accepted_answers": [],
+    "lemma": "ならまだしも",
+    "meaning": "one day might be understandable, but",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-137.mp3"
+  },
+  {
+    "id": "ja-a1-138",
+    "sentence": "この複雑な修復作業を任せられるのは、長年の経験を持つ彼をおいてほかにいません。",
+    "cloze": "彼をおいてほかにいません",
+    "answer": "彼をおいてほかにいません",
+    "accepted_answers": [],
+    "lemma": "をおいてほかにない",
+    "meaning": "there is no one other than him",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-138.mp3"
+  },
+  {
+    "id": "ja-a1-139",
+    "sentence": "人手不足はこの業界に限ったことではなく、社会全体の課題です。",
+    "cloze": "この業界に限ったことではなく",
+    "answer": "この業界に限ったことではなく",
+    "accepted_answers": [],
+    "lemma": "に限ったことではない",
+    "meaning": "is not an issue confined to this industry",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-139.mp3"
+  },
+  {
+    "id": "ja-a1-140",
+    "sentence": "根本的な原因を取り除かない限り、同じ問題は繰り返されるでしょう。",
+    "cloze": "根本的な原因を取り除かない限り",
+    "answer": "根本的な原因を取り除かない限り",
+    "accepted_answers": [],
+    "lemma": "ない限り",
+    "meaning": "unless the root cause is removed",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-140.mp3"
+  },
+  {
+    "id": "ja-a1-141",
+    "sentence": "現場の協力なくして、この大規模な調査を完成させることはできませんでした。",
+    "cloze": "現場の協力なくして",
+    "answer": "現場の協力なくして",
+    "accepted_answers": [],
+    "lemma": "なくして",
+    "meaning": "without the cooperation of field staff",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-141.mp3"
+  },
+  {
+    "id": "ja-a1-142",
+    "sentence": "住民の理解なしには、この計画を長期的に続けることは困難です。",
+    "cloze": "住民の理解なしには",
+    "answer": "住民の理解なしには",
+    "accepted_answers": [],
+    "lemma": "なしには",
+    "meaning": "without the understanding of residents",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-142.mp3"
+  },
+  {
+    "id": "ja-a1-143",
+    "sentence": "可能なものなら、当時の担当者に直接事情を聞いてみたいです。",
+    "cloze": "可能なものなら",
+    "answer": "可能なものなら",
+    "accepted_answers": [],
+    "lemma": "ものなら",
+    "meaning": "if it were at all possible",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-143.mp3"
+  },
+  {
+    "id": "ja-a1-144",
+    "sentence": "実際に使ってみないことには、操作性の良し悪しは判断できません。",
+    "cloze": "実際に使ってみないことには",
+    "answer": "実際に使ってみないことには",
+    "accepted_answers": [],
+    "lemma": "ないことには",
+    "meaning": "unless we actually try using it",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-144.mp3"
+  },
+  {
+    "id": "ja-a1-145",
+    "sentence": "仮に需要が回復したとしても、以前と同じ規模に戻る保証はありません。",
+    "cloze": "以前と同じ規模に戻る保証はありません",
+    "answer": "以前と同じ規模に戻る保証はありません",
+    "accepted_answers": [],
+    "lemma": "保証はない",
+    "meaning": "there is no guarantee it will return to its former scale",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-145.mp3"
+  },
+  {
+    "id": "ja-a1-146",
+    "sentence": "新工場の建設計画につきまして、現在の進捗状況をご報告申し上げます。",
+    "cloze": "現在の進捗状況をご報告申し上げます",
+    "answer": "現在の進捗状況をご報告申し上げます",
+    "accepted_answers": [],
+    "lemma": "ご報告申し上げる",
+    "meaning": "I would like to report on the current progress",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-146.mp3"
+  },
+  {
+    "id": "ja-a1-147",
+    "sentence": "資材の調達に時間を要し、当初の計画から若干の遅れが生じています。",
+    "cloze": "当初の計画から若干の遅れが生じています",
+    "answer": "当初の計画から若干の遅れが生じています",
+    "accepted_answers": [],
+    "lemma": "遅れが生じる",
+    "meaning": "there has been a slight delay from the original plan",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-147.mp3"
+  },
+  {
+    "id": "ja-a1-148",
+    "sentence": "現在までに、基礎工事のおよそ八割が完了しております。",
+    "cloze": "基礎工事のおよそ八割が完了しております",
+    "answer": "基礎工事のおよそ八割が完了しております",
+    "accepted_answers": [],
+    "lemma": "完了しております",
+    "meaning": "approximately eighty percent of the foundation work is complete",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-148.mp3"
+  },
+  {
+    "id": "ja-a1-149",
+    "sentence": "今回の遅延の主因は、必要な部品の供給不足にあります。",
+    "cloze": "必要な部品の供給不足にあります",
+    "answer": "必要な部品の供給不足にあります",
+    "accepted_answers": [],
+    "lemma": "主因は〜にある",
+    "meaning": "the primary cause of the delay lies in the parts shortage",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-149.mp3"
+  },
+  {
+    "id": "ja-a1-150",
+    "sentence": "調査結果をもとに、再発防止に向けた具体的な対応策を取りまとめています。",
+    "cloze": "具体的な対応策を取りまとめています",
+    "answer": "具体的な対応策を取りまとめています",
+    "accepted_answers": [],
+    "lemma": "対応策を取りまとめる",
+    "meaning": "we are compiling concrete response measures",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-150.mp3"
+  },
+  {
+    "id": "ja-a1-151",
+    "sentence": "関係部署が連携し、サービスの早期復旧に全力を挙げています。",
+    "cloze": "サービスの早期復旧に全力を挙げています",
+    "answer": "サービスの早期復旧に全力を挙げています",
+    "accepted_answers": [],
+    "lemma": "全力を挙げる",
+    "meaning": "we are making every effort to restore service quickly",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-151.mp3"
+  },
+  {
+    "id": "ja-a1-152",
+    "sentence": "復旧の見通しが立ち次第、改めて公式サイトでお知らせいたします。",
+    "cloze": "復旧の見通しが立ち次第",
+    "answer": "復旧の見通しが立ち次第",
+    "accepted_answers": [],
+    "lemma": "見通しが立つ",
+    "meaning": "as soon as there is a clear restoration outlook",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-152.mp3"
+  },
+  {
+    "id": "ja-a1-153",
+    "sentence": "現時点では方針を変更せず、今後の市場の推移を注視します。",
+    "cloze": "今後の市場の推移を注視します",
+    "answer": "今後の市場の推移を注視します",
+    "accepted_answers": [],
+    "lemma": "推移を注視する",
+    "meaning": "we will closely monitor future market developments",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-153.mp3"
+  },
+  {
+    "id": "ja-a1-154",
+    "sentence": "状況の変化に応じて、必要な追加措置を速やかに講じます。",
+    "cloze": "必要な追加措置を速やかに講じます",
+    "answer": "必要な追加措置を速やかに講じます",
+    "accepted_answers": [],
+    "lemma": "措置を講じる",
+    "meaning": "we will promptly take any additional measures required",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-154.mp3"
+  },
+  {
+    "id": "ja-a1-155",
+    "sentence": "導入後も利用者の意見を集め、制度の効果を継続的に検証してまいります。",
+    "cloze": "制度の効果を継続的に検証してまいります",
+    "answer": "制度の効果を継続的に検証してまいります",
+    "accepted_answers": [],
+    "lemma": "検証してまいる",
+    "meaning": "we will continue to evaluate the program's effects",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-155.mp3"
+  },
+  {
+    "id": "ja-a1-156",
+    "sentence": "業務の重複を減らすため、受付窓口の一本化を提案させていただきます。",
+    "cloze": "受付窓口の一本化を提案させていただきます",
+    "answer": "受付窓口の一本化を提案させていただきます",
+    "accepted_answers": [],
+    "lemma": "提案させていただく",
+    "meaning": "allow me to propose consolidating the service desks",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-156.mp3"
+  },
+  {
+    "id": "ja-a1-157",
+    "sentence": "まず一部の部署で試験的な導入を検討してはいかがでしょうか。",
+    "cloze": "試験的な導入を検討してはいかがでしょうか",
+    "answer": "試験的な導入を検討してはいかがでしょうか",
+    "accepted_answers": [],
+    "lemma": "てはいかがでしょうか",
+    "meaning": "might we consider a trial introduction",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-157.mp3"
+  },
+  {
+    "id": "ja-a1-158",
+    "sentence": "新規採用が難しい場合は、外部委託も有力な選択肢として考えられます。",
+    "cloze": "有力な選択肢として考えられます",
+    "answer": "有力な選択肢として考えられます",
+    "accepted_answers": [],
+    "lemma": "選択肢として考えられる",
+    "meaning": "can be considered a strong alternative",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-158.mp3"
+  },
+  {
+    "id": "ja-a1-159",
+    "sentence": "全面的な建て替えではなく、既存設備の改修を代替案として提示します。",
+    "cloze": "既存設備の改修を代替案として提示します",
+    "answer": "既存設備の改修を代替案として提示します",
+    "accepted_answers": [],
+    "lemma": "代替案として提示する",
+    "meaning": "we present renovation of the existing facilities as an alternative",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-159.mp3"
+  },
+  {
+    "id": "ja-a1-160",
+    "sentence": "準備期間を考慮し、実施時期を来年四月とすることを提案します。",
+    "cloze": "実施時期を来年四月とすることを提案します",
+    "answer": "実施時期を来年四月とすることを提案します",
+    "accepted_answers": [],
+    "lemma": "とすることを提案する",
+    "meaning": "I propose setting implementation for next April",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-160.mp3"
+  },
+  {
+    "id": "ja-a1-161",
+    "sentence": "期待される効果は大きいものの、費用面から慎重な検討が必要です。",
+    "cloze": "費用面から慎重な検討が必要です",
+    "answer": "費用面から慎重な検討が必要です",
+    "accepted_answers": [],
+    "lemma": "慎重な検討が必要",
+    "meaning": "careful consideration is required from a cost perspective",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-161.mp3"
+  },
+  {
+    "id": "ja-a1-162",
+    "sentence": "この施策によって想定される効果を、短期と長期に分けて整理しました。",
+    "cloze": "この施策によって想定される効果",
+    "answer": "この施策によって想定される効果",
+    "accepted_answers": [],
+    "lemma": "想定される効果",
+    "meaning": "the anticipated effects of this measure",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-162.mp3"
+  },
+  {
+    "id": "ja-a1-163",
+    "sentence": "作業時間の短縮が期待される一方、初期費用の増加が見込まれます。",
+    "cloze": "作業時間の短縮が期待される一方",
+    "answer": "作業時間の短縮が期待される一方",
+    "accepted_answers": [],
+    "lemma": "期待される一方",
+    "meaning": "while shorter working times are expected",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-163.mp3"
+  },
+  {
+    "id": "ja-a1-164",
+    "sentence": "主な課題として挙げられるのは、専門知識を持つ人材の不足です。",
+    "cloze": "主な課題として挙げられるのは",
+    "answer": "主な課題として挙げられるのは",
+    "accepted_answers": [],
+    "lemma": "課題として挙げられる",
+    "meaning": "the main issue that can be identified is",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-164.mp3"
+  },
+  {
+    "id": "ja-a1-165",
+    "sentence": "対象地域を限定することで、初期段階のリスクを最小限に抑えます。",
+    "cloze": "初期段階のリスクを最小限に抑えます",
+    "answer": "初期段階のリスクを最小限に抑えます",
+    "accepted_answers": [],
+    "lemma": "リスクを最小限に抑える",
+    "meaning": "will minimize risk during the initial phase",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-165.mp3"
+  },
+  {
+    "id": "ja-a1-166",
+    "sentence": "契約期間をめぐり、両社の認識には依然として大きな隔たりがあります。",
+    "cloze": "依然として大きな隔たりがあります",
+    "answer": "依然として大きな隔たりがあります",
+    "accepted_answers": [],
+    "lemma": "隔たりがある",
+    "meaning": "there remains a substantial gap between the companies' views",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-166.mp3"
+  },
+  {
+    "id": "ja-a1-167",
+    "sentence": "価格については合意しましたが、保証条件の面で折り合いがついていません。",
+    "cloze": "保証条件の面で折り合いがついていません",
+    "answer": "保証条件の面で折り合いがついていません",
+    "accepted_answers": [],
+    "lemma": "折り合いがつく",
+    "meaning": "we have not reached agreement on the warranty terms",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-167.mp3"
+  },
+  {
+    "id": "ja-a1-168",
+    "sentence": "双方が受け入れられる妥協点を探るため、協議を継続します。",
+    "cloze": "双方が受け入れられる妥協点を探るため",
+    "answer": "双方が受け入れられる妥協点を探るため",
+    "accepted_answers": [],
+    "lemma": "妥協点を探る",
+    "meaning": "to seek a compromise acceptable to both sides",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-168.mp3"
+  },
+  {
+    "id": "ja-a1-169",
+    "sentence": "この案は、費用と安全性の両面で双方に受け入れ可能だと考えます。",
+    "cloze": "双方に受け入れ可能だと考えます",
+    "answer": "双方に受け入れ可能だと考えます",
+    "accepted_answers": [],
+    "lemma": "受け入れ可能",
+    "meaning": "we believe this is acceptable to both sides",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-169.mp3"
+  },
+  {
+    "id": "ja-a1-170",
+    "sentence": "残る懸案事項は、契約終了後の情報管理をどうするかという点です。",
+    "cloze": "残る懸案事項は",
+    "answer": "残る懸案事項は",
+    "accepted_answers": [],
+    "lemma": "懸案事項",
+    "meaning": "the remaining outstanding issue is",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-170.mp3"
+  },
+  {
+    "id": "ja-a1-171",
+    "sentence": "率直に申し上げて、現在の条件では採算を確保するのは困難です。",
+    "cloze": "率直に申し上げて",
+    "answer": "率直に申し上げて",
+    "accepted_answers": [],
+    "lemma": "率直に申し上げる",
+    "meaning": "to speak frankly, in polite professional style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-171.mp3"
+  },
+  {
+    "id": "ja-a1-172",
+    "sentence": "提案の基本的な方向性には異論ありませんが、実施時期は再考すべきです。",
+    "cloze": "基本的な方向性には異論ありませんが",
+    "answer": "基本的な方向性には異論ありませんが",
+    "accepted_answers": [],
+    "lemma": "異論はない",
+    "meaning": "I have no objection to the proposal's basic direction, but",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-172.mp3"
+  },
+  {
+    "id": "ja-a1-173",
+    "sentence": "ご説明の内容について、ただ一点確認させてください。",
+    "cloze": "ただ一点確認させてください",
+    "answer": "ただ一点確認させてください",
+    "accepted_answers": [],
+    "lemma": "確認させてください",
+    "meaning": "please allow me to clarify just one point",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-173.mp3"
+  },
+  {
+    "id": "ja-a1-174",
+    "sentence": "問題の原因がすべて人手不足にあるという見方には、必ずしも同意できません。",
+    "cloze": "必ずしも同意できません",
+    "answer": "必ずしも同意できません",
+    "accepted_answers": [],
+    "lemma": "必ずしも同意できない",
+    "meaning": "I cannot necessarily agree with that view",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-174.mp3"
+  },
+  {
+    "id": "ja-a1-175",
+    "sentence": "一つの事例から制度全体が失敗だとする結論には、論理の飛躍があります。",
+    "cloze": "論理の飛躍があります",
+    "answer": "論理の飛躍があります",
+    "accepted_answers": [],
+    "lemma": "論理の飛躍がある",
+    "meaning": "the conclusion makes an unwarranted logical leap",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-175.mp3"
+  },
+  {
+    "id": "ja-a1-176",
+    "sentence": "議論を進める前に、需要は今後も増えるという前提自体を見直す必要があります。",
+    "cloze": "需要は今後も増えるという前提自体を見直す必要があります",
+    "answer": "需要は今後も増えるという前提自体を見直す必要があります",
+    "accepted_answers": [],
+    "lemma": "前提自体を見直す",
+    "meaning": "we need to revisit the underlying assumption that demand will grow",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-176.mp3"
+  },
+  {
+    "id": "ja-a1-177",
+    "sentence": "設備の故障だけでなく、運用手順に問題があった可能性も考慮すべきです。",
+    "cloze": "運用手順に問題があった可能性も考慮すべきです",
+    "answer": "運用手順に問題があった可能性も考慮すべきです",
+    "accepted_answers": [],
+    "lemma": "可能性を考慮する",
+    "meaning": "we should also consider the possibility of flawed procedures",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-177.mp3"
+  },
+  {
+    "id": "ja-a1-178",
+    "sentence": "効率化そのものに反対するものではありませんが、雇用への影響が心配です。",
+    "cloze": "効率化そのものに反対するものではありませんが",
+    "answer": "効率化そのものに反対するものではありませんが",
+    "accepted_answers": [],
+    "lemma": "に反対するものではない",
+    "meaning": "I am not opposed to efficiency improvements themselves, but",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-178.mp3"
+  },
+  {
+    "id": "ja-a1-179",
+    "sentence": "根拠となる資料が不足しており、現時点でこの案に賛同するのは難しいです。",
+    "cloze": "現時点でこの案に賛同するのは難しいです",
+    "answer": "現時点でこの案に賛同するのは難しいです",
+    "accepted_answers": [],
+    "lemma": "賛同するのは難しい",
+    "meaning": "it is difficult to support this proposal at present",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-179.mp3"
+  },
+  {
+    "id": "ja-a1-180",
+    "sentence": "社内での確認が済むまで、最終的な決定を留保させていただきたいと存じます。",
+    "cloze": "最終的な決定を留保させていただきたいと存じます",
+    "answer": "最終的な決定を留保させていただきたいと存じます",
+    "accepted_answers": [],
+    "lemma": "決定を留保する",
+    "meaning": "we would like to reserve our final decision",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-180.mp3"
+  },
+  {
+    "id": "ja-a1-181",
+    "sentence": "将来の拡張について検討の余地を残した設計にしておくべきです。",
+    "cloze": "将来の拡張について検討の余地を残した設計",
+    "answer": "将来の拡張について検討の余地を残した設計",
+    "accepted_answers": [],
+    "lemma": "余地を残す",
+    "meaning": "a design that leaves room for future expansion",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-181.mp3"
+  },
+  {
+    "id": "ja-a1-182",
+    "sentence": "すでに大幅な値下げを提示しており、これ以上譲歩するのは困難です。",
+    "cloze": "これ以上譲歩するのは困難です",
+    "answer": "これ以上譲歩するのは困難です",
+    "accepted_answers": [],
+    "lemma": "譲歩する",
+    "meaning": "it is difficult for us to make any further concessions",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-182.mp3"
+  },
+  {
+    "id": "ja-a1-183",
+    "sentence": "長期契約を前提として、価格条件をご再考いただけないでしょうか。",
+    "cloze": "価格条件をご再考いただけないでしょうか",
+    "answer": "価格条件をご再考いただけないでしょうか",
+    "accepted_answers": [],
+    "lemma": "ご再考いただく",
+    "meaning": "could you reconsider the pricing terms",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-183.mp3"
+  },
+  {
+    "id": "ja-a1-184",
+    "sentence": "短期的な負担を分け合い、双方の利益にかなう解決策を探りましょう。",
+    "cloze": "双方の利益にかなう解決策",
+    "answer": "双方の利益にかなう解決策",
+    "accepted_answers": [],
+    "lemma": "利益にかなう",
+    "meaning": "a solution that serves both parties' interests",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-184.mp3"
+  },
+  {
+    "id": "ja-a1-185",
+    "sentence": "誤解を避けるため、本日合意した内容を書面で確認させてください。",
+    "cloze": "合意した内容を書面で確認させてください",
+    "answer": "合意した内容を書面で確認させてください",
+    "accepted_answers": [],
+    "lemma": "書面で確認する",
+    "meaning": "please allow me to confirm the agreed terms in writing",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-185.mp3"
+  },
+  {
+    "id": "ja-a1-186",
+    "sentence": "修正版の契約書を添付いたしましたので、ご査収くださいますようお願いいたします。",
+    "cloze": "ご査収くださいますようお願いいたします",
+    "answer": "ご査収くださいますようお願いいたします",
+    "accepted_answers": [],
+    "lemma": "ご査収くださる",
+    "meaning": "please review and accept the attached document, in formal correspondence",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-186.mp3"
+  },
+  {
+    "id": "ja-a1-187",
+    "sentence": "会議に先立ち、添付の企画書をご一読いただければ幸いです。",
+    "cloze": "企画書をご一読いただければ幸いです",
+    "answer": "企画書をご一読いただければ幸いです",
+    "accepted_answers": [],
+    "lemma": "ご一読いただく",
+    "meaning": "I would appreciate it if you could read the proposal",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-187.mp3"
+  },
+  {
+    "id": "ja-a1-188",
+    "sentence": "来月から受付時間が変更となりますので、あらかじめご承知おきください。",
+    "cloze": "あらかじめご承知おきください",
+    "answer": "あらかじめご承知おきください",
+    "accepted_answers": [],
+    "lemma": "ご承知おきください",
+    "meaning": "please be advised in advance",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-188.mp3"
+  },
+  {
+    "id": "ja-a1-189",
+    "sentence": "状況によって日程を変更する場合がございますことを、お含みおきください。",
+    "cloze": "お含みおきください",
+    "answer": "お含みおきください",
+    "accepted_answers": [],
+    "lemma": "お含みおきください",
+    "meaning": "please bear in mind that the schedule may change",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-189.mp3"
+  },
+  {
+    "id": "ja-a1-190",
+    "sentence": "会場周辺では、近隣の皆様にご配慮賜りますようお願い申し上げます。",
+    "cloze": "近隣の皆様にご配慮賜りますようお願い申し上げます",
+    "answer": "近隣の皆様にご配慮賜りますようお願い申し上げます",
+    "accepted_answers": [],
+    "lemma": "ご配慮賜る",
+    "meaning": "we respectfully ask that you show consideration for nearby residents",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-190.mp3"
+  },
+  {
+    "id": "ja-a1-191",
+    "sentence": "申請に必要な手続きについて、ご教示いただきたく存じます。",
+    "cloze": "ご教示いただきたく存じます",
+    "answer": "ご教示いただきたく存じます",
+    "accepted_answers": [],
+    "lemma": "ご教示いただく",
+    "meaning": "I would be grateful for your guidance",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-191.mp3"
+  },
+  {
+    "id": "ja-a1-192",
+    "sentence": "来年度のご予定をお伺いしたく、ご連絡差し上げました。",
+    "cloze": "ご予定をお伺いしたく",
+    "answer": "ご予定をお伺いしたく",
+    "accepted_answers": [],
+    "lemma": "お伺いしたく",
+    "meaning": "I am contacting you to ask about your plans",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-192.mp3"
+  },
+  {
+    "id": "ja-a1-193",
+    "sentence": "遠方までご足労をおかけしますが、当日は何卒よろしくお願いいたします。",
+    "cloze": "遠方までご足労をおかけしますが",
+    "answer": "遠方までご足労をおかけしますが",
+    "accepted_answers": [],
+    "lemma": "ご足労をおかけする",
+    "meaning": "we are sorry to ask you to travel such a distance",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-193.mp3"
+  },
+  {
+    "id": "ja-a1-194",
+    "sentence": "記念式典にご臨席を賜り、誠にありがとうございました。",
+    "cloze": "記念式典にご臨席を賜り",
+    "answer": "記念式典にご臨席を賜り",
+    "accepted_answers": [],
+    "lemma": "ご臨席を賜る",
+    "meaning": "for honoring the ceremony with your presence, in formal style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-194.mp3"
+  },
+  {
+    "id": "ja-a1-195",
+    "sentence": "お時間のある際に、こちらの報告書にもお目通しいただけますでしょうか。",
+    "cloze": "報告書にもお目通しいただけますでしょうか",
+    "answer": "報告書にもお目通しいただけますでしょうか",
+    "accepted_answers": [],
+    "lemma": "お目通しいただく",
+    "meaning": "would you also look over this report",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-195.mp3"
+  },
+  {
+    "id": "ja-a1-196",
+    "sentence": "本日、正式なご回答を確かに拝受いたしました。",
+    "cloze": "正式なご回答を確かに拝受いたしました",
+    "answer": "正式なご回答を確かに拝受いたしました",
+    "accepted_answers": [],
+    "lemma": "拝受する",
+    "meaning": "we have duly received your formal reply",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-196.mp3"
+  },
+  {
+    "id": "ja-a1-197",
+    "sentence": "ご指摘の内容については、担当部署でも承知しております。",
+    "cloze": "担当部署でも承知しております",
+    "answer": "担当部署でも承知しております",
+    "accepted_answers": [],
+    "lemma": "承知する",
+    "meaning": "the responsible department is also aware of the matter",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-197.mp3"
+  },
+  {
+    "id": "ja-a1-198",
+    "sentence": "ご紹介いただくまで、佐藤様のことは存じ上げませんでした。",
+    "cloze": "佐藤様のことは存じ上げませんでした",
+    "answer": "佐藤様のことは存じ上げませんでした",
+    "accepted_answers": [],
+    "lemma": "存じ上げる",
+    "meaning": "I did not know Ms. Sato before the introduction",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-198.mp3"
+  },
+  {
+    "id": "ja-a1-199",
+    "sentence": "まずご本人の意向を伺ったうえで、具体的な支援方法を決めます。",
+    "cloze": "ご本人の意向を伺ったうえで",
+    "answer": "ご本人の意向を伺ったうえで",
+    "accepted_answers": [],
+    "lemma": "意向を伺う",
+    "meaning": "after asking the person concerned about their wishes",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-199.mp3"
+  },
+  {
+    "id": "ja-a1-200",
+    "sentence": "詳細がまとまりましたら、担当者とともにご説明に上がります。",
+    "cloze": "担当者とともにご説明に上がります",
+    "answer": "担当者とともにご説明に上がります",
+    "accepted_answers": [],
+    "lemma": "ご説明に上がる",
+    "meaning": "we will visit to explain the details",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-200.mp3"
+  },
+  {
+    "id": "ja-a1-201",
+    "sentence": "せっかくのお申し出ですが、今回は辞退させていただきます。",
+    "cloze": "せっかくのお申し出ですが",
+    "answer": "せっかくのお申し出ですが",
+    "accepted_answers": [],
+    "lemma": "せっかくのお申し出",
+    "meaning": "we appreciate the offer, but",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-201.mp3"
+  },
+  {
+    "id": "ja-a1-202",
+    "sentence": "人員と予算の両方が不足しており、現状での実施は難しいと言わざるを得ません。",
+    "cloze": "現状での実施は難しいと言わざるを得ません",
+    "answer": "現状での実施は難しいと言わざるを得ません",
+    "accepted_answers": [],
+    "lemma": "難しいと言わざるを得ない",
+    "meaning": "we must say implementation is difficult under current conditions",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-202.mp3"
+  },
+  {
+    "id": "ja-a1-203",
+    "sentence": "日程の都合により、今回はご期待に沿いかねる結果となりました。",
+    "cloze": "今回はご期待に沿いかねる結果となりました",
+    "answer": "今回はご期待に沿いかねる結果となりました",
+    "accepted_answers": [],
+    "lemma": "期待に沿いかねる",
+    "meaning": "unfortunately, we cannot meet your expectations this time",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-203.mp3"
+  },
+  {
+    "id": "ja-a1-204",
+    "sentence": "事実関係を確認中ですので、すぐにお答えするのは差し控えたいと思います。",
+    "cloze": "すぐにお答えするのは差し控えたいと思います",
+    "answer": "すぐにお答えするのは差し控えたいと思います",
+    "accepted_answers": [],
+    "lemma": "差し控える",
+    "meaning": "I would prefer to refrain from answering immediately",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-204.mp3"
+  },
+  {
+    "id": "ja-a1-205",
+    "sentence": "重要な課題ではありますが、現段階で必ずしも最優先とは考えておりません。",
+    "cloze": "必ずしも最優先とは考えておりません",
+    "answer": "必ずしも最優先とは考えておりません",
+    "accepted_answers": [],
+    "lemma": "とは考えておりません",
+    "meaning": "we do not necessarily regard it as the highest priority",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-205.mp3"
+  },
+  {
+    "id": "ja-a1-206",
+    "sentence": "全面的に切り替える前に、もう少し慎重でもよいのではないでしょうか。",
+    "cloze": "もう少し慎重でもよいのではないでしょうか",
+    "answer": "もう少し慎重でもよいのではないでしょうか",
+    "accepted_answers": [],
+    "lemma": "てもよいのではないか",
+    "meaning": "might it be better to proceed a little more cautiously",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-206.mp3"
+  },
+  {
+    "id": "ja-a1-207",
+    "sentence": "費用を抑えられる案ですが、運用上の課題がないわけではありません。",
+    "cloze": "運用上の課題がないわけではありません",
+    "answer": "運用上の課題がないわけではありません",
+    "accepted_answers": [],
+    "lemma": "ないわけではない",
+    "meaning": "it is not without operational challenges",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-207.mp3"
+  },
+  {
+    "id": "ja-a1-208",
+    "sentence": "責任の範囲については、まだ議論の余地があるように思います。",
+    "cloze": "まだ議論の余地があるように思います",
+    "answer": "まだ議論の余地があるように思います",
+    "accepted_answers": [],
+    "lemma": "議論の余地がある",
+    "meaning": "there still appears to be room for discussion",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-208.mp3"
+  },
+  {
+    "id": "ja-a1-209",
+    "sentence": "追加の情報が明日届くのであれば、今すぐ決める必要はないように思います。",
+    "cloze": "今すぐ決める必要はないように思います",
+    "answer": "今すぐ決める必要はないように思います",
+    "accepted_answers": [],
+    "lemma": "必要はないように思う",
+    "meaning": "I do not think we need to decide immediately",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-209.mp3"
+  },
+  {
+    "id": "ja-a1-210",
+    "sentence": "既存の制度を廃止する前に、別の方法も検討してみてはいかがでしょうか。",
+    "cloze": "別の方法も検討してみてはいかがでしょうか",
+    "answer": "別の方法も検討してみてはいかがでしょうか",
+    "accepted_answers": [],
+    "lemma": "てみてはいかがでしょうか",
+    "meaning": "might we also consider another approach",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-210.mp3"
+  },
+  {
+    "id": "ja-a1-211",
+    "sentence": "一定の成果は出ていますが、長期的な効果を示すには十分とは言い切れません。",
+    "cloze": "長期的な効果を示すには十分とは言い切れません",
+    "answer": "長期的な効果を示すには十分とは言い切れません",
+    "accepted_answers": [],
+    "lemma": "十分とは言い切れない",
+    "meaning": "cannot yet be said to be sufficient evidence of long-term effects",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-211.mp3"
+  },
+  {
+    "id": "ja-a1-212",
+    "sentence": "初めての試みだけに、計画が期待どおりに進むかは未知数です。",
+    "cloze": "期待どおりに進むかは未知数です",
+    "answer": "期待どおりに進むかは未知数です",
+    "accepted_answers": [],
+    "lemma": "未知数",
+    "meaning": "it remains uncertain whether it will proceed as expected",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-212.mp3"
+  },
+  {
+    "id": "ja-a1-213",
+    "sentence": "評価を急ぐのではなく、今後の対応をしばらく見守りたいと思います。",
+    "cloze": "今後の対応をしばらく見守りたいと思います",
+    "answer": "今後の対応をしばらく見守りたいと思います",
+    "accepted_answers": [],
+    "lemma": "対応を見守る",
+    "meaning": "I would like to watch how the response develops for a while",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-213.mp3"
+  },
+  {
+    "id": "ja-a1-214",
+    "sentence": "交渉中の案件ですので、現時点では何とも申し上げられません。",
+    "cloze": "現時点では何とも申し上げられません",
+    "answer": "現時点では何とも申し上げられません",
+    "accepted_answers": [],
+    "lemma": "何とも申し上げられない",
+    "meaning": "I cannot comment one way or the other at this point",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-214.mp3"
+  },
+  {
+    "id": "ja-a1-215",
+    "sentence": "条件を社内で確認したうえで、前向きに考えさせていただきます。",
+    "cloze": "前向きに考えさせていただきます",
+    "answer": "前向きに考えさせていただきます",
+    "accepted_answers": [],
+    "lemma": "前向きに考える",
+    "meaning": "we will give it positive consideration, without promising acceptance",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-215.mp3"
+  },
+  {
+    "id": "ja-a1-216",
+    "sentence": "週末の大雪により、交通各社は運休や遅延への対応に追われました。",
+    "cloze": "運休や遅延への対応に追われました",
+    "answer": "運休や遅延への対応に追われました",
+    "accepted_answers": [],
+    "lemma": "対応に追われる",
+    "meaning": "were kept busy responding to cancellations and delays",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-216.mp3"
+  },
+  {
+    "id": "ja-a1-217",
+    "sentence": "多くの地方都市が、人口減少と税収不足という課題に直面しています。",
+    "cloze": "人口減少と税収不足という課題に直面しています",
+    "answer": "人口減少と税収不足という課題に直面しています",
+    "accepted_answers": [],
+    "lemma": "課題に直面する",
+    "meaning": "face the challenges of population decline and lower tax revenue",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-217.mp3"
+  },
+  {
+    "id": "ja-a1-218",
+    "sentence": "開発は順調に進んでいましたが、量産の段階で技術的な壁にぶつかりました。",
+    "cloze": "技術的な壁にぶつかりました",
+    "answer": "技術的な壁にぶつかりました",
+    "accepted_answers": [],
+    "lemma": "壁にぶつかる",
+    "meaning": "ran into a technical obstacle",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-218.mp3"
+  },
+  {
+    "id": "ja-a1-219",
+    "sentence": "経営陣は、長引く赤字から抜け出すための打開策を見いだせずにいます。",
+    "cloze": "赤字から抜け出すための打開策を見いだせずにいます",
+    "answer": "赤字から抜け出すための打開策を見いだせずにいます",
+    "accepted_answers": [],
+    "lemma": "打開策を見いだす",
+    "meaning": "has been unable to find a way out of prolonged losses",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-219.mp3"
+  },
+  {
+    "id": "ja-a1-220",
+    "sentence": "新たな販路を開拓することで、地域産業が生き残る活路を見いだしました。",
+    "cloze": "地域産業が生き残る活路を見いだしました",
+    "answer": "地域産業が生き残る活路を見いだしました",
+    "accepted_answers": [],
+    "lemma": "活路を見いだす",
+    "meaning": "found a path for the local industry to survive",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-220.mp3"
+  },
+  {
+    "id": "ja-a1-221",
+    "sentence": "新しい生産体制が軌道に乗るまでには、少なくとも半年かかる見込みです。",
+    "cloze": "新しい生産体制が軌道に乗るまでには",
+    "answer": "新しい生産体制が軌道に乗るまでには",
+    "accepted_answers": [],
+    "lemma": "軌道に乗る",
+    "meaning": "until the new production system is running smoothly",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-221.mp3"
+  },
+  {
+    "id": "ja-a1-222",
+    "sentence": "会社は不採算部門を整理し、事業全体の立て直しを図っています。",
+    "cloze": "事業全体の立て直しを図っています",
+    "answer": "事業全体の立て直しを図っています",
+    "accepted_answers": [],
+    "lemma": "立て直しを図る",
+    "meaning": "is seeking to rebuild the business as a whole",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-222.mp3"
+  },
+  {
+    "id": "ja-a1-223",
+    "sentence": "原材料価格と為替の変動が大きく、事業の先行きは不透明です。",
+    "cloze": "事業の先行きは不透明です",
+    "answer": "事業の先行きは不透明です",
+    "accepted_answers": [],
+    "lemma": "先行きが不透明",
+    "meaning": "the outlook remains uncertain",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-223.mp3"
+  },
+  {
+    "id": "ja-a1-224",
+    "sentence": "感染者数は減少していますが、医療現場はなお予断を許さない状況です。",
+    "cloze": "なお予断を許さない状況です",
+    "answer": "なお予断を許さない状況です",
+    "accepted_answers": [],
+    "lemma": "予断を許さない",
+    "meaning": "the situation still leaves no room for complacency",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-224.mp3"
+  },
+  {
+    "id": "ja-a1-225",
+    "sentence": "輸出は回復傾向にあるものの、国内消費の状況は楽観を許しません。",
+    "cloze": "国内消費の状況は楽観を許しません",
+    "answer": "国内消費の状況は楽観を許しません",
+    "accepted_answers": [],
+    "lemma": "楽観を許さない",
+    "meaning": "domestic consumption gives little cause for optimism",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-225.mp3"
+  },
+  {
+    "id": "ja-a1-226",
+    "sentence": "長引く干ばつによって、農業用水の不足は日ごとに深刻さを増しています。",
+    "cloze": "農業用水の不足は日ごとに深刻さを増しています",
+    "answer": "農業用水の不足は日ごとに深刻さを増しています",
+    "accepted_answers": [],
+    "lemma": "深刻さを増す",
+    "meaning": "the agricultural water shortage is worsening by the day",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-226.mp3"
+  },
+  {
+    "id": "ja-a1-227",
+    "sentence": "燃料価格の上昇が、生活必需品の値上げに拍車をかけています。",
+    "cloze": "生活必需品の値上げに拍車をかけています",
+    "answer": "生活必需品の値上げに拍車をかけています",
+    "accepted_answers": [],
+    "lemma": "拍車をかける",
+    "meaning": "is accelerating price increases for daily necessities",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-227.mp3"
+  },
+  {
+    "id": "ja-a1-228",
+    "sentence": "自治体は空き家への課税を強化し、無管理の住宅増加に歯止めをかけます。",
+    "cloze": "無管理の住宅増加に歯止めをかけます",
+    "answer": "無管理の住宅増加に歯止めをかけます",
+    "accepted_answers": [],
+    "lemma": "歯止めをかける",
+    "meaning": "will curb the increase in unmanaged vacant homes",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-228.mp3"
+  },
+  {
+    "id": "ja-a1-229",
+    "sentence": "好調な売り上げに水を差したのが、主力商品の供給停止でした。",
+    "cloze": "好調な売り上げに水を差した",
+    "answer": "好調な売り上げに水を差した",
+    "accepted_answers": [],
+    "lemma": "水を差す",
+    "meaning": "put a damper on strong sales",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-229.mp3"
+  },
+  {
+    "id": "ja-a1-230",
+    "sentence": "複雑な承認手続きが、新規事業の立ち上げの足を引っ張っています。",
+    "cloze": "新規事業の立ち上げの足を引っ張っています",
+    "answer": "新規事業の立ち上げの足を引っ張っています",
+    "accepted_answers": [],
+    "lemma": "足を引っ張る",
+    "meaning": "is holding back the launch of new businesses",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-230.mp3"
+  },
+  {
+    "id": "ja-a1-231",
+    "sentence": "国の補助制度が、中小企業による設備投資を後押ししています。",
+    "cloze": "中小企業による設備投資を後押ししています",
+    "answer": "中小企業による設備投資を後押ししています",
+    "accepted_answers": [],
+    "lemma": "後押しする",
+    "meaning": "is supporting capital investment by small businesses",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-231.mp3"
+  },
+  {
+    "id": "ja-a1-232",
+    "sentence": "今回の受賞を機に、海外市場への展開にさらに弾みをつけたい考えです。",
+    "cloze": "海外市場への展開にさらに弾みをつけたい考えです",
+    "answer": "海外市場への展開にさらに弾みをつけたい考えです",
+    "accepted_answers": [],
+    "lemma": "弾みをつける",
+    "meaning": "intends to build further momentum for overseas expansion",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-232.mp3"
+  },
+  {
+    "id": "ja-a1-233",
+    "sentence": "その研究は、従来の教育方法に一石を投じるものとなりました。",
+    "cloze": "従来の教育方法に一石を投じるもの",
+    "answer": "従来の教育方法に一石を投じるもの",
+    "accepted_answers": [],
+    "lemma": "一石を投じる",
+    "meaning": "challenged conventional teaching methods",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-233.mp3"
+  },
+  {
+    "id": "ja-a1-234",
+    "sentence": "大臣の突然の発言は、与党内にも大きな波紋を広げました。",
+    "cloze": "与党内にも大きな波紋を広げました",
+    "answer": "与党内にも大きな波紋を広げました",
+    "accepted_answers": [],
+    "lemma": "波紋を広げる",
+    "meaning": "sent major ripples through the governing party",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-234.mp3"
+  },
+  {
+    "id": "ja-a1-235",
+    "sentence": "利用者に知らせず規約を変更した対応が、社会的な物議を醸しました。",
+    "cloze": "社会的な物議を醸しました",
+    "answer": "社会的な物議を醸しました",
+    "accepted_answers": [],
+    "lemma": "物議を醸す",
+    "meaning": "provoked public controversy",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-235.mp3"
+  },
+  {
+    "id": "ja-a1-236",
+    "sentence": "独自の再生技術を開発した若い研究者が、一躍注目の的となりました。",
+    "cloze": "一躍注目の的となりました",
+    "answer": "一躍注目の的となりました",
+    "accepted_answers": [],
+    "lemma": "注目の的となる",
+    "meaning": "suddenly became the focus of attention",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-236.mp3"
+  },
+  {
+    "id": "ja-a1-237",
+    "sentence": "担当者は各部署を回り、計画に必要な協力を取りつけました。",
+    "cloze": "計画に必要な協力を取りつけました",
+    "answer": "計画に必要な協力を取りつけました",
+    "accepted_answers": [],
+    "lemma": "協力を取りつける",
+    "meaning": "secured the cooperation needed for the plan",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-237.mp3"
+  },
+  {
+    "id": "ja-a1-238",
+    "sentence": "小規模な案件で着実に実績を積み、より大きな契約につなげました。",
+    "cloze": "小規模な案件で着実に実績を積み",
+    "answer": "小規模な案件で着実に実績を積み",
+    "accepted_answers": [],
+    "lemma": "実績を積む",
+    "meaning": "built a solid track record through smaller projects",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-238.mp3"
+  },
+  {
+    "id": "ja-a1-239",
+    "sentence": "海外勤務で得た経験を生かし、国際部門の改革を進めています。",
+    "cloze": "海外勤務で得た経験を生かし",
+    "answer": "海外勤務で得た経験を生かし",
+    "accepted_answers": [],
+    "lemma": "経験を生かす",
+    "meaning": "drawing on experience gained while working overseas",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-239.mp3"
+  },
+  {
+    "id": "ja-a1-240",
+    "sentence": "厳しい交渉の場で、彼女は調整役としての本領を発揮しました。",
+    "cloze": "調整役としての本領を発揮しました",
+    "answer": "調整役としての本領を発揮しました",
+    "accepted_answers": [],
+    "lemma": "本領を発揮する",
+    "meaning": "demonstrated her true ability as a mediator",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-240.mp3"
+  },
+  {
+    "id": "ja-a1-241",
+    "sentence": "難しい財政状況の中で地域サービスをどう守るか、知事の手腕が問われます。",
+    "cloze": "知事の手腕が問われます",
+    "answer": "知事の手腕が問われます",
+    "accepted_answers": [],
+    "lemma": "手腕が問われる",
+    "meaning": "the governor's leadership ability will be tested",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-241.mp3"
+  },
+  {
+    "id": "ja-a1-242",
+    "sentence": "急成長した会社が安定した経営を続けられるか、これから真価が問われます。",
+    "cloze": "これから真価が問われます",
+    "answer": "これから真価が問われます",
+    "accepted_answers": [],
+    "lemma": "真価が問われる",
+    "meaning": "its true value will now be tested",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-242.mp3"
+  },
+  {
+    "id": "ja-a1-243",
+    "sentence": "制度を設計する際は、将来の人口構成の変化も念頭に置く必要があります。",
+    "cloze": "人口構成の変化も念頭に置く必要があります",
+    "answer": "人口構成の変化も念頭に置く必要があります",
+    "accepted_answers": [],
+    "lemma": "念頭に置く",
+    "meaning": "we need to keep demographic changes in mind",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-243.mp3"
+  },
+  {
+    "id": "ja-a1-244",
+    "sentence": "会社は国内事業の再編に加え、海外企業の買収も視野に入れています。",
+    "cloze": "海外企業の買収も視野に入れています",
+    "answer": "海外企業の買収も視野に入れています",
+    "accepted_answers": [],
+    "lemma": "視野に入れる",
+    "meaning": "is also considering the acquisition of an overseas company",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-244.mp3"
+  },
+  {
+    "id": "ja-a1-245",
+    "sentence": "過去の教訓を十分に踏まえて、新しい安全基準を策定しました。",
+    "cloze": "過去の教訓を十分に踏まえて",
+    "answer": "過去の教訓を十分に踏まえて",
+    "accepted_answers": [],
+    "lemma": "教訓を踏まえる",
+    "meaning": "taking full account of lessons from the past",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-245.mp3"
+  },
+  {
+    "id": "ja-a1-246",
+    "sentence": "十年後の需要を見据え、設備に拡張の余地を持たせています。",
+    "cloze": "十年後の需要を見据え",
+    "answer": "十年後の需要を見据え",
+    "accepted_answers": [],
+    "lemma": "見据える",
+    "meaning": "looking ahead to demand ten years from now",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-246.mp3"
+  },
+  {
+    "id": "ja-a1-247",
+    "sentence": "食料不足への対応は、国際社会が直面する差し迫った課題です。",
+    "cloze": "国際社会が直面する差し迫った課題です",
+    "answer": "国際社会が直面する差し迫った課題です",
+    "accepted_answers": [],
+    "lemma": "差し迫った",
+    "meaning": "an urgent challenge facing the international community",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-247.mp3"
+  },
+  {
+    "id": "ja-a1-248",
+    "sentence": "小さな修正を重ねるだけでなく、組織構造の抜本的な見直しが必要です。",
+    "cloze": "組織構造の抜本的な見直しが必要です",
+    "answer": "組織構造の抜本的な見直しが必要です",
+    "accepted_answers": [],
+    "lemma": "抜本的な見直し",
+    "meaning": "a fundamental review of the organizational structure is needed",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-248.mp3"
+  },
+  {
+    "id": "ja-a1-249",
+    "sentence": "原因が判明するまでの暫定的な措置として、施設を閉鎖します。",
+    "cloze": "原因が判明するまでの暫定的な措置として",
+    "answer": "原因が判明するまでの暫定的な措置として",
+    "accepted_answers": [],
+    "lemma": "暫定的な措置",
+    "meaning": "as a temporary measure until the cause is known",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-249.mp3"
+  },
+  {
+    "id": "ja-a1-250",
+    "sentence": "端的に言えば、現在の制度は複雑すぎて十分に利用されていません。",
+    "cloze": "端的に言えば",
+    "answer": "端的に言えば",
+    "accepted_answers": [],
+    "lemma": "端的に言えば",
+    "meaning": "put simply, in concise formal explanation",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-250.mp3"
+  },
+  {
+    "id": "ja-a1-251",
+    "sentence": "平たく言えば、この仕組みは情報を一か所に集めるためのものです。",
+    "cloze": "平たく言えば",
+    "answer": "平たく言えば",
+    "accepted_answers": [],
+    "lemma": "平たく言えば",
+    "meaning": "in plain terms",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-251.mp3"
+  },
+  {
+    "id": "ja-a1-252",
+    "sentence": "この広場は、いわば地域の人々を結ぶ共通の居間です。",
+    "cloze": "いわば地域の人々を結ぶ共通の居間です",
+    "answer": "いわば地域の人々を結ぶ共通の居間です",
+    "accepted_answers": [],
+    "lemma": "いわば",
+    "meaning": "is, so to speak, a shared living room for the community",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-252.mp3"
+  },
+  {
+    "id": "ja-a1-253",
+    "sentence": "あえて言えば、成功の要因は技術よりも組織文化にあります。",
+    "cloze": "あえて言えば",
+    "answer": "あえて言えば",
+    "accepted_answers": [],
+    "lemma": "あえて言えば",
+    "meaning": "if I had to say",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-253.mp3"
+  },
+  {
+    "id": "ja-a1-254",
+    "sentence": "厳密に言えば、この数字は利用者ではなく登録件数を示しています。",
+    "cloze": "厳密に言えば",
+    "answer": "厳密に言えば",
+    "accepted_answers": [],
+    "lemma": "厳密に言えば",
+    "meaning": "strictly speaking",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-254.mp3"
+  },
+  {
+    "id": "ja-a1-255",
+    "sentence": "少なくとも現時点では、計画を中止すべき決定的な理由はありません。",
+    "cloze": "少なくとも現時点では",
+    "answer": "少なくとも現時点では",
+    "accepted_answers": [],
+    "lemma": "少なくとも",
+    "meaning": "at least at the present time",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-255.mp3"
+  },
+  {
+    "id": "ja-a1-256",
+    "sentence": "最新の調査では、若年層ほど柔軟な働き方を重視すると報告されています。",
+    "cloze": "柔軟な働き方を重視すると報告されています",
+    "answer": "柔軟な働き方を重視すると報告されています",
+    "accepted_answers": [],
+    "lemma": "と報告される",
+    "meaning": "is reported to place greater importance on flexible work",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-256.mp3"
+  },
+  {
+    "id": "ja-a1-257",
+    "sentence": "著者は、経済成長だけを豊かさの基準にすべきではないと論じています。",
+    "cloze": "豊かさの基準にすべきではないと論じています",
+    "answer": "豊かさの基準にすべきではないと論じています",
+    "accepted_answers": [],
+    "lemma": "と論じる",
+    "meaning": "argues that it should not be the sole measure of prosperity",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-257.mp3"
+  },
+  {
+    "id": "ja-a1-258",
+    "sentence": "専門家は、対策が遅れれば被害がさらに拡大するおそれがあると警告しています。",
+    "cloze": "被害がさらに拡大するおそれがあると警告しています",
+    "answer": "被害がさらに拡大するおそれがあると警告しています",
+    "accepted_answers": [],
+    "lemma": "と警告する",
+    "meaning": "warns that delayed action could increase the damage",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-258.mp3"
+  },
+  {
+    "id": "ja-a1-259",
+    "sentence": "検証委員会は、事故を防ぐ機会が複数回あったと結論づけました。",
+    "cloze": "事故を防ぐ機会が複数回あったと結論づけました",
+    "answer": "事故を防ぐ機会が複数回あったと結論づけました",
+    "accepted_answers": [],
+    "lemma": "と結論づける",
+    "meaning": "concluded that there had been several opportunities to prevent the accident",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-259.mp3"
+  },
+  {
+    "id": "ja-a1-260",
+    "sentence": "市は、現行の支援策だけでは十分でないとの認識を示しました。",
+    "cloze": "十分でないとの認識を示しました",
+    "answer": "十分でないとの認識を示しました",
+    "accepted_answers": [],
+    "lemma": "との認識を示す",
+    "meaning": "expressed the view that current support is insufficient",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-260.mp3"
+  },
+  {
+    "id": "ja-a1-261",
+    "sentence": "大臣の発言を直接引用すると、「現段階で増税は考えていない」となります。",
+    "cloze": "発言を直接引用すると",
+    "answer": "発言を直接引用すると",
+    "accepted_answers": [],
+    "lemma": "直接引用する",
+    "meaning": "to quote the statement directly",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-261.mp3"
+  },
+  {
+    "id": "ja-a1-262",
+    "sentence": "担当者からは、条件が整えば計画を再開するという趣旨の発言がありました。",
+    "cloze": "計画を再開するという趣旨の発言",
+    "answer": "計画を再開するという趣旨の発言",
+    "accepted_answers": [],
+    "lemma": "という趣旨の発言",
+    "meaning": "a statement to the effect that the plan would resume",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-262.mp3"
+  },
+  {
+    "id": "ja-a1-263",
+    "sentence": "この回答は、会社が責任を認めたと受け取れる内容です。",
+    "cloze": "会社が責任を認めたと受け取れる内容です",
+    "answer": "会社が責任を認めたと受け取れる内容です",
+    "accepted_answers": [],
+    "lemma": "と受け取れる",
+    "meaning": "can be understood as an admission of responsibility",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-263.mp3"
+  },
+  {
+    "id": "ja-a1-264",
+    "sentence": "発掘された資料は、当時すでに広域な交流があったことを示唆しています。",
+    "cloze": "広域な交流があったことを示唆しています",
+    "answer": "広域な交流があったことを示唆しています",
+    "accepted_answers": [],
+    "lemma": "ことを示唆する",
+    "meaning": "suggests that wide-ranging exchange already existed",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-264.mp3"
+  },
+  {
+    "id": "ja-a1-265",
+    "sentence": "今回の決定は、将来にわたって同じ方針を続けることを意味するものではありません。",
+    "cloze": "同じ方針を続けることを意味するものではありません",
+    "answer": "同じ方針を続けることを意味するものではありません",
+    "accepted_answers": [],
+    "lemma": "ことを意味するものではない",
+    "meaning": "does not mean the same policy will continue indefinitely",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-265.mp3"
+  },
+  {
+    "id": "ja-a1-266",
+    "sentence": "報告書の要旨は、支援の対象を真に必要な人へ絞るべきだという点にあります。",
+    "cloze": "真に必要な人へ絞るべきだという点にあります",
+    "answer": "真に必要な人へ絞るべきだという点にあります",
+    "accepted_answers": [],
+    "lemma": "要旨は〜点にある",
+    "meaning": "the central point is that support should target those truly in need",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-266.mp3"
+  },
+  {
+    "id": "ja-a1-267",
+    "sentence": "この問題の論点を、費用、公平性、実現可能性の三つに整理します。",
+    "cloze": "三つに整理します",
+    "answer": "三つに整理します",
+    "accepted_answers": [],
+    "lemma": "論点を整理する",
+    "meaning": "I will organize the issue into three points",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-267.mp3"
+  },
+  {
+    "id": "ja-a1-268",
+    "sentence": "筆者の主張の根拠となっているのは、五年間にわたる追跡調査です。",
+    "cloze": "筆者の主張の根拠となっているのは",
+    "answer": "筆者の主張の根拠となっているのは",
+    "accepted_answers": [],
+    "lemma": "根拠となる",
+    "meaning": "what forms the basis of the author's argument is",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-268.mp3"
+  },
+  {
+    "id": "ja-a1-269",
+    "sentence": "著者は地域交通の成功例として、ある小都市の共同運行制度を挙げています。",
+    "cloze": "共同運行制度を挙げています",
+    "answer": "共同運行制度を挙げています",
+    "accepted_answers": [],
+    "lemma": "例として挙げる",
+    "meaning": "cites a shared transport system as a successful example",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-269.mp3"
+  },
+  {
+    "id": "ja-a1-270",
+    "sentence": "これに対する反論として、規制が技術革新を妨げるという意見があります。",
+    "cloze": "これに対する反論として",
+    "answer": "これに対する反論として",
+    "accepted_answers": [],
+    "lemma": "反論として",
+    "meaning": "as a counterargument to this",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-270.mp3"
+  },
+  {
+    "id": "ja-a1-271",
+    "sentence": "両資料に共通しているのは、早期教育の重要性を強調している点です。",
+    "cloze": "両資料に共通しているのは",
+    "answer": "両資料に共通しているのは",
+    "accepted_answers": [],
+    "lemma": "に共通している",
+    "meaning": "what the two sources have in common is",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-271.mp3"
+  },
+  {
+    "id": "ja-a1-272",
+    "sentence": "一方の資料は経済効果を扱い、他方は環境への影響に焦点を当てています。",
+    "cloze": "他方は環境への影響に焦点を当てています",
+    "answer": "他方は環境への影響に焦点を当てています",
+    "accepted_answers": [],
+    "lemma": "他方",
+    "meaning": "the other focuses on environmental impact",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-272.mp3"
+  },
+  {
+    "id": "ja-a1-273",
+    "sentence": "資料Aの調査結果は、資料Bが示した長期的な傾向と整合しています。",
+    "cloze": "長期的な傾向と整合しています",
+    "answer": "長期的な傾向と整合しています",
+    "accepted_answers": [],
+    "lemma": "と整合する",
+    "meaning": "is consistent with the long-term trend in source B",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-273.mp3"
+  },
+  {
+    "id": "ja-a1-274",
+    "sentence": "新たに公開された統計は、資料Bの見解をさらに補強するものです。",
+    "cloze": "資料Bの見解をさらに補強するものです",
+    "answer": "資料Bの見解をさらに補強するものです",
+    "accepted_answers": [],
+    "lemma": "見解を補強する",
+    "meaning": "further strengthens the position taken in source B",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-274.mp3"
+  },
+  {
+    "id": "ja-a1-275",
+    "sentence": "二人の著者は結論では一致していますが、そこに至る理由づけは異なります。",
+    "cloze": "理由づけは異なります",
+    "answer": "理由づけは異なります",
+    "accepted_answers": [],
+    "lemma": "結論では一致する",
+    "meaning": "the authors agree on the conclusion but differ in their reasoning",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-275.mp3"
+  },
+  {
+    "id": "ja-a1-276",
+    "sentence": "情報源によって数字が異なるため、単純な比較には注意が必要です。",
+    "cloze": "情報源によって数字が異なるため",
+    "answer": "情報源によって数字が異なるため",
+    "accepted_answers": [],
+    "lemma": "情報源によって異なる",
+    "meaning": "because the figures differ depending on the source",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-276.mp3"
+  },
+  {
+    "id": "ja-a1-277",
+    "sentence": "結果を比較する際は、対象者や期間など調査方法の違いを考慮すべきです。",
+    "cloze": "調査方法の違いを考慮すべきです",
+    "answer": "調査方法の違いを考慮すべきです",
+    "accepted_answers": [],
+    "lemma": "違いを考慮する",
+    "meaning": "we should account for differences in research methods",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-277.mp3"
+  },
+  {
+    "id": "ja-a1-278",
+    "sentence": "複数の資料を突き合わせることで、出来事の経過がより明確になりました。",
+    "cloze": "複数の資料を突き合わせることで",
+    "answer": "複数の資料を突き合わせることで",
+    "accepted_answers": [],
+    "lemma": "資料を突き合わせる",
+    "meaning": "by cross-checking multiple sources",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-278.mp3"
+  },
+  {
+    "id": "ja-a1-279",
+    "sentence": "二次的な解説だけでなく、公開された議事録などの一次資料に当たりました。",
+    "cloze": "公開された議事録などの一次資料に当たりました",
+    "answer": "公開された議事録などの一次資料に当たりました",
+    "accepted_answers": [],
+    "lemma": "一次資料に当たる",
+    "meaning": "consulted primary sources such as published minutes",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-279.mp3"
+  },
+  {
+    "id": "ja-a1-280",
+    "sentence": "統計を引用するときは、調査年と作成機関を含む出典を明示してください。",
+    "cloze": "作成機関を含む出典を明示してください",
+    "answer": "作成機関を含む出典を明示してください",
+    "accepted_answers": [],
+    "lemma": "出典を明示する",
+    "meaning": "clearly identify the source, including the issuing body",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-280.mp3"
+  },
+  {
+    "id": "ja-a1-281",
+    "sentence": "二つの現象が同時に起きたというだけでは、因果関係を裏づけることはできません。",
+    "cloze": "因果関係を裏づけることはできません",
+    "answer": "因果関係を裏づけることはできません",
+    "accepted_answers": [],
+    "lemma": "因果関係を裏づける",
+    "meaning": "does not establish a causal relationship",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-281.mp3"
+  },
+  {
+    "id": "ja-a1-282",
+    "sentence": "売り上げの増加は、広告以外の要因でも説明できる可能性があります。",
+    "cloze": "広告以外の要因でも説明できる可能性があります",
+    "answer": "広告以外の要因でも説明できる可能性があります",
+    "accepted_answers": [],
+    "lemma": "要因で説明できる",
+    "meaning": "may also be explained by factors other than advertising",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-282.mp3"
+  },
+  {
+    "id": "ja-a1-283",
+    "sentence": "個人の努力だけを強調する主張では、地域間の大きな差を説明できません。",
+    "cloze": "個人の努力だけを強調する主張では",
+    "answer": "個人の努力だけを強調する主張では",
+    "accepted_answers": [],
+    "lemma": "だけを強調する",
+    "meaning": "an argument emphasizing individual effort alone",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-283.mp3"
+  },
+  {
+    "id": "ja-a1-284",
+    "sentence": "規模が大きいほど効率的だという見方には、小規模組織の成功という反例があります。",
+    "cloze": "小規模組織の成功という反例があります",
+    "answer": "小規模組織の成功という反例があります",
+    "accepted_answers": [],
+    "lemma": "反例がある",
+    "meaning": "there is the counterexample of successful small organizations",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-284.mp3"
+  },
+  {
+    "id": "ja-a1-285",
+    "sentence": "費用だけでなく公平性と持続性も含め、総合的に判断する必要があります。",
+    "cloze": "総合的に判断する必要があります",
+    "answer": "総合的に判断する必要があります",
+    "accepted_answers": [],
+    "lemma": "総合的に判断する",
+    "meaning": "we must make an overall judgment including fairness and sustainability",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-285.mp3"
+  },
+  {
+    "id": "ja-a1-286",
+    "sentence": "報告書では、「利用者数は緩やかな増加傾向を示しています」と表現します。",
+    "cloze": "利用者数は緩やかな増加傾向を示しています",
+    "answer": "利用者数は緩やかな増加傾向を示しています",
+    "accepted_answers": [],
+    "lemma": "増加傾向を示す",
+    "meaning": "user numbers show a gradual upward trend, in report style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-286.mp3"
+  },
+  {
+    "id": "ja-a1-287",
+    "sentence": "中立的に説明するなら、「利用する人は少しずつ増える傾向があります」と言えます。",
+    "cloze": "利用する人は少しずつ増える傾向があります",
+    "answer": "利用する人は少しずつ増える傾向があります",
+    "accepted_answers": [],
+    "lemma": "増える傾向がある",
+    "meaning": "the number of users tends to be increasing, in neutral explanatory style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-287.mp3"
+  },
+  {
+    "id": "ja-a1-288",
+    "sentence": "会話では、「最近、使う人が少しずつ増えてきているんです」と言うと自然です。",
+    "cloze": "最近、使う人が少しずつ増えてきているんです",
+    "answer": "最近、使う人が少しずつ増えてきているんです",
+    "accepted_answers": [],
+    "lemma": "増えてきている",
+    "meaning": "lately, more people have gradually started using it, in conversation",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-288.mp3"
+  },
+  {
+    "id": "ja-a1-289",
+    "sentence": "正式発表には、「諸般の事情により実施を見送ることとなりました」と記載しました。",
+    "cloze": "諸般の事情により実施を見送ることとなりました",
+    "answer": "諸般の事情により実施を見送ることとなりました",
+    "accepted_answers": [],
+    "lemma": "見送ることとなる",
+    "meaning": "implementation has been canceled due to various circumstances, in formal notice style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-289.mp3"
+  },
+  {
+    "id": "ja-a1-290",
+    "sentence": "中立的な説明なら、「事情があって今回は実施しないことにしました」で十分です。",
+    "cloze": "事情があって今回は実施しないことにしました",
+    "answer": "事情があって今回は実施しないことにしました",
+    "accepted_answers": [],
+    "lemma": "実施しないことにする",
+    "meaning": "we decided not to carry it out this time, in neutral style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-290.mp3"
+  },
+  {
+    "id": "ja-a1-291",
+    "sentence": "同僚に伝えるなら、「いろいろあって、今回はやらないことになったよ」が自然です。",
+    "cloze": "いろいろあって、今回はやらないことになったよ",
+    "answer": "いろいろあって、今回はやらないことになったよ",
+    "accepted_answers": [],
+    "lemma": "やらないことになる",
+    "meaning": "for various reasons, it is not happening this time, in casual conversation",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-291.mp3"
+  },
+  {
+    "id": "ja-a1-292",
+    "sentence": "公式の案内では、「安全が確認されるまでご利用をお控えください」と表現します。",
+    "cloze": "安全が確認されるまでご利用をお控えください",
+    "answer": "安全が確認されるまでご利用をお控えください",
+    "accepted_answers": [],
+    "lemma": "ご利用をお控えください",
+    "meaning": "please refrain from use until safety is confirmed, in formal guidance",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-292.mp3"
+  },
+  {
+    "id": "ja-a1-293",
+    "sentence": "一般的な説明では、「安全が確認されるまでは利用しないでください」と言えます。",
+    "cloze": "安全が確認されるまでは利用しないでください",
+    "answer": "安全が確認されるまでは利用しないでください",
+    "accepted_answers": [],
+    "lemma": "利用しないでください",
+    "meaning": "please do not use it until safety is confirmed, in neutral style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-293.mp3"
+  },
+  {
+    "id": "ja-a1-294",
+    "sentence": "その場で注意するなら、「まだ危ないから、今は使わないで」と言えます。",
+    "cloze": "まだ危ないから、今は使わないで",
+    "answer": "まだ危ないから、今は使わないで",
+    "accepted_answers": [],
+    "lemma": "使わないで",
+    "meaning": "it is still dangerous, so do not use it now, in conversation",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-294.mp3"
+  },
+  {
+    "id": "ja-a1-295",
+    "sentence": "事業計画には、「来年度の導入に向けて検討を進める方針です」と記載されています。",
+    "cloze": "来年度の導入に向けて検討を進める方針です",
+    "answer": "来年度の導入に向けて検討を進める方針です",
+    "accepted_answers": [],
+    "lemma": "検討を進める方針",
+    "meaning": "the policy is to continue considering introduction next year, in formal planning language",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-295.mp3"
+  },
+  {
+    "id": "ja-a1-296",
+    "sentence": "中立的に説明するなら、「来年度の導入について検討を続ける予定です」となります。",
+    "cloze": "来年度の導入について検討を続ける予定です",
+    "answer": "来年度の導入について検討を続ける予定です",
+    "accepted_answers": [],
+    "lemma": "検討を続ける予定",
+    "meaning": "we plan to keep considering introduction next year, in neutral style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-296.mp3"
+  },
+  {
+    "id": "ja-a1-297",
+    "sentence": "会話で即答を避けるなら、「その件はもう少し考えてみます」が自然です。",
+    "cloze": "その件はもう少し考えてみます",
+    "answer": "その件はもう少し考えてみます",
+    "accepted_answers": [],
+    "lemma": "考えてみる",
+    "meaning": "I will think about it a little more, as a noncommittal conversational reply",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-297.mp3"
+  },
+  {
+    "id": "ja-a1-298",
+    "sentence": "報道では、「周辺環境への影響が懸念されています」と表現されました。",
+    "cloze": "周辺環境への影響が懸念されています",
+    "answer": "周辺環境への影響が懸念されています",
+    "accepted_answers": [],
+    "lemma": "影響が懸念される",
+    "meaning": "concerns have been expressed about environmental impact, in news style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-298.mp3"
+  },
+  {
+    "id": "ja-a1-299",
+    "sentence": "中立的な説明では、「周りの環境への影響を心配する意見が出ています」と言えます。",
+    "cloze": "周りの環境への影響を心配する意見が出ています",
+    "answer": "周りの環境への影響を心配する意見が出ています",
+    "accepted_answers": [],
+    "lemma": "心配する意見が出る",
+    "meaning": "people have voiced concern about effects on the surroundings, in neutral style",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-299.mp3"
+  },
+  {
+    "id": "ja-a1-300",
+    "sentence": "会話なら、「周りへの影響が気になるっていう声も出てるんです」と言うと自然です。",
+    "cloze": "周りへの影響が気になるっていう声も出てるんです",
+    "answer": "周りへの影響が気になるっていう声も出てるんです",
+    "accepted_answers": [],
+    "lemma": "っていう声も出てる",
+    "meaning": "some people are saying they are worried about the impact, in advanced conversation",
+    "audio": "audio/ja-JP-advanced-1/ja-a1-300.mp3"
+  }
+]

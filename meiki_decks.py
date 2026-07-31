@@ -81,6 +81,19 @@ DECKS = {
         "voice": "Ono_Anna",
         "tts_language": "Japanese",
     },
+    "ja-JP-advanced-1": {
+        "cards_path": ROOT / "cards" / "ja-JP-advanced-1.json",
+        "archive_path": ROOT / "dist" / "meiki-ja-jp-advanced-1-v0.1.0.meiki",
+        "handoff_path": ROOT / "dist" / "README-ja-JP-advanced-1.txt",
+        "card_prefix": "ja-a1-",
+        "count": 300,
+        "deck_id": "meiki-ja-jp-advanced-1",
+        "name": "Japanese Advanced 1",
+        "description": "300 advanced Japanese audio-guided typed-cloze cards bridging the N1 range and authentic usage.",
+        "language_tag": "ja-JP",
+        "voice": "Ono_Anna",
+        "tts_language": "Japanese",
+    },
 }
 REQUIRED_FIELDS = (
     "id",
