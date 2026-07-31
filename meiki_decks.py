@@ -13,12 +13,36 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parent
-CARDS_PATH = ROOT / "cards" / "ja-JP-foundation-1.json"
 MODEL = "mlx-community/Qwen3-TTS-12Hz-0.6B-CustomVoice-8bit"
-VOICE = "Ono_Anna"
-LANGUAGE = "Japanese"
-DECK_ID = "meiki-ja-jp-foundation-1"
-ARCHIVE_PATH = ROOT / "dist" / "meiki-ja-jp-foundation-1-v0.1.0.meiki"
+DEFAULT_DECK = "ja-JP-foundation-1"
+DECKS = {
+    "ja-JP-foundation-1": {
+        "cards_path": ROOT / "cards" / "ja-JP-foundation-1.json",
+        "archive_path": ROOT / "dist" / "meiki-ja-jp-foundation-1-v0.1.0.meiki",
+        "handoff_path": ROOT / "dist" / "README.txt",
+        "card_prefix": "ja-",
+        "count": 150,
+        "deck_id": "meiki-ja-jp-foundation-1",
+        "name": "Japanese Foundation 1",
+        "description": "150 beginner Japanese audio-guided typed-cloze cards.",
+        "language_tag": "ja-JP",
+        "voice": "Ono_Anna",
+        "tts_language": "Japanese",
+    },
+    "ja-JP-foundation-2": {
+        "cards_path": ROOT / "cards" / "ja-JP-foundation-2.json",
+        "archive_path": ROOT / "dist" / "meiki-ja-jp-foundation-2-v0.1.0.meiki",
+        "handoff_path": ROOT / "dist" / "README-ja-JP-foundation-2.txt",
+        "card_prefix": "ja-f2-",
+        "count": 150,
+        "deck_id": "meiki-ja-jp-foundation-2",
+        "name": "Japanese Foundation 2",
+        "description": "150 beginner Japanese audio-guided typed-cloze cards covering the remaining N5 range.",
+        "language_tag": "ja-JP",
+        "voice": "Ono_Anna",
+        "tts_language": "Japanese",
+    },
+}
 REQUIRED_FIELDS = (
     "id",
     "sentence",
@@ -31,14 +55,15 @@ REQUIRED_FIELDS = (
 )
 
 
-def load_cards():
+def load_cards(deck):
+    cards_path = deck["cards_path"]
     try:
-        cards = json.loads(CARDS_PATH.read_text(encoding="utf-8"))
+        cards = json.loads(cards_path.read_text(encoding="utf-8"))
     except FileNotFoundError:
-        raise ValueError(f"card file not found: {CARDS_PATH}")
+        raise ValueError(f"card file not found: {cards_path}")
     except json.JSONDecodeError as error:
         raise ValueError(
-            f"invalid JSON in {CARDS_PATH}: line {error.lineno}, column {error.colno}"
+            f"invalid JSON in {cards_path}: line {error.lineno}, column {error.colno}"
         )
 
     if not isinstance(cards, list):
@@ -46,14 +71,20 @@ def load_cards():
     return cards
 
 
-def validation_errors(cards, require_audio):
+def validation_errors(cards, require_audio, deck, require_complete=True):
     errors = []
     seen_ids = set()
     seen_audio_paths = set()
     seen_sentences = set()
 
-    if len(cards) != 150:
-        errors.append(f"expected 150 cards, found {len(cards)}")
+    if require_complete and len(cards) != deck["count"]:
+        errors.append(f"expected {deck['count']} cards, found {len(cards)}")
+    elif not require_complete and not cards:
+        errors.append("expected at least 1 card")
+    elif not require_complete and len(cards) > deck["count"]:
+        errors.append(
+            f"expected at most {deck['count']} cards, found {len(cards)}"
+        )
 
     for index, card in enumerate(cards, start=1):
         label = f"card {index}"
@@ -118,12 +149,19 @@ def validation_errors(cards, require_audio):
         if isinstance(answer, str) and isinstance(cloze, str) and answer != cloze:
             errors.append(f"{label}: answer must equal cloze")
 
-    expected_ids = [f"ja-{number:03d}" for number in range(1, 151)]
+    expected_ids = [
+        f"{deck['card_prefix']}{number:03d}"
+        for number in range(
+            1, (deck["count"] if require_complete else len(cards)) + 1
+        )
+    ]
     actual_ids = [
         card.get("id") if isinstance(card, dict) else None for card in cards
     ]
     if actual_ids != expected_ids:
-        errors.append("card IDs must run in order from ja-001 through ja-150")
+        errors.append(
+            f"card IDs must run in order from {expected_ids[0]} through {expected_ids[-1]}"
+        )
 
     return errors
 
@@ -199,14 +237,16 @@ def print_errors(errors):
         print(f"ERROR: {error}", file=sys.stderr)
 
 
-def run_check(allow_missing_audio):
+def run_check(deck, allow_missing_audio):
     try:
-        cards = load_cards()
+        cards = load_cards(deck)
     except ValueError as error:
         print(f"ERROR: {error}", file=sys.stderr)
         return 1
 
-    errors = validation_errors(cards, require_audio=not allow_missing_audio)
+    errors = validation_errors(
+        cards, require_audio=not allow_missing_audio, deck=deck
+    )
     if errors:
         print_errors(errors)
         print(f"Check failed with {len(errors)} error(s).", file=sys.stderr)
@@ -245,14 +285,16 @@ def print_generation_output(result):
         print(details, file=sys.stderr)
 
 
-def run_generate_audio():
+def run_generate_audio(deck):
     try:
-        cards = load_cards()
+        cards = load_cards(deck)
     except ValueError as error:
         print(f"Setup error: {error}", file=sys.stderr)
         return 1
 
-    errors = validation_errors(cards, require_audio=False)
+    errors = validation_errors(
+        cards, require_audio=False, deck=deck, require_complete=False
+    )
     if errors:
         print_errors(errors)
         return 1
@@ -298,9 +340,9 @@ def run_generate_audio():
                 "--text",
                 card["sentence"],
                 "--voice",
-                VOICE,
+                deck["voice"],
                 "--lang_code",
-                LANGUAGE,
+                deck["tts_language"],
                 "--temperature",
                 "0.7",
                 "--output_path",
@@ -349,7 +391,7 @@ def json_bytes(value):
     return (json.dumps(value, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
 
 
-def make_audio_reference(card, media, role):
+def make_audio_reference(card, media, role, deck):
     return {
         "id": f"{card['id']}-audio-{role.removesuffix('_audio')}",
         "content_hash": f"sha256:{media['digest']}",
@@ -362,13 +404,13 @@ def make_audio_reference(card, media, role):
         "width": None,
         "height": None,
         "duration_ms": media["duration_ms"],
-        "language_tag": "ja-JP",
+        "language_tag": deck["language_tag"],
         "direction": "auto",
         "created_at_ms": 0,
     }
 
 
-def make_note(card, media):
+def make_note(card, media, deck):
     card_id = card["id"]
     cloze_id = f"{card_id}-cloze"
     prefix, suffix = card["sentence"].split(card["cloze"])
@@ -401,9 +443,9 @@ def make_note(card, media):
 
     source_item = {
         "id": f"{card_id}-note",
-        "deck_id": DECK_ID,
+        "deck_id": deck["deck_id"],
         "segments": segments,
-        "language_tag": "ja-JP",
+        "language_tag": deck["language_tag"],
         "direction": "auto",
         "tags": [],
         "annotations": [
@@ -411,7 +453,7 @@ def make_note(card, media):
                 "id": f"{card_id}-annotation-lemma",
                 "label": "Lemma",
                 "value": card["lemma"],
-                "language_tag": "ja-JP",
+                "language_tag": deck["language_tag"],
                 "direction": "auto",
             },
             {
@@ -424,8 +466,8 @@ def make_note(card, media):
         ],
         "explanation": None,
         "media": [
-            make_audio_reference(card, media, "prompt_audio"),
-            make_audio_reference(card, media, "answer_audio"),
+            make_audio_reference(card, media, "prompt_audio", deck),
+            make_audio_reference(card, media, "answer_audio", deck),
         ],
         "created_at_ms": 0,
         "updated_at_ms": 0,
@@ -436,7 +478,7 @@ def make_note(card, media):
         "answer": card["answer"],
         "accepted_answers": card["accepted_answers"],
         "hint": None,
-        "language_tag": "ja-JP",
+        "language_tag": deck["language_tag"],
         "direction": "auto",
         "matching_policy": None,
         "annotations": [],
@@ -482,7 +524,7 @@ def make_note(card, media):
     }
 
 
-def make_collection(notes):
+def make_collection(notes, deck):
     parameters = [
         0.041,
         2.4175,
@@ -527,10 +569,10 @@ def make_collection(notes):
         },
         "decks": [
             {
-                "id": DECK_ID,
-                "name": "Japanese Foundation 1",
-                "description": "150 beginner Japanese audio-guided typed-cloze cards.",
-                "language_tag": "ja-JP",
+                "id": deck["deck_id"],
+                "name": deck["name"],
+                "description": deck["description"],
+                "language_tag": deck["language_tag"],
                 "direction": "auto",
                 "matching_policy": "strict",
                 "settings": {
@@ -553,7 +595,7 @@ def make_collection(notes):
         ],
         "scheduler_profiles": [
             {
-                "deck_id": DECK_ID,
+                "deck_id": deck["deck_id"],
                 "engine_version": "fsrs-7",
                 "active_parameter_set_id": "fsrs7-default-v1",
                 "scheduling_mode": "automatic",
@@ -563,7 +605,7 @@ def make_collection(notes):
                 "controller_new_cards_per_day": 20,
                 "controller_last_evaluated_day_start_ms": None,
                 "controller_review_count": 0,
-                "controller_unseen_count": 150,
+                "controller_unseen_count": deck["count"],
                 "controller_forecast_review_seconds_per_day": 0,
                 "controller_backlog_exceeds_budget": False,
                 "controller_explanation": "",
@@ -574,13 +616,13 @@ def make_collection(notes):
     }
 
 
-def verify_archive(archive_path):
+def verify_archive(archive_path, deck):
     expected_counts = {
         "decks": 1,
-        "notes": 150,
-        "cards": 150,
+        "notes": deck["count"],
+        "cards": deck["count"],
         "review_events": 0,
-        "media_objects": 150,
+        "media_objects": deck["count"],
     }
     with zipfile.ZipFile(archive_path) as archive:
         manifest = json.loads(archive.read("manifest.json"))
@@ -599,13 +641,15 @@ def verify_archive(archive_path):
             raise ValueError("collection hash does not match collection.json")
         collection = json.loads(collection_data)
         notes = collection.get("notes", [])
-        if len(collection.get("decks", [])) != 1 or len(notes) != 150:
-            raise ValueError("archive must contain one deck and 150 notes")
+        if len(collection.get("decks", [])) != 1 or len(notes) != deck["count"]:
+            raise ValueError(
+                f"archive must contain one deck and {deck['count']} notes"
+            )
 
         media = manifest.get("media", [])
-        if len(media) != 150 or [item["content_hash"] for item in media] != sorted(
+        if len(media) != deck["count"] or [
             item["content_hash"] for item in media
-        ):
+        ] != sorted(item["content_hash"] for item in media):
             raise ValueError("manifest media entries are incomplete or unsorted")
         for item in media:
             data = archive.read(item["path"])
@@ -620,10 +664,10 @@ def verify_archive(archive_path):
         card_count = 0
         for number, note in enumerate(notes, start=1):
             source = note["source_item"]
-            expected_prefix = f"ja-{number:03d}"
+            expected_prefix = f"{deck['card_prefix']}{number:03d}"
             if source["id"] != f"{expected_prefix}-note":
                 raise ValueError(f"source item ID mismatch for {expected_prefix}")
-            if source["deck_id"] != DECK_ID:
+            if source["deck_id"] != deck["deck_id"]:
                 raise ValueError(f"deck relationship mismatch for {expected_prefix}")
             if len(note["clozes"]) != 1 or len(note["cards"]) != 1:
                 raise ValueError(f"portable note shape mismatch for {expected_prefix}")
@@ -662,17 +706,19 @@ def verify_archive(archive_path):
                 raise ValueError(f"card does not start unseen for {expected_prefix}")
             card_count += 1
 
-        if card_count != 150:
-            raise ValueError("archive does not contain 150 cards")
+        if card_count != deck["count"]:
+            raise ValueError(
+                f"archive does not contain {deck['count']} cards"
+            )
 
 
-def run_build():
-    if run_check(allow_missing_audio=False) != 0:
+def run_build(deck):
+    if run_check(deck, allow_missing_audio=False) != 0:
         print("Build stopped because check failed.", file=sys.stderr)
         return 1
 
     try:
-        cards = load_cards()
+        cards = load_cards(deck)
         notes = []
         media_objects = {}
         for card in cards:
@@ -687,14 +733,14 @@ def run_build():
                 "data": data,
             }
             media_objects.setdefault(digest, media)
-            notes.append(make_note(card, media))
+            notes.append(make_note(card, media, deck))
 
-        if len(media_objects) != 150:
+        if len(media_objects) != deck["count"]:
             raise ValueError(
-                f"expected 150 unique audio objects, found {len(media_objects)}"
+                f"expected {deck['count']} unique audio objects, found {len(media_objects)}"
             )
 
-        collection_data = json_bytes(make_collection(notes))
+        collection_data = json_bytes(make_collection(notes, deck))
         media_entries = [
             {
                 "content_hash": f"sha256:{media['digest']}",
@@ -714,17 +760,18 @@ def run_build():
             "collection_sha256": f"sha256:{sha256(collection_data)}",
             "counts": {
                 "decks": 1,
-                "notes": 150,
-                "cards": 150,
+                "notes": deck["count"],
+                "cards": deck["count"],
                 "review_events": 0,
-                "media_objects": 150,
+                "media_objects": deck["count"],
             },
             "media": media_entries,
         }
 
-        ARCHIVE_PATH.parent.mkdir(parents=True, exist_ok=True)
+        archive_path = deck["archive_path"]
+        archive_path.parent.mkdir(parents=True, exist_ok=True)
         with zipfile.ZipFile(
-            ARCHIVE_PATH, "w", compression=zipfile.ZIP_DEFLATED
+            archive_path, "w", compression=zipfile.ZIP_DEFLATED
         ) as archive:
             archive.writestr("manifest.json", json_bytes(manifest))
             archive.writestr("collection.json", collection_data)
@@ -735,45 +782,45 @@ def run_build():
                     media["path"], media["data"], compress_type=zipfile.ZIP_STORED
                 )
 
-        verify_archive(ARCHIVE_PATH)
-        archive_digest = sha256(ARCHIVE_PATH.read_bytes())
+        verify_archive(archive_path, deck)
+        archive_digest = sha256(archive_path.read_bytes())
         handoff = (
-            f"Archive: {ARCHIVE_PATH.name}\n"
+            f"Archive: {archive_path.name}\n"
             f"SHA-256: {archive_digest}\n"
             "Decks: 1\n"
-            "Notes: 150\n"
-            "Cards: 150\n"
+            f"Notes: {deck['count']}\n"
+            f"Cards: {deck['count']}\n"
             "Review events: 0\n"
-            "Media objects: 150\n\n"
+            f"Media objects: {deck['count']}\n\n"
             "Please test importing this archive in the Meiki application.\n"
         )
-        (ARCHIVE_PATH.parent / "README.txt").write_text(
-            handoff, encoding="utf-8"
-        )
+        deck["handoff_path"].write_text(handoff, encoding="utf-8")
     except (KeyError, OSError, ValueError, zipfile.BadZipFile) as error:
         print(f"Build failed: {error}", file=sys.stderr)
         return 1
 
-    print(f"Built and verified {ARCHIVE_PATH.relative_to(ROOT)}")
+    print(f"Built and verified {archive_path.relative_to(ROOT)}")
     print(f"SHA-256: {archive_digest}")
     return 0
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Build the Japanese Foundation deck.")
+    parser = argparse.ArgumentParser(description="Build Japanese audio-cloze decks.")
     parser.add_argument("command", choices=("generate-audio", "check", "build"))
+    parser.add_argument("--deck", choices=DECKS, default=DEFAULT_DECK)
     parser.add_argument("--allow-missing-audio", action="store_true")
     args = parser.parse_args()
+    deck = DECKS[args.deck]
 
     if args.command == "generate-audio":
         if args.allow_missing_audio:
             parser.error("--allow-missing-audio is only valid with check")
-        return run_generate_audio()
+        return run_generate_audio(deck)
     if args.command == "check":
-        return run_check(args.allow_missing_audio)
+        return run_check(deck, args.allow_missing_audio)
     if args.allow_missing_audio:
         parser.error("--allow-missing-audio is only valid with check")
-    return run_build()
+    return run_build(deck)
 
 
 if __name__ == "__main__":
