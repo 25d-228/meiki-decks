@@ -1,7 +1,7 @@
 # meiki-decks
 
-The Japanese Foundation series contains 150 beginner audio-cloze cards per
-deck and one full-sentence MP3 for each card.
+The Japanese series contains staged audio-cloze decks and one full-sentence
+MP3 for every card.
 
 ## Requirements
 
@@ -73,4 +73,8 @@ dist/README.txt
 audio/ja-JP-foundation-2/ja-f2-001.mp3 through ja-f2-150.mp3
 dist/meiki-ja-jp-foundation-2-v0.1.0.meiki
 dist/README-ja-JP-foundation-2.txt
+
+audio/ja-JP-elementary-1/ja-e1-001.mp3 through ja-e1-200.mp3
+dist/meiki-ja-jp-elementary-1-v0.1.0.meiki
+dist/README-ja-JP-elementary-1.txt
 ```
