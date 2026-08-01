@@ -127,6 +127,10 @@ audio/zh-Hans-CN-foundation-1/zh-f1-001.mp3 through zh-f1-150.mp3
 dist/meiki-zh-hans-cn-foundation-1-v0.1.0.meiki
 dist/README-zh-Hans-CN-foundation-1.txt
 
+audio/zh-Hans-CN-foundation-2/zh-f2-001.mp3 through zh-f2-200.mp3
+dist/meiki-zh-hans-cn-foundation-2-v0.1.0.meiki
+dist/README-zh-Hans-CN-foundation-2.txt
+
 audio/fr-FR-foundation-1/fr-f1-001.mp3 through fr-f1-150.mp3
 dist/meiki-fr-fr-foundation-1-v0.1.0.meiki
 dist/README-fr-FR-foundation-1.txt
