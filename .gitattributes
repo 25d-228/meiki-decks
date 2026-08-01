@@ -1,4 +1,0 @@
-dist/meiki-all-current-v0.1.0.meiki filter=lfs diff=lfs merge=lfs -text
-dist/meiki-ja-jp-complete-v0.1.0.meiki filter=lfs diff=lfs merge=lfs -text
-dist/meiki-ko-kr-complete-v0.1.0.meiki filter=lfs diff=lfs merge=lfs -text
-dist/meiki-all-current-v0.2.0.meiki filter=lfs diff=lfs merge=lfs -text

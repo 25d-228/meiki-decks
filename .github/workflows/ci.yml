@@ -1,0 +1,115 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  tests:
+    name: tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate reset state
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          readme = " ".join(
+              Path("README.md").read_text(encoding="utf-8").split()
+          )
+          required_statements = (
+              "being rebuilt from scratch",
+              "Generated deck content is intentionally absent",
+              "roadmap issue #56",
+              "Old generated content must not be reused",
+          )
+          missing = [text for text in required_statements if text not in readme]
+          if missing:
+              raise SystemExit(f"README is missing required reset statements: {missing}")
+          PY
+
+  lint:
+    name: lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate retained text files
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import tomllib
+
+          tomllib.loads(Path("pyproject.toml").read_text(encoding="utf-8"))
+          retained_files = (
+              Path("README.md"),
+              Path(".gitignore"),
+              Path("LICENSE"),
+              Path("pyproject.toml"),
+              Path(".github/workflows/ci.yml"),
+          )
+          for retained_file in retained_files:
+              lines = retained_file.read_text(encoding="utf-8").splitlines()
+              if any(line.endswith((" ", "\t")) for line in lines):
+                  raise SystemExit(f"trailing whitespace in {retained_file}")
+          PY
+
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Verify clean repository tree
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import subprocess
+
+          expected_files = {
+              ".github/workflows/ci.yml",
+              ".gitignore",
+              "LICENSE",
+              "README.md",
+              "pyproject.toml",
+          }
+          tracked_files = set(
+              subprocess.check_output(["git", "ls-files"], text=True).splitlines()
+          )
+          if tracked_files != expected_files:
+              raise SystemExit(
+                  f"tracked tree differs from reset contract: {sorted(tracked_files)}"
+              )
+
+          ignored_paths = (
+              "work/example",
+              "dist/example",
+              ".model-cache/example",
+              "__pycache__/example.pyc",
+              ".pytest_cache/example",
+              ".ruff_cache/example",
+              "example.pyc",
+              ".DS_Store",
+          )
+          for ignored_path in ignored_paths:
+              result = subprocess.run(
+                  ["git", "check-ignore", "--quiet", "--no-index", ignored_path]
+              )
+              if result.returncode != 0:
+                  raise SystemExit(f"required path is not ignored: {ignored_path}")
+
+          for generated_path in ("audio", "cards", "coverage", "dist", "work"):
+              if Path(generated_path).exists():
+                  raise SystemExit(f"generated path remains: {generated_path}")
+          PY
