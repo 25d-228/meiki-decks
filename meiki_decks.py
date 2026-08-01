@@ -216,6 +216,20 @@ BUNDLES = {
             ("ja-JP-advanced-1", "Japanese 06 — Advanced 1"),
         ),
     },
+    "ko-KR-complete": {
+        "archive_path": ROOT / "dist" / "meiki-ko-kr-complete-v0.1.0.meiki",
+        "handoff_path": ROOT / "dist" / "README-ko-KR-complete.txt",
+        "decks": (
+            ("ko-KR-foundation-1", "Korean 01 — Foundation 1"),
+            ("ko-KR-foundation-2", "Korean 02 — Foundation 2"),
+            ("ko-KR-intermediate-1", "Korean 03 — Intermediate 1"),
+            (
+                "ko-KR-upper-intermediate-1",
+                "Korean 04 — Upper-Intermediate 1",
+            ),
+            ("ko-KR-advanced-1", "Korean 05 — Advanced 1"),
+        ),
+    },
     "all-current": {
         "archive_path": ROOT / "dist" / "meiki-all-current-v0.1.0.meiki",
         "handoff_path": ROOT / "dist" / "README-all-current.txt",
@@ -230,6 +244,32 @@ BUNDLES = {
             ),
             ("ja-JP-advanced-1", "Japanese 06 — Advanced 1"),
             ("ko-KR-foundation-1", "Korean 01 — Foundation 1"),
+            ("zh-Hans-CN-foundation-1", "Mandarin 01 — Foundation 1"),
+            ("fr-FR-foundation-1", "French 01 — Foundation 1"),
+            ("es-MX-foundation-1", "Mexican Spanish 01 — Foundation 1"),
+        ),
+    },
+    "all-current-v0.2.0": {
+        "archive_path": ROOT / "dist" / "meiki-all-current-v0.2.0.meiki",
+        "handoff_path": ROOT / "dist" / "README-all-current-v0.2.0.txt",
+        "decks": (
+            ("ja-JP-foundation-1", "Japanese 01 — Foundation 1"),
+            ("ja-JP-foundation-2", "Japanese 02 — Foundation 2"),
+            ("ja-JP-elementary-1", "Japanese 03 — Elementary 1"),
+            ("ja-JP-intermediate-1", "Japanese 04 — Intermediate 1"),
+            (
+                "ja-JP-upper-intermediate-1",
+                "Japanese 05 — Upper-Intermediate 1",
+            ),
+            ("ja-JP-advanced-1", "Japanese 06 — Advanced 1"),
+            ("ko-KR-foundation-1", "Korean 01 — Foundation 1"),
+            ("ko-KR-foundation-2", "Korean 02 — Foundation 2"),
+            ("ko-KR-intermediate-1", "Korean 03 — Intermediate 1"),
+            (
+                "ko-KR-upper-intermediate-1",
+                "Korean 04 — Upper-Intermediate 1",
+            ),
+            ("ko-KR-advanced-1", "Korean 05 — Advanced 1"),
             ("zh-Hans-CN-foundation-1", "Mandarin 01 — Foundation 1"),
             ("fr-FR-foundation-1", "French 01 — Foundation 1"),
             ("es-MX-foundation-1", "Mexican Spanish 01 — Foundation 1"),
