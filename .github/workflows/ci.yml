@@ -16,24 +16,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Validate reset state
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-
-          readme = " ".join(
-              Path("README.md").read_text(encoding="utf-8").split()
-          )
-          required_statements = (
-              "being rebuilt from scratch",
-              "Generated deck content is intentionally absent",
-              "roadmap issue #56",
-              "Old generated content must not be reused",
-          )
-          missing = [text for text in required_statements if text not in readme]
-          if missing:
-              raise SystemExit(f"README is missing required reset statements: {missing}")
-          PY
+      - name: Run focused tests
+        run: python -m unittest discover -s tests -v
 
   lint:
     name: lint
@@ -43,24 +27,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Validate retained text files
+      - name: Compile Python
+        run: python -m compileall -q meiki_decks.py tests
+      - name: Check Python formatting
         run: |
           python - <<'PY'
           from pathlib import Path
-          import tomllib
 
-          tomllib.loads(Path("pyproject.toml").read_text(encoding="utf-8"))
-          retained_files = (
-              Path("README.md"),
-              Path(".gitignore"),
-              Path("LICENSE"),
-              Path("pyproject.toml"),
-              Path(".github/workflows/ci.yml"),
-          )
-          for retained_file in retained_files:
-              lines = retained_file.read_text(encoding="utf-8").splitlines()
+          for python_file in (Path("meiki_decks.py"), Path("tests/test_meiki_decks.py")):
+              lines = python_file.read_text(encoding="utf-8").splitlines()
               if any(line.endswith((" ", "\t")) for line in lines):
-                  raise SystemExit(f"trailing whitespace in {retained_file}")
+                  raise SystemExit(f"trailing whitespace in {python_file}")
+              if any(len(line) > 100 for line in lines):
+                  raise SystemExit(f"line longer than 100 characters in {python_file}")
           PY
 
   build:
@@ -71,10 +50,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Verify clean repository tree
+      - name: Verify tracked tree
         run: |
           python - <<'PY'
-          from pathlib import Path
           import subprocess
 
           expected_files = {
@@ -82,34 +60,17 @@ jobs:
               ".gitignore",
               "LICENSE",
               "README.md",
+              "meiki_decks.py",
               "pyproject.toml",
+              "tests/test_meiki_decks.py",
           }
           tracked_files = set(
               subprocess.check_output(["git", "ls-files"], text=True).splitlines()
           )
           if tracked_files != expected_files:
-              raise SystemExit(
-                  f"tracked tree differs from reset contract: {sorted(tracked_files)}"
-              )
-
-          ignored_paths = (
-              "work/example",
-              "dist/example",
-              ".model-cache/example",
-              "__pycache__/example.pyc",
-              ".pytest_cache/example",
-              ".ruff_cache/example",
-              "example.pyc",
-              ".DS_Store",
-          )
-          for ignored_path in ignored_paths:
-              result = subprocess.run(
-                  ["git", "check-ignore", "--quiet", "--no-index", ignored_path]
-              )
-              if result.returncode != 0:
-                  raise SystemExit(f"required path is not ignored: {ignored_path}")
-
-          for generated_path in ("audio", "cards", "coverage", "dist", "work"):
-              if Path(generated_path).exists():
-                  raise SystemExit(f"generated path remains: {generated_path}")
+              raise SystemExit(f"tracked tree is incorrect: {sorted(tracked_files)}")
           PY
+      - name: Build and verify tiny archive
+        run: >-
+          python -m unittest -v
+          tests.test_meiki_decks.MeikiDecksTests.test_build_creates_verified_version_four_archive_with_deduplicated_media
