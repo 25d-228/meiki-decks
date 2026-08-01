@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "ko-f2-001",
+    "sentence": "이제 간단한 한국어 뉴스는 읽을 수 있어요.",
+    "cloze": "읽을 수 있어요",
+    "answer": "읽을 수 있어요",
+    "accepted_answers": [],
+    "lemma": "읽을 수 있다",
+    "meaning": "can read",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-001.mp3"
+  },
+  {
+    "id": "ko-f2-002",
+    "sentence": "도서관 카드를 만들려면 신분증을 가져와야 해요.",
+    "cloze": "신분증을 가져와야 해요",
+    "answer": "신분증을 가져와야 해요",
+    "accepted_answers": [],
+    "lemma": "가져와야 하다",
+    "meaning": "must bring identification",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-002.mp3"
+  },
+  {
+    "id": "ko-f2-003",
+    "sentence": "길을 잃으면 가까운 안내소에 물어보세요.",
+    "cloze": "길을 잃으면",
+    "answer": "길을 잃으면",
+    "accepted_answers": [],
+    "lemma": "길을 잃다",
+    "meaning": "if you get lost",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-003.mp3"
+  },
+  {
+    "id": "ko-f2-004",
+    "sentence": "점심을 먹고 나서 은행에 가려고 해요.",
+    "cloze": "은행에 가려고 해요",
+    "answer": "은행에 가려고 해요",
+    "accepted_answers": [],
+    "lemma": "은행에 가려고 하다",
+    "meaning": "intend to go to the bank",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-004.mp3"
+  },
+  {
+    "id": "ko-f2-005",
+    "sentence": "저는 제주도에서 자전거를 타 본 적이 있어요.",
+    "cloze": "자전거를 타 본 적이 있어요",
+    "answer": "자전거를 타 본 적이 있어요",
+    "accepted_answers": [],
+    "lemma": "자전거를 타 본 적이 있다",
+    "meaning": "have ridden a bicycle",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-005.mp3"
+  },
+  {
+    "id": "ko-f2-006",
+    "sentence": "회의가 시작되기 전에 자료를 읽어 보세요.",
+    "cloze": "회의가 시작되기 전에",
+    "answer": "회의가 시작되기 전에",
+    "accepted_answers": [],
+    "lemma": "시작되기 전에",
+    "meaning": "before the meeting starts",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-006.mp3"
+  },
+  {
+    "id": "ko-f2-007",
+    "sentence": "제가 어제 산 책은 한국 요리에 관한 책이에요.",
+    "cloze": "제가 어제 산 책",
+    "answer": "제가 어제 산 책",
+    "accepted_answers": [],
+    "lemma": "어제 산 책",
+    "meaning": "the book I bought yesterday",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-007.mp3"
+  },
+  {
+    "id": "ko-f2-008",
+    "sentence": "다음 주 면접에 입을 옷을 미리 골랐어요.",
+    "cloze": "면접에 입을 옷",
+    "answer": "면접에 입을 옷",
+    "accepted_answers": [],
+    "lemma": "입을 옷",
+    "meaning": "clothes to wear",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-008.mp3"
+  },
+  {
+    "id": "ko-f2-009",
+    "sentence": "안내 직원이 기차가 십 분 늦는다고 했어요.",
+    "cloze": "십 분 늦는다고 했어요",
+    "answer": "십 분 늦는다고 했어요",
+    "accepted_answers": [],
+    "lemma": "늦는다고 하다",
+    "meaning": "said it would be ten minutes late",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-009.mp3"
+  },
+  {
+    "id": "ko-f2-010",
+    "sentence": "할머니께 약 드실 시간을 알려 드렸어요.",
+    "cloze": "알려 드렸어요",
+    "answer": "알려 드렸어요",
+    "accepted_answers": [],
+    "lemma": "알려 드리다",
+    "meaning": "let her know, honorific",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-010.mp3"
+  },
+  {
+    "id": "ko-f2-011",
+    "sentence": "두 제품 중에서는 이 제품이 더 가벼워요.",
+    "cloze": "이 제품이 더 가벼워요",
+    "answer": "이 제품이 더 가벼워요",
+    "accepted_answers": [],
+    "lemma": "더 가볍다",
+    "meaning": "this product is lighter",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-011.mp3"
+  },
+  {
+    "id": "ko-f2-012",
+    "sentence": "우유 두 팩하고 달걀 한 판을 주문했어요.",
+    "cloze": "달걀 한 판을",
+    "answer": "달걀 한 판을",
+    "accepted_answers": [],
+    "lemma": "달걀 한 판",
+    "meaning": "one tray of eggs",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-012.mp3"
+  },
+  {
+    "id": "ko-f2-013",
+    "sentence": "버스가 늦게 와서 약속에 십 분쯤 늦을 것 같다고 메시지를 보냈어요.",
+    "cloze": "늦을 것 같다고 메시지를 보냈어요",
+    "answer": "늦을 것 같다고 메시지를 보냈어요",
+    "accepted_answers": [],
+    "lemma": "늦을 것 같다고 메시지를 보내다",
+    "meaning": "sent a message saying I might be late",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-013.mp3"
+  },
+  {
+    "id": "ko-f2-014",
+    "sentence": "본 열차는 잠시 후 서울역에 도착합니다.",
+    "cloze": "서울역에 도착합니다",
+    "answer": "서울역에 도착합니다",
+    "accepted_answers": [],
+    "lemma": "도착합니다",
+    "meaning": "arrives at Seoul Station",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-014.mp3"
+  },
+  {
+    "id": "ko-f2-015",
+    "sentence": "목소리가 너무 작아서 뒤에서는 잘 들을 수 없어요.",
+    "cloze": "잘 들을 수 없어요",
+    "answer": "잘 들을 수 없어요",
+    "accepted_answers": [],
+    "lemma": "들을 수 없다",
+    "meaning": "cannot hear well",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-015.mp3"
+  },
+  {
+    "id": "ko-f2-016",
+    "sentence": "오늘 안에 신청서를 제출해야 해요.",
+    "cloze": "신청서를 제출해야 해요",
+    "answer": "신청서를 제출해야 해요",
+    "accepted_answers": [],
+    "lemma": "제출해야 하다",
+    "meaning": "must submit the application",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-016.mp3"
+  },
+  {
+    "id": "ko-f2-017",
+    "sentence": "열이 계속 나면 다시 병원에 오세요.",
+    "cloze": "열이 계속 나면",
+    "answer": "열이 계속 나면",
+    "accepted_answers": [],
+    "lemma": "열이 나다",
+    "meaning": "if the fever continues",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-017.mp3"
+  },
+  {
+    "id": "ko-f2-018",
+    "sentence": "집에서 쓸 책상을 사려고 가구점에 갔어요.",
+    "cloze": "책상을 사려고",
+    "answer": "책상을 사려고",
+    "accepted_answers": [],
+    "lemma": "책상을 사려고",
+    "meaning": "in order to buy a desk",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-018.mp3"
+  },
+  {
+    "id": "ko-f2-019",
+    "sentence": "이 신발이 편한지 한번 신어 보세요.",
+    "cloze": "한번 신어 보세요",
+    "answer": "한번 신어 보세요",
+    "accepted_answers": [],
+    "lemma": "신어 보다",
+    "meaning": "try them on",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-019.mp3"
+  },
+  {
+    "id": "ko-f2-020",
+    "sentence": "저는 아직 한국에서 운전해 본 적이 없어요.",
+    "cloze": "운전해 본 적이 없어요",
+    "answer": "운전해 본 적이 없어요",
+    "accepted_answers": [],
+    "lemma": "운전해 본 적이 없다",
+    "meaning": "have never driven",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-020.mp3"
+  },
+  {
+    "id": "ko-f2-021",
+    "sentence": "수업이 끝난 후에 선생님께 질문했어요.",
+    "cloze": "수업이 끝난 후에",
+    "answer": "수업이 끝난 후에",
+    "accepted_answers": [],
+    "lemma": "끝난 후에",
+    "meaning": "after class ended",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-021.mp3"
+  },
+  {
+    "id": "ko-f2-022",
+    "sentence": "창가에 앉아 있는 분이 제 팀장님이에요.",
+    "cloze": "창가에 앉아 있는 분",
+    "answer": "창가에 앉아 있는 분",
+    "accepted_answers": [],
+    "lemma": "앉아 있는 분",
+    "meaning": "the person sitting by the window",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-022.mp3"
+  },
+  {
+    "id": "ko-f2-023",
+    "sentence": "내일 발표할 내용은 오늘 다시 확인할게요.",
+    "cloze": "내일 발표할 내용",
+    "answer": "내일 발표할 내용",
+    "accepted_answers": [],
+    "lemma": "발표할 내용",
+    "meaning": "what I will present tomorrow",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-023.mp3"
+  },
+  {
+    "id": "ko-f2-024",
+    "sentence": "민지 씨가 오늘 회식에 못 온다고 했어요.",
+    "cloze": "못 온다고 했어요",
+    "answer": "못 온다고 했어요",
+    "accepted_answers": [],
+    "lemma": "못 온다고 하다",
+    "meaning": "said she cannot come",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-024.mp3"
+  },
+  {
+    "id": "ko-f2-025",
+    "sentence": "교수님께서 다음 주에 새 책을 소개해 주실 거예요.",
+    "cloze": "소개해 주실 거예요",
+    "answer": "소개해 주실 거예요",
+    "accepted_answers": [],
+    "lemma": "소개해 주시다",
+    "meaning": "will introduce it for us, honorific",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-025.mp3"
+  },
+  {
+    "id": "ko-f2-026",
+    "sentence": "이 표는 인터넷으로도 예약할 수 있어요.",
+    "cloze": "인터넷으로도 예약할 수 있어요",
+    "answer": "인터넷으로도 예약할 수 있어요",
+    "accepted_answers": [],
+    "lemma": "예약할 수 있다",
+    "meaning": "can also reserve online",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-026.mp3"
+  },
+  {
+    "id": "ko-f2-027",
+    "sentence": "비밀번호를 잊어서 지금은 계좌를 확인할 수 없어요.",
+    "cloze": "계좌를 확인할 수 없어요",
+    "answer": "계좌를 확인할 수 없어요",
+    "accepted_answers": [],
+    "lemma": "확인할 수 없다",
+    "meaning": "cannot check the account",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-027.mp3"
+  },
+  {
+    "id": "ko-f2-028",
+    "sentence": "천천히 말씀하시면 내용을 이해할 수 있어요.",
+    "cloze": "내용을 이해할 수 있어요",
+    "answer": "내용을 이해할 수 있어요",
+    "accepted_answers": [],
+    "lemma": "이해할 수 있다",
+    "meaning": "can understand the content",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-028.mp3"
+  },
+  {
+    "id": "ko-f2-029",
+    "sentence": "영수증이 없으면 이 물건을 교환할 수 없어요.",
+    "cloze": "교환할 수 없어요",
+    "answer": "교환할 수 없어요",
+    "accepted_answers": [],
+    "lemma": "교환할 수 없다",
+    "meaning": "cannot exchange it",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-029.mp3"
+  },
+  {
+    "id": "ko-f2-030",
+    "sentence": "초보자도 이 요리 수업에 참여할 수 있어요.",
+    "cloze": "참여할 수 있어요",
+    "answer": "참여할 수 있어요",
+    "accepted_answers": [],
+    "lemma": "참여할 수 있다",
+    "meaning": "can participate",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-030.mp3"
+  },
+  {
+    "id": "ko-f2-031",
+    "sentence": "처음 로그인하면 비밀번호를 바꿔야 해요.",
+    "cloze": "비밀번호를 바꿔야 해요",
+    "answer": "비밀번호를 바꿔야 해요",
+    "accepted_answers": [],
+    "lemma": "바꿔야 하다",
+    "meaning": "must change the password",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-031.mp3"
+  },
+  {
+    "id": "ko-f2-032",
+    "sentence": "국제선을 타려면 공항에 일찍 도착해야 해요.",
+    "cloze": "공항에 일찍 도착해야 해요",
+    "answer": "공항에 일찍 도착해야 해요",
+    "accepted_answers": [],
+    "lemma": "도착해야 하다",
+    "meaning": "must arrive at the airport early",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-032.mp3"
+  },
+  {
+    "id": "ko-f2-033",
+    "sentence": "전시실 안에서는 사진을 찍으면 안 돼요.",
+    "cloze": "사진을 찍으면 안 돼요",
+    "answer": "사진을 찍으면 안 돼요",
+    "accepted_answers": [],
+    "lemma": "사진을 찍으면 안 되다",
+    "meaning": "must not take pictures",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-033.mp3"
+  },
+  {
+    "id": "ko-f2-034",
+    "sentence": "이 약은 꼭 식사 후에 먹어야 해요.",
+    "cloze": "식사 후에 먹어야 해요",
+    "answer": "식사 후에 먹어야 해요",
+    "accepted_answers": [],
+    "lemma": "먹어야 하다",
+    "meaning": "must take it after a meal",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-034.mp3"
+  },
+  {
+    "id": "ko-f2-035",
+    "sentence": "아파트에서는 쓰레기를 종류별로 나눠서 버려야 해요.",
+    "cloze": "나눠서 버려야 해요",
+    "answer": "나눠서 버려야 해요",
+    "accepted_answers": [],
+    "lemma": "나눠서 버려야 하다",
+    "meaning": "must separate the trash",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-035.mp3"
+  },
+  {
+    "id": "ko-f2-036",
+    "sentence": "주소가 바뀌면 은행에도 알려 주세요.",
+    "cloze": "주소가 바뀌면",
+    "answer": "주소가 바뀌면",
+    "accepted_answers": [],
+    "lemma": "주소가 바뀌다",
+    "meaning": "if your address changes",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-036.mp3"
+  },
+  {
+    "id": "ko-f2-037",
+    "sentence": "이 기차를 놓치면 한 시간을 더 기다려야 해요.",
+    "cloze": "이 기차를 놓치면",
+    "answer": "이 기차를 놓치면",
+    "accepted_answers": [],
+    "lemma": "기차를 놓치다",
+    "meaning": "if we miss this train",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-037.mp3"
+  },
+  {
+    "id": "ko-f2-038",
+    "sentence": "오후에 날이 개면 강가를 걸을 거예요.",
+    "cloze": "날이 개면",
+    "answer": "날이 개면",
+    "accepted_answers": [],
+    "lemma": "날이 개다",
+    "meaning": "if the weather clears",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-038.mp3"
+  },
+  {
+    "id": "ko-f2-039",
+    "sentence": "카드를 잃어버리면 바로 고객 센터에 전화하세요.",
+    "cloze": "카드를 잃어버리면",
+    "answer": "카드를 잃어버리면",
+    "accepted_answers": [],
+    "lemma": "카드를 잃어버리다",
+    "meaning": "if you lose your card",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-039.mp3"
+  },
+  {
+    "id": "ko-f2-040",
+    "sentence": "빈 방이 있으면 이번 주에 보고 싶어요.",
+    "cloze": "빈 방이 있으면",
+    "answer": "빈 방이 있으면",
+    "accepted_answers": [],
+    "lemma": "빈 방이 있다",
+    "meaning": "if there is a vacant room",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-040.mp3"
+  },
+  {
+    "id": "ko-f2-041",
+    "sentence": "여름휴가를 위해 매달 조금씩 돈을 모으려고 해요.",
+    "cloze": "돈을 모으려고 해요",
+    "answer": "돈을 모으려고 해요",
+    "accepted_answers": [],
+    "lemma": "돈을 모으려고 하다",
+    "meaning": "intend to save money",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-041.mp3"
+  },
+  {
+    "id": "ko-f2-042",
+    "sentence": "다음 학기에 저녁 한국어 수업을 신청하려고 해요.",
+    "cloze": "한국어 수업을 신청하려고 해요",
+    "answer": "한국어 수업을 신청하려고 해요",
+    "accepted_answers": [],
+    "lemma": "신청하려고 하다",
+    "meaning": "intend to register for Korean class",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-042.mp3"
+  },
+  {
+    "id": "ko-f2-043",
+    "sentence": "내일 일찍 일어나려고 알람을 두 개 맞췄어요.",
+    "cloze": "일찍 일어나려고",
+    "answer": "일찍 일어나려고",
+    "accepted_answers": [],
+    "lemma": "일어나려고",
+    "meaning": "in order to get up early",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-043.mp3"
+  },
+  {
+    "id": "ko-f2-044",
+    "sentence": "부모님 생신에 좋은 식당으로 모시고 가려고 해요.",
+    "cloze": "모시고 가려고 해요",
+    "answer": "모시고 가려고 해요",
+    "accepted_answers": [],
+    "lemma": "모시고 가려고 하다",
+    "meaning": "intend to take my parents, honorific",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-044.mp3"
+  },
+  {
+    "id": "ko-f2-045",
+    "sentence": "한국 문화를 더 배우려고 서울에 왔어요.",
+    "cloze": "한국 문화를 더 배우려고",
+    "answer": "한국 문화를 더 배우려고",
+    "accepted_answers": [],
+    "lemma": "배우려고",
+    "meaning": "in order to learn more about Korean culture",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-045.mp3"
+  },
+  {
+    "id": "ko-f2-046",
+    "sentence": "소리가 너무 크면 이 버튼으로 줄여 보세요.",
+    "cloze": "이 버튼으로 줄여 보세요",
+    "answer": "이 버튼으로 줄여 보세요",
+    "accepted_answers": [],
+    "lemma": "줄여 보다",
+    "meaning": "try lowering it with this button",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-046.mp3"
+  },
+  {
+    "id": "ko-f2-047",
+    "sentence": "물이 계속 새서 집주인에게 다시 전화해 봤어요.",
+    "cloze": "다시 전화해 봤어요",
+    "answer": "다시 전화해 봤어요",
+    "accepted_answers": [],
+    "lemma": "전화해 보다",
+    "meaning": "tried calling again",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-047.mp3"
+  },
+  {
+    "id": "ko-f2-048",
+    "sentence": "길을 찾기 어려우면 이 지도 앱을 사용해 보세요.",
+    "cloze": "지도 앱을 사용해 보세요",
+    "answer": "지도 앱을 사용해 보세요",
+    "accepted_answers": [],
+    "lemma": "사용해 보다",
+    "meaning": "try using the map app",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-048.mp3"
+  },
+  {
+    "id": "ko-f2-049",
+    "sentence": "경주에서 전통 한옥에 묵어 본 적이 있어요.",
+    "cloze": "한옥에 묵어 본 적이 있어요",
+    "answer": "한옥에 묵어 본 적이 있어요",
+    "accepted_answers": [],
+    "lemma": "묵어 본 적이 있다",
+    "meaning": "have stayed in a traditional house",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-049.mp3"
+  },
+  {
+    "id": "ko-f2-050",
+    "sentence": "저는 아직 한국에서 배달 음식을 시켜 본 적이 없어요.",
+    "cloze": "배달 음식을 시켜 본 적이 없어요",
+    "answer": "배달 음식을 시켜 본 적이 없어요",
+    "accepted_answers": [],
+    "lemma": "시켜 본 적이 없다",
+    "meaning": "have never ordered food delivery",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-050.mp3"
+  },
+  {
+    "id": "ko-f2-051",
+    "sentence": "계약서에 서명하기 전에 모든 조건을 확인하세요.",
+    "cloze": "계약서에 서명하기 전에",
+    "answer": "계약서에 서명하기 전에",
+    "accepted_answers": [],
+    "lemma": "서명하기 전에",
+    "meaning": "before signing the contract",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-051.mp3"
+  },
+  {
+    "id": "ko-f2-052",
+    "sentence": "자기 전에 창문을 닫았는지 확인해요.",
+    "cloze": "자기 전에",
+    "answer": "자기 전에",
+    "accepted_answers": [],
+    "lemma": "자기 전에",
+    "meaning": "before going to bed",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-052.mp3"
+  },
+  {
+    "id": "ko-f2-053",
+    "sentence": "이사한 후에 주민 센터에서 주소를 변경했어요.",
+    "cloze": "이사한 후에",
+    "answer": "이사한 후에",
+    "accepted_answers": [],
+    "lemma": "이사한 후에",
+    "meaning": "after moving",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-053.mp3"
+  },
+  {
+    "id": "ko-f2-054",
+    "sentence": "공항에 도착한 후에 수하물을 찾으러 갔어요.",
+    "cloze": "공항에 도착한 후에",
+    "answer": "공항에 도착한 후에",
+    "accepted_answers": [],
+    "lemma": "도착한 후에",
+    "meaning": "after arriving at the airport",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-054.mp3"
+  },
+  {
+    "id": "ko-f2-055",
+    "sentence": "수리가 끝난 다음에 작동하는지 확인해 주세요.",
+    "cloze": "수리가 끝난 다음에",
+    "answer": "수리가 끝난 다음에",
+    "accepted_answers": [],
+    "lemma": "끝난 다음에",
+    "meaning": "after the repair is finished",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-055.mp3"
+  },
+  {
+    "id": "ko-f2-056",
+    "sentence": "운동하고 나서 물을 충분히 마셨어요.",
+    "cloze": "운동하고 나서",
+    "answer": "운동하고 나서",
+    "accepted_answers": [],
+    "lemma": "운동하고 나서",
+    "meaning": "after exercising",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-056.mp3"
+  },
+  {
+    "id": "ko-f2-057",
+    "sentence": "제가 매일 타는 버스는 아침에 사람이 많아요.",
+    "cloze": "제가 매일 타는 버스",
+    "answer": "제가 매일 타는 버스",
+    "accepted_answers": [],
+    "lemma": "매일 타는 버스",
+    "meaning": "the bus I take every day",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-057.mp3"
+  },
+  {
+    "id": "ko-f2-058",
+    "sentence": "요즘 수업에서 배우는 표현을 노트에 적었어요.",
+    "cloze": "수업에서 배우는 표현",
+    "answer": "수업에서 배우는 표현",
+    "accepted_answers": [],
+    "lemma": "배우는 표현",
+    "meaning": "expressions we are learning in class",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-058.mp3"
+  },
+  {
+    "id": "ko-f2-059",
+    "sentence": "회사에서 쓰는 프로그램을 집에도 설치했어요.",
+    "cloze": "회사에서 쓰는 프로그램",
+    "answer": "회사에서 쓰는 프로그램",
+    "accepted_answers": [],
+    "lemma": "쓰는 프로그램",
+    "meaning": "the program we use at work",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-059.mp3"
+  },
+  {
+    "id": "ko-f2-060",
+    "sentence": "부모님이 사시는 동네는 조용하고 공기가 좋아요.",
+    "cloze": "부모님이 사시는 동네",
+    "answer": "부모님이 사시는 동네",
+    "accepted_answers": [],
+    "lemma": "사시는 동네",
+    "meaning": "the neighborhood where my parents live",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-060.mp3"
+  },
+  {
+    "id": "ko-f2-061",
+    "sentence": "어제 받은 소포를 아직 열어 보지 않았어요.",
+    "cloze": "어제 받은 소포",
+    "answer": "어제 받은 소포",
+    "accepted_answers": [],
+    "lemma": "받은 소포",
+    "meaning": "the package I received yesterday",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-061.mp3"
+  },
+  {
+    "id": "ko-f2-062",
+    "sentence": "길에서 주운 지갑을 가까운 경찰서에 맡겼어요.",
+    "cloze": "길에서 주운 지갑",
+    "answer": "길에서 주운 지갑",
+    "accepted_answers": [],
+    "lemma": "주운 지갑",
+    "meaning": "the wallet found on the street",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-062.mp3"
+  },
+  {
+    "id": "ko-f2-063",
+    "sentence": "친구가 소개한 식당은 반찬이 아주 맛있었어요.",
+    "cloze": "친구가 소개한 식당",
+    "answer": "친구가 소개한 식당",
+    "accepted_answers": [],
+    "lemma": "소개한 식당",
+    "meaning": "the restaurant my friend recommended",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-063.mp3"
+  },
+  {
+    "id": "ko-f2-064",
+    "sentence": "지난달에 읽은 소설을 동료에게 빌려줬어요.",
+    "cloze": "지난달에 읽은 소설",
+    "answer": "지난달에 읽은 소설",
+    "accepted_answers": [],
+    "lemma": "읽은 소설",
+    "meaning": "the novel I read last month",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-064.mp3"
+  },
+  {
+    "id": "ko-f2-065",
+    "sentence": "제주도에서 찍은 사진을 가족에게 보여 줬어요.",
+    "cloze": "제주도에서 찍은 사진",
+    "answer": "제주도에서 찍은 사진",
+    "accepted_answers": [],
+    "lemma": "찍은 사진",
+    "meaning": "photos taken on Jeju Island",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-065.mp3"
+  },
+  {
+    "id": "ko-f2-066",
+    "sentence": "다음 달에 이사할 집은 회사에서 가까워요.",
+    "cloze": "다음 달에 이사할 집",
+    "answer": "다음 달에 이사할 집",
+    "accepted_answers": [],
+    "lemma": "이사할 집",
+    "meaning": "the home I will move to next month",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-066.mp3"
+  },
+  {
+    "id": "ko-f2-067",
+    "sentence": "주말에 만날 사람들에게 약속 장소를 보냈어요.",
+    "cloze": "주말에 만날 사람들",
+    "answer": "주말에 만날 사람들",
+    "accepted_answers": [],
+    "lemma": "만날 사람들",
+    "meaning": "the people I will meet this weekend",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-067.mp3"
+  },
+  {
+    "id": "ko-f2-068",
+    "sentence": "내일까지 제출할 서류가 세 장 있어요.",
+    "cloze": "내일까지 제출할 서류",
+    "answer": "내일까지 제출할 서류",
+    "accepted_answers": [],
+    "lemma": "제출할 서류",
+    "meaning": "documents to submit by tomorrow",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-068.mp3"
+  },
+  {
+    "id": "ko-f2-069",
+    "sentence": "친구에게 줄 선물을 예쁜 종이로 포장했어요.",
+    "cloze": "친구에게 줄 선물",
+    "answer": "친구에게 줄 선물",
+    "accepted_answers": [],
+    "lemma": "줄 선물",
+    "meaning": "a gift to give my friend",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-069.mp3"
+  },
+  {
+    "id": "ko-f2-070",
+    "sentence": "오늘 저녁에 만들 음식의 재료를 미리 샀어요.",
+    "cloze": "오늘 저녁에 만들 음식",
+    "answer": "오늘 저녁에 만들 음식",
+    "accepted_answers": [],
+    "lemma": "만들 음식",
+    "meaning": "the food I will make tonight",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-070.mp3"
+  },
+  {
+    "id": "ko-f2-071",
+    "sentence": "방을 보러 가기 전에 집주인과 시간을 정했어요.",
+    "cloze": "방을 보러 가기 전에",
+    "answer": "방을 보러 가기 전에",
+    "accepted_answers": [],
+    "lemma": "보러 가기 전에",
+    "meaning": "before going to see the room",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-071.mp3"
+  },
+  {
+    "id": "ko-f2-072",
+    "sentence": "새 휴대 전화를 산 뒤에 연락처를 옮겼어요.",
+    "cloze": "휴대 전화를 산 뒤에",
+    "answer": "휴대 전화를 산 뒤에",
+    "accepted_answers": [],
+    "lemma": "산 뒤에",
+    "meaning": "after buying a new phone",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-072.mp3"
+  },
+  {
+    "id": "ko-f2-073",
+    "sentence": "눈이 많이 와서 길이 미끄러우니까 천천히 운전하세요.",
+    "cloze": "길이 미끄러우니까",
+    "answer": "길이 미끄러우니까",
+    "accepted_answers": [],
+    "lemma": "길이 미끄럽다",
+    "meaning": "because the road is slippery",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-073.mp3"
+  },
+  {
+    "id": "ko-f2-074",
+    "sentence": "약속 시간이 바뀌어서 모두에게 새 시간을 알려 줬어요.",
+    "cloze": "새 시간을 알려 줬어요",
+    "answer": "새 시간을 알려 줬어요",
+    "accepted_answers": [],
+    "lemma": "시간을 알려 주다",
+    "meaning": "let everyone know the new time",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-074.mp3"
+  },
+  {
+    "id": "ko-f2-075",
+    "sentence": "신청서는 안내 데스크에서 작성하시면 됩니다.",
+    "cloze": "작성하시면 됩니다",
+    "answer": "작성하시면 됩니다",
+    "accepted_answers": [],
+    "lemma": "작성하면 되다",
+    "meaning": "you can fill it out at the information desk",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-075.mp3"
+  },
+  {
+    "id": "ko-f2-076",
+    "sentence": "박물관은 매일 오전 아홉 시에 개관합니다.",
+    "cloze": "오전 아홉 시에 개관합니다",
+    "answer": "오전 아홉 시에 개관합니다",
+    "accepted_answers": [],
+    "lemma": "개관합니다",
+    "meaning": "opens at nine in the morning",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-076.mp3"
+  },
+  {
+    "id": "ko-f2-077",
+    "sentence": "온라인 신청은 이번 주 금요일에 마감됩니다.",
+    "cloze": "금요일에 마감됩니다",
+    "answer": "금요일에 마감됩니다",
+    "accepted_answers": [],
+    "lemma": "마감됩니다",
+    "meaning": "closes on Friday",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-077.mp3"
+  },
+  {
+    "id": "ko-f2-078",
+    "sentence": "건물 앞에는 주차할 수 없습니다.",
+    "cloze": "주차할 수 없습니다",
+    "answer": "주차할 수 없습니다",
+    "accepted_answers": [],
+    "lemma": "주차할 수 없습니다",
+    "meaning": "parking is not allowed",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-078.mp3"
+  },
+  {
+    "id": "ko-f2-079",
+    "sentence": "환불을 원하시면 영수증이 필요합니다.",
+    "cloze": "영수증이 필요합니다",
+    "answer": "영수증이 필요합니다",
+    "accepted_answers": [],
+    "lemma": "필요합니다",
+    "meaning": "a receipt is required",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-079.mp3"
+  },
+  {
+    "id": "ko-f2-080",
+    "sentence": "공휴일에는 주민 센터를 운영하지 않습니다.",
+    "cloze": "운영하지 않습니다",
+    "answer": "운영하지 않습니다",
+    "accepted_answers": [],
+    "lemma": "운영하지 않습니다",
+    "meaning": "does not operate",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-080.mp3"
+  },
+  {
+    "id": "ko-f2-081",
+    "sentence": "검사가 끝날 때까지 접수표를 보관해 주십시오.",
+    "cloze": "접수표를 보관해 주십시오",
+    "answer": "접수표를 보관해 주십시오",
+    "accepted_answers": [],
+    "lemma": "보관해 주십시오",
+    "meaning": "please keep your registration ticket",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-081.mp3"
+  },
+  {
+    "id": "ko-f2-082",
+    "sentence": "부산행 열차는 십오 번 승강장에서 출발합니다.",
+    "cloze": "십오 번 승강장에서 출발합니다",
+    "answer": "십오 번 승강장에서 출발합니다",
+    "accepted_answers": [],
+    "lemma": "출발합니다",
+    "meaning": "departs from platform fifteen",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-082.mp3"
+  },
+  {
+    "id": "ko-f2-083",
+    "sentence": "건강 검진 결과는 일주일 후에 나옵니다.",
+    "cloze": "일주일 후에 나옵니다",
+    "answer": "일주일 후에 나옵니다",
+    "accepted_answers": [],
+    "lemma": "결과가 나옵니다",
+    "meaning": "the results come out in a week",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-083.mp3"
+  },
+  {
+    "id": "ko-f2-084",
+    "sentence": "동료가 회의실이 삼 층에 있다고 했어요.",
+    "cloze": "삼 층에 있다고 했어요",
+    "answer": "삼 층에 있다고 했어요",
+    "accepted_answers": [],
+    "lemma": "있다고 하다",
+    "meaning": "said it was on the third floor",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-084.mp3"
+  },
+  {
+    "id": "ko-f2-085",
+    "sentence": "직원이 제 예약 번호가 무엇이냐고 물었어요.",
+    "cloze": "무엇이냐고 물었어요",
+    "answer": "무엇이냐고 물었어요",
+    "accepted_answers": [],
+    "lemma": "무엇이냐고 묻다",
+    "meaning": "asked what it was",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-085.mp3"
+  },
+  {
+    "id": "ko-f2-086",
+    "sentence": "의사 선생님이 며칠 푹 쉬어야 한다고 하셨어요.",
+    "cloze": "푹 쉬어야 한다고 하셨어요",
+    "answer": "푹 쉬어야 한다고 하셨어요",
+    "accepted_answers": [],
+    "lemma": "쉬어야 한다고 하시다",
+    "meaning": "the doctor said I must rest",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-086.mp3"
+  },
+  {
+    "id": "ko-f2-087",
+    "sentence": "친구가 오후에 비가 오니까 우산을 가져오라고 했어요.",
+    "cloze": "우산을 가져오라고 했어요",
+    "answer": "우산을 가져오라고 했어요",
+    "accepted_answers": [],
+    "lemma": "가져오라고 하다",
+    "meaning": "told me to bring an umbrella",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-087.mp3"
+  },
+  {
+    "id": "ko-f2-088",
+    "sentence": "어머니께서 집에 몇 시에 오느냐고 물으셨어요.",
+    "cloze": "몇 시에 오느냐고 물으셨어요",
+    "answer": "몇 시에 오느냐고 물으셨어요",
+    "accepted_answers": [],
+    "lemma": "오느냐고 물으시다",
+    "meaning": "asked what time I would come home",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-088.mp3"
+  },
+  {
+    "id": "ko-f2-089",
+    "sentence": "팀장님이 오늘 회의는 취소됐다고 말씀하셨어요.",
+    "cloze": "취소됐다고 말씀하셨어요",
+    "answer": "취소됐다고 말씀하셨어요",
+    "accepted_answers": [],
+    "lemma": "취소됐다고 말씀하시다",
+    "meaning": "said today's meeting was canceled",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-089.mp3"
+  },
+  {
+    "id": "ko-f2-090",
+    "sentence": "일기 예보에서 내일은 기온이 많이 내려간다고 했어요.",
+    "cloze": "기온이 많이 내려간다고 했어요",
+    "answer": "기온이 많이 내려간다고 했어요",
+    "accepted_answers": [],
+    "lemma": "내려간다고 하다",
+    "meaning": "said the temperature would drop",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-090.mp3"
+  },
+  {
+    "id": "ko-f2-091",
+    "sentence": "같이 사는 친구가 다음 달에 이사한다고 했어요.",
+    "cloze": "다음 달에 이사한다고 했어요",
+    "answer": "다음 달에 이사한다고 했어요",
+    "accepted_answers": [],
+    "lemma": "이사한다고 하다",
+    "meaning": "said they are moving next month",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-091.mp3"
+  },
+  {
+    "id": "ko-f2-092",
+    "sentence": "선생님이 매일 소리 내서 읽어 보라고 하셨어요.",
+    "cloze": "소리 내서 읽어 보라고 하셨어요",
+    "answer": "소리 내서 읽어 보라고 하셨어요",
+    "accepted_answers": [],
+    "lemma": "읽어 보라고 하시다",
+    "meaning": "the teacher told us to read aloud",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-092.mp3"
+  },
+  {
+    "id": "ko-f2-093",
+    "sentence": "동료에게 수정한 파일을 다시 보내 달라고 했어요.",
+    "cloze": "다시 보내 달라고 했어요",
+    "answer": "다시 보내 달라고 했어요",
+    "accepted_answers": [],
+    "lemma": "보내 달라고 하다",
+    "meaning": "asked a coworker to resend it",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-093.mp3"
+  },
+  {
+    "id": "ko-f2-094",
+    "sentence": "가게에서 금요일까지는 교환할 수 있다고 했어요.",
+    "cloze": "교환할 수 있다고 했어요",
+    "answer": "교환할 수 있다고 했어요",
+    "accepted_answers": [],
+    "lemma": "교환할 수 있다고 하다",
+    "meaning": "said it could be exchanged by Friday",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-094.mp3"
+  },
+  {
+    "id": "ko-f2-095",
+    "sentence": "지수 씨가 새로 온 직원은 수진 씨라고 했어요.",
+    "cloze": "수진 씨라고 했어요",
+    "answer": "수진 씨라고 했어요",
+    "accepted_answers": [],
+    "lemma": "수진 씨라고 하다",
+    "meaning": "said the new employee was Sujin",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-095.mp3"
+  },
+  {
+    "id": "ko-f2-096",
+    "sentence": "할아버지께서 아침 식사를 드셨는지 여쭤봤어요.",
+    "cloze": "드셨는지 여쭤봤어요",
+    "answer": "드셨는지 여쭤봤어요",
+    "accepted_answers": [],
+    "lemma": "드셨는지 여쭤보다",
+    "meaning": "asked whether Grandfather had eaten",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-096.mp3"
+  },
+  {
+    "id": "ko-f2-097",
+    "sentence": "선생님께 궁금한 내용을 여쭤봐도 될까요?",
+    "cloze": "여쭤봐도 될까요",
+    "answer": "여쭤봐도 될까요",
+    "accepted_answers": [],
+    "lemma": "여쭤봐도 되다",
+    "meaning": "may I ask you",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-097.mp3"
+  },
+  {
+    "id": "ko-f2-098",
+    "sentence": "부장님께서는 지금 자리에 안 계십니다.",
+    "cloze": "자리에 안 계십니다",
+    "answer": "자리에 안 계십니다",
+    "accepted_answers": [],
+    "lemma": "자리에 안 계시다",
+    "meaning": "is not at their desk, honorific",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-098.mp3"
+  },
+  {
+    "id": "ko-f2-099",
+    "sentence": "할머니께서 허리가 편찮으셔서 병원에 가셨어요.",
+    "cloze": "허리가 편찮으셔서",
+    "answer": "허리가 편찮으셔서",
+    "accepted_answers": [],
+    "lemma": "편찮으시다",
+    "meaning": "because her back is unwell, honorific",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-099.mp3"
+  },
+  {
+    "id": "ko-f2-100",
+    "sentence": "교수님이 말씀하신 책을 도서관에서 찾았어요.",
+    "cloze": "교수님이 말씀하신 책",
+    "answer": "교수님이 말씀하신 책",
+    "accepted_answers": [],
+    "lemma": "말씀하신 책",
+    "meaning": "the book the professor mentioned",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-100.mp3"
+  },
+  {
+    "id": "ko-f2-101",
+    "sentence": "서울은 대전보다 사람이 훨씬 많아요.",
+    "cloze": "대전보다 사람이 훨씬 많아요",
+    "answer": "대전보다 사람이 훨씬 많아요",
+    "accepted_answers": [],
+    "lemma": "보다 훨씬 많다",
+    "meaning": "has far more people than Daejeon",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-101.mp3"
+  },
+  {
+    "id": "ko-f2-102",
+    "sentence": "출근 시간에는 버스보다 지하철이 더 빨라요.",
+    "cloze": "버스보다 지하철이 더 빨라요",
+    "answer": "버스보다 지하철이 더 빨라요",
+    "accepted_answers": [],
+    "lemma": "보다 더 빠르다",
+    "meaning": "the subway is faster than the bus",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-102.mp3"
+  },
+  {
+    "id": "ko-f2-103",
+    "sentence": "올해 봄은 작년보다 조금 따뜻해요.",
+    "cloze": "작년보다 조금 따뜻해요",
+    "answer": "작년보다 조금 따뜻해요",
+    "accepted_answers": [],
+    "lemma": "보다 따뜻하다",
+    "meaning": "is a little warmer than last year",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-103.mp3"
+  },
+  {
+    "id": "ko-f2-104",
+    "sentence": "이 식당 메뉴 중에서 김치찌개가 제일 매워요.",
+    "cloze": "김치찌개가 제일 매워요",
+    "answer": "김치찌개가 제일 매워요",
+    "accepted_answers": [],
+    "lemma": "제일 맵다",
+    "meaning": "kimchi stew is the spiciest",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-104.mp3"
+  },
+  {
+    "id": "ko-f2-105",
+    "sentence": "두 아파트 중에서는 이곳의 보증금이 더 싸요.",
+    "cloze": "이곳의 보증금이 더 싸요",
+    "answer": "이곳의 보증금이 더 싸요",
+    "accepted_answers": [],
+    "lemma": "보증금이 더 싸다",
+    "meaning": "the deposit here is cheaper",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-105.mp3"
+  },
+  {
+    "id": "ko-f2-106",
+    "sentence": "이 보고서는 늦어도 금요일까지 끝내야 해요.",
+    "cloze": "늦어도 금요일까지",
+    "answer": "늦어도 금요일까지",
+    "accepted_answers": [],
+    "lemma": "늦어도 금요일까지",
+    "meaning": "by Friday at the latest",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-106.mp3"
+  },
+  {
+    "id": "ko-f2-107",
+    "sentence": "이 할인 상품은 한 사람당 두 개만 살 수 있어요.",
+    "cloze": "한 사람당 두 개만",
+    "answer": "한 사람당 두 개만",
+    "accepted_answers": [],
+    "lemma": "한 사람당 두 개",
+    "meaning": "only two per person",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-107.mp3"
+  },
+  {
+    "id": "ko-f2-108",
+    "sentence": "상담은 오후 세 시에서 다섯 시 사이에 가능해요.",
+    "cloze": "세 시에서 다섯 시 사이에",
+    "answer": "세 시에서 다섯 시 사이에",
+    "accepted_answers": [],
+    "lemma": "세 시에서 다섯 시 사이",
+    "meaning": "between three and five",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-108.mp3"
+  },
+  {
+    "id": "ko-f2-109",
+    "sentence": "구매한 날부터 십 일 이내에 교환할 수 있어요.",
+    "cloze": "십 일 이내에",
+    "answer": "십 일 이내에",
+    "accepted_answers": [],
+    "lemma": "십 일 이내",
+    "meaning": "within ten days",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-109.mp3"
+  },
+  {
+    "id": "ko-f2-110",
+    "sentence": "집에서 회사까지 한 시간 이상 걸려요.",
+    "cloze": "한 시간 이상 걸려요",
+    "answer": "한 시간 이상 걸려요",
+    "accepted_answers": [],
+    "lemma": "한 시간 이상",
+    "meaning": "takes more than an hour",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-110.mp3"
+  },
+  {
+    "id": "ko-f2-111",
+    "sentence": "커튼을 만들려고 천 세 미터를 샀어요.",
+    "cloze": "천 세 미터를",
+    "answer": "천 세 미터를",
+    "accepted_answers": [],
+    "lemma": "천 세 미터",
+    "meaning": "three meters of fabric",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-111.mp3"
+  },
+  {
+    "id": "ko-f2-112",
+    "sentence": "모임에 가져갈 생수 여섯 병을 주문했어요.",
+    "cloze": "생수 여섯 병을",
+    "answer": "생수 여섯 병을",
+    "accepted_answers": [],
+    "lemma": "생수 여섯 병",
+    "meaning": "six bottles of water",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-112.mp3"
+  },
+  {
+    "id": "ko-f2-113",
+    "sentence": "이삿짐을 담을 상자 열 개가 필요해요.",
+    "cloze": "상자 열 개가 필요해요",
+    "answer": "상자 열 개가 필요해요",
+    "accepted_answers": [],
+    "lemma": "상자 열 개",
+    "meaning": "need ten boxes",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-113.mp3"
+  },
+  {
+    "id": "ko-f2-114",
+    "sentence": "손님 세 분이 드실 불고기 삼 인분을 준비했어요.",
+    "cloze": "불고기 삼 인분을",
+    "answer": "불고기 삼 인분을",
+    "accepted_answers": [],
+    "lemma": "불고기 삼 인분",
+    "meaning": "three servings of bulgogi",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-114.mp3"
+  },
+  {
+    "id": "ko-f2-115",
+    "sentence": "저는 건강을 위해 일주일에 세 번 수영해요.",
+    "cloze": "일주일에 세 번",
+    "answer": "일주일에 세 번",
+    "accepted_answers": [],
+    "lemma": "일주일에 세 번",
+    "meaning": "three times a week",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-115.mp3"
+  },
+  {
+    "id": "ko-f2-116",
+    "sentence": "이 약은 아침저녁으로 한 알씩 드세요.",
+    "cloze": "한 알씩 드세요",
+    "answer": "한 알씩 드세요",
+    "accepted_answers": [],
+    "lemma": "한 알씩",
+    "meaning": "one pill at a time",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-116.mp3"
+  },
+  {
+    "id": "ko-f2-117",
+    "sentence": "현관에 손님들이 쓸 우산 세 자루를 놓았어요.",
+    "cloze": "우산 세 자루를",
+    "answer": "우산 세 자루를",
+    "accepted_answers": [],
+    "lemma": "우산 세 자루",
+    "meaning": "three umbrellas",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-117.mp3"
+  },
+  {
+    "id": "ko-f2-118",
+    "sentence": "졸업식에 갈 때 꽃 한 다발을 사 갈 거예요.",
+    "cloze": "꽃 한 다발을",
+    "answer": "꽃 한 다발을",
+    "accepted_answers": [],
+    "lemma": "꽃 한 다발",
+    "meaning": "a bouquet of flowers",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-118.mp3"
+  },
+  {
+    "id": "ko-f2-119",
+    "sentence": "출장에 가져갈 정장 두 벌을 가방에 넣었어요.",
+    "cloze": "정장 두 벌을",
+    "answer": "정장 두 벌을",
+    "accepted_answers": [],
+    "lemma": "정장 두 벌",
+    "meaning": "two suits",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-119.mp3"
+  },
+  {
+    "id": "ko-f2-120",
+    "sentence": "우리 회사에서는 업무용 차량 다섯 대를 사용해요.",
+    "cloze": "차량 다섯 대를",
+    "answer": "차량 다섯 대를",
+    "accepted_answers": [],
+    "lemma": "차량 다섯 대",
+    "meaning": "five vehicles",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-120.mp3"
+  },
+  {
+    "id": "ko-f2-121",
+    "sentence": "이 작은 가게에서는 현금으로만 계산할 수 있어요.",
+    "cloze": "현금으로만 계산할 수 있어요",
+    "answer": "현금으로만 계산할 수 있어요",
+    "accepted_answers": [],
+    "lemma": "현금으로만 계산하다",
+    "meaning": "can pay only in cash",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-121.mp3"
+  },
+  {
+    "id": "ko-f2-122",
+    "sentence": "무료로 맡길 수 있는 짐은 이십 킬로그램까지예요.",
+    "cloze": "이십 킬로그램까지예요",
+    "answer": "이십 킬로그램까지예요",
+    "accepted_answers": [],
+    "lemma": "이십 킬로그램까지",
+    "meaning": "up to twenty kilograms",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-122.mp3"
+  },
+  {
+    "id": "ko-f2-123",
+    "sentence": "수업을 열려면 학생이 적어도 다섯 명은 필요해요.",
+    "cloze": "적어도 다섯 명은",
+    "answer": "적어도 다섯 명은",
+    "accepted_answers": [],
+    "lemma": "적어도 다섯 명",
+    "meaning": "at least five students",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-123.mp3"
+  },
+  {
+    "id": "ko-f2-124",
+    "sentence": "회의는 길어도 한 시간 안에 끝날 거예요.",
+    "cloze": "길어도 한 시간 안에",
+    "answer": "길어도 한 시간 안에",
+    "accepted_answers": [],
+    "lemma": "길어도 한 시간",
+    "meaning": "within an hour at most",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-124.mp3"
+  },
+  {
+    "id": "ko-f2-125",
+    "sentence": "오전에는 열 시 반부터 낮 열두 시까지 자리가 비어 있어요.",
+    "cloze": "열 시 반부터 낮 열두 시까지",
+    "answer": "열 시 반부터 낮 열두 시까지",
+    "accepted_answers": [],
+    "lemma": "열 시 반부터 열두 시까지",
+    "meaning": "from ten thirty until noon",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-125.mp3"
+  },
+  {
+    "id": "ko-f2-126",
+    "sentence": "이 병원은 인터넷으로 진료를 예약할 수 있어요.",
+    "cloze": "진료를 예약할 수 있어요",
+    "answer": "진료를 예약할 수 있어요",
+    "accepted_answers": [],
+    "lemma": "예약할 수 있다",
+    "meaning": "can make a medical appointment",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-126.mp3"
+  },
+  {
+    "id": "ko-f2-127",
+    "sentence": "처음 병원에 가면 건강 보험증을 보여 줘야 해요.",
+    "cloze": "건강 보험증을 보여 줘야 해요",
+    "answer": "건강 보험증을 보여 줘야 해요",
+    "accepted_answers": [],
+    "lemma": "보여 줘야 하다",
+    "meaning": "must show your health insurance card",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-127.mp3"
+  },
+  {
+    "id": "ko-f2-128",
+    "sentence": "약을 먹고도 아프면 약사에게 다시 물어보세요.",
+    "cloze": "약을 먹고도 아프면",
+    "answer": "약을 먹고도 아프면",
+    "accepted_answers": [],
+    "lemma": "아프면",
+    "meaning": "if it still hurts after medicine",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-128.mp3"
+  },
+  {
+    "id": "ko-f2-129",
+    "sentence": "어깨가 뻐근해서 따뜻한 찜질을 해 봤어요.",
+    "cloze": "따뜻한 찜질을 해 봤어요",
+    "answer": "따뜻한 찜질을 해 봤어요",
+    "accepted_answers": [],
+    "lemma": "찜질을 해 보다",
+    "meaning": "tried applying a warm compress",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-129.mp3"
+  },
+  {
+    "id": "ko-f2-130",
+    "sentence": "약을 먹은 후에는 운전하지 마세요.",
+    "cloze": "약을 먹은 후에는",
+    "answer": "약을 먹은 후에는",
+    "accepted_answers": [],
+    "lemma": "먹은 후에는",
+    "meaning": "after taking the medicine",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-130.mp3"
+  },
+  {
+    "id": "ko-f2-131",
+    "sentence": "체력을 키우려고 아침마다 삼십 분씩 걸어요.",
+    "cloze": "체력을 키우려고",
+    "answer": "체력을 키우려고",
+    "accepted_answers": [],
+    "lemma": "체력을 키우려고",
+    "meaning": "in order to improve my fitness",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-131.mp3"
+  },
+  {
+    "id": "ko-f2-132",
+    "sentence": "지금 가장 불편한 증상은 목이 따끔거리는 거예요.",
+    "cloze": "가장 불편한 증상",
+    "answer": "가장 불편한 증상",
+    "accepted_answers": [],
+    "lemma": "불편한 증상",
+    "meaning": "the most uncomfortable symptom",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-132.mp3"
+  },
+  {
+    "id": "ko-f2-133",
+    "sentence": "의사 선생님이 당분간 무리하면 안 된다고 하셨어요.",
+    "cloze": "무리하면 안 된다고 하셨어요",
+    "answer": "무리하면 안 된다고 하셨어요",
+    "accepted_answers": [],
+    "lemma": "무리하면 안 된다고 하시다",
+    "meaning": "the doctor said not to overdo it",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-133.mp3"
+  },
+  {
+    "id": "ko-f2-134",
+    "sentence": "이 검사를 받기 전에는 여덟 시간 동안 음식을 드시면 안 됩니다.",
+    "cloze": "음식을 드시면 안 됩니다",
+    "answer": "음식을 드시면 안 됩니다",
+    "accepted_answers": [],
+    "lemma": "드시면 안 됩니다",
+    "meaning": "you must not eat food",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-134.mp3"
+  },
+  {
+    "id": "ko-f2-135",
+    "sentence": "지난주보다 기침이 훨씬 덜해요.",
+    "cloze": "기침이 훨씬 덜해요",
+    "answer": "기침이 훨씬 덜해요",
+    "accepted_answers": [],
+    "lemma": "훨씬 덜하다",
+    "meaning": "the cough is much less severe",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-135.mp3"
+  },
+  {
+    "id": "ko-f2-136",
+    "sentence": "비행기가 지연돼서 도착이 늦어진다고 가족에게 연락했어요.",
+    "cloze": "도착이 늦어진다고",
+    "answer": "도착이 늦어진다고",
+    "accepted_answers": [],
+    "lemma": "늦어진다고 연락하다",
+    "meaning": "said my arrival would be delayed",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-136.mp3"
+  },
+  {
+    "id": "ko-f2-137",
+    "sentence": "출발 하루 전부터 온라인으로 탑승 수속을 할 수 있어요.",
+    "cloze": "탑승 수속을 할 수 있어요",
+    "answer": "탑승 수속을 할 수 있어요",
+    "accepted_answers": [],
+    "lemma": "탑승 수속을 할 수 있다",
+    "meaning": "can check in online",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-137.mp3"
+  },
+  {
+    "id": "ko-f2-138",
+    "sentence": "해외여행을 가려면 여권의 유효 기간을 확인해야 해요.",
+    "cloze": "유효 기간을 확인해야 해요",
+    "answer": "유효 기간을 확인해야 해요",
+    "accepted_answers": [],
+    "lemma": "확인해야 하다",
+    "meaning": "must check the validity period",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-138.mp3"
+  },
+  {
+    "id": "ko-f2-139",
+    "sentence": "수하물이 나오지 않으면 분실물 센터로 가세요.",
+    "cloze": "수하물이 나오지 않으면",
+    "answer": "수하물이 나오지 않으면",
+    "accepted_answers": [],
+    "lemma": "수하물이 나오지 않다",
+    "meaning": "if your baggage does not appear",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-139.mp3"
+  },
+  {
+    "id": "ko-f2-140",
+    "sentence": "여행 전에 환전하려고 은행에 들렀어요.",
+    "cloze": "환전하려고",
+    "answer": "환전하려고",
+    "accepted_answers": [],
+    "lemma": "환전하려고",
+    "meaning": "in order to exchange money",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-140.mp3"
+  },
+  {
+    "id": "ko-f2-141",
+    "sentence": "지난주에 예약한 항공권의 날짜를 변경했어요.",
+    "cloze": "지난주에 예약한 항공권",
+    "answer": "지난주에 예약한 항공권",
+    "accepted_answers": [],
+    "lemma": "예약한 항공권",
+    "meaning": "the flight ticket booked last week",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-141.mp3"
+  },
+  {
+    "id": "ko-f2-142",
+    "sentence": "탑승하실 승객께서는 여권을 준비해 주시기 바랍니다.",
+    "cloze": "여권을 준비해 주시기 바랍니다",
+    "answer": "여권을 준비해 주시기 바랍니다",
+    "accepted_answers": [],
+    "lemma": "준비해 주시기 바랍니다",
+    "meaning": "passengers are requested to prepare passports",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-142.mp3"
+  },
+  {
+    "id": "ko-f2-143",
+    "sentence": "옆방이 너무 시끄러워서 방을 바꿀 수 있는지 물어봤어요.",
+    "cloze": "방을 바꿀 수 있는지 물어봤어요",
+    "answer": "방을 바꿀 수 있는지 물어봤어요",
+    "accepted_answers": [],
+    "lemma": "바꿀 수 있는지 물어보다",
+    "meaning": "asked whether I could change rooms",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-143.mp3"
+  },
+  {
+    "id": "ko-f2-144",
+    "sentence": "집주인이 내일 보일러를 고치러 온다고 했어요.",
+    "cloze": "보일러를 고치러 온다고 했어요",
+    "answer": "보일러를 고치러 온다고 했어요",
+    "accepted_answers": [],
+    "lemma": "고치러 온다고 하다",
+    "meaning": "said they would come repair the boiler",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-144.mp3"
+  },
+  {
+    "id": "ko-f2-145",
+    "sentence": "월세는 매달 이십오 일까지 내야 해요.",
+    "cloze": "이십오 일까지 내야 해요",
+    "answer": "이십오 일까지 내야 해요",
+    "accepted_answers": [],
+    "lemma": "월세를 내야 하다",
+    "meaning": "must pay rent by the twenty-fifth",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-145.mp3"
+  },
+  {
+    "id": "ko-f2-146",
+    "sentence": "계약을 연장하고 싶으면 한 달 전에 알려 주세요.",
+    "cloze": "계약을 연장하고 싶으면",
+    "answer": "계약을 연장하고 싶으면",
+    "accepted_answers": [],
+    "lemma": "연장하고 싶으면",
+    "meaning": "if you want to extend the lease",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-146.mp3"
+  },
+  {
+    "id": "ko-f2-147",
+    "sentence": "새집에 필요한 가구를 목록으로 만들었어요.",
+    "cloze": "새집에 필요한 가구",
+    "answer": "새집에 필요한 가구",
+    "accepted_answers": [],
+    "lemma": "필요한 가구",
+    "meaning": "furniture needed for the new home",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-147.mp3"
+  },
+  {
+    "id": "ko-f2-148",
+    "sentence": "이 동네에서는 목요일마다 재활용품을 수거합니다.",
+    "cloze": "재활용품을 수거합니다",
+    "answer": "재활용품을 수거합니다",
+    "accepted_answers": [],
+    "lemma": "수거합니다",
+    "meaning": "collects recyclables",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-148.mp3"
+  },
+  {
+    "id": "ko-f2-149",
+    "sentence": "내일 오전에는 수도 공사로 물이 나오지 않습니다.",
+    "cloze": "물이 나오지 않습니다",
+    "answer": "물이 나오지 않습니다",
+    "accepted_answers": [],
+    "lemma": "나오지 않습니다",
+    "meaning": "the water will not run",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-149.mp3"
+  },
+  {
+    "id": "ko-f2-150",
+    "sentence": "주말 모임에 갈 수 있다고 친구들에게 답장을 보냈어요.",
+    "cloze": "갈 수 있다고",
+    "answer": "갈 수 있다고",
+    "accepted_answers": [],
+    "lemma": "갈 수 있다고 답장하다",
+    "meaning": "replied that I could attend",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-150.mp3"
+  },
+  {
+    "id": "ko-f2-151",
+    "sentence": "이 회사에는 인터넷으로 지원할 수 있어요.",
+    "cloze": "인터넷으로 지원할 수 있어요",
+    "answer": "인터넷으로 지원할 수 있어요",
+    "accepted_answers": [],
+    "lemma": "지원할 수 있다",
+    "meaning": "can apply online",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-151.mp3"
+  },
+  {
+    "id": "ko-f2-152",
+    "sentence": "면접에 갈 때 이력서를 한 부 가져가야 해요.",
+    "cloze": "이력서를 한 부 가져가야 해요",
+    "answer": "이력서를 한 부 가져가야 해요",
+    "accepted_answers": [],
+    "lemma": "한 부 가져가야 하다",
+    "meaning": "must bring one copy of the résumé",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-152.mp3"
+  },
+  {
+    "id": "ko-f2-153",
+    "sentence": "근무 시간이 바뀌면 가족에게 미리 알려 주세요.",
+    "cloze": "근무 시간이 바뀌면",
+    "answer": "근무 시간이 바뀌면",
+    "accepted_answers": [],
+    "lemma": "근무 시간이 바뀌다",
+    "meaning": "if your work hours change",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-153.mp3"
+  },
+  {
+    "id": "ko-f2-154",
+    "sentence": "면접에서 긴장하지 않으려고 친구와 연습했어요.",
+    "cloze": "긴장하지 않으려고",
+    "answer": "긴장하지 않으려고",
+    "accepted_answers": [],
+    "lemma": "긴장하지 않으려고",
+    "meaning": "in order not to be nervous",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-154.mp3"
+  },
+  {
+    "id": "ko-f2-155",
+    "sentence": "어제 처음으로 화상 회의를 해 봤어요.",
+    "cloze": "화상 회의를 해 봤어요",
+    "answer": "화상 회의를 해 봤어요",
+    "accepted_answers": [],
+    "lemma": "화상 회의를 해 보다",
+    "meaning": "tried a video meeting",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-155.mp3"
+  },
+  {
+    "id": "ko-f2-156",
+    "sentence": "면접이 끝난 뒤에 담당자에게 감사 메일을 보냈어요.",
+    "cloze": "면접이 끝난 뒤에",
+    "answer": "면접이 끝난 뒤에",
+    "accepted_answers": [],
+    "lemma": "끝난 뒤에",
+    "meaning": "after the interview ended",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-156.mp3"
+  },
+  {
+    "id": "ko-f2-157",
+    "sentence": "회사가 어제 받은 지원서를 오늘 검토하고 있어요.",
+    "cloze": "어제 받은 지원서",
+    "answer": "어제 받은 지원서",
+    "accepted_answers": [],
+    "lemma": "받은 지원서",
+    "meaning": "applications received yesterday",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-157.mp3"
+  },
+  {
+    "id": "ko-f2-158",
+    "sentence": "퇴근하기 전에 끝낼 일이 하나 남았어요.",
+    "cloze": "퇴근하기 전에 끝낼 일",
+    "answer": "퇴근하기 전에 끝낼 일",
+    "accepted_answers": [],
+    "lemma": "끝낼 일",
+    "meaning": "work to finish before leaving",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-158.mp3"
+  },
+  {
+    "id": "ko-f2-159",
+    "sentence": "팀장님이 새 직원은 월요일부터 출근한다고 하셨어요.",
+    "cloze": "월요일부터 출근한다고 하셨어요",
+    "answer": "월요일부터 출근한다고 하셨어요",
+    "accepted_answers": [],
+    "lemma": "출근한다고 하시다",
+    "meaning": "said the new employee starts Monday",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-159.mp3"
+  },
+  {
+    "id": "ko-f2-160",
+    "sentence": "개인 정보가 있는 문서는 밖으로 가져가면 안 됩니다.",
+    "cloze": "밖으로 가져가면 안 됩니다",
+    "answer": "밖으로 가져가면 안 됩니다",
+    "accepted_answers": [],
+    "lemma": "가져가면 안 됩니다",
+    "meaning": "must not take it outside",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-160.mp3"
+  },
+  {
+    "id": "ko-f2-161",
+    "sentence": "과제를 제출하려면 표지에 학번을 써야 해요.",
+    "cloze": "학번을 써야 해요",
+    "answer": "학번을 써야 해요",
+    "accepted_answers": [],
+    "lemma": "학번을 써야 하다",
+    "meaning": "must write your student number",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-161.mp3"
+  },
+  {
+    "id": "ko-f2-162",
+    "sentence": "빌린 책은 도서관 홈페이지에서 연장할 수 있어요.",
+    "cloze": "홈페이지에서 연장할 수 있어요",
+    "answer": "홈페이지에서 연장할 수 있어요",
+    "accepted_answers": [],
+    "lemma": "연장할 수 있다",
+    "meaning": "can renew it on the website",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-162.mp3"
+  },
+  {
+    "id": "ko-f2-163",
+    "sentence": "이번 시험에 합격하지 못하면 다음 달에 다시 볼 거예요.",
+    "cloze": "합격하지 못하면",
+    "answer": "합격하지 못하면",
+    "accepted_answers": [],
+    "lemma": "합격하지 못하다",
+    "meaning": "if I do not pass",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-163.mp3"
+  },
+  {
+    "id": "ko-f2-164",
+    "sentence": "말하기 실력을 늘리려고 친구들과 공부 모임을 만들었어요.",
+    "cloze": "실력을 늘리려고",
+    "answer": "실력을 늘리려고",
+    "accepted_answers": [],
+    "lemma": "실력을 늘리려고",
+    "meaning": "in order to improve my speaking",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-164.mp3"
+  },
+  {
+    "id": "ko-f2-165",
+    "sentence": "저는 온라인으로 한국 역사 강의를 들어 본 적이 있어요.",
+    "cloze": "강의를 들어 본 적이 있어요",
+    "answer": "강의를 들어 본 적이 있어요",
+    "accepted_answers": [],
+    "lemma": "강의를 들어 본 적이 있다",
+    "meaning": "have taken an online lecture",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-165.mp3"
+  },
+  {
+    "id": "ko-f2-166",
+    "sentence": "수업을 마친 후에 배운 표현을 다시 정리했어요.",
+    "cloze": "수업을 마친 후에",
+    "answer": "수업을 마친 후에",
+    "accepted_answers": [],
+    "lemma": "마친 후에",
+    "meaning": "after finishing class",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-166.mp3"
+  },
+  {
+    "id": "ko-f2-167",
+    "sentence": "다음 시간에 읽을 글을 미리 복사했어요.",
+    "cloze": "다음 시간에 읽을 글",
+    "answer": "다음 시간에 읽을 글",
+    "accepted_answers": [],
+    "lemma": "읽을 글",
+    "meaning": "the text to read next class",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-167.mp3"
+  },
+  {
+    "id": "ko-f2-168",
+    "sentence": "선생님이 모르는 단어는 사전에서 찾아보라고 하셨어요.",
+    "cloze": "사전에서 찾아보라고 하셨어요",
+    "answer": "사전에서 찾아보라고 하셨어요",
+    "accepted_answers": [],
+    "lemma": "찾아보라고 하시다",
+    "meaning": "the teacher told us to look it up",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-168.mp3"
+  },
+  {
+    "id": "ko-f2-169",
+    "sentence": "담당 강사의 사정으로 오늘 수업은 휴강합니다.",
+    "cloze": "오늘 수업은 휴강합니다",
+    "answer": "오늘 수업은 휴강합니다",
+    "accepted_answers": [],
+    "lemma": "휴강합니다",
+    "meaning": "today's class is canceled",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-169.mp3"
+  },
+  {
+    "id": "ko-f2-170",
+    "sentence": "새 교재는 지난 학기 교재보다 설명이 쉬워요.",
+    "cloze": "지난 학기 교재보다 설명이 쉬워요",
+    "answer": "지난 학기 교재보다 설명이 쉬워요",
+    "accepted_answers": [],
+    "lemma": "보다 설명이 쉽다",
+    "meaning": "has easier explanations than last term's book",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-170.mp3"
+  },
+  {
+    "id": "ko-f2-171",
+    "sentence": "병원 예약을 바꾸려면 하루 전에 전화해야 해요.",
+    "cloze": "하루 전에 전화해야 해요",
+    "answer": "하루 전에 전화해야 해요",
+    "accepted_answers": [],
+    "lemma": "전화해야 하다",
+    "meaning": "must call one day ahead",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-171.mp3"
+  },
+  {
+    "id": "ko-f2-172",
+    "sentence": "약속 장소를 확인하려고 친구에게 메시지를 보냈어요.",
+    "cloze": "약속 장소를 확인하려고",
+    "answer": "약속 장소를 확인하려고",
+    "accepted_answers": [],
+    "lemma": "확인하려고",
+    "meaning": "in order to confirm the meeting place",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-172.mp3"
+  },
+  {
+    "id": "ko-f2-173",
+    "sentence": "지수 씨에게 토요일 오후에 시간이 있느냐고 물었어요.",
+    "cloze": "시간이 있느냐고 물었어요",
+    "answer": "시간이 있느냐고 물었어요",
+    "accepted_answers": [],
+    "lemma": "시간이 있느냐고 묻다",
+    "meaning": "asked whether Jisu was free",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-173.mp3"
+  },
+  {
+    "id": "ko-f2-174",
+    "sentence": "부모님을 뵙고 나서 함께 저녁을 먹을 거예요.",
+    "cloze": "부모님을 뵙고 나서",
+    "answer": "부모님을 뵙고 나서",
+    "accepted_answers": [],
+    "lemma": "뵙고 나서",
+    "meaning": "after seeing my parents",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-174.mp3"
+  },
+  {
+    "id": "ko-f2-175",
+    "sentence": "행사는 오후 한 시부터 네 시까지 진행됩니다.",
+    "cloze": "한 시부터 네 시까지 진행됩니다",
+    "answer": "한 시부터 네 시까지 진행됩니다",
+    "accepted_answers": [],
+    "lemma": "진행됩니다",
+    "meaning": "runs from one to four",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-175.mp3"
+  },
+  {
+    "id": "ko-f2-176",
+    "sentence": "제가 한국에서 생활한 지 벌써 육 개월이 됐어요.",
+    "cloze": "생활한 지 벌써 육 개월이 됐어요",
+    "answer": "생활한 지 벌써 육 개월이 됐어요",
+    "accepted_answers": [],
+    "lemma": "생활한 지 육 개월이 되다",
+    "meaning": "it has been six months since I began living here",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-176.mp3"
+  },
+  {
+    "id": "ko-f2-177",
+    "sentence": "부품이 없어서 수리에 사흘쯤 걸릴 것 같아요.",
+    "cloze": "사흘쯤 걸릴 것 같아요",
+    "answer": "사흘쯤 걸릴 것 같아요",
+    "accepted_answers": [],
+    "lemma": "걸릴 것 같다",
+    "meaning": "it looks like it will take about three days",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-177.mp3"
+  },
+  {
+    "id": "ko-f2-178",
+    "sentence": "표가 한 장밖에 안 남아서 친구에게 양보했어요.",
+    "cloze": "한 장밖에 안 남아서",
+    "answer": "한 장밖에 안 남아서",
+    "accepted_answers": [],
+    "lemma": "한 장밖에 안 남다",
+    "meaning": "because only one ticket remained",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-178.mp3"
+  },
+  {
+    "id": "ko-f2-179",
+    "sentence": "신청서에 빠진 내용이 없는지 한 번 더 확인하세요.",
+    "cloze": "한 번 더 확인하세요",
+    "answer": "한 번 더 확인하세요",
+    "accepted_answers": [],
+    "lemma": "한 번 더 확인하다",
+    "meaning": "check one more time",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-179.mp3"
+  },
+  {
+    "id": "ko-f2-180",
+    "sentence": "회의가 끝날 때마다 중요한 내용을 기록해요.",
+    "cloze": "회의가 끝날 때마다",
+    "answer": "회의가 끝날 때마다",
+    "accepted_answers": [],
+    "lemma": "끝날 때마다",
+    "meaning": "whenever a meeting ends",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-180.mp3"
+  },
+  {
+    "id": "ko-f2-181",
+    "sentence": "친한 동료에게 주말에 전시회를 같이 보러 가자고 했어요.",
+    "cloze": "같이 보러 가자고 했어요",
+    "answer": "같이 보러 가자고 했어요",
+    "accepted_answers": [],
+    "lemma": "보러 가자고 하다",
+    "meaning": "suggested seeing it together",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-181.mp3"
+  },
+  {
+    "id": "ko-f2-182",
+    "sentence": "이번 출장에서는 서울에 며칠 동안 머무를 예정이에요?",
+    "cloze": "며칠 동안",
+    "answer": "며칠 동안",
+    "accepted_answers": [],
+    "lemma": "며칠 동안",
+    "meaning": "for how many days",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-182.mp3"
+  },
+  {
+    "id": "ko-f2-183",
+    "sentence": "지갑에 오천 원밖에 없어서 현금을 더 찾았어요.",
+    "cloze": "오천 원밖에 없어서",
+    "answer": "오천 원밖에 없어서",
+    "accepted_answers": [],
+    "lemma": "오천 원밖에 없다",
+    "meaning": "because I had only five thousand won",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-183.mp3"
+  },
+  {
+    "id": "ko-f2-184",
+    "sentence": "필요한 서식은 시청 홈페이지에서 내려받을 수 있어요.",
+    "cloze": "내려받을 수 있어요",
+    "answer": "내려받을 수 있어요",
+    "accepted_answers": [],
+    "lemma": "내려받을 수 있다",
+    "meaning": "can download it",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-184.mp3"
+  },
+  {
+    "id": "ko-f2-185",
+    "sentence": "겨울에 설악산을 올라가 본 적이 있어요.",
+    "cloze": "설악산을 올라가 본 적이 있어요",
+    "answer": "설악산을 올라가 본 적이 있어요",
+    "accepted_answers": [],
+    "lemma": "올라가 본 적이 있다",
+    "meaning": "have climbed Seoraksan in winter",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-185.mp3"
+  },
+  {
+    "id": "ko-f2-186",
+    "sentence": "알람 소리를 못 들어서 택시를 타야 했어요.",
+    "cloze": "택시를 타야 했어요",
+    "answer": "택시를 타야 했어요",
+    "accepted_answers": [],
+    "lemma": "타야 했다",
+    "meaning": "had to take a taxi",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-186.mp3"
+  },
+  {
+    "id": "ko-f2-187",
+    "sentence": "갑자기 야근하게 돼서 약속을 미뤄야 한다고 연락했어요.",
+    "cloze": "약속을 미뤄야 한다고 연락했어요",
+    "answer": "약속을 미뤄야 한다고 연락했어요",
+    "accepted_answers": [],
+    "lemma": "미뤄야 한다고 연락하다",
+    "meaning": "said I had to postpone our plans",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-187.mp3"
+  },
+  {
+    "id": "ko-f2-188",
+    "sentence": "아침부터 목이 붓고 열이 나서 진료를 예약했어요.",
+    "cloze": "목이 붓고 열이 나서",
+    "answer": "목이 붓고 열이 나서",
+    "accepted_answers": [],
+    "lemma": "목이 붓고 열이 나다",
+    "meaning": "because my throat was swollen and I had a fever",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-188.mp3"
+  },
+  {
+    "id": "ko-f2-189",
+    "sentence": "수리 기사가 방문하기 전에 고장 난 부분의 사진을 보냈어요.",
+    "cloze": "방문하기 전에",
+    "answer": "방문하기 전에",
+    "accepted_answers": [],
+    "lemma": "방문하기 전에",
+    "meaning": "before the repair technician visited",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-189.mp3"
+  },
+  {
+    "id": "ko-f2-190",
+    "sentence": "휴가를 떠나기 전에 동료에게 남은 일을 설명해 줬어요.",
+    "cloze": "동료에게 남은 일을 설명해 줬어요",
+    "answer": "동료에게 남은 일을 설명해 줬어요",
+    "accepted_answers": [],
+    "lemma": "일을 설명해 주다",
+    "meaning": "explained the remaining work to a coworker",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-190.mp3"
+  },
+  {
+    "id": "ko-f2-191",
+    "sentence": "시간이 괜찮으면 금요일 저녁에 같이 식사할까요?",
+    "cloze": "시간이 괜찮으면",
+    "answer": "시간이 괜찮으면",
+    "accepted_answers": [],
+    "lemma": "시간이 괜찮다",
+    "meaning": "if the time works for you",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-191.mp3"
+  },
+  {
+    "id": "ko-f2-192",
+    "sentence": "내일 회의에서 사용할 자료를 모두 인쇄했어요.",
+    "cloze": "회의에서 사용할 자료",
+    "answer": "회의에서 사용할 자료",
+    "accepted_answers": [],
+    "lemma": "사용할 자료",
+    "meaning": "materials to use at the meeting",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-192.mp3"
+  },
+  {
+    "id": "ko-f2-193",
+    "sentence": "사장님께서 손님을 직접 맞이하실 거예요.",
+    "cloze": "직접 맞이하실 거예요",
+    "answer": "직접 맞이하실 거예요",
+    "accepted_answers": [],
+    "lemma": "맞이하시다",
+    "meaning": "will personally welcome the guests",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-193.mp3"
+  },
+  {
+    "id": "ko-f2-194",
+    "sentence": "담당자가 필요한 서류는 두 가지라고 설명했어요.",
+    "cloze": "두 가지라고 설명했어요",
+    "answer": "두 가지라고 설명했어요",
+    "accepted_answers": [],
+    "lemma": "두 가지라고 설명하다",
+    "meaning": "explained that two documents were needed",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-194.mp3"
+  },
+  {
+    "id": "ko-f2-195",
+    "sentence": "고객님의 요청은 순서대로 처리됩니다.",
+    "cloze": "순서대로 처리됩니다",
+    "answer": "순서대로 처리됩니다",
+    "accepted_answers": [],
+    "lemma": "처리됩니다",
+    "meaning": "is processed in order",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-195.mp3"
+  },
+  {
+    "id": "ko-f2-196",
+    "sentence": "예약 확인 문자가 오지 않으면 접수처에 문의하세요.",
+    "cloze": "확인 문자가 오지 않으면",
+    "answer": "확인 문자가 오지 않으면",
+    "accepted_answers": [],
+    "lemma": "문자가 오지 않다",
+    "meaning": "if the confirmation text does not arrive",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-196.mp3"
+  },
+  {
+    "id": "ko-f2-197",
+    "sentence": "전화 상담보다 직접 방문하는 것이 더 빨랐어요.",
+    "cloze": "직접 방문하는 것이 더 빨랐어요",
+    "answer": "직접 방문하는 것이 더 빨랐어요",
+    "accepted_answers": [],
+    "lemma": "것이 더 빠르다",
+    "meaning": "visiting in person was faster",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-197.mp3"
+  },
+  {
+    "id": "ko-f2-198",
+    "sentence": "행사장에 놓을 접이식 의자 스무 개를 빌렸어요.",
+    "cloze": "의자 스무 개를",
+    "answer": "의자 스무 개를",
+    "accepted_answers": [],
+    "lemma": "의자 스무 개",
+    "meaning": "twenty folding chairs",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-198.mp3"
+  },
+  {
+    "id": "ko-f2-199",
+    "sentence": "손님들이 모두 가신 후에 회의실을 정리했어요.",
+    "cloze": "손님들이 모두 가신 후에",
+    "answer": "손님들이 모두 가신 후에",
+    "accepted_answers": [],
+    "lemma": "모두 가신 후에",
+    "meaning": "after the guests left, honorific",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-199.mp3"
+  },
+  {
+    "id": "ko-f2-200",
+    "sentence": "모든 준비를 마친 뒤에 참가자들에게 안내 메시지를 보냈어요.",
+    "cloze": "준비를 마친 뒤에",
+    "answer": "준비를 마친 뒤에",
+    "accepted_answers": [],
+    "lemma": "마친 뒤에",
+    "meaning": "after finishing all preparations",
+    "audio": "audio/ko-KR-foundation-2/ko-f2-200.mp3"
+  }
+]
