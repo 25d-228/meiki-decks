@@ -137,6 +137,16 @@ class MeikiDecksTests(unittest.TestCase):
         self.assertEqual(commands[0][1]["env"]["HF_HUB_OFFLINE"], "1")
         self.assertIn("test-003", error_output.getvalue())
 
+    def test_japanese_audio_uses_the_fixed_local_voice(self):
+        self.assertEqual(
+            meiki_decks.TTS_CONFIG["ja-JP"],
+            {
+                "model": "mlx-community/Qwen3-TTS-12Hz-0.6B-CustomVoice-8bit",
+                "voice": "Ono_Anna",
+                "lang_code": "Japanese",
+            },
+        )
+
     def test_require_audio_uses_probe_for_nonempty_local_file(self):
         card = self.card()
         self.write_stage([card])
