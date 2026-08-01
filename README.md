@@ -109,6 +109,10 @@ audio/ko-KR-foundation-2/ko-f2-001.mp3 through ko-f2-200.mp3
 dist/meiki-ko-kr-foundation-2-v0.1.0.meiki
 dist/README-ko-KR-foundation-2.txt
 
+audio/ko-KR-intermediate-1/ko-i1-001.mp3 through ko-i1-250.mp3
+dist/meiki-ko-kr-intermediate-1-v0.1.0.meiki
+dist/README-ko-KR-intermediate-1.txt
+
 audio/zh-Hans-CN-foundation-1/zh-f1-001.mp3 through zh-f1-150.mp3
 dist/meiki-zh-hans-cn-foundation-1-v0.1.0.meiki
 dist/README-zh-Hans-CN-foundation-1.txt
