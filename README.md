@@ -117,6 +117,10 @@ audio/ko-KR-upper-intermediate-1/ko-u1-001.mp3 through ko-u1-250.mp3
 dist/meiki-ko-kr-upper-intermediate-1-v0.1.0.meiki
 dist/README-ko-KR-upper-intermediate-1.txt
 
+audio/ko-KR-advanced-1/ko-a1-001.mp3 through ko-a1-300.mp3
+dist/meiki-ko-kr-advanced-1-v0.1.0.meiki
+dist/README-ko-KR-advanced-1.txt
+
 audio/zh-Hans-CN-foundation-1/zh-f1-001.mp3 through zh-f1-150.mp3
 dist/meiki-zh-hans-cn-foundation-1-v0.1.0.meiki
 dist/README-zh-Hans-CN-foundation-1.txt
