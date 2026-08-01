@@ -58,7 +58,13 @@ SCHEDULER_PARAMETERS = [
     0.3862,
 ]
 TTS_COMMAND = "mlx_audio.tts.generate"
-TTS_CONFIG = {}
+TTS_CONFIG = {
+    "ja-JP": {
+        "model": "mlx-community/Qwen3-TTS-12Hz-0.6B-CustomVoice-8bit",
+        "voice": "Ono_Anna",
+        "lang_code": "Japanese",
+    },
+}
 PATH_COMPONENT = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]*$")
 REQUIRED_STRING_FIELDS = (
     "id",

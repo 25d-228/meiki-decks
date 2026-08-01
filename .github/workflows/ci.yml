@@ -60,6 +60,8 @@ jobs:
               ".gitignore",
               "LICENSE",
               "README.md",
+              "cards/ja-JP/00.json",
+              "coverage/ja-JP/00.md",
               "meiki_decks.py",
               "pyproject.toml",
               "tests/test_meiki_decks.py",
@@ -70,6 +72,8 @@ jobs:
           if tracked_files != expected_files:
               raise SystemExit(f"tracked tree is incorrect: {sorted(tracked_files)}")
           PY
+      - name: Validate Japanese source
+        run: python meiki_decks.py check --language ja-JP --stage 00
       - name: Build and verify tiny archive
         run: >-
           python -m unittest -v
