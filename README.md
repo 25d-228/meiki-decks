@@ -70,6 +70,8 @@ python meiki_decks.py build-bundle --bundle ja-JP-complete
 python meiki_decks.py build-bundle --bundle all-current
 python meiki_decks.py build-bundle --bundle ko-KR-complete
 python meiki_decks.py build-bundle --bundle all-current-v0.2.0
+python meiki_decks.py build-bundle --bundle zh-Hans-CN-complete
+python meiki_decks.py build-bundle --bundle all-current-v0.3.0
 ```
 
 Importing these combined archives uses full-collection replacement semantics:
@@ -162,4 +164,10 @@ dist/README-ko-KR-complete.txt
 
 dist/meiki-all-current-v0.2.0.meiki
 dist/README-all-current-v0.2.0.txt
+
+dist/meiki-zh-hans-cn-complete-v0.1.0.meiki
+dist/README-zh-Hans-CN-complete.txt
+
+dist/meiki-all-current-v0.3.0.meiki
+dist/README-all-current-v0.3.0.txt
 ```
