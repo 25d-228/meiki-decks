@@ -63,6 +63,17 @@ Build and verify the import archive:
 python meiki_decks.py build --deck ja-JP-foundation-2
 ```
 
+Build and verify a combined initial-installation archive:
+
+```bash
+python meiki_decks.py build-bundle --bundle ja-JP-complete
+python meiki_decks.py build-bundle --bundle all-current
+```
+
+Importing these combined archives uses full-collection replacement semantics:
+
+> Importing this archive replaces the current Meiki collection. It is intended for initial installation, not for updating an existing studied collection.
+
 The completed outputs are:
 
 ```text
@@ -105,4 +116,10 @@ dist/README-fr-FR-foundation-1.txt
 audio/es-MX-foundation-1/es-f1-001.mp3 through es-f1-150.mp3
 dist/meiki-es-mx-foundation-1-v0.1.0.meiki
 dist/README-es-MX-foundation-1.txt
+
+dist/meiki-ja-jp-complete-v0.1.0.meiki
+dist/README-ja-JP-complete.txt
+
+dist/meiki-all-current-v0.1.0.meiki
+dist/README-all-current.txt
 ```
