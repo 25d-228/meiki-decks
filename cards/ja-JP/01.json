@@ -50,7 +50,6 @@
     "answer": "いしゃ",
     "accepted_answers": [],
     "lemma": "いしゃ",
-    "reading": "",
     "meaning": "doctor",
     "audio": "work/audio/ja-JP/01/ja-01-005.mp3"
   },
@@ -83,7 +82,6 @@
     "answer": "りゅうがくせい",
     "accepted_answers": [],
     "lemma": "りゅうがくせい",
-    "reading": "",
     "meaning": "international student",
     "audio": "work/audio/ja-JP/01/ja-01-008.mp3"
   },
@@ -116,7 +114,6 @@
     "answer": "ちゅうごくじん",
     "accepted_answers": [],
     "lemma": "ちゅうごくじん",
-    "reading": "",
     "meaning": "Chinese person",
     "audio": "work/audio/ja-JP/01/ja-01-011.mp3"
   },
@@ -127,7 +124,6 @@
     "answer": "かんこくじん",
     "accepted_answers": [],
     "lemma": "かんこくじん",
-    "reading": "",
     "meaning": "Korean person",
     "audio": "work/audio/ja-JP/01/ja-01-012.mp3"
   },
@@ -160,7 +156,6 @@
     "answer": "えいご",
     "accepted_answers": [],
     "lemma": "えいご",
-    "reading": "",
     "meaning": "English language",
     "audio": "work/audio/ja-JP/01/ja-01-015.mp3"
   },
@@ -237,7 +232,6 @@
     "answer": "それはノートですか",
     "accepted_answers": [],
     "lemma": "それは〜ですか",
-    "reading": "",
     "meaning": "Is that a notebook?",
     "audio": "work/audio/ja-JP/01/ja-01-022.mp3"
   },
@@ -259,7 +253,6 @@
     "answer": "どれですか",
     "accepted_answers": [],
     "lemma": "どれですか",
-    "reading": "",
     "meaning": "which one is it?",
     "audio": "work/audio/ja-JP/01/ja-01-024.mp3"
   },
@@ -281,7 +274,6 @@
     "answer": "そのノート",
     "accepted_answers": [],
     "lemma": "その〜",
-    "reading": "",
     "meaning": "that notebook",
     "audio": "work/audio/ja-JP/01/ja-01-026.mp3"
   },
@@ -326,7 +318,6 @@
     "answer": "そこはカフェです",
     "accepted_answers": [],
     "lemma": "そこは〜です",
-    "reading": "",
     "meaning": "That place is a cafe.",
     "audio": "work/audio/ja-JP/01/ja-01-030.mp3"
   },
@@ -348,7 +339,6 @@
     "answer": "どこですか",
     "accepted_answers": [],
     "lemma": "どこですか",
-    "reading": "",
     "meaning": "where is it?",
     "audio": "work/audio/ja-JP/01/ja-01-032.mp3"
   },
@@ -359,7 +349,6 @@
     "answer": "だれですか",
     "accepted_answers": [],
     "lemma": "だれですか",
-    "reading": "",
     "meaning": "who is it?",
     "audio": "work/audio/ja-JP/01/ja-01-033.mp3"
   },
@@ -417,7 +406,6 @@
     "answer": "りゅうがくせいですか",
     "accepted_answers": [],
     "lemma": "〜ですか",
-    "reading": "",
     "meaning": "Is she an international student?",
     "audio": "work/audio/ja-JP/01/ja-01-038.mp3"
   },
@@ -440,7 +428,6 @@
     "answer": "いしゃですよ",
     "accepted_answers": [],
     "lemma": "〜ですよ",
-    "reading": "",
     "meaning": "is a doctor, you know",
     "note": "よ presents information to the listener.",
     "audio": "work/audio/ja-JP/01/ja-01-040.mp3"
@@ -562,7 +549,6 @@
     "answer": "りょうしん",
     "accepted_answers": [],
     "lemma": "りょうしん",
-    "reading": "",
     "meaning": "my parents",
     "audio": "work/audio/ja-JP/01/ja-01-051.mp3"
   },
@@ -595,7 +581,6 @@
     "answer": "ともだち",
     "accepted_answers": [],
     "lemma": "ともだち",
-    "reading": "",
     "meaning": "friend",
     "audio": "work/audio/ja-JP/01/ja-01-054.mp3"
   },
@@ -617,7 +602,6 @@
     "answer": "へやに",
     "accepted_answers": [],
     "lemma": "へや",
-    "reading": "",
     "meaning": "in the room",
     "audio": "work/audio/ja-JP/01/ja-01-056.mp3"
   },
@@ -628,7 +612,6 @@
     "answer": "だいどころ",
     "accepted_answers": [],
     "lemma": "だいどころ",
-    "reading": "",
     "meaning": "kitchen",
     "audio": "work/audio/ja-JP/01/ja-01-057.mp3"
   },
@@ -639,7 +622,6 @@
     "answer": "いま",
     "accepted_answers": [],
     "lemma": "いま",
-    "reading": "",
     "meaning": "living room",
     "audio": "work/audio/ja-JP/01/ja-01-058.mp3"
   },
@@ -650,7 +632,6 @@
     "answer": "げんかん",
     "accepted_answers": [],
     "lemma": "げんかん",
-    "reading": "",
     "meaning": "entryway",
     "audio": "work/audio/ja-JP/01/ja-01-059.mp3"
   },
@@ -661,7 +642,6 @@
     "answer": "にわ",
     "accepted_answers": [],
     "lemma": "にわ",
-    "reading": "",
     "meaning": "garden",
     "audio": "work/audio/ja-JP/01/ja-01-060.mp3"
   },
@@ -683,7 +663,6 @@
     "answer": "いす",
     "accepted_answers": [],
     "lemma": "いす",
-    "reading": "",
     "meaning": "chair",
     "audio": "work/audio/ja-JP/01/ja-01-062.mp3"
   },
@@ -694,7 +673,6 @@
     "answer": "ほんだな",
     "accepted_answers": [],
     "lemma": "ほんだな",
-    "reading": "",
     "meaning": "bookshelf",
     "audio": "work/audio/ja-JP/01/ja-01-063.mp3"
   },
@@ -705,7 +683,6 @@
     "answer": "れいぞうこ",
     "accepted_answers": [],
     "lemma": "れいぞうこ",
-    "reading": "",
     "meaning": "refrigerator",
     "audio": "work/audio/ja-JP/01/ja-01-064.mp3"
   },
@@ -727,7 +704,6 @@
     "answer": "かばん",
     "accepted_answers": [],
     "lemma": "かばん",
-    "reading": "",
     "meaning": "bag",
     "audio": "work/audio/ja-JP/01/ja-01-066.mp3"
   },
@@ -738,7 +714,6 @@
     "answer": "とけいがあります",
     "accepted_answers": [],
     "lemma": "とけい",
-    "reading": "",
     "meaning": "there is a clock",
     "audio": "work/audio/ja-JP/01/ja-01-067.mp3"
   },
@@ -760,7 +735,6 @@
     "answer": "だれのとけい",
     "accepted_answers": [],
     "lemma": "だれの〜",
-    "reading": "",
     "meaning": "whose clock",
     "audio": "work/audio/ja-JP/01/ja-01-069.mp3"
   },
@@ -804,7 +778,6 @@
     "answer": "へやにあります",
     "accepted_answers": [],
     "lemma": "〜にあります",
-    "reading": "",
     "meaning": "is in the room",
     "audio": "work/audio/ja-JP/01/ja-01-073.mp3"
   },
@@ -837,7 +810,6 @@
     "answer": "だれがいますか",
     "accepted_answers": [],
     "lemma": "だれがいますか",
-    "reading": "",
     "meaning": "who is there?",
     "audio": "work/audio/ja-JP/01/ja-01-076.mp3"
   },
@@ -870,7 +842,6 @@
     "answer": "なかに",
     "accepted_answers": [],
     "lemma": "なかに",
-    "reading": "",
     "meaning": "inside",
     "audio": "work/audio/ja-JP/01/ja-01-079.mp3"
   },
@@ -881,7 +852,6 @@
     "answer": "となりに",
     "accepted_answers": [],
     "lemma": "となりに",
-    "reading": "",
     "meaning": "next to",
     "audio": "work/audio/ja-JP/01/ja-01-080.mp3"
   },
@@ -1035,7 +1005,6 @@
     "answer": "きのう",
     "accepted_answers": [],
     "lemma": "きのう",
-    "reading": "",
     "meaning": "yesterday",
     "audio": "work/audio/ja-JP/01/ja-01-094.mp3"
   },
@@ -1244,7 +1213,6 @@
     "answer": "たんじょうび",
     "accepted_answers": [],
     "lemma": "たんじょうび",
-    "reading": "",
     "meaning": "birthday",
     "audio": "work/audio/ja-JP/01/ja-01-113.mp3"
   },
@@ -1255,7 +1223,6 @@
     "answer": "よてい",
     "accepted_answers": [],
     "lemma": "よてい",
-    "reading": "",
     "meaning": "schedule; plan",
     "audio": "work/audio/ja-JP/01/ja-01-114.mp3"
   },
@@ -1266,7 +1233,6 @@
     "answer": "やくそく",
     "accepted_answers": [],
     "lemma": "やくそく",
-    "reading": "",
     "meaning": "appointment; promise",
     "audio": "work/audio/ja-JP/01/ja-01-115.mp3"
   },
@@ -1277,7 +1243,6 @@
     "answer": "じゅぎょう",
     "accepted_answers": [],
     "lemma": "じゅぎょう",
-    "reading": "",
     "meaning": "class; lesson",
     "audio": "work/audio/ja-JP/01/ja-01-116.mp3"
   },
@@ -1321,7 +1286,6 @@
     "answer": "いつですか",
     "accepted_answers": [],
     "lemma": "いつですか",
-    "reading": "",
     "meaning": "when is it?",
     "audio": "work/audio/ja-JP/01/ja-01-120.mp3"
   },
@@ -1596,7 +1560,6 @@
     "answer": "さんぽします",
     "accepted_answers": [],
     "lemma": "さんぽする",
-    "reading": "",
     "meaning": "to take a walk",
     "audio": "work/audio/ja-JP/01/ja-01-145.mp3"
   },
@@ -1607,7 +1570,6 @@
     "answer": "うんどうします",
     "accepted_answers": [],
     "lemma": "うんどうする",
-    "reading": "",
     "meaning": "to exercise",
     "audio": "work/audio/ja-JP/01/ja-01-146.mp3"
   },
@@ -1618,7 +1580,6 @@
     "answer": "あさごはん",
     "accepted_answers": [],
     "lemma": "あさごはん",
-    "reading": "",
     "meaning": "breakfast",
     "audio": "work/audio/ja-JP/01/ja-01-147.mp3"
   },
@@ -1629,7 +1590,6 @@
     "answer": "ひるごはん",
     "accepted_answers": [],
     "lemma": "ひるごはん",
-    "reading": "",
     "meaning": "lunch",
     "audio": "work/audio/ja-JP/01/ja-01-148.mp3"
   },
@@ -1640,7 +1600,6 @@
     "answer": "ばんごはん",
     "accepted_answers": [],
     "lemma": "ばんごはん",
-    "reading": "",
     "meaning": "dinner; evening meal",
     "audio": "work/audio/ja-JP/01/ja-01-149.mp3"
   },
@@ -1662,7 +1621,6 @@
     "answer": "まいばん",
     "accepted_answers": [],
     "lemma": "まいばん",
-    "reading": "",
     "meaning": "every evening; every night",
     "audio": "work/audio/ja-JP/01/ja-01-151.mp3"
   },
@@ -1673,7 +1631,6 @@
     "answer": "いつも",
     "accepted_answers": [],
     "lemma": "いつも",
-    "reading": "",
     "meaning": "always; usually",
     "audio": "work/audio/ja-JP/01/ja-01-152.mp3"
   },
@@ -1684,7 +1641,6 @@
     "answer": "よく",
     "accepted_answers": [],
     "lemma": "よく",
-    "reading": "",
     "meaning": "often",
     "audio": "work/audio/ja-JP/01/ja-01-153.mp3"
   },
@@ -1695,7 +1651,6 @@
     "answer": "ときどき",
     "accepted_answers": [],
     "lemma": "ときどき",
-    "reading": "",
     "meaning": "sometimes",
     "audio": "work/audio/ja-JP/01/ja-01-154.mp3"
   },
@@ -1772,7 +1727,6 @@
     "answer": "へやをそうじします",
     "accepted_answers": [],
     "lemma": "そうじする",
-    "reading": "",
     "meaning": "clean; do the cleaning",
     "audio": "work/audio/ja-JP/01/ja-01-161.mp3"
   },
@@ -1816,7 +1770,6 @@
     "answer": "このコップに",
     "accepted_answers": [],
     "lemma": "コップ",
-    "reading": "",
     "meaning": "into this cup; glass",
     "audio": "work/audio/ja-JP/01/ja-01-165.mp3"
   },
@@ -1871,7 +1824,6 @@
     "answer": "せんたくきがあります",
     "accepted_answers": [],
     "lemma": "せんたくき",
-    "reading": "",
     "meaning": "there is a washing machine",
     "audio": "work/audio/ja-JP/01/ja-01-170.mp3"
   },
@@ -1981,7 +1933,6 @@
     "answer": "さらをかたづけます",
     "accepted_answers": [],
     "lemma": "かたづける",
-    "reading": "",
     "meaning": "put away the dishes",
     "audio": "work/audio/ja-JP/01/ja-01-180.mp3"
   },
@@ -2025,7 +1976,6 @@
     "answer": "テレビをけします",
     "accepted_answers": [],
     "lemma": "けす",
-    "reading": "",
     "meaning": "turn off the television",
     "audio": "work/audio/ja-JP/01/ja-01-184.mp3"
   },
@@ -2102,7 +2052,6 @@
     "answer": "へやにおきます",
     "accepted_answers": [],
     "lemma": "へやに",
-    "reading": "",
     "meaning": "put into the room",
     "audio": "work/audio/ja-JP/01/ja-01-191.mp3"
   },
@@ -2212,7 +2161,6 @@
     "answer": "きょうしつ",
     "accepted_answers": [],
     "lemma": "きょうしつ",
-    "reading": "",
     "meaning": "classroom",
     "audio": "work/audio/ja-JP/01/ja-01-201.mp3"
   },
@@ -2223,7 +2171,6 @@
     "answer": "としょかん",
     "accepted_answers": [],
     "lemma": "としょかん",
-    "reading": "",
     "meaning": "library",
     "audio": "work/audio/ja-JP/01/ja-01-202.mp3"
   },
@@ -2234,7 +2181,6 @@
     "answer": "じむしつ",
     "accepted_answers": [],
     "lemma": "じむしつ",
-    "reading": "",
     "meaning": "school office",
     "audio": "work/audio/ja-JP/01/ja-01-203.mp3"
   },
@@ -2245,7 +2191,6 @@
     "answer": "たいいくかん",
     "accepted_answers": [],
     "lemma": "たいいくかん",
-    "reading": "",
     "meaning": "gymnasium",
     "audio": "work/audio/ja-JP/01/ja-01-204.mp3"
   },
@@ -2256,7 +2201,6 @@
     "answer": "しょくどう",
     "accepted_answers": [],
     "lemma": "しょくどう",
-    "reading": "",
     "meaning": "cafeteria",
     "audio": "work/audio/ja-JP/01/ja-01-205.mp3"
   },
@@ -2278,7 +2222,6 @@
     "answer": "しけん",
     "accepted_answers": [],
     "lemma": "しけん",
-    "reading": "",
     "meaning": "test; exam",
     "audio": "work/audio/ja-JP/01/ja-01-207.mp3"
   },
@@ -2289,7 +2232,6 @@
     "answer": "もんだい",
     "accepted_answers": [],
     "lemma": "もんだい",
-    "reading": "",
     "meaning": "question; problem",
     "audio": "work/audio/ja-JP/01/ja-01-208.mp3"
   },
@@ -2300,7 +2242,6 @@
     "answer": "こたえ",
     "accepted_answers": [],
     "lemma": "こたえ",
-    "reading": "",
     "meaning": "answer",
     "audio": "work/audio/ja-JP/01/ja-01-209.mp3"
   },
@@ -2311,7 +2252,6 @@
     "answer": "しつもん",
     "accepted_answers": [],
     "lemma": "しつもん",
-    "reading": "",
     "meaning": "question",
     "audio": "work/audio/ja-JP/01/ja-01-210.mp3"
   },
@@ -2322,7 +2262,6 @@
     "answer": "きょうかしょ",
     "accepted_answers": [],
     "lemma": "きょうかしょ",
-    "reading": "",
     "meaning": "textbook",
     "audio": "work/audio/ja-JP/01/ja-01-211.mp3"
   },
@@ -2333,7 +2272,6 @@
     "answer": "じしょ",
     "accepted_answers": [],
     "lemma": "じしょ",
-    "reading": "",
     "meaning": "dictionary",
     "audio": "work/audio/ja-JP/01/ja-01-212.mp3"
   },
@@ -2355,7 +2293,6 @@
     "answer": "えんぴつ",
     "accepted_answers": [],
     "lemma": "えんぴつ",
-    "reading": "",
     "meaning": "pencil",
     "audio": "work/audio/ja-JP/01/ja-01-214.mp3"
   },
@@ -2366,7 +2303,6 @@
     "answer": "ペン",
     "accepted_answers": [],
     "lemma": "ペン",
-    "reading": "",
     "meaning": "pen",
     "audio": "work/audio/ja-JP/01/ja-01-215.mp3"
   },
@@ -2377,7 +2313,6 @@
     "answer": "かみ",
     "accepted_answers": [],
     "lemma": "かみ",
-    "reading": "",
     "meaning": "paper",
     "audio": "work/audio/ja-JP/01/ja-01-216.mp3"
   },
@@ -2388,7 +2323,6 @@
     "answer": "パソコン",
     "accepted_answers": [],
     "lemma": "パソコン",
-    "reading": "",
     "meaning": "personal computer",
     "audio": "work/audio/ja-JP/01/ja-01-217.mp3"
   },
@@ -2399,7 +2333,6 @@
     "answer": "メール",
     "accepted_answers": [],
     "lemma": "メール",
-    "reading": "",
     "meaning": "email",
     "audio": "work/audio/ja-JP/01/ja-01-218.mp3"
   },
@@ -2410,7 +2343,6 @@
     "answer": "かんじ",
     "accepted_answers": [],
     "lemma": "かんじ",
-    "reading": "",
     "meaning": "kanji character",
     "audio": "work/audio/ja-JP/01/ja-01-219.mp3"
   },
@@ -2421,7 +2353,6 @@
     "answer": "ぶんぽう",
     "accepted_answers": [],
     "lemma": "ぶんぽう",
-    "reading": "",
     "meaning": "grammar",
     "audio": "work/audio/ja-JP/01/ja-01-220.mp3"
   },
@@ -2432,7 +2363,6 @@
     "answer": "たんご",
     "accepted_answers": [],
     "lemma": "たんご",
-    "reading": "",
     "meaning": "word; vocabulary item",
     "audio": "work/audio/ja-JP/01/ja-01-221.mp3"
   },
@@ -2465,7 +2395,6 @@
     "answer": "いみ",
     "accepted_answers": [],
     "lemma": "いみ",
-    "reading": "",
     "meaning": "meaning",
     "audio": "work/audio/ja-JP/01/ja-01-224.mp3"
   },
@@ -2476,7 +2405,6 @@
     "answer": "れんしゅう",
     "accepted_answers": [],
     "lemma": "れんしゅう",
-    "reading": "",
     "meaning": "practice",
     "audio": "work/audio/ja-JP/01/ja-01-225.mp3"
   },
@@ -2487,7 +2415,6 @@
     "answer": "ふくしゅう",
     "accepted_answers": [],
     "lemma": "ふくしゅう",
-    "reading": "",
     "meaning": "review of learned material",
     "audio": "work/audio/ja-JP/01/ja-01-226.mp3"
   },
@@ -2498,7 +2425,6 @@
     "answer": "よしゅう",
     "accepted_answers": [],
     "lemma": "よしゅう",
-    "reading": "",
     "meaning": "preparation for a lesson",
     "audio": "work/audio/ja-JP/01/ja-01-227.mp3"
   },
@@ -2531,7 +2457,6 @@
     "answer": "わすれました",
     "accepted_answers": [],
     "lemma": "わすれる",
-    "reading": "",
     "meaning": "forgot",
     "audio": "work/audio/ja-JP/01/ja-01-230.mp3"
   },
@@ -2542,7 +2467,6 @@
     "answer": "おぼえます",
     "accepted_answers": [],
     "lemma": "おぼえる",
-    "reading": "",
     "meaning": "memorize; remember",
     "audio": "work/audio/ja-JP/01/ja-01-231.mp3"
   },
@@ -2553,7 +2477,6 @@
     "answer": "かります",
     "accepted_answers": [],
     "lemma": "かりる",
-    "reading": "",
     "meaning": "borrow",
     "audio": "work/audio/ja-JP/01/ja-01-232.mp3"
   },
@@ -2564,7 +2487,6 @@
     "answer": "かえします",
     "accepted_answers": [],
     "lemma": "かえす",
-    "reading": "",
     "meaning": "return something",
     "audio": "work/audio/ja-JP/01/ja-01-233.mp3"
   },
@@ -2575,7 +2497,6 @@
     "answer": "しらべます",
     "accepted_answers": [],
     "lemma": "しらべる",
-    "reading": "",
     "meaning": "look up; investigate",
     "audio": "work/audio/ja-JP/01/ja-01-234.mp3"
   },
@@ -2597,7 +2518,6 @@
     "answer": "しつもんにこたえます",
     "accepted_answers": [],
     "lemma": "しつもんにこたえる",
-    "reading": "",
     "meaning": "answer a question",
     "audio": "work/audio/ja-JP/01/ja-01-236.mp3"
   },
@@ -2641,7 +2561,6 @@
     "answer": "もうおわりました",
     "accepted_answers": [],
     "lemma": "もうおわりました",
-    "reading": "",
     "meaning": "already finished",
     "audio": "work/audio/ja-JP/01/ja-01-240.mp3"
   },
@@ -2663,7 +2582,6 @@
     "answer": "このパンをください",
     "accepted_answers": [],
     "lemma": "パン",
-    "reading": "",
     "meaning": "this bread, please",
     "audio": "work/audio/ja-JP/01/ja-01-242.mp3"
   },
@@ -2762,7 +2680,6 @@
     "answer": "りんごジュースをおねがいします",
     "accepted_answers": [],
     "lemma": "ジュース",
-    "reading": "",
     "meaning": "Apple juice, please.",
     "audio": "work/audio/ja-JP/01/ja-01-251.mp3"
   },
@@ -2916,7 +2833,6 @@
     "answer": "やさいをきります",
     "accepted_answers": [],
     "lemma": "きる",
-    "reading": "",
     "meaning": "cut the vegetables",
     "audio": "work/audio/ja-JP/01/ja-01-265.mp3"
   },
@@ -2971,7 +2887,6 @@
     "answer": "とてもからいです",
     "accepted_answers": [],
     "lemma": "からい",
-    "reading": "",
     "meaning": "very spicy",
     "audio": "work/audio/ja-JP/01/ja-01-270.mp3"
   },
@@ -2982,7 +2897,6 @@
     "answer": "とてもおいしいです",
     "accepted_answers": [],
     "lemma": "おいしい",
-    "reading": "",
     "meaning": "very delicious",
     "audio": "work/audio/ja-JP/01/ja-01-271.mp3"
   },
@@ -3048,7 +2962,6 @@
     "answer": "いっぱいだけおねがいします",
     "accepted_answers": [],
     "lemma": "いっぱいおねがいします",
-    "reading": "",
     "meaning": "just one cup, please",
     "audio": "work/audio/ja-JP/01/ja-01-277.mp3"
   },
@@ -3070,7 +2983,6 @@
     "answer": "すみません、おかいけいをおねがいします",
     "accepted_answers": [],
     "lemma": "おかいけい",
-    "reading": "",
     "meaning": "Excuse me, the bill please.",
     "audio": "work/audio/ja-JP/01/ja-01-279.mp3"
   },
@@ -3081,7 +2993,6 @@
     "answer": "べつべつにおねがいします",
     "accepted_answers": [],
     "lemma": "べつべつに",
-    "reading": "",
     "meaning": "Separate checks, please.",
     "audio": "work/audio/ja-JP/01/ja-01-280.mp3"
   },
@@ -3103,7 +3014,6 @@
     "answer": "デパート",
     "accepted_answers": [],
     "lemma": "デパート",
-    "reading": "",
     "meaning": "department store",
     "audio": "work/audio/ja-JP/01/ja-01-282.mp3"
   },
@@ -3114,7 +3024,6 @@
     "answer": "コンビニ",
     "accepted_answers": [],
     "lemma": "コンビニ",
-    "reading": "",
     "meaning": "convenience store",
     "audio": "work/audio/ja-JP/01/ja-01-283.mp3"
   },
@@ -3125,7 +3034,6 @@
     "answer": "うりば",
     "accepted_answers": [],
     "lemma": "うりば",
-    "reading": "",
     "meaning": "sales floor; department",
     "audio": "work/audio/ja-JP/01/ja-01-284.mp3"
   },
@@ -3136,7 +3044,6 @@
     "answer": "ねだん",
     "accepted_answers": [],
     "lemma": "ねだん",
-    "reading": "",
     "meaning": "price",
     "audio": "work/audio/ja-JP/01/ja-01-285.mp3"
   },
@@ -3158,7 +3065,6 @@
     "answer": "げんきんで",
     "accepted_answers": [],
     "lemma": "げんきん",
-    "reading": "",
     "meaning": "in cash",
     "audio": "work/audio/ja-JP/01/ja-01-287.mp3"
   },
@@ -3169,7 +3075,6 @@
     "answer": "カードで",
     "accepted_answers": [],
     "lemma": "カード",
-    "reading": "",
     "meaning": "by card",
     "audio": "work/audio/ja-JP/01/ja-01-288.mp3"
   },
@@ -3191,7 +3096,6 @@
     "answer": "レシート",
     "accepted_answers": [],
     "lemma": "レシート",
-    "reading": "",
     "meaning": "receipt",
     "audio": "work/audio/ja-JP/01/ja-01-290.mp3"
   },
@@ -3202,7 +3106,6 @@
     "answer": "ふくろも",
     "accepted_answers": [],
     "lemma": "ふくろ",
-    "reading": "",
     "meaning": "a bag too",
     "audio": "work/audio/ja-JP/01/ja-01-291.mp3"
   },
@@ -3213,7 +3116,6 @@
     "answer": "サイズ",
     "accepted_answers": [],
     "lemma": "サイズ",
-    "reading": "",
     "meaning": "size",
     "audio": "work/audio/ja-JP/01/ja-01-292.mp3"
   },
@@ -3246,7 +3148,6 @@
     "answer": "このシャツです",
     "accepted_answers": [],
     "lemma": "シャツ",
-    "reading": "",
     "meaning": "It is this shirt.",
     "audio": "work/audio/ja-JP/01/ja-01-295.mp3"
   },
@@ -3257,7 +3158,6 @@
     "answer": "ズボン",
     "accepted_answers": [],
     "lemma": "ズボン",
-    "reading": "",
     "meaning": "trousers",
     "audio": "work/audio/ja-JP/01/ja-01-296.mp3"
   },
@@ -3268,7 +3168,6 @@
     "answer": "スカート",
     "accepted_answers": [],
     "lemma": "スカート",
-    "reading": "",
     "meaning": "skirt",
     "audio": "work/audio/ja-JP/01/ja-01-297.mp3"
   },
@@ -3279,7 +3178,6 @@
     "answer": "このくつです",
     "accepted_answers": [],
     "lemma": "くつ",
-    "reading": "",
     "meaning": "I choose these shoes for rainy days.",
     "audio": "work/audio/ja-JP/01/ja-01-298.mp3"
   },
@@ -3301,7 +3199,6 @@
     "answer": "うわぎ",
     "accepted_answers": [],
     "lemma": "うわぎ",
-    "reading": "",
     "meaning": "jacket; outerwear",
     "audio": "work/audio/ja-JP/01/ja-01-300.mp3"
   },
@@ -3367,7 +3264,6 @@
     "answer": "ちいさくありません",
     "accepted_answers": [],
     "lemma": "ちいさい",
-    "reading": "",
     "meaning": "It is not small.",
     "audio": "work/audio/ja-JP/01/ja-01-306.mp3"
   },
@@ -3444,7 +3340,6 @@
     "answer": "このしょうひん",
     "accepted_answers": [],
     "lemma": "このしょうひん",
-    "reading": "",
     "meaning": "this product",
     "audio": "work/audio/ja-JP/01/ja-01-313.mp3"
   },
@@ -3488,7 +3383,6 @@
     "answer": "いくらですか",
     "accepted_answers": [],
     "lemma": "いくらですか",
-    "reading": "",
     "meaning": "How much is it?",
     "audio": "work/audio/ja-JP/01/ja-01-317.mp3"
   },
@@ -3499,7 +3393,6 @@
     "answer": "しちゃくします",
     "accepted_answers": [],
     "lemma": "しちゃくする",
-    "reading": "",
     "meaning": "I will try it on.",
     "audio": "work/audio/ja-JP/01/ja-01-318.mp3"
   },
@@ -3510,7 +3403,6 @@
     "answer": "ちょうどいいです",
     "accepted_answers": [],
     "lemma": "ちょうどいい",
-    "reading": "",
     "meaning": "These shoes fit just right.",
     "audio": "work/audio/ja-JP/01/ja-01-319.mp3"
   },
@@ -3521,7 +3413,6 @@
     "answer": "ほかのサイズ",
     "accepted_answers": [],
     "lemma": "ほかの〜",
-    "reading": "",
     "meaning": "another size",
     "audio": "work/audio/ja-JP/01/ja-01-320.mp3"
   },
@@ -3554,7 +3445,6 @@
     "answer": "ちかてつで",
     "accepted_answers": [],
     "lemma": "ちかてつ",
-    "reading": "",
     "meaning": "by subway",
     "audio": "work/audio/ja-JP/01/ja-01-323.mp3"
   },
@@ -3565,7 +3455,6 @@
     "answer": "バスで",
     "accepted_answers": [],
     "lemma": "バス",
-    "reading": "",
     "meaning": "by bus",
     "audio": "work/audio/ja-JP/01/ja-01-324.mp3"
   },
@@ -3576,7 +3465,6 @@
     "answer": "タクシーで",
     "accepted_answers": [],
     "lemma": "タクシー",
-    "reading": "",
     "meaning": "by taxi",
     "audio": "work/audio/ja-JP/01/ja-01-325.mp3"
   },
@@ -3587,7 +3475,6 @@
     "answer": "じてんしゃで",
     "accepted_answers": [],
     "lemma": "じてんしゃ",
-    "reading": "",
     "meaning": "by bicycle",
     "audio": "work/audio/ja-JP/01/ja-01-326.mp3"
   },
@@ -3598,7 +3485,6 @@
     "answer": "ひこうきで",
     "accepted_answers": [],
     "lemma": "ひこうき",
-    "reading": "",
     "meaning": "by airplane",
     "audio": "work/audio/ja-JP/01/ja-01-327.mp3"
   },
@@ -3609,7 +3495,6 @@
     "answer": "くうこうへ",
     "accepted_answers": [],
     "lemma": "くうこう",
-    "reading": "",
     "meaning": "to the airport",
     "audio": "work/audio/ja-JP/01/ja-01-328.mp3"
   },
@@ -3631,7 +3516,6 @@
     "answer": "かいさつ",
     "accepted_answers": [],
     "lemma": "かいさつ",
-    "reading": "",
     "meaning": "ticket gate",
     "audio": "work/audio/ja-JP/01/ja-01-330.mp3"
   },
@@ -3642,7 +3526,6 @@
     "answer": "ホームから",
     "accepted_answers": [],
     "lemma": "ホーム",
-    "reading": "",
     "meaning": "from the platform",
     "audio": "work/audio/ja-JP/01/ja-01-331.mp3"
   },
@@ -3664,7 +3547,6 @@
     "answer": "こうさてん",
     "accepted_answers": [],
     "lemma": "こうさてん",
-    "reading": "",
     "meaning": "intersection",
     "audio": "work/audio/ja-JP/01/ja-01-333.mp3"
   },
@@ -3675,7 +3557,6 @@
     "answer": "しんごうで",
     "accepted_answers": [],
     "lemma": "しんごう",
-    "reading": "",
     "meaning": "at the traffic light",
     "audio": "work/audio/ja-JP/01/ja-01-334.mp3"
   },
@@ -3917,7 +3798,6 @@
     "answer": "とうきょうから",
     "accepted_answers": [],
     "lemma": "とうきょうから",
-    "reading": "",
     "meaning": "from Tokyo",
     "audio": "work/audio/ja-JP/01/ja-01-356.mp3"
   },
@@ -3928,7 +3808,6 @@
     "answer": "おおさかまで",
     "accepted_answers": [],
     "lemma": "おおさかまで",
-    "reading": "",
     "meaning": "as far as Osaka",
     "audio": "work/audio/ja-JP/01/ja-01-357.mp3"
   },
@@ -3983,7 +3862,6 @@
     "answer": "はれ",
     "accepted_answers": [],
     "lemma": "はれ",
-    "reading": "",
     "meaning": "sunny weather",
     "audio": "work/audio/ja-JP/01/ja-01-362.mp3"
   },
@@ -4016,7 +3894,6 @@
     "answer": "くもり",
     "accepted_answers": [],
     "lemma": "くもり",
-    "reading": "",
     "meaning": "cloudy weather",
     "audio": "work/audio/ja-JP/01/ja-01-365.mp3"
   },
@@ -4027,7 +3904,6 @@
     "answer": "かぜがふきます",
     "accepted_answers": [],
     "lemma": "かぜ",
-    "reading": "",
     "meaning": "the wind will blow",
     "audio": "work/audio/ja-JP/01/ja-01-366.mp3"
   },
@@ -4038,7 +3914,6 @@
     "answer": "とてもあつい",
     "accepted_answers": [],
     "lemma": "あつい",
-    "reading": "",
     "meaning": "very hot",
     "audio": "work/audio/ja-JP/01/ja-01-367.mp3"
   },
@@ -4049,7 +3924,6 @@
     "answer": "さむい",
     "accepted_answers": [],
     "lemma": "さむい",
-    "reading": "",
     "meaning": "cold",
     "audio": "work/audio/ja-JP/01/ja-01-368.mp3"
   },
@@ -4060,7 +3934,6 @@
     "answer": "あたたかい",
     "accepted_answers": [],
     "lemma": "あたたかい",
-    "reading": "",
     "meaning": "warm",
     "audio": "work/audio/ja-JP/01/ja-01-369.mp3"
   },
@@ -4071,7 +3944,6 @@
     "answer": "すずしい",
     "accepted_answers": [],
     "lemma": "すずしい",
-    "reading": "",
     "meaning": "cool",
     "audio": "work/audio/ja-JP/01/ja-01-370.mp3"
   },
@@ -4159,7 +4031,6 @@
     "answer": "こうえん",
     "accepted_answers": [],
     "lemma": "こうえん",
-    "reading": "",
     "meaning": "park",
     "audio": "work/audio/ja-JP/01/ja-01-378.mp3"
   },
@@ -4170,7 +4041,6 @@
     "answer": "そら",
     "accepted_answers": [],
     "lemma": "そら",
-    "reading": "",
     "meaning": "sky",
     "audio": "work/audio/ja-JP/01/ja-01-379.mp3"
   },
@@ -4214,7 +4084,6 @@
     "answer": "あつくないです",
     "accepted_answers": [],
     "lemma": "あつくない",
-    "reading": "",
     "meaning": "it is not hot",
     "audio": "work/audio/ja-JP/01/ja-01-383.mp3"
   },
@@ -4225,7 +4094,6 @@
     "answer": "さむくありません",
     "accepted_answers": [],
     "lemma": "さむくありません",
-    "reading": "",
     "meaning": "it is not cold",
     "audio": "work/audio/ja-JP/01/ja-01-384.mp3"
   },
@@ -4236,7 +4104,6 @@
     "answer": "あつかったです",
     "accepted_answers": [],
     "lemma": "あつかった",
-    "reading": "",
     "meaning": "it was hot",
     "audio": "work/audio/ja-JP/01/ja-01-385.mp3"
   },
@@ -4247,7 +4114,6 @@
     "answer": "さむくなかったです",
     "accepted_answers": [],
     "lemma": "さむくなかった",
-    "reading": "",
     "meaning": "it was not cold",
     "audio": "work/audio/ja-JP/01/ja-01-386.mp3"
   },
@@ -4291,7 +4157,6 @@
     "answer": "かぜがつよい",
     "accepted_answers": [],
     "lemma": "かぜがつよい",
-    "reading": "",
     "meaning": "the wind is strong",
     "audio": "work/audio/ja-JP/01/ja-01-390.mp3"
   },
@@ -4357,7 +4222,6 @@
     "answer": "しゃしんをとります",
     "accepted_answers": [],
     "lemma": "しゃしんをとる",
-    "reading": "",
     "meaning": "take a photo",
     "audio": "work/audio/ja-JP/01/ja-01-396.mp3"
   },
@@ -4379,7 +4243,6 @@
     "answer": "ピクニック",
     "accepted_answers": [],
     "lemma": "ピクニック",
-    "reading": "",
     "meaning": "picnic",
     "audio": "work/audio/ja-JP/01/ja-01-398.mp3"
   },
@@ -4401,7 +4264,6 @@
     "answer": "きせつ",
     "accepted_answers": [],
     "lemma": "きせつ",
-    "reading": "",
     "meaning": "season",
     "audio": "work/audio/ja-JP/01/ja-01-400.mp3"
   },
@@ -4456,7 +4318,6 @@
     "answer": "しゃしんをたくさんとります",
     "accepted_answers": [],
     "lemma": "しゃしん",
-    "reading": "",
     "meaning": "I take lots of photos on trips.",
     "audio": "work/audio/ja-JP/01/ja-01-405.mp3"
   },
@@ -4797,7 +4658,6 @@
     "answer": "きのう、しずかではなかったです",
     "accepted_answers": [],
     "lemma": "しずかではなかった",
-    "reading": "",
     "meaning": "That shop was not quiet yesterday.",
     "audio": "work/audio/ja-JP/01/ja-01-436.mp3"
   },
@@ -5083,7 +4943,6 @@
     "answer": "ホテルのへやをよやくしました",
     "accepted_answers": [],
     "lemma": "よやくする",
-    "reading": "",
     "meaning": "reserved a hotel room",
     "audio": "work/audio/ja-JP/01/ja-01-462.mp3"
   },
@@ -5270,7 +5129,6 @@
     "answer": "りょかんはしずかでした",
     "accepted_answers": [],
     "lemma": "しずかでした",
-    "reading": "",
     "meaning": "the inn was quiet",
     "audio": "work/audio/ja-JP/01/ja-01-479.mp3"
   },
@@ -5655,7 +5513,6 @@
     "answer": "そうじをして、せんたくをします",
     "accepted_answers": [],
     "lemma": "して",
-    "reading": "",
     "meaning": "clean and then do the laundry",
     "audio": "work/audio/ja-JP/01/ja-01-514.mp3"
   },
@@ -5985,7 +5842,6 @@
     "answer": "びじゅつかんのえにさわってはいけません",
     "accepted_answers": [],
     "lemma": "さわってはいけません",
-    "reading": "",
     "meaning": "You must not touch the paintings in the art museum.",
     "audio": "work/audio/ja-JP/01/ja-01-544.mp3"
   },
@@ -6128,7 +5984,6 @@
     "answer": "かさはここにおいてください",
     "accepted_answers": [],
     "lemma": "ここにおいてください",
-    "reading": "",
     "meaning": "Please leave your umbrella here.",
     "audio": "work/audio/ja-JP/01/ja-01-557.mp3"
   },
@@ -6491,7 +6346,6 @@
     "answer": "しょくどうのせきがあいています",
     "accepted_answers": [],
     "lemma": "あいています",
-    "reading": "",
     "meaning": "a seat is available in the cafeteria",
     "audio": "work/audio/ja-JP/01/ja-01-590.mp3"
   },
@@ -6777,7 +6631,6 @@
     "answer": "まだきょうしつにいない",
     "accepted_answers": [],
     "lemma": "いない",
-    "reading": "",
     "meaning": "Hey, the teacher isn’t in the classroom yet.",
     "audio": "work/audio/ja-JP/01/ja-01-616.mp3"
   },
@@ -6997,7 +6850,6 @@
     "answer": "だいじょうぶだよ",
     "accepted_answers": [],
     "lemma": "だいじょうぶだよ",
-    "reading": "",
     "meaning": "Ten o’clock is fine, bro.",
     "audio": "work/audio/ja-JP/01/ja-01-636.mp3"
   },
@@ -7008,7 +6860,6 @@
     "answer": "そうだね",
     "accepted_answers": [],
     "lemma": "そうだね",
-    "reading": "",
     "meaning": "Yeah, that’s right.",
     "audio": "work/audio/ja-JP/01/ja-01-637.mp3"
   },
@@ -7019,7 +6870,6 @@
     "answer": "ほんとう",
     "accepted_answers": [],
     "lemma": "ほんとう",
-    "reading": "",
     "meaning": "Bro, is that story true?",
     "audio": "work/audio/ja-JP/01/ja-01-638.mp3"
   },
@@ -7140,7 +6990,6 @@
     "answer": "した",
     "accepted_answers": [],
     "lemma": "した",
-    "reading": "",
     "meaning": "I cleaned the room this morning.",
     "audio": "work/audio/ja-JP/01/ja-01-649.mp3"
   },
@@ -7151,7 +7000,6 @@
     "answer": "しなかった",
     "accepted_answers": [],
     "lemma": "しなかった",
-    "reading": "",
     "meaning": "I didn't play any games today.",
     "audio": "work/audio/ja-JP/01/ja-01-650.mp3"
   },
@@ -7184,7 +7032,6 @@
     "answer": "あった",
     "accepted_answers": [],
     "lemma": "あった",
-    "reading": "",
     "meaning": "The key was under the desk.",
     "audio": "work/audio/ja-JP/01/ja-01-653.mp3"
   },
@@ -7195,7 +7042,6 @@
     "answer": "なかった",
     "accepted_answers": [],
     "lemma": "なかった",
-    "reading": "",
     "meaning": "There wasn't a convenience store near the station.",
     "audio": "work/audio/ja-JP/01/ja-01-654.mp3"
   },
@@ -7206,7 +7052,6 @@
     "answer": "いた",
     "accepted_answers": [],
     "lemma": "いた",
-    "reading": "",
     "meaning": "Mom was here until a little while ago too.",
     "audio": "work/audio/ja-JP/01/ja-01-655.mp3"
   },
@@ -7217,7 +7062,6 @@
     "answer": "いなかった",
     "accepted_answers": [],
     "lemma": "いなかった",
-    "reading": "",
     "meaning": "The teacher wasn't at school at lunchtime.",
     "audio": "work/audio/ja-JP/01/ja-01-656.mp3"
   },
@@ -7316,7 +7160,6 @@
     "answer": "しずかだった",
     "accepted_answers": [],
     "lemma": "しずかだった",
-    "reading": "",
     "meaning": "The sea was quiet this morning, wasn't it?",
     "audio": "work/audio/ja-JP/01/ja-01-665.mp3"
   },
@@ -7327,7 +7170,6 @@
     "answer": "しずかじゃなかった",
     "accepted_answers": [],
     "lemma": "しずかじゃなかった",
-    "reading": "",
     "meaning": "That cafe wasn't quiet, was it?",
     "audio": "work/audio/ja-JP/01/ja-01-666.mp3"
   },
@@ -7415,7 +7257,6 @@
     "answer": "まだおわらなかった",
     "accepted_answers": [],
     "lemma": "まだおわらなかった",
-    "reading": "",
     "meaning": "My homework still wasn't finished yesterday.",
     "audio": "work/audio/ja-JP/01/ja-01-674.mp3"
   },
@@ -7437,7 +7278,6 @@
     "answer": "よかった",
     "accepted_answers": [],
     "lemma": "よかった",
-    "reading": "",
     "meaning": "The weather was nice today too, wasn't it?",
     "audio": "work/audio/ja-JP/01/ja-01-676.mp3"
   },
@@ -7448,7 +7288,6 @@
     "answer": "たいへんだった",
     "accepted_answers": [],
     "lemma": "たいへんだった",
-    "reading": "",
     "meaning": "Work was tough today, wasn't it?",
     "audio": "work/audio/ja-JP/01/ja-01-677.mp3"
   },
@@ -7459,7 +7298,6 @@
     "answer": "そうだったね",
     "accepted_answers": [],
     "lemma": "そうだったね",
-    "reading": "",
     "meaning": "Yeah, it was like that before too, wasn't it?",
     "audio": "work/audio/ja-JP/01/ja-01-678.mp3"
   },
@@ -7470,7 +7308,6 @@
     "answer": "ほんとうだった",
     "accepted_answers": [],
     "lemma": "ほんとうだった",
-    "reading": "",
     "meaning": "That story was true.",
     "audio": "work/audio/ja-JP/01/ja-01-679.mp3"
   },
@@ -7481,7 +7318,6 @@
     "answer": "どうだった",
     "accepted_answers": [],
     "lemma": "どうだった",
-    "reading": "",
     "meaning": "How was the trip with your family?",
     "audio": "work/audio/ja-JP/01/ja-01-680.mp3"
   },
@@ -7800,7 +7636,6 @@
     "answer": "ニュース",
     "accepted_answers": [],
     "lemma": "ニュース",
-    "reading": "",
     "meaning": "I watched the morning news on television.",
     "audio": "work/audio/ja-JP/01/ja-01-709.mp3"
   },
@@ -7811,7 +7646,6 @@
     "answer": "いけん",
     "accepted_answers": [],
     "lemma": "いけん",
-    "reading": "",
     "meaning": "I will now ask everyone for their opinions.",
     "audio": "work/audio/ja-JP/01/ja-01-710.mp3"
   },
@@ -7822,7 +7656,6 @@
     "answer": "かんがえ",
     "accepted_answers": [],
     "lemma": "かんがえ",
-    "reading": "",
     "meaning": "I have a good idea for the trip.",
     "audio": "work/audio/ja-JP/01/ja-01-711.mp3"
   },
@@ -7833,7 +7666,6 @@
     "answer": "ほんとうですか",
     "accepted_answers": [],
     "lemma": "ほんとう",
-    "reading": "",
     "meaning": "Is that news true?",
     "audio": "work/audio/ja-JP/01/ja-01-712.mp3"
   },
@@ -7844,7 +7676,6 @@
     "answer": "うそ",
     "accepted_answers": [],
     "lemma": "うそ",
-    "reading": "",
     "meaning": "That story was a lie.",
     "audio": "work/audio/ja-JP/01/ja-01-713.mp3"
   },
@@ -7855,7 +7686,6 @@
     "answer": "たぶん",
     "accepted_answers": [],
     "lemma": "たぶん",
-    "reading": "",
     "meaning": "My friend will probably come in the afternoon.",
     "audio": "work/audio/ja-JP/01/ja-01-714.mp3"
   },
@@ -7866,7 +7696,6 @@
     "answer": "きっと",
     "accepted_answers": [],
     "lemma": "きっと",
-    "reading": "",
     "meaning": "I am sure the weather will be good tomorrow.",
     "audio": "work/audio/ja-JP/01/ja-01-715.mp3"
   },
@@ -7888,7 +7717,6 @@
     "answer": "ちがう",
     "accepted_answers": [],
     "lemma": "ちがう",
-    "reading": "",
     "meaning": "I think these two answers are slightly different.",
     "audio": "work/audio/ja-JP/01/ja-01-717.mp3"
   },
@@ -7899,7 +7727,6 @@
     "answer": "さんせい",
     "accepted_answers": [],
     "lemma": "さんせい",
-    "reading": "",
     "meaning": "I support the school's new rule.",
     "audio": "work/audio/ja-JP/01/ja-01-718.mp3"
   },
@@ -7910,7 +7737,6 @@
     "answer": "はんたい",
     "accepted_answers": [],
     "lemma": "はんたい",
-    "reading": "",
     "meaning": "My father is opposed to that opinion.",
     "audio": "work/audio/ja-JP/01/ja-01-719.mp3"
   },
@@ -7921,7 +7747,6 @@
     "answer": "りゆう",
     "accepted_answers": [],
     "lemma": "りゆう",
-    "reading": "",
     "meaning": "I told the teacher why I would be absent from school.",
     "audio": "work/audio/ja-JP/01/ja-01-720.mp3"
   },
@@ -7987,7 +7812,6 @@
     "answer": "さんぽしませんか",
     "accepted_answers": [],
     "lemma": "さんぽしませんか",
-    "reading": "",
     "meaning": "Would you like to take a walk near the river tomorrow morning?",
     "audio": "work/audio/ja-JP/01/ja-01-726.mp3"
   },
@@ -8031,7 +7855,6 @@
     "answer": "はじめましょう",
     "accepted_answers": [],
     "lemma": "はじめましょう",
-    "reading": "",
     "meaning": "Let's open our books and begin.",
     "audio": "work/audio/ja-JP/01/ja-01-730.mp3"
   },
@@ -8053,7 +7876,6 @@
     "answer": "しゃしんをとりましょう",
     "accepted_answers": [],
     "lemma": "しゃしんをとりましょう",
-    "reading": "",
     "meaning": "Let's take pictures at the top of the mountain.",
     "audio": "work/audio/ja-JP/01/ja-01-732.mp3"
   },
@@ -8108,7 +7930,6 @@
     "answer": "てつだいましょうか",
     "accepted_answers": [],
     "lemma": "てつだいましょうか",
-    "reading": "",
     "meaning": "You're cleaning by yourself. Shall I help?",
     "audio": "work/audio/ja-JP/01/ja-01-737.mp3"
   },
@@ -8240,7 +8061,6 @@
     "answer": "ぜひ",
     "accepted_answers": [],
     "lemma": "ぜひ",
-    "reading": "",
     "meaning": "Would you like to go to the mountains? Yes, I'd love to.",
     "audio": "work/audio/ja-JP/01/ja-01-749.mp3"
   },
@@ -8251,7 +8071,6 @@
     "answer": "いいですね",
     "accepted_answers": [],
     "lemma": "いいですね",
-    "reading": "",
     "meaning": "Would you like to have a picnic on Sunday? That sounds nice.",
     "audio": "work/audio/ja-JP/01/ja-01-750.mp3"
   },
@@ -8262,7 +8081,6 @@
     "answer": "すみません、ちょっと",
     "accepted_answers": [],
     "lemma": "すみません、ちょっと",
-    "reading": "",
     "meaning": "Would you like to eat together tonight? I'm sorry, but tonight is difficult.",
     "audio": "work/audio/ja-JP/01/ja-01-751.mp3"
   },
@@ -8273,7 +8091,6 @@
     "answer": "またこんど",
     "accepted_answers": [],
     "lemma": "またこんど",
-    "reading": "",
     "meaning": "Today is a little difficult. Sorry—maybe another time.",
     "audio": "work/audio/ja-JP/01/ja-01-752.mp3"
   },
@@ -8284,7 +8101,6 @@
     "answer": "つごうがいい",
     "accepted_answers": [],
     "lemma": "つごうがいい",
-    "reading": "",
     "meaning": "Saturday afternoon works well for me.",
     "audio": "work/audio/ja-JP/01/ja-01-753.mp3"
   },
@@ -8295,7 +8111,6 @@
     "answer": "つごうがわるい",
     "accepted_answers": [],
     "lemma": "つごうがわるい",
-    "reading": "",
     "meaning": "Friday evening doesn't work for me.",
     "audio": "work/audio/ja-JP/01/ja-01-754.mp3"
   },
@@ -8306,7 +8121,6 @@
     "answer": "よていがある",
     "accepted_answers": [],
     "lemma": "よていがある",
-    "reading": "",
     "meaning": "Sorry, I have plans with my family on Sunday.",
     "audio": "work/audio/ja-JP/01/ja-01-755.mp3"
   },
@@ -8317,7 +8131,6 @@
     "answer": "あいている",
     "accepted_answers": [],
     "lemma": "あいている",
-    "reading": "",
     "meaning": "Mom, are you free tomorrow afternoon?",
     "audio": "work/audio/ja-JP/01/ja-01-756.mp3"
   },
@@ -8339,7 +8152,6 @@
     "answer": "どうですか",
     "accepted_answers": [],
     "lemma": "どうですか",
-    "reading": "",
     "meaning": "How about Saturday afternoon?",
     "audio": "work/audio/ja-JP/01/ja-01-758.mp3"
   },
@@ -8361,7 +8173,6 @@
     "answer": "いつがいいですか",
     "accepted_answers": [],
     "lemma": "いつがいいですか",
-    "reading": "",
     "meaning": "I'm free on Monday and Wednesday next week. Which day works for you?",
     "audio": "work/audio/ja-JP/01/ja-01-760.mp3"
   },
@@ -8526,7 +8337,6 @@
     "answer": "しょうらい",
     "accepted_answers": [],
     "lemma": "しょうらい",
-    "reading": "",
     "meaning": "In the future, I want to become a Japanese teacher.",
     "audio": "work/audio/ja-JP/01/ja-01-775.mp3"
   },
@@ -8537,7 +8347,6 @@
     "answer": "よていです",
     "accepted_answers": [],
     "lemma": "よてい",
-    "reading": "",
     "meaning": "Next month's trip is scheduled for the third through the fifth.",
     "audio": "work/audio/ja-JP/01/ja-01-776.mp3"
   },
@@ -8548,7 +8357,6 @@
     "answer": "けいかく",
     "accepted_answers": [],
     "lemma": "けいかく",
-    "reading": "",
     "meaning": "I wrote the travel plan in my notebook.",
     "audio": "work/audio/ja-JP/01/ja-01-777.mp3"
   },
@@ -8581,7 +8389,6 @@
     "answer": "こんど",
     "accepted_answers": [],
     "lemma": "こんど",
-    "reading": "",
     "meaning": "Next time, I am going to the mountains with a friend.",
     "audio": "work/audio/ja-JP/01/ja-01-780.mp3"
   },
@@ -8592,7 +8399,6 @@
     "answer": "つもりです",
     "accepted_answers": [],
     "lemma": "つもりです",
-    "reading": "",
     "meaning": "I intend to continue my current job.",
     "audio": "work/audio/ja-JP/01/ja-01-781.mp3"
   },
@@ -8658,7 +8464,6 @@
     "answer": "まだきめていません",
     "accepted_answers": [],
     "lemma": "まだきめていません",
-    "reading": "",
     "meaning": "I have not yet decided the date of my summer vacation trip.",
     "audio": "work/audio/ja-JP/01/ja-01-787.mp3"
   },
@@ -8669,7 +8474,6 @@
     "answer": "もうきめました",
     "accepted_answers": [],
     "lemma": "もうきめました",
-    "reading": "",
     "meaning": "I have already decided which company I will work for starting next month.",
     "audio": "work/audio/ja-JP/01/ja-01-788.mp3"
   },
@@ -8680,7 +8484,6 @@
     "answer": "かんがえています",
     "accepted_answers": [],
     "lemma": "かんがえています",
-    "reading": "",
     "meaning": "I am considering what work to do next year.",
     "audio": "work/audio/ja-JP/01/ja-01-789.mp3"
   },
@@ -8691,7 +8494,6 @@
     "answer": "よやくする",
     "accepted_answers": [],
     "lemma": "よやくする",
-    "reading": "",
     "meaning": "Sis, I will book the hotel today.",
     "audio": "work/audio/ja-JP/01/ja-01-790.mp3"
   },
@@ -8702,7 +8504,6 @@
     "answer": "じゅんびする",
     "accepted_answers": [],
     "lemma": "じゅんびする",
-    "reading": "",
     "meaning": "Mom, I will get my luggage ready for the trip soon.",
     "audio": "work/audio/ja-JP/01/ja-01-791.mp3"
   },
@@ -8713,7 +8514,6 @@
     "answer": "きめる",
     "accepted_answers": [],
     "lemma": "きめる",
-    "reading": "",
     "meaning": "Dad, I will decide tonight which day to go.",
     "audio": "work/audio/ja-JP/01/ja-01-792.mp3"
   },
@@ -8724,7 +8524,6 @@
     "answer": "えらぶ",
     "accepted_answers": [],
     "lemma": "えらぶ",
-    "reading": "",
     "meaning": "Sis, I will choose one from these three.",
     "audio": "work/audio/ja-JP/01/ja-01-793.mp3"
   },
@@ -8735,7 +8534,6 @@
     "answer": "さがす",
     "accepted_answers": [],
     "lemma": "さがす",
-    "reading": "",
     "meaning": "Dad, I will look for a new job near the station.",
     "audio": "work/audio/ja-JP/01/ja-01-794.mp3"
   },
@@ -8757,7 +8555,6 @@
     "answer": "ほしい",
     "accepted_answers": [],
     "lemma": "ほしい",
-    "reading": "",
     "meaning": "I want a new computer to use for work.",
     "audio": "work/audio/ja-JP/01/ja-01-796.mp3"
   },
@@ -8790,7 +8587,6 @@
     "answer": "やりたいこと",
     "accepted_answers": [],
     "lemma": "やりたいこと",
-    "reading": "",
     "meaning": "I wrote in my notebook what I want to do on my day off.",
     "audio": "work/audio/ja-JP/01/ja-01-799.mp3"
   },
@@ -8801,7 +8597,6 @@
     "answer": "ゆめ",
     "accepted_answers": [],
     "lemma": "ゆめ",
-    "reading": "",
     "meaning": "I want to become a Japanese teacher in the future. That is my dream.",
     "audio": "work/audio/ja-JP/01/ja-01-800.mp3"
   },
@@ -8834,7 +8629,6 @@
     "answer": "そうじしたりせんたくしたりする",
     "accepted_answers": [],
     "lemma": "そうじしたりせんたくしたりする",
-    "reading": "",
     "meaning": "On days off, my mother and I do things like clean and do laundry.",
     "audio": "work/audio/ja-JP/01/ja-01-803.mp3"
   },
@@ -8988,7 +8782,6 @@
     "answer": "とまったことがある",
     "accepted_answers": [],
     "lemma": "とまったことがある",
-    "reading": "",
     "meaning": "Bro, I have stayed near a hot spring.",
     "audio": "work/audio/ja-JP/01/ja-01-817.mp3"
   },
@@ -9032,7 +8825,6 @@
     "answer": "いちど",
     "accepted_answers": [],
     "lemma": "いちど",
-    "reading": "",
     "meaning": "I have been to Japan once.",
     "audio": "work/audio/ja-JP/01/ja-01-821.mp3"
   },
@@ -9043,7 +8835,6 @@
     "answer": "にど",
     "accepted_answers": [],
     "lemma": "にど",
-    "reading": "",
     "meaning": "I have been to that hot spring twice.",
     "audio": "work/audio/ja-JP/01/ja-01-822.mp3"
   },
@@ -9054,7 +8845,6 @@
     "answer": "なんど",
     "accepted_answers": [],
     "lemma": "なんど",
-    "reading": "",
     "meaning": "How many times have you seen Mount Fuji so far?",
     "audio": "work/audio/ja-JP/01/ja-01-823.mp3"
   },
@@ -9076,7 +8866,6 @@
     "answer": "まだいちども",
     "accepted_answers": [],
     "lemma": "まだいちども",
-    "reading": "",
     "meaning": "I have never been to a foreign country.",
     "audio": "work/audio/ja-JP/01/ja-01-825.mp3"
   },
@@ -9087,7 +8876,6 @@
     "answer": "ふじさん",
     "accepted_answers": [],
     "lemma": "ふじさん",
-    "reading": "",
     "meaning": "I have seen Mount Fuji from a bullet train.",
     "audio": "work/audio/ja-JP/01/ja-01-826.mp3"
   },
@@ -9098,7 +8886,6 @@
     "answer": "しんかんせん",
     "accepted_answers": [],
     "lemma": "しんかんせん",
-    "reading": "",
     "meaning": "Last year, I rode the bullet train for the first time.",
     "audio": "work/audio/ja-JP/01/ja-01-827.mp3"
   },
@@ -9109,7 +8896,6 @@
     "answer": "おんせん",
     "accepted_answers": [],
     "lemma": "おんせん",
-    "reading": "",
     "meaning": "I have bathed in this hot spring before too.",
     "audio": "work/audio/ja-JP/01/ja-01-828.mp3"
   },
@@ -9142,7 +8928,6 @@
     "answer": "けいけん",
     "accepted_answers": [],
     "lemma": "けいけん",
-    "reading": "",
     "meaning": "I have experience traveling abroad.",
     "audio": "work/audio/ja-JP/01/ja-01-831.mp3"
   },
@@ -9153,7 +8938,6 @@
     "answer": "はじめて",
     "accepted_answers": [],
     "lemma": "はじめて",
-    "reading": "",
     "meaning": "I rode the bullet train for the first time recently.",
     "audio": "work/audio/ja-JP/01/ja-01-832.mp3"
   },
@@ -9164,7 +8948,6 @@
     "answer": "きょねん",
     "accepted_answers": [],
     "lemma": "きょねん",
-    "reading": "",
     "meaning": "Last year, I went to a foreign country with my family.",
     "audio": "work/audio/ja-JP/01/ja-01-833.mp3"
   },
@@ -9186,7 +8969,6 @@
     "answer": "りょこうちゅう",
     "accepted_answers": [],
     "lemma": "りょこうちゅう",
-    "reading": "",
     "meaning": "During the trip, I bathed in three hot springs.",
     "audio": "work/audio/ja-JP/01/ja-01-835.mp3"
   },
@@ -9208,7 +8990,6 @@
     "answer": "どんなこと",
     "accepted_answers": [],
     "lemma": "どんなこと",
-    "reading": "",
     "meaning": "What kinds of things did you do in Japan?",
     "audio": "work/audio/ja-JP/01/ja-01-837.mp3"
   },
@@ -9219,7 +9000,6 @@
     "answer": "したこと",
     "accepted_answers": [],
     "lemma": "したこと",
-    "reading": "",
     "meaning": "Please tell me about what you did in Japan.",
     "audio": "work/audio/ja-JP/01/ja-01-838.mp3"
   },
@@ -9296,7 +9076,6 @@
     "answer": "どちらがいいですか",
     "accepted_answers": [],
     "lemma": "どちらがいいですか",
-    "reading": "",
     "meaning": "For the gift, which would be better, red or blue?",
     "audio": "work/audio/ja-JP/01/ja-01-845.mp3"
   },
@@ -9318,7 +9097,6 @@
     "answer": "いちばん",
     "accepted_answers": [],
     "lemma": "いちばん",
-    "reading": "",
     "meaning": "Of the four seasons, I like spring best.",
     "audio": "work/audio/ja-JP/01/ja-01-847.mp3"
   },
@@ -9351,7 +9129,6 @@
     "answer": "どこがいちばんにぎやかですか",
     "accepted_answers": [],
     "lemma": "どこがいちばんにぎやかですか",
-    "reading": "",
     "meaning": "Which place in this town is liveliest at night?",
     "audio": "work/audio/ja-JP/01/ja-01-850.mp3"
   },
@@ -9373,7 +9150,6 @@
     "answer": "もっと",
     "accepted_answers": [],
     "lemma": "もっと",
-    "reading": "",
     "meaning": "I cannot hear you well, so please speak louder.",
     "audio": "work/audio/ja-JP/01/ja-01-852.mp3"
   },
@@ -9395,7 +9171,6 @@
     "answer": "ずっと",
     "accepted_answers": [],
     "lemma": "ずっと",
-    "reading": "",
     "meaning": "The station is much farther away than the school.",
     "audio": "work/audio/ja-JP/01/ja-01-854.mp3"
   },
@@ -9428,7 +9203,6 @@
     "answer": "いちまい",
     "accepted_answers": [],
     "lemma": "いちまい",
-    "reading": "",
     "meaning": "Please show me one white shirt.",
     "audio": "work/audio/ja-JP/01/ja-01-857.mp3"
   },
@@ -9439,7 +9213,6 @@
     "answer": "いっさつ",
     "accepted_answers": [],
     "lemma": "いっさつ",
-    "reading": "",
     "meaning": "I will take one book to read on the train.",
     "audio": "work/audio/ja-JP/01/ja-01-858.mp3"
   },
@@ -9450,7 +9223,6 @@
     "answer": "いっぽん",
     "accepted_answers": [],
     "lemma": "いっぽん",
-    "reading": "",
     "meaning": "Before going to the mountain, I will buy one bottle of water.",
     "audio": "work/audio/ja-JP/01/ja-01-859.mp3"
   },
@@ -9461,7 +9233,6 @@
     "answer": "いちだい",
     "accepted_answers": [],
     "lemma": "いちだい",
-    "reading": "",
     "meaning": "We bought one car for our family to use.",
     "audio": "work/audio/ja-JP/01/ja-01-860.mp3"
   },
@@ -9472,7 +9243,6 @@
     "answer": "いっぴき",
     "accepted_answers": [],
     "lemma": "いっぴき",
-    "reading": "",
     "meaning": "I have one white cat at home.",
     "audio": "work/audio/ja-JP/01/ja-01-861.mp3"
   },
@@ -9483,7 +9253,6 @@
     "answer": "いっこ",
     "accepted_answers": [],
     "lemma": "いっこ",
-    "reading": "",
     "meaning": "I will put one apple in my packed lunch.",
     "audio": "work/audio/ja-JP/01/ja-01-862.mp3"
   },
@@ -9505,7 +9274,6 @@
     "answer": "いっちゃく",
     "accepted_answers": [],
     "lemma": "いっちゃく",
-    "reading": "",
     "meaning": "I am going somewhere cold, so I will take one jacket.",
     "audio": "work/audio/ja-JP/01/ja-01-864.mp3"
   },
@@ -9516,7 +9284,6 @@
     "answer": "いっそく",
     "accepted_answers": [],
     "lemma": "いっそく",
-    "reading": "",
     "meaning": "Before the trip, I will buy one pair of new shoes.",
     "audio": "work/audio/ja-JP/01/ja-01-865.mp3"
   },
@@ -9538,7 +9305,6 @@
     "answer": "なんまい",
     "accepted_answers": [],
     "lemma": "なんまい",
-    "reading": "",
     "meaning": "How many shirts will you take on the trip?",
     "audio": "work/audio/ja-JP/01/ja-01-867.mp3"
   },
@@ -9549,7 +9315,6 @@
     "answer": "なんぼん",
     "accepted_answers": [],
     "lemma": "なんぼん",
-    "reading": "",
     "meaning": "How many bottles of water should I buy for everyone?",
     "audio": "work/audio/ja-JP/01/ja-01-868.mp3"
   },
@@ -9560,7 +9325,6 @@
     "answer": "いくら",
     "accepted_answers": [],
     "lemma": "いくら",
-    "reading": "",
     "meaning": "How much is this black bag?",
     "audio": "work/audio/ja-JP/01/ja-01-869.mp3"
   },
@@ -9571,7 +9335,6 @@
     "answer": "いくつ",
     "accepted_answers": [],
     "lemma": "いくつ",
-    "reading": "",
     "meaning": "How many eggs are in the refrigerator?",
     "audio": "work/audio/ja-JP/01/ja-01-870.mp3"
   },
@@ -9637,7 +9400,6 @@
     "answer": "どのくらい",
     "accepted_answers": [],
     "lemma": "どのくらい",
-    "reading": "",
     "meaning": "How long does it take to get from here to the station?",
     "audio": "work/audio/ja-JP/01/ja-01-876.mp3"
   },
@@ -9670,7 +9432,6 @@
     "answer": "ぜんぶで",
     "accepted_answers": [],
     "lemma": "ぜんぶで",
-    "reading": "",
     "meaning": "These three items cost one thousand yen in total.",
     "audio": "work/audio/ja-JP/01/ja-01-879.mp3"
   },
@@ -9681,7 +9442,6 @@
     "answer": "しかありません",
     "accepted_answers": [],
     "lemma": "しかありません",
-    "reading": "",
     "meaning": "I have only one hundred yen in my wallet right now.",
     "audio": "work/audio/ja-JP/01/ja-01-880.mp3"
   },
@@ -9725,7 +9485,6 @@
     "answer": "どうしてですか",
     "accepted_answers": [],
     "lemma": "どうしてですか",
-    "reading": "",
     "meaning": "Are you taking the day off school today? Why?",
     "audio": "work/audio/ja-JP/01/ja-01-884.mp3"
   },
@@ -9780,7 +9539,6 @@
     "answer": "よていがあるんです",
     "accepted_answers": [],
     "lemma": "よていがあるんです",
-    "reading": "",
     "meaning": "I cannot go tonight. I already have plans.",
     "audio": "work/audio/ja-JP/01/ja-01-889.mp3"
   },
@@ -9813,7 +9571,6 @@
     "answer": "そうなんですか",
     "accepted_answers": [],
     "lemma": "そうなんですか",
-    "reading": "",
     "meaning": "I heard that there are no trains tomorrow. Is that true?",
     "audio": "work/audio/ja-JP/01/ja-01-892.mp3"
   },
@@ -9824,7 +9581,6 @@
     "answer": "じつは",
     "accepted_answers": [],
     "lemma": "じつは",
-    "reading": "",
     "meaning": "Actually, I am going to Japan next month.",
     "audio": "work/audio/ja-JP/01/ja-01-893.mp3"
   },
@@ -9835,7 +9591,6 @@
     "answer": "それで",
     "accepted_answers": [],
     "lemma": "それで",
-    "reading": "",
     "meaning": "The train did not come, so I came by bus.",
     "audio": "work/audio/ja-JP/01/ja-01-894.mp3"
   },
@@ -9846,7 +9601,6 @@
     "answer": "だから",
     "accepted_answers": [],
     "lemma": "だから",
-    "reading": "",
     "meaning": "I have an exam tomorrow, so I will study tonight.",
     "audio": "work/audio/ja-JP/01/ja-01-895.mp3"
   },
@@ -9879,7 +9633,6 @@
     "answer": "このもんだい",
     "accepted_answers": [],
     "lemma": "もんだい",
-    "reading": "",
     "meaning": "I still do not understand this problem.",
     "audio": "work/audio/ja-JP/01/ja-01-898.mp3"
   },
@@ -9934,7 +9687,6 @@
     "answer": "パソコンがこわれました",
     "accepted_answers": [],
     "lemma": "こわれる",
-    "reading": "",
     "meaning": "My computer suddenly broke.",
     "audio": "work/audio/ja-JP/01/ja-01-903.mp3"
   },
@@ -9956,7 +9708,6 @@
     "answer": "しんぱいです",
     "accepted_answers": [],
     "lemma": "しんぱい",
-    "reading": "",
     "meaning": "My mother is going on a trip alone. I am worried.",
     "audio": "work/audio/ja-JP/01/ja-01-905.mp3"
   },
@@ -10077,7 +9828,6 @@
     "answer": "できれば",
     "accepted_answers": [],
     "lemma": "できれば",
-    "reading": "",
     "meaning": "If possible, please come at nine in the morning.",
     "audio": "work/audio/ja-JP/01/ja-01-916.mp3"
   },
@@ -10088,7 +9838,6 @@
     "answer": "たぶんだいじょうぶです",
     "accepted_answers": [],
     "lemma": "たぶんだいじょうぶです",
-    "reading": "",
     "meaning": "We still have time, so it will probably be okay.",
     "audio": "work/audio/ja-JP/01/ja-01-917.mp3"
   },
@@ -10110,7 +9859,6 @@
     "answer": "どうしたらいいですか",
     "accepted_answers": [],
     "lemma": "どうしたらいいですか",
-    "reading": "",
     "meaning": "I lost my key. What should I do?",
     "audio": "work/audio/ja-JP/01/ja-01-919.mp3"
   },
@@ -10121,7 +9869,6 @@
     "answer": "それはたいへんですね",
     "accepted_answers": [],
     "lemma": "それはたいへんですね",
-    "reading": "",
     "meaning": "Is the train an hour late? That is tough.",
     "audio": "work/audio/ja-JP/01/ja-01-920.mp3"
   },
@@ -10286,7 +10033,6 @@
     "answer": "いしゃにそうだんします",
     "accepted_answers": [],
     "lemma": "いしゃ",
-    "reading": "",
     "meaning": "I will consult a doctor about my cough.",
     "audio": "work/audio/ja-JP/01/ja-01-935.mp3"
   },
@@ -10330,7 +10076,6 @@
     "answer": "せきがつづいています",
     "accepted_answers": [],
     "lemma": "せき",
-    "reading": "",
     "meaning": "I have had a cough for three days.",
     "audio": "work/audio/ja-JP/01/ja-01-939.mp3"
   },
@@ -10341,7 +10086,6 @@
     "answer": "たまごのアレルギー",
     "accepted_answers": [],
     "lemma": "アレルギー",
-    "reading": "",
     "meaning": "I have an egg allergy.",
     "audio": "work/audio/ja-JP/01/ja-01-940.mp3"
   },
@@ -10429,7 +10173,6 @@
     "answer": "いしゃにみてもらいます",
     "accepted_answers": [],
     "lemma": "いしゃにみてもらう",
-    "reading": "",
     "meaning": "I will see a doctor at the hospital today.",
     "audio": "work/audio/ja-JP/01/ja-01-948.mp3"
   },
@@ -10473,7 +10216,6 @@
     "answer": "しんぱいしないでください",
     "accepted_answers": [],
     "lemma": "しんぱいしないでください",
-    "reading": "",
     "meaning": "I am here, so please do not worry.",
     "audio": "work/audio/ja-JP/01/ja-01-952.mp3"
   },
@@ -10495,7 +10237,6 @@
     "answer": "さわらないでください",
     "accepted_answers": [],
     "lemma": "さわらないでください",
-    "reading": "",
     "meaning": "I have an injury on my right hand. Please do not touch it.",
     "audio": "work/audio/ja-JP/01/ja-01-954.mp3"
   },
@@ -10528,7 +10269,6 @@
     "answer": "きゅうきゅうしゃをよんでください",
     "accepted_answers": [],
     "lemma": "きゅうきゅうしゃ",
-    "reading": "",
     "meaning": "Someone has collapsed. Please call an ambulance.",
     "audio": "work/audio/ja-JP/01/ja-01-957.mp3"
   },
@@ -10568,441 +10308,432 @@
   {
     "id": "ja-01-961",
     "sentence": "はじめまして。山本です。とうきょうの会社で働いています。",
-    "cloze": "はじめまして。山本です。とうきょうの会社で働いています",
-    "answer": "はじめまして。山本です。とうきょうの会社で働いています",
+    "cloze": "山本です",
+    "answer": "山本です",
     "accepted_answers": [],
     "lemma": "じこしょうかい",
-    "reading": "はじめまして。やまもとです。とうきょうのかいしゃではたらいています",
-    "meaning": "Nice to meet you. I’m Yamamoto. I work at a company in Tokyo.",
+    "reading": "やまもとです",
+    "meaning": "I’m Yamamoto",
     "audio": "work/audio/ja-JP/01/ja-01-961.mp3"
   },
   {
     "id": "ja-01-962",
     "sentence": "先生、家族は父と母と妹と私です。",
-    "cloze": "先生、家族は父と母と妹と私です",
-    "answer": "先生、家族は父と母と妹と私です",
+    "cloze": "父と母と妹と私",
+    "answer": "父と母と妹と私",
     "accepted_answers": [],
     "lemma": "家族について話す",
-    "reading": "せんせい、かぞくはちちとははといもうととわたしです",
-    "meaning": "My family is my father, mother, younger sister, and me.",
+    "reading": "ちちとははといもうととわたし",
+    "meaning": "my father, mother, younger sister, and me",
     "audio": "work/audio/ja-JP/01/ja-01-962.mp3"
   },
   {
     "id": "ja-01-963",
     "sentence": "先生、今日は午前に勉強して、午後は働きます。",
-    "cloze": "先生、今日は午前に勉強して、午後は働きます",
-    "answer": "先生、今日は午前に勉強して、午後は働きます",
+    "cloze": "午前に勉強して",
+    "answer": "午前に勉強して",
     "accepted_answers": [],
     "lemma": "一日のよてい",
-    "reading": "せんせい、きょうはごぜんにべんきょうして、ごごははたらきます",
-    "meaning": "Today I’ll study in the morning and work in the afternoon.",
+    "reading": "ごぜんにべんきょうして",
+    "meaning": "study in the morning, then",
     "audio": "work/audio/ja-JP/01/ja-01-963.mp3"
   },
   {
     "id": "ja-01-964",
     "sentence": "土曜日は海へ行って、日曜日は家で休むよ。",
-    "cloze": "土曜日は海へ行って、日曜日は家で休むよ",
-    "answer": "土曜日は海へ行って、日曜日は家で休むよ",
+    "cloze": "日曜日は家で休むよ",
+    "answer": "日曜日は家で休むよ",
     "accepted_answers": [],
     "lemma": "しゅうまつのよてい",
-    "reading": "どようびはうみへいって、にちようびはいえでやすむよ",
-    "meaning": "I’ll go to the beach on Saturday and rest at home on Sunday.",
+    "reading": "にちようびはいえでやすむよ",
+    "meaning": "I’ll rest at home on Sunday",
     "audio": "work/audio/ja-JP/01/ja-01-964.mp3"
   },
   {
     "id": "ja-01-965",
     "sentence": "日曜日、いっしょに山へ行かない。",
-    "cloze": "日曜日、いっしょに山へ行かない",
-    "answer": "日曜日、いっしょに山へ行かない",
+    "cloze": "山へ行かない",
+    "answer": "山へ行かない",
     "accepted_answers": [],
     "lemma": "友だちをさそう",
-    "reading": "にちようび、いっしょにやまへいかない",
-    "meaning": "Want to go to the mountains together on Sunday?",
+    "reading": "やまへいかない",
+    "meaning": "want to go to the mountains?",
     "audio": "work/audio/ja-JP/01/ja-01-965.mp3"
   },
   {
     "id": "ja-01-966",
     "sentence": "いいね。ぜひいっしょに行こう。",
-    "cloze": "いいね。ぜひいっしょに行こう",
-    "answer": "いいね。ぜひいっしょに行こう",
+    "cloze": "ぜひいっしょに行こう",
+    "answer": "ぜひいっしょに行こう",
     "accepted_answers": [],
     "lemma": "さそいをうける",
-    "reading": "いいね。ぜひいっしょにいこう",
-    "meaning": "Sounds good. Let’s definitely go together.",
+    "reading": "ぜひいっしょにいこう",
+    "meaning": "let’s definitely go together",
     "audio": "work/audio/ja-JP/01/ja-01-966.mp3"
   },
   {
     "id": "ja-01-967",
     "sentence": "ごめん、その日は家族と出かけるんだ。",
-    "cloze": "ごめん、その日は家族と出かけるんだ",
-    "answer": "ごめん、その日は家族と出かけるんだ",
+    "cloze": "出かけるんだ",
+    "answer": "出かけるんだ",
     "accepted_answers": [],
     "lemma": "さそいをことわる",
-    "reading": "ごめん、そのひはかぞくとでかけるんだ",
-    "meaning": "Sorry, I’m going out with my family that day.",
+    "reading": "でかけるんだ",
+    "meaning": "I’m going out (casual explanation)",
     "audio": "work/audio/ja-JP/01/ja-01-967.mp3"
   },
   {
     "id": "ja-01-968",
     "sentence": "土曜日の十時に駅の前で会おう。",
-    "cloze": "土曜日の十時に駅の前で会おう",
-    "answer": "土曜日の十時に駅の前で会おう",
+    "cloze": "駅の前で会おう",
+    "answer": "駅の前で会おう",
     "accepted_answers": [],
     "lemma": "まちあわせをきめる",
-    "reading": "どようびのじゅうじにえきのまえであおう",
-    "meaning": "Let’s meet in front of the station at ten on Saturday.",
+    "reading": "えきのまえであおう",
+    "meaning": "let’s meet in front of the station",
     "audio": "work/audio/ja-JP/01/ja-01-968.mp3"
   },
   {
     "id": "ja-01-969",
     "sentence": "すみません、この青いシャツは大きいサイズもありますか。",
-    "cloze": "すみません、この青いシャツは大きいサイズもありますか",
-    "answer": "すみません、この青いシャツは大きいサイズもありますか",
+    "cloze": "大きいサイズもありますか",
+    "answer": "大きいサイズもありますか",
     "accepted_answers": [],
     "lemma": "店員にしつもんする",
-    "reading": "すみません、このあおいシャツはおおきいサイズもありますか",
-    "meaning": "Excuse me, do you also have this blue shirt in a large size?",
+    "reading": "おおきいサイズもありますか",
+    "meaning": "do you also have a large size?",
     "audio": "work/audio/ja-JP/01/ja-01-969.mp3"
   },
   {
     "id": "ja-01-970",
     "sentence": "すみません、白いシャツと青いシャツでは、どちらが安いですか。",
-    "cloze": "すみません、白いシャツと青いシャツでは、どちらが安いですか",
-    "answer": "すみません、白いシャツと青いシャツでは、どちらが安いですか",
+    "cloze": "どちらが安いですか",
+    "answer": "どちらが安いですか",
     "accepted_answers": [],
     "lemma": "しょうひんをくらべる",
-    "reading": "すみません、しろいシャツとあおいシャツでは、どちらがやすいですか",
-    "meaning": "Excuse me, which is cheaper, the white shirt or the blue shirt?",
+    "reading": "どちらがやすいですか",
+    "meaning": "which is cheaper?",
     "audio": "work/audio/ja-JP/01/ja-01-970.mp3"
   },
   {
     "id": "ja-01-971",
     "sentence": "もしもし、今夜七時に二人でよやくしたいです。",
-    "cloze": "もしもし、今夜七時に二人でよやくしたいです",
-    "answer": "もしもし、今夜七時に二人でよやくしたいです",
+    "cloze": "よやくしたいです",
+    "answer": "よやくしたいです",
     "accepted_answers": [],
     "lemma": "レストランをよやくする",
-    "reading": "もしもし、こんやしちじにふたりでよやくしたいです",
-    "meaning": "Hello, I’d like to make a reservation for two at seven tonight.",
+    "meaning": "I’d like to make a reservation",
     "audio": "work/audio/ja-JP/01/ja-01-971.mp3"
   },
   {
     "id": "ja-01-972",
     "sentence": "すみません、注文を魚の料理にかえてください。",
-    "cloze": "すみません、注文を魚の料理にかえてください",
-    "answer": "すみません、注文を魚の料理にかえてください",
+    "cloze": "魚の料理にかえてください",
+    "answer": "魚の料理にかえてください",
     "accepted_answers": [],
     "lemma": "注文をかえる",
-    "reading": "すみません、ちゅうもんをさかなのりょうりにかえてください",
-    "meaning": "Excuse me, please change my order to the fish dish.",
+    "reading": "さかなのりょうりにかえてください",
+    "meaning": "please change it to the fish dish",
     "audio": "work/audio/ja-JP/01/ja-01-972.mp3"
   },
   {
     "id": "ja-01-973",
     "sentence": "すみません、駅へはこの道でいいですか。",
-    "cloze": "すみません、駅へはこの道でいいですか",
-    "answer": "すみません、駅へはこの道でいいですか",
+    "cloze": "この道でいいですか",
+    "answer": "この道でいいですか",
     "accepted_answers": [],
     "lemma": "道をかくにんする",
-    "reading": "すみません、えきへはこのみちでいいですか",
-    "meaning": "Excuse me, is this the right road to the station?",
+    "reading": "このみちでいいですか",
+    "meaning": "is this the right road?",
     "audio": "work/audio/ja-JP/01/ja-01-973.mp3"
   },
   {
     "id": "ja-01-974",
     "sentence": "すみません、とうきょうまでのきっぷをにまいおねがいします。",
-    "cloze": "すみません、とうきょうまでのきっぷをにまいおねがいします",
-    "answer": "すみません、とうきょうまでのきっぷをにまいおねがいします",
+    "cloze": "にまいおねがいします",
+    "answer": "にまいおねがいします",
     "accepted_answers": [],
     "lemma": "きっぷを買う",
-    "reading": "",
-    "meaning": "Excuse me, two tickets to Tokyo, please.",
+    "meaning": "two, please",
     "audio": "work/audio/ja-JP/01/ja-01-974.mp3"
   },
   {
     "id": "ja-01-975",
     "sentence": "すみません、今夜から二日間とまりたいです。",
-    "cloze": "すみません、今夜から二日間とまりたいです",
-    "answer": "すみません、今夜から二日間とまりたいです",
+    "cloze": "二日間とまりたいです",
+    "answer": "二日間とまりたいです",
     "accepted_answers": [],
     "lemma": "ホテルにとまる",
-    "reading": "すみません、こんやからふつかかんとまりたいです",
-    "meaning": "Excuse me, I’d like to stay for two days starting tonight.",
+    "reading": "ふつかかんとまりたいです",
+    "meaning": "I’d like to stay for two days",
     "audio": "work/audio/ja-JP/01/ja-01-975.mp3"
   },
   {
     "id": "ja-01-976",
     "sentence": "先生、きょうとへ行って、おてらを見たり日本料理を食べたりしました。",
-    "cloze": "先生、きょうとへ行って、おてらを見たり日本料理を食べたりしました",
-    "answer": "先生、きょうとへ行って、おてらを見たり日本料理を食べたりしました",
+    "cloze": "食べたりしました",
+    "answer": "食べたりしました",
     "accepted_answers": [],
     "lemma": "旅行をせつめいする",
-    "reading": "せんせい、きょうとへいって、おてらをみたりにほんりょうりをたべたりしました",
-    "meaning": "I went to Kyoto, visited temples, and ate Japanese food.",
+    "reading": "たべたりしました",
+    "meaning": "did things such as eating",
     "audio": "work/audio/ja-JP/01/ja-01-976.mp3"
   },
   {
     "id": "ja-01-977",
     "sentence": "きのう駅で先生に会って、いっしょにお茶を飲んだよ。",
-    "cloze": "きのう駅で先生に会って、いっしょにお茶を飲んだよ",
-    "answer": "きのう駅で先生に会って、いっしょにお茶を飲んだよ",
+    "cloze": "お茶を飲んだよ",
+    "answer": "お茶を飲んだよ",
     "accepted_answers": [],
     "lemma": "かこのできごと",
-    "reading": "きのうえきでせんせいにあって、いっしょにおちゃをのんだよ",
-    "meaning": "Yesterday I met my teacher at the station, and we had tea together.",
+    "reading": "おちゃをのんだよ",
+    "meaning": "we had tea (casual)",
     "audio": "work/audio/ja-JP/01/ja-01-977.mp3"
   },
   {
     "id": "ja-01-978",
     "sentence": "先生、外国で働いたことがありますか。",
-    "cloze": "先生、外国で働いたことがありますか",
-    "answer": "先生、外国で働いたことがありますか",
+    "cloze": "働いたことがありますか",
+    "answer": "働いたことがありますか",
     "accepted_answers": [],
     "lemma": "けいけんをたずねる",
-    "reading": "せんせい、がいこくではたらいたことがありますか",
-    "meaning": "Have you ever worked abroad?",
+    "reading": "はたらいたことがありますか",
+    "meaning": "have you ever worked?",
     "audio": "work/audio/ja-JP/01/ja-01-978.mp3"
   },
   {
     "id": "ja-01-979",
     "sentence": "えいがを見るより、本を読むほうが好きだよ。",
-    "cloze": "えいがを見るより、本を読むほうが好きだよ",
-    "answer": "えいがを見るより、本を読むほうが好きだよ",
+    "cloze": "本を読むほうが好きだよ",
+    "answer": "本を読むほうが好きだよ",
     "accepted_answers": [],
     "lemma": "しゅみをくらべる",
-    "reading": "えいがをみるより、ほんをよむほうがすきだよ",
-    "meaning": "I like reading books more than watching movies.",
+    "reading": "ほんをよむほうがすきだよ",
+    "meaning": "I prefer reading books",
     "audio": "work/audio/ja-JP/01/ja-01-979.mp3"
   },
   {
     "id": "ja-01-980",
     "sentence": "今日は朝から雨で、少し寒いですね。",
-    "cloze": "今日は朝から雨で、少し寒いですね",
-    "answer": "今日は朝から雨で、少し寒いですね",
+    "cloze": "少し寒いですね",
+    "answer": "少し寒いですね",
     "accepted_answers": [],
     "lemma": "天気の話",
-    "reading": "きょうはあさからあめで、すこしさむいですね",
-    "meaning": "It’s been rainy since this morning, and it’s a little cold, isn’t it?",
+    "reading": "すこしさむいですね",
+    "meaning": "it’s a little cold, isn’t it?",
     "audio": "work/audio/ja-JP/01/ja-01-980.mp3"
   },
   {
     "id": "ja-01-981",
     "sentence": "先生、きのうから頭が痛くて、少し熱もあります。",
-    "cloze": "先生、きのうから頭が痛くて、少し熱もあります",
-    "answer": "先生、きのうから頭が痛くて、少し熱もあります",
+    "cloze": "少し熱もあります",
+    "answer": "少し熱もあります",
     "accepted_answers": [],
     "lemma": "たいちょうをせつめいする",
-    "reading": "せんせい、きのうからあたまがいたくて、すこしねつもあります",
-    "meaning": "I’ve had a headache since yesterday, and I also have a slight fever.",
+    "reading": "すこしねつもあります",
+    "meaning": "I also have a slight fever",
     "audio": "work/audio/ja-JP/01/ja-01-981.mp3"
   },
   {
     "id": "ja-01-982",
     "sentence": "先生、のどが痛いんですが、どうしたらいいですか。",
-    "cloze": "先生、のどが痛いんですが、どうしたらいいですか",
-    "answer": "先生、のどが痛いんですが、どうしたらいいですか",
+    "cloze": "のどが痛いんですが",
+    "answer": "のどが痛いんですが",
     "accepted_answers": [],
     "lemma": "助言をもとめる",
-    "reading": "せんせい、のどがいたいんですが、どうしたらいいですか",
-    "meaning": "My throat hurts. What should I do?",
+    "reading": "のどがいたいんですが",
+    "meaning": "my throat hurts, so…",
     "audio": "work/audio/ja-JP/01/ja-01-982.mp3"
   },
   {
     "id": "ja-01-983",
     "sentence": "先生、電車が遅れて、学校に遅れました。すみません。",
-    "cloze": "先生、電車が遅れて、学校に遅れました。すみません",
-    "answer": "先生、電車が遅れて、学校に遅れました。すみません",
+    "cloze": "電車が遅れて",
+    "answer": "電車が遅れて",
     "accepted_answers": [],
     "lemma": "りゆうをせつめいする",
-    "reading": "せんせい、でんしゃがおくれて、がっこうにおくれました。すみません",
-    "meaning": "My train was delayed, so I’m late. I’m sorry.",
+    "reading": "でんしゃがおくれて",
+    "meaning": "because the train was delayed",
     "audio": "work/audio/ja-JP/01/ja-01-983.mp3"
   },
   {
     "id": "ja-01-984",
     "sentence": "先生、この本はかんたんで、読みやすいと思います。",
-    "cloze": "先生、この本はかんたんで、読みやすいと思います",
-    "answer": "先生、この本はかんたんで、読みやすいと思います",
+    "cloze": "と思います",
+    "answer": "と思います",
     "accepted_answers": [],
     "lemma": "いけんを言う",
-    "reading": "せんせい、このほんはかんたんで、よみやすいとおもいます",
-    "meaning": "I think this book is simple and easy to read.",
+    "reading": "とおもいます",
+    "meaning": "I think",
     "audio": "work/audio/ja-JP/01/ja-01-984.mp3"
   },
   {
     "id": "ja-01-985",
     "sentence": "先生、山本さんはこのえいががおもしろいと言っていました。",
-    "cloze": "先生、山本さんはこのえいががおもしろいと言っていました",
-    "answer": "先生、山本さんはこのえいががおもしろいと言っていました",
+    "cloze": "おもしろいと言っていました",
+    "answer": "おもしろいと言っていました",
     "accepted_answers": [],
     "lemma": "人のいけんをほうこくする",
-    "reading": "せんせい、やまもとさんはこのえいががおもしろいといっていました",
-    "meaning": "Yamamoto said this movie was interesting.",
+    "reading": "おもしろいといっていました",
+    "meaning": "said it was interesting",
     "audio": "work/audio/ja-JP/01/ja-01-985.mp3"
   },
   {
     "id": "ja-01-986",
     "sentence": "先生、この本を家へ持って帰ってもいいですか。",
-    "cloze": "先生、この本を家へ持って帰ってもいいですか",
-    "answer": "先生、この本を家へ持って帰ってもいいですか",
+    "cloze": "持って帰ってもいいですか",
+    "answer": "持って帰ってもいいですか",
     "accepted_answers": [],
     "lemma": "きょかをもとめる",
-    "reading": "せんせい、このほんをいえへもってかえってもいいですか",
-    "meaning": "May I take this book home?",
+    "reading": "もってかえってもいいですか",
+    "meaning": "may I take it home?",
     "audio": "work/audio/ja-JP/01/ja-01-986.mp3"
   },
   {
     "id": "ja-01-987",
     "sentence": "みなさん、テストの間は本を見ないでください。",
-    "cloze": "みなさん、テストの間は本を見ないでください",
-    "answer": "みなさん、テストの間は本を見ないでください",
+    "cloze": "本を見ないでください",
+    "answer": "本を見ないでください",
     "accepted_answers": [],
     "lemma": "きんしをつたえる",
-    "reading": "みなさん、テストのあいだはほんをみないでください",
-    "meaning": "Everyone, please do not look at your books during the test.",
+    "reading": "ほんをみないでください",
+    "meaning": "please do not look at your books",
     "audio": "work/audio/ja-JP/01/ja-01-987.mp3"
   },
   {
     "id": "ja-01-988",
     "sentence": "すみません、その大きいかばんを持ちましょうか。",
-    "cloze": "すみません、その大きいかばんを持ちましょうか",
-    "answer": "すみません、その大きいかばんを持ちましょうか",
+    "cloze": "かばんを持ちましょうか",
+    "answer": "かばんを持ちましょうか",
     "accepted_answers": [],
     "lemma": "てつだいをもうしでる",
-    "reading": "すみません、そのおおきいかばんをもちましょうか",
-    "meaning": "Excuse me, shall I carry that large bag?",
+    "reading": "かばんをもちましょうか",
+    "meaning": "shall I carry the bag?",
     "audio": "work/audio/ja-JP/01/ja-01-988.mp3"
   },
   {
     "id": "ja-01-989",
     "sentence": "すみません、駅に近いしずかなへやにとまりたいです。",
-    "cloze": "すみません、駅に近いしずかなへやにとまりたいです",
-    "answer": "すみません、駅に近いしずかなへやにとまりたいです",
+    "cloze": "へやにとまりたいです",
+    "answer": "へやにとまりたいです",
     "accepted_answers": [],
     "lemma": "きぼうをつたえる",
-    "reading": "すみません、えきにちかいしずかなへやにとまりたいです",
-    "meaning": "Excuse me, I’d like a quiet room near the station.",
+    "meaning": "I’d like to stay in a room",
     "audio": "work/audio/ja-JP/01/ja-01-989.mp3"
   },
   {
     "id": "ja-01-990",
     "sentence": "先生、来年、日本語を勉強しにとうきょうへ行くつもりです。",
-    "cloze": "先生、来年、日本語を勉強しにとうきょうへ行くつもりです",
-    "answer": "先生、来年、日本語を勉強しにとうきょうへ行くつもりです",
+    "cloze": "とうきょうへ行くつもりです",
+    "answer": "とうきょうへ行くつもりです",
     "accepted_answers": [],
     "lemma": "けいかくをつたえる",
-    "reading": "せんせい、らいねん、にほんごをべんきょうしにとうきょうへいくつもりです",
-    "meaning": "Next year, I plan to go to Tokyo to study Japanese.",
+    "reading": "とうきょうへいくつもりです",
+    "meaning": "I plan to go to Tokyo",
     "audio": "work/audio/ja-JP/01/ja-01-990.mp3"
   },
   {
     "id": "ja-01-991",
     "sentence": "先生、すみません。そのことばは分かりません。",
-    "cloze": "先生、すみません。そのことばは分かりません",
-    "answer": "先生、すみません。そのことばは分かりません",
+    "cloze": "そのことばは分かりません",
+    "answer": "そのことばは分かりません",
     "accepted_answers": [],
     "lemma": "分かりません",
-    "reading": "せんせい、すみません。そのことばはわかりません",
-    "meaning": "I’m sorry, I don’t understand that word.",
+    "reading": "そのことばはわかりません",
+    "meaning": "I don’t understand that word",
     "audio": "work/audio/ja-JP/01/ja-01-991.mp3"
   },
   {
     "id": "ja-01-992",
     "sentence": "すみません、よやくの日をかくにんしてもいいですか。",
-    "cloze": "すみません、よやくの日をかくにんしてもいいですか",
-    "answer": "すみません、よやくの日をかくにんしてもいいですか",
+    "cloze": "かくにんしてもいいですか",
+    "answer": "かくにんしてもいいですか",
     "accepted_answers": [],
     "lemma": "かくにんしてもいいですか",
-    "reading": "すみません、よやくのひをかくにんしてもいいですか",
-    "meaning": "Excuse me, may I confirm the reservation date?",
+    "meaning": "may I confirm?",
     "audio": "work/audio/ja-JP/01/ja-01-992.mp3"
   },
   {
     "id": "ja-01-993",
     "sentence": "先生、すみません。もういちどおねがいします。",
-    "cloze": "先生、すみません。もういちどおねがいします",
-    "answer": "先生、すみません。もういちどおねがいします",
+    "cloze": "もういちどおねがいします",
+    "answer": "もういちどおねがいします",
     "accepted_answers": [],
     "lemma": "もういちどおねがいします",
-    "reading": "せんせい、すみません。もういちどおねがいします",
-    "meaning": "Excuse me, could you say that once more?",
+    "meaning": "once more, please",
     "audio": "work/audio/ja-JP/01/ja-01-993.mp3"
   },
   {
     "id": "ja-01-994",
     "sentence": "ありがとうございます。ほかの色も見て、少しかんがえます。",
-    "cloze": "ありがとうございます。ほかの色も見て、少しかんがえます",
-    "answer": "ありがとうございます。ほかの色も見て、少しかんがえます",
+    "cloze": "少しかんがえます",
+    "answer": "少しかんがえます",
     "accepted_answers": [],
     "lemma": "少しかんがえます",
-    "reading": "ありがとうございます。ほかのいろもみて、すこしかんがえます",
-    "meaning": "Thank you. I’ll look at the other colors and think about it for a bit.",
+    "reading": "すこしかんがえます",
+    "meaning": "I’ll think about it for a bit",
     "audio": "work/audio/ja-JP/01/ja-01-994.mp3"
   },
   {
     "id": "ja-01-995",
     "sentence": "はい、それでだいじょうぶです。ありがとうございます。",
-    "cloze": "はい、それでだいじょうぶです。ありがとうございます",
-    "answer": "はい、それでだいじょうぶです。ありがとうございます",
+    "cloze": "それでだいじょうぶです",
+    "answer": "それでだいじょうぶです",
     "accepted_answers": [],
     "lemma": "それでだいじょうぶです",
-    "reading": "",
-    "meaning": "Yes, that will be fine. Thank you.",
+    "meaning": "that will be fine",
     "audio": "work/audio/ja-JP/01/ja-01-995.mp3"
   },
   {
     "id": "ja-01-996",
     "sentence": "すみません、こんかいはやめます。",
-    "cloze": "すみません、こんかいはやめます",
-    "answer": "すみません、こんかいはやめます",
+    "cloze": "こんかいはやめます",
+    "answer": "こんかいはやめます",
     "accepted_answers": [],
     "lemma": "こんかいはやめます",
-    "reading": "",
-    "meaning": "Sorry, I’ll pass this time.",
+    "meaning": "I’ll pass this time",
     "audio": "work/audio/ja-JP/01/ja-01-996.mp3"
   },
   {
     "id": "ja-01-997",
     "sentence": "分かったら、あしたまたれんらくします。",
-    "cloze": "分かったら、あしたまたれんらくします",
-    "answer": "分かったら、あしたまたれんらくします",
+    "cloze": "またれんらくします",
+    "answer": "またれんらくします",
     "accepted_answers": [],
     "lemma": "またれんらくします",
-    "reading": "わかったら、あしたまたれんらくします",
-    "meaning": "I’ll contact you again tomorrow once I know.",
+    "meaning": "I’ll contact you again",
     "audio": "work/audio/ja-JP/01/ja-01-997.mp3"
   },
   {
     "id": "ja-01-998",
     "sentence": "もう遅いですね。気をつけて帰ってください。",
-    "cloze": "もう遅いですね。気をつけて帰ってください",
-    "answer": "もう遅いですね。気をつけて帰ってください",
+    "cloze": "気をつけて帰ってください",
+    "answer": "気をつけて帰ってください",
     "accepted_answers": [],
     "lemma": "気をつけて帰ってください",
-    "reading": "もうおそいですね。きをつけてかえってください",
-    "meaning": "It’s late. Please take care on your way home.",
+    "reading": "きをつけてかえってください",
+    "meaning": "take care on your way home",
     "audio": "work/audio/ja-JP/01/ja-01-998.mp3"
   },
   {
     "id": "ja-01-999",
     "sentence": "エマさん、会えてよかったです。",
-    "cloze": "エマさん、会えてよかったです",
-    "answer": "エマさん、会えてよかったです",
+    "cloze": "会えてよかったです",
+    "answer": "会えてよかったです",
     "accepted_answers": [],
     "lemma": "会えてよかったです",
-    "reading": "エマさん、あえてよかったです",
-    "meaning": "Emma, I’m glad we met.",
+    "reading": "あえてよかったです",
+    "meaning": "I’m glad we met",
     "audio": "work/audio/ja-JP/01/ja-01-999.mp3"
   },
   {
     "id": "ja-01-1000",
     "sentence": "先生、これからもよろしくおねがいします。",
-    "cloze": "先生、これからもよろしくおねがいします",
-    "answer": "先生、これからもよろしくおねがいします",
+    "cloze": "これからもよろしくおねがいします",
+    "answer": "これからもよろしくおねがいします",
     "accepted_answers": [],
     "lemma": "これからもよろしくおねがいします",
-    "reading": "せんせい、これからもよろしくおねがいします",
-    "meaning": "I look forward to continuing to work with you.",
+    "meaning": "I look forward to continuing to work with you",
     "audio": "work/audio/ja-JP/01/ja-01-1000.mp3"
   }
 ]
