@@ -62,8 +62,10 @@ jobs:
               "README.md",
               "cards/ja-JP/00.json",
               "cards/ja-JP/01.json",
+              "cards/ja-JP/02.json",
               "coverage/ja-JP/00.md",
               "coverage/ja-JP/01.md",
+              "coverage/ja-JP/02.md",
               "meiki_decks.py",
               "pyproject.toml",
               "tests/test_meiki_decks.py",
@@ -78,6 +80,7 @@ jobs:
         run: |
           python meiki_decks.py check --language ja-JP --stage 00
           python meiki_decks.py check --language ja-JP --stage 01
+          python meiki_decks.py check --language ja-JP --stage 02
       - name: Build and verify tiny archive
         run: >-
           python -m unittest -v
