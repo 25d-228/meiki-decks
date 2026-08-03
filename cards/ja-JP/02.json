@@ -254,13 +254,13 @@
   },
   {
     "id": "ja-02-024",
-    "sentence": "店の入口には、夜かける鍵があります。",
+    "sentence": "これは、店の入口に夜かける鍵です。",
     "cloze": "夜かける鍵",
     "answer": "夜かける鍵",
     "accepted_answers": [],
     "lemma": "鍵をかける",
     "reading": "よるかけるかぎ",
-    "meaning": "the lock we lock at night",
+    "meaning": "the lock we use on the entrance at night",
     "audio": "work/audio/ja-JP/02/ja-02-024.mp3"
   },
   {
@@ -298,24 +298,24 @@
   },
   {
     "id": "ja-02-028",
-    "sentence": "汚れた物を洗う場所は、家の外にあります。",
-    "cloze": "汚れた物を洗う場所",
-    "answer": "汚れた物を洗う場所",
+    "sentence": "汚い物を洗う場所は、家の外にあります。",
+    "cloze": "汚い物を洗う場所",
+    "answer": "汚い物を洗う場所",
     "accepted_answers": [],
     "lemma": "洗う",
-    "reading": "よごれたものをあらうばしょ",
+    "reading": "きたないものをあらうばしょ",
     "meaning": "a place to wash dirty things",
     "audio": "work/audio/ja-JP/02/ja-02-028.mp3"
   },
   {
     "id": "ja-02-029",
-    "sentence": "壊れた物を直す人に、このとけいを見てもらいます。",
-    "cloze": "壊れた物を直す人",
-    "answer": "壊れた物を直す人",
+    "sentence": "壊れている時計は、駅前の店に持っていきます。",
+    "cloze": "壊れている時計",
+    "answer": "壊れている時計",
     "accepted_answers": [],
-    "lemma": "直す",
-    "reading": "こわれたものをなおすひと",
-    "meaning": "a person who repairs broken things",
+    "lemma": "壊れる",
+    "reading": "こわれているとけい",
+    "meaning": "the watch that is broken",
     "audio": "work/audio/ja-JP/02/ja-02-029.mp3"
   },
   {
@@ -381,7 +381,7 @@
     "accepted_answers": [],
     "lemma": "会う",
     "reading": "しゅうまつにあうひと",
-    "meaning": "the person I meet on weekends",
+    "meaning": "the person I am meeting this weekend",
     "audio": "work/audio/ja-JP/02/ja-02-035.mp3"
   },
   {
@@ -568,7 +568,7 @@
     "accepted_answers": [],
     "lemma": "卒業する",
     "reading": "そつぎょうしたせんぱい",
-    "meaning": "a former student who graduated",
+    "meaning": "an upperclassman who graduated",
     "audio": "work/audio/ja-JP/02/ja-02-052.mp3"
   },
   {
@@ -628,12 +628,12 @@
   },
   {
     "id": "ja-02-058",
-    "sentence": "友だちがかしてくれた辞書は、今日かえします。",
-    "cloze": "友だちがかしてくれた辞書",
-    "answer": "友だちがかしてくれた辞書",
+    "sentence": "友だちがかした辞書は、今日かえします。",
+    "cloze": "友だちがかした辞書",
+    "answer": "友だちがかした辞書",
     "accepted_answers": [],
-    "lemma": "かしてくれる",
-    "reading": "ともだちがかしてくれたじしょ",
+    "lemma": "かす",
+    "reading": "ともだちがかしたじしょ",
     "meaning": "the dictionary my friend lent me",
     "audio": "work/audio/ja-JP/02/ja-02-058.mp3"
   },
@@ -650,7 +650,7 @@
   },
   {
     "id": "ja-02-060",
-    "sentence": "漢字が多くて読めないぶんしょうは、辞書で調べます。",
+    "sentence": "漢字が多くて読めないぶんしょうは、先生といっしょに読みます。",
     "cloze": "漢字が多くて読めないぶんしょう",
     "answer": "漢字が多くて読めないぶんしょう",
     "accepted_answers": [],
@@ -1013,13 +1013,13 @@
   },
   {
     "id": "ja-02-093",
-    "sentence": "名前を書く時は、受付に置いてあるものを使ってください。",
-    "cloze": "受付に置いてあるもの",
-    "answer": "受付に置いてあるもの",
+    "sentence": "名前を書く時は、受付の人が置いたものを使ってください。",
+    "cloze": "受付の人が置いたもの",
+    "answer": "受付の人が置いたもの",
     "accepted_answers": [],
-    "lemma": "置いてある",
-    "reading": "うけつけにおいてあるもの",
-    "meaning": "the one placed at reception",
+    "lemma": "置く",
+    "reading": "うけつけのひとがおいたもの",
+    "meaning": "the one the receptionist placed there",
     "audio": "work/audio/ja-JP/02/ja-02-093.mp3"
   },
   {
@@ -1079,7 +1079,7 @@
   },
   {
     "id": "ja-02-099",
-    "sentence": "今日は、仕事が終わった人から帰ることにしましょう。",
+    "sentence": "今日は、仕事が終わった人から帰る予定です。",
     "cloze": "仕事が終わった人から帰る",
     "answer": "仕事が終わった人から帰る",
     "accepted_answers": [],
@@ -1090,7 +1090,7 @@
   },
   {
     "id": "ja-02-100",
-    "sentence": "この箱から必要なものだけ取るようにしてください。",
+    "sentence": "今日は、この箱から必要なものだけ取る予定です。",
     "cloze": "必要なものだけ取る",
     "answer": "必要なものだけ取る",
     "accepted_answers": [],
@@ -1112,7 +1112,7 @@
   },
   {
     "id": "ja-02-102",
-    "sentence": "この二つなら、壊れていないほうを使うことにしましょう。",
+    "sentence": "機械が二つあります。壊れていないほうを使うつもりです。",
     "cloze": "壊れていないほうを使う",
     "answer": "壊れていないほうを使う",
     "accepted_answers": [],
@@ -1134,13 +1134,13 @@
   },
   {
     "id": "ja-02-104",
-    "sentence": "これは、先生がくださったものです。",
-    "cloze": "先生がくださったもの",
-    "answer": "先生がくださったもの",
+    "sentence": "これは、先生が使ったものです。",
+    "cloze": "先生が使ったもの",
+    "answer": "先生が使ったもの",
     "accepted_answers": [],
-    "lemma": "くださる",
-    "reading": "せんせいがくださったもの",
-    "meaning": "something the teacher gave me",
+    "lemma": "使う",
+    "reading": "せんせいがつかったもの",
+    "meaning": "something the teacher used",
     "audio": "work/audio/ja-JP/02/ja-02-104.mp3"
   },
   {
@@ -1178,7 +1178,7 @@
   },
   {
     "id": "ja-02-108",
-    "sentence": "新しい担当者から受けた説明は、とても分かりやすかったです。",
+    "sentence": "新しい担当者から受けた説明を、みんなに伝えました。",
     "cloze": "新しい担当者から受けた説明",
     "answer": "新しい担当者から受けた説明",
     "accepted_answers": [],
@@ -1233,12 +1233,12 @@
   },
   {
     "id": "ja-02-113",
-    "sentence": "会議で話した大切な問題について、せんぱいに相談しました。",
-    "cloze": "会議で話した大切な問題",
-    "answer": "会議で話した大切な問題",
+    "sentence": "会議で話し合った大切な問題について、せんぱいに相談しました。",
+    "cloze": "会議で話し合った大切な問題",
+    "answer": "会議で話し合った大切な問題",
     "accepted_answers": [],
-    "lemma": "問題について話す",
-    "reading": "かいぎではなしたたいせつなもんだい",
+    "lemma": "問題について話し合う",
+    "reading": "かいぎではなしあったたいせつなもんだい",
     "meaning": "the important problem discussed at the meeting",
     "audio": "work/audio/ja-JP/02/ja-02-113.mp3"
   },
@@ -1266,12 +1266,12 @@
   },
   {
     "id": "ja-02-116",
-    "sentence": "きのう電話をくださった方に、これから連絡します。",
-    "cloze": "きのう電話をくださった方",
-    "answer": "きのう電話をくださった方",
+    "sentence": "きのう電話をかけた方に、これから連絡します。",
+    "cloze": "きのう電話をかけた方",
+    "answer": "きのう電話をかけた方",
     "accepted_answers": [],
-    "lemma": "電話をくださる",
-    "reading": "きのうでんわをくださったかた",
+    "lemma": "電話をかける",
+    "reading": "きのうでんわをかけたかた",
     "meaning": "the person who called yesterday",
     "audio": "work/audio/ja-JP/02/ja-02-116.mp3"
   },
@@ -1332,7 +1332,7 @@
   },
   {
     "id": "ja-02-122",
-    "sentence": "受付で、今日予約できる時間を聞きました。",
+    "sentence": "まだ予約はありませんが、今日予約できると思います。",
     "cloze": "今日予約できる",
     "answer": "今日予約できる",
     "accepted_answers": [],
@@ -1343,7 +1343,7 @@
   },
   {
     "id": "ja-02-123",
-    "sentence": "水といっしょなら、薬が飲めると思います。",
+    "sentence": "水といっしょに、薬が飲めると思います。",
     "cloze": "薬が飲める",
     "answer": "薬が飲める",
     "accepted_answers": [],
@@ -1365,7 +1365,7 @@
   },
   {
     "id": "ja-02-125",
-    "sentence": "夜にせきが出なくなって、よく眠れるようになりました。",
+    "sentence": "今はせきが出ていないので、今夜はよく眠れると思います。",
     "cloze": "よく眠れる",
     "answer": "よく眠れる",
     "accepted_answers": [],
@@ -1376,7 +1376,7 @@
   },
   {
     "id": "ja-02-126",
-    "sentence": "鼻がつまっていましたが、今は鼻でいきができるようになりました。",
+    "sentence": "鼻がつまっていましたが、今は鼻でいきができると思います。",
     "cloze": "鼻でいきができる",
     "answer": "鼻でいきができる",
     "accepted_answers": [],
@@ -1387,7 +1387,7 @@
   },
   {
     "id": "ja-02-127",
-    "sentence": "のどの診察で、先生に声が出せるか聞かれました。",
+    "sentence": "今は声が出せるので、先生と話します。",
     "cloze": "声が出せる",
     "answer": "声が出せる",
     "accepted_answers": [],
@@ -1398,7 +1398,7 @@
   },
   {
     "id": "ja-02-128",
-    "sentence": "先生に、口を開けられるところまで開けてくださいと言われました。",
+    "sentence": "口が少し痛いですが、口を開けられると思います。",
     "cloze": "口を開けられる",
     "answer": "口を開けられる",
     "accepted_answers": [],
@@ -1420,7 +1420,7 @@
   },
   {
     "id": "ja-02-130",
-    "sentence": "咳が出て話せないので、家族に電話をしてもらいました。",
+    "sentence": "咳が出て話せないので、家族が病院に電話しました。",
     "cloze": "咳が出て話せない",
     "answer": "咳が出て話せない",
     "accepted_answers": [],
@@ -1431,7 +1431,7 @@
   },
   {
     "id": "ja-02-131",
-    "sentence": "この病院で保険が使えるか、受付で確認してください。",
+    "sentence": "この病院では、保険が使えると思います。受付で確認してください。",
     "cloze": "保険が使える",
     "answer": "保険が使える",
     "accepted_answers": [],
@@ -1442,7 +1442,7 @@
   },
   {
     "id": "ja-02-132",
-    "sentence": "電話があれば、自分で救急車をよべると思います。",
+    "sentence": "電話を持っているので、自分で救急車をよべると思います。",
     "cloze": "救急車をよべる",
     "answer": "救急車をよべる",
     "accepted_answers": [],
@@ -1453,7 +1453,7 @@
   },
   {
     "id": "ja-02-133",
-    "sentence": "ゆっくりなら、家から病院まで行けると思います。",
+    "sentence": "ゆっくり歩きます。家から病院まで行けると思います。",
     "cloze": "病院まで行ける",
     "answer": "病院まで行ける",
     "accepted_answers": [],
@@ -1464,7 +1464,7 @@
   },
   {
     "id": "ja-02-134",
-    "sentence": "明日の朝、自分で起きられるか少ししんぱいです。",
+    "sentence": "明日の朝は一人です。自分で起きられると思いますが、少ししんぱいです。",
     "cloze": "自分で起きられる",
     "answer": "自分で起きられる",
     "accepted_answers": [],
@@ -1475,7 +1475,7 @@
   },
   {
     "id": "ja-02-135",
-    "sentence": "おなかのぐあいがよくなって、ふつうの食事を取れるようになりました。",
+    "sentence": "おなかのぐあいがいいので、ふつうの食事を取れると思います。",
     "cloze": "ふつうの食事を取れる",
     "answer": "ふつうの食事を取れる",
     "accepted_answers": [],
@@ -1486,18 +1486,18 @@
   },
   {
     "id": "ja-02-136",
-    "sentence": "今週はむずかしいですが、来週なら来られると思います。",
-    "cloze": "来週なら来られる",
-    "answer": "来週なら来られる",
+    "sentence": "今週はむずかしいですが、来週は来られると思います。",
+    "cloze": "来週は来られる",
+    "answer": "来週は来られる",
     "accepted_answers": [],
     "lemma": "来る",
-    "reading": "らいしゅうならこられる",
-    "meaning": "can come if it is next week",
+    "reading": "らいしゅうはこられる",
+    "meaning": "can come next week",
     "audio": "work/audio/ja-JP/02/ja-02-136.mp3"
   },
   {
     "id": "ja-02-137",
-    "sentence": "めがねをかければ、この字が読めると思います。",
+    "sentence": "めがねをかけたので、この字が読めると思います。",
     "cloze": "この字が読める",
     "answer": "この字が読める",
     "accepted_answers": [],
@@ -1508,7 +1508,7 @@
   },
   {
     "id": "ja-02-138",
-    "sentence": "先生の近くに座れば、先生の説明が聞こえるのであんしんです。",
+    "sentence": "先生の近くの席では、先生の説明が聞こえるのであんしんです。",
     "cloze": "先生の説明が聞こえる",
     "answer": "先生の説明が聞こえる",
     "accepted_answers": [],
@@ -1519,7 +1519,7 @@
   },
   {
     "id": "ja-02-139",
-    "sentence": "このめがねなら、小さい字が見えると思います。",
+    "sentence": "このめがねをかけたので、小さい字が見えると思います。",
     "cloze": "小さい字が見える",
     "answer": "小さい字が見える",
     "accepted_answers": [],
@@ -1541,7 +1541,7 @@
   },
   {
     "id": "ja-02-141",
-    "sentence": "予約がありませんから、ここでは診察を受けられないと言われました。",
+    "sentence": "予約がないので、ここでは診察を受けられないと受付の人が説明しました。",
     "cloze": "ここでは診察を受けられない",
     "answer": "ここでは診察を受けられない",
     "accepted_answers": [],
@@ -1563,7 +1563,7 @@
   },
   {
     "id": "ja-02-143",
-    "sentence": "けがで右手が使えないので、名前を書いてもらいました。",
+    "sentence": "けがで右手が使えないので、家族が名前を書きました。",
     "cloze": "けがで右手が使えない",
     "answer": "けがで右手が使えない",
     "accepted_answers": [],
@@ -1574,7 +1574,7 @@
   },
   {
     "id": "ja-02-144",
-    "sentence": "熱が下がって外出できるようになったので、少しさんぽしました。",
+    "sentence": "熱が下がって外出できるので、少しさんぽしました。",
     "cloze": "熱が下がって外出できる",
     "answer": "熱が下がって外出できる",
     "accepted_answers": [],
@@ -1585,40 +1585,40 @@
   },
   {
     "id": "ja-02-145",
-    "sentence": "今日は、早く帰れば休めると思います。",
-    "cloze": "早く帰れば休める",
-    "answer": "早く帰れば休める",
+    "sentence": "今日は早く帰ります。家で休めると思います。",
+    "cloze": "家で休める",
+    "answer": "家で休める",
     "accepted_answers": [],
     "lemma": "休む",
-    "reading": "はやくかえればやすめる",
-    "meaning": "can rest if one goes home early",
+    "reading": "いえでやすめる",
+    "meaning": "can rest at home",
     "audio": "work/audio/ja-JP/02/ja-02-145.mp3"
   },
   {
     "id": "ja-02-146",
-    "sentence": "病院へ行けなくても、電話なら相談できるのであんしんです。",
-    "cloze": "電話なら相談できる",
-    "answer": "電話なら相談できる",
+    "sentence": "病院へ行けません。電話で相談できるのであんしんです。",
+    "cloze": "電話で相談できる",
+    "answer": "電話で相談できる",
     "accepted_answers": [],
     "lemma": "相談する",
-    "reading": "でんわならそうだんできる",
+    "reading": "でんわでそうだんできる",
     "meaning": "can consult by phone",
     "audio": "work/audio/ja-JP/02/ja-02-146.mp3"
   },
   {
     "id": "ja-02-147",
-    "sentence": "受付で、保険なしでも診察を受けられると聞きました。",
-    "cloze": "保険なしでも診察を受けられる",
-    "answer": "保険なしでも診察を受けられる",
+    "sentence": "受付で、保険なしで診察を受けられると聞きました。",
+    "cloze": "保険なしで診察を受けられる",
+    "answer": "保険なしで診察を受けられる",
     "accepted_answers": [],
     "lemma": "診察を受ける",
-    "reading": "ほけんなしでもしんさつをうけられる",
+    "reading": "ほけんなしでしんさつをうけられる",
     "meaning": "can receive an examination without insurance",
     "audio": "work/audio/ja-JP/02/ja-02-147.mp3"
   },
   {
     "id": "ja-02-148",
-    "sentence": "夜は、この薬で眠れるようになりました。",
+    "sentence": "夜は、この薬で眠れるので、あんしんです。",
     "cloze": "この薬で眠れる",
     "answer": "この薬で眠れる",
     "accepted_answers": [],
@@ -1629,35 +1629,35 @@
   },
   {
     "id": "ja-02-149",
-    "sentence": "まだ食事はむずかしいですが、少しなら食べられると思います。",
-    "cloze": "少しなら食べられる",
-    "answer": "少しなら食べられる",
+    "sentence": "まだ食事はむずかしいですが、少し食べられると思います。",
+    "cloze": "少し食べられる",
+    "answer": "少し食べられる",
     "accepted_answers": [],
     "lemma": "食べる",
-    "reading": "すこしならたべられる",
+    "reading": "すこしたべられる",
     "meaning": "can eat a little",
     "audio": "work/audio/ja-JP/02/ja-02-149.mp3"
   },
   {
     "id": "ja-02-150",
-    "sentence": "足はまだ痛いですが、痛くても歩けるようになりました。",
-    "cloze": "痛くても歩ける",
-    "answer": "痛くても歩ける",
+    "sentence": "足はまだ痛いですが、ゆっくり歩けると思います。",
+    "cloze": "ゆっくり歩ける",
+    "answer": "ゆっくり歩ける",
     "accepted_answers": [],
     "lemma": "歩く",
-    "reading": "いたくてもあるける",
-    "meaning": "can walk despite the pain",
+    "reading": "ゆっくりあるける",
+    "meaning": "can walk slowly despite the pain",
     "audio": "work/audio/ja-JP/02/ja-02-150.mp3"
   },
   {
     "id": "ja-02-151",
-    "sentence": "この病院では、予約が取れれば診てもらえると聞きました。",
-    "cloze": "予約が取れれば診てもらえる",
-    "answer": "予約が取れれば診てもらえる",
+    "sentence": "この病院の予約を取りました。先生に診てもらえると聞きました。",
+    "cloze": "先生に診てもらえる",
+    "answer": "先生に診てもらえる",
     "accepted_answers": [],
     "lemma": "診てもらう",
-    "reading": "よやくがとれればみてもらえる",
-    "meaning": "can be seen if one gets an appointment",
+    "reading": "せんせいにみてもらえる",
+    "meaning": "can have the doctor see me",
     "audio": "work/audio/ja-JP/02/ja-02-151.mp3"
   },
   {
@@ -1673,7 +1673,7 @@
   },
   {
     "id": "ja-02-153",
-    "sentence": "診察の後で、薬局で薬を受け取れると説明されました。",
+    "sentence": "診察の後で、先生が薬局で薬を受け取れると説明しました。",
     "cloze": "薬局で薬を受け取れる",
     "answer": "薬局で薬を受け取れる",
     "accepted_answers": [],
@@ -1684,18 +1684,18 @@
   },
   {
     "id": "ja-02-154",
-    "sentence": "受付で、今日中にけんさけっかが分かると言われました。",
+    "sentence": "受付の人が、今日中にけんさけっかが分かると説明しました。",
     "cloze": "今日中にけんさけっかが分かる",
     "answer": "今日中にけんさけっかが分かる",
     "accepted_answers": [],
     "lemma": "けんさけっかが分かる",
     "reading": "きょうじゅうにけんさけっかがわかる",
-    "meaning": "can learn the test results today",
+    "meaning": "the test results will be known by the end of today",
     "audio": "work/audio/ja-JP/02/ja-02-154.mp3"
   },
   {
     "id": "ja-02-155",
-    "sentence": "体のぐあいがよくなって、もうふつうに働けるようになりました。",
+    "sentence": "体のぐあいがいいので、もうふつうに働けると思います。",
     "cloze": "もうふつうに働ける",
     "answer": "もうふつうに働ける",
     "accepted_answers": [],
@@ -1728,7 +1728,7 @@
   },
   {
     "id": "ja-02-158",
-    "sentence": "このけがなら、どの病院で診てもらえますかと受付の人に聞きました。",
+    "sentence": "受付の人に「どの病院で診てもらえますか」と聞きました。",
     "cloze": "どの病院で診てもらえますか",
     "answer": "どの病院で診てもらえますか",
     "accepted_answers": [],
@@ -1750,7 +1750,7 @@
   },
   {
     "id": "ja-02-160",
-    "sentence": "受付の人から「一人で来られますか」と聞かれました。",
+    "sentence": "受付の人が「一人で来られますか」と聞きました。",
     "cloze": "一人で来られますか",
     "answer": "一人で来られますか",
     "accepted_answers": [],
@@ -1761,7 +1761,7 @@
   },
   {
     "id": "ja-02-161",
-    "sentence": "この店なら、この商品は返品できるそうです。",
+    "sentence": "店員に、この商品は返品できると聞きました。",
     "cloze": "この商品は返品できる",
     "answer": "この商品は返品できる",
     "accepted_answers": [],
@@ -1772,7 +1772,7 @@
   },
   {
     "id": "ja-02-162",
-    "sentence": "レシートがあれば、別の商品と交換できるそうです。",
+    "sentence": "店員に、別の商品と交換できると聞きました。",
     "cloze": "別の商品と交換できる",
     "answer": "別の商品と交換できる",
     "accepted_answers": [],
@@ -1783,7 +1783,7 @@
   },
   {
     "id": "ja-02-163",
-    "sentence": "この店ではカードで払えるそうです。",
+    "sentence": "店員に、この店ではカードで払えると聞きました。",
     "cloze": "カードで払える",
     "answer": "カードで払える",
     "accepted_answers": [],
@@ -1794,7 +1794,7 @@
   },
   {
     "id": "ja-02-164",
-    "sentence": "この銀行では、夜八時まで現金を引き出せるそうです。",
+    "sentence": "銀行の人に、夜八時まで現金を引き出せると聞きました。",
     "cloze": "現金を引き出せる",
     "answer": "現金を引き出せる",
     "accepted_answers": [],
@@ -1805,7 +1805,7 @@
   },
   {
     "id": "ja-02-165",
-    "sentence": "この店なら、夜でも荷物を受け取れるそうです。",
+    "sentence": "店員に、夜八時まで荷物を受け取れると聞きました。",
     "cloze": "荷物を受け取れる",
     "answer": "荷物を受け取れる",
     "accepted_answers": [],
@@ -1816,7 +1816,7 @@
   },
   {
     "id": "ja-02-166",
-    "sentence": "この荷物は郵便局から送れるそうです。",
+    "sentence": "郵便局の人に、この荷物は郵便局から送れると聞きました。",
     "cloze": "郵便局から送れる",
     "answer": "郵便局から送れる",
     "accepted_answers": [],
@@ -1827,7 +1827,7 @@
   },
   {
     "id": "ja-02-167",
-    "sentence": "この店では配達時間を選べるそうです。",
+    "sentence": "店員に、配達時間を選べると聞きました。",
     "cloze": "配達時間を選べる",
     "answer": "配達時間を選べる",
     "accepted_answers": [],
@@ -1838,7 +1838,7 @@
   },
   {
     "id": "ja-02-168",
-    "sentence": "学生でも銀行で口座を開けると聞きました。",
+    "sentence": "学生は銀行で口座を開けると聞きました。",
     "cloze": "銀行で口座を開ける",
     "answer": "銀行で口座を開ける",
     "accepted_answers": [],
@@ -1849,18 +1849,18 @@
   },
   {
     "id": "ja-02-169",
-    "sentence": "この荷物は、箱に入れれば運べると思います。",
-    "cloze": "箱に入れれば運べる",
-    "answer": "箱に入れれば運べる",
+    "sentence": "この荷物は、箱に入れて運べると思います。",
+    "cloze": "箱に入れて運べる",
+    "answer": "箱に入れて運べる",
     "accepted_answers": [],
     "lemma": "運ぶ",
-    "reading": "はこにいれればはこべる",
-    "meaning": "can carry it if it is put in a box",
+    "reading": "はこにいれてはこべる",
+    "meaning": "can put it in a box and carry it",
     "audio": "work/audio/ja-JP/02/ja-02-169.mp3"
   },
   {
     "id": "ja-02-170",
-    "sentence": "受付で領収書を出してもらえるそうです。",
+    "sentence": "受付の人に、領収書を出してもらえると聞きました。",
     "cloze": "領収書を出してもらえる",
     "answer": "領収書を出してもらえる",
     "accepted_answers": [],
@@ -1871,7 +1871,7 @@
   },
   {
     "id": "ja-02-171",
-    "sentence": "店員の説明では、この機械は使いやすいそうです。",
+    "sentence": "店員に、この機械は使いやすいと聞きました。",
     "cloze": "この機械は使いやすい",
     "answer": "この機械は使いやすい",
     "accepted_answers": [],
@@ -1882,7 +1882,7 @@
   },
   {
     "id": "ja-02-172",
-    "sentence": "先生によると、この字は読みやすいそうです。",
+    "sentence": "先生に、この字は読みやすいと聞きました。",
     "cloze": "この字は読みやすい",
     "answer": "この字は読みやすい",
     "accepted_answers": [],
@@ -1915,13 +1915,13 @@
   },
   {
     "id": "ja-02-175",
-    "sentence": "少し大きくて、この薬は飲みにくいです。",
-    "cloze": "この薬は飲みにくい",
-    "answer": "この薬は飲みにくい",
+    "sentence": "この薬は少し大きくて飲みにくいです。",
+    "cloze": "飲みにくい",
+    "answer": "飲みにくい",
     "accepted_answers": [],
     "lemma": "飲みにくい",
-    "reading": "このくすりはのみにくい",
-    "meaning": "this medicine is difficult to take",
+    "reading": "のみにくい",
+    "meaning": "difficult to take",
     "audio": "work/audio/ja-JP/02/ja-02-175.mp3"
   },
   {
@@ -1943,7 +1943,7 @@
     "accepted_answers": [],
     "lemma": "伝えにくい",
     "reading": "でんわではつたえにくい",
-    "meaning": "difficult to explain by phone",
+    "meaning": "difficult to convey by phone",
     "audio": "work/audio/ja-JP/02/ja-02-177.mp3"
   },
   {
@@ -1959,7 +1959,7 @@
   },
   {
     "id": "ja-02-179",
-    "sentence": "長く使うなら、壊れにくい商品がいいです。",
+    "sentence": "長く使いたいです。壊れにくい商品がいいです。",
     "cloze": "壊れにくい商品",
     "answer": "壊れにくい商品",
     "accepted_answers": [],
@@ -1970,7 +1970,7 @@
   },
   {
     "id": "ja-02-180",
-    "sentence": "店員によると、このせっけんは汚れが落ちやすいそうです。",
+    "sentence": "店員に、このせっけんは汚れが落ちやすいと聞きました。",
     "cloze": "汚れが落ちやすい",
     "answer": "汚れが落ちやすい",
     "accepted_answers": [],
@@ -1981,7 +1981,7 @@
   },
   {
     "id": "ja-02-181",
-    "sentence": "海外の店ですが、この窓口には日本語で話すことができる店員がいます。",
+    "sentence": "海外の店ですが、この窓口では日本語で話すことができると聞きました。",
     "cloze": "日本語で話すことができる",
     "answer": "日本語で話すことができる",
     "accepted_answers": [],
@@ -1992,7 +1992,7 @@
   },
   {
     "id": "ja-02-182",
-    "sentence": "注文した商品は、店内で受け取ることができるそうです。",
+    "sentence": "店員に、店内で受け取ることができると聞きました。",
     "cloze": "店内で受け取ることができる",
     "answer": "店内で受け取ることができる",
     "accepted_answers": [],
@@ -2003,7 +2003,7 @@
   },
   {
     "id": "ja-02-183",
-    "sentence": "この店からは、海外へ送ることができないそうです。",
+    "sentence": "店員に、海外へ送ることができないと聞きました。",
     "cloze": "海外へ送ることができない",
     "answer": "海外へ送ることができない",
     "accepted_answers": [],
@@ -2025,7 +2025,7 @@
   },
   {
     "id": "ja-02-185",
-    "sentence": "店員によると、今日は交換できないそうです。",
+    "sentence": "店員に、今日は交換できないと聞きました。",
     "cloze": "今日は交換できない",
     "answer": "今日は交換できない",
     "accepted_answers": [],
@@ -2036,7 +2036,7 @@
   },
   {
     "id": "ja-02-186",
-    "sentence": "店員に聞いたところ、このカードは使えないそうです。",
+    "sentence": "店員に、このカードは使えないと聞きました。",
     "cloze": "このカードは使えない",
     "answer": "このカードは使えない",
     "accepted_answers": [],
@@ -2047,18 +2047,18 @@
   },
   {
     "id": "ja-02-187",
-    "sentence": "この機械ではカードで払えませんが、窓口なら払えるそうです。",
-    "cloze": "窓口なら払える",
-    "answer": "窓口なら払える",
+    "sentence": "店員に、窓口で払えると聞きました。",
+    "cloze": "窓口で払える",
+    "answer": "窓口で払える",
     "accepted_answers": [],
     "lemma": "払える",
-    "reading": "まどぐちならはらえる",
+    "reading": "まどぐちではらえる",
     "meaning": "can pay at the counter",
     "audio": "work/audio/ja-JP/02/ja-02-187.mp3"
   },
   {
     "id": "ja-02-188",
-    "sentence": "配達時間は、アプリから確認できるそうです。",
+    "sentence": "店員に、配達時間はアプリから確認できると聞きました。",
     "cloze": "アプリから確認できる",
     "answer": "アプリから確認できる",
     "accepted_answers": [],
@@ -2069,7 +2069,7 @@
   },
   {
     "id": "ja-02-189",
-    "sentence": "配達時間について聞いたところ、受付後は変更できないそうです。",
+    "sentence": "受付の人に、受付後は変更できないと聞きました。",
     "cloze": "受付後は変更できない",
     "answer": "受付後は変更できない",
     "accepted_answers": [],
@@ -2080,18 +2080,18 @@
   },
   {
     "id": "ja-02-190",
-    "sentence": "店内なら、住所がなくても受け取れるそうです。",
-    "cloze": "住所がなくても受け取れる",
-    "answer": "住所がなくても受け取れる",
+    "sentence": "店員に、住所の記入なしで店で受け取れると聞きました。",
+    "cloze": "住所の記入なしで店で受け取れる",
+    "answer": "住所の記入なしで店で受け取れる",
     "accepted_answers": [],
     "lemma": "受け取れる",
-    "reading": "じゅうしょがなくてもうけとれる",
-    "meaning": "can receive it without an address",
+    "reading": "じゅうしょのきにゅうなしでみせでうけとれる",
+    "meaning": "can pick it up at the store without writing an address",
     "audio": "work/audio/ja-JP/02/ja-02-190.mp3"
   },
   {
     "id": "ja-02-191",
-    "sentence": "この機械は、説明書なしで使えるそうです。",
+    "sentence": "店員に、この機械は説明書なしで使えると聞きました。",
     "cloze": "説明書なしで使える",
     "answer": "説明書なしで使える",
     "accepted_answers": [],
@@ -2196,7 +2196,7 @@
     "accepted_answers": [],
     "lemma": "しはらう",
     "reading": "こちらでおしはらいできます",
-    "meaning": "can I pay here?",
+    "meaning": "can pay here",
     "audio": "work/audio/ja-JP/02/ja-02-200.mp3"
   },
   {
@@ -2240,7 +2240,7 @@
   },
   {
     "id": "ja-02-204",
-    "sentence": "友だちと川の前まで来ました。むこうのけしきも見たいから、橋を渡ってみよう。",
+    "sentence": "友だちと川まで来ました。橋の先に店があります。橋を渡ってみよう。",
     "cloze": "橋を渡ってみよう",
     "answer": "橋を渡ってみよう",
     "accepted_answers": [],
@@ -2292,7 +2292,7 @@
   },
   {
     "id": "ja-02-208",
-    "sentence": "友だちと道をさがしています。ちずを見ても分からないから、観光案内所で聞こう。",
+    "sentence": "友だちと道をさがしています。ちずを見ましたが分からないから、観光案内所で聞こう。",
     "cloze": "観光案内所で聞こう",
     "answer": "観光案内所で聞こう",
     "accepted_answers": [],
@@ -2305,7 +2305,7 @@
   },
   {
     "id": "ja-02-209",
-    "sentence": "友だちと電車を降りた後、かさがないことに気づきました。忘れ物をさがそう。",
+    "sentence": "友だちと電車を降りました。かさがありません。忘れ物をさがそう。",
     "cloze": "忘れ物をさがそう",
     "answer": "忘れ物をさがそう",
     "accepted_answers": [],
@@ -2367,7 +2367,7 @@
   },
   {
     "id": "ja-02-214",
-    "sentence": "知らない道が多くてあぶないので、旅行中は運転しないでおこうと思っているんです。",
+    "sentence": "道をよく知りません。あぶないので、旅行中は運転しないでおこうと思っているんです。",
     "cloze": "旅行中は運転しないでおこうと思っている",
     "answer": "旅行中は運転しないでおこうと思っている",
     "accepted_answers": [],
@@ -2379,7 +2379,7 @@
   },
   {
     "id": "ja-02-215",
-    "sentence": "来月は三日休めることになったので、来月観光しようと思っているんです。",
+    "sentence": "三日間の休みがあるので、来月観光しようと思っているんです。",
     "cloze": "来月観光しようと思っている",
     "answer": "来月観光しようと思っている",
     "accepted_answers": [],
@@ -2391,24 +2391,24 @@
   },
   {
     "id": "ja-02-216",
-    "sentence": "友だちを長く待たせたくないので、遅れたら連絡しようと思っているんです。",
-    "cloze": "遅れたら連絡しようと思っている",
-    "answer": "遅れたら連絡しようと思っている",
+    "sentence": "友だちとの約束があるので、遅れたときは連絡しようと思っているんです。",
+    "cloze": "遅れたときは連絡しようと思っている",
+    "answer": "遅れたときは連絡しようと思っている",
     "accepted_answers": [],
     "lemma": "連絡する",
-    "reading": "おくれたられんらくしようとおもっている",
+    "reading": "おくれたときはれんらくしようとおもっている",
     "meaning": "intend to get in touch if delayed",
     "audio": "work/audio/ja-JP/02/ja-02-216.mp3",
     "grammar": "たら condition + volitional + と思っている"
   },
   {
     "id": "ja-02-217",
-    "sentence": "友だちと旅行の前に話しました。道に迷ったら駅員に聞こう。",
-    "cloze": "道に迷ったら駅員に聞こう",
-    "answer": "道に迷ったら駅員に聞こう",
+    "sentence": "旅行の前に友だちと話しています。道に迷ったときは駅員に聞こう。",
+    "cloze": "道に迷ったときは駅員に聞こう",
+    "answer": "道に迷ったときは駅員に聞こう",
     "accepted_answers": [],
     "lemma": "聞く",
-    "reading": "みちにまよったらえきいんにきこう",
+    "reading": "みちにまよったときはえきいんにきこう",
     "meaning": "if we get lost, let's ask a station attendant",
     "audio": "work/audio/ja-JP/02/ja-02-217.mp3",
     "grammar": "たら condition + volitional proposal",
@@ -2416,7 +2416,7 @@
   },
   {
     "id": "ja-02-218",
-    "sentence": "友だちとの旅行です。大きいバッグを持って歩くのは大変だから、荷物を先に送ろう。",
+    "sentence": "友だちとの旅行です。大きいバッグは重いから、荷物を先に送ろう。",
     "cloze": "荷物を先に送ろう",
     "answer": "荷物を先に送ろう",
     "accepted_answers": [],
@@ -2429,7 +2429,7 @@
   },
   {
     "id": "ja-02-219",
-    "sentence": "友だちと一日早く帰ることにしました。ホテルの予約を変更しよう。",
+    "sentence": "友だちと一日早く帰ります。ホテルの予約を変更しよう。",
     "cloze": "予約を変更しよう",
     "answer": "予約を変更しよう",
     "accepted_answers": [],
@@ -2442,7 +2442,7 @@
   },
   {
     "id": "ja-02-220",
-    "sentence": "友だちと朝の飛行機に乗ります。遅れないように、出発時間を確認しよう。",
+    "sentence": "友だちと朝の飛行機に乗ります。時間が分からないから、出発時間を確認しよう。",
     "cloze": "出発時間を確認しよう",
     "answer": "出発時間を確認しよう",
     "accepted_answers": [],
@@ -2455,12 +2455,12 @@
   },
   {
     "id": "ja-02-221",
-    "sentence": "妹と二人で旅行しています。むかえに来る父を待たせないように、とうちゃくしたら電話しよう。",
-    "cloze": "とうちゃくしたら電話しよう",
-    "answer": "とうちゃくしたら電話しよう",
+    "sentence": "妹と二人で旅行しています。父が駅で待っています。とうちゃくして、電話しよう。",
+    "cloze": "とうちゃくして、電話しよう",
+    "answer": "とうちゃくして、電話しよう",
     "accepted_answers": [],
     "lemma": "電話する",
-    "reading": "とうちゃくしたらでんわしよう",
+    "reading": "とうちゃくして、でんわしよう",
     "meaning": "let's call when we arrive",
     "audio": "work/audio/ja-JP/02/ja-02-221.mp3",
     "grammar": "たら condition + volitional proposal",
@@ -2468,7 +2468,7 @@
   },
   {
     "id": "ja-02-222",
-    "sentence": "友だちと歩いていると、海がよく見えてきました。橋の近くで写真をとろう。",
+    "sentence": "友だちと歩いています。海がよく見えます。橋の近くで写真をとろう。",
     "cloze": "橋の近くで写真をとろう",
     "answer": "橋の近くで写真をとろう",
     "accepted_answers": [],
@@ -2494,7 +2494,7 @@
   },
   {
     "id": "ja-02-224",
-    "sentence": "友だちと二つの道を見ています。どちらもよさそうだから、案内を読んでから決めよう。",
+    "sentence": "友だちと二つの道を見ています。どちらもいいです。案内を読んでから決めよう。",
     "cloze": "案内を読んでから決めよう",
     "answer": "案内を読んでから決めよう",
     "accepted_answers": [],
@@ -2533,7 +2533,7 @@
   },
   {
     "id": "ja-02-227",
-    "sentence": "友だちと乗る電車を間違えました。つぎは間違えないようにしよう。",
+    "sentence": "友だちといっしょです。電車を間違えました。つぎは間違えないようにしよう。",
     "cloze": "つぎは間違えないようにしよう",
     "answer": "つぎは間違えないようにしよう",
     "accepted_answers": [],
@@ -2546,7 +2546,7 @@
   },
   {
     "id": "ja-02-228",
-    "sentence": "友だちと同じ電車に乗ります。乗り遅れないように、少し早めに着くようにしよう。",
+    "sentence": "友だちと同じ電車に乗ります。電車は七時です。少し早めに着くようにしよう。",
     "cloze": "少し早めに着くようにしよう",
     "answer": "少し早めに着くようにしよう",
     "accepted_answers": [],
@@ -2559,7 +2559,7 @@
   },
   {
     "id": "ja-02-229",
-    "sentence": "友だちと長い山道を車で通ります。二人でかわれるから、一人で運転するのはやめよう。",
+    "sentence": "友だちと旅行について話しています。長い山道はあぶないから、一人で運転するのはやめよう。",
     "cloze": "一人で運転するのはやめよう",
     "answer": "一人で運転するのはやめよう",
     "accepted_answers": [],
@@ -2585,7 +2585,7 @@
   },
   {
     "id": "ja-02-231",
-    "sentence": "友だちと駅へむかっています。道が二つあるけど、どの道を通ろうか。",
+    "sentence": "友だちと駅へむかっています。道が二つあるけど、どの道を通ろうか？",
     "cloze": "どの道を通ろうか",
     "answer": "どの道を通ろうか",
     "accepted_answers": [],
@@ -2598,7 +2598,7 @@
   },
   {
     "id": "ja-02-232",
-    "sentence": "友だちと朝の電車で出かけます。七時と八時の電車があるけど、何時に出発しようか。",
+    "sentence": "友だちと朝の電車で出かけます。七時と八時の電車があるけど、何時に出発しようか？",
     "cloze": "何時に出発しようか",
     "answer": "何時に出発しようか",
     "accepted_answers": [],
@@ -2611,7 +2611,7 @@
   },
   {
     "id": "ja-02-233",
-    "sentence": "友だちとホテルをさがしています。駅前と海の近くなら、どこに泊まろうか。",
+    "sentence": "友だちとホテルをさがしています。駅前と海の近くにホテルがあります。どこに泊まろうか？",
     "cloze": "どこに泊まろうか",
     "answer": "どこに泊まろうか",
     "accepted_answers": [],
@@ -2624,7 +2624,7 @@
   },
   {
     "id": "ja-02-234",
-    "sentence": "友だちと電車かバスで行くつもりです。どうやって空港へ行こうか。",
+    "sentence": "友だちと電車かバスで行くつもりです。どうやって空港へ行こうか？",
     "cloze": "どうやって空港へ行こうか",
     "answer": "どうやって空港へ行こうか",
     "accepted_answers": [],
@@ -2637,20 +2637,20 @@
   },
   {
     "id": "ja-02-235",
-    "sentence": "友だちと明日の旅行について話しています。駅がこみそうだから、きっぷを先に買っておこうか。",
-    "cloze": "きっぷを先に買っておこうか",
-    "answer": "きっぷを先に買っておこうか",
+    "sentence": "友だちと明日の旅行について話しています。朝の駅はいつもこむから、きっぷを先に買おうか？",
+    "cloze": "きっぷを先に買おうか",
+    "answer": "きっぷを先に買おうか",
     "accepted_answers": [],
-    "lemma": "買っておく",
-    "reading": "きっぷをさきにかっておこうか",
-    "meaning": "shall we buy the tickets in advance?",
+    "lemma": "買う",
+    "reading": "きっぷをさきにかおうか",
+    "meaning": "shall we buy the tickets first?",
     "audio": "work/audio/ja-JP/02/ja-02-235.mp3",
-    "grammar": "〜ておく in a volitional question",
+    "grammar": "volitional question",
     "register": "casual, between friends"
   },
   {
     "id": "ja-02-236",
-    "sentence": "友だちとホテルに着きましたが、まだ部屋に入れません。荷物をあずけようか。",
+    "sentence": "友だちとホテルに早く着きました。まだ朝です。荷物をあずけようか？",
     "cloze": "荷物をあずけようか",
     "answer": "荷物をあずけようか",
     "accepted_answers": [],
@@ -2663,7 +2663,7 @@
   },
   {
     "id": "ja-02-237",
-    "sentence": "兄と話しています。妹の電車は夜遅く着くけど、駅までむかえに行こうか。",
+    "sentence": "兄と話しています。妹の電車は夜遅く着くけど、駅までむかえに行こうか？",
     "cloze": "駅までむかえに行こうか",
     "answer": "駅までむかえに行こうか",
     "accepted_answers": [],
@@ -2676,7 +2676,7 @@
   },
   {
     "id": "ja-02-238",
-    "sentence": "友だちと旅行のけいかくを話しています。まだ何も決まらないから、案内所で相談しようか。",
+    "sentence": "友だちと旅行のけいかくについて話しています。まだ何も決まっていないから、案内所で相談しようか？",
     "cloze": "案内所で相談しようか",
     "answer": "案内所で相談しようか",
     "accepted_answers": [],
@@ -2689,7 +2689,7 @@
   },
   {
     "id": "ja-02-239",
-    "sentence": "友だちと駅で電車を待っています。なかなか来ないけど、電車の遅れを調べようか。",
+    "sentence": "友だちと駅で電車を待っています。まだ来ないけど、電車の遅れを調べようか？",
     "cloze": "電車の遅れを調べようか",
     "answer": "電車の遅れを調べようか",
     "accepted_answers": [],
@@ -2741,7 +2741,7 @@
   },
   {
     "id": "ja-02-243",
-    "sentence": "助けてもらったので、会った時にお礼を言うつもりです。",
+    "sentence": "友だちの助けがあったので、会った時にお礼を言うつもりです。",
     "cloze": "お礼を言うつもりです",
     "answer": "お礼を言うつもりです",
     "accepted_answers": [],
@@ -2781,7 +2781,7 @@
   },
   {
     "id": "ja-02-246",
-    "sentence": "一人では決められないので、姉に相談することにした。",
+    "sentence": "一人で決めたくないので、姉に相談することにした。",
     "cloze": "相談することにした",
     "answer": "相談することにした",
     "accepted_answers": [],
@@ -2794,7 +2794,7 @@
   },
   {
     "id": "ja-02-247",
-    "sentence": "友だちがなんどもさそってくれたので、招待を受けることにした。",
+    "sentence": "友だちからなんどもさそいがあったので、招待を受けることにした。",
     "cloze": "招待を受けることにした",
     "answer": "招待を受けることにした",
     "accepted_answers": [],
@@ -2833,7 +2833,7 @@
   },
   {
     "id": "ja-02-250",
-    "sentence": "すぐに反対しないで、まず相手の話を聞くことにした。",
+    "sentence": "相手のかんがえも知りたいので、まず相手の話を聞くことにした。",
     "cloze": "相手の話を聞くことにした",
     "answer": "相手の話を聞くことにした",
     "accepted_answers": [],
@@ -2923,7 +2923,7 @@
   },
   {
     "id": "ja-02-257",
-    "sentence": "山本さんは、何でも相談できる仲のいい友だちです。",
+    "sentence": "山本さんは、小学校からずっと仲のいい友だちです。",
     "cloze": "仲のいい友だち",
     "answer": "仲のいい友だち",
     "accepted_answers": [],
@@ -2934,7 +2934,7 @@
   },
   {
     "id": "ja-02-258",
-    "sentence": "つかれた日でも笑って話せる相手がいると、元気になります。",
+    "sentence": "つかれた日は、笑って話せる相手に電話します。",
     "cloze": "笑って話せる相手",
     "answer": "笑って話せる相手",
     "accepted_answers": [],
@@ -2945,13 +2945,13 @@
   },
   {
     "id": "ja-02-259",
-    "sentence": "母の好きな物を調べて、喜んでもらえる贈り物を選びたいです。",
-    "cloze": "喜んでもらえる贈り物",
-    "answer": "喜んでもらえる贈り物",
+    "sentence": "母に好きな物を聞いて、母が喜ぶ贈り物を選びたいです。",
+    "cloze": "母が喜ぶ贈り物",
+    "answer": "母が喜ぶ贈り物",
     "accepted_answers": [],
-    "lemma": "喜んでもらえる",
-    "reading": "よろこんでもらえるおくりもの",
-    "meaning": "a gift the recipient will be happy with",
+    "lemma": "喜ぶ",
+    "reading": "ははがよろこぶおくりもの",
+    "meaning": "a gift my mother will like",
     "note": "もらえる frames the recipient's pleasure as welcome to the giver.",
     "audio": "work/audio/ja-JP/02/ja-02-259.mp3"
   },
@@ -2968,37 +2968,37 @@
   },
   {
     "id": "ja-02-261",
-    "sentence": "受付で、招待してくれた人の名前を伝えてください。",
-    "cloze": "招待してくれた人",
-    "answer": "招待してくれた人",
+    "sentence": "受付で、私を招待した人の名前を伝えてください。",
+    "cloze": "私を招待した人",
+    "answer": "私を招待した人",
     "accepted_answers": [],
-    "lemma": "招待してくれる",
-    "reading": "しょうたいしてくれたひと",
+    "lemma": "招待する",
+    "reading": "わたしをしょうたいしたひと",
     "meaning": "the person who invited me",
     "note": "くれた shows that the invitation benefited the speaker.",
     "audio": "work/audio/ja-JP/02/ja-02-261.mp3"
   },
   {
     "id": "ja-02-262",
-    "sentence": "仕事で困った時、相談に乗ってくれたせんぱいにお礼を言いました。",
-    "cloze": "相談に乗ってくれたせんぱい",
-    "answer": "相談に乗ってくれたせんぱい",
+    "sentence": "仕事で困った時、相談に乗ったせんぱいにお礼を言いました。",
+    "cloze": "相談に乗ったせんぱい",
+    "answer": "相談に乗ったせんぱい",
     "accepted_answers": [],
-    "lemma": "相談に乗ってくれる",
-    "reading": "そうだんにのってくれたせんぱい",
+    "lemma": "相談に乗る",
+    "reading": "そうだんにのったせんぱい",
     "meaning": "the senior who gave me advice",
     "note": "相談に乗る is the natural collocation for listening and giving advice.",
     "audio": "work/audio/ja-JP/02/ja-02-262.mp3"
   },
   {
     "id": "ja-02-263",
-    "sentence": "紹介してもらった友だちと、今もよく会っています。",
-    "cloze": "紹介してもらった友だち",
-    "answer": "紹介してもらった友だち",
+    "sentence": "せんぱいが紹介した人と、今もよく会っています。",
+    "cloze": "せんぱいが紹介した人",
+    "answer": "せんぱいが紹介した人",
     "accepted_answers": [],
-    "lemma": "紹介してもらう",
-    "reading": "しょうかいしてもらったともだち",
-    "meaning": "a friend someone introduced me to",
+    "lemma": "紹介する",
+    "reading": "せんぱいがしょうかいしたひと",
+    "meaning": "the person my senior introduced",
     "note": "てもらった presents the introduction from the beneficiary's viewpoint.",
     "audio": "work/audio/ja-JP/02/ja-02-263.mp3"
   },
@@ -3029,7 +3029,7 @@
   },
   {
     "id": "ja-02-266",
-    "sentence": "話を聞けば分かると思うので、会って誤解をとくつもりです。",
+    "sentence": "相手の話をよく聞きたいので、会って誤解をとくつもりです。",
     "cloze": "誤解をとく",
     "answer": "誤解をとく",
     "accepted_answers": [],
@@ -3040,7 +3040,7 @@
   },
   {
     "id": "ja-02-267",
-    "sentence": "小さな約束でも、きちんと約束をまもる人をしんじます。",
+    "sentence": "これからも、きちんと約束をまもるつもりです。",
     "cloze": "約束をまもる",
     "answer": "約束をまもる",
     "accepted_answers": [],
@@ -3051,19 +3051,19 @@
   },
   {
     "id": "ja-02-268",
-    "sentence": "行けない時は、りゆうを短く伝えてさそいをていねいに断るといいですよ。",
+    "sentence": "食事会の日は仕事があります。りゆうを短く伝えて、さそいをていねいに断る予定です。",
     "cloze": "さそいをていねいに断る",
     "answer": "さそいをていねいに断る",
     "accepted_answers": [],
     "lemma": "さそいを断る",
     "reading": "さそいをていねいにことわる",
     "meaning": "politely decline an invitation",
-    "register": "polite advice",
+    "register": "polite",
     "audio": "work/audio/ja-JP/02/ja-02-268.mp3"
   },
   {
     "id": "ja-02-269",
-    "sentence": "おせわになった先生に、みんなでお礼の品を贈ることにしました。",
+    "sentence": "先生にはおせわになりました。来週、みんなでお礼の品を贈る予定です。",
     "cloze": "お礼の品を贈る",
     "answer": "お礼の品を贈る",
     "accepted_answers": [],
@@ -3075,7 +3075,7 @@
   },
   {
     "id": "ja-02-270",
-    "sentence": "帰りが遅くなる日は、先に親に予定を伝えるようにしています。",
+    "sentence": "今日は帰りが遅くなるので、先に親に予定を伝えるつもりです。",
     "cloze": "親に予定を伝える",
     "answer": "親に予定を伝える",
     "accepted_answers": [],
@@ -3086,7 +3086,7 @@
   },
   {
     "id": "ja-02-271",
-    "sentence": "山本さんとは、仕事の後で来週会う予定です。",
+    "sentence": "山本さんとは、来週会う予定です。",
     "cloze": "来週会う予定です",
     "answer": "来週会う予定です",
     "accepted_answers": [],
@@ -3111,7 +3111,7 @@
   },
   {
     "id": "ja-02-273",
-    "sentence": "何が好きかまだ分からないので、まだ贈り物を選んでいません。",
+    "sentence": "相手の好みがまだ分からないので、まだ贈り物を選んでいません。",
     "cloze": "まだ贈り物を選んでいません",
     "answer": "まだ贈り物を選んでいません",
     "accepted_answers": [],
@@ -3162,7 +3162,7 @@
   },
   {
     "id": "ja-02-277",
-    "sentence": "一人でかんがえていたそうですが、いつ相談することにしましたか。",
+    "sentence": "一人でかんがえていましたが、いつ相談することにしましたか。",
     "cloze": "いつ相談することにしましたか",
     "answer": "いつ相談することにしましたか",
     "accepted_answers": [],
@@ -3188,20 +3188,20 @@
   },
   {
     "id": "ja-02-279",
-    "sentence": "終わる時間が早くなったんですね。それなら参加することにします。",
-    "cloze": "それなら参加することにします",
-    "answer": "それなら参加することにします",
+    "sentence": "終わる時間が早くなったんですね。その話を聞いて、参加することにします。",
+    "cloze": "その話を聞いて、参加することにします",
+    "answer": "その話を聞いて、参加することにします",
     "accepted_answers": [],
     "lemma": "参加する",
-    "reading": "それならさんかすることにします",
-    "meaning": "in that case, I will participate",
+    "reading": "そのはなしをきいて、さんかすることにします",
+    "meaning": "after hearing that, I will participate",
     "grammar": "それなら responds to new information; ことにします states the speaker's own choice",
     "register": "polite",
     "audio": "work/audio/ja-JP/02/ja-02-279.mp3"
   },
   {
     "id": "ja-02-280",
-    "sentence": "二人への贈り物だから、はなしあって決めることにしよう。",
+    "sentence": "二人で贈る物だから、はなしあって決めることにしよう。",
     "cloze": "はなしあって決めることにしよう",
     "answer": "はなしあって決めることにしよう",
     "accepted_answers": [],
@@ -3226,7 +3226,7 @@
   },
   {
     "id": "ja-02-282",
-    "sentence": "においがこもらないように、窓を開けておくことにしました。",
+    "sentence": "部屋があついので、窓を開けておくことにしました。",
     "cloze": "窓を開けておく",
     "answer": "窓を開けておく",
     "accepted_answers": [],
@@ -3238,7 +3238,7 @@
   },
   {
     "id": "ja-02-283",
-    "sentence": "旅行中は家を空けるので、鍵をかけておくのを忘れないでください。",
+    "sentence": "旅行中は家にだれもいないので、鍵をかけておく必要があります。",
     "cloze": "鍵をかけておく",
     "answer": "鍵をかけておく",
     "accepted_answers": [],
@@ -3268,7 +3268,7 @@
     "accepted_answers": [],
     "lemma": "よういする",
     "reading": "はこをよういしておく",
-    "meaning": "prepare boxes in advance",
+    "meaning": "prepare a box in advance",
     "grammar": "〜ておく (preparation)",
     "audio": "work/audio/ja-JP/02/ja-02-285.mp3"
   },
@@ -3298,7 +3298,7 @@
   },
   {
     "id": "ja-02-288",
-    "sentence": "明日の朝に運び出すため、今夜れいぞうこを空にしておく予定です。",
+    "sentence": "引っ越しは明日の朝なので、今夜れいぞうこを空にしておく予定です。",
     "cloze": "れいぞうこを空にしておく",
     "answer": "れいぞうこを空にしておく",
     "accepted_answers": [],
@@ -3322,19 +3322,19 @@
   },
   {
     "id": "ja-02-290",
-    "sentence": "荷物を送る前に、引っ越し先を確認しておく必要があります。",
-    "cloze": "引っ越し先を確認しておく",
-    "answer": "引っ越し先を確認しておく",
+    "sentence": "荷物を送る前に、引っ越し先の住所を確認しておく必要があります。",
+    "cloze": "引っ越し先の住所を確認しておく",
+    "answer": "引っ越し先の住所を確認しておく",
     "accepted_answers": [],
     "lemma": "確認する",
-    "reading": "ひっこしさきをかくにんしておく",
+    "reading": "ひっこしさきのじゅうしょをかくにんしておく",
     "meaning": "confirm the new address beforehand",
     "grammar": "〜ておく (preparation)",
     "audio": "work/audio/ja-JP/02/ja-02-290.mp3"
   },
   {
     "id": "ja-02-291",
-    "sentence": "てちょうに試験の日を書いておくと、忘れずにすみます。",
+    "sentence": "試験は来月です。ノートに試験の日を書いておくことにしました。",
     "cloze": "試験の日を書いておく",
     "answer": "試験の日を書いておく",
     "accepted_answers": [],
@@ -3358,7 +3358,7 @@
   },
   {
     "id": "ja-02-293",
-    "sentence": "読み方が分からないことばは、辞書で調べておくようにしてください。",
+    "sentence": "読み方が分からないことばは、授業の前に辞書で調べておくつもりです。",
     "cloze": "辞書で調べておく",
     "answer": "辞書で調べておく",
     "accepted_answers": [],
@@ -3382,7 +3382,7 @@
   },
   {
     "id": "ja-02-295",
-    "sentence": "明日の授業を休むなら、今日中に先生に連絡しておく必要があります。",
+    "sentence": "明日の授業を休むので、今日中に先生に連絡しておく必要があります。",
     "cloze": "先生に連絡しておく",
     "answer": "先生に連絡しておく",
     "accepted_answers": [],
@@ -3430,7 +3430,7 @@
   },
   {
     "id": "ja-02-299",
-    "sentence": "担当者が後で受け取れるように、しょるいを受付に置いておくことにしました。",
+    "sentence": "担当者は後で来ます。しょるいを受付に置いておくことにしました。",
     "cloze": "しょるいを受付に置いておく",
     "answer": "しょるいを受付に置いておく",
     "accepted_answers": [],
@@ -3442,7 +3442,7 @@
   },
   {
     "id": "ja-02-300",
-    "sentence": "担当者がいなかったら、電話ばんごうを残しておくといいですよ。",
+    "sentence": "担当者が今いないので、電話ばんごうを残しておくつもりです。",
     "cloze": "電話ばんごうを残しておく",
     "answer": "電話ばんごうを残しておく",
     "accepted_answers": [],
@@ -3466,7 +3466,7 @@
   },
   {
     "id": "ja-02-302",
-    "sentence": "旅行中にぐあいがわるくなった時のため、近くの病院を調べておくことにしました。",
+    "sentence": "旅行中の病気がしんぱいです。近くの病院を調べておくことにしました。",
     "cloze": "病院を調べておく",
     "answer": "病院を調べておく",
     "accepted_answers": [],
@@ -3478,7 +3478,7 @@
   },
   {
     "id": "ja-02-303",
-    "sentence": "受付ですぐ見せられるように、ほけんしょうを出しておくとあんしんです。",
+    "sentence": "これから受付に行くので、ほけんしょうを出しておくつもりです。",
     "cloze": "ほけんしょうを出しておく",
     "answer": "ほけんしょうを出しておく",
     "accepted_answers": [],
@@ -3502,7 +3502,7 @@
   },
   {
     "id": "ja-02-305",
-    "sentence": "先生に説明しやすいように、症状を書いておくことにしました。",
+    "sentence": "医者に説明するので、症状を書いておくことにしました。",
     "cloze": "症状を書いておく",
     "answer": "症状を書いておく",
     "accepted_answers": [],
@@ -3514,7 +3514,7 @@
   },
   {
     "id": "ja-02-306",
-    "sentence": "店へ返す前に、商品を箱に入れておくようにしてください。",
+    "sentence": "店の人から、商品を箱に入れておく必要があると聞きました。",
     "cloze": "商品を箱に入れておく",
     "answer": "商品を箱に入れておく",
     "accepted_answers": [],
@@ -3526,7 +3526,7 @@
   },
   {
     "id": "ja-02-307",
-    "sentence": "後で商品を交換するかもしれないので、領収書を取っておくほうがいいですよ。",
+    "sentence": "商品を交換する予定なので、領収書を取っておくつもりです。",
     "cloze": "領収書を取っておく",
     "answer": "領収書を取っておく",
     "accepted_answers": [],
@@ -3538,7 +3538,7 @@
   },
   {
     "id": "ja-02-308",
-    "sentence": "家にいる時に受け取れるように、配達時間を決めておくつもりです。",
+    "sentence": "午後は家にいます。配達時間を決めておくつもりです。",
     "cloze": "配達時間を決めておく",
     "answer": "配達時間を決めておく",
     "accepted_answers": [],
@@ -3550,7 +3550,7 @@
   },
   {
     "id": "ja-02-309",
-    "sentence": "カードが使えない店なので、現金をよういしておく必要があります。",
+    "sentence": "買い物には現金が必要なので、現金をよういしておくつもりです。",
     "cloze": "現金をよういしておく",
     "answer": "現金をよういしておく",
     "accepted_answers": [],
@@ -3562,7 +3562,7 @@
   },
   {
     "id": "ja-02-310",
-    "sentence": "旅行の日に持たなくていいように、荷物を郵便局から送っておくことにしました。",
+    "sentence": "旅行の前の日に、荷物を郵便局から送っておくことにしました。",
     "cloze": "荷物を郵便局から送っておく",
     "answer": "荷物を郵便局から送っておく",
     "accepted_answers": [],
@@ -3586,7 +3586,7 @@
   },
   {
     "id": "ja-02-312",
-    "sentence": "朝早く車で出るなら、空港までの道を調べておくほうがいいですよ。",
+    "sentence": "朝早く車で出るので、空港までの道を調べておくつもりです。",
     "cloze": "空港までの道を調べておく",
     "answer": "空港までの道を調べておく",
     "accepted_answers": [],
@@ -3598,7 +3598,7 @@
   },
   {
     "id": "ja-02-313",
-    "sentence": "夏休みはこみそうなので、早めにホテルを予約しておくことにしました。",
+    "sentence": "夏休みはホテルがこみます。早めにホテルを予約しておくことにしました。",
     "cloze": "ホテルを予約しておく",
     "answer": "ホテルを予約しておく",
     "accepted_answers": [],
@@ -3634,7 +3634,7 @@
   },
   {
     "id": "ja-02-316",
-    "sentence": "この機械にはさわらず、そのままにしておくのがあんぜんです。",
+    "sentence": "この機械は今こわれています。危ないので、修理の人が来るまでそのままにしておく必要があります。",
     "cloze": "そのままにしておく",
     "answer": "そのままにしておく",
     "accepted_answers": [],
@@ -3658,7 +3658,7 @@
   },
   {
     "id": "ja-02-318",
-    "sentence": "エアコンを使っている間、ドアは閉めておくことにしています。",
+    "sentence": "エアコンを使うので、ドアは閉めておくことにしました。",
     "cloze": "ドアは閉めておく",
     "answer": "ドアは閉めておく",
     "accepted_answers": [],
@@ -3670,25 +3670,25 @@
   },
   {
     "id": "ja-02-319",
-    "sentence": "このちずは、後で使うので出しておくことにしました。",
-    "cloze": "後で使うので出しておく",
-    "answer": "後で使うので出しておく",
+    "sentence": "このちずは後で使うので、出しておくことにしました。",
+    "cloze": "出しておく",
+    "answer": "出しておく",
     "accepted_answers": [],
     "lemma": "出す",
-    "reading": "あとでつかうのでだしておく",
-    "meaning": "leave it out because it will be used later",
+    "reading": "だしておく",
+    "meaning": "leave it out",
     "grammar": "〜ておく (leaving a state for later use)",
     "audio": "work/audio/ja-JP/02/ja-02-319.mp3"
   },
   {
     "id": "ja-02-320",
-    "sentence": "予約の時間は、忘れないようにメモしておくとあんしんですよ。",
-    "cloze": "忘れないようにメモしておく",
-    "answer": "忘れないようにメモしておく",
+    "sentence": "予約の時間をメモしておくことにしました。これで忘れません。",
+    "cloze": "予約の時間をメモしておく",
+    "answer": "予約の時間をメモしておく",
     "accepted_answers": [],
     "lemma": "メモする",
-    "reading": "わすれないようにメモしておく",
-    "meaning": "make a note so as not to forget",
+    "reading": "よやくのじかんをメモしておく",
+    "meaning": "make a note of the reservation time in advance",
     "grammar": "〜ておく (preparation)",
     "audio": "work/audio/ja-JP/02/ja-02-320.mp3"
   },
@@ -3716,7 +3716,7 @@
   },
   {
     "id": "ja-02-323",
-    "sentence": "前は薬を飲むのがにがてでしたが、今は薬を飲めるようになった。",
+    "sentence": "前は薬を飲むのがにがてだった。でも、今は薬を飲めるようになった。",
     "cloze": "薬を飲めるようになった",
     "answer": "薬を飲めるようになった",
     "accepted_answers": [],
@@ -3814,13 +3814,13 @@
   },
   {
     "id": "ja-02-332",
-    "sentence": "家を出る前に、鍵を確認するようにする。",
+    "sentence": "家を出る前に、ドアの鍵を確認するようにする。",
     "cloze": "鍵を確認するようにする",
     "answer": "鍵を確認するようにする",
     "accepted_answers": [],
     "lemma": "確認するようにする",
     "reading": "かぎをかくにんするようにする",
-    "meaning": "make a point of checking for the key",
+    "meaning": "make a point of checking the door lock",
     "audio": "work/audio/ja-JP/02/ja-02-332.mp3"
   },
   {
@@ -3836,13 +3836,13 @@
   },
   {
     "id": "ja-02-334",
-    "sentence": "天気予報では、昼ごろから雨が降り始める。",
-    "cloze": "雨が降り始める",
-    "answer": "雨が降り始める",
+    "sentence": "午後、急に雨が降り始めた。",
+    "cloze": "急に雨が降り始めた",
+    "answer": "急に雨が降り始めた",
     "accepted_answers": [],
     "lemma": "降り始める",
-    "reading": "あめがふりはじめる",
-    "meaning": "it begins to rain",
+    "reading": "きゅうにあめがふりはじめた",
+    "meaning": "it started to rain",
     "audio": "work/audio/ja-JP/02/ja-02-334.mp3"
   },
   {
@@ -3858,7 +3858,7 @@
   },
   {
     "id": "ja-02-336",
-    "sentence": "友だちは電話をすると、いつも一時間も話し続ける。",
+    "sentence": "友だちは電話で、いつも一時間も話し続ける。",
     "cloze": "話し続ける",
     "answer": "話し続ける",
     "accepted_answers": [],
@@ -3869,7 +3869,7 @@
   },
   {
     "id": "ja-02-337",
-    "sentence": "熱が下がっても、月曜日まで薬を飲み続ける。",
+    "sentence": "熱は下がった。でも、月曜日まで薬を飲み続ける。",
     "cloze": "薬を飲み続ける",
     "answer": "薬を飲み続ける",
     "accepted_answers": [],
@@ -3880,7 +3880,7 @@
   },
   {
     "id": "ja-02-338",
-    "sentence": "学校を卒業しても、日本語を勉強し続ける。",
+    "sentence": "学校は卒業した。でも、日本語を勉強し続ける。",
     "cloze": "日本語を勉強し続ける",
     "answer": "日本語を勉強し続ける",
     "accepted_answers": [],
@@ -3945,7 +3945,7 @@
   },
   {
     "id": "ja-02-344",
-    "sentence": "時間がなくなったら、とちゅうで話すのをやめる。",
+    "sentence": "もう時間がないので、とちゅうで話すのをやめる。",
     "cloze": "とちゅうで話すのをやめる",
     "answer": "とちゅうで話すのをやめる",
     "accepted_answers": [],
@@ -3978,7 +3978,7 @@
   },
   {
     "id": "ja-02-347",
-    "sentence": "会社から連絡があり、来月から担当することになる。",
+    "sentence": "会社から連絡があって、来月から担当することになる。",
     "cloze": "来月から担当することになる",
     "answer": "来月から担当することになる",
     "accepted_answers": [],
@@ -4000,7 +4000,7 @@
   },
   {
     "id": "ja-02-349",
-    "sentence": "会話の練習を続ければ、少しずつ話せるようになる。",
+    "sentence": "会話を毎日練習するつもりです。少しずつ話せるようになると思います。",
     "cloze": "少しずつ話せるようになる",
     "answer": "少しずつ話せるようになる",
     "accepted_answers": [],
@@ -4011,7 +4011,7 @@
   },
   {
     "id": "ja-02-350",
-    "sentence": "夜のコーヒーをやめれば、前より眠れるようになる。",
+    "sentence": "夜はコーヒーを飲まないことにしました。前より眠れるようになると思います。",
     "cloze": "前より眠れるようになる",
     "answer": "前より眠れるようになる",
     "accepted_answers": [],
@@ -4022,7 +4022,7 @@
   },
   {
     "id": "ja-02-351",
-    "sentence": "仕事を忘れないために、毎週予定を確認するようにしている。",
+    "sentence": "大事な予定があります。毎週予定を確認するようにしている。",
     "cloze": "毎週予定を確認するようにしている",
     "answer": "毎週予定を確認するようにしている",
     "accepted_answers": [],
@@ -4033,13 +4033,13 @@
   },
   {
     "id": "ja-02-352",
-    "sentence": "食後にアラームを使って、薬を忘れないようにしている。",
-    "cloze": "薬を忘れないようにしている",
-    "answer": "薬を忘れないようにしている",
+    "sentence": "食後にアラームをかけて、薬を飲み忘れないようにしている。",
+    "cloze": "薬を飲み忘れないようにしている",
+    "answer": "薬を飲み忘れないようにしている",
     "accepted_answers": [],
-    "lemma": "忘れないようにしている",
-    "reading": "くすりをわすれないようにしている",
-    "meaning": "make an ongoing effort not to forget the medicine",
+    "lemma": "飲み忘れないようにしている",
+    "reading": "くすりをのみわすれないようにしている",
+    "meaning": "make an ongoing effort not to forget to take the medicine",
     "audio": "work/audio/ja-JP/02/ja-02-352.mp3"
   },
   {
@@ -4066,7 +4066,7 @@
   },
   {
     "id": "ja-02-355",
-    "sentence": "車が好きだったのに、どうして運転をやめたんですか。",
+    "sentence": "前は車が好きでしたね。どうして運転をやめたんですか。",
     "cloze": "どうして運転をやめたんですか",
     "answer": "どうして運転をやめたんですか",
     "accepted_answers": [],
@@ -4077,13 +4077,13 @@
   },
   {
     "id": "ja-02-356",
-    "sentence": "毎日、どのくらい練習を続けていますか。",
+    "sentence": "どのくらい練習を続けていますか。",
     "cloze": "どのくらい練習を続けていますか",
     "answer": "どのくらい練習を続けていますか",
     "accepted_answers": [],
     "lemma": "練習を続ける",
     "reading": "どのくらいれんしゅうをつづけていますか",
-    "meaning": "how long do you keep practicing each day?",
+    "meaning": "how long have you continued practicing?",
     "audio": "work/audio/ja-JP/02/ja-02-356.mp3"
   },
   {
@@ -4120,7 +4120,7 @@
   },
   {
     "id": "ja-02-360",
-    "sentence": "私にとって、毎朝早く起きることは続けるのが難しい習慣です。",
+    "sentence": "早起きは、続けるのが難しい習慣です。",
     "cloze": "続けるのが難しい習慣",
     "answer": "続けるのが難しい習慣",
     "accepted_answers": [],
@@ -4164,7 +4164,7 @@
   },
   {
     "id": "ja-02-364",
-    "sentence": "薬を飲むと眠くなることがあるので、夜に飲んでいます。",
+    "sentence": "私は薬を飲むと眠くなるので、夜に飲んでいます。",
     "cloze": "薬を飲むと眠くなる",
     "answer": "薬を飲むと眠くなる",
     "accepted_answers": [],
@@ -4208,13 +4208,13 @@
   },
   {
     "id": "ja-02-368",
-    "sentence": "このゲームは、カードを入れるとお金が出るしくみです。",
-    "cloze": "カードを入れるとお金が出る",
-    "answer": "カードを入れるとお金が出る",
+    "sentence": "駅にあるこの機械は、カードを入れると残高が分かるしくみです。",
+    "cloze": "カードを入れると残高が分かる",
+    "answer": "カードを入れると残高が分かる",
     "accepted_answers": [],
-    "lemma": "カードを入れる",
-    "reading": "かーどをいれるとおかねがでる",
-    "meaning": "inserting the card makes money come out",
+    "lemma": "残高が分かる",
+    "reading": "カードをいれるとざんだかがわかる",
+    "meaning": "inserting the card shows you the balance",
     "audio": "work/audio/ja-JP/02/ja-02-368.mp3"
   },
   {
@@ -4263,7 +4263,7 @@
   },
   {
     "id": "ja-02-373",
-    "sentence": "同僚に、仕事が終わったら手伝うと伝えてあります。",
+    "sentence": "同僚に、仕事が終わったら手伝うと伝えました。",
     "cloze": "仕事が終わったら手伝う",
     "answer": "仕事が終わったら手伝う",
     "accepted_answers": [],
@@ -4274,7 +4274,7 @@
   },
   {
     "id": "ja-02-374",
-    "sentence": "旅行会社から、予約が取れたら知らせると言われました。",
+    "sentence": "旅行会社は、予約が取れたら知らせる予定です。",
     "cloze": "予約が取れたら知らせる",
     "answer": "予約が取れたら知らせる",
     "accepted_answers": [],
@@ -4318,7 +4318,7 @@
   },
   {
     "id": "ja-02-378",
-    "sentence": "まちあわせに遅れそうなので、駅に着いたら電話すると友達に伝えました。",
+    "sentence": "まちあわせに遅れるので、駅に着いたら電話すると友達に伝えました。",
     "cloze": "駅に着いたら電話する",
     "answer": "駅に着いたら電話する",
     "accepted_answers": [],
@@ -4384,13 +4384,13 @@
   },
   {
     "id": "ja-02-384",
-    "sentence": "同僚に、今出ないと会議にまにあわないと言われて、急いで会社を出ました。",
+    "sentence": "会議まで時間がありませんでした。「今出ないと会議にまにあわない」と思って、急いで会社を出ました。",
     "cloze": "今出ないと会議にまにあわない",
     "answer": "今出ないと会議にまにあわない",
     "accepted_answers": [],
     "lemma": "今出る",
     "reading": "いまでないとかいぎにまにあわない",
-    "meaning": "unless we leave now, we will miss the meeting",
+    "meaning": "unless I leave now, I won't make the meeting",
     "audio": "work/audio/ja-JP/02/ja-02-384.mp3"
   },
   {
@@ -4472,7 +4472,7 @@
   },
   {
     "id": "ja-02-392",
-    "sentence": "旅行の予定について、「駅に着いたら何をしますか」と先生に聞かれました。",
+    "sentence": "先生は、旅行の予定について「駅に着いたら何をしますか」と聞きました。",
     "cloze": "駅に着いたら何をしますか",
     "answer": "駅に着いたら何をしますか",
     "accepted_answers": [],
@@ -4527,7 +4527,7 @@
   },
   {
     "id": "ja-02-397",
-    "sentence": "案内所の人が、困ったらいつでも連絡してくださいと言ってくれました。",
+    "sentence": "案内所の人は、困ったらいつでも連絡してくださいと言いました。",
     "cloze": "困ったらいつでも連絡してください",
     "answer": "困ったらいつでも連絡してください",
     "accepted_answers": [],
@@ -4549,7 +4549,7 @@
   },
   {
     "id": "ja-02-399",
-    "sentence": "ホテルのかかりの人に、部屋に入ったら窓を開けてくださいと言われました。",
+    "sentence": "ホテルのかかりの人は、部屋に入ったら窓を開けてくださいと言いました。",
     "cloze": "部屋に入ったら窓を開けてください",
     "answer": "部屋に入ったら窓を開けてください",
     "accepted_answers": [],
@@ -4560,7 +4560,7 @@
   },
   {
     "id": "ja-02-400",
-    "sentence": "薬局で、この薬を飲んだら運転しないでくださいと注意されました。",
+    "sentence": "薬局の人は、この薬を飲んだら運転しないでくださいと言いました。",
     "cloze": "この薬を飲んだら運転しないでください",
     "answer": "この薬を飲んだら運転しないでください",
     "accepted_answers": [],
@@ -4582,7 +4582,7 @@
   },
   {
     "id": "ja-02-402",
-    "sentence": "ピアノは、毎日練習すれば上手になるよ。",
+    "sentence": "友だちに「毎日練習すれば上手になるよ」と言いました。",
     "cloze": "毎日練習すれば上手になる",
     "answer": "毎日練習すれば上手になる",
     "accepted_answers": [],
@@ -4593,7 +4593,7 @@
   },
   {
     "id": "ja-02-403",
-    "sentence": "このコートは、安ければ買いたいです。",
+    "sentence": "このかばんは、安ければ買いたいです。",
     "cloze": "安ければ買いたい",
     "answer": "安ければ買いたい",
     "accepted_answers": [],
@@ -4604,7 +4604,7 @@
   },
   {
     "id": "ja-02-404",
-    "sentence": "としょかんがこんでいても、この部屋がしずかならここで勉強できるよ。",
+    "sentence": "友だちと話しています。「この部屋はしずかだよ。」「しずかならここで勉強できるよ。」",
     "cloze": "しずかならここで勉強できる",
     "answer": "しずかならここで勉強できる",
     "accepted_answers": [],
@@ -4615,7 +4615,7 @@
   },
   {
     "id": "ja-02-405",
-    "sentence": "仕事は多くないので、時間があれば手伝えるよ。",
+    "sentence": "友だちに手伝ってほしいと言われて、「時間があれば手伝えるよ」と答えました。",
     "cloze": "時間があれば手伝える",
     "answer": "時間があれば手伝える",
     "accepted_answers": [],
@@ -4626,7 +4626,7 @@
   },
   {
     "id": "ja-02-406",
-    "sentence": "説明を聞いても分からなければしつもんしてください。",
+    "sentence": "説明の後、分からなければしつもんしてください。",
     "cloze": "分からなければしつもんしてください",
     "answer": "分からなければしつもんしてください",
     "accepted_answers": [],
@@ -4648,7 +4648,7 @@
   },
   {
     "id": "ja-02-408",
-    "sentence": "ここから駅へ行くならあの道が近いですよ。",
+    "sentence": "「駅へ行きたいんですが。」「ここから駅へ行くならあの道が近いですよ。」",
     "cloze": "駅へ行くならあの道が近い",
     "answer": "駅へ行くならあの道が近い",
     "accepted_answers": [],
@@ -4659,7 +4659,7 @@
   },
   {
     "id": "ja-02-409",
-    "sentence": "こうようがきれいなので、きょうとへ行くなら秋がいいですよ。",
+    "sentence": "「きょうとへ行きたいんですが。」「きょうとへ行くなら秋がいいですよ。」",
     "cloze": "きょうとへ行くなら秋がいい",
     "answer": "きょうとへ行くなら秋がいい",
     "accepted_answers": [],
@@ -4670,7 +4670,7 @@
   },
   {
     "id": "ja-02-410",
-    "sentence": "診察の後、薬が必要なら受付でもらえるそうです。",
+    "sentence": "「薬が必要なんですが」と聞いた人に、受付の人は、薬が必要なら受付でもらえると説明しました。",
     "cloze": "薬が必要なら受付でもらえる",
     "answer": "薬が必要なら受付でもらえる",
     "accepted_answers": [],
@@ -4681,7 +4681,7 @@
   },
   {
     "id": "ja-02-411",
-    "sentence": "先生に聞くなら授業の後がいいと思います。",
+    "sentence": "「先生に聞きたいんですが。」「先生に聞くなら授業の後がいいと思います。」",
     "cloze": "先生に聞くなら授業の後がいい",
     "answer": "先生に聞くなら授業の後がいい",
     "accepted_answers": [],
@@ -4692,7 +4692,7 @@
   },
   {
     "id": "ja-02-412",
-    "sentence": "春は予約が多いので、引っ越すなら早めに予約する必要があります。",
+    "sentence": "「春に引っ越します。」「引っ越すなら早めに予約する必要があります。」",
     "cloze": "引っ越すなら早めに予約する",
     "answer": "引っ越すなら早めに予約する",
     "accepted_answers": [],
@@ -4703,7 +4703,7 @@
   },
   {
     "id": "ja-02-413",
-    "sentence": "やねがあるので、雨でもしあいはあるそうです。",
+    "sentence": "係の人は、雨でもしあいはあると説明しました。",
     "cloze": "雨でもしあいはある",
     "answer": "雨でもしあいはある",
     "accepted_answers": [],
@@ -4714,7 +4714,7 @@
   },
   {
     "id": "ja-02-414",
-    "sentence": "仕事で毎日使う物だから、高くても必要なら買うよ。",
+    "sentence": "友だちが「仕事で毎日使うから必要だ」と言ったので、「高くても必要なら買うよ」と答えた。",
     "cloze": "高くても必要なら買う",
     "answer": "高くても必要なら買う",
     "accepted_answers": [],
@@ -4725,7 +4725,7 @@
   },
   {
     "id": "ja-02-415",
-    "sentence": "約束を変える時は、いそがしくても連絡するようにしています。",
+    "sentence": "友だちには「いそがしくても連絡する」と話しました。",
     "cloze": "いそがしくても連絡する",
     "answer": "いそがしくても連絡する",
     "accepted_answers": [],
@@ -4747,7 +4747,7 @@
   },
   {
     "id": "ja-02-417",
-    "sentence": "事故で電車が止まって、早く出たのに遅れたんです。",
+    "sentence": "電車が止まって、早く出たのに遅れたんです。",
     "cloze": "早く出たのに遅れた",
     "answer": "早く出たのに遅れた",
     "accepted_answers": [],
@@ -4813,7 +4813,7 @@
   },
   {
     "id": "ja-02-423",
-    "sentence": "雨が部屋に入ってしまいました。窓を閉めておけばよかったです。",
+    "sentence": "雨が部屋に入りました。窓を閉めておけばよかったです。",
     "cloze": "窓を閉めておけばよかった",
     "answer": "窓を閉めておけばよかった",
     "accepted_answers": [],
@@ -4868,7 +4868,7 @@
   },
   {
     "id": "ja-02-428",
-    "sentence": "山へ車で行くならこの道が安全です。",
+    "sentence": "「山へ車で行きます。」「車で行くならこの道が安全です。」",
     "cloze": "車で行くならこの道が安全です",
     "answer": "車で行くならこの道が安全です",
     "accepted_answers": [],
@@ -4879,7 +4879,7 @@
   },
   {
     "id": "ja-02-429",
-    "sentence": "はじめてパソコンを買うならこちらのほうが使いやすいですよ。",
+    "sentence": "「初めてパソコンを買います。」「買うならこちらのほうが使いやすいですよ。」",
     "cloze": "買うならこちらのほうが使いやすい",
     "answer": "買うならこちらのほうが使いやすい",
     "accepted_answers": [],
@@ -4890,7 +4890,7 @@
   },
   {
     "id": "ja-02-430",
-    "sentence": "明日、仕事を休むなら同僚に連絡してください。",
+    "sentence": "「明日、仕事を休みます。」「休むなら同僚に連絡してください。」",
     "cloze": "休むなら同僚に連絡してください",
     "answer": "休むなら同僚に連絡してください",
     "accepted_answers": [],
@@ -4912,7 +4912,7 @@
   },
   {
     "id": "ja-02-432",
-    "sentence": "はなしあいでは、相手が反対してもりゆうを説明することが大切です。",
+    "sentence": "相手が反対してもりゆうを説明する。これが大切だ。",
     "cloze": "相手が反対してもりゆうを説明する",
     "answer": "相手が反対してもりゆうを説明する",
     "accepted_answers": [],
@@ -4923,7 +4923,7 @@
   },
   {
     "id": "ja-02-433",
-    "sentence": "この病院では、午前中なら予約がなくても診てもらえるそうです。",
+    "sentence": "受付の人は、この病院では予約がなくても診てもらえると説明しました。",
     "cloze": "予約がなくても診てもらえる",
     "answer": "予約がなくても診てもらえる",
     "accepted_answers": [],
@@ -4956,7 +4956,7 @@
   },
   {
     "id": "ja-02-436",
-    "sentence": "あの問題は、かんたんなのに間違えたよ。",
+    "sentence": "友だちに「あの問題は、かんたんなのに間違えたよ」と話しました。",
     "cloze": "かんたんなのに間違えた",
     "answer": "かんたんなのに間違えた",
     "accepted_answers": [],
@@ -4967,7 +4967,7 @@
   },
   {
     "id": "ja-02-437",
-    "sentence": "この機械は、このボタンをおすと音が出るようになっています。",
+    "sentence": "この機械では、このボタンをおすと音が出る。",
     "cloze": "このボタンをおすと音が出る",
     "answer": "このボタンをおすと音が出る",
     "accepted_answers": [],
@@ -4989,7 +4989,7 @@
   },
   {
     "id": "ja-02-439",
-    "sentence": "会議の前に早く着けば少し休めると思います。",
+    "sentence": "会議に早く着けば少し休めると思います。",
     "cloze": "早く着けば少し休める",
     "answer": "早く着けば少し休める",
     "accepted_answers": [],
@@ -5000,7 +5000,7 @@
   },
   {
     "id": "ja-02-440",
-    "sentence": "すずしくて旅行しやすいので、北海道へ行くなら夏がおすすめです。",
+    "sentence": "「北海道へ行きたいんですが。」「北海道へ行くなら夏がおすすめです。」",
     "cloze": "北海道へ行くなら夏がおすすめです",
     "answer": "北海道へ行くなら夏がおすすめです",
     "accepted_answers": [],
@@ -5011,7 +5011,7 @@
   },
   {
     "id": "ja-02-441",
-    "sentence": "先生が本をゆずってくださるので、先生に本をいただくことになりました。",
+    "sentence": "先生の本が必要です。来週、先生に本をいただく予定です。",
     "cloze": "先生に本をいただく",
     "answer": "先生に本をいただく",
     "accepted_answers": [],
@@ -5022,7 +5022,7 @@
   },
   {
     "id": "ja-02-442",
-    "sentence": "旅行に持っていくため、友だちに辞書をもらう予定です。",
+    "sentence": "旅行には辞書が必要です。友だちに辞書をもらう予定です。",
     "cloze": "友だちに辞書をもらう",
     "answer": "友だちに辞書をもらう",
     "accepted_answers": [],
@@ -5033,7 +5033,7 @@
   },
   {
     "id": "ja-02-443",
-    "sentence": "来週の試験のために、せんぱいから資料をもらう予定です。",
+    "sentence": "来週、試験があります。せんぱいから資料をもらう予定です。",
     "cloze": "せんぱいから資料をもらう",
     "answer": "せんぱいから資料をもらう",
     "accepted_answers": [],
@@ -5055,7 +5055,7 @@
   },
   {
     "id": "ja-02-445",
-    "sentence": "弟が学校で使えるように、弟にノートをあげることにしました。",
+    "sentence": "弟は学校でノートが必要です。弟にノートをあげる予定です。",
     "cloze": "弟にノートをあげる",
     "answer": "弟にノートをあげる",
     "accepted_answers": [],
@@ -5066,7 +5066,7 @@
   },
   {
     "id": "ja-02-446",
-    "sentence": "私は写真をとれなかったので、友だちが写真をくれるそうです。",
+    "sentence": "私は写真を持っていません。あとで友だちが写真をくれる予定です。",
     "cloze": "友だちが写真をくれる",
     "answer": "友だちが写真をくれる",
     "accepted_answers": [],
@@ -5077,7 +5077,7 @@
   },
   {
     "id": "ja-02-447",
-    "sentence": "もっと練習したい時は、先生が問題をくださることがあります。",
+    "sentence": "もっと練習したい時は、先生が問題をくださるんです。",
     "cloze": "先生が問題をくださる",
     "answer": "先生が問題をくださる",
     "accepted_answers": [],
@@ -5088,7 +5088,7 @@
   },
   {
     "id": "ja-02-448",
-    "sentence": "卒業する前に、せんぱいが漢字の本をくれるそうです。",
+    "sentence": "卒業の日に、せんぱいが漢字の本をくれる予定です。",
     "cloze": "せんぱいが漢字の本をくれる",
     "answer": "せんぱいが漢字の本をくれる",
     "accepted_answers": [],
@@ -5099,7 +5099,7 @@
   },
   {
     "id": "ja-02-449",
-    "sentence": "学校のとしょしつで、卒業生から辞書をいただくことになりました。",
+    "sentence": "学校のとしょしつで、卒業生から辞書をいただく予定です。",
     "cloze": "卒業生から辞書をいただく",
     "answer": "卒業生から辞書をいただく",
     "accepted_answers": [],
@@ -5110,7 +5110,7 @@
   },
   {
     "id": "ja-02-450",
-    "sentence": "卒業したら、読まなくなった本をあつめて、学校に本を贈るつもりです。",
+    "sentence": "卒業の後、もう読まない本をあつめます。学校に本を贈るつもりです。",
     "cloze": "学校に本を贈る",
     "answer": "学校に本を贈る",
     "accepted_answers": [],
@@ -5143,7 +5143,7 @@
   },
   {
     "id": "ja-02-453",
-    "sentence": "きれいにつつんでありますね。だれに贈り物をあげますか。",
+    "sentence": "きれいなつつみですね。だれに贈り物をあげますか。",
     "cloze": "だれに贈り物をあげますか",
     "answer": "だれに贈り物をあげますか",
     "accepted_answers": [],
@@ -5165,7 +5165,7 @@
   },
   {
     "id": "ja-02-455",
-    "sentence": "友だちにもらったノートには、試験に出る所がまとめてあります。",
+    "sentence": "友だちにもらったノートには、試験について大切なことがたくさんあります。",
     "cloze": "友だちにもらったノート",
     "answer": "友だちにもらったノート",
     "accepted_answers": [],
@@ -5198,7 +5198,7 @@
   },
   {
     "id": "ja-02-458",
-    "sentence": "大学院のせんぱいがくださった資料のおかげで、試験のじゅんびができました。",
+    "sentence": "大学院のせんぱいがくださった資料を、試験のじゅんびに使いました。",
     "cloze": "せんぱいがくださった資料",
     "answer": "せんぱいがくださった資料",
     "accepted_answers": [],
@@ -5220,7 +5220,7 @@
   },
   {
     "id": "ja-02-460",
-    "sentence": "友だちが花をよういしてくれました。たんじょうびに花をもらうのは、はじめてです。",
+    "sentence": "今年は、はじめてたんじょうびに花をもらう予定です。",
     "cloze": "たんじょうびに花をもらう",
     "answer": "たんじょうびに花をもらう",
     "accepted_answers": [],
@@ -5231,7 +5231,7 @@
   },
   {
     "id": "ja-02-461",
-    "sentence": "試験に受かったので、家族からごうかくのおいわいをもらうことになりました。",
+    "sentence": "試験に受かりました。家族からごうかくのおいわいをもらう予定です。",
     "cloze": "ごうかくのおいわいをもらう",
     "answer": "ごうかくのおいわいをもらう",
     "accepted_answers": [],
@@ -5241,7 +5241,7 @@
   },
   {
     "id": "ja-02-462",
-    "sentence": "ノートをかしてくれた友だちに、お礼におかしをあげるつもりです。",
+    "sentence": "友だちからノートをかりました。お礼におかしをあげるつもりです。",
     "cloze": "お礼におかしをあげる",
     "answer": "お礼におかしをあげる",
     "accepted_answers": [],
@@ -5252,7 +5252,7 @@
   },
   {
     "id": "ja-02-463",
-    "sentence": "卒業の日、先生には小さな贈り物を渡すことにしました。",
+    "sentence": "卒業の日、先生には小さな贈り物を渡す予定です。",
     "cloze": "先生には小さな贈り物を渡す",
     "answer": "先生には小さな贈り物を渡す",
     "accepted_answers": [],
@@ -5263,7 +5263,7 @@
   },
   {
     "id": "ja-02-464",
-    "sentence": "卒業の日には、学校からきねんひんをもらうそうです。",
+    "sentence": "先生は、卒業する学生が学校からきねんひんをもらうと説明しました。",
     "cloze": "学校からきねんひんをもらう",
     "answer": "学校からきねんひんをもらう",
     "accepted_answers": [],
@@ -5274,7 +5274,7 @@
   },
   {
     "id": "ja-02-465",
-    "sentence": "コンサートに行けなくなった友だちがきっぷをくれることになりました。",
+    "sentence": "友だちはコンサートの日に仕事があります。友だちがきっぷをくれる予定です。",
     "cloze": "友だちがきっぷをくれる",
     "answer": "友だちがきっぷをくれる",
     "accepted_answers": [],
@@ -5285,7 +5285,7 @@
   },
   {
     "id": "ja-02-466",
-    "sentence": "けんが一まい残ったので、同僚にあまったけんをあげることにしました。",
+    "sentence": "けんが一まい残りました。同僚にあまったけんをあげる予定です。",
     "cloze": "同僚にあまったけんをあげる",
     "answer": "同僚にあまったけんをあげる",
     "accepted_answers": [],
@@ -5296,7 +5296,7 @@
   },
   {
     "id": "ja-02-467",
-    "sentence": "大学院のせんぱいであるりゅうがくせいからおみやげをいただくことになりました。",
+    "sentence": "大学院のりゅうがくせいは私のせんぱいです。来週、りゅうがくせいからおみやげをいただく予定です。",
     "cloze": "りゅうがくせいからおみやげをいただく",
     "answer": "りゅうがくせいからおみやげをいただく",
     "accepted_answers": [],
@@ -5306,7 +5306,7 @@
   },
   {
     "id": "ja-02-468",
-    "sentence": "親にたのまれたので、親に写真を送ってあげるつもりです。",
+    "sentence": "親は旅行の写真を楽しみにしています。親に写真を送ってあげるつもりです。",
     "cloze": "親に写真を送ってあげる",
     "answer": "親に写真を送ってあげる",
     "accepted_answers": [],
@@ -5317,7 +5317,7 @@
   },
   {
     "id": "ja-02-469",
-    "sentence": "もう読み終わったので、友だちに本をかすことにしました。",
+    "sentence": "この本はもう読みました。友だちに本をかす予定です。",
     "cloze": "友だちに本をかす",
     "answer": "友だちに本をかす",
     "accepted_answers": [],
@@ -5339,7 +5339,7 @@
   },
   {
     "id": "ja-02-471",
-    "sentence": "もう読まないなら、この本をもらってもいいですか。",
+    "sentence": "もしよければ、この本をもらってもいいですか。",
     "cloze": "この本をもらってもいいですか",
     "answer": "この本をもらってもいいですか",
     "accepted_answers": [],
@@ -5350,7 +5350,7 @@
   },
   {
     "id": "ja-02-472",
-    "sentence": "このノートはもう使いません。これを弟にあげてもいいですか。",
+    "sentence": "このノート、ありがとうございました。でも、同じノートを持っています。これを弟にあげてもいいですか。",
     "cloze": "これを弟にあげてもいいですか",
     "answer": "これを弟にあげてもいいですか",
     "accepted_answers": [],
@@ -5361,7 +5361,7 @@
   },
   {
     "id": "ja-02-473",
-    "sentence": "先生、この本をいただいてもよろしいですか。",
+    "sentence": "先生が「この本をどうぞ」と言いました。先生、この本をいただいてもよろしいですか。",
     "cloze": "いただいてもよろしいですか",
     "answer": "いただいてもよろしいですか",
     "accepted_answers": [],
@@ -5371,7 +5371,7 @@
   },
   {
     "id": "ja-02-474",
-    "sentence": "先生、この辞書をくださるんですか。本当にありがとうございます。",
+    "sentence": "先生、この辞書は私への贈り物ですか。本当にありがとうございます。",
     "cloze": "本当にありがとうございます",
     "answer": "本当にありがとうございます",
     "accepted_answers": [],
@@ -5382,7 +5382,7 @@
   },
   {
     "id": "ja-02-475",
-    "sentence": "先生、このペンをくださるんですか。大切に使います。",
+    "sentence": "先生、このペンは私への贈り物ですか。大切に使います。",
     "cloze": "大切に使います",
     "answer": "大切に使います",
     "accepted_answers": [],
@@ -5404,7 +5404,7 @@
   },
   {
     "id": "ja-02-477",
-    "sentence": "この漢字の辞書をもらってもいいんですか。ちょうど必要だったんです。",
+    "sentence": "この漢字の辞書は、私への贈り物ですか。ちょうど必要だったんです。",
     "cloze": "ちょうど必要だったんです",
     "answer": "ちょうど必要だったんです",
     "accepted_answers": [],
@@ -5415,7 +5415,7 @@
   },
   {
     "id": "ja-02-478",
-    "sentence": "ありがとうございます。でも、高い贈り物は受け取れません。お気持ちだけいただきます。",
+    "sentence": "ありがとうございます。でも、高い贈り物はえんりょします。お気持ちだけいただきます。",
     "cloze": "お気持ちだけいただきます",
     "answer": "お気持ちだけいただきます",
     "accepted_answers": [],
@@ -5426,7 +5426,7 @@
   },
   {
     "id": "ja-02-479",
-    "sentence": "たんじょうび、おめでとう。これは私からです。",
+    "sentence": "たんじょうびおめでとうございます。これは私からです。",
     "cloze": "これは私からです",
     "answer": "これは私からです",
     "accepted_answers": [],
@@ -5448,7 +5448,7 @@
   },
   {
     "id": "ja-02-481",
-    "sentence": "今日中には終わらないと同僚に話したら、同僚が仕事を手伝ってくれることになりました。",
+    "sentence": "一人では今日中に終わりません。同僚が仕事を手伝ってくれるので、安心しました。",
     "cloze": "同僚が仕事を手伝ってくれる",
     "answer": "同僚が仕事を手伝ってくれる",
     "accepted_answers": [],
@@ -5459,7 +5459,7 @@
   },
   {
     "id": "ja-02-482",
-    "sentence": "分からないところを聞いたら、せんぱいが説明してくれたので、仕事を続けられました。",
+    "sentence": "分からないところをせんぱいに聞きました。せんぱいが説明してくれたので、やり方が分かりました。",
     "cloze": "せんぱいが説明してくれた",
     "answer": "せんぱいが説明してくれた",
     "accepted_answers": [],
@@ -5470,7 +5470,7 @@
   },
   {
     "id": "ja-02-483",
-    "sentence": "電車がもうなかったので、友だちが駅まで送ってくれた。",
+    "sentence": "荷物が多かったので、友だちが駅まで送ってくれた。",
     "cloze": "友だちが駅まで送ってくれた",
     "answer": "友だちが駅まで送ってくれた",
     "accepted_answers": [],
@@ -5503,7 +5503,7 @@
   },
   {
     "id": "ja-02-486",
-    "sentence": "会議の時間についてはなしあい、同僚に予定を変えてもらうことにしました。",
+    "sentence": "会議の時間についてはなしあいました。同僚に予定を変えてもらうつもりです。",
     "cloze": "同僚に予定を変えてもらう",
     "answer": "同僚に予定を変えてもらう",
     "accepted_answers": [],
@@ -5514,7 +5514,7 @@
   },
   {
     "id": "ja-02-487",
-    "sentence": "しんぱいだったので、出す前にせんぱいに確認してもらった。",
+    "sentence": "書類に間違いがあると思ったので、せんぱいに確認してもらった。",
     "cloze": "せんぱいに確認してもらった",
     "answer": "せんぱいに確認してもらった",
     "accepted_answers": [],
@@ -5536,12 +5536,12 @@
   },
   {
     "id": "ja-02-489",
-    "sentence": "商品がこわれないように、店員に箱へ入れてもらうことにしました。",
-    "cloze": "店員に箱へ入れてもらう",
-    "answer": "店員に箱へ入れてもらう",
+    "sentence": "商品を安全に持ち帰りたいので、店員に箱に入れてもらう予定です。",
+    "cloze": "店員に箱に入れてもらう",
+    "answer": "店員に箱に入れてもらう",
     "accepted_answers": [],
     "lemma": "入れる",
-    "reading": "てんいんにはこへいれてもらう",
+    "reading": "てんいんにはこにいれてもらう",
     "meaning": "have the clerk put it into a box",
     "audio": "work/audio/ja-JP/02/ja-02-489.mp3"
   },
@@ -5558,7 +5558,7 @@
   },
   {
     "id": "ja-02-491",
-    "sentence": "弟にたのまれたので、ばんごはんの後で弟の宿題を見てあげる。",
+    "sentence": "弟は宿題が分からない。今、弟の宿題を見てあげる。",
     "cloze": "弟の宿題を見てあげる",
     "answer": "弟の宿題を見てあげる",
     "accepted_answers": [],
@@ -5569,7 +5569,7 @@
   },
   {
     "id": "ja-02-492",
-    "sentence": "はじめて来る友だちにたのまれたので、しゅうまつは友だちを案内してあげる。",
+    "sentence": "友だちに頼まれたので、しゅうまつは友だちを案内してあげる。",
     "cloze": "友だちを案内してあげる",
     "answer": "友だちを案内してあげる",
     "accepted_answers": [],
@@ -5580,7 +5580,7 @@
   },
   {
     "id": "ja-02-493",
-    "sentence": "駅までの道を聞かれたので、困っている人に道を教えてあげることにしました。",
+    "sentence": "駅の前で、困っている人が私に道を聞いた。困っている人に道を教えてあげる。",
     "cloze": "困っている人に道を教えてあげる",
     "answer": "困っている人に道を教えてあげる",
     "accepted_answers": [],
@@ -5591,18 +5591,18 @@
   },
   {
     "id": "ja-02-494",
-    "sentence": "友だちが荷物を二つ持っていたので、「おもそうな荷物なら持ちましょうか」と聞きました。",
-    "cloze": "おもそうな荷物なら持ちましょうか",
-    "answer": "おもそうな荷物なら持ちましょうか",
+    "sentence": "友だちの荷物は二つあります。一つはとても重いので、「重いほうを持ちましょうか」と聞きました。",
+    "cloze": "重いほうを持ちましょうか",
+    "answer": "重いほうを持ちましょうか",
     "accepted_answers": [],
-    "lemma": "持つ",
-    "reading": "おもそうなにもつならもちましょうか",
-    "meaning": "shall I carry the heavier-looking bag?",
+    "lemma": "重いほうを持つ",
+    "reading": "おもいほうをもちましょうか",
+    "meaning": "shall I carry the heavier one?",
     "audio": "work/audio/ja-JP/02/ja-02-494.mp3"
   },
   {
     "id": "ja-02-495",
-    "sentence": "駅の前でホテルのちずを見ている人がいたので、道に迷った人に声をかけることにしました。",
+    "sentence": "ホテルの場所が分からない人がいる。道に迷った人に声をかける。",
     "cloze": "道に迷った人に声をかける",
     "answer": "道に迷った人に声をかける",
     "accepted_answers": [],
@@ -5624,7 +5624,7 @@
   },
   {
     "id": "ja-02-497",
-    "sentence": "会議の時間があっているか、予定を確認してもらえますか。",
+    "sentence": "会議の時間を忘れました。予定を確認してもらえますか。",
     "cloze": "予定を確認してもらえますか",
     "answer": "予定を確認してもらえますか",
     "accepted_answers": [],
@@ -5635,7 +5635,7 @@
   },
   {
     "id": "ja-02-498",
-    "sentence": "担当者がすぐに参りますので、すみませんが、少し待っていただけませんか。",
+    "sentence": "受付の人がお客様に「担当者はすぐに来ます。すみませんが、少し待っていただけませんか」と言いました。",
     "cloze": "少し待っていただけませんか",
     "answer": "少し待っていただけませんか",
     "accepted_answers": [],
@@ -5646,7 +5646,7 @@
   },
   {
     "id": "ja-02-499",
-    "sentence": "書き直した作文を、もういちど先生に見ていただけますか。",
+    "sentence": "受付の人に、「書き直した作文を、もういちど先生に見ていただけますか」と聞きました。",
     "cloze": "先生に見ていただけますか",
     "answer": "先生に見ていただけますか",
     "accepted_answers": [],
@@ -5657,7 +5657,7 @@
   },
   {
     "id": "ja-02-500",
-    "sentence": "終電がないので、友だちに「すみませんが、駅まで送ってくれませんか」とたのみました。",
+    "sentence": "終電の時間が近いので、友だちに「すみませんが、駅まで送ってくれませんか」とたのみました。",
     "cloze": "駅まで送ってくれませんか",
     "answer": "駅まで送ってくれませんか",
     "accepted_answers": [],
@@ -5668,7 +5668,7 @@
   },
   {
     "id": "ja-02-501",
-    "sentence": "仕事が早く終わったよ。手伝ってくれてありがとう。",
+    "sentence": "親しい同僚に、「仕事が早く終わったよ。手伝ってくれてありがとう」と言いました。",
     "cloze": "手伝ってくれてありがとう",
     "answer": "手伝ってくれてありがとう",
     "accepted_answers": [],
@@ -5690,18 +5690,18 @@
   },
   {
     "id": "ja-02-503",
-    "sentence": "電話する時間がなかったから、予約してもらって助かった。",
-    "cloze": "予約してもらって助かった",
-    "answer": "予約してもらって助かった",
+    "sentence": "電話する時間がなかったから、友だちに予約してもらって助かった。",
+    "cloze": "友だちに予約してもらって助かった",
+    "answer": "友だちに予約してもらって助かった",
     "accepted_answers": [],
     "lemma": "助かる",
-    "reading": "よやくしてもらってたすかった",
-    "meaning": "it helped that you made the reservation",
+    "reading": "ともだちによやくしてもらってたすかった",
+    "meaning": "it helped that my friend made the reservation",
     "audio": "work/audio/ja-JP/02/ja-02-503.mp3"
   },
   {
     "id": "ja-02-504",
-    "sentence": "先生が駅まで送ってくださったおかげでまにあいました。",
+    "sentence": "先生の車で駅へ行きました。おかげでまにあいました。",
     "cloze": "おかげでまにあいました",
     "answer": "おかげでまにあいました",
     "accepted_answers": [],
@@ -5711,7 +5711,7 @@
   },
   {
     "id": "ja-02-505",
-    "sentence": "予定の変更を伝えるのが遅くなり、ごめいわくをおかけしました。",
+    "sentence": "予定の変更について、連絡が遅くなりました。ごめいわくをおかけしました。",
     "cloze": "ごめいわくをおかけしました",
     "answer": "ごめいわくをおかけしました",
     "accepted_answers": [],
@@ -5721,18 +5721,18 @@
   },
   {
     "id": "ja-02-506",
-    "sentence": "一人では終わらなかったので、同僚に助けてもらって本当に助かった。",
-    "cloze": "同僚に助けてもらって本当に助かった",
-    "answer": "同僚に助けてもらって本当に助かった",
+    "sentence": "一人では終わらなかったので、同僚に手伝ってもらえて本当に助かった。",
+    "cloze": "同僚に手伝ってもらえて本当に助かった",
+    "answer": "同僚に手伝ってもらえて本当に助かった",
     "accepted_answers": [],
-    "lemma": "助ける",
-    "reading": "どうりょうにたすけてもらってほんとうにたすかった",
-    "meaning": "having my colleague help me was a real lifesaver",
+    "lemma": "手伝う",
+    "reading": "どうりょうにてつだってもらえてほんとうにたすかった",
+    "meaning": "being able to get my colleague's help was a real lifesaver",
     "audio": "work/audio/ja-JP/02/ja-02-506.mp3"
   },
   {
     "id": "ja-02-507",
-    "sentence": "仕事が終わった後で、手伝ってくれたせんぱいにお礼を言うつもりです。",
+    "sentence": "明日、手伝ってくれたせんぱいにお礼を言うつもりです。",
     "cloze": "手伝ってくれたせんぱいにお礼を言う",
     "answer": "手伝ってくれたせんぱいにお礼を言う",
     "accepted_answers": [],
@@ -5754,7 +5754,7 @@
   },
   {
     "id": "ja-02-509",
-    "sentence": "しあいに持っていくべんとうをたのまれたので、妹のためにべんとうを作ってあげる。",
+    "sentence": "妹はしあいにべんとうを持っていく。妹のためにべんとうを作ってあげる。",
     "cloze": "妹のためにべんとうを作ってあげる",
     "answer": "妹のためにべんとうを作ってあげる",
     "accepted_answers": [],
@@ -5765,7 +5765,7 @@
   },
   {
     "id": "ja-02-510",
-    "sentence": "荷物が多いので、友だちに駅までむかえに来てもらうことにしました。",
+    "sentence": "荷物が多いので、友だちに駅までむかえに来てもらう予定です。",
     "cloze": "友だちに駅までむかえに来てもらう",
     "answer": "友だちに駅までむかえに来てもらう",
     "accepted_answers": [],
@@ -5787,7 +5787,7 @@
   },
   {
     "id": "ja-02-512",
-    "sentence": "この仕事には、同僚に教えてもらった方法を使っています。",
+    "sentence": "この仕事では、同僚に教えてもらった方法を使っています。",
     "cloze": "同僚に教えてもらった方法",
     "answer": "同僚に教えてもらった方法",
     "accepted_answers": [],
@@ -5798,7 +5798,7 @@
   },
   {
     "id": "ja-02-513",
-    "sentence": "受付にいるのが、せんぱいが紹介してくださった方です。",
+    "sentence": "受付の人は、せんぱいが紹介してくださった方です。",
     "cloze": "せんぱいが紹介してくださった方",
     "answer": "せんぱいが紹介してくださった方",
     "accepted_answers": [],
@@ -5820,7 +5820,7 @@
   },
   {
     "id": "ja-02-515",
-    "sentence": "ほしいサイズがなかったので、店員に「別の商品も見てみますか」と聞かれました。",
+    "sentence": "店員は、ほしいサイズがないと言いました。それから、「別の商品も見てみますか」と聞きました。",
     "cloze": "別の商品も見てみますか",
     "answer": "別の商品も見てみますか",
     "accepted_answers": [],
@@ -5831,18 +5831,18 @@
   },
   {
     "id": "ja-02-516",
-    "sentence": "こうはいにたのまれたので、明日の会議の前にこうはいのはっぴょうを見てあげる。",
+    "sentence": "こうはいが「はっぴょうを見てください」と言った。こうはいのはっぴょうを見てあげる。",
     "cloze": "こうはいのはっぴょうを見てあげる",
     "answer": "こうはいのはっぴょうを見てあげる",
     "accepted_answers": [],
     "lemma": "見る",
     "reading": "こうはいのはっぴょうをみてあげる",
-    "meaning": "review a junior colleague's presentation for them",
+    "meaning": "watch a junior colleague's presentation for them",
     "audio": "work/audio/ja-JP/02/ja-02-516.mp3"
   },
   {
     "id": "ja-02-517",
-    "sentence": "同僚がいそがしそうなので、「今日は私がやりましょうか」と聞きました。",
+    "sentence": "同僚の仕事が一つ残っています。「今日は私がやりましょうか」と聞きました。",
     "cloze": "今日は私がやりましょうか",
     "answer": "今日は私がやりましょうか",
     "accepted_answers": [],
@@ -5853,7 +5853,7 @@
   },
   {
     "id": "ja-02-518",
-    "sentence": "このすうじがただしいか、会議の前にこちらで調べておきましょうか。",
+    "sentence": "このすうじは少し変です。こちらで調べておきましょうか。",
     "cloze": "こちらで調べておきましょうか",
     "answer": "こちらで調べておきましょうか",
     "accepted_answers": [],
@@ -5885,7 +5885,7 @@
   },
   {
     "id": "ja-02-521",
-    "sentence": "じどうドアなので、人がちかづくとドアが開く。",
+    "sentence": "人が近くにいる。じどうドアなので、ドアが開く。",
     "cloze": "ドアが開く",
     "answer": "ドアが開く",
     "accepted_answers": [],
@@ -5907,7 +5907,7 @@
   },
   {
     "id": "ja-02-523",
-    "sentence": "駅前では、夜九時になると店が閉まる。",
+    "sentence": "駅前の店は夜九時までだ。夜九時に店が閉まる。",
     "cloze": "店が閉まる",
     "answer": "店が閉まる",
     "accepted_answers": [],
@@ -5918,7 +5918,7 @@
   },
   {
     "id": "ja-02-524",
-    "sentence": "さいごの客が出た後で、店員が店を閉める。",
+    "sentence": "店にはもう客がいない。店員が店を閉める。",
     "cloze": "店員が店を閉める",
     "answer": "店員が店を閉める",
     "accepted_answers": [],
@@ -5929,7 +5929,7 @@
   },
   {
     "id": "ja-02-525",
-    "sentence": "ベルがなると、映画が始まる。",
+    "sentence": "もうすぐ映画の時間だ。ベルの音で、映画が始まる。",
     "cloze": "映画が始まる",
     "answer": "映画が始まる",
     "accepted_answers": [],
@@ -5940,7 +5940,7 @@
   },
   {
     "id": "ja-02-526",
-    "sentence": "チャイムの後で、先生が授業を始める。",
+    "sentence": "授業のチャイムだ。先生が授業を始める。",
     "cloze": "先生が授業を始める",
     "answer": "先生が授業を始める",
     "accepted_answers": [],
@@ -5951,13 +5951,13 @@
   },
   {
     "id": "ja-02-527",
-    "sentence": "みんなのへんじがそろったら、予定が決まる。",
+    "sentence": "みんなからへんじが来た。これで予定が決まる。",
     "cloze": "予定が決まる",
     "answer": "予定が決まる",
     "accepted_answers": [],
     "lemma": "決まる",
     "reading": "よていがきまる",
-    "meaning": "the schedule is settled",
+    "meaning": "the schedule will now be settled",
     "audio": "work/audio/ja-JP/02/ja-02-527.mp3"
   },
   {
@@ -5973,13 +5973,13 @@
   },
   {
     "id": "ja-02-529",
-    "sentence": "こわれたぶひんをかえれば、テレビが直る。",
+    "sentence": "こわれたぶひんを新しくした。これでテレビが直る。",
     "cloze": "テレビが直る",
     "answer": "テレビが直る",
     "accepted_answers": [],
     "lemma": "直る",
     "reading": "テレビがなおる",
-    "meaning": "the television is fixed",
+    "meaning": "the television will work again",
     "audio": "work/audio/ja-JP/02/ja-02-529.mp3"
   },
   {
@@ -5995,7 +5995,7 @@
   },
   {
     "id": "ja-02-531",
-    "sentence": "へやに入ると、電気がつく。",
+    "sentence": "このへやでは、自動で電気がつく。",
     "cloze": "電気がつく",
     "answer": "電気がつく",
     "accepted_answers": [],
@@ -6017,7 +6017,7 @@
   },
   {
     "id": "ja-02-533",
-    "sentence": "しばらくさわらないと、がめんが消える。",
+    "sentence": "この機械では、三分後にがめんが消える。",
     "cloze": "がめんが消える",
     "answer": "がめんが消える",
     "accepted_answers": [],
@@ -6039,7 +6039,7 @@
   },
   {
     "id": "ja-02-535",
-    "sentence": "入口が開くと、客が会場に入る。",
+    "sentence": "入口はもう開いている。客が会場に入る。",
     "cloze": "客が会場に入る",
     "answer": "客が会場に入る",
     "accepted_answers": [],
@@ -6050,7 +6050,7 @@
   },
   {
     "id": "ja-02-536",
-    "sentence": "チケットを確認してから、係が客を会場に入れる。",
+    "sentence": "客はチケットを持っている。係が客を会場に入れる。",
     "cloze": "係が客を会場に入れる",
     "answer": "係が客を会場に入れる",
     "accepted_answers": [],
@@ -6061,7 +6061,7 @@
   },
   {
     "id": "ja-02-537",
-    "sentence": "エンディングの歌の後で、番組が終わる。",
+    "sentence": "エンディングの歌で、番組が終わる。",
     "cloze": "番組が終わる",
     "answer": "番組が終わる",
     "accepted_answers": [],
@@ -6072,7 +6072,7 @@
   },
   {
     "id": "ja-02-538",
-    "sentence": "さいごのあいさつをして、しかいしゃが番組を終える。",
+    "sentence": "さいごのあいさつで、しかいしゃが番組を終える。",
     "cloze": "しかいしゃが番組を終える",
     "answer": "しかいしゃが番組を終える",
     "accepted_answers": [],
@@ -6083,7 +6083,7 @@
   },
   {
     "id": "ja-02-539",
-    "sentence": "はなびの音といっしょに、祭りが始まった。",
+    "sentence": "はなびの音がした。祭りが始まった。",
     "cloze": "祭りが始まった",
     "answer": "祭りが始まった",
     "accepted_answers": [],
@@ -6094,7 +6094,7 @@
   },
   {
     "id": "ja-02-540",
-    "sentence": "バンドは、みんながしずかになってからえんそうを始めた。",
+    "sentence": "会場がしずかになった。バンドはえんそうを始めた。",
     "cloze": "えんそうを始めた",
     "answer": "えんそうを始めた",
     "accepted_answers": [],
@@ -6116,7 +6116,7 @@
   },
   {
     "id": "ja-02-542",
-    "sentence": "ならんでいる人を見て、係がもんを開けた。",
+    "sentence": "ならんでいる人が多いので、係がもんを開けた。",
     "cloze": "係がもんを開けた",
     "answer": "係がもんを開けた",
     "accepted_answers": [],
@@ -6127,7 +6127,7 @@
   },
   {
     "id": "ja-02-543",
-    "sentence": "りょうほうのチームからへんじが来て、しあいの日が決まった。",
+    "sentence": "りょうほうのチームからへんじが来た。しあいの日が決まった。",
     "cloze": "しあいの日が決まった",
     "answer": "しあいの日が決まった",
     "accepted_answers": [],
@@ -6138,7 +6138,7 @@
   },
   {
     "id": "ja-02-544",
-    "sentence": "会場のよていを見て、チームが時間を決めた。",
+    "sentence": "会場は午後が空いている。チームが時間を決めた。",
     "cloze": "チームが時間を決めた",
     "answer": "チームが時間を決めた",
     "accepted_answers": [],
@@ -6149,7 +6149,7 @@
   },
   {
     "id": "ja-02-545",
-    "sentence": "コマーシャルに入ると、音が小さくなった。",
+    "sentence": "コマーシャルが始まった。音が小さくなった。",
     "cloze": "音が小さくなった",
     "answer": "音が小さくなった",
     "accepted_answers": [],
@@ -6182,7 +6182,7 @@
   },
   {
     "id": "ja-02-548",
-    "sentence": "さいごの客が出た後で、係が映画館を閉めている。",
+    "sentence": "映画館にはもう客がいない。係が映画館を閉めている。",
     "cloze": "係が映画館を閉めている",
     "answer": "係が映画館を閉めている",
     "accepted_answers": [],
@@ -6215,7 +6215,7 @@
   },
   {
     "id": "ja-02-551",
-    "sentence": "ステージの後ろを見ると、絵がかべにかかっている。",
+    "sentence": "ステージの後ろに行った。絵がかべにかかっている。",
     "cloze": "絵がかべにかかっている",
     "answer": "絵がかべにかかっている",
     "accepted_answers": [],
@@ -6226,7 +6226,7 @@
   },
   {
     "id": "ja-02-552",
-    "sentence": "イベントの前に、係が絵をかべにかける。",
+    "sentence": "イベントの会場で、係が絵をかべにかける。",
     "cloze": "係が絵をかべにかける",
     "answer": "係が絵をかべにかける",
     "accepted_answers": [],
@@ -6237,7 +6237,7 @@
   },
   {
     "id": "ja-02-553",
-    "sentence": "ボタンをおすと、写真ががめんに出る。",
+    "sentence": "このボタンで、写真ががめんに出る。",
     "cloze": "写真ががめんに出る",
     "answer": "写真ががめんに出る",
     "accepted_answers": [],
@@ -6248,7 +6248,7 @@
   },
   {
     "id": "ja-02-554",
-    "sentence": "みんなに見せるために、写真をがめんに出す。",
+    "sentence": "みんなに見せたいので、写真をがめんに出す。",
     "cloze": "写真をがめんに出す",
     "answer": "写真をがめんに出す",
     "accepted_answers": [],
@@ -6270,7 +6270,7 @@
   },
   {
     "id": "ja-02-556",
-    "sentence": "しゅくだいをしながら、音楽を聞く。",
+    "sentence": "しゅくだいの時、音楽を聞く。",
     "cloze": "音楽を聞く",
     "answer": "音楽を聞く",
     "accepted_answers": [],
@@ -6281,7 +6281,7 @@
   },
   {
     "id": "ja-02-557",
-    "sentence": "かぜがふくと、しばふの上でボールが動く。",
+    "sentence": "強い風で、しばふの上のボールが動く。",
     "cloze": "ボールが動く",
     "answer": "ボールが動く",
     "accepted_answers": [],
@@ -6303,7 +6303,7 @@
   },
   {
     "id": "ja-02-559",
-    "sentence": "みんなが時間までに来て、会議が予定どおり始まった。",
+    "sentence": "会議には全員が時間どおりに来た。会議が予定どおり始まった。",
     "cloze": "会議が予定どおり始まった",
     "answer": "会議が予定どおり始まった",
     "accepted_answers": [],
@@ -6337,7 +6337,7 @@
   },
   {
     "id": "ja-02-562",
-    "sentence": "へやに風を入れるために、窓を開けている。",
+    "sentence": "窓が重いので、今、両手で窓を開けている。",
     "cloze": "窓を開けている",
     "answer": "窓を開けている",
     "accepted_answers": [],
@@ -6373,7 +6373,7 @@
   },
   {
     "id": "ja-02-565",
-    "sentence": "中から話す声が聞こえるので、会議が始まっている。",
+    "sentence": "中から話し声が聞こえるので、会議が始まっている。",
     "cloze": "会議が始まっている",
     "answer": "会議が始まっている",
     "accepted_answers": [],
@@ -6391,13 +6391,13 @@
     "accepted_answers": [],
     "lemma": "始める",
     "reading": "かかりがかいぎをはじめている",
-    "meaning": "the coordinator is starting the meeting",
-    "grammar": "ongoing action with 〜ている",
+    "meaning": "the coordinator has started the meeting",
+    "grammar": "completed/resultant 〜ている",
     "audio": "work/audio/ja-JP/02/ja-02-566.mp3"
   },
   {
     "id": "ja-02-567",
-    "sentence": "来月の予定が決まっているので、ホテルを予約できます。",
+    "sentence": "来月の予定が決まっているので、ホテルを予約しました。",
     "cloze": "予定が決まっている",
     "answer": "予定が決まっている",
     "accepted_answers": [],
@@ -6409,7 +6409,7 @@
   },
   {
     "id": "ja-02-568",
-    "sentence": "みんなのつごうを聞きながら、担当者が予定を決めている。",
+    "sentence": "担当者はみんなのつごうを聞いた。今、担当者が予定を決めている。",
     "cloze": "担当者が予定を決めている",
     "answer": "担当者が予定を決めている",
     "accepted_answers": [],
@@ -6433,7 +6433,7 @@
   },
   {
     "id": "ja-02-570",
-    "sentence": "こわれたところを調べながら、作業員が機械を直している。",
+    "sentence": "作業員はこわれたところを調べた。今、作業員が機械を直している。",
     "cloze": "作業員が機械を直している",
     "answer": "作業員が機械を直している",
     "accepted_answers": [],
@@ -6457,14 +6457,14 @@
   },
   {
     "id": "ja-02-572",
-    "sentence": "暗くなったので、母が電気をつけている。",
+    "sentence": "母が電気をつけているので、今も部屋は明るいです。",
     "cloze": "母が電気をつけている",
     "answer": "母が電気をつけている",
     "accepted_answers": [],
     "lemma": "つける",
     "reading": "ははがでんきをつけている",
-    "meaning": "my mother is turning on the light",
-    "grammar": "ongoing action with 〜ている",
+    "meaning": "my mother has the light on",
+    "grammar": "maintained resultant state with 〜ている",
     "audio": "work/audio/ja-JP/02/ja-02-572.mp3"
   },
   {
@@ -6517,7 +6517,7 @@
   },
   {
     "id": "ja-02-577",
-    "sentence": "今はわたれません。地震で橋が壊れている。",
+    "sentence": "地震で橋が壊れているので、今は橋を使わないでください。",
     "cloze": "地震で橋が壊れている",
     "answer": "地震で橋が壊れている",
     "accepted_answers": [],
@@ -6529,7 +6529,7 @@
   },
   {
     "id": "ja-02-578",
-    "sentence": "また安全にわたれるように、作業員が橋を直している。",
+    "sentence": "橋はまだこわれている。作業員が橋を直している。",
     "cloze": "作業員が橋を直している",
     "answer": "作業員が橋を直している",
     "accepted_answers": [],
@@ -6553,7 +6553,7 @@
   },
   {
     "id": "ja-02-580",
-    "sentence": "ちずを見ながら、係が避難場所を決めている。",
+    "sentence": "係はちずと住所を確認した。今、係が避難場所を決めている。",
     "cloze": "係が避難場所を決めている",
     "answer": "係が避難場所を決めている",
     "accepted_answers": [],
@@ -6601,7 +6601,7 @@
   },
   {
     "id": "ja-02-584",
-    "sentence": "さっきまで晴れていたのに、今は空が曇っている。",
+    "sentence": "さっきまで晴れていた。今は空が曇っている。",
     "cloze": "空が曇っている",
     "answer": "空が曇っている",
     "accepted_answers": [],
@@ -6625,7 +6625,7 @@
   },
   {
     "id": "ja-02-586",
-    "sentence": "橋があぶないため、警察が通行を止めている。",
+    "sentence": "橋があぶないので、警察が通行を止めている。",
     "cloze": "警察が通行を止めている",
     "answer": "警察が通行を止めている",
     "accepted_answers": [],
@@ -6637,7 +6637,7 @@
   },
   {
     "id": "ja-02-587",
-    "sentence": "この入口が開いているので、今すぐ入れます。",
+    "sentence": "この入口が開いているので、今はここから入ります。",
     "cloze": "入口が開いている",
     "answer": "入口が開いている",
     "accepted_answers": [],
@@ -6649,7 +6649,7 @@
   },
   {
     "id": "ja-02-588",
-    "sentence": "避難する人を中に入れるため、係が入口を開けている。",
+    "sentence": "避難する人が待っている。今、係が入口を開けている。",
     "cloze": "係が入口を開けている",
     "answer": "係が入口を開けている",
     "accepted_answers": [],
@@ -6673,7 +6673,7 @@
   },
   {
     "id": "ja-02-590",
-    "sentence": "橋へ行かないように、係が危険を知らせている。",
+    "sentence": "橋は危険だ。今、係が危険を知らせている。",
     "cloze": "係が危険を知らせている",
     "answer": "係が危険を知らせている",
     "accepted_answers": [],
@@ -6697,19 +6697,19 @@
   },
   {
     "id": "ja-02-592",
-    "sentence": "みんなが安全に中へ入れるように、係がれつを作っている。",
+    "sentence": "入口では、何人かの係がれつを作っている。",
     "cloze": "係がれつを作っている",
     "answer": "係がれつを作っている",
     "accepted_answers": [],
     "lemma": "作る",
     "reading": "かかりがれつをつくっている",
-    "meaning": "the coordinator is forming a line",
+    "meaning": "some staff members are forming a line",
     "grammar": "ongoing action with 〜ている",
     "audio": "work/audio/ja-JP/02/ja-02-592.mp3"
   },
   {
     "id": "ja-02-593",
-    "sentence": "風が入ってくるのは、ドアが少し開いているからです。",
+    "sentence": "ドアが少し開いているので、風が入ってきます。",
     "cloze": "ドアが少し開いている",
     "answer": "ドアが少し開いている",
     "accepted_answers": [],
@@ -6721,7 +6721,7 @@
   },
   {
     "id": "ja-02-594",
-    "sentence": "外へ出るために、父がドアを開けている。",
+    "sentence": "ドアは重い。父がドアを開けている。",
     "cloze": "父がドアを開けている",
     "answer": "父がドアを開けている",
     "accepted_answers": [],
@@ -6745,7 +6745,7 @@
   },
   {
     "id": "ja-02-596",
-    "sentence": "電車の前に人がいるため、駅員が電車を止めている。",
+    "sentence": "電車の前に人がいるので、駅員が電車を止めている。",
     "cloze": "駅員が電車を止めている",
     "answer": "駅員が電車を止めている",
     "accepted_answers": [],
@@ -6781,7 +6781,7 @@
   },
   {
     "id": "ja-02-599",
-    "sentence": "外を見ると、雨がやんでいる。",
+    "sentence": "外はもうしずかだ。雨がやんでいる。",
     "cloze": "雨がやんでいる",
     "answer": "雨がやんでいる",
     "accepted_answers": [],
@@ -6793,7 +6793,7 @@
   },
   {
     "id": "ja-02-600",
-    "sentence": "台風が来るか確認するために、天気予報を見ている。",
+    "sentence": "台風の情報が必要なので、天気予報を見ている。",
     "cloze": "天気予報を見ている",
     "answer": "天気予報を見ている",
     "accepted_answers": [],
@@ -6805,7 +6805,7 @@
   },
   {
     "id": "ja-02-601",
-    "sentence": "このボタンをおすと、荷物が外に出る。",
+    "sentence": "このボタンで、荷物が外に出る。",
     "cloze": "荷物が外に出る",
     "answer": "荷物が外に出る",
     "accepted_answers": [],
@@ -6827,13 +6827,13 @@
   },
   {
     "id": "ja-02-603",
-    "sentence": "この大きさなら、本が箱に入る。",
+    "sentence": "この機械では、本が箱に入る。",
     "cloze": "本が箱に入る",
     "answer": "本が箱に入る",
     "accepted_answers": [],
     "lemma": "入る",
     "reading": "ほんがはこにはいる",
-    "meaning": "the book fits in the box",
+    "meaning": "the book goes into the box",
     "audio": "work/audio/ja-JP/02/ja-02-603.mp3"
   },
   {
@@ -6849,7 +6849,7 @@
   },
   {
     "id": "ja-02-605",
-    "sentence": "つくえを動かすと、さらが落ちるよ。",
+    "sentence": "お母さん、つくえからさらが落ちるよ。",
     "cloze": "さらが落ちる",
     "answer": "さらが落ちる",
     "accepted_answers": [],
@@ -6860,7 +6860,7 @@
   },
   {
     "id": "ja-02-606",
-    "sentence": "あぶないよ。そこをはしると、さらを落とすかもしれない。",
+    "sentence": "家では、小さい子どもがさらを落とす。",
     "cloze": "さらを落とす",
     "answer": "さらを落とす",
     "accepted_answers": [],
@@ -6871,18 +6871,18 @@
   },
   {
     "id": "ja-02-607",
-    "sentence": "むりに動かすと、機械が壊れる。",
+    "sentence": "この店では、ときどき機械が壊れる。",
     "cloze": "機械が壊れる",
     "answer": "機械が壊れる",
     "accepted_answers": [],
     "lemma": "壊れる",
     "reading": "きかいがこわれる",
-    "meaning": "the machine breaks",
+    "meaning": "machines sometimes break at this shop",
     "audio": "work/audio/ja-JP/02/ja-02-607.mp3"
   },
   {
     "id": "ja-02-608",
-    "sentence": "この使い方をすると、機械を壊すかもしれません。",
+    "sentence": "子どもが機械を壊す。",
     "cloze": "機械を壊す",
     "answer": "機械を壊す",
     "accepted_answers": [],
@@ -6893,7 +6893,7 @@
   },
   {
     "id": "ja-02-609",
-    "sentence": "雨の中を歩くと、服が汚れるよ。",
+    "sentence": "雨の日は、服が汚れるよ。",
     "cloze": "服が汚れる",
     "answer": "服が汚れる",
     "accepted_answers": [],
@@ -6904,7 +6904,7 @@
   },
   {
     "id": "ja-02-610",
-    "sentence": "エプロンをしないと、服を汚すかもしれない。",
+    "sentence": "子どもがどろで服を汚す。",
     "cloze": "服を汚す",
     "answer": "服を汚す",
     "accepted_answers": [],
@@ -6970,7 +6970,7 @@
   },
   {
     "id": "ja-02-616",
-    "sentence": "まよう人がいないように、入口に案内が出してある。",
+    "sentence": "休みの日は、入口に案内が出してある。",
     "cloze": "入口に案内が出してある",
     "answer": "入口に案内が出してある",
     "accepted_answers": [],
@@ -6981,7 +6981,7 @@
   },
   {
     "id": "ja-02-617",
-    "sentence": "今夜はおそく着くけど、ホテルの部屋が取ってある。",
+    "sentence": "今夜はおそく着きますが、ホテルの部屋が取ってあるんです。",
     "cloze": "ホテルの部屋が取ってある",
     "answer": "ホテルの部屋が取ってある",
     "accepted_answers": [],
@@ -6992,7 +6992,7 @@
   },
   {
     "id": "ja-02-618",
-    "sentence": "明日の朝は早いけど、きっぷが買ってある。",
+    "sentence": "明日の朝は早いので、きっぷが買ってあるんです。",
     "cloze": "きっぷが買ってある",
     "answer": "きっぷが買ってある",
     "accepted_answers": [],
@@ -7014,7 +7014,7 @@
   },
   {
     "id": "ja-02-620",
-    "sentence": "すぐに運べるように、荷物がまとめてある。",
+    "sentence": "すぐに運ぶために、荷物がまとめてある。",
     "cloze": "荷物がまとめてある",
     "answer": "荷物がまとめてある",
     "accepted_answers": [],
@@ -7025,7 +7025,7 @@
   },
   {
     "id": "ja-02-621",
-    "sentence": "ポケットに入れないと、さいふを落としてしまうことがある。",
+    "sentence": "父はよく、さいふを落としてしまう。",
     "cloze": "さいふを落としてしまう",
     "answer": "さいふを落としてしまう",
     "accepted_answers": [],
@@ -7036,7 +7036,7 @@
   },
   {
     "id": "ja-02-622",
-    "sentence": "行き先を見ないで乗ると、電車を間違えてしまうよ。",
+    "sentence": "友だちはよく、電車を間違えてしまう。",
     "cloze": "電車を間違えてしまう",
     "answer": "電車を間違えてしまう",
     "accepted_answers": [],
@@ -7047,7 +7047,7 @@
   },
   {
     "id": "ja-02-623",
-    "sentence": "すぐにメモしないと、予約を忘れてしまう。",
+    "sentence": "メモをしないで、予約を忘れてしまう。",
     "cloze": "予約を忘れてしまう",
     "answer": "予約を忘れてしまう",
     "accepted_answers": [],
@@ -7058,7 +7058,7 @@
   },
   {
     "id": "ja-02-624",
-    "sentence": "むりに動かすと、機械を壊してしまうかもしれません。",
+    "sentence": "この仕事では、ときどき機械を壊してしまう。",
     "cloze": "機械を壊してしまう",
     "answer": "機械を壊してしまう",
     "accepted_answers": [],
@@ -7069,7 +7069,7 @@
   },
   {
     "id": "ja-02-625",
-    "sentence": "ここで作業すると、服を汚してしまうよ。",
+    "sentence": "この作業で、服を汚してしまうよ。",
     "cloze": "服を汚してしまう",
     "answer": "服を汚してしまう",
     "accepted_answers": [],
@@ -7124,7 +7124,7 @@
   },
   {
     "id": "ja-02-630",
-    "sentence": "そのさらなら、もうかたづけてしまったよ。",
+    "sentence": "そのさらは、もうかたづけてしまったよ。",
     "cloze": "もうかたづけてしまった",
     "answer": "もうかたづけてしまった",
     "accepted_answers": [],
@@ -7200,7 +7200,7 @@
   },
   {
     "id": "ja-02-637",
-    "sentence": "ゆうしょくがもう作ってあるから、帰りがおそくてもだいじょうぶだよ。",
+    "sentence": "ゆうしょくがもう作ってあるから、ゆっくり帰ってきてね。",
     "cloze": "ゆうしょくがもう作ってある",
     "answer": "ゆうしょくがもう作ってある",
     "accepted_answers": [],
@@ -7222,12 +7222,12 @@
   },
   {
     "id": "ja-02-639",
-    "sentence": "しまった。宿題を家に忘れてきてしまった。",
-    "cloze": "宿題を家に忘れてきてしまった",
-    "answer": "宿題を家に忘れてきてしまった",
+    "sentence": "しまった。宿題を家に忘れてしまった。",
+    "cloze": "宿題を家に忘れてしまった",
+    "answer": "宿題を家に忘れてしまった",
     "accepted_answers": [],
     "lemma": "忘れる",
-    "reading": "しゅくだいをいえにわすれてきてしまった",
+    "reading": "しゅくだいをいえにわすれてしまった",
     "meaning": "left my homework at home",
     "audio": "work/audio/ja-JP/02/ja-02-639.mp3"
   },
@@ -7251,36 +7251,36 @@
     "lemma": "確認する",
     "reading": "えきいんにきっぷをかくにんされる",
     "meaning": "have one's ticket checked by station staff",
-    "grammar": "direct passive",
+    "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-641.mp3"
   },
   {
     "id": "ja-02-642",
-    "sentence": "あぶない道へ入ろうとすると、警察に通行を止められる。",
+    "sentence": "あぶない道の入口で、警察に通行を止められる。",
     "cloze": "警察に通行を止められる",
     "answer": "警察に通行を止められる",
     "accepted_answers": [],
     "lemma": "止める",
     "reading": "けいさつにつうこうをとめられる",
     "meaning": "be stopped from passing by the police",
-    "grammar": "direct passive",
+    "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-642.mp3"
   },
   {
     "id": "ja-02-643",
-    "sentence": "空港では、安全のため係に荷物を調べられる。",
+    "sentence": "空港では、係に荷物を調べられる。",
     "cloze": "係に荷物を調べられる",
     "answer": "係に荷物を調べられる",
     "accepted_answers": [],
     "lemma": "調べる",
     "reading": "かかりにもつをしらべられる",
     "meaning": "have one's luggage inspected by an attendant",
-    "grammar": "direct passive",
+    "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-643.mp3"
   },
   {
     "id": "ja-02-644",
-    "sentence": "会社に予定を変えられると、旅行に行けない。",
+    "sentence": "会社に予定を変えられる。旅行に行けない。",
     "cloze": "会社に予定を変えられる",
     "answer": "会社に予定を変えられる",
     "accepted_answers": [],
@@ -7299,12 +7299,12 @@
     "lemma": "よぶ",
     "reading": "せんせいになまえをよばれる",
     "meaning": "have one's name called by the teacher",
-    "grammar": "direct passive",
+    "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-645.mp3"
   },
   {
     "id": "ja-02-646",
-    "sentence": "スマホをつくえに置いたままにすると、友だちに写真を見られる。",
+    "sentence": "スマホには見られたくない写真があるので、友だちに写真を見られると困る。",
     "cloze": "友だちに写真を見られる",
     "answer": "友だちに写真を見られる",
     "accepted_answers": [],
@@ -7316,7 +7316,7 @@
   },
   {
     "id": "ja-02-647",
-    "sentence": "駅で道を調べていると、知らない人に話しかけられる。",
+    "sentence": "駅で道を調べていて、知らない人に話しかけられる。",
     "cloze": "知らない人に話しかけられる",
     "answer": "知らない人に話しかけられる",
     "accepted_answers": [],
@@ -7340,14 +7340,14 @@
   },
   {
     "id": "ja-02-649",
-    "sentence": "安全を確認するため、空港で荷物を開けられる。",
-    "cloze": "空港で荷物を開けられる",
-    "answer": "空港で荷物を開けられる",
+    "sentence": "空港のけんさで、私の荷物は係員に開けられた。",
+    "cloze": "私の荷物は係員に開けられた",
+    "answer": "私の荷物は係員に開けられた",
     "accepted_answers": [],
     "lemma": "開ける",
-    "reading": "くうこうでにもつをあけられる",
-    "meaning": "have one's luggage opened at the airport",
-    "grammar": "direct passive with omitted agent",
+    "reading": "わたしのにもつはかかりいんにあけられた",
+    "meaning": "my luggage was opened by an inspector",
+    "grammar": "direct passive with explicit patient and agent",
     "audio": "work/audio/ja-JP/02/ja-02-649.mp3"
   },
   {
@@ -7364,37 +7364,37 @@
   },
   {
     "id": "ja-02-651",
-    "sentence": "強い風がふくと、安全のため電車が止められる。",
-    "cloze": "安全のため電車が止められる",
-    "answer": "安全のため電車が止められる",
+    "sentence": "強い風で、電車の運転が見合わせられる。",
+    "cloze": "運転が見合わせられる",
+    "answer": "運転が見合わせられる",
     "accepted_answers": [],
-    "lemma": "止める",
-    "reading": "あんぜんのためでんしゃがとめられる",
-    "meaning": "the train is stopped for safety",
+    "lemma": "見合わせる",
+    "reading": "うんてんがみあわせられる",
+    "meaning": "train service is suspended",
     "grammar": "institutional passive",
     "audio": "work/audio/ja-JP/02/ja-02-651.mp3"
   },
   {
     "id": "ja-02-652",
-    "sentence": "駅へ行く道がこうじで閉められる。",
-    "cloze": "道がこうじで閉められる",
-    "answer": "道がこうじで閉められる",
+    "sentence": "駅へ行く道は、こうじで通行止めになる。",
+    "cloze": "通行止めになる",
+    "answer": "通行止めになる",
     "accepted_answers": [],
-    "lemma": "閉める",
-    "reading": "みちがこうじでしめられる",
-    "meaning": "the road is closed for construction",
-    "grammar": "institutional passive",
+    "lemma": "通行止めになる",
+    "reading": "つうこうどめになる",
+    "meaning": "be closed to traffic",
+    "grammar": "intransitive closure result",
     "audio": "work/audio/ja-JP/02/ja-02-652.mp3"
   },
   {
     "id": "ja-02-653",
-    "sentence": "担当者の予定が変わったので、会議が来週に変えられる。",
-    "cloze": "会議が来週に変えられる",
-    "answer": "会議が来週に変えられる",
+    "sentence": "担当者が休むので、会議が来週に変更される。",
+    "cloze": "会議が来週に変更される",
+    "answer": "会議が来週に変更される",
     "accepted_answers": [],
-    "lemma": "変える",
-    "reading": "かいぎがらいしゅうにかえられる",
-    "meaning": "the meeting is moved to next week",
+    "lemma": "変更する",
+    "reading": "かいぎがらいしゅうにへんこうされる",
+    "meaning": "the meeting is rescheduled for next week",
     "grammar": "institutional passive",
     "audio": "work/audio/ja-JP/02/ja-02-653.mp3"
   },
@@ -7407,7 +7407,7 @@
     "lemma": "うる",
     "reading": "しょうひんがみせでうられている",
     "meaning": "the product is sold in stores",
-    "grammar": "passive ongoing state",
+    "grammar": "passive habitual/current-availability 〜ている",
     "audio": "work/audio/ja-JP/02/ja-02-654.mp3"
   },
   {
@@ -7448,19 +7448,19 @@
   },
   {
     "id": "ja-02-658",
-    "sentence": "部屋へ持っていけない荷物は受付であずけられた。",
-    "cloze": "荷物は受付であずけられた",
-    "answer": "荷物は受付であずけられた",
+    "sentence": "大きな荷物は係員に受付へ運ばれた。",
+    "cloze": "大きな荷物は係員に受付へ運ばれた",
+    "answer": "大きな荷物は係員に受付へ運ばれた",
     "accepted_answers": [],
-    "lemma": "あずける",
-    "reading": "にもつはうけつけであずけられた",
-    "meaning": "the luggage was left at reception",
-    "grammar": "passive completed action",
+    "lemma": "運ぶ",
+    "reading": "おおきなにもつはかかりいんにうけつけへはこばれた",
+    "meaning": "the large luggage was carried to reception by an attendant",
+    "grammar": "direct passive",
     "audio": "work/audio/ja-JP/02/ja-02-658.mp3"
   },
   {
     "id": "ja-02-659",
-    "sentence": "駅員に聞いたら、きっぷは駅で買える。",
+    "sentence": "駅員に聞いて、きっぷは駅で買えると分かった。",
     "cloze": "きっぷは駅で買える",
     "answer": "きっぷは駅で買える",
     "accepted_answers": [],
@@ -7556,13 +7556,13 @@
   },
   {
     "id": "ja-02-667",
-    "sentence": "駅の近くでは、こうじで道が閉まっている。",
-    "cloze": "こうじで道が閉まっている",
-    "answer": "こうじで道が閉まっている",
+    "sentence": "駅の近くでは、こうじで道がふさがっている。",
+    "cloze": "こうじで道がふさがっている",
+    "answer": "こうじで道がふさがっている",
     "accepted_answers": [],
-    "lemma": "閉まる",
-    "reading": "こうじでみちがしまっている",
-    "meaning": "the road is closed because of construction",
+    "lemma": "ふさがる",
+    "reading": "こうじでみちがふさがっている",
+    "meaning": "the road is blocked by construction",
     "grammar": "intransitive resultant state",
     "audio": "work/audio/ja-JP/02/ja-02-667.mp3"
   },
@@ -7575,7 +7575,7 @@
     "lemma": "うる",
     "reading": "みせでこのしょうひんをうっている",
     "meaning": "the store sells this product",
-    "grammar": "active ongoing action",
+    "grammar": "active habitual 〜ている",
     "audio": "work/audio/ja-JP/02/ja-02-668.mp3"
   },
   {
@@ -7592,36 +7592,36 @@
   },
   {
     "id": "ja-02-670",
-    "sentence": "あしたは、いつもの教室で試験をする。",
+    "sentence": "あしたは、先生がいつもの教室で試験をする。",
     "cloze": "教室で試験をする",
     "answer": "教室で試験をする",
     "accepted_answers": [],
     "lemma": "試験をする",
     "reading": "きょうしつでしけんをする",
-    "meaning": "take an exam in the classroom",
+    "meaning": "administer an exam in the classroom",
     "grammar": "active alternative",
     "audio": "work/audio/ja-JP/02/ja-02-670.mp3"
   },
   {
     "id": "ja-02-671",
-    "sentence": "名前をよばれたそうですが、だれによばれましたか。",
+    "sentence": "教室で名前をよばれましたね。だれによばれましたか。",
     "cloze": "だれによばれましたか",
     "answer": "だれによばれましたか",
     "accepted_answers": [],
     "lemma": "よぶ",
-    "meaning": "who were you called by?",
+    "meaning": "who called your name?",
     "grammar": "passive question",
     "register": "polite",
     "audio": "work/audio/ja-JP/02/ja-02-671.mp3"
   },
   {
     "id": "ja-02-672",
-    "sentence": "荷物を二回調べられたそうですが、どこで荷物を調べられましたか。",
-    "cloze": "どこで荷物を調べられましたか",
-    "answer": "どこで荷物を調べられましたか",
+    "sentence": "空港で係員に荷物を調べられましたね。どこで係員に荷物を調べられましたか。",
+    "cloze": "どこで係員に荷物を調べられましたか",
+    "answer": "どこで係員に荷物を調べられましたか",
     "accepted_answers": [],
     "lemma": "調べる",
-    "reading": "どこでにもつをしらべられましたか",
+    "reading": "どこでかかりいんにもつをしらべられましたか",
     "meaning": "where was your luggage inspected?",
     "grammar": "passive question",
     "register": "polite",
@@ -7629,12 +7629,12 @@
   },
   {
     "id": "ja-02-673",
-    "sentence": "旅行の予定が変わったそうですが、なぜ予定を変えられたんですか。",
-    "cloze": "なぜ予定を変えられたんですか",
-    "answer": "なぜ予定を変えられたんですか",
+    "sentence": "会社に旅行の予定を変えられたんですね。なぜ会社に予定を変えられたんですか。",
+    "cloze": "なぜ会社に予定を変えられたんですか",
+    "answer": "なぜ会社に予定を変えられたんですか",
     "accepted_answers": [],
     "lemma": "変える",
-    "reading": "なぜよていをかえられたんですか",
+    "reading": "なぜかいしゃによていをかえられたんですか",
     "meaning": "why was your schedule changed?",
     "grammar": "passive question",
     "register": "polite",
@@ -7642,7 +7642,7 @@
   },
   {
     "id": "ja-02-674",
-    "sentence": "来週に変わったそうですが、だれが予定を変えましたか。",
+    "sentence": "旅行の予定が来週に変わりましたね。だれが予定を変えましたか。",
     "cloze": "だれが予定を変えましたか",
     "answer": "だれが予定を変えましたか",
     "accepted_answers": [],
@@ -7691,7 +7691,7 @@
   },
   {
     "id": "ja-02-678",
-    "sentence": "はなしあいが終わると、会議のけっかが全員に伝えられた。",
+    "sentence": "はなしあいの後、会議のけっかが全員に伝えられた。",
     "cloze": "会議のけっかが全員に伝えられた",
     "answer": "会議のけっかが全員に伝えられた",
     "accepted_answers": [],
@@ -7703,19 +7703,19 @@
   },
   {
     "id": "ja-02-679",
-    "sentence": "受付に行くと、受付でばんごうを渡された。",
-    "cloze": "受付でばんごうを渡された",
-    "answer": "受付でばんごうを渡された",
+    "sentence": "受付でばんごうふだを渡された。",
+    "cloze": "受付でばんごうふだを渡された",
+    "answer": "受付でばんごうふだを渡された",
     "accepted_answers": [],
     "lemma": "渡す",
-    "reading": "うけつけでばんごうをわたされた",
-    "meaning": "was given a number at reception",
+    "reading": "うけつけでばんごうふだをわたされた",
+    "meaning": "was handed a numbered token at reception",
     "grammar": "direct passive",
     "audio": "work/audio/ja-JP/02/ja-02-679.mp3"
   },
   {
     "id": "ja-02-680",
-    "sentence": "道に迷っていたら、駅員が出口を教えてくれた。",
+    "sentence": "道に迷っている時、駅員が出口を教えてくれた。",
     "cloze": "駅員が出口を教えてくれた",
     "answer": "駅員が出口を教えてくれた",
     "accepted_answers": [],
@@ -7727,25 +7727,25 @@
   },
   {
     "id": "ja-02-681",
-    "sentence": "雨の日にかさを持たずに出かけると、雨に降られることがある。",
-    "cloze": "雨に降られる",
-    "answer": "雨に降られる",
+    "sentence": "きのう、かさを持たないで出かけて、雨に降られた。",
+    "cloze": "雨に降られた",
+    "answer": "雨に降られた",
     "accepted_answers": [],
     "lemma": "雨に降られる",
-    "reading": "あめにふられる",
-    "meaning": "to get caught in the rain",
+    "reading": "あめにふられた",
+    "meaning": "got caught in the rain",
     "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-681.mp3"
   },
   {
     "id": "ja-02-682",
-    "sentence": "小さい子どもと旅行すると、夜に子どもになかれることもある。",
-    "cloze": "子どもになかれる",
-    "answer": "子どもになかれる",
+    "sentence": "小さい子どもと旅行して、夜に子どもになかれた。",
+    "cloze": "子どもになかれた",
+    "answer": "子どもになかれた",
     "accepted_answers": [],
     "lemma": "子どもになかれる",
-    "reading": "こどもになかれる",
-    "meaning": "to be troubled by a child crying",
+    "reading": "こどもになかれた",
+    "meaning": "was troubled by a child crying",
     "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-682.mp3"
   },
@@ -7763,67 +7763,67 @@
   },
   {
     "id": "ja-02-684",
-    "sentence": "たのしみにしている約束でも、友だちに約束を忘れられることがある。",
-    "cloze": "友だちに約束を忘れられる",
-    "answer": "友だちに約束を忘れられる",
+    "sentence": "友だちが来なかった。友だちに約束を忘れられた。",
+    "cloze": "友だちに約束を忘れられた",
+    "answer": "友だちに約束を忘れられた",
     "accepted_answers": [],
     "lemma": "友だちに約束を忘れられる",
-    "reading": "ともだちにやくそくをわすれられる",
-    "meaning": "to have a friend forget a promise",
+    "reading": "ともだちにやくそくをわすれられた",
+    "meaning": "had a friend forget a promise",
     "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-684.mp3"
   },
   {
     "id": "ja-02-685",
-    "sentence": "こんでいる場所で席をはなすと、知らない人に席を取られることがある。",
-    "cloze": "知らない人に席を取られる",
-    "answer": "知らない人に席を取られる",
+    "sentence": "人が多い場所で席を離れて、知らない人に席を取られた。",
+    "cloze": "知らない人に席を取られた",
+    "answer": "知らない人に席を取られた",
     "accepted_answers": [],
     "lemma": "知らない人に席を取られる",
-    "reading": "しらないひとにせきをとられる",
-    "meaning": "to have one's seat taken by a stranger",
+    "reading": "しらないひとにせきをとられた",
+    "meaning": "had one's seat taken by a stranger",
     "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-685.mp3"
   },
   {
     "id": "ja-02-686",
-    "sentence": "店の前にかさを置いておくと、だれかにかさを持っていかれることがある。",
-    "cloze": "だれかにかさを持っていかれる",
-    "answer": "だれかにかさを持っていかれる",
+    "sentence": "店の前にかさを置いて、だれかにかさを持っていかれた。",
+    "cloze": "だれかにかさを持っていかれた",
+    "answer": "だれかにかさを持っていかれた",
     "accepted_answers": [],
     "lemma": "だれかにかさを持っていかれる",
-    "reading": "だれかにかさをもっていかれる",
-    "meaning": "to have one's umbrella taken away by someone",
+    "reading": "だれかにかさをもっていかれた",
+    "meaning": "had one's umbrella taken away by someone",
     "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-686.mp3"
   },
   {
     "id": "ja-02-687",
-    "sentence": "朝のこんでいる電車では、電車で足をふまれることがある。",
-    "cloze": "電車で足をふまれる",
-    "answer": "電車で足をふまれる",
+    "sentence": "けさ、電車で足をふまれた。",
+    "cloze": "電車で足をふまれた",
+    "answer": "電車で足をふまれた",
     "accepted_answers": [],
     "lemma": "電車で足をふまれる",
-    "reading": "でんしゃであしをふまれる",
-    "meaning": "to have one's foot stepped on while riding a train",
-    "grammar": "direct passive with adverse effect",
+    "reading": "でんしゃであしをふまれた",
+    "meaning": "had one's foot stepped on while riding a train",
+    "grammar": "affected/possessor passive",
     "audio": "work/audio/ja-JP/02/ja-02-687.mp3"
   },
   {
     "id": "ja-02-688",
-    "sentence": "だいじなデータが入っているのに、弟にパソコンを壊される。",
-    "cloze": "弟にパソコンを壊される",
-    "answer": "弟にパソコンを壊される",
+    "sentence": "だいじなデータが入っていた。弟にパソコンを壊された。",
+    "cloze": "弟にパソコンを壊された",
+    "answer": "弟にパソコンを壊された",
     "accepted_answers": [],
     "lemma": "弟にパソコンを壊される",
-    "reading": "おとうとにパソコンをこわされる",
-    "meaning": "to have one's computer broken by one's younger brother",
+    "reading": "おとうとにパソコンをこわされた",
+    "meaning": "had one's computer broken by one's younger brother",
     "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-688.mp3"
   },
   {
     "id": "ja-02-689",
-    "sentence": "ホテルで働いていると、ときどき客に部屋を汚される。",
+    "sentence": "ホテルの仕事では、ときどき客に部屋を汚される。",
     "cloze": "客に部屋を汚される",
     "answer": "客に部屋を汚される",
     "accepted_answers": [],
@@ -7835,83 +7835,85 @@
   },
   {
     "id": "ja-02-690",
-    "sentence": "こうえんでかばんを下に置くと、いぬにかばんをかまれることもある。",
-    "cloze": "いぬにかばんをかまれる",
-    "answer": "いぬにかばんをかまれる",
+    "sentence": "こうえんでかばんを下に置いて、いぬにかばんをかまれた。",
+    "cloze": "いぬにかばんをかまれた",
+    "answer": "いぬにかばんをかまれた",
     "accepted_answers": [],
     "lemma": "いぬにかばんをかまれる",
-    "meaning": "to have one's bag bitten by a dog",
+    "reading": "いぬにかばんをかまれた",
+    "meaning": "had one's bag bitten by a dog",
     "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-690.mp3"
   },
   {
     "id": "ja-02-691",
-    "sentence": "旅行中に一番困るのは、ホテルでさいふをぬすまれることだ。",
-    "cloze": "ホテルでさいふをぬすまれる",
-    "answer": "ホテルでさいふをぬすまれる",
+    "sentence": "旅行中、ホテルでさいふをぬすまれた。",
+    "cloze": "ホテルでさいふをぬすまれた",
+    "answer": "ホテルでさいふをぬすまれた",
     "accepted_answers": [],
     "lemma": "ホテルでさいふをぬすまれる",
-    "meaning": "to have one's wallet stolen at a hotel",
-    "grammar": "direct passive with adverse effect",
+    "reading": "ホテルでさいふをぬすまれた",
+    "meaning": "had one's wallet stolen at a hotel",
+    "grammar": "affected/possessor passive",
     "audio": "work/audio/ja-JP/02/ja-02-691.mp3"
   },
   {
     "id": "ja-02-692",
-    "sentence": "旅行でしんぱいなのは、こうくうがいしゃに荷物をなくされることだ。",
-    "cloze": "こうくうがいしゃに荷物をなくされる",
-    "answer": "こうくうがいしゃに荷物をなくされる",
+    "sentence": "旅行中、こうくうがいしゃに荷物をなくされた。",
+    "cloze": "こうくうがいしゃに荷物をなくされた",
+    "answer": "こうくうがいしゃに荷物をなくされた",
     "accepted_answers": [],
     "lemma": "こうくうがいしゃに荷物をなくされる",
-    "reading": "こうくうがいしゃににもつをなくされる",
-    "meaning": "to have one's luggage lost by an airline",
+    "reading": "こうくうがいしゃににもつをなくされた",
+    "meaning": "had one's luggage lost by an airline",
     "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-692.mp3"
   },
   {
     "id": "ja-02-693",
-    "sentence": "旅行の前の日に、店に予約を取り消されることもある。",
-    "cloze": "店に予約を取り消される",
-    "answer": "店に予約を取り消される",
+    "sentence": "旅行の前の日に、店に予約を取り消された。",
+    "cloze": "店に予約を取り消された",
+    "answer": "店に予約を取り消された",
     "accepted_answers": [],
     "lemma": "店に予約を取り消される",
-    "reading": "みせによやくをとりけされる",
-    "meaning": "to have one's reservation canceled by a business",
+    "reading": "みせによやくをとりけされた",
+    "meaning": "had one's reservation canceled by a business",
     "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-693.mp3"
   },
   {
     "id": "ja-02-694",
-    "sentence": "もう旅行のチケットを買ったのに、会社に休みを変えられる。",
-    "cloze": "会社に休みを変えられる",
-    "answer": "会社に休みを変えられる",
+    "sentence": "旅行のチケットを買ってから、会社に休みを変えられた。",
+    "cloze": "会社に休みを変えられた",
+    "answer": "会社に休みを変えられた",
     "accepted_answers": [],
     "lemma": "会社に休みを変えられる",
-    "reading": "かいしゃにやすみをかえられる",
-    "meaning": "to have one's day off changed by the company",
+    "reading": "かいしゃにやすみをかえられた",
+    "meaning": "had one's day off changed by the company",
     "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-694.mp3"
   },
   {
     "id": "ja-02-695",
-    "sentence": "自分で直したいのに、先生に作文を全部書き直される。",
-    "cloze": "先生に作文を全部書き直される",
-    "answer": "先生に作文を全部書き直される",
+    "sentence": "自分で直したかった。先生に作文を全部書き直された。",
+    "cloze": "先生に作文を全部書き直された",
+    "answer": "先生に作文を全部書き直された",
     "accepted_answers": [],
     "lemma": "先生に作文を全部書き直される",
-    "reading": "せんせいにさくぶんをぜんぶかきなおされる",
-    "meaning": "to have one's entire composition rewritten by the teacher",
+    "reading": "せんせいにさくぶんをぜんぶかきなおされた",
+    "meaning": "had one's entire composition rewritten by the teacher",
     "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-695.mp3"
   },
   {
     "id": "ja-02-696",
-    "sentence": "だれにも言わないでと頼んだのに、友だちにひみつを話される。",
-    "cloze": "友だちにひみつを話される",
-    "answer": "友だちにひみつを話される",
+    "sentence": "友だちに私のひみつをほかの人に話された。もうしんようできない。",
+    "cloze": "私のひみつをほかの人に話された",
+    "answer": "私のひみつをほかの人に話された",
     "accepted_answers": [],
-    "lemma": "友だちにひみつを話される",
-    "reading": "ともだちにひみつをはなされる",
-    "meaning": "to have a secret disclosed by a friend",
+    "lemma": "ひみつを話される",
+    "reading": "わたしのひみつをほかのひとにはなされた",
+    "meaning": "had a secret disclosed by a friend",
     "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-696.mp3"
   },
@@ -7941,7 +7943,7 @@
   },
   {
     "id": "ja-02-699",
-    "sentence": "駅でずっと待っていたが、友だちが約束を忘れた。",
+    "sentence": "駅でずっと待っていた。友だちが約束を忘れた。",
     "cloze": "友だちが約束を忘れた",
     "answer": "友だちが約束を忘れた",
     "accepted_answers": [],
@@ -7953,7 +7955,7 @@
   },
   {
     "id": "ja-02-700",
-    "sentence": "店の前にかさを置いていたら、だれかがかさを持っていった。",
+    "sentence": "店の前にかさを置いていた。だれかがかさを持っていった。",
     "cloze": "だれかがかさを持っていった",
     "answer": "だれかがかさを持っていった",
     "accepted_answers": [],
@@ -7989,7 +7991,7 @@
   },
   {
     "id": "ja-02-703",
-    "sentence": "部屋やロビーをさがしたが、ホテルでさいふがなくなった。",
+    "sentence": "部屋やロビーをさがした。ホテルでさいふがなくなった。",
     "cloze": "ホテルでさいふがなくなった",
     "answer": "ホテルでさいふがなくなった",
     "accepted_answers": [],
@@ -8012,7 +8014,7 @@
   },
   {
     "id": "ja-02-705",
-    "sentence": "とても困っているようですが、どうしたんですか。",
+    "sentence": "元気がないですね。どうしたんですか。",
     "cloze": "どうしたんですか",
     "answer": "どうしたんですか",
     "accepted_answers": [],
@@ -8024,7 +8026,7 @@
   },
   {
     "id": "ja-02-706",
-    "sentence": "店の前に置いたかさを持っていかれたんです。",
+    "sentence": "店の前にかさを置きました。かさを持っていかれたんです。",
     "cloze": "かさを持っていかれたんです",
     "answer": "かさを持っていかれたんです",
     "accepted_answers": [],
@@ -8074,7 +8076,7 @@
   },
   {
     "id": "ja-02-710",
-    "sentence": "ホテルでさいふをなくしたなら、ホテルに相談したほうがいい。",
+    "sentence": "ホテルでさいふをなくしたんだね。ホテルに相談したほうがいい。",
     "cloze": "ホテルに相談したほうがいい",
     "answer": "ホテルに相談したほうがいい",
     "accepted_answers": [],
@@ -8087,7 +8089,7 @@
   },
   {
     "id": "ja-02-711",
-    "sentence": "まだ読んでいなかったのに、弟に大事な本をすてられた。",
+    "sentence": "まだ読んでいなかった。弟に大事な本をすてられた。",
     "cloze": "弟に大事な本をすてられた",
     "answer": "弟に大事な本をすてられた",
     "accepted_answers": [],
@@ -8099,7 +8101,7 @@
   },
   {
     "id": "ja-02-712",
-    "sentence": "家の前から車を出せない。となりの人に車を止められた。",
+    "sentence": "家の前に、となりの人に車を止められた。自分の車を出せない。",
     "cloze": "となりの人に車を止められた",
     "answer": "となりの人に車を止められた",
     "accepted_answers": [],
@@ -8111,7 +8113,7 @@
   },
   {
     "id": "ja-02-713",
-    "sentence": "れいぞうこに入れておいたのに、同僚に昼ごはんを食べられた。",
+    "sentence": "昼ごはんはれいぞうこに入れました。同僚に昼ごはんを食べられた。",
     "cloze": "同僚に昼ごはんを食べられた",
     "answer": "同僚に昼ごはんを食べられた",
     "accepted_answers": [],
@@ -8135,7 +8137,7 @@
   },
   {
     "id": "ja-02-715",
-    "sentence": "フロントで聞いたら、さいふは落とし物として届けられていた。",
+    "sentence": "フロントで聞きました。さいふは落とし物として届けられていた。",
     "cloze": "落とし物として届けられていた",
     "answer": "落とし物として届けられていた",
     "accepted_answers": [],
@@ -8147,7 +8149,7 @@
   },
   {
     "id": "ja-02-716",
-    "sentence": "電車が止まって困っていたら、係の人に助けてもらった。",
+    "sentence": "電車が止まって困っていた。係の人に助けてもらった。",
     "cloze": "係の人に助けてもらった",
     "answer": "係の人に助けてもらった",
     "accepted_answers": [],
@@ -8183,7 +8185,7 @@
   },
   {
     "id": "ja-02-719",
-    "sentence": "なくなった荷物のことを相談したら、旅行保険が使えた。",
+    "sentence": "荷物がなくなって、保険会社に相談しました。旅行保険が使えた。",
     "cloze": "旅行保険が使えた",
     "answer": "旅行保険が使えた",
     "accepted_answers": [],
@@ -8206,7 +8208,7 @@
   },
   {
     "id": "ja-02-721",
-    "sentence": "きょうは天気がいいので、子どもを外であそばせることにしました。",
+    "sentence": "子どもが外であそびたいと言ったので、子どもを外であそばせる。",
     "cloze": "子どもを外であそばせる",
     "answer": "子どもを外であそばせる",
     "accepted_answers": [],
@@ -8218,7 +8220,7 @@
   },
   {
     "id": "ja-02-722",
-    "sentence": "この試験では辞書を使ってもいいので、先生は学生に辞書を使わせるそうです。",
+    "sentence": "この試験では辞書を使ってもいいので、先生は学生に辞書を使わせる。",
     "cloze": "学生に辞書を使わせる",
     "answer": "学生に辞書を使わせる",
     "accepted_answers": [],
@@ -8230,7 +8232,7 @@
   },
   {
     "id": "ja-02-723",
-    "sentence": "ぐあいがわるそうだったので、こうはいを先に帰らせることにしました。",
+    "sentence": "こうはいはぐあいがわるい。今日はこうはいを先に帰らせる。",
     "cloze": "こうはいを先に帰らせる",
     "answer": "こうはいを先に帰らせる",
     "accepted_answers": [],
@@ -8242,7 +8244,7 @@
   },
   {
     "id": "ja-02-724",
-    "sentence": "ねつが高いときは、病人を休ませることが大切です。",
+    "sentence": "医者は、ねつが高い病人を休ませる。",
     "cloze": "病人を休ませる",
     "answer": "病人を休ませる",
     "accepted_answers": [],
@@ -8254,7 +8256,7 @@
   },
   {
     "id": "ja-02-725",
-    "sentence": "帰りは運転したいというので、友だちに車を運転させることにしました。",
+    "sentence": "帰りは運転したいというので、友だちに車を運転させる。",
     "cloze": "友だちに車を運転させる",
     "answer": "友だちに車を運転させる",
     "accepted_answers": [],
@@ -8266,7 +8268,7 @@
   },
   {
     "id": "ja-02-726",
-    "sentence": "授業のさいごには、先生が学生にはっぴょうさせることになっています。",
+    "sentence": "授業のさいごに、先生が学生にはっぴょうさせる。",
     "cloze": "先生が学生にはっぴょうさせる",
     "answer": "先生が学生にはっぴょうさせる",
     "accepted_answers": [],
@@ -8278,19 +8280,19 @@
   },
   {
     "id": "ja-02-727",
-    "sentence": "問題があったときは、会社が社員に報告させることになっています。",
-    "cloze": "会社が社員に報告させる",
-    "answer": "会社が社員に報告させる",
+    "sentence": "社員は毎週、進み具合を報告することになっています。",
+    "cloze": "報告することになっています",
+    "answer": "報告することになっています",
     "accepted_answers": [],
-    "lemma": "報告させる",
-    "reading": "かいしゃがしゃいんにほうこくさせる",
-    "meaning": "the company requires employees to report",
-    "grammar": "causative requirement",
+    "lemma": "報告することになっている",
+    "reading": "ほうこくすることになっています",
+    "meaning": "employees are required to report their progress every week",
+    "grammar": "noncausative institutional rule with ことになっている",
     "audio": "work/audio/ja-JP/02/ja-02-727.mp3"
   },
   {
     "id": "ja-02-728",
-    "sentence": "お客が来る前に、親が子どもに部屋を掃除させることにしました。",
+    "sentence": "お客が来る前に、親が子どもに部屋を掃除させる。",
     "cloze": "親が子どもに部屋を掃除させる",
     "answer": "親が子どもに部屋を掃除させる",
     "accepted_answers": [],
@@ -8302,7 +8304,7 @@
   },
   {
     "id": "ja-02-729",
-    "sentence": "まだ店が開いていないので、係が客を外で待たせることになりました。",
+    "sentence": "まだ店が開いていません。係が客を外で待たせる。",
     "cloze": "係が客を外で待たせる",
     "answer": "係が客を外で待たせる",
     "accepted_answers": [],
@@ -8314,7 +8316,7 @@
   },
   {
     "id": "ja-02-730",
-    "sentence": "かんじゃが自分で飲めないときは、医者がかんじゃに薬を飲ませることがあります。",
+    "sentence": "治療に必要なので、医者がかんじゃに薬を飲ませる。",
     "cloze": "医者がかんじゃに薬を飲ませる",
     "answer": "医者がかんじゃに薬を飲ませる",
     "accepted_answers": [],
@@ -8326,7 +8328,7 @@
   },
   {
     "id": "ja-02-731",
-    "sentence": "読みたいと言ったので、子どもに好きな本を読ませてあげることにしました。",
+    "sentence": "読みたいと言ったので、子どもに好きな本を読ませてあげる。",
     "cloze": "子どもに好きな本を読ませてあげる",
     "answer": "子どもに好きな本を読ませてあげる",
     "accepted_answers": [],
@@ -8338,7 +8340,7 @@
   },
   {
     "id": "ja-02-732",
-    "sentence": "子どもが外であそびたがっているので、今日は子どもを公園であそばせてあげるつもりです。",
+    "sentence": "子どもが外であそびたいと言ったので、今日は子どもを公園であそばせてあげるつもりです。",
     "cloze": "今日は子どもを公園であそばせてあげる",
     "answer": "今日は子どもを公園であそばせてあげる",
     "accepted_answers": [],
@@ -8350,7 +8352,7 @@
   },
   {
     "id": "ja-02-733",
-    "sentence": "こんどの旅行は本人のきぼうを聞いて、本人に行き先を選ばせてあげることにしました。",
+    "sentence": "私はこの子の親だ。子どもが自分で選びたいと言ったので、こんどの旅行では本人に行き先を選ばせてあげる。",
     "cloze": "本人に行き先を選ばせてあげる",
     "answer": "本人に行き先を選ばせてあげる",
     "accepted_answers": [],
@@ -8362,7 +8364,7 @@
   },
   {
     "id": "ja-02-734",
-    "sentence": "頭が痛いので、きょうは少し休ませてもらうことにしました。",
+    "sentence": "上司が休んでいいと言ったので、きょうは少し休ませてもらう。",
     "cloze": "少し休ませてもらう",
     "answer": "少し休ませてもらう",
     "accepted_answers": [],
@@ -8374,7 +8376,7 @@
   },
   {
     "id": "ja-02-735",
-    "sentence": "ぐあいがよくないので、今日は帰らせていただくことにします。",
+    "sentence": "上司が「帰ってもいい」と言ったので、今日は帰らせていただくと同僚に伝えました。",
     "cloze": "今日は帰らせていただく",
     "answer": "今日は帰らせていただく",
     "accepted_answers": [],
@@ -8387,7 +8389,7 @@
   },
   {
     "id": "ja-02-736",
-    "sentence": "まだだれも担当していないなら、この仕事を私にやらせてください。",
+    "sentence": "この仕事はまだだれも担当していません。この仕事を私にやらせてください。",
     "cloze": "この仕事を私にやらせてください",
     "answer": "この仕事を私にやらせてください",
     "accepted_answers": [],
@@ -8399,7 +8401,7 @@
   },
   {
     "id": "ja-02-737",
-    "sentence": "分かりにくかったようなので、もういちど説明させてください。",
+    "sentence": "説明がむずかしかったですね。もういちど説明させてください。",
     "cloze": "もういちど説明させてください",
     "answer": "もういちど説明させてください",
     "accepted_answers": [],
@@ -8411,7 +8413,7 @@
   },
   {
     "id": "ja-02-738",
-    "sentence": "お名前をうかがった後で、先に確認させていただきます。",
+    "sentence": "「先に確認してもよろしいですか。」「はい、お願いします。」「では、先に確認させていただきます。」",
     "cloze": "先に確認させていただきます",
     "answer": "先に確認させていただきます",
     "accepted_answers": [],
@@ -8424,7 +8426,7 @@
   },
   {
     "id": "ja-02-739",
-    "sentence": "会話のれんしゅうでは、先生は学生をじゆうに話させるようにしています。",
+    "sentence": "会話のれんしゅうでは、先生は学生をじゆうに話させる。",
     "cloze": "学生をじゆうに話させる",
     "answer": "学生をじゆうに話させる",
     "accepted_answers": [],
@@ -8436,7 +8438,7 @@
   },
   {
     "id": "ja-02-740",
-    "sentence": "まちがいをへらすため、会社は社員に必ず確認させることにしました。",
+    "sentence": "まちがいをへらすため、会社は社員に必ず確認させる。",
     "cloze": "社員に必ず確認させる",
     "answer": "社員に必ず確認させる",
     "accepted_answers": [],
@@ -8460,7 +8462,7 @@
   },
   {
     "id": "ja-02-742",
-    "sentence": "授業が終わったら、当番の学生に教室を掃除させることになっています。",
+    "sentence": "授業の後、先生は当番の学生に教室を掃除させる。",
     "cloze": "当番の学生に教室を掃除させる",
     "answer": "当番の学生に教室を掃除させる",
     "accepted_answers": [],
@@ -8484,7 +8486,7 @@
   },
   {
     "id": "ja-02-744",
-    "sentence": "まず、新入社員に受付を担当させることになりました。",
+    "sentence": "まず、新入社員に受付を担当させる。",
     "cloze": "新入社員に受付を担当させる",
     "answer": "新入社員に受付を担当させる",
     "accepted_answers": [],
@@ -8496,7 +8498,7 @@
   },
   {
     "id": "ja-02-745",
-    "sentence": "元気にそだってほしいので、親は子どもにやさいを食べさせるようにしています。",
+    "sentence": "親は毎日の食事で、子どもにやさいを食べさせる。",
     "cloze": "子どもにやさいを食べさせる",
     "answer": "子どもにやさいを食べさせる",
     "accepted_answers": [],
@@ -8508,7 +8510,7 @@
   },
   {
     "id": "ja-02-746",
-    "sentence": "仕事を覚えてもらうため、こうはいを会議に出させることにしました。",
+    "sentence": "仕事を覚えてもらうため、こうはいを会議に出させる。",
     "cloze": "こうはいを会議に出させる",
     "answer": "こうはいを会議に出させる",
     "accepted_answers": [],
@@ -8520,7 +8522,7 @@
   },
   {
     "id": "ja-02-747",
-    "sentence": "じゅんびに時間がかかるので、客を長く待たせないようにしてください。",
+    "sentence": "じゅんびに時間がかかります。客を長く待たせないでください。",
     "cloze": "客を長く待たせない",
     "answer": "客を長く待たせない",
     "accepted_answers": [],
@@ -8580,7 +8582,7 @@
   },
   {
     "id": "ja-02-752",
-    "sentence": "すぐには決められないので、少しかんがえさせてください。",
+    "sentence": "今は決めません。少しかんがえさせてください。",
     "cloze": "少しかんがえさせてください",
     "answer": "少しかんがえさせてください",
     "accepted_answers": [],
@@ -8605,7 +8607,7 @@
   },
   {
     "id": "ja-02-754",
-    "sentence": "その時間でいいか、担当者に確認させます。",
+    "sentence": "その時間は、担当者に確認させます。",
     "cloze": "担当者に確認させます",
     "answer": "担当者に確認させます",
     "accepted_answers": [],
@@ -8642,7 +8644,7 @@
   },
   {
     "id": "ja-02-757",
-    "sentence": "旅行の日は、じぶんでじゆうに選ばせてもらった。",
+    "sentence": "いっしょに行く友だちが「いいよ」と言ったので、こんどの旅行では、行き先をじぶんでじゆうに選ばせてもらった。",
     "cloze": "じゆうに選ばせてもらった",
     "answer": "じゆうに選ばせてもらった",
     "accepted_answers": [],
@@ -8655,20 +8657,20 @@
   },
   {
     "id": "ja-02-758",
-    "sentence": "ねつがあったので、きのうは会社に休ませてもらった。",
-    "cloze": "会社に休ませてもらった",
-    "answer": "会社に休ませてもらった",
+    "sentence": "ねつがあったので、きのうは会社を休ませてもらった。",
+    "cloze": "会社を休ませてもらった",
+    "answer": "会社を休ませてもらった",
     "accepted_answers": [],
     "lemma": "休ませてもらう",
-    "reading": "かいしゃにやすませてもらった",
-    "meaning": "was allowed by the company to take the day off",
+    "reading": "かいしゃをやすませてもらった",
+    "meaning": "was allowed to take the day off work",
     "grammar": "causative permission received",
     "register": "casual",
     "audio": "work/audio/ja-JP/02/ja-02-758.mp3"
   },
   {
     "id": "ja-02-759",
-    "sentence": "大学を卒業した後、親にりゅうがくさせてもらった。",
+    "sentence": "きょねん、親にりゅうがくさせてもらった。",
     "cloze": "親にりゅうがくさせてもらった",
     "answer": "親にりゅうがくさせてもらった",
     "accepted_answers": [],
@@ -8681,7 +8683,7 @@
   },
   {
     "id": "ja-02-760",
-    "sentence": "よくはなしあってから、子どものきぼうどおりりゅうがくさせることにしました。",
+    "sentence": "親はよくはなしあって、子どものきぼうどおりりゅうがくさせる。",
     "cloze": "子どものきぼうどおりりゅうがくさせる",
     "answer": "子どものきぼうどおりりゅうがくさせる",
     "accepted_answers": [],
@@ -8693,7 +8695,7 @@
   },
   {
     "id": "ja-02-761",
-    "sentence": "今でもおぼえているが、子どもの時にやさいを食べさせられた。",
+    "sentence": "子どもの時にやさいを食べさせられた。今でもおぼえている。",
     "cloze": "子どもの時にやさいを食べさせられた",
     "answer": "子どもの時にやさいを食べさせられた",
     "accepted_answers": [],
@@ -8705,7 +8707,7 @@
   },
   {
     "id": "ja-02-762",
-    "sentence": "小学生のころ、学校で毎日漢字を書かせられた。",
+    "sentence": "子どものころ、学校で毎日漢字を書かせられた。",
     "cloze": "学校で毎日漢字を書かせられた",
     "answer": "学校で毎日漢字を書かせられた",
     "accepted_answers": [],
@@ -8729,7 +8731,7 @@
   },
   {
     "id": "ja-02-764",
-    "sentence": "じゅんびする時間もないまま、会議ではっぴょうさせられた。",
+    "sentence": "じゅんびする時間がなかった。会議ではっぴょうさせられた。",
     "cloze": "会議ではっぴょうさせられた",
     "answer": "会議ではっぴょうさせられた",
     "accepted_answers": [],
@@ -8753,7 +8755,7 @@
   },
   {
     "id": "ja-02-766",
-    "sentence": "ことわったのに、友だちに運転させられた。",
+    "sentence": "運転をことわった。友だちに運転させられた。",
     "cloze": "友だちに運転させられた",
     "answer": "友だちに運転させられた",
     "accepted_answers": [],
@@ -8765,7 +8767,7 @@
   },
   {
     "id": "ja-02-767",
-    "sentence": "こえが出にくいと伝えたのに、先生に本を読ませられた。",
+    "sentence": "「こえが出ません」と伝えた。先生に本を読ませられた。",
     "cloze": "先生に本を読ませられた",
     "answer": "先生に本を読ませられた",
     "accepted_answers": [],
@@ -8801,7 +8803,7 @@
   },
   {
     "id": "ja-02-770",
-    "sentence": "のみたくなかったが、けんさの前ににがい薬を飲ませられた。",
+    "sentence": "のみたくなかった。けんさの前ににがい薬を飲ませられた。",
     "cloze": "けんさの前ににがい薬を飲ませられた",
     "answer": "けんさの前ににがい薬を飲ませられた",
     "accepted_answers": [],
@@ -8813,19 +8815,19 @@
   },
   {
     "id": "ja-02-771",
-    "sentence": "今は好きだが、子どものころやさいを食べさせられた。",
-    "cloze": "子どものころやさいを食べさせられた",
-    "answer": "子どものころやさいを食べさせられた",
+    "sentence": "子どものころはあそびたかった。でも、日曜日も家の店を手伝わせられた。",
+    "cloze": "日曜日も家の店を手伝わせられた",
+    "answer": "日曜日も家の店を手伝わせられた",
     "accepted_answers": [],
-    "lemma": "食べさせられる",
-    "reading": "こどものころやさいをたべさせられた",
-    "meaning": "was made to eat vegetables in childhood",
+    "lemma": "手伝わせられる",
+    "reading": "にちようびもいえのみせをてつだわせられた",
+    "meaning": "was made to help at the family shop on Sundays",
     "grammar": "causative-passive",
     "audio": "work/audio/ja-JP/02/ja-02-771.mp3"
   },
   {
     "id": "ja-02-772",
-    "sentence": "友だちとはなれたくなかったが、親の仕事で外国へ行かせられた。",
+    "sentence": "友だちといっしょにいたかった。親の仕事で外国へ行かせられた。",
     "cloze": "親の仕事で外国へ行かせられた",
     "answer": "親の仕事で外国へ行かせられた",
     "accepted_answers": [],
@@ -8873,7 +8875,7 @@
   },
   {
     "id": "ja-02-776",
-    "sentence": "むずかしかったが、授業で長い本を読まされた。",
+    "sentence": "その本はむずかしかった。授業で長い本を読まされた。",
     "cloze": "授業で長い本を読まされた",
     "answer": "授業で長い本を読まされた",
     "accepted_answers": [],
@@ -8897,7 +8899,7 @@
   },
   {
     "id": "ja-02-778",
-    "sentence": "帰るつもりだったのに、予定外に残業させられてつかれた。",
+    "sentence": "帰るつもりだった。予定外に残業させられてつかれた。",
     "cloze": "予定外に残業させられてつかれた",
     "answer": "予定外に残業させられてつかれた",
     "accepted_answers": [],
@@ -8909,7 +8911,7 @@
   },
   {
     "id": "ja-02-779",
-    "sentence": "ピアノは好きではなかったが、子どものころ練習させられた。",
+    "sentence": "ピアノは好きではなかった。子どものころ練習させられた。",
     "cloze": "子どものころ練習させられた",
     "answer": "子どものころ練習させられた",
     "accepted_answers": [],
@@ -8994,7 +8996,7 @@
   },
   {
     "id": "ja-02-786",
-    "sentence": "道が危険な時は、警察が運転手に車を止めさせる。",
+    "sentence": "道が危険です。警察が運転手に車を止めさせる。",
     "cloze": "警察が運転手に車を止めさせる",
     "answer": "警察が運転手に車を止めさせる",
     "accepted_answers": [],
@@ -9006,7 +9008,7 @@
   },
   {
     "id": "ja-02-787",
-    "sentence": "じしんのくんれんでは、先生が学生を避難させる。",
+    "sentence": "危ない時は、先生が学生を避難させる。",
     "cloze": "先生が学生を避難させる",
     "answer": "先生が学生を避難させる",
     "accepted_answers": [],
@@ -9018,7 +9020,7 @@
   },
   {
     "id": "ja-02-788",
-    "sentence": "台風が近づいているので、会社が社員を帰らせる。",
+    "sentence": "天気が悪いので、会社が社員を帰らせる。",
     "cloze": "会社が社員を帰らせる",
     "answer": "会社が社員を帰らせる",
     "accepted_answers": [],
@@ -9042,7 +9044,7 @@
   },
   {
     "id": "ja-02-790",
-    "sentence": "帰ろうとした時、部長に急な仕事をさせられた。",
+    "sentence": "帰る前に、部長に急な仕事をさせられた。",
     "cloze": "部長に急な仕事をさせられた",
     "answer": "部長に急な仕事をさせられた",
     "accepted_answers": [],
@@ -9078,19 +9080,19 @@
   },
   {
     "id": "ja-02-793",
-    "sentence": "人が足りなかったので、店長に休日も働かされた。",
-    "cloze": "店長に休日も働かされた",
-    "answer": "店長に休日も働かされた",
+    "sentence": "店がいそがしかったので、店長に重い箱を何度も運ばされた。",
+    "cloze": "店長に重い箱を何度も運ばされた",
+    "answer": "店長に重い箱を何度も運ばされた",
     "accepted_answers": [],
-    "lemma": "働かされる",
-    "reading": "てんちょうにきゅうじつもはたらかされた",
-    "meaning": "was made to work even on days off by the manager",
+    "lemma": "運ばされる",
+    "reading": "てんちょうにおもいはこをなんどもはこばされた",
+    "meaning": "was made to carry heavy boxes repeatedly by the manager",
     "grammar": "contracted causative-passive",
     "audio": "work/audio/ja-JP/02/ja-02-793.mp3"
   },
   {
     "id": "ja-02-794",
-    "sentence": "今は好きな物を選べるが、子どもの時はきらいな物も食べさせられた。",
+    "sentence": "今は好きな物を食べる。子どもの時はきらいな物も食べさせられた。",
     "cloze": "子どもの時はきらいな物も食べさせられた",
     "answer": "子どもの時はきらいな物も食べさせられた",
     "accepted_answers": [],
@@ -9102,7 +9104,7 @@
   },
   {
     "id": "ja-02-795",
-    "sentence": "くんれんの後で、だれに何をさせられましたか。",
+    "sentence": "くんれんでいやなことがあったと言っていましたね。だれに何をさせられましたか。",
     "cloze": "だれに何をさせられましたか",
     "answer": "だれに何をさせられましたか",
     "accepted_answers": [],
@@ -9115,7 +9117,7 @@
   },
   {
     "id": "ja-02-796",
-    "sentence": "参加すると聞いていなかったのですが、なぜ参加させられたんですか。",
+    "sentence": "参加の話を聞いていませんでした。なぜ参加させられたんですか。",
     "cloze": "なぜ参加させられたんですか",
     "answer": "なぜ参加させられたんですか",
     "accepted_answers": [],
@@ -9140,7 +9142,7 @@
   },
   {
     "id": "ja-02-798",
-    "sentence": "りゆうを聞くと、安全のために必要だと説明された。",
+    "sentence": "りゆうを聞きました。安全のために必要だと説明された。",
     "cloze": "安全のために必要だと説明された",
     "answer": "安全のために必要だと説明された",
     "accepted_answers": [],
@@ -9153,13 +9155,14 @@
   },
   {
     "id": "ja-02-799",
-    "sentence": "終わってみると、くんれんはいやだったがやくにたった。",
-    "cloze": "いやだったがやくにたった",
-    "answer": "いやだったがやくにたった",
+    "sentence": "くんれんは安全に役立った。",
+    "cloze": "安全に役立った",
+    "answer": "安全に役立った",
     "accepted_answers": [],
-    "lemma": "やくにたつ",
-    "meaning": "was unpleasant but proved useful",
-    "grammar": "simple contrast with が",
+    "lemma": "役立つ",
+    "reading": "あんぜんにやくだった",
+    "meaning": "contributed to safety",
+    "grammar": "usefulness after required training",
     "audio": "work/audio/ja-JP/02/ja-02-799.mp3"
   },
   {
@@ -9225,19 +9228,19 @@
   },
   {
     "id": "ja-02-805",
-    "sentence": "このせきなら、この薬はききそうだ。",
+    "sentence": "前にもこの薬でせきが止まった。この薬はききそうだ。",
     "cloze": "この薬はききそうだ",
     "answer": "この薬はききそうだ",
     "accepted_answers": [],
     "lemma": "きく",
     "reading": "このくすりはききそうだ",
-    "meaning": "This medicine looks effective.",
+    "meaning": "This medicine seems likely to work.",
     "grammar": "verb stem + そうだ (appearance)",
     "audio": "work/audio/ja-JP/02/ja-02-805.mp3"
   },
   {
     "id": "ja-02-806",
-    "sentence": "一人では運べないよ。その箱はおもそうだ。",
+    "sentence": "一人では大変だよ。その箱はおもそうだ。",
     "cloze": "その箱はおもそうだ",
     "answer": "その箱はおもそうだ",
     "accepted_answers": [],
@@ -9262,7 +9265,7 @@
   },
   {
     "id": "ja-02-808",
-    "sentence": "問題を見たけど、試験は難しそうだ。",
+    "sentence": "問題を見た。試験は難しそうだ。",
     "cloze": "試験は難しそうだ",
     "answer": "試験は難しそうだ",
     "accepted_answers": [],
@@ -9287,7 +9290,7 @@
   },
   {
     "id": "ja-02-810",
-    "sentence": "なんども目を閉じているし、かれは眠そうだ。",
+    "sentence": "なんども目を閉じている。かれは眠そうだ。",
     "cloze": "かれは眠そうだ",
     "answer": "かれは眠そうだ",
     "accepted_answers": [],
@@ -9299,7 +9302,7 @@
   },
   {
     "id": "ja-02-811",
-    "sentence": "天気予報では雨が降るそうだ。かさを持っていこう。",
+    "sentence": "天気予報では雨が降るそうだ。かさを持っていく。",
     "cloze": "天気予報では雨が降るそうだ",
     "answer": "天気予報では雨が降るそうだ",
     "accepted_answers": [],
@@ -9311,7 +9314,7 @@
   },
   {
     "id": "ja-02-812",
-    "sentence": "ニュースでは台風が来るそうだ。今のうちにじゅんびしよう。",
+    "sentence": "ニュースでは台風が来るそうだ。今からじゅんびする。",
     "cloze": "ニュースでは台風が来るそうだ",
     "answer": "ニュースでは台風が来るそうだ",
     "accepted_answers": [],
@@ -9323,7 +9326,7 @@
   },
   {
     "id": "ja-02-813",
-    "sentence": "先生の話では試験があるそうだ。今夜から復習しよう。",
+    "sentence": "先生の話では試験があるそうだ。今夜から復習する。",
     "cloze": "先生の話では試験があるそうだ",
     "answer": "先生の話では試験があるそうだ",
     "accepted_answers": [],
@@ -9335,7 +9338,7 @@
   },
   {
     "id": "ja-02-814",
-    "sentence": "同僚によると会議は中止だそうだ。会社へ行く前に確認しよう。",
+    "sentence": "同僚によると会議は中止だそうだ。会社へ行く前に確認する。",
     "cloze": "同僚によると会議は中止だそうだ",
     "answer": "同僚によると会議は中止だそうだ",
     "accepted_answers": [],
@@ -9347,7 +9350,7 @@
   },
   {
     "id": "ja-02-815",
-    "sentence": "医者によるとすぐ治るそうだ。しばらく家で休もう。",
+    "sentence": "医者によるとすぐ治るそうだ。しばらく家で休む。",
     "cloze": "医者によるとすぐ治るそうだ",
     "answer": "医者によるとすぐ治るそうだ",
     "accepted_answers": [],
@@ -9359,7 +9362,7 @@
   },
   {
     "id": "ja-02-816",
-    "sentence": "友だちから聞いた話では店が閉まるそうだ。今日中に行こう。",
+    "sentence": "友だちから聞いた話では店が閉まるそうだ。今日、店へ行く。",
     "cloze": "友だちから聞いた話では店が閉まるそうだ",
     "answer": "友だちから聞いた話では店が閉まるそうだ",
     "accepted_answers": [],
@@ -9371,7 +9374,7 @@
   },
   {
     "id": "ja-02-817",
-    "sentence": "駅員の説明では電車が遅れるそうだ。会社に連絡しておこう。",
+    "sentence": "駅員の説明では電車が遅れるそうだ。会社に連絡する。",
     "cloze": "駅員の説明では電車が遅れるそうだ",
     "answer": "駅員の説明では電車が遅れるそうだ",
     "accepted_answers": [],
@@ -9383,7 +9386,7 @@
   },
   {
     "id": "ja-02-818",
-    "sentence": "案内によると予約が必要だそうだ。先に電話しておこう。",
+    "sentence": "案内によると予約が必要だそうだ。先に電話する。",
     "cloze": "案内によると予約が必要だそうだ",
     "answer": "案内によると予約が必要だそうだ",
     "accepted_answers": [],
@@ -9395,20 +9398,20 @@
   },
   {
     "id": "ja-02-819",
-    "sentence": "家族の話では元気だそうだ。もうしんぱいしなくていいよ。",
+    "sentence": "病気の父について聞いた。家族の話では元気だそうだ。安心した。",
     "cloze": "家族の話では元気だそうだ",
     "answer": "家族の話では元気だそうだ",
     "accepted_answers": [],
     "lemma": "元気だ",
     "reading": "かぞくのはなしではげんきだそうだ",
-    "meaning": "The family says they are well.",
+    "meaning": "According to the family, he is well.",
     "grammar": "な-adjective + だそうだ (hearsay)",
     "register": "casual",
     "audio": "work/audio/ja-JP/02/ja-02-819.mp3"
   },
   {
     "id": "ja-02-820",
-    "sentence": "新聞では新しい橋ができるそうだ。駅まで近くなるね。",
+    "sentence": "新聞では新しい橋ができるそうだ。それはいいニュースだ。",
     "cloze": "新聞では新しい橋ができるそうだ",
     "answer": "新聞では新しい橋ができるそうだ",
     "accepted_answers": [],
@@ -9421,7 +9424,7 @@
   },
   {
     "id": "ja-02-821",
-    "sentence": "外を見ると、窓がぬれているので雨のようだ。",
+    "sentence": "窓がぬれているので雨のようだ。",
     "cloze": "窓がぬれているので雨のようだ",
     "answer": "窓がぬれているので雨のようだ",
     "accepted_answers": [],
@@ -9433,7 +9436,7 @@
   },
   {
     "id": "ja-02-822",
-    "sentence": "電気が消えているのでるすのようだ。後でもういちど来よう。",
+    "sentence": "電気が消えているのでるすのようだ。後でもういちど来る。",
     "cloze": "電気が消えているのでるすのようだ",
     "answer": "電気が消えているのでるすのようだ",
     "accepted_answers": [],
@@ -9457,7 +9460,7 @@
   },
   {
     "id": "ja-02-824",
-    "sentence": "変な音がするので機械が壊れたようだ。電気を消しておこう。",
+    "sentence": "変な音がするので機械が壊れたようだ。機械を止める。",
     "cloze": "変な音がするので機械が壊れたようだ",
     "answer": "変な音がするので機械が壊れたようだ",
     "accepted_answers": [],
@@ -9469,7 +9472,7 @@
   },
   {
     "id": "ja-02-825",
-    "sentence": "まどの外が白いよ。外は雪みたいだ。",
+    "sentence": "窓の外が白いよ。外は雪みたいだ。",
     "cloze": "外は雪みたいだ",
     "answer": "外は雪みたいだ",
     "accepted_answers": [],
@@ -9482,7 +9485,7 @@
   },
   {
     "id": "ja-02-826",
-    "sentence": "学生がしつもんしているから、あの人は先生みたいだ。",
+    "sentence": "学生があの人にしつもんしているから、あの人は先生みたいだ。",
     "cloze": "あの人は先生みたいだ",
     "answer": "あの人は先生みたいだ",
     "accepted_answers": [],
@@ -9495,12 +9498,11 @@
   },
   {
     "id": "ja-02-827",
-    "sentence": "入口にフロントがあるし、このたてものはホテルみたいだ。",
+    "sentence": "入口にフロントがある。このたてものはホテルみたいだ。",
     "cloze": "このたてものはホテルみたいだ",
     "answer": "このたてものはホテルみたいだ",
     "accepted_answers": [],
     "lemma": "ホテルみたいだ",
-    "reading": "このたてものはホテルみたいだ",
     "meaning": "This building looks like a hotel.",
     "grammar": "noun + みたいだ (conversational resemblance)",
     "register": "casual",
@@ -9508,12 +9510,11 @@
   },
   {
     "id": "ja-02-828",
-    "sentence": "雪の山が朝の光で白く見えて、ゆめみたいなけしきだ。",
+    "sentence": "雪の山が朝の光で白くて、ゆめみたいなけしきだ。",
     "cloze": "ゆめみたいなけしきだ",
     "answer": "ゆめみたいなけしきだ",
     "accepted_answers": [],
     "lemma": "ゆめみたいだ",
-    "reading": "ゆめみたいなけしきだ",
     "meaning": "It is dreamlike scenery.",
     "grammar": "noun + みたいな + noun (resemblance)",
     "register": "casual",
@@ -9521,7 +9522,7 @@
   },
   {
     "id": "ja-02-829",
-    "sentence": "朝は雨でも、午後は晴れるかもしれない。",
+    "sentence": "朝は雨だった。午後は晴れるかもしれない。",
     "cloze": "午後は晴れるかもしれない",
     "answer": "午後は晴れるかもしれない",
     "accepted_answers": [],
@@ -9533,7 +9534,7 @@
   },
   {
     "id": "ja-02-830",
-    "sentence": "もうホテルがいっぱいで、予約できないかもしれない。",
+    "sentence": "ホテルの人は、部屋はあと一つだと言っていた。予約できないかもしれない。",
     "cloze": "予約できないかもしれない",
     "answer": "予約できないかもしれない",
     "accepted_answers": [],
@@ -9598,14 +9599,13 @@
     "answer": "たぶんだいじょうぶでしょう",
     "accepted_answers": [],
     "lemma": "だいじょうぶだ",
-    "reading": "たぶんだいじょうぶでしょう",
     "meaning": "It will probably be all right.",
     "grammar": "な-adjective stem + でしょう (prediction)",
     "audio": "work/audio/ja-JP/02/ja-02-835.mp3"
   },
   {
     "id": "ja-02-836",
-    "sentence": "早く帰ろう。空が暗くなって雨が降りそうだ。",
+    "sentence": "早く帰る。空が暗くなって雨が降りそうだ。",
     "cloze": "空が暗くなって雨が降りそうだ",
     "answer": "空が暗くなって雨が降りそうだ",
     "accepted_answers": [],
@@ -9618,7 +9618,7 @@
   },
   {
     "id": "ja-02-837",
-    "sentence": "ラジオの天気予報では雪が降るそうだ。車の運転に気をつけよう。",
+    "sentence": "ラジオの天気予報では雪が降るそうだ。雪の道に気をつける。",
     "cloze": "ラジオの天気予報では雪が降るそうだ",
     "answer": "ラジオの天気予報では雪が降るそうだ",
     "accepted_answers": [],
@@ -9642,7 +9642,7 @@
   },
   {
     "id": "ja-02-839",
-    "sentence": "せつめいが分かりやすくて、話し方が先生みたいだ。",
+    "sentence": "説明が上手で、話し方が先生みたいだ。",
     "cloze": "話し方が先生みたいだ",
     "answer": "話し方が先生みたいだ",
     "accepted_answers": [],
@@ -9655,7 +9655,7 @@
   },
   {
     "id": "ja-02-840",
-    "sentence": "くもが多いので夜は雨かもしれない。かさを持っていこう。",
+    "sentence": "くもが多いので夜は雨かもしれない。かさを持っていく。",
     "cloze": "くもが多いので夜は雨かもしれない",
     "answer": "くもが多いので夜は雨かもしれない",
     "accepted_answers": [],
@@ -9667,7 +9667,7 @@
   },
   {
     "id": "ja-02-841",
-    "sentence": "仕事の予定を立てる前に、会議がいつ始まるか確認する必要があります。",
+    "sentence": "仕事の予定を立てる前に、会議がいつ始まるか確認する。",
     "cloze": "会議がいつ始まるか確認する",
     "answer": "会議がいつ始まるか確認する",
     "accepted_answers": [],
@@ -9679,7 +9679,7 @@
   },
   {
     "id": "ja-02-842",
-    "sentence": "帰りの電車にまにあうように、先生に試験が何時に終わるか聞くつもりです。",
+    "sentence": "帰りの電車にまにあいたいので、先生に試験が何時に終わるか聞く。",
     "cloze": "試験が何時に終わるか聞く",
     "answer": "試験が何時に終わるか聞く",
     "accepted_answers": [],
@@ -9691,7 +9691,7 @@
   },
   {
     "id": "ja-02-843",
-    "sentence": "受付の人は、だれが担当するか知っているそうです。",
+    "sentence": "受付の人は、だれが担当するか知っている。",
     "cloze": "だれが担当するか知っている",
     "answer": "だれが担当するか知っている",
     "accepted_answers": [],
@@ -9703,7 +9703,7 @@
   },
   {
     "id": "ja-02-844",
-    "sentence": "店員はお客さんに、どこで受け取るか説明することになっています。",
+    "sentence": "店員はお客さんに、どこで受け取るか説明する。",
     "cloze": "どこで受け取るか説明する",
     "answer": "どこで受け取るか説明する",
     "accepted_answers": [],
@@ -9715,7 +9715,7 @@
   },
   {
     "id": "ja-02-845",
-    "sentence": "会議の前に、何を準備するか決めることにしました。",
+    "sentence": "会議の前に、何を準備するか決める。",
     "cloze": "何を準備するか決める",
     "answer": "何を準備するか決める",
     "accepted_answers": [],
@@ -9727,7 +9727,7 @@
   },
   {
     "id": "ja-02-846",
-    "sentence": "機械から変な音がするので、どうやって直すか調べるつもりです。",
+    "sentence": "機械から変な音がするので、どうやって直すか調べる。",
     "cloze": "どうやって直すか調べる",
     "answer": "どうやって直すか調べる",
     "accepted_answers": [],
@@ -9751,7 +9751,7 @@
   },
   {
     "id": "ja-02-848",
-    "sentence": "二つの道があるので、出発前にどの道を通るか相談することにしました。",
+    "sentence": "二つの道があるので、出発前にどの道を通るか相談する。",
     "cloze": "どの道を通るか相談する",
     "answer": "どの道を通るか相談する",
     "accepted_answers": [],
@@ -9763,7 +9763,7 @@
   },
   {
     "id": "ja-02-849",
-    "sentence": "修理を頼む前に、店員にいくらかかるかたずねるといいですよ。",
+    "sentence": "修理を頼む前に、店員にいくらかかるかたずねる。",
     "cloze": "いくらかかるかたずねる",
     "answer": "いくらかかるかたずねる",
     "accepted_answers": [],
@@ -9774,7 +9774,7 @@
   },
   {
     "id": "ja-02-850",
-    "sentence": "ホテルの予約をする前に、家族に何日泊まるか伝える必要があります。",
+    "sentence": "ホテルの予約をする前に、家族に何日泊まるか伝える。",
     "cloze": "何日泊まるか伝える",
     "answer": "何日泊まるか伝える",
     "accepted_answers": [],
@@ -9786,7 +9786,7 @@
   },
   {
     "id": "ja-02-851",
-    "sentence": "ホテルの受付では、まず予約があるかどうか確認することになっています。",
+    "sentence": "ホテルの受付では、まず予約があるかどうか確認する。",
     "cloze": "予約があるかどうか確認する",
     "answer": "予約があるかどうか確認する",
     "accepted_answers": [],
@@ -9798,7 +9798,7 @@
   },
   {
     "id": "ja-02-852",
-    "sentence": "サイズがあわなかったので、店員に商品を交換できるかどうか聞くつもりです。",
+    "sentence": "サイズがあわなかったので、店員に商品を交換できるかどうか聞く。",
     "cloze": "商品を交換できるかどうか聞く",
     "answer": "商品を交換できるかどうか聞く",
     "accepted_answers": [],
@@ -9810,7 +9810,7 @@
   },
   {
     "id": "ja-02-853",
-    "sentence": "せきが続いているので、薬が必要かどうか医者に聞くことにしました。",
+    "sentence": "せきが続いているので、薬が必要かどうか医者に聞く。",
     "cloze": "薬が必要かどうか医者に聞く",
     "answer": "薬が必要かどうか医者に聞く",
     "accepted_answers": [],
@@ -9822,7 +9822,7 @@
   },
   {
     "id": "ja-02-854",
-    "sentence": "台風が近づいているので、駅へ行く前に電車が動くかどうか調べる必要があります。",
+    "sentence": "台風が近づいているので、駅へ行く前に電車が動くかどうか調べる。",
     "cloze": "電車が動くかどうか調べる",
     "answer": "電車が動くかどうか調べる",
     "accepted_answers": [],
@@ -9834,7 +9834,7 @@
   },
   {
     "id": "ja-02-855",
-    "sentence": "予定を聞いてから、会議に参加するかどうか決めるつもりです。",
+    "sentence": "会議の予定を聞いて、参加するかどうか決める。",
     "cloze": "参加するかどうか決める",
     "answer": "参加するかどうか決める",
     "accepted_answers": [],
@@ -9846,7 +9846,7 @@
   },
   {
     "id": "ja-02-856",
-    "sentence": "空が曇ってきたけど、今夜は雨が降るかどうか分からないね。",
+    "sentence": "友だちと天気の話をしている。そらが暗いけど、今夜は雨が降るかどうか分からないね。",
     "cloze": "雨が降るかどうか分からない",
     "answer": "雨が降るかどうか分からない",
     "accepted_answers": [],
@@ -9911,7 +9911,7 @@
   },
   {
     "id": "ja-02-861",
-    "sentence": "予定を空けておくため、受付で会議は何曜日かたずねることにしました。",
+    "sentence": "予定を確認するため、受付で会議は何曜日かたずねる。",
     "cloze": "会議は何曜日かたずねる",
     "answer": "会議は何曜日かたずねる",
     "accepted_answers": [],
@@ -9947,7 +9947,7 @@
   },
   {
     "id": "ja-02-864",
-    "sentence": "今夜行きたいので、店が開いているかどうか電話で聞くつもりです。",
+    "sentence": "今夜行きたいので、店が開いているかどうか電話で聞く。",
     "cloze": "店が開いているかどうか電話で聞く",
     "answer": "店が開いているかどうか電話で聞く",
     "accepted_answers": [],
@@ -9959,7 +9959,7 @@
   },
   {
     "id": "ja-02-865",
-    "sentence": "来月から、新しい仕事を始めることになりました。",
+    "sentence": "来月から、新しい仕事を始める。",
     "cloze": "新しい仕事を始める",
     "answer": "新しい仕事を始める",
     "accepted_answers": [],
@@ -9971,7 +9971,7 @@
   },
   {
     "id": "ja-02-866",
-    "sentence": "試験が終わっても、日本語の勉強を続けるつもりです。",
+    "sentence": "試験の後も、日本語の勉強を続ける。",
     "cloze": "勉強を続ける",
     "answer": "勉強を続ける",
     "accepted_answers": [],
@@ -9983,7 +9983,7 @@
   },
   {
     "id": "ja-02-867",
-    "sentence": "休みの間に、としょかんからかりた長い本を読み終わるつもりです。",
+    "sentence": "休みの日に、としょかんからかりた長い本を読み終わる。",
     "cloze": "長い本を読み終わる",
     "answer": "長い本を読み終わる",
     "accepted_answers": [],
@@ -9995,7 +9995,7 @@
   },
   {
     "id": "ja-02-868",
-    "sentence": "足が痛くなったので、しばらく運動をやめることにしました。",
+    "sentence": "足が痛くなったので、しばらく運動をやめる。",
     "cloze": "運動をやめる",
     "answer": "運動をやめる",
     "accepted_answers": [],
@@ -10059,7 +10059,7 @@
   },
   {
     "id": "ja-02-873",
-    "sentence": "この仕事をいつ始めたか覚えているよ。",
+    "sentence": "友だちと仕事の話をしている。この仕事をいつ始めたか覚えているよ。",
     "cloze": "いつ始めたか覚えている",
     "answer": "いつ始めたか覚えている",
     "accepted_answers": [],
@@ -10072,7 +10072,7 @@
   },
   {
     "id": "ja-02-874",
-    "sentence": "帰る前に、今日の仕事がどこまで終わったか確認する必要があります。",
+    "sentence": "帰る前に、今日の仕事がどこまで終わったか確認する。",
     "cloze": "どこまで終わったか確認する",
     "answer": "どこまで終わったか確認する",
     "accepted_answers": [],
@@ -10084,7 +10084,7 @@
   },
   {
     "id": "ja-02-875",
-    "sentence": "今月中に、来年もこの運動を続けるかどうか決めるつもりです。",
+    "sentence": "今月中に、来年もこの運動を続けるかどうか決める。",
     "cloze": "続けるかどうか決める",
     "answer": "続けるかどうか決める",
     "accepted_answers": [],
@@ -10096,7 +10096,7 @@
   },
   {
     "id": "ja-02-876",
-    "sentence": "先生には、運動をやめたりゆうを説明する予定です。",
+    "sentence": "先生に、運動をやめたりゆうを説明する。",
     "cloze": "やめたりゆうを説明する",
     "answer": "やめたりゆうを説明する",
     "accepted_answers": [],
@@ -10107,7 +10107,7 @@
   },
   {
     "id": "ja-02-877",
-    "sentence": "話を聞き取れなかったので、先生が何と言ったか友だちに聞くことにしました。",
+    "sentence": "話を聞き取れなかったので、先生が何と言ったか友だちに聞く。",
     "cloze": "先生が何と言ったか友だちに聞く",
     "answer": "先生が何と言ったか友だちに聞く",
     "accepted_answers": [],
@@ -10119,7 +10119,7 @@
   },
   {
     "id": "ja-02-878",
-    "sentence": "駅で待っている家族のために、電車が何分遅れるか駅員にたずねるつもりです。",
+    "sentence": "駅で待っている家族のために、電車が何分遅れるか駅員にたずねる。",
     "cloze": "電車が何分遅れるか駅員にたずねる",
     "answer": "電車が何分遅れるか駅員にたずねる",
     "accepted_answers": [],
@@ -10131,7 +10131,7 @@
   },
   {
     "id": "ja-02-879",
-    "sentence": "荷物を送った店に、荷物が何時に届くかメッセージでたずねることにしました。",
+    "sentence": "荷物を送った店に、荷物が何時に届くかメッセージでたずねる。",
     "cloze": "荷物が何時に届くかメッセージでたずねる",
     "answer": "荷物が何時に届くかメッセージでたずねる",
     "accepted_answers": [],
@@ -10143,7 +10143,7 @@
   },
   {
     "id": "ja-02-880",
-    "sentence": "書き方が分からないので、もうしこみしょをどう書くか窓口でたずねるつもりです。",
+    "sentence": "書き方が分からないので、もうしこみしょをどう書くか窓口でたずねる。",
     "cloze": "もうしこみしょをどう書くか窓口でたずねる",
     "answer": "もうしこみしょをどう書くか窓口でたずねる",
     "accepted_answers": [],
@@ -10180,7 +10180,7 @@
   },
   {
     "id": "ja-02-883",
-    "sentence": "夜おそく寝ると、早く起きるのは難しい。",
+    "sentence": "夜おそく寝た日は、早く起きるのは難しい。",
     "cloze": "早く起きるのは難しい",
     "answer": "早く起きるのは難しい",
     "accepted_answers": [],
@@ -10226,12 +10226,12 @@
   },
   {
     "id": "ja-02-887",
-    "sentence": "駅でこまっている人に、日本語で道を案内することができる。",
-    "cloze": "日本語で道を案内することができる",
-    "answer": "日本語で道を案内することができる",
+    "sentence": "駅でこまっている人に、日本語で道を教えることができる。",
+    "cloze": "日本語で道を教えることができる",
+    "answer": "日本語で道を教えることができる",
     "accepted_answers": [],
-    "lemma": "案内することができる",
-    "reading": "にほんごでみちをあんないすることができる",
+    "lemma": "教えることができる",
+    "reading": "にほんごでみちをおしえることができる",
     "meaning": "can give directions in Japanese",
     "audio": "work/audio/ja-JP/02/ja-02-887.mp3"
   },
@@ -10283,7 +10283,7 @@
   },
   {
     "id": "ja-02-892",
-    "sentence": "今年できることをかんがえて、目標を決める。",
+    "sentence": "これからしたいことをかんがえて、目標を決める。",
     "cloze": "目標を決める",
     "answer": "目標を決める",
     "accepted_answers": [],
@@ -10316,7 +10316,7 @@
   },
   {
     "id": "ja-02-895",
-    "sentence": "すぐに上手にならなくても、練習を続ける。",
+    "sentence": "まだ上手ではない。練習を続ける。",
     "cloze": "練習を続ける",
     "answer": "練習を続ける",
     "accepted_answers": [],
@@ -10327,7 +10327,7 @@
   },
   {
     "id": "ja-02-896",
-    "sentence": "今日は予定があるので、六時までに仕事を終える。",
+    "sentence": "今日は仕事を終えるつもりだ。",
     "cloze": "仕事を終える",
     "answer": "仕事を終える",
     "accepted_answers": [],
@@ -10349,7 +10349,7 @@
   },
   {
     "id": "ja-02-898",
-    "sentence": "もっと元気にすごせるように、せいかつを変える。",
+    "sentence": "もっと元気にすごすために、せいかつを変える。",
     "cloze": "せいかつを変える",
     "answer": "せいかつを変える",
     "accepted_answers": [],
@@ -10360,7 +10360,7 @@
   },
   {
     "id": "ja-02-899",
-    "sentence": "来年までに、日本語を上手に話すことをめざす。",
+    "sentence": "これから、日本語を上手に話すことをめざす。",
     "cloze": "日本語を上手に話すことをめざす",
     "answer": "日本語を上手に話すことをめざす",
     "accepted_answers": [],
@@ -10382,7 +10382,7 @@
   },
   {
     "id": "ja-02-901",
-    "sentence": "漢字が覚えにくいので、勉強方法を改善する。",
+    "sentence": "漢字をもっと覚えたいので、勉強方法を改善する。",
     "cloze": "勉強方法を改善する",
     "answer": "勉強方法を改善する",
     "accepted_answers": [],
@@ -10404,7 +10404,7 @@
   },
   {
     "id": "ja-02-903",
-    "sentence": "家族とゆっくり食事できるように、残業を減らす。",
+    "sentence": "家族とゆっくり食事するために、残業を減らす。",
     "cloze": "残業を減らす",
     "answer": "残業を減らす",
     "accepted_answers": [],
@@ -10459,7 +10459,7 @@
   },
   {
     "id": "ja-02-908",
-    "sentence": "前より漢字が読めるようになり、努力がけっかにつながると分かった。",
+    "sentence": "前より漢字が読めるようになって、努力がけっかにつながると分かった。",
     "cloze": "努力がけっかにつながる",
     "answer": "努力がけっかにつながる",
     "accepted_answers": [],
@@ -10481,18 +10481,18 @@
   },
   {
     "id": "ja-02-910",
-    "sentence": "来月の試験にむけて、れんしゅうりょうが増えた。",
-    "cloze": "れんしゅうりょうが増えた",
-    "answer": "れんしゅうりょうが増えた",
+    "sentence": "来月の試験が近づいて、練習する時間が増えた。",
+    "cloze": "練習する時間が増えた",
+    "answer": "練習する時間が増えた",
     "accepted_answers": [],
-    "lemma": "れんしゅうりょうが増える",
-    "reading": "れんしゅうりょうがふえた",
-    "meaning": "the amount of practice increased",
+    "lemma": "練習する時間が増える",
+    "reading": "れんしゅうするじかんがふえた",
+    "meaning": "the time spent practicing increased",
     "audio": "work/audio/ja-JP/02/ja-02-910.mp3"
   },
   {
     "id": "ja-02-911",
-    "sentence": "新しい機械を使うようになり、仕事の時間が減った。",
+    "sentence": "新しい機械を使うようになって、仕事の時間が減った。",
     "cloze": "仕事の時間が減った",
     "answer": "仕事の時間が減った",
     "accepted_answers": [],
@@ -10527,7 +10527,7 @@
   },
   {
     "id": "ja-02-914",
-    "sentence": "運動を続けるため、毎日歩くことを目標にする。",
+    "sentence": "運動を続けたいので、毎日歩くことを目標にする。",
     "cloze": "毎日歩くことを目標にする",
     "answer": "毎日歩くことを目標にする",
     "accepted_answers": [],
@@ -10538,18 +10538,18 @@
   },
   {
     "id": "ja-02-915",
-    "sentence": "来月のはっぴょうにむけて、人前で話すのを少しずつ練習する。",
-    "cloze": "人前で話すのを少しずつ練習する",
-    "answer": "人前で話すのを少しずつ練習する",
+    "sentence": "来月ははっぴょうがあるので、人前で話す練習を少しずつする。",
+    "cloze": "人前で話す練習を少しずつする",
+    "answer": "人前で話す練習を少しずつする",
     "accepted_answers": [],
-    "lemma": "人前で話すのを練習する",
-    "reading": "ひとまえではなすのをすこしずつれんしゅうする",
+    "lemma": "人前で話す練習をする",
+    "reading": "ひとまえではなすれんしゅうをすこしずつする",
     "meaning": "gradually practice speaking in front of people",
     "audio": "work/audio/ja-JP/02/ja-02-915.mp3"
   },
   {
     "id": "ja-02-916",
-    "sentence": "つかれた日は休みながら、好きなことを続ける。",
+    "sentence": "休む日も作って、好きなことを続ける。",
     "cloze": "好きなことを続ける",
     "answer": "好きなことを続ける",
     "accepted_answers": [],
@@ -10571,13 +10571,13 @@
   },
   {
     "id": "ja-02-918",
-    "sentence": "料理は、自分でするのと見るのは違う。",
-    "cloze": "自分でするのと見るのは違う",
-    "answer": "自分でするのと見るのは違う",
+    "sentence": "自分で料理を作るのと、ほかの人が料理を作るのを見るのは違う。",
+    "cloze": "料理を作るのを見る",
+    "answer": "料理を作るのを見る",
     "accepted_answers": [],
-    "lemma": "自分でするのと見るのは違う",
-    "reading": "じぶんでするのとみるのはちがう",
-    "meaning": "doing it yourself and watching are different",
+    "lemma": "料理を作るのを見る",
+    "reading": "りょうりをつくるのをみる",
+    "meaning": "watch someone cook",
     "grammar": "の nominalizes the two actions being contrasted",
     "audio": "work/audio/ja-JP/02/ja-02-918.mp3"
   },
@@ -10594,7 +10594,7 @@
   },
   {
     "id": "ja-02-920",
-    "sentence": "家族がおいしいと言ってくれて、料理を作るのが楽しくなった。",
+    "sentence": "家族が「おいしい」と言ったので、料理を作るのが楽しくなった。",
     "cloze": "料理を作るのが楽しくなった",
     "answer": "料理を作るのが楽しくなった",
     "accepted_answers": [],
@@ -10605,7 +10605,7 @@
   },
   {
     "id": "ja-02-921",
-    "sentence": "あしたは朝から小テストがあるので、授業の前に予習する。",
+    "sentence": "明日は大切な授業があるので、授業の前に予習する。",
     "cloze": "授業の前に予習する",
     "answer": "授業の前に予習する",
     "accepted_answers": [],
@@ -10617,7 +10617,7 @@
   },
   {
     "id": "ja-02-922",
-    "sentence": "間違えたところを覚えるために、試験の後で復習する。",
+    "sentence": "試験の答えを確認したい。だから、試験の後で復習する。",
     "cloze": "試験の後で復習する",
     "answer": "試験の後で復習する",
     "accepted_answers": [],
@@ -10677,7 +10677,7 @@
   },
   {
     "id": "ja-02-927",
-    "sentence": "駅に着いたら、きっぷを買ってから乗る。",
+    "sentence": "駅では、きっぷを買ってから乗る。",
     "cloze": "きっぷを買ってから乗る",
     "answer": "きっぷを買ってから乗る",
     "accepted_answers": [],
@@ -10713,7 +10713,7 @@
   },
   {
     "id": "ja-02-930",
-    "sentence": "大学の本を買うために、夏休みの間アルバイトする。",
+    "sentence": "教科書が必要なので、夏休みの間アルバイトする。",
     "cloze": "夏休みの間アルバイトする",
     "answer": "夏休みの間アルバイトする",
     "accepted_answers": [],
@@ -10725,7 +10725,7 @@
   },
   {
     "id": "ja-02-931",
-    "sentence": "大切な話を聞くため、会議の間電話に出ない。",
+    "sentence": "話が大切なので、会議の間電話に出ない。",
     "cloze": "会議の間電話に出ない",
     "answer": "会議の間電話に出ない",
     "accepted_answers": [],
@@ -10737,7 +10737,7 @@
   },
   {
     "id": "ja-02-932",
-    "sentence": "来週はだれも家にいないので、旅行の間家を空ける。",
+    "sentence": "来週は家族みんなで旅行に行くので、旅行の間家を空ける。",
     "cloze": "旅行の間家を空ける",
     "answer": "旅行の間家を空ける",
     "accepted_answers": [],
@@ -10749,7 +10749,7 @@
   },
   {
     "id": "ja-02-933",
-    "sentence": "分からないところがあれば、授業の間にしつもんする。",
+    "sentence": "分からないところは、授業の間にしつもんする。",
     "cloze": "授業の間にしつもんする",
     "answer": "授業の間にしつもんする",
     "accepted_answers": [],
@@ -10785,13 +10785,13 @@
   },
   {
     "id": "ja-02-936",
-    "sentence": "今夜は、寝ている間に雨がやむでしょう。",
-    "cloze": "寝ている間に雨がやむ",
-    "answer": "寝ている間に雨がやむ",
+    "sentence": "きのうの夜は、寝ている間に雨がやんだ。",
+    "cloze": "寝ている間に雨がやんだ",
+    "answer": "寝ている間に雨がやんだ",
     "accepted_answers": [],
     "lemma": "やむ",
-    "reading": "ねているあいだにあめがやむ",
-    "meaning": "the rain stops while one is sleeping",
+    "reading": "ねているあいだにあめがやんだ",
+    "meaning": "the rain stopped while one was sleeping",
     "grammar": "ている + 間に for an event occurring during another action",
     "audio": "work/audio/ja-JP/02/ja-02-936.mp3"
   },
@@ -10821,7 +10821,7 @@
   },
   {
     "id": "ja-02-939",
-    "sentence": "がくひを自分で払うために、働きながら学校に通う。",
+    "sentence": "お金が必要なので、働きながら学校に通う。",
     "cloze": "働きながら学校に通う",
     "answer": "働きながら学校に通う",
     "accepted_answers": [],
@@ -10833,7 +10833,7 @@
   },
   {
     "id": "ja-02-940",
-    "sentence": "食事にしゅうちゅうしたいので、テレビを見ながら食べない。",
+    "sentence": "食事の時は、テレビを見ながら食べない。",
     "cloze": "テレビを見ながら食べない",
     "answer": "テレビを見ながら食べない",
     "accepted_answers": [],
@@ -10881,7 +10881,7 @@
   },
   {
     "id": "ja-02-944",
-    "sentence": "この問題は自分で調べても分からないので、先生に聞いてみる。",
+    "sentence": "この問題は自分で調べたが分からないので、先生に聞いてみる。",
     "cloze": "先生に聞いてみる",
     "answer": "先生に聞いてみる",
     "accepted_answers": [],
@@ -10893,7 +10893,7 @@
   },
   {
     "id": "ja-02-945",
-    "sentence": "試験の前は、休まずに一時間勉強を続ける。",
+    "sentence": "試験の前は、一時間勉強を続ける。",
     "cloze": "一時間勉強を続ける",
     "answer": "一時間勉強を続ける",
     "accepted_answers": [],
@@ -10916,7 +10916,7 @@
   },
   {
     "id": "ja-02-947",
-    "sentence": "このしょるいは今月中に必要なので、げつまつまでに提出する。",
+    "sentence": "このしょるいは仕事で必要なので、げつまつまでに提出する。",
     "cloze": "げつまつまでに提出する",
     "answer": "げつまつまでに提出する",
     "accepted_answers": [],
@@ -10940,7 +10940,7 @@
   },
   {
     "id": "ja-02-949",
-    "sentence": "仕事で間違いがあった時は、先に確認してつぎに報告する。",
+    "sentence": "仕事で問題があった時は、先に確認してつぎに報告する。",
     "cloze": "先に確認してつぎに報告する",
     "answer": "先に確認してつぎに報告する",
     "accepted_answers": [],
@@ -10952,7 +10952,7 @@
   },
   {
     "id": "ja-02-950",
-    "sentence": "旅行の日が決まったら、まず予約してそれから準備する。",
+    "sentence": "旅行の日を決めて、まず予約してそれから準備する。",
     "cloze": "まず予約してそれから準備する",
     "answer": "まず予約してそれから準備する",
     "accepted_answers": [],
@@ -10975,7 +10975,7 @@
   },
   {
     "id": "ja-02-952",
-    "sentence": "よていひょうに、後で電話することをメモする。",
+    "sentence": "ノートに、後で電話することをメモする。",
     "cloze": "後で電話することをメモする",
     "answer": "後で電話することをメモする",
     "accepted_answers": [],
@@ -10998,7 +10998,7 @@
   },
   {
     "id": "ja-02-954",
-    "sentence": "会議中はスマホを切るが、会議の間に電話がかかってくることもある。",
+    "sentence": "会議室には電話があり、会議の間に電話がかかってくることもある。",
     "cloze": "会議の間に電話がかかってくる",
     "answer": "会議の間に電話がかかってくる",
     "accepted_answers": [],
@@ -11022,7 +11022,7 @@
   },
   {
     "id": "ja-02-956",
-    "sentence": "ゆうしょくの前に、家に帰ってから宿題を始める。",
+    "sentence": "学校から家に帰ってから宿題を始める。",
     "cloze": "家に帰ってから宿題を始める",
     "answer": "家に帰ってから宿題を始める",
     "accepted_answers": [],
@@ -11058,7 +11058,7 @@
   },
   {
     "id": "ja-02-959",
-    "sentence": "バスには乗らず、運動のために毎朝駅まで歩いている。",
+    "sentence": "バスは使わない。運動のために毎朝駅まで歩いている。",
     "cloze": "毎朝駅まで歩いている",
     "answer": "毎朝駅まで歩いている",
     "accepted_answers": [],
@@ -11106,7 +11106,7 @@
   },
   {
     "id": "ja-02-963",
-    "sentence": "病院で見せるので、ほけんしょうを持ってこなければならない。",
+    "sentence": "病院の受付で、係の人が、次の診察にはほけんしょうを持ってこなければならないと説明した。",
     "cloze": "ほけんしょうを持ってこなければならない",
     "answer": "ほけんしょうを持ってこなければならない",
     "accepted_answers": [],
@@ -11165,7 +11165,7 @@
   },
   {
     "id": "ja-02-968",
-    "sentence": "診察の前に、いっかいで受付をしなくてはいけない。",
+    "sentence": "診察の前に、入口で受付をしなくてはいけない。",
     "cloze": "受付をしなくてはいけない",
     "answer": "受付をしなくてはいけない",
     "accepted_answers": [],
@@ -11177,7 +11177,7 @@
   },
   {
     "id": "ja-02-969",
-    "sentence": "しあいに参加する人は、時間をまもらなくてはいけない。",
+    "sentence": "しあいでは、時間をまもらなくてはいけない。",
     "cloze": "時間をまもらなくてはいけない",
     "answer": "時間をまもらなくてはいけない",
     "accepted_answers": [],
@@ -11189,7 +11189,7 @@
   },
   {
     "id": "ja-02-970",
-    "sentence": "よくなっても、医者が出した薬を全部飲まなくてはいけない。",
+    "sentence": "医者が「一日一回、七日間飲んでください」と言ったので、薬を全部飲まなくてはいけない。",
     "cloze": "薬を全部飲まなくてはいけない",
     "answer": "薬を全部飲まなくてはいけない",
     "accepted_answers": [],
@@ -11213,7 +11213,7 @@
   },
   {
     "id": "ja-02-972",
-    "sentence": "その時間に行けるなら、予約を変えなくてもいい。",
+    "sentence": "三時の予約でだいじょうぶなので、予約を変えなくてもいい。",
     "cloze": "予約を変えなくてもいい",
     "answer": "予約を変えなくてもいい",
     "accepted_answers": [],
@@ -11225,7 +11225,7 @@
   },
   {
     "id": "ja-02-973",
-    "sentence": "おなかがいっぱいなら、全部食べなくてもいい。",
+    "sentence": "おなかがいっぱいだ。全部食べなくてもいい。",
     "cloze": "全部食べなくてもいい",
     "answer": "全部食べなくてもいい",
     "accepted_answers": [],
@@ -11237,7 +11237,7 @@
   },
   {
     "id": "ja-02-974",
-    "sentence": "まだ気分がわるいなら、無理に話さなくてもいい。",
+    "sentence": "母が子どもに言った。「まだ気分がわるいね。無理に話さなくてもいい。」",
     "cloze": "無理に話さなくてもいい",
     "answer": "無理に話さなくてもいい",
     "accepted_answers": [],
@@ -11261,7 +11261,7 @@
   },
   {
     "id": "ja-02-976",
-    "sentence": "今日の仕事が終わった人は、もう帰ってもいい。",
+    "sentence": "今日の仕事は終わったので、もう帰ってもいい。",
     "cloze": "もう帰ってもいい",
     "answer": "もう帰ってもいい",
     "accepted_answers": [],
@@ -11273,7 +11273,7 @@
   },
   {
     "id": "ja-02-977",
-    "sentence": "まだ頭が痛ければ、ここで休んでもかまわない。",
+    "sentence": "母が子どもに言った。「まだ頭が痛いね。ここで休んでもかまわない。」",
     "cloze": "ここで休んでもかまわない",
     "answer": "ここで休んでもかまわない",
     "accepted_answers": [],
@@ -11285,7 +11285,7 @@
   },
   {
     "id": "ja-02-978",
-    "sentence": "医者に聞いたら、頭が痛い時は、この薬は飲んでもいい。",
+    "sentence": "医者に聞いた。頭が痛い時は、この薬は飲んでもいい。",
     "cloze": "この薬は飲んでもいい",
     "answer": "この薬は飲んでもいい",
     "accepted_answers": [],
@@ -11310,7 +11310,7 @@
   },
   {
     "id": "ja-02-980",
-    "sentence": "母に「予約は朝早くだよ」と言われて、明日は早く病院へ行かなきゃ。",
+    "sentence": "母が「予約は朝早くだよ」と言ったので、明日は早く病院へ行かなきゃ。",
     "cloze": "明日は早く病院へ行かなきゃ",
     "answer": "明日は早く病院へ行かなきゃ",
     "accepted_answers": [],
@@ -11347,7 +11347,7 @@
   },
   {
     "id": "ja-02-983",
-    "sentence": "メモをしないと、うっかり予約を忘れてしまう。",
+    "sentence": "予定をメモしないので、うっかり予約を忘れてしまう。",
     "cloze": "うっかり予約を忘れてしまう",
     "answer": "うっかり予約を忘れてしまう",
     "accepted_answers": [],
@@ -11359,7 +11359,7 @@
   },
   {
     "id": "ja-02-984",
-    "sentence": "朝の薬を飲んだことを忘れると、間違って二回飲んでしまう。",
+    "sentence": "朝の薬の時間をメモしないので、間違って二回飲んでしまう。",
     "cloze": "間違って二回飲んでしまう",
     "answer": "間違って二回飲んでしまう",
     "accepted_answers": [],
@@ -11383,7 +11383,7 @@
   },
   {
     "id": "ja-02-986",
-    "sentence": "あとは先生に出すだけで、レポートはもう書いてしまった。",
+    "sentence": "レポートはもう書いてしまった。あとは先生に出す。",
     "cloze": "レポートはもう書いてしまった",
     "answer": "レポートはもう書いてしまった",
     "accepted_answers": [],
@@ -11486,12 +11486,12 @@
   },
   {
     "id": "ja-02-994",
-    "sentence": "母との約束で、家では九時までに帰らなきゃ。",
-    "cloze": "家では九時までに帰らなきゃ",
-    "answer": "家では九時までに帰らなきゃ",
+    "sentence": "母との約束で、九時までに家に帰らなきゃ。",
+    "cloze": "九時までに家に帰らなきゃ",
+    "answer": "九時までに家に帰らなきゃ",
     "accepted_answers": [],
-    "lemma": "九時までに帰らなければならない",
-    "reading": "いえではくじまでにかえらなきゃ",
+    "lemma": "九時までに家に帰らなければならない",
+    "reading": "くじまでにいえにかえらなきゃ",
     "meaning": "have to be home by nine",
     "grammar": "〜なきゃ",
     "register": "casual speech about a family rule",
@@ -11538,7 +11538,7 @@
   },
   {
     "id": "ja-02-998",
-    "sentence": "きのうからずっとつかれているなら早く寝たほうがいいです。",
+    "sentence": "「きのうからずっとつかれています。」「つかれているなら早く寝たほうがいいです。」",
     "cloze": "つかれているなら早く寝たほうがいいです",
     "answer": "つかれているなら早く寝たほうがいいです",
     "accepted_answers": [],
@@ -11550,7 +11550,7 @@
   },
   {
     "id": "ja-02-999",
-    "sentence": "明日はしけんですが、熱があるなら今日は休んだほうがいいです。",
+    "sentence": "「熱があります。」「熱があるなら今日は休んだほうがいいです。」",
     "cloze": "熱があるなら今日は休んだほうがいいです",
     "answer": "熱があるなら今日は休んだほうがいいです",
     "accepted_answers": [],
@@ -11562,7 +11562,7 @@
   },
   {
     "id": "ja-02-1000",
-    "sentence": "一人で決められないなら、先生に相談したらどうですか。",
+    "sentence": "先生の意見も聞きたいですね。先生に相談したらどうですか。",
     "cloze": "先生に相談したらどうですか",
     "answer": "先生に相談したらどうですか",
     "accepted_answers": [],
@@ -11574,7 +11574,7 @@
   },
   {
     "id": "ja-02-1001",
-    "sentence": "あしたも早いなら、今日は早めに寝たほうがいいですよ。",
+    "sentence": "「あしたも早いんです。」「それなら、今日は早めに寝たほうがいいですよ。」",
     "cloze": "今日は早めに寝たほうがいい",
     "answer": "今日は早めに寝たほうがいい",
     "accepted_answers": [],
@@ -11600,7 +11600,7 @@
   },
   {
     "id": "ja-02-1003",
-    "sentence": "せきが一週間も続いているなら、病院へ行ったほうがいいですよ。",
+    "sentence": "「せきが一週間も続いています。」「それなら、病院へ行ったほうがいいですよ。」",
     "cloze": "病院へ行ったほうがいい",
     "answer": "病院へ行ったほうがいい",
     "accepted_answers": [],
@@ -11626,7 +11626,7 @@
   },
   {
     "id": "ja-02-1005",
-    "sentence": "どの授業を選ぶか分からないなら、先生に相談したほうがいいですよ。",
+    "sentence": "「授業について迷っています。」「それなら、先生に相談したほうがいいですよ。」",
     "cloze": "先生に相談したほうがいい",
     "answer": "先生に相談したほうがいい",
     "accepted_answers": [],
@@ -11639,7 +11639,7 @@
   },
   {
     "id": "ja-02-1006",
-    "sentence": "ずっと働いてつかれているなら、少し休んだらどうですか。",
+    "sentence": "「ずっと働いてつかれています。」「それなら、少し休んだらどうですか。」",
     "cloze": "少し休んだらどうですか",
     "answer": "少し休んだらどうですか",
     "accepted_answers": [],
@@ -11652,7 +11652,7 @@
   },
   {
     "id": "ja-02-1007",
-    "sentence": "土曜日はつごうがわるいなら、別の日にしたらどうですか。",
+    "sentence": "「土曜日はつごうがわるいです。」「それなら、別の日にしたらどうですか。」",
     "cloze": "別の日にしたらどうですか",
     "answer": "別の日にしたらどうですか",
     "accepted_answers": [],
@@ -11665,7 +11665,7 @@
   },
   {
     "id": "ja-02-1008",
-    "sentence": "返品できるか分からないなら、店に聞いてみたらどうですか。",
+    "sentence": "「返品のことで困っています。」「それなら、店に聞いてみたらどうですか。」",
     "cloze": "店に聞いてみたらどうですか",
     "answer": "店に聞いてみたらどうですか",
     "accepted_answers": [],
@@ -11678,7 +11678,7 @@
   },
   {
     "id": "ja-02-1009",
-    "sentence": "この薬が飲みにくいなら、薬を変えてもらったらどうですか。",
+    "sentence": "「この薬の味がいやです。」「それなら、薬を変えてもらったらどうですか。」",
     "cloze": "薬を変えてもらったらどうですか",
     "answer": "薬を変えてもらったらどうですか",
     "accepted_answers": [],
@@ -11717,7 +11717,7 @@
   },
   {
     "id": "ja-02-1012",
-    "sentence": "すぐに担当者が参りますので、窓口で少し待っていただけませんか。",
+    "sentence": "すぐに担当者が来ますので、窓口で少し待っていただけませんか。",
     "cloze": "窓口で少し待っていただけませんか",
     "answer": "窓口で少し待っていただけませんか",
     "accepted_answers": [],
@@ -11743,7 +11743,7 @@
   },
   {
     "id": "ja-02-1014",
-    "sentence": "この予定でだいじょうぶか、確認していただけますか。",
+    "sentence": "せんぱい、この予定を確認していただけますか。",
     "cloze": "確認していただけますか",
     "answer": "確認していただけますか",
     "accepted_answers": [],
@@ -11756,7 +11756,7 @@
   },
   {
     "id": "ja-02-1015",
-    "sentence": "この箱は一人では運べないので、手伝ってくれませんか。",
+    "sentence": "この箱は重いので、手伝ってくれませんか。",
     "cloze": "手伝ってくれませんか",
     "answer": "手伝ってくれませんか",
     "accepted_answers": [],
@@ -11806,7 +11806,7 @@
   },
   {
     "id": "ja-02-1019",
-    "sentence": "今日は行けませんが、またこんどおねがいします。",
+    "sentence": "今日は予定がありますが、またこんどおねがいします。",
     "cloze": "またこんどおねがいします",
     "answer": "またこんどおねがいします",
     "accepted_answers": [],
@@ -11817,20 +11817,20 @@
   },
   {
     "id": "ja-02-1020",
-    "sentence": "大切なことなので、返事の前に少しかんがえさせてください。",
-    "cloze": "返事の前に少しかんがえさせてください",
-    "answer": "返事の前に少しかんがえさせてください",
+    "sentence": "大切なことなので、まず家族に相談させてください。",
+    "cloze": "まず家族に相談させてください",
+    "answer": "まず家族に相談させてください",
     "accepted_answers": [],
-    "lemma": "かんがえさせる",
-    "reading": "へんじのまえにすこしかんがえさせてください",
-    "meaning": "please let me think a little before answering",
+    "lemma": "相談させる",
+    "reading": "まずかぞくにそうだんさせてください",
+    "meaning": "please let me consult my family first",
     "grammar": "〜させてください",
     "register": "polite",
     "audio": "work/audio/ja-JP/02/ja-02-1020.mp3"
   },
   {
     "id": "ja-02-1021",
-    "sentence": "うまく伝わらなかったようですね。説明が足りなくてすみません。",
+    "sentence": "うまく伝わりませんでした。説明が足りなくてすみません。",
     "cloze": "説明が足りなくてすみません",
     "answer": "説明が足りなくてすみません",
     "accepted_answers": [],
@@ -11855,7 +11855,7 @@
   },
   {
     "id": "ja-02-1023",
-    "sentence": "もっと早く知らせるべきでした。連絡が遅くなってもうしわけありません。",
+    "sentence": "連絡が遅くなってもうしわけありません。",
     "cloze": "連絡が遅くなってもうしわけありません",
     "answer": "連絡が遅くなってもうしわけありません",
     "accepted_answers": [],
@@ -11879,7 +11879,7 @@
   },
   {
     "id": "ja-02-1025",
-    "sentence": "行きたくないのではありません。そういういみではありません。",
+    "sentence": "「行きたくないんですか。」「そういういみではありません。予定があるんです。」",
     "cloze": "そういういみではありません",
     "answer": "そういういみではありません",
     "accepted_answers": [],
@@ -11972,7 +11972,7 @@
   },
   {
     "id": "ja-02-1033",
-    "sentence": "「電車なら道がこんでいてもだいじょうぶですよ。」「たしかに。」",
+    "sentence": "「電車で行きませんか。」「電車なら道がこんでいてもだいじょうぶですよ。」「たしかに。」",
     "cloze": "たしかに",
     "answer": "たしかに",
     "accepted_answers": [],
@@ -11983,7 +11983,7 @@
   },
   {
     "id": "ja-02-1034",
-    "sentence": "予約したホテルに泊まれなくなったんですか。それは困りましたね。",
+    "sentence": "ホテルは休みだったんですか。それは困りましたね。",
     "cloze": "それは困りましたね",
     "answer": "それは困りましたね",
     "accepted_answers": [],
@@ -11995,7 +11995,7 @@
   },
   {
     "id": "ja-02-1035",
-    "sentence": "なくしたさいふが見つかったんですか。よかったですね。",
+    "sentence": "さいふが見つかったんですか。よかったですね。",
     "cloze": "よかったですね",
     "answer": "よかったですね",
     "accepted_answers": [],
@@ -12006,7 +12006,7 @@
   },
   {
     "id": "ja-02-1036",
-    "sentence": "「電車が止まっているから、先生も遅れるかもしれません。」「そうかもしれません。」",
+    "sentence": "「先生も遅れると思います。」「そうかもしれません。」",
     "cloze": "そうかもしれません",
     "answer": "そうかもしれません",
     "accepted_answers": [],
@@ -12018,7 +12018,7 @@
   },
   {
     "id": "ja-02-1037",
-    "sentence": "電車で行くか、バスで行くか、どうしようかな。",
+    "sentence": "電車とバスがあります。どうしようかな？",
     "cloze": "どうしようかな",
     "answer": "どうしようかな",
     "accepted_answers": [],
@@ -12056,7 +12056,7 @@
   },
   {
     "id": "ja-02-1040",
-    "sentence": "まだ予定が分からないなら、無理に決めなくてもいいですよ。",
+    "sentence": "「まだ予定が分かりません。」「それなら、無理に決めなくてもいいですよ。」",
     "cloze": "無理に決めなくてもいいですよ",
     "answer": "無理に決めなくてもいいですよ",
     "accepted_answers": [],
@@ -12069,7 +12069,7 @@
   },
   {
     "id": "ja-02-1041",
-    "sentence": "朝の会では、先生がお話しになる。",
+    "sentence": "朝、先生がお話しになる。",
     "cloze": "先生がお話しになる",
     "answer": "先生がお話しになる",
     "accepted_answers": [],
@@ -12108,7 +12108,7 @@
   },
   {
     "id": "ja-02-1044",
-    "sentence": "授業の始めに、先生がご説明になる。",
+    "sentence": "授業で、先生がご説明になる。",
     "cloze": "先生がご説明になる",
     "answer": "先生がご説明になる",
     "accepted_answers": [],
@@ -12121,7 +12121,7 @@
   },
   {
     "id": "ja-02-1045",
-    "sentence": "会議の前に、この資料を部長がごらんになる。",
+    "sentence": "この資料は、会議の前に部長がごらんになる。",
     "cloze": "部長がごらんになる",
     "answer": "部長がごらんになる",
     "accepted_answers": [],
@@ -12199,7 +12199,7 @@
   },
   {
     "id": "ja-02-1051",
-    "sentence": "お客様がめしあがるのは、こちらの料理です。",
+    "sentence": "お客様がめしあがる料理は、こちらです。",
     "cloze": "お客様がめしあがる",
     "answer": "お客様がめしあがる",
     "accepted_answers": [],
@@ -12225,7 +12225,7 @@
   },
   {
     "id": "ja-02-1053",
-    "sentence": "受付の方に、何時にいらっしゃいますかと聞かれました。",
+    "sentence": "受付の方に「何時にいらっしゃいますか？」と聞かれました。",
     "cloze": "何時にいらっしゃいますか",
     "answer": "何時にいらっしゃいますか",
     "accepted_answers": [],
@@ -12238,7 +12238,7 @@
   },
   {
     "id": "ja-02-1054",
-    "sentence": "魚と肉では、どちらをめしあがりますか。",
+    "sentence": "ホテルの係の人が、お客様に「魚と肉では、どちらをめしあがりますか」と聞きました。",
     "cloze": "どちらをめしあがりますか",
     "answer": "どちらをめしあがりますか",
     "accepted_answers": [],
@@ -12301,7 +12301,7 @@
   },
   {
     "id": "ja-02-1059",
-    "sentence": "学生どうしで話す時は、先生は教室にいますと言えば十分です。",
+    "sentence": "別の学生が、新しい学生に「先生は教室にいます」と伝えました。",
     "cloze": "先生は教室にいます",
     "answer": "先生は教室にいます",
     "accepted_answers": [],
@@ -12314,7 +12314,7 @@
   },
   {
     "id": "ja-02-1060",
-    "sentence": "仕事の後、友だちに、お客様はもう来ていますと伝えました。",
+    "sentence": "受付で、新しい同僚に「お客様はもう来ています」と伝えました。",
     "cloze": "お客様はもう来ています",
     "answer": "お客様はもう来ています",
     "accepted_answers": [],
@@ -12327,7 +12327,7 @@
   },
   {
     "id": "ja-02-1061",
-    "sentence": "友だちに、この後、先生が説明しますと伝えました。",
+    "sentence": "新しい学生に「この後、先生が説明します」と伝えました。",
     "cloze": "先生が説明します",
     "answer": "先生が説明します",
     "accepted_answers": [],
@@ -12340,7 +12340,7 @@
   },
   {
     "id": "ja-02-1062",
-    "sentence": "仕事の後、友だちに、この資料は部長が見ますと話しました。",
+    "sentence": "この資料について、新しい同僚に「部長が見ます」と伝えました。",
     "cloze": "部長が見ます",
     "answer": "部長が見ます",
     "accepted_answers": [],
@@ -12353,7 +12353,7 @@
   },
   {
     "id": "ja-02-1063",
-    "sentence": "家で家族に、こちらの料理はお客様が食べますと話しました。",
+    "sentence": "同僚に「こちらの料理はお客様が食べます」と伝えました。",
     "cloze": "お客様が食べます",
     "answer": "お客様が食べます",
     "accepted_answers": [],
@@ -12366,7 +12366,7 @@
   },
   {
     "id": "ja-02-1064",
-    "sentence": "学生どうしで、先生は三時に来ますと確認しました。",
+    "sentence": "新しい学生に「先生は三時に来ます」と伝えました。",
     "cloze": "先生は三時に来ます",
     "answer": "先生は三時に来ます",
     "accepted_answers": [],
@@ -12379,7 +12379,7 @@
   },
   {
     "id": "ja-02-1065",
-    "sentence": "家で家族に、社長はもう帰りましたと話しました。",
+    "sentence": "同僚に「社長はもう帰りました」と伝えました。",
     "cloze": "社長はもう帰りました",
     "answer": "社長はもう帰りました",
     "accepted_answers": [],
@@ -12392,7 +12392,7 @@
   },
   {
     "id": "ja-02-1066",
-    "sentence": "仕事の後、友だちに、部長がこの資料を読みますと話しました。",
+    "sentence": "同僚に「部長がこの資料を読みます」と伝えました。",
     "cloze": "部長がこの資料を読みます",
     "answer": "部長がこの資料を読みます",
     "accepted_answers": [],
@@ -12418,12 +12418,13 @@
   },
   {
     "id": "ja-02-1068",
-    "sentence": "新しい駅の予定は、ニュースではっぴょうされたそうだ。",
-    "cloze": "ニュースではっぴょうされたそうだ",
-    "answer": "ニュースではっぴょうされたそうだ",
+    "sentence": "ニュースによると、新しい駅の予定が発表されたそうだ。",
+    "cloze": "ニュースによると、新しい駅の予定が発表されたそうだ",
+    "answer": "ニュースによると、新しい駅の予定が発表されたそうだ",
     "accepted_answers": [],
-    "lemma": "はっぴょうする",
-    "meaning": "was reportedly announced in the news",
+    "lemma": "発表されるそうだ",
+    "reading": "ニュースによると、あたらしいえきのよていがはっぴょうされたそうだ",
+    "meaning": "according to the news, the plans for the new station were announced",
     "grammar": "passive plus hearsay そうだ",
     "register": "neutral",
     "audio": "work/audio/ja-JP/02/ja-02-1068.mp3"
@@ -12469,7 +12470,7 @@
   },
   {
     "id": "ja-02-1072",
-    "sentence": "地震の時は、避難場所のちずをごらんください。",
+    "sentence": "何かあった時は、避難場所のちずをごらんください。",
     "cloze": "避難場所のちずをごらんください",
     "answer": "避難場所のちずをごらんください",
     "accepted_answers": [],
@@ -12495,7 +12496,7 @@
   },
   {
     "id": "ja-02-1074",
-    "sentence": "先生の話が聞こえなかったので、先生は何とおっしゃいましたか。",
+    "sentence": "先生の話を確認したいです。先生は何とおっしゃいましたか。",
     "cloze": "先生は何とおっしゃいましたか",
     "answer": "先生は何とおっしゃいましたか",
     "accepted_answers": [],
@@ -12508,38 +12509,38 @@
   },
   {
     "id": "ja-02-1075",
-    "sentence": "ホテルの店員が、食事について、お客様は何をめしあがりますかと聞きました。",
+    "sentence": "ホテルの係の人が、食事について私に「お客様は何をめしあがりますか？」と聞きました。",
     "cloze": "お客様は何をめしあがりますか",
     "answer": "お客様は何をめしあがりますか",
     "accepted_answers": [],
     "lemma": "食べる",
     "reading": "おきゃくさまはなにをめしあがりますか",
-    "meaning": "What will the customer eat?",
+    "meaning": "What will you have?",
     "grammar": "honorific question",
     "register": "honorific polite",
     "audio": "work/audio/ja-JP/02/ja-02-1075.mp3"
   },
   {
     "id": "ja-02-1076",
-    "sentence": "しきが始まる前に、校長先生が会場にいらっしゃる。",
+    "sentence": "明日の会議には、校長先生が会場にいらっしゃる。",
     "cloze": "校長先生が会場にいらっしゃる",
     "answer": "校長先生が会場にいらっしゃる",
     "accepted_answers": [],
-    "lemma": "来る",
+    "lemma": "いる",
     "reading": "こうちょうせんせいがかいじょうにいらっしゃる",
-    "meaning": "the principal comes to the venue",
+    "meaning": "the principal will be at the venue",
     "grammar": "special honorific verb",
     "register": "honorific",
     "audio": "work/audio/ja-JP/02/ja-02-1076.mp3"
   },
   {
     "id": "ja-02-1077",
-    "sentence": "新しい担当者として、明日の会ではせんぱいが紹介してくださる。",
-    "cloze": "せんぱいが紹介してくださる",
-    "answer": "せんぱいが紹介してくださる",
+    "sentence": "私は新しい担当者です。明日の会議では、せんぱいが紹介してくださいます。",
+    "cloze": "せんぱいが紹介してくださいます",
+    "answer": "せんぱいが紹介してくださいます",
     "accepted_answers": [],
     "lemma": "紹介する",
-    "reading": "せんぱいがしょうかいしてくださる",
+    "reading": "せんぱいがしょうかいしてくださいます",
     "meaning": "a senior kindly introduces me",
     "grammar": "〜てくださる",
     "register": "honorific",
@@ -12573,7 +12574,7 @@
   },
   {
     "id": "ja-02-1080",
-    "sentence": "受付から、先生がお見えになりましたと連絡がありました。",
+    "sentence": "受付から「先生がお見えになりました」と連絡がありました。",
     "cloze": "先生がお見えになりました",
     "answer": "先生がお見えになりました",
     "accepted_answers": [],
@@ -12612,7 +12613,7 @@
   },
   {
     "id": "ja-02-1083",
-    "sentence": "今は時間がありませんので、後でお電話します。",
+    "sentence": "先生、今は時間がありませんので、後でお電話します。",
     "cloze": "後でお電話します",
     "answer": "後でお電話します",
     "accepted_answers": [],
@@ -12625,7 +12626,7 @@
   },
   {
     "id": "ja-02-1084",
-    "sentence": "はじめに、来月の予定をご説明します。",
+    "sentence": "担当者が、お客様に「はじめに、来月の予定をご説明します」と言いました。",
     "cloze": "予定をご説明します",
     "answer": "予定をご説明します",
     "accepted_answers": [],
@@ -12638,19 +12639,20 @@
   },
   {
     "id": "ja-02-1085",
-    "sentence": "私では分からないので、このことは先生におねがいします。",
+    "sentence": "この仕事は、先生におねがいします。",
     "cloze": "先生におねがいします",
     "answer": "先生におねがいします",
     "accepted_answers": [],
     "lemma": "おねがいする",
     "reading": "せんせいにおねがいします",
-    "meaning": "I will ask the teacher",
+    "meaning": "I will ask the teacher to handle this task",
+    "grammar": "humble お〜する",
     "register": "polite",
     "audio": "work/audio/ja-JP/02/ja-02-1085.mp3"
   },
   {
     "id": "ja-02-1086",
-    "sentence": "今日は行けませんが、明日そちらへ参ります。",
+    "sentence": "先生、今日は休みますが、明日そちらへ参ります。",
     "cloze": "明日そちらへ参ります",
     "answer": "明日そちらへ参ります",
     "accepted_answers": [],
@@ -12674,7 +12676,7 @@
   },
   {
     "id": "ja-02-1088",
-    "sentence": "じゅぎょうの後で、先生のけんきゅうしつにうかがいます。",
+    "sentence": "午後、先生のけんきゅうしつにうかがいます。",
     "cloze": "先生のけんきゅうしつにうかがいます",
     "answer": "先生のけんきゅうしつにうかがいます",
     "accepted_answers": [],
@@ -12686,7 +12688,7 @@
   },
   {
     "id": "ja-02-1089",
-    "sentence": "来週のよやくについて、ご予定をうかがいます。",
+    "sentence": "先生に来週のご予定をうかがいます。",
     "cloze": "ご予定をうかがいます",
     "answer": "ご予定をうかがいます",
     "accepted_answers": [],
@@ -12704,13 +12706,13 @@
     "accepted_answers": [],
     "lemma": "いただく",
     "reading": "ごいけんをいただきました",
-    "meaning": "we received your feedback",
+    "meaning": "we received feedback from a customer",
     "register": "humble",
     "audio": "work/audio/ja-JP/02/ja-02-1090.mp3"
   },
   {
     "id": "ja-02-1091",
-    "sentence": "じゅぎょうの前に、先生の本をはいけんしました。",
+    "sentence": "きのう、先生の本をはいけんしました。",
     "cloze": "先生の本をはいけんしました",
     "answer": "先生の本をはいけんしました",
     "accepted_answers": [],
@@ -12735,7 +12737,7 @@
   },
   {
     "id": "ja-02-1093",
-    "sentence": "会議の前に、みなさんへ資料をお渡しします。",
+    "sentence": "会議の前に、みなさんに資料をお渡しします。",
     "cloze": "資料をお渡しします",
     "answer": "資料をお渡しします",
     "accepted_answers": [],
@@ -12748,7 +12750,7 @@
   },
   {
     "id": "ja-02-1094",
-    "sentence": "その商品があるか、こちらでお調べします。",
+    "sentence": "その商品について、こちらでお調べします。",
     "cloze": "こちらでお調べします",
     "answer": "こちらでお調べします",
     "accepted_answers": [],
@@ -12786,7 +12788,7 @@
   },
   {
     "id": "ja-02-1097",
-    "sentence": "予定が決まったら、私からご連絡いたします。",
+    "sentence": "先生、予定はまだ決まっていませんので、後ほど私からご連絡いたします。",
     "cloze": "私からご連絡いたします",
     "answer": "私からご連絡いたします",
     "accepted_answers": [],
@@ -12799,7 +12801,7 @@
   },
   {
     "id": "ja-02-1098",
-    "sentence": "今は時間がありませんので、後ほどご説明いたします。",
+    "sentence": "担当者が、お客様に「今は時間がありませんので、後ほどご説明いたします」と言いました。",
     "cloze": "後ほどご説明いたします",
     "answer": "後ほどご説明いたします",
     "accepted_answers": [],
@@ -12812,7 +12814,7 @@
   },
   {
     "id": "ja-02-1099",
-    "sentence": "わすれ物がないか、確認してから参ります。",
+    "sentence": "先生の研究室に行きます。荷物を確認してから参ります。",
     "cloze": "確認してから参ります",
     "answer": "確認してから参ります",
     "accepted_answers": [],
@@ -12824,7 +12826,7 @@
   },
   {
     "id": "ja-02-1100",
-    "sentence": "荷物をお送りするため、ご住所をうかがってもよろしいですか。",
+    "sentence": "荷物をお送りします。ご住所をうかがってもよろしいですか。",
     "cloze": "ご住所をうかがってもよろしいですか",
     "answer": "ご住所をうかがってもよろしいですか",
     "accepted_answers": [],
@@ -12872,7 +12874,7 @@
   },
   {
     "id": "ja-02-1104",
-    "sentence": "来週会えるか、友だちに予定を聞きます。",
+    "sentence": "友だちに予定を聞きます。来週の旅行について相談します。",
     "cloze": "友だちに予定を聞きます",
     "answer": "友だちに予定を聞きます",
     "accepted_answers": [],
@@ -12884,7 +12886,7 @@
   },
   {
     "id": "ja-02-1105",
-    "sentence": "一人では決められないので、友だちに意見をもらいます。",
+    "sentence": "旅行について相談するので、友だちに意見をもらいます。",
     "cloze": "友だちに意見をもらいます",
     "answer": "友だちに意見をもらいます",
     "accepted_answers": [],
@@ -12896,7 +12898,7 @@
   },
   {
     "id": "ja-02-1106",
-    "sentence": "買う前に、その本を見ます。",
+    "sentence": "今日は、としょかんで本を見ます。",
     "cloze": "本を見ます",
     "answer": "本を見ます",
     "accepted_answers": [],
@@ -12981,7 +12983,7 @@
   },
   {
     "id": "ja-02-1113",
-    "sentence": "サイズがあわなければ、商品を交換いたします。",
+    "sentence": "「サイズがあわないんですが。」「では、商品を交換いたします。」",
     "cloze": "商品を交換いたします",
     "answer": "商品を交換いたします",
     "accepted_answers": [],
@@ -12993,7 +12995,7 @@
   },
   {
     "id": "ja-02-1114",
-    "sentence": "おしはらいの後で、領収書をお出しします。",
+    "sentence": "おしはらいを確認して、領収書をお出しします。",
     "cloze": "領収書をお出しします",
     "answer": "領収書をお出しします",
     "accepted_answers": [],
@@ -13045,7 +13047,7 @@
   },
   {
     "id": "ja-02-1118",
-    "sentence": "よやくを調べる前に、お名前を確認いたします。",
+    "sentence": "はじめに、お名前を確認いたします。それから、よやくを調べます。",
     "cloze": "お名前を確認いたします",
     "answer": "お名前を確認いたします",
     "accepted_answers": [],
@@ -13057,7 +13059,7 @@
   },
   {
     "id": "ja-02-1119",
-    "sentence": "お電話があったことは、担当者に申し伝えます。",
+    "sentence": "お電話の件は、担当者に申し伝えます。",
     "cloze": "担当者に申し伝えます",
     "answer": "担当者に申し伝えます",
     "accepted_answers": [],
@@ -13082,7 +13084,7 @@
   },
   {
     "id": "ja-02-1121",
-    "sentence": "友だちが店員に相談したんだね。それで、どうなったの。",
+    "sentence": "友だちが店員に相談したんだね？それで、どうなったの？",
     "cloze": "それで、どうなったの",
     "answer": "それで、どうなったの",
     "accepted_answers": [],
@@ -13094,7 +13096,7 @@
   },
   {
     "id": "ja-02-1122",
-    "sentence": "駅員に道を教えてもらったんだね。その後はどうしたの。",
+    "sentence": "駅員に道を教えてもらったんだね？その後はどうしたの？",
     "cloze": "その後はどうしたの",
     "answer": "その後はどうしたの",
     "accepted_answers": [],
@@ -13107,7 +13109,7 @@
   },
   {
     "id": "ja-02-1123",
-    "sentence": "きのうの映画、だれと行ったの。",
+    "sentence": "きのうの映画、だれと行ったの？",
     "cloze": "だれと行ったの",
     "answer": "だれと行ったの",
     "accepted_answers": [],
@@ -13120,7 +13122,7 @@
   },
   {
     "id": "ja-02-1124",
-    "sentence": "こんどの旅行では、何が一番大変だった。",
+    "sentence": "この前の旅行では、何が一番大変だった？",
     "cloze": "何が一番大変だった",
     "answer": "何が一番大変だった",
     "accepted_answers": [],
@@ -13133,7 +13135,7 @@
   },
   {
     "id": "ja-02-1125",
-    "sentence": "友だちが一人で海外へ行くんだって。本当に。",
+    "sentence": "「友だちが一人で海外へ行くよ。」「本当に？」",
     "cloze": "本当に",
     "answer": "本当に",
     "accepted_answers": [],
@@ -13145,7 +13147,7 @@
   },
   {
     "id": "ja-02-1126",
-    "sentence": "前にこのホテルで働いていたの。へえ、そうなんだ。",
+    "sentence": "「前にこのホテルで働いていたんだ。」「へえ、そうなんだ。」",
     "cloze": "へえ、そうなんだ",
     "answer": "へえ、そうなんだ",
     "accepted_answers": [],
@@ -13157,7 +13159,7 @@
   },
   {
     "id": "ja-02-1127",
-    "sentence": "旅行の前は準備が大変だよね。うん、分かる。",
+    "sentence": "「旅行の前は準備が大変だよね？」「うん、分かる。」",
     "cloze": "うん、分かる",
     "answer": "うん、分かる",
     "accepted_answers": [],
@@ -13169,7 +13171,7 @@
   },
   {
     "id": "ja-02-1128",
-    "sentence": "雨の日の運転はこわいよね。そうだよね。",
+    "sentence": "「雨の日の運転はこわいよね？」「そうだよね。」",
     "cloze": "そうだよね",
     "answer": "そうだよね",
     "accepted_answers": [],
@@ -13181,7 +13183,7 @@
   },
   {
     "id": "ja-02-1129",
-    "sentence": "この映画、前のと同じ話だよね。うん、でも、ちょっと違うと思う。",
+    "sentence": "「この映画、前のと同じ話だよね？」「うん、でも、ちょっと違うと思う。」",
     "cloze": "でも、ちょっと違うと思う",
     "answer": "でも、ちょっと違うと思う",
     "accepted_answers": [],
@@ -13194,7 +13196,7 @@
   },
   {
     "id": "ja-02-1130",
-    "sentence": "明日は予定どおり晴れるかな。たぶんそうだと思う。",
+    "sentence": "「明日は天気予報どおり晴れるかな？」「たぶんそうだと思う。」",
     "cloze": "たぶんそうだと思う",
     "answer": "たぶんそうだと思う",
     "accepted_answers": [],
@@ -13207,7 +13209,7 @@
   },
   {
     "id": "ja-02-1131",
-    "sentence": "こんどの日曜にみんなで映画を見るんだ。行けたら行くね。",
+    "sentence": "「こんどの日曜にみんなで映画を見るんだ。来ない？」「行けたら行くね。」",
     "cloze": "行けたら行くね",
     "answer": "行けたら行くね",
     "accepted_answers": [],
@@ -13234,7 +13236,7 @@
   },
   {
     "id": "ja-02-1133",
-    "sentence": "今、駅にむかってる。ごめん、遅れそう。",
+    "sentence": "まだ駅に着いていない。ごめん、遅れそう。",
     "cloze": "ごめん、遅れそう",
     "answer": "ごめん、遅れそう",
     "accepted_answers": [],
@@ -13273,7 +13275,7 @@
   },
   {
     "id": "ja-02-1136",
-    "sentence": "駅までむかえに来てほしいけど、無理ならいいよ。",
+    "sentence": "駅までむかえに来てくれる？無理ならいいよ。",
     "cloze": "無理ならいいよ",
     "answer": "無理ならいいよ",
     "accepted_answers": [],
@@ -13286,7 +13288,7 @@
   },
   {
     "id": "ja-02-1137",
-    "sentence": "雨も強くなりそうだし、今回はやめておく。",
+    "sentence": "雨が強くなりそうだから、今回はやめておく。",
     "cloze": "今回はやめておく",
     "answer": "今回はやめておく",
     "accepted_answers": [],
@@ -13311,7 +13313,7 @@
   },
   {
     "id": "ja-02-1139",
-    "sentence": "友だちのメッセージがよく分からないんだけど、どういういみ。",
+    "sentence": "友だちのメッセージがよく分からないんだけど、どういういみ？",
     "cloze": "どういういみ",
     "answer": "どういういみ",
     "accepted_answers": [],
@@ -13323,7 +13325,7 @@
   },
   {
     "id": "ja-02-1140",
-    "sentence": "今のところが聞き取れなかった。もう一回言ってくれる。",
+    "sentence": "今のところが聞き取れなかった。もう一回言ってくれる？",
     "cloze": "もう一回言ってくれる",
     "answer": "もう一回言ってくれる",
     "accepted_answers": [],
@@ -13547,14 +13549,14 @@
     "accepted_answers": [],
     "lemma": "もう宿題は終わっている",
     "reading": "もうしゅくだいはおわってるよ",
-    "meaning": "I've already finished my homework.",
+    "meaning": "the homework is already finished",
     "grammar": "casual reduction of 終わっている",
     "register": "casual; family or close friends",
     "audio": "work/audio/ja-JP/02/ja-02-1157.mp3"
   },
   {
     "id": "ja-02-1158",
-    "sentence": "店で払おうとしたら、さいふを忘れちゃった。",
+    "sentence": "店に着いた。あっ！さいふを忘れちゃった。",
     "cloze": "さいふを忘れちゃった",
     "answer": "さいふを忘れちゃった",
     "accepted_answers": [],
@@ -13580,7 +13582,7 @@
   },
   {
     "id": "ja-02-1160",
-    "sentence": "電話で友だちに聞いた。こんどの日曜、映画を見に行かない。",
+    "sentence": "電話で友だちに「こんどの日曜、映画を見に行かない？」と聞いた。",
     "cloze": "こんどの日曜、映画を見に行かない",
     "answer": "こんどの日曜、映画を見に行かない",
     "accepted_answers": [],
@@ -13617,7 +13619,7 @@
   },
   {
     "id": "ja-02-1163",
-    "sentence": "旅行するなら早めに予約するほうがいいと、友だちに言われました。",
+    "sentence": "友だちに「旅行するつもりだ」と話したら、「旅行するなら早めに予約するほうがいい」と言われました。",
     "cloze": "旅行するなら早めに予約する",
     "answer": "旅行するなら早めに予約する",
     "accepted_answers": [],
@@ -13629,7 +13631,7 @@
   },
   {
     "id": "ja-02-1164",
-    "sentence": "駅で待っているので、駅に着いたら連絡してください。",
+    "sentence": "改札で待っているので、駅に着いたら連絡してください。",
     "cloze": "駅に着いたら連絡してください",
     "answer": "駅に着いたら連絡してください",
     "accepted_answers": [],
@@ -13701,7 +13703,7 @@
   },
   {
     "id": "ja-02-1170",
-    "sentence": "空気を入れるために、窓が開けてある部屋で待ってください。",
+    "sentence": "窓が開けてある部屋で待ってください。そこなら風がよく通ります。",
     "cloze": "窓が開けてある部屋",
     "answer": "窓が開けてある部屋",
     "accepted_answers": [],
@@ -13725,31 +13727,31 @@
   },
   {
     "id": "ja-02-1172",
-    "sentence": "帰りの便に乗る前、空港で荷物を調べられた。",
-    "cloze": "空港で荷物を調べられた",
-    "answer": "空港で荷物を調べられた",
+    "sentence": "旅行中、駅で知らない人に道を聞かれた。",
+    "cloze": "駅で知らない人に道を聞かれた",
+    "answer": "駅で知らない人に道を聞かれた",
     "accepted_answers": [],
-    "lemma": "調べる",
-    "reading": "くうこうでにもつをしらべられた",
-    "meaning": "had my luggage inspected at the airport",
+    "lemma": "聞く",
+    "reading": "えきでしらないひとにみちをきかれた",
+    "meaning": "was asked for directions by a stranger at the station",
     "grammar": "affected-person passive",
     "audio": "work/audio/ja-JP/02/ja-02-1172.mp3"
   },
   {
     "id": "ja-02-1173",
-    "sentence": "いそがしいじきは、前の会社で残業させられた。",
-    "cloze": "前の会社で残業させられた",
-    "answer": "前の会社で残業させられた",
+    "sentence": "ホテルで急に部屋を変えさせられた。旅行中だったので困った。",
+    "cloze": "ホテルで急に部屋を変えさせられた",
+    "answer": "ホテルで急に部屋を変えさせられた",
     "accepted_answers": [],
-    "lemma": "残業する",
-    "reading": "まえのかいしゃでざんぎょうさせられた",
-    "meaning": "was made to work overtime at my previous company",
+    "lemma": "部屋を変えさせられる",
+    "reading": "ホテルできゅうにへやをかえさせられた",
+    "meaning": "was unexpectedly made to change rooms at the hotel",
     "grammar": "causative-passive",
     "audio": "work/audio/ja-JP/02/ja-02-1173.mp3"
   },
   {
     "id": "ja-02-1174",
-    "sentence": "空を見ると、雨が降りそうなのでかさを持つことにしました。",
+    "sentence": "空が暗くなりました。雨が降りそうなのでかさを持つことにしました。",
     "cloze": "雨が降りそうなのでかさを持つ",
     "answer": "雨が降りそうなのでかさを持つ",
     "accepted_answers": [],
@@ -13773,7 +13775,7 @@
   },
   {
     "id": "ja-02-1176",
-    "sentence": "雨が強くなってきたので、電車が遅れるかもしれない。",
+    "sentence": "雨が強いので、電車が遅れるかもしれない。",
     "cloze": "電車が遅れるかもしれない",
     "answer": "電車が遅れるかもしれない",
     "accepted_answers": [],
@@ -13809,19 +13811,19 @@
   },
   {
     "id": "ja-02-1179",
-    "sentence": "病院で診察の間に電話が来た。",
-    "cloze": "診察の間に電話が来た",
-    "answer": "診察の間に電話が来た",
+    "sentence": "病院にいたとき、診察を受けている間に電話が来た。",
+    "cloze": "診察を受けている間に電話が来た",
+    "answer": "診察を受けている間に電話が来た",
     "accepted_answers": [],
     "lemma": "来る",
-    "reading": "しんさつのあいだにでんわがきた",
+    "reading": "しんさつをうけているあいだにでんわがきた",
     "meaning": "a call came during the examination",
     "grammar": "event within an interval 間に",
     "audio": "work/audio/ja-JP/02/ja-02-1179.mp3"
   },
   {
     "id": "ja-02-1180",
-    "sentence": "休みの日は、音楽を聞きながらかたづけることが多いです。",
+    "sentence": "休みの日は、音楽を聞きながらかたづける。",
     "cloze": "音楽を聞きながらかたづける",
     "answer": "音楽を聞きながらかたづける",
     "accepted_answers": [],
@@ -13833,7 +13835,7 @@
   },
   {
     "id": "ja-02-1181",
-    "sentence": "朝は時間がないので、出発前にきっぷを買っておく。",
+    "sentence": "旅行は来週です。出発前にきっぷを買っておく。",
     "cloze": "出発前にきっぷを買っておく",
     "answer": "出発前にきっぷを買っておく",
     "accepted_answers": [],
@@ -13845,7 +13847,7 @@
   },
   {
     "id": "ja-02-1182",
-    "sentence": "体のために、毎日歩くようにしている。",
+    "sentence": "さいきんあまり運動していないので、毎日歩くようにしている。",
     "cloze": "毎日歩くようにしている",
     "answer": "毎日歩くようにしている",
     "accepted_answers": [],
@@ -13881,12 +13883,12 @@
   },
   {
     "id": "ja-02-1185",
-    "sentence": "係の人から、会場が変更になることになったと連絡がありました。",
-    "cloze": "会場が変更になることになった",
-    "answer": "会場が変更になることになった",
+    "sentence": "係の人から、会場が変更されることになったと連絡がありました。",
+    "cloze": "会場が変更されることになった",
+    "answer": "会場が変更されることになった",
     "accepted_answers": [],
-    "lemma": "変更になる",
-    "reading": "かいじょうがへんこうになることになった",
+    "lemma": "変更する",
+    "reading": "かいじょうがへんこうされることになった",
     "meaning": "it was decided that the venue would be changed",
     "grammar": "externally determined outcome ことになる",
     "audio": "work/audio/ja-JP/02/ja-02-1185.mp3"
@@ -13917,7 +13919,7 @@
   },
   {
     "id": "ja-02-1188",
-    "sentence": "一人で決めず、早く相談したほうがいいと思います。",
+    "sentence": "まだ時間があります。早く相談したほうがいいと思います。",
     "cloze": "早く相談したほうがいい",
     "answer": "早く相談したほうがいい",
     "accepted_answers": [],
@@ -13929,7 +13931,7 @@
   },
   {
     "id": "ja-02-1189",
-    "sentence": "その日は予定があるなら、予約を別の日にしたらどうですか。",
+    "sentence": "「その日は予定があります。」「それなら、予約を別の日にしたらどうですか。」",
     "cloze": "予約を別の日にしたらどうですか",
     "answer": "予約を別の日にしたらどうですか",
     "accepted_answers": [],
@@ -13991,7 +13993,7 @@
   },
   {
     "id": "ja-02-1194",
-    "sentence": "先生に、「説明が分かりにくくてすみません」とあやまりました。",
+    "sentence": "発表の後、先生に「私の説明が分かりにくくてすみません」とあやまりました。",
     "cloze": "説明が分かりにくくてすみません",
     "answer": "説明が分かりにくくてすみません",
     "accepted_answers": [],
@@ -14015,7 +14017,7 @@
   },
   {
     "id": "ja-02-1196",
-    "sentence": "こんど、先生が紹介した店に行くつもりです。",
+    "sentence": "クラスメートとの会話で、こんど、先生が紹介した店に行くつもりだと話しました。",
     "cloze": "先生が紹介した店に行く",
     "answer": "先生が紹介した店に行く",
     "accepted_answers": [],
@@ -14031,7 +14033,7 @@
     "cloze": "雨なら旅行は来週にします",
     "answer": "雨なら旅行は来週にします",
     "accepted_answers": [],
-    "lemma": "旅行する",
+    "lemma": "旅行を来週にする",
     "reading": "あめならりょこうはらいしゅうにします",
     "meaning": "if it is going to rain, we will postpone the trip until next week",
     "grammar": "context-based conditional なら",
@@ -14051,7 +14053,7 @@
   },
   {
     "id": "ja-02-1199",
-    "sentence": "会議の前に、会議室に資料が置いてあるか確認してください。",
+    "sentence": "会議の前に、会議室に資料が置いてあるかどうか確認してください。",
     "cloze": "会議室に資料が置いてある",
     "answer": "会議室に資料が置いてある",
     "accepted_answers": [],
@@ -14063,7 +14065,7 @@
   },
   {
     "id": "ja-02-1200",
-    "sentence": "会議の変更は、先生には後で私からご連絡します。",
+    "sentence": "学生には今知らせますが、先生には後で私からご連絡します。",
     "cloze": "先生には後で私からご連絡します",
     "answer": "先生には後で私からご連絡します",
     "accepted_answers": [],
