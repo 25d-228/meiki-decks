@@ -65,11 +65,13 @@ jobs:
               "cards/ja-JP/02.json",
               "cards/ja-JP/03.json",
               "cards/ja-JP/04.json",
+              "cards/ja-JP/05.json",
               "coverage/ja-JP/00.md",
               "coverage/ja-JP/01.md",
               "coverage/ja-JP/02.md",
               "coverage/ja-JP/03.md",
               "coverage/ja-JP/04.md",
+              "coverage/ja-JP/05.md",
               "meiki_decks.py",
               "pyproject.toml",
               "tests/test_meiki_decks.py",
@@ -87,6 +89,7 @@ jobs:
           python meiki_decks.py check --language ja-JP --stage 02
           python meiki_decks.py check --language ja-JP --stage 03
           python meiki_decks.py check --language ja-JP --stage 04
+          python meiki_decks.py check --language ja-JP --stage 05
       - name: Build and verify tiny archive
         run: >-
           python -m unittest -v
