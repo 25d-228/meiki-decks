@@ -16,6 +16,14 @@ ARCHIVE_VERSION = 4
 ARCHIVE_RELEASE_VERSION = "0.1.0"
 COLLECTION_PATH = "collection.json"
 MANIFEST_PATH = "manifest.json"
+JAPANESE_COMPLETE_STAGE_NAMES = {
+    "00": "Japanese 00 — Kana, sound, and Japanese input",
+    "01": "Japanese 01 — N5 / A1 foundation",
+    "02": "Japanese 02 — N4 / A2 elementary",
+    "03": "Japanese 03 — N3 / B1 intermediate",
+    "04": "Japanese 04 — N2 / B2 upper-intermediate",
+    "05": "Japanese 05 — N1 / balanced C1 bridge",
+}
 COLLECTION_DAILY_TIME_BUDGET_MINUTES = 30
 INITIAL_TIMESTAMP_MS = 0
 SCHEDULER_ENGINE = "fsrs-7"
@@ -666,6 +674,14 @@ def build_language(root, language, probe=probe_audio):
     stage_files = sorted((root / "cards" / language).glob("*.json"))
     if not stage_files:
         raise DeckError(f"no card stages exist for language {language}")
+    if language == "ja-JP":
+        actual_stages = tuple(stage_file.stem for stage_file in stage_files)
+        expected_stages = tuple(JAPANESE_COMPLETE_STAGE_NAMES)
+        if actual_stages != expected_stages:
+            raise DeckError(
+                "Japanese complete bundle requires stages "
+                f"{', '.join(expected_stages)} in order; found {', '.join(actual_stages)}"
+            )
 
     decks = []
     notes = []
@@ -679,7 +695,11 @@ def build_language(root, language, probe=probe_audio):
         decks.append(
             {
                 "id": deck_id,
-                "name": f"{language} {stage}",
+                "name": (
+                    JAPANESE_COMPLETE_STAGE_NAMES[stage]
+                    if language == "ja-JP"
+                    else f"{language} {stage}"
+                ),
                 "description": None,
                 "language_tag": language,
                 "direction": "auto",
