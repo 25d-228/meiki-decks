@@ -74,6 +74,7 @@ jobs:
               "coverage/ja-JP/05.md",
               "meiki_decks.py",
               "pyproject.toml",
+              "release-notes/ja-JP-v0.1.0.md",
               "tests/test_meiki_decks.py",
           }
           tracked_files = set(
