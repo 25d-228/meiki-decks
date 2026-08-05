@@ -147,6 +147,16 @@ class MeikiDecksTests(unittest.TestCase):
             },
         )
 
+    def test_korean_audio_uses_the_fixed_local_voice(self):
+        self.assertEqual(
+            meiki_decks.TTS_CONFIG["ko-KR"],
+            {
+                "model": "mlx-community/Qwen3-TTS-12Hz-0.6B-CustomVoice-8bit",
+                "voice": "Sohee",
+                "lang_code": "Korean",
+            },
+        )
+
     def test_require_audio_uses_probe_for_nonempty_local_file(self):
         card = self.card()
         self.write_stage([card])

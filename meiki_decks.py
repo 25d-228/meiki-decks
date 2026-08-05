@@ -72,6 +72,11 @@ TTS_CONFIG = {
         "voice": "Ono_Anna",
         "lang_code": "Japanese",
     },
+    "ko-KR": {
+        "model": "mlx-community/Qwen3-TTS-12Hz-0.6B-CustomVoice-8bit",
+        "voice": "Sohee",
+        "lang_code": "Korean",
+    },
 }
 PATH_COMPONENT = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]*$")
 REQUIRED_STRING_FIELDS = (
