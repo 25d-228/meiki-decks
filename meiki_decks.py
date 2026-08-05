@@ -697,14 +697,16 @@ def build_language(root, language, probe=probe_audio):
         validate_path_component(stage, "stage")
         cards = load_stage_cards(root, language, stage)
         deck_id = f"deck:{language}:{stage}"
+        if language == "ja-JP":
+            deck_name = JAPANESE_COMPLETE_STAGE_NAMES[stage]
+        elif language == "ko-KR":
+            deck_name = f"Korean {stage}"
+        else:
+            deck_name = f"{language} {stage}"
         decks.append(
             {
                 "id": deck_id,
-                "name": (
-                    JAPANESE_COMPLETE_STAGE_NAMES[stage]
-                    if language == "ja-JP"
-                    else f"{language} {stage}"
-                ),
+                "name": deck_name,
                 "description": None,
                 "language_tag": language,
                 "direction": "auto",

@@ -266,6 +266,45 @@ class MeikiDecksTests(unittest.TestCase):
 
         self.assertEqual(actual_counts, expected_counts)
 
+    def test_korean_build_uses_current_stage_order_and_names(self):
+        self.language = "ko-KR"
+        for stage in ("00", "01"):
+            self.stage = stage
+            card = self.card(f"ko-{stage}-test")
+            self.write_stage([card])
+            audio_path = self.root / card["audio"]
+            audio_path.parent.mkdir(parents=True)
+            audio_path.write_bytes(f"audio {stage}".encode())
+
+        summary = meiki_decks.build_language(self.root, self.language, probe=lambda _: 1_500)
+
+        with zipfile.ZipFile(summary["path"], "r") as archive:
+            collection = json.loads(archive.read("collection.json"))
+        self.assertEqual(
+            [(deck["id"], deck["name"]) for deck in collection["decks"]],
+            [
+                ("deck:ko-KR:00", "Korean 00"),
+                ("deck:ko-KR:01", "Korean 01"),
+            ],
+        )
+
+    def test_korean_sources_have_current_bundle_card_counts(self):
+        repository_root = Path(__file__).resolve().parents[1]
+        expected_counts = {"00": 300, "01": 1_000}
+
+        actual_counts = {
+            stage: len(
+                json.loads(
+                    (repository_root / "cards" / "ko-KR" / f"{stage}.json").read_text(
+                        encoding="utf-8"
+                    )
+                )
+            )
+            for stage in expected_counts
+        }
+
+        self.assertEqual(actual_counts, expected_counts)
+
     def test_generated_paths_remain_ignored(self):
         repository_root = Path(__file__).resolve().parents[1]
         for ignored_path in ("work/example", "dist/example", ".model-cache/example"):
