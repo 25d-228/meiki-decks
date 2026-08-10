@@ -891,12 +891,12 @@
   },
   {
     "id": "ko-03-0090",
-    "sentence": "숙소 주소를 종이에도 적었어요. 휴대전화가 꺼지면 종이에서 주소를 확인하기 편해요.",
-    "cloze": "종이에서 주소를 확인하기 편해요",
-    "answer": "종이에서 주소를 확인하기 편해요",
+    "sentence": "숙소 주소를 종이에도 적었어요. 휴대전화가 꺼져도 주소를 확인하기 편해요.",
+    "cloze": "주소를 확인하기 편해요",
+    "answer": "주소를 확인하기 편해요",
     "accepted_answers": [],
-    "lemma": "종이에서 주소를 확인하기 편하다",
-    "meaning": "be convenient to check the address on paper",
+    "lemma": "주소를 확인하기 편하다",
+    "meaning": "be convenient to check the address even when the phone is off",
     "audio": "work/audio/ko-KR/03/ko-03-0090.mp3"
   },
   {
@@ -941,12 +941,12 @@
   },
   {
     "id": "ko-03-0095",
-    "sentence": "조별 과제의 두 초안에서 항목을 같은 순서로 놓았어요. 바뀐 내용을 서로 비교하기 좋아요.",
-    "cloze": "바뀐 내용을 서로 비교하기 좋아요",
-    "answer": "바뀐 내용을 서로 비교하기 좋아요",
+    "sentence": "조별 과제의 두 초안에서 항목을 같은 순서로 놓았어요. 달라진 부분을 비교하기 좋아요.",
+    "cloze": "달라진 부분을 비교하기 좋아요",
+    "answer": "달라진 부분을 비교하기 좋아요",
     "accepted_answers": [],
-    "lemma": "바뀐 내용을 서로 비교하기 좋다",
-    "meaning": "be useful for comparing the changed content",
+    "lemma": "달라진 부분을 비교하기 좋다",
+    "meaning": "be useful for comparing the differences",
     "audio": "work/audio/ko-KR/03/ko-03-0095.mp3"
   },
   {
@@ -1081,7 +1081,7 @@
   },
   {
     "id": "ko-03-0109",
-    "sentence": "선생님이 과제 끝에 참고한 책을 쓰는 순서를 알려 주셨어요. 제출 전 목록에 참고 문헌 순서 확인하기를 적었어요.",
+    "sentence": "선생님이 과제 끝에 참고 문헌을 적는 순서를 알려 주셨어요. 제출 전 확인 목록에 ‘참고 문헌 순서 확인하기’를 적었어요.",
     "cloze": "참고 문헌 순서 확인하기",
     "answer": "참고 문헌 순서 확인하기",
     "accepted_answers": [],
@@ -2009,7 +2009,7 @@
     "answer": "욕실 환풍기를 켰는데",
     "accepted_answers": [],
     "lemma": "환풍기를 켜다",
-    "meaning": "having turned on the bathroom ventilation fan as relevant background",
+    "meaning": "having turned on the bathroom ventilation fan",
     "audio": "work/audio/ko-KR/03/ko-03-0201.mp3"
   },
   {
@@ -2024,7 +2024,7 @@
   },
   {
     "id": "ko-03-0203",
-    "sentence": "현관 인터폰 화면이 켜지지 않는데, 공동 현관문은 어떻게 열어 줘요?",
+    "sentence": "현관 인터폰 화면이 켜지지 않는데, 공동 현관문은 어떻게 열어야 해요?",
     "cloze": "현관 인터폰 화면이 켜지지 않는데",
     "answer": "현관 인터폰 화면이 켜지지 않는데",
     "accepted_answers": [],
@@ -2189,7 +2189,7 @@
     "answer": "전자레인지의 플러그를 뽑았는데 차단기가 계속 내려가요",
     "accepted_answers": [],
     "lemma": "전자레인지의 플러그를 뽑았는데 차단기가 계속 내려가다",
-    "meaning": "the circuit breaker tripping even when the microwave is not in use",
+    "meaning": "the circuit breaker continuing to trip after the microwave is unplugged",
     "audio": "work/audio/ko-KR/03/ko-03-0219.mp3"
   },
   {
@@ -2224,7 +2224,7 @@
   },
   {
     "id": "ko-03-0223",
-    "sentence": "앞 진료가 늦어져서 제 예약 시간이 지났는데, 오늘도 진료를 받을 수 있어요?",
+    "sentence": "앞 진료가 늦어져서 제 예약 시간이 지났는데, 오늘 진료를 받을 수 있어요?",
     "cloze": "앞 진료가 늦어져서 제 예약 시간이 지났는데",
     "answer": "앞 진료가 늦어져서 제 예약 시간이 지났는데",
     "accepted_answers": [],
@@ -2254,7 +2254,7 @@
   },
   {
     "id": "ko-03-0226",
-    "sentence": "수리 보증 기간이 내일 끝나는데, 오늘 맡기면 보증을 받을 수 있어요?",
+    "sentence": "수리 보증 기간이 내일 끝나는데, 오늘 맡기면 보증 수리를 받을 수 있어요?",
     "cloze": "수리 보증 기간이 내일 끝나는데",
     "answer": "수리 보증 기간이 내일 끝나는데",
     "accepted_answers": [],
@@ -2274,17 +2274,17 @@
   },
   {
     "id": "ko-03-0228",
-    "sentence": "보관함 문을 열 수 없고 카드로 결제했는데, 환불은 어디에서 받아요?",
-    "cloze": "보관함 문을 열 수 없고 카드로 결제했는데",
-    "answer": "보관함 문을 열 수 없고 카드로 결제했는데",
+    "sentence": "카드로 결제했는데 보관함 문이 열리지 않아요. 환불은 어디에서 받아요?",
+    "cloze": "카드로 결제했는데 보관함 문이 열리지 않아요",
+    "answer": "카드로 결제했는데 보관함 문이 열리지 않아요",
     "accepted_answers": [],
-    "lemma": "보관함 문을 열 수 없고 카드로 결제하다",
-    "meaning": "only the card payment going through while the locker door stays shut",
+    "lemma": "카드로 결제했는데 보관함 문이 열리지 않다",
+    "meaning": "the locker door not opening after card payment",
     "audio": "work/audio/ko-KR/03/ko-03-0228.mp3"
   },
   {
     "id": "ko-03-0229",
-    "sentence": "아래층 천장에 물자국이 있어요. 우리 집 싱크대에서는 물이 새지 않는데, 어느 배관부터 확인해요?",
+    "sentence": "아래층 천장에 물자국이 있어요. 우리 집 싱크대에서는 물이 새지 않는데, 어느 배관부터 확인해 주실 수 있어요?",
     "cloze": "우리 집 싱크대에서는 물이 새지 않는데",
     "answer": "우리 집 싱크대에서는 물이 새지 않는데",
     "accepted_answers": [],
@@ -2294,7 +2294,7 @@
   },
   {
     "id": "ko-03-0230",
-    "sentence": "어머니와 함께 진료를 받으러 가요. 어머니가 계단을 오르지 못하시는데, 엘리베이터가 있는 입구가 어디예요?",
+    "sentence": "어머니와 함께 병원에 가요. 어머니가 계단을 오르지 못하시는데, 엘리베이터가 있는 입구가 어디예요?",
     "cloze": "어머니가 계단을 오르지 못하시는데",
     "answer": "어머니가 계단을 오르지 못하시는데",
     "accepted_answers": [],
@@ -2304,11 +2304,11 @@
   },
   {
     "id": "ko-03-0231",
-    "sentence": "금요일에 이사를 나가요. 제가 이사한 뒤에 관리실에서 집을 점검하는데, 열쇠를 먼저 맡겨도 돼요?",
-    "cloze": "제가 이사한 뒤에 관리실에서 집을 점검하는데",
-    "answer": "제가 이사한 뒤에 관리실에서 집을 점검하는데",
+    "sentence": "금요일에 이사를 나가요. 제가 이사한 뒤에 관리실 직원이 집을 점검하는데, 열쇠를 먼저 맡겨도 돼요?",
+    "cloze": "제가 이사한 뒤에 관리실 직원이 집을 점검하는데",
+    "answer": "제가 이사한 뒤에 관리실 직원이 집을 점검하는데",
     "accepted_answers": [],
-    "lemma": "화자가 이사한 뒤에 관리실에서 집을 점검하다",
+    "lemma": "화자가 이사한 뒤에 관리실 직원이 집을 점검하다",
     "meaning": "the building office inspecting the home after the speaker moves out",
     "audio": "work/audio/ko-KR/03/ko-03-0231.mp3"
   },
@@ -2344,7 +2344,7 @@
   },
   {
     "id": "ko-03-0235",
-    "sentence": "세탁기에 넣은 동전이 나오지 않는데, 직원이 꺼내 줄 수 있어요?",
+    "sentence": "세탁기에 넣은 동전이 나오지 않는데, 꺼내 주실 수 있어요?",
     "cloze": "세탁기에 넣은 동전이 나오지 않는데",
     "answer": "세탁기에 넣은 동전이 나오지 않는데",
     "accepted_answers": [],
@@ -2384,7 +2384,7 @@
   },
   {
     "id": "ko-03-0239",
-    "sentence": "아래층 이웃이 베란다에 빨래를 널었는데, 오늘은 물을 아래로 버리지 말아 주세요.",
+    "sentence": "아래층 이웃이 베란다에 빨래를 널었는데, 오늘은 베란다 밖으로 물을 버리지 말아 주세요.",
     "cloze": "아래층 이웃이 베란다에 빨래를 널었는데",
     "answer": "아래층 이웃이 베란다에 빨래를 널었는데",
     "accepted_answers": [],
@@ -2829,7 +2829,7 @@
     "answer": "복도 조명이 너무 밝은데",
     "accepted_answers": [],
     "lemma": "복도 조명이 너무 밝다",
-    "meaning": "the corridor lighting being too bright at night before roommates discuss contacting the building office",
+    "meaning": "the corridor lighting being too bright before residents discuss contacting the building office",
     "audio": "work/audio/ko-KR/03/ko-03-0283.mp3"
   },
   {
@@ -3094,12 +3094,12 @@
   },
   {
     "id": "ko-03-0310",
-    "sentence": "기본 요금제는 싼데, 필요한 기능을 더하면 상위 요금제보다 비싸져요.",
+    "sentence": "기본 요금제는 싼데, 필요한 기능을 더하면 다른 요금제보다 비싸져요.",
     "cloze": "기본 요금제는 싼데",
     "answer": "기본 요금제는 싼데",
     "accepted_answers": [],
     "lemma": "기본 요금제는 싸다",
-    "meaning": "a cheap basic plan becoming more expensive than the higher plan after adding needed features",
+    "meaning": "a cheap basic plan becoming more expensive than another plan after adding needed features",
     "audio": "work/audio/ko-KR/03/ko-03-0310.mp3"
   },
   {
@@ -3194,12 +3194,12 @@
   },
   {
     "id": "ko-03-0320",
-    "sentence": "이 이용권 금액은 세금 포함 가격인데, 영수증에는 세금이 따로 나와요?",
+    "sentence": "이 이용권은 세금 포함 가격인데, 영수증에는 세금이 따로 나와요?",
     "cloze": "세금 포함 가격인데",
     "answer": "세금 포함 가격인데",
     "accepted_answers": [],
     "lemma": "세금 포함 가격이다",
-    "meaning": "a tax-inclusive subscription price before a customer asks how tax appears on the receipt",
+    "meaning": "a tax-inclusive pass price before a customer asks how tax appears on the receipt",
     "audio": "work/audio/ko-KR/03/ko-03-0320.mp3"
   },
   {
@@ -3209,7 +3209,7 @@
     "answer": "지금 양손에 상자를 들고 있는데",
     "accepted_answers": [],
     "lemma": "양손에 상자를 들고 있다",
-    "meaning": "having both hands occupied with boxes before asking a peer to open the entrance door",
+    "meaning": "holding a box with both hands before asking a peer to open the entrance door",
     "audio": "work/audio/ko-KR/03/ko-03-0321.mp3"
   },
   {
@@ -3244,11 +3244,11 @@
   },
   {
     "id": "ko-03-0325",
-    "sentence": "제가 받은 메시지의 모임 시간은 여섯 시인데, 실제 시작 시간은 일곱 시예요.",
-    "cloze": "제가 받은 메시지의 모임 시간은 여섯 시인데",
-    "answer": "제가 받은 메시지의 모임 시간은 여섯 시인데",
+    "sentence": "제가 받은 메시지에서 확인한 모임 시간은 여섯 시인데, 실제 시작 시간은 일곱 시예요.",
+    "cloze": "제가 받은 메시지에서 확인한 모임 시간은 여섯 시인데",
+    "answer": "제가 받은 메시지에서 확인한 모임 시간은 여섯 시인데",
     "accepted_answers": [],
-    "lemma": "받은 메시지의 모임 시간은 여섯 시이다",
+    "lemma": "받은 메시지에서 확인한 모임 시간은 여섯 시이다",
     "meaning": "contrasting the time in a received message with the corrected gathering time",
     "audio": "work/audio/ko-KR/03/ko-03-0325.mp3"
   },
@@ -3304,9 +3304,9 @@
   },
   {
     "id": "ko-03-0331",
-    "sentence": "초대해 줘서 참석하고 싶은데, 그날은 부모님과 병원에 가야 해서 못 가요.",
-    "cloze": "초대해 줘서 참석하고 싶은데",
-    "answer": "초대해 줘서 참석하고 싶은데",
+    "sentence": "초대해 줘서 고마워요. 참석하고 싶은데, 그날은 부모님과 병원에 가야 해서 못 가요.",
+    "cloze": "참석하고 싶은데",
+    "answer": "참석하고 싶은데",
     "accepted_answers": [],
     "lemma": "초대받은 자리에 참석하고 싶다",
     "meaning": "wanting to accept an invitation before clearly declining because of a family hospital visit",
@@ -3334,11 +3334,11 @@
   },
   {
     "id": "ko-03-0334",
-    "sentence": "일정표에는 발표가 수요일인데, 정확한 날짜는 목요일이에요.",
-    "cloze": "일정표에는 발표가 수요일인데",
-    "answer": "일정표에는 발표가 수요일인데",
+    "sentence": "일정표에 나온 발표일은 수요일인데, 실제 발표일은 목요일이에요.",
+    "cloze": "일정표에 나온 발표일은 수요일인데",
+    "answer": "일정표에 나온 발표일은 수요일인데",
     "accepted_answers": [],
-    "lemma": "일정표에는 발표가 수요일이다",
+    "lemma": "일정표에 나온 발표일은 수요일이다",
     "meaning": "contrasting an incorrect Wednesday schedule entry with the corrected Thursday date",
     "audio": "work/audio/ko-KR/03/ko-03-0334.mp3"
   },
@@ -3434,12 +3434,12 @@
   },
   {
     "id": "ko-03-0344",
-    "sentence": "초대는 고맙지만 이번 주말 여행에는 참여할 수 없어요. 월요일에 중요한 일정이 있어요.",
+    "sentence": "초대는 고맙지만 이번 주말 여행에는 참여할 수 없어요. 토요일에 중요한 일정이 있어요.",
     "cloze": "이번 주말 여행에는 참여할 수 없어요",
     "answer": "이번 주말 여행에는 참여할 수 없어요",
     "accepted_answers": [],
     "lemma": "이번 주말 여행에는 참여할 수 없다",
-    "meaning": "clearly declining a weekend trip invitation because of an important Monday commitment",
+    "meaning": "clearly declining a weekend trip invitation because of an important Saturday commitment",
     "audio": "work/audio/ko-KR/03/ko-03-0344.mp3"
   },
   {
@@ -3449,7 +3449,7 @@
     "answer": "한 시에서 세 시로 바꿔 주세요",
     "accepted_answers": [],
     "lemma": "수거 시간을 한 시에서 세 시로 바꾸다",
-    "meaning": "requesting a later return pickup because nobody will be home at the booked time",
+    "meaning": "requesting a later return pickup because the speaker will be away at the booked time",
     "audio": "work/audio/ko-KR/03/ko-03-0345.mp3"
   },
   {
@@ -4164,11 +4164,11 @@
   },
   {
     "id": "ko-03-0417",
-    "sentence": "건강보험증의 이름이 신분증과 다르니까 접수 용지에 쓸 이름을 알려 주실 수 있어요?",
-    "cloze": "건강보험증의 이름이 신분증과 다르니까",
-    "answer": "건강보험증의 이름이 신분증과 다르니까",
+    "sentence": "건강보험증에 적힌 이름이 신분증과 다르니까 접수 용지에는 어느 이름을 쓰면 될까요?",
+    "cloze": "건강보험증에 적힌 이름이 신분증과 다르니까",
+    "answer": "건강보험증에 적힌 이름이 신분증과 다르니까",
     "accepted_answers": [],
-    "lemma": "건강보험증의 이름이 신분증과 다르다",
+    "lemma": "건강보험증에 적힌 이름이 신분증과 다르다",
     "meaning": "because the name on my health insurance card differs from my ID",
     "audio": "work/audio/ko-KR/03/ko-03-0417.mp3"
   },
@@ -4254,7 +4254,7 @@
   },
   {
     "id": "ko-03-0426",
-    "sentence": "마감 전에 확인할 표가 많으니까 두 장씩 나눠서 볼까요?",
+    "sentence": "마감 전에 확인할 표가 많으니까 둘이 나누어 확인할까요?",
     "cloze": "마감 전에 확인할 표가 많으니까",
     "answer": "마감 전에 확인할 표가 많으니까",
     "accepted_answers": [],
@@ -4274,7 +4274,7 @@
   },
   {
     "id": "ko-03-0428",
-    "sentence": "사다리가 짧으니까 높은 곳은 손잡이가 긴 먼지떨이로 닦을까요?",
+    "sentence": "사다리가 짧으니까 높은 곳의 먼지는 손잡이가 긴 먼지떨이로 털까요?",
     "cloze": "사다리가 짧으니까",
     "answer": "사다리가 짧으니까",
     "accepted_answers": [],
@@ -4284,7 +4284,7 @@
   },
   {
     "id": "ko-03-0429",
-    "sentence": "배관 안에 물이 남아 있으니까 수도를 조금 더 잠가 두어도 괜찮을까요?",
+    "sentence": "배관 안에 물이 남아 있으니까 그 물을 먼저 빼도 괜찮을까요?",
     "cloze": "배관 안에 물이 남아 있으니까",
     "answer": "배관 안에 물이 남아 있으니까",
     "accepted_answers": [],
@@ -4354,7 +4354,7 @@
   },
   {
     "id": "ko-03-0436",
-    "sentence": "발목이 아직 부으니까 오늘 진료는 그대로 받을게요.",
+    "sentence": "발목이 아직 부으니까 오늘은 예약대로 진료를 받을게요.",
     "cloze": "발목이 아직 부으니까",
     "answer": "발목이 아직 부으니까",
     "accepted_answers": [],
@@ -4384,11 +4384,11 @@
   },
   {
     "id": "ko-03-0439",
-    "sentence": "오전 직원이 접수를 도우니까 저는 예약 전화를 받을게요.",
-    "cloze": "오전 직원이 접수를 도우니까",
-    "answer": "오전 직원이 접수를 도우니까",
+    "sentence": "오전 근무 직원이 접수를 도우니까 저는 예약 전화를 받을게요.",
+    "cloze": "오전 근무 직원이 접수를 도우니까",
+    "answer": "오전 근무 직원이 접수를 도우니까",
     "accepted_answers": [],
-    "lemma": "오전 직원이 접수를 돕다",
+    "lemma": "오전 근무 직원이 접수를 돕다",
     "meaning": "because the morning staff member is helping with check-in",
     "audio": "work/audio/ko-KR/03/ko-03-0439.mp3"
   },
@@ -4414,7 +4414,7 @@
   },
   {
     "id": "ko-03-0442",
-    "sentence": "예약 시간이 이미 지났기 때문에 같은 날에는 시간을 바꿀 수 없어요.",
+    "sentence": "예약 시간이 이미 지났기 때문에 당일에는 시간을 바꿀 수 없어요.",
     "cloze": "예약 시간이 이미 지났기 때문에",
     "answer": "예약 시간이 이미 지났기 때문에",
     "accepted_answers": [],
@@ -4514,7 +4514,7 @@
   },
   {
     "id": "ko-03-0452",
-    "sentence": "두 계정에 같은 이메일을 등록했기 때문에 알림을 보낸 계정을 구별하기 어려워요.",
+    "sentence": "두 계정에 같은 이메일을 등록했기 때문에 어떤 계정에서 온 알림인지 구별하기 어려워요.",
     "cloze": "두 계정에 같은 이메일을 등록했기 때문에",
     "answer": "두 계정에 같은 이메일을 등록했기 때문에",
     "accepted_answers": [],
@@ -4634,12 +4634,12 @@
   },
   {
     "id": "ko-03-0464",
-    "sentence": "복사한 아이디 끝에 빈칸이 있기 때문에 로그인이 안 돼요.",
-    "cloze": "복사한 아이디 끝에 빈칸이 있기 때문에",
-    "answer": "복사한 아이디 끝에 빈칸이 있기 때문에",
+    "sentence": "복사한 아이디 뒤에 공백이 있기 때문에 로그인이 안 돼요.",
+    "cloze": "복사한 아이디 뒤에 공백이 있기 때문에",
+    "answer": "복사한 아이디 뒤에 공백이 있기 때문에",
     "accepted_answers": [],
-    "lemma": "복사한 아이디 끝에 빈칸이 있다",
-    "meaning": "because there is a blank space at the end of the copied ID",
+    "lemma": "복사한 아이디 뒤에 공백이 있다",
+    "meaning": "because there is a trailing space in the copied ID",
     "audio": "work/audio/ko-KR/03/ko-03-0464.mp3"
   },
   {
@@ -4734,7 +4734,7 @@
   },
   {
     "id": "ko-03-0474",
-    "sentence": "휴대폰을 바꿔서 확인 문자를 못 받았어요. 등록 번호와 현재 번호가 다르기 때문에 직원이 계정을 확인해야 해요.",
+    "sentence": "휴대폰 번호를 바꿔서 확인 문자를 못 받았어요. 등록 번호와 현재 번호가 다르기 때문에 직원이 계정을 확인해야 해요.",
     "cloze": "등록 번호와 현재 번호가 다르기 때문에",
     "answer": "등록 번호와 현재 번호가 다르기 때문에",
     "accepted_answers": [],
@@ -5004,12 +5004,12 @@
   },
   {
     "id": "ko-03-0501",
-    "sentence": "기차가 두 시간 늦게 출발해요. 그래서 호텔에 새 도착 시간을 보냈어요.",
-    "cloze": "호텔에 새 도착 시간을 보냈어요",
-    "answer": "호텔에 새 도착 시간을 보냈어요",
+    "sentence": "기차가 두 시간 늦게 출발해요. 그래서 호텔에 새 도착 시간을 알렸어요.",
+    "cloze": "호텔에 새 도착 시간을 알렸어요",
+    "answer": "호텔에 새 도착 시간을 알렸어요",
     "accepted_answers": [],
-    "lemma": "호텔에 새 도착 시간을 보내다",
-    "meaning": "send the hotel the new arrival time",
+    "lemma": "호텔에 새 도착 시간을 알리다",
+    "meaning": "inform the hotel of the new arrival time",
     "audio": "work/audio/ko-KR/03/ko-03-0501.mp3"
   },
   {
@@ -5314,7 +5314,7 @@
   },
   {
     "id": "ko-03-0532",
-    "sentence": "두 번째 요금제는 한 달마다 바꿀 수 있어요. 그래서 우선 한 달만 신청했어요.",
+    "sentence": "두 번째 요금제는 한 달 단위로 신청할 수 있어요. 그래서 우선 한 달만 신청했어요.",
     "cloze": "그래서 우선 한 달만 신청했어요",
     "answer": "그래서 우선 한 달만 신청했어요",
     "accepted_answers": [],
@@ -5364,7 +5364,7 @@
   },
   {
     "id": "ko-03-0537",
-    "sentence": "회화 수업은 짝과 말할 시간이 많아서 말하기 연습을 원하면 이 반이 좋아요.",
+    "sentence": "회화 수업은 짝과 말할 시간이 많아서 말하기 연습을 하고 싶으면 이 반이 좋아요.",
     "cloze": "짝과 말할 시간이 많아서",
     "answer": "짝과 말할 시간이 많아서",
     "accepted_answers": [],
@@ -5434,7 +5434,7 @@
   },
   {
     "id": "ko-03-0544",
-    "sentence": "두 명만 이용할 예정이에요. 가족 요금제는 네 명부터 더 저렴해요. 그래서 개인 요금제와도 비교해 보는 게 좋아요.",
+    "sentence": "두 명만 이용할 예정이에요. 가족 요금제는 네 명 이상이 이용할 때 더 저렴해요. 그래서 개인 요금제와도 비교해 보는 게 좋아요.",
     "cloze": "그래서 개인 요금제와도 비교해 보는 게 좋아요",
     "answer": "그래서 개인 요금제와도 비교해 보는 게 좋아요",
     "accepted_answers": [],
@@ -5554,11 +5554,11 @@
   },
   {
     "id": "ko-03-0556",
-    "sentence": "두 수업의 시간이 겹치기 때문에 이번 학기에는 회화 수업만 들어요.",
-    "cloze": "두 수업의 시간이 겹치기 때문에",
-    "answer": "두 수업의 시간이 겹치기 때문에",
+    "sentence": "두 수업 시간이 겹치기 때문에 이번 학기에는 회화 수업만 들어요.",
+    "cloze": "두 수업 시간이 겹치기 때문에",
+    "answer": "두 수업 시간이 겹치기 때문에",
     "accepted_answers": [],
-    "lemma": "두 수업의 시간이 겹치다",
+    "lemma": "두 수업 시간이 겹치다",
     "meaning": "because the two class times overlap",
     "audio": "work/audio/ko-KR/03/ko-03-0556.mp3"
   },
@@ -6814,7 +6814,7 @@
   },
   {
     "id": "ko-03-0682",
-    "sentence": "큰 가구를 먼저 새집에 들여놓았어요. 가구를 모두 옮긴 후에 작은 상자를 방별로 나눴어요.",
+    "sentence": "이삿짐 직원들이 큰 가구를 먼저 새집에 들여놓았어요. 가구를 모두 옮긴 후에 저는 작은 상자를 방별로 나눴어요.",
     "cloze": "가구를 모두 옮긴 후에",
     "answer": "가구를 모두 옮긴 후에",
     "accepted_answers": [],
@@ -6894,7 +6894,7 @@
   },
   {
     "id": "ko-03-0690",
-    "sentence": "접수 번호를 부르기 전에는 창구 앞에서 기다렸어요. 제 번호를 부르자마자 신청서를 들고 갔어요.",
+    "sentence": "대기실에서 제 접수 번호를 기다렸어요. 직원이 제 번호를 부르자마자 신청서를 들고 창구로 갔어요.",
     "cloze": "제 번호를 부르자마자",
     "answer": "제 번호를 부르자마자",
     "accepted_answers": [],
@@ -7139,7 +7139,7 @@
     "answer": "직원이 신청서를 확인하는 동안",
     "accepted_answers": [],
     "lemma": "직원이 신청서를 확인하다",
-    "meaning": "during the employee's application processing",
+    "meaning": "while the employee checked the application",
     "audio": "work/audio/ko-KR/03/ko-03-0714.mp3"
   },
   {
@@ -8224,7 +8224,7 @@
   },
   {
     "id": "ko-03-0823",
-    "sentence": "첫 발표가 삼십 분 뒤에 시작하는데 버스가 이십 분 뒤에 오고 이동에도 이십 분이 걸리니 지금 나가면 첫 발표에는 늦겠어요.",
+    "sentence": "첫 발표는 삼십 분 뒤에 시작되는데 버스가 이십 분 뒤에 오고 이동에도 이십 분이 걸리니 지금 나가면 첫 발표에는 늦겠어요.",
     "cloze": "지금 나가면 첫 발표에는 늦겠어요",
     "answer": "지금 나가면 첫 발표에는 늦겠어요",
     "accepted_answers": [],
@@ -8324,9 +8324,9 @@
   },
   {
     "id": "ko-03-0833",
-    "sentence": "상품의 오늘 출발은 확인했지만 배송 물량이 많아서 오늘 도착은 어렵겠어요.",
-    "cloze": "오늘 도착은 어렵겠어요",
-    "answer": "오늘 도착은 어렵겠어요",
+    "sentence": "고객님, 상품이 오늘 발송된 것은 확인했지만 배송 물량이 많아서 오늘 도착은 어렵겠습니다.",
+    "cloze": "오늘 도착은 어렵겠습니다",
+    "answer": "오늘 도착은 어렵겠습니다",
     "accepted_answers": [],
     "lemma": "오늘 도착은 어렵다",
     "meaning": "delivery today is unlikely",
@@ -10088,7 +10088,7 @@
     "cloze": "최 원장님은 월요일 오전에 바쁘시다고",
     "answer": "최 원장님은 월요일 오전에 바쁘시다고",
     "accepted_answers": [],
-    "lemma": "월요일 오전에 바쁘다",
+    "lemma": "최 원장님은 월요일 오전에 바쁘다",
     "meaning": "the nurse explains to a patient with an appointment that Director Choi is busy on Monday morning",
     "audio": "work/audio/ko-KR/03/ko-03-1009.mp3"
   },
@@ -10194,12 +10194,12 @@
   },
   {
     "id": "ko-03-1020",
-    "sentence": "회의 방식을 바꿔 총무팀 직원이 참석자들에게 오후 회의를 화상으로 진행한다고 공지했어요.",
+    "sentence": "총무팀 직원이 회의 방식을 바꿔 참석자들에게 오후 회의를 화상으로 진행한다고 공지했어요.",
     "cloze": "오후 회의를 화상으로 진행한다고",
     "answer": "오후 회의를 화상으로 진행한다고",
     "accepted_answers": [],
     "lemma": "오후 회의를 화상으로 진행하다",
-    "meaning": "the administration employee tells the attendees that the changed afternoon meeting will be held by video",
+    "meaning": "the administration employee tells the attendees that, following a format change, the afternoon meeting will be held by video",
     "audio": "work/audio/ko-KR/03/ko-03-1020.mp3"
   },
   {
@@ -16474,11 +16474,11 @@
   },
   {
     "id": "ko-03-1648",
-    "sentence": "이번 주에는 약속이 많아서 그 부탁을 들어줄 수 없습니다.",
-    "cloze": "그 부탁을 들어줄 수 없습니다",
-    "answer": "그 부탁을 들어줄 수 없습니다",
+    "sentence": "이번 주에는 약속이 많아서 그 부탁까지 들어주기는 어렵습니다.",
+    "cloze": "그 부탁까지 들어주기는 어렵습니다",
+    "answer": "그 부탁까지 들어주기는 어렵습니다",
     "accepted_answers": [],
-    "lemma": "부탁을 들어줄 수 없다",
+    "lemma": "부탁까지 들어주기는 어렵다",
     "meaning": "cannot do that favor as well",
     "audio": "work/audio/ko-KR/03/ko-03-1648.mp3"
   },
@@ -16504,7 +16504,7 @@
   },
   {
     "id": "ko-03-1651",
-    "sentence": "축하해 주셔서 충분히 기뻐요. 선물은 마음만 받겠습니다.",
+    "sentence": "축하해 주신 것만으로도 충분합니다. 선물은 마음만 받겠습니다.",
     "cloze": "선물은 마음만 받겠습니다",
     "answer": "선물은 마음만 받겠습니다",
     "accepted_answers": [],
@@ -16674,11 +16674,11 @@
   },
   {
     "id": "ko-03-1668",
-    "sentence": "저녁 일정과 겹쳐서 이번 강좌는 등록하지 않겠습니다.",
-    "cloze": "이번 강좌는 등록하지 않겠습니다",
-    "answer": "이번 강좌는 등록하지 않겠습니다",
+    "sentence": "저녁 일정과 겹쳐서 이번 강좌에는 등록하지 않겠습니다.",
+    "cloze": "이번 강좌에는 등록하지 않겠습니다",
+    "answer": "이번 강좌에는 등록하지 않겠습니다",
     "accepted_answers": [],
-    "lemma": "강좌를 등록하지 않다",
+    "lemma": "강좌에 등록하지 않다",
     "meaning": "I will not enroll in this course",
     "audio": "work/audio/ko-KR/03/ko-03-1668.mp3"
   },
@@ -16704,11 +16704,11 @@
   },
   {
     "id": "ko-03-1671",
-    "sentence": "방문 기사 일정이 다 차서 오늘은 예약해 드릴 수 없습니다.",
-    "cloze": "오늘은 예약해 드릴 수 없습니다",
-    "answer": "오늘은 예약해 드릴 수 없습니다",
+    "sentence": "방문 기사 일정이 다 차서 오늘 방문은 예약해 드릴 수 없습니다.",
+    "cloze": "오늘 방문은 예약해 드릴 수 없습니다",
+    "answer": "오늘 방문은 예약해 드릴 수 없습니다",
     "accepted_answers": [],
-    "lemma": "오늘은 예약해 드릴 수 없다",
+    "lemma": "오늘 방문은 예약해 드릴 수 없다",
     "meaning": "we cannot book a visit for today",
     "audio": "work/audio/ko-KR/03/ko-03-1671.mp3"
   },
@@ -17009,7 +17009,7 @@
     "answer": "방금 받은 안내가 맞다면 접수 마감은 오후 다섯 시예요",
     "accepted_answers": [],
     "lemma": "방금 받은 안내가 맞다면 접수 마감은 오후 다섯 시이다",
-    "meaning": "if the information we just received is correct",
+    "meaning": "if the information we just received is correct, registration closes at 5 p.m.",
     "audio": "work/audio/ko-KR/03/ko-03-1701.mp3"
   },
   {
@@ -17019,7 +17019,7 @@
     "answer": "일정이 다시 바뀔 수도 있으니 수정한 파일도 가져갈게요",
     "accepted_answers": [],
     "lemma": "일정이 다시 바뀔 수도 있어서 수정한 파일도 가져가다",
-    "meaning": "since the schedule might change again",
+    "meaning": "since the schedule might change again, I'll bring the revised file too",
     "audio": "work/audio/ko-KR/03/ko-03-1702.mp3"
   },
   {
