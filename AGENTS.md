@@ -30,13 +30,14 @@
 
 - Validate at system boundaries and fail with useful context.
 - Do not suppress errors or add untested fallback behavior.
-- Do not add a dependency without issue approval. For issue #84 only, `voxcpm` and `soundfile`
-  are approved server-generation dependencies.
+- Every dependency requires issue approval.
 
 ## Tests and validation
 
-- Add or update only tests required by the issue.
-- Test observable behavior at the narrowest stable boundary and mock only external boundaries.
+- The executor writes or updates only tests required by the issue.
+- Test observable behavior at the narrowest stable boundary.
+- Do not mock the unit under test.
+- Mock external boundaries only when necessary.
 - Do not weaken or delete tests to make a change pass.
 - Use repository-native commands and run focused checks during work and relevant local gates
   before pushing. CI is the authoritative full automated suite.
@@ -57,6 +58,8 @@
 - A pull-request description contains exactly one `Fixes #N`.
 - Requested changes stay on the same branch and pull request.
 - Do not include unrelated changes.
+- Routine status begins with `EXECUTOR → HUMAN`.
+- A blocking question begins with `EXECUTOR → HUMAN — ACTION REQUIRED`.
 - Completion or blocker handoff is one fenced block beginning with `EXECUTOR → ORCHESTRATOR`.
   Include only the repository, issue and pull-request numbers, branch, latest commit, CI state,
   unresolved feedback, uncovered requirements, human-verification state, queue state, and blocker
