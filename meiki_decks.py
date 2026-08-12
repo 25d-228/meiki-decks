@@ -72,6 +72,11 @@ TTS_CONFIG = {
         "reference_wav": "work/voices/ja-JP/reference.wav",
         "reference_text": "work/voices/ja-JP/reference.txt",
     },
+    "ko-KR": {
+        "model": "openbmb/VoxCPM2",
+        "reference_wav": "work/voices/ko-KR/reference.wav",
+        "reference_text": "work/voices/ko-KR/reference.txt",
+    },
 }
 PATH_COMPONENT = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]*$")
 REQUIRED_STRING_FIELDS = (

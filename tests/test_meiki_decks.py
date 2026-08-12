@@ -288,14 +288,71 @@ class MeikiDecksTests(unittest.TestCase):
 
         loader.assert_not_called()
 
-    def test_japanese_audio_uses_voxcpm2_ultimate_reference_files(self):
+    def test_languages_use_voxcpm2_ultimate_reference_files(self):
         self.assertEqual(
-            meiki_decks.TTS_CONFIG["ja-JP"],
+            meiki_decks.TTS_CONFIG,
             {
-                "model": "openbmb/VoxCPM2",
-                "reference_wav": "work/voices/ja-JP/reference.wav",
-                "reference_text": "work/voices/ja-JP/reference.txt",
+                "ja-JP": {
+                    "model": "openbmb/VoxCPM2",
+                    "reference_wav": "work/voices/ja-JP/reference.wav",
+                    "reference_text": "work/voices/ja-JP/reference.txt",
+                },
+                "ko-KR": {
+                    "model": "openbmb/VoxCPM2",
+                    "reference_wav": "work/voices/ko-KR/reference.wav",
+                    "reference_text": "work/voices/ko-KR/reference.txt",
+                },
             },
+        )
+
+    def test_korean_generation_uses_the_fixed_reference_pair(self):
+        self.language = "ko-KR"
+        self.stage = "00"
+        card = self.card("ko-test-001", "한국어 문장을 연습합니다.", "연습합니다")
+        self.write_stage([card])
+        reference_directory = self.root / "work" / "voices" / self.language
+        reference_directory.mkdir(parents=True)
+        reference_wav = reference_directory / "reference.wav"
+        reference_wav.write_bytes(b"Korean reference audio")
+        reference_text = reference_directory / "reference.txt"
+        reference_text.write_text("차분하게 한국어를 연습합니다.\n", encoding="utf-8")
+        generations = []
+
+        class FakeModel:
+            tts_model = mock.Mock(sample_rate=48_000)
+
+            def generate(self, **arguments):
+                generations.append(arguments)
+                return [0.0, 0.1]
+
+        def fake_command(command, **arguments):
+            Path(command[-1]).write_bytes(b"generated audio")
+            return subprocess.CompletedProcess(command, 0, stdout="")
+
+        with (
+            mock.patch.object(meiki_decks, "load_tts_model", return_value=FakeModel()) as loader,
+            mock.patch.object(meiki_decks, "write_waveform"),
+        ):
+            failures = meiki_decks.generate_audio(
+                self.root,
+                self.language,
+                self.stage,
+                run_command=fake_command,
+                probe=lambda _: 1_000,
+            )
+
+        self.assertEqual(failures, 0)
+        loader.assert_called_once_with(meiki_decks.TTS_CONFIG["ko-KR"])
+        self.assertEqual(
+            generations,
+            [
+                {
+                    "text": card["sentence"],
+                    "prompt_wav_path": str(reference_wav),
+                    "prompt_text": "차분하게 한국어를 연습합니다.\n",
+                    "reference_wav_path": str(reference_wav),
+                }
+            ],
         )
 
     def test_model_loader_uses_voxcpm2_without_denoising_or_compilation(self):
