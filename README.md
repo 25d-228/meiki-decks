@@ -17,14 +17,14 @@ Committed stage sources use `coverage/<locale>/<stage>.md` and
 `work/audio/<locale>/<stage>/`, and complete language archives are written to
 `dist/`. Audio, archives, models, and caches remain local and ignored.
 
-Japanese audio generation runs on a CUDA server with VoxCPM2 Ultimate Cloning
-and FFmpeg. Install the required server packages with:
+Japanese and Korean audio generation runs on a CUDA server with VoxCPM2 Ultimate
+Cloning and FFmpeg. Install the required server packages with:
 
 ```bash
 pip install -U voxcpm soundfile
 ```
 
-Place the fixed local reference files at `work/voices/ja-JP/reference.wav` and
-`work/voices/ja-JP/reference.txt`. The generator downloads the configured model
-through the VoxCPM runtime on first use. It does not use cloud keys or a remote
-synthesis service.
+Place each fixed local reference pair at `work/voices/<locale>/reference.wav` and
+`work/voices/<locale>/reference.txt`. Configured locales are `ja-JP` and `ko-KR`.
+The generator downloads the configured model through the VoxCPM runtime on first
+use. It does not use cloud keys or a remote synthesis service.
