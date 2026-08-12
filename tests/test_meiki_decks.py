@@ -4,8 +4,10 @@ import io
 import json
 from pathlib import Path
 import subprocess
+import sys
 import tempfile
 import unittest
+from unittest import mock
 import zipfile
 
 import meiki_decks
@@ -40,6 +42,24 @@ class MeikiDecksTests(unittest.TestCase):
         cards_path.parent.mkdir(parents=True, exist_ok=True)
         coverage_path.write_text("# Test coverage\n", encoding="utf-8")
         cards_path.write_text(json.dumps(cards), encoding="utf-8")
+
+    def tts_configuration(self):
+        return {
+            self.language: {
+                "model": "local-model",
+                "reference_wav": "work/voices/test/reference.wav",
+                "reference_text": "work/voices/test/reference.txt",
+            }
+        }
+
+    def write_voice_reference(self, transcript="Exact reference transcript.\n"):
+        reference_directory = self.root / "work" / "voices" / "test"
+        reference_directory.mkdir(parents=True, exist_ok=True)
+        reference_wav = reference_directory / "reference.wav"
+        reference_text = reference_directory / "reference.txt"
+        reference_wav.write_bytes(b"reference audio")
+        reference_text.write_text(transcript, encoding="utf-8")
+        return reference_wav, reference_text
 
     def test_valid_card_data_is_accepted(self):
         card = self.card()
@@ -89,72 +109,212 @@ class MeikiDecksTests(unittest.TestCase):
         with self.assertRaisesRegex(meiki_decks.DeckError, "audio must equal"):
             meiki_decks.check_stage(self.root, self.language, self.stage)
 
-    def test_generate_audio_is_sequential_skips_nonempty_and_reports_failures(self):
+    def test_generate_audio_loads_once_and_continues_after_a_failed_card(self):
         cards = [
             self.card("test-001", "First is ready."),
             self.card("test-002", "Second is ready."),
             self.card("test-003", "Third is ready."),
         ]
         self.write_stage(cards)
-        skipped_path = self.root / cards[1]["audio"]
-        skipped_path.parent.mkdir(parents=True)
-        skipped_path.write_bytes(b"existing audio")
+        reference_wav, _ = self.write_voice_reference()
         commands = []
+        generations = []
+        import_paths = []
+        temporary_directories = []
+
+        class FakeModel:
+            tts_model = mock.Mock(sample_rate=48_000)
+
+            def generate(self, **arguments):
+                generations.append(arguments)
+                import_paths.append(
+                    {Path(path or Path.cwd()).resolve() for path in sys.path}
+                )
+                if arguments["text"] == cards[1]["sentence"]:
+                    raise RuntimeError("synthetic failure")
+                return [0.0, 0.1]
 
         def fake_command(command, **arguments):
             commands.append((command, arguments))
-            prefix = command[command.index("--file_prefix") + 1]
-            if prefix == "test-003":
-                return subprocess.CompletedProcess(command, 1, stderr="synthetic failure")
-            output_directory = Path(command[command.index("--output_path") + 1])
-            output_format = command[command.index("--audio_format") + 1]
-            (output_directory / f"{prefix}.{output_format}").write_bytes(b"generated audio")
+            temporary_directories.append(Path(command[-1]).parent)
+            Path(command[-1]).write_bytes(b"generated audio")
             return subprocess.CompletedProcess(command, 0, stdout="")
 
         error_output = io.StringIO()
-        with contextlib.redirect_stderr(error_output):
+        with (
+            contextlib.redirect_stderr(error_output),
+            mock.patch.object(meiki_decks, "load_tts_model", return_value=FakeModel()) as loader,
+            mock.patch.object(meiki_decks, "write_waveform") as writer,
+        ):
             failures = meiki_decks.generate_audio(
                 self.root,
                 self.language,
                 self.stage,
                 run_command=fake_command,
                 probe=lambda _: 1_000,
-                tts_config={
-                    self.language: {
-                        "model": "local-model",
-                        "voice": "local-voice",
-                        "lang_code": "Test",
-                    }
-                },
+                tts_config=self.tts_configuration(),
             )
 
         self.assertEqual(failures, 1)
+        loader.assert_called_once()
         self.assertEqual(
-            [command[0][command[0].index("--file_prefix") + 1] for command in commands],
-            ["test-001", "test-003"],
+            generations,
+            [
+                {
+                    "text": card["sentence"],
+                    "prompt_wav_path": str(reference_wav),
+                    "prompt_text": "Exact reference transcript.\n",
+                    "reference_wav_path": str(reference_wav),
+                }
+                for card in cards
+            ],
         )
-        self.assertEqual(commands[0][0][commands[0][0].index("--text") + 1], cards[0]["sentence"])
-        self.assertEqual(commands[0][1]["env"]["HF_HUB_OFFLINE"], "1")
-        self.assertIn("test-003", error_output.getvalue())
+        self.assertEqual(len(commands), 2)
+        self.assertEqual(writer.call_count, 2)
+        repository_root = Path(meiki_decks.__file__).resolve().parent
+        self.assertTrue(all(repository_root not in paths for paths in import_paths))
+        self.assertIn(repository_root, {Path(path or Path.cwd()).resolve() for path in sys.path})
+        self.assertTrue((self.root / cards[0]["audio"]).is_file())
+        self.assertTrue((self.root / cards[2]["audio"]).is_file())
+        self.assertTrue(all(not path.exists() for path in temporary_directories))
+        self.assertIn("test-002", error_output.getvalue())
 
-    def test_japanese_audio_uses_the_fixed_local_voice(self):
+    def test_generate_audio_cleans_temporary_files_after_conversion_failure(self):
+        card = self.card()
+        self.write_stage([card])
+        self.write_voice_reference()
+        temporary_directories = []
+
+        class FakeModel:
+            tts_model = mock.Mock(sample_rate=48_000)
+
+            def generate(self, **arguments):
+                return [0.0, 0.1]
+
+        def failed_command(command, **arguments):
+            temporary_directories.append(Path(command[-1]).parent)
+            return subprocess.CompletedProcess(command, 1, stderr="conversion failed")
+
+        with (
+            mock.patch.object(meiki_decks, "load_tts_model", return_value=FakeModel()),
+            mock.patch.object(meiki_decks, "write_waveform"),
+        ):
+            failures = meiki_decks.generate_audio(
+                self.root,
+                self.language,
+                self.stage,
+                run_command=failed_command,
+                probe=lambda _: 1_000,
+                tts_config=self.tts_configuration(),
+            )
+
+        self.assertEqual(failures, 1)
+        self.assertTrue(all(not path.exists() for path in temporary_directories))
+        self.assertFalse((self.root / card["audio"]).exists())
+
+    def test_generate_audio_skips_a_nonempty_existing_mp3(self):
+        card = self.card()
+        self.write_stage([card])
+        audio_path = self.root / card["audio"]
+        audio_path.parent.mkdir(parents=True)
+        audio_path.write_bytes(b"existing audio")
+
+        with mock.patch.object(meiki_decks, "load_tts_model") as loader:
+            failures = meiki_decks.generate_audio(
+                self.root,
+                self.language,
+                self.stage,
+                probe=lambda _: 1_000,
+                tts_config=self.tts_configuration(),
+            )
+
+        self.assertEqual(failures, 0)
+        loader.assert_not_called()
+        self.assertEqual(audio_path.read_bytes(), b"existing audio")
+
+    def test_generate_audio_rejects_missing_or_empty_reference_wav_before_model_load(self):
+        self.write_stage([self.card()])
+        configuration = self.tts_configuration()
+        reference_wav = self.root / configuration[self.language]["reference_wav"]
+        reference_text = self.root / configuration[self.language]["reference_text"]
+        reference_text.parent.mkdir(parents=True)
+        reference_text.write_text("Reference transcript.", encoding="utf-8")
+
+        with mock.patch.object(meiki_decks, "load_tts_model") as loader:
+            with self.assertRaisesRegex(meiki_decks.DeckError, "reference WAV is missing"):
+                meiki_decks.generate_audio(
+                    self.root,
+                    self.language,
+                    self.stage,
+                    tts_config=configuration,
+                )
+
+            reference_wav.write_bytes(b"")
+            with self.assertRaisesRegex(meiki_decks.DeckError, "reference WAV is empty"):
+                meiki_decks.generate_audio(
+                    self.root,
+                    self.language,
+                    self.stage,
+                    tts_config=configuration,
+                )
+
+        loader.assert_not_called()
+
+    def test_generate_audio_rejects_missing_or_empty_transcript_before_model_load(self):
+        self.write_stage([self.card()])
+        configuration = self.tts_configuration()
+        reference_wav = self.root / configuration[self.language]["reference_wav"]
+        reference_text = self.root / configuration[self.language]["reference_text"]
+        reference_wav.parent.mkdir(parents=True)
+        reference_wav.write_bytes(b"reference audio")
+
+        with mock.patch.object(meiki_decks, "load_tts_model") as loader:
+            with self.assertRaisesRegex(meiki_decks.DeckError, "transcript is missing"):
+                meiki_decks.generate_audio(
+                    self.root,
+                    self.language,
+                    self.stage,
+                    tts_config=configuration,
+                )
+
+            reference_text.write_text("   ", encoding="utf-8")
+            with self.assertRaisesRegex(meiki_decks.DeckError, "transcript is empty"):
+                meiki_decks.generate_audio(
+                    self.root,
+                    self.language,
+                    self.stage,
+                    tts_config=configuration,
+                )
+
+        loader.assert_not_called()
+
+    def test_japanese_audio_uses_voxcpm2_ultimate_reference_files(self):
         self.assertEqual(
             meiki_decks.TTS_CONFIG["ja-JP"],
             {
-                "model": "mlx-community/Qwen3-TTS-12Hz-0.6B-CustomVoice-8bit",
-                "voice": "Ono_Anna",
-                "lang_code": "Japanese",
+                "model": "openbmb/VoxCPM2",
+                "reference_wav": "work/voices/ja-JP/reference.wav",
+                "reference_text": "work/voices/ja-JP/reference.txt",
             },
         )
 
-    def test_korean_audio_uses_the_fixed_local_voice(self):
-        self.assertEqual(
-            meiki_decks.TTS_CONFIG["ko-KR"],
-            {
-                "model": "mlx-community/Qwen3-TTS-12Hz-0.6B-CustomVoice-8bit",
-                "voice": "Sohee",
-                "lang_code": "Korean",
-            },
+    def test_model_loader_uses_voxcpm2_without_denoising_or_compilation(self):
+        model = object()
+        from_pretrained = mock.Mock(return_value=model)
+        fake_voxcpm = mock.Mock()
+        fake_voxcpm.VoxCPM.from_pretrained = from_pretrained
+
+        with mock.patch.dict(
+            "sys.modules",
+            {"voxcpm": fake_voxcpm},
+        ):
+            loaded_model = meiki_decks.load_tts_model(meiki_decks.TTS_CONFIG["ja-JP"])
+
+        self.assertIs(loaded_model, model)
+        from_pretrained.assert_called_once_with(
+            "openbmb/VoxCPM2",
+            load_denoiser=False,
+            optimize=False,
         )
 
     def test_require_audio_uses_probe_for_nonempty_local_file(self):

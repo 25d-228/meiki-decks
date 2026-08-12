@@ -17,5 +17,14 @@ Committed stage sources use `coverage/<locale>/<stage>.md` and
 `work/audio/<locale>/<stage>/`, and complete language archives are written to
 `dist/`. Audio, archives, models, and caches remain local and ignored.
 
-Real audio generation requires locally installed Qwen3-TTS and FFmpeg tools.
-It does not use cloud keys or download models automatically.
+Japanese audio generation runs on a CUDA server with VoxCPM2 Ultimate Cloning
+and FFmpeg. Install the required server packages with:
+
+```bash
+pip install -U voxcpm soundfile
+```
+
+Place the fixed local reference files at `work/voices/ja-JP/reference.wav` and
+`work/voices/ja-JP/reference.txt`. The generator downloads the configured model
+through the VoxCPM runtime on first use. It does not use cloud keys or a remote
+synthesis service.

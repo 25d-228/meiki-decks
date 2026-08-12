@@ -5,7 +5,7 @@
 - Locale: `ja-JP`
 - Total cards: 9,700
 - Audio/media objects: 9,700
-- SHA-256: `6887569951fd7e7c74d8fab5b3b7f67154e6aae01a6ce3ee8ebaedde6c5f62fa`
+- SHA-256: `32018198e498f16d7a89d4fd380b5238c823fa1527c7c9fb308becc10e69fda8`
 
 | Stage | Cards |
 | --- | ---: |
@@ -18,9 +18,10 @@
 
 The archive was reopened and verified for its stage order, counts, identities,
 relationships, unseen schedules, media inventory, media hashes, and collection
-checksum. Audio uses the fixed
-`mlx-community/Qwen3-TTS-12Hz-0.6B-CustomVoice-8bit` model with the `Ono_Anna`
-voice and `Japanese` language setting.
+checksum. All previous Japanese audio was replaced with 9,700 files generated
+by `openbmb/VoxCPM2` in Ultimate Cloning mode using one fixed female Japanese
+voice reference. The reference WAV SHA-256 is
+`e501fa610d8876e9ee2c487a2f9de74a3b0f20ace3463aef2fd7a2a8525c915e`.
 
 This is the complete initial-install Japanese archive. Generated MP3 and
 `.meiki` binaries are local release artifacts and are not committed.
