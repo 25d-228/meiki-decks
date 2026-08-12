@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 
 import argparse
+import contextlib
 import hashlib
 import json
-import os
 from pathlib import Path
 import re
 import subprocess
 import sys
+import tempfile
 import zipfile
 
 
@@ -65,17 +66,11 @@ SCHEDULER_PARAMETERS = [
     0.1362,
     0.3862,
 ]
-TTS_COMMAND = "mlx_audio.tts.generate"
 TTS_CONFIG = {
     "ja-JP": {
-        "model": "mlx-community/Qwen3-TTS-12Hz-0.6B-CustomVoice-8bit",
-        "voice": "Ono_Anna",
-        "lang_code": "Japanese",
-    },
-    "ko-KR": {
-        "model": "mlx-community/Qwen3-TTS-12Hz-0.6B-CustomVoice-8bit",
-        "voice": "Sohee",
-        "lang_code": "Korean",
+        "model": "openbmb/VoxCPM2",
+        "reference_wav": "work/voices/ja-JP/reference.wav",
+        "reference_text": "work/voices/ja-JP/reference.txt",
     },
 }
 PATH_COMPONENT = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]*$")
@@ -244,6 +239,47 @@ def check_stage(root, language, stage, require_audio=False, probe=probe_audio):
     return cards
 
 
+@contextlib.contextmanager
+def without_repository_import_path():
+    repository_root = Path(__file__).resolve().parent
+    original_import_path = sys.path[:]
+    # VoxCPM loads Numba lazily, and coverage/ would shadow Numba's optional dependency.
+    sys.path[:] = [
+        path
+        for path in sys.path
+        if Path(path or Path.cwd()).resolve() != repository_root
+    ]
+    try:
+        yield
+    finally:
+        sys.path[:] = original_import_path
+
+
+def load_tts_model(configuration):
+    with without_repository_import_path():
+        try:
+            from voxcpm import VoxCPM
+        except ImportError as error:
+            raise DeckError("audio generation requires the voxcpm package") from error
+
+        try:
+            return VoxCPM.from_pretrained(
+                configuration["model"],
+                load_denoiser=False,
+                optimize=False,
+            )
+        except Exception as error:
+            raise DeckError(f"cannot load VoxCPM2 model: {error}") from error
+
+
+def write_waveform(path, waveform, sample_rate):
+    try:
+        import soundfile
+    except ImportError as error:
+        raise DeckError("audio generation requires the soundfile package") from error
+    soundfile.write(path, waveform, sample_rate)
+
+
 def generate_audio(
     root,
     language,
@@ -255,53 +291,105 @@ def generate_audio(
     cards = load_stage_cards(root, language, stage)
     configuration = (TTS_CONFIG if tts_config is None else tts_config).get(language)
     if configuration is None:
-        raise DeckError(f"no local Qwen3-TTS configuration exists for {language}")
-    required_configuration = ("model", "voice", "lang_code")
+        raise DeckError(f"no local VoxCPM2 configuration exists for {language}")
+    required_configuration = ("model", "reference_wav", "reference_text")
     if any(not configuration.get(field) for field in required_configuration):
-        raise DeckError(f"local Qwen3-TTS configuration is incomplete for {language}")
+        raise DeckError(f"local VoxCPM2 configuration is incomplete for {language}")
 
     failures = 0
+    pending_cards = []
     for card in cards:
         audio_path = root / card["audio"]
         try:
             if audio_path.is_file() and audio_path.stat().st_size > 0:
-                validate_audio(audio_path, probe)
-                continue
-            if audio_path.exists() and not audio_path.is_file():
+                try:
+                    validate_audio(audio_path, probe)
+                except DeckError:
+                    pending_cards.append(card)
+                else:
+                    continue
+            elif audio_path.exists() and not audio_path.is_file():
                 raise DeckError(f"{audio_path}: output path is not a file")
-            audio_path.parent.mkdir(parents=True, exist_ok=True)
-            command = [
-                TTS_COMMAND,
-                "--model",
-                configuration["model"],
-                "--text",
-                card["sentence"],
-                "--voice",
-                configuration["voice"],
-                "--lang_code",
-                configuration["lang_code"],
-                "--output_path",
-                str(audio_path.parent),
-                "--file_prefix",
-                audio_path.stem,
-                "--audio_format",
-                "mp3",
-                "--join_audio",
-            ]
-            environment = os.environ.copy()
-            environment["HF_HUB_OFFLINE"] = "1"
-            result = run_command(
-                command,
-                capture_output=True,
-                text=True,
-                check=False,
-                env=environment,
-            )
-            if result.returncode != 0:
-                detail = result.stderr.strip() or "Qwen3-TTS command failed"
-                raise DeckError(detail)
-            validate_audio(audio_path, probe)
+            else:
+                pending_cards.append(card)
         except (DeckError, OSError) as error:
+            failures += 1
+            print(f"failed card {card['id']}: {error}", file=sys.stderr)
+
+    if not pending_cards:
+        return failures
+
+    reference_wav = root / configuration["reference_wav"]
+    reference_text_path = root / configuration["reference_text"]
+    if not reference_wav.is_file():
+        raise DeckError(f"voice reference WAV is missing: {reference_wav}")
+    try:
+        if reference_wav.stat().st_size == 0:
+            raise DeckError(f"voice reference WAV is empty: {reference_wav}")
+    except OSError as error:
+        raise DeckError(f"cannot inspect voice reference WAV {reference_wav}: {error}") from error
+    if not reference_text_path.is_file():
+        raise DeckError(f"voice reference transcript is missing: {reference_text_path}")
+    try:
+        reference_text = reference_text_path.read_text(encoding="utf-8")
+    except OSError as error:
+        raise DeckError(
+            f"cannot read voice reference transcript {reference_text_path}: {error}"
+        ) from error
+    if not reference_text.strip():
+        raise DeckError(f"voice reference transcript is empty: {reference_text_path}")
+
+    model = load_tts_model(configuration)
+    try:
+        sample_rate = model.tts_model.sample_rate
+    except AttributeError as error:
+        raise DeckError("VoxCPM2 model does not expose an output sample rate") from error
+    if not isinstance(sample_rate, int) or sample_rate <= 0:
+        raise DeckError("VoxCPM2 model returned an invalid output sample rate")
+
+    for card in pending_cards:
+        audio_path = root / card["audio"]
+        try:
+            audio_path.parent.mkdir(parents=True, exist_ok=True)
+            with without_repository_import_path():
+                waveform = model.generate(
+                    text=card["sentence"],
+                    prompt_wav_path=str(reference_wav),
+                    prompt_text=reference_text,
+                    reference_wav_path=str(reference_wav),
+                )
+            with tempfile.TemporaryDirectory(
+                prefix=f".{audio_path.stem}-",
+                dir=audio_path.parent,
+            ) as temporary_directory:
+                temporary_directory = Path(temporary_directory)
+                temporary_wave = temporary_directory / f"{audio_path.stem}.wav"
+                temporary_mp3 = temporary_directory / audio_path.name
+                write_waveform(temporary_wave, waveform, sample_rate)
+                result = run_command(
+                    [
+                        "ffmpeg",
+                        "-v",
+                        "error",
+                        "-y",
+                        "-i",
+                        str(temporary_wave),
+                        "-codec:a",
+                        "libmp3lame",
+                        "-q:a",
+                        "2",
+                        str(temporary_mp3),
+                    ],
+                    capture_output=True,
+                    text=True,
+                    check=False,
+                )
+                if result.returncode != 0:
+                    detail = result.stderr.strip() or "FFmpeg conversion failed"
+                    raise DeckError(detail)
+                validate_audio(temporary_mp3, probe)
+                temporary_mp3.replace(audio_path)
+        except Exception as error:
             failures += 1
             print(f"failed card {card['id']}: {error}", file=sys.stderr)
     return failures

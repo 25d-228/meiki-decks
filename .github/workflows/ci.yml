@@ -58,6 +58,7 @@ jobs:
           expected_files = {
               ".github/workflows/ci.yml",
               ".gitignore",
+              "AGENTS.md",
               "LICENSE",
               "README.md",
               "cards/ja-JP/00.json",
