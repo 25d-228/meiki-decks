@@ -485,7 +485,7 @@ class MeikiDecksTests(unittest.TestCase):
 
     def test_korean_build_uses_current_stage_order_and_names(self):
         self.language = "ko-KR"
-        for stage in ("00", "01", "02", "03"):
+        for stage in ("00", "01", "02", "03", "04"):
             self.stage = stage
             card = self.card(f"ko-{stage}-test")
             self.write_stage([card])
@@ -504,12 +504,19 @@ class MeikiDecksTests(unittest.TestCase):
                 ("deck:ko-KR:01", "Korean 01"),
                 ("deck:ko-KR:02", "Korean 02"),
                 ("deck:ko-KR:03", "Korean 03"),
+                ("deck:ko-KR:04", "Korean 04"),
             ],
         )
 
     def test_korean_sources_have_current_bundle_card_counts(self):
         repository_root = Path(__file__).resolve().parents[1]
-        expected_counts = {"00": 300, "01": 1_000, "02": 1_280, "03": 2_000}
+        expected_counts = {
+            "00": 300,
+            "01": 1_000,
+            "02": 1_280,
+            "03": 2_000,
+            "04": 2_400,
+        }
 
         actual_counts = {
             stage: len(
