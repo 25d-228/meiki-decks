@@ -14401,5 +14401,405 @@
     "lemma": "반복 문의가 많은 항목부터 안내 영상을 만들자는 발언을 위험 예방 경고와 구별되는 추천으로 기록하다",
     "meaning": "classification B: recommendation",
     "audio": "work/audio/ko-KR/05/ko-05-1440.mp3"
+  },
+  {
+    "id": "ko-05-1441",
+    "sentence": "신입 직원: 이 초안은 누가 먼저 검토했어요?\n선임 직원: 이 초안은 박소연 팀장님께서 먼저 검토하신 문서예요. 내용 수정은 작성자인 제가 맡아요.",
+    "cloze": "박소연 팀장님께서 먼저 검토하신",
+    "answer": "박소연 팀장님께서 먼저 검토하신",
+    "accepted_answers": [],
+    "lemma": "박소연 팀장을 높여 초안을 먼저 검토한 주체로 말하다",
+    "meaning": "first reviewed by Team Leader Park Soyeon",
+    "audio": "work/audio/ko-KR/05/ko-05-1441.mp3"
+  },
+  {
+    "id": "ko-05-1442",
+    "sentence": "기획팀원: 중간 결과는 누가 팀장님께 설명합니까?\n발표 담당자: 제가 김도윤 팀장님께 보고드리겠습니다. 다른 팀원은 표를 준비합니다.",
+    "cloze": "제가 김도윤 팀장님께 보고드리겠습니다",
+    "answer": "제가 김도윤 팀장님께 보고드리겠습니다",
+    "accepted_answers": [],
+    "lemma": "발표 담당자가 김도윤 팀장에게 중간 결과를 보고드리다",
+    "meaning": "I will report the interim results to Team Leader Kim Doyun",
+    "audio": "work/audio/ko-KR/05/ko-05-1442.mp3"
+  },
+  {
+    "id": "ko-05-1443",
+    "sentence": "연구 조교: 조사 도구 변경 여부는 누구에게 확인합니까?\n수석 조교: 결정 권한은 윤하늘 교수님께 있습니다. 제가 교수님께 여쭤보겠습니다.",
+    "cloze": "제가 교수님께 여쭤보겠습니다",
+    "answer": "제가 교수님께 여쭤보겠습니다",
+    "accepted_answers": [],
+    "lemma": "수석 조교가 조사 도구 변경 여부를 교수에게 여쭤보다",
+    "meaning": "I will ask the professor",
+    "audio": "work/audio/ko-KR/05/ko-05-1443.mp3"
+  },
+  {
+    "id": "ko-05-1444",
+    "sentence": "학술 행사 직원: 발표자께서 도착하시면 누가 발표장으로 안내합니까?\n연구 조교: 제가 최 교수님을 발표장까지 모시겠습니다. 행사 직원은 자료를 나눠 주세요.",
+    "cloze": "제가 최 교수님을 발표장까지 모시겠습니다",
+    "answer": "제가 최 교수님을 발표장까지 모시겠습니다",
+    "accepted_answers": [],
+    "lemma": "연구 조교가 최 교수를 발표장까지 모시다",
+    "meaning": "I will escort Professor Choi to the presentation room",
+    "audio": "work/audio/ko-KR/05/ko-05-1444.mp3"
+  },
+  {
+    "id": "ko-05-1445",
+    "sentence": "행정 조교: 학과 회의에는 누가 참석하십니까?\n교무 직원: 학과장님께서 참석하시고, 연구 조교들은 자료만 제출합니다.",
+    "cloze": "학과장님께서 참석하시고",
+    "answer": "학과장님께서 참석하시고",
+    "accepted_answers": [],
+    "lemma": "학과장을 높여 학과 회의 참석 주체로 말하다",
+    "meaning": "the department chair will attend",
+    "audio": "work/audio/ko-KR/05/ko-05-1445.mp3"
+  },
+  {
+    "id": "ko-05-1446",
+    "sentence": "신임 조교: 내일 방문 교수님을 누가 먼저 뵙습니까?\n행정 조교: 제가 먼저 찾아뵙겠습니다. 그 뒤 회의실로 안내드리겠습니다.",
+    "cloze": "제가 먼저 찾아뵙겠습니다",
+    "answer": "제가 먼저 찾아뵙겠습니다",
+    "accepted_answers": [],
+    "lemma": "행정 조교가 방문 교수를 먼저 찾아뵙다",
+    "meaning": "I will go and meet the visiting professor first",
+    "audio": "work/audio/ko-KR/05/ko-05-1446.mp3"
+  },
+  {
+    "id": "ko-05-1447",
+    "sentence": "민원 신청자: 면담 전에 제가 서명할 곳이 있습니까?\n접수 직원: 신청자께서 이곳에 서명해 주시면 됩니다. 직원 확인란에는 제가 서명합니다.",
+    "cloze": "신청자께서 이곳에 서명해 주시면 됩니다",
+    "answer": "신청자께서 이곳에 서명해 주시면 됩니다",
+    "accepted_answers": [],
+    "lemma": "접수 직원이 신청자를 높여 신청자 서명 위치를 안내하다",
+    "meaning": "the applicant should sign here",
+    "audio": "work/audio/ko-KR/05/ko-05-1447.mp3"
+  },
+  {
+    "id": "ko-05-1448",
+    "sentence": "지원자: 면접 절차는 누가 설명해 주십니까?\n채용 직원: 제가 지원자께 절차를 설명드리겠습니다. 심사 기준은 면접위원장님께서 안내하십니다.",
+    "cloze": "제가 지원자께 절차를 설명드리겠습니다",
+    "answer": "제가 지원자께 절차를 설명드리겠습니다",
+    "accepted_answers": [],
+    "lemma": "채용 직원이 지원자에게 면접 절차를 설명드리다",
+    "meaning": "I will explain the procedure to the applicant",
+    "audio": "work/audio/ko-KR/05/ko-05-1448.mp3"
+  },
+  {
+    "id": "ko-05-1449",
+    "sentence": "팀장: 유진 씨, 오전 회의에서 나온 세 가지 질문을 정리해 주세요. 결정이 필요한 항목은 제가 본부장님께 보고드리겠습니다.",
+    "cloze": "제가 본부장님께 보고드리겠습니다",
+    "answer": "제가 본부장님께 보고드리겠습니다",
+    "accepted_answers": [],
+    "lemma": "팀장이 결정이 필요한 항목을 본부장에게 보고드리다",
+    "meaning": "I will report the items requiring a decision to the division head",
+    "audio": "work/audio/ko-KR/05/ko-05-1449.mp3"
+  },
+  {
+    "id": "ko-05-1450",
+    "sentence": "팀원: 고객 설명회 자료는 누가 수정할까요?\n팀장: 서연 씨, 초안을 고쳐 주세요. 저는 수정된 내용을 부서장님께 확인받겠습니다.",
+    "cloze": "서연 씨, 초안을 고쳐 주세요",
+    "answer": "서연 씨, 초안을 고쳐 주세요",
+    "accepted_answers": [],
+    "lemma": "팀장이 팀원 서연에게 고객 설명회 초안 수정을 요청하다",
+    "meaning": "Seoyeon, please revise the draft",
+    "audio": "work/audio/ko-KR/05/ko-05-1450.mp3"
+  },
+  {
+    "id": "ko-05-1451",
+    "sentence": "팀원: 일정 변경은 누가 승인했습니까?\n선임 직원: 정우진 본부장님께서 승인하셨습니다. 실무 적용은 운영팀이 맡습니다.",
+    "cloze": "정우진 본부장님께서 승인하셨습니다",
+    "answer": "정우진 본부장님께서 승인하셨습니다",
+    "accepted_answers": [],
+    "lemma": "정우진 본부장을 높여 일정 변경 승인자로 밝히다",
+    "meaning": "Division Head Jeong Ujin approved it",
+    "audio": "work/audio/ko-KR/05/ko-05-1451.mp3"
+  },
+  {
+    "id": "ko-05-1452",
+    "sentence": "교수: 다음 수업의 참고 문헌 목록이 아직 비어 있네요.\n연구 조교: 오늘 오후까지 제가 정리해 드리겠습니다. 교수님께서는 최종 목록만 확인해 주시면 됩니다.",
+    "cloze": "오늘 오후까지 제가 정리해 드리겠습니다",
+    "answer": "오늘 오후까지 제가 정리해 드리겠습니다",
+    "accepted_answers": [],
+    "lemma": "연구 조교가 교수를 위해 참고 문헌 목록을 정리해 드리다",
+    "meaning": "I will organize it for you by this afternoon",
+    "audio": "work/audio/ko-KR/05/ko-05-1452.mp3"
+  },
+  {
+    "id": "ko-05-1453",
+    "sentence": "연구 조교: 입학 설명회 질문은 누가 받습니까?\n담당 교수: 한 조교님, 질문을 모아 주세요. 답변이 필요한 연구 내용은 제가 설명하겠습니다.",
+    "cloze": "한 조교님, 질문을 모아 주세요",
+    "answer": "한 조교님, 질문을 모아 주세요",
+    "accepted_answers": [],
+    "lemma": "담당 교수가 한 조교에게 입학 설명회 질문 수합을 요청하다",
+    "meaning": "Assistant Han, please collect the questions",
+    "audio": "work/audio/ko-KR/05/ko-05-1453.mp3"
+  },
+  {
+    "id": "ko-05-1454",
+    "sentence": "접수 직원: 이민지 지원자님께서는 순서가 되면 면접실로 들어가 주십시오. 서류는 제가 면접위원께 전달하겠습니다.",
+    "cloze": "면접실로 들어가 주십시오",
+    "answer": "면접실로 들어가 주십시오",
+    "accepted_answers": [],
+    "lemma": "접수 직원이 이민지 지원자에게 순서에 맞춰 면접실로 들어가도록 안내하다",
+    "meaning": "please enter the interview room",
+    "audio": "work/audio/ko-KR/05/ko-05-1454.mp3"
+  },
+  {
+    "id": "ko-05-1455",
+    "sentence": "안내 직원: 서류 원본은 접수 창구의 박지수 주무관에게 보여 주시면 됩니다.\n지원자: 제가 박지수 주무관께 보여 드리겠습니다. 사본은 이곳에 내겠습니다.",
+    "cloze": "제가 박지수 주무관께 보여 드리겠습니다",
+    "answer": "제가 박지수 주무관께 보여 드리겠습니다",
+    "accepted_answers": [],
+    "lemma": "지원자가 박지수 주무관에게 서류 원본을 보여 드리다",
+    "meaning": "I will show the original to Officer Park Jisu",
+    "audio": "work/audio/ko-KR/05/ko-05-1455.mp3"
+  },
+  {
+    "id": "ko-05-1456",
+    "sentence": "발표 담당자: 부장님, 내일 협력사 회의에서 예산 기준을 직접 설명해 주시겠습니까? 저는 자료 화면을 띄우겠습니다.",
+    "cloze": "예산 기준을 직접 설명해 주시겠습니까",
+    "answer": "예산 기준을 직접 설명해 주시겠습니까",
+    "accepted_answers": [],
+    "lemma": "발표 담당자가 부장에게 협력사 회의의 예산 기준 설명을 요청하다",
+    "meaning": "would you explain the budget criteria yourself",
+    "audio": "work/audio/ko-KR/05/ko-05-1456.mp3"
+  },
+  {
+    "id": "ko-05-1457",
+    "sentence": "팀장: 이 대리님, 오늘 회의록을 작성해 주시겠습니까? 참석자 확인은 제가 하겠습니다.",
+    "cloze": "오늘 회의록을 작성해 주시겠습니까",
+    "answer": "오늘 회의록을 작성해 주시겠습니까",
+    "accepted_answers": [],
+    "lemma": "팀장이 이 대리에게 당일 회의록 작성을 정중히 요청하다",
+    "meaning": "would you write today's meeting minutes",
+    "audio": "work/audio/ko-KR/05/ko-05-1457.mp3"
+  },
+  {
+    "id": "ko-05-1458",
+    "sentence": "진행자: 지금부터 운영 계획을 누가 발표합니까?\n기획팀원: 오세훈 본부장님께서 발표하십니다. 저는 질의응답 시간을 안내하겠습니다.",
+    "cloze": "오세훈 본부장님께서 발표하십니다",
+    "answer": "오세훈 본부장님께서 발표하십니다",
+    "accepted_answers": [],
+    "lemma": "오세훈 본부장을 높여 운영 계획 발표자로 소개하다",
+    "meaning": "Division Head Oh Sehun will give the presentation",
+    "audio": "work/audio/ko-KR/05/ko-05-1458.mp3"
+  },
+  {
+    "id": "ko-05-1459",
+    "sentence": "부서장: 방문단을 안내할 담당자는 누구입니까?\n신입 직원: 방문단은 제가 안내하겠습니다. 김 주임님은 회의 자료를 준비하십니다.",
+    "cloze": "방문단은 제가 안내하겠습니다",
+    "answer": "방문단은 제가 안내하겠습니다",
+    "accepted_answers": [],
+    "lemma": "신입 직원이 자신을 높이지 않고 방문단 안내를 맡겠다고 답하다",
+    "meaning": "I will guide the visiting delegation",
+    "audio": "work/audio/ko-KR/05/ko-05-1459.mp3"
+  },
+  {
+    "id": "ko-05-1460",
+    "sentence": "사업팀원: 보고서 원본은 누가 본부장님께 전달합니까?\n팀장: 제가 직접 전해 드리겠습니다. 팀원들은 사본을 보관해 주세요.",
+    "cloze": "제가 직접 전해 드리겠습니다",
+    "answer": "제가 직접 전해 드리겠습니다",
+    "accepted_answers": [],
+    "lemma": "팀장이 보고서 원본을 본부장에게 직접 전해 드리다",
+    "meaning": "I will deliver it to the division head myself",
+    "audio": "work/audio/ko-KR/05/ko-05-1460.mp3"
+  },
+  {
+    "id": "ko-05-1461",
+    "sentence": "연구 조교: 교수님, 참여자 면담 결과를 먼저 말씀드리겠습니다. 학생 안내 일정은 행정실과 따로 정했습니다.",
+    "cloze": "참여자 면담 결과를 먼저 말씀드리겠습니다",
+    "answer": "참여자 면담 결과를 먼저 말씀드리겠습니다",
+    "accepted_answers": [],
+    "lemma": "연구 조교가 교수에게 참여자 면담 결과를 먼저 말씀드리다",
+    "meaning": "I will first report the participant interview results",
+    "audio": "work/audio/ko-KR/05/ko-05-1461.mp3"
+  },
+  {
+    "id": "ko-05-1462",
+    "sentence": "담당 교수: 새 수강생들에게 조사 절차를 설명했습니까?\n연구 조교: 네, 학생들에게 절차를 설명했습니다. 교수님께는 질문 목록을 따로 보고드리겠습니다.",
+    "cloze": "학생들에게 절차를 설명했습니다",
+    "answer": "학생들에게 절차를 설명했습니다",
+    "accepted_answers": [],
+    "lemma": "연구 조교가 새 수강생들에게 조사 절차를 설명하다",
+    "meaning": "I explained the procedure to the students",
+    "audio": "work/audio/ko-KR/05/ko-05-1462.mp3"
+  },
+  {
+    "id": "ko-05-1463",
+    "sentence": "채용 직원: 윤서진 지원자님께서는 신분증을 제시해 주십시오. 원본 확인 뒤에는 제가 바로 돌려드리겠습니다.",
+    "cloze": "신분증을 제시해 주십시오",
+    "answer": "신분증을 제시해 주십시오",
+    "accepted_answers": [],
+    "lemma": "채용 직원이 윤서진 지원자에게 신분증 제시를 정중히 요청하다",
+    "meaning": "please present your identification",
+    "audio": "work/audio/ko-KR/05/ko-05-1463.mp3"
+  },
+  {
+    "id": "ko-05-1464",
+    "sentence": "지원자: 요청하신 경력 증명서는 접수 담당자께 제출하겠습니다. 추가 서류가 필요한지 확인해 주시겠습니까?",
+    "cloze": "접수 담당자께 제출하겠습니다",
+    "answer": "접수 담당자께 제출하겠습니다",
+    "accepted_answers": [],
+    "lemma": "지원자가 경력 증명서를 접수 담당자에게 제출하다",
+    "meaning": "I will submit it to the intake officer",
+    "audio": "work/audio/ko-KR/05/ko-05-1464.mp3"
+  },
+  {
+    "id": "ko-05-1465",
+    "sentence": "실무자: 평가표를 모으면 제가 최종 후보를 정해도 됩니까?\n팀장: 아니요. 평가표 정리는 실무자가 하지만 최종 판단은 인사위원장님께서 내리십니다.",
+    "cloze": "최종 판단은 인사위원장님께서 내리십니다",
+    "answer": "최종 판단은 인사위원장님께서 내리십니다",
+    "accepted_answers": [],
+    "lemma": "인사위원장을 최종 후보 판단 권한자로 밝히다",
+    "meaning": "the personnel committee chair makes the final decision",
+    "audio": "work/audio/ko-KR/05/ko-05-1465.mp3"
+  },
+  {
+    "id": "ko-05-1466",
+    "sentence": "팀장: 초안의 수치 두 곳만 고쳐서 다시 올려 주세요.\n팀원: 네, 제가 수정해 올리겠습니다. 수정본을 보신 뒤 승인 여부를 결정해 주시겠습니까?",
+    "cloze": "제가 수정해 올리겠습니다",
+    "answer": "제가 수정해 올리겠습니다",
+    "accepted_answers": [],
+    "lemma": "팀원이 팀장에게 초안 수정을 마쳐 다시 올리겠다고 답하다",
+    "meaning": "I will revise it and send it back up",
+    "audio": "work/audio/ko-KR/05/ko-05-1466.mp3"
+  },
+  {
+    "id": "ko-05-1467",
+    "sentence": "지원자: 면접 결과는 창구 직원이 정합니까?\n접수 직원: 아닙니다. 심사위원장님께서 결과를 확정하십니다. 저희는 확정된 결과를 안내합니다.",
+    "cloze": "심사위원장님께서 결과를 확정하십니다",
+    "answer": "심사위원장님께서 결과를 확정하십니다",
+    "accepted_answers": [],
+    "lemma": "심사위원장을 면접 결과 확정 권한자로 밝히다",
+    "meaning": "the interview committee chair finalizes the result",
+    "audio": "work/audio/ko-KR/05/ko-05-1467.mp3"
+  },
+  {
+    "id": "ko-05-1468",
+    "sentence": "지원자: 서류가 부족했는데 김하나 주무관님께서 보완 방법을 자세히 안내해 주셨습니다. 저는 오늘 수정본을 다시 냈습니다.",
+    "cloze": "보완 방법을 자세히 안내해 주셨습니다",
+    "answer": "보완 방법을 자세히 안내해 주셨습니다",
+    "accepted_answers": [],
+    "lemma": "지원자가 김하나 주무관의 보완 방법 안내를 높여 말하다",
+    "meaning": "Officer Kim kindly explained in detail how to supplement the documents",
+    "audio": "work/audio/ko-KR/05/ko-05-1468.mp3"
+  },
+  {
+    "id": "ko-05-1469",
+    "sentence": "담당 교수: ‘제가 오후에 결과를 보고드리겠습니다.’라고 한 사람은 누구입니까?\n연구원: 교수님께 결과를 보고하는 연구 조교입니다.",
+    "cloze": "결과를 보고하는 연구 조교입니다",
+    "answer": "결과를 보고하는 연구 조교입니다",
+    "accepted_answers": [],
+    "lemma": "보고드리겠다는 발언의 행동 주체를 연구 조교로 해석하다",
+    "meaning": "it is the research assistant who reports the results",
+    "audio": "work/audio/ko-KR/05/ko-05-1469.mp3"
+  },
+  {
+    "id": "ko-05-1470",
+    "sentence": "행정 직원: 회의 안내에 ‘학과장님께서 개회 말씀을 하십니다.’라고 적혀 있습니다. 개회 말씀을 하는 사람은 지원 조교입니까?\n연구 조교: 아니요. 개회 말씀을 하는 분은 학과장님입니다.",
+    "cloze": "개회 말씀을 하는 분은 학과장님입니다",
+    "answer": "개회 말씀을 하는 분은 학과장님입니다",
+    "accepted_answers": [],
+    "lemma": "높임 표현의 주체를 개회 말씀을 하는 학과장으로 해석하다",
+    "meaning": "the person giving the opening remarks is the department chair",
+    "audio": "work/audio/ko-KR/05/ko-05-1470.mp3"
+  },
+  {
+    "id": "ko-05-1471",
+    "sentence": "팀원: ‘자료를 본부장님께 보내 드렸습니다.’에서 자료를 받는 사람은 누구예요?\n선임 직원: 자료를 받으시는 분은 본부장님이에요. 보낸 사람은 팀원이에요.",
+    "cloze": "자료를 받으시는 분은 본부장님이에요",
+    "answer": "자료를 받으시는 분은 본부장님이에요",
+    "accepted_answers": [],
+    "lemma": "보내 드렸다는 표현의 수령자를 본부장으로 해석하다",
+    "meaning": "the division head is the person receiving it",
+    "audio": "work/audio/ko-KR/05/ko-05-1471.mp3"
+  },
+  {
+    "id": "ko-05-1472",
+    "sentence": "지원자: 직원이 ‘면접실까지 안내해 드리겠습니다.’라고 했습니다. 누가 안내하는 겁니까?\n동료 지원자: 안내하는 사람은 직원이에요. 지원자는 안내를 받습니다.",
+    "cloze": "안내하는 사람은 직원이에요",
+    "answer": "안내하는 사람은 직원이에요",
+    "accepted_answers": [],
+    "lemma": "안내해 드리겠다는 말에서 직원을 행동 주체로 해석하다",
+    "meaning": "the staff member is the one providing the guidance",
+    "audio": "work/audio/ko-KR/05/ko-05-1472.mp3"
+  },
+  {
+    "id": "ko-05-1473",
+    "sentence": "신입 조교: ‘제가 교수님을 찾아뵙겠습니다.’라는 말은 교수님이 조교를 만나러 온다는 뜻입니까?\n선임 조교: 아닙니다. 조교가 교수님을 찾아가는 뜻입니다.",
+    "cloze": "조교가 교수님을 찾아가는 뜻입니다",
+    "answer": "조교가 교수님을 찾아가는 뜻입니다",
+    "accepted_answers": [],
+    "lemma": "찾아뵙겠다는 표현의 행동 주체를 조교로 해석하다",
+    "meaning": "it means the assistant goes to see the professor",
+    "audio": "work/audio/ko-KR/05/ko-05-1473.mp3"
+  },
+  {
+    "id": "ko-05-1474",
+    "sentence": "회의 기록: 김 주임이 시범 운영을 맡고 박 팀장님께 진행 상황을 보고합니다.\n검토자: 실제 운영자는 누구이고 보고를 받는 사람은 누구입니까?\n작성자: 실행하는 사람은 김 주임입니다. 박 팀장님께서 보고를 받으십니다.",
+    "cloze": "실행하는 사람은 김 주임입니다",
+    "answer": "실행하는 사람은 김 주임입니다",
+    "accepted_answers": [],
+    "lemma": "실행 책임자와 보고 수령자 중 김 주임을 실행 책임자로 해석하다",
+    "meaning": "Kim is the person carrying out the work",
+    "audio": "work/audio/ko-KR/05/ko-05-1474.mp3"
+  },
+  {
+    "id": "ko-05-1475",
+    "sentence": "[회의록 역할 표기]\n안건: 홍보 일정 조정\n의장: 박지윤 본부장\n기록: 이현수 사원\n결정: 박지윤 본부장이 승인 여부를 결정함",
+    "cloze": "의장: 박지윤 본부장",
+    "answer": "의장: 박지윤 본부장",
+    "accepted_answers": [],
+    "lemma": "회의록에서 박지윤의 이름 뒤에 본부장 직함을 띄어 쓰다",
+    "meaning": "chair: Park Jiyun, division head",
+    "audio": "work/audio/ko-KR/05/ko-05-1475.mp3"
+  },
+  {
+    "id": "ko-05-1476",
+    "sentence": "[연구 면담 일정]\n담당 교수: 한민석 교수\n진행 조교: 오지현 연구 조교\n행동: 오지현 연구 조교가 참여자에게 절차를 설명함",
+    "cloze": "담당 교수: 한민석 교수",
+    "answer": "담당 교수: 한민석 교수",
+    "accepted_answers": [],
+    "lemma": "연구 면담 일정에서 한민석의 교수 역할을 바르게 표기하다",
+    "meaning": "professor in charge: Han Minseok",
+    "audio": "work/audio/ko-KR/05/ko-05-1476.mp3"
+  },
+  {
+    "id": "ko-05-1477",
+    "sentence": "[채용 문의 안내]\n문의: 채용지원팀 송예린 주무관\n대상: 면접 일정 문의자\n응답: 송예린 주무관이 지원자에게 면접 시간을 안내함",
+    "cloze": "문의: 채용지원팀 송예린 주무관",
+    "answer": "문의: 채용지원팀 송예린 주무관",
+    "accepted_answers": [],
+    "lemma": "채용 문의 안내에서 부서명과 송예린 주무관의 직함을 바르게 표기하다",
+    "meaning": "inquiries: Officer Song Yerin, Recruitment Support Team",
+    "audio": "work/audio/ko-KR/05/ko-05-1477.mp3"
+  },
+  {
+    "id": "ko-05-1478",
+    "sentence": "[공문 수신란]\n수신: 새빛연구원 원장 귀하\n제목: 면담실 이용 협조 요청\n발신: 한강대학교 연구지원팀",
+    "cloze": "수신: 새빛연구원 원장 귀하",
+    "answer": "수신: 새빛연구원 원장 귀하",
+    "accepted_answers": [],
+    "lemma": "공문 수신란에 새빛연구원 원장과 높임말 귀하를 표기하다",
+    "meaning": "recipient: Director of Saebit Research Institute",
+    "audio": "work/audio/ko-KR/05/ko-05-1478.mp3"
+  },
+  {
+    "id": "ko-05-1479",
+    "sentence": "[세미나 진행표]\n발표: 이선우 교수\n질문 정리: 장유진 연구 조교\n안내: 진행 조교가 질문을 모은 뒤 이선우 교수가 답함",
+    "cloze": "발표: 이선우 교수",
+    "answer": "발표: 이선우 교수",
+    "accepted_answers": [],
+    "lemma": "세미나 진행표에서 이선우의 발표자 직함을 교수로 표기하다",
+    "meaning": "presentation: Professor Lee Seonu",
+    "audio": "work/audio/ko-KR/05/ko-05-1479.mp3"
+  },
+  {
+    "id": "ko-05-1480",
+    "sentence": "[상급자 보고 메일 문장 점검]\n작성자: 기획팀원\n수신자: 부서장\n문장: 수정안을 검토해주시기 바랍니다.\n바른 문장: 수정안을 검토해 주시기 바랍니다.",
+    "cloze": "수정안을 검토해 주시기 바랍니다",
+    "answer": "수정안을 검토해 주시기 바랍니다",
+    "accepted_answers": [],
+    "lemma": "상급자 보고 메일에서 보조 용언을 띄어 수정안을 검토해 주시기 바란다고 쓰다",
+    "meaning": "please review the revision",
+    "audio": "work/audio/ko-KR/05/ko-05-1480.mp3"
   }
 ]
