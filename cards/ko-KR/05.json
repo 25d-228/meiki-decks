@@ -12401,5 +12401,405 @@
     "lemma": "회의 범위 밖의 개별 상담 요청을 격식 있는 질의응답에서 거절하고 접수 창구와 담당자만 안내하다",
     "meaning": "we will not take individual consultation requests during today's meeting",
     "audio": "work/audio/ko-KR/05/ko-05-1240.mp3"
+  },
+  {
+    "id": "ko-05-1241",
+    "sentence": "기획 담당자: 다음 달 전시 공간 임차안을 승인해 주시겠습니까?\n부서장: 재무팀의 최신 잔액표를 아직 받지 못했습니다. 잔액표는 내일 오전에 받기로 했으니 확인을 마친 뒤 오후 세 시에 승인 여부를 확정하겠습니다. 지금 거절하는 것은 아니니 계약 조건은 그대로 유지해 주십시오.",
+    "cloze": "오후 세 시에 승인 여부를 확정하겠습니다",
+    "answer": "오후 세 시에 승인 여부를 확정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "최신 잔액표를 확인한 뒤 다음 날 오후 세 시에 전시 공간 임차안의 승인 여부를 확정하다",
+    "meaning": "I will finalize whether to approve it at three in the afternoon",
+    "audio": "work/audio/ko-KR/05/ko-05-1241.mp3"
+  },
+  {
+    "id": "ko-05-1242",
+    "sentence": "연구원: 현장 센서 스무 개를 이번 주에 주문해도 될까요?\n연구 책임자: 시제품 두 개의 내구성 시험 결과가 아직 나오지 않았어요. 시험이 끝나는 금요일 오후에 주문 승인 여부를 결정할게요. 결과를 보기 전까지는 구매 요청을 반려하지 않고 보류해 둘게요.",
+    "cloze": "금요일 오후에 주문 승인 여부를 결정할게요",
+    "answer": "금요일 오후에 주문 승인 여부를 결정할게요",
+    "accepted_answers": [],
+    "lemma": "시제품 내구성 시험이 끝나는 금요일 오후에 현장 센서 주문 승인 여부를 결정하다",
+    "meaning": "I will decide on Friday afternoon whether to approve the order",
+    "audio": "work/audio/ko-KR/05/ko-05-1242.mp3"
+  },
+  {
+    "id": "ko-05-1243",
+    "sentence": "일정 담당자: 자료 이전 사업의 착수일을 오늘 공지할 수 있습니까?\n프로젝트 책임자: 협력사의 인력 배치표가 아직 오지 않았습니다. 배치표는 금요일까지 받기로 했으니 착수일은 월요일 계획 회의에서 정하겠습니다. 오늘은 일정 요청을 거절하는 것이 아니라 결정을 미루는 것입니다.",
+    "cloze": "착수일은 월요일 계획 회의에서 정하겠습니다",
+    "answer": "착수일은 월요일 계획 회의에서 정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "협력사의 인력 배치표를 받은 뒤 월요일 계획 회의에서 자료 이전 사업 착수일을 정하다",
+    "meaning": "we will set the start date at Monday's planning meeting",
+    "audio": "work/audio/ko-KR/05/ko-05-1243.mp3"
+  },
+  {
+    "id": "ko-05-1244",
+    "sentence": "상담 담당자: 야간 상담을 다른 지점에도 바로 확대할까요?\n서비스 운영팀장: 현재는 한 지점의 사흘 기록만 있어서 수요를 판단하기 어렵습니다. 두 주치 이용 기록은 다음 주 금요일에 모입니다. 확대 여부는 그날 운영 회의에서 판단하겠습니다. 그전까지는 현재 지점의 운영을 유지해 주세요.",
+    "cloze": "그날 운영 회의에서 판단하겠습니다",
+    "answer": "그날 운영 회의에서 판단하겠습니다",
+    "accepted_answers": [],
+    "lemma": "두 주치 야간 상담 이용 기록이 모이는 다음 주 금요일 운영 회의에서 다른 지점 확대 여부를 판단하다",
+    "meaning": "we will decide whether to expand at that day's operations meeting",
+    "audio": "work/audio/ko-KR/05/ko-05-1244.mp3"
+  },
+  {
+    "id": "ko-05-1245",
+    "sentence": "강좌 운영자: 신청자가 많으면 저녁 강좌를 하나 더 열어도 될까요?\n학과장: 아직 신청 기간이 사흘 남아 최종 인원을 알 수 없어요. 신청이 수요일 정오에 마감되면 추가 개설 여부는 오후 세 시에 알려 드릴게요. 그때까지는 강사에게 가능한 시간만 확인해 주세요.",
+    "cloze": "오후 세 시에 알려 드릴게요",
+    "answer": "오후 세 시에 알려 드릴게요",
+    "accepted_answers": [],
+    "lemma": "수강 신청이 마감되는 수요일 오후 세 시에 저녁 강좌 추가 개설 여부를 알리다",
+    "meaning": "I will let you know at three in the afternoon whether we will open an additional class",
+    "audio": "work/audio/ko-KR/05/ko-05-1245.mp3"
+  },
+  {
+    "id": "ko-05-1246",
+    "sentence": "연구 지원 담당자: 외부 연구원에게 분석 서버 접속을 허용해 주시겠습니까?\n정보 관리 책임자: 보안 점검표에서 외부 저장 장치 항목이 아직 확인되지 않았습니다. 목요일 보안 검토에서 점검표를 확인하겠습니다. 접속 승인 여부는 그 검토에서 결정하겠습니다. 점검표가 완성될 때까지 계정 신청은 열린 상태로 두겠습니다.",
+    "cloze": "그 검토에서 결정하겠습니다",
+    "answer": "그 검토에서 결정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "보안 점검표를 완성한 뒤 목요일 검토에서 외부 연구원의 서버 접속 승인 여부를 결정하다",
+    "meaning": "we will decide whether to approve access at Thursday's security review",
+    "audio": "work/audio/ko-KR/05/ko-05-1246.mp3"
+  },
+  {
+    "id": "ko-05-1247",
+    "sentence": "촬영 담당자: 고장 난 녹음기 대신 새 장비를 구매해도 될까요?\n미디어팀장: 수리 업체에서 화요일 오전까지 견적을 보내기로 했어요. 수리비와 교체비를 비교한 뒤 장비 구매 여부는 화요일 오후에 결정할게요. 새 장비를 사지 않겠다는 뜻은 아니에요.",
+    "cloze": "장비 구매 여부는 화요일 오후에 결정할게요",
+    "answer": "장비 구매 여부는 화요일 오후에 결정할게요",
+    "accepted_answers": [],
+    "lemma": "화요일에 수리비와 교체비를 비교한 뒤 새 녹음기 구매 여부를 결정하다",
+    "meaning": "I will decide on Tuesday afternoon whether to purchase the equipment",
+    "audio": "work/audio/ko-KR/05/ko-05-1247.mp3"
+  },
+  {
+    "id": "ko-05-1248",
+    "sentence": "주민 프로그램 담당자: 여름 강좌를 새 체육관에서 진행한다고 안내할까요?\n센터장: 아직 체육관의 안전 점검 결과와 수용 가능 인원을 받지 못했습니다. 장소는 월요일 현장 점검 뒤에 확정하겠습니다. 지금은 기존 강의실 예약도 취소하지 마세요.",
+    "cloze": "월요일 현장 점검 뒤에 확정하겠습니다",
+    "answer": "월요일 현장 점검 뒤에 확정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "체육관의 안전 점검 결과와 수용 가능 인원을 확인한 뒤 월요일에 여름 강좌 장소를 확정하다",
+    "meaning": "we will confirm the venue after Monday's site inspection",
+    "audio": "work/audio/ko-KR/05/ko-05-1248.mp3"
+  },
+  {
+    "id": "ko-05-1249",
+    "sentence": "환경 사업 담당자: 시장에 재활용 수거함 열두 개를 주문해도 됩니까?\n시설 운영 책임자: 네 구역의 배출량 측정값이 아직 빠져 있습니다. 주문 수량은 금요일 현장 조사 뒤에 정하겠습니다. 요청을 취소한 것은 아니니 설치 후보지는 남겨 두십시오.",
+    "cloze": "금요일 현장 조사 뒤에 정하겠습니다",
+    "answer": "금요일 현장 조사 뒤에 정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "네 구역의 배출량 측정값을 보완하는 금요일 현장 조사 뒤에 재활용 수거함 주문 수량을 정하다",
+    "meaning": "we will set the order quantity after Friday's field survey",
+    "audio": "work/audio/ko-KR/05/ko-05-1249.mp3"
+  },
+  {
+    "id": "ko-05-1250",
+    "sentence": "정보화 담당자: 공공 무선망 확대 계획을 다음 주 안건으로 올려도 될까요?\n사업 본부장: 유지 보수 업체의 인력 운영안이 아직 제출되지 않았습니다. 운영안은 월요일까지 받기로 했습니다. 화요일에 사업 회의를 열겠습니다. 상정 여부는 그 회의에서 결론 내리겠습니다. 그전에는 계획을 철회하지 말고 비용표만 보완해 주세요.",
+    "cloze": "상정 여부는 그 회의에서 결론 내리겠습니다",
+    "answer": "상정 여부는 그 회의에서 결론 내리겠습니다",
+    "accepted_answers": [],
+    "lemma": "유지 보수 인력 운영안을 받은 뒤 화요일 사업 회의에서 공공 무선망 확대 계획의 상정 여부를 결론 내리다",
+    "meaning": "we will reach a decision at Tuesday's business meeting about placing the plan on the agenda",
+    "audio": "work/audio/ko-KR/05/ko-05-1250.mp3"
+  },
+  {
+    "id": "ko-05-1251",
+    "sentence": "프로젝트 조정자: 자료 정리를 위한 이번 주 초과 근무 승인안을 결재해 주시겠습니까?\n사업부장: 남은 작업량을 보여 주는 표가 아직 없습니다. 목요일 네 시 검토 회의까지 결재를 보류하겠습니다. 작업량 표를 받으면 그 회의에서 필요한 초과 근무 시간을 승인하겠습니다.",
+    "cloze": "검토 회의까지 결재를 보류하겠습니다",
+    "answer": "검토 회의까지 결재를 보류하겠습니다",
+    "accepted_answers": [],
+    "lemma": "남은 작업량 표를 기다리며 목요일 네 시 검토 회의까지 초과 근무 승인안 결재를 보류하다",
+    "meaning": "I will hold the approval until the review meeting at four on Thursday",
+    "audio": "work/audio/ko-KR/05/ko-05-1251.mp3"
+  },
+  {
+    "id": "ko-05-1252",
+    "sentence": "구매 담당자: 안내표를 인쇄할 기기를 어느 업체에서 살지 정해 주시겠습니까?\n행정실장: 세 업체 중 한 곳의 보증 기간과 수리 조건이 아직 오지 않았습니다. 마지막 회신은 화요일 오전까지 받기로 했습니다. 그날 오후에 구매 회의를 열겠습니다. 최종 업체는 그 회의에서 고르겠습니다.",
+    "cloze": "최종 업체는 그 회의에서 고르겠습니다",
+    "answer": "최종 업체는 그 회의에서 고르겠습니다",
+    "accepted_answers": [],
+    "lemma": "세 업체의 보증 조건을 모두 받은 뒤 화요일 오후 구매 회의에서 안내표 인쇄 기기의 최종 구매 업체를 고르다",
+    "meaning": "I will choose the final supplier at that afternoon's purchasing meeting",
+    "audio": "work/audio/ko-KR/05/ko-05-1252.mp3"
+  },
+  {
+    "id": "ko-05-1253",
+    "sentence": "담당 강사: 시범 수업을 다음 학기 정규 과정에 넣어 주실 수 있습니까?\n교육과정 책임자: 아직 마지막 두 차례 수업의 출석 기록이 입력되지 않았습니다. 금요일에 전체 출석률을 확인하고 오후에 교육과정 회의를 열겠습니다. 정규 편성 여부는 그 회의에서 말씀드리겠습니다. 이번 답변은 개설을 거절한다는 뜻이 아닙니다.",
+    "cloze": "그 회의에서 말씀드리겠습니다",
+    "answer": "그 회의에서 말씀드리겠습니다",
+    "accepted_answers": [],
+    "lemma": "금요일에 시범 수업의 전체 출석률을 확인한 뒤 오후 교육과정 회의에서 정규 과정 편성 여부를 알리다",
+    "meaning": "I will let you know at Friday afternoon's meeting whether it will be added to the regular curriculum",
+    "audio": "work/audio/ko-KR/05/ko-05-1253.mp3"
+  },
+  {
+    "id": "ko-05-1254",
+    "sentence": "도서관 운영자: 시험 기간에 자료실 운영 시간을 두 시간 연장해도 될까요?\n도서관장: 시간대별 이용자 수 분석이 아직 끝나지 않았어요. 분석은 다음 주 수요일 오전에 끝나요. 연장 시간은 다음 주 수요일에 확정할게요. 현재 폐관 시간은 그때까지 유지해 주세요.",
+    "cloze": "연장 시간은 다음 주 수요일에 확정할게요",
+    "answer": "연장 시간은 다음 주 수요일에 확정할게요",
+    "accepted_answers": [],
+    "lemma": "시간대별 이용자 수 분석이 끝나는 다음 주 수요일에 자료실 연장 시간을 확정하다",
+    "meaning": "I will confirm the extended hours next Wednesday",
+    "audio": "work/audio/ko-KR/05/ko-05-1254.mp3"
+  },
+  {
+    "id": "ko-05-1255",
+    "sentence": "계약 담당자: 이동 상담 차량의 정비 계약을 오늘 승인해 주시겠습니까?\n운영 부서장: 차량별 현장 점검표가 한 대분 빠져 있습니다. 누락된 점검표는 월요일 오전에 제출받고 오후에 결재 회의를 열겠습니다. 계약 승인은 그 회의까지 미루겠습니다.",
+    "cloze": "계약 승인은 그 회의까지 미루겠습니다",
+    "answer": "계약 승인은 그 회의까지 미루겠습니다",
+    "accepted_answers": [],
+    "lemma": "누락된 차량 현장 점검표를 받을 때까지 이동 상담 차량의 정비 계약 승인을 월요일 오후 결재 회의로 미루다",
+    "meaning": "I will delay approving the contract until Monday afternoon's approval meeting",
+    "audio": "work/audio/ko-KR/05/ko-05-1255.mp3"
+  },
+  {
+    "id": "ko-05-1256",
+    "sentence": "팀 운영자: 다음 달 업무를 위해 지원 인력 두 명을 늘려 주시겠습니까?\n운영팀장: 업무별 예상 시간이 아직 계산되지 않았습니다. 증원 결정은 금요일 인력 회의까지 유보하겠습니다. 필요 인원이 산정되면 그 회의에서 두 명이 모두 필요한지 답하겠습니다.",
+    "cloze": "금요일 인력 회의까지 유보하겠습니다",
+    "answer": "금요일 인력 회의까지 유보하겠습니다",
+    "accepted_answers": [],
+    "lemma": "업무별 예상 시간으로 필요 인원을 산정하는 금요일 인력 회의까지 지원 인력 증원 결정을 유보하다",
+    "meaning": "I will defer the staffing increase decision until Friday's staffing meeting",
+    "audio": "work/audio/ko-KR/05/ko-05-1256.mp3"
+  },
+  {
+    "id": "ko-05-1257",
+    "sentence": "판매 담당자: 휴대용 전원 장치를 지난달과 같은 수량으로 다시 주문할까요?\n상품 책임자: 지난달 반품 사유가 아직 기종별로 구분되지 않았어요. 월요일에 반품 기록을 대조하겠습니다. 재주문 수량은 월요일에 정할게요. 그전에는 공급업체에 잠정 수량도 알리지 마세요.",
+    "cloze": "재주문 수량은 월요일에 정할게요",
+    "answer": "재주문 수량은 월요일에 정할게요",
+    "accepted_answers": [],
+    "lemma": "월요일에 기종별 반품 기록을 대조한 뒤 휴대용 전원 장치의 재주문 수량을 정하다",
+    "meaning": "I will set the reorder quantity on Monday",
+    "audio": "work/audio/ko-KR/05/ko-05-1257.mp3"
+  },
+  {
+    "id": "ko-05-1258",
+    "sentence": "개발 담당자: 새 민원 신청 화면의 공개일을 발표해도 됩니까?\n디지털 서비스 책임자: 화면 읽기 기능 시험 결과가 아직 나오지 않았습니다. 결과는 목요일 오후에 받기로 했습니다. 공개일은 그 결과를 받은 뒤 결정하겠습니다. 일정 요청을 거절한 것이 아니라 확인 자료를 기다리는 중입니다.",
+    "cloze": "공개일은 그 결과를 받은 뒤 결정하겠습니다",
+    "answer": "공개일은 그 결과를 받은 뒤 결정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "목요일 오후에 접근성 시험 결과를 받은 뒤 새 민원 신청 화면의 공개일을 결정하다",
+    "meaning": "we will decide the release date after receiving that result",
+    "audio": "work/audio/ko-KR/05/ko-05-1258.mp3"
+  },
+  {
+    "id": "ko-05-1259",
+    "sentence": "주민 협력 담당자: 저녁 버스 노선 변경안을 이번 달부터 시행할 수 있습니까?\n교통 운영 책임자: 정류장별 주민 설문이 아직 진행 중입니다. 설문은 금요일에 마감됩니다. 변경안 채택 여부는 월요일 운영 회의에서 결정하겠습니다. 기존 노선은 결정 때까지 그대로 운행합니다.",
+    "cloze": "월요일 운영 회의에서 결정하겠습니다",
+    "answer": "월요일 운영 회의에서 결정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "정류장별 주민 설문이 마감된 뒤 월요일 운영 회의에서 저녁 버스 노선 변경안의 채택 여부를 결정하다",
+    "meaning": "we will decide at Monday's operations meeting whether the change proposal will be adopted",
+    "audio": "work/audio/ko-KR/05/ko-05-1259.mp3"
+  },
+  {
+    "id": "ko-05-1260",
+    "sentence": "편집 담당자: 안내 책자 이천 부를 바로 발주해도 될까요?\n홍보팀장: 수정 원고의 쪽수가 확정되지 않아 총인쇄비 견적을 아직 받지 못했어요. 최종 원고와 견적서는 월요일 오전에 받기로 했어요. 이천 부 발주 여부는 월요일 오후에 결정할게요. 인쇄 자체를 취소한 것은 아니니 종이 견본은 보관해 주세요.",
+    "cloze": "월요일 오후에 결정할게요",
+    "answer": "월요일 오후에 결정할게요",
+    "accepted_answers": [],
+    "lemma": "월요일 오후에 최종 원고와 총인쇄비 견적을 확인한 뒤 안내 책자 이천 부 발주 여부를 결정하다",
+    "meaning": "I will decide on Monday afternoon whether to order two thousand copies",
+    "audio": "work/audio/ko-KR/05/ko-05-1260.mp3"
+  },
+  {
+    "id": "ko-05-1261",
+    "sentence": "조사 담당자: 본조사 표본을 오백 명으로 늘려 주시겠습니까?\n연구위원장: 예비 조사의 응답률이 아직 확인되지 않았습니다. 예비 조사 결과는 화요일에 나옵니다. 표본 확대 여부는 화요일에 결정하겠습니다. 현재 이백 명 계획은 그 결정 전까지 유지하십시오.",
+    "cloze": "표본 확대 여부는 화요일에 결정하겠습니다",
+    "answer": "표본 확대 여부는 화요일에 결정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "화요일 예비 조사의 응답률을 확인한 뒤 본조사 표본 확대 여부를 결정하다",
+    "meaning": "we will decide on Tuesday whether to expand the sample",
+    "audio": "work/audio/ko-KR/05/ko-05-1261.mp3"
+  },
+  {
+    "id": "ko-05-1262",
+    "sentence": "시스템 담당자: 협업 도구 계정을 전 부서에 같은 수로 갱신할까요?\n정보화실장: 부서별 사용 현황 보고서가 아직 절반밖에 모이지 않았습니다. 보고서는 이번 분기 마지막 날인 금요일까지 받기로 했습니다. 다음 주 월요일에 자산 회의를 열겠습니다. 갱신 범위는 그 회의에서 결정하겠습니다. 현재 계정은 그때까지 유지됩니다.",
+    "cloze": "갱신 범위는 그 회의에서 결정하겠습니다",
+    "answer": "갱신 범위는 그 회의에서 결정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "분기 말에 부서별 협업 도구 사용 현황 보고서가 모이면 다음 주 월요일 자산 회의에서 계정 갱신 범위를 결정하다",
+    "meaning": "we will decide the scope of the renewal at next Monday's asset meeting",
+    "audio": "work/audio/ko-KR/05/ko-05-1262.mp3"
+  },
+  {
+    "id": "ko-05-1263",
+    "sentence": "시설 담당자: 복도 조명을 모두 절전형으로 교체하는 예산을 신청할까요?\n시설관리소장: 겨울철 전력 사용량이 한 달치뿐이라 절감 폭을 계산하기 어렵습니다. 한 달을 더 측정한 뒤 다음 달에 운영 회의를 열겠습니다. 교체 예산 신청 여부는 그 회의에서 결정하겠습니다. 이번 달 신청을 거절한 것은 아닙니다.",
+    "cloze": "그 회의에서 결정하겠습니다",
+    "answer": "그 회의에서 결정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "복도 조명의 전력 사용량을 한 달 더 측정한 뒤 다음 달 운영 회의에서 교체 예산 신청 여부를 결정하다",
+    "meaning": "we will decide at next month's operations meeting whether to request the replacement budget",
+    "audio": "work/audio/ko-KR/05/ko-05-1263.mp3"
+  },
+  {
+    "id": "ko-05-1264",
+    "sentence": "상담 기획자: 점심시간 상담 창구를 하나 더 열어 주실 수 있습니까?\n고객지원팀장: 이번 주 예약 건수가 아직 집계되지 않았습니다. 집계를 마친 뒤 금요일 오후에 운영 회의를 열겠습니다. 추가 창구 운영 여부는 그 회의에서 정하겠습니다. 지금은 직원 배치안을 두 가지로만 준비해 주십시오.",
+    "cloze": "그 회의에서 정하겠습니다",
+    "answer": "그 회의에서 정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "금요일에 점심시간 상담 예약 건수 집계가 끝나면 오후 운영 회의에서 추가 창구 운영 여부를 정하다",
+    "meaning": "we will decide whether to operate an additional desk at that meeting",
+    "audio": "work/audio/ko-KR/05/ko-05-1264.mp3"
+  },
+  {
+    "id": "ko-05-1265",
+    "sentence": "물류 담당자: 배송 업체를 새 업체로 바꾸는 안을 승인해 주시겠습니까?\n물류팀장: 두 업체의 파손 기록이 서로 다른 기준으로 집계되어 있습니다. 같은 기준으로 다시 산출한 기록은 수요일에 나옵니다. 업체 변경 여부는 수요일에 결론 내리겠습니다. 기존 계약은 그때까지 현재 조건으로 유지하겠습니다.",
+    "cloze": "수요일에 결론 내리겠습니다",
+    "answer": "수요일에 결론 내리겠습니다",
+    "accepted_answers": [],
+    "lemma": "수요일에 같은 기준으로 다시 산출한 두 배송 업체의 파손 기록을 대조한 뒤 업체 변경 여부를 결론 내리다",
+    "meaning": "we will reach a decision on changing suppliers after comparing the records",
+    "audio": "work/audio/ko-KR/05/ko-05-1265.mp3"
+  },
+  {
+    "id": "ko-05-1266",
+    "sentence": "행사 담당자: 지역 문화 행사를 다음 달 둘째 주 토요일로 공지해도 됩니까?\n문화센터장: 야외 광장의 사용 가능 여부를 아직 확인받지 못했습니다. 사용 가능 여부는 화요일 오전에 확인됩니다. 행사 날짜는 화요일 오후에 확정하겠습니다. 야외 광장을 쓸 수 없으면 같은 주 일요일의 실내 일정으로 정하겠습니다.",
+    "cloze": "행사 날짜는 화요일 오후에 확정하겠습니다",
+    "answer": "행사 날짜는 화요일 오후에 확정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "화요일에 야외 광장 사용 가능 여부를 확인한 뒤 지역 문화 행사의 날짜를 확정하다",
+    "meaning": "we will confirm the event date on Tuesday afternoon",
+    "audio": "work/audio/ko-KR/05/ko-05-1266.mp3"
+  },
+  {
+    "id": "ko-05-1267",
+    "sentence": "영상 제작자: 인터뷰 영상의 자막 작업을 외부 업체에 맡겨도 될까요?\n콘텐츠팀장: 두 업체 중 한 곳이 아직 일정과 비용을 보내지 않았어요. 두 회신을 모두 받은 뒤 외주 여부는 목요일 오후에 결정할게요. 직접 작업하는 안도 그때까지 남겨 둘게요.",
+    "cloze": "외주 여부는 목요일 오후에 결정할게요",
+    "answer": "외주 여부는 목요일 오후에 결정할게요",
+    "accepted_answers": [],
+    "lemma": "목요일에 두 업체의 일정과 비용 회신을 모두 받은 뒤 오후에 인터뷰 영상 자막의 외주 여부를 결정하다",
+    "meaning": "I will decide on Thursday afternoon whether to outsource it",
+    "audio": "work/audio/ko-KR/05/ko-05-1267.mp3"
+  },
+  {
+    "id": "ko-05-1268",
+    "sentence": "협력 사업 담당자: 공동 돌봄 사업을 세 지역으로 확대하는 계획을 승인해 주시겠습니까?\n사업위원장: 협력 기관 한 곳의 공동 부담금이 아직 확정되지 않았습니다. 부담금은 금요일 위원회에서 확인할 예정입니다. 사업 확대 규모는 그 위원회에서 결정하겠습니다. 지금은 한 지역 시범안도 함께 유지해 주십시오.",
+    "cloze": "그 위원회에서 결정하겠습니다",
+    "answer": "그 위원회에서 결정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "금요일 위원회에서 협력 기관의 공동 부담금을 확인하고 돌봄 사업 확대 규모를 결정하다",
+    "meaning": "we will decide the scale of the project at Friday's committee meeting",
+    "audio": "work/audio/ko-KR/05/ko-05-1268.mp3"
+  },
+  {
+    "id": "ko-05-1269",
+    "sentence": "민서: 제가 요청한 창고 선반 교체안에 시설팀장이 ‘안전 점검 결과를 금요일에 받은 뒤 결정하겠습니다.’라고 답했어요. 교체하지 않겠다는 말인가요?\n도윤: 아니요. 거절한 게 아니라 결과를 보고 금요일에 결정하겠다는 뜻이에요.",
+    "cloze": "결과를 보고 금요일에 결정하겠다는 뜻이에요",
+    "answer": "결과를 보고 금요일에 결정하겠다는 뜻이에요",
+    "accepted_answers": [],
+    "lemma": "시설팀장의 답변을 창고 선반 교체 거절이 아니라 금요일 안전 점검 결과를 본 뒤의 결정으로 해석하다",
+    "meaning": "it means the decision will be made on Friday after reviewing the result",
+    "audio": "work/audio/ko-KR/05/ko-05-1269.mp3"
+  },
+  {
+    "id": "ko-05-1270",
+    "sentence": "소연: 제가 올린 휴게실 의자 구매 요청에 구매 책임자가 ‘세 번째 견적을 월요일 오전까지 받은 뒤 오후에 결정하겠습니다.’라고 답했습니다. 요청이 반려된 것입니까?\n지훈: 아닙니다. 세 견적을 받은 뒤 월요일 오후에 결정하겠다는 뜻입니다.",
+    "cloze": "월요일 오후에 결정하겠다는 뜻입니다",
+    "answer": "월요일 오후에 결정하겠다는 뜻입니다",
+    "accepted_answers": [],
+    "lemma": "구매 책임자의 답변을 휴게실 의자 구매 요청 반려가 아니라 세 견적을 받은 뒤 월요일 오후에 하는 결정으로 해석하다",
+    "meaning": "it means the decision will be made on Monday afternoon",
+    "audio": "work/audio/ko-KR/05/ko-05-1270.mp3"
+  },
+  {
+    "id": "ko-05-1271",
+    "sentence": "예림: 제가 요청한 공개 일정에 대해 프로젝트 책임자가 협력사의 작업 가능일을 받은 뒤 월요일 계획 회의에서 정하겠다고 했어요. 오늘은 날짜를 정하지 않겠다는 뜻인가요?\n태호: 네. 월요일 계획 회의가 최종 결정 시점이라는 말이에요. 공개 계획 자체를 거절한 건 아니에요.",
+    "cloze": "최종 결정 시점이라는 말이에요",
+    "answer": "최종 결정 시점이라는 말이에요",
+    "accepted_answers": [],
+    "lemma": "협력사의 작업 가능일을 받는 월요일 계획 회의를 프로젝트 공개 일정의 최종 결정 시점으로 이해하다",
+    "meaning": "it means Monday's planning meeting is the point when the final decision will be made",
+    "audio": "work/audio/ko-KR/05/ko-05-1271.mp3"
+  },
+  {
+    "id": "ko-05-1272",
+    "sentence": "현아: 제가 낸 공급업체 선정 요청에 장비 담당자가 두 기기의 성능 시험 결과가 나오는 다음 주 화요일에 정하겠다고 답했습니다. 지금 업체를 선정하지 않은 이유가 무엇입니까?\n준호: 시험 자료가 없기 때문입니다. 결과를 보고 화요일에 업체를 고르겠다는 뜻입니다.",
+    "cloze": "화요일에 업체를 고르겠다는 뜻입니다",
+    "answer": "화요일에 업체를 고르겠다는 뜻입니다",
+    "accepted_answers": [],
+    "lemma": "장비 담당자의 답변을 성능 시험 결과가 나오는 화요일에 공급업체를 고르겠다는 결정 유보로 해석하다",
+    "meaning": "it means the supplier will be chosen on Tuesday after reviewing the result",
+    "audio": "work/audio/ko-KR/05/ko-05-1272.mp3"
+  },
+  {
+    "id": "ko-05-1273",
+    "sentence": "유진: 제가 낸 추가 강좌 요청에 교육과장이 바로 답하지 않고 금요일 신청 마감 뒤에 알려 주겠다고 했어요. 강좌를 열지 않겠다는 답변인가요?\n상우: 아니요. 추가 강좌를 거절한 것이 아니라 신청 마감 뒤에 판단하겠다는 답변이에요.",
+    "cloze": "신청 마감 뒤에 판단하겠다는 답변이에요",
+    "answer": "신청 마감 뒤에 판단하겠다는 답변이에요",
+    "accepted_answers": [],
+    "lemma": "교육과장의 회신을 추가 강좌 거절이 아니라 금요일 신청 마감 뒤의 판단으로 해석하다",
+    "meaning": "the response says the decision will be made after registration closes",
+    "audio": "work/audio/ko-KR/05/ko-05-1273.mp3"
+  },
+  {
+    "id": "ko-05-1274",
+    "sentence": "정우: 제가 올린 상담 인력 증원 요청을 부서장이 금요일 업무량 보고서가 나올 때까지 두겠다고 했습니다. 결국 사람을 늘리지 않겠다는 뜻입니까?\n수빈: 아닙니다. 증원 결정을 금요일까지 미룬 것입니다. 최종 판단은 금요일 인력 회의에서 부서장이 합니다.",
+    "cloze": "증원 결정을 금요일까지 미룬 것입니다",
+    "answer": "증원 결정을 금요일까지 미룬 것입니다",
+    "accepted_answers": [],
+    "lemma": "부서장의 답변을 인력 증원 거절이 아니라 금요일 업무량 보고서가 나올 때까지의 결정 연기로 이해하다",
+    "meaning": "the staffing decision has been delayed until the report is available",
+    "audio": "work/audio/ko-KR/05/ko-05-1274.mp3"
+  },
+  {
+    "id": "ko-05-1275",
+    "sentence": "[운영 부서장의 야간 상담 예산 결재 기록]\n요청자: 상담 기획 담당자\n요청 사항: 야간 상담 예산 증액\n미확인 자료: 최근 한 달의 시간대별 예약 건수\n결정 시점: 목요일 운영 회의\n현재 상태: 결재 보류",
+    "cloze": "현재 상태: 결재 보류",
+    "answer": "현재 상태: 결재 보류",
+    "accepted_answers": [],
+    "lemma": "시간대별 예약 건수를 확인할 목요일 운영 회의까지 야간 상담 예산 결재를 보류했다는 상태를 기록하다",
+    "meaning": "current status: approval pending",
+    "audio": "work/audio/ko-KR/05/ko-05-1275.mp3"
+  },
+  {
+    "id": "ko-05-1276",
+    "sentence": "[구매 책임자의 이동식 경사로 구매 검토표]\n요청자: 시설 지원 담당자\n미확인 입력: 현관 단차 세 곳의 측정값\n결정 시점: 금요일 현장 확인 직후\n구매 판단: 측정값 확인 전까지 유보",
+    "cloze": "구매 판단: 측정값 확인 전까지 유보",
+    "answer": "구매 판단: 측정값 확인 전까지 유보",
+    "accepted_answers": [],
+    "lemma": "현관 단차 세 곳을 측정하는 금요일 현장 확인 전까지 이동식 경사로 구매 판단을 유보한다고 기록하다",
+    "meaning": "purchase decision: deferred until the measurements are verified",
+    "audio": "work/audio/ko-KR/05/ko-05-1276.mp3"
+  },
+  {
+    "id": "ko-05-1277",
+    "sentence": "[프로젝트 책임자의 안내 시스템 개편 계획]\n요청자: 서비스 기획 담당자\n미확인 입력: 협력사의 시험 가능일\n결정 회의: 다음 주 월요일\n착수일: 회의에서 확정 예정",
+    "cloze": "착수일: 회의에서 확정 예정",
+    "answer": "착수일: 회의에서 확정 예정",
+    "accepted_answers": [],
+    "lemma": "협력사의 시험 가능일을 확인하는 다음 주 월요일 회의에서 안내 시스템 개편 착수일을 확정할 예정이라고 기록하다",
+    "meaning": "start date: scheduled to be confirmed at the meeting",
+    "audio": "work/audio/ko-KR/05/ko-05-1277.mp3"
+  },
+  {
+    "id": "ko-05-1278",
+    "sentence": "[자산관리팀장의 보관 장비 처분안 회신]\n요청자: 창고 운영 담당자\n미확인 자료: 장비 일곱 대의 수리 가능 여부\n자료 제출: 다음 주 화요일\n회신 예정: 다음 주 수요일 자산 회의 후",
+    "cloze": "회신 예정: 다음 주 수요일 자산 회의 후",
+    "answer": "회신 예정: 다음 주 수요일 자산 회의 후",
+    "accepted_answers": [],
+    "lemma": "장비 일곱 대의 수리 가능 여부를 확인한 뒤 다음 주 수요일 자산 회의 후 처분안에 회신할 예정이라고 기록하다",
+    "meaning": "reply scheduled: after next Wednesday's asset meeting",
+    "audio": "work/audio/ko-KR/05/ko-05-1278.mp3"
+  },
+  {
+    "id": "ko-05-1279",
+    "sentence": "[홍보팀장의 안내 책자 인쇄 부수 결정 메모]\n요청자: 편집 담당자\n미확인 자료: 행사 신청자의 최종 인원\n신청 마감: 월요일 오후 여섯 시\n최종 부수: 월요일 신청 마감 뒤 확정",
+    "cloze": "최종 부수: 월요일 신청 마감 뒤 확정",
+    "answer": "최종 부수: 월요일 신청 마감 뒤 확정",
+    "accepted_answers": [],
+    "lemma": "행사 신청자의 최종 인원을 알 수 있는 월요일 신청 마감 뒤에 안내 책자의 인쇄 부수를 확정한다고 기록하다",
+    "meaning": "final quantity: to be confirmed after registration closes on Monday",
+    "audio": "work/audio/ko-KR/05/ko-05-1279.mp3"
+  },
+  {
+    "id": "ko-05-1280",
+    "sentence": "[경영지원팀장의 자막 외주 승인 요청 회신]\n영상 담당자가 요청한 자막 외주안은 현재 검토 중입니다. 업체가 제출한 과업 범위표에 수정 가능 횟수가 빠져 있어 목요일까지 보완을 요청했습니다. 금요일에 과업 범위 검토 회의를 열겠습니다. 승인 여부는 그 회의에서 결정하겠습니다. 이는 요청을 거절한다는 통보가 아닙니다.",
+    "cloze": "승인 여부는 그 회의에서 결정하겠습니다",
+    "answer": "승인 여부는 그 회의에서 결정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "업체의 수정 가능 횟수가 보완된 뒤 금요일 과업 범위 검토 회의에서 자막 외주 승인 여부를 결정하다",
+    "meaning": "whether to approve it will be decided at Friday's scope-review meeting",
+    "audio": "work/audio/ko-KR/05/ko-05-1280.mp3"
   }
 ]
