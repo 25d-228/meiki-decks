@@ -18401,5 +18401,415 @@
     "lemma": "공공 자전거 수리 접수 개선표에 구월 십 일 운영위원회를 후속 보고 시점과 대상으로 표시하다",
     "meaning": "follow-up report: operations committee on September 10",
     "audio": "work/audio/ko-KR/05/ko-05-1840.mp3"
+  },
+  {
+    "id": "ko-05-1841",
+    "sentence": "[고객 상담 기록 개선안]\n품질관리팀은 지난달 상담 기록 열두 건에서 처리 결과가 빠진 것을 확인했다. 다음 달부터 상담 담당자가 통화를 마친 직후 결과를 입력한다.\n목표: 통화 직후 결과 기록하기.",
+    "cloze": "목표: 통화 직후 결과 기록하기",
+    "answer": "목표: 통화 직후 결과 기록하기",
+    "accepted_answers": [],
+    "lemma": "고객 상담 기록 개선안의 목표를 통화 직후 결과 기록하기로 제시하다",
+    "meaning": "goal: record the outcome immediately after each call",
+    "grammar": "업무 목표나 할 일을 항목으로 제시할 때 동사 어간 뒤에 ‘-기’를 붙인다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1841.mp3"
+  },
+  {
+    "id": "ko-05-1842",
+    "sentence": "연구팀은 지난 사 주 동안 평일 상담 게시판에 올라온 질문 백 건의 응답 시간을 분석했다. 응답 시간 중앙값은 오전 질문의 경우 두 시간, 오후 질문의 경우 네 시간이었다. 분석 결과, 오후 질문의 응답 시간이 더 길었음이 확인되었다. 주말 질문은 분석에 포함하지 않았다.",
+    "cloze": "오후 질문의 응답 시간이 더 길었음",
+    "answer": "오후 질문의 응답 시간이 더 길었음",
+    "accepted_answers": [],
+    "lemma": "평일 상담 게시판 분석에서 오후 질문의 응답 시간이 더 길었음을 확인하다",
+    "meaning": "that the response time for afternoon questions was longer",
+    "grammar": "‘-(으)ㅁ’은 보고서에서 확인된 사실이나 결과를 명사절로 나타낸다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1842.mp3"
+  },
+  {
+    "id": "ko-05-1843",
+    "sentence": "[자료 보존 지침 검토]\n감사팀은 세 부서의 자료 보존 지침을 비교했다. 같은 계약서의 보존 기간을 영업팀은 삼 년, 지원팀은 오 년, 연구팀은 칠 년으로 적었다. 문제는 보존 기간이 부서마다 다르다는 것이다. 감사팀은 금요일까지 공통 기준을 제안한다.",
+    "cloze": "보존 기간이 부서마다 다르다는 것이다",
+    "answer": "보존 기간이 부서마다 다르다는 것이다",
+    "accepted_answers": [],
+    "lemma": "같은 계약서의 보존 기간이 부서마다 다르다는 점을 문제로 규정하다",
+    "meaning": "the problem is that the retention period differs by department",
+    "grammar": "‘-다는 것이다’는 앞의 내용을 분석 대상이나 핵심 명제로 제시한다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1843.mp3"
+  },
+  {
+    "id": "ko-05-1844",
+    "sentence": "장비 교육 담당자는 이번 분기에 입사한 연구원 여덟 명의 교육 기록을 검토했다. 신입 연구원이 측정 장비를 익히는 데 평균 사흘이 걸렸다. 담당자는 첫 주 실습 시간을 하루 늘리기로 했다.",
+    "cloze": "측정 장비를 익히는 데",
+    "answer": "측정 장비를 익히는 데",
+    "accepted_answers": [],
+    "lemma": "신입 연구원이 측정 장비를 익히는 데 걸린 기간을 분석하다",
+    "meaning": "in learning to use the measuring equipment",
+    "grammar": "‘-는 데’는 어떤 일이나 과정에 필요한 시간·비용·노력을 나타낼 수 있다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1844.mp3"
+  },
+  {
+    "id": "ko-05-1845",
+    "sentence": "[주민 강좌 접수 개선 요약]\n담당: 문화센터 접수팀\n근거: 지난달 종이 확인표 중복 작성 스물세 건\n시행 시점: 다음 달 첫날\n개선 사항: 종이 확인 절차 간소화.\n접수팀은 신청자 확인을 한 번만 하고 누락 건수를 매주 보고한다.",
+    "cloze": "개선 사항: 종이 확인 절차 간소화",
+    "answer": "개선 사항: 종이 확인 절차 간소화",
+    "accepted_answers": [],
+    "lemma": "문화센터 접수팀이 다음 달부터 종이 확인 절차를 간소화하다",
+    "meaning": "improvement: simplify the paper-based verification procedure",
+    "audio": "work/audio/ko-KR/05/ko-05-1845.mp3"
+  },
+  {
+    "id": "ko-05-1846",
+    "sentence": "[연구 자료 공개 일정 변경]\n담당: 연구지원팀\n기존 공개일: 십월 삼십 일\n익명 처리 완료 예정일: 십월 십 일\n변경 사항: 자료 조기 공개.\n연구책임자는 익명 처리 검토가 끝난 뒤 십월 십오 일에 자료를 공개하도록 승인했다.",
+    "cloze": "변경 사항: 자료 조기 공개",
+    "answer": "변경 사항: 자료 조기 공개",
+    "accepted_answers": [],
+    "lemma": "연구책임자가 익명 처리 검토 뒤 연구 자료의 공개 시점을 앞당기도록 승인하다",
+    "meaning": "change: early release of the research data",
+    "audio": "work/audio/ko-KR/05/ko-05-1846.mp3"
+  },
+  {
+    "id": "ko-05-1847",
+    "sentence": "교육 연구팀의 온라인 조사에는 봄 학기 여든여섯 명, 가을 학기 마흔아홉 명이 참여했다. 가을에는 교내 게시판을 쓰지 않고 전자우편으로만 참여자를 모집했다. 요약문은 가을 학기 참여자 감소를 보고하되, 모집 방식이 달라 원인을 계절로 돌리지 않았다.",
+    "cloze": "가을 학기 참여자 감소",
+    "answer": "가을 학기 참여자 감소",
+    "accepted_answers": [],
+    "lemma": "모집 방식이 달랐던 온라인 조사에서 가을 학기 참여자 감소를 보고하다",
+    "meaning": "a decrease in participants in the fall semester",
+    "audio": "work/audio/ko-KR/05/ko-05-1847.mp3"
+  },
+  {
+    "id": "ko-05-1848",
+    "sentence": "[월간 재고 보고 개선안]\n지난달 세 팀의 재고표에서 단위 오류가 모두 열일곱 건 발견되었다. 운영관리팀은 공통 점검표를 배포하고 각 팀장이 점검 완료를 확인하도록 제안했다.\n과제: 각 팀이 제출 전 자체 점검하기.",
+    "cloze": "과제: 각 팀이 제출 전 자체 점검하기",
+    "answer": "과제: 각 팀이 제출 전 자체 점검하기",
+    "accepted_answers": [],
+    "lemma": "각 팀이 월간 재고표를 제출하기 전에 자체 점검하도록 과제로 정하다",
+    "meaning": "task: each team checks its own report before submission",
+    "audio": "work/audio/ko-KR/05/ko-05-1848.mp3"
+  },
+  {
+    "id": "ko-05-1849",
+    "sentence": "교육 연구자는 두 고등학교 학생 백이십 명의 읽기 습관을 조사했다. 두 학교에서는 비슷한 경향이 나왔지만 다른 지역은 조사하지 않았다. 연구자는 표본이 두 학교에 한정되었음을 결과 요약에 밝혔다.",
+    "cloze": "표본이 두 학교에 한정되었음을",
+    "answer": "표본이 두 학교에 한정되었음을",
+    "accepted_answers": [],
+    "lemma": "읽기 습관 조사 표본이 두 학교에 한정되었음을 요약에 밝히다",
+    "meaning": "that the sample was limited to two schools",
+    "audio": "work/audio/ko-KR/05/ko-05-1849.mp3"
+  },
+  {
+    "id": "ko-05-1850",
+    "sentence": "민원처리팀의 월 운영비는 사백만 원에서 오백만 원으로 늘었지만 처리 건수는 천 건에서 이천 건으로 증가했다. 건당 비용은 오히려 줄었다. 분석 담당자는 “이번 자료가 보여 주는 것은 처리 건수가 늘었다는 것이다.”라고 정리하고, 단가가 올랐다는 해석은 받아들이지 않았다.",
+    "cloze": "처리 건수가 늘었다는 것이다",
+    "answer": "처리 건수가 늘었다는 것이다",
+    "accepted_answers": [],
+    "lemma": "운영비 자료가 처리 건수 증가를 보여 준다는 명제를 분석 결론으로 제시하다",
+    "meaning": "what the data shows is that the number of cases increased",
+    "audio": "work/audio/ko-KR/05/ko-05-1850.mp3"
+  },
+  {
+    "id": "ko-05-1851",
+    "sentence": "시청 정보팀은 온라인 공고를 처음 이용하는 주민 열두 명을 대상으로 사용성 시험을 실시했다. 참가자들은 지원 금액은 바로 찾았지만 지원 자격을 찾는 데 평균 사 분이 걸렸다. 정보팀은 자격 조건을 공고 첫 화면으로 옮기기로 했다.",
+    "cloze": "지원 자격을 찾는 데",
+    "answer": "지원 자격을 찾는 데",
+    "accepted_answers": [],
+    "lemma": "온라인 공고에서 주민이 지원 자격을 찾는 데 걸린 시간을 측정하다",
+    "meaning": "in finding the eligibility information",
+    "audio": "work/audio/ko-KR/05/ko-05-1851.mp3"
+  },
+  {
+    "id": "ko-05-1852",
+    "sentence": "[폭염 쉼터 안내문 수정안]\n기존 문구: 낮 동안 이용 가능\n담당: 복지지원과 홍보 담당자\n수정 문구: 오전 아홉 시부터 오후 여섯 시까지 이용 가능\n변경 방향: 이용 가능 시간 구체화.\n홍보 담당자는 금요일까지 쉼터 스무 곳의 안내문을 바꾼다.",
+    "cloze": "변경 방향: 이용 가능 시간 구체화",
+    "answer": "변경 방향: 이용 가능 시간 구체화",
+    "accepted_answers": [],
+    "lemma": "복지지원과가 폭염 쉼터의 이용 가능 시간을 구체적으로 안내하다",
+    "meaning": "revision direction: specify the hours of availability",
+    "audio": "work/audio/ko-KR/05/ko-05-1852.mp3"
+  },
+  {
+    "id": "ko-05-1853",
+    "sentence": "[공동 연구 자료 관리 기록]\n연구지원팀은 참여자 이름을 모두 지운 뒤 연구책임자에게 공개 가능 여부를 보고했다. 연구책임자는 십일월 삼 일 공개를 승인했다. 최종 기록에는 연구책임자의 자료 공개 결정이 날짜와 함께 남아 있다.",
+    "cloze": "연구책임자의 자료 공개 결정",
+    "answer": "연구책임자의 자료 공개 결정",
+    "accepted_answers": [],
+    "lemma": "익명 처리된 공동 연구 자료를 공개하기로 연구책임자가 결정하다",
+    "meaning": "the principal investigator's decision to release the data",
+    "audio": "work/audio/ko-KR/05/ko-05-1853.mp3"
+  },
+  {
+    "id": "ko-05-1854",
+    "sentence": "[공공 무인 발급기 시험 요약]\n시범 지점 한 곳에서는 처리 시간이 평균 삼 분 줄었지만 화면 낭독 기능 오류가 이백 건 중 아홉 건 발생했다. 정보화위원회는 접근성 수정 결과가 나올 때까지 다른 세 지점에 기기를 추가로 설치하지 않기로 했다.\n결론: 세 지점 추가 설치 보류.",
+    "cloze": "결론: 세 지점 추가 설치 보류",
+    "answer": "결론: 세 지점 추가 설치 보류",
+    "accepted_answers": [],
+    "lemma": "접근성 오류가 수정될 때까지 무인 발급기의 세 지점 추가 설치를 보류하다",
+    "meaning": "conclusion: defer installation at three additional sites",
+    "audio": "work/audio/ko-KR/05/ko-05-1854.mp3"
+  },
+  {
+    "id": "ko-05-1855",
+    "sentence": "[창고 재고 차이 개선 계획]\n물류팀은 지난달 세 창고에서 재고 차이 서른한 건을 확인했다. 각 창고 주임은 금요일마다 실제 수량과 장부를 비교하고 월말에 물류팀에 결과를 제출한다.\n과제: 매주 재고 차이 확인하기.",
+    "cloze": "과제: 매주 재고 차이 확인하기",
+    "answer": "과제: 매주 재고 차이 확인하기",
+    "accepted_answers": [],
+    "lemma": "각 창고 주임이 매주 실제 수량과 장부의 재고 차이를 확인하다",
+    "meaning": "task: check inventory discrepancies every week",
+    "audio": "work/audio/ko-KR/05/ko-05-1855.mp3"
+  },
+  {
+    "id": "ko-05-1856",
+    "sentence": "[야간 출입구 점검 보고]\n시설팀은 지난 두 달 동안 작성된 야간 출입구 조도 측정 기록 스무 건을 검토했다. 그중 열여덟 건에서 조도가 사내 기준에 미치지 못했다.\n요약: 야간 조도가 기준보다 낮았음.\n시설팀은 다음 주까지 조명 두 개를 교체한다.",
+    "cloze": "요약: 야간 조도가 기준보다 낮았음",
+    "answer": "요약: 야간 조도가 기준보다 낮았음",
+    "accepted_answers": [],
+    "lemma": "시설팀의 야간 출입구 점검에서 조도가 기준보다 낮았음을 요약하다",
+    "meaning": "summary: nighttime illumination was below the standard",
+    "audio": "work/audio/ko-KR/05/ko-05-1856.mp3"
+  },
+  {
+    "id": "ko-05-1857",
+    "sentence": "교육정책팀은 교사 이백 명에게 온라인 수업 설문을 보냈다. 온라인 수업을 자주 활용하는 교사 백 명 중 구십 명, 나머지 백 명 중 육십 명이 응답했다. 따라서 응답률이 높다는 것만으로 전체 교사의 의견을 대표한다고 판단할 수 없다.",
+    "cloze": "응답률이 높다는 것만으로",
+    "answer": "응답률이 높다는 것만으로",
+    "accepted_answers": [],
+    "lemma": "높은 설문 응답률만으로 전체 교사의 의견을 대표한다고 판단하지 않다",
+    "meaning": "from the high response rate alone",
+    "audio": "work/audio/ko-KR/05/ko-05-1857.mp3"
+  },
+  {
+    "id": "ko-05-1858",
+    "sentence": "구청은 고령 주민 열 명을 대상으로 복지 지원 안내 페이지의 사용성을 평가했다. 여섯 명은 지원 조건이 어디에 있는지 바로 알아보지 못했다. 복지과는 지원 조건의 낮은 가시성을 개선 과제로 정하고, 대상 조건을 표의 첫 줄로 옮기기로 했다.",
+    "cloze": "지원 조건의 낮은 가시성",
+    "answer": "지원 조건의 낮은 가시성",
+    "accepted_answers": [],
+    "lemma": "복지 지원 안내 페이지에서 지원 조건의 낮은 가시성을 개선 과제로 정하다",
+    "meaning": "the low visibility of the eligibility conditions",
+    "audio": "work/audio/ko-KR/05/ko-05-1858.mp3"
+  },
+  {
+    "id": "ko-05-1859",
+    "sentence": "[프로젝트 일정 지연 요약]\n시험 담당자는 팔월 십 일에 바뀌었지만 정보관리팀은 새 담당자에게 팔월 십삼 일에야 시험 계정을 발급했다. 시험은 계획보다 이틀 늦게 시작되었다. 보고서는 계정 발급 지연에 따른 시험 시작 지연을 원인과 기간이 드러나게 기록하고, 정보관리팀장에게 발급 절차 점검을 맡겼다.",
+    "cloze": "계정 발급 지연에 따른 시험 시작 지연",
+    "answer": "계정 발급 지연에 따른 시험 시작 지연",
+    "accepted_answers": [],
+    "lemma": "정보관리팀의 계정 발급 지연에 따라 시험 시작이 이틀 늦어지다",
+    "meaning": "a delay in the start of testing caused by late account issuance",
+    "audio": "work/audio/ko-KR/05/ko-05-1859.mp3"
+  },
+  {
+    "id": "ko-05-1860",
+    "sentence": "연구자는 면담 자료에서 이름을 참여자 번호로 바꾼 뒤 공개용 초안을 연구윤리팀에 냈다. 연구윤리팀은 직책만으로도 두 사람을 알아볼 수 있다며 익명 처리 기준에 대한 재검토를 요청했다. 연구자는 공개 전에 직책을 더 넓은 범주로 바꾸어 표기한다.",
+    "cloze": "익명 처리 기준에 대한 재검토",
+    "answer": "익명 처리 기준에 대한 재검토",
+    "accepted_answers": [],
+    "lemma": "연구윤리팀이 면담 자료의 익명 처리 기준을 다시 검토하도록 요청하다",
+    "meaning": "a renewed review of the anonymization criteria",
+    "audio": "work/audio/ko-KR/05/ko-05-1860.mp3"
+  },
+  {
+    "id": "ko-05-1861",
+    "sentence": "연구팀은 같은 표준 시료를 센서로 세 번 측정했다. 첫 측정에서는 측정값과 표준값의 차이가 육 퍼센트였으나, 센서를 조정한 뒤 실시한 두 차례 측정에서는 일 퍼센트로 줄었다. 방법 요약에는 반복 측정을 통한 오차 확인이라고 적었다.",
+    "cloze": "반복 측정을 통한 오차 확인",
+    "answer": "반복 측정을 통한 오차 확인",
+    "accepted_answers": [],
+    "lemma": "같은 표준 시료를 반복 측정하여 센서의 측정 오차를 확인하다",
+    "meaning": "identifying measurement error through repeated measurements",
+    "audio": "work/audio/ko-KR/05/ko-05-1861.mp3"
+  },
+  {
+    "id": "ko-05-1862",
+    "sentence": "[상담 운영 개선 제안]\n화요일과 목요일에는 오후 여섯 시 뒤 상담 전화가 다른 평일의 두 배였다. 상담팀장은 두 요일에 한해 두 명이 늦게 출근하고 늦게 퇴근하는 방식을 제안했다.\n제안: 상담팀 근무 시간 유연화.",
+    "cloze": "제안: 상담팀 근무 시간 유연화",
+    "answer": "제안: 상담팀 근무 시간 유연화",
+    "accepted_answers": [],
+    "lemma": "화요일과 목요일에 상담팀의 출퇴근 시간을 유연하게 조정하도록 제안하다",
+    "meaning": "proposal: make the counseling team's working hours more flexible",
+    "audio": "work/audio/ko-KR/05/ko-05-1862.mp3"
+  },
+  {
+    "id": "ko-05-1863",
+    "sentence": "지역 교육 연구팀은 구월 일 일부터 문화회관에서 설문 참여자를 모집했다. 폭우로 회관이 구월 삼 일과 사 일에 문을 닫자 연구팀도 현장 모집을 멈췄다. 중간 보고서에는 현장 참여자 모집 중단이 이틀간 이어졌다고 기록하고, 이를 참여 거부로 해석하지 않았다.",
+    "cloze": "현장 참여자 모집 중단",
+    "answer": "현장 참여자 모집 중단",
+    "accepted_answers": [],
+    "lemma": "문화회관 폐쇄로 연구팀의 현장 참여자 모집이 이틀 동안 중단되다",
+    "meaning": "the suspension of in-person participant recruitment",
+    "audio": "work/audio/ko-KR/05/ko-05-1863.mp3"
+  },
+  {
+    "id": "ko-05-1864",
+    "sentence": "[온라인 설문 정리 점검표]\n연구보조원은 빈칸이 질문을 건너뛴 결과인지 저장 오류인지 구분해야 한다. 원자료를 바꾸지 않고 화면 기록과 대조한다.\n점검 항목: 응답 누락 원인 확인.\n확인 결과는 금요일에 연구책임자에게 제출한다.",
+    "cloze": "점검 항목: 응답 누락 원인 확인",
+    "answer": "점검 항목: 응답 누락 원인 확인",
+    "accepted_answers": [],
+    "lemma": "연구보조원이 화면 기록과 대조하여 온라인 설문의 응답 누락 원인을 확인하다",
+    "meaning": "check item: identify the cause of missing responses",
+    "audio": "work/audio/ko-KR/05/ko-05-1864.mp3"
+  },
+  {
+    "id": "ko-05-1865",
+    "sentence": "[시민 강좌 홍보물 조정안]\n문화과는 지난 분기에 안내지 사천 장을 인쇄했으나 천이백 장을 배포하지 못했다. 다음 분기에는 배포처 수에 맞춰 이천팔백 장만 인쇄한다.\n조정안: 홍보물 인쇄량 감축.\n인쇄 수량은 문화과 홍보 담당자가 관리한다.",
+    "cloze": "조정안: 홍보물 인쇄량 감축",
+    "answer": "조정안: 홍보물 인쇄량 감축",
+    "accepted_answers": [],
+    "lemma": "문화과가 실제 배포량을 반영하여 시민 강좌 홍보물 인쇄량을 줄이다",
+    "meaning": "adjustment: reduce the number of promotional materials printed",
+    "audio": "work/audio/ko-KR/05/ko-05-1865.mp3"
+  },
+  {
+    "id": "ko-05-1866",
+    "sentence": "[온라인 민원 분류 시험 계획]\n시스템은 주소 변경처럼 분류 기준이 하나인 민원만 자동으로 담당 부서에 보낸다. 예외가 있거나 판단이 필요한 민원은 직원이 직접 분류한다.\n시험 범위: 단순 민원 분류 자동화.\n정보화팀은 한 달 뒤 오분류 건수를 보고한다.",
+    "cloze": "시험 범위: 단순 민원 분류 자동화",
+    "answer": "시험 범위: 단순 민원 분류 자동화",
+    "accepted_answers": [],
+    "lemma": "분류 기준이 하나인 단순 민원의 담당 부서 분류만 자동화하여 시험하다",
+    "meaning": "pilot scope: automate classification of simple service requests",
+    "audio": "work/audio/ko-KR/05/ko-05-1866.mp3"
+  },
+  {
+    "id": "ko-05-1867",
+    "sentence": "[야간 단수 안내 수정 기록]\n지난 안내문에는 전화번호만 있어 야간 문의 열일곱 건이 다른 부서로 잘못 연결되었다. 수도사업소 홍보 담당자는 번호 옆에 야간 문의 담당 부서를 적었다.\n수정 사항: 야간 문의 담당 부서 명시.\n홍보 담당자는 다음 안내부터 같은 표기를 사용한다.",
+    "cloze": "수정 사항: 야간 문의 담당 부서 명시",
+    "answer": "수정 사항: 야간 문의 담당 부서 명시",
+    "accepted_answers": [],
+    "lemma": "수도사업소가 단수 안내문에 야간 문의 담당 부서를 명시하다",
+    "meaning": "revision: identify the department responsible for nighttime inquiries",
+    "audio": "work/audio/ko-KR/05/ko-05-1867.mp3"
+  },
+  {
+    "id": "ko-05-1868",
+    "sentence": "[버스 정류장 소음 조사 공개안]\n환경과는 팔월 한 달 동안 세 정류장에서 평일 오전 일곱 시부터 아홉 시까지 소음을 측정했다. 주말과 오후는 조사하지 않았다.\n공개 범위: 평일 오전 소음 측정 결과.\n환경과는 측정 지점과 시간도 함께 밝힌다.",
+    "cloze": "공개 범위: 평일 오전 소음 측정 결과",
+    "answer": "공개 범위: 평일 오전 소음 측정 결과",
+    "accepted_answers": [],
+    "lemma": "환경과가 세 정류장의 평일 오전 소음 측정 결과만 범위를 밝혀 공개하다",
+    "meaning": "publication scope: weekday morning noise measurements",
+    "audio": "work/audio/ko-KR/05/ko-05-1868.mp3"
+  },
+  {
+    "id": "ko-05-1869",
+    "sentence": "[월간 실적 보고 회의]\n팀장: 지난 두 달 모두 자료가 월말에 몰려 검토가 늦었습니다.\n담당자: 그러면 제출일을 앞당길까요?\n팀장: 제출일을 바꾸자는 것은 아닙니다. 각 팀이 십오 일에 중간 점검표를 내도록 하자는 뜻입니다.\n담당자: 기존 제출일은 유지하고 중간 점검만 추가하겠습니다.",
+    "cloze": "제출일을 바꾸자는 것은 아닙니다",
+    "answer": "제출일을 바꾸자는 것은 아닙니다",
+    "accepted_answers": [],
+    "lemma": "월간 보고서 제출일 변경이 아니라 중간 점검 추가를 제안하다",
+    "meaning": "I am not proposing that we change the submission date",
+    "audio": "work/audio/ko-KR/05/ko-05-1869.mp3"
+  },
+  {
+    "id": "ko-05-1870",
+    "sentence": "[보건소 방문 시간 분석 회의]\n책임자: 지난달 보건소 다섯 곳의 평일 기록에서 무엇이 확인됐습니까?\n연구원: 오전 방문자는 삼백십이 명, 오후 방문자는 이백팔 명이었습니다. 오전 방문자가 더 많았음이 확인됐습니다. 다만 주말 기록이 없어 모든 요일의 경향이라고 하기는 어렵습니다.\n책임자: 평일 자료라는 범위를 보고서에 밝히세요.",
+    "cloze": "오전 방문자가 더 많았음이 확인됐습니다",
+    "answer": "오전 방문자가 더 많았음이 확인됐습니다",
+    "accepted_answers": [],
+    "lemma": "다섯 보건소의 평일 기록에서 오전 방문자가 더 많았음을 확인하다",
+    "meaning": "it was confirmed that there were more morning visitors",
+    "audio": "work/audio/ko-KR/05/ko-05-1870.mp3"
+  },
+  {
+    "id": "ko-05-1871",
+    "sentence": "[온라인 지원 신청 검토]\n주민 대표: 처음 이용하는 사람도 신청을 빨리 마칠 수 있습니까?\n정보 담당자: 첫 이용자 열두 명의 시험에서 신청서를 작성하는 데 평균 칠 분이 걸렸습니다. 그중 다섯 명은 소득 항목의 예를 다시 읽었습니다.\n주민 대표: 그 항목에 작성 예를 바로 붙여 주세요.",
+    "cloze": "신청서를 작성하는 데",
+    "answer": "신청서를 작성하는 데",
+    "accepted_answers": [],
+    "lemma": "첫 이용자가 온라인 지원 신청서를 작성하는 데 걸린 시간을 보고하다",
+    "meaning": "in completing the application form",
+    "audio": "work/audio/ko-KR/05/ko-05-1871.mp3"
+  },
+  {
+    "id": "ko-05-1872",
+    "sentence": "[공원 안내 방송 준비 회의]\n센터장: 운영 개선표의 첫 과제가 무엇입니까?\n운영자: 첫 주에는 안내 방송이 여섯 번 늦었습니다. 개선표에는 ‘안내 방송 정시에 시작하기’라고 적었고, 방송 담당자가 월요일부터 맡습니다.\n센터장: 시작 시각과 지연 횟수를 한 달간 기록하세요.",
+    "cloze": "안내 방송 정시에 시작하기",
+    "answer": "안내 방송 정시에 시작하기",
+    "accepted_answers": [],
+    "lemma": "공원 방송 담당자가 안내 방송을 정시에 시작하도록 운영 과제로 적다",
+    "meaning": "start the information broadcast on time",
+    "audio": "work/audio/ko-KR/05/ko-05-1872.mp3"
+  },
+  {
+    "id": "ko-05-1873",
+    "sentence": "[학습 앱 이용 결과 검토]\n연구자: 앱 이용 학생의 평균 점수가 이용하지 않은 학생보다 팔 점 높았습니다.\n검토자: 학생을 두 집단에 무작위로 나누었습니까?\n연구자: 아닙니다. 학생들이 앱 사용 여부를 직접 골랐습니다. 이 결과가 앱의 효과를 입증한 것은 아닙니다. 다음 학기에는 시작 점수도 함께 비교하겠습니다.",
+    "cloze": "앱의 효과를 입증한 것은 아닙니다",
+    "answer": "앱의 효과를 입증한 것은 아닙니다",
+    "accepted_answers": [],
+    "lemma": "자기 선택이 있는 점수 차이가 학습 앱의 효과를 입증한 것은 아니라고 밝히다",
+    "meaning": "this does not prove the app's effectiveness",
+    "audio": "work/audio/ko-KR/05/ko-05-1873.mp3"
+  },
+  {
+    "id": "ko-05-1874",
+    "sentence": "[주말 민원 창구 검토]\n과장: 주민회가 일요일에도 창구를 열어 달라고 요청했습니다.\n운영 담당자: 지난달 토요일 대기자는 평균 서른 명이었지만 일요일 전화 문의는 모두 여덟 건이었습니다. 지금 정할 사안은 일요일 창구 운영 여부입니다. 인력 배치는 다음 달 수요 조사 뒤에 검토하겠습니다.\n과장: 두 결정을 구분해서 기록하세요.",
+    "cloze": "일요일 창구 운영 여부",
+    "answer": "일요일 창구 운영 여부",
+    "accepted_answers": [],
+    "lemma": "민원 창구의 일요일 운영 여부와 인력 배치 결정을 구분하다",
+    "meaning": "whether to operate the service desk on Sundays",
+    "audio": "work/audio/ko-KR/05/ko-05-1874.mp3"
+  },
+  {
+    "id": "ko-05-1875",
+    "sentence": "[월간 보고서 작성 지침]\n자료 출처는 표 아래에 쓴다.\n작성 과제: 항목별 근거 기록하기.\n검토 책임자는 각 부서 팀장이다.",
+    "cloze": "작성 과제: 항목별 근거 기록하기",
+    "answer": "작성 과제: 항목별 근거 기록하기",
+    "accepted_answers": [],
+    "lemma": "월간 보고서의 각 항목에 해당 자료의 근거를 기록하다",
+    "meaning": "writing task: record evidence for each item",
+    "note": "‘기록하기’는 ‘기록하다’에 ‘-기’를 붙인 형태로 한 단어처럼 이어 쓴다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1875.mp3"
+  },
+  {
+    "id": "ko-05-1876",
+    "sentence": "[접근 권한 회수 점검표]\n점검자: 정보보호 담당자\n확인 시각: 구월 육 일 오후 여섯 시\n확인 결과: 권한 두 건이 남아 있었음.\n조치: 담당자가 즉시 회수하고 팀장에게 보고.",
+    "cloze": "확인 결과: 권한 두 건이 남아 있었음",
+    "answer": "확인 결과: 권한 두 건이 남아 있었음",
+    "accepted_answers": [],
+    "lemma": "정보보호 담당자가 구월 육 일에 접근 권한 두 건이 남아 있었음을 확인하다",
+    "meaning": "finding: two access permissions remained active",
+    "note": "보고 항목의 ‘있었음’은 ‘있었-’과 명사형 어미 ‘-음’을 붙여 쓴 형태다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1876.mp3"
+  },
+  {
+    "id": "ko-05-1877",
+    "sentence": "감사팀은 보고서 초안에서 부서별 자료 보존 기한이 다르다고 지적했다. 적용 사례가 세 건뿐이어서 근거를 더 모으기로 했다. 따라서 적용 사례를 더 모을 때까지 기준을 바꾸는 것은 보류한다.",
+    "cloze": "기준을 바꾸는 것은 보류한다",
+    "answer": "기준을 바꾸는 것은 보류한다",
+    "accepted_answers": [],
+    "lemma": "적용 사례를 더 모을 때까지 자료 보존 기준을 바꾸는 일을 보류하다",
+    "meaning": "changing the criteria is deferred",
+    "note": "‘것’은 의존 명사이므로 앞의 관형절 ‘바꾸는’과 띄어 쓴다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1877.mp3"
+  },
+  {
+    "id": "ko-05-1878",
+    "sentence": "[상담 만족도 조사 분석]\n민원분석팀은 지난주 전화 상담 뒤 설문에 응답한 서른 명의 만족도 점수를 검토했다. 설문에 답하지 않은 이용자는 포함되지 않았다. 따라서 결과를 전체 이용자에게 확대하는 데에는 주의가 필요하다.",
+    "cloze": "전체 이용자에게 확대하는 데에는",
+    "answer": "전체 이용자에게 확대하는 데에는",
+    "accepted_answers": [],
+    "lemma": "응답자 만족도 결과를 전체 상담 이용자에게 확대하는 데 주의하다",
+    "meaning": "in generalizing the results to all service users",
+    "note": "일이나 상황을 나타내는 ‘데’는 앞말과 띄어 쓰고, 조사 ‘에’와 ‘는’은 뒤에 붙여 쓴다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1878.mp3"
+  },
+  {
+    "id": "ko-05-1879",
+    "sentence": "[온라인 강좌 신청 화면 개선표]\n근거: 첫 이용자 스무 명 중 열두 명이 같은 안내를 두 번 열어 봄\n담당: 교육지원팀 화면 기획자\n마감: 구월 십오 일\n개선 항목: 신청 화면 단순화.\n기획자는 중복 안내를 하나로 합치고 사용성 시험 결과를 보고한다.",
+    "cloze": "개선 항목: 신청 화면 단순화",
+    "answer": "개선 항목: 신청 화면 단순화",
+    "accepted_answers": [],
+    "lemma": "교육지원팀이 중복 안내를 합쳐 온라인 강좌 신청 화면을 단순화하다",
+    "meaning": "improvement item: simplify the application screen",
+    "note": "‘단순화’는 ‘단순’과 ‘-화’를 붙여 쓰고, 앞의 ‘신청 화면’과는 띄어 쓴다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1879.mp3"
+  },
+  {
+    "id": "ko-05-1880",
+    "sentence": "[도서관 전자자료 이용 분석]\n분석자는 팔월 한 달 동안 오전 아홉 시부터 열두 시까지의 평일 열람 기록만 사용했다. 주말과 오후 기록은 포함하지 않았다.\n분석 범위: 평일 오전 자료 열람 기록.\n분석팀은 이 범위를 표 아래에도 밝힌다.",
+    "cloze": "분석 범위: 평일 오전 자료 열람 기록",
+    "answer": "분석 범위: 평일 오전 자료 열람 기록",
+    "accepted_answers": [],
+    "lemma": "도서관 전자자료 분석 범위를 팔월 평일 오전의 열람 기록으로 한정해 표시하다",
+    "meaning": "analysis scope: weekday morning resource-access records",
+    "note": "제목형 항목에서는 범위 표지 뒤에 쌍점을 쓰고, 시간 범위와 대상 기록을 차례로 적는다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1880.mp3"
   }
 ]
