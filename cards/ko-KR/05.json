@@ -9199,5 +9199,405 @@
     "lemma": "햇살돌봄 시범 평가의 해석 범위는 참여 지점 네 곳의 운영 변화이다",
     "meaning": "Interpretive scope: operational changes at four participating branches",
     "audio": "work/audio/ko-KR/05/ko-05-0920.mp3"
+  },
+  {
+    "id": "ko-05-0921",
+    "sentence": "다래물류 인계 담당자 서민지 씨는 면담에서 야간 확인표를 가리키며 “야간 인계 확인표에서 점검 항목 하나가 빠져 있었습니다.”라고 말했습니다. 분석자는 이 발언을 서 씨가 확인한 사실로 인용했지만 누락 원인은 확인되지 않았다고 덧붙였습니다.",
+    "cloze": "점검 항목 하나가 빠져 있었습니다",
+    "answer": "점검 항목 하나가 빠져 있었습니다",
+    "accepted_answers": [],
+    "lemma": "다래물류 인계 담당자는 야간 인계 확인표에서 점검 항목 하나가 빠져 있었다고 말하다",
+    "meaning": "One inspection item was missing from the night-shift handover checklist",
+    "audio": "work/audio/ko-KR/05/ko-05-0921.mp3"
+  },
+  {
+    "id": "ko-05-0922",
+    "sentence": "새빛역 이용자 윤하늘 씨는 이용 경험 면담에서 “짐이 있으면 출근 시간대에는 이 계단을 이용하기 어려울 수 있습니다.”라고 말했습니다. 교통 분석자는 짐이 있을 때라는 조건과 가능성 표현을 유지했고 계단을 종일 이용할 수 없다는 뜻으로 확대하지 않았습니다.",
+    "cloze": "이용하기 어려울 수 있습니다",
+    "answer": "이용하기 어려울 수 있습니다",
+    "accepted_answers": [],
+    "lemma": "새빛역 이용자는 짐이 있으면 출근 시간대에 계단을 이용하기 어려울 수 있다고 말하다",
+    "meaning": "This staircase may be difficult to use during commuting hours when carrying luggage",
+    "audio": "work/audio/ko-KR/05/ko-05-0922.mp3"
+  },
+  {
+    "id": "ko-05-0923",
+    "sentence": "온결교육원 발표자 이준호 연구원은 시범 교육 결과를 설명하며 “이번 결과는 신입 직원 열두 명에게만 해당합니다.”라고 강조했습니다. 인사팀장은 그 범위를 인정하면서도 정규 과정 확대 여부는 별도로 판단하겠다고 말했습니다.",
+    "cloze": "신입 직원 열두 명에게만 해당합니다",
+    "answer": "신입 직원 열두 명에게만 해당합니다",
+    "accepted_answers": [],
+    "lemma": "온결교육원 발표자는 시범 교육 결과가 신입 직원 열두 명에게만 해당한다고 강조하다",
+    "meaning": "This result applies only to the 12 new employees",
+    "audio": "work/audio/ko-KR/05/ko-05-0923.mp3"
+  },
+  {
+    "id": "ko-05-0924",
+    "sentence": "두루주택 보수 회의에서 재무 담당자 오세진 과장은 “수리비 상한을 먼저 정해야 합니다.”라고 제안했습니다. 회의 의장은 이를 오 과장의 제안으로 기록하고 상한액 자체는 다음 회의에서 결정하기로 했습니다.",
+    "cloze": "상한을 먼저 정해야 합니다",
+    "answer": "상한을 먼저 정해야 합니다",
+    "accepted_answers": [],
+    "lemma": "두루주택 재무 담당자는 보수 회의에서 수리비 상한을 먼저 정해야 한다고 제안하다",
+    "meaning": "We must first set a cap on repair costs",
+    "audio": "work/audio/ko-KR/05/ko-05-0924.mp3"
+  },
+  {
+    "id": "ko-05-0925",
+    "sentence": "마중센터 이용자 김다정 씨는 개인 알림을 끈 뒤의 경험을 면담에서 설명했습니다. 면담 기록에 따르면 김 씨는 알림을 끈 뒤 집중하기가 한결 수월했다고 말했습니다. 분석자는 이를 한 이용자의 평가로만 다뤘습니다.",
+    "cloze": "한결 수월했다고 말했습니다",
+    "answer": "한결 수월했다고 말했습니다",
+    "accepted_answers": [],
+    "lemma": "김다정 씨는 알림을 끈 뒤 집중하기가 한결 수월했다고 말하다",
+    "meaning": "Ms. Kim said it was considerably easier to concentrate after turning off notifications",
+    "audio": "work/audio/ko-KR/05/ko-05-0925.mp3"
+  },
+  {
+    "id": "ko-05-0926",
+    "sentence": "가온자료관 운영 발표에서 박지후 팀장은 장비 교체가 계획대로 진행되고 있다고 설명했습니다. 박 팀장은 현재 공정대로라면 시범 운영이 다음 달 안에 끝날 가능성이 높다고 전망했습니다. 기록 담당자는 이 전망을 확정된 일정으로 제시하지 않았습니다.",
+    "cloze": "끝날 가능성이 높다고 전망했습니다",
+    "answer": "끝날 가능성이 높다고 전망했습니다",
+    "accepted_answers": [],
+    "lemma": "가온자료관 운영 발표자는 현재 공정대로라면 시범 운영이 다음 달 안에 끝날 가능성이 높다고 전망하다",
+    "meaning": "forecast that the pilot was likely to finish within the next month if work continued at the current pace",
+    "audio": "work/audio/ko-KR/05/ko-05-0926.mp3"
+  },
+  {
+    "id": "ko-05-0927",
+    "sentence": "하람문화원 시설 회의에서 점검 책임자 최유진 씨가 진행 상황을 알렸습니다. 최 씨는 동관 점검만 끝났다고 보고했습니다. 서기는 이 범위를 그대로 기록했고 의장은 서관까지 끝났다는 뜻으로 넓혀 이해하지 않았습니다.",
+    "cloze": "동관 점검만 끝났다고",
+    "answer": "동관 점검만 끝났다고",
+    "accepted_answers": [],
+    "lemma": "하람문화원 점검 책임자는 동관 점검만 끝났다고 보고하다",
+    "meaning": "reported that only the east wing inspection had been completed",
+    "audio": "work/audio/ko-KR/05/ko-05-0927.mp3"
+  },
+  {
+    "id": "ko-05-0928",
+    "sentence": "누리상담 일정 담당자 한서윤 씨는 이용자 면담에서 문의가 언제 시작됐는지 설명했습니다. 한 씨는 일정 변경 전부터 같은 문의가 있었다고 설명했습니다. 분석자는 이 진술을 근거로 일정 변경이 문의를 처음 일으켰다고 볼 수 없다고 판단했습니다.",
+    "cloze": "변경 전부터 같은 문의가 있었다고",
+    "answer": "변경 전부터 같은 문의가 있었다고",
+    "accepted_answers": [],
+    "lemma": "누리상담 일정 담당자는 일정 변경 전부터 같은 문의가 있었다고 설명하다",
+    "meaning": "explained that the same inquiries had already occurred before the schedule change",
+    "audio": "work/audio/ko-KR/05/ko-05-0928.mp3"
+  },
+  {
+    "id": "ko-05-0929",
+    "sentence": "모아미술관 관장 배수아 씨는 조명 점검 면담에서 “현재 조명은 작품의 색을 정확히 보여 주지 못합니다.”라고 평가했습니다. 보고서 작성자는 이 평가가 면담에 참여한 배 관장의 견해임을 명시했습니다. 작성자는 색온도 측정 결과가 아직 없다는 사실과 추가 측정이 필요하다는 자신의 의견을 덧붙였습니다.",
+    "cloze": "배 관장의 견해임을 명시했습니다",
+    "answer": "배 관장의 견해임을 명시했습니다",
+    "accepted_answers": [],
+    "lemma": "미술관 조명에 대한 평가가 면담에 참여한 배 관장의 견해임을 명시하다",
+    "meaning": "specified that the evaluation was the view of Director Bae, who took part in the interview",
+    "audio": "work/audio/ko-KR/05/ko-05-0929.mp3"
+  },
+  {
+    "id": "ko-05-0930",
+    "sentence": "푸른대학 학생회 대표 정은채 씨는 공간 개선 면담에서 “시험 기간에는 열람실을 한 시간 더 열어 주십시오.”라고 요청했습니다. 분석자는 열람실 연장 요청이 학생회 대표의 입장이라고 밝혔습니다. 다만 실제 운영 여부는 야간 인력표를 확인한 뒤 판단해야 한다고 덧붙였습니다.",
+    "cloze": "학생회 대표의 입장이라고 밝혔습니다",
+    "answer": "학생회 대표의 입장이라고 밝혔습니다",
+    "accepted_answers": [],
+    "lemma": "열람실 연장 요청이 푸른대학 학생회 대표의 입장이라고 밝히다",
+    "meaning": "stated that the request for extended library hours was the student council representative's position",
+    "audio": "work/audio/ko-KR/05/ko-05-0930.mp3"
+  },
+  {
+    "id": "ko-05-0931",
+    "sentence": "해든회사 사무실 배치 회의에서 김서호 과장은 “이번 달에 전 직원을 한꺼번에 옮기는 안에는 반대합니다.”라고 말했습니다. 서기는 김 과장이 전 직원의 일괄 이동안에 반대했다고 기록했습니다. 의장은 단계적 이동안을 다시 검토하겠다고 정리했습니다.",
+    "cloze": "일괄 이동안에 반대했다고",
+    "answer": "일괄 이동안에 반대했다고",
+    "accepted_answers": [],
+    "lemma": "김서호 과장이 전 직원의 일괄 이동안에 반대했다고 기록하다",
+    "meaning": "recorded that Manager Kim opposed moving every employee at once",
+    "audio": "work/audio/ko-KR/05/ko-05-0931.mp3"
+  },
+  {
+    "id": "ko-05-0932",
+    "sentence": "별하연구소 발표자 문지아 연구원은 “표본을 더 모으면 차이가 드러날 수도 있습니다.”라고 추정했습니다. 분석자는 표본을 늘릴 필요는 있다고 보았지만 차이가 확인됐다는 결론은 유보했습니다. 이로써 발표자의 가능성 판단과 자신의 최종 입장을 구분했습니다.",
+    "cloze": "결론은 유보했습니다",
+    "answer": "결론은 유보했습니다",
+    "accepted_answers": [],
+    "lemma": "분석자는 표본 확대에 동의하되 차이가 확인됐다는 결론을 유보하다",
+    "meaning": "withheld the conclusion that a difference had been confirmed",
+    "audio": "work/audio/ko-KR/05/ko-05-0932.mp3"
+  },
+  {
+    "id": "ko-05-0933",
+    "sentence": "솔마루시 교통 발표에서 발표자는 노선 개편 상태를 묻는 질문에 “두 안 모두 아직 검토 중입니다.”라고 답했습니다. 회의록에는 발표자가 두 안 모두 아직 검토 중이라고 답했다고 적었습니다. 기록자는 결정 시점이 다음 달이라는 별도 일정도 덧붙였습니다.",
+    "cloze": "답했다고 적었습니다",
+    "answer": "답했다고 적었습니다",
+    "accepted_answers": [],
+    "lemma": "회의록에 교통 발표자가 두 노선 개편안이 아직 검토 중이라고 답했다고 적다",
+    "meaning": "recorded in the minutes that the presenter said both options were still under review",
+    "audio": "work/audio/ko-KR/05/ko-05-0933.mp3"
+  },
+  {
+    "id": "ko-05-0934",
+    "sentence": "아람복지관 면담에서 주간반 이용자 세 명은 안내 문자가 늦게 왔다고 말했습니다. 분석자는 안내 문자가 늦었다는 의견을 주간반 이용자 세 명에게만 귀속했습니다. 다른 반의 발송 기록을 확인한 뒤에야 전체 이용자의 경향을 판단할 수 있다고 덧붙였습니다.",
+    "cloze": "세 명에게만 귀속했습니다",
+    "answer": "세 명에게만 귀속했습니다",
+    "accepted_answers": [],
+    "lemma": "안내 문자가 늦었다는 의견을 아람복지관 주간반 이용자 세 명에게만 귀속하다",
+    "meaning": "attributed the opinion that the message was late only to the three day-class users",
+    "audio": "work/audio/ko-KR/05/ko-05-0934.mp3"
+  },
+  {
+    "id": "ko-05-0935",
+    "sentence": "다온기획 대표는 지난해 성과 발표에서 “지난 분기에는 온라인 신청이 늘었습니다.”라고 밝혔습니다. 올해 보고서를 쓰는 연구원은 온라인 신청 증가를 지난해 발표 직전 분기의 실적으로 기록했습니다. 현재까지 증가세가 이어진다는 판단은 올해 집계가 끝날 때까지 유보했습니다.",
+    "cloze": "지난해 발표 직전 분기의 실적으로",
+    "answer": "지난해 발표 직전 분기의 실적으로",
+    "accepted_answers": [],
+    "lemma": "다온기획 대표의 온라인 신청 증가 발언을 지난해 발표 직전 분기의 실적으로 기록하다",
+    "meaning": "recorded the increase in online applications as a result from the quarter before last year's presentation",
+    "audio": "work/audio/ko-KR/05/ko-05-0935.mp3"
+  },
+  {
+    "id": "ko-05-0936",
+    "sentence": "새론문화제 참가자 고은별 씨는 면담에서 “접수 안내는 전보다 이해하기 쉬웠습니다.”라고 평가했습니다. 요약자는 안내가 쉬워졌다는 평가와 대기 시간에 대한 불만을 별개의 항목으로 정리했습니다. 따라서 긍정적 평가가 행사 전반에 대한 만족을 뜻한다고 보지는 않았습니다.",
+    "cloze": "별개의 항목으로 정리했습니다",
+    "answer": "별개의 항목으로 정리했습니다",
+    "accepted_answers": [],
+    "lemma": "접수 안내에 대한 긍정적 평가와 대기 시간에 대한 불만을 별개의 항목으로 정리하다",
+    "meaning": "summarized the positive assessment of the instructions separately from the complaint about waiting time",
+    "audio": "work/audio/ko-KR/05/ko-05-0936.mp3"
+  },
+  {
+    "id": "ko-05-0937",
+    "sentence": "한울도서관 발표자는 빈 좌석 알림을 한 달간 시범 운영해 보자고 제안했습니다. 요약 담당자는 이를 도입 확정이 아니라 한 달간의 시범 운영 제안으로 정리했습니다. 관장은 예산 검토 뒤에 결정하겠다고 말했습니다.",
+    "cloze": "시범 운영 제안으로 정리했습니다",
+    "answer": "시범 운영 제안으로 정리했습니다",
+    "accepted_answers": [],
+    "lemma": "빈 좌석 알림에 관한 발표자의 입장을 도입 확정이 아닌 한 달간의 시범 운영 제안으로 정리하다",
+    "meaning": "summarized the presenter's position as a one-month pilot proposal, not a confirmed rollout",
+    "audio": "work/audio/ko-KR/05/ko-05-0937.mp3"
+  },
+  {
+    "id": "ko-05-0938",
+    "sentence": "바름정보 발표에서 개발 책임자는 “기존 자료를 옮기면 새 화면에서도 검색할 수 있을 것으로 봅니다.”라고 말했습니다. 회의록에는 개발 책임자가 자료 이전 뒤 검색이 가능할 것으로 보았다고 기록했습니다. 서기는 성공을 보장한 말은 아니라는 점과 이전 시험이 필요하다는 자신의 의견을 덧붙였습니다.",
+    "cloze": "가능할 것으로 보았다고",
+    "answer": "가능할 것으로 보았다고",
+    "accepted_answers": [],
+    "lemma": "회의록에 개발 책임자가 자료 이전 뒤 검색이 가능할 것으로 보았다고 기록하다",
+    "meaning": "recorded that the development lead believed search would be possible after the data transfer",
+    "audio": "work/audio/ko-KR/05/ko-05-0938.mp3"
+  },
+  {
+    "id": "ko-05-0939",
+    "sentence": "늘찬유통 회의에서 물류팀이 배송 시간표 변경안을 제시하자 조현우 본부장은 “변경안을 최종 승인합니다.”라고 밝혔습니다. 회의록 작성자는 최종 승인자가 조 본부장이라고 기록했습니다. 물류팀은 새 시간표를 월요일부터 적용하기로 했습니다.",
+    "cloze": "최종 승인자가 조 본부장이라고",
+    "answer": "최종 승인자가 조 본부장이라고",
+    "accepted_answers": [],
+    "lemma": "배송 시간표 변경안의 최종 승인자가 조현우 본부장이라고 기록하다",
+    "meaning": "recorded that Division Head Cho was the final approver",
+    "audio": "work/audio/ko-KR/05/ko-05-0939.mp3"
+  },
+  {
+    "id": "ko-05-0940",
+    "sentence": "온새미학교 기자재 회의에서 교사는 태블릿 열 대가 필요하다고 요청했고 행정실장은 “이번에는 여섯 대만 승인합니다.”라고 답했습니다. 서기는 교사의 요청 수량과 행정실장의 승인 수량을 구분해 기록했습니다. 남은 네 대는 다음 회의에서 다시 검토하기로 했습니다.",
+    "cloze": "승인 수량을 구분해 기록했습니다",
+    "answer": "승인 수량을 구분해 기록했습니다",
+    "accepted_answers": [],
+    "lemma": "교사의 태블릿 열 대 요청 수량과 행정실장의 여섯 대 승인 수량을 구분해 기록하다",
+    "meaning": "recorded the teacher's requested quantity separately from the administration chief's approved quantity",
+    "audio": "work/audio/ko-KR/05/ko-05-0940.mp3"
+  },
+  {
+    "id": "ko-05-0941",
+    "sentence": "두레환경 회의에서 운영팀장은 “차량 한 대를 더 배정하면 주말에도 수거할 수 있습니다.”라고 말했습니다. 기록자는 이 발언을 차량 한 대 추가 배정을 조건으로 한 동의로 정리했습니다. 의장은 차량 확보 여부를 금요일에 확인하기로 했습니다.",
+    "cloze": "추가 배정을 조건으로 한 동의로",
+    "answer": "추가 배정을 조건으로 한 동의로",
+    "accepted_answers": [],
+    "lemma": "두레환경 운영팀장의 주말 수거 발언을 차량 한 대 추가 배정을 조건으로 한 동의로 정리하다",
+    "meaning": "summarized the statement as agreement conditional on assigning one additional vehicle",
+    "audio": "work/audio/ko-KR/05/ko-05-0941.mp3"
+  },
+  {
+    "id": "ko-05-0942",
+    "sentence": "가람교육 발표 자료의 마지막 장에는 “이번 평가는 수업 참여 변화만 보여 줍니다.”라고 적혀 있었습니다. 발표 기록을 정리한 연구원은 인용문의 출처가 발표 자료의 결론 부분이라고 밝혔습니다. 연구원 자신은 이 평가로 성적 향상 여부를 판단하지 않았습니다.",
+    "cloze": "발표 자료의 결론 부분이라고",
+    "answer": "발표 자료의 결론 부분이라고",
+    "accepted_answers": [],
+    "lemma": "수업 참여 변화만 보여 준다는 인용문의 출처가 가람교육 발표 자료의 결론 부분이라고 밝히다",
+    "meaning": "stated that the quotation came from the conclusion section of the presentation materials",
+    "audio": "work/audio/ko-KR/05/ko-05-0942.mp3"
+  },
+  {
+    "id": "ko-05-0943",
+    "sentence": "해솔시장 상인 이도윤 씨는 면담에서 아침 배송이 예전보다 늦어졌다고 말했습니다. 분석자는 아침 배송이 늦어졌다는 진술을 이 씨의 개인 경험으로 인용했습니다. 시장 전체의 추세인지에 대한 판단은 배송 기록을 확인할 때까지 유보했습니다.",
+    "cloze": "이 씨의 개인 경험으로",
+    "answer": "이 씨의 개인 경험으로",
+    "accepted_answers": [],
+    "lemma": "아침 배송이 늦어졌다는 진술을 해솔시장 상인 이도윤 씨의 개인 경험으로 인용하다",
+    "meaning": "quoted the statement about later morning deliveries as Mr. Lee's individual experience",
+    "audio": "work/audio/ko-KR/05/ko-05-0943.mp3"
+  },
+  {
+    "id": "ko-05-0944",
+    "sentence": "마루상담 주간 회의에서 접수 담당자는 지난 두 주 동안 같은 주소 오류 문의가 반복됐다고 보고했습니다. 서기는 회의록에 반복 문의가 있었다는 접수 담당자의 보고만 적었습니다. 시스템 변경이 원인이라는 말은 회의에서 나오지 않았으므로 원인으로 덧붙이지 않았습니다.",
+    "cloze": "접수 담당자의 보고만",
+    "answer": "접수 담당자의 보고만",
+    "accepted_answers": [],
+    "lemma": "회의록에 주소 오류 문의가 반복됐다는 접수 담당자의 보고만 적다",
+    "meaning": "entered only the intake officer's report that the same address-error inquiries had recurred",
+    "audio": "work/audio/ko-KR/05/ko-05-0944.mp3"
+  },
+  {
+    "id": "ko-05-0945",
+    "sentence": "새길연구원의 이예은 연구원은 작년 발표에서 “내년에는 자료 공개 범위가 넓어질 것으로 예상합니다.”라고 밝혔습니다. 올해 요약문을 쓰는 담당자는 자료 공개 확대를 이미 실현된 사실이 아니라 작년 발표 당시의 전망으로 기록했습니다. 실제 공개 범위는 별도 자료로 확인해야 한다고 덧붙였습니다.",
+    "cloze": "작년 발표 당시의 전망으로",
+    "answer": "작년 발표 당시의 전망으로",
+    "accepted_answers": [],
+    "lemma": "자료 공개 확대를 실현된 사실이 아닌 새길연구원 발표 당시의 전망으로 기록하다",
+    "meaning": "recorded the wider data release as a forecast made at last year's presentation, not an accomplished fact",
+    "audio": "work/audio/ko-KR/05/ko-05-0945.mp3"
+  },
+  {
+    "id": "ko-05-0946",
+    "sentence": "보람협동조합 회의에서 세 명의 위원은 공동 구매안을 더 검토하자고 말했고 위원장은 결정을 다음 주로 미뤘습니다. 기록자는 회의록에 공동 구매안을 계속 검토하기로 했다고만 적었습니다. 위원들이 구매안을 거부했다는 해석은 덧붙이지 않았습니다.",
+    "cloze": "계속 검토하기로 했다고만",
+    "answer": "계속 검토하기로 했다고만",
+    "accepted_answers": [],
+    "lemma": "보람협동조합 회의록에 공동 구매안을 계속 검토하기로 했다고만 적다",
+    "meaning": "recorded only that the cooperative would continue reviewing the joint-purchase proposal",
+    "audio": "work/audio/ko-KR/05/ko-05-0946.mp3"
+  },
+  {
+    "id": "ko-05-0947",
+    "sentence": "회의 진행자: 비용을 줄일 수 있다고 말한 사람이 기획팀장이었습니까?\n기록 담당자: 아닙니다. 기획팀장은 사용량을 더 확인하자고 했습니다. 재무 담당자 장하준 씨가 “연간 유지비는 줄어들 가능성이 있습니다.”라고 전망했습니다.\n회의 진행자: 그렇다면 전망의 주체와 확실성은 어떻게 기록했습니까?\n기록 담당자: 기획팀장이 아니라 재무 담당자가 그렇게 전망했다고 적었습니다.",
+    "cloze": "재무 담당자가 그렇게 전망했다고",
+    "answer": "재무 담당자가 그렇게 전망했다고",
+    "accepted_answers": [],
+    "lemma": "연간 유지비 감소 가능성을 전망한 사람은 기획팀장이 아니라 재무 담당자라고 기록하다",
+    "meaning": "I recorded that the forecast came from the finance officer, not the planning manager",
+    "audio": "work/audio/ko-KR/05/ko-05-0947.mp3"
+  },
+  {
+    "id": "ko-05-0948",
+    "sentence": "질문자: 이용자 대표는 상담 공간이 충분하다고 평가했는데 발표자도 같은 입장입니까?\n분석자: 발표자는 그 평가를 인용했지만 면담이 한 지점에서만 이뤄져 운영 확대의 근거로는 부족하다고 말했습니다.\n질문자: 발표자의 최종 입장은 무엇입니까?\n분석자: 이용자 대표의 평가는 인용했지만 운영 확대에는 유보적이었다고 정리했습니다.",
+    "cloze": "운영 확대에는 유보적이었다고",
+    "answer": "운영 확대에는 유보적이었다고",
+    "accepted_answers": [],
+    "lemma": "발표자는 상담 공간에 대한 이용자 대표의 평가를 인용하되 운영 확대에는 유보적이었다고 정리하다",
+    "meaning": "I concluded that the presenter quoted the user representative's assessment but remained cautious about expanding the operation",
+    "audio": "work/audio/ko-KR/05/ko-05-0948.mp3"
+  },
+  {
+    "id": "ko-05-0949",
+    "sentence": "회의 의장: 일정 연기안은 제가 제시했습니다. 운영팀장님은 어떤 입장이셨습니까?\n서기: 운영팀장은 “검사 결과가 금요일까지 나오면 월요일에 시작하겠습니다.”라고 답했습니다.\n회의 의장: 시작을 약속한 사람과 조건이 분명합니까?\n서기: 운영팀장이 검사 결과 확인을 조건으로 월요일 시작을 약속했습니다.",
+    "cloze": "검사 결과 확인을 조건으로",
+    "answer": "검사 결과 확인을 조건으로",
+    "accepted_answers": [],
+    "lemma": "운영팀장은 검사 결과가 금요일까지 나오면 월요일에 시작하겠다고 약속하다",
+    "meaning": "The operations manager committed to starting Monday on condition that the test results were available",
+    "audio": "work/audio/ko-KR/05/ko-05-0949.mp3"
+  },
+  {
+    "id": "ko-05-0950",
+    "sentence": "청중: 연구 책임자가 새 장비로 오류가 줄어들 것이라고 확정했습니까?\n발표자: 연구 책임자는 “새 장비를 쓰면 반복 시험에서도 오류가 줄어들 가능성이 높다고 봅니다.”라고 말했습니다. 저는 아직 반복 시험 전이라 확정된 결과는 아니라고 설명했습니다.\n청중: 그러면 현재 발표자의 판단은 무엇입니까?\n발표자: 감소 가능성은 인용하되 확정된 결과로 제시하지 않았습니다.",
+    "cloze": "확정된 결과로 제시하지 않았습니다",
+    "answer": "확정된 결과로 제시하지 않았습니다",
+    "accepted_answers": [],
+    "lemma": "연구 책임자가 말한 오류 감소 가능성을 인용하되 확정된 결과로 제시하지 않다",
+    "meaning": "I quoted the possibility of a reduction but did not present it as a confirmed result",
+    "audio": "work/audio/ko-KR/05/ko-05-0950.mp3"
+  },
+  {
+    "id": "ko-05-0951",
+    "sentence": "면담자: 안내판을 바꾼 뒤에 길 문의가 시작됐다고 하셨습니까?\n안내 직원: 아닙니다. 저는 “안내판을 바꾸기 전에도 같은 길 문의를 하루에 두세 번 받았습니다.”라고 말했습니다.\n분석자: 이 진술의 시점은 어떻게 해석해야 합니까?\n면담자: 문의는 안내판 교체 뒤에 새로 생긴 현상이 아니라고 보았습니다.",
+    "cloze": "새로 생긴 현상이 아니라고",
+    "answer": "새로 생긴 현상이 아니라고",
+    "accepted_answers": [],
+    "lemma": "안내판 교체 전 안내 직원의 발언을 근거로 길 문의는 교체 뒤에 새로 생긴 현상이 아니라고 보다",
+    "meaning": "I concluded that the inquiries were not a new phenomenon that began after the sign replacement",
+    "audio": "work/audio/ko-KR/05/ko-05-0951.mp3"
+  },
+  {
+    "id": "ko-05-0952",
+    "sentence": "검토자: 전시 동선이 좋아졌다는 평가는 누구의 것입니까?\n요약자: 전시 기획자는 “방향을 찾기 쉬워졌습니다.”라고 평가했습니다. 관람객 면담 참여자는 이동 단계가 두 단계 줄었다고 말했습니다.\n검토자: 요약자는 두 말을 어떻게 구분했습니까?\n요약자: 쉬워졌다는 판단은 기획자의 평가로, 두 단계 줄었다는 내용은 관람객의 진술로 구분했습니다.",
+    "cloze": "관람객의 진술로 구분했습니다",
+    "answer": "관람객의 진술로 구분했습니다",
+    "accepted_answers": [],
+    "lemma": "전시 동선이 쉬워졌다는 판단은 기획자의 평가로, 두 단계 감소는 관람객의 진술로 구분하다",
+    "meaning": "I separated the judgment that navigation was easier as the exhibition planner's assessment and the two-step reduction as the visitor's statement",
+    "audio": "work/audio/ko-KR/05/ko-05-0952.mp3"
+  },
+  {
+    "id": "ko-05-0953",
+    "sentence": "회의 의장: 화면 문구를 고치겠다고 약속한 사람이 디자인 담당자입니까?\n서기: 디자인 담당자는 수정이 가능하다고만 말했습니다. 신예린 팀장이 “수요일까지 새 문구를 제출하겠습니다.”라고 약속했습니다.\n회의 의장: 회의록에는 책임자를 누구로 적었습니까?\n서기: 화면 문구 수정본의 제출 책임자는 신예린 팀장이라고 기록했습니다.",
+    "cloze": "제출 책임자는 신예린 팀장이라고",
+    "answer": "제출 책임자는 신예린 팀장이라고",
+    "accepted_answers": [],
+    "lemma": "수요일까지 화면 문구 수정본을 제출할 책임자가 신예린 팀장이라고 기록하다",
+    "meaning": "I recorded Team Leader Shin as responsible for submitting the revised screen wording",
+    "audio": "work/audio/ko-KR/05/ko-05-0953.mp3"
+  },
+  {
+    "id": "ko-05-0954",
+    "sentence": "청중: 발표에서 집중이 필요한 업무는 집에서 하기가 편하다는 의견이 소개됐습니다. 전체 상담원의 의견입니까?\n발표자: 아닙니다. 야간 상담원 네 명이 면담에서 “집중이 필요한 업무는 집에서 하기가 편합니다.”라고 말했습니다. 저는 주간 상담원의 의견은 조사하지 못했다고 밝혔습니다.\n청중: 그 의견을 어느 범위로 제시했습니까?\n발표자: 야간 상담원 네 명의 면담에서 나온 의견으로만 제시했습니다.",
+    "cloze": "네 명의 면담에서 나온 의견으로만",
+    "answer": "네 명의 면담에서 나온 의견으로만",
+    "accepted_answers": [],
+    "lemma": "재택 집중 업무 선호를 야간 상담원 네 명의 면담에서 나온 의견으로만 제시하다",
+    "meaning": "I presented it only as an opinion from interviews with four night-shift advisers",
+    "audio": "work/audio/ko-KR/05/ko-05-0954.mp3"
+  },
+  {
+    "id": "ko-05-0955",
+    "sentence": "샘물연구소 예약 담당자 권유나 씨는 면담에서 접수 기한을 분명히 말했습니다. 분석자는 권 씨의 말을 다음과 같이 그대로 인용했습니다. “실험실 예약은 금요일까지만 받습니다.” 분석자는 이 기한이 장비 예약 전체가 아니라 실험실 예약에만 해당한다고 덧붙였습니다.",
+    "cloze": "금요일까지만 받습니다",
+    "answer": "금요일까지만 받습니다",
+    "accepted_answers": [],
+    "lemma": "샘물연구소 예약 담당자는 실험실 예약을 금요일까지만 받는다고 말하다",
+    "meaning": "Laboratory reservations are accepted only through Friday",
+    "audio": "work/audio/ko-KR/05/ko-05-0955.mp3"
+  },
+  {
+    "id": "ko-05-0956",
+    "sentence": "한결사업 예산 회의에서 박정우 위원은 발표자에게 질문했습니다. 회의록에는 박 위원의 질문을 “비용 추산에 유지비도 포함됐습니까?”라고 적었습니다. 발표자는 구입비만 포함됐다고 답했고, 서기는 유지비가 포함됐다고 해석하지 않았습니다.",
+    "cloze": "유지비도 포함됐습니까",
+    "answer": "유지비도 포함됐습니까",
+    "accepted_answers": [],
+    "lemma": "한결사업 예산 회의 위원은 비용 추산에 유지비도 포함됐는지 질문하다",
+    "meaning": "Were maintenance costs also included in the cost estimate?",
+    "audio": "work/audio/ko-KR/05/ko-05-0956.mp3"
+  },
+  {
+    "id": "ko-05-0957",
+    "sentence": "다솜도서관 이용자 면담에서 정하린 씨는 새 반납 절차를 평가했습니다. 면담 기록에는 “반납 절차가 세 단계에서 두 단계로 줄었습니다.”라고 적혀 있습니다. 분석자는 단계 수 감소는 정 씨의 진술이며 처리 시간이 줄었다는 뜻은 아니라고 밝혔습니다.",
+    "cloze": "세 단계에서 두 단계로",
+    "answer": "세 단계에서 두 단계로",
+    "accepted_answers": [],
+    "lemma": "다솜도서관 이용자는 반납 절차가 세 단계에서 두 단계로 줄었다고 말하다",
+    "meaning": "The return procedure was reduced from three steps to two",
+    "audio": "work/audio/ko-KR/05/ko-05-0957.mp3"
+  },
+  {
+    "id": "ko-05-0958",
+    "sentence": "누리기술 발표자는 오류 건수를 보여 준 뒤 “현재 수치는 잠정치입니다.”라고 밝혔습니다. 발표 기록에도 이 말이 그대로 인용되어 있었습니다. 분석자는 이를 최종 수치로 평가하지 않고 다음 주 재집계를 기다리겠다고 했습니다.",
+    "cloze": "잠정치입니다",
+    "answer": "잠정치입니다",
+    "accepted_answers": [],
+    "lemma": "누리기술 발표자는 현재 오류 건수가 잠정치라고 밝히다",
+    "meaning": "The current figure is provisional",
+    "audio": "work/audio/ko-KR/05/ko-05-0958.mp3"
+  },
+  {
+    "id": "ko-05-0959",
+    "sentence": "가람센터 운영 회의에서 최나영 팀장은 수정안 검토 요청을 받았습니다. 회의록은 최 팀장의 답을 “원문과 다시 대조해 보겠습니다.”라고 기록했습니다. 의장은 이 답변을 승인으로 해석하지 않고 최 팀장의 후속 확인 약속으로 정리했습니다.",
+    "cloze": "다시 대조해 보겠습니다",
+    "answer": "다시 대조해 보겠습니다",
+    "accepted_answers": [],
+    "lemma": "가람센터 운영팀장은 수정안을 원문과 다시 대조해 보겠다고 답하다",
+    "meaning": "I will compare it against the original text again",
+    "audio": "work/audio/ko-KR/05/ko-05-0959.mp3"
+  },
+  {
+    "id": "ko-05-0960",
+    "sentence": "푸른마루 시설 발표에서 점검 담당자는 두 건물의 일정을 구분했습니다. 발표 자료에는 “동관은 이번 주에, 서관은 다음 주에 점검합니다.”라고 적혀 있었습니다. 기록자는 이 일정을 담당자의 계획으로 인용했으며 실제 완료 시점은 점검 뒤 확인하겠다고 밝혔습니다.",
+    "cloze": "서관은 다음 주에 점검합니다",
+    "answer": "서관은 다음 주에 점검합니다",
+    "accepted_answers": [],
+    "lemma": "푸른마루 시설 담당자는 동관은 이번 주에, 서관은 다음 주에 점검한다고 발표하다",
+    "meaning": "The east wing will be inspected this week, and the west wing next week",
+    "audio": "work/audio/ko-KR/05/ko-05-0960.mp3"
   }
 ]
