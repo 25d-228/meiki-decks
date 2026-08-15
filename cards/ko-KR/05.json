@@ -16001,5 +16001,405 @@
     "lemma": "지역 강좌 명단 오류 상신 결과에 승인 즉시 누락 명단을 복원함을 후속 조치로 표기하다",
     "meaning": "follow-up action: restore the omitted roster entries immediately after approval",
     "audio": "work/audio/ko-KR/05/ko-05-1600.mp3"
+  },
+  {
+    "id": "ko-05-1601",
+    "sentence": "분석담당자: 분기 서비스 보고서의 표와 그래프는 검토를 마쳤고 결론 문단은 비어 있어요. 다음 주부터 박 주임이 보고서를 맡기로 했으니 검토가 끝난 부분부터 넘겨드릴게요. 받으시면 오늘 메신저로 알려 주세요. 남은 결론 문단을 보완해 금요일에 팀장에게 보고해 주세요.",
+    "cloze": "검토가 끝난 부분부터 넘겨드릴게요",
+    "answer": "검토가 끝난 부분부터 넘겨드릴게요",
+    "accepted_answers": [],
+    "lemma": "검토를 마친 분기 서비스 보고서 부분부터 새 담당자에게 넘겨드리다",
+    "meaning": "I will hand over the reviewed parts first",
+    "audio": "work/audio/ko-KR/05/ko-05-1601.mp3"
+  },
+  {
+    "id": "ko-05-1602",
+    "sentence": "업체관리자: 납품 검사표의 수량 대조는 끝났지만 불량품 세 건의 원인은 확인 중입니다. 오늘부터 업체 대응을 맡는 이 대리에게 검사표와 사진을 보내고 미확인 항목 목록도 함께 인계하겠습니다. 이 대리는 파일 수를 확인해 회신하고 내일 공급업체 회의에서 원인 확인 일정을 보고해 주십시오.",
+    "cloze": "미확인 항목 목록도 함께 인계하겠습니다",
+    "answer": "미확인 항목 목록도 함께 인계하겠습니다",
+    "accepted_answers": [],
+    "lemma": "납품 검사표와 불량 사진을 미확인 항목 목록과 함께 새 업체관리자에게 인계하다",
+    "meaning": "I will hand over the unresolved-items list as well",
+    "audio": "work/audio/ko-KR/05/ko-05-1602.mp3"
+  },
+  {
+    "id": "ko-05-1603",
+    "sentence": "이전 편집자: 행사 안내서 본문은 교정을 마쳤고 찾아보기 쪽수 다섯 곳은 아직 맞추지 못했습니다. 내일부터 정 편집자님이 최종 교정을 맡으십니다. 교정본과 수정표를 받는 대로 수신 확인 부탁드립니다. 확인 후 남은 쪽수를 맞춰 목요일에 출판부장님께 보고해 주십시오.",
+    "cloze": "받는 대로 수신 확인 부탁드립니다",
+    "answer": "받는 대로 수신 확인 부탁드립니다",
+    "accepted_answers": [],
+    "lemma": "새 편집자에게 교정본과 수정표를 받는 대로 수신 확인을 부탁드리다",
+    "meaning": "please confirm receipt as soon as you receive them",
+    "audio": "work/audio/ko-KR/05/ko-05-1603.mp3"
+  },
+  {
+    "id": "ko-05-1604",
+    "sentence": "오전 시설담당자: 냉방기 점검표와 열화상 사진은 공유 폴더에 올렸고 서쪽 회의실의 재측정만 남았습니다. 오후 담당인 한 기사님이 자료와 업무를 이어받습니다. 인계표에 서명하시면 업무 담당이 바뀝니다. 서명 뒤 재측정해 저녁 일지에 결과를 남겨 주십시오.",
+    "cloze": "인계표에 서명하시면 업무 담당이 바뀝니다",
+    "answer": "인계표에 서명하시면 업무 담당이 바뀝니다",
+    "accepted_answers": [],
+    "lemma": "오후 시설담당자가 인계표에 서명하면 냉방기 점검 담당이 바뀌다",
+    "meaning": "once you sign the handoff sheet, responsibility changes",
+    "audio": "work/audio/ko-KR/05/ko-05-1604.mp3"
+  },
+  {
+    "id": "ko-05-1605",
+    "sentence": "자료관리자: 고객 자료 이관표에서 팔천 건은 대조를 마쳤고 서른 건은 원본 확인이 필요합니다. 다음 근무자인 조 주임이 대조표와 원본 위치표를 맡습니다. 끝내지 못한 항목은 따로 표시해 두었습니다. 조 주임은 받은 파일 수와 표시된 건수를 확인해 회신하고 내일 오전에 대조 결과를 정보관리팀장에게 보고해 주십시오.",
+    "cloze": "끝내지 못한 항목은 따로 표시해 두었습니다",
+    "answer": "끝내지 못한 항목은 따로 표시해 두었습니다",
+    "accepted_answers": [],
+    "lemma": "고객 자료 이관표에서 끝내지 못한 원본 대조 항목을 따로 표시해 두다",
+    "meaning": "I have marked the unfinished items separately",
+    "audio": "work/audio/ko-KR/05/ko-05-1605.mp3"
+  },
+  {
+    "id": "ko-05-1606",
+    "sentence": "사업관리자: 업체별 견적표는 두 곳까지 확인했고 세 번째 업체의 운송비 확인이 남았습니다. 제가 오늘까지만 맡으므로 이어서 맡을 분은 윤 대리입니다. 윤 대리는 견적표와 확인 메모가 든 공유 폴더를 열어 봤다고 회신한 뒤 내일 견적 비교 결과를 구매팀장에게 보고해 주십시오.",
+    "cloze": "이어서 맡을 분은 윤 대리입니다",
+    "answer": "이어서 맡을 분은 윤 대리입니다",
+    "accepted_answers": [],
+    "lemma": "업체별 견적표의 남은 운송비 확인을 이어서 맡을 사람을 윤 대리로 밝히다",
+    "meaning": "Assistant Manager Yun will take over from here",
+    "audio": "work/audio/ko-KR/05/ko-05-1606.mp3"
+  },
+  {
+    "id": "ko-05-1607",
+    "sentence": "외주관리자: 촬영업체 계약서는 서명을 마쳤고 보험 증명서 갱신만 남았습니다. 내일부터 업체 연락을 맡는 강 주임에게 계약서와 연락 기록을 보냅니다. 자료를 받았다고 먼저 알려 주십시오. 강 주임은 보험 증명서를 확인해 수요일 운영회의에서 갱신 여부를 보고해 주십시오.",
+    "cloze": "자료를 받았다고 먼저 알려 주십시오",
+    "answer": "자료를 받았다고 먼저 알려 주십시오",
+    "accepted_answers": [],
+    "lemma": "외주 계약 자료를 인수한 새 담당자가 먼저 수신 사실을 알리다",
+    "meaning": "please let me know first that you received the materials",
+    "audio": "work/audio/ko-KR/05/ko-05-1607.mp3"
+  },
+  {
+    "id": "ko-05-1608",
+    "sentence": "회의기록담당자: 결정 사항은 회의록에 반영했고 담당 부서 두 곳의 이행 확인이 남았습니다. 다음 달부터 회의 후속 관리를 맡는 서 대리에게 회의록과 확인표를 넘깁니다. 파일을 받았다고 답한 뒤 후속 보고까지 이어서 맡아 주십시오. 서 대리는 다음 회의에서 두 부서의 이행 여부를 보고해 주십시오.",
+    "cloze": "후속 보고까지 이어서 맡아 주십시오",
+    "answer": "후속 보고까지 이어서 맡아 주십시오",
+    "accepted_answers": [],
+    "lemma": "회의록과 확인표를 인수한 새 담당자가 부서 이행 확인과 후속 보고까지 이어서 맡다",
+    "meaning": "please take over through the follow-up report",
+    "audio": "work/audio/ko-KR/05/ko-05-1608.mp3"
+  },
+  {
+    "id": "ko-05-1609",
+    "sentence": "보고담당자: 월간 판매 보고서 초안과 근거 표를 폴더에 올렸어요. 매출 표는 검토했고 반품 분석은 아직 쓰지 못했어요. 제가 내일부터 휴가라서 박 대리가 이어서 맡아요. 초안과 검토 의견을 함께 넘겨드릴게요. 박 대리는 받았다고 회신한 뒤 반품 분석을 보완해 금요일에 영업팀장에게 보고해 주세요.",
+    "cloze": "초안과 검토 의견을 함께 넘겨드릴게요",
+    "answer": "초안과 검토 의견을 함께 넘겨드릴게요",
+    "accepted_answers": [],
+    "lemma": "월간 판매 보고서 초안과 검토 의견을 후임 보고담당자에게 함께 넘기다",
+    "meaning": "I will hand over the draft together with the review comments",
+    "audio": "work/audio/ko-KR/05/ko-05-1609.mp3"
+  },
+  {
+    "id": "ko-05-1610",
+    "sentence": "조사원: 설문 원자료에서 중복 응답은 제거했고 자유 응답 분류는 남았습니다. 이번 주부터 분석 담당이 최 연구원으로 바뀝니다. 정제된 자료와 제외 기준을 인계합니다. 최 연구원은 파일 수를 확인해 회신하고 화요일 연구회의에서 분류 결과를 보고해 주십시오.",
+    "cloze": "정제된 자료와 제외 기준을 인계합니다",
+    "answer": "정제된 자료와 제외 기준을 인계합니다",
+    "accepted_answers": [],
+    "lemma": "설문 정제 자료와 중복 응답 제외 기준을 새 분석 담당자에게 인계하다",
+    "meaning": "I am handing over the cleaned data and the exclusion criteria",
+    "audio": "work/audio/ko-KR/05/ko-05-1610.mp3"
+  },
+  {
+    "id": "ko-05-1611",
+    "sentence": "제작업체 기존 담당자: 화면 시안 열두 장 중 여덟 장은 고객사의 승인을 받았고 네 장은 수정이 남았습니다. 오늘부터 오 디자이너가 이 작업을 이어받습니다. 수정이 남은 화면은 목록에 표시했습니다. 오 디자이너는 시안을 받았다고 회신한 뒤 수정본을 수요일에 고객사 기획팀으로 보내 주십시오.",
+    "cloze": "수정이 남은 화면은 목록에 표시했습니다",
+    "answer": "수정이 남은 화면은 목록에 표시했습니다",
+    "accepted_answers": [],
+    "lemma": "웹 화면 시안 가운데 수정이 남은 네 장을 인계 목록에 표시하다",
+    "meaning": "I marked the screens that still need revision on the list",
+    "audio": "work/audio/ko-KR/05/ko-05-1611.mp3"
+  },
+  {
+    "id": "ko-05-1612",
+    "sentence": "번역담당자: 앱 안내문 이십 쪽 중 열여섯 쪽은 번역을 마쳤고 오류 메시지 네 쪽이 남았습니다. 제가 다른 계약 업무로 이동하게 되어 이 대리가 번역문과 용어집을 이어받습니다. 이 대리는 파일을 받았다고 회신한 뒤 남은 네 쪽을 번역해 월요일에 품질담당자에게 보고해 주십시오.",
+    "cloze": "이 대리가 번역문과 용어집을 이어받습니다",
+    "answer": "이 대리가 번역문과 용어집을 이어받습니다",
+    "accepted_answers": [],
+    "lemma": "후임 번역담당자인 이 대리가 앱 안내 번역문과 용어집을 이어받다",
+    "meaning": "Assistant Manager Lee will take over the translation and glossary",
+    "audio": "work/audio/ko-KR/05/ko-05-1612.mp3"
+  },
+  {
+    "id": "ko-05-1613",
+    "sentence": "주간 설비담당자: 냉각 장치 두 대는 점검을 마쳤고 삼 호기의 진동 측정이 남았습니다. 야간 담당인 김 기사에게 점검표와 측정 장비 위치를 넘겼습니다. 인계 내용을 확인했다고 답해 주십시오. 김 기사는 자정까지 측정값을 야간 운영일지에 기록해 주십시오.",
+    "cloze": "인계 내용을 확인했다고 답해 주십시오",
+    "answer": "인계 내용을 확인했다고 답해 주십시오",
+    "accepted_answers": [],
+    "lemma": "야간 설비담당자에게 냉각 장치 점검 인계 내용을 확인했다고 답하게 하다",
+    "meaning": "please reply that you have reviewed the handoff details",
+    "audio": "work/audio/ko-KR/05/ko-05-1613.mp3"
+  },
+  {
+    "id": "ko-05-1614",
+    "sentence": "회계담당자: 이번 달 계산서 스물다섯 장은 대조했고 금액이 일치하지 않는 두 장은 거래처 답변을 기다리고 있어요. 오후부터 정 대리가 계산서 묶음과 대조표를 맡아요. 정 대리는 자료를 받았다고 회신하고 남은 두 장을 확인해 주세요. 내일 대조 결과를 팀장에게 보고해 주세요.",
+    "cloze": "내일 대조 결과를 팀장에게 보고해 주세요",
+    "answer": "내일 대조 결과를 팀장에게 보고해 주세요",
+    "accepted_answers": [],
+    "lemma": "계산서 대조 업무를 인수한 새 회계담당자가 다음 날 결과를 팀장에게 보고하다",
+    "meaning": "please report the reconciliation result to the manager tomorrow",
+    "audio": "work/audio/ko-KR/05/ko-05-1614.mp3"
+  },
+  {
+    "id": "ko-05-1615",
+    "sentence": "현장조사원: 북쪽 구간의 촬영은 마쳤지만 서쪽 출입구 두 곳은 비 때문에 찍지 못했습니다. 보고서 작성 담당이 김 주임으로 바뀌어 현장 사진과 위치표를 김 주임께 넘깁니다. 김 주임은 받은 파일 수를 회신하고 맑은 날 두 곳을 추가 촬영해 목요일에 조사책임자에게 진행 상황을 보고해 주십시오.",
+    "cloze": "현장 사진과 위치표를 김 주임께 넘깁니다",
+    "answer": "현장 사진과 위치표를 김 주임께 넘깁니다",
+    "accepted_answers": [],
+    "lemma": "시설 조사 현장 사진과 촬영 위치표를 새 보고서 작성 담당자에게 넘기다",
+    "meaning": "I am handing the field photographs and location chart to Assistant Manager Kim",
+    "audio": "work/audio/ko-KR/05/ko-05-1615.mp3"
+  },
+  {
+    "id": "ko-05-1616",
+    "sentence": "고객지원담당자: 문의 열여덟 건은 답변했고 업체 확인이 필요한 네 건은 남아 있습니다. 제 근무가 끝나면 새 담당인 임 주임에게 상담 기록과 업체 연락처가 넘어갑니다. 미답변 문의 네 건은 새 담당자가 맡습니다. 임 주임은 기록을 확인했다고 답하고 내일 오전 업체의 답변 내용을 고객지원팀장에게 보고해 주십시오.",
+    "cloze": "미답변 문의 네 건은 새 담당자가 맡습니다",
+    "answer": "미답변 문의 네 건은 새 담당자가 맡습니다",
+    "accepted_answers": [],
+    "lemma": "답변하지 못한 고객 문의 네 건을 상담 기록과 함께 새 담당자가 맡다",
+    "meaning": "the new owner will take the four unanswered inquiries",
+    "audio": "work/audio/ko-KR/05/ko-05-1616.mp3"
+  },
+  {
+    "id": "ko-05-1617",
+    "sentence": "행사담당자: 참가 신청은 마감됐고 특별 식단 요청 세 건은 확인이 남았습니다. 급식업체의 새 담당인 최 실장님께 참가 명단과 식단 요청표를 보냅니다. 자료를 받으면 명단 인원수를 알려 주십시오. 최 실장님은 세 요청을 확인해 수요일에 최종 식단을 행사운영팀으로 보내 주십시오.",
+    "cloze": "자료를 받으면 명단 인원수를 알려 주십시오",
+    "answer": "자료를 받으면 명단 인원수를 알려 주십시오",
+    "accepted_answers": [],
+    "lemma": "행사 참가 명단과 식단 요청표를 인수한 급식업체 담당자가 명단 인원수를 알리다",
+    "meaning": "when you receive the materials, please report the roster count",
+    "audio": "work/audio/ko-KR/05/ko-05-1617.mp3"
+  },
+  {
+    "id": "ko-05-1618",
+    "sentence": "데이터담당자: 월별 자료 파일 스무 개 중 열여덟 개는 계산식을 검증했고 두 파일은 계산식 점검이 남았습니다. 다음 주부터 배 대리가 자료 갱신을 맡습니다. 검증한 파일과 점검 메모를 인계하겠습니다. 배 대리는 파일 수를 확인해 회신하고 남은 계산식을 점검해 월요일 분석회의에서 보고해 주십시오.",
+    "cloze": "검증한 파일과 점검 메모를 인계하겠습니다",
+    "answer": "검증한 파일과 점검 메모를 인계하겠습니다",
+    "accepted_answers": [],
+    "lemma": "계산식을 검증한 월별 자료와 남은 점검 메모를 후임 데이터담당자에게 인계하다",
+    "meaning": "I will hand over the validated files and inspection notes",
+    "audio": "work/audio/ko-KR/05/ko-05-1618.mp3"
+  },
+  {
+    "id": "ko-05-1619",
+    "sentence": "자막업체 담당자: 강연 영상 여섯 편 중 다섯 편은 자막 수정을 마쳤고 마지막 영상의 인명 표기만 남았습니다. 계약이 끝나서 내부의 윤 주임님이 자막 파일과 표기 목록을 이어서 맡으십니다. 윤 주임: 자막 수정본은 제가 인수하겠습니다. 파일을 받는 즉시 회신하고 인명 표기를 확인해 금요일에 홍보팀장께 보고드리겠습니다.",
+    "cloze": "자막 수정본은 제가 인수하겠습니다",
+    "answer": "자막 수정본은 제가 인수하겠습니다",
+    "accepted_answers": [],
+    "lemma": "외주 계약 종료 뒤 강연 영상 자막 수정본을 내부 담당자가 인수하다",
+    "meaning": "I will take over the revised captions",
+    "audio": "work/audio/ko-KR/05/ko-05-1619.mp3"
+  },
+  {
+    "id": "ko-05-1620",
+    "sentence": "조달담당자: 납품 수량표와 창고 입고표를 대조했고 수량 차이 세 건은 공급업체가 확인 중입니다. 제가 부서를 옮기게 되어 다음 확인은 신 주임이 맡습니다. 신 주임에게 두 표와 업체 연락 기록을 넘겼으니 자료를 받았다고 회신해 주십시오. 업체 답변이 오면 금요일 조달회의에서 차이 원인을 보고해 주십시오.",
+    "cloze": "차이 세 건은 공급업체가 확인 중입니다",
+    "answer": "차이 세 건은 공급업체가 확인 중입니다",
+    "accepted_answers": [],
+    "lemma": "납품 수량표와 입고표의 차이 세 건이 공급업체 확인 중인 상태로 후임자에게 인계되다",
+    "meaning": "the supplier is checking the three discrepancies",
+    "audio": "work/audio/ko-KR/05/ko-05-1620.mp3"
+  },
+  {
+    "id": "ko-05-1621",
+    "sentence": "새 인사담당자: 직원 안내서 개정안은 휴가 항목까지 검토됐고 원격 근무 항목은 아직 법무팀 답변을 기다리고 있습니다. 제가 다음 주부터 개정을 맡으니 기존 담당자님은 개정안과 문의 기록을 보내 주십시오. 보완할 항목까지 적어 넘겨 주십시오. 제가 자료를 받았다고 회신하고 답변이 오면 목요일 인사팀 회의에서 수정 방향을 보고하겠습니다.",
+    "cloze": "보완할 항목까지 적어 넘겨 주십시오",
+    "answer": "보완할 항목까지 적어 넘겨 주십시오",
+    "accepted_answers": [],
+    "lemma": "직원 안내서 개정안에 보완할 원격 근무 항목까지 적어 새 인사담당자에게 넘기다",
+    "meaning": "please note the items that need work and hand them over too",
+    "audio": "work/audio/ko-KR/05/ko-05-1621.mp3"
+  },
+  {
+    "id": "ko-05-1622",
+    "sentence": "지표담당자: 주간 대시보드에는 유월 자료까지 반영됐고 이용자 만족도만 아직 집계 전이에요. 제가 다른 지표를 맡게 되어 갱신표와 계산 기준은 최 대리에게 넘겼어요. 월요일부터 최 대리가 갱신을 맡아요. 최 대리는 파일을 열어 봤다고 회신하고 만족도를 반영해 화요일 운영회의에서 결과를 알려 주세요.",
+    "cloze": "월요일부터 최 대리가 갱신을 맡아요",
+    "answer": "월요일부터 최 대리가 갱신을 맡아요",
+    "accepted_answers": [],
+    "lemma": "주간 대시보드 자료와 계산 기준을 인수한 최 대리가 월요일부터 갱신을 맡다",
+    "meaning": "Assistant Manager Choi will take over updates starting Monday",
+    "audio": "work/audio/ko-KR/05/ko-05-1622.mp3"
+  },
+  {
+    "id": "ko-05-1623",
+    "sentence": "문서관리자: 종료된 계약 스무 건은 보관 폴더로 옮겼고 갱신 예정인 두 건은 분류가 남았습니다. 새 보관 담당인 문 주임에게 계약 목록과 분류 기준을 보냈습니다. 문 주임은 계약 목록을 받았다고 회신했습니다. 두 건을 분류한 뒤 금요일에 문서관리책임자에게 보관 현황을 보고하기로 했습니다.",
+    "cloze": "계약 목록을 받았다고 회신했습니다",
+    "answer": "계약 목록을 받았다고 회신했습니다",
+    "accepted_answers": [],
+    "lemma": "새 문서관리담당자가 계약 목록을 받았다고 기존 담당자에게 회신하다",
+    "meaning": "the new owner replied that the contract list had been received",
+    "audio": "work/audio/ko-KR/05/ko-05-1623.mp3"
+  },
+  {
+    "id": "ko-05-1624",
+    "sentence": "이전 교육담당자: 안전 교육 자료는 배포했고 출석표에서 서명 다섯 건을 확인하지 못했습니다. 내일부터 오 주임이 교육 기록을 맡아 자료와 출석표를 넘겨받습니다. 받은 파일 수를 알려 주십시오.\n오 주임: 파일 여섯 개를 받았습니다. 출석표 확인 뒤 결과를 공유하겠습니다. 금요일 교육운영회의에서 미확인 서명의 처리 결과도 보고하겠습니다.",
+    "cloze": "출석표 확인 뒤 결과를 공유하겠습니다",
+    "answer": "출석표 확인 뒤 결과를 공유하겠습니다",
+    "accepted_answers": [],
+    "lemma": "안전 교육 기록을 인수한 새 담당자가 출석표 확인 뒤 처리 결과를 공유하다",
+    "meaning": "I will share the result after checking the attendance sheet",
+    "audio": "work/audio/ko-KR/05/ko-05-1624.mp3"
+  },
+  {
+    "id": "ko-05-1625",
+    "sentence": "프로젝트담당자: 위험 관리표에서 일정 위험 네 건은 대응 방안을 정했고 공급 지연 두 건은 아직 검토 중입니다. 제가 다음 단계 업무를 맡게 되어 새 담당인 하 대리에게 관리표와 업체 메일을 넘겼습니다. 하 대리는 자료를 받았다고 회신하고 공급 지연 대책을 정리해 수요일 사업책임자에게 진행 상황을 보고해 주십시오.",
+    "cloze": "공급 지연 두 건은 아직 검토 중입니다",
+    "answer": "공급 지연 두 건은 아직 검토 중입니다",
+    "accepted_answers": [],
+    "lemma": "프로젝트 위험 관리표의 공급 지연 항목 두 건을 검토 중인 상태로 후임자에게 넘기다",
+    "meaning": "two risk items are still under review",
+    "audio": "work/audio/ko-KR/05/ko-05-1625.mp3"
+  },
+  {
+    "id": "ko-05-1626",
+    "sentence": "업체점검담당자: 승강기 정기 수리는 끝났지만 소음 재측정이 남았습니다. 유지보수업체가 제출한 수리 기록은 시설팀으로 인계됐습니다. 새 담당인 고 주임은 기록을 받았다고 회신하고 금요일 재측정에 참석해 결과를 시설팀장에게 보고할 예정입니다.",
+    "cloze": "수리 기록은 시설팀으로 인계됐습니다",
+    "answer": "수리 기록은 시설팀으로 인계됐습니다",
+    "accepted_answers": [],
+    "lemma": "승강기 수리 기록을 소음 재측정 업무와 함께 시설팀 새 담당자에게 인계하다",
+    "meaning": "the repair records have been handed over to the facilities team",
+    "audio": "work/audio/ko-KR/05/ko-05-1626.mp3"
+  },
+  {
+    "id": "ko-05-1627",
+    "sentence": "조사담당자: 주민 면담 열두 건은 정리했고 녹취 두 건은 익명 처리가 남았습니다. 다음 달부터 분석을 맡는 송 연구원에게 면담 메모와 원자료 위치를 넘겼습니다. 송 연구원은 접근 여부를 회신하고 익명 처리를 마쳐 월요일 책임연구원께 진행 상황을 보고해 주십시오.",
+    "cloze": "면담 메모와 원자료 위치를 넘겼습니다",
+    "answer": "면담 메모와 원자료 위치를 넘겼습니다",
+    "accepted_answers": [],
+    "lemma": "주민 면담 메모와 원자료 보관 위치를 새 분석 담당 연구원에게 넘기다",
+    "meaning": "I handed over the interview notes and the location of the raw data",
+    "audio": "work/audio/ko-KR/05/ko-05-1627.mp3"
+  },
+  {
+    "id": "ko-05-1628",
+    "sentence": "소식지담당자: 칠월호 원고는 편집을 마쳤고 인쇄소의 종이 견본 확인만 남았습니다. 팔월부터 배포 업무를 맡는 남 주임에게 원고와 인쇄 일정표를 넘겼고 수신 회신도 받았습니다. 다음 배포 일정은 새 담당자가 보고합니다. 남 주임은 견본을 확인해 금요일 홍보실 회의에서 배포 일정을 알려 주십시오.",
+    "cloze": "다음 배포 일정은 새 담당자가 보고합니다",
+    "answer": "다음 배포 일정은 새 담당자가 보고합니다",
+    "accepted_answers": [],
+    "lemma": "소식지 원고와 인쇄 일정표를 인수한 새 담당자가 다음 배포 일정을 보고하다",
+    "meaning": "the new owner will report the next distribution schedule",
+    "audio": "work/audio/ko-KR/05/ko-05-1628.mp3"
+  },
+  {
+    "id": "ko-05-1629",
+    "sentence": "팀원: 부장님이 김 대리에게 새 업무를 지시하신 겁니까? 선임: 아닙니다. 퇴직하는 이 주임이 작성하던 운영 보고서와 근거 자료를 김 대리에게 넘겼고, 초안은 끝났지만 결론 검토가 남았습니다. 김 대리는 수신을 확인하고 금요일에 결론을 부장님께 보고하기로 했습니다. 새 담당자에게 책임을 넘기는 인계입니다.",
+    "cloze": "새 담당자에게 책임을 넘기는 인계입니다",
+    "answer": "새 담당자에게 책임을 넘기는 인계입니다",
+    "accepted_answers": [],
+    "lemma": "기존 담당자의 보고서와 남은 검토 책임을 새 담당자에게 넘기는 인계를 업무 지시와 구별하다",
+    "meaning": "it is a handoff that transfers responsibility to a new owner",
+    "audio": "work/audio/ko-KR/05/ko-05-1629.mp3"
+  },
+  {
+    "id": "ko-05-1630",
+    "sentence": "직원: 정리된 사진 폴더를 박 주임에게 보낸 것은 단순히 파일을 전달한 것입니까? 관리자: 아닙니다. 촬영은 끝났지만 사진 설명 작성이 남았고, 최 대리가 맡던 설명 작성 책임이 박 주임에게 넘어갔습니다. 박 주임은 폴더 수신을 확인하고 수요일에 완성본을 홍보팀장에게 보고합니다. 파일 전달이 아니라 업무 인계입니다.",
+    "cloze": "파일 전달이 아니라 업무 인계입니다",
+    "answer": "파일 전달이 아니라 업무 인계입니다",
+    "accepted_answers": [],
+    "lemma": "사진 폴더와 남은 설명 작성 책임이 함께 넘어간 상황을 단순 파일 전달과 업무 인계로 구별하다",
+    "meaning": "this is a work handoff, not merely file delivery",
+    "audio": "work/audio/ko-KR/05/ko-05-1630.mp3"
+  },
+  {
+    "id": "ko-05-1631",
+    "sentence": "담당자: 업체 점검표의 육십 퍼센트는 확인됐고 나머지는 새 담당인 안 주임이 이어서 검토합니다. 이전 담당자가 표와 연락 기록을 넘겼고 안 주임도 수신을 확인했습니다. 안 주임은 목요일에 검토 결과를 계약팀장에게 보고합니다. 윗선의 결정을 받으려고 올리는 겁니까? 선임: 상신이 아니라 담당 교체입니다.",
+    "cloze": "상신이 아니라 담당 교체입니다",
+    "answer": "상신이 아니라 담당 교체입니다",
+    "accepted_answers": [],
+    "lemma": "정기적인 업체 점검 담당 변경과 자료 인계를 상급자에게 결정을 요청하는 상신과 구별하다",
+    "meaning": "this is a change of owner, not an escalation",
+    "audio": "work/audio/ko-KR/05/ko-05-1631.mp3"
+  },
+  {
+    "id": "ko-05-1632",
+    "sentence": "직원: 조사 보고서 초안과 표를 문 주임에게 넘기고 수신 확인도 받았습니다. 표 검토는 끝났지만 면담 결과 문단은 문 주임이 더 써야 하고 금요일에 연구책임자에게 보고합니다. 이 기록은 업무가 모두 끝났다는 보고입니까? 선임: 완료 보고가 아니라 미완료 업무 인계입니다.",
+    "cloze": "완료 보고가 아니라 미완료 업무 인계입니다",
+    "answer": "완료 보고가 아니라 미완료 업무 인계입니다",
+    "accepted_answers": [],
+    "lemma": "조사 보고서 초안과 남은 면담 문단 책임을 넘긴 기록을 완료 보고와 미완료 업무 인계로 구별하다",
+    "meaning": "this is a handoff of unfinished work, not a completion report",
+    "audio": "work/audio/ko-KR/05/ko-05-1632.mp3"
+  },
+  {
+    "id": "ko-05-1633",
+    "sentence": "사원: 이전 담당자가 공급업체 비교표를 보냈고 세 곳 중 두 곳은 검토를 마쳤으며 한 곳은 운송비 확인 중이라고 적었습니다. 새 담당인 제가 파일을 열어 봤다고 답했고 내일 운송비를 확인해 조달팀장에게 보고합니다. 이 답장은 단순한 인사입니까? 팀장: 이 답장이 인수 확인에 해당합니다.",
+    "cloze": "이 답장이 인수 확인에 해당합니다",
+    "answer": "이 답장이 인수 확인에 해당합니다",
+    "accepted_answers": [],
+    "lemma": "새 조달담당자의 파일 수신 답장을 공급업체 비교 업무의 인수 확인으로 해석하다",
+    "meaning": "this reply counts as acknowledgment of the handoff",
+    "audio": "work/audio/ko-KR/05/ko-05-1633.mp3"
+  },
+  {
+    "id": "ko-05-1634",
+    "sentence": "직원: 월간 이용 자료와 계산표는 서 대리에게 넘어갔고 서 대리도 파일을 열어 봤다고 회신했습니다. 지난달 수치는 반영됐지만 이번 달 만족도 집계가 남아 있습니다. 서 대리가 화요일에 집계를 마쳐 운영회의에서 보고하기로 했습니다. 이전 담당자가 계속 보고합니까? 선임: 후속 보고 책임자는 서 대리입니다.",
+    "cloze": "후속 보고 책임자는 서 대리입니다",
+    "answer": "후속 보고 책임자는 서 대리입니다",
+    "accepted_answers": [],
+    "lemma": "월간 이용 자료를 인수한 서 대리를 남은 만족도 집계의 후속 보고 책임자로 해석하다",
+    "meaning": "Assistant Manager Seo is responsible for the follow-up report",
+    "audio": "work/audio/ko-KR/05/ko-05-1634.mp3"
+  },
+  {
+    "id": "ko-05-1635",
+    "sentence": "[사월 운영 보고서 인계 기록]\n인계자: 운영분석팀 이 대리\n인계 자료: 사월 운영 보고서 초안\n현재 상태: 본문 작성 완료\n남은 작업: 표 설명 세 문장 보완\n새 담당자: 기획팀 박 주임\n인수 확인: 메신저 회신 완료\n후속 보고: 수요일 팀장 보고",
+    "cloze": "인계 자료: 사월 운영 보고서 초안",
+    "answer": "인계 자료: 사월 운영 보고서 초안",
+    "accepted_answers": [],
+    "lemma": "사월 운영 보고서 인계 기록에 운영 보고서 초안을 인계 자료로 표기하다",
+    "meaning": "handoff material: draft April operations report",
+    "audio": "work/audio/ko-KR/05/ko-05-1635.mp3"
+  },
+  {
+    "id": "ko-05-1636",
+    "sentence": "[화면 시안 인계표]\n인계자: 제작업체 조 디자이너\n인계 자료: 화면 시안 열여섯 장\n현재 상태: 시안 열두 장 검토 완료\n남은 작업: 네 장의 색상 수정\n새 담당자: 제작업체 오 디자이너\n인수 확인: 파일 수신 회신 완료\n후속 보고: 목요일 고객사 보고",
+    "cloze": "현재 상태: 시안 열두 장 검토 완료",
+    "answer": "현재 상태: 시안 열두 장 검토 완료",
+    "accepted_answers": [],
+    "lemma": "화면 시안 인계표에 열두 장의 검토 완료를 현재 상태로 표기하다",
+    "meaning": "current status: review of twelve mockups complete",
+    "audio": "work/audio/ko-KR/05/ko-05-1636.mp3"
+  },
+  {
+    "id": "ko-05-1637",
+    "sentence": "[시설 점검 보고 인계서]\n인계자: 현장점검팀 배 주임\n인계 자료: 누수 사진 및 측정표\n현재 상태: 현장 측정 완료\n남은 작업: 누수 원인 문단 보완\n새 담당자: 시설보고팀 한 대리\n인수 확인: 공유 폴더 열람 완료\n후속 보고: 금요일 시설팀장 보고",
+    "cloze": "남은 작업: 누수 원인 문단 보완",
+    "answer": "남은 작업: 누수 원인 문단 보완",
+    "accepted_answers": [],
+    "lemma": "시설 점검 보고 인계서에 누수 원인 문단 보완을 남은 작업으로 표기하다",
+    "meaning": "remaining work: complete the paragraph on the cause of the leak",
+    "audio": "work/audio/ko-KR/05/ko-05-1637.mp3"
+  },
+  {
+    "id": "ko-05-1638",
+    "sentence": "[설문 자료 인계 확인서]\n인계자: 조사운영팀 윤 대리\n인계 자료: 정제 자료 및 제외 목록\n현재 상태: 중복 응답 제거 완료\n남은 작업: 자유 응답 분류\n새 담당자: 조사분석팀 김 주임\n인수 확인: 자료 스무 개 수신\n후속 보고: 화요일 연구회의 보고",
+    "cloze": "새 담당자: 조사분석팀 김 주임",
+    "answer": "새 담당자: 조사분석팀 김 주임",
+    "accepted_answers": [],
+    "lemma": "설문 자료 인계 확인서에 조사분석팀 김 주임을 새 담당자로 표기하다",
+    "meaning": "new owner: Assistant Manager Kim, Survey Analysis Team",
+    "audio": "work/audio/ko-KR/05/ko-05-1638.mp3"
+  },
+  {
+    "id": "ko-05-1639",
+    "sentence": "[소식지 교정 인계 기록]\n인계자: 외주 편집자 정민수\n인계 자료: 교정본 및 수정표\n현재 상태: 본문 교정 완료\n남은 작업: 찾아보기 쪽수 확인\n새 담당자: 출판팀 서 주임\n인수 확인: 교정본과 수정표 수신 완료\n후속 보고: 월요일 출판부장 보고",
+    "cloze": "인수 확인: 교정본과 수정표 수신 완료",
+    "answer": "인수 확인: 교정본과 수정표 수신 완료",
+    "accepted_answers": [],
+    "lemma": "소식지 교정 인계 기록에 교정본과 수정표 수신 완료를 인수 확인으로 표기하다",
+    "meaning": "acknowledgment: proof and correction sheet received",
+    "audio": "work/audio/ko-KR/05/ko-05-1639.mp3"
+  },
+  {
+    "id": "ko-05-1640",
+    "sentence": "[예산 집계 업무 인계표]\n인계자: 회계팀 오 주임\n인계 자료: 지출표 및 증빙 목록\n현재 상태: 다섯 부서 집계 완료\n남은 작업: 두 부서 증빙 대조\n새 담당자: 회계팀 임 대리\n인수 확인: 전자우편 회신 완료\n후속 보고: 금요일 오전 재무과장 보고",
+    "cloze": "후속 보고: 금요일 오전 재무과장 보고",
+    "answer": "후속 보고: 금요일 오전 재무과장 보고",
+    "accepted_answers": [],
+    "lemma": "예산 집계 업무 인계표에 금요일 오전 재무과장 보고를 후속 보고로 표기하다",
+    "meaning": "follow-up report: report to the finance section chief Friday morning",
+    "audio": "work/audio/ko-KR/05/ko-05-1640.mp3"
   }
 ]
