@@ -19217,5 +19217,411 @@
     "meaning": "the evaluation criteria were applied consistently",
     "note": "동사 ‘일관되다’가 뒤의 ‘적용되었다’를 꾸밀 때는 부사형 ‘일관되게’로 쓴다.",
     "audio": "work/audio/ko-KR/05/ko-05-1920.mp3"
+  },
+  {
+    "id": "ko-05-1921",
+    "sentence": "도서관은 좌석 예약 화면의 입력 단계를 다섯 단계에서 세 단계로 줄였다. 한 달 뒤 미완료 신청 비율이 십이 퍼센트에서 칠 퍼센트로 낮아졌다.\n\n더 나아가 모바일 신청 소요 시간도 줄었다. 다만 같은 기간에 서버도 교체되어 두 변화가 모두 화면 개편 때문이라고 단정할 수는 없다.",
+    "cloze": "더 나아가 모바일 신청 소요 시간도 줄었다",
+    "answer": "더 나아가 모바일 신청 소요 시간도 줄었다",
+    "accepted_answers": [],
+    "lemma": "도서관 예약 화면 개편 뒤 모바일 신청 소요 시간 단축을 추가 결과로 제시하다",
+    "meaning": "furthermore, the time required for mobile applications also decreased",
+    "audio": "work/audio/ko-KR/05/ko-05-1921.mp3"
+  },
+  {
+    "id": "ko-05-1922",
+    "sentence": "생활용품 공동 배송 거점을 두 곳 늘리자 참여 가구의 평균 이동 거리가 일 점 이 킬로미터에서 팔백 미터로 줄었다. 이는 거점 확대로 이용자의 이동 부담이 줄었다는 뜻이다.\n\n이에 더해 회수된 상자 수도 늘었다. 다만 운송 횟수 감소 여부는 다음 달 차량 기록을 확인해야 판단할 수 있다.",
+    "cloze": "이에 더해 회수된 상자 수도 늘었다",
+    "answer": "이에 더해 회수된 상자 수도 늘었다",
+    "accepted_answers": [],
+    "lemma": "공동 배송 거점 확대 뒤 회수된 상자 수 증가를 부가 결과로 연결하다",
+    "meaning": "in addition, the number of returned boxes increased",
+    "audio": "work/audio/ko-KR/05/ko-05-1922.mp3"
+  },
+  {
+    "id": "ko-05-1923",
+    "sentence": "온라인 안내서를 개편한 뒤 평일 낮의 단순 문의는 삼 주 연속 줄었다. 검색어별 방문 기록에서도 개편된 문서가 가장 자주 열렸다.\n\n그와 달리 야간 문의는 거의 줄지 않았다. 야간 이용자가 같은 문서를 찾지 못한 것인지, 문의 내용 자체가 다른 것인지는 추가로 확인해야 한다.",
+    "cloze": "그와 달리 야간 문의는 거의 줄지 않았다",
+    "answer": "그와 달리 야간 문의는 거의 줄지 않았다",
+    "accepted_answers": [],
+    "lemma": "온라인 안내서 개편 뒤 평일 낮 문의 감소와 야간 문의 정체를 대조하다",
+    "meaning": "by contrast, nighttime inquiries barely decreased",
+    "audio": "work/audio/ko-KR/05/ko-05-1923.mp3"
+  },
+  {
+    "id": "ko-05-1924",
+    "sentence": "시범 강좌의 전체 과제 제출률은 이전 학기보다 십 퍼센트포인트 높았다. 특히 주간반은 제출률이 이십 퍼센트포인트 올랐다.\n\n반면에 야간반의 제출률은 달라지지 않았다. 따라서 전체 평균만으로 두 반에서 같은 효과가 나타났다고 해석해서는 안 된다.",
+    "cloze": "반면에 야간반의 제출률은 달라지지 않았다",
+    "answer": "반면에 야간반의 제출률은 달라지지 않았다",
+    "accepted_answers": [],
+    "lemma": "시범 강좌의 주간반 제출률 상승과 야간반 제출률 정체를 대조하다",
+    "meaning": "in contrast, the submission rate for the evening class did not change",
+    "audio": "work/audio/ko-KR/05/ko-05-1924.mp3"
+  },
+  {
+    "id": "ko-05-1925",
+    "sentence": "상담 뒤에 요약 문자를 받은 이용자는 같은 내용을 다시 묻는 비율이 낮았다. 면담에서도 여러 이용자가 문자로 답변을 다시 확인할 수 있었다고 말했다.\n\n안내를 다시 볼 수 있었기 때문으로 보인다. 다만 문자를 받지 않은 집단과 배정 조건이 달랐으므로 인과 효과의 크기는 단정하기 어렵다.",
+    "cloze": "안내를 다시 볼 수 있었기 때문으로 보인다",
+    "answer": "안내를 다시 볼 수 있었기 때문으로 보인다",
+    "accepted_answers": [],
+    "lemma": "상담 요약 문자 뒤 재문의 감소를 안내 재확인 가능성으로 잠정 설명하다",
+    "meaning": "this appears to be because the guidance could be consulted again",
+    "audio": "work/audio/ko-KR/05/ko-05-1925.mp3"
+  },
+  {
+    "id": "ko-05-1926",
+    "sentence": "민원 분류표에 담당 부서를 선택하는 항목을 추가했다. 이전에는 접수 뒤 다른 부서로 옮겨진 민원이 한 주에 평균 열네 건이었지만, 변경 뒤에는 일곱 건이었다.\n\n그 결과 재배정 건수가 절반으로 줄었다. 처리 시간까지 짧아졌는지는 완료 시각 자료를 별도로 비교해야 한다.",
+    "cloze": "그 결과 재배정 건수가 절반으로 줄었다",
+    "answer": "그 결과 재배정 건수가 절반으로 줄었다",
+    "accepted_answers": [],
+    "lemma": "민원 담당 부서 선택 항목 추가의 결과로 재배정 건수가 절반 감소하다",
+    "meaning": "as a result, the number of reassignments fell by half",
+    "audio": "work/audio/ko-KR/05/ko-05-1926.mp3"
+  },
+  {
+    "id": "ko-05-1927",
+    "sentence": "여러 사람이 동시에 문서를 고칠 때에는 수정 권한만으로 변경 충돌을 막기 어렵다. 누가 어느 부분을 맡는지도 미리 정해야 한다.\n\n대표적인 예가 공동 편집 중 덮어쓰기다. 지난달에는 두 담당자가 같은 표를 동시에 바꾸면서 최신 수치 한 줄이 사라졌다.",
+    "cloze": "대표적인 예가 공동 편집 중 덮어쓰기다",
+    "answer": "대표적인 예가 공동 편집 중 덮어쓰기다",
+    "accepted_answers": [],
+    "lemma": "공동 문서의 역할 배정 필요성을 공동 편집 중 덮어쓰기 사례로 구체화하다",
+    "meaning": "a representative example is overwriting during collaborative editing",
+    "audio": "work/audio/ko-KR/05/ko-05-1927.mp3"
+  },
+  {
+    "id": "ko-05-1928",
+    "sentence": "온라인 설명회 접속자는 지난해보다 늘었지만, 질의응답에 참여한 사람의 비율은 그대로였다. 접속자가 늘어난 것과 실제 발언 참여가 늘어난 것은 서로 다른 결과다.\n\n달리 말하면 참여 장벽은 남아 있다. 다음 설명회에서는 질문을 글로도 받을 수 있게 한 뒤 참여 비율을 다시 확인할 필요가 있다.",
+    "cloze": "달리 말하면 참여 장벽은 남아 있다",
+    "answer": "달리 말하면 참여 장벽은 남아 있다",
+    "accepted_answers": [],
+    "lemma": "온라인 설명회 접속 증가에도 발언 참여 장벽이 남았다고 재진술하다",
+    "meaning": "in other words, barriers to participation remain",
+    "audio": "work/audio/ko-KR/05/ko-05-1928.mp3"
+  },
+  {
+    "id": "ko-05-1929",
+    "sentence": "시범 상담 창구는 기존 창구보다 평균 대기 시간이 육 분 짧았다. 이용자 불만도 스무 건에서 열두 건으로 줄었지만, 시범 기간은 혼잡하지 않은 이 주뿐이었다.\n\n종합하면 시범 운영을 이어 갈 필요가 있다. 다만 전면 확대 여부는 혼잡한 달의 기록까지 확보한 뒤 판단하는 것이 타당하다.",
+    "cloze": "종합하면 시범 운영을 이어 갈 필요가 있다",
+    "answer": "종합하면 시범 운영을 이어 갈 필요가 있다",
+    "accepted_answers": [],
+    "lemma": "대기 시간과 불만 기록 및 짧은 조사 기간을 종합해 상담 창구 시범을 연장하다",
+    "meaning": "taken together, the pilot operation should be continued",
+    "audio": "work/audio/ko-KR/05/ko-05-1929.mp3"
+  },
+  {
+    "id": "ko-05-1930",
+    "sentence": "복지관의 온라인 신청 완료율은 다른 강좌보다 컴퓨터 기초 강좌에서 낮았다. 중단 화면을 살펴보니 본인 인증 단계에 이탈이 집중되어 있었다.\n\n복잡한 인증 절차가 한 배경으로 보인다. 다만 신청자의 디지털 경험도 영향을 줄 수 있으므로 절차를 간소화한 뒤 두 요인을 함께 살펴야 한다.",
+    "cloze": "복잡한 인증 절차가 한 배경으로 보인다",
+    "answer": "복잡한 인증 절차가 한 배경으로 보인다",
+    "accepted_answers": [],
+    "lemma": "컴퓨터 기초 강좌의 낮은 온라인 신청 완료율 배경으로 복잡한 인증 절차를 잠정 제시하다",
+    "meaning": "a complicated authentication process appears to be one factor behind this",
+    "audio": "work/audio/ko-KR/05/ko-05-1930.mp3"
+  },
+  {
+    "id": "ko-05-1931",
+    "sentence": "전자 안내판을 설치한 뒤 길 찾기 질문은 하루 평균 서른 건에서 열여덟 건으로 줄었다. 새 안내판이 기본 동선을 알리는 데에는 도움이 된 것으로 보인다.\n\n그렇다고 종이 안내가 불필요한 것은 아니다. 전원이 꺼진 두 차례에는 종이 지도를 찾는 방문자가 다시 늘었다.",
+    "cloze": "그렇다고 종이 안내가 불필요한 것은 아니다",
+    "answer": "그렇다고 종이 안내가 불필요한 것은 아니다",
+    "accepted_answers": [],
+    "lemma": "전자 안내판의 효과를 인정하면서도 종이 안내의 필요성을 유지하다",
+    "meaning": "that does not mean that printed guidance is unnecessary",
+    "audio": "work/audio/ko-KR/05/ko-05-1931.mp3"
+  },
+  {
+    "id": "ko-05-1932",
+    "sentence": "자동 분류 기능은 한 시간에 처리하는 문서 수를 늘렸다. 그러나 잘못 분류된 문서를 사람이 바로잡는 데에는 이전보다 더 긴 시간이 들었다.\n\n달리 말하면 처리량만으로는 부족하다. 분류 기준을 보완한 뒤 정확도와 수정 시간까지 함께 평가해야 한다.",
+    "cloze": "달리 말하면 처리량만으로는 부족하다",
+    "answer": "달리 말하면 처리량만으로는 부족하다",
+    "accepted_answers": [],
+    "lemma": "자동 문서 분류의 처리량 증가와 수정 부담을 처리량만으로는 부족하다고 바꾸어 말하다",
+    "meaning": "put differently, throughput alone is insufficient",
+    "audio": "work/audio/ko-KR/05/ko-05-1932.mp3"
+  },
+  {
+    "id": "ko-05-1933",
+    "sentence": "공공 자전거 대여 기록에서는 강변 거점의 주말 이용이 꾸준히 늘었다. 이 기록은 해당 거점의 수요가 커졌다는 사실을 보여 준다.\n\n여기에 이용자 면담 결과를 덧붙일 수 있다. 면담 참여자들은 자전거 도로와 가까운 점을 선택 이유로 들었지만, 열 명의 의견만으로 전체 이용자의 이유를 확정할 수는 없다.",
+    "cloze": "여기에 이용자 면담 결과를 덧붙일 수 있다",
+    "answer": "여기에 이용자 면담 결과를 덧붙일 수 있다",
+    "accepted_answers": [],
+    "lemma": "공공 자전거 대여 증가 기록에 이용자의 거점 선택 이유를 담은 면담 결과를 추가하다",
+    "meaning": "the user interview findings can be added to this evidence",
+    "audio": "work/audio/ko-KR/05/ko-05-1933.mp3"
+  },
+  {
+    "id": "ko-05-1934",
+    "sentence": "재택근무 시범의 전체 업무 완료 건수는 이전 달과 비슷했다. 그러나 새로 입사한 직원의 완료 건수는 줄었고, 경력 직원의 완료 건수는 늘었다.\n\n전체 평균과 집단별 변화는 구분해야 한다. 평균만 제시하면 두 집단이 서로 다른 방향으로 변한 사실이 드러나지 않는다.",
+    "cloze": "전체 평균과 집단별 변화는 구분해야 한다",
+    "answer": "전체 평균과 집단별 변화는 구분해야 한다",
+    "accepted_answers": [],
+    "lemma": "재택근무 업무 완료 건수의 전체 평균과 경력별 변화를 대조해 구분하다",
+    "meaning": "the overall average must be distinguished from changes by group",
+    "audio": "work/audio/ko-KR/05/ko-05-1934.mp3"
+  },
+  {
+    "id": "ko-05-1935",
+    "sentence": "박물관은 휴관일을 바꾼 첫 주에 예전 일정이 적힌 검색 결과를 수정하지 못했다. 같은 주에 월요일 방문 문의가 평소의 세 배로 늘었다.\n\n문의 증가는 오래된 일정 노출로 설명된다. 검색 결과를 고친 다음 주에는 같은 문의가 이전 수준으로 돌아왔다는 기록도 이 설명을 뒷받침한다.",
+    "cloze": "문의 증가는 오래된 일정 노출로 설명된다",
+    "answer": "문의 증가는 오래된 일정 노출로 설명된다",
+    "accepted_answers": [],
+    "lemma": "박물관 휴관일 문의 증가를 검색 결과의 오래된 일정 노출로 설명하다",
+    "meaning": "the increase in inquiries is explained by the display of outdated hours",
+    "audio": "work/audio/ko-KR/05/ko-05-1935.mp3"
+  },
+  {
+    "id": "ko-05-1936",
+    "sentence": "지역 축제 기간에 버스 이용과 상점 매출이 함께 늘었다. 두 수치는 같은 시기에 움직였지만, 날씨와 방문객 수 등 다른 조건도 달랐다.\n\n동시 발생만으로 원인을 설명할 수는 없다. 축제가 두 증가를 일으켰다고 판단하려면 평소 같은 기간과 주변 지역의 자료가 더 필요하다.",
+    "cloze": "동시 발생만으로 원인을 설명할 수는 없다",
+    "answer": "동시 발생만으로 원인을 설명할 수는 없다",
+    "accepted_answers": [],
+    "lemma": "축제 기간 버스 이용과 상점 매출의 동시 증가만으로 원인을 설명하지 않다",
+    "meaning": "co-occurrence alone cannot explain the cause",
+    "audio": "work/audio/ko-KR/05/ko-05-1936.mp3"
+  },
+  {
+    "id": "ko-05-1937",
+    "sentence": "전화 상담 기록의 칠십 퍼센트가 오전 아홉 시부터 열한 시 사이에 몰렸다. 오후에는 상담원의 대기 시간이 길었지만 오전에는 응답 지연이 반복됐다.\n\n따라서 오전 상담 인력을 늘려야 한다. 오후 인력을 모두 옮기기보다 두 시간 동안 한 명을 추가한 뒤 응답 시간을 비교하는 방안이 적절하다.",
+    "cloze": "따라서 오전 상담 인력을 늘려야 한다",
+    "answer": "따라서 오전 상담 인력을 늘려야 한다",
+    "accepted_answers": [],
+    "lemma": "시간대별 전화 상담 집중 기록에서 오전 인력 추가 배치라는 결과를 도출하다",
+    "meaning": "therefore, more counseling staff should be assigned in the morning",
+    "audio": "work/audio/ko-KR/05/ko-05-1937.mp3"
+  },
+  {
+    "id": "ko-05-1938",
+    "sentence": "서비스 규칙은 이용자가 실제로 선택해야 하는 순간에 제시할 때 이해하기 쉽다. 긴 안내문 첫머리에 모든 예외를 모으면 필요한 조건을 놓치기 쉽다.\n\n예약 취소 안내에서도 이를 확인할 수 있다. 취소 버튼 옆에 수수료 조건을 표시한 뒤 관련 재문의가 한 달 동안 스물한 건에서 아홉 건으로 줄었다.",
+    "cloze": "예약 취소 안내에서도 이를 확인할 수 있다",
+    "answer": "예약 취소 안내에서도 이를 확인할 수 있다",
+    "accepted_answers": [],
+    "lemma": "선택 시점에 조건을 제시하는 원칙을 예약 취소 안내 사례로 구체화하다",
+    "meaning": "the reservation-cancellation guidance provides an example of this principle",
+    "audio": "work/audio/ko-KR/05/ko-05-1938.mp3"
+  },
+  {
+    "id": "ko-05-1939",
+    "sentence": "중앙 지점은 번호표에 예상 대기 시간을 표시한 뒤 대기 중 이탈이 줄었다. 이 사례는 남은 시간을 알려 주는 방식이 이용자의 판단을 도울 수 있음을 보여 준다.\n\n다만 모든 지점에 적용할 근거는 부족하다. 중앙 지점은 좌석 수와 직원 수가 다른 지점보다 많으므로, 두 소규모 지점에서 별도로 시험할 필요가 있다.",
+    "cloze": "다만 모든 지점에 적용할 근거는 부족하다",
+    "answer": "다만 모든 지점에 적용할 근거는 부족하다",
+    "accepted_answers": [],
+    "lemma": "중앙 지점의 예상 대기 시간 표시 사례를 모든 지점에 일반화할 근거가 부족하다고 제한하다",
+    "meaning": "however, there is insufficient basis for applying it to every branch",
+    "audio": "work/audio/ko-KR/05/ko-05-1939.mp3"
+  },
+  {
+    "id": "ko-05-1940",
+    "sentence": "새 접수 방식에서는 창구 앞 대기 인원이 줄었지만 하루에 처리한 신청 건수는 이전과 같았다. 일부 신청자가 방문 대신 미리 예약했기 때문이다.\n\n대기 감소가 처리량 증가를 뜻하지는 않는다. 이번 결과는 방문 시점이 분산되었다는 의미로 해석하는 것이 정확하다.",
+    "cloze": "대기 감소가 처리량 증가를 뜻하지는 않는다",
+    "answer": "대기 감소가 처리량 증가를 뜻하지는 않는다",
+    "accepted_answers": [],
+    "lemma": "접수 창구의 대기 인원 감소를 처리량 증가와 같은 의미로 해석하지 않다",
+    "meaning": "a decrease in waiting and an increase in throughput do not mean the same thing",
+    "audio": "work/audio/ko-KR/05/ko-05-1940.mp3"
+  },
+  {
+    "id": "ko-05-1941",
+    "sentence": "교실 환기 장치를 가동한 날에는 이산화탄소 농도가 기준을 넘은 시간이 짧았다. 다만 측정한 교실은 두 곳이고, 창문을 연 시간도 일정하지 않았다.\n\n현재로서는 개선 가능성만 확인된다. 장치의 효과를 결론 내리기 전에 같은 조건으로 더 많은 교실을 비교해야 한다.",
+    "cloze": "현재로서는 개선 가능성만 확인된다",
+    "answer": "현재로서는 개선 가능성만 확인된다",
+    "accepted_answers": [],
+    "lemma": "두 교실의 환기 장치 측정에서 공기 질 개선 가능성만 잠정 결론으로 제시하다",
+    "meaning": "for now, only the possibility of improvement has been established",
+    "audio": "work/audio/ko-KR/05/ko-05-1941.mp3"
+  },
+  {
+    "id": "ko-05-1942",
+    "sentence": "시청 기록은 재생을 멈춘 시점을 보여 주고, 면담은 시청자가 영상을 멈춘 이유를 설명한다. 첫 자료만으로는 행동의 이유를 알 수 없고, 둘째 자료만으로는 중단이 얼마나 잦았는지 알 수 없다.\n\n두 자료는 서로 보완적인 정보를 제공한다. 따라서 중단 지점의 분포와 면담에서 반복된 설명을 구분해 함께 제시해야 한다.",
+    "cloze": "두 자료는 서로 보완적인 정보를 제공한다",
+    "answer": "두 자료는 서로 보완적인 정보를 제공한다",
+    "accepted_answers": [],
+    "lemma": "영상 시청 기록과 면담이 중단 시점과 이유에 관한 상호 보완적 정보를 제공하다",
+    "meaning": "the two sources provide complementary information",
+    "audio": "work/audio/ko-KR/05/ko-05-1942.mp3"
+  },
+  {
+    "id": "ko-05-1943",
+    "sentence": "두 안내안은 서로 다른 기준을 앞세운다. 간단한 안내안은 제작비가 적고, 음성 설명을 포함한 안내안은 더 많은 이용자가 내용을 접할 수 있다.\n\n전자는 비용을, 후자는 접근성을 우선한다. 어느 안이 더 적절한지는 이번 사업에서 두 기준에 부여한 비중을 밝혀야 판단할 수 있다.",
+    "cloze": "전자는 비용을, 후자는 접근성을 우선한다",
+    "answer": "전자는 비용을, 후자는 접근성을 우선한다",
+    "accepted_answers": [],
+    "lemma": "간단한 안내안의 비용 기준과 음성 안내안의 접근성 기준을 전자와 후자로 대조하다",
+    "meaning": "the former prioritizes cost, while the latter prioritizes accessibility",
+    "audio": "work/audio/ko-KR/05/ko-05-1943.mp3"
+  },
+  {
+    "id": "ko-05-1944",
+    "sentence": "지원서 작성 화면에는 필수 입력란이 열두 개 있었고, 네 번째 화면부터 중단 비율이 급격히 높아졌다. 이용자 면담에서도 같은 내용을 여러 번 적어야 한다는 불만이 반복됐다.\n\n긴 신청 절차가 이탈을 늘린 것으로 보인다. 다만 입력란을 줄인 뒤 이탈률이 실제로 낮아지는지 확인해야 이 설명을 강화할 수 있다.",
+    "cloze": "긴 신청 절차가 이탈을 늘린 것으로 보인다",
+    "answer": "긴 신청 절차가 이탈을 늘린 것으로 보인다",
+    "accepted_answers": [],
+    "lemma": "지원서의 긴 신청 절차가 온라인 작성 중도 이탈 증가의 원인으로 보인다고 설명하다",
+    "meaning": "the lengthy application process appears to have increased abandonment",
+    "audio": "work/audio/ko-KR/05/ko-05-1944.mp3"
+  },
+  {
+    "id": "ko-05-1945",
+    "sentence": "연구 자료 표에 단위와 조사 날짜를 함께 표시한 뒤 담당자가 원문을 다시 찾는 횟수가 줄었다. 검토자도 수치의 기준 시점을 표 안에서 바로 확인할 수 있었다.\n\n이 변화로 원문을 다시 찾는 부담이 줄었다. 다음 보고서에서도 같은 표기 방식을 사용하되, 실제 절감 시간은 한 달 동안 기록하기로 했다.",
+    "cloze": "이 변화로 원문을 다시 찾는 부담이 줄었다",
+    "answer": "이 변화로 원문을 다시 찾는 부담이 줄었다",
+    "accepted_answers": [],
+    "lemma": "연구 자료 표에 단위와 날짜를 병기한 결과 원문을 다시 찾는 부담이 감소하다",
+    "meaning": "this change reduced the burden of consulting the original source again",
+    "audio": "work/audio/ko-KR/05/ko-05-1945.mp3"
+  },
+  {
+    "id": "ko-05-1946",
+    "sentence": "새 공유 절차는 외부 전송을 모두 막지 않는다. 담당자가 수신인과 목적을 기록하면 공개가 승인된 자료는 계속 보낼 수 있다.\n\n핵심은 금지가 아니라 기록에 있다. 따라서 이 절차는 자료 이용 자체보다 전송 책임을 분명히 하는 조치로 이해해야 한다.",
+    "cloze": "핵심은 금지가 아니라 기록에 있다",
+    "answer": "핵심은 금지가 아니라 기록에 있다",
+    "accepted_answers": [],
+    "lemma": "외부 자료 공유 절차의 핵심을 전송 금지가 아닌 책임 기록으로 재정의하다",
+    "meaning": "the point is documentation, not prohibition",
+    "audio": "work/audio/ko-KR/05/ko-05-1946.mp3"
+  },
+  {
+    "id": "ko-05-1947",
+    "sentence": "공용 장비 예약 시범에서 중복 예약은 열 건에서 두 건으로 줄었다. 반면 야간 근무자는 예약 가능한 시간이 부족하다고 답했고, 시범 기간도 이 주에 그쳤다.\n\n따라서 시범을 한 달 연장해야 한다. 운영팀은 야간 시간을 추가한 뒤 중복 예약과 시간대별 이용을 다시 비교해야 한다.",
+    "cloze": "따라서 시범을 한 달 연장해야 한다",
+    "answer": "따라서 시범을 한 달 연장해야 한다",
+    "accepted_answers": [],
+    "lemma": "공용 장비 예약 시범의 성과와 야간 이용 한계를 근거로 전면 도입 대신 한 달 연장을 결론 내리다",
+    "meaning": "therefore, a one-month extension is more appropriate than full adoption",
+    "audio": "work/audio/ko-KR/05/ko-05-1947.mp3"
+  },
+  {
+    "id": "ko-05-1948",
+    "sentence": "세 지점의 기록에서는 새 안내문 뒤 서류 누락이 줄었다. 그러나 조사하지 않은 아홉 지점의 업무 방식은 다르고, 이용자 만족도도 측정하지 않았다.\n\n결론은 확인된 범위를 벗어나서는 안 된다. 새 안내문이 세 지점의 누락 감소와 관련 있다는 점까지만 보고하고, 전체 확대는 추가 시험 뒤 판단한다.",
+    "cloze": "결론은 확인된 범위를 벗어나서는 안 된다",
+    "answer": "결론은 확인된 범위를 벗어나서는 안 된다",
+    "accepted_answers": [],
+    "lemma": "세 지점의 서류 누락 감소 결과에 대한 결론이 확인된 지점 범위를 벗어나지 않게 하다",
+    "meaning": "the conclusion must not exceed the verified scope",
+    "audio": "work/audio/ko-KR/05/ko-05-1948.mp3"
+  },
+  {
+    "id": "ko-05-1949",
+    "sentence": "[지역 서점 지원 사업 분석]\n매출 집계표는 참여 서점 여섯 곳의 주말 매출이 평균 십오 퍼센트 늘었다고 기록한다. 상인 면담서는 공동 홍보가 신규 방문을 늘렸다는 평가를 담지만, 면담자는 네 명뿐이다.\n\n앞의 자료에는 증가 규모가 제시되어 있다. 뒤의 자료에는 상인이 판단한 변화의 이유가 제시되어 있으므로 두 내용을 같은 종류의 근거로 다루어서는 안 된다.",
+    "cloze": "앞의 자료에는 증가 규모가 제시되어 있다",
+    "answer": "앞의 자료에는 증가 규모가 제시되어 있다",
+    "accepted_answers": [],
+    "lemma": "지역 서점 매출 집계표에는 주말 매출의 증가 규모가 제시되어 있다고 출처 역할을 해석하다",
+    "meaning": "the first source presents the scale of the increase",
+    "audio": "work/audio/ko-KR/05/ko-05-1949.mp3"
+  },
+  {
+    "id": "ko-05-1950",
+    "sentence": "[교내 알림 서비스 설명문]\n알림을 받은 학생의 기한 내 서류 제출률은 이전 학기보다 높았다. 다만 알림을 신청한 학생은 원래 일정 관리에 더 적극적이었을 수 있다.\n\n이 한계로 알림 효과를 확정할 수 없다. 설명문의 결론은 알림을 모든 학생에게 의무화하자는 것이 아니라 무작위로 나눈 두 집단에서 다시 시험하자는 것이다.",
+    "cloze": "이 한계로 알림 효과를 확정할 수 없다",
+    "answer": "이 한계로 알림 효과를 확정할 수 없다",
+    "accepted_answers": [],
+    "lemma": "교내 알림 신청자의 자기 선택 한계 때문에 서비스 효과를 확정하지 않다",
+    "meaning": "because of this limitation, the effect of the reminders is not established",
+    "audio": "work/audio/ko-KR/05/ko-05-1950.mp3"
+  },
+  {
+    "id": "ko-05-1951",
+    "sentence": "[공원 쓰레기 감소 자료 해석]\n공원 입구의 쓰레기통을 늘린 뒤 입구 주변의 쓰레기는 줄었다. 같은 기간 산책로 안쪽의 쓰레기 양은 달라지지 않았다.\n\n후자의 정체는 조치의 범위를 보여 준다. 즉, 이번 기록은 입구 주변의 개선을 뒷받침하지만 공원 전체가 깨끗해졌다는 결론까지 뒷받침하지는 않는다.",
+    "cloze": "후자의 정체는 조치의 범위를 보여 준다",
+    "answer": "후자의 정체는 조치의 범위를 보여 준다",
+    "accepted_answers": [],
+    "lemma": "공원 산책로 안쪽 쓰레기 양의 정체를 쓰레기통 증설 조치의 범위로 해석하다",
+    "meaning": "the lack of change in the latter shows the scope of the measure",
+    "audio": "work/audio/ko-KR/05/ko-05-1951.mp3"
+  },
+  {
+    "id": "ko-05-1952",
+    "sentence": "[자료 보관 원칙 해설]\n중요한 파일은 한 장치에만 두지 말고 복구 가능한 별도 위치에도 보관해야 한다. 단순히 같은 컴퓨터의 다른 폴더에 복사하는 것은 장치 고장에 대비한 보관이 아니다.\n\n이는 물리적 분리로 볼 수 없다. 해설의 요점은 폴더 이름을 달리하는 것이 아니라 한 장치가 고장 나도 자료를 복구할 수 있게 하는 데 있다.",
+    "cloze": "이는 물리적 분리로 볼 수 없다",
+    "answer": "이는 물리적 분리로 볼 수 없다",
+    "accepted_answers": [],
+    "lemma": "같은 컴퓨터의 다른 폴더에 둔 복사본을 물리적으로 분리된 보관으로 보지 않다",
+    "meaning": "this cannot be regarded as physical separation",
+    "audio": "work/audio/ko-KR/05/ko-05-1952.mp3"
+  },
+  {
+    "id": "ko-05-1953",
+    "sentence": "[복지 서비스 이용 결과 요약]\n방문 상담과 전화 상담 모두 이용자의 재문의가 줄었다. 보고서는 이를 ‘같은 결과’라고 표현했지만 감소 폭까지 같다고 쓰지는 않았다.\n\n여기서 같은 결과란 감소 방향을 뜻한다. 방문 상담은 십 퍼센트, 전화 상담은 사 퍼센트 줄었으므로 변화의 크기는 구분해서 제시해야 한다.",
+    "cloze": "여기서 같은 결과란 감소 방향을 뜻한다",
+    "answer": "여기서 같은 결과란 감소 방향을 뜻한다",
+    "accepted_answers": [],
+    "lemma": "복지 서비스 요약의 같은 결과를 동일한 감소 폭이 아닌 공통 감소 방향으로 재해석하다",
+    "meaning": "here, the same result means the direction of decrease",
+    "audio": "work/audio/ko-KR/05/ko-05-1953.mp3"
+  },
+  {
+    "id": "ko-05-1954",
+    "sentence": "[급식 잔반 분석 결론]\n소형 접시를 제공한 두 학급에서는 남은 음식의 무게가 줄었다. 그러나 두 학급은 자발적으로 조사에 참여했고, 음식 종류도 지난달과 달랐다.\n\n결론은 추가 비교가 필요하다는 것이다. 분석자는 접시 교체를 즉시 확대하자는 것이 아니라 같은 식단을 제공한 학급들을 다시 비교하자고 결론 내렸다.",
+    "cloze": "결론은 추가 비교가 필요하다는 것이다",
+    "answer": "결론은 추가 비교가 필요하다는 것이다",
+    "accepted_answers": [],
+    "lemma": "급식 접시 크기와 잔반 무게의 관계에 대해 같은 식단을 사용한 추가 비교가 필요하다고 최종 판단하다",
+    "meaning": "the final judgment is that an additional comparison is needed",
+    "audio": "work/audio/ko-KR/05/ko-05-1954.mp3"
+  },
+  {
+    "id": "ko-05-1955",
+    "sentence": "[원격 교육 참여 분석]\n녹화 강의는 교대 근무자도 원하는 시간에 볼 수 있다는 장점이 있다. 실제로 야간 근무자의 재생 건수는 이전보다 늘었다.\n\n한편, 실시간 질문 참여율은 낮아졌다. 따라서 다음 과정에서는 녹화 강의를 유지하되 주마다 한 차례 질문 시간을 따로 마련할 필요가 있다.",
+    "cloze": "한편, 실시간 질문 참여율은 낮아졌다",
+    "answer": "한편, 실시간 질문 참여율은 낮아졌다",
+    "accepted_answers": [],
+    "lemma": "원격 교육의 녹화 강의 이용 증가와 실시간 질문 참여율 감소를 새 문단에서 대조하다",
+    "meaning": "meanwhile, participation in live questions decreased",
+    "note": "새 문단의 ‘한편’ 뒤에 쉼표를 두어 앞 문단의 장점과 대조되는 논점의 시작을 드러낸다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1955.mp3"
+  },
+  {
+    "id": "ko-05-1956",
+    "sentence": "[주민 의견 수렴 방식 설명]\n한 가지 방식만 사용하면 참여하기 어려운 주민의 의견이 빠질 수 있다. 온라인 설문과 현장 면담을 함께 운영하면 서로 다른 참여 조건을 보완할 수 있다.\n\n예를 들어, 인터넷 이용이 어려운 주민은 현장에서 답할 수 있다. 반대로 방문이 어려운 주민은 온라인 설문에 참여할 수 있다.",
+    "cloze": "예를 들어, 인터넷 이용이 어려운 주민은",
+    "answer": "예를 들어, 인터넷 이용이 어려운 주민은",
+    "accepted_answers": [],
+    "lemma": "주민 의견 수렴 방식의 상호 보완성을 인터넷 이용이 어려운 주민의 현장 응답 예로 설명하다",
+    "meaning": "for example, residents who have difficulty using the internet",
+    "note": "문단 첫머리의 ‘예를 들어’ 뒤에 쉼표를 두어 일반 설명에서 구체적인 사례로 넘어가는 경계를 표시한다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1956.mp3"
+  },
+  {
+    "id": "ko-05-1957",
+    "sentence": "[도서 반납 방식 개편 해설]\n무인 반납함을 늘린 뒤 운영 시간 밖의 반납은 증가했지만 창구 반납은 감소했다. 전체 반납 권수에는 큰 변화가 없었다.\n\n즉, 반납 시점이 달라진 것이다. 이번 결과는 독서량 증가가 아니라 이용자가 반납 시간을 더 자유롭게 선택한 변화로 보아야 한다.",
+    "cloze": "즉, 반납 시점이 달라진 것이다",
+    "answer": "즉, 반납 시점이 달라진 것이다",
+    "accepted_answers": [],
+    "lemma": "무인 반납함 확대 뒤 운영 시간 밖 반납 증가와 창구 반납 감소를 전체량이 아닌 반납 시점 변화로 바꾸어 표현하다",
+    "meaning": "that is, the timing of returns changed",
+    "note": "‘즉’ 뒤의 쉼표가 앞 문단의 수치를 짧게 풀어 쓰는 재진술이 시작됨을 나타낸다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1957.mp3"
+  },
+  {
+    "id": "ko-05-1958",
+    "sentence": "[회의 자료 배포 절차 분석]\n이번 회의 자료는 회의 직전에 배포되어 참석자가 수치를 확인할 시간이 부족했다. 회의 중에도 여러 참석자가 수치의 산출 기준을 확인하지 못했다고 밝혔다.\n\n그 결과, 결정이 다음 회의로 미뤄졌다. 자료를 이틀 전에 배포하고 질문 마감 시각을 함께 알리는 방안이 필요한 이유다.",
+    "cloze": "그 결과, 결정이 다음 회의로 미뤄졌다",
+    "answer": "그 결과, 결정이 다음 회의로 미뤄졌다",
+    "accepted_answers": [],
+    "lemma": "회의 자료의 늦은 배포 결과로 결정이 다음 회의까지 연기되었다고 문단을 연결하다",
+    "meaning": "as a result, the decision was postponed until the next meeting",
+    "note": "둘째 문단에서 ‘그 결과’ 뒤에 쉼표를 두어 앞 문단의 상황에서 이어지는 결과를 또렷하게 구분한다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1958.mp3"
+  },
+  {
+    "id": "ko-05-1959",
+    "sentence": "[공공 와이파이 시범 평가]\n접속 성공률은 높아졌고 평균 연결 시간도 짧아졌다. 다만 지하 공간은 측정하지 않았으며, 시험에 사용한 기기도 세 종류뿐이었다.\n\n요컨대, 성능 개선의 확인 범위는 좁다. 지하 공간과 다른 기기를 포함한 다음 시험 뒤에 설치 확대 여부를 결정해야 한다.",
+    "cloze": "요컨대, 성능 개선의 확인 범위는 좁다",
+    "answer": "요컨대, 성능 개선의 확인 범위는 좁다",
+    "accepted_answers": [],
+    "lemma": "공공 와이파이 시범에서 확인된 성능 개선의 범위가 좁다고 ‘요컨대’로 요약하다",
+    "meaning": "in short, the confirmed scope of the performance improvement is narrow",
+    "note": "문단 첫머리에서 ‘요컨대’ 뒤에 쉼표를 두어 앞 문단의 성과와 측정 범위를 한 판단으로 요약한다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1959.mp3"
+  },
+  {
+    "id": "ko-05-1960",
+    "sentence": "[지역 강좌 홍보 분석]\n문자 안내를 받은 기존 수강생의 재신청은 늘었지만 신규 신청자는 거의 늘지 않았다. 포스터를 본 주민 면담에서는 강좌 대상과 신청 기한이 잘 보이지 않는다는 의견이 반복됐다.\n\n결론적으로, 현재 홍보만으로는 부족하다. 다음 모집에서는 문자 안내를 유지하면서 포스터의 대상과 기한을 크게 표시하고 신규 신청 변화를 측정해야 한다.",
+    "cloze": "결론적으로, 현재 홍보만으로는 부족하다",
+    "answer": "결론적으로, 현재 홍보만으로는 부족하다",
+    "accepted_answers": [],
+    "lemma": "지역 강좌의 재신청 증가와 신규 신청 정체를 종합해 현재 홍보만으로는 부족하다고 결론짓다",
+    "meaning": "in conclusion, the current outreach alone is insufficient",
+    "note": "마지막 문단의 ‘결론적으로’ 뒤에 쉼표를 두어 앞선 근거를 종합한 최종 판단이 시작됨을 표시한다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1960.mp3"
   }
 ]
