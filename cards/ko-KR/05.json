@@ -12000,5 +12000,406 @@
     "lemma": "한 차례 시험 결과를 근거보다 단정하지 않도록 관찰된 시험 범위에 한정해 표현하다",
     "meaning": "please limit the wording to the single observed trial",
     "audio": "work/audio/ko-KR/05/ko-05-1200.mp3"
+  },
+  {
+    "id": "ko-05-1201",
+    "sentence": "사업 책임자: 오늘 오후까지 새 예산표도 검토해 주시겠습니까?\n재무 담당자: 오늘은 결산 자료를 확정해야 해서 추가 검토 시간을 낼 수 없습니다. 이번 예산표 검토는 맡지 않겠습니다.",
+    "cloze": "추가 검토 시간을 낼 수 없습니다",
+    "answer": "추가 검토 시간을 낼 수 없습니다",
+    "accepted_answers": [],
+    "lemma": "당일 결산 자료를 확정해야 해서 새 예산표를 검토할 시간을 낼 수 없어 요청을 거절하다",
+    "meaning": "I cannot make time for an additional review",
+    "audio": "work/audio/ko-KR/05/ko-05-1201.mp3"
+  },
+  {
+    "id": "ko-05-1202",
+    "sentence": "교육 기관 담당자: 다음 주에 두 지점의 직원 교육도 진행해 주실 수 있습니까?\n서비스 운영 책임자: 강사 두 명은 이미 다른 교육에 배정되어 있습니다. 현 인력으로는 두 지점 교육까지 감당하기 어렵습니다. 추가 요청은 수락하지 않겠습니다.",
+    "cloze": "추가 요청은 수락하지 않겠습니다",
+    "answer": "추가 요청은 수락하지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "이미 배정된 강사만으로 두 지점의 추가 교육까지 감당하기 어려워 요청을 거절하다",
+    "meaning": "we will not accept the additional request",
+    "audio": "work/audio/ko-KR/05/ko-05-1202.mp3"
+  },
+  {
+    "id": "ko-05-1203",
+    "sentence": "외부 연구자: 전시가 끝날 때까지 이 기록 원본을 연구실에서 빌려 볼 수 있을까요?\n기록 관리 책임자: 보존 규정상 원본은 외부로 대여하지 않습니다. 자료실에서 열람하실 수 있도록 자리를 예약해 드리겠습니다.",
+    "cloze": "원본은 외부로 대여하지 않습니다",
+    "answer": "원본은 외부로 대여하지 않습니다",
+    "accepted_answers": [],
+    "lemma": "보존 규정에 따라 기록 원본의 외부 대여 요청을 거절하고 자료실 열람을 안내하다",
+    "meaning": "under the preservation rules, originals are not loaned outside the archive",
+    "audio": "work/audio/ko-KR/05/ko-05-1203.mp3"
+  },
+  {
+    "id": "ko-05-1204",
+    "sentence": "협력 기관 직원: 행사 참가자의 이름과 연락처가 든 명단을 보내 주시겠습니까?\n정보 관리 책임자: 개인정보 보호 원칙에 따라 명단은 제공해 드릴 수 없습니다. 기관별 참가 인원만 정리해서 보내 드리겠습니다.",
+    "cloze": "명단은 제공해 드릴 수 없습니다",
+    "answer": "명단은 제공해 드릴 수 없습니다",
+    "accepted_answers": [],
+    "lemma": "개인정보 보호 원칙에 따라 참가자 명단 제공을 거절하고 기관별 인원만 제공하다",
+    "meaning": "we cannot provide the participant list",
+    "audio": "work/audio/ko-KR/05/ko-05-1204.mp3"
+  },
+  {
+    "id": "ko-05-1205",
+    "sentence": "사업 담당자: 이번 주에 새 행사 홍보물도 제작해 주실 수 있습니까?\n편집 책임자: 내일 배포할 안내문의 수치 오류부터 바로잡아야 합니다. 오류 정정을 우선해야 하므로 새 홍보물은 맡지 않겠습니다.",
+    "cloze": "새 홍보물은 맡지 않겠습니다",
+    "answer": "새 홍보물은 맡지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "배포가 임박한 안내문의 오류 정정을 우선해 새 행사 홍보물 제작 요청을 거절하다",
+    "meaning": "I will not take on the new promotional material",
+    "audio": "work/audio/ko-KR/05/ko-05-1205.mp3"
+  },
+  {
+    "id": "ko-05-1206",
+    "sentence": "행사 기획자: 다음 주 안전 교육에서 운영 사례를 발표해 주시겠습니까?\n서비스 책임자: 초청해 주셔서 감사하지만 같은 시간에 현장 점검을 지휘해야 합니다. 이번 초청은 사양하겠습니다.",
+    "cloze": "이번 초청은 사양하겠습니다",
+    "answer": "이번 초청은 사양하겠습니다",
+    "accepted_answers": [],
+    "lemma": "같은 시간에 현장 점검을 지휘해야 해 안전 교육 발표 초청을 사양하다",
+    "meaning": "I would like to attend, but I must decline this invitation",
+    "audio": "work/audio/ko-KR/05/ko-05-1206.mp3"
+  },
+  {
+    "id": "ko-05-1207",
+    "sentence": "부서장: 내일 회의에 맞춰 지점별 이용 원인도 따로 분석해 주십시오.\n자료 관리 책임자: 기본 통계는 제공하되 별도 분석은 진행하지 않겠습니다. 분석 담당자가 모두 정기 보고서 작성에 투입되어 있습니다.",
+    "cloze": "별도 분석은 진행하지 않겠습니다",
+    "answer": "별도 분석은 진행하지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "기본 통계는 제공하되 분석 담당자가 없어 별도 원인 분석 요청은 거절하다",
+    "meaning": "we will not conduct a separate analysis",
+    "audio": "work/audio/ko-KR/05/ko-05-1207.mp3"
+  },
+  {
+    "id": "ko-05-1208",
+    "sentence": "사업 제안자: 검토할 시간이 더 필요하시면 다음 주에 다시 답해 주셔도 됩니다.\n심사 책임자: 답변을 미루겠다는 뜻이 아닙니다. 이번 제안은 수락하지 않겠습니다. 필수 운영 인력에 관한 설명이 빠져 심사 기준을 충족하지 못했습니다.",
+    "cloze": "이번 제안은 수락하지 않겠습니다",
+    "answer": "이번 제안은 수락하지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "답변 시점을 늦추는 것이 아니라 운영 인력 기준을 충족하지 못한 제안을 거절하다",
+    "meaning": "we will not accept this proposal",
+    "audio": "work/audio/ko-KR/05/ko-05-1208.mp3"
+  },
+  {
+    "id": "ko-05-1209",
+    "sentence": "홍보 담당자: 오늘이 어려우시면 다음 달 제품 소개 영상에 출연해 주시겠습니까?\n기술 책임자: 일정을 다시 잡자는 뜻이 아닙니다. 이번 촬영에는 참여하지 않겠습니다. 제품 시험 담당자는 홍보 영상에 출연하지 않는다는 원칙을 지키려는 것입니다.",
+    "cloze": "이번 촬영에는 참여하지 않겠습니다",
+    "answer": "이번 촬영에는 참여하지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "촬영 일정을 미루는 것이 아니라 시험 담당자의 독립성 원칙에 따라 출연 요청을 거절하다",
+    "meaning": "I will not take part in this filming request",
+    "audio": "work/audio/ko-KR/05/ko-05-1209.mp3"
+  },
+  {
+    "id": "ko-05-1210",
+    "sentence": "신청자: 제출 마감이 어제였지만 한 번만 추가로 받아 주실 수 있습니까?\n접수 책임자: 사정은 이해하지만 접수 기준에 예외를 두지는 않겠습니다. 모든 신청자에게 같은 마감을 적용해야 합니다.",
+    "cloze": "접수 기준에 예외를 두지는 않겠습니다",
+    "answer": "접수 기준에 예외를 두지는 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "신청자의 사정을 인정하면서도 공통 접수 마감에 예외를 두어 달라는 요청을 거절하다",
+    "meaning": "I will not make an exception to the application rules",
+    "audio": "work/audio/ko-KR/05/ko-05-1210.mp3"
+  },
+  {
+    "id": "ko-05-1211",
+    "sentence": "팀장: 수요일 오후에 열리는 두 번째 보고서 검토 회의에도 참석해 주시겠습니까?\n분석 담당자: 첫 번째 회의와 시간이 완전히 겹쳐 두 회의의 자료를 모두 검토할 수 없습니다. 두 번째 회의에서는 검토자 역할을 맡지 않겠습니다. 필요한 지표 설명은 회의 전에 전달하겠습니다.",
+    "cloze": "검토자 역할을 맡지 않겠습니다",
+    "answer": "검토자 역할을 맡지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "동시에 열리는 두 보고서 회의를 모두 검토할 수 없어 두 번째 회의의 검토자 역할을 거절하다",
+    "meaning": "I will not take the reviewer role for the second meeting",
+    "audio": "work/audio/ko-KR/05/ko-05-1211.mp3"
+  },
+  {
+    "id": "ko-05-1212",
+    "sentence": "행사 담당자: 참가자 오십 명이 이용할 수 있도록 이 회의실을 예약해 주십시오.\n시설 예약 책임자: 이 회의실의 안전 수용 인원은 서른 명입니다. 신청 인원이 수용 인원을 넘기 때문에 이 예약은 받지 않겠습니다. 오십 명을 수용할 수 있는 강당을 안내해 드리겠습니다.",
+    "cloze": "이 예약은 받지 않겠습니다",
+    "answer": "이 예약은 받지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "참가 인원이 회의실의 안전 수용 인원을 넘어 예약 요청을 거절하고 강당을 안내하다",
+    "meaning": "because the group exceeds the room capacity, we will not accept this reservation",
+    "audio": "work/audio/ko-KR/05/ko-05-1212.mp3"
+  },
+  {
+    "id": "ko-05-1213",
+    "sentence": "상담 책임자: 오후 두 시의 상담 두 건에 통역을 각각 배정해 주실 수 있습니까?\n통역 서비스 책임자: 그 시간에 근무하는 통역사는 한 명뿐이라 두 상담을 동시에 지원할 수 없습니다. 추가 통역 요청은 수락할 수 없습니다. 한 상담에는 전화 통역 기관을 연결해 드리겠습니다.",
+    "cloze": "추가 통역 요청은 수락할 수 없습니다",
+    "answer": "추가 통역 요청은 수락할 수 없습니다",
+    "accepted_answers": [],
+    "lemma": "동시에 근무하는 통역사가 한 명뿐이라 두 번째 상담에 통역사를 배정해 달라는 요청을 거절하다",
+    "meaning": "we cannot accept the request for an additional interpreter",
+    "audio": "work/audio/ko-KR/05/ko-05-1213.mp3"
+  },
+  {
+    "id": "ko-05-1214",
+    "sentence": "홍보 담당자: 안내 책자 이천 부를 금요일 오전까지 인쇄해 주실 수 있습니까?\n인쇄 서비스 책임자: 이번 주 인쇄 일정은 이미 모두 차 있습니다. 금요일 납품 요청은 접수하지 않겠습니다. 다른 인쇄소의 연락처를 보내 드리겠습니다.",
+    "cloze": "금요일 납품 요청은 접수하지 않겠습니다",
+    "answer": "금요일 납품 요청은 접수하지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "인쇄 일정이 모두 차 금요일까지 이천 부를 납품해 달라는 요청을 거절하다",
+    "meaning": "we will not accept the request for Friday delivery",
+    "audio": "work/audio/ko-KR/05/ko-05-1214.mp3"
+  },
+  {
+    "id": "ko-05-1215",
+    "sentence": "이용자: 오래된 설계 파일을 현재 편집 형식으로 바꿔 주시겠습니까?\n기술 지원 책임자: 파일의 핵심 부분이 손상되어 현재 시스템에서 내용을 읽을 수 없습니다. 이 파일의 변환 작업은 수행해 드릴 수 없습니다. 정상적으로 열리는 복사본이 있는지 먼저 확인해 주십시오.",
+    "cloze": "변환 작업은 수행해 드릴 수 없습니다",
+    "answer": "변환 작업은 수행해 드릴 수 없습니다",
+    "accepted_answers": [],
+    "lemma": "핵심 부분이 손상되어 읽을 수 없는 설계 파일의 형식 변환 요청을 거절하다",
+    "meaning": "we cannot carry out the conversion of this file",
+    "audio": "work/audio/ko-KR/05/ko-05-1215.mp3"
+  },
+  {
+    "id": "ko-05-1216",
+    "sentence": "지역 행사 기획자: 행사장 입구에 안내 부스를 하나 더 운영해 주시겠습니까?\n주민 서비스 책임자: 당일 근무자 네 명은 접수와 이동 지원에 모두 배정되어 있습니다. 추가로 배정할 인력이 없어 추가 부스는 운영해 드릴 수 없습니다. 기존 부스의 위치를 입구 쪽으로 옮기겠습니다.",
+    "cloze": "추가 부스는 운영해 드릴 수 없습니다",
+    "answer": "추가 부스는 운영해 드릴 수 없습니다",
+    "accepted_answers": [],
+    "lemma": "접수와 이동 지원에 근무자가 모두 배정되어 행사 안내 부스 추가 운영 요청을 거절하다",
+    "meaning": "we cannot operate an additional information booth",
+    "audio": "work/audio/ko-KR/05/ko-05-1216.mp3"
+  },
+  {
+    "id": "ko-05-1217",
+    "sentence": "고객: 어제부터 온라인 강좌를 들었지만 생각과 달라서 전액 환불해 주셨으면 합니다.\n고객 지원 책임자: 이용이 시작된 강좌는 전액 환불 대상이 아닙니다. 전액 환불 요청은 승인하지 않겠습니다. 남은 수강분을 다른 과정으로 변경하는 방법은 안내해 드리겠습니다.",
+    "cloze": "전액 환불 요청은 승인하지 않겠습니다",
+    "answer": "전액 환불 요청은 승인하지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "이용이 시작된 온라인 강좌의 전액 환불 요청을 운영 기준에 따라 거절하다",
+    "meaning": "we will not approve the request for a full refund",
+    "audio": "work/audio/ko-KR/05/ko-05-1217.mp3"
+  },
+  {
+    "id": "ko-05-1218",
+    "sentence": "외부 연구자: 상담 응답자의 연락처가 포함된 원자료를 보내 주실 수 있습니까?\n조사 자료 책임자: 참여자는 원자료를 기관 밖으로 제공하는 데 동의하지 않았습니다. 연락처가 포함된 원자료는 전달하지 않겠습니다. 개인을 식별할 수 없는 집계표만 제공하겠습니다.",
+    "cloze": "원자료는 전달하지 않겠습니다",
+    "answer": "원자료는 전달하지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "참여자가 외부 제공에 동의하지 않은 연락처 포함 원자료 요청을 거절하고 개인을 식별할 수 없는 집계표만 제공하다",
+    "meaning": "we will not provide the raw data",
+    "audio": "work/audio/ko-KR/05/ko-05-1218.mp3"
+  },
+  {
+    "id": "ko-05-1219",
+    "sentence": "교육 신청자: 등록하지 않은 동료도 오늘 강의실에 함께 들어가면 안 될까요?\n교육 운영 책임자: 이 교육은 장비 수와 보험 범위 때문에 사전 등록자만 참여할 수 있습니다. 당일 현장 등록은 받지 않습니다. 동료분은 공개 온라인 교육을 이용해 주십시오.",
+    "cloze": "당일 현장 등록은 받지 않습니다",
+    "answer": "당일 현장 등록은 받지 않습니다",
+    "accepted_answers": [],
+    "lemma": "장비 수와 보험 범위가 정해진 교육에서 미등록 동료의 당일 현장 등록 요청을 거절하다",
+    "meaning": "we do not accept same-day on-site registration",
+    "audio": "work/audio/ko-KR/05/ko-05-1219.mp3"
+  },
+  {
+    "id": "ko-05-1220",
+    "sentence": "구매 요청자: 부서장 승인을 받지 않아도 되도록 장비 대금을 두 번으로 나누어 결제해 주십시오.\n구매 책임자: 한 건의 구매를 승인 한도 아래로 나누는 것은 내부 절차에 어긋납니다. 승인 기준을 피하기 위한 분할 결제는 처리하지 않겠습니다. 전체 금액에 대해 먼저 승인을 요청해 주십시오.",
+    "cloze": "분할 결제는 처리하지 않겠습니다",
+    "answer": "분할 결제는 처리하지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "내부 승인 한도를 피하려는 장비 대금 분할 결제 요청을 거절하다",
+    "meaning": "we will not process split payments",
+    "audio": "work/audio/ko-KR/05/ko-05-1220.mp3"
+  },
+  {
+    "id": "ko-05-1221",
+    "sentence": "예약자: 제가 못 가게 되었으니 제 자료실 예약을 동료 이름으로 바꿔 주시겠습니까?\n자료실 운영 책임자: 신분 확인을 마친 예약자 본인만 이용할 수 있습니다. 다른 사람에게 예약을 넘겨 드릴 수 없습니다. 동료분은 빈 시간을 직접 예약해 주십시오.",
+    "cloze": "예약을 넘겨 드릴 수 없습니다",
+    "answer": "예약을 넘겨 드릴 수 없습니다",
+    "accepted_answers": [],
+    "lemma": "본인 확인이 필요한 자료실 예약을 다른 사람에게 양도해 달라는 요청을 거절하다",
+    "meaning": "we cannot transfer the reservation to someone else",
+    "audio": "work/audio/ko-KR/05/ko-05-1221.mp3"
+  },
+  {
+    "id": "ko-05-1222",
+    "sentence": "외부 개발자: 오늘 밤 점검을 위해 관리자 계정의 비밀번호를 알려 주십시오.\n정보 시스템 책임자: 외부 작업자는 개인 작업 계정으로만 접속해야 합니다. 관리자 계정의 비밀번호 공유 요청에는 응할 수 없습니다. 필요한 권한을 작업 계정에 따로 부여하겠습니다.",
+    "cloze": "비밀번호 공유 요청에는 응할 수 없습니다",
+    "answer": "비밀번호 공유 요청에는 응할 수 없습니다",
+    "accepted_answers": [],
+    "lemma": "개인 작업 계정 사용 원칙에 따라 관리자 비밀번호 공유 요청을 거절하다",
+    "meaning": "we cannot comply with a request to share the administrator account password",
+    "audio": "work/audio/ko-KR/05/ko-05-1222.mp3"
+  },
+  {
+    "id": "ko-05-1223",
+    "sentence": "홍보 담당자: 오늘 안에 신청 화면의 단추 색도 바꿔 주시겠습니까?\n시스템 운영 책임자: 현재 접속 장애로 신청조차 하지 못하는 이용자가 있습니다. 장애 복구를 우선해야 하므로 이번 화면 변경 요청은 진행하지 않겠습니다. 정상 접속을 회복하는 작업에 인력을 집중하겠습니다.",
+    "cloze": "화면 변경 요청은 진행하지 않겠습니다",
+    "answer": "화면 변경 요청은 진행하지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "신청 화면의 색상 변경보다 접속 장애 복구를 우선해 화면 변경 요청을 거절하다",
+    "meaning": "we will not proceed with the screen-change request",
+    "audio": "work/audio/ko-KR/05/ko-05-1223.mp3"
+  },
+  {
+    "id": "ko-05-1224",
+    "sentence": "기획 담당자: 보고서에 지역별 비교 도표도 새로 만들어 넣어 주시겠습니까?\n편집 책임자: 배포 전까지 본문의 수치 오류 여섯 건을 바로잡아야 합니다. 수치 오류 수정을 먼저 마쳐야 해서 추가 도표 제작은 맡지 않겠습니다. 기존 표의 설명은 읽기 쉽게 정리하겠습니다.",
+    "cloze": "추가 도표 제작은 맡지 않겠습니다",
+    "answer": "추가 도표 제작은 맡지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "보고서 배포 전의 수치 오류 수정을 우선해 지역별 추가 도표 제작 요청을 거절하다",
+    "meaning": "I will not take on the additional chart",
+    "audio": "work/audio/ko-KR/05/ko-05-1224.mp3"
+  },
+  {
+    "id": "ko-05-1225",
+    "sentence": "지역 방송 작가: 오늘 오후에 센터장님과 삼십 분만 인터뷰할 수 있을까요?\n주민 서비스 센터장: 그 시간은 방문 민원이 가장 많은 때라 제가 접수 상황을 관리해야 합니다. 방문 민원 처리를 우선하기로 해 이번 인터뷰 요청은 사양하겠습니다. 공개된 운영 자료는 홍보 담당자가 보내 드릴 수 있습니다.",
+    "cloze": "이번 인터뷰 요청은 사양하겠습니다",
+    "answer": "이번 인터뷰 요청은 사양하겠습니다",
+    "accepted_answers": [],
+    "lemma": "이용자가 몰리는 시간의 민원 처리를 우선해 방송 인터뷰 요청을 사양하다",
+    "meaning": "I must decline this interview request",
+    "audio": "work/audio/ko-KR/05/ko-05-1225.mp3"
+  },
+  {
+    "id": "ko-05-1226",
+    "sentence": "연구 책임자: 이번 주 보고서에 이용자의 자유 의견도 주제별로 분석해 주시겠습니까?\n분석 책임자: 금요일까지 계약서에 정한 필수 지표 열두 개를 산출해야 합니다. 이번 주에는 필수 지표를 우선하므로 자유 의견 분석은 수행하지 않겠습니다. 원문 의견은 빠짐없이 보관하겠습니다.",
+    "cloze": "자유 의견 분석은 수행하지 않겠습니다",
+    "answer": "자유 의견 분석은 수행하지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "계약서에 정한 필수 지표 산출을 우선해 이번 주 보고서의 자유 의견 분석 요청을 거절하다",
+    "meaning": "we will not analyze the open-ended comments",
+    "audio": "work/audio/ko-KR/05/ko-05-1226.mp3"
+  },
+  {
+    "id": "ko-05-1227",
+    "sentence": "사무실 관리자: 방문객 회의실의 벽을 이번 달에 새로 칠해 주십시오.\n시설 관리 책임자: 같은 예산으로 먼저 고쳐야 할 출입 경사로의 손잡이가 있습니다. 경사로 안전 보수를 먼저 해야 하므로 회의실 도색은 승인하지 않겠습니다. 손잡이 교체에 예산을 배정하겠습니다.",
+    "cloze": "회의실 도색은 승인하지 않겠습니다",
+    "answer": "회의실 도색은 승인하지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "회의실 도색보다 출입 경사로의 이동 안전 보수를 우선해 도색 요청을 거절하다",
+    "meaning": "we will not approve repainting the meeting room",
+    "audio": "work/audio/ko-KR/05/ko-05-1227.mp3"
+  },
+  {
+    "id": "ko-05-1228",
+    "sentence": "주민 단체 대표: 다음 달에 주말 문화 행사도 한 차례 더 열어 주실 수 있습니까?\n문화 프로그램 책임자: 다음 달에는 이미 확정한 주민 강좌 여덟 개의 강사 배정을 마쳐야 합니다. 확정된 강좌 운영을 우선해 추가 행사는 열지 않겠습니다. 같은 달에 비슷한 행사를 여는 민간 기관은 안내해 드리겠습니다.",
+    "cloze": "추가 행사는 열지 않겠습니다",
+    "answer": "추가 행사는 열지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "이미 확정된 여덟 개 주민 강좌의 운영을 우선해 추가 문화 행사 요청을 거절하다",
+    "meaning": "we will not hold an additional event",
+    "audio": "work/audio/ko-KR/05/ko-05-1228.mp3"
+  },
+  {
+    "id": "ko-05-1229",
+    "sentence": "서윤: 고객사가 현장 사용법 교육을 요청했는데 담당자가 ‘화면 안내서는 보내 드리지만 현장 교육은 제공하지 않겠습니다’라고 답했어요. 다음에 방문하겠다는 뜻일까요?\n민재: 아니요. 자료만 제공하고 현장 교육 요청은 거절한 답변이에요.",
+    "cloze": "현장 교육 요청은 거절한 답변이에요",
+    "answer": "현장 교육 요청은 거절한 답변이에요",
+    "accepted_answers": [],
+    "lemma": "화면 안내서 제공을 현장 교육의 지연으로 오해하지 않고 현장 교육 요청에 대한 거절로 해석하다",
+    "meaning": "that answer declines the request for on-site training",
+    "audio": "work/audio/ko-KR/05/ko-05-1229.mp3"
+  },
+  {
+    "id": "ko-05-1230",
+    "sentence": "소라: 거래처가 납품을 이틀 앞당겨 달라고 했는데 생산 책임자는 ‘검사를 생략할 수 없으므로 금요일 납품 일정을 유지하겠습니다’라고 했어요. 아직 날짜를 검토하는 중인가요?\n태진: 아니요. 원래 날짜를 유지하면서 앞당기는 요청을 거절한 거예요.",
+    "cloze": "앞당기는 요청을 거절한 거예요",
+    "answer": "앞당기는 요청을 거절한 거예요",
+    "accepted_answers": [],
+    "lemma": "금요일 납품 일정을 유지한다는 답변을 날짜 검토가 아니라 납품을 앞당겨 달라는 요청의 거절로 이해하다",
+    "meaning": "the request to move the delivery earlier was declined",
+    "audio": "work/audio/ko-KR/05/ko-05-1230.mp3"
+  },
+  {
+    "id": "ko-05-1231",
+    "sentence": "정민: 자료 책임자가 ‘월별 통계는 제공하되 개별 상담 기록은 보내지 않겠습니다’라고 회신했습니다. 통계를 준다고 했으니 개별 기록도 나중에 보내 준다는 뜻입니까?\n윤아: 아닙니다. 통계 제공은 가능하지만 개별 기록 제공은 거절한 것입니다.",
+    "cloze": "개별 기록 제공은 거절한 것입니다",
+    "answer": "개별 기록 제공은 거절한 것입니다",
+    "accepted_answers": [],
+    "lemma": "월별 통계 제공과 개별 상담 기록 제공을 구분해 개별 기록 요청은 거절됐다고 해석하다",
+    "meaning": "the request for individual records was declined",
+    "audio": "work/audio/ko-KR/05/ko-05-1231.mp3"
+  },
+  {
+    "id": "ko-05-1232",
+    "sentence": "현수: 신청자가 마감 뒤 접수를 부탁하자 접수 책임자가 ‘모든 지원자에게 같은 기준을 적용하므로 추가 접수는 하지 않겠습니다’라고 답했습니다. 상급자 판단을 기다린다는 뜻입니까?\n예진: 아닙니다. 결정을 나중으로 미룬 답변이 아니라 예외를 두지 않겠다는 뜻입니다.",
+    "cloze": "예외를 두지 않겠다는 뜻입니다",
+    "answer": "예외를 두지 않겠다는 뜻입니다",
+    "accepted_answers": [],
+    "lemma": "추가 접수를 하지 않겠다는 회신을 상급자 판단의 지연이 아니라 마감 예외의 거절로 해석하다",
+    "meaning": "it means that no exception will be made",
+    "audio": "work/audio/ko-KR/05/ko-05-1232.mp3"
+  },
+  {
+    "id": "ko-05-1233",
+    "sentence": "다은: 강연자에게 같은 날 질의응답을 한 차례 더 맡아 달라고 했더니 ‘예정된 두 세션 외에는 진행하지 않겠습니다’라고 답했어요. 나중에 시간을 정하자는 말인가요?\n성호: 아니요. 이번 행사에서는 추가 세션을 맡지 않겠다는 말이에요.",
+    "cloze": "추가 세션을 맡지 않겠다는 말이에요",
+    "answer": "추가 세션을 맡지 않겠다는 말이에요",
+    "accepted_answers": [],
+    "lemma": "예정된 세션만 진행한다는 강연자의 답변을 추가 세션 요청에 대한 명확한 거절로 이해하다",
+    "meaning": "it means the speaker will not take an additional session in this program",
+    "audio": "work/audio/ko-KR/05/ko-05-1233.mp3"
+  },
+  {
+    "id": "ko-05-1234",
+    "sentence": "지후: 예약 담당자가 백오십 명 규모의 행사는 받을 수 없다면서 여든 명을 수용할 수 있는 장소를 안내했어요. 그러면 원래 예약도 조건부로 받아 준 건가요?\n가영: 아니요. 대안을 제시했어도 원래 예약 요청은 수락하지 않은 거예요.",
+    "cloze": "원래 예약 요청은 수락하지 않은 거예요",
+    "answer": "원래 예약 요청은 수락하지 않은 거예요",
+    "accepted_answers": [],
+    "lemma": "작은 장소 안내를 원래 대규모 예약의 조건부 수락이 아니라 대안이 딸린 거절로 해석하다",
+    "meaning": "even though an alternative was offered, the original reservation request was not accepted",
+    "audio": "work/audio/ko-KR/05/ko-05-1234.mp3"
+  },
+  {
+    "id": "ko-05-1235",
+    "sentence": "정보 관리 책임자의 대외비 자료 반출 요청 회신\n요청하신 대외비 자료는 정보 관리 규정에 따라 지정 자료실에서만 열람할 수 있습니다. 대외비 자료 반출은 승인하지 않습니다. 열람을 원하시면 방문 시간을 예약해 주십시오.",
+    "cloze": "대외비 자료 반출은 승인하지 않습니다",
+    "answer": "대외비 자료 반출은 승인하지 않습니다",
+    "accepted_answers": [],
+    "lemma": "정보 관리 규정에 따른 대외비 자료 반출 거절을 공식 회신에 분명하게 쓰다",
+    "meaning": "removal of confidential materials is not approved",
+    "audio": "work/audio/ko-KR/05/ko-05-1235.mp3"
+  },
+  {
+    "id": "ko-05-1236",
+    "sentence": "공연장 운영 책임자의 관객 요청 안내\n공연 중 좌석을 옮기면 이동 과정에서 다른 관객의 관람을 방해할 수 있습니다. 공연이 시작된 뒤에는 좌석 변경 요청을 받지 않습니다. 도움이 필요하면 가까운 안내원에게 말씀해 주십시오.",
+    "cloze": "좌석 변경 요청을 받지 않습니다",
+    "answer": "좌석 변경 요청을 받지 않습니다",
+    "accepted_answers": [],
+    "lemma": "공연 시작 뒤의 좌석 변경 요청을 받지 않는다는 서비스 제한을 안내문에 쓰다",
+    "meaning": "requests to change seats are not accepted after the performance begins",
+    "audio": "work/audio/ko-KR/05/ko-05-1236.mp3"
+  },
+  {
+    "id": "ko-05-1237",
+    "sentence": "이용자: 오늘 상담 시간을 한 시간 더 늘려 주실 수 있습니까?\n상담 책임자: 후속 일정이 이미 확정되어 있습니다. 오늘 상담은 연장하지 않겠습니다. 남은 시간에는 우선순위가 높은 두 항목부터 확인하겠습니다.",
+    "cloze": "오늘 상담은 연장하지 않겠습니다",
+    "answer": "오늘 상담은 연장하지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "확정된 후속 일정 때문에 당일 상담 연장 요청을 공식적인 문답에서 거절하다",
+    "meaning": "we will not extend today's consultation",
+    "audio": "work/audio/ko-KR/05/ko-05-1237.mp3"
+  },
+  {
+    "id": "ko-05-1238",
+    "sentence": "[접수 책임자의 서비스 요청 처리 결과]\n신청자 요청: 마감 뒤 신청서 추가 접수\n처리 결과: 접수 불가\n사유: 공정한 심사를 위해 모든 신청자에게 같은 마감을 적용함.",
+    "cloze": "처리 결과: 접수 불가",
+    "answer": "처리 결과: 접수 불가",
+    "accepted_answers": [],
+    "lemma": "마감 뒤 신청서를 추가로 접수할 수 없다는 처리 결과를 문서 항목으로 표시하다",
+    "meaning": "outcome: intake not permitted",
+    "note": "‘불가’는 공지나 처리 결과처럼 짧은 문서 항목에서 주로 씁니다.",
+    "audio": "work/audio/ko-KR/05/ko-05-1238.mp3"
+  },
+  {
+    "id": "ko-05-1239",
+    "sentence": "고객: 냉장 제품을 오늘 오후 두 시에 배송해 주시겠습니까?\n배송 책임자: 그 시간대에는 냉장 차량이 모두 다른 배송에 배정되어 있습니다. 오후 두 시에는 배송 차량을 배정해 드릴 수 없습니다. 냉장 배송이 가능한 다른 시간은 안내해 드리겠습니다.",
+    "cloze": "배송 차량을 배정해 드릴 수 없습니다",
+    "answer": "배송 차량을 배정해 드릴 수 없습니다",
+    "accepted_answers": [],
+    "lemma": "냉장 차량이 모두 다른 배송에 배정된 시간대의 배송 차량 배정 요청을 격식 있는 문답에서 거절하다",
+    "meaning": "we cannot assign a delivery vehicle for two o'clock in the afternoon",
+    "audio": "work/audio/ko-KR/05/ko-05-1239.mp3"
+  },
+  {
+    "id": "ko-05-1240",
+    "sentence": "회의 진행자: 오늘 안건과 관련 없는 개별 상담도 지금 받을 수 있습니까?\n담당 부서장: 오늘 회의에서는 개별 상담을 받지 않겠습니다. 접수 창구와 담당자만 안내해 드리겠습니다.",
+    "cloze": "개별 상담을 받지 않겠습니다",
+    "answer": "개별 상담을 받지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "회의 범위 밖의 개별 상담 요청을 격식 있는 질의응답에서 거절하고 접수 창구와 담당자만 안내하다",
+    "meaning": "we will not take individual consultation requests during today's meeting",
+    "audio": "work/audio/ko-KR/05/ko-05-1240.mp3"
   }
 ]
