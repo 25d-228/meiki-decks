@@ -14801,5 +14801,405 @@
     "lemma": "상급자 보고 메일에서 보조 용언을 띄어 수정안을 검토해 주시기 바란다고 쓰다",
     "meaning": "please review the revision",
     "audio": "work/audio/ko-KR/05/ko-05-1480.mp3"
+  },
+  {
+    "id": "ko-05-1481",
+    "sentence": "교육과장: 최 주무관님, 이번 만족도 조사에서는 문항 검토와 배포본 확정을 맡아 주십시오. 조사팀이 오늘 초안과 지난 학기 자료를 보내겠습니다. 금요일까지 확정하고 진행 상황은 저에게 보고해 주십시오.",
+    "cloze": "문항 검토와 배포본 확정을 맡아 주십시오",
+    "answer": "문항 검토와 배포본 확정을 맡아 주십시오",
+    "accepted_answers": [],
+    "lemma": "교육과장이 최 주무관에게 설문 문항 검토와 배포본 확정을 맡기다",
+    "meaning": "please take charge of reviewing the survey items and finalizing the distribution copy",
+    "audio": "work/audio/ko-KR/05/ko-05-1481.mp3"
+  },
+  {
+    "id": "ko-05-1482",
+    "sentence": "프로젝트 책임자: 오늘부터 일정 조정은 민호 씨가 전담합니다. 공용 일정표를 바탕으로 목요일까지 세부 일정을 정하고, 변경 사항을 매일 제게 알려 주십시오.",
+    "cloze": "일정 조정은 민호 씨가 전담합니다",
+    "answer": "일정 조정은 민호 씨가 전담합니다",
+    "accepted_answers": [],
+    "lemma": "프로젝트 책임자가 민호를 일정 조정 전담자로 지정하다",
+    "meaning": "Minho will have sole responsibility for coordinating the schedule",
+    "audio": "work/audio/ko-KR/05/ko-05-1482.mp3"
+  },
+  {
+    "id": "ko-05-1483",
+    "sentence": "기획 책임자: 자료 수집은 제가 마쳤습니다. 자료 정리는 정 연구원에게 맡기겠습니다. 정 연구원님은 공유 폴더의 원자료를 사용해 다음 주 월요일까지 정리하고 결과를 제게 보내 주십시오.",
+    "cloze": "자료 정리는 정 연구원에게 맡기겠습니다",
+    "answer": "자료 정리는 정 연구원에게 맡기겠습니다",
+    "accepted_answers": [],
+    "lemma": "기획 책임자가 정 연구원에게 자료 정리 책임을 넘기다",
+    "meaning": "I will assign the data organization to Researcher Jeong",
+    "audio": "work/audio/ko-KR/05/ko-05-1483.mp3"
+  },
+  {
+    "id": "ko-05-1484",
+    "sentence": "학사팀장: 서 조교님, 신입생 문의를 유형별로 나누는 업무를 맡아 주십시오. 지난해 상담 기록을 활용해 수요일 정오까지 분류를 마쳐 주십시오. 완료하면 교무과장님께 보고해 주십시오.",
+    "cloze": "수요일 정오까지 분류를 마쳐 주십시오",
+    "answer": "수요일 정오까지 분류를 마쳐 주십시오",
+    "accepted_answers": [],
+    "lemma": "학사팀장이 수요일 정오를 신입생 문의 분류의 완료 기한으로 정하다",
+    "meaning": "please finish sorting the inquiries by noon on Wednesday",
+    "audio": "work/audio/ko-KR/05/ko-05-1484.mp3"
+  },
+  {
+    "id": "ko-05-1485",
+    "sentence": "교육과장: 이 대리님, 강의실 점검을 총괄해 주십시오. 조교 두 명을 이 업무에 배정하겠습니다. 점검표는 오늘 보내겠습니다. 금요일까지 결과를 제게 제출해 주십시오.",
+    "cloze": "조교 두 명을 이 업무에 배정하겠습니다",
+    "answer": "조교 두 명을 이 업무에 배정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "교육과장이 강의실 점검 담당자에게 조교 두 명을 인력으로 배정하다",
+    "meaning": "I will assign two assistants to this task",
+    "audio": "work/audio/ko-KR/05/ko-05-1485.mp3"
+  },
+  {
+    "id": "ko-05-1486",
+    "sentence": "팀장: 지수 씨는 이번 달 말까지 사용성 시험을 진행해 주세요. 준호 씨는 같은 기간 동안 기록을 정리해 주세요. 진행 상황은 매주 제게 보고해 주세요. 공용 시험실은 두 분이 우선 사용할 수 있어요.",
+    "cloze": "진행 상황은 매주 제게 보고해 주세요",
+    "answer": "진행 상황은 매주 제게 보고해 주세요",
+    "accepted_answers": [],
+    "lemma": "팀장이 사용성 시험 담당자들에게 매주 자신에게 진행 상황을 보고하게 하다",
+    "meaning": "report your progress to me every week",
+    "audio": "work/audio/ko-KR/05/ko-05-1486.mp3"
+  },
+  {
+    "id": "ko-05-1487",
+    "sentence": "프로젝트 책임자: 은정 씨, 교재 시범 운영을 맡아 주세요. 지난 운영안을 참고해 다음 주 금요일까지 세부 일정을 정해 주세요. 배정된 예산 안에서는 직접 결정해 주세요. 추가 비용이 필요하면 먼저 저에게 보고해 주세요.",
+    "cloze": "배정된 예산 안에서는 직접 결정해 주세요",
+    "answer": "배정된 예산 안에서는 직접 결정해 주세요",
+    "accepted_answers": [],
+    "lemma": "프로젝트 책임자가 배정 예산 안의 일정 결정 권한을 담당자에게 주다",
+    "meaning": "make the decisions yourself as long as they remain within the budget",
+    "audio": "work/audio/ko-KR/05/ko-05-1487.mp3"
+  },
+  {
+    "id": "ko-05-1488",
+    "sentence": "학과장: 박 조교에게는 수강생 문의 대응만 위임하겠습니다. 공지문 작성과 대외 발송은 제가 계속 맡겠습니다. 답변 자료는 행정실 공유 폴더에 있고, 문의 현황은 매주 금요일 제게 알려 주십시오.",
+    "cloze": "수강생 문의 대응만 위임하겠습니다",
+    "answer": "수강생 문의 대응만 위임하겠습니다",
+    "accepted_answers": [],
+    "lemma": "학과장이 수강생 문의 대응만 박 조교에게 위임하고 대외 공지는 직접 맡다",
+    "meaning": "I will delegate only the handling of student inquiries",
+    "audio": "work/audio/ko-KR/05/ko-05-1488.mp3"
+  },
+  {
+    "id": "ko-05-1489",
+    "sentence": "사업 책임자: 윤지현 씨, 이번 홍보물은 안내 문구와 일정표를 한 시안에 배치해야 합니다. 홍보물 초안 제작을 맡아 주십시오. 기존 문구 파일을 사용해 목요일까지 완성하고 저에게 제출해 주십시오.",
+    "cloze": "홍보물 초안 제작을 맡아 주십시오",
+    "answer": "홍보물 초안 제작을 맡아 주십시오",
+    "accepted_answers": [],
+    "lemma": "사업 책임자가 윤지현에게 안내 문구와 일정표를 배치한 홍보물 초안 제작을 맡기다",
+    "meaning": "please take charge of producing the publicity draft",
+    "audio": "work/audio/ko-KR/05/ko-05-1489.mp3"
+  },
+  {
+    "id": "ko-05-1490",
+    "sentence": "팀장: 소연 씨는 공유 폴더의 최신 원고를 기준으로 보고서 본문을 고쳐 주십시오. 편집 담당자는 표와 인용 표시를 확인해 주십시오. 편집 담당자가 최종 교정을 책임집니다. 두 사람 모두 금요일 오전까지 끝내고 수정한 원고를 제게 보내 주십시오.",
+    "cloze": "편집 담당자가 최종 교정을 책임집니다",
+    "answer": "편집 담당자가 최종 교정을 책임집니다",
+    "accepted_answers": [],
+    "lemma": "팀장이 편집 담당자에게 보고서의 최종 교정 책임을 부여하다",
+    "meaning": "the editor is responsible for the final proofread",
+    "audio": "work/audio/ko-KR/05/ko-05-1490.mp3"
+  },
+  {
+    "id": "ko-05-1491",
+    "sentence": "교육행정팀장: 박 주무관님, 교과목 변경 목록 확인을 맡아 주십시오. 학사 시스템의 변경 신청서와 기존 교과목 목록을 대조해 금요일 업무 종료 전까지 제출해 주십시오. 늦어질 사유가 생기면 즉시 저에게 보고해 주십시오.",
+    "cloze": "금요일 업무 종료 전까지 제출해 주십시오",
+    "answer": "금요일 업무 종료 전까지 제출해 주십시오",
+    "accepted_answers": [],
+    "lemma": "교육행정팀장이 교과목 변경 목록의 제출 기한을 금요일 업무 종료 시각으로 정하다",
+    "meaning": "please submit it by the end of business on Friday",
+    "audio": "work/audio/ko-KR/05/ko-05-1491.mp3"
+  },
+  {
+    "id": "ko-05-1492",
+    "sentence": "과제 책임자: 나래 씨, 현장 면담 일정을 정리해 주세요. 공용 계정과 이전 양식을 사용해 주세요. 수요일까지 일정을 확정하고 매일 변경 내용을 저에게 알려 주세요.",
+    "cloze": "공용 계정과 이전 양식을 사용해 주세요",
+    "answer": "공용 계정과 이전 양식을 사용해 주세요",
+    "accepted_answers": [],
+    "lemma": "과제 책임자가 면담 일정 담당자에게 공용 계정과 이전 양식을 작업 자원으로 제공하다",
+    "meaning": "use the shared account and the previous template",
+    "audio": "work/audio/ko-KR/05/ko-05-1492.mp3"
+  },
+  {
+    "id": "ko-05-1493",
+    "sentence": "팀장: 준호 씨는 데이터 정제를 맡아 금요일까지 마쳐 주세요. 자동 검사 도구는 공용 서버에서 사용할 수 있어요. 지연 요인은 발견 즉시 제게 알려 주세요. 기술 지원이 필요하면 지원 담당자를 연결할게요.",
+    "cloze": "지연 요인은 발견 즉시 제게 알려 주세요",
+    "answer": "지연 요인은 발견 즉시 제게 알려 주세요",
+    "accepted_answers": [],
+    "lemma": "팀장이 데이터 정제 담당자에게 지연 요인을 발견 즉시 자신에게 보고하게 하다",
+    "meaning": "tell me as soon as you identify anything that may cause a delay",
+    "audio": "work/audio/ko-KR/05/ko-05-1493.mp3"
+  },
+  {
+    "id": "ko-05-1494",
+    "sentence": "학사과장: 이 주무관님, 장학금 접수 현황을 정리해 주십시오. 행정실의 신청 대장을 사용해 다음 주 목요일까지 집계하고, 중간 결과는 월요일에 보고해 주십시오. 최종 수치는 제가 확인하겠습니다.",
+    "cloze": "중간 결과는 월요일에 보고해 주십시오",
+    "answer": "중간 결과는 월요일에 보고해 주십시오",
+    "accepted_answers": [],
+    "lemma": "학사과장이 장학금 접수 담당자에게 월요일 중간 보고를 지시하다",
+    "meaning": "report the interim results on Monday",
+    "audio": "work/audio/ko-KR/05/ko-05-1494.mp3"
+  },
+  {
+    "id": "ko-05-1495",
+    "sentence": "프로젝트 책임자: 외부 업체의 납품 일정을 확인해야 합니다. 업체 연락은 박 대리에게 맡기겠습니다. 계약서와 업체 연락처는 공유 폴더에 있습니다. 수요일까지 확인하고 결과를 제게 보고해 주십시오.",
+    "cloze": "업체 연락은 박 대리에게 맡기겠습니다",
+    "answer": "업체 연락은 박 대리에게 맡기겠습니다",
+    "accepted_answers": [],
+    "lemma": "프로젝트 책임자가 외부 업체의 납품 일정 확인을 박 대리에게 맡기다",
+    "meaning": "I will put Assistant Manager Park in charge of contacting the outside vendor",
+    "audio": "work/audio/ko-KR/05/ko-05-1495.mp3"
+  },
+  {
+    "id": "ko-05-1496",
+    "sentence": "교무팀장: 김 조교님, 결석 사유 확인을 맡아 주세요. 출석부와 학생 연락처는 학사 시스템에서 볼 수 있어요. 목요일까지 확인하고 결과를 제게 알려 주세요.",
+    "cloze": "김 조교님, 결석 사유 확인을 맡아 주세요",
+    "answer": "김 조교님, 결석 사유 확인을 맡아 주세요",
+    "accepted_answers": [],
+    "lemma": "교무팀장이 김 조교에게 학생들의 결석 사유 확인을 맡기다",
+    "meaning": "Assistant Kim, please take charge of checking the reasons for absences",
+    "audio": "work/audio/ko-KR/05/ko-05-1496.mp3"
+  },
+  {
+    "id": "ko-05-1497",
+    "sentence": "팀장: 유진 씨, 금요일까지 워크숍 운영안을 마련해 주세요. 배정된 예산 안에서 일정을 조정해 주세요. 장소는 협력 기관 목록에서 선택하고, 예산을 바꿔야 하면 먼저 제게 보고해 주세요.",
+    "cloze": "배정된 예산 안에서 일정을 조정해 주세요",
+    "answer": "배정된 예산 안에서 일정을 조정해 주세요",
+    "accepted_answers": [],
+    "lemma": "팀장이 워크숍 담당자에게 배정 예산 안의 일정 조정 재량을 주다",
+    "meaning": "adjust the schedule within the allocated budget",
+    "audio": "work/audio/ko-KR/05/ko-05-1497.mp3"
+  },
+  {
+    "id": "ko-05-1498",
+    "sentence": "교육과장: 서 주무관님, 새 강좌의 수강 신청을 금요일까지 점검해 주십시오. 행정 직원 두 명을 지원 인력으로 배정하겠습니다. 추가 인력이 필요하면 제게 요청해 주십시오. 완료 후에는 학사팀장에게 보고해 주십시오.",
+    "cloze": "추가 인력이 필요하면 제게 요청해 주십시오",
+    "answer": "추가 인력이 필요하면 제게 요청해 주십시오",
+    "accepted_answers": [],
+    "lemma": "교육과장이 수강 신청 점검 담당자에게 추가 인력 요청 경로를 지정하다",
+    "meaning": "request additional staff from me if you need them",
+    "audio": "work/audio/ko-KR/05/ko-05-1498.mp3"
+  },
+  {
+    "id": "ko-05-1499",
+    "sentence": "프로젝트 책임자: 민서 씨, 번역본 검수를 맡아 주세요. 초안과 용어표는 공유 폴더에 있습니다. 오류 수정부터 재검토까지 맡아 주세요. 금요일에 제게 최종본을 보내 주세요.",
+    "cloze": "오류 수정부터 재검토까지 맡아 주세요",
+    "answer": "오류 수정부터 재검토까지 맡아 주세요",
+    "accepted_answers": [],
+    "lemma": "프로젝트 책임자가 번역본 검수 범위를 오류 수정부터 재검토까지로 정하다",
+    "meaning": "take charge of everything from correcting errors through checking the result again",
+    "audio": "work/audio/ko-KR/05/ko-05-1499.mp3"
+  },
+  {
+    "id": "ko-05-1500",
+    "sentence": "교육과장: 다음 학기 수강 변경 신청은 교무팀이 전담합니다. 학생지원팀은 기존 상담 기록을 오늘 넘겨 주십시오. 교무팀은 다음 주 수요일까지 신청 내역을 정리해 제게 보고해 주십시오.",
+    "cloze": "수강 변경 신청은 교무팀이 전담합니다",
+    "answer": "수강 변경 신청은 교무팀이 전담합니다",
+    "accepted_answers": [],
+    "lemma": "교육과장이 다음 학기 수강 변경 신청의 전담 부서를 교무팀으로 지정하다",
+    "meaning": "the Academic Affairs Team will have sole responsibility for course-change applications",
+    "audio": "work/audio/ko-KR/05/ko-05-1500.mp3"
+  },
+  {
+    "id": "ko-05-1501",
+    "sentence": "분석팀장: 현우 씨는 참여율 분석을 맡아 금요일까지 완료해 주세요. 원자료와 계산 서식은 제가 제공할게요. 화요일 오전까지 첫 분석을 보내 주세요. 방향을 확인한 뒤 나머지 작업을 이어 가면 돼요.",
+    "cloze": "화요일 오전까지 첫 분석을 보내 주세요",
+    "answer": "화요일 오전까지 첫 분석을 보내 주세요",
+    "accepted_answers": [],
+    "lemma": "분석팀장이 참여율 분석 담당자에게 화요일 오전을 첫 결과 제출 기한으로 정하다",
+    "meaning": "send me the initial analysis by Tuesday morning",
+    "audio": "work/audio/ko-KR/05/ko-05-1501.mp3"
+  },
+  {
+    "id": "ko-05-1502",
+    "sentence": "학과장: 오 조교님, 수업 만족도 자료의 통계 처리를 맡아 주십시오. 통계실 컴퓨터 두 대를 예약해 두었습니다. 금요일까지 분석표를 완성하고 교육연구팀장에게 보고해 주십시오.",
+    "cloze": "통계실 컴퓨터 두 대를 예약해 두었습니다",
+    "answer": "통계실 컴퓨터 두 대를 예약해 두었습니다",
+    "accepted_answers": [],
+    "lemma": "학과장이 통계 처리 담당자를 위해 통계실 컴퓨터 두 대를 확보하다",
+    "meaning": "I have reserved two computers in the statistics room",
+    "audio": "work/audio/ko-KR/05/ko-05-1502.mp3"
+  },
+  {
+    "id": "ko-05-1503",
+    "sentence": "행정팀장: 지연 씨는 학습 지원 프로그램 만족도 집계를 맡아 금요일까지 마쳐 주세요. 설문 응답 자료는 공용 폴더에 있어요. 교육과장님께 중간 결과를 보고해 주세요. 최종 자료는 저에게 보내 주세요.",
+    "cloze": "교육과장님께 중간 결과를 보고해 주세요",
+    "answer": "교육과장님께 중간 결과를 보고해 주세요",
+    "accepted_answers": [],
+    "lemma": "행정팀장이 만족도 집계 담당자의 중간 보고 대상을 교육과장으로 지정하다",
+    "meaning": "report the interim results to the education director",
+    "audio": "work/audio/ko-KR/05/ko-05-1503.mp3"
+  },
+  {
+    "id": "ko-05-1504",
+    "sentence": "프로젝트 책임자: 김 팀장에게 지역 교육 행사의 현장 운영을 맡기겠습니다. 행정 직원 세 명을 현장에 지원하겠습니다. 보조 인력 배치는 김 팀장이 정합니다. 근무표는 목요일까지 만들고 진행 상황은 저에게 보고해 주십시오.",
+    "cloze": "보조 인력 배치는 김 팀장이 정합니다",
+    "answer": "보조 인력 배치는 김 팀장이 정합니다",
+    "accepted_answers": [],
+    "lemma": "프로젝트 책임자가 김 팀장에게 교육 행사 보조 인력의 배치 권한을 맡기다",
+    "meaning": "Team Leader Kim will decide how the support staff are assigned",
+    "audio": "work/audio/ko-KR/05/ko-05-1504.mp3"
+  },
+  {
+    "id": "ko-05-1505",
+    "sentence": "교무과장: 이번 주 대체 강사 섭외는 교무팀이 맡아 주십시오. 강사 명단과 연락 양식은 공유 폴더에 있습니다. 수요일까지 후보 세 명의 가능 여부를 확인하고 제게 보고해 주십시오.",
+    "cloze": "대체 강사 섭외는 교무팀이 맡아 주십시오",
+    "answer": "대체 강사 섭외는 교무팀이 맡아 주십시오",
+    "accepted_answers": [],
+    "lemma": "교무과장이 이번 주 대체 강사 섭외를 교무팀에 맡기다",
+    "meaning": "the Academic Affairs Team should handle finding a substitute lecturer",
+    "audio": "work/audio/ko-KR/05/ko-05-1505.mp3"
+  },
+  {
+    "id": "ko-05-1506",
+    "sentence": "학사팀장: 은서 씨, 신입생 문의 답변을 맡아 주세요. 답변 지침은 공유 폴더에 있어요. 답변은 수강 신청 절차로 제한해 주세요. 등록금과 장학금 문의는 담당 부서로 연결하고 처리 현황은 금요일에 제게 알려 주세요.",
+    "cloze": "답변은 수강 신청 절차로 제한해 주세요",
+    "answer": "답변은 수강 신청 절차로 제한해 주세요",
+    "accepted_answers": [],
+    "lemma": "학사팀장이 신입생 문의 담당자의 답변 범위를 수강 신청 절차로 제한하다",
+    "meaning": "limit your answers to the course-registration procedure",
+    "audio": "work/audio/ko-KR/05/ko-05-1506.mp3"
+  },
+  {
+    "id": "ko-05-1507",
+    "sentence": "사업 책임자: 태훈 씨에게 행사 일정 조정을 맡기겠습니다. 태훈 씨는 공용 일정표를 바탕으로 이번 달 말까지 협력사와 날짜를 확정해 주십시오. 비용 변경 결정은 제가 계속 맡겠습니다. 변경 내역은 매주 제게 보내 주십시오.",
+    "cloze": "비용 변경 결정은 제가 계속 맡겠습니다",
+    "answer": "비용 변경 결정은 제가 계속 맡겠습니다",
+    "accepted_answers": [],
+    "lemma": "사업 책임자가 일정 조정은 위임하되 비용 변경 결정 권한은 유지하다",
+    "meaning": "I will continue to retain responsibility for decisions that change the cost",
+    "audio": "work/audio/ko-KR/05/ko-05-1507.mp3"
+  },
+  {
+    "id": "ko-05-1508",
+    "sentence": "교육과장: 상담 예약 관리는 오늘부터 학생지원팀이 맡아요. 이전 담당자는 담당 변경 사실을 예약자들에게 알려 주세요. 기존 예약표도 오늘 학생지원팀에 넘기고, 전환 결과는 금요일에 제게 보고해 주세요.",
+    "cloze": "담당 변경 사실을 예약자들에게 알려 주세요",
+    "answer": "담당 변경 사실을 예약자들에게 알려 주세요",
+    "accepted_answers": [],
+    "lemma": "교육과장이 이전 담당자에게 상담 예약 담당 변경 사실을 예약자들에게 알리게 하다",
+    "meaning": "inform those with reservations that responsibility has changed",
+    "audio": "work/audio/ko-KR/05/ko-05-1508.mp3"
+  },
+  {
+    "id": "ko-05-1509",
+    "sentence": "팀원: 책임자께서 ‘설문 입력은 정 연구원이 맡아요. 공유 폴더의 응답지를 사용해 금요일까지 끝내고, 진행 상황은 매일 제게 보내 주세요.’라고 했어요. 이번 실무 담당자는 누구예요?\n선임 팀원: 실무 담당자는 정 연구원이에요.",
+    "cloze": "실무 담당자는 정 연구원이에요",
+    "answer": "실무 담당자는 정 연구원이에요",
+    "accepted_answers": [],
+    "lemma": "위임 지시에서 정 연구원을 설문 입력의 실무 담당자로 해석하다",
+    "meaning": "Researcher Jeong is the person responsible for carrying out the work",
+    "audio": "work/audio/ko-KR/05/ko-05-1509.mp3"
+  },
+  {
+    "id": "ko-05-1510",
+    "sentence": "행정 조교: 과장님이 ‘민지 씨는 기존 양식으로 신입생 안내문을 작성해 목요일에 제게 초안을 보내고, 금요일 오후까지 최종본을 완성해 주세요.’라고 하셨습니다. 목요일이 최종 기한입니까?\n선임 조교: 아니요. 금요일 오후가 최종 완료 기한입니다.",
+    "cloze": "금요일 오후가 최종 완료 기한입니다",
+    "answer": "금요일 오후가 최종 완료 기한입니다",
+    "accepted_answers": [],
+    "lemma": "초안 제출일과 구별해 금요일 오후를 위임 업무의 최종 완료 기한으로 해석하다",
+    "meaning": "Friday afternoon is the final completion deadline",
+    "audio": "work/audio/ko-KR/05/ko-05-1510.mp3"
+  },
+  {
+    "id": "ko-05-1511",
+    "sentence": "연구원: 팀장이 ‘현우 씨, 자료 정리를 맡아 주세요. 공유 폴더뿐 아니라 공용 계정도 사용할 수 있어요. 금요일까지 정리하고 결과를 제게 보내 주세요.’라고 했어요. 자료는 주지만 공용 계정 접근 권한은 주지 않는다는 뜻인가요?\n동료: 아니요. 공용 계정도 제공한다는 뜻이에요.",
+    "cloze": "공용 계정도 제공한다는 뜻이에요",
+    "answer": "공용 계정도 제공한다는 뜻이에요",
+    "accepted_answers": [],
+    "lemma": "위임 지시의 사용 가능 표현을 공용 계정까지 작업 자원으로 제공한다는 뜻으로 해석하다",
+    "meaning": "it means the shared account is also being provided",
+    "audio": "work/audio/ko-KR/05/ko-05-1511.mp3"
+  },
+  {
+    "id": "ko-05-1512",
+    "sentence": "조교: 학과장이 ‘박 조교님은 공용 상담 대장을 사용해 문의 기록 정리를 맡아 주세요. 매주 진행 상황은 김 팀장에게 알리고, 이달 말 최종 결과만 저에게 보내 주세요.’라고 했습니다. 김 팀장의 역할은 무엇입니까?\n행정 직원: 팀장은 중간 보고를 받는 사람입니다.",
+    "cloze": "팀장은 중간 보고를 받는 사람입니다",
+    "answer": "팀장은 중간 보고를 받는 사람입니다",
+    "accepted_answers": [],
+    "lemma": "단계별 보고 지시에서 김 팀장을 중간 보고 수령자로 해석하다",
+    "meaning": "the team leader is the person who receives the interim reports",
+    "audio": "work/audio/ko-KR/05/ko-05-1512.mp3"
+  },
+  {
+    "id": "ko-05-1513",
+    "sentence": "연구원: 책임자가 ‘윤 조교님은 공유 명단을 사용해 금요일까지 면담을 진행해 주세요. 참여자 순서는 정해진 운영 시간 안에서 직접 정하고, 결과는 제게 보내 주세요.’라고 했습니다. 윤 조교가 정할 수 있는 것은 무엇입니까?\n선임 연구원: 윤 조교는 면담 순서를 정할 수 있습니다.",
+    "cloze": "윤 조교는 면담 순서를 정할 수 있습니다",
+    "answer": "윤 조교는 면담 순서를 정할 수 있습니다",
+    "accepted_answers": [],
+    "lemma": "위임 지시에서 윤 조교의 재량 범위를 참여자 면담 순서로 해석하다",
+    "meaning": "Assistant Yun may decide the interview order",
+    "audio": "work/audio/ko-KR/05/ko-05-1513.mp3"
+  },
+  {
+    "id": "ko-05-1514",
+    "sentence": "팀원: 책임자가 ‘서연 씨는 공용 일정표를 바탕으로 금요일까지 홍보 일정을 정해 주세요. 배정된 예산 안에서는 날짜를 조정해도 되지만, 추가 비용은 제가 결정해요. 변경 사항은 매일 제게 알려 주세요.’라고 했어요. 추가 비용도 서연 씨가 결정하나요?\n선임 팀원: 아니요. 추가 비용 결정권은 위임하지 않았어요.",
+    "cloze": "추가 비용 결정권은 위임하지 않았어요",
+    "answer": "추가 비용 결정권은 위임하지 않았어요",
+    "accepted_answers": [],
+    "lemma": "일정 조정 위임에서 추가 비용 결정권은 책임자에게 남아 있다고 해석하다",
+    "meaning": "the authority to approve additional costs was not delegated",
+    "audio": "work/audio/ko-KR/05/ko-05-1514.mp3"
+  },
+  {
+    "id": "ko-05-1515",
+    "sentence": "[수강 편람 개정 업무 배정표]\n업무 범위: 교과목 설명 검토\n담당자: 학사운영팀 김나영 주무관\n지원 자료: 기존 편람과 변경 신청서\n완료 기한: 오월 십육일\n보고 대상: 학사운영팀장",
+    "cloze": "담당자: 학사운영팀 김나영 주무관",
+    "answer": "담당자: 학사운영팀 김나영 주무관",
+    "accepted_answers": [],
+    "lemma": "수강 편람 개정 업무 배정표에 학사운영팀 김나영 주무관을 담당자로 표기하다",
+    "meaning": "person responsible: Officer Kim Nayeong, Academic Operations Team",
+    "audio": "work/audio/ko-KR/05/ko-05-1515.mp3"
+  },
+  {
+    "id": "ko-05-1516",
+    "sentence": "[신입생 안내 자료 제작 일정]\n담당: 학생지원팀 이현우 사원\n지원 자료: 지난해 안내문과 일정표\n초안 제출: 오월 십사일\n완료 기한: 오월 십육일 오후 다섯 시\n보고: 교육지원과장",
+    "cloze": "완료 기한: 오월 십육일 오후 다섯 시",
+    "answer": "완료 기한: 오월 십육일 오후 다섯 시",
+    "accepted_answers": [],
+    "lemma": "신입생 안내 자료 제작 일정에 오월 십육일 오후 다섯 시를 완료 기한으로 표기하다",
+    "meaning": "completion deadline: 5 p.m. on May 16",
+    "audio": "work/audio/ko-KR/05/ko-05-1516.mp3"
+  },
+  {
+    "id": "ko-05-1517",
+    "sentence": "[교육 통계 정리 지원 계획]\n담당: 연구지원팀 박선아 연구원\n업무: 만족도 조사 결과 정리\n지원 자원: 노트북 두 대, 조교 한 명\n기한: 다음 주 수요일\n보고 대상: 교육통계팀장",
+    "cloze": "지원 자원: 노트북 두 대, 조교 한 명",
+    "answer": "지원 자원: 노트북 두 대, 조교 한 명",
+    "accepted_answers": [],
+    "lemma": "교육 통계 정리 지원 계획에 노트북 두 대와 조교 한 명을 지원 자원으로 표기하다",
+    "meaning": "resources provided: two laptops and one assistant",
+    "audio": "work/audio/ko-KR/05/ko-05-1517.mp3"
+  },
+  {
+    "id": "ko-05-1518",
+    "sentence": "[교재 시범 운영 보고 체계]\n담당: 교육연구팀 정수빈 연구원\n지원 자료: 지난 학기 운영 기록\n완료 기한: 유월 이십일\n중간 보고 대상: 교육기획과장\n최종 보고: 교육위원회\n주기: 매주 수요일",
+    "cloze": "중간 보고 대상: 교육기획과장",
+    "answer": "중간 보고 대상: 교육기획과장",
+    "accepted_answers": [],
+    "lemma": "교재 시범 운영 보고 체계에 교육기획과장을 중간 보고 대상으로 표기하다",
+    "meaning": "interim report recipient: education planning director",
+    "audio": "work/audio/ko-KR/05/ko-05-1518.mp3"
+  },
+  {
+    "id": "ko-05-1519",
+    "sentence": "[장학금 신청 업무 배정]\n업무 범위: 신청서 검토 및 보완 안내\n담당: 학생지원팀\n지원 자료: 신청 대장과 보완 기준표\n완료: 유월 첫째 주\n보고: 학사과장",
+    "cloze": "업무 범위: 신청서 검토 및 보완 안내",
+    "answer": "업무 범위: 신청서 검토 및 보완 안내",
+    "accepted_answers": [],
+    "lemma": "장학금 신청 업무의 범위를 신청서 검토와 보완 안내로 표기하다",
+    "meaning": "scope of work: application review and guidance on required supplements",
+    "audio": "work/audio/ko-KR/05/ko-05-1519.mp3"
+  },
+  {
+    "id": "ko-05-1520",
+    "sentence": "[지역 교육 행사 운영 업무표]\n담당: 행사운영팀 김도현 팀장\n지원 자원: 진행 요원 네 명\n재량 범위: 배정 예산 안의 일정 조정\n사전 보고 사항: 예산 변경 및 외부 계약\n사전 보고 대상: 사업 책임자\n완료 기한: 칠월 삼 일",
+    "cloze": "재량 범위: 배정 예산 안의 일정 조정",
+    "answer": "재량 범위: 배정 예산 안의 일정 조정",
+    "accepted_answers": [],
+    "lemma": "지역 교육 행사 운영 업무표에 배정 예산 안의 일정 조정을 재량 범위로 표기하다",
+    "meaning": "discretionary scope: schedule adjustments within the allocated budget",
+    "audio": "work/audio/ko-KR/05/ko-05-1520.mp3"
   }
 ]
