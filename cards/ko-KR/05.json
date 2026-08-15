@@ -15201,5 +15201,405 @@
     "lemma": "지역 교육 행사 운영 업무표에 배정 예산 안의 일정 조정을 재량 범위로 표기하다",
     "meaning": "discretionary scope: schedule adjustments within the allocated budget",
     "audio": "work/audio/ko-KR/05/ko-05-1520.mp3"
+  },
+  {
+    "id": "ko-05-1521",
+    "sentence": "행사운영팀장: 재무과장님, 강당 사용 시간이 두 시간 늘어 추가 임차료 사십만 원이 적힌 새 견적서를 받았습니다. 전체 행사비가 아니라 추가 임차료만 결재해 주실 수 있습니까? 나머지 항목은 기존 예산대로 집행하겠습니다.",
+    "cloze": "추가 임차료만 결재해",
+    "answer": "추가 임차료만 결재해",
+    "accepted_answers": [],
+    "lemma": "행사운영팀장이 새 견적서를 근거로 강당 추가 임차료 사십만 원만 재무과장에게 결재 요청하다",
+    "meaning": "approve only the additional venue rental charge",
+    "audio": "work/audio/ko-KR/05/ko-05-1521.mp3"
+  },
+  {
+    "id": "ko-05-1522",
+    "sentence": "출판부장: 편집팀이 제출한 세 업체의 견적을 비교해 보니 가장 낮은 금액도 기존 한도보다 이십만 원 높았습니다. 편집비 증액 이십만 원만 승인하며, 디자인비는 기존 한도를 유지합니다.",
+    "cloze": "편집비 증액 이십만 원만 승인하며",
+    "answer": "편집비 증액 이십만 원만 승인하며",
+    "accepted_answers": [],
+    "lemma": "출판부장이 세 업체의 비교 견적을 근거로 편집비 증액 이십만 원만 승인하다",
+    "meaning": "I approve only a 200,000-won increase in the editing budget",
+    "audio": "work/audio/ko-KR/05/ko-05-1522.mp3"
+  },
+  {
+    "id": "ko-05-1523",
+    "sentence": "편집위원장: 본문에 인용한 자료의 출처 확인은 끝났지만, 표지 사진 제공자의 사용 동의서는 아직 오지 않았습니다. 표지 공개 승인은 보류하되, 본문 교정은 계속 진행하십시오.",
+    "cloze": "표지 공개 승인은 보류하되",
+    "answer": "표지 공개 승인은 보류하되",
+    "accepted_answers": [],
+    "lemma": "편집위원장이 사진 제공자의 사용 동의서를 기다리며 표지 공개 승인을 보류하다",
+    "meaning": "I will defer approval to release the cover",
+    "audio": "work/audio/ko-KR/05/ko-05-1523.mp3"
+  },
+  {
+    "id": "ko-05-1524",
+    "sentence": "교육과장: 발표자 한 명의 일정은 바뀌었지만 대체 발표자가 참석할 수 있고, 참가자 팔십 명도 현재 날짜를 확인했습니다. 워크숍 날짜 변경은 승인하지 않고, 행사는 기존 일정대로 진행하겠습니다.",
+    "cloze": "워크숍 날짜 변경은 승인하지 않고",
+    "answer": "워크숍 날짜 변경은 승인하지 않고",
+    "accepted_answers": [],
+    "lemma": "교육과장이 대체 발표자와 참가자 확인을 근거로 워크숍 날짜 변경을 승인하지 않다",
+    "meaning": "I will not approve changing the workshop date",
+    "audio": "work/audio/ko-KR/05/ko-05-1524.mp3"
+  },
+  {
+    "id": "ko-05-1525",
+    "sentence": "기획팀장: 사업 책임자님, 번역비에서 삼십만 원이 남았고 도표 사용료 견적이 같은 금액으로 왔습니다. 예산 전용 승인을 요청드리며, 승인이 나면 도표 세 개의 사용료에만 집행하겠습니다.",
+    "cloze": "예산 전용 승인을 요청드리며",
+    "answer": "예산 전용 승인을 요청드리며",
+    "accepted_answers": [],
+    "lemma": "기획팀장이 번역비 잔액과 도표 사용료 견적을 근거로 삼십만 원의 예산 전용 승인을 요청드리다",
+    "meaning": "I request approval to transfer the budget",
+    "audio": "work/audio/ko-KR/05/ko-05-1525.mp3"
+  },
+  {
+    "id": "ko-05-1526",
+    "sentence": "제작본부장: 기상청이 월요일 오후 강풍을 예보해 야외 촬영이 어렵습니다. 현장 촬영을 수요일로 옮기는 안을 승인하며, 실내 인터뷰는 월요일 계획대로 진행합니다.",
+    "cloze": "현장 촬영을 수요일로 옮기는 안을 승인하며",
+    "answer": "현장 촬영을 수요일로 옮기는 안을 승인하며",
+    "accepted_answers": [],
+    "lemma": "제작본부장이 강풍 예보를 근거로 현장 촬영을 수요일로 변경하는 안만 승인하다",
+    "meaning": "I approve moving the location shoot to Wednesday",
+    "audio": "work/audio/ko-KR/05/ko-05-1526.mp3"
+  },
+  {
+    "id": "ko-05-1527",
+    "sentence": "학술지 편집장: 인터뷰 참여자들은 짧은 인용 세 문장에만 동의했고, 제출 원고에는 인터뷰 전체 내용이 실려 있습니다. 인터뷰 전문 게재는 허가하지 않으며, 동의된 인용문만 남겨 주십시오.",
+    "cloze": "인터뷰 전문 게재는 허가하지 않으며",
+    "answer": "인터뷰 전문 게재는 허가하지 않으며",
+    "accepted_answers": [],
+    "lemma": "학술지 편집장이 참여자의 인용 동의 범위를 근거로 인터뷰 전문 게재를 허가하지 않다",
+    "meaning": "I do not permit publication of the full interview transcript",
+    "audio": "work/audio/ko-KR/05/ko-05-1527.mp3"
+  },
+  {
+    "id": "ko-05-1528",
+    "sentence": "홍보실장: 수정한 본문은 사실 확인을 마쳤지만 사진 두 장의 사용 허가 기간은 지난달에 끝났습니다. 수정 본문의 게시만 승인하고, 사진은 사용 허가를 새로 받은 뒤 올리십시오.",
+    "cloze": "수정 본문의 게시만 승인하고",
+    "answer": "수정 본문의 게시만 승인하고",
+    "accepted_answers": [],
+    "lemma": "홍보실장이 사실 확인과 사진 사용 허가 기간을 근거로 수정 본문의 게시만 승인하다",
+    "meaning": "I approve publication of the revised text only",
+    "audio": "work/audio/ko-KR/05/ko-05-1528.mp3"
+  },
+  {
+    "id": "ko-05-1529",
+    "sentence": "행사기획자: 본부장님, 청각 장애가 있는 참가자 열두 명의 신청이 확인됐고 전문 자막 업체의 견적도 첨부했습니다. 자막 제작비 집행을 승인해 주시면, 행사장 화면에 실시간 자막을 제공하겠습니다.",
+    "cloze": "자막 제작비 집행을 승인해 주시면",
+    "answer": "자막 제작비 집행을 승인해 주시면",
+    "accepted_answers": [],
+    "lemma": "행사기획자가 참가 신청과 업체 견적을 근거로 자막 제작비 집행 승인을 본부장에게 요청하다",
+    "meaning": "if you approve spending the caption-production funds",
+    "audio": "work/audio/ko-KR/05/ko-05-1529.mp3"
+  },
+  {
+    "id": "ko-05-1530",
+    "sentence": "연수원장: 시설팀 점검표에 오전 강의실 사용 가능 시각이 열 시로 적혀 있고 오후 강의실에는 문제가 없습니다. 오전 강의만 열 시에 시작해도 되며, 오후 일정은 그대로 두십시오.",
+    "cloze": "오전 강의만 열 시에 시작해도 되며",
+    "answer": "오전 강의만 열 시에 시작해도 되며",
+    "accepted_answers": [],
+    "lemma": "연수원장이 시설 점검표를 근거로 오전 강의의 시작 시각 변경만 허가하다",
+    "meaning": "only the morning lecture may be moved to a ten o'clock start",
+    "audio": "work/audio/ko-KR/05/ko-05-1530.mp3"
+  },
+  {
+    "id": "ko-05-1531",
+    "sentence": "사업본부장: 자산 대장을 확인하니 창고에 촬영 장비 세 세트가 남아 있습니다. 추가 장비 임차비는 승인하지 않으며, 보유 장비를 먼저 배정하십시오.",
+    "cloze": "추가 장비 임차비는 승인하지 않으며",
+    "answer": "추가 장비 임차비는 승인하지 않으며",
+    "accepted_answers": [],
+    "lemma": "사업본부장이 자산 대장의 보유 장비를 근거로 추가 장비 임차비를 승인하지 않다",
+    "meaning": "I will not approve the additional equipment rental cost",
+    "audio": "work/audio/ko-KR/05/ko-05-1531.mp3"
+  },
+  {
+    "id": "ko-05-1532",
+    "sentence": "출판부장: 원고 내용은 검토했지만 편집팀이 최종 면수를 아직 계산하지 못해 인쇄비가 달라질 수 있습니다. 인쇄비는 최종 면수가 나온 뒤 결재하고, 그전에는 인쇄 계약을 체결하지 않겠습니다.",
+    "cloze": "인쇄비는 최종 면수가 나온 뒤 결재하고",
+    "answer": "인쇄비는 최종 면수가 나온 뒤 결재하고",
+    "accepted_answers": [],
+    "lemma": "출판부장이 최종 면수에 따른 인쇄비를 확인한 뒤 인쇄비를 결재하다",
+    "meaning": "I will approve the printing cost after the final page count is available",
+    "audio": "work/audio/ko-KR/05/ko-05-1532.mp3"
+  },
+  {
+    "id": "ko-05-1533",
+    "sentence": "실험실 관리자: 학과장님, 건물 관리 공지에 수요일 오후 정전이 예정되어 있어 실습 장비를 켤 수 없습니다. 실습을 목요일 오후로 옮겨도 되겠습니까?",
+    "cloze": "실습을 목요일 오후로 옮겨도",
+    "answer": "실습을 목요일 오후로 옮겨도",
+    "accepted_answers": [],
+    "lemma": "실험실 관리자가 정전 공지를 근거로 실습의 목요일 오후 변경 허가를 학과장에게 요청하다",
+    "meaning": "may the practical class be moved to Thursday afternoon",
+    "audio": "work/audio/ko-KR/05/ko-05-1533.mp3"
+  },
+  {
+    "id": "ko-05-1534",
+    "sentence": "재무과장: 행사장이 오늘까지 예약금 이십만 원을 요구했고, 총액 견적은 다음 주에 확정된다고 합니다. 지금은 예약금 이십만 원만 집행하도록 승인하고, 잔금은 최종 견적을 본 뒤 결정하겠습니다.",
+    "cloze": "예약금 이십만 원만 집행하도록 승인하고",
+    "answer": "예약금 이십만 원만 집행하도록 승인하고",
+    "accepted_answers": [],
+    "lemma": "재무과장이 행사장 예약 기한을 근거로 예약금 이십만 원만 집행하도록 승인하다",
+    "meaning": "for now, I approve spending only the 200,000-won deposit",
+    "audio": "work/audio/ko-KR/05/ko-05-1534.mp3"
+  },
+  {
+    "id": "ko-05-1535",
+    "sentence": "편집장: 인쇄소에 오늘 오후까지 표지를 확정해 보내야 하고 새 제목은 기존 발행 목록과 아직 대조하지 못했습니다. 책 제목 변경은 허가하지 않고, 이번 판은 검토를 마친 제목으로 발행하겠습니다.",
+    "cloze": "책 제목 변경은 허가하지 않고",
+    "answer": "책 제목 변경은 허가하지 않고",
+    "accepted_answers": [],
+    "lemma": "편집장이 인쇄 기한과 목록 대조 상태를 근거로 이번 판의 책 제목 변경을 허가하지 않다",
+    "meaning": "I will not permit a change to the book title",
+    "audio": "work/audio/ko-KR/05/ko-05-1535.mp3"
+  },
+  {
+    "id": "ko-05-1536",
+    "sentence": "문화센터장: 저녁반으로 옮기자는 요청은 받았지만 참가자 서른 명 중 열여덟 명만 답했습니다. 남은 답변은 내일 정오까지 받기로 했습니다. 변경 여부는 내일 오후에 확정하고, 그때까지는 오후반 예약을 유지하겠습니다.",
+    "cloze": "변경 여부는 내일 오후에 확정하고",
+    "answer": "변경 여부는 내일 오후에 확정하고",
+    "accepted_answers": [],
+    "lemma": "문화센터장이 참가자들의 시간대 답변을 받은 뒤 강좌 일정 변경 여부를 확정하다",
+    "meaning": "I will decide on the change tomorrow afternoon",
+    "audio": "work/audio/ko-KR/05/ko-05-1536.mp3"
+  },
+  {
+    "id": "ko-05-1537",
+    "sentence": "자료담당자: 편집위원장님, 원자료 제공 기관이 세 도표의 재사용 조건을 서면으로 보내 왔고 출처 표기도 확인했습니다. 도표 세 개의 재게시 허가를 요청드리며, 허가 범위는 이번 온라인 보고서로 한정하겠습니다.",
+    "cloze": "도표 세 개의 재게시 허가를 요청드리며",
+    "answer": "도표 세 개의 재게시 허가를 요청드리며",
+    "accepted_answers": [],
+    "lemma": "자료담당자가 제공 기관의 서면 조건과 출처 표기를 근거로 도표 세 개의 재게시 허가를 요청드리다",
+    "meaning": "I request permission to republish the three charts",
+    "audio": "work/audio/ko-KR/05/ko-05-1537.mp3"
+  },
+  {
+    "id": "ko-05-1538",
+    "sentence": "홍보실장: 행사 안내문에서 시작 날짜 한 곳만 잘못 인쇄됐고 나머지 내용은 원본과 일치합니다. 날짜 정정 공지를 게시하도록 승인하고, 전체 안내문은 다시 인쇄하지 않겠습니다.",
+    "cloze": "날짜 정정 공지를 게시하도록 승인하고",
+    "answer": "날짜 정정 공지를 게시하도록 승인하고",
+    "accepted_answers": [],
+    "lemma": "홍보실장이 원본 대조 결과를 근거로 행사 날짜 정정 공지를 게시하도록 승인하다",
+    "meaning": "I approve posting a correction notice for the date",
+    "audio": "work/audio/ko-KR/05/ko-05-1538.mp3"
+  },
+  {
+    "id": "ko-05-1539",
+    "sentence": "사업부장: 수정안은 예비비 안에서 항목을 조정하면 필요한 통역비를 마련할 수 있고 전체 사업비를 늘릴 필요는 없습니다. 예산 총액 증액은 승인하지 않되, 항목 간 조정안은 재무팀이 검토하십시오.",
+    "cloze": "예산 총액 증액은 승인하지 않되",
+    "answer": "예산 총액 증액은 승인하지 않되",
+    "accepted_answers": [],
+    "lemma": "사업부장이 예비비 항목 조정 가능성을 근거로 사업 예산 총액의 증액을 승인하지 않다",
+    "meaning": "I will not approve an increase in the total budget",
+    "audio": "work/audio/ko-KR/05/ko-05-1539.mp3"
+  },
+  {
+    "id": "ko-05-1540",
+    "sentence": "공연기획팀장: 출연진 모두 목요일 리허설에 동의했고 공연장도 비어 있지만, 공개 공연 날짜는 관객에게 이미 알렸습니다. 리허설 일정 변경만 승인하고, 공개 공연은 공지한 날에 진행합니다.",
+    "cloze": "리허설 일정 변경만 승인하고",
+    "answer": "리허설 일정 변경만 승인하고",
+    "accepted_answers": [],
+    "lemma": "공연기획팀장이 출연진 동의와 공연장 현황을 근거로 리허설 일정 변경만 승인하다",
+    "meaning": "I approve only the rehearsal schedule change",
+    "audio": "work/audio/ko-KR/05/ko-05-1540.mp3"
+  },
+  {
+    "id": "ko-05-1541",
+    "sentence": "학술지 편집장: 세 번째 표의 합계와 본문 수치가 일치하지 않아 연구팀이 금요일까지 다시 계산하기로 했습니다. 수치 대조가 끝날 때까지 발행을 보류하며, 다른 교정 작업은 계속하십시오.",
+    "cloze": "수치 대조가 끝날 때까지 발행을 보류하며",
+    "answer": "수치 대조가 끝날 때까지 발행을 보류하며",
+    "accepted_answers": [],
+    "lemma": "학술지 편집장이 표와 본문 수치의 불일치를 근거로 수치 대조가 끝날 때까지 발행을 보류하다",
+    "meaning": "I will defer publication until the figures have been reconciled",
+    "audio": "work/audio/ko-KR/05/ko-05-1541.mp3"
+  },
+  {
+    "id": "ko-05-1542",
+    "sentence": "편집담당자: 출판부장님, 교정표의 열두 항목을 모두 반영했고 인용 출처도 다시 확인했습니다. 수정 원고의 최종 승인을 부탁드리며, 승인본만 인쇄소에 보내겠습니다.",
+    "cloze": "수정 원고의 최종 승인을 부탁드리며",
+    "answer": "수정 원고의 최종 승인을 부탁드리며",
+    "accepted_answers": [],
+    "lemma": "편집담당자가 교정표 반영과 인용 출처 확인을 근거로 수정 원고의 최종 승인을 출판부장에게 요청하다",
+    "meaning": "I ask for final approval of the revised manuscript",
+    "audio": "work/audio/ko-KR/05/ko-05-1542.mp3"
+  },
+  {
+    "id": "ko-05-1543",
+    "sentence": "제작팀장: 서명된 결재 기록을 확인해 보니 교정본은 출판부장 결재를 받은 상태이고, 이제 편집팀은 승인된 파일만 인쇄소에 전달하면 됩니다.",
+    "cloze": "교정본은 출판부장 결재를 받은 상태이고",
+    "answer": "교정본은 출판부장 결재를 받은 상태이고",
+    "accepted_answers": [],
+    "lemma": "제작팀장이 서명된 기록을 근거로 교정본이 출판부장 결재를 받은 상태임을 확인하다",
+    "meaning": "the proof has received the publishing director's authorization",
+    "audio": "work/audio/ko-KR/05/ko-05-1543.mp3"
+  },
+  {
+    "id": "ko-05-1544",
+    "sentence": "연구원: 편집위원회에서 원고 접수 메일이 왔는데 게재가 승인된 건가요?\n행정담당자: 이 메일은 접수 확인일 뿐 게재 승인은 아니며, 심사 결과는 다음 주에 따로 옵니다.",
+    "cloze": "접수 확인일 뿐 게재 승인은 아니며",
+    "answer": "접수 확인일 뿐 게재 승인은 아니며",
+    "accepted_answers": [],
+    "lemma": "행정담당자가 원고 접수 확인 메일을 게재 승인과 구별하다",
+    "meaning": "it is only confirmation of receipt, not approval for publication",
+    "audio": "work/audio/ko-KR/05/ko-05-1544.mp3"
+  },
+  {
+    "id": "ko-05-1545",
+    "sentence": "팀원: 팀장님, 조사 답례품 삼십오만 원어치를 오늘 주문해도 됩니까?\n팀장: 제 결재 한도는 이십만 원입니다. 이 신청은 재무과장이 결재해야 하고, 저는 신청서만 확인하겠습니다.",
+    "cloze": "이 신청은 재무과장이 결재해야 하고",
+    "answer": "이 신청은 재무과장이 결재해야 하고",
+    "accepted_answers": [],
+    "lemma": "팀장이 자신의 결재 한도를 근거로 조사 답례품 신청의 결재권자가 재무과장임을 밝히다",
+    "meaning": "the finance section chief must authorize this request",
+    "audio": "work/audio/ko-KR/05/ko-05-1545.mp3"
+  },
+  {
+    "id": "ko-05-1546",
+    "sentence": "홍보담당자: 승인 메일을 받았으니 안내서를 팔백 부 인쇄해도 될까요?\n부서장: 메일에 적힌 승인 범위는 인쇄 오백 부까지이며, 추가 삼백 부는 별도 견적과 결재가 필요합니다.",
+    "cloze": "승인 범위는 인쇄 오백 부까지이며",
+    "answer": "승인 범위는 인쇄 오백 부까지이며",
+    "accepted_answers": [],
+    "lemma": "부서장이 승인 메일의 안내서 인쇄 범위를 오백 부까지로 확인하다",
+    "meaning": "the approval covers printing up to 500 copies",
+    "audio": "work/audio/ko-KR/05/ko-05-1546.mp3"
+  },
+  {
+    "id": "ko-05-1547",
+    "sentence": "운영팀장: 본부장이 일정 변경 요청을 검토했지만 강당 예약과 참가자 안내가 이미 완료되어 변경을 승인하지 않았습니다. 따라서 행사일은 기존 일정인 오월 십일로 유지하고, 장소와 시작 시각도 바꾸지 않겠습니다.",
+    "cloze": "행사일은 기존 일정인 오월 십일로 유지하고",
+    "answer": "행사일은 기존 일정인 오월 십일로 유지하고",
+    "accepted_answers": [],
+    "lemma": "운영팀장이 일정 변경 불승인에 따라 행사일을 기존 일정인 오월 십일로 유지하다",
+    "meaning": "the event date will remain May 11 as originally scheduled",
+    "audio": "work/audio/ko-KR/05/ko-05-1547.mp3"
+  },
+  {
+    "id": "ko-05-1548",
+    "sentence": "편집장: 사진 세 장 가운데 한 장은 사용권 확인서가 있고 두 장은 제공자의 답변을 기다리고 있습니다. 사진 한 장의 게재만 승인하고, 나머지는 이번 호에서 빼겠습니다.",
+    "cloze": "사진 한 장의 게재만 승인하고",
+    "answer": "사진 한 장의 게재만 승인하고",
+    "accepted_answers": [],
+    "lemma": "편집장이 사용권 확인서를 근거로 사진 세 장 중 한 장의 이번 호 게재만 승인하다",
+    "meaning": "I approve only the one photograph whose usage rights are confirmed",
+    "audio": "work/audio/ko-KR/05/ko-05-1548.mp3"
+  },
+  {
+    "id": "ko-05-1549",
+    "sentence": "팀원: 재무과장이 ‘행사장 임차료 오십만 원은 승인합니다. 홍보비는 비교 견적을 더 보고 결정하겠습니다.’라고 했어요. 두 항목이 모두 승인된 건가요?\n선임 팀원: 아니요. 승인된 항목은 행사장 임차료뿐이고, 홍보비 결정은 미뤄졌어요.",
+    "cloze": "승인된 항목은 행사장 임차료뿐이고",
+    "answer": "승인된 항목은 행사장 임차료뿐이고",
+    "accepted_answers": [],
+    "lemma": "재무과장의 답변에서 행사장 임차료만 승인됐고 홍보비는 결정이 미뤄졌다고 해석하다",
+    "meaning": "the venue rental fee is the only approved item",
+    "audio": "work/audio/ko-KR/05/ko-05-1549.mp3"
+  },
+  {
+    "id": "ko-05-1550",
+    "sentence": "조교: 학과장님이 ‘수정한 비용표를 내일 받으면 장비 구입 여부를 결정하겠습니다.’라고 하셨습니다. 구입 요청이 거절된 겁니까?\n행정 직원: 아니요. 승인 여부 결정이 미뤄진 상태이고, 수정표가 오면 다시 판단합니다.",
+    "cloze": "승인 여부 결정이 미뤄진 상태이고",
+    "answer": "승인 여부 결정이 미뤄진 상태이고",
+    "accepted_answers": [],
+    "lemma": "수정 비용표를 기다리는 학과장의 답변을 장비 구입 불승인이 아닌 승인 여부 결정 연기로 해석하다",
+    "meaning": "the decision on whether to approve has been deferred",
+    "audio": "work/audio/ko-KR/05/ko-05-1550.mp3"
+  },
+  {
+    "id": "ko-05-1551",
+    "sentence": "기자: 문화부장이 금요일로 인터뷰 날짜를 바꿔도 된다고 했습니다. 기사 게시도 승인받은 건가요?\n편집자: 아니요. 날짜 변경만 허가받았고, 기사 게재는 편집장의 확인이 필요합니다.",
+    "cloze": "날짜 변경만 허가받았고",
+    "answer": "날짜 변경만 허가받았고",
+    "accepted_answers": [],
+    "lemma": "문화부장의 답변에서 인터뷰 날짜 변경만 허가됐고 기사 게재는 승인되지 않았다고 해석하다",
+    "meaning": "only the date change has been authorized",
+    "audio": "work/audio/ko-KR/05/ko-05-1551.mp3"
+  },
+  {
+    "id": "ko-05-1552",
+    "sentence": "연구원: 편집위원장이 ‘표의 오류를 고친 원고는 승인합니다. 다만 사진 사용 허가를 확인한 뒤 공개하겠습니다.’라고 했습니다. 지금 웹에 올려도 됩니까?\n동료: 아니요. 수정 원고만 승인된 상태이고, 공개 승인은 아직 나지 않았습니다.",
+    "cloze": "수정 원고만 승인된 상태이고",
+    "answer": "수정 원고만 승인된 상태이고",
+    "accepted_answers": [],
+    "lemma": "편집위원장의 답변에서 수정 원고 승인과 웹 공개 승인을 구별하다",
+    "meaning": "only the revised manuscript has been approved",
+    "audio": "work/audio/ko-KR/05/ko-05-1552.mp3"
+  },
+  {
+    "id": "ko-05-1553",
+    "sentence": "담당자: 부서장이 ‘요청한 팔십만 원 가운데 삼십만 원만 승인합니다. 나머지는 다른 견적을 제출해 주세요.’라고 했습니다. 지금 쓸 수 있는 금액은 얼마예요?\n동료: 승인 금액은 삼십만 원이고, 나머지 오십만 원은 승인되지 않았어요.",
+    "cloze": "승인 금액은 삼십만 원이고",
+    "answer": "승인 금액은 삼십만 원이고",
+    "accepted_answers": [],
+    "lemma": "부서장의 부분 승인에서 현재 집행 가능한 금액을 삼십만 원으로 해석하다",
+    "meaning": "the approved amount is 300,000 won",
+    "audio": "work/audio/ko-KR/05/ko-05-1553.mp3"
+  },
+  {
+    "id": "ko-05-1554",
+    "sentence": "진행자: 센터장이 ‘강당과 참가자 일정이 모두 확정되어 포럼 연기 요청은 승인하지 않습니다.’라고 했어요. 다음 주로 미뤄진 건가요?\n담당자: 아니요. 포럼은 원래 일정대로 진행되며, 공지한 시각도 그대로입니다.",
+    "cloze": "포럼은 원래 일정대로 진행되며",
+    "answer": "포럼은 원래 일정대로 진행되며",
+    "accepted_answers": [],
+    "lemma": "센터장의 연기 불승인에서 포럼이 원래 일정대로 진행된다고 해석하다",
+    "meaning": "the forum will proceed according to the original schedule",
+    "audio": "work/audio/ko-KR/05/ko-05-1554.mp3"
+  },
+  {
+    "id": "ko-05-1555",
+    "sentence": "[지역 문화지 추가 인쇄 결재 요청]\n요청 부서: 홍보팀\n근거: 신청자 천이백 명, 보유분 팔백오십 부\n결재 요청액: 사십오만 원\n집행 범위: 추가 인쇄 삼백오십 부\n결재권자: 문화사업과장",
+    "cloze": "결재 요청액: 사십오만 원",
+    "answer": "결재 요청액: 사십오만 원",
+    "accepted_answers": [],
+    "lemma": "지역 문화지 추가 인쇄 결재 요청서에 사십오만 원을 결재 요청액으로 표기하다",
+    "meaning": "amount submitted for authorization: 450,000 won",
+    "audio": "work/audio/ko-KR/05/ko-05-1555.mp3"
+  },
+  {
+    "id": "ko-05-1556",
+    "sentence": "[직원 교육 일정 변경 승인 기록]\n요청: 오월 이십일 오전 강의를 오후로 변경\n근거: 오전 교육실 냉방 공사\n결정권자: 인재개발팀장\n승인 범위: 오전 강의를 오후로 변경\n유지 사항: 교육 내용과 강사",
+    "cloze": "승인 범위: 오전 강의를 오후로 변경",
+    "answer": "승인 범위: 오전 강의를 오후로 변경",
+    "accepted_answers": [],
+    "lemma": "직원 교육 일정 변경 승인 기록에 오전 강의를 오후로 변경하는 것을 승인 범위로 표기하다",
+    "meaning": "scope of approval: move the morning lecture to the afternoon",
+    "audio": "work/audio/ko-KR/05/ko-05-1556.mp3"
+  },
+  {
+    "id": "ko-05-1557",
+    "sentence": "[온라인 소식지 게재 심사 결과]\n검토: 본문 사실 확인 완료\n미확인: 표지 사진 사용권\n결정: 사진 제외 후 본문 게재 허가\n결정권자: 편집위원장\n공개일: 유월 칠 일",
+    "cloze": "결정: 사진 제외 후 본문 게재 허가",
+    "answer": "결정: 사진 제외 후 본문 게재 허가",
+    "accepted_answers": [],
+    "lemma": "온라인 소식지 게재 심사 결과에 사진을 제외한 본문 게재 허가를 결정으로 표기하다",
+    "meaning": "decision: permit publication of the text after excluding the photographs",
+    "audio": "work/audio/ko-KR/05/ko-05-1557.mp3"
+  },
+  {
+    "id": "ko-05-1558",
+    "sentence": "[영상 장비 구입비 결재 결과]\n신청 부서: 기록팀\n신청액: 구십만 원\n근거 확인: 공용 창고에 같은 장비 두 대 보유\n처리 결과: 장비 구입 결재안 반려\n결정권자: 재무과장",
+    "cloze": "처리 결과: 장비 구입 결재안 반려",
+    "answer": "처리 결과: 장비 구입 결재안 반려",
+    "accepted_answers": [],
+    "lemma": "영상 장비 구입비 결재 결과에 장비 보유 현황을 근거로 한 결재안 반려를 표기하다",
+    "meaning": "outcome: equipment-purchase authorization request returned unapproved",
+    "audio": "work/audio/ko-KR/05/ko-05-1558.mp3"
+  },
+  {
+    "id": "ko-05-1559",
+    "sentence": "[연구보고서 발행 결재 현황]\n검토 완료: 본문과 인용 출처\n미확인: 최종 면수와 인쇄 견적\n현재 상태: 인쇄 견적 확인 전 보류\n다음 결정: 금요일 오후\n결정권자: 출판부장",
+    "cloze": "현재 상태: 인쇄 견적 확인 전 보류",
+    "answer": "현재 상태: 인쇄 견적 확인 전 보류",
+    "accepted_answers": [],
+    "lemma": "연구보고서 발행 결재 현황에 인쇄 견적 확인 전 보류를 현재 상태로 표기하다",
+    "meaning": "current status: deferred pending confirmation of the printing estimate",
+    "audio": "work/audio/ko-KR/05/ko-05-1559.mp3"
+  },
+  {
+    "id": "ko-05-1560",
+    "sentence": "[지역 협의회 일정 변경 확정서]\n변경 사유: 회의실 보수 일정과 겹침\n참석 확인: 열네 명 전원 동의\n승인권자: 주민협력과장\n확정 일시: 유월 십팔일 오후 두 시\n장소: 주민센터 회의실",
+    "cloze": "확정 일시: 유월 십팔일 오후 두 시",
+    "answer": "확정 일시: 유월 십팔일 오후 두 시",
+    "accepted_answers": [],
+    "lemma": "지역 협의회 일정 변경 확정서에 유월 십팔일 오후 두 시를 확정 일시로 표기하다",
+    "meaning": "confirmed date and time: 2 p.m. on June 18",
+    "audio": "work/audio/ko-KR/05/ko-05-1560.mp3"
   }
 ]
