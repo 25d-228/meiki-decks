@@ -17201,5 +17201,405 @@
     "lemma": "교육 영상 제작 협의에서 시범 영상 승인을 잔여 조건으로 기록하다",
     "meaning": "remaining condition: approval of the sample video",
     "audio": "work/audio/ko-KR/05/ko-05-1720.mp3"
+  },
+  {
+    "id": "ko-05-1721",
+    "sentence": "부서별 요청 사항을 모두 확인했습니다. 회의 진행을 맡은 과장이 순서를 안내했습니다. 첫째 안건부터 논의하겠습니다. 공용 장비 교체 의견을 들은 뒤 둘째 안건으로 넘어가겠습니다.",
+    "cloze": "첫째 안건부터 논의하겠습니다",
+    "answer": "첫째 안건부터 논의하겠습니다",
+    "accepted_answers": [],
+    "lemma": "부서 회의에서 첫째 안건부터 논의를 시작하다",
+    "meaning": "We will begin with the first agenda item",
+    "audio": "work/audio/ko-KR/05/ko-05-1721.mp3"
+  },
+  {
+    "id": "ko-05-1722",
+    "sentence": "동료 네 명이 참석한 주간 회의에서 민지 씨와 준호 씨가 잇따라 손을 들었어요. 진행자가 손을 든 순서를 확인하고 말했어요. 민지 씨부터 말씀해 주세요. 준호 씨 의견은 바로 이어서 들을게요.",
+    "cloze": "민지 씨부터 말씀해 주세요",
+    "answer": "민지 씨부터 말씀해 주세요",
+    "accepted_answers": [],
+    "lemma": "동료 회의에서 발언 의사를 밝힌 순서에 따라 먼저 말할 사람을 지명하다",
+    "meaning": "Minji, please speak first",
+    "audio": "work/audio/ko-KR/05/ko-05-1722.mp3"
+  },
+  {
+    "id": "ko-05-1723",
+    "sentence": "회의 종료까지 십 분이 남았고 접근성 개선안 뒤에 예산 보고가 예정돼 있어요. 진행자가 현재 발언자를 재촉하지 않고 순서를 정리했어요. 이 의견까지 듣고 다음으로 넘어갈게요. 발언자는 핵심 근거를 마저 설명했어요.",
+    "cloze": "이 의견까지 듣고 다음으로 넘어갈게요",
+    "answer": "이 의견까지 듣고 다음으로 넘어갈게요",
+    "accepted_answers": [],
+    "lemma": "남은 회의 시간을 고려해 현재 의견까지 들은 뒤 다음 순서로 넘어가다",
+    "meaning": "We will hear this comment, then move on",
+    "audio": "work/audio/ko-KR/05/ko-05-1723.mp3"
+  },
+  {
+    "id": "ko-05-1724",
+    "sentence": "공식 운영회의에서 한 위원이 보고 담당자의 설명 중간에 질문했습니다. 의장은 질문을 막지 않고 순서만 바로잡았습니다. 발언이 끝난 뒤 질문해 주십시오. 담당자가 설명을 마치자 그 위원에게 바로 질문권을 줬습니다.",
+    "cloze": "발언이 끝난 뒤 질문해 주십시오",
+    "answer": "발언이 끝난 뒤 질문해 주십시오",
+    "accepted_answers": [],
+    "lemma": "공식 회의에서 현재 발언이 끝난 뒤 질문하도록 순서를 바로잡다",
+    "meaning": "Please ask your question after the speaker finishes",
+    "audio": "work/audio/ko-KR/05/ko-05-1724.mp3"
+  },
+  {
+    "id": "ko-05-1725",
+    "sentence": "팀 회의에서 일정을 바꿔야 한다는 의견과 업무 범위를 줄여야 한다는 의견이 함께 나왔어요. 진행자는 두 문제를 섞지 않으려고 물었어요. 쟁점이 일정인지 범위인지 확인하죠. 참석자들은 먼저 일정 문제를 다루기로 했어요.",
+    "cloze": "쟁점이 일정인지 범위인지 확인하죠",
+    "answer": "쟁점이 일정인지 범위인지 확인하죠",
+    "accepted_answers": [],
+    "lemma": "팀 회의의 쟁점이 일정과 업무 범위 중 무엇인지 확인하다",
+    "meaning": "Let's clarify whether the issue is the schedule or the scope",
+    "audio": "work/audio/ko-KR/05/ko-05-1725.mp3"
+  },
+  {
+    "id": "ko-05-1726",
+    "sentence": "운영위원회 간사는 새 지침을 설명한 뒤 의견을 받을 계획이었습니다. 참석자가 오늘 결론까지 내리는지 묻자 의장이 답했습니다. 오늘은 결정하지 않고 의견만 수렴하겠습니다. 결정은 다음 주 정식 회의에서 합니다.",
+    "cloze": "오늘은 결정하지 않고 의견만 수렴하겠습니다",
+    "answer": "오늘은 결정하지 않고 의견만 수렴하겠습니다",
+    "accepted_answers": [],
+    "lemma": "운영위원회에서 당일 회의의 범위를 의견 수렴으로 한정하다",
+    "meaning": "Today we will gather opinions without making a decision",
+    "audio": "work/audio/ko-KR/05/ko-05-1726.mp3"
+  },
+  {
+    "id": "ko-05-1727",
+    "sentence": "교과과정 회의에서 교수 대표는 학습 성취를 꾸준히 점검하려면 평가 횟수를 유지해야 한다고 했습니다. 학생 대표는 학습 내용을 보완할 수 있도록 피드백 시간을 보장해 달라고 했습니다. 의장은 어느 한쪽의 결론을 덧붙이지 않고 공통점을 정리했습니다. 두 입장 모두 학습 품질을 중시합니다. 차이는 평가 횟수와 피드백 시간의 우선순위입니다.",
+    "cloze": "두 입장 모두 학습 품질을 중시합니다",
+    "answer": "두 입장 모두 학습 품질을 중시합니다",
+    "accepted_answers": [],
+    "lemma": "교과과정 회의에서 양측 입장의 공통 목표를 학습 품질로 요약하다",
+    "meaning": "Both positions prioritize learning quality",
+    "audio": "work/audio/ko-KR/05/ko-05-1727.mp3"
+  },
+  {
+    "id": "ko-05-1728",
+    "sentence": "위원 세 명의 의견이 둘로 갈렸고 규정은 출석 위원의 표결로 결정하도록 정하고 있었습니다. 의장은 자신의 선호를 결론으로 내세우지 않았습니다. 이 사안은 표결에 부치겠습니다. 표결 결과가 위원회 결정으로 기록됩니다.",
+    "cloze": "이 사안은 표결에 부치겠습니다",
+    "answer": "이 사안은 표결에 부치겠습니다",
+    "accepted_answers": [],
+    "lemma": "의장이 개인 선호 대신 규정에 따라 사안을 표결에 부치다",
+    "meaning": "I will put this matter to a vote",
+    "audio": "work/audio/ko-KR/05/ko-05-1728.mp3"
+  },
+  {
+    "id": "ko-05-1729",
+    "sentence": "네 명이 같은 찬성 이유를 말해 시간이 부족해졌습니다. 의장은 아직 말하지 않은 참석자에게 이미 나온 내용과 다른 근거가 있는지 물었습니다. 같은 의견은 앞선 발언으로 갈음하겠습니다. 새로운 근거가 있는 참석자에게 발언권을 줬습니다.",
+    "cloze": "같은 의견은 앞선 발언으로 갈음하겠습니다",
+    "answer": "같은 의견은 앞선 발언으로 갈음하겠습니다",
+    "accepted_answers": [],
+    "lemma": "반복되는 찬성 의견을 앞선 발언으로 갈음하고 새로운 근거를 듣다",
+    "meaning": "We will treat the earlier remarks as covering repeated views",
+    "audio": "work/audio/ko-KR/05/ko-05-1729.mp3"
+  },
+  {
+    "id": "ko-05-1730",
+    "sentence": "팀 회의에서 출장 정산을 논의하던 중 사무실 좌석 배치 이야기가 나왔어요. 진행자는 그 문제도 필요하다고 인정한 뒤 현재 안건과 분리했어요. 별도 안건으로 올려 다음에 논의하죠. 간사는 다음 주 의제에 좌석 배치를 추가했어요.",
+    "cloze": "별도 안건으로 올려 다음에 논의하죠",
+    "answer": "별도 안건으로 올려 다음에 논의하죠",
+    "accepted_answers": [],
+    "lemma": "현재 안건에서 벗어난 좌석 배치 문제를 별도 안건으로 등록하다",
+    "meaning": "Let's add that as a separate item and discuss it next time",
+    "audio": "work/audio/ko-KR/05/ko-05-1730.mp3"
+  },
+  {
+    "id": "ko-05-1731",
+    "sentence": "개편안 찬성 의견이 먼저 세 차례 이어졌습니다. 의장은 결론을 서두르지 않고 다른 판단 근거를 확인했습니다. 반대 의견도 차례로 듣겠습니다. 두 위원이 비용과 접근성 문제를 설명했습니다.",
+    "cloze": "반대 의견도 차례로 듣겠습니다",
+    "answer": "반대 의견도 차례로 듣겠습니다",
+    "accepted_answers": [],
+    "lemma": "찬성 발언 뒤에 반대 의견도 정해진 순서로 듣다",
+    "meaning": "We will also hear opposing views in turn",
+    "audio": "work/audio/ko-KR/05/ko-05-1731.mp3"
+  },
+  {
+    "id": "ko-05-1732",
+    "sentence": "여섯 명의 팀 회의에서 세 명만 계속 말하고 있었어요. 진행자는 아직 말하지 않은 사람도 의견을 낼 수 있게 순서를 조정했어요. 아직 발언하지 않은 분부터 들을게요. 조용하던 담당자가 현장 일정의 제약을 설명했어요.",
+    "cloze": "아직 발언하지 않은 분부터 들을게요",
+    "answer": "아직 발언하지 않은 분부터 들을게요",
+    "accepted_answers": [],
+    "lemma": "팀 회의에서 아직 말하지 않은 참석자에게 먼저 발언 기회를 주다",
+    "meaning": "Let's first hear from those who have not spoken yet",
+    "audio": "work/audio/ko-KR/05/ko-05-1732.mp3"
+  },
+  {
+    "id": "ko-05-1733",
+    "sentence": "회의 자료에는 ‘빠른 시행’이라고만 적혀 있었습니다. 의장은 담당자의 표현을 임의로 해석하지 않고 기한을 물었습니다. 이번 달 시행을 뜻합니까? 담당자는 다음 달 첫째 주까지라고 정정했습니다.",
+    "cloze": "이번 달 시행을 뜻합니까",
+    "answer": "이번 달 시행을 뜻합니까",
+    "accepted_answers": [],
+    "lemma": "회의에서 빠른 시행이라는 표현의 구체적인 기한을 질문하다",
+    "meaning": "Do you mean implementation this month?",
+    "audio": "work/audio/ko-KR/05/ko-05-1733.mp3"
+  },
+  {
+    "id": "ko-05-1734",
+    "sentence": "검토 담당자가 예산안에 근거가 부족하다고 말했습니다. 의장은 전체 안을 반려한다는 뜻으로 확대하지 않고 범위를 확인했습니다. 검토 대상이 예산안 전체입니까? 담당자는 홍보비 항목만 다시 보자는 뜻이라고 답했습니다.",
+    "cloze": "검토 대상이 예산안 전체입니까",
+    "answer": "검토 대상이 예산안 전체입니까",
+    "accepted_answers": [],
+    "lemma": "예산안 검토 의견이 전체 안을 대상으로 하는지 범위를 확인하다",
+    "meaning": "Is the entire budget proposal under review?",
+    "audio": "work/audio/ko-KR/05/ko-05-1734.mp3"
+  },
+  {
+    "id": "ko-05-1735",
+    "sentence": "근무제 회의에서 통근 시간과 사무실 비용이 한꺼번에 논의됐어요. 진행자는 오늘 결정할 범위를 다시 확인했어요. 논의할 쟁점을 출근 요일로 좁힐게요. 사무실 비용은 자료를 모아 다음 회의에 올리기로 했어요.",
+    "cloze": "논의할 쟁점을 출근 요일로 좁힐게요",
+    "answer": "논의할 쟁점을 출근 요일로 좁힐게요",
+    "accepted_answers": [],
+    "lemma": "근무제 회의에서 당일 논의할 쟁점을 출근 요일로 좁히다",
+    "meaning": "I will narrow today's issue to which days staff come in",
+    "audio": "work/audio/ko-KR/05/ko-05-1735.mp3"
+  },
+  {
+    "id": "ko-05-1736",
+    "sentence": "시설 회의에서 한 참석자가 겨울에 이용자가 늘 것이라고 예상했습니다. 의장은 작년 이용 기록과 올해 전망이 섞이지 않도록 요청했습니다. 확인된 수치와 예상은 나눠 말씀해 주세요. 기록 담당자는 두 내용을 별도 항목에 적었습니다.",
+    "cloze": "확인된 수치와 예상은 나눠 말씀해 주세요",
+    "answer": "확인된 수치와 예상은 나눠 말씀해 주세요",
+    "accepted_answers": [],
+    "lemma": "시설 회의에서 확인된 이용 수치와 향후 예상을 구분해 말하도록 요청하다",
+    "meaning": "Please distinguish the confirmed figures from the forecast",
+    "audio": "work/audio/ko-KR/05/ko-05-1736.mp3"
+  },
+  {
+    "id": "ko-05-1737",
+    "sentence": "위원이 야간 창구를 유지해야 한다고 주장했습니다. 의장은 찬반을 평가하기 전에 판단 근거를 분명히 하려 했습니다. 근거가 이용 기록인지 확인하겠습니다. 위원은 지난 석 달의 시간대별 방문 건수를 제시했습니다.",
+    "cloze": "근거가 이용 기록인지 확인하겠습니다",
+    "answer": "근거가 이용 기록인지 확인하겠습니다",
+    "accepted_answers": [],
+    "lemma": "야간 창구 유지 의견의 근거가 실제 이용 기록인지 확인하다",
+    "meaning": "I will confirm whether the view is based on usage records",
+    "audio": "work/audio/ko-KR/05/ko-05-1737.mp3"
+  },
+  {
+    "id": "ko-05-1738",
+    "sentence": "출시 일정 회의에서 기획팀은 시험 기간을 늘리자고 했고 운영팀은 기능 수를 줄이자고 했습니다. 의장은 두 제안을 서로 바꾸어 말하지 않고 요약했습니다. 기획팀은 연기, 운영팀은 축소 입장입니다. 각 팀이 요약이 정확하다고 확인했습니다.",
+    "cloze": "기획팀은 연기, 운영팀은 축소 입장입니다",
+    "answer": "기획팀은 연기, 운영팀은 축소 입장입니다",
+    "accepted_answers": [],
+    "lemma": "출시 회의에서 기획팀의 연기안과 운영팀의 기능 축소안을 구분해 요약하다",
+    "meaning": "Planning proposed a delay, while operations proposed reducing scope",
+    "audio": "work/audio/ko-KR/05/ko-05-1738.mp3"
+  },
+  {
+    "id": "ko-05-1739",
+    "sentence": "두 부서는 상담 대기 시간을 줄여야 한다는 데 동의했습니다. 서비스팀은 이달 시행을, 전산팀은 시험 뒤 시행을 원했습니다. 의장이 공통점과 차이를 정리했습니다. 목표는 같지만 시행 시점은 다릅니다. 참석자들은 이 정리를 바탕으로 다음 질문을 검토했습니다.",
+    "cloze": "목표는 같지만 시행 시점은 다릅니다",
+    "answer": "목표는 같지만 시행 시점은 다릅니다",
+    "accepted_answers": [],
+    "lemma": "상담 개선 회의에서 공통 목표와 서로 다른 시행 시점을 요약하다",
+    "meaning": "The goal is shared, but the preferred timing differs",
+    "audio": "work/audio/ko-KR/05/ko-05-1739.mp3"
+  },
+  {
+    "id": "ko-05-1740",
+    "sentence": "의장은 연구팀이 표본을 늘리자는 이유를 비용 절감이라고 정리했습니다. 연구팀은 이유가 지역별 비교의 정확성이라고 바로잡았습니다. 의장은 요약을 수정한 뒤 물었습니다. 정리한 내용이 맞는지 확인해 주십시오. 연구팀과 재정팀 모두 수정된 요약에 동의했습니다.",
+    "cloze": "정리한 내용이 맞는지 확인해 주십시오",
+    "answer": "정리한 내용이 맞는지 확인해 주십시오",
+    "accepted_answers": [],
+    "lemma": "회의 의장이 수정한 입장 요약의 정확성을 당사자들에게 확인하다",
+    "meaning": "Please confirm whether my summary is accurate",
+    "audio": "work/audio/ko-KR/05/ko-05-1740.mp3"
+  },
+  {
+    "id": "ko-05-1741",
+    "sentence": "모든 참석자가 두 대안의 비용과 기간을 확인했고 추가 질문도 없었습니다. 의장은 토론을 일방적으로 끊지 않고 종결 여부를 물었습니다. 이견이 없으면 표결로 넘어가겠습니다. 참석자들이 동의해 정해진 표결을 시작했습니다.",
+    "cloze": "이견이 없으면 표결로 넘어가겠습니다",
+    "answer": "이견이 없으면 표결로 넘어가겠습니다",
+    "accepted_answers": [],
+    "lemma": "추가 이견이 없는지 확인한 뒤 정해진 표결 절차로 전환하다",
+    "meaning": "If there are no further objections, we will proceed to the vote",
+    "audio": "work/audio/ko-KR/05/ko-05-1741.mp3"
+  },
+  {
+    "id": "ko-05-1742",
+    "sentence": "소위원회는 자문만 할 수 있고 최종 사업 범위는 본부장이 승인하도록 규정돼 있었습니다. 의장은 회의의 권한을 분명히 했습니다. 최종 결정 권한은 본부장에게 있습니다. 위원회는 두 안의 장단점만 정리해 보고했습니다.",
+    "cloze": "최종 결정 권한은 본부장에게 있습니다",
+    "answer": "최종 결정 권한은 본부장에게 있습니다",
+    "accepted_answers": [],
+    "lemma": "자문 소위원회에서 최종 사업 범위의 결정 권한이 본부장에게 있음을 밝히다",
+    "meaning": "The division head has final decision authority",
+    "audio": "work/audio/ko-KR/05/ko-05-1742.mp3"
+  },
+  {
+    "id": "ko-05-1743",
+    "sentence": "운영위원회는 두 달간의 시험 결과와 담당 인력을 검토했고 출석 위원 전원이 표결에 참여했습니다. 의장이 결과를 발표했습니다. 위원회는 시범 운영안을 채택했습니다. 개인 의견이 아니라 표결 결과로 회의록에 남겼습니다.",
+    "cloze": "위원회는 시범 운영안을 채택했습니다",
+    "answer": "위원회는 시범 운영안을 채택했습니다",
+    "accepted_answers": [],
+    "lemma": "운영위원회가 표결을 거쳐 시범 운영안을 공식 결정으로 채택하다",
+    "meaning": "The committee adopted the pilot-operation plan",
+    "audio": "work/audio/ko-KR/05/ko-05-1743.mp3"
+  },
+  {
+    "id": "ko-05-1744",
+    "sentence": "두 장소 모두 비용 한도 안에 있었지만 한 곳만 휠체어 이동 기준을 충족했습니다. 의장은 위원회가 선택한 이유를 결론과 함께 확인했습니다. 접근성 기준을 충족한 안을 선택했습니다. 시설팀은 이 근거가 맞다고 확인했습니다.",
+    "cloze": "접근성 기준을 충족한 안을 선택했습니다",
+    "answer": "접근성 기준을 충족한 안을 선택했습니다",
+    "accepted_answers": [],
+    "lemma": "위원회가 접근성 기준 충족을 장소 선택의 근거로 기록하다",
+    "meaning": "We selected the option that meets the accessibility standard",
+    "audio": "work/audio/ko-KR/05/ko-05-1744.mp3"
+  },
+  {
+    "id": "ko-05-1745",
+    "sentence": "회의에서 안내문 수정이 결정됐지만 초안 작성자가 정해지지 않았습니다. 의장은 업무 분장표를 살펴 외부 안내문 작성이 홍보팀 소관임을 확인했습니다. 수정안 작성은 홍보팀이 맡습니다. 고객지원팀은 자주 묻는 질문 자료를 수요일까지 제공하기로 했습니다.",
+    "cloze": "수정안 작성은 홍보팀이 맡습니다",
+    "answer": "수정안 작성은 홍보팀이 맡습니다",
+    "accepted_answers": [],
+    "lemma": "회의 결정에 따라 안내문 수정안 작성 책임을 홍보팀에 배정하다",
+    "meaning": "The communications team will draft the revision",
+    "audio": "work/audio/ko-KR/05/ko-05-1745.mp3"
+  },
+  {
+    "id": "ko-05-1746",
+    "sentence": "자료 수정 담당과 검토 담당이 정해졌습니다. 의장은 다음 회의 전에 결과를 확인할 수 있도록 제출 시점을 물었습니다. 수정본은 수요일까지 공유해 주세요. 홍보팀은 화요일까지 작성하고 기획팀은 수요일 오전에 검토하기로 했습니다.",
+    "cloze": "수정본은 수요일까지 공유해 주세요",
+    "answer": "수정본은 수요일까지 공유해 주세요",
+    "accepted_answers": [],
+    "lemma": "회의 후속 작업인 수정본의 공유 기한을 수요일로 확인하다",
+    "meaning": "Please share the revised version by Wednesday",
+    "audio": "work/audio/ko-KR/05/ko-05-1746.mp3"
+  },
+  {
+    "id": "ko-05-1747",
+    "sentence": "회의는 새 안내 창구를 한 달간 시험하기로 결정했습니다. 의장은 성공 여부를 지금 단정하지 않고 확인 시점을 기록했습니다. 다음 회의에서 이용률을 다시 살피겠습니다. 운영팀이 시간대별 이용 자료를 준비하기로 했습니다.",
+    "cloze": "다음 회의에서 이용률을 다시 살피겠습니다",
+    "answer": "다음 회의에서 이용률을 다시 살피겠습니다",
+    "accepted_answers": [],
+    "lemma": "안내 창구 시범 운영 뒤 다음 회의에서 이용률을 후속 확인하다",
+    "meaning": "We will review the usage rate at the next meeting",
+    "audio": "work/audio/ko-KR/05/ko-05-1747.mp3"
+  },
+  {
+    "id": "ko-05-1748",
+    "sentence": "시설 교체안의 필요성에는 동의했지만 견적의 설치비 항목에는 근거가 없었습니다. 의장은 억지로 결론을 내리지 않고 미결 사항을 분리했습니다. 비용 근거를 보완한 뒤 재논의하겠습니다. 구매팀이 금요일까지 세부 견적을 받기로 했습니다.",
+    "cloze": "비용 근거를 보완한 뒤 재논의하겠습니다",
+    "answer": "비용 근거를 보완한 뒤 재논의하겠습니다",
+    "accepted_answers": [],
+    "lemma": "시설 교체 비용의 근거를 보완한 뒤 미결 안건을 다시 논의하다",
+    "meaning": "We will revisit the matter after strengthening the cost evidence",
+    "audio": "work/audio/ko-KR/05/ko-05-1748.mp3"
+  },
+  {
+    "id": "ko-05-1749",
+    "sentence": "[서비스 개선 회의]\n연구팀장: 최근 설문 결과부터 설명하겠습니다.\n운영팀장: 현장 인력 문제를 먼저 말씀드려도 됩니까?\n의장: 두 사안 모두 필요합니다. 지금은 연구팀 발언 순서입니다.\n운영팀장: 알겠습니다. 설명이 끝나면 질문하겠습니다.\n의장: 연구팀 설명 뒤에 운영 조건을 듣겠습니다.",
+    "cloze": "지금은 연구팀 발언 순서입니다",
+    "answer": "지금은 연구팀 발언 순서입니다",
+    "accepted_answers": [],
+    "lemma": "서비스 개선 회의에서 연구팀의 현재 발언 순서를 지키도록 안내하다",
+    "meaning": "It is the research team's turn to speak",
+    "audio": "work/audio/ko-KR/05/ko-05-1749.mp3"
+  },
+  {
+    "id": "ko-05-1750",
+    "sentence": "[동료 팀 회의]\n진행자: 지연 원인을 확인하는 것이 오늘 안건이에요.\n수진: 외주 업체의 납품이 늦었어요.\n현우: 내부 검토에도 이틀이 더 걸렸어요.\n진행자: 두 분은 원인을 따로 검토하자는 뜻인가요?\n수진: 네, 외부 납품이 한 원인이에요.\n현우: 내부 검토도 별도 원인으로 기록해야 해요.",
+    "cloze": "두 분은 원인을 따로 검토하자는 뜻인가요",
+    "answer": "두 분은 원인을 따로 검토하자는 뜻인가요",
+    "accepted_answers": [],
+    "lemma": "동료 회의에서 두 담당자가 외부 납품과 내부 검토 원인을 구분하자는 뜻인지 확인하다",
+    "meaning": "Do both of you mean that we should examine the causes separately?",
+    "audio": "work/audio/ko-KR/05/ko-05-1750.mp3"
+  },
+  {
+    "id": "ko-05-1751",
+    "sentence": "[교육과정 회의]\n교수 대표: 필수 과제 수는 유지해야 합니다.\n학생 대표: 과제는 유지하되 피드백을 더 빨리 받아야 합니다.\n의장: 과제 유지안과 피드백 단축안이 나왔습니다.\n학생 대표: 맞습니다. 과제를 없애자는 의견은 아닙니다.\n의장: 이 요약을 회의록에 반영하겠습니다.",
+    "cloze": "과제 유지안과 피드백 단축안이 나왔습니다",
+    "answer": "과제 유지안과 피드백 단축안이 나왔습니다",
+    "accepted_answers": [],
+    "lemma": "교육과정 회의에서 과제 유지안과 피드백 기한 단축안을 두 입장으로 요약하다",
+    "meaning": "The two positions are to retain the assignments and to shorten feedback time",
+    "audio": "work/audio/ko-KR/05/ko-05-1751.mp3"
+  },
+  {
+    "id": "ko-05-1752",
+    "sentence": "[연구윤리위원회]\n위원: 자료 공개 범위를 오늘 정할 수 있습니까?\n의장: 제게 단독 결정 권한은 없습니다.\n위원: 그러면 권고안을 정리한 뒤 표결합니까?\n의장: 네. 출석 위원의 표결로 결정합니다.\n간사: 표결 결과와 반대 의견도 함께 기록하겠습니다.",
+    "cloze": "출석 위원의 표결로 결정합니다",
+    "answer": "출석 위원의 표결로 결정합니다",
+    "accepted_answers": [],
+    "lemma": "연구윤리위원회의 자료 공개 범위를 출석 위원의 표결로 결정하다",
+    "meaning": "The attending members will decide by vote",
+    "audio": "work/audio/ko-KR/05/ko-05-1752.mp3"
+  },
+  {
+    "id": "ko-05-1753",
+    "sentence": "[지역 행사 운영회의]\n의장: 우천 시 실내 행사로 전환하는 안이 가결됐습니다.\n시설팀장: 공간 배치도는 저희 팀이 수정하겠습니다.\n의장: 시설팀이 목요일까지 배치도를 수정합니다.\n홍보팀장: 받은 즉시 안내문을 바꾸겠습니다.\n간사: 다음 주 회의에서 준비 상태를 확인한다고 기록하겠습니다.",
+    "cloze": "시설팀이 목요일까지 배치도를 수정합니다",
+    "answer": "시설팀이 목요일까지 배치도를 수정합니다",
+    "accepted_answers": [],
+    "lemma": "행사 운영회의 결정에 따라 시설팀이 목요일까지 공간 배치도를 수정하다",
+    "meaning": "The facilities team will revise the layout by Thursday",
+    "audio": "work/audio/ko-KR/05/ko-05-1753.mp3"
+  },
+  {
+    "id": "ko-05-1754",
+    "sentence": "[주간 동료 회의]\n진행자: 오늘 확정한 내용을 짚어 볼게요.\n민지: 고객 답변 양식은 다음 주부터 써요.\n준호: 예외 문의 분류 기준은 아직 자료가 부족해요.\n진행자: 양식은 시행하고 분류 기준은 보류해요.\n민지: 네, 준호가 목요일까지 사례를 모아 올리기로 했어요.",
+    "cloze": "양식은 시행하고 분류 기준은 보류해요",
+    "answer": "양식은 시행하고 분류 기준은 보류해요",
+    "accepted_answers": [],
+    "lemma": "동료 회의에서 답변 양식 시행 결정과 분류 기준 보류를 구분해 정리하다",
+    "meaning": "We will implement the form and defer the classification criteria",
+    "audio": "work/audio/ko-KR/05/ko-05-1754.mp3"
+  },
+  {
+    "id": "ko-05-1755",
+    "sentence": "[고객 문의 회의록]\n일시: 화요일 오후 두 시\n안건: 고객 문의 분류 기준 개정\n참석: 고객지원팀, 전산팀\n의견: 고객지원팀은 항목 통합, 전산팀은 현행 유지\n결정 근거: 분류 오류가 많은 세 항목\n결정: 세 항목만 우선 통합\n결정 주체: 고객서비스부장\n담당: 고객지원팀\n기한: 금요일\n후속 확인: 다음 달 첫 회의",
+    "cloze": "안건: 고객 문의 분류 기준 개정",
+    "answer": "안건: 고객 문의 분류 기준 개정",
+    "accepted_answers": [],
+    "lemma": "고객 문의 회의록에 분류 기준 개정을 안건으로 표시하다",
+    "meaning": "agenda item: revision of the customer-inquiry classification criteria",
+    "audio": "work/audio/ko-KR/05/ko-05-1755.mp3"
+  },
+  {
+    "id": "ko-05-1756",
+    "sentence": "[교육 방식 검토 회의록]\n쟁점: 신입 직원 교육 방식\n교육팀 입장: 첫 수업은 대면 진행\n개발팀 입장: 전 과정 온라인 진행\n입장 요약: 교육팀 대면·개발팀 온라인\n검토 기준: 실습 효과, 원격 접근성\n결정 주체: 인사위원회\n처리: 두 안을 인사위원회에 제출",
+    "cloze": "입장 요약: 교육팀 대면·개발팀 온라인",
+    "answer": "입장 요약: 교육팀 대면·개발팀 온라인",
+    "accepted_answers": [],
+    "lemma": "교육 방식 회의록에 교육팀 대면안과 개발팀 온라인안을 구분해 요약하다",
+    "meaning": "position summary: education team—in person / development team—online",
+    "audio": "work/audio/ko-KR/05/ko-05-1756.mp3"
+  },
+  {
+    "id": "ko-05-1757",
+    "sentence": "[도서관 운영위원회 결정 기록]\n안건: 주말 개관 시간 연장\n검토 자료: 시간대별 이용자 수\n대안: 토요일만 연장, 토·일요일 모두 연장\n결정: 토요일 두 시간 연장\n근거: 토요일 이용자가 일요일의 두 배\n담당: 운영팀\n시행: 다음 달 첫째 주",
+    "cloze": "근거: 토요일 이용자가 일요일의 두 배",
+    "answer": "근거: 토요일 이용자가 일요일의 두 배",
+    "accepted_answers": [],
+    "lemma": "도서관 회의 결정 기록에 토요일 이용자 수를 연장 근거로 명시하다",
+    "meaning": "rationale: Saturday has twice as many users as Sunday",
+    "audio": "work/audio/ko-KR/05/ko-05-1757.mp3"
+  },
+  {
+    "id": "ko-05-1758",
+    "sentence": "[학사 일정 조정 회의록]\n안건: 보충 수업 날짜 변경\n논의 결과: 금요일에서 목요일로 변경 권고\n결정 주체: 학사운영위원회\n제출 자료: 강의실 현황, 학생 의견\n담당: 교무팀\n처리 기한: 수요일",
+    "cloze": "결정 주체: 학사운영위원회",
+    "answer": "결정 주체: 학사운영위원회",
+    "accepted_answers": [],
+    "lemma": "학사 일정 조정 회의록에 학사운영위원회를 최종 결정 주체로 기록하다",
+    "meaning": "decision-making body: Academic Affairs Committee",
+    "audio": "work/audio/ko-KR/05/ko-05-1758.mp3"
+  },
+  {
+    "id": "ko-05-1759",
+    "sentence": "[사무실 조명 교체 회의 결과]\n결정: 창가 구역부터 조명 교체\n담당: 시설팀(금요일까지)\n지원: 구매팀이 제품 목록 제공\n결정 근거: 창가 구역 고장 건수\n확인: 다음 주 월요일 현장 점검",
+    "cloze": "담당: 시설팀(금요일까지)",
+    "answer": "담당: 시설팀(금요일까지)",
+    "accepted_answers": [],
+    "lemma": "조명 교체 회의 결과에 시설팀 책임과 금요일 기한을 함께 표시하다",
+    "meaning": "owner: facilities team / deadline: Friday",
+    "audio": "work/audio/ko-KR/05/ko-05-1759.mp3"
+  },
+  {
+    "id": "ko-05-1760",
+    "sentence": "[상담 예약 절차 개선 회의록]\n안건: 모바일 예약 확인 단계 축소\n결정: 확인 단계를 세 단계에서 두 단계로 축소\n담당: 전산팀\n시행일: 다음 달 십 일\n측정 항목: 예약 완료율, 취소 건수\n후속 조치: 두 주 뒤 결과 재검토",
+    "cloze": "후속 조치: 두 주 뒤 결과 재검토",
+    "answer": "후속 조치: 두 주 뒤 결과 재검토",
+    "accepted_answers": [],
+    "lemma": "예약 절차 개선 회의록에 두 주 뒤 결과 재검토를 후속 조치로 기록하다",
+    "meaning": "follow-up: review the results again in two weeks",
+    "audio": "work/audio/ko-KR/05/ko-05-1760.mp3"
   }
 ]
