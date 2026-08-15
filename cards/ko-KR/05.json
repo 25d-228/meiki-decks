@@ -12801,5 +12801,405 @@
     "lemma": "업체의 수정 가능 횟수가 보완된 뒤 금요일 과업 범위 검토 회의에서 자막 외주 승인 여부를 결정하다",
     "meaning": "whether to approve it will be decided at Friday's scope-review meeting",
     "audio": "work/audio/ko-KR/05/ko-05-1280.mp3"
+  },
+  {
+    "id": "ko-05-1281",
+    "sentence": "고객사 시설 담당자: 납품된 칸막이 여덟 개의 모서리가 깨져 있습니다.\n납품업체 담당자: 월요일 오전까지 새 제품으로 바꾸겠습니다.\n고객사 시설 담당자: 교체품 여덟 개는 월요일 오전 도착을 조건으로 받겠습니다. 설치와 포장재 회수는 업체에서 맡아 주십시오.",
+    "cloze": "월요일 오전 도착을 조건으로 받겠습니다",
+    "answer": "월요일 오전 도착을 조건으로 받겠습니다",
+    "accepted_answers": [],
+    "lemma": "칸막이 교체품 여덟 개를 월요일 오전 도착 조건으로 받다",
+    "meaning": "we will accept the eight replacements on condition that they arrive by Monday morning",
+    "audio": "work/audio/ko-KR/05/ko-05-1281.mp3"
+  },
+  {
+    "id": "ko-05-1282",
+    "sentence": "행사 담당자: 회의실을 이틀 빌리면 둘째 날 대관료를 이십 퍼센트 낮춰 주실 수 있나요?\n대관 담당자: 오늘 예약금을 보내시면 그렇게 조정하겠습니다.\n행사 담당자: 할인액이 반영되는 것을 전제로 이틀 대관에 동의해요. 수정 견적서는 대관 담당자께서 오늘 보내 주세요. 저희는 받는 즉시 예약금을 낼게요.",
+    "cloze": "할인액이 반영되는 것을 전제로",
+    "answer": "할인액이 반영되는 것을 전제로",
+    "accepted_answers": [],
+    "lemma": "둘째 날 할인액 반영을 전제로 이틀 대관에 동의하다",
+    "meaning": "on the premise that the discount is reflected",
+    "audio": "work/audio/ko-KR/05/ko-05-1282.mp3"
+  },
+  {
+    "id": "ko-05-1283",
+    "sentence": "출판사 담당자: 주문하신 안내서 백 부 가운데 육십 부만 오늘 보낼 수 있습니다. 나머지 마흔 부는 금요일에 보내겠습니다.\n판매점 담당자: 나머지가 금요일에 오면 육십 부는 받죠. 남은 물량의 운송 조회 번호는 출판사에서 내일까지 알려 주세요. 저희는 오늘 받은 수량만 먼저 검수할게요.",
+    "cloze": "나머지가 금요일에 오면 육십 부는 받죠",
+    "answer": "나머지가 금요일에 오면 육십 부는 받죠",
+    "accepted_answers": [],
+    "lemma": "나머지 안내서 마흔 부의 금요일 도착을 조건으로 오늘 온 육십 부를 먼저 받다",
+    "meaning": "we will accept today's sixty copies on the premise that the rest arrive Friday",
+    "audio": "work/audio/ko-KR/05/ko-05-1283.mp3"
+  },
+  {
+    "id": "ko-05-1284",
+    "sentence": "업체 담당자: 결제 오류는 고쳤으니 청구 기능을 다시 사용해도 됩니다.\n고객사 담당자: 수정 전후의 처리 기록이 보존된다면 청구 기능만 다시 열게요. 업체는 처리 기록을 보존하고 내일까지 오류 분석서를 보내 주세요. 저희는 이틀 동안 결제 결과를 확인할게요. 다른 기능은 기존대로 운영해요.",
+    "cloze": "기록이 보존된다면 청구 기능만 다시 열게요",
+    "answer": "기록이 보존된다면 청구 기능만 다시 열게요",
+    "accepted_answers": [],
+    "lemma": "수정 전후 처리 기록이 보존되면 청구 기능만 다시 열다",
+    "meaning": "we will reopen only the billing function if the before-and-after records are retained",
+    "audio": "work/audio/ko-KR/05/ko-05-1284.mp3"
+  },
+  {
+    "id": "ko-05-1285",
+    "sentence": "급식업체 담당자: 점심 도시락 쉰 개를 준비할 수 있습니다.\n행사 담당자: 오후 세 시까지 알레르기 성분표를 받는 조건으로 쉰 개를 주문할게요. 업체는 각 용기에도 성분을 표시해 주세요. 저희는 참가자의 식이 제한을 확인해 최종 배부 명단을 보낼게요.",
+    "cloze": "성분표를 받는 조건으로 쉰 개를 주문할게요",
+    "answer": "성분표를 받는 조건으로 쉰 개를 주문할게요",
+    "accepted_answers": [],
+    "lemma": "알레르기 성분표를 오후 세 시까지 받는 조건으로 도시락 쉰 개를 주문하다",
+    "meaning": "we will order fifty meals on condition that we receive the ingredient list by three",
+    "audio": "work/audio/ko-KR/05/ko-05-1285.mp3"
+  },
+  {
+    "id": "ko-05-1286",
+    "sentence": "정비업체 책임자: 승강기 한 대의 제어 장치를 교체했습니다. 이십사 시간 동안 시험 운전을 하겠습니다.\n건물 관리 책임자: 연속 시험을 통과한 경우에만 인수합니다. 시험 운전과 기록 제출은 정비업체가 맡고, 저희는 기록을 받은 뒤 정상 운행 전환을 승인하겠습니다.",
+    "cloze": "연속 시험을 통과한 경우에만 인수합니다",
+    "answer": "연속 시험을 통과한 경우에만 인수합니다",
+    "accepted_answers": [],
+    "lemma": "이십사 시간 연속 시험을 통과한 경우에만 승강기 수리 결과를 인수하다",
+    "meaning": "we will accept the repair only if it passes a continuous test",
+    "audio": "work/audio/ko-KR/05/ko-05-1286.mp3"
+  },
+  {
+    "id": "ko-05-1287",
+    "sentence": "인쇄업체 담당자: 수정한 안내문 오백 부를 내일 오전에 납품하겠습니다.\n발주 담당자: 견본과 일치한다면 오백 부를 받겠습니다. 기준은 어제 승인한 견본입니다. 인쇄업체는 출고 전에 색상을 대조하고, 견본과 다른 인쇄물은 그 수량만큼 다시 제작해 주십시오. 저희는 납품 당일에 수량을 확인하겠습니다.",
+    "cloze": "견본과 일치한다면 오백 부를 받겠습니다",
+    "answer": "견본과 일치한다면 오백 부를 받겠습니다",
+    "accepted_answers": [],
+    "lemma": "글자 색이 승인 견본과 일치하면 수정 안내문 오백 부를 받다",
+    "meaning": "we will accept the five hundred copies if they match the approved proof",
+    "audio": "work/audio/ko-KR/05/ko-05-1287.mp3"
+  },
+  {
+    "id": "ko-05-1288",
+    "sentence": "서비스센터 책임자: 점검 착오가 있었으니 부품비는 청구하지 않고 공임만 받겠습니다.\n고객: 부품비 삭제를 조건으로 공임은 내겠습니다. 센터에서 오늘 수정 청구서를 발행해 주십시오. 저는 금액을 확인한 뒤 공임을 바로 결제하겠습니다.",
+    "cloze": "부품비 삭제를 조건으로 공임은 내겠습니다",
+    "answer": "부품비 삭제를 조건으로 공임은 내겠습니다",
+    "accepted_answers": [],
+    "lemma": "부품비 삭제를 조건으로 수리 공임을 지급하다",
+    "meaning": "I will pay the labor charge on condition that the parts charge is removed",
+    "audio": "work/audio/ko-KR/05/ko-05-1288.mp3"
+  },
+  {
+    "id": "ko-05-1289",
+    "sentence": "분석 담당자: 요청하신 결과표 다섯 개 중 세 개는 오늘 확정할 수 있어요. 다만 표본 제외 기준에 대한 설명이 빠졌어요.\n연구 담당자: 설명을 보완하면 표 세 개는 받아요. 분석 담당자는 내일까지 문단을 붙이고, 저는 확인한 표 세 개를 보고서에 반영할게요. 나머지 두 표는 다음 회의에서 다시 검토하죠.",
+    "cloze": "설명을 보완하면 표 세 개는 받아요",
+    "answer": "설명을 보완하면 표 세 개는 받아요",
+    "accepted_answers": [],
+    "lemma": "표본 제외 기준 설명을 붙이는 조건으로 결과표 세 개를 받다",
+    "meaning": "we will accept the three tables on condition that an explanatory paragraph is added",
+    "audio": "work/audio/ko-KR/05/ko-05-1289.mp3"
+  },
+  {
+    "id": "ko-05-1290",
+    "sentence": "교육업체 담당자: 현장 교육 세 회차 가운데 첫 회차는 예정대로 진행할 수 있지만 둘째 회차는 강사 사정으로 취소됐습니다. 보강 일정은 이번 주 안에 정하겠습니다.\n인사 담당자: 보강 일정을 확정해야 첫 회차를 승인합니다. 교육업체는 둘째 회차의 강사와 장소를 다시 배정하고, 저희는 보강일이 확인되면 첫 회차 참석자를 확정하겠습니다.",
+    "cloze": "보강 일정을 확정해야 첫 회차를 승인합니다",
+    "answer": "보강 일정을 확정해야 첫 회차를 승인합니다",
+    "accepted_answers": [],
+    "lemma": "누락 회차의 보강 일정을 확정해야 현장 교육 첫 회차를 승인하다",
+    "meaning": "we will approve the first session only once the make-up schedule is confirmed",
+    "audio": "work/audio/ko-KR/05/ko-05-1290.mp3"
+  },
+  {
+    "id": "ko-05-1291",
+    "sentence": "공연장 담당자: 냉방 고장으로 취소된 어제 공연의 대관료 절반을 돌려드리고 다음 달 날짜를 한 번 바꿔 드리겠습니다.\n기획사 담당자: 서면 확인을 전제로 보상안을 받겠습니다. 확인서에는 환급액과 변경 가능 날짜를 적어 주세요. 공연장은 오늘 확인서를 발행하고, 저희는 내일까지 새 날짜를 선택하겠습니다.",
+    "cloze": "서면 확인을 전제로 보상안을 받겠습니다",
+    "answer": "서면 확인을 전제로 보상안을 받겠습니다",
+    "accepted_answers": [],
+    "lemma": "환급액과 변경 가능 날짜의 서면 확인을 조건으로 공연 취소 보상안을 받아들이다",
+    "meaning": "we will accept the compensation proposal subject to written confirmation",
+    "audio": "work/audio/ko-KR/05/ko-05-1291.mp3"
+  },
+  {
+    "id": "ko-05-1292",
+    "sentence": "판매업체 담당자: 모니터 스무 대 중 여섯 대가 운송 중 손상됐습니다. 여섯 대를 새 제품으로 보내겠습니다.\n구매 담당자: 정상 제품 열네 대는 오늘 인수하되, 점검을 통과하면 교체품을 받겠습니다. 판매업체는 금요일에 교체품을 배송하고 점검 기사를 배정해 주십시오. 저희는 점검 직후 인수 결과를 알리겠습니다.",
+    "cloze": "점검을 통과하면 교체품을 받겠습니다",
+    "answer": "점검을 통과하면 교체품을 받겠습니다",
+    "accepted_answers": [],
+    "lemma": "손상 모니터 여섯 대의 교체품을 현장 점검 조건으로 받다",
+    "meaning": "we will accept the replacements if they pass the on-site inspection",
+    "audio": "work/audio/ko-KR/05/ko-05-1292.mp3"
+  },
+  {
+    "id": "ko-05-1293",
+    "sentence": "번역가: 서론과 앞의 두 장은 수요일에 먼저 보내고 나머지는 다음 주에 보내겠습니다. 용어 목록은 월요일까지 정리하겠습니다.\n편집자: 용어 목록을 받으면 일차분을 받겠습니다. 일차분은 서론과 앞의 두 장입니다. 번역가는 목록을 정리하고, 저는 받은 원고에 이틀 안에 의견을 보내겠습니다.",
+    "cloze": "용어 목록을 받으면 일차분을 받겠습니다",
+    "answer": "용어 목록을 받으면 일차분을 받겠습니다",
+    "accepted_answers": [],
+    "lemma": "월요일까지 용어 목록을 주는 조건으로 서론과 두 장을 일차 납품분으로 받다",
+    "meaning": "we will accept the first delivery if the terminology list is provided",
+    "audio": "work/audio/ko-KR/05/ko-05-1293.mp3"
+  },
+  {
+    "id": "ko-05-1294",
+    "sentence": "청소업체 책임자: 오늘 작업 인원이 부족해 청소를 마치지 못했습니다. 일요일에 네 명을 보내 다시 작업하겠습니다.\n시설 담당자: 아홉 시까지 끝내면 재작업에 동의합니다. 업체에서는 네 명을 배정하고 완료 사진을 보내 주세요. 저희는 여덟 시에 출입문을 열겠습니다.",
+    "cloze": "아홉 시까지 끝내면 재작업에 동의합니다",
+    "answer": "아홉 시까지 끝내면 재작업에 동의합니다",
+    "accepted_answers": [],
+    "lemma": "일요일 오전 아홉 시까지 마치는 조건으로 청소 재작업에 동의하다",
+    "meaning": "we agree to the repeat cleaning on condition that it is finished by nine",
+    "audio": "work/audio/ko-KR/05/ko-05-1294.mp3"
+  },
+  {
+    "id": "ko-05-1295",
+    "sentence": "도구 공급업체: 사용자 스무 명분을 월 삼십만 원에 제공하고 설치비는 받지 않겠습니다.\n프로젝트 담당자: 설치비가 없다면 세 달만 계약하겠습니다. 그 가격은 시범 기간에만 적용합니다. 공급업체는 기술 지원을 맡고, 저희는 사용자 명단과 계정을 관리하겠습니다.",
+    "cloze": "설치비가 없다면 세 달만 계약하겠습니다",
+    "answer": "설치비가 없다면 세 달만 계약하겠습니다",
+    "accepted_answers": [],
+    "lemma": "설치비가 없는 조건으로 사용자 스무 명의 세 달 시범 계약을 맺다",
+    "meaning": "we will contract for only three months at that price if there is no setup fee",
+    "audio": "work/audio/ko-KR/05/ko-05-1295.mp3"
+  },
+  {
+    "id": "ko-05-1296",
+    "sentence": "박람회 운영자: 신청하신 여섯 평 부스 대신 네 평 부스만 남아 있습니다. 전시대 두 개와 전원 콘센트 한 곳은 그대로 제공하겠습니다.\n참가업체 담당자: 비품과 전원을 제공하면 변경안을 받겠습니다. 운영자는 배치도를 수정하고, 저희는 오늘 참가 확인서에 서명하겠습니다.",
+    "cloze": "비품과 전원을 제공하면 변경안을 받겠습니다",
+    "answer": "비품과 전원을 제공하면 변경안을 받겠습니다",
+    "accepted_answers": [],
+    "lemma": "전시대 두 개와 전원 콘센트 한 곳 제공을 전제로 네 평 부스 변경안을 받다",
+    "meaning": "we will accept the smaller booth on the premise that the equipment is provided",
+    "audio": "work/audio/ko-KR/05/ko-05-1296.mp3"
+  },
+  {
+    "id": "ko-05-1297",
+    "sentence": "이전업체 담당자: 고객 기록 이전은 끝났지만 주문 기록은 내일까지 더 확인해야 합니다. 오류 목록은 내일 정오까지 보내겠습니다.\n고객사 담당자: 오류 목록을 받으면 고객 기록만 인수합니다. 이전업체는 주문 기록과 오류 수정을 계속 맡고, 저희는 받은 고객 기록의 검색 기능만 시험하겠습니다.",
+    "cloze": "오류 목록을 받으면 고객 기록만 인수합니다",
+    "answer": "오류 목록을 받으면 고객 기록만 인수합니다",
+    "accepted_answers": [],
+    "lemma": "오류 목록 제출을 조건으로 이전된 고객 기록만 먼저 넘겨받다",
+    "meaning": "we will accept only the customer records subject to delivery of the error list",
+    "audio": "work/audio/ko-KR/05/ko-05-1297.mp3"
+  },
+  {
+    "id": "ko-05-1298",
+    "sentence": "통근버스 업체: 다음 달에는 평일 운행을 하루 여섯 회에서 네 회로 줄이되 마지막 버스는 오후 아홉 시 삼십 분에 유지하겠습니다.\n회사 총무: 막차를 유지하면 네 회 운행안을 수용할게요. 업체에서는 새 시간표를 게시해 주세요. 저희는 이용 직원에게 변경 내용을 안내할게요.",
+    "cloze": "막차를 유지하면 네 회 운행안을 수용할게요",
+    "answer": "막차를 유지하면 네 회 운행안을 수용할게요",
+    "accepted_answers": [],
+    "lemma": "오후 아홉 시 삼십 분 막차 유지 조건으로 평일 네 회 운행안을 받아들이다",
+    "meaning": "we will accept the four-run schedule if the last bus is retained",
+    "audio": "work/audio/ko-KR/05/ko-05-1298.mp3"
+  },
+  {
+    "id": "ko-05-1299",
+    "sentence": "매장 책임자: 포장을 연 두 제품은 현금 환불 대신 적립금으로 보상해 드릴 수 있습니다. 적립금은 발급일부터 일 년 동안 쓸 수 있습니다.\n고객: 일 년간 쓸 수 있으면 보상을 받겠습니다. 이 합의는 그 두 제품의 적립금 보상에만 적용합니다. 매장은 오늘 적립금을 발급하고, 저는 내일 제품을 반납하겠습니다.",
+    "cloze": "일 년간 쓸 수 있으면 보상을 받겠습니다",
+    "answer": "일 년간 쓸 수 있으면 보상을 받겠습니다",
+    "accepted_answers": [],
+    "lemma": "일 년의 사용 기한을 보장하면 개봉 제품 두 개의 적립금 보상을 받다",
+    "meaning": "I will accept store credit if its one-year validity is guaranteed",
+    "audio": "work/audio/ko-KR/05/ko-05-1299.mp3"
+  },
+  {
+    "id": "ko-05-1300",
+    "sentence": "급식업체 담당자: 운송 지연으로 오전 간식은 샌드위치 백 개만 먼저 보낼 수 있고 도시락 백 개는 열한 시 삼십 분에 도착합니다.\n행사 운영자: 도시락이 제때 오면 샌드위치는 받겠습니다. 합의 수량은 각각 백 개입니다. 업체는 도착할 때 음식 온도를 확인하고, 저희는 참가자별 배부 수량을 관리하겠습니다.",
+    "cloze": "도시락이 제때 오면 샌드위치는 받겠습니다",
+    "answer": "도시락이 제때 오면 샌드위치는 받겠습니다",
+    "accepted_answers": [],
+    "lemma": "열한 시 삼십 분 도시락 도착을 조건으로 샌드위치 백 개를 먼저 받다",
+    "meaning": "we will accept the sandwiches if the boxed meals arrive on time",
+    "audio": "work/audio/ko-KR/05/ko-05-1300.mp3"
+  },
+  {
+    "id": "ko-05-1301",
+    "sentence": "발표자: 수요일에는 발표 개요를 보내고 전체 자료는 금요일 정오까지 완성하겠습니다.\n검토자: 금요일까지 완성하면 개요는 먼저 받겠습니다. 수요일 개요만 일차 제출물로 인정하는 합의입니다. 발표자는 본문과 도표를 완성하고, 저는 목요일까지 개요에 의견을 남기겠습니다.",
+    "cloze": "금요일까지 완성하면 개요는 먼저 받겠습니다",
+    "answer": "금요일까지 완성하면 개요는 먼저 받겠습니다",
+    "accepted_answers": [],
+    "lemma": "금요일 정오 전체 발표 자료 완성을 조건으로 수요일 개요를 일차 제출물로 인정하다",
+    "meaning": "we will recognize the outline as the first submission subject to Friday completion",
+    "audio": "work/audio/ko-KR/05/ko-05-1301.mp3"
+  },
+  {
+    "id": "ko-05-1302",
+    "sentence": "대여업체 담당자: 촬영 장비 반납을 하루 늦추되 기존 하루 요금을 적용하고 내일 밤에 수거하겠습니다.\n제작 담당자: 같은 요금과 야간 수거면 연장에 동의해요. 대여업체는 계약 시간을 바꾸고, 저희는 수거 전까지 장비를 보관할게요.",
+    "cloze": "같은 요금과 야간 수거면 연장에 동의해요",
+    "answer": "같은 요금과 야간 수거면 연장에 동의해요",
+    "accepted_answers": [],
+    "lemma": "기존 하루 요금과 다음 날 야간 수거를 조건으로 장비 대여를 하루 연장하다",
+    "meaning": "we agree to a one-day extension subject to the same rate and evening pickup",
+    "audio": "work/audio/ko-KR/05/ko-05-1302.mp3"
+  },
+  {
+    "id": "ko-05-1303",
+    "sentence": "디자이너: 안내 책자의 첫 면 배치를 수정했습니다. 이 형식으로 나머지 면도 작업할까요?\n편집자: 사진 설명을 키우면 첫 면은 승인할게요. 사진 설명을 두 단계 키워 주세요. 디자이너는 수정 뒤 나머지 면에 같은 기준을 적용하고, 저는 오늘 최종 사진 설명을 보낼게요.",
+    "cloze": "사진 설명을 키우면 첫 면은 승인할게요",
+    "answer": "사진 설명을 키우면 첫 면은 승인할게요",
+    "accepted_answers": [],
+    "lemma": "사진 설명 글자를 두 단계 키우는 조건으로 안내 책자 첫 면 배치를 승인하다",
+    "meaning": "we will approve the first page on condition that the caption text is enlarged",
+    "audio": "work/audio/ko-KR/05/ko-05-1303.mp3"
+  },
+  {
+    "id": "ko-05-1304",
+    "sentence": "조사업체 담당자: 응답 이백 건을 채웠지만 이십 대 응답자가 목표보다 서른 명 적습니다. 부족한 인원은 추가로 모집하겠습니다.\n연구 책임자: 추가 조사를 조건으로 잠정 수락하겠습니다. 현재 이백 건에만 해당하며, 이십 대 서른 명을 보완해야 합니다. 조사업체가 추가 모집을 맡고, 저희는 연령별 수치를 다시 확인하겠습니다.",
+    "cloze": "추가 조사를 조건으로 잠정 수락하겠습니다",
+    "answer": "추가 조사를 조건으로 잠정 수락하겠습니다",
+    "accepted_answers": [],
+    "lemma": "이십 대 서른 명의 추가 조사를 조건으로 현재 응답 이백 건을 잠정 수락하다",
+    "meaning": "we provisionally accept the two hundred responses subject to a supplementary survey",
+    "audio": "work/audio/ko-KR/05/ko-05-1304.mp3"
+  },
+  {
+    "id": "ko-05-1305",
+    "sentence": "운영업체 책임자: 파일 서비스를 멈춘 뒤 최신 백업을 복원하겠습니다. 중단 시간은 두 시간을 넘기지 않겠습니다.\n고객사 책임자: 두 시간 이내라면 복구안을 승인합니다. 승인은 최신 백업을 복원하는 오늘 파일 서비스 복구에만 해당합니다. 운영업체가 복원과 공지를 맡고, 저희는 재개 뒤 파일 수를 대조하겠습니다.",
+    "cloze": "두 시간 이내라면 복구안을 승인합니다",
+    "answer": "두 시간 이내라면 복구안을 승인합니다",
+    "accepted_answers": [],
+    "lemma": "최신 백업 복원과 두 시간 이내 중단을 조건으로 파일 서비스 복구안을 승인하다",
+    "meaning": "we approve today's recovery plan subject to a two-hour limit",
+    "audio": "work/audio/ko-KR/05/ko-05-1305.mp3"
+  },
+  {
+    "id": "ko-05-1306",
+    "sentence": "문화센터 담당자: 신청하신 큰 강당은 공사 중이라 같은 층의 작은 강당을 제공하겠습니다. 이동 경로에는 임시 경사로와 안내 표지를 설치하겠습니다.\n행사 담당자: 경사로를 설치하면 변경안을 수락하겠습니다. 변경은 안내 표지를 갖춘 작은 강당에만 해당합니다. 센터는 설치와 안전 확인을 맡고, 저희는 참석 인원을 백 명으로 조정하겠습니다.",
+    "cloze": "경사로를 설치하면 변경안을 수락하겠습니다",
+    "answer": "경사로를 설치하면 변경안을 수락하겠습니다",
+    "accepted_answers": [],
+    "lemma": "임시 경사로와 안내 표지 설치를 전제로 작은 강당 변경안을 받다",
+    "meaning": "we will accept the venue change on the premise that a ramp is installed",
+    "audio": "work/audio/ko-KR/05/ko-05-1306.mp3"
+  },
+  {
+    "id": "ko-05-1307",
+    "sentence": "수리센터 책임자: 새 부품은 다음 달에 들어오지만 재생 부품은 오늘 장착하고 육 개월 보증서를 발급할 수 있습니다.\n고객: 육 개월 보증이면 재생 부품을 받겠습니다. 이 합의는 이번 배터리 수리에만 해당합니다. 센터는 장착과 보증을 맡고, 저는 합의한 공임을 오늘 내겠습니다.",
+    "cloze": "육 개월 보증이면 재생 부품을 받겠습니다",
+    "answer": "육 개월 보증이면 재생 부품을 받겠습니다",
+    "accepted_answers": [],
+    "lemma": "육 개월 보증을 조건으로 새 부품 대신 재생 부품을 받아들이다",
+    "meaning": "I will accept the refurbished part subject to a six-month warranty",
+    "audio": "work/audio/ko-KR/05/ko-05-1307.mp3"
+  },
+  {
+    "id": "ko-05-1308",
+    "sentence": "부품업체 담당자: 원자재 가격이 올라 다음 주문부터 단가를 오 퍼센트 올려야 합니다. 기존 납기일은 지키겠습니다.\n구매 담당자: 납기를 지키면 인상분을 수용하겠습니다. 수락 범위는 다음 주문분 삼백 개이며, 그 이후 가격은 다시 협의합니다. 업체는 금요일까지 생산 일정을 보내고, 저희는 확인 뒤 발주서를 발행하겠습니다.",
+    "cloze": "납기를 지키면 인상분을 수용하겠습니다",
+    "answer": "납기를 지키면 인상분을 수용하겠습니다",
+    "accepted_answers": [],
+    "lemma": "기존 납기일 준수를 조건으로 다음 주문분 부품 삼백 개의 오 퍼센트 단가 인상을 수용하다",
+    "meaning": "we will accept the price increase for three hundred units subject to the existing deadline",
+    "audio": "work/audio/ko-KR/05/ko-05-1308.mp3"
+  },
+  {
+    "id": "ko-05-1309",
+    "sentence": "서진: 구매 담당자가 재시험 확인서가 동봉된 부품 스무 개는 오늘 받겠다고 했어요. 다섯 개는 흠집 때문에 다시 만들어야 한대요. 전부 인수했다는 뜻인가요?\n민호: 아니요. 확인서가 동봉된 스무 개만 조건부로 인수한 거예요. 흠집 난 다섯 개를 다시 제작하는 일은 여전히 납품업체 책임이에요.",
+    "cloze": "스무 개만 조건부로 인수한 거예요",
+    "answer": "스무 개만 조건부로 인수한 거예요",
+    "accepted_answers": [],
+    "lemma": "재시험 확인서가 동봉된 부품 스무 개만 조건부로 인수한 것으로 해석하다",
+    "meaning": "only the twenty units were conditionally accepted",
+    "audio": "work/audio/ko-KR/05/ko-05-1309.mp3"
+  },
+  {
+    "id": "ko-05-1310",
+    "sentence": "은지: 고객이 접수 번호를 보내는 조건으로 이용하지 못한 하루치 요금만 환급받기로 했습니다. 한 달 요금 전부를 돌려받는다는 말입니까?\n도현: 아닙니다. 접수 번호를 내야 하루치만 환급됩니다. 그 조건과 범위로 보상안을 받아들인 것입니다. 환급 처리는 상담센터가 맡고, 나머지 이용료는 고객이 부담합니다.",
+    "cloze": "접수 번호를 내야 하루치만 환급됩니다",
+    "answer": "접수 번호를 내야 하루치만 환급됩니다",
+    "accepted_answers": [],
+    "lemma": "접수 번호 제출을 조건으로 이용하지 못한 하루의 요금만 환급하는 것으로 해석하다",
+    "meaning": "it means only one day's fee will be refunded if the case number is submitted",
+    "audio": "work/audio/ko-KR/05/ko-05-1310.mp3"
+  },
+  {
+    "id": "ko-05-1311",
+    "sentence": "지후: 행사팀이 전시장 운영자의 추가 경비 배치를 조건으로 폐장 뒤 두 시간 연장안을 받아들였대요. 사용 시간이 확정된 건가요?\n수아: 경비 배치가 전제된 두 시간 연장이에요. 운영자가 경비를 배정하고, 우리는 출입자 명단을 오늘 보내야 해요.",
+    "cloze": "경비 배치가 전제된 두 시간 연장이에요",
+    "answer": "경비 배치가 전제된 두 시간 연장이에요",
+    "accepted_answers": [],
+    "lemma": "추가 경비 인력 배치를 전제로 폐장 뒤 두 시간 사용을 허용한 것으로 해석하다",
+    "meaning": "it is a two-hour extension conditional on security staffing",
+    "audio": "work/audio/ko-KR/05/ko-05-1311.mp3"
+  },
+  {
+    "id": "ko-05-1312",
+    "sentence": "혜원: 서비스센터가 충전기를 함께 빌려주는 조건으로 고객이 금요일까지 임시 기기를 쓰기로 했어요. 새 기기를 받았다는 뜻인가요?\n정민: 아니요. 충전기 포함을 전제로 한 임시 대여예요. 센터는 월요일까지 원래 기기의 배터리를 교체해야 하고, 고객은 금요일에 대체 기기를 돌려줘야 해요.",
+    "cloze": "충전기 포함을 전제로 한 임시 대여예요",
+    "answer": "충전기 포함을 전제로 한 임시 대여예요",
+    "accepted_answers": [],
+    "lemma": "충전기 포함을 조건으로 금요일까지 대체 기기를 빌려주는 임시 대여 제안으로 해석하다",
+    "meaning": "it is a temporary loan accepted on the premise that the charger is included",
+    "audio": "work/audio/ko-KR/05/ko-05-1312.mp3"
+  },
+  {
+    "id": "ko-05-1313",
+    "sentence": "유나: 검토자가 합계를 다시 계산해 바로잡는 조건으로 조사표 구성은 받겠다고 했습니다. 조사 결과 전체를 승인한 것입니까?\n현석: 아닙니다. 재계산을 전제로 표 구성만 수락한 것입니다. 수치 차이를 고치는 일은 분석 담당자에게 남아 있고, 검토자는 수정값을 다시 확인합니다.",
+    "cloze": "재계산을 전제로 표 구성만 수락한 것입니다",
+    "answer": "재계산을 전제로 표 구성만 수락한 것입니다",
+    "accepted_answers": [],
+    "lemma": "합계 재계산을 전제로 조사표 구성만 수락한 것으로 해석하다",
+    "meaning": "only the table structure was accepted, subject to recalculation",
+    "audio": "work/audio/ko-KR/05/ko-05-1313.mp3"
+  },
+  {
+    "id": "ko-05-1314",
+    "sentence": "민재: 고객사가 장애 경위서를 내일까지 받는 조건으로 이번 달 이용료 십 퍼센트 감면안을 받아들였대요. 이번 달 이용료를 전부 면제받는 건가요?\n소희: 아니요. 경위서를 받으면 감면안만 수락한 거예요. 이번 달 십 퍼센트 감면에만 해당해요. 운영업체는 경위서를 보내고, 고객사는 수정 청구서의 나머지 금액을 낼 책임이 있어요.",
+    "cloze": "경위서를 받으면 감면안만 수락한 거예요",
+    "answer": "경위서를 받으면 감면안만 수락한 거예요",
+    "accepted_answers": [],
+    "lemma": "장애 경위서를 받는 조건으로 이번 달 이용료 십 퍼센트 감면안만 받아들인 것으로 해석하다",
+    "meaning": "only the discount proposal was accepted, subject to submission of the incident report",
+    "audio": "work/audio/ko-KR/05/ko-05-1314.mp3"
+  },
+  {
+    "id": "ko-05-1315",
+    "sentence": "[파손 배송 보상 합의서]\n수락 범위: 왕복 배송비 환급\n효력 조건: 금요일까지 고객 계좌로 입금\n서비스팀 책임: 환급 처리와 새 송장 발행\n고객 책임: 월요일까지 파손 상자 반송",
+    "cloze": "수락 범위: 왕복 배송비 환급",
+    "answer": "수락 범위: 왕복 배송비 환급",
+    "accepted_answers": [],
+    "lemma": "금요일 입금을 조건으로 왕복 배송비 환급만 수락했다고 기록하다",
+    "meaning": "accepted scope: refund of round-trip shipping charges",
+    "audio": "work/audio/ko-KR/05/ko-05-1315.mp3"
+  },
+  {
+    "id": "ko-05-1316",
+    "sentence": "[조명 납품 조건부 인수 메모]\n인수 범위: 첫 납품분 서른 개\n효력 조건: 안전 표시 교체 후 출고\n공급업체 품질팀 책임: 표시 교체와 출고 사진 제출\n구매팀 책임: 사진 확인 뒤 대금 지급",
+    "cloze": "효력 조건: 안전 표시 교체 후 출고",
+    "answer": "효력 조건: 안전 표시 교체 후 출고",
+    "accepted_answers": [],
+    "lemma": "안전 표시 교체 후 출고를 조명 서른 개 인수의 효력 조건으로 기록하다",
+    "meaning": "effective condition: shipment after replacing the safety labels",
+    "audio": "work/audio/ko-KR/05/ko-05-1316.mp3"
+  },
+  {
+    "id": "ko-05-1317",
+    "sentence": "[복사기 수리 완료 확인표]\n조건부 인수 대상: 급지 장치 수리분\n인수 조건: 재시험 결과 이상 없음\n수리업체 책임: 백 장 연속 출력 시험과 결과 제출\n사무실 책임: 결과 확인 뒤 완료 서명",
+    "cloze": "인수 조건: 재시험 결과 이상 없음",
+    "answer": "인수 조건: 재시험 결과 이상 없음",
+    "accepted_answers": [],
+    "lemma": "재시험 결과에 이상이 없음을 복사기 급지 장치 수리분의 인수 조건으로 기록하다",
+    "meaning": "acceptance condition: no problems in the retest results",
+    "audio": "work/audio/ko-KR/05/ko-05-1317.mp3"
+  },
+  {
+    "id": "ko-05-1318",
+    "sentence": "[설치 일정 조정 합의 기록]\n합의 범위: 목요일 오전 두 지점 설치\n효력 조건: 대기 기술자 한 명 사전 지정\n설치업체 책임: 기술자 지정과 장비 운송\n고객사 책임: 두 지점 출입 승인",
+    "cloze": "합의 범위: 목요일 오전 두 지점 설치",
+    "answer": "합의 범위: 목요일 오전 두 지점 설치",
+    "accepted_answers": [],
+    "lemma": "대기 기술자 사전 지정을 조건으로 목요일 오전 두 지점 설치에 합의했다고 기록하다",
+    "meaning": "agreed scope: installation at two sites on Thursday morning",
+    "audio": "work/audio/ko-KR/05/ko-05-1318.mp3"
+  },
+  {
+    "id": "ko-05-1319",
+    "sentence": "[온라인 서비스 보상 회신]\n조건부 수락: 이용료 십 퍼센트 감면\n적용 기간: 다음 달부터 삼 개월\n효력 조건: 감면액과 적용 기간을 반영한 청구서 재발행\n운영업체 책임: 금요일까지 청구서 수정\n고객사 책임: 수정 금액을 다음 주 월요일 지급",
+    "cloze": "조건부 수락: 이용료 십 퍼센트 감면",
+    "answer": "조건부 수락: 이용료 십 퍼센트 감면",
+    "accepted_answers": [],
+    "lemma": "감면액과 적용 기간을 반영한 청구서 재발행을 조건으로 삼 개월간 이용료 십 퍼센트 감면을 수락했다고 기록하다",
+    "meaning": "conditional acceptance: a ten-percent service-fee reduction for three months",
+    "audio": "work/audio/ko-KR/05/ko-05-1319.mp3"
+  },
+  {
+    "id": "ko-05-1320",
+    "sentence": "[납품 지연 조정 합의 회신]\n월요일 도착분 백이십 개는 오전 열 시까지 운송 명세를 보내는 조건으로 인수하겠습니다. 남은 서른 개의 화요일 배송과 운송 조회는 공급업체가 맡아 주십시오. 구매팀은 월요일 도착분을 당일 검수하고 이상이 없으면 그 수량의 대금을 지급하겠습니다.\n합의 효력: 운송 명세 제출 시",
+    "cloze": "합의 효력: 운송 명세 제출 시",
+    "answer": "합의 효력: 운송 명세 제출 시",
+    "accepted_answers": [],
+    "lemma": "오전 열 시 운송 명세 제출을 백이십 개 조건부 인수 합의의 효력 조건으로 기록하다",
+    "meaning": "agreement takes effect upon submission of the shipping manifest",
+    "audio": "work/audio/ko-KR/05/ko-05-1320.mp3"
   }
 ]
