@@ -13601,5 +13601,405 @@
     "lemma": "돌풍에 대비한 차양막 접기와 고정 장치 점검의 기한을 관람객 입장 전으로 기록하다",
     "meaning": "action deadline: before visitors enter",
     "audio": "work/audio/ko-KR/05/ko-05-1360.mp3"
+  },
+  {
+    "id": "ko-05-1361",
+    "sentence": "교육평가 연구원: 독해 보충반에서는 초급 학습자의 이해도 상승 폭이 가장 컸지만, 조사는 한 학교에서 여덟 주만 진행됐습니다. 담당 교사가 하루 한 반을 맡을 수 있으니 다음 학기에는 초급 두 반부터 운영할 것을 권고합니다. 교육과정위원회가 예산을 검토해 시행 여부를 결정합니다.",
+    "cloze": "초급 두 반부터 운영할 것을 권고합니다",
+    "answer": "초급 두 반부터 운영할 것을 권고합니다",
+    "accepted_answers": [],
+    "lemma": "한 학교의 독해 보충반 평가와 교사 여력을 근거로 초급 학습자를 위한 두 반 운영부터 권고하다",
+    "meaning": "recommend starting with two beginner classes",
+    "audio": "work/audio/ko-KR/05/ko-05-1361.mp3"
+  },
+  {
+    "id": "ko-05-1362",
+    "sentence": "공공 서비스 평가자: 고령 주민의 서식 작성 오류는 서부와 남부 민원실에서 가장 많았습니다. 큰 글씨 서식 견본은 두 세트뿐이고 이동 민원 자료는 아직 없으므로 두 민원실에 우선 배치할 것을 권고합니다. 복지행정과장이 한 달 뒤 오류율을 보고 확대 여부를 결정합니다.",
+    "cloze": "두 민원실에 우선 배치할 것을 권고합니다",
+    "answer": "두 민원실에 우선 배치할 것을 권고합니다",
+    "accepted_answers": [],
+    "lemma": "지점별 서식 작성 오류와 견본 수를 기준으로 고령 주민용 큰 글씨 서식 견본을 두 민원실에 우선 배치하도록 권고하다",
+    "meaning": "recommend placing the large-print form samples at two service offices first",
+    "audio": "work/audio/ko-KR/05/ko-05-1362.mp3"
+  },
+  {
+    "id": "ko-05-1363",
+    "sentence": "인사 제도 평가자: 신입 직원은 재택근무 날의 문의 처리 시간이 짧아졌지만, 조사 대상이 기획부 한 곳뿐입니다. 지원 담당자 한 명이 맡을 수 있는 범위를 고려해 한 팀의 재택근무 시범을 제안합니다. 시범 대상과 시행 여부는 인사부장이 결정합니다.",
+    "cloze": "한 팀의 재택근무 시범을 제안합니다",
+    "answer": "한 팀의 재택근무 시범을 제안합니다",
+    "accepted_answers": [],
+    "lemma": "신입 직원의 문의 처리와 지원 인력을 기준으로 한 팀 재택근무 시범을 제안하다",
+    "meaning": "suggest a one-team remote-work pilot",
+    "audio": "work/audio/ko-KR/05/ko-05-1363.mp3"
+  },
+  {
+    "id": "ko-05-1364",
+    "sentence": "수업 접근성 평가위원: 자막이 있는 녹화 강의에서는 청각장애 학생의 복습 완료율이 더 높았습니다. 다만 자동 자막의 전공 용어는 교수가 다시 확인해야 하고 이번 달에는 열두 편만 검토할 수 있습니다. 따라서 필수 강의부터 자막을 붙이길 제안드립니다. 학장이 적용 과목을 결정합니다.",
+    "cloze": "필수 강의부터 자막을 붙이길 제안드립니다",
+    "answer": "필수 강의부터 자막을 붙이길 제안드립니다",
+    "accepted_answers": [],
+    "lemma": "복습 완료율과 교수의 검토 여력을 기준으로 청각장애 학생을 위한 필수 강의 자막부터 제안하다",
+    "meaning": "suggest captioning the required lectures first",
+    "audio": "work/audio/ko-KR/05/ko-05-1364.mp3"
+  },
+  {
+    "id": "ko-05-1365",
+    "sentence": "도서관 알림 서비스 평가자: 문자 알림은 빠르지만 휴대 전화를 자주 쓰지 않는 고령 이용자 열세 명은 전화 안내를 선호했습니다. 직원이 하루 여섯 통까지 전화할 수 있고 조사는 한 분관에 한정됐으므로 문자와 전화 중 선택권을 남기는 게 좋겠습니다. 도서관장이 다음 분기 운영 방식을 결정합니다.",
+    "cloze": "선택권을 남기는 게 좋겠습니다",
+    "answer": "선택권을 남기는 게 좋겠습니다",
+    "accepted_answers": [],
+    "lemma": "알림 속도와 고령 이용자의 선호와 전화 여력을 기준으로 문자와 전화의 선택권 유지를 추천하다",
+    "meaning": "it would be better to preserve a choice between text and phone alerts",
+    "audio": "work/audio/ko-KR/05/ko-05-1365.mp3"
+  },
+  {
+    "id": "ko-05-1366",
+    "sentence": "근무 환경 평가위원: 수요일 점심 직후 고객 대기가 가장 길었고 상담원의 연속 근무 시간도 늘었습니다. 세 주 동안 두 조의 식사 시간을 삼십 분씩 달리할 수 있으므로 수요일 점심 교대 조정을 권합니다. 다른 요일 자료는 부족하므로 운영부장이 시범 실시 여부를 결정합니다.",
+    "cloze": "수요일 점심 교대 조정을 권합니다",
+    "answer": "수요일 점심 교대 조정을 권합니다",
+    "accepted_answers": [],
+    "lemma": "고객 대기와 상담원 연속 근무 시간을 기준으로 수요일 점심 교대를 삼십 분씩 엇갈리도록 추천하다",
+    "meaning": "recommend adjusting the Wednesday lunch shifts",
+    "audio": "work/audio/ko-KR/05/ko-05-1366.mp3"
+  },
+  {
+    "id": "ko-05-1367",
+    "sentence": "학습 지원 사업 평가자: 전면 예약제에서는 통학 시간이 불규칙한 학생의 상담 참여가 낮았습니다. 상담 시간 여섯 칸 가운데 두 칸은 당일 배정이 가능하지만 시험 기간만 조사했다는 한계가 있습니다. 당일 상담 두 칸 유지를 제안합니다. 학생지원처장이 다음 학기 운영안을 결정합니다.",
+    "cloze": "당일 상담 두 칸 유지를 제안합니다",
+    "answer": "당일 상담 두 칸 유지를 제안합니다",
+    "accepted_answers": [],
+    "lemma": "상담 참여와 시간 배정 여력을 기준으로 통학 시간이 불규칙한 학생을 위한 당일 상담 두 칸 유지를 추천하다",
+    "meaning": "suggest retaining two same-day counseling slots",
+    "audio": "work/audio/ko-KR/05/ko-05-1367.mp3"
+  },
+  {
+    "id": "ko-05-1368",
+    "sentence": "지역 복지 사업 평가자: 교통편이 적은 마을일수록 서류 상담을 포기한 주민 비율이 높았습니다. 이동 상담차는 금요일에 두 곳만 방문할 수 있고 겨울 수요는 확인하지 못했습니다. 먼 거리 두 마을부터 순회하길 권고합니다. 방문 순서는 복지관장이 주민 대표와 협의해 결정합니다.",
+    "cloze": "먼 거리 두 마을부터 순회하길 권고합니다",
+    "answer": "먼 거리 두 마을부터 순회하길 권고합니다",
+    "accepted_answers": [],
+    "lemma": "상담 포기율과 이동 상담차의 방문 여력을 기준으로 먼 마을 주민을 위한 두 마을 순회부터 권고하다",
+    "meaning": "recommend beginning the circuit with two distant villages",
+    "audio": "work/audio/ko-KR/05/ko-05-1368.mp3"
+  },
+  {
+    "id": "ko-05-1369",
+    "sentence": "업무 집중도 평가자: 직원의 방해 알림을 줄인 오전에는 검토 오류가 감소했지만 긴급 문의가 적었던 한 주의 기록뿐입니다. 직원 한 명이 긴급 연락을 맡는 조건으로 오전 한 시간 알림 제한을 제안합니다. 팀장이 담당자와 시험 일정을 정합니다.",
+    "cloze": "오전 한 시간 알림 제한을 제안합니다",
+    "answer": "오전 한 시간 알림 제한을 제안합니다",
+    "accepted_answers": [],
+    "lemma": "검토 오류와 긴급 문의 대응을 기준으로 직원의 오전 한 시간 알림 제한 시험을 제안하다",
+    "meaning": "suggest a one-hour morning notification-limit trial",
+    "audio": "work/audio/ko-KR/05/ko-05-1369.mp3"
+  },
+  {
+    "id": "ko-05-1370",
+    "sentence": "교원 연수 평가위원: 녹화본을 제공한 과정은 대체 수업을 맡은 교사의 수료율이 높았습니다. 강의팀이 이번 달에 편집할 수 있는 분량은 두 과정이고 만족도는 자기 보고로만 측정했습니다. 두 과정부터 녹화본을 제공하길 권합니다. 연수원장이 대상 과정을 결정합니다.",
+    "cloze": "두 과정부터 녹화본을 제공하길 권합니다",
+    "answer": "두 과정부터 녹화본을 제공하길 권합니다",
+    "accepted_answers": [],
+    "lemma": "수료율과 편집 여력을 기준으로 대체 수업 교사를 위한 두 연수 과정의 녹화본 제공부터 추천하다",
+    "meaning": "recommend providing recordings for two courses first",
+    "audio": "work/audio/ko-KR/05/ko-05-1370.mp3"
+  },
+  {
+    "id": "ko-05-1371",
+    "sentence": "학습기기 대여 평가자: 개인 기기가 없는 학생은 온라인 과제 제출 누락이 두 배 많았습니다. 여분 노트북은 열다섯 대이고 한 중학교의 과제 기간만 조사했다는 한계가 있습니다. 해당 학생을 위해 과제 기간에는 예약 대여를 권고합니다. 교장이 정보부장과 시행 여부를 결정합니다.",
+    "cloze": "과제 기간에는 예약 대여를 권고합니다",
+    "answer": "과제 기간에는 예약 대여를 권고합니다",
+    "accepted_answers": [],
+    "lemma": "과제 제출 누락과 여분 기기 수를 기준으로 개인 기기가 없는 학생에게 과제 기간 노트북 예약 대여를 권고하다",
+    "meaning": "recommend reservation-based loans during assignment periods",
+    "audio": "work/audio/ko-KR/05/ko-05-1371.mp3"
+  },
+  {
+    "id": "ko-05-1372",
+    "sentence": "무인 발급 서비스 평가자: 처음 방문한 주민은 오전에 발급기 앞에서 평균 구 분을 더 기다렸습니다. 민원실 직원 한 명이 업무 시작 뒤 두 시간 동안 안내할 수 있지만 오후 효과는 확인되지 않았습니다. 업무 시작 뒤 두 시간 동안 발급기 안내원을 배치하길 제안합니다. 민원실장이 근무표를 보고 채택 여부를 판단합니다.",
+    "cloze": "발급기 안내원을 배치하길 제안합니다",
+    "answer": "발급기 안내원을 배치하길 제안합니다",
+    "accepted_answers": [],
+    "lemma": "첫 방문 주민의 오전 대기 시간과 직원 여력을 기준으로 업무 시작 뒤 두 시간 동안 발급기 안내원을 배치하도록 제안하다",
+    "meaning": "suggest placing a guide at the kiosk for the first two service hours",
+    "audio": "work/audio/ko-KR/05/ko-05-1372.mp3"
+  },
+  {
+    "id": "ko-05-1373",
+    "sentence": "교대 업무 평가자: 야간 근무자가 미완료 사유를 알지 못해 같은 설비를 다시 점검한 사례가 네 번 있었습니다. 현재 인계표에 항목 하나만 추가하면 되고 평일 기록만 분석했다는 한계가 있습니다. 야간 근무자를 위해 인계표에 미완료 사유란을 추가하길 권합니다. 양식 변경은 운영팀장이 결정합니다.",
+    "cloze": "인계표에 미완료 사유란을 추가하길 권합니다",
+    "answer": "인계표에 미완료 사유란을 추가하길 권합니다",
+    "accepted_answers": [],
+    "lemma": "중복 점검과 양식 수정 난도를 기준으로 야간 근무자를 위한 인계표의 미완료 사유란 추가를 권하다",
+    "meaning": "recommend adding an unfinished-work reason field to the handoff form",
+    "audio": "work/audio/ko-KR/05/ko-05-1373.mp3"
+  },
+  {
+    "id": "ko-05-1374",
+    "sentence": "대학 상담 사업 평가자: 야간 강의를 듣는 학생 스물여섯 명이 수업 뒤 온라인 상담을 요청했습니다. 조교는 목요일 저녁에 십오 분 상담 여덟 건을 맡을 수 있지만 한 학과의 요청만 집계됐습니다. 주 한 차례 저녁 상담을 열길 권고합니다. 학생처장이 한 달 시범 운영 여부를 결정합니다.",
+    "cloze": "주 한 차례 저녁 상담을 열길 권고합니다",
+    "answer": "주 한 차례 저녁 상담을 열길 권고합니다",
+    "accepted_answers": [],
+    "lemma": "야간 강의 학생의 요청 수와 조교 상담 여력을 기준으로 주 한 차례 저녁 온라인 상담을 권고하다",
+    "meaning": "recommend opening an evening consultation once a week",
+    "audio": "work/audio/ko-KR/05/ko-05-1374.mp3"
+  },
+  {
+    "id": "ko-05-1375",
+    "sentence": "보행 환경 평가위원: 긴 오르막 구간에서 고령 이용자의 휴식 요청이 다른 구간보다 많았습니다. 창고의 등받이 의자 네 개를 옮길 수 있지만 조사는 겨울에만 이루어졌습니다. 가장 긴 오르막에 의자 네 개를 두길 권합니다. 공원소장이 봄철 통행량을 고려해 최종 위치를 결정합니다.",
+    "cloze": "의자 네 개를 두길 권합니다",
+    "answer": "의자 네 개를 두길 권합니다",
+    "accepted_answers": [],
+    "lemma": "고령 이용자의 휴식 요청과 보유 의자 수를 기준으로 가장 긴 오르막에 의자 네 개를 두도록 권하다",
+    "meaning": "recommend placing four chairs on the longest uphill section",
+    "audio": "work/audio/ko-KR/05/ko-05-1375.mp3"
+  },
+  {
+    "id": "ko-05-1376",
+    "sentence": "협업 방식 평가자: 원격 근무자는 결정 사항을 놓쳐 추가 회의에 참여한 횟수가 많았습니다. 회의 진행자가 십 분 안에 요약을 올릴 수 있지만 한 사업의 자료만 있습니다. 원격 근무자를 위해 주간 결정 요약을 남길 것을 권고합니다. 사업 책임자가 작성 담당과 기간을 정합니다.",
+    "cloze": "주간 결정 요약을 남길 것을 권고합니다",
+    "answer": "주간 결정 요약을 남길 것을 권고합니다",
+    "accepted_answers": [],
+    "lemma": "추가 회의 횟수와 진행자의 작성 시간을 기준으로 원격 근무자를 위한 주간 결정 요약을 권고하다",
+    "meaning": "recommend leaving a weekly summary of decisions",
+    "audio": "work/audio/ko-KR/05/ko-05-1376.mp3"
+  },
+  {
+    "id": "ko-05-1377",
+    "sentence": "과정 배치 평가위원: 학기 중에 반을 옮긴 학생은 첫 과제 점수가 낮고 재배치 요청도 많았습니다. 상담교사는 하루 열 명씩 사흘 동안 수준을 확인할 수 있습니다. 다만 늦게 등록한 학생은 조사에 포함되지 않았습니다. 등록 뒤 사흘 안에 수준을 확인하길 제안합니다. 교육원장이 다음 학기 절차를 확정합니다.",
+    "cloze": "사흘 안에 수준을 확인하길 제안합니다",
+    "answer": "사흘 안에 수준을 확인하길 제안합니다",
+    "accepted_answers": [],
+    "lemma": "첫 과제 점수와 상담교사 여력을 기준으로 수강생의 등록 뒤 사흘 안 수준 확인을 제안하다",
+    "meaning": "suggest a three-day level check immediately after registration",
+    "audio": "work/audio/ko-KR/05/ko-05-1377.mp3"
+  },
+  {
+    "id": "ko-05-1378",
+    "sentence": "분리배출 안내 평가자: 그림 표지를 시험한 두 동네에서는 외국인 주민의 분류 오류가 줄었습니다. 디자인팀은 기존 표지 두 종만 고칠 수 있고 다른 지역에서도 같은 효과가 나타날지는 알 수 없습니다. 두 동네에 그림 표지를 우선 적용할 것을 권고합니다. 자원순환과장이 확대 여부를 결정합니다.",
+    "cloze": "그림 표지를 우선 적용할 것을 권고합니다",
+    "answer": "그림 표지를 우선 적용할 것을 권고합니다",
+    "accepted_answers": [],
+    "lemma": "외국인 주민의 분류 오류와 표지 수정 여력을 기준으로 두 동네의 그림 분리배출 표지 우선 적용을 권고하다",
+    "meaning": "recommend applying the pictorial signs first in two neighborhoods",
+    "audio": "work/audio/ko-KR/05/ko-05-1378.mp3"
+  },
+  {
+    "id": "ko-05-1379",
+    "sentence": "사무 공간 평가자: 전화 업무가 적은 직원은 오후 검토 때 조용한 공간에서 오류를 덜 냈습니다. 비어 있는 회의실 한 곳을 오후에만 쓸 수 있지만 전화 상담팀에는 맞지 않는 방식입니다. 문서 담당자를 위한 오후 집중실 지정을 제안합니다. 총무팀장이 이용 규칙을 결정합니다.",
+    "cloze": "오후 집중실 지정을 제안합니다",
+    "answer": "오후 집중실 지정을 제안합니다",
+    "accepted_answers": [],
+    "lemma": "문서 검토 오류와 빈 회의실 이용 시간을 기준으로 문서 담당자를 위한 오후 집중실 지정을 제안하다",
+    "meaning": "suggest designating an afternoon focus room",
+    "audio": "work/audio/ko-KR/05/ko-05-1379.mp3"
+  },
+  {
+    "id": "ko-05-1380",
+    "sentence": "수업 피드백 평가위원: 한 과목에서 짧은 음성 설명을 선택한 학생은 수정 이유를 더 정확히 이해했으며 읽기 부담이 큰 학생의 만족도도 높았습니다. 다만 한 과목의 결과이고 교사는 과제마다 일 분 분량만 녹음할 수 있습니다. 참여 여부는 학생의 선택에 맡기는 조건으로 한 과목에서 음성 피드백 선택제를 시험하길 권합니다. 학과장이 담당 과목을 정합니다.",
+    "cloze": "음성 피드백 선택제를 시험하길 권합니다",
+    "answer": "음성 피드백 선택제를 시험하길 권합니다",
+    "accepted_answers": [],
+    "lemma": "수정 이해도와 교사의 녹음 여력을 기준으로 읽기 부담이 큰 학생을 위한 음성 피드백 선택제 시험을 권하다",
+    "meaning": "recommend testing an optional audio-feedback system",
+    "audio": "work/audio/ko-KR/05/ko-05-1380.mp3"
+  },
+  {
+    "id": "ko-05-1381",
+    "sentence": "대중교통 정보 평가자: 환승 정류장에서는 고령 이용자가 작은 도착 정보 글씨를 읽지 못해 버스를 놓친 사례가 많았습니다. 큰 글자 화면은 세 대만 설치할 수 있고 야외 전원함이 있는 곳에 한정되며, 낮 시간대 사례만 집계했습니다. 환승 정류장 세 곳에 우선 설치할 것을 권고합니다. 교통과장이 설치 장소를 확정합니다.",
+    "cloze": "세 곳에 우선 설치할 것을 권고합니다",
+    "answer": "세 곳에 우선 설치할 것을 권고합니다",
+    "accepted_answers": [],
+    "lemma": "고령 이용자의 도착 정보 접근과 화면 및 전원 여건을 기준으로 환승 정류장 세 곳에 큰 글자 화면을 우선 설치하도록 권고하다",
+    "meaning": "recommend installing the large-text displays first at three transfer stops",
+    "audio": "work/audio/ko-KR/05/ko-05-1381.mp3"
+  },
+  {
+    "id": "ko-05-1382",
+    "sentence": "신입 교육 평가자: 공급업체 등록 절차를 지켜본 신입 직원은 같은 질문을 반복하는 횟수가 절반으로 줄었습니다. 선임 직원은 첫 주에 삼십 분씩 두 번만 동행할 수 있고 성수기 효과는 확인되지 않았습니다. 첫 주에 업무 관찰 두 회를 넣길 권고합니다. 부서장이 대상 업무를 정합니다.",
+    "cloze": "업무 관찰 두 회를 넣길 권고합니다",
+    "answer": "업무 관찰 두 회를 넣길 권고합니다",
+    "accepted_answers": [],
+    "lemma": "반복 질문과 선임 직원의 동행 여력을 기준으로 신입 직원 교육에 첫 주 업무 관찰 두 회를 넣도록 권고하다",
+    "meaning": "recommend adding two job-shadowing sessions in the first week",
+    "audio": "work/audio/ko-KR/05/ko-05-1382.mp3"
+  },
+  {
+    "id": "ko-05-1383",
+    "sentence": "학교 도서관 운영 평가자: 시험을 앞둔 토요일에는 좌석이 일찍 찼고 통학 시간이 긴 학생의 이용 포기가 많았습니다. 사서는 두 토요일에만 두 시간씩 연장 근무할 수 있으며 평소 주말 수요는 조사하지 못했습니다. 시험 전 두 토요일 연장을 제안합니다. 교장이 운영 시간을 결정합니다.",
+    "cloze": "시험 전 두 토요일 연장을 제안합니다",
+    "answer": "시험 전 두 토요일 연장을 제안합니다",
+    "accepted_answers": [],
+    "lemma": "시험 전 좌석 수요와 사서의 연장 근무 여력을 기준으로 통학생을 위한 두 토요일 도서관 운영 시간 연장을 제안하다",
+    "meaning": "suggest extending hours only on the two Saturdays before exams",
+    "audio": "work/audio/ko-KR/05/ko-05-1383.mp3"
+  },
+  {
+    "id": "ko-05-1384",
+    "sentence": "주민 안내문 평가자: 민원 기록을 보면 주민은 전입, 주차, 폐기물 절차의 어려운 표현을 가장 자주 물었습니다. 담당자는 이번 달에 이 세 안내문만 고칠 수 있고 다른 절차의 이해도는 측정하지 않았습니다. 자주 묻는 세 절차부터 쉬운 말 설명을 제공하길 권고합니다. 민원정책과장이 순서를 확정합니다.",
+    "cloze": "쉬운 말 설명을 제공하길 권고합니다",
+    "answer": "쉬운 말 설명을 제공하길 권고합니다",
+    "accepted_answers": [],
+    "lemma": "주민 문의 빈도와 담당자의 수정 여력을 기준으로 자주 묻는 세 행정 절차의 쉬운 말 설명부터 권고하다",
+    "meaning": "recommend plain-language explanations for three procedures first",
+    "audio": "work/audio/ko-KR/05/ko-05-1384.mp3"
+  },
+  {
+    "id": "ko-05-1385",
+    "sentence": "기한 관리 평가자: 청구 업무 담당자는 청구서 제출 이틀 전에 알림을 받았을 때 마감 누락이 적었습니다. 기존 일정 관리 도구로 자동 전송할 수 있지만 긴급 업무에서는 사용자가 알림을 끌 수 있어야 합니다. 일반 청구 업무에 이틀 전 알림을 기본으로 설정하길 권합니다. 재무팀장이 적용 범위를 결정합니다.",
+    "cloze": "이틀 전 알림을 기본으로 설정하길 권합니다",
+    "answer": "이틀 전 알림을 기본으로 설정하길 권합니다",
+    "accepted_answers": [],
+    "lemma": "청구서 마감 누락과 일정 관리 도구 기능을 기준으로 일반 청구 업무의 이틀 전 알림 기본 설정을 권하다",
+    "meaning": "recommend making a two-day advance reminder the default",
+    "audio": "work/audio/ko-KR/05/ko-05-1385.mp3"
+  },
+  {
+    "id": "ko-05-1386",
+    "sentence": "수업 활동 평가위원: 세 명씩 모둠을 이루어 초안을 검토한 반은 논거 수정이 늘고 발언 기회도 고르게 돌아갔습니다. 수업 중 사십 분을 쓸 수 있지만 익명 검토의 효과는 비교하지 못했습니다. 한 과제에서 세 명 모둠 검토를 시험하길 제안합니다. 담당 교수가 과제와 평가 반영 여부를 정합니다.",
+    "cloze": "세 명 모둠 검토를 시험하길 제안합니다",
+    "answer": "세 명 모둠 검토를 시험하길 제안합니다",
+    "accepted_answers": [],
+    "lemma": "논거 수정과 발언 기회 및 수업 시간을 기준으로 학생을 위한 세 명 모둠의 과제 검토 시험을 제안하다",
+    "meaning": "suggest testing three-person peer response groups",
+    "audio": "work/audio/ko-KR/05/ko-05-1386.mp3"
+  },
+  {
+    "id": "ko-05-1387",
+    "sentence": "문화 센터 예약 평가자: 취소 좌석이 생겨도 대기 주민에게 알리지 않아 빈자리가 남은 날이 여섯 번 있었습니다. 담당자는 하루 한 번 대기 명단의 주민에게 문자를 보낼 수 있지만 당일 취소에는 대응하기 어렵습니다. 다음 날 강좌의 빈자리 알림을 권고합니다. 센터장이 발송 시각과 시범 기간을 정합니다.",
+    "cloze": "다음 날 강좌의 빈자리 알림을 권고합니다",
+    "answer": "다음 날 강좌의 빈자리 알림을 권고합니다",
+    "accepted_answers": [],
+    "lemma": "빈 좌석 발생 기록과 담당자의 발송 여력을 기준으로 대기 주민에게 다음 날 강좌의 빈자리 알림을 권고하다",
+    "meaning": "recommend vacancy alerts for the following day's classes",
+    "audio": "work/audio/ko-KR/05/ko-05-1387.mp3"
+  },
+  {
+    "id": "ko-05-1388",
+    "sentence": "화상 회의 접근성 평가자: 자동 자막은 해외 협력 직원의 내용 확인을 도왔지만 제품명과 사람 이름 오류가 잦았습니다. 진행자가 회의 전에 핵심 용어 열 개를 입력할 수 있고 긴 회의에서는 효과를 확인하지 못했습니다. 회의 전 용어 목록 입력을 권고합니다. 협력 사업 책임자가 적용 회의를 선택합니다.",
+    "cloze": "회의 전 용어 목록 입력을 권고합니다",
+    "answer": "회의 전 용어 목록 입력을 권고합니다",
+    "accepted_answers": [],
+    "lemma": "해외 협력 직원의 자막 이해와 진행자의 준비 여력을 기준으로 화상회의 전 핵심 용어 목록 입력을 권고하다",
+    "meaning": "recommend entering a terminology list before the meeting",
+    "audio": "work/audio/ko-KR/05/ko-05-1388.mp3"
+  },
+  {
+    "id": "ko-05-1389",
+    "sentence": "교육과정위원: 평가표에는 읽기 자료를 먼저 고치자는 의견이 있네요. 다음 달에 반드시 그렇게 하라는 지시입니까?\n교육 평가자: 아닙니다. 초급 학생의 이해도와 편집팀이 고칠 수 있는 열 쪽을 기준으로 정한 우선순위이며, 한 과목만 분석했습니다. 의무적 지시가 아니라 우선순위 권고입니다. 적용 시기와 과목은 위원회가 결정합니다.",
+    "cloze": "의무적 지시가 아니라 우선순위 권고입니다",
+    "answer": "의무적 지시가 아니라 우선순위 권고입니다",
+    "accepted_answers": [],
+    "lemma": "초급 학생의 이해도와 편집 여력에 따른 읽기 자료 우선 수정 의견을 의무적 지시가 아닌 권고로 해석하다",
+    "meaning": "it is a priority recommendation, not a mandatory instruction",
+    "audio": "work/audio/ko-KR/05/ko-05-1389.mp3"
+  },
+  {
+    "id": "ko-05-1390",
+    "sentence": "민원실장: 평가자가 오후에 한 창구의 직원을 옮기자고 했습니다. 그 창구를 닫으라는 명령인가요?\n서비스 평가자: 아닙니다. 이동이 불편한 주민의 대기 시간을 기준으로 두 주 동안 직원 한 명을 혼잡 창구로 옮겨 보자는 의견입니다. 오전 수요는 조사하지 못했습니다. 창구 폐쇄 명령이 아니라 인력 조정 제안입니다. 최종 근무표는 실장님이 정하시면 됩니다.",
+    "cloze": "명령이 아니라 인력 조정 제안입니다",
+    "answer": "명령이 아니라 인력 조정 제안입니다",
+    "accepted_answers": [],
+    "lemma": "주민 대기와 두 주의 인력 여력에 따른 혼잡 창구 조정 의견을 창구 폐쇄 명령이 아닌 제안으로 해석하다",
+    "meaning": "it is a staffing adjustment proposal, not an order to close a counter",
+    "audio": "work/audio/ko-KR/05/ko-05-1390.mp3"
+  },
+  {
+    "id": "ko-05-1391",
+    "sentence": "본부장: 평가 보고서에 새 검토 방식을 쓰라고 적혀 있군요. 모든 팀이 바로 따라야 합니까?\n업무 평가자: 아닙니다. 오류가 잦은 두 팀을 돕고 기존 도구로 한 달간 시험할 수 있다는 점을 반영했습니다. 다른 업무 유형에는 자료가 없습니다. 두 팀 시험을 권하는 평가 의견입니다. 시행 여부는 본부장님께서 결정하십니다.",
+    "cloze": "두 팀 시험을 권하는 평가 의견입니다",
+    "answer": "두 팀 시험을 권하는 평가 의견입니다",
+    "accepted_answers": [],
+    "lemma": "검토 오류와 기존 도구의 한 달 시험 가능성에 따른 의견을 전 팀 명령이 아닌 두 팀 시험 권고로 해석하다",
+    "meaning": "it is an evaluation recommendation for a two-team trial",
+    "audio": "work/audio/ko-KR/05/ko-05-1391.mp3"
+  },
+  {
+    "id": "ko-05-1392",
+    "sentence": "교무위원: 평가자가 보충 수업 시간을 바꾸는 편이 좋다고 했습니다. 학생과 교사가 반드시 따라야 하는 의무입니까?\n수업 평가자: 아닙니다. 통학 시간이 긴 학생의 출석률과 교실 한 곳의 이용 가능 시간을 고려한 제안입니다. 다만 한 학년 자료만 조사했습니다. 반드시 따를 의무가 없는 권고입니다. 채택 여부는 교무위원회가 판단합니다.",
+    "cloze": "반드시 따를 의무가 없는 권고입니다",
+    "answer": "반드시 따를 의무가 없는 권고입니다",
+    "accepted_answers": [],
+    "lemma": "학생 출석률과 교실 여력에 따른 보충 수업 시간 변경 의견을 반드시 따를 의무가 없는 권고로 해석하다",
+    "meaning": "it is a recommendation that is not mandatory to follow",
+    "audio": "work/audio/ko-KR/05/ko-05-1392.mp3"
+  },
+  {
+    "id": "ko-05-1393",
+    "sentence": "공원소장: 평가서에 여름 쉼터를 늘리는 방안이 적혀 있습니다. 이번 주에 바로 설치하라는 뜻입니까?\n환경 평가자: 아닙니다. 그늘이 적은 구간에서 나온 주민의 휴식 요청과 창고에 있는 차양막 두 개를 기준으로 한 의견입니다. 다만 기온 자료가 한 달치뿐입니다. 예산 검토를 전제로 한 시범 권고입니다. 설치 결정과 장소 선정은 소장님 권한입니다.",
+    "cloze": "예산 검토를 전제로 한 시범 권고입니다",
+    "answer": "예산 검토를 전제로 한 시범 권고입니다",
+    "accepted_answers": [],
+    "lemma": "주민의 휴식 요청과 차양막 수에 따른 쉼터 확대 의견을 즉시 설치 명령이 아닌 예산 검토를 전제로 한 시범 권고로 해석하다",
+    "meaning": "it is a pilot recommendation subject to budget consideration",
+    "audio": "work/audio/ko-KR/05/ko-05-1393.mp3"
+  },
+  {
+    "id": "ko-05-1394",
+    "sentence": "대표이사: 직원 설문을 근거로 일주일에 이틀 원격근무를 시행하라는 결론입니까?\n조직 평가자: 전 직원에게 바로 시행하라는 뜻은 아닙니다. 통근 시간이 긴 직원에게 도움이 되고 두 팀의 장비로 시험할 수 있지만 설문 응답자가 적었습니다. 전면 시행 명령이 아닌 조건부 권고입니다. 두 팀의 시험 여부는 대표이사님이 정하시면 됩니다.",
+    "cloze": "전면 시행 명령이 아닌 조건부 권고입니다",
+    "answer": "전면 시행 명령이 아닌 조건부 권고입니다",
+    "accepted_answers": [],
+    "lemma": "직원 통근 부담과 두 팀의 장비 여력에 따른 원격근무 의견을 전면 시행 명령이 아닌 조건부 권고로 해석하다",
+    "meaning": "it is a conditional recommendation, not a company-wide implementation order",
+    "audio": "work/audio/ko-KR/05/ko-05-1394.mp3"
+  },
+  {
+    "id": "ko-05-1395",
+    "sentence": "[기초 학습 상담 운영 권고안]\n평가 기준: 상담 뒤 과제 제출률\n지원 대상: 첫 학기 학습자\n실행 가능 범위: 목요일 두 시간\n한계: 한 학년의 네 주 기록만 분석\n제안: 한 개 반을 대상으로 목요일 상담 시범 운영\n결정: 교육원장이 예산 검토 후 확정",
+    "cloze": "[기초 학습 상담 운영 권고안]",
+    "answer": "[기초 학습 상담 운영 권고안]",
+    "accepted_answers": [],
+    "lemma": "첫 학기 학습자의 과제 제출과 상담 여력을 근거로 기초 학습 상담 운영 권고안 제목을 쓰다",
+    "meaning": "basic learning consultation operations recommendation",
+    "audio": "work/audio/ko-KR/05/ko-05-1395.mp3"
+  },
+  {
+    "id": "ko-05-1396",
+    "sentence": "[민원 서식 읽기 지원 검토 의견]\n평가 기준: 작성 오류와 설명 시간\n지원 대상: 긴 서식을 읽기 어려운 주민\n실행 가능 범위: 문의가 많은 서식 다섯 종\n한계: 방문 민원만 조사\n권고: 첫 쪽에 쉬운 말 요약 추가\n결정: 민원과장이 적용 서식을 선택",
+    "cloze": "[민원 서식 읽기 지원 검토 의견]",
+    "answer": "[민원 서식 읽기 지원 검토 의견]",
+    "accepted_answers": [],
+    "lemma": "주민의 서식 오류와 담당자의 수정 범위를 근거로 민원 서식 읽기 지원 검토 의견 제목을 쓰다",
+    "meaning": "opinion on reading support for public-service forms",
+    "audio": "work/audio/ko-KR/05/ko-05-1396.mp3"
+  },
+  {
+    "id": "ko-05-1397",
+    "sentence": "[교대 근무 휴게 운영 권고안]\n평가 기준: 연속 근무 시간과 응답 대기\n지원 대상: 야간 상담원과 이용자\n실행 가능 범위: 금요일 두 근무조\n한계: 성수기 자료 제외\n권고: 휴게 시작 시각을 이십 분씩 조정\n결정: 운영부장이 근무표 확인 후 확정",
+    "cloze": "[교대 근무 휴게 운영 권고안]",
+    "answer": "[교대 근무 휴게 운영 권고안]",
+    "accepted_answers": [],
+    "lemma": "상담원의 연속 근무와 이용자 대기를 근거로 교대 근무 휴게 운영 권고안 제목을 쓰다",
+    "meaning": "shift-work break operations recommendation",
+    "audio": "work/audio/ko-KR/05/ko-05-1397.mp3"
+  },
+  {
+    "id": "ko-05-1398",
+    "sentence": "[자료 보안 교육 평가 의견]\n평가 기준: 권한 설정 오류 감소\n지원 대상: 처음 자료를 다루는 직원\n실행 여건: 기존 교육 시간 중 삼십 분씩 사용 가능\n한계: 한 부서의 오류만 분석\n권고 범위: 신입 직원 교육 두 회\n결정 담당: 정보관리부장",
+    "cloze": "권고 범위: 신입 직원 교육 두 회",
+    "answer": "권고 범위: 신입 직원 교육 두 회",
+    "accepted_answers": [],
+    "lemma": "권한 설정 오류와 교육 시간을 근거로 권고 범위를 신입 직원 보안 교육 두 회로 기록하다",
+    "meaning": "recommendation scope: two training sessions for new employees",
+    "audio": "work/audio/ko-KR/05/ko-05-1398.mp3"
+  },
+  {
+    "id": "ko-05-1399",
+    "sentence": "[찾아가는 민원 상담 평가서]\n평가 기준: 이동 거리와 상담 포기율\n지원 대상: 교통편이 적은 지역 주민\n실행 여건: 상담 차량 한 주에 두 번 운행 가능\n한계: 겨울 수요 미확인\n시범 기간: 두 지점에서 석 달\n권고: 두 지점에서 석 달간 시범 운영\n결정 담당: 복지행정과장",
+    "cloze": "시범 기간: 두 지점에서 석 달",
+    "answer": "시범 기간: 두 지점에서 석 달",
+    "accepted_answers": [],
+    "lemma": "이동 거리와 상담 차량 여력을 근거로 찾아가는 민원 상담의 시범 기간을 두 지점의 석 달로 기록하다",
+    "meaning": "pilot period: three months at two locations",
+    "audio": "work/audio/ko-KR/05/ko-05-1399.mp3"
+  },
+  {
+    "id": "ko-05-1400",
+    "sentence": "[회의실 이용 방식 평가 의견]\n평가 기준: 예약 충돌과 빈 시간\n지원 대상: 공동 회의실을 쓰는 직원\n실행 여건: 현재 예약 도구 수정 가능\n한계: 소규모 회의 자료만 분석\n평가 의견: 공개 이용과 예약제 병행 권고\n결정: 총무부장이 공개 이용 시간 확정",
+    "cloze": "평가 의견: 공개 이용과 예약제 병행 권고",
+    "answer": "평가 의견: 공개 이용과 예약제 병행 권고",
+    "accepted_answers": [],
+    "lemma": "예약 충돌과 도구 수정 가능성을 근거로 공동 회의실의 공개 이용과 예약제 병행을 평가 의견으로 권고하다",
+    "meaning": "evaluation opinion: recommend retaining reservations alongside open access",
+    "audio": "work/audio/ko-KR/05/ko-05-1400.mp3"
   }
 ]
