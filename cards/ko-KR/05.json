@@ -25235,5 +25235,405 @@
     "lemma": "접근 안내 채널 확대의 기한과 책임을 기록하다",
     "meaning": "follow-up action: expand notice channels by September 30",
     "audio": "work/audio/ko-KR/05/ko-05-2520.mp3"
+  },
+  {
+    "id": "ko-05-2521",
+    "sentence": "고객사 변경 요청에는 알림 화면 두 곳을 추가해 달라고 적혀 있습니다. 담당 코디네이터인 서윤 씨와 고객사 담당자는 영향 범위를 협의했지만 합의하지는 않았습니다. 범위 결정권자인 제품 책임자가 목요일에 판단하고 서윤 씨가 결정 기록에 남깁니다.",
+    "cloze": "협의했지만 합의하지는 않았습니다",
+    "answer": "협의했지만 합의하지는 않았습니다",
+    "accepted_answers": [],
+    "lemma": "변경 범위를 협의하되 합의 상태로 기록하지 않다",
+    "meaning": "consult on the change scope without recording an agreement",
+    "audio": "work/audio/ko-KR/05/ko-05-2521.mp3"
+  },
+  {
+    "id": "ko-05-2522",
+    "sentence": "화요일 회의에서 개발 인력 추가안을 논의했고 참석자들은 장단점을 검토했습니다. 예산 승인권자인 운영본부장은 그 회의에 참석하지 않았습니다. 따라서 논의한 안은 아직 승인된 결정이 아닙니다.",
+    "cloze": "논의한 안은 아직 승인된 결정이 아닙니다",
+    "answer": "논의한 안은 아직 승인된 결정이 아닙니다",
+    "accepted_answers": [],
+    "lemma": "논의한 방안을 승인된 결정과 구별하다",
+    "meaning": "distinguish a discussed option from an approved decision",
+    "audio": "work/audio/ko-KR/05/ko-05-2522.mp3"
+  },
+  {
+    "id": "ko-05-2523",
+    "sentence": "시험 장비가 수요일에 도착한다는 배송 기록이 확인됐습니다. 일정 담당자인 현우 씨는 검수를 목요일로, 교육을 금요일로 옮기고 같은 인력으로 계획표를 조정했습니다. 이 조정은 일정 변경이며 범위 변경은 아닙니다.",
+    "cloze": "일정 변경이며 범위 변경은 아닙니다",
+    "answer": "일정 변경이며 범위 변경은 아닙니다",
+    "accepted_answers": [],
+    "lemma": "작업 순서 조정을 프로젝트 범위 변경과 구별하다",
+    "meaning": "distinguish a schedule adjustment from a scope change",
+    "audio": "work/audio/ko-KR/05/ko-05-2523.mp3"
+  },
+  {
+    "id": "ko-05-2524",
+    "sentence": "고객사 구매 책임자와 업체 영업 책임자는 필터 300개의 단가와 보증 조건에 합의했습니다. 생산 책임자는 금요일부터 제작하며 실제 납품은 다음 달 8일입니다. 합의 완료와 납품 완료를 구분해야 합니다.",
+    "cloze": "합의 완료와 납품 완료를 구분해야 합니다",
+    "answer": "합의 완료와 납품 완료를 구분해야 합니다",
+    "accepted_answers": [],
+    "lemma": "계약 조건 합의와 실제 납품 완료를 구별하다",
+    "meaning": "distinguish agreement on terms from completed delivery",
+    "audio": "work/audio/ko-KR/05/ko-05-2524.mp3"
+  },
+  {
+    "id": "ko-05-2525",
+    "sentence": "사용 기록을 보니 세 기능 중 검색 기능의 이용률이 가장 높았습니다. 기획 회의에서는 검색 개선부터 시험하기로 가닥만 잡았습니다. 투자 여부는 결정권자인 사업 책임자가 다음 주 비용표를 본 뒤 정합니다.",
+    "cloze": "검색 개선부터 시험하기로 가닥만 잡았습니다",
+    "answer": "검색 개선부터 시험하기로 가닥만 잡았습니다",
+    "accepted_answers": [],
+    "lemma": "검색 개선을 먼저 시험하는 쪽으로 가닥을 잡다",
+    "meaning": "set only an initial direction to test search improvements first",
+    "audio": "work/audio/ko-KR/05/ko-05-2525.mp3"
+  },
+  {
+    "id": "ko-05-2526",
+    "sentence": "고객사는 출시일 유지를, 제작 업체는 시험 기간 확보를 우선했습니다. 양측 담당자는 단계 납품안에서 접점을 찾았습니다. 다만 무상 보증 기간에는 아직 합의하지 못했습니다. 각 책임자는 수요일까지 보증안을 다시 내고 구매 책임자가 금요일에 결정합니다.",
+    "cloze": "단계 납품안에서 접점을 찾았습니다",
+    "answer": "단계 납품안에서 접점을 찾았습니다",
+    "accepted_answers": [],
+    "lemma": "단계 납품안에서 양측의 접점을 찾다",
+    "meaning": "find common ground in a phased delivery proposal",
+    "audio": "work/audio/ko-KR/05/ko-05-2526.mp3"
+  },
+  {
+    "id": "ko-05-2527",
+    "sentence": "사업 책임자는 일정 코디네이터에게 같은 예산 안에서 작업 순서를 바꿀 권한을 줬습니다. 다만 추가 구매와 기능 삭제는 자신의 사전 승인을 받게 했습니다. 이렇게 재량 범위에 선을 그었습니다.",
+    "cloze": "재량 범위에 선을 그었습니다",
+    "answer": "재량 범위에 선을 그었습니다",
+    "accepted_answers": [],
+    "lemma": "일정 코디네이터의 재량 범위에 선을 긋다",
+    "meaning": "set a clear boundary on the schedule coordinator's discretion",
+    "audio": "work/audio/ko-KR/05/ko-05-2527.mp3"
+  },
+  {
+    "id": "ko-05-2528",
+    "sentence": "기술 책임자는 두 안의 시험 결과와 비용표를 모두 올렸습니다. 남은 선택은 홍보 시점이며 최종 결정 권한은 마케팅 책임자에게 있습니다. 기술 책임자는 검토 자료와 안건을 넘겼습니다.",
+    "cloze": "검토 자료와 안건을 넘겼습니다",
+    "answer": "검토 자료와 안건을 넘겼습니다",
+    "accepted_answers": [],
+    "lemma": "검토가 끝난 자료와 안건을 결정권자에게 넘기다",
+    "meaning": "pass the reviewed materials and agenda item to the decision owner",
+    "audio": "work/audio/ko-KR/05/ko-05-2528.mp3"
+  },
+  {
+    "id": "ko-05-2529",
+    "sentence": "새 결제 화면은 보안 검토가 끝나야 시험할 수 있습니다. 프로젝트 코디네이터인 유진 씨는 보안 검토를 선행 작업으로 두고 개발·시험 책임자별 마감일을 계획표에 명시했습니다. 각 책임자는 매일 오후 네 시에 공용 작업판으로 진척도를 보고합니다.",
+    "cloze": "마감일을 계획표에 명시했습니다",
+    "answer": "마감일을 계획표에 명시했습니다",
+    "accepted_answers": [],
+    "lemma": "선행 작업과 책임자별 마감일을 프로젝트 계획표에 명시하다",
+    "meaning": "state prerequisite work and owner deadlines in the project plan",
+    "audio": "work/audio/ko-KR/05/ko-05-2529.mp3"
+  },
+  {
+    "id": "ko-05-2530",
+    "sentence": "고객사는 시연일을 14일에서 17일로 옮겨 달라고 요청했습니다. 변경 담당자인 도윤 씨는 기능 목록을 그대로 두고 검수 일정표만 고쳐 첨부했습니다. 승인자는 수요일에 일정 변경 여부를 회신합니다.",
+    "cloze": "검수 일정표만 고쳐 첨부했습니다",
+    "answer": "검수 일정표만 고쳐 첨부했습니다",
+    "accepted_answers": [],
+    "lemma": "기능 범위는 유지하고 검수 일정표를 수정하다",
+    "meaning": "revise the inspection schedule while preserving feature scope",
+    "audio": "work/audio/ko-KR/05/ko-05-2530.mp3"
+  },
+  {
+    "id": "ko-05-2531",
+    "sentence": "자료팀은 원본을 월요일에만 내보낼 수 있고 검토팀은 월요일에 다른 배포를 맡습니다. 일정 코디네이터인 하린 씨는 두 팀의 작업일을 엇갈리게 조정했습니다. 자료팀은 월요일에 원본을 올리고 검토팀 책임자는 화요일 오후 다섯 시까지 공용 폴더에 결과를 올립니다.",
+    "cloze": "두 팀의 작업일을 엇갈리게 조정했습니다",
+    "answer": "두 팀의 작업일을 엇갈리게 조정했습니다",
+    "accepted_answers": [],
+    "lemma": "팀별 자원 제약에 맞춰 작업일을 엇갈리게 조정하다",
+    "meaning": "stagger the two teams' workdays around their resource constraints",
+    "audio": "work/audio/ko-KR/05/ko-05-2531.mp3"
+  },
+  {
+    "id": "ko-05-2532",
+    "sentence": "고객사는 주말에도 하루 여덟 시간 지원을 원했고 업체는 당직 인력이 한 명뿐이라고 밝혔습니다. 업체는 토요일 현장 지원 네 시간과 원격 대기 네 시간을 역제안했고, 양측 책임자는 지원 시간과 비용 조건을 협상했습니다. 원격 대기의 시간당 비용은 아직 정하지 못했습니다. 업체 책임자가 목요일까지 두 가지 견적을 보내고 고객사 구매 책임자가 금요일에 선택합니다.",
+    "cloze": "지원 시간과 비용 조건을 협상했습니다",
+    "answer": "지원 시간과 비용 조건을 협상했습니다",
+    "accepted_answers": [],
+    "lemma": "고객 지원 시간과 비용 부담 조건을 협상하다",
+    "meaning": "negotiate support hours and the associated cost conditions",
+    "audio": "work/audio/ko-KR/05/ko-05-2532.mp3"
+  },
+  {
+    "id": "ko-05-2533",
+    "sentence": "시험 기록에서 동시 전환 때 오류가 세 건 발생했습니다. 납품 책임자인 소라 씨는 이 근거로 동시 전환에는 이의를 제기했습니다. 다만 단계 전환 작업은 맡겠다고 밝혔으므로 전체 작업을 거절한 것은 아닙니다.",
+    "cloze": "동시 전환에는 이의를 제기했습니다",
+    "answer": "동시 전환에는 이의를 제기했습니다",
+    "accepted_answers": [],
+    "lemma": "시험 오류를 근거로 동시 전환 방식에 이의를 제기하다",
+    "meaning": "object to simultaneous cutover based on test errors",
+    "audio": "work/audio/ko-KR/05/ko-05-2533.mp3"
+  },
+  {
+    "id": "ko-05-2534",
+    "sentence": "운영팀은 새 절차를 수행하려면 두 명이 더 필요하다고 우려했습니다. 기획 담당자는 세 차례 모의 운영에서 추가 인력 없이 절차를 마친 시간표를 제시하고, 투입 인원 기록으로 우려에 답했습니다. 운영팀장은 그 자료를 목요일에 검토하고 시범 참여 여부를 알립니다.",
+    "cloze": "투입 인원 기록으로 우려에 답했습니다",
+    "answer": "투입 인원 기록으로 우려에 답했습니다",
+    "accepted_answers": [],
+    "lemma": "모의 운영의 투입 인원 기록으로 자원 우려에 답하다",
+    "meaning": "answer a staffing concern with actual trial staffing records",
+    "audio": "work/audio/ko-KR/05/ko-05-2534.mp3"
+  },
+  {
+    "id": "ko-05-2535",
+    "sentence": "정보보호 책임자는 시범 운영 중 개인정보가 삭제됐는지 확인할 수 있어야 한다고 했습니다. 그래서 삭제 기록을 조건으로 시범안을 수용했습니다. 자료 책임자는 매주 금요일에 기록을 정보보호 책임자 전용 폴더에 올립니다.",
+    "cloze": "삭제 기록을 조건으로 시범안을 수용했습니다",
+    "answer": "삭제 기록을 조건으로 시범안을 수용했습니다",
+    "accepted_answers": [],
+    "lemma": "개인정보 삭제 기록 제출을 조건으로 시범안을 수용하다",
+    "meaning": "accept the pilot on condition that deletion logs are submitted",
+    "audio": "work/audio/ko-KR/05/ko-05-2535.mp3"
+  },
+  {
+    "id": "ko-05-2536",
+    "sentence": "디자인팀은 첫 배포에 화면 다섯 개를 원했고 개발팀은 인력상 두 개만 가능하다고 했습니다. 두 팀 책임자는 세 개를 우선 제작하기로 절충했습니다. 디자인팀은 두 개를 다음 배포로 미루고 개발팀은 첫 배포 수량을 하나 늘리며, 배포 책임자가 금요일에 수정 계획을 올립니다.",
+    "cloze": "세 개를 우선 제작하기로 절충했습니다",
+    "answer": "세 개를 우선 제작하기로 절충했습니다",
+    "accepted_answers": [],
+    "lemma": "화면 세 개 우선 제작으로 양측 요구를 절충하다",
+    "meaning": "compromise by producing three screens first",
+    "audio": "work/audio/ko-KR/05/ko-05-2536.mp3"
+  },
+  {
+    "id": "ko-05-2537",
+    "sentence": "두 배포안의 비용은 같았지만 나안은 고객 교육 시간을 이틀 더 확보했습니다. 결정권자인 서비스 책임자는 이 근거로 나안을 최종안으로 채택했습니다. 실행 책임자인 태호 씨가 18일까지 교육 일정을 확정해 결정 채널에 보고합니다.",
+    "cloze": "나안을 최종안으로 채택했습니다",
+    "answer": "나안을 최종안으로 채택했습니다",
+    "accepted_answers": [],
+    "lemma": "교육 시간 근거에 따라 나안을 최종안으로 채택하다",
+    "meaning": "adopt option B as final based on training time",
+    "audio": "work/audio/ko-KR/05/ko-05-2537.mp3"
+  },
+  {
+    "id": "ko-05-2538",
+    "sentence": "프로젝트 책임자인 은지 씨는 배포 승인 권한을 유지합니다. 반복 확인이 필요한 점검표 작성만 민아 씨에게 위임했습니다. 민아 씨는 매일 작업판에 진행 상황을 남기고 은지 씨가 금요일에 최종 승인합니다.",
+    "cloze": "점검표 작성만 민아 씨에게 위임했습니다",
+    "answer": "점검표 작성만 민아 씨에게 위임했습니다",
+    "accepted_answers": [],
+    "lemma": "배포 점검표 작성만 실무 담당자에게 위임하다",
+    "meaning": "delegate only preparation of the release checklist",
+    "audio": "work/audio/ko-KR/05/ko-05-2538.mp3"
+  },
+  {
+    "id": "ko-05-2539",
+    "sentence": "전임 야간 지원 담당자인 준호 씨는 배포 경보 여덟 건 중 일곱 건의 원인을 확인했습니다. 그는 신임 담당자인 수빈 씨에게 확인 기록을 공유한 뒤 남은 경보 한 건까지 인계했습니다. 수빈 씨는 수신을 확인했으며 월요일부터 지원 채널 보고와 조치 책임을 맡습니다.",
+    "cloze": "남은 경보 한 건까지 인계했습니다",
+    "answer": "남은 경보 한 건까지 인계했습니다",
+    "accepted_answers": [],
+    "lemma": "확인 기록과 남은 경보를 야간 지원 담당자에게 인계하다",
+    "meaning": "hand off the records and one remaining alert",
+    "audio": "work/audio/ko-KR/05/ko-05-2539.mp3"
+  },
+  {
+    "id": "ko-05-2540",
+    "sentence": "업체와 두 차례 협의했지만 사용권 종료일은 정해지지 않았습니다. 코디네이터인 세진 씨는 미결 조건을 제품 책임자에게 보고했습니다. 제품 책임자는 수요일까지 결정 결과를 결정 채널에 남기고 세진 씨가 업체에 전달합니다.",
+    "cloze": "미결 조건을 제품 책임자에게 보고했습니다",
+    "answer": "미결 조건을 제품 책임자에게 보고했습니다",
+    "accepted_answers": [],
+    "lemma": "반복 협의 뒤 미결 조건을 제품 책임자에게 보고하다",
+    "meaning": "report an unresolved condition to the product decision owner",
+    "audio": "work/audio/ko-KR/05/ko-05-2540.mp3"
+  },
+  {
+    "id": "ko-05-2541",
+    "sentence": "고객사는 일 년 보증을, 업체는 여섯 달 보증을 제시했습니다. 보증 기간은 아직 협의 중입니다. 합의된 조건은 아닙니다. 양측 책임자는 금요일 회의에서 비용표를 보고 다시 협의합니다.",
+    "cloze": "보증 기간은 아직 협의 중입니다",
+    "answer": "보증 기간은 아직 협의 중입니다",
+    "accepted_answers": [],
+    "lemma": "서로 다른 보증 기간을 합의 전까지 협의 중으로 두다",
+    "meaning": "keep the warranty term marked as under consultation",
+    "audio": "work/audio/ko-KR/05/ko-05-2541.mp3"
+  },
+  {
+    "id": "ko-05-2542",
+    "sentence": "개발팀은 안정성을, 영업팀은 출시일을, 지원팀은 교육 시간을 우선했습니다. 코디네이터인 아라 씨는 세 팀의 의견을 모아 비교했습니다. 이는 의견 수렴이며 합의는 아닙니다. 아라 씨는 비용·일정·교육 시간별 비교표를 목요일까지 만들고 사업 책임자가 최종 우선순위를 정합니다.",
+    "cloze": "세 팀의 의견을 모아 비교했습니다",
+    "answer": "세 팀의 의견을 모아 비교했습니다",
+    "accepted_answers": [],
+    "lemma": "여러 팀의 의견을 모아 기준별 비교표를 만들다",
+    "meaning": "gather and compare three teams' views without implying consensus",
+    "audio": "work/audio/ko-KR/05/ko-05-2542.mp3"
+  },
+  {
+    "id": "ko-05-2543",
+    "sentence": "출시 책임자는 월요일에 단계 전환안을 승인했습니다. 개발팀은 설치를, 지원팀은 안내를, 운영팀은 확인을 맡아 승인된 실행 일정에 발을 맞췄습니다. 각 팀장은 매일 오후 다섯 시에 전환 채널로 완료 항목을 보고합니다.",
+    "cloze": "승인된 실행 일정에 발을 맞췄습니다",
+    "answer": "승인된 실행 일정에 발을 맞췄습니다",
+    "accepted_answers": [],
+    "lemma": "승인된 전환 계획의 실행 일정에 발을 맞추다",
+    "meaning": "coordinate execution around the approved timetable",
+    "audio": "work/audio/ko-KR/05/ko-05-2543.mp3"
+  },
+  {
+    "id": "ko-05-2544",
+    "sentence": "고객사는 전체 편집 권한을 요구했지만 업체는 보안 규정 때문에 수용할 수 없다고 밝혔습니다. 코디네이터는 읽기 전용 계정을 2주 동안 시험하자고 제안해 후속 협의의 물꼬를 텄습니다. 양측은 시범 운영에만 합의했으며 정식 권한은 보안 책임자가 결과를 본 뒤 결정합니다.",
+    "cloze": "후속 협의의 물꼬를 텄습니다",
+    "answer": "후속 협의의 물꼬를 텄습니다",
+    "accepted_answers": [],
+    "lemma": "제한된 시범 제안으로 후속 협의의 물꼬를 트다",
+    "meaning": "open a path for further consultation with a limited pilot",
+    "audio": "work/audio/ko-KR/05/ko-05-2544.mp3"
+  },
+  {
+    "id": "ko-05-2545",
+    "sentence": "고객사 담당자는 월요일 공개를 선호한다고 밝혔습니다. 그러나 시험 완료 가능일은 화요일이고 공개일 결정권은 공동 운영위원장에게 있습니다. 월요일은 고객사의 선호일 뿐 확정된 공개일이 아닙니다.",
+    "cloze": "월요일은 고객사의 선호일 뿐",
+    "answer": "월요일은 고객사의 선호일 뿐",
+    "accepted_answers": [],
+    "lemma": "고객사의 선호일을 권한자의 확정 일정과 구별하다",
+    "meaning": "treat Monday as the client's preference, not a decision",
+    "audio": "work/audio/ko-KR/05/ko-05-2545.mp3"
+  },
+  {
+    "id": "ko-05-2546",
+    "sentence": "고객사는 매일 한 시간씩 진행 회의를 열자고 요청했습니다. 업체 운영 책임자는 회의 준비로 작업 시간이 줄어든다는 주간 기록을 근거로 주 2회 회의와 일일 보고를 역제안했습니다. 일일 보고는 공용 작업판에 올리는 서면 기록을 뜻합니다. 고객사 승인자는 목요일까지 두 방식의 보고 누락 건수를 검토해 회신합니다.",
+    "cloze": "주 2회 회의와 일일 보고를 역제안했습니다",
+    "answer": "주 2회 회의와 일일 보고를 역제안했습니다",
+    "accepted_answers": [],
+    "lemma": "회의 횟수를 줄이고 일일 서면 보고를 제공하는 방안을 역제안하다",
+    "meaning": "counterpropose two weekly meetings plus daily written reports",
+    "audio": "work/audio/ko-KR/05/ko-05-2546.mp3"
+  },
+  {
+    "id": "ko-05-2547",
+    "sentence": "고객사 구매 책임자: 모든 장애에 네 시간 안에 답변할 수 있습니까?\n업체 지원 책임자: 현재 인력으로 일반 장애는 여덟 시간이 필요합니다.\n구매 책임자: 긴급 장애는 네 시간, 일반 장애는 여덟 시간으로 나누면 어떻습니까?\n지원 책임자: 계약서에 긴급 장애 기준을 명시하면 가능합니다.\n구매 책임자: 그 기준이면 응답 시간에 합의하겠습니다.\n지원 책임자: 저도 합의하며 오늘 공동 결정 기록에 남기겠습니다.",
+    "cloze": "그 기준이면 응답 시간에 합의하겠습니다",
+    "answer": "그 기준이면 응답 시간에 합의하겠습니다",
+    "accepted_answers": [],
+    "lemma": "장애 등급별 응답 시간 기준에 합의하다",
+    "meaning": "agree on response times differentiated by incident level",
+    "audio": "work/audio/ko-KR/05/ko-05-2547.mp3"
+  },
+  {
+    "id": "ko-05-2548",
+    "sentence": "디자인 담당자: 새 안내문의 글자가 시험본보다 작아서 읽기 어렵다는 의견이 여섯 건 나왔습니다.\n개발 담당자: 그러면 배포 작업을 맡지 않겠다는 뜻입니까?\n디자인 담당자: 거절이 아니라 현재 안에 대한 이의입니다. 글자를 키우면 검수를 맡겠습니다.\n개발 담당자: 알겠습니다. 제가 오늘 수정하고 내일 다시 검수를 요청하겠습니다.",
+    "cloze": "거절이 아니라 현재 안에 대한 이의입니다",
+    "answer": "거절이 아니라 현재 안에 대한 이의입니다",
+    "accepted_answers": [],
+    "lemma": "현재 글자 크기에 대한 이의를 작업 거절과 구별하다",
+    "meaning": "distinguish an objection to the current design from refusal to work",
+    "audio": "work/audio/ko-KR/05/ko-05-2548.mp3"
+  },
+  {
+    "id": "ko-05-2549",
+    "sentence": "회의 진행자: 외부 업체 이용안을 오늘 결정해도 됩니까?\n예산 담당자: 비용과 일정은 논의했지만 승인권자인 본부장이 참석하지 않았습니다.\n회의 진행자: 그러면 회의록 상태를 어떻게 적을까요?\n예산 담당자: 논의 사항으로만 남겨 주세요. 승인으로 쓰지 말고 본부장이 금요일에 결정한다고 적으세요.",
+    "cloze": "논의 사항으로만 남겨 주세요",
+    "answer": "논의 사항으로만 남겨 주세요",
+    "accepted_answers": [],
+    "lemma": "승인권자 부재 시 업체 이용안을 논의 사항으로만 기록하다",
+    "meaning": "record the outsourcing option only as a discussed item",
+    "audio": "work/audio/ko-KR/05/ko-05-2549.mp3"
+  },
+  {
+    "id": "ko-05-2550",
+    "sentence": "팀장: 지수 씨, 고객 질문 열 건의 답변 초안을 맡아 주세요.\n지수: 답변 범위와 마감은 어떻게 됩니까?\n팀장: 기존 안내서 안에서 목요일까지 작성하고 승인 요청을 올려 주세요.\n지수: 초안은 제가 쓰고 팀장님께서 승인하십니다. 공용 검토함으로 올리겠습니다.",
+    "cloze": "초안은 제가 쓰고 팀장님께서 승인하십니다",
+    "answer": "초안은 제가 쓰고 팀장님께서 승인하십니다",
+    "accepted_answers": [],
+    "lemma": "답변 초안 작성과 팀장의 승인 책임을 구별하다",
+    "meaning": "separate delegated drafting from the manager's approval responsibility",
+    "audio": "work/audio/ko-KR/05/ko-05-2550.mp3"
+  },
+  {
+    "id": "ko-05-2551",
+    "sentence": "콘텐츠 납품 책임자: 촬영 장소가 금요일까지 닫힌다고 합니다. 촬영을 다음 월요일로 옮겨도 됩니까?\n고객사 담당자: 영상 두 편 중 한 편을 빼자는 요청입니까?\n납품 책임자: 아닙니다. 승인된 구성과 길이는 유지합니다.\n고객사 담당자: 그러면 촬영일만 옮기고 영상 범위는 그대로 둡니다. 수정 일정은 오늘 공동 작업판에 올려 주세요.",
+    "cloze": "촬영일만 옮기고 영상 범위는 그대로 둡니다",
+    "answer": "촬영일만 옮기고 영상 범위는 그대로 둡니다",
+    "accepted_answers": [],
+    "lemma": "촬영일만 옮기고 승인된 영상 범위를 유지하다",
+    "meaning": "move only the filming date and keep the approved video scope",
+    "audio": "work/audio/ko-KR/05/ko-05-2551.mp3"
+  },
+  {
+    "id": "ko-05-2552",
+    "sentence": "전임 영상 담당자: 시연 영상 여섯 편과 촬영 동의서를 공용 폴더에 올렸습니다.\n신임 영상 담당자: 확인했습니다. 미완료 항목이 있습니까?\n전임 담당자: 자막 검수 한 건이 남았고 수정 주체는 번역팀입니다. 금요일까지 제가 질문에 답하겠습니다.\n신임 담당자: 남은 자막 검수 한 건까지 인수했습니다. 월요일부터 제가 고객사 납품 채널에 보고하겠습니다.",
+    "cloze": "남은 자막 검수 한 건까지 인수했습니다",
+    "answer": "남은 자막 검수 한 건까지 인수했습니다",
+    "accepted_answers": [],
+    "lemma": "시연 영상 자료와 남은 자막 검수를 인수하다",
+    "meaning": "accept the video handoff including one remaining subtitle review",
+    "audio": "work/audio/ko-KR/05/ko-05-2552.mp3"
+  },
+  {
+    "id": "ko-05-2553",
+    "sentence": "코디네이터: 세 팀의 의견을 받았습니다. 두 팀은 가안을, 한 팀은 나안을 선호합니다.\n사업 책임자: 공통 기준도 정리됐습니까?\n코디네이터: 네. 비용, 시험 시간, 고객 영향으로 비교표를 만들었습니다.\n사업 책임자: 제가 비교표를 보고 금요일에 결정하겠습니다. 결정 전에는 가안을 확정안으로 부르지 마세요.",
+    "cloze": "제가 비교표를 보고 금요일에 결정하겠습니다",
+    "answer": "제가 비교표를 보고 금요일에 결정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "비교표를 검토한 결정권자가 금요일에 최종안을 정하다",
+    "meaning": "the decision owner will decide Friday after reviewing the comparison",
+    "audio": "work/audio/ko-KR/05/ko-05-2553.mp3"
+  },
+  {
+    "id": "ko-05-2554",
+    "sentence": "고객사 구매 담당자: 대금 지급 기한을 납품 후 30일로 제안합니다.\n업체 담당자: 현재 조건에서는 14일이며 30일이면 선금이 필요합니다.\n구매 담당자: 전자 청구서를 받는 조건으로 21일은 가능합니까?\n업체 담당자: 그 안은 재무 책임자의 확인이 필요합니다.\n회의 기록자: 그러면 결제 기한은 미합의 쟁점으로 남깁니다.\n업체 담당자: 네. 목요일까지 승인 여부를 협의 채널에 올리겠습니다.",
+    "cloze": "결제 기한은 미합의 쟁점으로 남깁니다",
+    "answer": "결제 기한은 미합의 쟁점으로 남깁니다",
+    "accepted_answers": [],
+    "lemma": "권한자 확인 전 결제 기한을 미합의 쟁점으로 남기다",
+    "meaning": "leave the payment deadline recorded as unresolved",
+    "audio": "work/audio/ko-KR/05/ko-05-2554.mp3"
+  },
+  {
+    "id": "ko-05-2555",
+    "sentence": "[10월 7일 변경 협의 회의 안건]\n참석: 담당 코디네이터 이서윤·고객사 담당자·업체 납품 책임자\n1. 고객사 제안: 화면 2종 추가\n2. 업체 역제안: 기존 화면 1종 개선\n근거: 개발 여력 18시간·추가 요청 예상 26시간\n결정 필요: 추가 비용 부담 주체\n결정권자: 양사 구매 책임자\n결정 기한: 10월 9일\n기록 채널: 공동 결정함",
+    "cloze": "결정 필요: 추가 비용 부담 주체",
+    "answer": "결정 필요: 추가 비용 부담 주체",
+    "accepted_answers": [],
+    "lemma": "변경 협의 안건에 추가 비용의 결정 필요 사항을 표시하다",
+    "meaning": "decision needed: which party bears the additional cost",
+    "audio": "work/audio/ko-KR/05/ko-05-2555.mp3"
+  },
+  {
+    "id": "ko-05-2556",
+    "sentence": "[10월 8일 진행 보고 회의록]\n참석: 고객사 프로젝트 책임자·업체 납품 책임자·코디네이터\n논의: 일일 회의 부담과 지난달 보고 누락 0건\n합의 사항: 매주 월·목 16:00 보고\n보고 담당: 업체 납품 책임자\n합의 채널: 공동 진행함\n미결 사항: 긴급 장애의 별도 전화 보고 기준\n담당자·기한: 업체 납품 책임자·10월 9일\n승인권자: 고객사 프로젝트 책임자",
+    "cloze": "합의 사항: 매주 월·목 16:00 보고",
+    "answer": "합의 사항: 매주 월·목 16:00 보고",
+    "accepted_answers": [],
+    "lemma": "회의록에 주간 진행 보고 요일과 시간을 합의 사항으로 기록하다",
+    "meaning": "agreed item: progress reports every Monday and Thursday at 16:00",
+    "audio": "work/audio/ko-KR/05/ko-05-2556.mp3"
+  },
+  {
+    "id": "ko-05-2557",
+    "sentence": "[결정 기록 2026-10-14-03]\n안건: 고객 문의 화면 전환일\n가안: 11월 1일 일괄 전환\n나안: 11월 4일 단계 전환\n근거: 나안의 시험 시간 16시간 추가 확보\n결정권자: 서비스 책임자 김도현\n결정: 나안 채택·11월 4일 전환\n실행 책임자·기한: 배포 담당자 윤하진·11월 3일\n완료 보고: 전환 결정 채널",
+    "cloze": "결정: 나안 채택·11월 4일 전환",
+    "answer": "결정: 나안 채택·11월 4일 전환",
+    "accepted_answers": [],
+    "lemma": "결정 기록에 채택안과 단계 전환일을 병기하다",
+    "meaning": "decision: adopt option B and switch over on November 4",
+    "audio": "work/audio/ko-KR/05/ko-05-2557.mp3"
+  },
+  {
+    "id": "ko-05-2558",
+    "sentence": "[변경 요청서 CR-27]\n요청일: 2026년 10월 16일\n기존 워크숍일: 10월 21일\n요청 워크숍일: 10월 24일\n변경 구분: 일정 조정(범위 변경 없음)\n근거: 행사장 안전 점검 연장\n유지 범위: 교육 3회·승인 자료 4종\n조정 담당자: 프로젝트 코디네이터 박현우\n승인권자·회신일: 교육 책임자·10월 17일\n상태: 승인 대기",
+    "cloze": "변경 구분: 일정 조정(범위 변경 없음)",
+    "answer": "변경 구분: 일정 조정(범위 변경 없음)",
+    "accepted_answers": [],
+    "lemma": "변경 요청서에서 일정 조정과 범위 유지를 함께 표시하다",
+    "meaning": "change type: schedule adjustment with no scope change",
+    "audio": "work/audio/ko-KR/05/ko-05-2558.mp3"
+  },
+  {
+    "id": "ko-05-2559",
+    "sentence": "[10월 11일 2차 납품 기록]\n납품 책임자: 최준호\n수령 담당자: 고객사 검토 책임자 오수빈\n전달: 배포 파일 3개·안내서 1부\n수령 확인: 배포 파일 3개·안내서 1부\n미전달: 화면 읽기 점검 보고서 1부\n제출 책임자·기한: 접근성 담당자 한유라·10월 12일\n인수 승인권자·예정일: 고객사 제품 책임자·10월 14일\n보고 채널: 공동 납품함",
+    "cloze": "수령 확인: 배포 파일 3개·안내서 1부",
+    "answer": "수령 확인: 배포 파일 3개·안내서 1부",
+    "accepted_answers": [],
+    "lemma": "납품 기록에서 전달 파일 수령과 인수 승인을 구별하다",
+    "meaning": "receipt confirmed for three release files and one guide",
+    "audio": "work/audio/ko-KR/05/ko-05-2559.mp3"
+  },
+  {
+    "id": "ko-05-2560",
+    "sentence": "[10월 교육 협상용 일정·자원표]\n고객사 제안: 현장 교육 4회\n업체 제약: 강사 현장 배정 2회\n역제안: 현장 2회·원격 2회\n합의 사항: 교육 자료 이틀 전 제공\n미합의 쟁점: 원격 회차 녹화 여부\n다음 조치: 업체가 녹화 비용표 제출\n업체 제출 기한: 10월 22일 15:00\n결정권자·기한: 고객사 교육 책임자·10월 23일\n회신 채널: 공동 교육함",
+    "cloze": "역제안: 현장 2회·원격 2회",
+    "answer": "역제안: 현장 2회·원격 2회",
+    "accepted_answers": [],
+    "lemma": "협상용 자원표에 현장과 원격 교육의 역제안을 기록하다",
+    "meaning": "counterproposal: two onsite and two remote sessions",
+    "audio": "work/audio/ko-KR/05/ko-05-2560.mp3"
   }
 ]
