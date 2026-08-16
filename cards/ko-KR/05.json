@@ -23635,5 +23635,405 @@
     "lemma": "정식 도입 재심의 조건",
     "meaning": "Full adoption will be reconsidered after testing is complete.",
     "audio": "work/audio/ko-KR/05/ko-05-2360.mp3"
+  },
+  {
+    "id": "ko-05-2361",
+    "sentence": "하천 수위계에는 8월 첫째 주 평균이 74센티미터, 둘째 주 평균이 68센티미터로 나왔습니다. 방류 조치와의 인과관계는 확인되지 않았으므로 수위 감소로만 기록합니다.",
+    "cloze": "수위 감소로만 기록합니다",
+    "answer": "수위 감소로만 기록합니다",
+    "accepted_answers": [],
+    "lemma": "수위 관측 감소 기록",
+    "meaning": "record only an observed decrease in water level",
+    "audio": "work/audio/ko-KR/05/ko-05-2361.mp3"
+  },
+  {
+    "id": "ko-05-2362",
+    "sentence": "구립도서관은 2025년 9월 사용량 18,400킬로와트시를 기준으로 올해 같은 달 전력 사용을 5퍼센트 줄이려 합니다. 점등 시간을 조정해 전력을 계획적으로 절감합니다. 개관 시간은 유지합니다.",
+    "cloze": "전력을 계획적으로 절감합니다",
+    "answer": "전력을 계획적으로 절감합니다",
+    "accepted_answers": [],
+    "lemma": "점등 조정 전력 절감",
+    "meaning": "deliberately save electricity by adjusting lighting hours",
+    "audio": "work/audio/ko-KR/05/ko-05-2362.mp3"
+  },
+  {
+    "id": "ko-05-2363",
+    "sentence": "환승센터의 대기 구역을 넓히면 출근 시간에 오래 서 있는 이용자의 불편을 줄일 수 있습니다. 혼잡 부담을 완화하는 안입니다. 다만 청소 인력 한 명이 더 필요해 교통과가 추가 인건비를 심의합니다.",
+    "cloze": "혼잡 부담을 완화하는 안입니다",
+    "answer": "혼잡 부담을 완화하는 안입니다",
+    "accepted_answers": [],
+    "lemma": "환승 혼잡 부담 완화안",
+    "meaning": "a plan to alleviate congestion burden at a transfer center",
+    "audio": "work/audio/ko-KR/05/ko-05-2363.mp3"
+  },
+  {
+    "id": "ko-05-2364",
+    "sentence": "예산안은 밤 11시 이후 두 개 노선의 운행을 중단하도록 제안합니다. 이는 이용량이 자연스럽게 감소한 현상이 아니라 운행 범위를 의도적으로 축소하는 조치입니다. 야간 근무자의 대체 교통편도 심의 대상입니다.",
+    "cloze": "운행 범위를 의도적으로 축소하는 조치",
+    "answer": "운행 범위를 의도적으로 축소하는 조치",
+    "accepted_answers": [],
+    "lemma": "야간 운행 범위 의도적 축소",
+    "meaning": "a deliberate measure to reduce the scope of night service",
+    "audio": "work/audio/ko-KR/05/ko-05-2364.mp3"
+  },
+  {
+    "id": "ko-05-2365",
+    "sentence": "이번 달 폐기물은 지난달 42톤에서 38톤으로 줄었지만 날씨와 방문객 수도 함께 달라졌습니다. 분리배출 홍보의 효과가 확인되기 전에는 감소분은 절감량이 아닙니다.",
+    "cloze": "감소분은 절감량이 아닙니다",
+    "answer": "감소분은 절감량이 아닙니다",
+    "accepted_answers": [],
+    "lemma": "폐기물 감소분 절감량 구별",
+    "meaning": "an observed waste decrease is not yet verified savings",
+    "audio": "work/audio/ko-KR/05/ko-05-2365.mp3"
+  },
+  {
+    "id": "ko-05-2366",
+    "sentence": "빗물받이 청소 전후의 시간당 강수량은 같았고 도로 침수 신고는 19건에서 7건으로 줄었습니다. 침수 위험 완화 가능성입니다. 다만 청소의 효과로 확정하지는 않습니다.",
+    "cloze": "침수 위험 완화 가능성입니다",
+    "answer": "침수 위험 완화 가능성입니다",
+    "accepted_answers": [],
+    "lemma": "침수 위험 완화 가능성",
+    "meaning": "a possibility of mitigating flood risk",
+    "audio": "work/audio/ko-KR/05/ko-05-2366.mp3"
+  },
+  {
+    "id": "ko-05-2367",
+    "sentence": "예산 부족에 따른 복지버스 규모 축소는 조건부입니다. 담당 부서는 휠체어 이용자의 병원 이동을 보장할 예약형 대체 차량이 확보되기 전에는 축소안을 승인하지 않습니다.",
+    "cloze": "복지버스 규모 축소는 조건부입니다",
+    "answer": "복지버스 규모 축소는 조건부입니다",
+    "accepted_answers": [],
+    "lemma": "복지버스 규모 축소 조건",
+    "meaning": "downsizing the welfare-bus service is conditional",
+    "audio": "work/audio/ko-KR/05/ko-05-2367.mp3"
+  },
+  {
+    "id": "ko-05-2368",
+    "sentence": "보고서는 2025년 대비 2026년의 배출량 감소와 비용 절감을 구별합니다. 전자는 측정된 변화이고 후자는 차량 공동 운행으로 달성하려는 목표입니다.",
+    "cloze": "배출량 감소와 비용 절감을 구별합니다",
+    "answer": "배출량 감소와 비용 절감을 구별합니다",
+    "accepted_answers": [],
+    "lemma": "배출 감소 비용 절감 구별",
+    "meaning": "distinguish an emissions decrease from planned cost savings",
+    "audio": "work/audio/ko-KR/05/ko-05-2368.mp3"
+  },
+  {
+    "id": "ko-05-2369",
+    "sentence": "공공체육관의 2026년 7월 전력 사용량은 계량기 기록상 31,200킬로와트시였습니다. 비교표에는 2025년 7월을 기준으로 증감률을 계산했다고 밝혀야 합니다.",
+    "cloze": "2025년 7월을 기준으로",
+    "answer": "2025년 7월을 기준으로",
+    "accepted_answers": [],
+    "lemma": "체육관 전력 동월 기준",
+    "meaning": "using July 2025 as the electricity baseline",
+    "audio": "work/audio/ko-KR/05/ko-05-2369.mp3"
+  },
+  {
+    "id": "ko-05-2370",
+    "sentence": "시장 음식물류 폐기물은 6월 하루 평균 1.8톤에서 7월 1.6톤으로 줄었습니다. 이 감소는 수거 차량의 계근 기록에서 확인됐으며 원인은 조사 중입니다.",
+    "cloze": "계근 기록에서 확인됐으며",
+    "answer": "계근 기록에서 확인됐으며",
+    "accepted_answers": [],
+    "lemma": "계근 기록상 폐기물 감소",
+    "meaning": "the waste decrease was confirmed in weighing records",
+    "audio": "work/audio/ko-KR/05/ko-05-2370.mp3"
+  },
+  {
+    "id": "ko-05-2371",
+    "sentence": "구청사는 2025년 8월 사용량보다 6퍼센트 적게 쓰는 것을 목표로 올해 냉방 설정을 조정했습니다. 절감 목표는 시설팀이 세웠고 월말 계량값으로 달성 여부를 판단합니다.",
+    "cloze": "절감 목표는 시설팀이 세웠고",
+    "answer": "절감 목표는 시설팀이 세웠고",
+    "accepted_answers": [],
+    "lemma": "시설팀 수립 냉방 절감 목표",
+    "meaning": "the facilities team set the cooling-energy savings target",
+    "audio": "work/audio/ko-KR/05/ko-05-2371.mp3"
+  },
+  {
+    "id": "ko-05-2372",
+    "sentence": "마을버스 정류장에 접이식 의자를 두면 오래 서기 어려운 주민의 이동 부담을 완화할 수 있습니다. 교통과는 통행 폭 1.5미터를 유지하는 조건으로 설치를 제안했습니다.",
+    "cloze": "이동 부담을 완화할 수 있습니다",
+    "answer": "이동 부담을 완화할 수 있습니다",
+    "accepted_answers": [],
+    "lemma": "정류장 이동 부담 완화",
+    "meaning": "alleviate mobility burden at a bus stop",
+    "audio": "work/audio/ko-KR/05/ko-05-2372.mp3"
+  },
+  {
+    "id": "ko-05-2373",
+    "sentence": "예산 검토안에는 저상버스 야간 운행을 주 7회에서 4회로 축소하는 내용이 포함됐습니다. 교통위원회는 휠체어 이용자의 귀가 경로를 조사할 때까지 운행 축소를 보류합니다.",
+    "cloze": "운행 축소를 보류합니다",
+    "answer": "운행 축소를 보류합니다",
+    "accepted_answers": [],
+    "lemma": "저상버스 야간 축소 보류",
+    "meaning": "defer reducing low-floor night-bus service",
+    "audio": "work/audio/ko-KR/05/ko-05-2373.mp3"
+  },
+  {
+    "id": "ko-05-2374",
+    "sentence": "주민 설명회 참여율은 4월 38퍼센트에서 5월 31퍼센트로 감소했습니다. 홍보 채널과 행사 시간이 함께 바뀌어 참여율 감소 원인은 확정되지 않았습니다.",
+    "cloze": "참여율 감소 원인은 확정되지 않았습니다",
+    "answer": "참여율 감소 원인은 확정되지 않았습니다",
+    "accepted_answers": [],
+    "lemma": "설명회 참여 감소 원인 미확정",
+    "meaning": "the cause of the participation-rate decrease is unconfirmed",
+    "audio": "work/audio/ko-KR/05/ko-05-2374.mp3"
+  },
+  {
+    "id": "ko-05-2375",
+    "sentence": "환경과는 다회용기 반납함을 중앙시장 동문과 남문에서 9월 한 달 동안 시험합니다. 수거 횟수와 넘침 신고를 비교하되 결과는 시범 구역에만 적용하고 10월에 확대 여부를 심의합니다.",
+    "cloze": "결과는 시범 구역에만 적용하고",
+    "answer": "결과는 시범 구역에만 적용하고",
+    "accepted_answers": [],
+    "lemma": "반납함 결과 적용 범위 한정",
+    "meaning": "apply the findings only to the pilot areas",
+    "audio": "work/audio/ko-KR/05/ko-05-2375.mp3"
+  },
+  {
+    "id": "ko-05-2376",
+    "sentence": "온라인 교통 설문에는 주민 620명이 답했고 종이 설문과 전화 설문은 실시하지 않았습니다. 응답하지 않은 주민은 포함되지 않았습니다. 따라서 전체 주민의 의견으로 일반화하지 않습니다.",
+    "cloze": "응답하지 않은 주민은 포함되지 않았습니다",
+    "answer": "응답하지 않은 주민은 포함되지 않았습니다",
+    "accepted_answers": [],
+    "lemma": "교통 설문 비응답 주민 제외",
+    "meaning": "residents who did not respond were not included",
+    "audio": "work/audio/ko-KR/05/ko-05-2376.mp3"
+  },
+  {
+    "id": "ko-05-2377",
+    "sentence": "복지관은 고효율 냉난방기를 2층 강의실 두 곳에 9월 한 달간 시험 설치합니다. 8월 계량값을 기준으로 외기 온도와 이용 시간이 비슷한 날끼리 비교해 전력 절감분을 확인합니다.",
+    "cloze": "전력 절감분을 확인합니다",
+    "answer": "전력 절감분을 확인합니다",
+    "accepted_answers": [],
+    "lemma": "냉난방기 전력 절감 확인",
+    "meaning": "verify electricity savings from efficient climate-control units",
+    "audio": "work/audio/ko-KR/05/ko-05-2377.mp3"
+  },
+  {
+    "id": "ko-05-2378",
+    "sentence": "축제 방문객은 지난해보다 12퍼센트 늘었습니다. 출구 계근표에 따르면 혼합폐기물은 9.4톤에서 8.7톤으로 감소했습니다. 이는 관측된 감소이며 분리배출 안내의 절감 효과로 확정하지 않습니다.",
+    "cloze": "9.4톤에서 8.7톤으로 감소했습니다",
+    "answer": "9.4톤에서 8.7톤으로 감소했습니다",
+    "accepted_answers": [],
+    "lemma": "축제 혼합폐기물 계근 감소",
+    "meaning": "mixed festival waste decreased from 9.4 to 8.7 tonnes",
+    "audio": "work/audio/ko-KR/05/ko-05-2378.mp3"
+  },
+  {
+    "id": "ko-05-2379",
+    "sentence": "교통 모형은 시청 앞 차로 한 곳을 버스 전용으로 바꾸면 승용차 통행량이 줄 것으로 전망했습니다. 교통과는 실제 통행량과 이용자의 체감 혼잡도를 측정합니다. 감소와 혼잡 부담 완화는 별도로 판단합니다.",
+    "cloze": "감소와 혼잡 부담 완화는 별도로 판단합니다",
+    "answer": "감소와 혼잡 부담 완화는 별도로 판단합니다",
+    "accepted_answers": [],
+    "lemma": "통행 감소 혼잡 완화 별도 판단",
+    "meaning": "assess traffic decrease and congestion-burden mitigation separately",
+    "audio": "work/audio/ko-KR/05/ko-05-2379.mp3"
+  },
+  {
+    "id": "ko-05-2380",
+    "sentence": "교통과는 이용자가 적은 정류장 네 곳을 폐지해 정류장 수를 축소하는 안을 제안했습니다. 고령 주민의 보행 거리 조사 뒤 주민협의회가 축소안을 심의합니다.",
+    "cloze": "주민협의회가 축소안을 심의합니다",
+    "answer": "주민협의회가 축소안을 심의합니다",
+    "accepted_answers": [],
+    "lemma": "정류장 수 축소 주민 심의",
+    "meaning": "the resident council reviews the reduction in bus stops",
+    "audio": "work/audio/ko-KR/05/ko-05-2380.mp3"
+  },
+  {
+    "id": "ko-05-2381",
+    "sentence": "시설과는 북문 승강기를 닫고 남문만 운영하면 관리비를 월 80만 원 절감할 것으로 계산했습니다. 그러나 휠체어 이용자의 우회 시간이 늘어 접근성 점검 전에는 시행하지 않습니다.",
+    "cloze": "우회 시간이 늘어",
+    "answer": "우회 시간이 늘어",
+    "accepted_answers": [],
+    "lemma": "승강기 축소 우회 시간 증가",
+    "meaning": "detour time increases when lift service is reduced",
+    "audio": "work/audio/ko-KR/05/ko-05-2381.mp3"
+  },
+  {
+    "id": "ko-05-2382",
+    "sentence": "모든 공원에 음수대를 설치하려던 계획은 올해 예산 2억 원을 초과했습니다. 공원관리과는 설치 범위를 다섯 곳으로 축소해 제안했으며 제외 지역의 식수 접근성은 다음 심의에서 다룹니다.",
+    "cloze": "설치 범위를 다섯 곳으로 축소해",
+    "answer": "설치 범위를 다섯 곳으로 축소해",
+    "accepted_answers": [],
+    "lemma": "음수대 설치 범위 축소",
+    "meaning": "reduce the scope of drinking-fountain installation to five sites",
+    "audio": "work/audio/ko-KR/05/ko-05-2382.mp3"
+  },
+  {
+    "id": "ko-05-2383",
+    "sentence": "예약형 마을버스는 교통위원회의 시범 승인에 따라 동부 두 마을에서 10월부터 석 달간 시험합니다. 시범이 끝나면 본사업 확대 여부는 다시 결정합니다. 이용 기록과 주민 의견을 그 결정에 반영합니다.",
+    "cloze": "본사업 확대 여부는 다시 결정합니다",
+    "answer": "본사업 확대 여부는 다시 결정합니다",
+    "accepted_answers": [],
+    "lemma": "마을버스 본사업 확대 재결정",
+    "meaning": "decide later whether to expand the bus service beyond the pilot",
+    "audio": "work/audio/ko-KR/05/ko-05-2383.mp3"
+  },
+  {
+    "id": "ko-05-2384",
+    "sentence": "정류장 통합안으로 이동이 어려워지면 노선 번호, 이용 시간, 필요한 지원을 적어 제출할 수 있습니다. 교통과는 9월 15일까지 교통민원 창구에서 이의를 받습니다.",
+    "cloze": "교통민원 창구에서 이의를 받습니다",
+    "answer": "교통민원 창구에서 이의를 받습니다",
+    "accepted_answers": [],
+    "lemma": "정류장 통합 이의 접수",
+    "meaning": "accept objections to stop consolidation at the transport-service desk",
+    "audio": "work/audio/ko-KR/05/ko-05-2384.mp3"
+  },
+  {
+    "id": "ko-05-2385",
+    "sentence": "환경과가 운영하는 야간 재활용품 수거 시범은 11월 30일에 끝납니다. 주민은 누리집이나 전화로 의견을 낼 수 있고 다음 달 환경위원회가 계속 여부를 정합니다.",
+    "cloze": "환경위원회가 계속 여부를 정합니다",
+    "answer": "환경위원회가 계속 여부를 정합니다",
+    "accepted_answers": [],
+    "lemma": "야간 수거 계속 여부 결정",
+    "meaning": "the environmental committee decides whether night collection continues",
+    "audio": "work/audio/ko-KR/05/ko-05-2385.mp3"
+  },
+  {
+    "id": "ko-05-2386",
+    "sentence": "민원실 구매 대장상 종이 사용은 3만 2천 장에서 2만 8천 장으로 감소했습니다. 전자 신청과 업무량이 함께 달라져 전자 신청에 따른 절감량으로 환산하지 않았습니다.",
+    "cloze": "절감량으로 환산하지 않았습니다",
+    "answer": "절감량으로 환산하지 않았습니다",
+    "accepted_answers": [],
+    "lemma": "종이 감소 절감 환산 배제",
+    "meaning": "do not convert an unverified paper decrease into savings",
+    "audio": "work/audio/ko-KR/05/ko-05-2386.mp3"
+  },
+  {
+    "id": "ko-05-2387",
+    "sentence": "기획자: 교통카드 기록상 지난주 버스 승객이 하루 평균 1,240명에서 1,110명으로 줄었습니다.\n검토자: 노선 안내를 바꾼 효과라고 보고할까요?\n기획자: 날씨와 방학의 영향이 분리되지 않았습니다.\n검토자: 그러면 원인이 확인되지 않은 감소라고 쓰겠습니다.",
+    "cloze": "원인이 확인되지 않은 감소",
+    "answer": "원인이 확인되지 않은 감소",
+    "accepted_answers": [],
+    "lemma": "버스 승객 원인 미확인 감소",
+    "meaning": "a passenger decrease with no confirmed cause",
+    "audio": "work/audio/ko-KR/05/ko-05-2387.mp3"
+  },
+  {
+    "id": "ko-05-2388",
+    "sentence": "주민: 도서관이 전기를 덜 썼다는 결과가 나왔나요?\n기획자: 7월 계량값은 지난해 같은 달보다 5퍼센트 적었습니다.\n주민: 그럼 절감 목표를 달성했다고 확정할 수 있나요?\n기획자: 아직 아닙니다. 계량기 보정 뒤 시설과가 절감 달성 여부를 확정합니다.",
+    "cloze": "시설과가 절감 달성 여부를 확정합니다",
+    "answer": "시설과가 절감 달성 여부를 확정합니다",
+    "accepted_answers": [],
+    "lemma": "도서관 절감 달성 확정 권한",
+    "meaning": "the facilities department has authority to confirm electricity savings",
+    "audio": "work/audio/ko-KR/05/ko-05-2388.mp3"
+  },
+  {
+    "id": "ko-05-2389",
+    "sentence": "검토자: 현장 사진에서 대기 줄이 30미터에서 18미터로 짧아졌군요.\n기획자: 이용자 설문에서는 체감 혼잡 부담도 낮아졌습니다.\n검토자: 두 결과를 같은 말로 적을까요?\n기획자: 아니요. 수치 감소와 부담 완화를 구분해 기록합니다.",
+    "cloze": "수치 감소와 부담 완화를 구분해 기록합니다",
+    "answer": "수치 감소와 부담 완화를 구분해 기록합니다",
+    "accepted_answers": [],
+    "lemma": "대기 수치 감소 부담 완화 구별",
+    "meaning": "record numerical decrease and burden mitigation separately",
+    "audio": "work/audio/ko-KR/05/ko-05-2389.mp3"
+  },
+  {
+    "id": "ko-05-2390",
+    "sentence": "주민: 저녁 복지버스를 세 회에서 한 회로 축소한다는 게 맞습니까?\n기획자: 예산안에는 그렇게 적혀 있지만 아직 승인되지 않았습니다.\n주민: 병원에서 늦게 돌아오는 사람은 어떻게 합니까?\n기획자: 대체 차량이 확보되기 전에는 운행 축소를 승인하지 않습니다.",
+    "cloze": "운행 축소를 승인하지 않습니다",
+    "answer": "운행 축소를 승인하지 않습니다",
+    "accepted_answers": [],
+    "lemma": "대체 차량 전 복지버스 축소 불승인",
+    "meaning": "do not approve service reduction before securing replacement transport",
+    "audio": "work/audio/ko-KR/05/ko-05-2390.mp3"
+  },
+  {
+    "id": "ko-05-2391",
+    "sentence": "검토자: 쓰레기가 14퍼센트 감소했다는 수치는 어디에서 왔습니까?\n기획자: 축제장 출구 세 곳의 계근표를 합산한 값입니다.\n검토자: 공원 전체의 결과로 넓혀도 됩니까?\n기획자: 아닙니다. 계근한 세 출구의 결과로만 보고합니다.",
+    "cloze": "계근한 세 출구의 결과로만 보고합니다",
+    "answer": "계근한 세 출구의 결과로만 보고합니다",
+    "accepted_answers": [],
+    "lemma": "축제 계근 출구 범위 한정",
+    "meaning": "report only the results from the three weighed exits",
+    "audio": "work/audio/ko-KR/05/ko-05-2391.mp3"
+  },
+  {
+    "id": "ko-05-2392",
+    "sentence": "주민: 온라인 설명회 참여자가 늘었다고 들었습니다.\n기획자: 접속 계정은 늘었지만 전화 참여자는 집계하지 못했습니다.\n주민: 그러면 전체 주민의 참여 확대는 아니군요.\n기획자: 맞습니다. 온라인 접속 증가로만 표현하겠습니다.",
+    "cloze": "온라인 접속 증가로만 표현하겠습니다",
+    "answer": "온라인 접속 증가로만 표현하겠습니다",
+    "accepted_answers": [],
+    "lemma": "설명회 온라인 접속 증가 한정",
+    "meaning": "describe the change only as increased online connections",
+    "audio": "work/audio/ko-KR/05/ko-05-2392.mp3"
+  },
+  {
+    "id": "ko-05-2393",
+    "sentence": "검토자: 반납함을 전 지역에 바로 설치합니까?\n기획자: 환경과가 우선 두 시장에서 한 달간 시험합니다.\n검토자: 확대 결정은 누가 합니까?\n기획자: 시범 기록을 본 뒤 환경위원회가 확대 여부를 결정합니다.",
+    "cloze": "환경위원회가 확대 여부를 결정합니다",
+    "answer": "환경위원회가 확대 여부를 결정합니다",
+    "accepted_answers": [],
+    "lemma": "반납함 확대 환경위원회 결정",
+    "meaning": "the environmental committee decides whether to expand the return bins",
+    "audio": "work/audio/ko-KR/05/ko-05-2393.mp3"
+  },
+  {
+    "id": "ko-05-2394",
+    "sentence": "주민: 정류장을 없애면 운영비는 줄겠지만 노인은 더 멀리 걸어야 합니다.\n기획자: 그래서 폐지 대신 주 3회 예약 운행을 제안했습니다.\n주민: 그 방식은 확정된 겁니까?\n기획자: 아닙니다. 접근성 검토 뒤 채택 여부를 정하겠습니다.",
+    "cloze": "접근성 검토 뒤 채택 여부를 정하겠습니다",
+    "answer": "접근성 검토 뒤 채택 여부를 정하겠습니다",
+    "accepted_answers": [],
+    "lemma": "정류장 대안 접근성 검토 후 결정",
+    "meaning": "decide whether to adopt the alternative after an accessibility review",
+    "audio": "work/audio/ko-KR/05/ko-05-2394.mp3"
+  },
+  {
+    "id": "ko-05-2395",
+    "sentence": "[구청사 에너지 사용 비교]\n기준 기간: 2025년 7월 / 비교 기간: 2026년 7월\n사용량: 42,600킬로와트시 → 39,900킬로와트시 / 감소율: 6.3퍼센트 / 절감 목표: 5퍼센트\n판정: 계량값 감소 확인·절감 목표 검증 중",
+    "cloze": "계량값 감소 확인·절감 목표 검증 중",
+    "answer": "계량값 감소 확인·절감 목표 검증 중",
+    "accepted_answers": [],
+    "lemma": "청사 계량 감소 절감 목표 검증",
+    "meaning": "metered decrease confirmed; savings target under verification",
+    "audio": "work/audio/ko-KR/05/ko-05-2395.mp3"
+  },
+  {
+    "id": "ko-05-2396",
+    "sentence": "[시장 일회용기 사용 절감 시범]\n대상: 중앙시장 음식점 48곳 / 기간: 9월 1일–30일\n기준: 8월 판매 대장상 하루 평균 1,260개 / 측정: 매일 일회용기 제공 수량 집계\n조치: 다회용기 지원·일회용기 수량 비교",
+    "cloze": "다회용기 지원·일회용기 수량 비교",
+    "answer": "다회용기 지원·일회용기 수량 비교",
+    "accepted_answers": [],
+    "lemma": "시장 일회용기 수량 절감 시범",
+    "meaning": "a reusable-container pilot comparing quantities of disposable containers",
+    "audio": "work/audio/ko-KR/05/ko-05-2396.mp3"
+  },
+  {
+    "id": "ko-05-2397",
+    "sentence": "[저상버스 노선 조정 검토]\n예상 편익: 연간 운영비 3,200만 원 절감\n접근성 영향: 북부 정류장 이용자의 평균 보행 거리 280미터 증가\n결론: 대체 이동 지원 확보 전 노선 축소 보류",
+    "cloze": "대체 이동 지원 확보 전 노선 축소 보류",
+    "answer": "대체 이동 지원 확보 전 노선 축소 보류",
+    "accepted_answers": [],
+    "lemma": "저상버스 이동 지원 전 축소 보류",
+    "meaning": "defer route reduction until alternative mobility support is secured",
+    "audio": "work/audio/ko-KR/05/ko-05-2397.mp3"
+  },
+  {
+    "id": "ko-05-2398",
+    "sentence": "[주민 참여 현황: 하천 정화 활동]\n신청: 186명 / 현장 참여 확인: 142명 / 참여율: 76.3퍼센트\n자료원: 신청 명단·현장 확인 명부 / 서명 지원을 받은 참여자: 6명\n해석: 신청자 기준 참여율로 한정함",
+    "cloze": "신청자 기준 참여율로 한정함",
+    "answer": "신청자 기준 참여율로 한정함",
+    "accepted_answers": [],
+    "lemma": "하천 정화 신청자 참여율 한정",
+    "meaning": "limit the participation rate to registered applicants",
+    "audio": "work/audio/ko-KR/05/ko-05-2398.mp3"
+  },
+  {
+    "id": "ko-05-2399",
+    "sentence": "[공공시설 접근성 개선 시범안]\n설치 대상: 주민센터 5곳 중 경사로가 없는 2곳\n예산 상한: 8,000만 원 / 시범 기간: 2026년 10월–12월\n승인 상태: 복지위원회 의결 전·착공 보류",
+    "cloze": "복지위원회 의결 전·착공 보류",
+    "answer": "복지위원회 의결 전·착공 보류",
+    "accepted_answers": [],
+    "lemma": "접근성 공사 의결 전 착공 보류",
+    "meaning": "construction deferred pending the welfare committee's resolution",
+    "audio": "work/audio/ko-KR/05/ko-05-2399.mp3"
+  },
+  {
+    "id": "ko-05-2400",
+    "sentence": "[야간 수거 시범 결과 및 다음 결정]\n기준: 9월 화·목요일 20:00–22:00 / 비교: 10월 같은 요일·시간\n대상: 남부 3개 동 / 신고: 31건 → 18건 / 인건비: 월 420만 원 증가\n다음 조치: 환경위원회가 주민 의견 수렴 후 연장 여부를 심의함",
+    "cloze": "주민 의견 수렴 후 연장 여부를 심의함",
+    "answer": "주민 의견 수렴 후 연장 여부를 심의함",
+    "accepted_answers": [],
+    "lemma": "야간 수거 주민 의견 후 연장 심의",
+    "meaning": "review an extension after collecting resident feedback",
+    "audio": "work/audio/ko-KR/05/ko-05-2400.mp3"
   }
 ]
