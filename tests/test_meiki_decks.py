@@ -485,7 +485,7 @@ class MeikiDecksTests(unittest.TestCase):
 
     def test_korean_build_uses_current_stage_order_and_names(self):
         self.language = "ko-KR"
-        for stage in ("00", "01", "02", "03", "04"):
+        for stage in ("00", "01", "02", "03", "04", "05"):
             self.stage = stage
             card = self.card(f"ko-{stage}-test")
             self.write_stage([card])
@@ -505,6 +505,7 @@ class MeikiDecksTests(unittest.TestCase):
                 ("deck:ko-KR:02", "Korean 02"),
                 ("deck:ko-KR:03", "Korean 03"),
                 ("deck:ko-KR:04", "Korean 04"),
+                ("deck:ko-KR:05", "Korean 05"),
             ],
         )
 
@@ -516,6 +517,7 @@ class MeikiDecksTests(unittest.TestCase):
             "02": 1_280,
             "03": 2_000,
             "04": 2_400,
+            "05": 2_800,
         }
 
         actual_counts = {
@@ -541,6 +543,24 @@ class MeikiDecksTests(unittest.TestCase):
                     check=False,
                 )
                 self.assertEqual(result.returncode, 0)
+
+    def test_repository_contract_contains_current_stable_rules(self):
+        repository_root = Path(__file__).resolve().parents[1]
+        contract = (repository_root / "AGENTS.md").read_text(encoding="utf-8")
+        required_rules = (
+            "latest explicit `HUMAN → EXECUTOR` instruction",
+            "current `ORCHESTRATOR → EXECUTOR` handoff",
+            "issue and unresolved review feedback",
+            "Apply YAGNI to messages, issues, work, evidence, and validation.",
+            "External, interactive, destructive, publishing, installation, launch, upload",
+            "Use blocking human verification only when objective evidence cannot establish",
+            "authorized external-action state and result",
+            "Fresh content author and reviewer contexts use sequential one-shot Codex CLI",
+        )
+
+        for rule in required_rules:
+            with self.subTest(rule=rule):
+                self.assertIn(rule, contract)
 
 
 if __name__ == "__main__":
