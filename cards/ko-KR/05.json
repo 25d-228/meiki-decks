@@ -24035,5 +24035,405 @@
     "lemma": "야간 수거 주민 의견 후 연장 심의",
     "meaning": "review an extension after collecting resident feedback",
     "audio": "work/audio/ko-KR/05/ko-05-2400.mp3"
+  },
+  {
+    "id": "ko-05-2401",
+    "sentence": "어린이집 이용 안내서에는 주 10시간을 넘는 연장 보육의 예상 돌봄 비용이 월 120,000원으로 적혀 있다. 이 금액은 확정 청구액이 아니며, 서비스를 신청한 가정이 다음 달 고지서를 받은 뒤 낸다.",
+    "cloze": "예상 돌봄 비용",
+    "answer": "예상 돌봄 비용",
+    "accepted_answers": [],
+    "lemma": "예상 돌봄 비용",
+    "meaning": "projected cost of extended childcare",
+    "audio": "work/audio/ko-KR/05/ko-05-2401.mp3"
+  },
+  {
+    "id": "ko-05-2402",
+    "sentence": "출장 정산서에는 직원이 먼저 낸 교통비 86,400원이 기록돼 있다. 회사 규정상 영수증이 있고 100,000원 한도 안에 든 금액은 환급 대상 경비로 분류된다.",
+    "cloze": "환급 대상 경비",
+    "answer": "환급 대상 경비",
+    "accepted_answers": [],
+    "lemma": "경비를 환급받다",
+    "meaning": "work-related expense eligible for reimbursement",
+    "audio": "work/audio/ko-KR/05/ko-05-2402.mp3"
+  },
+  {
+    "id": "ko-05-2403",
+    "sentence": "가계부와 계좌 내역을 합쳐 보니 지난달 실제 지출은 2,140,000원이었다. 이는 가족이 이미 지급한 생활비의 합계이며, 다음 달 예산은 포함하지 않는다.",
+    "cloze": "지난달 실제 지출",
+    "answer": "지난달 실제 지출",
+    "accepted_answers": [],
+    "lemma": "실제 지출을 집계하다",
+    "meaning": "actual spending recorded for the previous month",
+    "audio": "work/audio/ko-KR/05/ko-05-2403.mp3"
+  },
+  {
+    "id": "ko-05-2404",
+    "sentence": "갱신 계약서에는 월세가 30,000원 오른다고 적혀 있다. 회사의 주거 수당으로 그중 20,000원을 충당하므로 가계가 떠안을 부담은 매달 10,000원이다.",
+    "cloze": "가계가 떠안을 부담",
+    "answer": "가계가 떠안을 부담",
+    "accepted_answers": [],
+    "lemma": "부담을 떠안다",
+    "meaning": "the financial obligation the household must bear",
+    "audio": "work/audio/ko-KR/05/ko-05-2404.mp3"
+  },
+  {
+    "id": "ko-05-2405",
+    "sentence": "동영상 구독 해지는 8월 12일에 접수됐지만 현재 처리 중이다. 안내문에는 해지 완료 전 청구가 발생하면 8월 23일까지 고객센터에 답장하라고 적혀 있다.",
+    "cloze": "해지 완료 전 청구",
+    "answer": "해지 완료 전 청구",
+    "accepted_answers": [],
+    "lemma": "해지 완료 전 청구",
+    "meaning": "a charge made before cancellation is completed",
+    "audio": "work/audio/ko-KR/05/ko-05-2405.mp3"
+  },
+  {
+    "id": "ko-05-2406",
+    "sentence": "가격표상 세제 가격은 8% 올랐지만 영수증에는 할인 쿠폰도 적용됐다. 따라서 가격 인상분 전부를 가구의 부담으로 보지 않고, 실제 결제액의 증가분 3,200원만 따로 계산했다.",
+    "cloze": "가격 인상분 전부",
+    "answer": "가격 인상분 전부",
+    "accepted_answers": [],
+    "lemma": "부담액을 따로 계산하다",
+    "meaning": "the entire price increase, distinguished from the household's actual added burden",
+    "audio": "work/audio/ko-KR/05/ko-05-2406.mp3"
+  },
+  {
+    "id": "ko-05-2407",
+    "sentence": "배송 업체는 이틀 지연에 대해 20,000원 상당의 이용권을 제시했다. 그러나 이는 제안 단계의 보상이며, 현금 지급이나 최종 승인이 확정된 것은 아니다.",
+    "cloze": "제안 단계의 보상",
+    "answer": "제안 단계의 보상",
+    "accepted_answers": [],
+    "lemma": "보상을 제안하다",
+    "meaning": "compensation that has only been proposed",
+    "audio": "work/audio/ko-KR/05/ko-05-2407.mp3"
+  },
+  {
+    "id": "ko-05-2408",
+    "sentence": "보증 안내에는 무상 수리와 30,000원을 내는 교체가 함께 제시돼 있다. 고객은 월요일까지 추가 약정이 없는 선택지인 무상 수리를 고르거나 유상 교체를 요청할 수 있다.",
+    "cloze": "추가 약정이 없는 선택지",
+    "answer": "추가 약정이 없는 선택지",
+    "accepted_answers": [],
+    "lemma": "약정 없는 선택지를 고르다",
+    "meaning": "an option that creates no additional contractual commitment",
+    "audio": "work/audio/ko-KR/05/ko-05-2408.mp3"
+  },
+  {
+    "id": "ko-05-2409",
+    "sentence": "도시가스 고지서상 청구액은 74,820원이며 사용 기간은 7월 1일부터 31일까지다. 납부자는 세대주이고, 이 금액은 예상치가 아니라 검침 결과에 따른 이번 달 청구액이다.",
+    "cloze": "고지서상 청구액",
+    "answer": "고지서상 청구액",
+    "accepted_answers": [],
+    "lemma": "청구액을 확인하다",
+    "meaning": "the amount billed on the statement",
+    "audio": "work/audio/ko-KR/05/ko-05-2409.mp3"
+  },
+  {
+    "id": "ko-05-2410",
+    "sentence": "교육 예산표의 예상 비용은 강사료와 장소 대여료를 합쳐 1,800,000원이다. 아직 계약 전이므로 실제 지출은 아니며, 예산 책임자가 8월 20일까지 승인 여부를 정한다.",
+    "cloze": "예산표의 예상 비용",
+    "answer": "예산표의 예상 비용",
+    "accepted_answers": [],
+    "lemma": "예상 비용을 편성하다",
+    "meaning": "a projected cost entered in a budget",
+    "audio": "work/audio/ko-KR/05/ko-05-2410.mp3"
+  },
+  {
+    "id": "ko-05-2411",
+    "sentence": "냉장고 수리 영수증에는 부품값 48,000원과 작업비 35,000원이 적혀 있다. 고객이 현장에서 83,000원을 결제했으므로 이는 이미 발생한 비용이다.",
+    "cloze": "이미 발생한 비용",
+    "answer": "이미 발생한 비용",
+    "accepted_answers": [],
+    "lemma": "비용이 발생하다",
+    "meaning": "a cost that has already been incurred",
+    "audio": "work/audio/ko-KR/05/ko-05-2411.mp3"
+  },
+  {
+    "id": "ko-05-2412",
+    "sentence": "출장자는 숙박비와 교통비를 먼저 결제했다. 회사는 영수증으로 증명한 경비 가운데 규정 한도인 180,000원까지 금요일에 직원 계좌로 돌려준다.",
+    "cloze": "영수증으로 증명한 경비",
+    "answer": "영수증으로 증명한 경비",
+    "accepted_answers": [],
+    "lemma": "경비를 증빙하다",
+    "meaning": "work expenses supported by receipts",
+    "audio": "work/audio/ko-KR/05/ko-05-2412.mp3"
+  },
+  {
+    "id": "ko-05-2413",
+    "sentence": "가계 결산표에는 4월부터 6월까지 카드와 계좌에서 빠져나간 금액만 모았다. 분기 실제 지출은 6,320,000원이며 아직 내지 않은 7월 보험료는 제외했다.",
+    "cloze": "분기 실제 지출",
+    "answer": "분기 실제 지출",
+    "accepted_answers": [],
+    "lemma": "분기 지출을 결산하다",
+    "meaning": "actual outflow during a quarter",
+    "audio": "work/audio/ko-KR/05/ko-05-2413.mp3"
+  },
+  {
+    "id": "ko-05-2414",
+    "sentence": "임대 조건표에 따르면 관리비 90,000원은 매달 임차인이 내야 한다. 이는 단순한 가격 표시가 아니라 계약 기간 동안 계속 지는 임차인의 고정 부담이다.",
+    "cloze": "임차인의 고정 부담",
+    "answer": "임차인의 고정 부담",
+    "accepted_answers": [],
+    "lemma": "고정 부담을 지다",
+    "meaning": "a recurring financial obligation borne by the tenant",
+    "audio": "work/audio/ko-KR/05/ko-05-2414.mp3"
+  },
+  {
+    "id": "ko-05-2415",
+    "sentence": "통신사 변경 안내에는 현재 속도를 유지하는 방법과 데이터 용량을 낮추는 방법이 나와 있다. 두 방법은 모두 이번 달 안에 고를 수 있는 수수료 없는 변경 선택지이며, 고객이 앱에서 직접 선택한다.",
+    "cloze": "수수료 없는 변경 선택지",
+    "answer": "수수료 없는 변경 선택지",
+    "accepted_answers": [],
+    "lemma": "수수료 없는 변경안을 선택하다",
+    "meaning": "a fee-free option for changing the service plan",
+    "audio": "work/audio/ko-KR/05/ko-05-2415.mp3"
+  },
+  {
+    "id": "ko-05-2416",
+    "sentence": "고객은 8월 14일에 월 15,000원 요금제로 낮춰 달라고 요청했다. 계정에는 요금제 변경 예약이 등록돼 있으며 새 요금은 9월 결제일부터 적용된다.",
+    "cloze": "요금제 변경 예약",
+    "answer": "요금제 변경 예약",
+    "accepted_answers": [],
+    "lemma": "요금제 변경을 예약하다",
+    "meaning": "a scheduled subscription-plan change",
+    "audio": "work/audio/ko-KR/05/ko-05-2416.mp3"
+  },
+  {
+    "id": "ko-05-2417",
+    "sentence": "구독 안내서의 해지 접수 기한은 다음 결제일 전날 오후 6시다. 고객은 그 시각까지 앱의 ‘구독 관리’에서 신청하고, 완료 문자를 받지 못하면 고객센터에 문의해야 한다.",
+    "cloze": "해지 접수 기한",
+    "answer": "해지 접수 기한",
+    "accepted_answers": [],
+    "lemma": "해지 기한을 지키다",
+    "meaning": "the deadline for submitting a cancellation",
+    "audio": "work/audio/ko-KR/05/ko-05-2417.mp3"
+  },
+  {
+    "id": "ko-05-2418",
+    "sentence": "배송 기록상 약속한 날짜보다 사흘 늦게 도착한 사실이 확인됐다. 업체가 승인한 지연 보상은 배송비 8,000원 환급이며, 지급일은 8월 22일이다.",
+    "cloze": "승인한 지연 보상",
+    "answer": "승인한 지연 보상",
+    "accepted_answers": [],
+    "lemma": "지연 보상을 승인하다",
+    "meaning": "compensation formally approved for a delay",
+    "audio": "work/audio/ko-KR/05/ko-05-2418.mp3"
+  },
+  {
+    "id": "ko-05-2419",
+    "sentence": "상담원은 제품 흠집에 대해 30,000원 환급안을 제시했다. 검토 중인 보상안이므로 고객이 동의했더라도 담당 팀의 승인 전에는 지급되지 않는다.",
+    "cloze": "검토 중인 보상안",
+    "answer": "검토 중인 보상안",
+    "accepted_answers": [],
+    "lemma": "보상안을 검토하다",
+    "meaning": "a compensation proposal still under review",
+    "audio": "work/audio/ko-KR/05/ko-05-2419.mp3"
+  },
+  {
+    "id": "ko-05-2420",
+    "sentence": "정전 보상 안내는 6시간 이상 서비스를 이용하지 못한 가입 세대에 적용된다. 가구당 보상 한도는 50,000원이며 한 세대가 여러 계정을 가져도 한 번만 지급된다.",
+    "cloze": "가구당 보상 한도",
+    "answer": "가구당 보상 한도",
+    "accepted_answers": [],
+    "lemma": "보상 한도를 적용하다",
+    "meaning": "the maximum compensation allowed per household",
+    "audio": "work/audio/ko-KR/05/ko-05-2420.mp3"
+  },
+  {
+    "id": "ko-05-2421",
+    "sentence": "부서에는 장비 예산 3,000,000원이 남아 있다. 예산 책임자의 선택은 기존 기기 수리이며, 구매팀은 그 결정 범위 안에서만 8월 25일까지 수리 업체와 계약할 수 있다.",
+    "cloze": "예산 책임자의 선택",
+    "answer": "예산 책임자의 선택",
+    "accepted_answers": [],
+    "lemma": "예산 선택권을 행사하다",
+    "meaning": "the choice made by the person who controls the budget",
+    "audio": "work/audio/ko-KR/05/ko-05-2421.mp3"
+  },
+  {
+    "id": "ko-05-2422",
+    "sentence": "관리비 고지서에 이의가 있으면 납부일인 8월 28일 전까지 세대 번호와 항목명을 적어야 한다. 이의 회신 경로는 관리사무소 이메일이며, 전화 상담만으로는 정정 요청이 접수되지 않는다.",
+    "cloze": "이의 회신 경로",
+    "answer": "이의 회신 경로",
+    "accepted_answers": [],
+    "lemma": "이의를 서면으로 회신하다",
+    "meaning": "the designated response channel for disputing a bill",
+    "audio": "work/audio/ko-KR/05/ko-05-2422.mp3"
+  },
+  {
+    "id": "ko-05-2423",
+    "sentence": "우유의 표시 가격은 한 팩당 500원 올랐다. 그러나 가족은 할인 묶음 상품 두 세트를 샀으므로 영수증에서 확인되는 실제 추가 부담액은 모두 1,200원이다.",
+    "cloze": "실제 추가 부담액",
+    "answer": "실제 추가 부담액",
+    "accepted_answers": [],
+    "lemma": "추가 부담액을 확인하다",
+    "meaning": "the actual additional amount borne after discounts",
+    "audio": "work/audio/ko-KR/05/ko-05-2423.mp3"
+  },
+  {
+    "id": "ko-05-2424",
+    "sentence": "복합기 임대안은 월 42,000원이고 수리비가 포함된다. 구매안은 기기값 820,000원에 예상 유지비 260,000원이 더해지므로 2년 기준 총비용으로 두 안을 비교해야 한다.",
+    "cloze": "2년 기준 총비용",
+    "answer": "2년 기준 총비용",
+    "accepted_answers": [],
+    "lemma": "총비용으로 비교하다",
+    "meaning": "total cost calculated over a two-year comparison period",
+    "audio": "work/audio/ko-KR/05/ko-05-2424.mp3"
+  },
+  {
+    "id": "ko-05-2425",
+    "sentence": "행사 정산표에는 장소 대여료, 운송료, 직원 교통비가 나뉘어 있다. 이 가운데 영수증이 제출된 540,000원만 행사 운영 경비로 회계 담당자에게 보고된다.",
+    "cloze": "행사 운영 경비",
+    "answer": "행사 운영 경비",
+    "accepted_answers": [],
+    "lemma": "운영 경비를 정산하다",
+    "meaning": "accounted expenses used to run an event",
+    "audio": "work/audio/ko-KR/05/ko-05-2425.mp3"
+  },
+  {
+    "id": "ko-05-2426",
+    "sentence": "서비스 담당자는 8월 이용료 환급과 구독 종료를 모두 확인했다. 담당자는 확인 메일에 ‘추가 청구를 하지 않겠습니다’라고 쓰고 같은 날 오후 5시까지 고객에게 보내기로 했다.",
+    "cloze": "추가 청구를 하지 않겠습니다",
+    "answer": "추가 청구를 하지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "추가 청구를 하지 않다",
+    "meaning": "a commitment that no further charge will be made",
+    "audio": "work/audio/ko-KR/05/ko-05-2426.mp3"
+  },
+  {
+    "id": "ko-05-2427",
+    "sentence": "고객: 전기요금은 이미 낸 건가요?\n상담원: 8월 고지서에는 납부 완료로 표시돼 있습니다.\n고객: 어느 계좌에서 빠져나갔나요?\n상담원: 등록된 배우자 계좌에서 납부됐고, 납부일은 8월 13일입니다.",
+    "cloze": "배우자 계좌에서 납부",
+    "answer": "배우자 계좌에서 납부",
+    "accepted_answers": [],
+    "lemma": "등록 계좌에서 납부하다",
+    "meaning": "payment made from the spouse's registered account",
+    "audio": "work/audio/ko-KR/05/ko-05-2427.mp3"
+  },
+  {
+    "id": "ko-05-2428",
+    "sentence": "팀장: 예산표의 650,000원은 이미 쓴 금액입니까?\n담당자: 아니요, 아직 예상 비용입니다.\n팀장: 산출 근거는 무엇입니까?\n담당자: 두 업체의 견적서를 바탕으로 계산했고, 최종 선택은 팀장님이 금요일에 하십니다.",
+    "cloze": "아직 예상 비용입니다",
+    "answer": "아직 예상 비용입니다",
+    "accepted_answers": [],
+    "lemma": "예상 비용으로 남다",
+    "meaning": "it is still a projected cost, not incurred spending",
+    "audio": "work/audio/ko-KR/05/ko-05-2428.mp3"
+  },
+  {
+    "id": "ko-05-2429",
+    "sentence": "직원: 출장 택시비 32,000원은 제가 계속 부담하나요?\n회계 담당자: 영수증과 방문 기록이 있으면 회사에서 돌려드립니다.\n직원: 한도가 있습니까?\n회계 담당자: 하루 40,000원까지이며 목요일 정오까지 정산서에 올려 주세요.",
+    "cloze": "회사에서 돌려드립니다",
+    "answer": "회사에서 돌려드립니다",
+    "accepted_answers": [],
+    "lemma": "회사가 경비를 돌려주다",
+    "meaning": "the company reimburses the work expense",
+    "audio": "work/audio/ko-KR/05/ko-05-2429.mp3"
+  },
+  {
+    "id": "ko-05-2430",
+    "sentence": "고객: 어제 요청한 음악 구독 해지는 아직 처리 중인가요?\n상담원: 오늘 오전 10시에 해지가 완료됐습니다.\n고객: 다음 결제일에도 돈이 빠져나가나요?\n상담원: 아닙니다. 완료 확인서를 오늘 오후에 이메일로 보내 드리겠습니다.",
+    "cloze": "해지가 완료됐습니다",
+    "answer": "해지가 완료됐습니다",
+    "accepted_answers": [],
+    "lemma": "구독 해지가 완료되다",
+    "meaning": "the subscription cancellation has been completed",
+    "audio": "work/audio/ko-KR/05/ko-05-2430.mp3"
+  },
+  {
+    "id": "ko-05-2431",
+    "sentence": "고객: 상담원이 말한 20,000원 보상은 확정됐나요?\n담당자: 아직 승인 전입니다.\n고객: 무엇을 기준으로 검토합니까?\n담당자: 배송 기록의 48시간 초과 여부를 확인한 뒤 금요일까지 문자로 결과를 알려 드립니다.",
+    "cloze": "아직 승인 전입니다",
+    "answer": "아직 승인 전입니다",
+    "accepted_answers": [],
+    "lemma": "보상 승인을 기다리다",
+    "meaning": "the compensation has not yet been approved",
+    "audio": "work/audio/ko-KR/05/ko-05-2431.mp3"
+  },
+  {
+    "id": "ko-05-2432",
+    "sentence": "고객: 가족 요금제가 비싸져서 다른 상품으로 바꾸고 싶습니다.\n직원: 이번 달에는 위약금 없는 변경이 가능합니다.\n고객: 기본형과 소형 중에서 제가 고를 수 있나요?\n직원: 네. 8월 24일까지 앱에서 선택하면 다음 결제일부터 적용됩니다.",
+    "cloze": "위약금 없는 변경",
+    "answer": "위약금 없는 변경",
+    "accepted_answers": [],
+    "lemma": "위약금 없이 변경하다",
+    "meaning": "a plan change with no cancellation penalty",
+    "audio": "work/audio/ko-KR/05/ko-05-2432.mp3"
+  },
+  {
+    "id": "ko-05-2433",
+    "sentence": "입주자: 보수비 120,000원을 제가 모두 내야 합니까?\n관리 직원: 계약서상 공용 배관 수리는 관리사무소가 냅니다.\n입주자: 그러면 제가 부담하는 금액은 얼마입니까?\n관리 직원: 세대 안쪽 부품값 20,000원만 입주자 부담입니다.",
+    "cloze": "제가 부담하는 금액",
+    "answer": "제가 부담하는 금액",
+    "accepted_answers": [],
+    "lemma": "부담 주체를 확인하다",
+    "meaning": "the amount the speaker is financially responsible for",
+    "audio": "work/audio/ko-KR/05/ko-05-2433.mp3"
+  },
+  {
+    "id": "ko-05-2434",
+    "sentence": "직원: 행사비를 400,000원 늘려도 됩니까?\n팀장: 예산 담당자가 결정합니다.\n직원: 언제까지 자료를 보내야 합니까?\n팀장: 오늘 오후 4시까지 견적서를 이메일로 보내면 담당자가 내일 정오까지 답합니다.",
+    "cloze": "예산 담당자가 결정합니다",
+    "answer": "예산 담당자가 결정합니다",
+    "accepted_answers": [],
+    "lemma": "예산 담당자가 결정하다",
+    "meaning": "the authorized budget owner makes the decision",
+    "audio": "work/audio/ko-KR/05/ko-05-2434.mp3"
+  },
+  {
+    "id": "ko-05-2435",
+    "sentence": "[7월 전기요금 고지서]\n사용 기간: 7월 1일–31일\n기본요금: 7,300원\n사용요금: 58,420원\n세금·기금: 6,570원\n이번 달 납부액: 72,290원\n납부자: 105동 702호 계약자\n납부 기한: 8월 26일",
+    "cloze": "이번 달 납부액",
+    "answer": "이번 달 납부액",
+    "accepted_answers": [],
+    "lemma": "월 납부액",
+    "meaning": "the amount due for the current billing month",
+    "audio": "work/audio/ko-KR/05/ko-05-2435.mp3"
+  },
+  {
+    "id": "ko-05-2436",
+    "sentence": "[8월 가계 예산 점검]\n월 식료품 예산: 550,000원\n식료품 실제 지출: 584,300원\n남은 기간 배달 예상 비용: 90,000원\n지출 기록 기간: 8월 1일–15일\n예산 책임자 선택: 남은 기간 배달 주문은 두 번으로 제한\n결정일: 8월 16일",
+    "cloze": "식료품 실제 지출",
+    "answer": "식료품 실제 지출",
+    "accepted_answers": [],
+    "lemma": "식료품 지출을 기록하다",
+    "meaning": "actual household spending on groceries",
+    "audio": "work/audio/ko-KR/05/ko-05-2436.mp3"
+  },
+  {
+    "id": "ko-05-2437",
+    "sentence": "[가족 구독 상품 비교]\n월 결제: 16,500원\n연간 결제 총액: 178,200원\n이용 인원: 최대 4명\n연간 결제 할인율: 10%\n해지 기한: 갱신일 3일 전\n현재 상태: 월 결제 유지\n변경 권한: 계정 소유자",
+    "cloze": "연간 결제 총액",
+    "answer": "연간 결제 총액",
+    "accepted_answers": [],
+    "lemma": "연간 결제액을 비교하다",
+    "meaning": "the total amount charged under annual billing",
+    "audio": "work/audio/ko-KR/05/ko-05-2437.mp3"
+  },
+  {
+    "id": "ko-05-2438",
+    "sentence": "[출장 경비 정산서]\n열차: 59,800원\n숙박: 120,000원\n식사: 24,000원\n식사 인정 한도: 20,000원\n환급 가능한 출장 경비: 199,800원\n선결제자: 직원 김민호\n지급 예정일: 8월 23일",
+    "cloze": "환급 가능한 출장 경비",
+    "answer": "환급 가능한 출장 경비",
+    "accepted_answers": [],
+    "lemma": "출장 경비 환급액",
+    "meaning": "business-trip expenses that qualify for reimbursement",
+    "audio": "work/audio/ko-KR/05/ko-05-2438.mp3"
+  },
+  {
+    "id": "ko-05-2439",
+    "sentence": "[배송 지연 보상 통지]\n주문 금액: 268,000원\n유료 배송비: 15,000원\n지연 시간: 56시간\n보상 기준: 48시간 초과 지연\n상담 제안: 이용권 20,000원\n확정된 보상액: 배송비 15,000원 환급\n지급일: 8월 22일",
+    "cloze": "확정된 보상액",
+    "answer": "확정된 보상액",
+    "accepted_answers": [],
+    "lemma": "보상액을 확정하다",
+    "meaning": "the compensation amount formally approved for payment",
+    "audio": "work/audio/ko-KR/05/ko-05-2439.mp3"
+  },
+  {
+    "id": "ko-05-2440",
+    "sentence": "[정수기 요금제 비교표]\n선택 A: 월 19,900원·설치비 0원·최소 12개월\n선택 B: 월 16,900원·설치비 39,000원·최소 12개월\nA의 첫해 총액: 238,800원\nB의 첫해 총액: 241,800원\n가구의 첫해 부담: A가 3,000원 적음\n선택 기한: 8월 21일",
+    "cloze": "가구의 첫해 부담",
+    "answer": "가구의 첫해 부담",
+    "accepted_answers": [],
+    "lemma": "첫해 부담을 비교하다",
+    "meaning": "the household's contractual financial burden during the first year",
+    "audio": "work/audio/ko-KR/05/ko-05-2440.mp3"
   }
 ]
