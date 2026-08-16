@@ -24835,5 +24835,405 @@
     "lemma": "위원회 발표 날짜와 채널을 공지하다",
     "meaning": "announcement date: September 18, 2026",
     "audio": "work/audio/ko-KR/05/ko-05-2480.mp3"
+  },
+  {
+    "id": "ko-05-2481",
+    "sentence": "구청의 접근성 점검에서 동네 강좌 신청률은 가람동 주민 240명 중 36명(15%), 누리동 주민 220명 중 11명(5%)으로 달랐습니다. 그러나 교통편과 운영 시간은 아직 비교하지 않았습니다. 따라서 관찰된 차이만으로 격차라 할 수 없습니다.",
+    "cloze": "관찰된 차이만으로 격차라 할 수 없습니다",
+    "answer": "관찰된 차이만으로 격차라 할 수 없습니다",
+    "accepted_answers": [],
+    "lemma": "관찰 차이와 접근 격차를 판별하다",
+    "meaning": "an observed difference alone does not establish an access disparity",
+    "audio": "work/audio/ko-KR/05/ko-05-2481.mp3"
+  },
+  {
+    "id": "ko-05-2482",
+    "sentence": "주민위원회 정원 10명 중 동부 지역 위원은 1명이고 서부 지역 위원은 6명입니다. 주민등록 집계상 동부와 서부의 인구 비중은 각각 40%와 35%이므로 인구 비중에 견준 구성 불균형입니다. 다만 이 자료만으로 실제 영향력까지 판단할 수는 없습니다.",
+    "cloze": "인구 비중에 견준 구성 불균형입니다",
+    "answer": "인구 비중에 견준 구성 불균형입니다",
+    "accepted_answers": [],
+    "lemma": "인구 비중으로 위원 구성을 평가하다",
+    "meaning": "a composition imbalance relative to population shares",
+    "audio": "work/audio/ko-KR/05/ko-05-2482.mp3"
+  },
+  {
+    "id": "ko-05-2483",
+    "sentence": "주말 하천 정화 행사의 등록부와 출석부를 대조한 결과, 등록자 84명 중 63명이 7월 12일 현장에 왔습니다. 이 자료에서는 한 차례 행사 참가만 확인됩니다. 정기 회의나 후속 의견 제출을 포함한 지속적인 참여 여부는 알 수 없습니다.",
+    "cloze": "한 차례 행사 참가만 확인됩니다",
+    "answer": "한 차례 행사 참가만 확인됩니다",
+    "accepted_answers": [],
+    "lemma": "행사 참가와 지속 참여를 구별하다",
+    "meaning": "confirmation of attendance at one defined event only",
+    "audio": "work/audio/ko-KR/05/ko-05-2483.mp3"
+  },
+  {
+    "id": "ko-05-2484",
+    "sentence": "생활권 조정 협의록에는 주민 대표들이 자문회의에서 세 가지 의견을 낸 사실이 기록돼 있습니다. 최종안을 고르거나 예산을 승인하는 권한은 시청 국장에게 있었습니다. 따라서 기록은 자문 범위의 관여만 보여 줍니다.",
+    "cloze": "자문 범위의 관여만 보여 줍니다",
+    "answer": "자문 범위의 관여만 보여 줍니다",
+    "accepted_answers": [],
+    "lemma": "자문 역할의 관여 범위를 한정하다",
+    "meaning": "involvement limited to an advisory role",
+    "audio": "work/audio/ko-KR/05/ko-05-2484.mp3"
+  },
+  {
+    "id": "ko-05-2485",
+    "sentence": "도서관은 등록 이용자 1,200명에게 만족도 설문을 보냈고 276명이 답했습니다. 보고서의 만족 응답 196명(71%)은 초대 인원이 아니라 응답자 비율입니다. 무응답자의 평가는 이 수치에 포함되지 않습니다.",
+    "cloze": "초대 인원이 아니라 응답자 비율입니다",
+    "answer": "초대 인원이 아니라 응답자 비율입니다",
+    "accepted_answers": [],
+    "lemma": "조사 초대 규모와 응답 비율을 분리하다",
+    "meaning": "a percentage of respondents, not of everyone invited",
+    "audio": "work/audio/ko-KR/05/ko-05-2485.mp3"
+  },
+  {
+    "id": "ko-05-2486",
+    "sentence": "주민위원 12명 중 북부 생활권 위원은 4명이고 중앙 생활권 위원은 3명입니다. 전체 주민 중 두 지역의 인구 비중은 각각 20%와 45%입니다. 대표 구성을 평가하려면 위원 수와 인구 비중을 함께 봐야 합니다. 이 비교만으로 발언권의 크기는 알 수 없습니다.",
+    "cloze": "위원 수와 인구 비중을 함께 봐야 합니다",
+    "answer": "위원 수와 인구 비중을 함께 봐야 합니다",
+    "accepted_answers": [],
+    "lemma": "위원 수와 지역 인구 비중을 함께 해석하다",
+    "meaning": "consider committee counts together with population shares",
+    "audio": "work/audio/ko-KR/05/ko-05-2486.mp3"
+  },
+  {
+    "id": "ko-05-2487",
+    "sentence": "공청회 안내는 모든 등록 가구에 같은 누리집 주소로 발송됐습니다. 접근성 점검에서는 화면 낭독 기능을 쓰는 주민이 신청 항목을 확인하기 어려운 것으로 나타났습니다. 실제로 신청할 수 있는지가 공정성 기준이라면 같은 안내만으로 공정하다고 볼 수 없습니다.",
+    "cloze": "같은 안내만으로 공정하다고 볼 수 없습니다",
+    "answer": "같은 안내만으로 공정하다고 볼 수 없습니다",
+    "accepted_answers": [],
+    "lemma": "접근 가능성을 공정성 기준에 넣다",
+    "meaning": "identical notice does not ensure fairness when access differs",
+    "audio": "work/audio/ko-KR/05/ko-05-2487.mp3"
+  },
+  {
+    "id": "ko-05-2488",
+    "sentence": "청년 대표는 자문위원 12명 중 5명으로 집계됐습니다. 그러나 회의 규정상 안건 제안권은 위원장에게만 있고 청년 대표들의 발언 시간도 합쳐서 10분입니다. 대표 수만으로 발언권은 보장되지 않습니다.",
+    "cloze": "대표 수만으로 발언권은 보장되지 않습니다",
+    "answer": "대표 수만으로 발언권은 보장되지 않습니다",
+    "accepted_answers": [],
+    "lemma": "대표 인원과 발언권을 구별하다",
+    "meaning": "numerical representation alone does not guarantee speaking rights",
+    "audio": "work/audio/ko-KR/05/ko-05-2488.mp3"
+  },
+  {
+    "id": "ko-05-2489",
+    "sentence": "복지관 접근성 점검에서 출입구 네 곳 중 세 곳에 계단만 있는 것으로 확인됐습니다. 관장 승인을 받아 시설팀이 9월 12일까지 단차 없는 출입구를 한 곳 늘리겠습니다. 공사 일정은 복지관 누리집과 현장 게시판에 알리겠습니다.",
+    "cloze": "단차 없는 출입구를 한 곳 늘리겠습니다",
+    "answer": "단차 없는 출입구를 한 곳 늘리겠습니다",
+    "accepted_answers": [],
+    "lemma": "단차 없는 출입구를 추가로 확보하다",
+    "meaning": "commitment to add one step-free entrance",
+    "audio": "work/audio/ko-KR/05/ko-05-2489.mp3"
+  },
+  {
+    "id": "ko-05-2490",
+    "sentence": "시립상담소의 7월 예약표에서 수어 통역을 신청하지 않은 등록 이용자 40명에게는 모두 80시간이 열렸지만 수어 통역을 신청한 등록 이용자 40명에게는 24시간만 열렸습니다. 같은 예약 기간과 인원을 기준으로 한 접근 기회의 차이이므로 예약 가능 시간 격차로 보고하겠습니다. 원인은 이 기록만으로 단정하지 않겠습니다.",
+    "cloze": "예약 가능 시간 격차로 보고하겠습니다",
+    "answer": "예약 가능 시간 격차로 보고하겠습니다",
+    "accepted_answers": [],
+    "lemma": "상담 예약 가능 시간의 격차를 보고하다",
+    "meaning": "report a disparity in available appointment hours",
+    "audio": "work/audio/ko-KR/05/ko-05-2490.mp3"
+  },
+  {
+    "id": "ko-05-2491",
+    "sentence": "주민 설문에서 응답자가 각각 60명과 58명인 두 연령대의 선호 장소가 다르게 나타났습니다. 초안은 이를 공정성 문제라고 단정했지만 시설 이용 기회는 조사하지 않았습니다. 검토 뒤 해당 문구를 연령대별 선호 차이로 고쳐 썼습니다.",
+    "cloze": "연령대별 선호 차이로 고쳐 썼습니다",
+    "answer": "연령대별 선호 차이로 고쳐 썼습니다",
+    "accepted_answers": [],
+    "lemma": "중립적 차이를 불공정으로 단정한 문구를 수정하다",
+    "meaning": "revise an unsupported fairness claim as an age-group preference difference",
+    "audio": "work/audio/ko-KR/05/ko-05-2491.mp3"
+  },
+  {
+    "id": "ko-05-2492",
+    "sentence": "임명 명부상 생활위원회 정원 15명 가운데 동부 지역 위원은 1명입니다. 동부 주민이 전체 주민의 32%라는 주민등록 집계를 비교 기준으로 삼아 인구 비중에 견준 지역별 구성 불균형입니다. 이 구성 자료는 위원별 표결 행동까지 설명하지 않습니다.",
+    "cloze": "인구 비중에 견준 지역별 구성 불균형입니다",
+    "answer": "인구 비중에 견준 지역별 구성 불균형입니다",
+    "accepted_answers": [],
+    "lemma": "인구 비중에 견주어 지역별 구성 불균형을 밝히다",
+    "meaning": "a regional composition imbalance relative to population share",
+    "audio": "work/audio/ko-KR/05/ko-05-2492.mp3"
+  },
+  {
+    "id": "ko-05-2493",
+    "sentence": "소식지 구독자 1,000명에게 보낸 자율 설문에는 184명이 응답했습니다. 보고서에서는 응답자 184명의 결과로 한정했습니다. 구독하지 않은 주민과 응답하지 않은 구독자의 의견은 대표하지 않습니다.",
+    "cloze": "응답자 184명의 결과로 한정했습니다",
+    "answer": "응답자 184명의 결과로 한정했습니다",
+    "accepted_answers": [],
+    "lemma": "자발적 설문 결과를 응답자 범위로 제한하다",
+    "meaning": "limit a voluntary survey result to its 184 respondents",
+    "audio": "work/audio/ko-KR/05/ko-05-2493.mp3"
+  },
+  {
+    "id": "ko-05-2494",
+    "sentence": "교통과는 주민 명부에서 전화번호가 등록된 가구 가운데 400가구를 무작위로 뽑아 전화 설문을 진행했습니다. 표집 설명에는 전화번호 미등록 가구가 빠졌음을 밝혔습니다. 응답한 231가구의 결과를 모든 가구의 이동 수요로 확대하지 않았습니다.",
+    "cloze": "전화번호 미등록 가구가 빠졌음을 밝혔습니다",
+    "answer": "전화번호 미등록 가구가 빠졌음을 밝혔습니다",
+    "accepted_answers": [],
+    "lemma": "전화번호 미등록 가구의 표본 제외를 명시하다",
+    "meaning": "state that households without registered telephone numbers were excluded",
+    "audio": "work/audio/ko-KR/05/ko-05-2494.mp3"
+  },
+  {
+    "id": "ko-05-2495",
+    "sentence": "주민 설명회 홍보 기록에는 문자 600건과 우편물 360통을 발송한 사실이 있습니다. 회신 기록에는 참석 의사를 밝힌 주민 192명이 집계됐습니다. 담당자는 발송 건수와 회신 인원을 따로 적었습니다.",
+    "cloze": "발송 건수와 회신 인원을 따로 적었습니다",
+    "answer": "발송 건수와 회신 인원을 따로 적었습니다",
+    "accepted_answers": [],
+    "lemma": "설명회 초대 발송 건수와 회신 인원을 분리 기록하다",
+    "meaning": "record invitation deliveries separately from responding people",
+    "audio": "work/audio/ko-KR/05/ko-05-2495.mp3"
+  },
+  {
+    "id": "ko-05-2496",
+    "sentence": "두 주민센터는 같은 교육 프로그램의 참가자를 서로 다른 방식으로 모집했습니다. 공개 공지만 한 센터에서는 신청자 70명 중 신규 이용자가 12명이었고, 방문 안내를 병행한 센터에서는 신청자 68명 중 신규 이용자가 29명이었습니다. 보고서는 모집 방식별 신청자 구성을 비교했습니다. 이 자료만으로 모집 방식이 차이를 일으켰다고 단정하지 않았습니다.",
+    "cloze": "모집 방식별 신청자 구성을 비교했습니다",
+    "answer": "모집 방식별 신청자 구성을 비교했습니다",
+    "accepted_answers": [],
+    "lemma": "모집 방식별 신청자 구성을 비교하다",
+    "meaning": "compare applicant composition by recruitment method",
+    "audio": "work/audio/ko-KR/05/ko-05-2496.mp3"
+  },
+  {
+    "id": "ko-05-2497",
+    "sentence": "시민 강좌 출석부에서는 등록자 90명 중 74명이 여섯 회 이상 출석했습니다. 활동 기록지는 열두 회 중 여섯 회의 질문과 제안만 담고 있습니다. 평가자는 출석만으로 참여 수준을 판단하지 않았습니다.",
+    "cloze": "출석만으로 참여 수준을 판단하지 않았습니다",
+    "answer": "출석만으로 참여 수준을 판단하지 않았습니다",
+    "accepted_answers": [],
+    "lemma": "출석 여부와 과정 참여 수준을 분리 평가하다",
+    "meaning": "avoid judging broader participation from attendance alone",
+    "audio": "work/audio/ko-KR/05/ko-05-2497.mp3"
+  },
+  {
+    "id": "ko-05-2498",
+    "sentence": "주민 48명이 보행로 계획 협의회에서 의견을 냈고 회의록에는 채택된 제안 두 건이 표시돼 있습니다. 최종 노선은 예산 권한을 가진 도시국장이 정했습니다. 보고서에는 주민에게 결정권이 있다고 쓰지 않았습니다.",
+    "cloze": "주민에게 결정권이 있다고 쓰지 않았습니다",
+    "answer": "주민에게 결정권이 있다고 쓰지 않았습니다",
+    "accepted_answers": [],
+    "lemma": "주민 협의와 행정 결정 권한을 분리 서술하다",
+    "meaning": "do not misstate consultation as resident decision authority",
+    "audio": "work/audio/ko-KR/05/ko-05-2498.mp3"
+  },
+  {
+    "id": "ko-05-2499",
+    "sentence": "위원 명부에는 세 생활권 대표가 각각 두 명씩 포함돼 있습니다. 지난 네 차례 회의록에서는 위원장이 전체 발언 시간의 절반을 사용했고 대표별 발언 시간도 달랐습니다. 설명 자료에서는 의석 수와 발언 시간을 따로 설명했습니다.",
+    "cloze": "의석 수와 발언 시간을 따로 설명했습니다",
+    "answer": "의석 수와 발언 시간을 따로 설명했습니다",
+    "accepted_answers": [],
+    "lemma": "대표 의석과 실제 발언 시간을 대조 설명하다",
+    "meaning": "explain representative seats separately from actual speaking time",
+    "audio": "work/audio/ko-KR/05/ko-05-2499.mp3"
+  },
+  {
+    "id": "ko-05-2500",
+    "sentence": "복지 서비스 기록에서 노선버스가 운행하지 않는 세 마을의 주민 27명이 지난달 예약 상담을 놓친 것으로 확인됐습니다. 복지관장 승인을 받아 상담팀이 이동 상담 창구를 9월 3일부터 운영합니다. 매주 방문 장소는 마을 방송과 문자로 전날 알리겠습니다.",
+    "cloze": "이동 상담 창구를 9월 3일부터 운영합니다",
+    "answer": "이동 상담 창구를 9월 3일부터 운영합니다",
+    "accepted_answers": [],
+    "lemma": "대중교통 미운행 지역에서 이동 상담 창구를 운영하다",
+    "meaning": "operate a mobile counseling desk from September 3",
+    "audio": "work/audio/ko-KR/05/ko-05-2500.mp3"
+  },
+  {
+    "id": "ko-05-2501",
+    "sentence": "출석부에서는 오전 회차에 교대 근무자 18명 중 5명, 저녁 회차에 18명 중 13명이 참가했습니다. 면담 기록에서도 고정된 오전 시간이 장벽이라는 의견이 반복됐지만 면담에 자발적으로 응한 사람은 11명뿐입니다. 기획팀은 시범 운영안으로 오전·저녁 회차를 번갈아 열도록 권고합니다. 센터장이 금요일에 시행 여부를 결정합니다.",
+    "cloze": "오전·저녁 회차를 번갈아 열도록 권고합니다",
+    "answer": "오전·저녁 회차를 번갈아 열도록 권고합니다",
+    "accepted_answers": [],
+    "lemma": "생활 시간대를 고려한 교대 회차를 권고하다",
+    "meaning": "recommend alternating morning and evening sessions",
+    "audio": "work/audio/ko-KR/05/ko-05-2501.mp3"
+  },
+  {
+    "id": "ko-05-2502",
+    "sentence": "같은 긴급도와 신청 절차를 적용한 돌봄 상담 기록에서 주간 상담 신청자의 평균 대기는 4일, 야간 상담 신청자의 평균 대기는 11일이었습니다. 같은 서비스를 이용하는 데 걸린 시간이 달라 야간 상담 신청자의 대기 격차로 봤습니다. 원인은 별도 점검 전까지 단정하지 않겠습니다.",
+    "cloze": "야간 상담 신청자의 대기 격차로 봤습니다",
+    "answer": "야간 상담 신청자의 대기 격차로 봤습니다",
+    "accepted_answers": [],
+    "lemma": "야간 상담 신청자의 대기 격차를 판단하다",
+    "meaning": "identify a waiting-time disparity for evening counseling applicants",
+    "audio": "work/audio/ko-KR/05/ko-05-2502.mp3"
+  },
+  {
+    "id": "ko-05-2503",
+    "sentence": "주민 설문 응답자 320명 가운데 프로그램 참여 횟수가 많은 집단에서 정책 안내 정답률도 높았습니다. 나이와 사전 지식은 조사하지 않았으므로 두 결과의 관련성만 보고했습니다. 참여가 이해도를 높였다는 원인 설명은 제시하지 않았습니다.",
+    "cloze": "두 결과의 관련성만 보고했습니다",
+    "answer": "두 결과의 관련성만 보고했습니다",
+    "accepted_answers": [],
+    "lemma": "참여 빈도와 정보 이해의 관련성만 보고하다",
+    "meaning": "report only an association between participation frequency and understanding",
+    "audio": "work/audio/ko-KR/05/ko-05-2503.mp3"
+  },
+  {
+    "id": "ko-05-2504",
+    "sentence": "공공 체육관 현장 설문에는 지난달 방문자 1,500명 중 안내대에서 자원한 96명이 응답했습니다. 응답자 96명 중 71명이 저녁 운영 연장을 원했지만 비방문자와 무응답 방문자는 조사하지 않았습니다. 보고서는 이를 전체 이용자의 뜻으로 넓히지 않았습니다.",
+    "cloze": "전체 이용자의 뜻으로 넓히지 않았습니다",
+    "answer": "전체 이용자의 뜻으로 넓히지 않았습니다",
+    "accepted_answers": [],
+    "lemma": "편의 표본 의견을 전체 이용자에게 일반화하지 않다",
+    "meaning": "do not generalize a convenience sample to all users",
+    "audio": "work/audio/ko-KR/05/ko-05-2504.mp3"
+  },
+  {
+    "id": "ko-05-2505",
+    "sentence": "지역 설명회 신청자는 150명이고 출석부로 확인된 참가자는 108명입니다. 이후 제안 창구에 의견을 낸 사람은 37명이며 이 기록은 설명회 출석과 다른 활동을 측정합니다. 담당자는 설명회 참가와 후속 참여를 따로 셌습니다.",
+    "cloze": "설명회 참가와 후속 참여를 따로 셌습니다",
+    "answer": "설명회 참가와 후속 참여를 따로 셌습니다",
+    "accepted_answers": [],
+    "lemma": "설명회 참가 인원과 후속 의견 참여를 분리 집계하다",
+    "meaning": "count event attendance separately from later participation",
+    "audio": "work/audio/ko-KR/05/ko-05-2505.mp3"
+  },
+  {
+    "id": "ko-05-2506",
+    "sentence": "접근성 점검에서 주민센터 여덟 곳 중 세 곳의 복지 안내문에 큰 글씨 자료 신청 방법이 빠진 것으로 확인됐습니다. 승인된 수정안에 따라 복지과가 9월 15일까지 안내를 고칩니다. 새 안내는 누리집과 각 센터의 게시판에 함께 게시합니다.",
+    "cloze": "복지과가 9월 15일까지 안내를 고칩니다",
+    "answer": "복지과가 9월 15일까지 안내를 고칩니다",
+    "accepted_answers": [],
+    "lemma": "복지과가 접근성 안내를 기한 내 수정하다",
+    "meaning": "the welfare division will correct the accessibility notice by September 15",
+    "audio": "work/audio/ko-KR/05/ko-05-2506.mp3"
+  },
+  {
+    "id": "ko-05-2507",
+    "sentence": "기획자: 설명회 초대장을 500명에게 보냈고 신청자는 125명, 출석자는 90명입니다.\n검토자: 보고서의 ‘신청자 대비 참가율’은 90명을 무엇으로 나눕니까?\n기획자: 분모는 초대 인원이 아니라 신청자 수입니다.\n검토자: 그러면 72%로 쓰고 초대에 대한 응답률과는 구분해 주세요.",
+    "cloze": "분모는 초대 인원이 아니라 신청자 수입니다",
+    "answer": "분모는 초대 인원이 아니라 신청자 수입니다",
+    "accepted_answers": [],
+    "lemma": "참가율 계산의 신청자 수 분모를 확인하다",
+    "meaning": "the denominator is the number of applicants, not invitees",
+    "audio": "work/audio/ko-KR/05/ko-05-2507.mp3"
+  },
+  {
+    "id": "ko-05-2508",
+    "sentence": "팀장: 주민 68명이 사업에 참여했다고 보고해도 됩니까?\n담당자: 그 수치는 설명회 참가만 가리킵니다.\n팀장: 이후 의견 제출이나 위원회 활동도 포함합니까?\n담당자: 아닙니다. 후속 참여는 의견 접수 기록에서 별도로 집계해야 합니다.",
+    "cloze": "그 수치는 설명회 참가만 가리킵니다",
+    "answer": "그 수치는 설명회 참가만 가리킵니다",
+    "accepted_answers": [],
+    "lemma": "설명회 참가 수치의 활동 범위를 확인하다",
+    "meaning": "the figure refers only to attendance at the briefing event",
+    "audio": "work/audio/ko-KR/05/ko-05-2508.mp3"
+  },
+  {
+    "id": "ko-05-2509",
+    "sentence": "주민: 생활권 대표가 위원 12명 중 6명이면 결정 권한도 절반입니까?\n간사: 위원 수와 표결권은 별개입니다.\n주민: 대표들의 역할은 어디까지입니까?\n간사: 자문 의견을 내고 안건을 제안할 수 있지만 최종 표결권은 상임위원 네 명에게 있습니다.",
+    "cloze": "위원 수와 표결권은 별개입니다",
+    "answer": "위원 수와 표결권은 별개입니다",
+    "accepted_answers": [],
+    "lemma": "위원회 대표 인원과 표결 권한을 분리하다",
+    "meaning": "committee headcount is separate from voting authority",
+    "audio": "work/audio/ko-KR/05/ko-05-2509.mp3"
+  },
+  {
+    "id": "ko-05-2510",
+    "sentence": "과장: 온라인 설문 응답자 212명의 결과를 전체 2,000가구에 적용해도 됩니까?\n조사원: 비응답 가구까지 일반화할 수 없습니다.\n과장: 이메일 미등록 가구에도 참여 기회가 있었습니까?\n조사원: 아닙니다. 이메일 초대에 응한 가구만 포함했으므로 모집 범위도 한계에 적겠습니다.",
+    "cloze": "비응답 가구까지 일반화할 수 없습니다",
+    "answer": "비응답 가구까지 일반화할 수 없습니다",
+    "accepted_answers": [],
+    "lemma": "응답자 결과를 비응답 가구에 일반화하지 않다",
+    "meaning": "the respondent result cannot be generalized to nonresponding households",
+    "audio": "work/audio/ko-KR/05/ko-05-2510.mp3"
+  },
+  {
+    "id": "ko-05-2511",
+    "sentence": "위원: 지난달 상담 기록의 두 집단 중 어느 집단이 더 오래 기다렸습니까?\n분석 담당자: 야간 근무자가 더 오래 기다렸습니다.\n위원: 평균 대기 기간은 어떻게 달랐습니까?\n분석 담당자: 야간 근무자는 14일, 주간 근무자는 5일이었지만 원인은 기록만으로 알 수 없습니다.",
+    "cloze": "야간 근무자가 더 오래 기다렸습니다",
+    "answer": "야간 근무자가 더 오래 기다렸습니다",
+    "accepted_answers": [],
+    "lemma": "근무 시간대별 상담 대기 기간을 비교하다",
+    "meaning": "night-shift workers waited longer than day-shift workers",
+    "audio": "work/audio/ko-KR/05/ko-05-2511.mp3"
+  },
+  {
+    "id": "ko-05-2512",
+    "sentence": "센터장: 큰 글씨 자료 신청 전화번호가 안내문에서 빠졌습니다. 누가 수정합니까?\n안내 담당자: 제가 수요일까지 문자 안내를 고치겠습니다.\n센터장: 종이 안내문도 같은 내용으로 바꿀 수 있습니까?\n안내 담당자: 네. 확인된 전화번호를 넣어 목요일 개관 전에 안내대에 놓겠습니다.",
+    "cloze": "제가 수요일까지 문자 안내를 고치겠습니다",
+    "answer": "제가 수요일까지 문자 안내를 고치겠습니다",
+    "accepted_answers": [],
+    "lemma": "접근 안내 수정의 담당자와 기한을 약속하다",
+    "meaning": "a named owner commits to correcting the text notice by Wednesday",
+    "audio": "work/audio/ko-KR/05/ko-05-2512.mp3"
+  },
+  {
+    "id": "ko-05-2513",
+    "sentence": "위원: 두 지역의 신청률이 18%와 11%로 다르면 이용 격차라고 써도 됩니까?\n조사원: 결과 차이이며 아직 격차 판단은 아닙니다.\n위원: 무엇을 더 확인해야 합니까?\n조사원: 지역별 교통편과 모집 방식, 신청 자격이 같은지 확인한 뒤 접근 기회의 불공정을 판단해야 합니다.",
+    "cloze": "결과 차이이며 아직 격차 판단은 아닙니다",
+    "answer": "결과 차이이며 아직 격차 판단은 아닙니다",
+    "accepted_answers": [],
+    "lemma": "측정된 차이와 규범적 격차 판단을 구분하다",
+    "meaning": "an observed result difference is not yet a disparity judgment",
+    "audio": "work/audio/ko-KR/05/ko-05-2513.mp3"
+  },
+  {
+    "id": "ko-05-2514",
+    "sentence": "주민: 자문회의에 참여하면 최종 노선을 저희가 정할 수 있습니까?\n공무원: 자문 참여가 최종 결정권을 주지는 않습니다.\n주민: 그러면 저희 의견은 어떻게 다뤄집니까?\n공무원: 회의록에 제안과 반영 여부를 남기고, 도시국장이 금요일에 결정한 뒤 이메일로 결과를 알립니다.",
+    "cloze": "자문 참여가 최종 결정권을 주지는 않습니다",
+    "answer": "자문 참여가 최종 결정권을 주지는 않습니다",
+    "accepted_answers": [],
+    "lemma": "자문 참여와 최종 결정권을 구별하다",
+    "meaning": "participation in consultation does not confer final decision authority",
+    "audio": "work/audio/ko-KR/05/ko-05-2514.mp3"
+  },
+  {
+    "id": "ko-05-2515",
+    "sentence": "[동부 권역 주민센터 시설 접근성 점검]\n점검 대상: 주민센터 4곳\n점검 기간: 2026년 8월 3일–7일\n단차 없는 출입구 보유: 1곳/4곳\n영향 집단: 휠체어·유아차 이용자\n승인 조치: 해오름센터 북문 경사로 1곳 설치\n책임자·기한: 시설과장·9월 12일\n공지 채널: 구청 누리집·현장 게시판",
+    "cloze": "단차 없는 출입구 보유: 1곳/4곳",
+    "answer": "단차 없는 출입구 보유: 1곳/4곳",
+    "accepted_answers": [],
+    "lemma": "주민센터별 단차 없는 출입구 보유 현황을 기록하다",
+    "meaning": "one of four community centers has a step-free entrance",
+    "audio": "work/audio/ko-KR/05/ko-05-2515.mp3"
+  },
+  {
+    "id": "ko-05-2516",
+    "sentence": "[생활권위원회 구성 보고]\n위원 정원: 10명\n위원 구성: 동부 2명/정원 10명\n비교 기준: 동부 주민 38%·그 밖의 지역 주민 62%\n자료원: 8월 위촉 명부·주민등록 집계\n해석: 인구 비중에 비해 동부 대표가 적음\n한계: 발언 시간·표결 행동은 별도 확인 필요",
+    "cloze": "위원 구성: 동부 2명/정원 10명",
+    "answer": "위원 구성: 동부 2명/정원 10명",
+    "accepted_answers": [],
+    "lemma": "위원회 동부 대표의 정원 대비 구성을 기록하다",
+    "meaning": "committee composition: two eastern representatives among ten seats",
+    "audio": "work/audio/ko-KR/05/ko-05-2516.mp3"
+  },
+  {
+    "id": "ko-05-2517",
+    "sentence": "[공공도서관 이용 설문]\n모집 방법: 등록 이메일 이용자에게 초대 발송\n응답률: 184명/800명(23%)\n조사 기간: 2026년 8월 1일–8일\n제외 집단: 이메일 미등록 이용자·무응답자\n결과 범위: 응답자 184명의 이용 경험\n보고 책임자: 도서관 조사팀장",
+    "cloze": "응답률: 184명/800명(23%)",
+    "answer": "응답률: 184명/800명(23%)",
+    "accepted_answers": [],
+    "lemma": "초대 인원을 분모로 설문 응답률을 계산하다",
+    "meaning": "survey response rate: 184 of 800 invitees, or 23 percent",
+    "audio": "work/audio/ko-KR/05/ko-05-2517.mp3"
+  },
+  {
+    "id": "ko-05-2518",
+    "sentence": "[9월 주민 설명회 참가 보고]\n행사 참가: 신청 150명·출석 108명\n참가율: 신청자 기준 72%\n확인 자료: 신청 명단·현장 출석부\n출석 미확인: 42명\n후속 참여: 의견 제출 37명\n해석: 설명회 참가와 후속 의견 제출을 별도 집계함",
+    "cloze": "행사 참가: 신청 150명·출석 108명",
+    "answer": "행사 참가: 신청 150명·출석 108명",
+    "accepted_answers": [],
+    "lemma": "행사 신청자와 확인된 참가자를 병기하다",
+    "meaning": "event attendance: 108 attendees among 150 applicants",
+    "audio": "work/audio/ko-KR/05/ko-05-2518.mp3"
+  },
+  {
+    "id": "ko-05-2519",
+    "sentence": "[생활 교통 전화 설문 표본]\n모집 틀: 전화번호가 등록된 주민 가구 500곳\n선정 방법: 무작위 추출 200곳\n응답 가구: 126곳\n표본 한계: 전화번호 미등록 가구 제외\n비응답 가구: 74곳\n해석 범위: 응답 가구의 통행 경험에 한정함",
+    "cloze": "표본 한계: 전화번호 미등록 가구 제외",
+    "answer": "표본 한계: 전화번호 미등록 가구 제외",
+    "accepted_answers": [],
+    "lemma": "전화 설문 표본에서 전화번호 미등록 가구를 제외하다",
+    "meaning": "sample limitation: households without registered telephone numbers excluded",
+    "audio": "work/audio/ko-KR/05/ko-05-2519.mp3"
+  },
+  {
+    "id": "ko-05-2520",
+    "sentence": "[주민 프로그램 접근 개선 계획]\n근거: 8월 안내 도달 점검·상담 기록 43건\n확인 결과: 종이 안내가 10개 동 중 6개 동에만 도달함\n승인자: 주민복지국장\n후속 조치: 9월 30일까지 채널 확대\n책임 부서: 주민참여과\n추가 채널: 문자·누리집·마을 방송\n완료 보고: 10월 2일 주민참여과 공용 이메일로 제출",
+    "cloze": "후속 조치: 9월 30일까지 채널 확대",
+    "answer": "후속 조치: 9월 30일까지 채널 확대",
+    "accepted_answers": [],
+    "lemma": "접근 안내 채널 확대의 기한과 책임을 기록하다",
+    "meaning": "follow-up action: expand notice channels by September 30",
+    "audio": "work/audio/ko-KR/05/ko-05-2520.mp3"
   }
 ]
