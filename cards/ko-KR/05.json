@@ -22835,5 +22835,405 @@
     "lemma": "자료 수행 완료와 전송 실행 대기의 병렬 표기",
     "meaning": "The assigned data-organizing work is complete, while the concrete file-transfer action awaits an order.",
     "audio": "work/audio/ko-KR/05/ko-05-2280.mp3"
+  },
+  {
+    "id": "ko-05-2281",
+    "sentence": "중학교 독서 지원 연구에서는 3월부터 6월까지의 상담 기록과 학생 설문을 자료로 모았다. 연구자는 두 출처에서 반복된 ‘예약 시간 부족’을 주장을 뒷받침하는 근거로 삼되, 한 번의 자유 의견은 사례로만 제시했다.",
+    "cloze": "주장을 뒷받침하는 근거",
+    "answer": "주장을 뒷받침하는 근거",
+    "accepted_answers": [],
+    "lemma": "근거로 삼기",
+    "meaning": "use recurring evidence to support a claim",
+    "audio": "work/audio/ko-KR/05/ko-05-2281.mp3"
+  },
+  {
+    "id": "ko-05-2282",
+    "sentence": "온라인 과제 제출이 어려웠다는 한 학생의 사례는 문제의 모습을 구체적으로 보여 준다. 그러나 조사자는 한 사람의 경험을 전체 경향으로 확대하지 않았다.",
+    "cloze": "전체 경향으로 확대하지 않았다",
+    "answer": "전체 경향으로 확대하지 않았다",
+    "accepted_answers": [],
+    "lemma": "사례 일반화 제한",
+    "meaning": "avoid generalizing from one illustrative case",
+    "audio": "work/audio/ko-KR/05/ko-05-2282.mp3"
+  },
+  {
+    "id": "ko-05-2283",
+    "sentence": "학습 일지 제출률이 78%였다는 것은 이번 평가의 결과이다. 사전에 정한 목표가 75%였고 누락 항목도 허용 기준 안에 있으므로, 이 부분은 성과로 평가할 수 있다.",
+    "cloze": "성과로 평가할 수 있다",
+    "answer": "성과로 평가할 수 있다",
+    "accepted_answers": [],
+    "lemma": "목표 대비 성과 판정",
+    "meaning": "judge an outcome as an achievement against a stated target",
+    "audio": "work/audio/ko-KR/05/ko-05-2283.mp3"
+  },
+  {
+    "id": "ko-05-2284",
+    "sentence": "새 읽기 안내를 제공한 뒤 평균 풀이 시간이 줄었다. 하지만 비교 학급이 없고 같은 기간에 교재도 바뀌었으므로, 안내의 효과라고 단정할 수 없다.",
+    "cloze": "효과라고 단정할 수 없다",
+    "answer": "효과라고 단정할 수 없다",
+    "accepted_answers": [],
+    "lemma": "비교 없는 효과 유보",
+    "meaning": "withhold an effect claim without a suitable comparison",
+    "audio": "work/audio/ko-KR/05/ko-05-2284.mp3"
+  },
+  {
+    "id": "ko-05-2285",
+    "sentence": "교내 상담 예약 방식을 바꾼 뒤 방문 시간대가 넓어졌다. 시험 일정도 함께 달라졌기 때문에 연구팀은 새 방식이 참여에 영향을 주었을 가능성만 보고했다.",
+    "cloze": "영향을 주었을 가능성",
+    "answer": "영향을 주었을 가능성",
+    "accepted_answers": [],
+    "lemma": "비인과적 영향 추정",
+    "meaning": "report a possible broader influence without claiming causation",
+    "audio": "work/audio/ko-KR/05/ko-05-2285.mp3"
+  },
+  {
+    "id": "ko-05-2286",
+    "sentence": "설문은 서울의 야간 고등학교 두 곳에서 수업에 참석한 학생 64명을 대상으로 했다. 따라서 만족도 결과는 참여한 학급에 한정된다.",
+    "cloze": "참여한 학급에 한정된다",
+    "answer": "참여한 학급에 한정된다",
+    "accepted_answers": [],
+    "lemma": "참여 범위 한정",
+    "meaning": "limit a finding to the participating classes",
+    "audio": "work/audio/ko-KR/05/ko-05-2286.mp3"
+  },
+  {
+    "id": "ko-05-2287",
+    "sentence": "연구자는 올해 4월의 상담 대기 시간을 지난해 전체 평균과 바로 견주지 않았다. 학사 일정이 비슷한 지난해 4월 기록을 골라 같은 기간끼리 비교했다.",
+    "cloze": "같은 기간끼리 비교했다",
+    "answer": "같은 기간끼리 비교했다",
+    "accepted_answers": [],
+    "lemma": "동일 기간 비교",
+    "meaning": "compare records from equivalent periods",
+    "audio": "work/audio/ko-KR/05/ko-05-2287.mp3"
+  },
+  {
+    "id": "ko-05-2288",
+    "sentence": "관찰자는 네 차례 수업에서 뒤쪽 학생 여섯 명이 화면을 확대하는 모습을 기록했다. 보고서에는 이 사실과 ‘글자 크기가 참여를 방해했을 수 있다’는 판단을 나누어, 관찰과 해석을 분리했다.",
+    "cloze": "관찰과 해석을 분리했다",
+    "answer": "관찰과 해석을 분리했다",
+    "accepted_answers": [],
+    "lemma": "관찰·해석 분리",
+    "meaning": "separate observed facts from interpretation",
+    "audio": "work/audio/ko-KR/05/ko-05-2288.mp3"
+  },
+  {
+    "id": "ko-05-2289",
+    "sentence": "연구 계획서 첫 문장에는 대상과 상황을 분명히 적었다. 질문은 ‘저녁 보충 수업에 참여하지 못한 학생에게 어떤 지원이 필요한가’였다.",
+    "cloze": "어떤 지원이 필요한가",
+    "answer": "어떤 지원이 필요한가",
+    "accepted_answers": [],
+    "lemma": "연구 질문 명시",
+    "meaning": "state a focused practical research question",
+    "audio": "work/audio/ko-KR/05/ko-05-2289.mp3"
+  },
+  {
+    "id": "ko-05-2290",
+    "sentence": "읽기 안내에 따른 변화를 확인하려고 5학년 두 반에서 같은 활동을 실시했다. 연구자는 수업 전후에 같은 문항으로 이해도를 측정하고, 결석자의 결과는 따로 표시했다.",
+    "cloze": "수업 전후에 같은 문항으로",
+    "answer": "수업 전후에 같은 문항으로",
+    "accepted_answers": [],
+    "lemma": "사전·사후 동일 문항",
+    "meaning": "measure before and after with the same items",
+    "audio": "work/audio/ko-KR/05/ko-05-2290.mp3"
+  },
+  {
+    "id": "ko-05-2291",
+    "sentence": "표에 제시한 노트북 대여 건수는 연구자가 새로 조사한 값이 아니다. 2026년 1학기 학교 대여 기록에서 가져왔다고 출처를 밝혔다.",
+    "cloze": "학교 대여 기록에서 가져왔다",
+    "answer": "학교 대여 기록에서 가져왔다",
+    "accepted_answers": [],
+    "lemma": "자료 출처 귀속",
+    "meaning": "attribute a figure to an institutional record",
+    "audio": "work/audio/ko-KR/05/ko-05-2291.mp3"
+  },
+  {
+    "id": "ko-05-2292",
+    "sentence": "면담 안내문은 응답 여부가 성적에 영향을 주지 않는다고 설명했다. 연구팀은 자발적으로 동의한 학생만 참여자로 등록했다.",
+    "cloze": "자발적으로 동의한 학생만",
+    "answer": "자발적으로 동의한 학생만",
+    "accepted_answers": [],
+    "lemma": "자발적 참여 고지",
+    "meaning": "include only students who freely consented",
+    "audio": "work/audio/ko-KR/05/ko-05-2292.mp3"
+  },
+  {
+    "id": "ko-05-2293",
+    "sentence": "발표 평가는 내용의 정확성, 근거 제시, 시간 준수의 세 항목으로 진행했다. 두 평가자는 사전에 공개한 기준표로 모든 조를 채점했다.",
+    "cloze": "사전에 공개한 기준표로",
+    "answer": "사전에 공개한 기준표로",
+    "accepted_answers": [],
+    "lemma": "공개 기준표 평가",
+    "meaning": "assess all groups with a preannounced rubric",
+    "audio": "work/audio/ko-KR/05/ko-05-2293.mp3"
+  },
+  {
+    "id": "ko-05-2294",
+    "sentence": "연구 조교는 80명 중 63명이 과제를 기한 안에 냈다고 집계했다. 관찰된 결과는 제출 건수이며, 그 자체로 수업의 성공을 뜻하지는 않는다.",
+    "cloze": "관찰된 결과는",
+    "answer": "관찰된 결과는",
+    "accepted_answers": [],
+    "lemma": "중립적 결과 보고",
+    "meaning": "report a neutral observed outcome",
+    "audio": "work/audio/ko-KR/05/ko-05-2294.mp3"
+  },
+  {
+    "id": "ko-05-2295",
+    "sentence": "토론 횟수가 늘었다는 결과만으로는 목표 달성을 판단할 수 없다. 성과라고 부르려면 사전에 정한 참여 목표치와 대조해야 한다.",
+    "cloze": "목표치와 대조해야 한다",
+    "answer": "목표치와 대조해야 한다",
+    "accepted_answers": [],
+    "lemma": "목표치 대조",
+    "meaning": "compare an outcome with the target before claiming achievement",
+    "audio": "work/audio/ko-KR/05/ko-05-2295.mp3"
+  },
+  {
+    "id": "ko-05-2296",
+    "sentence": "보고서에는 조용한 공간이 질문을 늘렸을 수 있다고 적혀 있다. 이는 학교의 확정 결론이 아니라 조사 책임자의 해석입니다.",
+    "cloze": "조사 책임자의 해석입니다",
+    "answer": "조사 책임자의 해석입니다",
+    "accepted_answers": [],
+    "lemma": "해석 주체 명시",
+    "meaning": "identify who owns an interpretation",
+    "audio": "work/audio/ko-KR/05/ko-05-2296.mp3"
+  },
+  {
+    "id": "ko-05-2297",
+    "sentence": "이번 조사는 평일 저녁 수업만 관찰했다. 보고서에는 “주말 참여자는 조사에서 제외됐다”고 한계를 밝히고, 결과를 전체 프로그램에 적용하지 않았다.",
+    "cloze": "주말 참여자는 조사에서 제외됐다",
+    "answer": "주말 참여자는 조사에서 제외됐다",
+    "accepted_answers": [],
+    "lemma": "미참여 집단 한계",
+    "meaning": "state that weekend participants were excluded",
+    "audio": "work/audio/ko-KR/05/ko-05-2297.mp3"
+  },
+  {
+    "id": "ko-05-2298",
+    "sentence": "저녁반에서는 질문 제출이 늦어지는 경향이 나타났다. 연구자는 실무적 함의를 “야간반을 따로 확인해야 한다”고 정리했으며, 즉시 전면 개편하자고 제안하지는 않았다.",
+    "cloze": "야간반을 따로 확인해야 한다",
+    "answer": "야간반을 따로 확인해야 한다",
+    "accepted_answers": [],
+    "lemma": "추가 확인 함의",
+    "meaning": "derive a limited need for further checking",
+    "audio": "work/audio/ko-KR/05/ko-05-2298.mp3"
+  },
+  {
+    "id": "ko-05-2299",
+    "sentence": "세 학교 가운데 두 학교에서만 안내 누락이 반복됐다. 평가자는 전면 도입 대신 두 학교에서 먼저 시험할 것을 권고했다.",
+    "cloze": "두 학교에서 먼저 시험할 것을 권고했다",
+    "answer": "두 학교에서 먼저 시험할 것을 권고했다",
+    "accepted_answers": [],
+    "lemma": "제한적 시범 권고",
+    "meaning": "recommend a limited trial at two schools",
+    "audio": "work/audio/ko-KR/05/ko-05-2299.mp3"
+  },
+  {
+    "id": "ko-05-2300",
+    "sentence": "연구자는 알림 도입 뒤 결석률이 낮아졌다고 발표했다. 평가자는 같은 시기에 시간표도 바뀌었다며 “이 설계가 인과 판단을 뒷받침합니까?”라고 물었다.",
+    "cloze": "인과 판단을 뒷받침합니까",
+    "answer": "인과 판단을 뒷받침합니까",
+    "accepted_answers": [],
+    "lemma": "인과 근거 질문",
+    "meaning": "challenge whether the design supports a causal claim",
+    "audio": "work/audio/ko-KR/05/ko-05-2300.mp3"
+  },
+  {
+    "id": "ko-05-2301",
+    "sentence": "연구자는 알림 사용과 결석 감소가 같은 기간에 나타났다고 답했다. 이어 “현재로서는 관련성만 확인했습니다”라고 범위를 낮추고, 원인 판단은 보류했다.",
+    "cloze": "현재로서는 관련성만 확인했습니다",
+    "answer": "현재로서는 관련성만 확인했습니다",
+    "accepted_answers": [],
+    "lemma": "관련성 한정 답변",
+    "meaning": "limit the response to an observed association",
+    "audio": "work/audio/ko-KR/05/ko-05-2301.mp3"
+  },
+  {
+    "id": "ko-05-2302",
+    "sentence": "보고서에는 한 학부모가 문자 안내를 보고 상담에 참석한 일이 소개됐다. 연구자는 “예시는 설명용으로만 넣었습니다”라고 밝혀, 이를 참여 증가의 근거로 계산하지 않았다.",
+    "cloze": "예시는 설명용으로만 넣었습니다",
+    "answer": "예시는 설명용으로만 넣었습니다",
+    "accepted_answers": [],
+    "lemma": "설명용 사례 처리",
+    "meaning": "treat a case as illustration rather than proof",
+    "audio": "work/audio/ko-KR/05/ko-05-2302.mp3"
+  },
+  {
+    "id": "ko-05-2303",
+    "sentence": "과제 제출 시간이 평균 이틀 빨라진 것은 이번 운영의 결과다. 그러나 사전에 목표를 설정하지 않았으므로 성과 여부는 판단하지 않았다.",
+    "cloze": "성과 여부는 판단하지 않았다",
+    "answer": "성과 여부는 판단하지 않았다",
+    "accepted_answers": [],
+    "lemma": "결과와 성과 분리",
+    "meaning": "separate an observed result from goal achievement",
+    "audio": "work/audio/ko-KR/05/ko-05-2303.mp3"
+  },
+  {
+    "id": "ko-05-2304",
+    "sentence": "면담에는 수업을 끝까지 들은 성인 학습자 18명만 참여했다. 보고서에는 “불참자의 경험은 반영되지 않았습니다”라고 결과표 아래에 명시했다.",
+    "cloze": "불참자의 경험은 반영되지 않았습니다",
+    "answer": "불참자의 경험은 반영되지 않았습니다",
+    "accepted_answers": [],
+    "lemma": "불참자 반영 한계",
+    "meaning": "state that nonparticipants' experiences are absent",
+    "audio": "work/audio/ko-KR/05/ko-05-2304.mp3"
+  },
+  {
+    "id": "ko-05-2305",
+    "sentence": "평가위원은 모바일 설문에서 누락된 연령대를 추가로 확인하라고 요청했다. 회의록에는 “교육평가팀이 다음 조사를 맡습니다”라고 적어 후속 행동의 책임을 분명히 했다.",
+    "cloze": "교육평가팀이 다음 조사를 맡습니다",
+    "answer": "교육평가팀이 다음 조사를 맡습니다",
+    "accepted_answers": [],
+    "lemma": "후속 조사 책임",
+    "meaning": "assign ownership of the next investigation",
+    "audio": "work/audio/ko-KR/05/ko-05-2305.mp3"
+  },
+  {
+    "id": "ko-05-2306",
+    "sentence": "온라인 설문은 응답을 빠르게 모았다는 장점이 있다. 연구자는 “장점은 인정하되 확대하지 않겠습니다”라고 답하고, 인터넷 이용이 어려운 집단을 먼저 조사하기로 했다.",
+    "cloze": "장점은 인정하되 확대하지 않겠습니다",
+    "answer": "장점은 인정하되 확대하지 않겠습니다",
+    "accepted_answers": [],
+    "lemma": "장점 인정·확대 유보",
+    "meaning": "acknowledge a benefit while withholding expansion",
+    "audio": "work/audio/ko-KR/05/ko-05-2306.mp3"
+  },
+  {
+    "id": "ko-05-2307",
+    "sentence": "평가자: 이 표의 자료는 누가 만들었습니까?\n연구자: 3월부터 5월까지의 출석 기록을 학교 행정실에서 받았습니다.\n평가자: 그 기록이 수업 효과의 근거이기도 합니까?\n연구자: 자료는 출석 기록입니다. 효과의 근거가 되려면 비교 수업과 결석 사유도 확인해야 합니다.",
+    "cloze": "자료는 출석 기록입니다",
+    "answer": "자료는 출석 기록입니다",
+    "accepted_answers": [],
+    "lemma": "출석 기록의 자료 지위",
+    "meaning": "identify attendance records as data, not causal evidence",
+    "audio": "work/audio/ko-KR/05/ko-05-2307.mp3"
+  },
+  {
+    "id": "ko-05-2308",
+    "sentence": "평가자: 발표에서 소개한 학생은 조사 참여자 전체를 대표합니까?\n연구자: 아닙니다. 상담을 다시 신청한 한 학생의 경험입니다.\n평가자: 그러면 참여 증가의 근거로 계산했습니까?\n연구자: 그 사례는 설명용입니다. 비율 계산에는 전체 신청 기록만 사용했습니다.",
+    "cloze": "그 사례는 설명용입니다",
+    "answer": "그 사례는 설명용입니다",
+    "accepted_answers": [],
+    "lemma": "설명용 사례 판별",
+    "meaning": "recognize a case as illustration rather than counted evidence",
+    "audio": "work/audio/ko-KR/05/ko-05-2308.mp3"
+  },
+  {
+    "id": "ko-05-2309",
+    "sentence": "평가자: 제출 시간이 사흘 줄었으니 성과라고 써도 됩니까?\n연구자: 시간 단축은 확인된 결과입니다.\n평가자: 사전에 정한 목표도 있었나요?\n연구자: 목표 시간이 없었으므로 성과라고 부르기 이릅니다.",
+    "cloze": "성과라고 부르기 이릅니다",
+    "answer": "성과라고 부르기 이릅니다",
+    "accepted_answers": [],
+    "lemma": "성과 명칭 유보",
+    "meaning": "withhold the achievement label when no target existed",
+    "audio": "work/audio/ko-KR/05/ko-05-2309.mp3"
+  },
+  {
+    "id": "ko-05-2310",
+    "sentence": "평가자: 새 동영상이 이해도를 높인 효과가 확인됐습니까?\n연구자: 시청 뒤 점수는 올랐습니다.\n평가자: 동영상을 보지 않은 집단과 비교했나요?\n연구자: 비교 집단이 없었습니다. 그래서 관찰된 점수 변화로만 보고했습니다.",
+    "cloze": "비교 집단이 없었습니다",
+    "answer": "비교 집단이 없었습니다",
+    "accepted_answers": [],
+    "lemma": "비교 집단 결여",
+    "meaning": "identify the absence of a comparison group",
+    "audio": "work/audio/ko-KR/05/ko-05-2310.mp3"
+  },
+  {
+    "id": "ko-05-2311",
+    "sentence": "평가자: 좌석 배치가 질문 횟수에 영향을 줬다고 결론 냈나요?\n연구자: 앞줄의 질문이 늘어난 것은 확인했습니다.\n평가자: 강사의 질문 방식도 바뀌었지요?\n연구자: 맞습니다. 그래서 영향 가능성만 말했습니다.",
+    "cloze": "영향 가능성만 말했습니다",
+    "answer": "영향 가능성만 말했습니다",
+    "accepted_answers": [],
+    "lemma": "영향 가능성 한정",
+    "meaning": "report only a possible influence when other factors changed",
+    "audio": "work/audio/ko-KR/05/ko-05-2311.mp3"
+  },
+  {
+    "id": "ko-05-2312",
+    "sentence": "평가자: 이 만족도는 학교 전체 학생의 의견입니까?\n연구자: 방과 후 실습에 신청한 학생만 설문을 받았습니다.\n평가자: 응답 규모는 어느 정도였습니까?\n연구자: 참여자는 열두 명뿐입니다. 따라서 해당 실습의 탐색적 의견으로만 해석했습니다.",
+    "cloze": "참여자는 열두 명뿐입니다",
+    "answer": "참여자는 열두 명뿐입니다",
+    "accepted_answers": [],
+    "lemma": "소수 참여 범위",
+    "meaning": "limit interpretation because only twelve people participated",
+    "audio": "work/audio/ko-KR/05/ko-05-2312.mp3"
+  },
+  {
+    "id": "ko-05-2313",
+    "sentence": "평가자: ‘새 교재가 학습 격차를 없앴다’는 문장은 근거보다 강합니다.\n연구자: 두 반의 평균 차이가 줄었다는 결과를 반영한 문장입니다.\n평가자: 다른 조건을 통제하지 않았으니 표현을 낮춰 주십시오.\n연구자: ‘격차 감소와 함께 나타났다’로 고치겠습니다.",
+    "cloze": "표현을 낮춰 주십시오",
+    "answer": "표현을 낮춰 주십시오",
+    "accepted_answers": [],
+    "lemma": "검토자의 표현 완화 요구",
+    "meaning": "require weaker wording when evidence is limited",
+    "audio": "work/audio/ko-KR/05/ko-05-2313.mp3"
+  },
+  {
+    "id": "ko-05-2314",
+    "sentence": "평가자: 다음 학기 확대를 연구팀이 결정한 겁니까?\n연구자: 저희는 두 반의 결과와 한계를 보고했습니다.\n평가자: 그러면 최종 결정 주체는 누구입니까?\n연구자: 결정 권한은 교육위원회에 있습니다. 연구팀은 추가 조사만 맡습니다.",
+    "cloze": "결정 권한은 교육위원회에 있습니다",
+    "answer": "결정 권한은 교육위원회에 있습니다",
+    "accepted_answers": [],
+    "lemma": "결정 권한 귀속",
+    "meaning": "assign final authority to the education committee",
+    "audio": "work/audio/ko-KR/05/ko-05-2314.mp3"
+  },
+  {
+    "id": "ko-05-2315",
+    "sentence": "[방과 후 학습 지원 조사]\n연구 질문: 2026년 4월 1일–5월 31일에 저녁반 학습자는 어떤 상담 시간을 선택했는가?\n방법: 예약 기록 186건을 시간대별로 집계함.",
+    "cloze": "연구 질문",
+    "answer": "연구 질문",
+    "accepted_answers": [],
+    "lemma": "연구 질문 표기",
+    "meaning": "format a research question as a clear heading",
+    "audio": "work/audio/ko-KR/05/ko-05-2315.mp3"
+  },
+  {
+    "id": "ko-05-2316",
+    "sentence": "자료 출처: 새빛고등학교 상담 예약 대장(2026년 1학기)\n보조 자료: 참여 학생 면담 8건\n주의: 면담에서 인용한 사례는 예약 건수의 근거로 합산하지 않음.",
+    "cloze": "자료 출처",
+    "answer": "자료 출처",
+    "accepted_answers": [],
+    "lemma": "자료 출처 표기",
+    "meaning": "label the source of collected records",
+    "audio": "work/audio/ko-KR/05/ko-05-2316.mp3"
+  },
+  {
+    "id": "ko-05-2317",
+    "sentence": "평가 기준:\n1) 안내문 핵심 정보 확인: 4점\n2) 근거와 사례의 구분: 3점\n3) 제한 시간 준수: 3점\n총점 10점 중 7점 이상을 기준 충족으로 판정함.",
+    "cloze": "평가 기준",
+    "answer": "평가 기준",
+    "accepted_answers": [],
+    "lemma": "평가 기준 표기",
+    "meaning": "present assessment criteria and scoring clearly",
+    "audio": "work/audio/ko-KR/05/ko-05-2317.mp3"
+  },
+  {
+    "id": "ko-05-2318",
+    "sentence": "결과·해석·한계:\n결과: 평균 제출 시간이 18분에서 14분으로 줄었음.\n해석: 안내 순서와 관련됐을 가능성이 있음.\n한계: 비교 학급이 없어 안내의 효과로 확정할 수 없음.",
+    "cloze": "결과·해석·한계",
+    "answer": "결과·해석·한계",
+    "accepted_answers": [],
+    "lemma": "결과·해석·한계 배열",
+    "meaning": "organize outcome, interpretation, and limitation separately",
+    "audio": "work/audio/ko-KR/05/ko-05-2318.mp3"
+  },
+  {
+    "id": "ko-05-2319",
+    "sentence": "사례 기록: 참여자 07은 “질문할 곳을 바로 찾았다”고 말함.\n근거 지위: 절차 이해를 보여 주는 예시이며, 전체 참여자에 대한 효과를 입증하는 자료로 사용하지 않음.",
+    "cloze": "사례 기록",
+    "answer": "사례 기록",
+    "accepted_answers": [],
+    "lemma": "인용 사례 표기",
+    "meaning": "label a quoted case and state its evidence status",
+    "audio": "work/audio/ko-KR/05/ko-05-2319.mp3"
+  },
+  {
+    "id": "ko-05-2320",
+    "sentence": "후속 조치: 야간반 2개 학급에서 4주간 같은 기준으로 추가 측정\n담당: 교육평가팀 김서윤 연구원\n기한: 2026년 9월 18일\n결정 권한: 확대 여부는 교육운영위원회가 판단함.",
+    "cloze": "후속 조치",
+    "answer": "후속 조치",
+    "accepted_answers": [],
+    "lemma": "후속 조치 표기",
+    "meaning": "record the next action, owner, deadline, and authority",
+    "audio": "work/audio/ko-KR/05/ko-05-2320.mp3"
   }
 ]
