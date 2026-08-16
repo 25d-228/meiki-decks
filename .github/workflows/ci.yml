@@ -28,13 +28,17 @@ jobs:
         with:
           python-version: "3.11"
       - name: Compile Python
-        run: python -m compileall -q meiki_decks.py tests
+        run: python -m compileall -q meiki_decks.py mossformer2_batch.py tests
       - name: Check Python formatting
         run: |
           python - <<'PY'
           from pathlib import Path
 
-          for python_file in (Path("meiki_decks.py"), Path("tests/test_meiki_decks.py")):
+          for python_file in (
+              Path("meiki_decks.py"),
+              Path("mossformer2_batch.py"),
+              Path("tests/test_meiki_decks.py"),
+          ):
               lines = python_file.read_text(encoding="utf-8").splitlines()
               if any(line.endswith((" ", "\t")) for line in lines):
                   raise SystemExit(f"trailing whitespace in {python_file}")
@@ -86,6 +90,7 @@ jobs:
               "coverage/ko-KR/04.md",
               "coverage/ko-KR/05.md",
               "meiki_decks.py",
+              "mossformer2_batch.py",
               "pyproject.toml",
               "release-notes/ja-JP-v0.1.0.md",
               "tests/test_meiki_decks.py",

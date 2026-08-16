@@ -11,6 +11,7 @@ from unittest import mock
 import zipfile
 
 import meiki_decks
+import mossformer2_batch
 
 
 class MeikiDecksTests(unittest.TestCase):
@@ -61,6 +62,57 @@ class MeikiDecksTests(unittest.TestCase):
         reference_text.write_text(transcript, encoding="utf-8")
         return reference_wav, reference_text
 
+    def denoiser_configuration(self):
+        runner = self.root / "mossformer2_batch.py"
+        runner.write_text("# test runner\n", encoding="utf-8")
+        working_directory = self.root / "mossformer-work"
+        working_directory.mkdir()
+        return {
+            "model": mossformer2_batch.MODEL_NAME,
+            "code_commit": mossformer2_batch.CODE_COMMIT,
+            "model_revision": mossformer2_batch.MODEL_REVISION,
+            "checkpoint_sha256": mossformer2_batch.CHECKPOINT_SHA256,
+            "code_path": str(mossformer2_batch.CODE_PATH),
+            "checkpoint": str(mossformer2_batch.CHECKPOINT_PATH),
+            "one_time_decode_length": mossformer2_batch.ONE_TIME_DECODE_LENGTH,
+            "decode_window": mossformer2_batch.DECODE_WINDOW,
+            "python": "fake-mossformer-python",
+            "working_directory": str(working_directory),
+            "runner": runner.name,
+        }
+
+    def finish_denoiser_batch(self, command, failed=None):
+        failed = {} if failed is None else failed
+        manifest_path = Path(command[command.index("--manifest") + 1])
+        report_path = Path(command[command.index("--report") + 1])
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+        succeeded = []
+        for card in manifest["cards"]:
+            if card["id"] in failed:
+                continue
+            Path(card["denoised"]).write_bytes(
+                f"denoised {card['id']}".encode()
+            )
+            succeeded.append(card["id"])
+        report_path.write_text(
+            json.dumps(
+                {
+                    "model": mossformer2_batch.MODEL_NAME,
+                    "succeeded": succeeded,
+                    "failed": failed,
+                }
+            ),
+            encoding="utf-8",
+        )
+        return subprocess.CompletedProcess(
+            command,
+            1 if failed else 0,
+            stderr="\n".join(
+                f"failed card {card_id}: {detail}"
+                for card_id, detail in failed.items()
+            ),
+        )
+
     def test_valid_card_data_is_accepted(self):
         card = self.card()
         card["reading"] = "ready"
@@ -109,6 +161,33 @@ class MeikiDecksTests(unittest.TestCase):
         with self.assertRaisesRegex(meiki_decks.DeckError, "audio must equal"):
             meiki_decks.check_stage(self.root, self.language, self.stage)
 
+    def test_probe_audio_requires_48_khz_mono_and_complete_decode(self):
+        audio_path = self.root / "audio.mp3"
+        audio_path.write_bytes(b"audio")
+        commands = []
+
+        def fake_command(command, **arguments):
+            commands.append(command)
+            if command[0] == "ffprobe":
+                return subprocess.CompletedProcess(
+                    command,
+                    0,
+                    stdout=json.dumps(
+                        {
+                            "streams": [{"sample_rate": "48000", "channels": 1}],
+                            "format": {"duration": "1.25"},
+                        }
+                    ),
+                    stderr="",
+                )
+            return subprocess.CompletedProcess(command, 0, stdout="", stderr="")
+
+        duration_ms = meiki_decks.probe_audio(audio_path, run_command=fake_command)
+
+        self.assertEqual(duration_ms, 1_250)
+        self.assertEqual([command[0] for command in commands], ["ffprobe", "ffmpeg"])
+        self.assertEqual(commands[1][-2:], ["null", "-"])
+
     def test_generate_audio_loads_once_and_continues_after_a_failed_card(self):
         cards = [
             self.card("test-001", "First is ready."),
@@ -120,7 +199,7 @@ class MeikiDecksTests(unittest.TestCase):
         commands = []
         generations = []
         import_paths = []
-        temporary_directories = []
+        denoiser_configuration = self.denoiser_configuration()
 
         class FakeModel:
             tts_model = mock.Mock(sample_rate=48_000)
@@ -136,15 +215,20 @@ class MeikiDecksTests(unittest.TestCase):
 
         def fake_command(command, **arguments):
             commands.append((command, arguments))
-            temporary_directories.append(Path(command[-1]).parent)
+            if command[0] == "fake-mossformer-python":
+                return self.finish_denoiser_batch(command)
             Path(command[-1]).write_bytes(b"generated audio")
             return subprocess.CompletedProcess(command, 0, stdout="")
+
+        def fake_write(path, waveform, sample_rate):
+            self.assertEqual(sample_rate, 48_000)
+            path.write_bytes(b"untreated baseline")
 
         error_output = io.StringIO()
         with (
             contextlib.redirect_stderr(error_output),
             mock.patch.object(meiki_decks, "load_tts_model", return_value=FakeModel()) as loader,
-            mock.patch.object(meiki_decks, "write_waveform") as writer,
+            mock.patch.object(meiki_decks, "write_waveform", side_effect=fake_write) as writer,
         ):
             failures = meiki_decks.generate_audio(
                 self.root,
@@ -153,6 +237,7 @@ class MeikiDecksTests(unittest.TestCase):
                 run_command=fake_command,
                 probe=lambda _: 1_000,
                 tts_config=self.tts_configuration(),
+                denoiser_config=denoiser_configuration,
             )
 
         self.assertEqual(failures, 1)
@@ -169,21 +254,28 @@ class MeikiDecksTests(unittest.TestCase):
                 for card in cards
             ],
         )
-        self.assertEqual(len(commands), 2)
+        self.assertEqual(len(commands), 3)
+        self.assertEqual(
+            sum(command[0][0] == "fake-mossformer-python" for command in commands),
+            1,
+        )
         self.assertEqual(writer.call_count, 2)
         repository_root = Path(meiki_decks.__file__).resolve().parent
         self.assertTrue(all(repository_root not in paths for paths in import_paths))
         self.assertIn(repository_root, {Path(path or Path.cwd()).resolve() for path in sys.path})
         self.assertTrue((self.root / cards[0]["audio"]).is_file())
         self.assertTrue((self.root / cards[2]["audio"]).is_file())
-        self.assertTrue(all(not path.exists() for path in temporary_directories))
+        stage_workspace = (
+            self.root / "work" / "denoiser-temp" / self.language / self.stage
+        )
+        self.assertTrue(stage_workspace.is_dir())
         self.assertIn("test-002", error_output.getvalue())
 
-    def test_generate_audio_cleans_temporary_files_after_conversion_failure(self):
+    def test_generate_audio_retains_stage_files_after_conversion_failure(self):
         card = self.card()
         self.write_stage([card])
         self.write_voice_reference()
-        temporary_directories = []
+        denoiser_configuration = self.denoiser_configuration()
 
         class FakeModel:
             tts_model = mock.Mock(sample_rate=48_000)
@@ -192,12 +284,16 @@ class MeikiDecksTests(unittest.TestCase):
                 return [0.0, 0.1]
 
         def failed_command(command, **arguments):
-            temporary_directories.append(Path(command[-1]).parent)
+            if command[0] == "fake-mossformer-python":
+                return self.finish_denoiser_batch(command)
             return subprocess.CompletedProcess(command, 1, stderr="conversion failed")
+
+        def fake_write(path, waveform, sample_rate):
+            path.write_bytes(b"untreated baseline")
 
         with (
             mock.patch.object(meiki_decks, "load_tts_model", return_value=FakeModel()),
-            mock.patch.object(meiki_decks, "write_waveform"),
+            mock.patch.object(meiki_decks, "write_waveform", side_effect=fake_write),
         ):
             failures = meiki_decks.generate_audio(
                 self.root,
@@ -206,11 +302,181 @@ class MeikiDecksTests(unittest.TestCase):
                 run_command=failed_command,
                 probe=lambda _: 1_000,
                 tts_config=self.tts_configuration(),
+                denoiser_config=denoiser_configuration,
             )
 
         self.assertEqual(failures, 1)
-        self.assertTrue(all(not path.exists() for path in temporary_directories))
+        stage_workspace = (
+            self.root / "work" / "denoiser-temp" / self.language / self.stage
+        )
+        self.assertTrue((stage_workspace / "baseline" / "test-001.wav").is_file())
+        self.assertTrue((stage_workspace / "denoised" / "test-001.wav").is_file())
         self.assertFalse((self.root / card["audio"]).exists())
+
+    def test_generate_audio_removes_stage_workspace_once_after_success(self):
+        cards = [
+            self.card("test-001", "First is ready."),
+            self.card("test-002", "Second is ready."),
+        ]
+        self.write_stage(cards)
+        self.write_voice_reference()
+        denoiser_configuration = self.denoiser_configuration()
+        commands = []
+        probed = []
+
+        class FakeModel:
+            tts_model = mock.Mock(sample_rate=48_000)
+
+            def generate(self, **arguments):
+                return [0.0, 0.1]
+
+        def fake_write(path, waveform, sample_rate):
+            path.write_bytes(b"untreated baseline")
+
+        def fake_command(command, **arguments):
+            commands.append(command)
+            if command[0] == "fake-mossformer-python":
+                return self.finish_denoiser_batch(command)
+            self.assertEqual(Path(command[command.index("-i") + 1]).parent.name, "denoised")
+            Path(command[-1]).write_bytes(b"encoded denoised audio")
+            return subprocess.CompletedProcess(command, 0, stdout="")
+
+        stage_workspace = (
+            self.root / "work" / "denoiser-temp" / self.language / self.stage
+        )
+        original_rmtree = meiki_decks.shutil.rmtree
+        with (
+            mock.patch.object(meiki_decks, "load_tts_model", return_value=FakeModel()) as loader,
+            mock.patch.object(meiki_decks, "write_waveform", side_effect=fake_write),
+            mock.patch.object(
+                meiki_decks.shutil,
+                "rmtree",
+                wraps=original_rmtree,
+            ) as remove_tree,
+        ):
+            failures = meiki_decks.generate_audio(
+                self.root,
+                self.language,
+                self.stage,
+                run_command=fake_command,
+                probe=lambda path: probed.append(path) or 1_000,
+                tts_config=self.tts_configuration(),
+                denoiser_config=denoiser_configuration,
+            )
+
+        self.assertEqual(failures, 0)
+        loader.assert_called_once()
+        remove_tree.assert_called_once_with(stage_workspace)
+        self.assertFalse(stage_workspace.exists())
+        self.assertEqual(commands[0][0], "fake-mossformer-python")
+        self.assertEqual(sum(command[0] == "ffmpeg" for command in commands), 2)
+        self.assertTrue(all((self.root / card["audio"]).is_file() for card in cards))
+        self.assertTrue(any(path.parent.name == "encoded" for path in probed))
+        self.assertTrue(all(self.root / card["audio"] in probed for card in cards))
+
+    def test_generate_audio_reports_one_denoiser_failure_and_installs_other_cards(self):
+        cards = [
+            self.card("test-001", "First is ready."),
+            self.card("test-002", "Second is ready."),
+        ]
+        self.write_stage(cards)
+        self.write_voice_reference()
+        denoiser_configuration = self.denoiser_configuration()
+
+        class FakeModel:
+            tts_model = mock.Mock(sample_rate=48_000)
+
+            def generate(self, **arguments):
+                return [0.0, 0.1]
+
+        def fake_write(path, waveform, sample_rate):
+            path.write_bytes(b"untreated baseline")
+
+        def fake_command(command, **arguments):
+            if command[0] == "fake-mossformer-python":
+                return self.finish_denoiser_batch(
+                    command,
+                    failed={"test-002": "synthetic denoiser failure"},
+                )
+            Path(command[-1]).write_bytes(b"encoded denoised audio")
+            return subprocess.CompletedProcess(command, 0, stdout="")
+
+        error_output = io.StringIO()
+        with (
+            contextlib.redirect_stderr(error_output),
+            mock.patch.object(meiki_decks, "load_tts_model", return_value=FakeModel()),
+            mock.patch.object(meiki_decks, "write_waveform", side_effect=fake_write),
+        ):
+            failures = meiki_decks.generate_audio(
+                self.root,
+                self.language,
+                self.stage,
+                run_command=fake_command,
+                probe=lambda _: 1_000,
+                tts_config=self.tts_configuration(),
+                denoiser_config=denoiser_configuration,
+            )
+
+        self.assertEqual(failures, 1)
+        self.assertTrue((self.root / cards[0]["audio"]).is_file())
+        self.assertFalse((self.root / cards[1]["audio"]).exists())
+        stage_workspace = (
+            self.root / "work" / "denoiser-temp" / self.language / self.stage
+        )
+        self.assertTrue(stage_workspace.is_dir())
+        self.assertIn("test-002", error_output.getvalue())
+        self.assertIn("synthetic denoiser failure", error_output.getvalue())
+
+    def test_mossformer_batch_loads_once_for_multiple_cards(self):
+        cards = [
+            {
+                "id": "test-001",
+                "baseline": str(self.root / "test-001-baseline.wav"),
+                "denoised": str(self.root / "test-001-denoised.wav"),
+            },
+            {
+                "id": "test-002",
+                "baseline": str(self.root / "test-002-baseline.wav"),
+                "denoised": str(self.root / "test-002-denoised.wav"),
+            },
+        ]
+        manifest_path = self.root / "manifest.json"
+        report_path = self.root / "report.json"
+        manifest_path.write_text(
+            json.dumps(
+                {
+                    "model": mossformer2_batch.MODEL_NAME,
+                    "code_commit": mossformer2_batch.CODE_COMMIT,
+                    "model_revision": mossformer2_batch.MODEL_REVISION,
+                    "checkpoint_sha256": mossformer2_batch.CHECKPOINT_SHA256,
+                    "code_path": str(mossformer2_batch.CODE_PATH),
+                    "checkpoint": str(mossformer2_batch.CHECKPOINT_PATH),
+                    "one_time_decode_length": mossformer2_batch.ONE_TIME_DECODE_LENGTH,
+                    "decode_window": mossformer2_batch.DECODE_WINDOW,
+                    "cards": cards,
+                }
+            ),
+            encoding="utf-8",
+        )
+        enhancer = object()
+        loader = mock.Mock(return_value=enhancer)
+        processor = mock.Mock()
+
+        with contextlib.redirect_stdout(io.StringIO()):
+            result = mossformer2_batch.process_batch(
+                manifest_path,
+                report_path,
+                load_model=loader,
+                process_file=processor,
+            )
+
+        self.assertEqual(result, 0)
+        loader.assert_called_once_with()
+        self.assertEqual(processor.call_count, 2)
+        self.assertTrue(all(call.args[0] is enhancer for call in processor.call_args_list))
+        report = json.loads(report_path.read_text(encoding="utf-8"))
+        self.assertEqual(report["succeeded"], ["test-001", "test-002"])
+        self.assertEqual(report["failed"], {})
 
     def test_generate_audio_skips_a_nonempty_existing_mp3(self):
         card = self.card()
@@ -305,6 +571,35 @@ class MeikiDecksTests(unittest.TestCase):
             },
         )
 
+    def test_selected_mossformer_configuration_is_fixed(self):
+        self.assertEqual(
+            meiki_decks.MOSSFORMER_CONFIG,
+            {
+                "model": "MossFormer2_SE_48K",
+                "code_commit": "6b3774dc79c46ae8bed2a4fa5f706f0ac8c75c61",
+                "model_revision": "eff8c97925c8bec812af707814b3e5d777fd4503",
+                "checkpoint_sha256": (
+                    "03692b9f773bbd6bb43b9c5a41f96b1e28affd66e13796b7bec66ad3d8b227c6"
+                ),
+                "code_path": (
+                    "/mango/homes/YUE_Ziran/workspace/meiki-decks-issue-92/relay/"
+                    "mossformer2-se-48k-code"
+                ),
+                "checkpoint": (
+                    "/mango/homes/YUE_Ziran/workspace/meiki-decks-issue-92/relay/"
+                    "mossformer2-se-48k-model/last_best_checkpoint.pt"
+                ),
+                "one_time_decode_length": 20,
+                "decode_window": 4,
+                "python": (
+                    "/mango/homes/YUE_Ziran/workspace/meiki-decks-issue-92/"
+                    "environments/mossformer2-se-48k-py312/bin/python"
+                ),
+                "working_directory": "/home/Yue_Ziran/workspace/meiki-decks-issue-92",
+                "runner": "mossformer2_batch.py",
+            },
+        )
+
     def test_korean_generation_uses_the_fixed_reference_pair(self):
         self.language = "ko-KR"
         self.stage = "00"
@@ -317,6 +612,7 @@ class MeikiDecksTests(unittest.TestCase):
         reference_text = reference_directory / "reference.txt"
         reference_text.write_text("차분하게 한국어를 연습합니다.\n", encoding="utf-8")
         generations = []
+        denoiser_configuration = self.denoiser_configuration()
 
         class FakeModel:
             tts_model = mock.Mock(sample_rate=48_000)
@@ -326,12 +622,17 @@ class MeikiDecksTests(unittest.TestCase):
                 return [0.0, 0.1]
 
         def fake_command(command, **arguments):
+            if command[0] == "fake-mossformer-python":
+                return self.finish_denoiser_batch(command)
             Path(command[-1]).write_bytes(b"generated audio")
             return subprocess.CompletedProcess(command, 0, stdout="")
 
+        def fake_write(path, waveform, sample_rate):
+            path.write_bytes(b"untreated baseline")
+
         with (
             mock.patch.object(meiki_decks, "load_tts_model", return_value=FakeModel()) as loader,
-            mock.patch.object(meiki_decks, "write_waveform"),
+            mock.patch.object(meiki_decks, "write_waveform", side_effect=fake_write),
         ):
             failures = meiki_decks.generate_audio(
                 self.root,
@@ -339,6 +640,7 @@ class MeikiDecksTests(unittest.TestCase):
                 self.stage,
                 run_command=fake_command,
                 probe=lambda _: 1_000,
+                denoiser_config=denoiser_configuration,
             )
 
         self.assertEqual(failures, 0)

@@ -4,11 +4,12 @@ import argparse
 import contextlib
 import hashlib
 import json
+import os
 from pathlib import Path
 import re
+import shutil
 import subprocess
 import sys
-import tempfile
 import zipfile
 
 
@@ -77,6 +78,30 @@ TTS_CONFIG = {
         "reference_wav": "work/voices/ko-KR/reference.wav",
         "reference_text": "work/voices/ko-KR/reference.txt",
     },
+}
+MOSSFORMER_CONFIG = {
+    "model": "MossFormer2_SE_48K",
+    "code_commit": "6b3774dc79c46ae8bed2a4fa5f706f0ac8c75c61",
+    "model_revision": "eff8c97925c8bec812af707814b3e5d777fd4503",
+    "checkpoint_sha256": (
+        "03692b9f773bbd6bb43b9c5a41f96b1e28affd66e13796b7bec66ad3d8b227c6"
+    ),
+    "code_path": (
+        "/mango/homes/YUE_Ziran/workspace/meiki-decks-issue-92/relay/"
+        "mossformer2-se-48k-code"
+    ),
+    "checkpoint": (
+        "/mango/homes/YUE_Ziran/workspace/meiki-decks-issue-92/relay/"
+        "mossformer2-se-48k-model/last_best_checkpoint.pt"
+    ),
+    "one_time_decode_length": 20,
+    "decode_window": 4,
+    "python": (
+        "/mango/homes/YUE_Ziran/workspace/meiki-decks-issue-92/environments/"
+        "mossformer2-se-48k-py312/bin/python"
+    ),
+    "working_directory": "/home/Yue_Ziran/workspace/meiki-decks-issue-92",
+    "runner": "mossformer2_batch.py",
 }
 PATH_COMPONENT = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]*$")
 REQUIRED_STRING_FIELDS = (
@@ -191,10 +216,12 @@ def probe_audio(audio_path, run_command=subprocess.run):
                 "ffprobe",
                 "-v",
                 "error",
+                "-select_streams",
+                "a:0",
                 "-show_entries",
-                "format=duration",
+                "stream=sample_rate,channels:format=duration",
                 "-of",
-                "default=noprint_wrappers=1:nokey=1",
+                "json",
                 str(audio_path),
             ],
             capture_output=True,
@@ -207,11 +234,29 @@ def probe_audio(audio_path, run_command=subprocess.run):
         detail = result.stderr.strip() or "FFprobe could not decode the file"
         raise DeckError(f"{audio_path}: {detail}")
     try:
-        duration_seconds = float(result.stdout.strip())
-    except ValueError as error:
+        metadata = json.loads(result.stdout)
+        streams = metadata["streams"]
+        duration_seconds = float(metadata["format"]["duration"])
+        sample_rate = int(streams[0]["sample_rate"])
+        channels = int(streams[0]["channels"])
+    except (IndexError, KeyError, TypeError, ValueError, json.JSONDecodeError) as error:
         raise DeckError(f"{audio_path}: FFprobe returned an invalid duration") from error
+    if len(streams) != 1 or sample_rate != 48_000 or channels != 1:
+        raise DeckError(f"{audio_path}: audio must be 48 kHz mono")
     if duration_seconds <= 0:
         raise DeckError(f"{audio_path}: audio duration must be positive")
+    try:
+        decoded = run_command(
+            ["ffmpeg", "-v", "error", "-i", str(audio_path), "-f", "null", "-"],
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+    except OSError as error:
+        raise DeckError(f"{audio_path}: cannot run FFmpeg: {error}") from error
+    if decoded.returncode != 0:
+        detail = decoded.stderr.strip() or "FFmpeg could not decode the complete file"
+        raise DeckError(f"{audio_path}: {detail}")
     return max(1, round(duration_seconds * 1_000))
 
 
@@ -292,6 +337,7 @@ def generate_audio(
     run_command=subprocess.run,
     probe=probe_audio,
     tts_config=None,
+    denoiser_config=None,
 ):
     cards = load_stage_cards(root, language, stage)
     configuration = (TTS_CONFIG if tts_config is None else tts_config).get(language)
@@ -301,7 +347,13 @@ def generate_audio(
     if any(not configuration.get(field) for field in required_configuration):
         raise DeckError(f"local VoxCPM2 configuration is incomplete for {language}")
 
-    failures = 0
+    failed_card_ids = set()
+
+    def report_failure(card_id, error):
+        if card_id not in failed_card_ids:
+            failed_card_ids.add(card_id)
+            print(f"failed card {card_id}: {error}", file=sys.stderr)
+
     pending_cards = []
     for card in cards:
         audio_path = root / card["audio"]
@@ -318,11 +370,10 @@ def generate_audio(
             else:
                 pending_cards.append(card)
         except (DeckError, OSError) as error:
-            failures += 1
-            print(f"failed card {card['id']}: {error}", file=sys.stderr)
+            report_failure(card["id"], error)
 
     if not pending_cards:
-        return failures
+        return len(failed_card_ids)
 
     reference_wav = root / configuration["reference_wav"]
     reference_text_path = root / configuration["reference_text"]
@@ -344,18 +395,44 @@ def generate_audio(
     if not reference_text.strip():
         raise DeckError(f"voice reference transcript is empty: {reference_text_path}")
 
+    selected_denoiser = MOSSFORMER_CONFIG if denoiser_config is None else denoiser_config
+    required_denoiser_configuration = (
+        "model",
+        "code_commit",
+        "model_revision",
+        "checkpoint_sha256",
+        "code_path",
+        "checkpoint",
+        "one_time_decode_length",
+        "decode_window",
+        "python",
+        "working_directory",
+        "runner",
+    )
+    if any(not selected_denoiser.get(field) for field in required_denoiser_configuration):
+        raise DeckError("local MossFormer2 configuration is incomplete")
+    runner_path = root / selected_denoiser["runner"]
+    if not runner_path.is_file():
+        raise DeckError(f"MossFormer2 batch runner is missing: {runner_path}")
+
     model = load_tts_model(configuration)
     try:
         sample_rate = model.tts_model.sample_rate
     except AttributeError as error:
         raise DeckError("VoxCPM2 model does not expose an output sample rate") from error
-    if not isinstance(sample_rate, int) or sample_rate <= 0:
-        raise DeckError("VoxCPM2 model returned an invalid output sample rate")
+    if sample_rate != 48_000:
+        raise DeckError("VoxCPM2 model must return a 48 kHz waveform")
 
+    stage_workspace = root / "work" / "denoiser-temp" / language / stage
+    baseline_root = stage_workspace / "baseline"
+    denoised_root = stage_workspace / "denoised"
+    encoded_root = stage_workspace / "encoded"
+    for directory in (baseline_root, denoised_root, encoded_root):
+        directory.mkdir(parents=True, exist_ok=True)
+
+    generated_cards = []
     for card in pending_cards:
-        audio_path = root / card["audio"]
         try:
-            audio_path.parent.mkdir(parents=True, exist_ok=True)
             with without_repository_import_path():
                 waveform = model.generate(
                     text=card["sentence"],
@@ -363,14 +440,105 @@ def generate_audio(
                     prompt_text=reference_text,
                     reference_wav_path=str(reference_wav),
                 )
-            with tempfile.TemporaryDirectory(
-                prefix=f".{audio_path.stem}-",
-                dir=audio_path.parent,
-            ) as temporary_directory:
-                temporary_directory = Path(temporary_directory)
-                temporary_wave = temporary_directory / f"{audio_path.stem}.wav"
-                temporary_mp3 = temporary_directory / audio_path.name
-                write_waveform(temporary_wave, waveform, sample_rate)
+            baseline_path = baseline_root / f"{card['id']}.wav"
+            write_waveform(baseline_path, waveform, sample_rate)
+            generated_cards.append(card)
+        except Exception as error:
+            report_failure(card["id"], error)
+
+    if generated_cards:
+        manifest_path = stage_workspace / "manifest.json"
+        report_path = stage_workspace / "report.json"
+        manifest = {
+            "model": selected_denoiser["model"],
+            "code_commit": selected_denoiser["code_commit"],
+            "model_revision": selected_denoiser["model_revision"],
+            "checkpoint_sha256": selected_denoiser["checkpoint_sha256"],
+            "code_path": selected_denoiser["code_path"],
+            "checkpoint": selected_denoiser["checkpoint"],
+            "one_time_decode_length": selected_denoiser["one_time_decode_length"],
+            "decode_window": selected_denoiser["decode_window"],
+            "cards": [
+                {
+                    "id": card["id"],
+                    "baseline": str((baseline_root / f"{card['id']}.wav").resolve()),
+                    "denoised": str((denoised_root / f"{card['id']}.wav").resolve()),
+                }
+                for card in generated_cards
+            ],
+        }
+        manifest_path.write_text(
+            json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+        report_path.write_text("", encoding="utf-8")
+        environment = os.environ.copy()
+        environment["TMPDIR"] = str(stage_workspace.resolve())
+        command = [
+            selected_denoiser["python"],
+            str(runner_path.resolve()),
+            "--manifest",
+            str(manifest_path.resolve()),
+            "--report",
+            str(report_path.resolve()),
+        ]
+        try:
+            denoiser_result = run_command(
+                command,
+                cwd=selected_denoiser["working_directory"],
+                env=environment,
+                capture_output=True,
+                text=True,
+                check=False,
+            )
+        except OSError as error:
+            denoiser_result = None
+            batch_error = f"cannot run MossFormer2 batch: {error}"
+        else:
+            batch_error = None
+
+        expected_ids = {card["id"] for card in generated_cards}
+        try:
+            if denoiser_result is None:
+                raise DeckError(batch_error)
+            report = json.loads(report_path.read_text(encoding="utf-8"))
+            succeeded = report["succeeded"]
+            failed = report["failed"]
+            if (
+                report.get("model") != selected_denoiser["model"]
+                or not isinstance(succeeded, list)
+                or not all(isinstance(card_id, str) for card_id in succeeded)
+                or len(set(succeeded)) != len(succeeded)
+                or not isinstance(failed, dict)
+                or not all(
+                    isinstance(card_id, str) and isinstance(detail, str) and detail
+                    for card_id, detail in failed.items()
+                )
+                or set(succeeded) & set(failed)
+                or set(succeeded) | set(failed) != expected_ids
+                or (denoiser_result.returncode == 0) != (not failed)
+            ):
+                raise DeckError("MossFormer2 batch returned an invalid report")
+        except (DeckError, OSError, KeyError, TypeError, ValueError, json.JSONDecodeError) as error:
+            detail = batch_error or str(error)
+            if denoiser_result is not None and denoiser_result.stderr.strip():
+                detail = f"{detail}: {denoiser_result.stderr.strip()}"
+            for card in generated_cards:
+                report_failure(card["id"], detail)
+            succeeded = []
+            failed = {}
+
+        for card_id, detail in failed.items():
+            report_failure(card_id, detail)
+
+        cards_by_id = {card["id"]: card for card in generated_cards}
+        for card_id in succeeded:
+            card = cards_by_id[card_id]
+            audio_path = root / card["audio"]
+            denoised_path = denoised_root / f"{card_id}.wav"
+            encoded_path = encoded_root / f"{card_id}.mp3"
+            try:
+                audio_path.parent.mkdir(parents=True, exist_ok=True)
                 result = run_command(
                     [
                         "ffmpeg",
@@ -378,12 +546,12 @@ def generate_audio(
                         "error",
                         "-y",
                         "-i",
-                        str(temporary_wave),
+                        str(denoised_path),
                         "-codec:a",
                         "libmp3lame",
                         "-q:a",
                         "2",
-                        str(temporary_mp3),
+                        str(encoded_path),
                     ],
                     capture_output=True,
                     text=True,
@@ -392,12 +560,24 @@ def generate_audio(
                 if result.returncode != 0:
                     detail = result.stderr.strip() or "FFmpeg conversion failed"
                     raise DeckError(detail)
-                validate_audio(temporary_mp3, probe)
-                temporary_mp3.replace(audio_path)
-        except Exception as error:
-            failures += 1
-            print(f"failed card {card['id']}: {error}", file=sys.stderr)
-    return failures
+                validate_audio(encoded_path, probe)
+                encoded_path.replace(audio_path)
+            except Exception as error:
+                report_failure(card_id, error)
+
+    if not failed_card_ids:
+        for card in cards:
+            try:
+                validate_audio(root / card["audio"], probe)
+            except DeckError as error:
+                report_failure(card["id"], error)
+
+    if not failed_card_ids:
+        try:
+            shutil.rmtree(stage_workspace)
+        except OSError as error:
+            raise DeckError(f"cannot remove completed stage workspace {stage_workspace}: {error}")
+    return len(failed_card_ids)
 
 
 def content_hash(data):
