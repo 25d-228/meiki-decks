@@ -22435,5 +22435,405 @@
     "lemma": "기관 업무 메일의 발신팀 맺음말",
     "meaning": "a formal institutional closing identifying the sending team",
     "audio": "work/audio/ko-KR/05/ko-05-2240.mp3"
+  },
+  {
+    "id": "ko-05-2241",
+    "sentence": "운영위원회는 본문 규정에만 결재 표시를 남겼다. 따라서 부록의 제안은 제외하고 승인된 규정만 시행한다.",
+    "cloze": "승인된 규정만 시행한다",
+    "answer": "승인된 규정만 시행한다",
+    "accepted_answers": [],
+    "lemma": "승인 범위에 한정한 규정 시행",
+    "meaning": "Only the approved rules enter into operation.",
+    "audio": "work/audio/ko-KR/05/ko-05-2241.mp3"
+  },
+  {
+    "id": "ko-05-2242",
+    "sentence": "인사팀은 근무 만족도 조사를 전 직원을 대상으로 실시했다. 협력업체 직원의 응답은 이번 결과에 포함하지 않았다.",
+    "cloze": "전 직원을 대상으로 실시했다",
+    "answer": "전 직원을 대상으로 실시했다",
+    "accepted_answers": [],
+    "lemma": "조사 대상 범위를 밝힌 실시",
+    "meaning": "The survey was conducted among all employees, with contractors excluded.",
+    "audio": "work/audio/ko-KR/05/ko-05-2242.mp3"
+  },
+  {
+    "id": "ko-05-2243",
+    "sentence": "연구책임자는 분석 방법을 정하고 연구원별 과제를 배정했다. 김 연구원에게는 배정된 연구를 수행할 책임이 있으며 최종 승인 권한은 없다.",
+    "cloze": "배정된 연구를 수행할 책임",
+    "answer": "배정된 연구를 수행할 책임",
+    "accepted_answers": [],
+    "lemma": "배정 연구의 수행 책임",
+    "meaning": "The researcher is responsible for carrying out the assigned research, not approving it.",
+    "audio": "work/audio/ko-KR/05/ko-05-2243.mp3"
+  },
+  {
+    "id": "ko-05-2244",
+    "sentence": "비상대응계획에는 경보가 두 번 울리면 전원을 차단한다고 적혀 있다. 오늘 그 조건이 충족되어 당직자는 대피 계획을 즉시 실행한다.",
+    "cloze": "대피 계획을 즉시 실행한다",
+    "answer": "대피 계획을 즉시 실행한다",
+    "accepted_answers": [],
+    "lemma": "발동 조건에 따른 대피 계획 실행",
+    "meaning": "The duty officer puts the evacuation plan into action when its trigger occurs.",
+    "audio": "work/audio/ko-KR/05/ko-05-2244.mp3"
+  },
+  {
+    "id": "ko-05-2245",
+    "sentence": "근무제 변경안은 아직 제안 단계이며 이번 달에는 적용되지 않는다. 노사 협의와 공고를 마친 뒤 제도를 시행할 예정이다.",
+    "cloze": "제도를 시행할 예정이다",
+    "answer": "제도를 시행할 예정이다",
+    "accepted_answers": [],
+    "lemma": "협의와 공고 이후의 제도 시행 예정",
+    "meaning": "The proposed work system is scheduled to take effect only after consultation and notice.",
+    "audio": "work/audio/ko-KR/05/ko-05-2245.mp3"
+  },
+  {
+    "id": "ko-05-2246",
+    "sentence": "새 안전 기준은 다음 달부터 적용된다. 운영팀은 현장 직원 교육을 먼저 실시한 뒤 새 기준에 따라 작업표를 바꾼다.",
+    "cloze": "교육을 먼저 실시한 뒤",
+    "answer": "교육을 먼저 실시한 뒤",
+    "accepted_answers": [],
+    "lemma": "기준 시행에 앞선 교육 실시",
+    "meaning": "Training is conducted before staff begin working under the new standard.",
+    "audio": "work/audio/ko-KR/05/ko-05-2246.mp3"
+  },
+  {
+    "id": "ko-05-2247",
+    "sentence": "박 대리는 창고 이전 업무를 맡았지만 구매 결정권은 받지 않았다. 배정된 직무를 수행하는 동안 추가 비용이 생기면 팀장에게 보고해야 한다.",
+    "cloze": "배정된 직무를 수행하는 동안",
+    "answer": "배정된 직무를 수행하는 동안",
+    "accepted_answers": [],
+    "lemma": "권한 제한이 있는 직무 수행",
+    "meaning": "The employee performs the assigned duty but must escalate additional spending.",
+    "audio": "work/audio/ko-KR/05/ko-05-2247.mp3"
+  },
+  {
+    "id": "ko-05-2248",
+    "sentence": "시설팀은 누전 위험과 대체 동선을 보고했고 본부장은 대응책을 승인했다. 담당자는 승인된 대응책을 실행했다.",
+    "cloze": "승인된 대응책을 실행했다",
+    "answer": "승인된 대응책을 실행했다",
+    "accepted_answers": [],
+    "lemma": "승인 후 이루어진 대응책 실행",
+    "meaning": "The responsible employee carried out the approved response measure.",
+    "audio": "work/audio/ko-KR/05/ko-05-2248.mp3"
+  },
+  {
+    "id": "ko-05-2249",
+    "sentence": "본부는 새 출입 제도를 전국에 도입하자는 제안을 검토했다. 장비가 준비된 곳부터 확인하기 위해 시행 범위를 세 지점으로 한정했다.",
+    "cloze": "시행 범위를 세 지점으로 한정했다",
+    "answer": "시행 범위를 세 지점으로 한정했다",
+    "accepted_answers": [],
+    "lemma": "제도 시행 범위의 지점 제한",
+    "meaning": "Implementation is limited to three sites because resources are not ready everywhere.",
+    "audio": "work/audio/ko-KR/05/ko-05-2249.mp3"
+  },
+  {
+    "id": "ko-05-2250",
+    "sentence": "시설과는 야간 안전 점검을 토요일에 진행한다. 총무팀은 점검 실시에 필요한 인력을 확보했다.",
+    "cloze": "점검 실시에 필요한 인력을 확보했다",
+    "answer": "점검 실시에 필요한 인력을 확보했다",
+    "accepted_answers": [],
+    "lemma": "점검 실시를 위한 인력 확보",
+    "meaning": "Staffing was secured so the scheduled safety inspection could be conducted.",
+    "audio": "work/audio/ko-KR/05/ko-05-2250.mp3"
+  },
+  {
+    "id": "ko-05-2251",
+    "sentence": "복구 명령을 내리기 직전에 예비 서버의 과열 가능성이 확인됐다. 현장책임자는 실행을 보류하고 위험을 보고했다.",
+    "cloze": "실행을 보류하고 위험을 보고했다",
+    "answer": "실행을 보류하고 위험을 보고했다",
+    "accepted_answers": [],
+    "lemma": "위험 보고에 따른 실행 보류",
+    "meaning": "Execution was paused and the newly identified risk was reported.",
+    "audio": "work/audio/ko-KR/05/ko-05-2251.mp3"
+  },
+  {
+    "id": "ko-05-2252",
+    "sentence": "운영팀은 새 재택근무 규정의 안내문만 준비했다. 시행 승인은 아직 나지 않았다. 따라서 직원에게 적용일을 확정해서 알리면 안 된다.",
+    "cloze": "시행 승인은 아직 나지 않았다",
+    "answer": "시행 승인은 아직 나지 않았다",
+    "accepted_answers": [],
+    "lemma": "미승인 상태인 규정 시행",
+    "meaning": "Implementation of the policy has not yet been approved.",
+    "audio": "work/audio/ko-KR/05/ko-05-2252.mp3"
+  },
+  {
+    "id": "ko-05-2253",
+    "sentence": "교육팀은 네 지점에서 같은 안전 교육을 진행했다. 보고서는 교육 실시 전후 오류율로 평가했다.",
+    "cloze": "교육 실시 전후 오류율로 평가했다",
+    "answer": "교육 실시 전후 오류율로 평가했다",
+    "accepted_answers": [],
+    "lemma": "교육 실시 전후의 오류율 평가",
+    "meaning": "The training was evaluated using error rates before and after it was conducted.",
+    "audio": "work/audio/ko-KR/05/ko-05-2253.mp3"
+  },
+  {
+    "id": "ko-05-2254",
+    "sentence": "정 대리는 퇴사 전에 완료된 과제와 보류된 과제를 구분했다. 그리고 후임자가 수행할 남은 과업과 자료 위치를 인계표에 적었다.",
+    "cloze": "후임자가 수행할 남은 과업",
+    "answer": "후임자가 수행할 남은 과업",
+    "accepted_answers": [],
+    "lemma": "후임 수행 과업의 인계표 기록",
+    "meaning": "The handoff record identifies the remaining tasks that the successor must carry out.",
+    "audio": "work/audio/ko-KR/05/ko-05-2254.mp3"
+  },
+  {
+    "id": "ko-05-2255",
+    "sentence": "문서 보관 기준의 소관 부서는 정보보호팀이다. 제도 시행 책임은 운영팀에 있다. 전산팀은 시스템 관리만 맡는다.",
+    "cloze": "제도 시행 책임은 운영팀에 있다",
+    "answer": "제도 시행 책임은 운영팀에 있다",
+    "accepted_answers": [],
+    "lemma": "운영팀에 지정된 제도 시행 책임",
+    "meaning": "The operations team owns implementation, while the other teams retain separate policy and system roles.",
+    "audio": "work/audio/ko-KR/05/ko-05-2255.mp3"
+  },
+  {
+    "id": "ko-05-2256",
+    "sentence": "고객경험팀은 이용 중단 사유를 확인할 설문지를 확정했다. 표본 명단도 준비됐으므로 설문을 금요일까지 실시한다.",
+    "cloze": "설문을 금요일까지 실시한다",
+    "answer": "설문을 금요일까지 실시한다",
+    "accepted_answers": [],
+    "lemma": "기한이 정해진 설문 실시",
+    "meaning": "The survey must be conducted by Friday.",
+    "audio": "work/audio/ko-KR/05/ko-05-2256.mp3"
+  },
+  {
+    "id": "ko-05-2257",
+    "sentence": "프로젝트에 배정된 인원이 두 명 줄어 전체 과업을 예정대로 끝내기 어려워졌다. 팀장은 수행 범위를 줄이고 인력을 재배치했다.",
+    "cloze": "수행 범위를 줄이고 인력을 재배치했다",
+    "answer": "수행 범위를 줄이고 인력을 재배치했다",
+    "accepted_answers": [],
+    "lemma": "자원 부족에 따른 수행 범위 조정",
+    "meaning": "The project scope was reduced and staff were reassigned after resources decreased.",
+    "audio": "work/audio/ko-KR/05/ko-05-2257.mp3"
+  },
+  {
+    "id": "ko-05-2258",
+    "sentence": "복구팀은 한꺼번에 전환할 경우 고객 기록이 손상될 수 있다고 판단했다. 그래서 복구 계획을 단계별로 실행했다.",
+    "cloze": "복구 계획을 단계별로 실행했다",
+    "answer": "복구 계획을 단계별로 실행했다",
+    "accepted_answers": [],
+    "lemma": "위험 완화를 위한 단계별 계획 실행",
+    "meaning": "The recovery plan was executed in stages to reduce the risk of data damage.",
+    "audio": "work/audio/ko-KR/05/ko-05-2258.mp3"
+  },
+  {
+    "id": "ko-05-2259",
+    "sentence": "시설과장은 전 건물을 조사하기 전에 동관의 절차부터 확인하라고 했다. 이에 시범 점검 실시를 조건부로 승인했다.",
+    "cloze": "시범 점검 실시를 조건부로 승인했다",
+    "answer": "시범 점검 실시를 조건부로 승인했다",
+    "accepted_answers": [],
+    "lemma": "시범 점검 실시에 대한 조건부 승인",
+    "meaning": "The pilot inspection was approved on a conditional basis.",
+    "audio": "work/audio/ko-KR/05/ko-05-2259.mp3"
+  },
+  {
+    "id": "ko-05-2260",
+    "sentence": "세 팀은 같은 예산과 기간으로 과제를 맡았다. 평가위원회는 수행 결과를 공통 기준으로 평가했다.",
+    "cloze": "수행 결과를 공통 기준으로 평가했다",
+    "answer": "수행 결과를 공통 기준으로 평가했다",
+    "accepted_answers": [],
+    "lemma": "공통 기준에 따른 수행 결과 평가",
+    "meaning": "The teams’ work results were evaluated using the same criteria.",
+    "audio": "work/audio/ko-KR/05/ko-05-2260.mp3"
+  },
+  {
+    "id": "ko-05-2261",
+    "sentence": "야간 담당자는 완료된 조치에 서명하고 미완료 사유를 따로 기록했다. 미실행 항목을 후속 담당자에게 인계했다.",
+    "cloze": "미실행 항목을 후속 담당자에게 인계했다",
+    "answer": "미실행 항목을 후속 담당자에게 인계했다",
+    "accepted_answers": [],
+    "lemma": "미실행 조치의 후속 담당자 인계",
+    "meaning": "Actions not yet carried out were handed over to the next responsible employee.",
+    "audio": "work/audio/ko-KR/05/ko-05-2261.mp3"
+  },
+  {
+    "id": "ko-05-2262",
+    "sentence": "규정 개정안은 법무 검토를 마쳤지만 운영 일정에는 들어가지 않았다. 위원회가 개정안을 승인한 뒤 시행 일정 수립을 운영팀에 맡겼다.",
+    "cloze": "시행 일정 수립을 운영팀에 맡겼다",
+    "answer": "시행 일정 수립을 운영팀에 맡겼다",
+    "accepted_answers": [],
+    "lemma": "승인 뒤 맡겨진 시행 일정 수립",
+    "meaning": "After approving the amendment, the committee assigned implementation scheduling to the operations team.",
+    "audio": "work/audio/ko-KR/05/ko-05-2262.mp3"
+  },
+  {
+    "id": "ko-05-2263",
+    "sentence": "야간 창구를 열자는 안건은 운영위원회의 동의를 받았다. 운영안은 승인됐지만 아직 시행 전이다.",
+    "cloze": "운영안은 승인됐지만 아직 시행 전이다",
+    "answer": "운영안은 승인됐지만 아직 시행 전이다",
+    "accepted_answers": [],
+    "lemma": "승인 완료와 시행 전 상태의 구별",
+    "meaning": "The operating proposal is approved but has not yet entered operation.",
+    "audio": "work/audio/ko-KR/05/ko-05-2263.mp3"
+  },
+  {
+    "id": "ko-05-2264",
+    "sentence": "품질팀은 납품된 장비 전부를 같은 절차로 검사했다. 검사를 실시하고 결과를 별도로 평가했다.",
+    "cloze": "검사를 실시하고 결과를 별도로 평가했다",
+    "answer": "검사를 실시하고 결과를 별도로 평가했다",
+    "accepted_answers": [],
+    "lemma": "검사 실시와 결과 평가의 분리",
+    "meaning": "Conducting the inspection and evaluating its results were treated as separate steps.",
+    "audio": "work/audio/ko-KR/05/ko-05-2264.mp3"
+  },
+  {
+    "id": "ko-05-2265",
+    "sentence": "김 주임은 자료 정리 업무를 맡으라는 공문을 받았다. 그는 업무를 배정받아 직접 수행했다.",
+    "cloze": "업무를 배정받아 직접 수행했다",
+    "answer": "업무를 배정받아 직접 수행했다",
+    "accepted_answers": [],
+    "lemma": "배정받은 업무의 직접 수행",
+    "meaning": "The employee personally carried out the duty assigned to him.",
+    "audio": "work/audio/ko-KR/05/ko-05-2265.mp3"
+  },
+  {
+    "id": "ko-05-2266",
+    "sentence": "비상대응계획에는 다섯 가지 조치가 있었지만 실제 경보 때는 세 가지만 필요했다. 담당자는 계획안 중 실제 실행한 조치만 표시했다.",
+    "cloze": "계획안 중 실제 실행한 조치만 표시했다",
+    "answer": "계획안 중 실제 실행한 조치만 표시했다",
+    "accepted_answers": [],
+    "lemma": "계획 조치와 실제 실행 조치의 구별",
+    "meaning": "The record marks only the planned actions that were actually carried out.",
+    "audio": "work/audio/ko-KR/05/ko-05-2266.mp3"
+  },
+  {
+    "id": "ko-05-2267",
+    "sentence": "팀장: 개정 규정은 우리 팀이 확정한 겁니까?\n운영과장: 아닙니다. 이사회 결재가 어제 끝났습니다.\n팀장: 그러면 시행 결정의 주체는 어디입니까?\n운영과장: 본부가 제도 시행을 확정했습니다. 우리 팀은 적용일만 안내합니다.",
+    "cloze": "본부가 제도 시행을 확정했습니다",
+    "answer": "본부가 제도 시행을 확정했습니다",
+    "accepted_answers": [],
+    "lemma": "본부 권한으로 확정된 제도 시행",
+    "meaning": "Head office made the implementation decision; the team only communicates it.",
+    "audio": "work/audio/ko-KR/05/ko-05-2267.mp3"
+  },
+  {
+    "id": "ko-05-2268",
+    "sentence": "관리자: 내일 장비 검사는 누가 합니까?\n운영직원: 품질팀이 검사를 실시합니다.\n관리자: 우리 팀 역할은 무엇입니까?\n운영직원: 검사할 장비와 작업 공간을 준비하면 됩니다.",
+    "cloze": "품질팀이 검사를 실시합니다",
+    "answer": "품질팀이 검사를 실시합니다",
+    "accepted_answers": [],
+    "lemma": "품질팀이 주체인 검사 실시",
+    "meaning": "The quality team conducts the inspection; operations staff only prepare resources.",
+    "audio": "work/audio/ko-KR/05/ko-05-2268.mp3"
+  },
+  {
+    "id": "ko-05-2269",
+    "sentence": "연구책임자: 현장 조사는 누구에게 배정됐습니까?\n김 연구원: 제가 현장 조사를 수행하겠습니다.\n연구책임자: 조사 결과 승인도 맡습니까?\n김 연구원: 아닙니다. 저는 자료를 모아 제출하고 승인은 책임자께서 하십니다.",
+    "cloze": "제가 현장 조사를 수행하겠습니다",
+    "answer": "제가 현장 조사를 수행하겠습니다",
+    "accepted_answers": [],
+    "lemma": "연구원의 현장 조사 수행 약속",
+    "meaning": "The researcher commits to carrying out the field study but cannot approve its results.",
+    "audio": "work/audio/ko-KR/05/ko-05-2269.mp3"
+  },
+  {
+    "id": "ko-05-2270",
+    "sentence": "시설팀장: 복구안은 승인됐습니까?\n본부장: 예비 장비가 도착한다는 조건으로 승인했습니다.\n시설팀장: 장비 도착이 확인되면 어떻게 합니까?\n본부장: 장비 도착 즉시 복구안을 실행하겠습니다.",
+    "cloze": "장비 도착 즉시 복구안을 실행하겠습니다",
+    "answer": "장비 도착 즉시 복구안을 실행하겠습니다",
+    "accepted_answers": [],
+    "lemma": "장비 도착 뒤의 복구안 실행 약속",
+    "meaning": "The recovery plan will be put into action immediately after the required equipment arrives.",
+    "audio": "work/audio/ko-KR/05/ko-05-2270.mp3"
+  },
+  {
+    "id": "ko-05-2271",
+    "sentence": "부장: 교육 만족도 수치는 직접 조사하신 겁니까?\n보고서 작성자: 아닙니다. 교육팀의 기록을 받았습니다.\n부장: 그러면 작성자께서 교육을 진행한 것은 아니군요.\n보고서 작성자: 네, 실시 결과만 보고받았습니다.",
+    "cloze": "실시 결과만 보고받았습니다",
+    "answer": "실시 결과만 보고받았습니다",
+    "accepted_answers": [],
+    "lemma": "실시 주체와 보고 수신자의 구별",
+    "meaning": "The writer received the conduct results from another team and did not run the training.",
+    "audio": "work/audio/ko-KR/05/ko-05-2271.mp3"
+  },
+  {
+    "id": "ko-05-2272",
+    "sentence": "윤 대리: 오늘부터 제가 이 업무 책임자입니까?\n기존 담당자: 아직 인계표에 서명하지 않았습니다.\n윤 대리: 서명 전 문제는 누가 처리합니까?\n기존 담당자: 수행 책임은 인계 뒤 넘어갑니다. 그전까지는 제가 맡습니다.",
+    "cloze": "수행 책임은 인계 뒤 넘어갑니다",
+    "answer": "수행 책임은 인계 뒤 넘어갑니다",
+    "accepted_answers": [],
+    "lemma": "인수 확인 뒤 이전되는 수행 책임",
+    "meaning": "Responsibility for carrying out the work transfers only after the handoff is confirmed.",
+    "audio": "work/audio/ko-KR/05/ko-05-2272.mp3"
+  },
+  {
+    "id": "ko-05-2273",
+    "sentence": "운영직원: 새 예약 제도는 다음 주에 시작합니까?\n팀장: 아직 확정되지 않았습니다.\n운영직원: 최종 결정은 어느 부서가 합니까?\n팀장: 시행 여부는 위원회가 결정합니다. 우리는 필요한 비용만 보고합니다.",
+    "cloze": "시행 여부는 위원회가 결정합니다",
+    "answer": "시행 여부는 위원회가 결정합니다",
+    "accepted_answers": [],
+    "lemma": "위원회에 속한 시행 결정 권한",
+    "meaning": "The committee has authority to decide whether the system will be implemented.",
+    "audio": "work/audio/ko-KR/05/ko-05-2273.mp3"
+  },
+  {
+    "id": "ko-05-2274",
+    "sentence": "야간 직원: 서버 전환을 시작하라는 지시는 팀장님이 내렸습니까?\n교대 직원: 아닙니다. 당직실에서 비상 연락을 받았습니다.\n야간 직원: 그러면 우리는 그 지시를 전달받아 움직인 겁니까?\n교대 직원: 맞습니다. 실행 명령은 당직실에서 나왔습니다.",
+    "cloze": "실행 명령은 당직실에서 나왔습니다",
+    "answer": "실행 명령은 당직실에서 나왔습니다",
+    "accepted_answers": [],
+    "lemma": "당직실에서 발령한 실행 명령",
+    "meaning": "The duty office was the source of the command; the staff were its executors.",
+    "audio": "work/audio/ko-KR/05/ko-05-2274.mp3"
+  },
+  {
+    "id": "ko-05-2275",
+    "sentence": "[재택근무 규정 시행 안내]\n시행일: 9월 1일\n적용 대상: 본사 정규 근무자\n담당 부서: 인사운영팀",
+    "cloze": "시행일: 9월 1일",
+    "answer": "시행일: 9월 1일",
+    "accepted_answers": [],
+    "lemma": "재택근무 규정 시행일 표기",
+    "meaning": "The operational notice states the date on which the remote-work rule takes effect.",
+    "audio": "work/audio/ko-KR/05/ko-05-2275.mp3"
+  },
+  {
+    "id": "ko-05-2276",
+    "sentence": "[정기 소방 훈련 실시 계획]\n실시 시간: 목요일 오후 두 시\n대상: 본관 근무자\n준비 담당: 시설안전팀",
+    "cloze": "정기 소방 훈련 실시 계획",
+    "answer": "정기 소방 훈련 실시 계획",
+    "accepted_answers": [],
+    "lemma": "소방 훈련 실시 계획 제목",
+    "meaning": "A record heading for conducting a scheduled fire drill.",
+    "audio": "work/audio/ko-KR/05/ko-05-2276.mp3"
+  },
+  {
+    "id": "ko-05-2277",
+    "sentence": "[프로젝트 수행 현황]\n책임자: 김서현 연구원\n완료 항목: 자료 수집\n남은 항목: 비용 분석",
+    "cloze": "프로젝트 수행 현황",
+    "answer": "프로젝트 수행 현황",
+    "accepted_answers": [],
+    "lemma": "프로젝트 수행 상태 표제",
+    "meaning": "A status block recording progress on an assigned project.",
+    "audio": "work/audio/ko-KR/05/ko-05-2277.mp3"
+  },
+  {
+    "id": "ko-05-2278",
+    "sentence": "[비상 조치 실행 기록]\n명령 시각: 오후 여섯 시 십 분\n실행 담당: 야간 운영조\n결과: 예비 서버 전환 완료",
+    "cloze": "비상 조치 실행 기록",
+    "answer": "비상 조치 실행 기록",
+    "accepted_answers": [],
+    "lemma": "비상 조치 실행 기록 표제",
+    "meaning": "An operational record of a concrete emergency action that was carried out.",
+    "audio": "work/audio/ko-KR/05/ko-05-2278.mp3"
+  },
+  {
+    "id": "ko-05-2279",
+    "sentence": "[운영 확인 항목]\n구분: 제도 시행 전·교육 실시 후 확인\n시행 전: 승인 문서와 적용 대상\n실시 후: 참석 인원과 교육 결과",
+    "cloze": "제도 시행 전·교육 실시 후 확인",
+    "answer": "제도 시행 전·교육 실시 후 확인",
+    "accepted_answers": [],
+    "lemma": "제도 시행과 교육 실시의 병렬 구분",
+    "meaning": "The grouped heading distinguishes checks before a system starts from checks after training is conducted.",
+    "audio": "work/audio/ko-KR/05/ko-05-2279.mp3"
+  },
+  {
+    "id": "ko-05-2280",
+    "sentence": "[교대 업무표]\n상태: 자료 정리 수행 완료·파일 전송 실행 대기\n담당자: 오전조 김 대리\n다음 조치: 팀장 명령 후 전송",
+    "cloze": "자료 정리 수행 완료·파일 전송 실행 대기",
+    "answer": "자료 정리 수행 완료·파일 전송 실행 대기",
+    "accepted_answers": [],
+    "lemma": "자료 수행 완료와 전송 실행 대기의 병렬 표기",
+    "meaning": "The assigned data-organizing work is complete, while the concrete file-transfer action awaits an order.",
+    "audio": "work/audio/ko-KR/05/ko-05-2280.mp3"
   }
 ]
