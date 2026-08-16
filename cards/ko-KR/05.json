@@ -22035,5 +22035,405 @@
     "lemma": "담당 팀 명의로 이메일 맺기",
     "meaning": "ends the message with a formal team signature",
     "audio": "work/audio/ko-KR/05/ko-05-2200.mp3"
+  },
+  {
+    "id": "ko-05-2201",
+    "sentence": "에너지 사용 현황 보고\n시설팀의 계량 기록에서 오후 사용량 증가가 세 차례 확인되었습니다. 확인된 세 회차에 한정하면, 냉방 종료 시각과 증가 시각이 겹쳤습니다. 다만 이 기록만으로 냉방 종료가 증가의 원인이라고 단정할 수는 없습니다.",
+    "cloze": "확인된 세 회차에 한정하면",
+    "answer": "확인된 세 회차에 한정하면",
+    "accepted_answers": [],
+    "lemma": "확인 회차로 보고 범위 한정",
+    "meaning": "limiting the report to the three verified instances",
+    "audio": "work/audio/ko-KR/05/ko-05-2201.mp3"
+  },
+  {
+    "id": "ko-05-2202",
+    "sentence": "도서 예약 변경 시범 제안서\n지난달 창구 기록에서 예약 변경 대기는 평균 십칠 분이었습니다. 모바일 변경의 편의성은 인정하되 승인 절차는 유지합니다. 운영위원회 승인을 전제로 두 분관에서 한 달간 시험할 것을 제안합니다.",
+    "cloze": "편의성은 인정하되 승인 절차는 유지합니다",
+    "answer": "편의성은 인정하되 승인 절차는 유지합니다",
+    "accepted_answers": [],
+    "lemma": "편의성 양보 뒤 승인 통제 유지",
+    "meaning": "acknowledging convenience while retaining approval controls",
+    "audio": "work/audio/ko-KR/05/ko-05-2202.mp3"
+  },
+  {
+    "id": "ko-05-2203",
+    "sentence": "포장 개선 자료 종합 메모\n물류일지는 얇은 상자에서 파손이 네 건 반복되었다고 기록했습니다. 고객 면담 여덟 건 중 여섯 건에서는 상자를 여는 과정이 불편했다는 의견이 나왔습니다. 두 자료가 함께 보여 주는 것은 보호 성능과 개봉 편의 모두 보완이 필요하다는 점입니다.",
+    "cloze": "두 자료가 함께 보여 주는 것은",
+    "answer": "두 자료가 함께 보여 주는 것은",
+    "accepted_answers": [],
+    "lemma": "물류 기록과 면담의 공통 발견 종합",
+    "meaning": "synthesizing the shared finding of logistics records and interviews",
+    "audio": "work/audio/ko-KR/05/ko-05-2203.mp3"
+  },
+  {
+    "id": "ko-05-2204",
+    "sentence": "안내 화면 변경 효과에 대한 분석 답변\n상담 기록상 안내 화면을 바꾼 주에 재문의가 줄었습니다. 그러나 같은 시기에 나타났다는 이유만으로 화면 변경을 감소의 원인으로 판단할 수는 없습니다. 근무표상 같은 주에 상담 인력도 늘었으므로 두 영향을 분리해 확인해야 합니다.",
+    "cloze": "같은 시기에 나타났다는 이유만으로",
+    "answer": "같은 시기에 나타났다는 이유만으로",
+    "accepted_answers": [],
+    "lemma": "동시 변화에 근거한 인과 판단 제한",
+    "meaning": "rejecting a causal conclusion based only on simultaneous change",
+    "audio": "work/audio/ko-KR/05/ko-05-2204.mp3"
+  },
+  {
+    "id": "ko-05-2205",
+    "sentence": "공용 장비 반출 절차\n신청자는 반출 목록을 작성해 장비 담당자에게 제출합니다. 담당자의 서면 확인이 있는 경우에만 장비를 건물 밖으로 옮길 수 있습니다. 반납할 때에는 같은 목록으로 담당자와 수량을 다시 확인합니다.",
+    "cloze": "담당자의 서면 확인이 있는 경우에만",
+    "answer": "담당자의 서면 확인이 있는 경우에만",
+    "accepted_answers": [],
+    "lemma": "서면 확인을 반출 조건으로 제한",
+    "meaning": "restricting equipment removal to cases with written confirmation",
+    "audio": "work/audio/ko-KR/05/ko-05-2205.mp3"
+  },
+  {
+    "id": "ko-05-2206",
+    "sentence": "발표자 메모\n고객지원팀 기록에서는 지난달 세 지점의 야간 문의가 늘었지만 관찰 기간은 한 달뿐입니다. 현재 자료로는 가능성만 말할 수 있습니다. 지속 여부는 다음 달 기록까지 확인한 뒤 판단하겠습니다.",
+    "cloze": "현재 자료로는 가능성만 말할 수 있습니다",
+    "answer": "현재 자료로는 가능성만 말할 수 있습니다",
+    "accepted_answers": [],
+    "lemma": "한 달 기록에 맞춘 가능성 진술",
+    "meaning": "stating only a possibility from one month of records",
+    "audio": "work/audio/ko-KR/05/ko-05-2206.mp3"
+  },
+  {
+    "id": "ko-05-2207",
+    "sentence": "제목: 야간 개방 요청 접수 결과\n귀 기관에서 보내 주신 요청서와 이용 계획을 접수했습니다. 요청을 접수했으나 승인한 것은 아닙니다. 시설 안전 확인 뒤 운영위원회가 승인 여부를 결정해 알려 드리겠습니다.\n운영지원팀 드림",
+    "cloze": "요청을 접수했으나 승인한 것은 아닙니다",
+    "answer": "요청을 접수했으나 승인한 것은 아닙니다",
+    "accepted_answers": [],
+    "lemma": "요청 접수와 승인 상태 분리",
+    "meaning": "distinguishing receipt of a request from approval",
+    "audio": "work/audio/ko-KR/05/ko-05-2207.mp3"
+  },
+  {
+    "id": "ko-05-2208",
+    "sentence": "이동 상담 시범 제안\n주민협력팀의 유월 상담 기록에는 외곽 두 마을의 방문 요청이 열세 건 남아 있습니다. 외곽 두 마을에 주 한 차례 상담 차량을 보내는 방안을 제안합니다. 예산 상한을 넘지 않는다는 전제 아래, 차량은 기존 계약 업체에서 빌리고 상담은 두 시간만 운영합니다. 시범 결과는 한 달 뒤 주민협력팀이 보고합니다.",
+    "cloze": "예산 상한을 넘지 않는다는 전제 아래",
+    "answer": "예산 상한을 넘지 않는다는 전제 아래",
+    "accepted_answers": [],
+    "lemma": "예산 상한을 전제로 한 시범 조건",
+    "meaning": "making the trial conditional on staying within the budget ceiling",
+    "audio": "work/audio/ko-KR/05/ko-05-2208.mp3"
+  },
+  {
+    "id": "ko-05-2209",
+    "sentence": "배송 지연 구간 현장 보고\n이 보고서는 배송 차량의 전체 운행을 평가하려는 것이 아닙니다. 지연 구간을 밝히는 데 있습니다. 운행 기록으로 확인된 범위는 북쪽 물류센터에서 중앙 매장까지이며, 조치 제안은 별도 문단에 제시합니다.",
+    "cloze": "지연 구간을 밝히는 데 있습니다",
+    "answer": "지연 구간을 밝히는 데 있습니다",
+    "accepted_answers": [],
+    "lemma": "배송 현장 보고의 조사 목적 명시",
+    "meaning": "stating that the field report identifies the delayed segment",
+    "audio": "work/audio/ko-KR/05/ko-05-2209.mp3"
+  },
+  {
+    "id": "ko-05-2210",
+    "sentence": "학습 공간 이용 보고\n근거 자료는 칠월 출입 기록과 면담 여섯 건입니다. 출입 기록은 시설운영팀이 제공했고, 면담은 교육지원팀이 진행했습니다. 두 자료의 기간과 참여 대상은 따로 표시했습니다.",
+    "cloze": "칠월 출입 기록과 면담 여섯 건",
+    "answer": "칠월 출입 기록과 면담 여섯 건",
+    "accepted_answers": [],
+    "lemma": "공간 이용 보고의 근거 자료 열거",
+    "meaning": "identifying July access records and six interviews as evidence",
+    "audio": "work/audio/ko-KR/05/ko-05-2210.mp3"
+  },
+  {
+    "id": "ko-05-2211",
+    "sentence": "상담 기록 종합\n전화 기록에서는 신청 조건을 다시 묻는 문의가 열한 건 있었습니다. 창구 기록에서도 같은 조건을 재설명한 사례가 일곱 건 확인되었습니다. 두 기록에서 공통으로 확인된 사실은 조건 관련 재문의가 반복되었다는 점이며, 안내 위치가 원인인지는 추가로 확인해야 합니다.",
+    "cloze": "두 기록에서 공통으로 확인된 사실은",
+    "answer": "두 기록에서 공통으로 확인된 사실은",
+    "accepted_answers": [],
+    "lemma": "전화와 창구 기록의 공통 사실 제시",
+    "meaning": "presenting the verified common finding across phone and desk records",
+    "audio": "work/audio/ko-KR/05/ko-05-2211.mp3"
+  },
+  {
+    "id": "ko-05-2212",
+    "sentence": "전시 예약 분석\n예약팀 기록상 오후 취소 열두 건 중 아홉 건이 입장 마감 직전에 접수되었습니다. 이 집중은 이후 처리 지연의 배경 요인일 가능성이 있습니다. 다만 취소 사유가 없는 건이 많아 직접 원인으로 확정하지 않았습니다.",
+    "cloze": "배경 요인일 가능성이 있습니다",
+    "answer": "배경 요인일 가능성이 있습니다",
+    "accepted_answers": [],
+    "lemma": "취소 집중을 잠정 배경 요인으로 해석",
+    "meaning": "treating concentrated cancellations as a possible background factor",
+    "audio": "work/audio/ko-KR/05/ko-05-2212.mp3"
+  },
+  {
+    "id": "ko-05-2213",
+    "sentence": "온라인 상담 조사 한계\n조사는 평일 오후에 접속한 이용자만을 대상으로 했습니다. 야간 신청자는 조사에서 빠졌습니다. 따라서 결과를 전체 신청자의 이용 경험으로 넓혀 해석해서는 안 됩니다.",
+    "cloze": "야간 신청자는 조사에서 빠졌습니다",
+    "answer": "야간 신청자는 조사에서 빠졌습니다",
+    "accepted_answers": [],
+    "lemma": "야간 신청자 누락에 따른 조사 한계",
+    "meaning": "noting the omission of nighttime applicants from the survey",
+    "audio": "work/audio/ko-KR/05/ko-05-2213.mp3"
+  },
+  {
+    "id": "ko-05-2214",
+    "sentence": "상담 수요 분석의 실무적 함의\n평일 오후 문의는 줄었지만 조사에 야간 신청자가 포함되지 않았습니다. 야간 창구 수요는 따로 확인해야 합니다. 고객지원팀이 다음 달 두 차례 야간 기록을 수집합니다.",
+    "cloze": "야간 창구 수요는 따로 확인해야 합니다",
+    "answer": "야간 창구 수요는 따로 확인해야 합니다",
+    "accepted_answers": [],
+    "lemma": "조사 누락에서 야간 확인 과제 도출",
+    "meaning": "deriving a separate nighttime-demand check from a coverage gap",
+    "audio": "work/audio/ko-KR/05/ko-05-2214.mp3"
+  },
+  {
+    "id": "ko-05-2215",
+    "sentence": "분리배출 안내 개선 권고\n시설관리팀의 세 지점 관찰 기록에서는 그림이 있는 안내판 앞에서 분류 오류가 적었습니다. 두 지점에서 한 달간 시험하길 권고합니다. 확대 여부는 시험 뒤 시설관리팀이 다시 판단해야 합니다.",
+    "cloze": "두 지점에서 한 달간 시험하길 권고합니다",
+    "answer": "두 지점에서 한 달간 시험하길 권고합니다",
+    "accepted_answers": [],
+    "lemma": "두 지점 한정 시범 운영 권고",
+    "meaning": "recommending a one-month trial at two sites",
+    "audio": "work/audio/ko-KR/05/ko-05-2215.mp3"
+  },
+  {
+    "id": "ko-05-2216",
+    "sentence": "회의실 개방 요청 처리 현황\n신청서와 안전 계획은 운영지원팀에 접수되었습니다. 최종 승인 여부는 현장 점검 뒤 결정됩니다. 시설팀은 화요일에 비상 통로를 확인하고 결과를 운영과장에게 보고합니다.",
+    "cloze": "최종 승인 여부는 현장 점검 뒤 결정됩니다",
+    "answer": "최종 승인 여부는 현장 점검 뒤 결정됩니다",
+    "accepted_answers": [],
+    "lemma": "현장 점검 뒤로 최종 승인 유보",
+    "meaning": "leaving final approval pending until an onsite inspection",
+    "audio": "work/audio/ko-KR/05/ko-05-2216.mp3"
+  },
+  {
+    "id": "ko-05-2217",
+    "sentence": "방문 교육 신청 처리 절차\n먼저 신청 번호와 첨부 자료를 대조합니다. 그다음 교육 담당자가 참가 조건을 확인합니다. 조건을 충족하면 일정 담당자가 신청자에게 가능한 날짜를 보냅니다.",
+    "cloze": "먼저 신청 번호와 첨부 자료를 대조합니다",
+    "answer": "먼저 신청 번호와 첨부 자료를 대조합니다",
+    "accepted_answers": [],
+    "lemma": "방문 교육 신청의 첫 대조 단계",
+    "meaning": "first matching the application number with its attachments",
+    "audio": "work/audio/ko-KR/05/ko-05-2217.mp3"
+  },
+  {
+    "id": "ko-05-2218",
+    "sentence": "무인 출입 기록 확인 절차\n평소에는 전자 출입 기록으로 이용 시각을 확인합니다. 정전이 발생한 날에는 수기 방문 기록으로 확인합니다. 수기 기록에는 안내 직원과 방문자가 함께 확인한 시각과 서명이 있어야 합니다.",
+    "cloze": "수기 방문 기록으로 확인합니다",
+    "answer": "수기 방문 기록으로 확인합니다",
+    "accepted_answers": [],
+    "lemma": "정전일 수기 출입 확인 절차",
+    "meaning": "checking access through handwritten visitor records during outages",
+    "audio": "work/audio/ko-KR/05/ko-05-2218.mp3"
+  },
+  {
+    "id": "ko-05-2219",
+    "sentence": "발표 진행 메모\n먼저 시설운영팀이 제공한 세 지점의 이용 기록을 비교하겠습니다. 이어서 한계와 제안을 말씀드리겠습니다. 제안의 시행 여부는 오늘 발표에서 결정하지 않습니다.",
+    "cloze": "이어서 한계와 제안을 말씀드리겠습니다",
+    "answer": "이어서 한계와 제안을 말씀드리겠습니다",
+    "accepted_answers": [],
+    "lemma": "발표에서 한계와 제안으로 전환",
+    "meaning": "transitioning the presentation to limitations and proposals",
+    "audio": "work/audio/ko-KR/05/ko-05-2219.mp3"
+  },
+  {
+    "id": "ko-05-2220",
+    "sentence": "발표 결론\n운영위원회 결정에 따라 평일 시범을 한 달 연장합니다. 이 결론은 운영지원팀의 등록 이용자 기록에만 근거합니다. 지금부터는 연장 범위에 관한 질문만 받겠습니다.",
+    "cloze": "평일 시범을 한 달 연장합니다",
+    "answer": "평일 시범을 한 달 연장합니다",
+    "accepted_answers": [],
+    "lemma": "승인된 시범 연장 결론 제시",
+    "meaning": "announcing the approved one-month extension of the weekday trial",
+    "audio": "work/audio/ko-KR/05/ko-05-2220.mp3"
+  },
+  {
+    "id": "ko-05-2221",
+    "sentence": "제목: 인쇄물 납품 수량 확인 요청\n납품표에는 백이십 부, 수령 기록에는 백십팔 부로 적혀 있습니다. 수정 수량을 회신해 주시기 바랍니다. 회신 기한은 목요일 정오이며, 확인된 수량은 구매 담당자가 정산에 반영합니다.",
+    "cloze": "수정 수량을 회신해 주시기 바랍니다",
+    "answer": "수정 수량을 회신해 주시기 바랍니다",
+    "accepted_answers": [],
+    "lemma": "납품 수량 정정 회신 요청",
+    "meaning": "requesting a reply with the corrected delivery quantity",
+    "audio": "work/audio/ko-KR/05/ko-05-2221.mp3"
+  },
+  {
+    "id": "ko-05-2222",
+    "sentence": "제목: 접근성 점검 회의 일정 변경 안내\n시설팀의 현장 일정과 겹쳐 회의가 연기되었습니다. 금요일 오후로 변경되었음을 알려 드립니다. 장소는 본관 소회의실이며 참석이 어려우면 목요일까지 회신해 주십시오.",
+    "cloze": "금요일 오후로 변경되었음을 알려 드립니다",
+    "answer": "금요일 오후로 변경되었음을 알려 드립니다",
+    "accepted_answers": [],
+    "lemma": "접근성 회의 일정 변경 통보",
+    "meaning": "notifying recipients that the meeting moved to Friday afternoon",
+    "audio": "work/audio/ko-KR/05/ko-05-2222.mp3"
+  },
+  {
+    "id": "ko-05-2223",
+    "sentence": "제목: 공동 창고 이용 문의 접수 안내\n문의 내용은 물류지원팀에 전달했습니다. 보완 자료는 이 메일로 답장해 주십시오. 다른 주소로 보내면 기존 접수 번호와 연결되지 않을 수 있습니다.",
+    "cloze": "보완 자료는 이 메일로 답장해 주십시오",
+    "answer": "보완 자료는 이 메일로 답장해 주십시오",
+    "accepted_answers": [],
+    "lemma": "문의 보완 자료의 회신 경로 지정",
+    "meaning": "directing supplementary material to the same email thread",
+    "audio": "work/audio/ko-KR/05/ko-05-2223.mp3"
+  },
+  {
+    "id": "ko-05-2224",
+    "sentence": "시설 보수 회의 결정 사항\n서쪽 계단의 미끄럼 방지판을 교체하기로 했습니다. 시설팀이 수요일까지 교체를 맡습니다. 운영지원팀은 목요일 아침 현장을 확인하고 이용 재개 여부를 공지합니다.",
+    "cloze": "시설팀이 수요일까지 교체를 맡습니다",
+    "answer": "시설팀이 수요일까지 교체를 맡습니다",
+    "accepted_answers": [],
+    "lemma": "계단 보수 담당과 기한 명시",
+    "meaning": "assigning the stairway replacement to the facilities team by Wednesday",
+    "audio": "work/audio/ko-KR/05/ko-05-2224.mp3"
+  },
+  {
+    "id": "ko-05-2225",
+    "sentence": "주말 상담 운영안\n이 문서는 시범 운영을 제안하는 안입니다. 예산 배정이나 시행 승인을 뜻하지 않습니다. 운영위원회는 이용자 수와 인력 계획을 받은 뒤 승인 여부를 결정합니다.",
+    "cloze": "시범 운영을 제안하는 안입니다",
+    "answer": "시범 운영을 제안하는 안입니다",
+    "accepted_answers": [],
+    "lemma": "주말 상담안의 미승인 제안 상태",
+    "meaning": "marking the weekend consultation plan as a proposal, not approval",
+    "audio": "work/audio/ko-KR/05/ko-05-2225.mp3"
+  },
+  {
+    "id": "ko-05-2226",
+    "sentence": "택배 보관함 운영 보고\n물류지원팀의 지난달 운영 기록에서 미수령 상자는 열네 개에서 아홉 개로 줄었습니다. 기록상 확인된 결과입니다. 보관 기간을 늘리자는 권고는 이 결과와 이용자 면담을 함께 고려해 별도로 제시합니다.",
+    "cloze": "기록상 확인된 결과입니다",
+    "answer": "기록상 확인된 결과입니다",
+    "accepted_answers": [],
+    "lemma": "보관함 확인 결과와 후속 권고 분리",
+    "meaning": "separating a verified locker result from a later recommendation",
+    "audio": "work/audio/ko-KR/05/ko-05-2226.mp3"
+  },
+  {
+    "id": "ko-05-2227",
+    "sentence": "행사 사진 보관 절차\n원본은 촬영 날짜와 담당자 이름으로 분류해야 합니다. 공개용 사본의 크기는 정해진 기준을 따릅니다. 공개용 사진의 배열 방식은 담당자와 협의해 정합니다.",
+    "cloze": "배열 방식은 담당자와 협의해 정합니다",
+    "answer": "배열 방식은 담당자와 협의해 정합니다",
+    "accepted_answers": [],
+    "lemma": "사진 보관 의무와 배열 재량 구별",
+    "meaning": "distinguishing required storage rules from discretionary photo arrangement",
+    "audio": "work/audio/ko-KR/05/ko-05-2227.mp3"
+  },
+  {
+    "id": "ko-05-2228",
+    "sentence": "공용 프린터 축소안에 대한 답변\n장비 이용 기록에는 보행 보조기구를 쓰는 직원 세 명이 동쪽 사무실 기기를 이용한 것으로 나옵니다. 비용 절감 효과는 인정하지만, 한 대만 남기면 이 직원들의 접근성이 낮아질 수 있습니다. 따라서 동쪽 사무실의 기기는 유지하고 석 달 뒤 이용량을 다시 비교하겠습니다.",
+    "cloze": "비용 절감 효과는 인정하지만",
+    "answer": "비용 절감 효과는 인정하지만",
+    "accepted_answers": [],
+    "lemma": "비용 이점 인정 뒤 접근성 반론",
+    "meaning": "conceding cost savings before raising an accessibility objection",
+    "audio": "work/audio/ko-KR/05/ko-05-2228.mp3"
+  },
+  {
+    "id": "ko-05-2229",
+    "sentence": "진행자: 이 수치는 누가 확정한 결과입니까?\n분석가: 운영 기록은 기획팀이 제공했지만 원인 설명은 아직 확인되지 않았습니다.\n진행자: 그러면 ‘배치 변경 때문에 줄었다’는 문장은 어떤 성격입니까?\n분석가: 분석팀의 잠정 해석입니다.",
+    "cloze": "분석팀의 잠정 해석입니다",
+    "answer": "분석팀의 잠정 해석입니다",
+    "accepted_answers": [],
+    "lemma": "운영 수치와 잠정 해석의 주체 식별",
+    "meaning": "identifying a causal statement as the analysis team's tentative interpretation",
+    "audio": "work/audio/ko-KR/05/ko-05-2229.mp3"
+  },
+  {
+    "id": "ko-05-2230",
+    "sentence": "제안자: 두 지점 시험안을 오늘 바로 시행해도 됩니까?\n간사: 오늘 회의는 제안 내용을 정리하는 자리입니다.\n제안자: 시행 여부를 정하는 주체는 누구입니까?\n간사: 승인은 운영위원회가 결정합니다.",
+    "cloze": "승인은 운영위원회가 결정합니다",
+    "answer": "승인은 운영위원회가 결정합니다",
+    "accepted_answers": [],
+    "lemma": "시범 시행 승인 권한 식별",
+    "meaning": "identifying the operating committee as the trial's approval authority",
+    "audio": "work/audio/ko-KR/05/ko-05-2230.mp3"
+  },
+  {
+    "id": "ko-05-2231",
+    "sentence": "검토자: 이 누수 사진을 보고서에 실어도 됩니까?\n작성자: 시설팀이 점검 때 촬영한 사진이고, 저희는 사용 허락을 요청한 상태입니다.\n검토자: 원자료를 관리하고 사용을 허락할 부서는 어디입니까?\n작성자: 원자료 관리 책임은 시설팀에 있습니다.",
+    "cloze": "원자료 관리 책임은 시설팀에 있습니다",
+    "answer": "원자료 관리 책임은 시설팀에 있습니다",
+    "accepted_answers": [],
+    "lemma": "누수 사진 원자료 관리 책임 식별",
+    "meaning": "identifying the facilities team as responsible for the source photograph",
+    "audio": "work/audio/ko-KR/05/ko-05-2231.mp3"
+  },
+  {
+    "id": "ko-05-2232",
+    "sentence": "수신자: 오늘 메일은 시행 통보입니까?\n발신자: 아닙니다. 운영 방식 세 가지에 대한 의견을 받으려는 메일입니다.\n수신자: 오늘 확정된 조치가 있습니까?\n발신자: 검토 의견만 전달합니다. 시행 결정은 운영위원회에 남아 있습니다.",
+    "cloze": "검토 의견만 전달합니다",
+    "answer": "검토 의견만 전달합니다",
+    "accepted_answers": [],
+    "lemma": "검토 의견 전달과 시행 통보 구별",
+    "meaning": "clarifying that the email conveys review comments rather than implementation",
+    "audio": "work/audio/ko-KR/05/ko-05-2232.mp3"
+  },
+  {
+    "id": "ko-05-2233",
+    "sentence": "팀장: 어제 공급업체 메일의 핵심 요청이 무엇이었습니까?\n담당자: 납품표의 단위를 고치고 사진 한 장을 추가해 달라고 했습니다.\n팀장: 기한도 정해졌습니까?\n담당자: 목요일까지 보완본을 요청했습니다.",
+    "cloze": "목요일까지 보완본을 요청했습니다",
+    "answer": "목요일까지 보완본을 요청했습니다",
+    "accepted_answers": [],
+    "lemma": "공급업체 보완 요청 기한 파악",
+    "meaning": "identifying Thursday as the deadline requested for the revised version",
+    "audio": "work/audio/ko-KR/05/ko-05-2233.mp3"
+  },
+  {
+    "id": "ko-05-2234",
+    "sentence": "민원인: 배송 지연 답변은 어느 부서에서 줍니까?\n접수자: 물류팀이 위치를 확인한 뒤 결과를 저희에게 넘깁니다.\n민원인: 제가 다시 연락할 곳도 물류팀입니까?\n접수자: 후속 연락은 고객지원팀이 맡습니다.",
+    "cloze": "후속 연락은 고객지원팀이 맡습니다",
+    "answer": "후속 연락은 고객지원팀이 맡습니다",
+    "accepted_answers": [],
+    "lemma": "배송 지연 후속 연락 담당 식별",
+    "meaning": "identifying customer support as owner of follow-up communication",
+    "audio": "work/audio/ko-KR/05/ko-05-2234.mp3"
+  },
+  {
+    "id": "ko-05-2235",
+    "sentence": "[팔월 첫째 주 상담 대기 현황]\n기간: 팔월 첫째 주\n근거: 상담 접수 시각 사십팔 건\n결과: 평균 대기 시간이 십이 분에서 아홉 분으로 줄었음\n한계: 토요일 기록은 포함하지 않음",
+    "cloze": "[팔월 첫째 주 상담 대기 현황]",
+    "answer": "[팔월 첫째 주 상담 대기 현황]",
+    "accepted_answers": [],
+    "lemma": "주간 상담 현황의 대괄호 제목 표기",
+    "meaning": "a bracketed heading for a weekly consultation wait report",
+    "audio": "work/audio/ko-KR/05/ko-05-2235.mp3"
+  },
+  {
+    "id": "ko-05-2236",
+    "sentence": "인쇄물 교정 확인표\n확인 항목: 수량, 단위, 기준일\n수량은 납품표와 일치함. 단위 한 곳은 수정 필요. 기준일은 팔월 십사일로 통일함.",
+    "cloze": "확인 항목: 수량, 단위, 기준일",
+    "answer": "확인 항목: 수량, 단위, 기준일",
+    "accepted_answers": [],
+    "lemma": "교정 확인표의 콜론과 병렬 항목 표기",
+    "meaning": "formatting a checklist label with a colon and parallel comma-separated items",
+    "audio": "work/audio/ko-KR/05/ko-05-2236.mp3"
+  },
+  {
+    "id": "ko-05-2237",
+    "sentence": "시설 점검 기록\n현장 기록에는 “서쪽 문 앞에 물 고임”이라고 적었습니다. 점검자는 물 고임을 관찰했지만 원인은 배수관 검사 뒤에 판단하기로 했습니다.",
+    "cloze": "“서쪽 문 앞에 물 고임”",
+    "answer": "“서쪽 문 앞에 물 고임”",
+    "accepted_answers": [],
+    "lemma": "시설 관찰 문구의 직접 인용 표기",
+    "meaning": "punctuating a directly quoted field observation",
+    "audio": "work/audio/ko-KR/05/ko-05-2237.mp3"
+  },
+  {
+    "id": "ko-05-2238",
+    "sentence": "제목: 시설 이용 통계 재검토 요청\n수신: 문화사업팀\n칠월 표의 합계와 본문 수치가 달라 다시 확인을 요청드립니다. 화요일 정오까지 수정 여부를 회신해 주십시오.",
+    "cloze": "제목: 시설 이용 통계 재검토 요청",
+    "answer": "제목: 시설 이용 통계 재검토 요청",
+    "accepted_answers": [],
+    "lemma": "통계 재검토 메일의 제목란 표기",
+    "meaning": "formatting the subject line of a statistics recheck email",
+    "audio": "work/audio/ko-KR/05/ko-05-2238.mp3"
+  },
+  {
+    "id": "ko-05-2239",
+    "sentence": "반품 처리 기록\n접수 사유: 수량 불일치\n확인 결과: 주문서보다 두 개 적게 도착함\n처리 결과: 담당자 지정 완료\n다음 조치: 물류 담당자가 수요일까지 재출고 일정을 통보함",
+    "cloze": "담당자 지정 완료",
+    "answer": "담당자 지정 완료",
+    "accepted_answers": [],
+    "lemma": "반품 처리 결과의 명사형 완료 표기",
+    "meaning": "nominal-style notation marking assignment of an owner as complete",
+    "audio": "work/audio/ko-KR/05/ko-05-2239.mp3"
+  },
+  {
+    "id": "ko-05-2240",
+    "sentence": "제목: 야간 강좌 신청 인원 확인\n수신: 지역협력센터 교육담당자 귀하\n평생교육팀에서는 강의실 배정을 위해 예상 인원을 확인하고 있습니다. 월요일 오후 세 시까지 참가 가능 여부를 이 메일로 회신해 주시기 바랍니다.\n늘푸른연구소 운영기획팀 드림",
+    "cloze": "늘푸른연구소 운영기획팀 드림",
+    "answer": "늘푸른연구소 운영기획팀 드림",
+    "accepted_answers": [],
+    "lemma": "기관 업무 메일의 발신팀 맺음말",
+    "meaning": "a formal institutional closing identifying the sending team",
+    "audio": "work/audio/ko-KR/05/ko-05-2240.mp3"
   }
 ]
