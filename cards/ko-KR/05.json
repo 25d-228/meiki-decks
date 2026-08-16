@@ -27235,5 +27235,405 @@
     "lemma": "회의록에서 계속 운영 여부의 보류 결정을 기록하다",
     "meaning": "record that the decision on continuing evening operations is deferred",
     "audio": "work/audio/ko-KR/05/ko-05-2720.mp3"
+  },
+  {
+    "id": "ko-05-2721",
+    "sentence": "새 출입 관리 시스템은 설치와 사용자 교육을 끝냈다. 그러나 정보보호부장의 출입 권한표 승인이 예정보다 엿새 늦어져 통합 시험을 시작하지 못했다. 현재 출입 권한 승인이 일정의 발목을 잡고 있다. 승인 전에는 기존 출입증을 유지하며, 운영팀은 금요일에 승인 상태를 다시 보고한다.",
+    "cloze": "출입 권한 승인이 일정의 발목을 잡고 있다",
+    "answer": "출입 권한 승인이 일정의 발목을 잡고 있다",
+    "accepted_answers": [],
+    "lemma": "출입 권한 승인 지연이 시스템 시험 일정의 발목을 잡다",
+    "meaning": "hold up a schedule because access authorization is delayed",
+    "audio": "work/audio/ko-KR/05/ko-05-2721.mp3"
+  },
+  {
+    "id": "ko-05-2722",
+    "sentence": "연구팀은 응답자 스무 명의 제출 화면이 비어 있는 이유를 처음에는 중도 이탈로 보았다. 그러나 서버 접속 기록에는 같은 시각 인증 오류가 열여섯 건 남아 있었다. 연구팀은 접속 기록에서 원인의 실마리를 찾았다. 다만 오류가 누락을 일으켰다고 확정하려면 재현 시험이 필요하다.",
+    "cloze": "접속 기록에서 원인의 실마리를 찾았다",
+    "answer": "접속 기록에서 원인의 실마리를 찾았다",
+    "accepted_answers": [],
+    "lemma": "접속 기록에서 설문 누락 원인의 실마리를 찾다",
+    "meaning": "find a clue to the cause in access records",
+    "audio": "work/audio/ko-KR/05/ko-05-2722.mp3"
+  },
+  {
+    "id": "ko-05-2723",
+    "sentence": "가안의 월 사용료는 십이만 원이고 나안은 이십만 원이다. 장애 복구 시험에서 가안은 스무 건 중 네 건을 복구하지 못했지만 나안은 모두 복구했다. 기록 보존이 핵심인 여섯 달 사업이라 기획자는 복구 가능성에 더 무게를 두었다. 나안 채택 여부는 정보관리위원회가 결정한다.",
+    "cloze": "복구 가능성에 더 무게를 두었다",
+    "answer": "복구 가능성에 더 무게를 두었다",
+    "accepted_answers": [],
+    "lemma": "저장 방식 선택에서 복구 가능성에 무게를 두다",
+    "meaning": "give greater weight to recoverability when comparing storage options",
+    "audio": "work/audio/ko-KR/05/ko-05-2723.mp3"
+  },
+  {
+    "id": "ko-05-2724",
+    "sentence": "교통과는 시청 옆 공영 주차장의 토요일 이용률이 오전에는 아흔두 퍼센트, 오후 네 시 이후에는 마흔일곱 퍼센트라고 보고했다. 주민위원회는 유료 운영 시간을 종일로 늘리는 안에는 반대했지만 혼잡한 오전만 대상으로 다시 검토하기로 했다. 회의록은 시간대 조정의 여지를 남겼다. 변경 권한은 교통과장에게 있으며 아직 결정된 요금은 없다.",
+    "cloze": "시간대 조정의 여지를 남겼다",
+    "answer": "시간대 조정의 여지를 남겼다",
+    "accepted_answers": [],
+    "lemma": "공영 주차장 시간대 조정의 여지를 남기다",
+    "meaning": "leave room for a narrower adjustment of operating hours",
+    "audio": "work/audio/ko-KR/05/ko-05-2724.mp3"
+  },
+  {
+    "id": "ko-05-2725",
+    "sentence": "영상 구독 서비스가 세 차례 중단되자 이용자협의회는 월 요금의 삼십 퍼센트 환급을 요구했고, 업체는 이십 퍼센트를 제안했다. 양측 실무자는 중단 시간과 미이용 기간을 대조해 이십오 퍼센트안을 공동으로 올리기로 합의하며 환급 범위를 두고 입장 차이를 좁혔다. 다만 최종 환급률은 업체 책임자 승인 뒤 확정된다.",
+    "cloze": "환급 범위를 두고 입장 차이를 좁혔다",
+    "answer": "환급 범위를 두고 입장 차이를 좁혔다",
+    "accepted_answers": [],
+    "lemma": "구독 환급 범위에 관한 입장 차이를 좁히다",
+    "meaning": "narrow a disagreement over the extent of a refund",
+    "audio": "work/audio/ko-KR/05/ko-05-2725.mp3"
+  },
+  {
+    "id": "ko-05-2726",
+    "sentence": "기획전 개장 점검이 한 시간 늦어져 토요일 첫 입장 시각이 오전 열 시에서 열한 시로 확정되었다. 홍보팀은 예매자에게 새 시각, 대기 장소, 환불 신청 경로를 함께 보냈다. 즉, 관람객에게 변경된 입장 시간을 안내했다. 전시는 토요일에 열리므로 이 메시지는 취소 통보가 아니다.",
+    "cloze": "관람객에게 변경된 입장 시간을 안내했다",
+    "answer": "관람객에게 변경된 입장 시간을 안내했다",
+    "accepted_answers": [],
+    "lemma": "전시 입장 시간 변경을 관람객에게 안내하다",
+    "meaning": "provide visitors with practical information about a changed admission time",
+    "audio": "work/audio/ko-KR/05/ko-05-2726.mp3"
+  },
+  {
+    "id": "ko-05-2727",
+    "sentence": "야간 근무 주민 마흔여덟 명을 대상으로 한 설문에서 서른한 명이 운영 시간이 맞지 않아 돌봄 프로그램을 이용하지 못했다고 답했다. 주민 대표는 돌봄 공백을 지적했다. 구청 담당자는 응답자가 자원한 야간 근무 주민에 한정된다는 점을 인정하고, 다른 시간대 근무자까지 조사한 뒤 연장안을 심의하기로 했다.",
+    "cloze": "주민 대표는 돌봄 공백을 지적했다",
+    "answer": "주민 대표는 돌봄 공백을 지적했다",
+    "accepted_answers": [],
+    "lemma": "주민 대표가 조사 근거로 돌봄 공백을 지적하다",
+    "meaning": "point out a gap in care provision on behalf of residents",
+    "audio": "work/audio/ko-KR/05/ko-05-2727.mp3"
+  },
+  {
+    "id": "ko-05-2728",
+    "sentence": "발표자: 오늘은 자료 이전 시범의 결과와 위험 요인을 먼저 보고드리겠습니다. 세부 일정은 질의응답에서 설명하겠습니다.\n검토위원: 그렇다면 오늘 발표에서는 무엇까지 확정된 것으로 봐야 합니까?\n발표자: 오류율이 기준 아래였다는 결과만 확인되었고, 전환일은 운영위원회가 다음 주에 결정합니다.",
+    "cloze": "세부 일정은 질의응답에서 설명하겠습니다",
+    "answer": "세부 일정은 질의응답에서 설명하겠습니다",
+    "accepted_answers": [],
+    "lemma": "발표 질의응답에서 사업 세부 일정을 설명하다",
+    "meaning": "reserve the detailed schedule for the formal question-and-answer period",
+    "audio": "work/audio/ko-KR/05/ko-05-2728.mp3"
+  },
+  {
+    "id": "ko-05-2729",
+    "sentence": "제목: 근무지 변경 결정 통보\n보내는 사람: 인사팀장\n받는 사람: 김서현 대리\n인사위원회가 팔월 이십일에 제출된 배치안을 승인했습니다. 이에 따라 확정된 근무지 변경을 통보드립니다. 근무지는 시월 일일부터 본사 자료관리실로 변경되며, 인계 목록은 구월 이십오일까지 인사 게시판에 올려 주십시오. 사실관계에 오류가 있으면 이 메일로 회신해 주시기 바랍니다.",
+    "cloze": "확정된 근무지 변경을 통보드립니다",
+    "answer": "확정된 근무지 변경을 통보드립니다",
+    "accepted_answers": [],
+    "lemma": "확정된 근무지 변경을 대상 직원에게 통보하다",
+    "meaning": "formally notify an employee of a finalized workplace reassignment",
+    "audio": "work/audio/ko-KR/05/ko-05-2729.mp3"
+  },
+  {
+    "id": "ko-05-2730",
+    "sentence": "온라인 보충 세미나에 참여한 예순네 명 가운데 쉰두 명이 도움이 됐다고 응답했다. 전체 수강생은 삼백 명이지만 비참여자에게는 설문하지 않았다. 연구진은 표본의 한계를 분명히 밝혔다. 따라서 결과는 참여자의 평가로만 해석하며 다음 조사에는 비참여자를 포함한다.",
+    "cloze": "연구진은 표본의 한계를 분명히 밝혔다",
+    "answer": "연구진은 표본의 한계를 분명히 밝혔다",
+    "accepted_answers": [],
+    "lemma": "연구 보고서에서 자원 표본의 한계를 밝히다",
+    "meaning": "state the limitation of a voluntary sample clearly",
+    "audio": "work/audio/ko-KR/05/ko-05-2730.mp3"
+  },
+  {
+    "id": "ko-05-2731",
+    "sentence": "계정 복구 지침에 따르면 신청자는 사번과 등록 연락처를 제출한다. 담당자가 두 항목의 일치를 확인하면 임시 접속 주소를 발급한다. 지원팀은 이용자에게 복구 절차를 안내한다. 본인 확인이 끝나지 않은 계정은 복구하지 않으며, 예외 여부는 정보보호팀장이 결정한다.",
+    "cloze": "지원팀은 이용자에게 복구 절차를 안내한다",
+    "answer": "지원팀은 이용자에게 복구 절차를 안내한다",
+    "accepted_answers": [],
+    "lemma": "계정 복구 절차를 이용자에게 안내하다",
+    "meaning": "guide a user through the approved account-recovery procedure",
+    "audio": "work/audio/ko-KR/05/ko-05-2731.mp3"
+  },
+  {
+    "id": "ko-05-2732",
+    "sentence": "전기 안전 점검 때문에 마을 작은도서관은 수요일 오후 한 시부터 네 시까지 문을 닫는다. 구청은 누리집과 현관 게시판을 통해 주민에게 임시 휴관 사실을 알렸다. 반납함은 계속 이용할 수 있으며, 가까운 대체 도서관의 위치와 이동 방법은 별도 안내문에서 설명했다.",
+    "cloze": "주민에게 임시 휴관 사실을 알렸다",
+    "answer": "주민에게 임시 휴관 사실을 알렸다",
+    "accepted_answers": [],
+    "lemma": "전기 안전 점검에 따른 임시 휴관 사실을 주민에게 알리다",
+    "meaning": "inform residents that a public facility will close temporarily",
+    "audio": "work/audio/ko-KR/05/ko-05-2732.mp3"
+  },
+  {
+    "id": "ko-05-2733",
+    "sentence": "이용자는 약정이 세 달 남은 정수기 구독을 종료하려 했지만 계약서에는 기기 회수비만 적혀 있었다. 그는 상담원에게 금액을 추측해 달라고 하지 않고 계약 번호와 희망 종료일을 적어 중도 해지 수수료를 서면으로 문의했다. 업체는 산정 근거와 견적의 유효 기간을 다음 영업일까지 답하기로 했다.",
+    "cloze": "중도 해지 수수료를 서면으로 문의했다",
+    "answer": "중도 해지 수수료를 서면으로 문의했다",
+    "accepted_answers": [],
+    "lemma": "구독 중도 해지 수수료를 서면으로 문의하다",
+    "meaning": "make a written inquiry about an early-termination fee",
+    "audio": "work/audio/ko-KR/05/ko-05-2733.mp3"
+  },
+  {
+    "id": "ko-05-2734",
+    "sentence": "문화정책 연구 발표에서 발표자는 지역 공연 영상의 사월부터 유월까지 누적 조회 수가 이만 회라고 말했다. 청중 한 명은 이 수치가 월별 수치인지 석 달 누적 수치인지 분명하지 않다며 자료 집계 기간을 발표자에게 질의했다. 발표자는 사월부터 유월까지의 누적 수치라고 답하고 슬라이드 표기를 고치기로 했다.",
+    "cloze": "자료 집계 기간을 발표자에게 질의했다",
+    "answer": "자료 집계 기간을 발표자에게 질의했다",
+    "accepted_answers": [],
+    "lemma": "문화 자료의 집계 기간을 발표자에게 질의하다",
+    "meaning": "formally question a presenter about a data-collection period",
+    "audio": "work/audio/ko-KR/05/ko-05-2734.mp3"
+  },
+  {
+    "id": "ko-05-2735",
+    "sentence": "지역위원회는 야간 근무자가 있는 쉰 가구를 조사했고, 그중 서른네 가구가 오후 여섯 시 이후의 돌봄이 필요하다고 답했다. 위원회는 야간 돌봄 확대를 주장했다. 다만 이 조사는 해당 가구의 수요만 보여 주므로 구청은 전체 지역의 예상 이용 인원과 인력 비용을 추가로 확인한 뒤 결정한다.",
+    "cloze": "위원회는 야간 돌봄 확대를 주장했다",
+    "answer": "위원회는 야간 돌봄 확대를 주장했다",
+    "accepted_answers": [],
+    "lemma": "주민 위원회가 야간 돌봄 확대를 주장하다",
+    "meaning": "argue for expanded evening care as the committee's stated position",
+    "audio": "work/audio/ko-KR/05/ko-05-2735.mp3"
+  },
+  {
+    "id": "ko-05-2736",
+    "sentence": "납품표에는 의자 수량이 백이십 개로 맞게 적혀 있었지만, 무게 단위가 그램이 아니라 킬로그램으로 표시되어 있었다. 원 견적서와 계량표에서 실제 단위를 확인한 담당자는 표의 단위 오류만 수정했다. 수량, 납품일, 검수 상태는 근거가 없으므로 바꾸지 않았다.",
+    "cloze": "표의 단위 오류만 수정했다",
+    "answer": "표의 단위 오류만 수정했다",
+    "accepted_answers": [],
+    "lemma": "납품표의 단위 오류만 수정하다",
+    "meaning": "correct only a unit error in a delivery table",
+    "audio": "work/audio/ko-KR/05/ko-05-2736.mp3"
+  },
+  {
+    "id": "ko-05-2737",
+    "sentence": "지난달 부서 이동 업무 열한 건 가운데 일곱 건에서 후속 담당자나 수령 확인이 빠졌다. 운영팀은 인계표에 현재 상태, 남은 일, 새 담당자, 확인 시각을 필수로 적게 했다. 이렇게 부서 간 인계 절차를 개선했다. 이번 달에는 같은 유형의 누락이 한 건뿐이었으며 운영팀장이 다음 달에도 기록을 점검한다.",
+    "cloze": "부서 간 인계 절차를 개선했다",
+    "answer": "부서 간 인계 절차를 개선했다",
+    "accepted_answers": [],
+    "lemma": "부서 간 인계 절차를 개선하다",
+    "meaning": "improve a departmental handoff process",
+    "audio": "work/audio/ko-KR/05/ko-05-2737.mp3"
+  },
+  {
+    "id": "ko-05-2738",
+    "sentence": "한 통계 수업에서 출석률이 높은 학생들이 같은 주에 치른 평가에서도 높은 점수를 받았다. 그러나 사전 성취도와 과제 제출 여부가 통제되지 않아 출석이 점수 상승의 원인이라고 할 수 없었다. 교수는 상관관계와 인과관계의 차이를 설명했다. 학생들은 다음 분석에서 사전 성취도와 과제 제출 여부를 통제하기로 했다.",
+    "cloze": "상관관계와 인과관계의 차이를 설명했다",
+    "answer": "상관관계와 인과관계의 차이를 설명했다",
+    "accepted_answers": [],
+    "lemma": "수업에서 상관관계와 인과관계의 차이를 설명하다",
+    "meaning": "explain the distinction between correlation and causation",
+    "audio": "work/audio/ko-KR/05/ko-05-2738.mp3"
+  },
+  {
+    "id": "ko-05-2739",
+    "sentence": "자료실 계정에서 새벽 두 시에 로그인 실패가 세 차례 기록되었지만 장비 고장으로 이후 십팔 분의 접속 기록이 남지 않았다. 보안팀은 외부 열람이 확인되었다고 쓰지 않았다. 동시에 기록이 비어 있으므로 외부 접근 가능성을 배제하지 않았다. 계정은 임시로 잠갔고 정보보호팀장이 원본 자료를 점검한다.",
+    "cloze": "외부 접근 가능성을 배제하지 않았다",
+    "answer": "외부 접근 가능성을 배제하지 않았다",
+    "accepted_answers": [],
+    "lemma": "불완전한 기록 때문에 외부 접근 가능성을 배제하지 않다",
+    "meaning": "not rule out external access when the logs are incomplete",
+    "audio": "work/audio/ko-KR/05/ko-05-2739.mp3"
+  },
+  {
+    "id": "ko-05-2740",
+    "sentence": "교통과는 저상버스 정류장 후보 여덟 곳을 검토했다. 단순히 승객 수만 따르지 않고 휠체어 이용자 열두 명을 면담하고 경사로가 있는 이동 구간을 지도에 표시했다. 최종 후보를 고를 때 교통 약자의 이동 경로를 반영했다. 설치안은 접근성위원회의 현장 확인 뒤 교통과장이 승인한다.",
+    "cloze": "교통 약자의 이동 경로를 반영했다",
+    "answer": "교통 약자의 이동 경로를 반영했다",
+    "accepted_answers": [],
+    "lemma": "저상버스 정류장 선정에 교통 약자의 이동 경로를 반영하다",
+    "meaning": "incorporate mobility-impaired passengers' routes into stop selection",
+    "audio": "work/audio/ko-KR/05/ko-05-2740.mp3"
+  },
+  {
+    "id": "ko-05-2741",
+    "sentence": "지역 장터는 접이식 의자 삼백 개를 빌릴 예정이다. 지난해 단가로 계산한 초안은 운송비 인상 전 금액이어서 업체의 이번 달 견적보다 팔 퍼센트 낮았다. 예산 담당자는 최근 가격 변동분을 예산에 반영했다. 이 금액은 예상 비용이며 실제 계약은 운영위원회 승인 뒤 체결한다.",
+    "cloze": "최근 가격 변동분을 예산에 반영했다",
+    "answer": "최근 가격 변동분을 예산에 반영했다",
+    "accepted_answers": [],
+    "lemma": "물품의 최근 가격 변동분을 행사 예산에 반영하다",
+    "meaning": "incorporate a recent price change into a budget estimate",
+    "audio": "work/audio/ko-KR/05/ko-05-2741.mp3"
+  },
+  {
+    "id": "ko-05-2742",
+    "sentence": "온라인 게시물은 시립극장 전체가 한 달간 문을 닫는다고 전했지만 원 공지는 소극장만 닷새간 닫는다고 적고 있었다. 문화부 기자는 게시물의 연결 주소와 극장 누리집의 수정 이력을 확인했다. 그는 원문과 정정 기록을 대조해 출처를 검증했다. 기사에는 확인된 소극장 일정만 담았다.",
+    "cloze": "원문과 정정 기록을 대조해 출처를 검증했다",
+    "answer": "원문과 정정 기록을 대조해 출처를 검증했다",
+    "accepted_answers": [],
+    "lemma": "기사 원문과 정정 기록을 대조해 출처를 검증하다",
+    "meaning": "verify a source by comparing the original notice with its correction record",
+    "audio": "work/audio/ko-KR/05/ko-05-2742.mp3"
+  },
+  {
+    "id": "ko-05-2743",
+    "sentence": "취업 상담은 평일 오후에만 열려 돌봄을 맡은 주민 스물한 명 중 열세 명이 예약을 취소했다. 복지팀은 저녁 화상 상담과 토요일 전화 상담을 한 달간 함께 시험하자고 제안했다. 이는 참여의 문턱을 낮추는 방안이다. 상담 인력표를 확인한 뒤 복지과장이 시범 여부를 결정한다.",
+    "cloze": "참여의 문턱을 낮추는 방안이다",
+    "answer": "참여의 문턱을 낮추는 방안이다",
+    "accepted_answers": [],
+    "lemma": "혼합 참여 방식으로 지역 프로그램 참여의 문턱을 낮추다",
+    "meaning": "lower the barrier to participating in a community service",
+    "audio": "work/audio/ko-KR/05/ko-05-2743.mp3"
+  },
+  {
+    "id": "ko-05-2744",
+    "sentence": "자료 납품이 사흘 늦어진 뒤 열린 회의에서 제작사는 파일 형식 변환을, 분석팀은 값 검증을 맡기로 한 기존 기록을 확인했다. 참석자들은 지연을 한쪽의 잘못으로 돌리지 않고 각 단계의 완료 시각을 대조했다. 책임 소재를 확인한 뒤 업무를 배정했다. 제작사는 수요일까지 변환본을 보내고 분석팀은 목요일까지 검증 결과를 보고한다.",
+    "cloze": "책임 소재를 확인한 뒤 업무를 배정했다",
+    "answer": "책임 소재를 확인한 뒤 업무를 배정했다",
+    "accepted_answers": [],
+    "lemma": "지연 업무의 책임 소재를 확인한 뒤 후속 업무를 배정하다",
+    "meaning": "assign follow-up work after clarifying responsibility for each stage",
+    "audio": "work/audio/ko-KR/05/ko-05-2744.mp3"
+  },
+  {
+    "id": "ko-05-2745",
+    "sentence": "팀장: 운영위원회가 비교표의 검토 결과를 본부장에게 직접 보고하라고 했습니다. 누가 맡겠습니까?\n김 대리: 비교 기준과 남은 위험까지 제가 정리했습니다. 제가 본부장님께 결과를 보고드리겠습니다.\n팀장: 채택 결정을 대신 내리는 것은 아닙니다. 두 안의 비용과 복구 시간을 그대로 말씀드리세요.\n김 대리: 네, 본부장님께서 결정하시면 승인 결과를 팀 게시판에 기록하겠습니다.",
+    "cloze": "제가 본부장님께 결과를 보고드리겠습니다",
+    "answer": "제가 본부장님께 결과를 보고드리겠습니다",
+    "accepted_answers": [],
+    "lemma": "실무자가 본부장에게 검토 결과를 보고드리다",
+    "meaning": "humbly report review results to a senior executive",
+    "audio": "work/audio/ko-KR/05/ko-05-2745.mp3"
+  },
+  {
+    "id": "ko-05-2746",
+    "sentence": "청중: 발표에서 소개한 학생 한 명은 온라인 지도로 통학 시간이 절반으로 줄었다고 했습니다. 이것이 확대 근거입니까?\n발표자: 그 학생의 경험은 개선 가능성을 설명하는 사례입니다. 그러나 참여자 여든 명의 전체 기록에서는 지난 학기와 이번 학기의 평균 통학 시간이 각각 사십이 분과 사십일 분이었습니다.\n청중: 그러면 사례와 근거를 어떻게 구분합니까?\n발표자: 그 사례만으로 결론을 뒷받침할 수 없습니다. 확대 여부는 전체 기록과 다음 학기 비교 결과를 함께 본 뒤 판단해야 합니다.",
+    "cloze": "그 사례만으로 결론을 뒷받침할 수 없습니다",
+    "answer": "그 사례만으로 결론을 뒷받침할 수 없습니다",
+    "accepted_answers": [],
+    "lemma": "설명 사례만으로 연구 결론을 뒷받침할 수 없다고 답하다",
+    "meaning": "state that an illustrative case alone cannot support a research conclusion",
+    "audio": "work/audio/ko-KR/05/ko-05-2746.mp3"
+  },
+  {
+    "id": "ko-05-2747",
+    "sentence": "운영부장: 예비 서버에 한 번 연결됐다는 확인만으로 안정성이 입증됩니까?\n기술담당자: 아닙니다. 그때는 접속 사실만 확인했습니다. 이후 단말기 스무 대에서 장애 전환을 다섯 번씩 시험했고 자료 손실은 한 건도 없었습니다.\n운영부장: 그렇다면 보고서의 ‘안정적’이라는 평가는 무엇에 근거합니까?\n기술담당자: 반복 시험으로 안정성을 검증한 결과입니다. 다만 장기 운영 자료가 없으므로 한 달간 제한적으로 운용하겠습니다.",
+    "cloze": "반복 시험으로 안정성을 검증한 결과입니다",
+    "answer": "반복 시험으로 안정성을 검증한 결과입니다",
+    "accepted_answers": [],
+    "lemma": "반복 장애 전환 시험으로 시스템 안정성을 검증하다",
+    "meaning": "describe stability as a result established through repeated testing",
+    "audio": "work/audio/ko-KR/05/ko-05-2747.mp3"
+  },
+  {
+    "id": "ko-05-2748",
+    "sentence": "주민: 새 환승안을 시행한 뒤에도 하루 승객 수는 거의 같은데 무엇이 줄었다는 말입니까?\n교통 담당자: 노선이나 운행 횟수를 줄인 것은 아닙니다. 저상버스 정차 위치를 옮겨 평균 환승 거리가 백팔십 미터에서 칠십 미터로 짧아졌습니다.\n주민: 그러면 이용 감소나 비용 절감을 말하는 것이 아니군요.\n교통 담당자: 맞습니다. 승객의 이동 부담을 완화한 것입니다. 다른 시간대에도 같은 결과가 있는지는 다음 달에 확인합니다.",
+    "cloze": "승객의 이동 부담을 완화한 것입니다",
+    "answer": "승객의 이동 부담을 완화한 것입니다",
+    "accepted_answers": [],
+    "lemma": "저상버스 환승 개선이 승객의 이동 부담을 완화하다",
+    "meaning": "reduce passengers' mobility burden without reducing service",
+    "audio": "work/audio/ko-KR/05/ko-05-2748.mp3"
+  },
+  {
+    "id": "ko-05-2749",
+    "sentence": "입주민: 관리비 조정안의 오만 육천오백 원은 건물 전체 지출입니까?\n관리소장: 아닙니다. 기존 월 관리비 오만 사천 원에 공용 전기료 사천 원을 더하고 지원금 천오백 원을 뺀 금액입니다.\n입주민: 그러면 예산표의 총경비와는 다른 수치입니까?\n관리소장: 네, 승인될 경우 가구가 부담할 금액입니다. 조정안은 아직 입주자대표회의 승인 전이며 다음 달 고지액으로 확정되지 않았습니다.",
+    "cloze": "승인될 경우 가구가 부담할 금액입니다",
+    "answer": "승인될 경우 가구가 부담할 금액입니다",
+    "accepted_answers": [],
+    "lemma": "관리비 조정안에서 승인 시 가구가 부담할 금액을 구별하다",
+    "meaning": "identify the amount a household would bear if the proposal is approved",
+    "audio": "work/audio/ko-KR/05/ko-05-2749.mp3"
+  },
+  {
+    "id": "ko-05-2750",
+    "sentence": "기자: 전시 도록 초안이 누리집에 올라왔으니 누구나 이용할 수 있습니까?\n학예사: 직원용 검토 게시판에만 올렸습니다. 내부 게시일 뿐 공개 승인은 아닙니다.\n기자: 대외 공개는 누가 결정합니까?\n학예사: 관장이 저작권 확인표를 내일 검토해 결정합니다. 승인되면 홍보팀이 공개 시각과 내려받기 주소를 별도로 알립니다.",
+    "cloze": "내부 게시일 뿐 공개 승인은 아닙니다",
+    "answer": "내부 게시일 뿐 공개 승인은 아닙니다",
+    "accepted_answers": [],
+    "lemma": "내부 게시와 대외 공개 승인 상태를 구별하다",
+    "meaning": "distinguish internal posting from authorization for public release",
+    "audio": "work/audio/ko-KR/05/ko-05-2750.mp3"
+  },
+  {
+    "id": "ko-05-2751",
+    "sentence": "주민: 자문단이 고령자 식사 지원을 일주일에 다섯 번으로 늘리자고 권고했으니 결정된 것입니까?\n복지 담당자: 자문단은 이용자 면담을 바탕으로 의견을 냈지만 예산을 승인할 권한은 없습니다. 자문 참여와 최종 결정권은 별개입니다.\n주민: 그러면 누가 언제 정합니까?\n복지 담당자: 복지과장이 비용표와 조리 인력을 금요일에 검토해 결정하고, 결과는 주민 게시판에 알립니다.",
+    "cloze": "자문 참여와 최종 결정권은 별개입니다",
+    "answer": "자문 참여와 최종 결정권은 별개입니다",
+    "accepted_answers": [],
+    "lemma": "주민 자문단 참여와 복지사업의 최종 결정권을 구별하다",
+    "meaning": "distinguish advisory participation from final decision authority",
+    "audio": "work/audio/ko-KR/05/ko-05-2751.mp3"
+  },
+  {
+    "id": "ko-05-2752",
+    "sentence": "업체 담당자: 행사장 요청으로 촬영일을 목요일에서 금요일로 옮겼으니 계약 변경에 합의한 것으로 기록해도 됩니까?\n사업 담당자: 촬영일 조정은 계약 변경 합의가 아닙니다. 촬영 범위와 추가 인력 비용은 아직 논의 중입니다.\n업체 담당자: 그러면 오늘 회의록에는 무엇을 남깁니까?\n사업 담당자: 금요일을 잠정 촬영일로 적고, 범위와 비용은 양측 책임자가 월요일에 다시 협의한다고 기록해 주세요.",
+    "cloze": "촬영일 조정은 계약 변경 합의가 아닙니다",
+    "answer": "촬영일 조정은 계약 변경 합의가 아닙니다",
+    "accepted_answers": [],
+    "lemma": "촬영일 조정과 계약 변경 합의를 구별하다",
+    "meaning": "clarify that moving a shoot date is not agreement to amend the contract",
+    "audio": "work/audio/ko-KR/05/ko-05-2752.mp3"
+  },
+  {
+    "id": "ko-05-2753",
+    "sentence": "공동주택 관리비 산정표에는 가구별 기본료 이만 팔천 원과 승강기 사용료 사천이백 원이 적혀 있다. 이번 달에는 추가 요금이나 지원금이 없다. 두 항목을 합산한 표의 최종 항목은 다음과 같다.\n가구당 월 납부액: 삼만 이천이백 원",
+    "cloze": "가구당 월 납부액: 삼만 이천이백 원",
+    "answer": "가구당 월 납부액: 삼만 이천이백 원",
+    "accepted_answers": [],
+    "lemma": "기본료와 사용료를 합산한 가구당 월 납부액을 표기하다",
+    "meaning": "label the exact monthly household payment after adding two charges",
+    "audio": "work/audio/ko-KR/05/ko-05-2753.mp3"
+  },
+  {
+    "id": "ko-05-2754",
+    "sentence": "같은 교육 과정의 등록자는 작년과 올해 각각 이백 명이었다. 작년 수료자는 아흔두 명으로 수료율이 사십육 퍼센트였고, 올해 수료자는 백십육 명으로 수료율이 오십팔 퍼센트였다. 보고서는 인원 증가와 비율 차이를 구분해 다음과 같이 요약했다.\n수료율 변화: 열두 퍼센트포인트 상승",
+    "cloze": "열두 퍼센트포인트 상승",
+    "answer": "열두 퍼센트포인트 상승",
+    "accepted_answers": [],
+    "lemma": "교육 수료율의 열두 퍼센트포인트 상승을 계산하다",
+    "meaning": "report an exact increase of twelve percentage points",
+    "audio": "work/audio/ko-KR/05/ko-05-2754.mp3"
+  },
+  {
+    "id": "ko-05-2755",
+    "sentence": "발표자는 재활용 상자 두 곳의 한 달 시범에서 오분류가 스물한 건에서 아홉 건으로 줄었다고 보고했다. 위원이 전 지역 시행을 확정한 것이냐고 묻자 발표자는 “전면 시행은 아닙니다”라고 답했다. 다음 달에는 다른 두 곳에서 시험하며 확대 여부는 환경위원회가 그 결과를 받은 뒤 결정한다.",
+    "cloze": "“전면 시행은 아닙니다”라고 답했다",
+    "answer": "“전면 시행은 아닙니다”라고 답했다",
+    "accepted_answers": [],
+    "lemma": "발표 답변의 직접 인용 경계를 표시하다",
+    "meaning": "mark a direct answer denying that full implementation has been decided",
+    "audio": "work/audio/ko-KR/05/ko-05-2755.mp3"
+  },
+  {
+    "id": "ko-05-2756",
+    "sentence": "자동 분류 시스템은 민원 백 건 가운데 일곱 건을 어느 항목에도 넣지 못했다. 운영 지침은 미분류 건을 임의로 버리지 말고 원문과 접수 기록을 사람이 대조하도록 규정한다. 다른 자동 처리 단계가 없으므로 담당자가 다시 확인할 수밖에 없다. 확인 결과와 분류 사유는 민원 대장에 남긴다.",
+    "cloze": "담당자가 다시 확인할 수밖에 없다",
+    "answer": "담당자가 다시 확인할 수밖에 없다",
+    "accepted_answers": [],
+    "lemma": "자동 분류 실패로 담당자가 다시 확인할 수밖에 없다",
+    "meaning": "have no alternative but to require a staff member to check again",
+    "audio": "work/audio/ko-KR/05/ko-05-2756.mp3"
+  },
+  {
+    "id": "ko-05-2757",
+    "sentence": "연구자료 입력 점검표는 날짜, 단위, 출처 칸을 모두 확인하게 한다. 시범 전에는 자료 쉰 건 중 누락이 열두 건이었고, 점검표를 쓴 뒤에는 같은 수의 자료에서 네 건이었다. 이 점검표는 성과 그 자체가 아니라 오류를 줄이는 데 쓰인다. 연구책임자는 다른 자료 유형에서도 한 달간 시험한 뒤 계속 사용할지 결정한다.",
+    "cloze": "오류를 줄이는 데 쓰인다",
+    "answer": "오류를 줄이는 데 쓰인다",
+    "accepted_answers": [],
+    "lemma": "점검표가 자료 입력 오류를 줄이는 데 쓰이다",
+    "meaning": "be used for reducing data-entry errors",
+    "audio": "work/audio/ko-KR/05/ko-05-2757.mp3"
+  },
+  {
+    "id": "ko-05-2758",
+    "sentence": "구매 절차상 담당자는 의자 견적 세 건과 비교표를 먼저 제출한다. 금액과 수량을 승인할 권한은 부서장에게 있고 회계팀의 대금 지급은 그 승인 뒤에 이루어진다. 따라서 구매 요청서는 부서장 결재를 받아야 한다. 결재 기록이 없으면 회계팀은 결제를 진행하지 않는다.",
+    "cloze": "부서장 결재를 받아야 한다",
+    "answer": "부서장 결재를 받아야 한다",
+    "accepted_answers": [],
+    "lemma": "구매 요청서에 부서장 결재를 받다",
+    "meaning": "obtain a department head's approval on a purchase request",
+    "audio": "work/audio/ko-KR/05/ko-05-2758.mp3"
+  },
+  {
+    "id": "ko-05-2759",
+    "sentence": "문화센터 연습실은 지난달 예약 가능 회차가 모두 백 회였다. 예약 기록과 출입 기록을 대조하니 실제 사용은 일흔여덟 회였고 취소된 스물두 회는 사용 횟수에서 제외했다. 운영 보고서의 해당 항목은 다음과 같다.\n월별 이용률: 칠십팔 퍼센트",
+    "cloze": "월별 이용률: 칠십팔 퍼센트",
+    "answer": "월별 이용률: 칠십팔 퍼센트",
+    "accepted_answers": [],
+    "lemma": "문화센터 연습실의 월별 이용률을 칠십팔 퍼센트로 표기하다",
+    "meaning": "label a monthly utilization rate of seventy-eight percent",
+    "audio": "work/audio/ko-KR/05/ko-05-2759.mp3"
+  },
+  {
+    "id": "ko-05-2760",
+    "sentence": "마을버스 정류장 개선안의 가안은 월 구십만 원에 교통 약자가 이용할 수 있는 정류장 다섯 곳을 일 년간 운영하고, 나안은 월 백십만 원에 여덟 곳을 이 년간 운영한다. 제안서는 단가 하나로 선택하지 않고 이용 가능 범위와 계약 지속 기간도 함께 비교한다. 요약표의 항목은 다음과 같다.\n검토 기준: 비용·접근성·지속성",
+    "cloze": "검토 기준: 비용·접근성·지속성",
+    "answer": "검토 기준: 비용·접근성·지속성",
+    "accepted_answers": [],
+    "lemma": "사업안 검토 기준을 비용 접근성 지속성으로 병기하다",
+    "meaning": "format cost, accessibility, and continuity as proposal-review criteria",
+    "audio": "work/audio/ko-KR/05/ko-05-2760.mp3"
   }
 ]
