@@ -20698,12 +20698,12 @@
   },
   {
     "id": "ko-05-2067",
-    "sentence": "교육 팟캐스트의 광고를 늘릴지가 질문이다. 기준은 제작비 충당과 청취 이탈이다. 시험 회차 두 편에서는 광고 수입이 늘었지만 한 편의 중도 이탈도 함께 증가했다. 표본이 작아 광고가 원인이라고 보기 어렵다는 반론은 타당하다. 따라서 추가 자료 전까지 현행을 유지한다: 광고 수는 그대로 두고 여섯 회차의 이탈 구간을 더 기록한다. 두 편만으로 수익과 이탈의 장기 균형을 판단할 수 없으므로 추가 기록 뒤 다시 결정해야 한다.",
-    "cloze": "추가 자료 전까지 현행을 유지한다",
-    "answer": "추가 자료 전까지 현행을 유지한다",
+    "sentence": "교육 팟캐스트의 광고를 늘릴지가 질문이다. 기준은 제작비 충당과 청취 이탈이다. 시험 회차 두 편에서는 광고 수입이 늘었지만 한 편의 중도 이탈도 함께 증가했다. 표본이 작아 광고가 원인이라고 보기 어렵다는 반론은 타당하다. 따라서 추가 자료가 나올 때까지 현행을 유지한다: 광고 수는 그대로 두고 여섯 회차의 이탈 구간을 더 기록한다. 두 편만으로 수익과 이탈의 장기 균형을 판단할 수 없으므로 추가 기록 뒤 다시 결정해야 한다.",
+    "cloze": "추가 자료가 나올 때까지 현행을 유지한다",
+    "answer": "추가 자료가 나올 때까지 현행을 유지한다",
     "accepted_answers": [],
-    "lemma": "근거가 충분해질 때까지 현재 운영안을 유지하는 담화 기능",
-    "meaning": "maintains the current approach pending more evidence",
+    "lemma": "추가 자료가 나올 때까지 현행 운영안을 유지하다",
+    "meaning": "maintains the current approach until more evidence becomes available",
     "audio": "work/audio/ko-KR/05/ko-05-2067.mp3"
   },
   {
@@ -20848,12 +20848,12 @@
   },
   {
     "id": "ko-05-2082",
-    "sentence": "이 절차는 운영위원회가 정한 절차입니다. 안내 직원의 개인적인 제안과는 구분해야 하며, 정해진 절차를 따르지 않은 예약은 확정되지 않습니다.",
-    "cloze": "운영위원회가 정한 절차입니다",
-    "answer": "운영위원회가 정한 절차입니다",
+    "sentence": "이 절차는 운영위원회가 정했습니다. 안내 직원의 개인적인 제안과는 구분해야 하며, 정해진 절차를 따르지 않은 예약은 확정되지 않습니다.",
+    "cloze": "운영위원회가 정했습니다",
+    "answer": "운영위원회가 정했습니다",
     "accepted_answers": [],
-    "lemma": "공식 절차를 정한 조직의 권한을 밝힘",
-    "meaning": "Identifies the operating committee as the authority that established the procedure.",
+    "lemma": "운영위원회가 공식 절차를 정하다",
+    "meaning": "was established by the operations committee",
     "audio": "work/audio/ko-KR/05/ko-05-2082.mp3"
   },
   {
@@ -21038,12 +21038,12 @@
   },
   {
     "id": "ko-05-2101",
-    "sentence": "시설 운영 절차에 따르면 원래 장소가 폐쇄된 경우 시설팀장이 승인합니다. 현장 안내자는 승인된 대체 공간으로 이용자를 안내합니다.",
-    "cloze": "시설팀장이 승인합니다",
-    "answer": "시설팀장이 승인합니다",
+    "sentence": "시설 운영 절차에 따르면 원래 장소가 폐쇄된 경우 대체 공간 사용은 시설팀장이 승인합니다. 현장 안내자는 승인된 대체 공간으로 이용자를 안내합니다.",
+    "cloze": "대체 공간 사용은 시설팀장이 승인합니다",
+    "answer": "대체 공간 사용은 시설팀장이 승인합니다",
     "accepted_answers": [],
-    "lemma": "대체 공간 사용을 결정하는 승인 권한자를 식별함",
-    "meaning": "Identifies the facilities manager as the approver for substitute-space use.",
+    "lemma": "시설팀장이 대체 공간 사용을 승인하다",
+    "meaning": "the facilities manager approves use of an alternative space",
     "audio": "work/audio/ko-KR/05/ko-05-2101.mp3"
   },
   {
@@ -22278,12 +22278,12 @@
   },
   {
     "id": "ko-05-2225",
-    "sentence": "주말 상담 운영안\n이 문서는 시범 운영을 제안하는 안입니다. 예산 배정이나 시행 승인을 뜻하지 않습니다. 운영위원회는 이용자 수와 인력 계획을 받은 뒤 승인 여부를 결정합니다.",
-    "cloze": "시범 운영을 제안하는 안입니다",
-    "answer": "시범 운영을 제안하는 안입니다",
+    "sentence": "주말 상담 운영안 / 이 문서는 주말 상담 시범 운영안입니다. 예산 배정이나 시행 승인을 뜻하지 않습니다. 운영위원회는 이용자 수와 인력 계획을 받은 뒤 승인 여부를 결정합니다.",
+    "cloze": "주말 상담 시범 운영안입니다",
+    "answer": "주말 상담 시범 운영안입니다",
     "accepted_answers": [],
-    "lemma": "주말 상담안의 미승인 제안 상태",
-    "meaning": "marking the weekend consultation plan as a proposal, not approval",
+    "lemma": "주말 상담 시범 운영안임을 밝히다",
+    "meaning": "is a pilot operating plan for weekend counseling",
     "audio": "work/audio/ko-KR/05/ko-05-2225.mp3"
   },
   {
@@ -22558,12 +22558,12 @@
   },
   {
     "id": "ko-05-2253",
-    "sentence": "교육팀은 네 지점에서 같은 안전 교육을 진행했다. 보고서는 교육 실시 전후 오류율로 평가했다.",
-    "cloze": "교육 실시 전후 오류율로 평가했다",
-    "answer": "교육 실시 전후 오류율로 평가했다",
+    "sentence": "교육팀은 네 지점에서 같은 안전 교육을 진행했다. 보고서는 교육 효과를 교육 전후의 오류율로 평가했다.",
+    "cloze": "교육 효과를 교육 전후의 오류율로 평가했다",
+    "answer": "교육 효과를 교육 전후의 오류율로 평가했다",
     "accepted_answers": [],
-    "lemma": "교육 실시 전후의 오류율 평가",
-    "meaning": "The training was evaluated using error rates before and after it was conducted.",
+    "lemma": "교육 효과를 교육 전후 오류율로 평가하다",
+    "meaning": "evaluated the training’s effectiveness using error rates before and after the training",
     "audio": "work/audio/ko-KR/05/ko-05-2253.mp3"
   },
   {
@@ -22828,22 +22828,22 @@
   },
   {
     "id": "ko-05-2280",
-    "sentence": "[교대 업무표]\n상태: 자료 정리 수행 완료·파일 전송 실행 대기\n담당자: 오전조 김 대리\n다음 조치: 팀장 명령 후 전송",
-    "cloze": "자료 정리 수행 완료·파일 전송 실행 대기",
-    "answer": "자료 정리 수행 완료·파일 전송 실행 대기",
+    "sentence": "[교대 업무표]\n상태: 자료 정리 완료·파일 전송 지시 대기\n담당자: 오전조 김 대리\n다음 조치: 팀장 지시 후 전송",
+    "cloze": "자료 정리 완료·파일 전송 지시 대기",
+    "answer": "자료 정리 완료·파일 전송 지시 대기",
     "accepted_answers": [],
-    "lemma": "자료 수행 완료와 전송 실행 대기의 병렬 표기",
-    "meaning": "The assigned data-organizing work is complete, while the concrete file-transfer action awaits an order.",
+    "lemma": "자료 정리 완료와 파일 전송 지시 대기를 병렬 표기하다",
+    "meaning": "data organization complete; file transfer awaiting instruction",
     "audio": "work/audio/ko-KR/05/ko-05-2280.mp3"
   },
   {
     "id": "ko-05-2281",
-    "sentence": "중학교 독서 지원 연구에서는 3월부터 6월까지의 상담 기록과 학생 설문을 자료로 모았다. 연구자는 두 출처에서 반복된 ‘예약 시간 부족’을 주장을 뒷받침하는 근거로 삼되, 한 번의 자유 의견은 사례로만 제시했다.",
+    "sentence": "중학교 독서 지원 연구에서는 3월부터 6월까지의 상담 기록과 학생 설문을 자료로 모았다. 연구자는 두 출처에서 반복된 ‘예약 시간 부족’을 상담 시간을 늘려야 한다는 주장을 뒷받침하는 근거로 삼되, 한 번의 자유 의견은 사례로만 제시했다.",
     "cloze": "주장을 뒷받침하는 근거",
     "answer": "주장을 뒷받침하는 근거",
     "accepted_answers": [],
-    "lemma": "근거로 삼기",
-    "meaning": "use recurring evidence to support a claim",
+    "lemma": "반복된 예약 시간 부족을 상담 시간 확대 주장의 근거로 삼다",
+    "meaning": "evidence supporting the claim that counseling hours should be expanded",
     "audio": "work/audio/ko-KR/05/ko-05-2281.mp3"
   },
   {
@@ -23468,12 +23468,12 @@
   },
   {
     "id": "ko-05-2344",
-    "sentence": "시스템은 세 가지 처리안을 비용과 예상 시간순으로 보여 줍니다. 최종 선택은 담당 관리자가 내립니다. 선택 이유와 승인 시각은 결정 기록에 남깁니다.",
-    "cloze": "최종 선택은 담당 관리자가 내립니다",
-    "answer": "최종 선택은 담당 관리자가 내립니다",
+    "sentence": "시스템은 세 가지 처리안을 비용과 예상 시간순으로 보여 줍니다. 담당 관리자가 최종안을 선택합니다. 선택 이유와 승인 시각은 결정 기록에 남깁니다.",
+    "cloze": "담당 관리자가 최종안을 선택합니다",
+    "answer": "담당 관리자가 최종안을 선택합니다",
     "accepted_answers": [],
-    "lemma": "관리자 최종 선택",
-    "meaning": "The responsible manager makes the final choice.",
+    "lemma": "담당 관리자가 최종안을 선택하다",
+    "meaning": "the responsible manager selects the final option",
     "audio": "work/audio/ko-KR/05/ko-05-2344.mp3"
   },
   {
@@ -23508,12 +23508,12 @@
   },
   {
     "id": "ko-05-2348",
-    "sentence": "직원: 자동 접수안을 검토해 두었습니다.\n관리자: 개인정보 비용도 포함했습니까?\n직원: 비용표는 아직 재무팀에서 확인 중입니다.\n관리자: 승인 여부는 비용표를 본 뒤 결정합니다.",
+    "sentence": "직원: 자동 접수안을 검토해 두었습니다.\n관리자: 개인정보 보호 비용도 포함했습니까?\n직원: 비용표는 아직 재무팀에서 확인 중입니다.\n관리자: 승인 여부는 비용표를 본 뒤 결정합니다.",
     "cloze": "승인 여부는 비용표를 본 뒤 결정합니다",
     "answer": "승인 여부는 비용표를 본 뒤 결정합니다",
     "accepted_answers": [],
-    "lemma": "비용표 확인 후 승인",
-    "meaning": "The manager will decide whether to approve after reviewing the cost table.",
+    "lemma": "개인정보 보호 비용표 확인 후 자동 접수안 승인 여부를 결정하다",
+    "meaning": "decides whether to approve after reviewing the cost table",
     "audio": "work/audio/ko-KR/05/ko-05-2348.mp3"
   },
   {
@@ -23658,12 +23658,12 @@
   },
   {
     "id": "ko-05-2363",
-    "sentence": "환승센터의 대기 구역을 넓히면 출근 시간에 오래 서 있는 이용자의 불편을 줄일 수 있습니다. 혼잡 부담을 완화하는 안입니다. 다만 청소 인력 한 명이 더 필요해 교통과가 추가 인건비를 심의합니다.",
-    "cloze": "혼잡 부담을 완화하는 안입니다",
-    "answer": "혼잡 부담을 완화하는 안입니다",
+    "sentence": "환승센터의 대기 구역을 넓히면 출근 시간에 오래 서 있는 이용자의 불편을 줄일 수 있습니다. 혼잡에 따른 부담을 완화하는 안입니다. 다만 청소 인력 한 명이 더 필요해 교통과가 추가 인건비를 심의합니다.",
+    "cloze": "혼잡에 따른 부담을 완화하는 안입니다",
+    "answer": "혼잡에 따른 부담을 완화하는 안입니다",
     "accepted_answers": [],
-    "lemma": "환승 혼잡 부담 완화안",
-    "meaning": "a plan to alleviate congestion burden at a transfer center",
+    "lemma": "환승 혼잡에 따른 이용자 부담을 완화하다",
+    "meaning": "a plan to ease the burden caused by congestion at a transfer center",
     "audio": "work/audio/ko-KR/05/ko-05-2363.mp3"
   },
   {
@@ -23908,12 +23908,12 @@
   },
   {
     "id": "ko-05-2388",
-    "sentence": "주민: 도서관이 전기를 덜 썼다는 결과가 나왔나요?\n기획자: 7월 계량값은 지난해 같은 달보다 5퍼센트 적었습니다.\n주민: 그럼 절감 목표를 달성했다고 확정할 수 있나요?\n기획자: 아직 아닙니다. 계량기 보정 뒤 시설과가 절감 달성 여부를 확정합니다.",
-    "cloze": "시설과가 절감 달성 여부를 확정합니다",
-    "answer": "시설과가 절감 달성 여부를 확정합니다",
+    "sentence": "주민: 도서관이 전기를 덜 썼다는 결과가 나왔나요?\n기획자: 7월 계량값은 지난해 같은 달보다 5퍼센트 적었습니다.\n주민: 그럼 절감 목표를 달성했다고 확정할 수 있나요?\n기획자: 아직 아닙니다. 계량기 보정 뒤 시설과가 절감 목표 달성 여부를 확정합니다.",
+    "cloze": "시설과가 절감 목표 달성 여부를 확정합니다",
+    "answer": "시설과가 절감 목표 달성 여부를 확정합니다",
     "accepted_answers": [],
-    "lemma": "도서관 절감 달성 확정 권한",
-    "meaning": "the facilities department has authority to confirm electricity savings",
+    "lemma": "시설과가 전력 절감 목표 달성 여부를 확정하다",
+    "meaning": "the facilities division determines whether the electricity-saving target was met",
     "audio": "work/audio/ko-KR/05/ko-05-2388.mp3"
   },
   {
@@ -24248,12 +24248,12 @@
   },
   {
     "id": "ko-05-2422",
-    "sentence": "관리비 고지서에 이의가 있으면 납부일인 8월 28일 전까지 세대 번호와 항목명을 적어야 한다. 이의 회신 경로는 관리사무소 이메일이며, 전화 상담만으로는 정정 요청이 접수되지 않는다.",
-    "cloze": "이의 회신 경로",
-    "answer": "이의 회신 경로",
+    "sentence": "관리비 고지서에 이의가 있으면 납부일인 8월 28일 전까지 세대 번호와 항목명을 적어야 한다. 이의 제기 경로는 관리사무소 이메일이며, 전화 상담만으로는 정정 요청이 접수되지 않는다.",
+    "cloze": "이의 제기 경로",
+    "answer": "이의 제기 경로",
     "accepted_answers": [],
-    "lemma": "이의를 서면으로 회신하다",
-    "meaning": "the designated response channel for disputing a bill",
+    "lemma": "관리비 고지서 이의를 이메일로 제기하다",
+    "meaning": "the designated channel for filing an objection",
     "audio": "work/audio/ko-KR/05/ko-05-2422.mp3"
   },
   {
@@ -24868,12 +24868,12 @@
   },
   {
     "id": "ko-05-2484",
-    "sentence": "생활권 조정 협의록에는 주민 대표들이 자문회의에서 세 가지 의견을 낸 사실이 기록돼 있습니다. 최종안을 고르거나 예산을 승인하는 권한은 시청 국장에게 있었습니다. 따라서 기록은 자문 범위의 관여만 보여 줍니다.",
-    "cloze": "자문 범위의 관여만 보여 줍니다",
-    "answer": "자문 범위의 관여만 보여 줍니다",
+    "sentence": "생활권 조정 협의록에는 주민 대표들이 자문회의에서 세 가지 의견을 낸 사실이 기록돼 있습니다. 최종안을 고르거나 예산을 승인하는 권한은 시청 국장에게 있었습니다. 따라서 기록은 자문 참여 사실만 보여 줍니다.",
+    "cloze": "자문 참여 사실만 보여 줍니다",
+    "answer": "자문 참여 사실만 보여 줍니다",
     "accepted_answers": [],
-    "lemma": "자문 역할의 관여 범위를 한정하다",
-    "meaning": "involvement limited to an advisory role",
+    "lemma": "기록이 자문 참여 사실만 보여 주다",
+    "meaning": "shows only that the residents participated in consultation",
     "audio": "work/audio/ko-KR/05/ko-05-2484.mp3"
   },
   {
@@ -25288,12 +25288,12 @@
   },
   {
     "id": "ko-05-2526",
-    "sentence": "고객사는 출시일 유지를, 제작 업체는 시험 기간 확보를 우선했습니다. 양측 담당자는 단계 납품안에서 접점을 찾았습니다. 다만 무상 보증 기간에는 아직 합의하지 못했습니다. 고객사 구매 책임자와 업체 책임자는 수요일까지 수정 보증안을 내고 금요일에 다시 협의해 합의 여부를 공동 협상 기록에 남깁니다.",
-    "cloze": "단계 납품안에서 접점을 찾았습니다",
-    "answer": "단계 납품안에서 접점을 찾았습니다",
+    "sentence": "고객사는 출시일 유지를, 제작 업체는 시험 기간 확보를 우선했습니다. 양측 담당자는 단계별 납품안에서 접점을 찾았습니다. 다만 무상 보증 기간에는 아직 합의하지 못했습니다. 고객사 구매 책임자와 업체 책임자는 수요일까지 수정 보증안을 내고 금요일에 다시 협의해 합의 여부를 공동 협상 기록에 남깁니다.",
+    "cloze": "단계별 납품안에서 접점을 찾았습니다",
+    "answer": "단계별 납품안에서 접점을 찾았습니다",
     "accepted_answers": [],
-    "lemma": "단계 납품안에서 양측의 접점을 찾다",
-    "meaning": "The parties found common ground on phased delivery while warranty terms remained unresolved.",
+    "lemma": "단계별 납품안에서 양측의 접점을 찾다",
+    "meaning": "the parties found common ground on a phased-delivery proposal",
     "audio": "work/audio/ko-KR/05/ko-05-2526.mp3"
   },
   {
@@ -25738,12 +25738,12 @@
   },
   {
     "id": "ko-05-2571",
-    "sentence": "도서관 감사팀의 6주 운영 보고서에는 야간 반납 창구로 책 480권이 접수됐고, 그중 310권은 20시 이후에 들어왔으며 분실은 없었다고 적혀 있습니다. 이 결과는 퇴근 뒤에도 반납할 수 있게 한다는 사업 기준과 직접 관련됩니다. 야간 창구가 경비 부담을 늘린다는 반론에는 기존 경비 인력이 순찰 중 창구를 확인해 추가 근무 시간이 없었다는 근무표가 제시됐습니다. 운영 분석가는 조사 기간이 짧다는 한계를 들어 결론 범위를 한 달로 제한했습니다. 이 기록은 한 달 연장 시험을 뒷받침합니다. 운영 책임자는 7월 한 달만 연장을 승인하고 이용 건수와 분실 여부를 매주 월요일 감사 게시판에 보고하도록 했습니다.",
-    "cloze": "한 달 연장 시험을 뒷받침합니다",
-    "answer": "한 달 연장 시험을 뒷받침합니다",
+    "sentence": "도서관 감사팀의 6주 운영 보고서에는 야간 반납 창구로 책 480권이 접수됐고, 그중 310권은 20시 이후에 들어왔으며 분실은 없었다고 적혀 있습니다. 이 결과는 퇴근 뒤에도 반납할 수 있게 한다는 사업 기준과 직접 관련됩니다. 야간 창구가 경비 부담을 늘린다는 반론에는 기존 경비 인력이 순찰 중 창구를 확인해 추가 근무 시간이 없었다는 근무표가 제시됐습니다. 운영 분석가는 조사 기간이 짧다는 한계를 들어 결론 범위를 한 달로 제한했습니다. 이 기록은 시범 운영을 한 달 연장할 근거가 됩니다. 운영 책임자는 7월 한 달만 연장을 승인하고 이용 건수와 분실 여부를 매주 월요일 감사 게시판에 보고하도록 했습니다.",
+    "cloze": "시범 운영을 한 달 연장할 근거가 됩니다",
+    "answer": "시범 운영을 한 달 연장할 근거가 됩니다",
     "accepted_answers": [],
-    "lemma": "야간 반납 이용 기록으로 한 달 연장 시험을 뒷받침하다",
-    "meaning": "support a one-month extension with nighttime return records",
+    "lemma": "이용 기록이 시범 운영을 한 달 연장할 근거가 되다",
+    "meaning": "provides grounds for extending the pilot operation by one month",
     "audio": "work/audio/ko-KR/05/ko-05-2571.mp3"
   },
   {
@@ -26078,12 +26078,12 @@
   },
   {
     "id": "ko-05-2605",
-    "sentence": "모아정보원의 「단말기 안정성 시험」은 2026년 6월 업무용 단말기 40대 가운데 37대에서 갱신이 중단 없이 끝났다고 측정했다. 다만 시험은 사내 통신망에서 한 번씩만 이루어졌다. 같은 달 관리자는 「운영 면담」에서 두 차례 시연을 보고 “안정적인 편이다”라고 평가했지만 전체 단말기를 직접 확인하지는 않았다. 두 자료를 같은 확신의 근거로 다룰 수 없다.",
-    "cloze": "같은 확신의 근거로 다룰 수 없다",
-    "answer": "같은 확신의 근거로 다룰 수 없다",
+    "sentence": "모아정보원의 「단말기 안정성 시험」은 2026년 6월 업무용 단말기 40대 가운데 37대에서 갱신이 중단 없이 끝났다고 측정했다. 다만 시험은 사내 통신망에서 한 번씩만 이루어졌다. 같은 달 관리자는 「운영 면담」에서 두 차례 시연을 보고 “안정적인 편이다”라고 평가했지만 전체 단말기를 직접 확인하지는 않았다. 두 자료를 같은 수준의 근거로 볼 수 없다.",
+    "cloze": "두 자료를 같은 수준의 근거로 볼 수 없다",
+    "answer": "두 자료를 같은 수준의 근거로 볼 수 없다",
     "accepted_answers": [],
-    "lemma": "기기 시험과 관리자 진술의 증거 강도를 구별하다",
-    "meaning": "not treat a measured test and a manager's statement as equally strong evidence",
+    "lemma": "기기 시험과 관리자 진술을 같은 수준의 근거로 볼 수 없다",
+    "meaning": "the two sources cannot be treated as evidence of the same strength",
     "audio": "work/audio/ko-KR/05/ko-05-2605.mp3"
   },
   {
@@ -26158,12 +26158,12 @@
   },
   {
     "id": "ko-05-2613",
-    "sentence": "가람편집망의 「5월 접속 감사」는 편집 시도 600건 중 미승인 계정의 접근 시도 14건을 확인했다. 감사 기록은 접속 시도 사실을 직접 보여 주지만 사용자의 의도는 설명하지 않는다. 편집자 5명의 「보안 절차 면담」은 권한 구분이 혼란스럽다고 평가했으나 참여자가 적다. 발생 규모를 판단할 때는 감사 결과에 더 큰 증거의 무게를 둔다.",
-    "cloze": "감사 결과에 더 큰 증거의 무게를 둔다",
-    "answer": "감사 결과에 더 큰 증거의 무게를 둔다",
+    "sentence": "가람편집망의 「5월 접속 감사」는 편집 시도 600건 중 미승인 계정의 접근 시도 14건을 확인했다. 감사 기록은 접속 시도 사실을 직접 보여 주지만 사용자의 의도는 설명하지 않는다. 편집자 5명의 「보안 절차 면담」은 권한 구분이 혼란스럽다고 평가했으나 참여자가 적다. 발생 규모를 판단할 때는 감사 결과에 더 큰 무게를 둔다.",
+    "cloze": "감사 결과에 더 큰 무게를 둔다",
+    "answer": "감사 결과에 더 큰 무게를 둔다",
     "accepted_answers": [],
-    "lemma": "접속 감사와 편집자 면담 사이의 증거 무게를 조정하다",
-    "meaning": "give greater evidential weight to the access audit when assessing frequency",
+    "lemma": "발생 규모 판단에서 감사 결과에 더 큰 무게를 두다",
+    "meaning": "gives greater weight to the audit results",
     "audio": "work/audio/ko-KR/05/ko-05-2613.mp3"
   },
   {
@@ -26208,12 +26208,12 @@
   },
   {
     "id": "ko-05-2618",
-    "sentence": "한빛버스의 「6월 위치 기록」은 운행 120회 중 28회가 중앙로 구간에서 예정 시각보다 늦었다고 측정했지만 승객이 받은 영향은 알 수 없다. 시민연구소의 「같은 달 승객 설문」에서는 응답자 46명 중 19명이 환승을 놓쳤다고 보고했으나 자발적 응답이다. 첫 자료는 지연이 집중된 곳을, 둘째 자료는 일부 승객이 겪은 결과를 보여 준다. 두 자료를 종합하면 지연 구간과 체감 영향이 함께 드러난다. 다만 놓친 환승이 중앙로 지연 때문인지는 확인되지 않는다.",
-    "cloze": "지연 구간과 체감 영향이 함께 드러난다",
-    "answer": "지연 구간과 체감 영향이 함께 드러난다",
+    "sentence": "한빛버스의 「6월 위치 기록」은 운행 120회 중 28회가 중앙로 구간에서 예정 시각보다 늦었다고 측정했지만 승객이 받은 영향은 알 수 없다. 시민연구소의 「같은 달 승객 설문」에서는 응답자 46명 중 19명이 환승을 놓쳤다고 보고했으나 자발적 응답이다. 첫 자료는 지연이 집중된 곳을, 둘째 자료는 일부 승객이 겪은 결과를 보여 준다. 두 자료를 종합하면 지연 구간과 승객의 불편이 함께 드러난다. 다만 놓친 환승이 중앙로 지연 때문인지는 확인되지 않는다.",
+    "cloze": "지연 구간과 승객의 불편이 함께 드러난다",
+    "answer": "지연 구간과 승객의 불편이 함께 드러난다",
     "accepted_answers": [],
-    "lemma": "버스 위치 기록과 승객 설문으로 지연 구간과 체감 영향을 종합하다",
-    "meaning": "combine route records and rider reports without claiming that one caused the other",
+    "lemma": "버스 위치 기록과 승객 설문으로 지연 구간과 승객 불편을 종합하다",
+    "meaning": "the delayed section and passengers’ inconvenience emerge together",
     "audio": "work/audio/ko-KR/05/ko-05-2618.mp3"
   },
   {
@@ -26268,12 +26268,12 @@
   },
   {
     "id": "ko-05-2624",
-    "sentence": "솔빛재단의 「2026년 시설 예산표」는 기존 공부방 네 곳의 유지 보수비만 확정했으며 새 공간 조성비는 배정하지 않았다. 예산표는 승인된 지출을 보여 주지만 이후 필요를 평가하지 않는다. 담당자 3명의 「2월 운영 면담」은 공부방을 늘리고 싶다는 의견을 담았으나 승인 권한이 없는 실무자의 희망이다. 따라서 예산표의 약속은 유지 보수에 한정된다.",
-    "cloze": "예산표의 약속은 유지 보수에 한정된다",
-    "answer": "예산표의 약속은 유지 보수에 한정된다",
+    "sentence": "솔빛재단의 「2026년 시설 예산표」는 기존 공부방 네 곳의 유지 보수비만 확정했으며 새 공간 조성비는 배정하지 않았다. 예산표는 승인된 지출을 보여 주지만 이후 필요를 평가하지 않는다. 담당자 3명의 「2월 운영 면담」은 공부방을 늘리고 싶다는 의견을 담았으나 승인 권한이 없는 실무자의 희망이다. 따라서 확정된 지출은 유지 보수에 한정된다.",
+    "cloze": "확정된 지출은 유지 보수에 한정된다",
+    "answer": "확정된 지출은 유지 보수에 한정된다",
     "accepted_answers": [],
-    "lemma": "유지 보수 예산과 확장 희망의 약속 범위를 구별하다",
-    "meaning": "limit the budget's commitment to maintenance rather than expansion",
+    "lemma": "시설 예산표상 확정된 지출이 유지 보수에 한정되다",
+    "meaning": "the approved spending is limited to maintenance",
     "audio": "work/audio/ko-KR/05/ko-05-2624.mp3"
   },
   {
@@ -26288,12 +26288,12 @@
   },
   {
     "id": "ko-05-2626",
-    "sentence": "한빛시의 「상반기 정류장 점검표」는 안내판 30개 중 9개가 고장 났음을 확인했지만 이용자가 받은 불편은 기록하지 않았다. 장애인자립센터의 「6월 이동 면담」은 해당 정류장을 이용한 휠체어 이용자 6명 중 4명이 고장 때문에 도착 정보를 확인하지 못했다고 보고했으나 센터 회원의 경험에 한정된다. 두 자료는 고장 위치와 일부 이용자의 접근 문제를 함께 보여 준다. 분석자는 고장 난 9개의 단계적 교체를 권고한다. 교체 여부는 시 교통과장이 결정한다.",
-    "cloze": "고장 난 9개의 단계적 교체를 권고한다",
-    "answer": "고장 난 9개의 단계적 교체를 권고한다",
+    "sentence": "한빛시의 「상반기 정류장 점검표」는 안내판 30개 중 9개가 고장 났음을 확인했지만 이용자가 받은 불편은 기록하지 않았다. 장애인자립센터의 「6월 이동 면담」은 해당 정류장을 이용한 휠체어 이용자 6명 중 4명이 고장 때문에 도착 정보를 확인하지 못했다고 보고했으나 센터 회원의 경험에 한정된다. 두 자료는 고장 위치와 일부 이용자의 접근 문제를 함께 보여 준다. 분석자는 안내판 9개의 단계적 교체를 권고한다. 교체 여부는 시 교통과장이 결정한다.",
+    "cloze": "안내판 9개의 단계적 교체를 권고한다",
+    "answer": "안내판 9개의 단계적 교체를 권고한다",
     "accepted_answers": [],
-    "lemma": "정류장 고장 기록과 접근성 면담을 근거로 단계 교체를 권고하다",
-    "meaning": "recommend phased replacement of the nine faulty signs while preserving decision authority",
+    "lemma": "고장 난 안내판 9개의 단계적 교체를 권고하다",
+    "meaning": "recommends phased replacement of the nine faulty information signs",
     "audio": "work/audio/ko-KR/05/ko-05-2626.mp3"
   },
   {
@@ -27238,12 +27238,12 @@
   },
   {
     "id": "ko-05-2721",
-    "sentence": "새 출입 관리 시스템은 설치와 사용자 교육을 끝냈다. 그러나 정보보호부장의 출입 권한표 승인이 예정보다 엿새 늦어져 통합 시험을 시작하지 못했다. 현재 출입 권한 승인이 일정의 발목을 잡고 있다. 승인 전에는 기존 출입증을 유지하며, 운영팀은 금요일에 승인 상태를 다시 보고한다.",
-    "cloze": "출입 권한 승인이 일정의 발목을 잡고 있다",
-    "answer": "출입 권한 승인이 일정의 발목을 잡고 있다",
+    "sentence": "새 출입 관리 시스템은 설치와 사용자 교육을 끝냈다. 그러나 정보보호부장의 출입 권한표 승인이 예정보다 엿새 늦어져 통합 시험을 시작하지 못했다. 현재 승인 지연이 일정의 발목을 잡고 있다. 승인 전에는 기존 출입증을 유지하며, 운영팀은 금요일에 승인 상태를 다시 보고한다.",
+    "cloze": "승인 지연이 일정의 발목을 잡고 있다",
+    "answer": "승인 지연이 일정의 발목을 잡고 있다",
     "accepted_answers": [],
-    "lemma": "출입 권한 승인 지연이 시스템 시험 일정의 발목을 잡다",
-    "meaning": "hold up a schedule because access authorization is delayed",
+    "lemma": "출입 권한 승인 지연이 시험 일정의 발목을 잡다",
+    "meaning": "the approval delay is holding up the schedule",
     "audio": "work/audio/ko-KR/05/ko-05-2721.mp3"
   },
   {
@@ -27758,12 +27758,12 @@
   },
   {
     "id": "ko-05-2773",
-    "sentence": "주말 공원 이용자 설문에서는 응답자 180명 중 61퍼센트가 쓰레기통이 부족하다고 답했습니다. 반면 청소반의 위치별 기록은 출입구 두 곳에 쓰레기가 집중됐고 안쪽 쓰레기통 세 개는 절반도 채워지지 않았다고 밝혔습니다. 설문은 쓰레기통이 부족하다는 이용자 인식을 보여 주지만 청소 기록은 배치 위치에 문제가 있음을 보여 줍니다. 공원과는 출입구로 통 두 개를 옮긴 뒤 넘침 건수를 재기로 했습니다.",
-    "cloze": "배치 위치에 문제가 있음을 보여 줍니다",
-    "answer": "배치 위치에 문제가 있음을 보여 줍니다",
+    "sentence": "주말 공원 이용자 설문에서는 응답자 180명 중 61퍼센트가 쓰레기통이 부족하다고 답했습니다. 반면 청소반의 위치별 기록은 출입구 두 곳에 쓰레기가 집중됐고 안쪽 쓰레기통 세 개는 절반도 채워지지 않았다고 밝혔습니다. 설문은 쓰레기통이 부족하다는 이용자 인식을 보여 주지만 청소 기록은 배치에 문제가 있음을 보여 줍니다. 공원과는 출입구로 통 두 개를 옮긴 뒤 넘침 건수를 재기로 했습니다.",
+    "cloze": "배치에 문제가 있음을 보여 줍니다",
+    "answer": "배치에 문제가 있음을 보여 줍니다",
     "accepted_answers": [],
-    "lemma": "청소 기록이 쓰레기통 수가 아니라 배치 위치의 문제를 보여 주다",
-    "meaning": "show that the cleaning log identifies placement rather than bin count as the problem",
+    "lemma": "청소 기록이 쓰레기통 수가 아니라 배치 문제를 보여 주다",
+    "meaning": "shows that the cleaning records point to a placement problem",
     "audio": "work/audio/ko-KR/05/ko-05-2773.mp3"
   },
   {
@@ -27788,12 +27788,12 @@
   },
   {
     "id": "ko-05-2776",
-    "sentence": "지역 축제 평가 보고서에는 “주말 오후 방문자는 평일 방문자보다 오래 머무는 경향이 있었다”라고 적혀 있었습니다. 조사 기간은 개막 뒤 첫 2주였고, 보고서는 축제가 체류 시간을 늘렸다고 말하지 않았습니다. 발표자는 이를 “첫 2주 자료에서 주말 오후 체류는 평일보다 긴 편이었습니다”라고 바꾸어 말했습니다. 이 표현은 기간, 비교 대상, 경향성을 보존하고 인과관계는 덧붙이지 않습니다.",
-    "cloze": "주말 오후 체류는 평일보다 긴 편이었습니다",
-    "answer": "주말 오후 체류는 평일보다 긴 편이었습니다",
+    "sentence": "지역 축제 평가 보고서에는 “주말 오후 방문자는 평일 방문자보다 오래 머무는 경향이 있었다”라고 적혀 있었습니다. 조사 기간은 개막 뒤 첫 2주였고, 보고서는 축제가 체류 시간을 늘렸다고 말하지 않았습니다. 발표자는 이를 “첫 2주 자료에서 주말 오후에는 평일보다 오래 머무는 편이었습니다”라고 바꾸어 말했습니다. 이 표현은 기간, 비교 대상, 경향성을 보존하고 인과관계는 덧붙이지 않습니다.",
+    "cloze": "평일보다 오래 머무는 편이었습니다",
+    "answer": "평일보다 오래 머무는 편이었습니다",
     "accepted_answers": [],
-    "lemma": "문화축제 보고서의 한정된 관찰을 주말 오후 체류 시간이 긴 경향으로 바꾸어 말하다",
-    "meaning": "faithfully restate that stays tended to be longer on weekend afternoons than on weekdays",
+    "lemma": "문화축제 보고서의 경향을 평일보다 오래 머문 편이라고 바꾸어 말하다",
+    "meaning": "tended to stay longer than on weekdays",
     "audio": "work/audio/ko-KR/05/ko-05-2776.mp3"
   },
   {
