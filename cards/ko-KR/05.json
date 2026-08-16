@@ -23235,5 +23235,405 @@
     "lemma": "후속 조치 표기",
     "meaning": "record the next action, owner, deadline, and authority",
     "audio": "work/audio/ko-KR/05/ko-05-2320.mp3"
+  },
+  {
+    "id": "ko-05-2321",
+    "sentence": "운영팀은 자동 요약 제안의 비용과 개인정보 항목을 검토했다. 그러나 검토 결과는 판단 자료일 뿐이다. 신뢰성은 기술팀이 별도 시험으로 검증한다.",
+    "cloze": "검토 결과는 판단 자료일 뿐이다",
+    "answer": "검토 결과는 판단 자료일 뿐이다",
+    "accepted_answers": [],
+    "lemma": "검토 결과의 한계",
+    "meaning": "A review informs a decision but does not prove reliability.",
+    "audio": "work/audio/ko-KR/05/ko-05-2321.mp3"
+  },
+  {
+    "id": "ko-05-2322",
+    "sentence": "기술팀은 동일한 입력 백 건으로 장애 전환 시험을 세 차례 실시했다. 검증 시험을 통과했다는 결과는 시험 기록 번호와 함께 남겼다.",
+    "cloze": "검증 시험을 통과했다",
+    "answer": "검증 시험을 통과했다",
+    "accepted_answers": [],
+    "lemma": "장애 전환 검증 통과",
+    "meaning": "A defined failover test was passed and recorded.",
+    "audio": "work/audio/ko-KR/05/ko-05-2322.mp3"
+  },
+  {
+    "id": "ko-05-2323",
+    "sentence": "접수 직원은 요청자의 사원증과 수신 시각을 확인했다. 수신 사실만 확인했다. 파일 내용의 정확성은 검토 담당자가 판단한다.",
+    "cloze": "수신 사실만 확인했다",
+    "answer": "수신 사실만 확인했다",
+    "accepted_answers": [],
+    "lemma": "수신 사실 확인",
+    "meaning": "Only receipt was confirmed; a reviewer must judge the content.",
+    "audio": "work/audio/ko-KR/05/ko-05-2323.mp3"
+  },
+  {
+    "id": "ko-05-2324",
+    "sentence": "담당자는 배포 전 설정을 점검했다. 카메라 권한은 꺼져 있었지만 장시간 안정성은 아직 검증하지 않았다.",
+    "cloze": "배포 전 설정을 점검했다",
+    "answer": "배포 전 설정을 점검했다",
+    "accepted_answers": [],
+    "lemma": "배포 전 설정 점검",
+    "meaning": "The configuration was inspected before release.",
+    "audio": "work/audio/ko-KR/05/ko-05-2324.mp3"
+  },
+  {
+    "id": "ko-05-2325",
+    "sentence": "시험 기록에는 구형 휴대전화에서만 오류가 두 번 재현됐다고 적혀 있다. 따라서 오류가 재현된 범위에만 해당한다는 조건을 붙여 결과를 보고했다. 품질 담당자는 구형 기기 대응 여부를 금요일 회의에서 결정한다.",
+    "cloze": "오류가 재현된 범위에만 해당한다",
+    "answer": "오류가 재현된 범위에만 해당한다",
+    "accepted_answers": [],
+    "lemma": "오류 재현 범위 한정",
+    "meaning": "The finding applies only to the conditions where the error recurred.",
+    "audio": "work/audio/ko-KR/05/ko-05-2325.mp3"
+  },
+  {
+    "id": "ko-05-2326",
+    "sentence": "상담 직원은 처리 상태만 볼 수 있다. 열람 권한은 자료관리자가 부여한다는 원칙에 따라 원본 접근 요청은 별도로 기록된다.",
+    "cloze": "열람 권한은 자료관리자가 부여한다",
+    "answer": "열람 권한은 자료관리자가 부여한다",
+    "accepted_answers": [],
+    "lemma": "원본 열람 권한 부여",
+    "meaning": "The data manager grants authority to view the original material.",
+    "audio": "work/audio/ko-KR/05/ko-05-2326.mp3"
+  },
+  {
+    "id": "ko-05-2327",
+    "sentence": "백업 파일이 생성된 사실은 시스템 기록으로 확인됐다. 그러나 복구 가능 여부는 아직 검증되지 않았다. 기술팀이 내일 복원 시험을 한다.",
+    "cloze": "복구 가능 여부는 아직 검증되지 않았다",
+    "answer": "복구 가능 여부는 아직 검증되지 않았다",
+    "accepted_answers": [],
+    "lemma": "복구 가능성 미검증",
+    "meaning": "A backup exists, but successful recovery has not yet been proven.",
+    "audio": "work/audio/ko-KR/05/ko-05-2327.mp3"
+  },
+  {
+    "id": "ko-05-2328",
+    "sentence": "오늘 점검에서 회의실 단말기 한 대의 자동 잠금이 작동하지 않았다. 기술팀이 내일 다시 점검한다. 관리자는 그때까지 해당 단말기의 사용을 중지한다.",
+    "cloze": "기술팀이 내일 다시 점검한다",
+    "answer": "기술팀이 내일 다시 점검한다",
+    "accepted_answers": [],
+    "lemma": "단말기 재점검 책임",
+    "meaning": "The technical team will inspect the terminal again tomorrow.",
+    "audio": "work/audio/ko-KR/05/ko-05-2328.mp3"
+  },
+  {
+    "id": "ko-05-2329",
+    "sentence": "설문 화면에는 연락처, 연령대, 이용 목적이 각각 선택 항목으로 표시됩니다. 동의한 항목만 수집하겠습니다. 동의하지 않아도 기본 상담은 이용할 수 있습니다. 선택 기록은 개인정보 담당자가 한 달 뒤 삭제합니다.",
+    "cloze": "동의한 항목만 수집하겠습니다",
+    "answer": "동의한 항목만 수집하겠습니다",
+    "accepted_answers": [],
+    "lemma": "선택 동의 항목 수집",
+    "meaning": "Only data items the user agrees to provide will be collected.",
+    "audio": "work/audio/ko-KR/05/ko-05-2329.mp3"
+  },
+  {
+    "id": "ko-05-2330",
+    "sentence": "상담 직원은 문의 번호와 처리 상태만 볼 수 있습니다. 원본 열람은 담당 관리자에게만 허용됩니다. 접근 기록은 개인정보 보호 담당자가 매주 확인합니다.",
+    "cloze": "원본 열람은 담당 관리자에게만 허용됩니다",
+    "answer": "원본 열람은 담당 관리자에게만 허용됩니다",
+    "accepted_answers": [],
+    "lemma": "원본 제한 열람",
+    "meaning": "Only the responsible manager may view the original material.",
+    "audio": "work/audio/ko-KR/05/ko-05-2330.mp3"
+  },
+  {
+    "id": "ko-05-2331",
+    "sentence": "예약 알림 기능은 같은 조건에서 세 차례 시험됐습니다. 반복 시험에서도 같은 결과가 나왔습니다. 기술팀은 통신 장애 상황을 다음 시험에 포함합니다.",
+    "cloze": "반복 시험에서도 같은 결과가 나왔습니다",
+    "answer": "반복 시험에서도 같은 결과가 나왔습니다",
+    "accepted_answers": [],
+    "lemma": "반복 시험 결과 일치",
+    "meaning": "Repeated tests produced the same result under the tested conditions.",
+    "audio": "work/audio/ko-KR/05/ko-05-2331.mp3"
+  },
+  {
+    "id": "ko-05-2332",
+    "sentence": "시스템은 주소 형식이 다른 신청을 자동으로 보류합니다. 예외 건은 사람이 원문과 대조합니다. 최종 접수 여부는 민원 담당자가 결정합니다.",
+    "cloze": "예외 건은 사람이 원문과 대조합니다",
+    "answer": "예외 건은 사람이 원문과 대조합니다",
+    "accepted_answers": [],
+    "lemma": "자동 분류 예외 대조",
+    "meaning": "A person compares exceptional cases with the original submission.",
+    "audio": "work/audio/ko-KR/05/ko-05-2332.mp3"
+  },
+  {
+    "id": "ko-05-2333",
+    "sentence": "첫 시험에는 젊은 이용자만 참여해 작은 글씨 문제가 드러나지 않았습니다. 서비스를 고령 이용자 여덟 명과 다시 시험합니다. 서비스팀은 다음 주에 결과를 비교합니다.",
+    "cloze": "고령 이용자 여덟 명과 다시 시험합니다",
+    "answer": "고령 이용자 여덟 명과 다시 시험합니다",
+    "accepted_answers": [],
+    "lemma": "고령 이용자 재시험",
+    "meaning": "The service will be tested again with eight older users.",
+    "audio": "work/audio/ko-KR/05/ko-05-2333.mp3"
+  },
+  {
+    "id": "ko-05-2334",
+    "sentence": "담당자는 알림 발송표의 시각을 시스템 자료와 비교했습니다. 기록된 시각과 서버 로그를 대조했습니다. 일치하지 않은 두 건은 기술팀에 전달했습니다.",
+    "cloze": "기록된 시각과 서버 로그를 대조했습니다",
+    "answer": "기록된 시각과 서버 로그를 대조했습니다",
+    "accepted_answers": [],
+    "lemma": "발송 시각 로그 대조",
+    "meaning": "Recorded times were compared with server logs.",
+    "audio": "work/audio/ko-KR/05/ko-05-2334.mp3"
+  },
+  {
+    "id": "ko-05-2335",
+    "sentence": "운영위원회는 개인정보 보호 조건과 중단 기준을 검토했습니다. 시범 운영만 조건부로 승인됐습니다. 정식 도입은 한 달간의 시험 결과를 본 뒤 다시 판단합니다.",
+    "cloze": "시범 운영만 조건부로 승인됐습니다",
+    "answer": "시범 운영만 조건부로 승인됐습니다",
+    "accepted_answers": [],
+    "lemma": "조건부 시범 승인",
+    "meaning": "Only the pilot was approved, subject to conditions.",
+    "audio": "work/audio/ko-KR/05/ko-05-2335.mp3"
+  },
+  {
+    "id": "ko-05-2336",
+    "sentence": "현재 자료는 평일 이용자 삼십 명의 결과만 보여 줍니다. 전면 도입 여부는 다음 회의에서 정합니다. 운영팀은 그전에 주말 이용 기록을 제출합니다.",
+    "cloze": "전면 도입 여부는 다음 회의에서 정합니다",
+    "answer": "전면 도입 여부는 다음 회의에서 정합니다",
+    "accepted_answers": [],
+    "lemma": "전면 도입 결정 시점",
+    "meaning": "The next meeting will decide whether to adopt the system fully.",
+    "audio": "work/audio/ko-KR/05/ko-05-2336.mp3"
+  },
+  {
+    "id": "ko-05-2337",
+    "sentence": "문의 기록에는 화면 멈춤 현상과 사용 기종이 적혀 있습니다. 서비스팀장이 금요일까지 답변합니다. 기술적 원인은 시험 결과가 나온 뒤에만 알립니다.",
+    "cloze": "서비스팀장이 금요일까지 답변합니다",
+    "answer": "서비스팀장이 금요일까지 답변합니다",
+    "accepted_answers": [],
+    "lemma": "서비스 답변 책임 기한",
+    "meaning": "The service team leader owns the response due by Friday.",
+    "audio": "work/audio/ko-KR/05/ko-05-2337.mp3"
+  },
+  {
+    "id": "ko-05-2338",
+    "sentence": "주간 담당자는 해결된 문의와 남은 위험을 인계표에 나눠 적었습니다. 미확인 세 건은 야간 담당자에게 넘깁니다. 야간 담당자는 수신 사실을 기록합니다.",
+    "cloze": "미확인 세 건은 야간 담당자에게 넘깁니다",
+    "answer": "미확인 세 건은 야간 담당자에게 넘깁니다",
+    "accepted_answers": [],
+    "lemma": "미확인 문의 야간 인계",
+    "meaning": "Three unresolved cases are handed to the night staff member.",
+    "audio": "work/audio/ko-KR/05/ko-05-2338.mp3"
+  },
+  {
+    "id": "ko-05-2339",
+    "sentence": "자동 분류 오류가 한 시간에 세 건을 넘으면 서비스 사용을 멈춥니다. 기준을 넘으면 정보보호팀장에게 보고합니다. 운영 재개는 담당 관리자의 승인이 필요합니다.",
+    "cloze": "기준을 넘으면 정보보호팀장에게 보고합니다",
+    "answer": "기준을 넘으면 정보보호팀장에게 보고합니다",
+    "accepted_answers": [],
+    "lemma": "오류 기준 초과 보고",
+    "meaning": "Exceeding the threshold triggers a report to the information protection lead.",
+    "audio": "work/audio/ko-KR/05/ko-05-2339.mp3"
+  },
+  {
+    "id": "ko-05-2340",
+    "sentence": "이용자는 계정 이름, 발생 시각, 노출된 것으로 의심되는 항목을 적습니다. 노출 의심 신고는 보안 창구로 보내 주세요. 접수 담당자는 두 시간 안에 수신 여부를 알립니다.",
+    "cloze": "노출 의심 신고는 보안 창구로 보내 주세요",
+    "answer": "노출 의심 신고는 보안 창구로 보내 주세요",
+    "accepted_answers": [],
+    "lemma": "정보 노출 의심 신고",
+    "meaning": "Suspected exposure must be reported through the security channel.",
+    "audio": "work/audio/ko-KR/05/ko-05-2340.mp3"
+  },
+  {
+    "id": "ko-05-2341",
+    "sentence": "오후부터 검색 화면이 느려졌다는 문의가 여섯 건 접수됐습니다. 느려진 원인은 아직 확인되지 않았습니다. 기술팀은 접속 기록과 저장 용량을 각각 점검합니다.",
+    "cloze": "느려진 원인은 아직 확인되지 않았습니다",
+    "answer": "느려진 원인은 아직 확인되지 않았습니다",
+    "accepted_answers": [],
+    "lemma": "성능 저하 원인 미확인",
+    "meaning": "The reason for the slowdown has not been confirmed.",
+    "audio": "work/audio/ko-KR/05/ko-05-2341.mp3"
+  },
+  {
+    "id": "ko-05-2342",
+    "sentence": "시범 운영의 허용 오류율은 일 퍼센트로 정했습니다. 운영위원회는 오류율이 기준 아래일 때만 확대합니다. 기준을 넘으면 기존 방식으로 되돌리고 원인을 조사합니다.",
+    "cloze": "오류율이 기준 아래일 때만 확대합니다",
+    "answer": "오류율이 기준 아래일 때만 확대합니다",
+    "accepted_answers": [],
+    "lemma": "오류율 기준 충족 확대",
+    "meaning": "Expansion occurs only when the error rate stays below the threshold.",
+    "audio": "work/audio/ko-KR/05/ko-05-2342.mp3"
+  },
+  {
+    "id": "ko-05-2343",
+    "sentence": "자동 추천은 문의 유형과 관련 문서를 제시하지만 답변을 확정하지 않습니다. 자동 추천은 참고로만 사용합니다. 담당 직원이 원문을 읽고 답변을 선택합니다.",
+    "cloze": "자동 추천은 참고로만 사용합니다",
+    "answer": "자동 추천은 참고로만 사용합니다",
+    "accepted_answers": [],
+    "lemma": "자동 추천 보조 사용",
+    "meaning": "Automated suggestions are used only as supporting information.",
+    "audio": "work/audio/ko-KR/05/ko-05-2343.mp3"
+  },
+  {
+    "id": "ko-05-2344",
+    "sentence": "시스템은 세 가지 처리안을 비용과 예상 시간순으로 보여 줍니다. 최종 선택은 담당 관리자가 내립니다. 선택 이유와 승인 시각은 결정 기록에 남깁니다.",
+    "cloze": "최종 선택은 담당 관리자가 내립니다",
+    "answer": "최종 선택은 담당 관리자가 내립니다",
+    "accepted_answers": [],
+    "lemma": "관리자 최종 선택",
+    "meaning": "The responsible manager makes the final choice.",
+    "audio": "work/audio/ko-KR/05/ko-05-2344.mp3"
+  },
+  {
+    "id": "ko-05-2345",
+    "sentence": "새 화면을 적용하기 전에 기존 설정 파일을 별도 저장소에 복사합니다. 이전 설정을 보관해 되돌릴 수 있습니다. 복원 권한은 기술지원팀장에게 있습니다.",
+    "cloze": "이전 설정을 보관해 되돌릴 수 있습니다",
+    "answer": "이전 설정을 보관해 되돌릴 수 있습니다",
+    "accepted_answers": [],
+    "lemma": "이전 설정 복구 대비",
+    "meaning": "The prior settings are retained so the change can be reversed.",
+    "audio": "work/audio/ko-KR/05/ko-05-2345.mp3"
+  },
+  {
+    "id": "ko-05-2346",
+    "sentence": "시범 기록에는 평일 오전의 접속 결과만 포함돼 있습니다. 한 달 기록으로 안정성을 단정하지 않습니다. 야간과 주말 시험은 다음 달까지 기술팀이 맡습니다.",
+    "cloze": "한 달 기록으로 안정성을 단정하지 않습니다",
+    "answer": "한 달 기록으로 안정성을 단정하지 않습니다",
+    "accepted_answers": [],
+    "lemma": "단기 기록 해석 제한",
+    "meaning": "One month of records is insufficient to claim stable operation.",
+    "audio": "work/audio/ko-KR/05/ko-05-2346.mp3"
+  },
+  {
+    "id": "ko-05-2347",
+    "sentence": "사용자: 새 암호가 적용됐나요?\n직원: 계정 기록에는 변경 완료로 나옵니다.\n사용자: 로그인도 검증됐나요?\n직원: 아니요. 시험 계정 접속은 아직입니다.\n관리자: 오늘 네 시까지 접속 시험을 진행하세요.",
+    "cloze": "오늘 네 시까지 접속 시험을 진행하세요",
+    "answer": "오늘 네 시까지 접속 시험을 진행하세요",
+    "accepted_answers": [],
+    "lemma": "접속 시험 지시 기한",
+    "meaning": "The manager orders a login test by four o’clock today.",
+    "audio": "work/audio/ko-KR/05/ko-05-2347.mp3"
+  },
+  {
+    "id": "ko-05-2348",
+    "sentence": "직원: 자동 접수안을 검토해 두었습니다.\n관리자: 개인정보 비용도 포함했습니까?\n직원: 비용표는 아직 재무팀에서 확인 중입니다.\n관리자: 승인은 제가 비용표를 본 뒤 결정합니다.",
+    "cloze": "승인은 제가 비용표를 본 뒤 결정합니다",
+    "answer": "승인은 제가 비용표를 본 뒤 결정합니다",
+    "accepted_answers": [],
+    "lemma": "비용표 확인 후 승인",
+    "meaning": "The manager will decide on approval after seeing the cost table.",
+    "audio": "work/audio/ko-KR/05/ko-05-2348.mp3"
+  },
+  {
+    "id": "ko-05-2349",
+    "sentence": "사용자: 프린터는 이제 쓸 수 있나요?\n기술 직원: 연결 상태와 용지 설정은 점검했습니다.\n사용자: 여러 장을 계속 뽑아도 안정적입니까?\n기술 직원: 연속 출력 검증은 아직 하지 않았습니다.\n관리자: 오후 시험 뒤에 사용 여부를 알려 주세요.",
+    "cloze": "연속 출력 검증은 아직 하지 않았습니다",
+    "answer": "연속 출력 검증은 아직 하지 않았습니다",
+    "accepted_answers": [],
+    "lemma": "연속 출력 미검증",
+    "meaning": "Continuous printing has not yet been proven by testing.",
+    "audio": "work/audio/ko-KR/05/ko-05-2349.mp3"
+  },
+  {
+    "id": "ko-05-2350",
+    "sentence": "사용자: 상담 녹음은 누가 들을 수 있나요?\n직원: 현재는 배정된 상담사만 들을 수 있습니다.\n사용자: 제 담당자가 바뀌면 어떻게 됩니까?\n직원: 권한 변경은 개인정보 관리자가 처리합니다.\n관리자: 변경 기록과 삭제 기한도 남기겠습니다.",
+    "cloze": "권한 변경은 개인정보 관리자가 처리합니다",
+    "answer": "권한 변경은 개인정보 관리자가 처리합니다",
+    "accepted_answers": [],
+    "lemma": "상담 녹음 권한 변경",
+    "meaning": "The privacy manager handles changes to recording access.",
+    "audio": "work/audio/ko-KR/05/ko-05-2350.mp3"
+  },
+  {
+    "id": "ko-05-2351",
+    "sentence": "사용자: 주소 형식이 다르다는 이유로 신청이 거절됐어요.\n직원: 시스템이 자동으로 보류한 상태입니다.\n사용자: 이미 거절된 건가요?\n직원: 자동 판정만으로는 거절하지 않습니다.\n관리자: 원문을 검토한 뒤 제가 접수 여부를 정하겠습니다.",
+    "cloze": "자동 판정만으로는 거절하지 않습니다",
+    "answer": "자동 판정만으로는 거절하지 않습니다",
+    "accepted_answers": [],
+    "lemma": "자동 판정 거절 제한",
+    "meaning": "An automated decision alone does not cause rejection.",
+    "audio": "work/audio/ko-KR/05/ko-05-2351.mp3"
+  },
+  {
+    "id": "ko-05-2352",
+    "sentence": "사용자: 화면 낭독기로 환불 메뉴를 찾기 어려웠어요.\n직원: 접속 기록에는 오류가 없었습니다.\n사용자: 그 기록만으로 사용하기 쉽다고 볼 수 있나요?\n직원: 실제 사용 시험 결과는 아직 없습니다.\n관리자: 낭독기 사용자와 작은 화면 사용자를 따로 모집하겠습니다.",
+    "cloze": "실제 사용 시험 결과는 아직 없습니다",
+    "answer": "실제 사용 시험 결과는 아직 없습니다",
+    "accepted_answers": [],
+    "lemma": "실사용 시험 결과 부재",
+    "meaning": "No results from an actual user test are available yet.",
+    "audio": "work/audio/ko-KR/05/ko-05-2352.mp3"
+  },
+  {
+    "id": "ko-05-2353",
+    "sentence": "주간 직원: 문의 열 건 중 일곱 건은 해결했습니다.\n야간 직원: 남은 세 건의 위험도 적혀 있나요?\n주간 직원: 미해결 위험까지 인계표에 적겠습니다.\n야간 직원: 받는 즉시 수신 시각을 기록하겠습니다.\n관리자: 중대한 오류는 기다리지 말고 제게 보고하세요.",
+    "cloze": "미해결 위험까지 인계표에 적겠습니다",
+    "answer": "미해결 위험까지 인계표에 적겠습니다",
+    "accepted_answers": [],
+    "lemma": "미해결 위험 인계 기록",
+    "meaning": "Unresolved risks will also be written in the handoff record.",
+    "audio": "work/audio/ko-KR/05/ko-05-2353.mp3"
+  },
+  {
+    "id": "ko-05-2354",
+    "sentence": "사용자: 복구 완료 문자를 받았는데 아직 접속이 안 됩니다.\n직원: 문자 수신은 확인됐지만 복구 상태는 다시 검증해야 합니다.\n관리자: 지금 시험 계정으로 접속해 보세요.\n직원: 다섯 시까지 실패하면 팀장에게 보고합니다.\n사용자: 결과는 문자와 이메일로 모두 알려 주세요.",
+    "cloze": "다섯 시까지 실패하면 팀장에게 보고합니다",
+    "answer": "다섯 시까지 실패하면 팀장에게 보고합니다",
+    "accepted_answers": [],
+    "lemma": "복구 실패 보고 시한",
+    "meaning": "Failure by five o’clock must be escalated to the team leader.",
+    "audio": "work/audio/ko-KR/05/ko-05-2354.mp3"
+  },
+  {
+    "id": "ko-05-2355",
+    "sentence": "[개인정보 접근 기록]\n요청자: 고객지원팀 이수현\n접근 범위: 계정 복구에 필요한 연락처\n접근 사유: 계정 복구 요청 처리\n승인자: 개인정보 관리자\n보관 기한: 9월 30일\n다음 점검: 개인정보 관리자가 9월 1일 접근 기록 확인",
+    "cloze": "접근 사유: 계정 복구 요청 처리",
+    "answer": "접근 사유: 계정 복구 요청 처리",
+    "accepted_answers": [],
+    "lemma": "계정 복구 접근 사유",
+    "meaning": "The access reason is handling an account recovery request.",
+    "audio": "work/audio/ko-KR/05/ko-05-2355.mp3"
+  },
+  {
+    "id": "ko-05-2356",
+    "sentence": "[신뢰성 검증 기록]\n대상: 예약 알림 서비스\n방법: 같은 요청을 열 번 반복 전송\n검증 결과: 열 번 모두 정상 응답\n미검증 범위: 통신 장애 상황\n다음 조치: 기술팀이 8월 20일 장애 시험 실시",
+    "cloze": "검증 결과: 열 번 모두 정상 응답",
+    "answer": "검증 결과: 열 번 모두 정상 응답",
+    "accepted_answers": [],
+    "lemma": "예약 알림 반복 검증",
+    "meaning": "All ten repeated requests received normal responses.",
+    "audio": "work/audio/ko-KR/05/ko-05-2356.mp3"
+  },
+  {
+    "id": "ko-05-2357",
+    "sentence": "[자동 분류 예외 처리]\n상태: 주소 형식 불일치로 자동 보류\n결정 권한: 민원 담당자\n후속 조치: 민원 담당자가 원문 검토\n기한: 오늘 오후 4시\n미처리 시: 운영팀장에게 보고",
+    "cloze": "후속 조치: 민원 담당자가 원문 검토",
+    "answer": "후속 조치: 민원 담당자가 원문 검토",
+    "accepted_answers": [],
+    "lemma": "자동 보류 원문 검토",
+    "meaning": "The responsible officer must review the original submission next.",
+    "audio": "work/audio/ko-KR/05/ko-05-2357.mp3"
+  },
+  {
+    "id": "ko-05-2358",
+    "sentence": "[사용성 시범 기록]\n대상: 화면 낭독기 사용자 네 명\n과업: 환불 메뉴 찾기\n결과: 네 명 중 두 명이 도움 없이 완료\n제한: 작은 화면 사용자는 포함하지 않음\n담당: 서비스기획팀\n다음 조치: 8월 22일까지 작은 화면 사용자 시험 계획 제출",
+    "cloze": "대상: 화면 낭독기 사용자 네 명",
+    "answer": "대상: 화면 낭독기 사용자 네 명",
+    "accepted_answers": [],
+    "lemma": "화면 낭독기 사용성 대상",
+    "meaning": "The pilot involved four screen-reader users.",
+    "audio": "work/audio/ko-KR/05/ko-05-2358.mp3"
+  },
+  {
+    "id": "ko-05-2359",
+    "sentence": "[장비 점검표]\n장비: 회의실 무선 공유기\n점검 결과: 예비 회선 연결 상태 정상\n미검증 항목: 2시간 연속 접속\n담당: 기술지원팀\n다음 조치: 8월 18일까지 연속 접속 검증",
+    "cloze": "점검 결과: 예비 회선 연결 상태 정상",
+    "answer": "점검 결과: 예비 회선 연결 상태 정상",
+    "accepted_answers": [],
+    "lemma": "예비 회선 상태 점검",
+    "meaning": "Inspection found the backup-line connection in normal condition.",
+    "audio": "work/audio/ko-KR/05/ko-05-2359.mp3"
+  },
+  {
+    "id": "ko-05-2360",
+    "sentence": "[시범 운영 결정 기록]\n대상: 자동 민원 분류 도구\n승인 상태: 두 지점 시범만 승인\n정식 도입: 검증 완료 뒤 재심의\n재심의 주체: 운영위원회\n예외 처리: 담당자가 원문 검토\n책임자: 서비스운영팀장",
+    "cloze": "정식 도입: 검증 완료 뒤 재심의",
+    "answer": "정식 도입: 검증 완료 뒤 재심의",
+    "accepted_answers": [],
+    "lemma": "정식 도입 재심의 조건",
+    "meaning": "Full adoption will be reconsidered after testing is complete.",
+    "audio": "work/audio/ko-KR/05/ko-05-2360.mp3"
   }
 ]
