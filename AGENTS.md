@@ -52,6 +52,9 @@ named action and task.
   action for the current task.
 - Perform only the authorized action and stop on unexpected credentials, privileges, destructive
   steps, or security bypasses.
+- Fresh content author and reviewer contexts use sequential one-shot Codex CLI processes rather
+  than nested agent threads when nested threads would exhaust the parent session. Author and
+  reviewer processes are separate, are not resumed, and do not edit the repository.
 
 ## Tests and validation
 

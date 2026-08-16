@@ -555,6 +555,7 @@ class MeikiDecksTests(unittest.TestCase):
             "External, interactive, destructive, publishing, installation, launch, upload",
             "Use blocking human verification only when objective evidence cannot establish",
             "authorized external-action state and result",
+            "Fresh content author and reviewer contexts use sequential one-shot Codex CLI",
         )
 
         for rule in required_rules:
