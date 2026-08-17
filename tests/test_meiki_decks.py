@@ -529,6 +529,31 @@ class MeikiDecksTests(unittest.TestCase):
         loader.assert_not_called()
         self.assertEqual(audio_path.read_bytes(), b"existing audio")
 
+    def test_generate_audio_retry_removes_completed_stage_workspace(self):
+        card = self.card()
+        self.write_stage([card])
+        audio_path = self.root / card["audio"]
+        audio_path.parent.mkdir(parents=True)
+        audio_path.write_bytes(b"validated audio")
+        stage_workspace = (
+            self.root / "work" / "denoiser-temp" / self.language / self.stage
+        )
+        stage_workspace.mkdir(parents=True)
+        (stage_workspace / "retained.wav").write_bytes(b"diagnostic audio")
+
+        with mock.patch.object(meiki_decks, "load_tts_model") as loader:
+            failures = meiki_decks.generate_audio(
+                self.root,
+                self.language,
+                self.stage,
+                probe=lambda _: 1_000,
+                tts_config=self.tts_configuration(),
+            )
+
+        self.assertEqual(failures, 0)
+        self.assertFalse(stage_workspace.exists())
+        loader.assert_not_called()
+
     def test_generate_audio_rejects_missing_or_empty_reference_wav_before_model_load(self):
         self.write_stage([self.card()])
         configuration = self.tts_configuration()
@@ -725,6 +750,15 @@ class MeikiDecksTests(unittest.TestCase):
 
         self.assertEqual(cards, [card])
         self.assertEqual(probed, [audio_path])
+
+    def test_validate_audio_reports_file_inspection_errors(self):
+        audio_path = self.root / "inaccessible.mp3"
+
+        with (
+            mock.patch.object(Path, "is_file", side_effect=PermissionError("denied")),
+            self.assertRaisesRegex(meiki_decks.DeckError, "cannot inspect audio file"),
+        ):
+            meiki_decks.validate_audio(audio_path, probe=lambda _: 1_000)
 
     def test_build_creates_verified_version_four_archive_with_deduplicated_media(self):
         cards = [

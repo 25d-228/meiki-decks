@@ -261,9 +261,9 @@ def probe_audio(audio_path, run_command=subprocess.run):
 
 
 def validate_audio(audio_path, probe=probe_audio):
-    if not audio_path.is_file():
-        raise DeckError(f"{audio_path}: audio file is missing")
     try:
+        if not audio_path.is_file():
+            raise DeckError(f"{audio_path}: audio file is missing")
         byte_size = audio_path.stat().st_size
     except OSError as error:
         raise DeckError(f"{audio_path}: cannot inspect audio file: {error}") from error
@@ -340,6 +340,7 @@ def generate_audio(
     denoiser_config=None,
 ):
     cards = load_stage_cards(root, language, stage)
+    stage_workspace = root / "work" / "denoiser-temp" / language / stage
     configuration = (TTS_CONFIG if tts_config is None else tts_config).get(language)
     if configuration is None:
         raise DeckError(f"no local VoxCPM2 configuration exists for {language}")
@@ -373,6 +374,13 @@ def generate_audio(
             report_failure(card["id"], error)
 
     if not pending_cards:
+        if not failed_card_ids and stage_workspace.exists():
+            try:
+                shutil.rmtree(stage_workspace)
+            except OSError as error:
+                raise DeckError(
+                    f"cannot remove completed stage workspace {stage_workspace}: {error}"
+                ) from error
         return len(failed_card_ids)
 
     reference_wav = root / configuration["reference_wav"]
@@ -423,7 +431,6 @@ def generate_audio(
     if sample_rate != 48_000:
         raise DeckError("VoxCPM2 model must return a 48 kHz waveform")
 
-    stage_workspace = root / "work" / "denoiser-temp" / language / stage
     baseline_root = stage_workspace / "baseline"
     denoised_root = stage_workspace / "denoised"
     encoded_root = stage_workspace / "encoded"
