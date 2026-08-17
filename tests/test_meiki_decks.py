@@ -478,6 +478,37 @@ class MeikiDecksTests(unittest.TestCase):
         self.assertEqual(report["succeeded"], ["test-001", "test-002"])
         self.assertEqual(report["failed"], {})
 
+    def test_mossformer_batch_hides_repository_from_lazy_model_imports(self):
+        repository_root = Path(mossformer2_batch.__file__).resolve().parent
+        original_import_path = sys.path[:]
+
+        def fake_batch(_manifest_path, _report_path):
+            resolved_import_path = [
+                Path(path or Path.cwd()).resolve() for path in sys.path
+            ]
+            self.assertNotIn(repository_root, resolved_import_path)
+            return 0
+
+        try:
+            sys.path.insert(0, str(repository_root))
+            with mock.patch.object(
+                mossformer2_batch,
+                "process_batch",
+                side_effect=fake_batch,
+            ):
+                result = mossformer2_batch.main(
+                    [
+                        "--manifest",
+                        str(self.root / "manifest.json"),
+                        "--report",
+                        str(self.root / "report.json"),
+                    ]
+                )
+            self.assertEqual(result, 0)
+            self.assertEqual(sys.path, [str(repository_root), *original_import_path])
+        finally:
+            sys.path[:] = original_import_path
+
     def test_generate_audio_skips_a_nonempty_existing_mp3(self):
         card = self.card()
         self.write_stage([card])

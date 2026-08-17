@@ -184,11 +184,22 @@ def create_parser():
 
 def main(argv=None):
     arguments = create_parser().parse_args(argv)
+    repository_root = Path(__file__).resolve().parent
+    original_import_path = sys.path[:]
+    # coverage/ contains source documentation, but Numba expects the installed
+    # coverage package while ClearVoice loads Librosa lazily.
+    sys.path[:] = [
+        path
+        for path in sys.path
+        if Path(path or Path.cwd()).resolve() != repository_root
+    ]
     try:
         return process_batch(arguments.manifest, arguments.report)
     except (OSError, TypeError, ValueError, json.JSONDecodeError) as error:
         print(error, file=sys.stderr)
         return 1
+    finally:
+        sys.path[:] = original_import_path
 
 
 if __name__ == "__main__":
