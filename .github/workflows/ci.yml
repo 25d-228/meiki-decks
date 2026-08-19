@@ -77,6 +77,7 @@ jobs:
               "cards/ko-KR/03.json",
               "cards/ko-KR/04.json",
               "cards/ko-KR/05.json",
+              "cards/ko-KR/06.json",
               "coverage/ja-JP/00.md",
               "coverage/ja-JP/01.md",
               "coverage/ja-JP/02.md",
@@ -89,6 +90,7 @@ jobs:
               "coverage/ko-KR/03.md",
               "coverage/ko-KR/04.md",
               "coverage/ko-KR/05.md",
+              "coverage/ko-KR/06.md",
               "meiki_decks.py",
               "mossformer2_batch.py",
               "pyproject.toml",
@@ -117,6 +119,7 @@ jobs:
           python meiki_decks.py check --language ko-KR --stage 03
           python meiki_decks.py check --language ko-KR --stage 04
           python meiki_decks.py check --language ko-KR --stage 05
+          python meiki_decks.py check --language ko-KR --stage 06
       - name: Build and verify tiny archive
         run: >-
           python -m unittest -v
