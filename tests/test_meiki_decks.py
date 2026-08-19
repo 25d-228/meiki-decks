@@ -313,6 +313,155 @@ class MeikiDecksTests(unittest.TestCase):
         self.assertTrue((stage_workspace / "denoised" / "test-001.wav").is_file())
         self.assertFalse((self.root / card["audio"]).exists())
 
+    def test_generate_audio_retry_reuses_retained_baseline(self):
+        card = self.card()
+        self.write_stage([card])
+        self.write_voice_reference()
+        denoiser_configuration = self.denoiser_configuration()
+        baseline_path = (
+            self.root
+            / "work"
+            / "denoiser-temp"
+            / self.language
+            / self.stage
+            / "baseline"
+            / "test-001.wav"
+        )
+        baseline_path.parent.mkdir(parents=True)
+        baseline_path.write_bytes(b"retained untreated baseline")
+
+        class FakeModel:
+            tts_model = mock.Mock(sample_rate=48_000)
+            generate = mock.Mock(side_effect=AssertionError("baseline was regenerated"))
+
+        def fake_command(command, **arguments):
+            if command[0] == "fake-mossformer-python":
+                return self.finish_denoiser_batch(command)
+            Path(command[-1]).write_bytes(b"encoded denoised audio")
+            return subprocess.CompletedProcess(command, 0, stdout="")
+
+        model = FakeModel()
+        with (
+            mock.patch.object(meiki_decks, "load_tts_model", return_value=model) as loader,
+            mock.patch.object(meiki_decks, "write_waveform") as writer,
+        ):
+            failures = meiki_decks.generate_audio(
+                self.root,
+                self.language,
+                self.stage,
+                run_command=fake_command,
+                probe=lambda _: 1_000,
+                tts_config=self.tts_configuration(),
+                denoiser_config=denoiser_configuration,
+            )
+
+        self.assertEqual(failures, 0)
+        loader.assert_called_once()
+        model.generate.assert_not_called()
+        writer.assert_not_called()
+        self.assertTrue((self.root / card["audio"]).is_file())
+
+    def test_generate_audio_releases_voxcpm_gpu_memory_before_denoising(self):
+        card = self.card()
+        self.write_stage([card])
+        self.write_voice_reference()
+        denoiser_configuration = self.denoiser_configuration()
+        events = []
+
+        class FakeModel:
+            tts_model = mock.Mock(sample_rate=48_000)
+
+            def generate(self, **arguments):
+                return [0.0, 0.1]
+
+        class FakeCuda:
+            @staticmethod
+            def empty_cache():
+                events.append("release")
+
+        def fake_write(path, waveform, sample_rate):
+            path.write_bytes(b"untreated baseline")
+
+        def fake_command(command, **arguments):
+            if command[0] == "fake-mossformer-python":
+                events.append("denoise")
+                return self.finish_denoiser_batch(command)
+            Path(command[-1]).write_bytes(b"encoded denoised audio")
+            return subprocess.CompletedProcess(command, 0, stdout="")
+
+        with (
+            mock.patch.object(meiki_decks, "load_tts_model", return_value=FakeModel()),
+            mock.patch.object(meiki_decks, "write_waveform", side_effect=fake_write),
+            mock.patch.dict(sys.modules, {"torch": mock.Mock(cuda=FakeCuda())}),
+        ):
+            failures = meiki_decks.generate_audio(
+                self.root,
+                self.language,
+                self.stage,
+                run_command=fake_command,
+                probe=lambda _: 1_000,
+                tts_config=self.tts_configuration(),
+                denoiser_config=denoiser_configuration,
+            )
+
+        self.assertEqual(failures, 0)
+        self.assertEqual(events, ["release", "denoise"])
+
+    def test_generate_audio_retry_regenerates_baseline_after_clipping_failure(self):
+        card = self.card()
+        self.write_stage([card])
+        self.write_voice_reference()
+        denoiser_configuration = self.denoiser_configuration()
+        stage_workspace = (
+            self.root / "work" / "denoiser-temp" / self.language / self.stage
+        )
+        baseline_path = stage_workspace / "baseline" / "test-001.wav"
+        baseline_path.parent.mkdir(parents=True)
+        baseline_path.write_bytes(b"retained untreated baseline")
+        (stage_workspace / "report.json").write_text(
+            json.dumps(
+                {
+                    "failed": {
+                        "test-001": "denoised output introduces clipped samples",
+                    }
+                }
+            ),
+            encoding="utf-8",
+        )
+
+        class FakeModel:
+            tts_model = mock.Mock(sample_rate=48_000)
+            generate = mock.Mock(return_value=[0.0, 0.1])
+
+        def fake_write(path, waveform, sample_rate):
+            path.write_bytes(b"replacement untreated baseline")
+
+        def fake_command(command, **arguments):
+            if command[0] == "fake-mossformer-python":
+                return self.finish_denoiser_batch(command)
+            Path(command[-1]).write_bytes(b"encoded denoised audio")
+            return subprocess.CompletedProcess(command, 0, stdout="")
+
+        model = FakeModel()
+        with (
+            mock.patch.object(meiki_decks, "load_tts_model", return_value=model),
+            mock.patch.object(meiki_decks, "write_waveform", side_effect=fake_write) as writer,
+        ):
+            failures = meiki_decks.generate_audio(
+                self.root,
+                self.language,
+                self.stage,
+                run_command=fake_command,
+                probe=lambda _: 1_000,
+                tts_config=self.tts_configuration(),
+                denoiser_config=denoiser_configuration,
+            )
+
+        self.assertEqual(failures, 0)
+        model.generate.assert_called_once()
+        writer.assert_called_once_with(baseline_path, [0.0, 0.1], 48_000)
+        self.assertTrue((self.root / card["audio"]).is_file())
+
     def test_generate_audio_removes_stage_workspace_once_after_success(self):
         cards = [
             self.card("test-001", "First is ready."),

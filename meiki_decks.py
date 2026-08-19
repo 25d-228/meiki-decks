@@ -2,6 +2,7 @@
 
 import argparse
 import contextlib
+import gc
 import hashlib
 import json
 import os
@@ -437,8 +438,41 @@ def generate_audio(
     for directory in (baseline_root, denoised_root, encoded_root):
         directory.mkdir(parents=True, exist_ok=True)
 
+    baseline_regeneration_ids = set()
+    retained_report_path = stage_workspace / "report.json"
+    if retained_report_path.is_file():
+        try:
+            retained_report = json.loads(retained_report_path.read_text(encoding="utf-8"))
+            retained_failures = retained_report["failed"]
+            if not isinstance(retained_failures, dict) or not all(
+                isinstance(card_id, str) and isinstance(detail, str)
+                for card_id, detail in retained_failures.items()
+            ):
+                raise ValueError("failed must map card IDs to details")
+        except (OSError, KeyError, TypeError, ValueError, json.JSONDecodeError) as error:
+            raise DeckError(
+                f"retained MossFormer2 report is invalid: {retained_report_path}: {error}"
+            ) from error
+        baseline_regeneration_ids = {
+            card_id
+            for card_id, detail in retained_failures.items()
+            if "denoised output introduces clipped samples" in detail
+        }
+
     generated_cards = []
     for card in pending_cards:
+        baseline_path = baseline_root / f"{card['id']}.wav"
+        try:
+            if (
+                card["id"] not in baseline_regeneration_ids
+                and baseline_path.is_file()
+                and baseline_path.stat().st_size > 0
+            ):
+                validate_audio(baseline_path, probe)
+                generated_cards.append(card)
+                continue
+        except (DeckError, OSError):
+            pass
         try:
             with without_repository_import_path():
                 waveform = model.generate(
@@ -447,11 +481,20 @@ def generate_audio(
                     prompt_text=reference_text,
                     reference_wav_path=str(reference_wav),
                 )
-            baseline_path = baseline_root / f"{card['id']}.wav"
             write_waveform(baseline_path, waveform, sample_rate)
             generated_cards.append(card)
         except Exception as error:
             report_failure(card["id"], error)
+
+    waveform = None
+    model = None
+    gc.collect()
+    torch = sys.modules.get("torch")
+    if torch is not None:
+        try:
+            torch.cuda.empty_cache()
+        except (AttributeError, RuntimeError) as error:
+            raise DeckError(f"cannot release VoxCPM2 GPU memory: {error}") from error
 
     if generated_cards:
         manifest_path = stage_workspace / "manifest.json"
