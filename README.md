@@ -32,8 +32,8 @@ use. It does not use cloud keys or a remote synthesis service.
 ### Japanese and Korean denoising
 
 [Issue #92](https://github.com/25d-228/meiki-decks/issues/92) selected the
-official `MossFormer2_SE_48K` speech-enhancement model for the next complete
-Japanese and Korean audio regeneration. Use the Apache-2.0 model with these
+official Apache-2.0 `MossFormer2_SE_48K` speech-enhancement model for Japanese
+and Korean audio generation. The active `generate-audio` path uses these
 immutable upstream revisions:
 
 - ClearerVoice-Studio code commit:
@@ -43,20 +43,22 @@ immutable upstream revisions:
 - `last_best_checkpoint.pt` SHA-256:
   `03692b9f773bbd6bb43b9c5a41f96b1e28affd66e13796b7bec66ad3d8b227c6`
 
-The fixed comparison invocation on the designated server was:
+Run the unchanged stage command in the VoxCPM2 environment:
 
 ```bash
-cd /home/Yue_Ziran/workspace/meiki-decks-issue-92
-env TMPDIR=/mango/homes/YUE_Ziran/workspace/meiki-decks-issue-92/temp \
-  PYTHONPATH=/mango/homes/YUE_Ziran/workspace/meiki-decks-issue-92/relay/mossformer2-se-48k-code/clearvoice \
-  CUDA_VISIBLE_DEVICES=0 \
-  /mango/homes/YUE_Ziran/workspace/meiki-decks-issue-92/environments/mossformer2-se-48k-py312/bin/python \
-  run_mossformer2.py
+python meiki_decks.py generate-audio --language <locale> --stage <stage>
 ```
 
-The runner constructs `ClearVoice(task="speech_enhancement",
-model_names=["MossFormer2_SE_48K"])` and passes untreated VoxCPM2 output as
-48 kHz mono float32 samples. The pinned model configuration uses a 20-second
-one-pass decode length and a 4-second decode window. Write 48 kHz mono float32
-WAV output with the input frame count preserved; do not normalize, trim,
-compress, or otherwise post-process one language differently from the other.
+The command loads VoxCPM2 once and writes every pending untreated waveform for
+the stage. It then invokes `mossformer2_batch.py` once in the retained separate
+MossFormer2 environment. The runner loads
+`ClearVoice(task="speech_enhancement", model_names=["MossFormer2_SE_48K"])`
+once, uses a 20-second one-pass decode length and a 4-second decode window, and
+preserves each input frame count in 48 kHz mono float32 WAV output. FFmpeg
+encodes only validated denoised WAV files to the declared MP3 paths.
+
+Stage baselines and denoised WAV files remain under
+`work/denoiser-temp/<locale>/<stage>/` when any card fails. After every final
+MP3 in a stage validates, the generator removes that stage temporary directory
+once. Valid existing final MP3 files are still skipped during normal
+incremental generation.
