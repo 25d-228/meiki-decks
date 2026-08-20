@@ -4063,5 +4063,405 @@
     "meaning": "did not answer them",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0400.mp3"
+  },
+  {
+    "id": "fr-02-0401",
+    "sentence": "En semaine, Claire se réveille à six heures et demie.",
+    "cloze": "se réveille",
+    "answer": "se réveille",
+    "lemma": "se réveiller",
+    "meaning": "wakes up",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0401.mp3"
+  },
+  {
+    "id": "fr-02-0402",
+    "sentence": "À six heures et demie, Hugo se lève pour aller au bureau.",
+    "cloze": "se lève",
+    "answer": "se lève",
+    "lemma": "se lever",
+    "meaning": "gets up",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0402.mp3"
+  },
+  {
+    "id": "fr-02-0403",
+    "sentence": "Avant de sortir, Inès se prépare dans sa chambre.",
+    "cloze": "se prépare",
+    "answer": "se prépare",
+    "lemma": "se préparer",
+    "meaning": "gets ready",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0403.mp3"
+  },
+  {
+    "id": "fr-02-0404",
+    "sentence": "Quand il fait froid, les enfants s'habillent avant de sortir.",
+    "cloze": "s'habillent",
+    "answer": "s'habillent",
+    "lemma": "s'habiller",
+    "meaning": "get dressed",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0404.mp3"
+  },
+  {
+    "id": "fr-02-0405",
+    "sentence": "Le matin, nous nous dépêchons pour prendre le train.",
+    "cloze": "nous nous dépêchons",
+    "answer": "nous nous dépêchons",
+    "lemma": "se dépêcher",
+    "meaning": "hurry",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0405.mp3"
+  },
+  {
+    "id": "fr-02-0406",
+    "sentence": "Après le déjeuner, vous vous reposez un peu en terrasse.",
+    "cloze": "vous vous reposez",
+    "answer": "vous vous reposez",
+    "lemma": "se reposer",
+    "meaning": "rest",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0406.mp3"
+  },
+  {
+    "id": "fr-02-0407",
+    "sentence": "Chaque soir, Malik se douche avant de dîner.",
+    "cloze": "se douche",
+    "answer": "se douche",
+    "lemma": "se doucher",
+    "meaning": "takes a shower",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0407.mp3"
+  },
+  {
+    "id": "fr-02-0408",
+    "sentence": "Avant de cuisiner, Zoé se lave les mains.",
+    "cloze": "se lave les mains",
+    "answer": "se lave les mains",
+    "lemma": "se laver les mains",
+    "meaning": "washes her hands",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0408.mp3"
+  },
+  {
+    "id": "fr-02-0409",
+    "sentence": "Les enfants se brossent les dents après le petit déjeuner.",
+    "cloze": "se brossent les dents",
+    "answer": "se brossent les dents",
+    "lemma": "se brosser les dents",
+    "meaning": "brush their teeth",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0409.mp3"
+  },
+  {
+    "id": "fr-02-0410",
+    "sentence": "D'habitude, mes parents se couchent vers onze heures.",
+    "cloze": "se couchent",
+    "answer": "se couchent",
+    "lemma": "se coucher",
+    "meaning": "go to bed",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0410.mp3"
+  },
+  {
+    "id": "fr-02-0411",
+    "sentence": "Aujourd'hui, Nina se sent mieux et va travailler.",
+    "cloze": "se sent mieux",
+    "answer": "se sent mieux",
+    "lemma": "se sentir",
+    "meaning": "feels better",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0411.mp3"
+  },
+  {
+    "id": "fr-02-0412",
+    "sentence": "Après le dîner, l'enfant s'endort dans sa chambre.",
+    "cloze": "s'endort",
+    "answer": "s'endort",
+    "lemma": "s'endormir",
+    "meaning": "falls asleep",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0412.mp3"
+  },
+  {
+    "id": "fr-02-0413",
+    "sentence": "Quand le bus est en retard, Marc s'impatiente à l'arrêt.",
+    "cloze": "s'impatiente",
+    "answer": "s'impatiente",
+    "lemma": "s'impatienter",
+    "meaning": "gets impatient",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0413.mp3"
+  },
+  {
+    "id": "fr-02-0414",
+    "sentence": "Après quelques minutes, le client se calme et explique le problème.",
+    "cloze": "se calme",
+    "answer": "se calme",
+    "lemma": "se calmer",
+    "meaning": "calms down",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0414.mp3"
+  },
+  {
+    "id": "fr-02-0415",
+    "sentence": "Depuis septembre, je m'habitue à ce travail.",
+    "cloze": "m'habitue",
+    "answer": "m'habitue",
+    "lemma": "s'habituer",
+    "meaning": "am getting used to",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0415.mp3"
+  },
+  {
+    "id": "fr-02-0416",
+    "sentence": "Le vendredi soir, nous nous retrouvons au café près de la gare.",
+    "cloze": "nous nous retrouvons",
+    "answer": "nous nous retrouvons",
+    "lemma": "se retrouver",
+    "meaning": "meet up",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0416.mp3"
+  },
+  {
+    "id": "fr-02-0417",
+    "sentence": "Léa et sa cousine se voient chaque dimanche.",
+    "cloze": "se voient",
+    "answer": "se voient",
+    "lemma": "se voir",
+    "meaning": "see each other",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0417.mp3"
+  },
+  {
+    "id": "fr-02-0418",
+    "sentence": "Au bureau, Paul et Karim se parlent pendant la pause.",
+    "cloze": "se parlent",
+    "answer": "se parlent",
+    "lemma": "se parler",
+    "meaning": "talk to each other",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0418.mp3"
+  },
+  {
+    "id": "fr-02-0419",
+    "sentence": "Mes deux sœurs se téléphonent tous les samedis.",
+    "cloze": "se téléphonent",
+    "answer": "se téléphonent",
+    "lemma": "se téléphoner",
+    "meaning": "phone each other",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0419.mp3"
+  },
+  {
+    "id": "fr-02-0420",
+    "sentence": "Lucie et Emma se donnent rendez-vous devant le cinéma.",
+    "cloze": "se donnent rendez-vous",
+    "answer": "se donnent rendez-vous",
+    "lemma": "se donner rendez-vous",
+    "meaning": "arrange to meet",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0420.mp3"
+  },
+  {
+    "id": "fr-02-0421",
+    "sentence": "Ces deux collègues se connaissent depuis trois ans.",
+    "cloze": "se connaissent",
+    "answer": "se connaissent",
+    "lemma": "se connaître",
+    "meaning": "know each other",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0421.mp3"
+  },
+  {
+    "id": "fr-02-0422",
+    "sentence": "Mon frère et son meilleur ami s'entendent bien.",
+    "cloze": "s'entendent bien",
+    "answer": "s'entendent bien",
+    "lemma": "s'entendre bien",
+    "meaning": "get along well",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0422.mp3"
+  },
+  {
+    "id": "fr-02-0423",
+    "sentence": "À l'accueil, les collègues se disent bonjour chaque matin.",
+    "cloze": "se disent bonjour",
+    "answer": "se disent bonjour",
+    "lemma": "se dire bonjour",
+    "meaning": "say hello to each other",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0423.mp3"
+  },
+  {
+    "id": "fr-02-0424",
+    "sentence": "Au bureau, mes collègues se prêtent des livres.",
+    "cloze": "se prêtent des livres",
+    "answer": "se prêtent des livres",
+    "lemma": "se prêter",
+    "meaning": "lend each other books",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0424.mp3"
+  },
+  {
+    "id": "fr-02-0425",
+    "sentence": "Ce soir, je vais me coucher avant minuit.",
+    "cloze": "vais me coucher",
+    "answer": "vais me coucher",
+    "lemma": "se coucher",
+    "meaning": "am going to bed",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0425.mp3"
+  },
+  {
+    "id": "fr-02-0426",
+    "sentence": "Demain, Alice va s'inscrire à la formation.",
+    "cloze": "va s'inscrire",
+    "answer": "va s'inscrire",
+    "lemma": "s'inscrire",
+    "meaning": "is going to enroll",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0426.mp3"
+  },
+  {
+    "id": "fr-02-0427",
+    "sentence": "À midi, nous allons nous retrouver devant l'entrée principale.",
+    "cloze": "allons nous retrouver",
+    "answer": "allons nous retrouver",
+    "lemma": "se retrouver",
+    "meaning": "are going to meet up",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0427.mp3"
+  },
+  {
+    "id": "fr-02-0428",
+    "sentence": "Après le travail, ils vont se changer chez eux.",
+    "cloze": "vont se changer",
+    "answer": "vont se changer",
+    "lemma": "se changer",
+    "meaning": "are going to change clothes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0428.mp3"
+  },
+  {
+    "id": "fr-02-0429",
+    "sentence": "Tu ne vas pas te coucher tard ce soir.",
+    "cloze": "ne vas pas te coucher",
+    "answer": "ne vas pas te coucher",
+    "lemma": "se coucher",
+    "meaning": "are not going to bed late",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0429.mp3"
+  },
+  {
+    "id": "fr-02-0430",
+    "sentence": "Après le trajet, vous allez vous reposer à l'hôtel.",
+    "cloze": "allez vous reposer",
+    "answer": "allez vous reposer",
+    "lemma": "se reposer",
+    "meaning": "are going to rest",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0430.mp3"
+  },
+  {
+    "id": "fr-02-0431",
+    "sentence": "Ce matin, Emma s'est réveillée avant sept heures.",
+    "cloze": "s'est réveillée",
+    "answer": "s'est réveillée",
+    "lemma": "se réveiller",
+    "meaning": "woke up",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0431.mp3"
+  },
+  {
+    "id": "fr-02-0432",
+    "sentence": "Il y a une heure, Paul s'est levé pour préparer le café.",
+    "cloze": "s'est levé",
+    "answer": "s'est levé",
+    "lemma": "se lever",
+    "meaning": "got up",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0432.mp3"
+  },
+  {
+    "id": "fr-02-0433",
+    "sentence": "Avant le dîner, Léa et Sarah se sont préparées ensemble.",
+    "cloze": "se sont préparées",
+    "answer": "se sont préparées",
+    "lemma": "se préparer",
+    "meaning": "got ready",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0433.mp3"
+  },
+  {
+    "id": "fr-02-0434",
+    "sentence": "Après le trajet, Nora ne s'est pas reposée à l'hôtel.",
+    "cloze": "ne s'est pas reposée",
+    "answer": "ne s'est pas reposée",
+    "lemma": "se reposer",
+    "meaning": "did not rest",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0434.mp3"
+  },
+  {
+    "id": "fr-02-0435",
+    "sentence": "À la gare, ma sœur s'est trompée de ligne.",
+    "cloze": "s'est trompée de ligne",
+    "answer": "s'est trompée de ligne",
+    "lemma": "se tromper de ligne",
+    "meaning": "took the wrong line",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0435.mp3"
+  },
+  {
+    "id": "fr-02-0436",
+    "sentence": "Dans le centre-ville, Thomas et Julien se sont perdus près du musée.",
+    "cloze": "se sont perdus",
+    "answer": "se sont perdus",
+    "lemma": "se perdre",
+    "meaning": "got lost",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0436.mp3"
+  },
+  {
+    "id": "fr-02-0437",
+    "sentence": "Pendant le match, Clara s'est blessée à la main.",
+    "cloze": "s'est blessée à la main",
+    "answer": "s'est blessée à la main",
+    "lemma": "se blesser",
+    "meaning": "hurt her hand",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0437.mp3"
+  },
+  {
+    "id": "fr-02-0438",
+    "sentence": "Après la réunion, Luc et Emma se sont retrouvés au café.",
+    "cloze": "se sont retrouvés",
+    "answer": "se sont retrouvés",
+    "lemma": "se retrouver",
+    "meaning": "met up",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0438.mp3"
+  },
+  {
+    "id": "fr-02-0439",
+    "sentence": "À l'université, les deux étudiantes se sont rencontrées pour la première fois.",
+    "cloze": "se sont rencontrées",
+    "answer": "se sont rencontrées",
+    "lemma": "se rencontrer",
+    "meaning": "met each other",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0439.mp3"
+  },
+  {
+    "id": "fr-02-0440",
+    "sentence": "Après le match, Léa et Inès se sont félicitées devant leurs parents.",
+    "cloze": "se sont félicitées",
+    "answer": "se sont félicitées",
+    "lemma": "se féliciter",
+    "meaning": "congratulated each other",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0440.mp3"
   }
 ]
