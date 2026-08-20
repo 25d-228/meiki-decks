@@ -4463,5 +4463,405 @@
     "meaning": "congratulated each other",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0440.mp3"
+  },
+  {
+    "id": "fr-02-0441",
+    "sentence": "La pharmacie est à côté de la poste, alors j'y vais à pied.",
+    "cloze": "j'y vais",
+    "answer": "j'y vais",
+    "accepted_answers": [],
+    "lemma": "y aller",
+    "meaning": "I go there",
+    "audio": "work/audio/fr-FR/02/fr-02-0441.mp3"
+  },
+  {
+    "id": "fr-02-0442",
+    "sentence": "Le dossier est resté au bureau, alors tu y retournes après le déjeuner.",
+    "cloze": "tu y retournes",
+    "answer": "tu y retournes",
+    "accepted_answers": [],
+    "lemma": "y retourner",
+    "meaning": "you go back there",
+    "audio": "work/audio/fr-FR/02/fr-02-0442.mp3"
+  },
+  {
+    "id": "fr-02-0443",
+    "sentence": "La salle 12 est libre, et elle y attend le début de la formation.",
+    "cloze": "elle y attend",
+    "answer": "elle y attend",
+    "accepted_answers": [],
+    "lemma": "y attendre",
+    "meaning": "she waits there",
+    "audio": "work/audio/fr-FR/02/fr-02-0443.mp3"
+  },
+  {
+    "id": "fr-02-0444",
+    "sentence": "Ce café sert un bon menu du jour, alors on y déjeune souvent.",
+    "cloze": "on y déjeune",
+    "answer": "on y déjeune",
+    "accepted_answers": [],
+    "lemma": "y déjeuner",
+    "meaning": "we often have lunch there",
+    "audio": "work/audio/fr-FR/02/fr-02-0444.mp3"
+  },
+  {
+    "id": "fr-02-0445",
+    "sentence": "L'exposition ouvre à dix heures, et nous y allons dès l'ouverture.",
+    "cloze": "nous y allons",
+    "answer": "nous y allons",
+    "accepted_answers": [],
+    "lemma": "y aller",
+    "meaning": "we go there",
+    "audio": "work/audio/fr-FR/02/fr-02-0445.mp3"
+  },
+  {
+    "id": "fr-02-0446",
+    "sentence": "Votre hôtel est près de la plage, et vous y restez trois nuits.",
+    "cloze": "vous y restez",
+    "answer": "vous y restez",
+    "accepted_answers": [],
+    "lemma": "y rester",
+    "meaning": "you stay there",
+    "audio": "work/audio/fr-FR/02/fr-02-0446.mp3"
+  },
+  {
+    "id": "fr-02-0447",
+    "sentence": "Léa et Sami prennent ce train jusqu'à Bordeaux, et ils y arrivent vers midi.",
+    "cloze": "ils y arrivent",
+    "answer": "ils y arrivent",
+    "accepted_answers": [],
+    "lemma": "y arriver",
+    "meaning": "they arrive there",
+    "audio": "work/audio/fr-FR/02/fr-02-0447.mp3"
+  },
+  {
+    "id": "fr-02-0448",
+    "sentence": "Le magasin ferme bientôt, mais je n'y vais pas aujourd'hui.",
+    "cloze": "je n'y vais pas",
+    "answer": "je n'y vais pas",
+    "accepted_answers": [],
+    "lemma": "ne pas y aller",
+    "meaning": "I am not going there",
+    "audio": "work/audio/fr-FR/02/fr-02-0448.mp3"
+  },
+  {
+    "id": "fr-02-0449",
+    "sentence": "Le marché est presque vide, et Marc n'y trouve pas de tomates.",
+    "cloze": "Marc n'y trouve pas",
+    "answer": "Marc n'y trouve pas",
+    "accepted_answers": [],
+    "lemma": "ne pas y trouver",
+    "meaning": "Marc does not find any there",
+    "audio": "work/audio/fr-FR/02/fr-02-0449.mp3"
+  },
+  {
+    "id": "fr-02-0450",
+    "sentence": "La bibliothèque est trop bruyante, donc nous n'y travaillons plus.",
+    "cloze": "nous n'y travaillons plus",
+    "answer": "nous n'y travaillons plus",
+    "accepted_answers": [],
+    "lemma": "ne plus y travailler",
+    "meaning": "we no longer work there",
+    "audio": "work/audio/fr-FR/02/fr-02-0450.mp3"
+  },
+  {
+    "id": "fr-02-0451",
+    "sentence": "La station République est fermée, alors vous n'y descendez pas.",
+    "cloze": "vous n'y descendez pas",
+    "answer": "vous n'y descendez pas",
+    "accepted_answers": [],
+    "lemma": "ne pas y descendre",
+    "meaning": "you do not get off there",
+    "audio": "work/audio/fr-FR/02/fr-02-0451.mp3"
+  },
+  {
+    "id": "fr-02-0452",
+    "sentence": "Le parc est fermé le soir, et les enfants n'y jouent jamais après vingt heures.",
+    "cloze": "n'y jouent jamais",
+    "answer": "n'y jouent jamais",
+    "accepted_answers": [],
+    "lemma": "ne jamais y jouer",
+    "meaning": "never play there",
+    "audio": "work/audio/fr-FR/02/fr-02-0452.mp3"
+  },
+  {
+    "id": "fr-02-0453",
+    "sentence": "Cet hôtel est complet vendredi, donc la cliente n'y reste pas ce week-end.",
+    "cloze": "n'y reste pas",
+    "answer": "n'y reste pas",
+    "accepted_answers": [],
+    "lemma": "ne pas y rester",
+    "meaning": "is not staying there",
+    "audio": "work/audio/fr-FR/02/fr-02-0453.mp3"
+  },
+  {
+    "id": "fr-02-0454",
+    "sentence": "Ma sœur est inscrite à l'université de Nantes et elle y étudie le droit.",
+    "cloze": "elle y étudie",
+    "answer": "elle y étudie",
+    "accepted_answers": [],
+    "lemma": "y étudier",
+    "meaning": "she studies there",
+    "audio": "work/audio/fr-FR/02/fr-02-0454.mp3"
+  },
+  {
+    "id": "fr-02-0455",
+    "sentence": "La voiture est au garage et elle y est encore ce matin.",
+    "cloze": "elle y est encore",
+    "answer": "elle y est encore",
+    "accepted_answers": [],
+    "lemma": "y être",
+    "meaning": "it is still there",
+    "audio": "work/audio/fr-FR/02/fr-02-0455.mp3"
+  },
+  {
+    "id": "fr-02-0456",
+    "sentence": "J'ai vérifié le tiroir du bureau, mais les clés n'y sont plus.",
+    "cloze": "les clés n'y sont plus",
+    "answer": "les clés n'y sont plus",
+    "accepted_answers": [],
+    "lemma": "ne plus y être",
+    "meaning": "the keys are no longer there",
+    "audio": "work/audio/fr-FR/02/fr-02-0456.mp3"
+  },
+  {
+    "id": "fr-02-0457",
+    "sentence": "Mes parents aiment ce quartier et ils y habitent depuis trois ans.",
+    "cloze": "ils y habitent",
+    "answer": "ils y habitent",
+    "accepted_answers": [],
+    "lemma": "y habiter",
+    "meaning": "they live there",
+    "audio": "work/audio/fr-FR/02/fr-02-0457.mp3"
+  },
+  {
+    "id": "fr-02-0458",
+    "sentence": "Le bureau d'accueil ouvre à neuf heures, et ma collègue y reçoit les visiteurs.",
+    "cloze": "y reçoit les visiteurs",
+    "answer": "y reçoit les visiteurs",
+    "accepted_answers": [],
+    "lemma": "y recevoir quelqu'un",
+    "meaning": "receives visitors there",
+    "audio": "work/audio/fr-FR/02/fr-02-0458.mp3"
+  },
+  {
+    "id": "fr-02-0459",
+    "sentence": "La gare de Lyon est notre prochaine étape, car on y change de train.",
+    "cloze": "on y change de train",
+    "answer": "on y change de train",
+    "accepted_answers": [],
+    "lemma": "y changer de train",
+    "meaning": "we change trains there",
+    "audio": "work/audio/fr-FR/02/fr-02-0459.mp3"
+  },
+  {
+    "id": "fr-02-0460",
+    "sentence": "Paul adore ce musée, et il y est allé samedi.",
+    "cloze": "il y est allé",
+    "answer": "il y est allé",
+    "accepted_answers": [],
+    "lemma": "y aller",
+    "meaning": "he went there",
+    "audio": "work/audio/fr-FR/02/fr-02-0460.mp3"
+  },
+  {
+    "id": "fr-02-0461",
+    "sentence": "La boutique était encore ouverte quand elle y est entrée.",
+    "cloze": "elle y est entrée",
+    "answer": "elle y est entrée",
+    "accepted_answers": [],
+    "lemma": "y entrer",
+    "meaning": "she went in there",
+    "audio": "work/audio/fr-FR/02/fr-02-0461.mp3"
+  },
+  {
+    "id": "fr-02-0462",
+    "sentence": "Mon frère et moi avons trouvé cette plage très calme, alors nous y sommes restés tout l'après-midi.",
+    "cloze": "nous y sommes restés",
+    "answer": "nous y sommes restés",
+    "accepted_answers": [],
+    "lemma": "y rester",
+    "meaning": "we stayed there",
+    "audio": "work/audio/fr-FR/02/fr-02-0462.mp3"
+  },
+  {
+    "id": "fr-02-0463",
+    "sentence": "Le camping était trop loin du village, et ils n'y sont pas retournés.",
+    "cloze": "ils n'y sont pas retournés",
+    "answer": "ils n'y sont pas retournés",
+    "accepted_answers": [],
+    "lemma": "ne pas y retourner",
+    "meaning": "they did not go back there",
+    "audio": "work/audio/fr-FR/02/fr-02-0463.mp3"
+  },
+  {
+    "id": "fr-02-0464",
+    "sentence": "La réunion avait lieu dans la petite salle, et vous y avez laissé votre carnet.",
+    "cloze": "y avez laissé",
+    "answer": "y avez laissé",
+    "accepted_answers": [],
+    "lemma": "y laisser quelque chose",
+    "meaning": "left there",
+    "audio": "work/audio/fr-FR/02/fr-02-0464.mp3"
+  },
+  {
+    "id": "fr-02-0465",
+    "sentence": "Le cinéma du quartier proposait une séance à vingt heures, et nous y avons vu un documentaire.",
+    "cloze": "y avons vu",
+    "answer": "y avons vu",
+    "accepted_answers": [],
+    "lemma": "y voir quelque chose",
+    "meaning": "saw there",
+    "audio": "work/audio/fr-FR/02/fr-02-0465.mp3"
+  },
+  {
+    "id": "fr-02-0466",
+    "sentence": "L'hôtel accueille les clients toute la nuit, et je vais y aller directement après mon arrivée.",
+    "cloze": "vais y aller",
+    "answer": "vais y aller",
+    "accepted_answers": [],
+    "lemma": "y aller",
+    "meaning": "am going to go there",
+    "audio": "work/audio/fr-FR/02/fr-02-0466.mp3"
+  },
+  {
+    "id": "fr-02-0467",
+    "sentence": "La station est sur mon trajet, alors je peux y passer avant le travail.",
+    "cloze": "peux y passer",
+    "answer": "peux y passer",
+    "accepted_answers": [],
+    "lemma": "y passer",
+    "meaning": "can stop there",
+    "audio": "work/audio/fr-FR/02/fr-02-0467.mp3"
+  },
+  {
+    "id": "fr-02-0468",
+    "sentence": "Le musée rouvre mardi, et nous allons y retourner dans l'après-midi.",
+    "cloze": "allons y retourner",
+    "answer": "allons y retourner",
+    "accepted_answers": [],
+    "lemma": "y retourner",
+    "meaning": "are going to return there",
+    "audio": "work/audio/fr-FR/02/fr-02-0468.mp3"
+  },
+  {
+    "id": "fr-02-0469",
+    "sentence": "Votre train part de la gare du Nord, donc vous devez y être à huit heures.",
+    "cloze": "devez y être",
+    "answer": "devez y être",
+    "accepted_answers": [],
+    "lemma": "y être",
+    "meaning": "must be there",
+    "audio": "work/audio/fr-FR/02/fr-02-0469.mp3"
+  },
+  {
+    "id": "fr-02-0470",
+    "sentence": "Cette agence reçoit les clients sur rendez-vous, et Clara veut y prendre rendez-vous demain.",
+    "cloze": "veut y prendre rendez-vous",
+    "answer": "veut y prendre rendez-vous",
+    "accepted_answers": [],
+    "lemma": "y prendre rendez-vous",
+    "meaning": "wants to make an appointment there",
+    "audio": "work/audio/fr-FR/02/fr-02-0470.mp3"
+  },
+  {
+    "id": "fr-02-0471",
+    "sentence": "La médiathèque ferme à dix-neuf heures, mais Paul préfère y travailler jusque-là.",
+    "cloze": "préfère y travailler",
+    "answer": "préfère y travailler",
+    "accepted_answers": [],
+    "lemma": "y travailler",
+    "meaning": "prefers to work there",
+    "audio": "work/audio/fr-FR/02/fr-02-0471.mp3"
+  },
+  {
+    "id": "fr-02-0472",
+    "sentence": "Le restaurant propose un menu du soir, et nous comptons y dîner samedi.",
+    "cloze": "comptons y dîner",
+    "answer": "comptons y dîner",
+    "accepted_answers": [],
+    "lemma": "y dîner",
+    "meaning": "plan to have dinner there",
+    "audio": "work/audio/fr-FR/02/fr-02-0472.mp3"
+  },
+  {
+    "id": "fr-02-0473",
+    "sentence": "Le train va directement à Rennes, et mes collègues espèrent y arriver avant midi.",
+    "cloze": "espèrent y arriver",
+    "answer": "espèrent y arriver",
+    "accepted_answers": [],
+    "lemma": "y arriver",
+    "meaning": "hope to arrive there",
+    "audio": "work/audio/fr-FR/02/fr-02-0473.mp3"
+  },
+  {
+    "id": "fr-02-0474",
+    "sentence": "L'appartement est disponible jusqu'à dimanche, alors nous allons y rester trois nuits.",
+    "cloze": "allons y rester",
+    "answer": "allons y rester",
+    "accepted_answers": [],
+    "lemma": "y rester",
+    "meaning": "are going to stay there",
+    "audio": "work/audio/fr-FR/02/fr-02-0474.mp3"
+  },
+  {
+    "id": "fr-02-0475",
+    "sentence": "L'atelier fournit les outils, mais elle doit y apporter ses chaussures de sécurité.",
+    "cloze": "doit y apporter",
+    "answer": "doit y apporter",
+    "accepted_answers": [],
+    "lemma": "y apporter quelque chose",
+    "meaning": "must bring there",
+    "audio": "work/audio/fr-FR/02/fr-02-0475.mp3"
+  },
+  {
+    "id": "fr-02-0476",
+    "sentence": "Votre colis est au bureau de poste, et vous pouvez y récupérer votre colis demain matin.",
+    "cloze": "pouvez y récupérer",
+    "answer": "pouvez y récupérer",
+    "accepted_answers": [],
+    "lemma": "y récupérer quelque chose",
+    "meaning": "can collect there",
+    "audio": "work/audio/fr-FR/02/fr-02-0476.mp3"
+  },
+  {
+    "id": "fr-02-0477",
+    "sentence": "La station est fermée pour travaux, donc je ne peux pas y entrer.",
+    "cloze": "ne peux pas y entrer",
+    "answer": "ne peux pas y entrer",
+    "accepted_answers": [],
+    "lemma": "ne pas pouvoir y entrer",
+    "meaning": "cannot enter there",
+    "audio": "work/audio/fr-FR/02/fr-02-0477.mp3"
+  },
+  {
+    "id": "fr-02-0478",
+    "sentence": "La terrasse est trop bruyante, alors nous ne voulons pas y déjeuner.",
+    "cloze": "ne voulons pas y déjeuner",
+    "answer": "ne voulons pas y déjeuner",
+    "accepted_answers": [],
+    "lemma": "ne pas vouloir y déjeuner",
+    "meaning": "do not want to have lunch there",
+    "audio": "work/audio/fr-FR/02/fr-02-0478.mp3"
+  },
+  {
+    "id": "fr-02-0479",
+    "sentence": "Ce parking ferme à vingt-deux heures, et vous ne devez pas y laisser votre voiture la nuit.",
+    "cloze": "ne devez pas y laisser",
+    "answer": "ne devez pas y laisser",
+    "accepted_answers": [],
+    "lemma": "ne pas devoir y laisser quelque chose",
+    "meaning": "must not leave it there",
+    "audio": "work/audio/fr-FR/02/fr-02-0479.mp3"
+  },
+  {
+    "id": "fr-02-0480",
+    "sentence": "Ce campus propose des cours du soir, et je vais y suivre une formation courte.",
+    "cloze": "vais y suivre",
+    "answer": "vais y suivre",
+    "accepted_answers": [],
+    "lemma": "y suivre une formation",
+    "meaning": "am going to take a course there",
+    "audio": "work/audio/fr-FR/02/fr-02-0480.mp3"
   }
 ]
