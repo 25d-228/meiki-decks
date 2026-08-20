@@ -1001,7 +1001,7 @@ class MeikiDecksTests(unittest.TestCase):
 
     def test_korean_build_uses_current_stage_order_and_names(self):
         self.language = "ko-KR"
-        for stage in ("00", "01", "02", "03", "04", "05"):
+        for stage in meiki_decks.KOREAN_COMPLETE_STAGE_NAMES:
             self.stage = stage
             card = self.card(f"ko-{stage}-test")
             self.write_stage([card])
@@ -1016,14 +1016,35 @@ class MeikiDecksTests(unittest.TestCase):
         self.assertEqual(
             [(deck["id"], deck["name"]) for deck in collection["decks"]],
             [
-                ("deck:ko-KR:00", "Korean 00"),
-                ("deck:ko-KR:01", "Korean 01"),
-                ("deck:ko-KR:02", "Korean 02"),
-                ("deck:ko-KR:03", "Korean 03"),
-                ("deck:ko-KR:04", "Korean 04"),
-                ("deck:ko-KR:05", "Korean 05"),
+                (f"deck:ko-KR:{stage}", name)
+                for stage, name in meiki_decks.KOREAN_COMPLETE_STAGE_NAMES.items()
             ],
         )
+
+    def test_korean_build_requires_the_complete_stage_set(self):
+        self.language = "ko-KR"
+        expected_error = "Korean complete bundle requires stages 00, 01, 02, 03, 04, 05, 06"
+        archive_path = self.root / "dist" / "meiki-ko-kr-complete-v0.1.0.meiki"
+
+        for stage in ("00", "01", "02", "03", "04", "05"):
+            self.stage = stage
+            self.write_stage([self.card(f"ko-{stage}-test")])
+
+        with self.assertRaisesRegex(meiki_decks.DeckError, expected_error):
+            meiki_decks.build_language(self.root, self.language, probe=lambda _: 1_500)
+        self.assertFalse(archive_path.exists())
+
+        self.stage = "six"
+        self.write_stage([self.card("ko-six-test")])
+        with self.assertRaisesRegex(meiki_decks.DeckError, expected_error):
+            meiki_decks.build_language(self.root, self.language, probe=lambda _: 1_500)
+        self.assertFalse(archive_path.exists())
+
+        self.stage = "06"
+        self.write_stage([self.card("ko-06-test")])
+        with self.assertRaisesRegex(meiki_decks.DeckError, expected_error):
+            meiki_decks.build_language(self.root, self.language, probe=lambda _: 1_500)
+        self.assertFalse(archive_path.exists())
 
     def test_korean_sources_have_current_bundle_card_counts(self):
         repository_root = Path(__file__).resolve().parents[1]
@@ -1034,6 +1055,7 @@ class MeikiDecksTests(unittest.TestCase):
             "03": 2_000,
             "04": 2_400,
             "05": 2_800,
+            "06": 3_200,
         }
 
         actual_counts = {
