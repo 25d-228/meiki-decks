@@ -5703,5 +5703,405 @@
     "meaning": "do not add any more",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0560.mp3"
+  },
+  {
+    "id": "fr-02-0561",
+    "sentence": "À l'entrée du métro, l'agent nous rappelle qu'il faut valider son titre de transport.",
+    "cloze": "il faut valider son titre de transport",
+    "answer": "il faut valider son titre de transport",
+    "lemma": "falloir + infinitif",
+    "meaning": "you must validate your ticket",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0561.mp3"
+  },
+  {
+    "id": "fr-02-0562",
+    "sentence": "La réception nous a prévenus : vous devez libérer la chambre avant onze heures.",
+    "cloze": "vous devez libérer la chambre",
+    "answer": "vous devez libérer la chambre",
+    "lemma": "devoir + infinitif",
+    "meaning": "you must vacate the room",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0562.mp3"
+  },
+  {
+    "id": "fr-02-0563",
+    "sentence": "L'agent de bord vous le confirme : vous pouvez garder votre vélo avec vous si vous avez réservé une place.",
+    "cloze": "vous pouvez garder votre vélo avec vous",
+    "answer": "vous pouvez garder votre vélo avec vous",
+    "lemma": "pouvoir + infinitif",
+    "meaning": "you may keep your bicycle with you",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0563.mp3"
+  },
+  {
+    "id": "fr-02-0564",
+    "sentence": "L'agent de la gare nous a expliqué qu'il faut prendre le passage souterrain pour changer de quai.",
+    "cloze": "il faut prendre le passage souterrain",
+    "answer": "il faut prendre le passage souterrain",
+    "lemma": "falloir + infinitif",
+    "meaning": "you have to take the underpass",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0564.mp3"
+  },
+  {
+    "id": "fr-02-0565",
+    "sentence": "Le chauffeur vous le rappelle : vous ne devez pas laisser votre sac dans l'allée.",
+    "cloze": "vous ne devez pas laisser votre sac dans l'allée",
+    "answer": "vous ne devez pas laisser votre sac dans l'allée",
+    "lemma": "devoir + infinitif",
+    "meaning": "you must not leave your bag in the aisle",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0565.mp3"
+  },
+  {
+    "id": "fr-02-0566",
+    "sentence": "Cette place est libre ; est-ce que je peux m'asseoir ici ?",
+    "cloze": "je peux m'asseoir ici",
+    "answer": "je peux m'asseoir ici",
+    "lemma": "pouvoir + infinitif",
+    "meaning": "may I sit here",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0566.mp3"
+  },
+  {
+    "id": "fr-02-0567",
+    "sentence": "Le gardien nous l'a demandé : le soir, il faut fermer doucement la porte d'entrée.",
+    "cloze": "il faut fermer doucement la porte d'entrée",
+    "answer": "il faut fermer doucement la porte d'entrée",
+    "lemma": "falloir + infinitif",
+    "meaning": "you must close the entrance door gently",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0567.mp3"
+  },
+  {
+    "id": "fr-02-0568",
+    "sentence": "Avant de sortir, ton père te rappelle que tu dois éteindre la lumière de ta chambre.",
+    "cloze": "tu dois éteindre la lumière",
+    "answer": "tu dois éteindre la lumière",
+    "lemma": "devoir + infinitif",
+    "meaning": "you must turn off the light",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0568.mp3"
+  },
+  {
+    "id": "fr-02-0569",
+    "sentence": "Le gardien nous l'a rappelé : après vingt-deux heures, on ne peut pas faire de bruit dans l'escalier.",
+    "cloze": "on ne peut pas faire de bruit",
+    "answer": "on ne peut pas faire de bruit",
+    "lemma": "pouvoir + infinitif",
+    "meaning": "you cannot make noise",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0569.mp3"
+  },
+  {
+    "id": "fr-02-0570",
+    "sentence": "La propriétaire m'a donné son accord : j'ai le droit d'utiliser la cour.",
+    "cloze": "j'ai le droit d'utiliser la cour",
+    "answer": "j'ai le droit d'utiliser la cour",
+    "lemma": "avoir le droit de + infinitif",
+    "meaning": "I am allowed to use the courtyard",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0570.mp3"
+  },
+  {
+    "id": "fr-02-0571",
+    "sentence": "Le gardien nous a confirmé que les enfants peuvent jouer dans la cour jusqu'à dix-neuf heures.",
+    "cloze": "les enfants peuvent jouer dans la cour",
+    "answer": "les enfants peuvent jouer dans la cour",
+    "lemma": "pouvoir + infinitif",
+    "meaning": "the children may play in the courtyard",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0571.mp3"
+  },
+  {
+    "id": "fr-02-0572",
+    "sentence": "À propos de l'escalier, le gardien nous a rappelé qu'il est interdit d'y laisser un vélo.",
+    "cloze": "il est interdit d'y laisser un vélo",
+    "answer": "il est interdit d'y laisser un vélo",
+    "lemma": "être interdit de + infinitif",
+    "meaning": "leaving a bicycle there is prohibited",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0572.mp3"
+  },
+  {
+    "id": "fr-02-0573",
+    "sentence": "Le panneau indique : « Défense de déposer des objets devant la porte. »",
+    "cloze": "Défense de déposer des objets",
+    "answer": "Défense de déposer des objets",
+    "lemma": "défense de + infinitif",
+    "meaning": "do not leave objects",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0573.mp3"
+  },
+  {
+    "id": "fr-02-0574",
+    "sentence": "Votre responsable vous l'a rappelé : vous devez envoyer votre présentation avant dix-sept heures.",
+    "cloze": "vous devez envoyer votre présentation",
+    "answer": "vous devez envoyer votre présentation",
+    "lemma": "devoir + infinitif",
+    "meaning": "you must send your presentation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0574.mp3"
+  },
+  {
+    "id": "fr-02-0575",
+    "sentence": "Votre responsable l'a précisé : si vous êtes absent demain, il faut le prévenir aujourd'hui.",
+    "cloze": "il faut le prévenir aujourd'hui",
+    "answer": "il faut le prévenir aujourd'hui",
+    "lemma": "falloir + infinitif",
+    "meaning": "you must notify him today",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0575.mp3"
+  },
+  {
+    "id": "fr-02-0576",
+    "sentence": "Mon responsable m'a donné son accord : je peux travailler de chez moi vendredi.",
+    "cloze": "je peux travailler de chez moi vendredi",
+    "answer": "je peux travailler de chez moi vendredi",
+    "lemma": "pouvoir + infinitif",
+    "meaning": "I may work from home on Friday",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0576.mp3"
+  },
+  {
+    "id": "fr-02-0577",
+    "sentence": "Votre responsable vous a donné son accord : vous pouvez partir un peu plus tôt.",
+    "cloze": "vous pouvez partir un peu plus tôt",
+    "answer": "vous pouvez partir un peu plus tôt",
+    "lemma": "pouvoir + infinitif",
+    "meaning": "you may leave a little earlier",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0577.mp3"
+  },
+  {
+    "id": "fr-02-0578",
+    "sentence": "La surveillante vient de rappeler que, pendant le contrôle, vous n'avez pas le droit d'utiliser votre téléphone.",
+    "cloze": "vous n'avez pas le droit d'utiliser votre téléphone",
+    "answer": "vous n'avez pas le droit d'utiliser votre téléphone",
+    "lemma": "avoir le droit de + infinitif",
+    "meaning": "you are not allowed to use your phone",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0578.mp3"
+  },
+  {
+    "id": "fr-02-0579",
+    "sentence": "La bibliothécaire nous l'a rappelé : il est interdit de manger dans cette salle.",
+    "cloze": "il est interdit de manger",
+    "answer": "il est interdit de manger",
+    "lemma": "être interdit de + infinitif",
+    "meaning": "eating is prohibited",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0579.mp3"
+  },
+  {
+    "id": "fr-02-0580",
+    "sentence": "La professeure l'a précisé : les étudiants doivent rendre leur travail avant vendredi midi.",
+    "cloze": "doivent rendre leur travail avant vendredi midi",
+    "answer": "doivent rendre leur travail avant vendredi midi",
+    "lemma": "devoir + infinitif",
+    "meaning": "must submit their work before Friday noon",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0580.mp3"
+  },
+  {
+    "id": "fr-02-0581",
+    "sentence": "La bibliothécaire vous l'a confirmé : vous pouvez emprunter quatre livres à la fois.",
+    "cloze": "vous pouvez emprunter quatre livres à la fois",
+    "answer": "vous pouvez emprunter quatre livres à la fois",
+    "lemma": "pouvoir + infinitif",
+    "meaning": "you may borrow four books at a time",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0581.mp3"
+  },
+  {
+    "id": "fr-02-0582",
+    "sentence": "Le serveur nous l'a expliqué : pour régler séparément, il faut le préciser avant de demander l'addition.",
+    "cloze": "il faut le préciser avant de demander l'addition",
+    "answer": "il faut le préciser avant de demander l'addition",
+    "lemma": "falloir + infinitif",
+    "meaning": "you must mention it before asking for the bill",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0582.mp3"
+  },
+  {
+    "id": "fr-02-0583",
+    "sentence": "La réceptionniste vous le confirme : si votre chambre n'est pas encore prête, vous pouvez laisser vos valises à la réception.",
+    "cloze": "vous pouvez laisser vos valises à la réception",
+    "answer": "vous pouvez laisser vos valises à la réception",
+    "lemma": "pouvoir + infinitif",
+    "meaning": "you may leave your suitcases at reception",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0583.mp3"
+  },
+  {
+    "id": "fr-02-0584",
+    "sentence": "La vendeuse vous l'a expliqué : pour obtenir un échange, vous devez rapporter l'article avec le ticket de caisse.",
+    "cloze": "vous devez rapporter l'article",
+    "answer": "vous devez rapporter l'article",
+    "lemma": "devoir + infinitif",
+    "meaning": "you must return the item",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0584.mp3"
+  },
+  {
+    "id": "fr-02-0585",
+    "sentence": "Cette chemise est trop petite ; est-ce que je peux l'échanger contre la taille au-dessus ?",
+    "cloze": "je peux l'échanger contre la taille au-dessus",
+    "answer": "je peux l'échanger contre la taille au-dessus",
+    "lemma": "pouvoir + infinitif",
+    "meaning": "may I exchange it for the next size up",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0585.mp3"
+  },
+  {
+    "id": "fr-02-0586",
+    "sentence": "La vendeuse m'a répondu : « Sans le ticket de caisse, nous ne pouvons pas rembourser cet article. »",
+    "cloze": "nous ne pouvons pas rembourser cet article",
+    "answer": "nous ne pouvons pas rembourser cet article",
+    "lemma": "pouvoir + infinitif",
+    "meaning": "we cannot refund this item",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0586.mp3"
+  },
+  {
+    "id": "fr-02-0587",
+    "sentence": "La réception l'indique clairement : il est interdit de fumer dans les chambres.",
+    "cloze": "il est interdit de fumer dans les chambres",
+    "answer": "il est interdit de fumer dans les chambres",
+    "lemma": "être interdit de + infinitif",
+    "meaning": "smoking in the rooms is prohibited",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0587.mp3"
+  },
+  {
+    "id": "fr-02-0588",
+    "sentence": "Une affiche de la bibliothèque demande : « Merci de ne pas parler trop fort. »",
+    "cloze": "Merci de ne pas parler trop fort",
+    "answer": "Merci de ne pas parler trop fort",
+    "lemma": "merci de + infinitif",
+    "meaning": "please do not speak too loudly",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0588.mp3"
+  },
+  {
+    "id": "fr-02-0589",
+    "sentence": "Dans son message, l'hôtel précise : « À votre arrivée, veuillez présenter votre réservation à l'accueil. »",
+    "cloze": "veuillez présenter votre réservation",
+    "answer": "veuillez présenter votre réservation",
+    "lemma": "vouloir + infinitif",
+    "meaning": "please show your reservation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0589.mp3"
+  },
+  {
+    "id": "fr-02-0590",
+    "sentence": "La réceptionniste précise : « Votre dossier est presque prêt ; pourriez-vous patienter près du comptoir ? »",
+    "cloze": "pourriez-vous patienter près du comptoir",
+    "answer": "pourriez-vous patienter près du comptoir",
+    "lemma": "pouvoir + infinitif",
+    "meaning": "could you wait near the counter",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0590.mp3"
+  },
+  {
+    "id": "fr-02-0591",
+    "sentence": "Le garage m'a demandé de confirmer l'heure, donc je dois l'appeler avant le rendez-vous.",
+    "cloze": "je dois l'appeler avant le rendez-vous",
+    "answer": "je dois l'appeler avant le rendez-vous",
+    "lemma": "devoir + infinitif",
+    "meaning": "I have to call them before the appointment",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0591.mp3"
+  },
+  {
+    "id": "fr-02-0592",
+    "sentence": "Notre train part à huit heures, donc nous devons être à la gare vers sept heures trente.",
+    "cloze": "nous devons être à la gare vers sept heures trente",
+    "answer": "nous devons être à la gare vers sept heures trente",
+    "lemma": "devoir + infinitif",
+    "meaning": "we must be at the station around seven thirty",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0592.mp3"
+  },
+  {
+    "id": "fr-02-0593",
+    "sentence": "La compagnie aérienne l'indique sur la réservation : il faut être au terminal deux heures avant le départ.",
+    "cloze": "il faut être au terminal deux heures avant le départ",
+    "answer": "il faut être au terminal deux heures avant le départ",
+    "lemma": "falloir + infinitif",
+    "meaning": "you must be at the terminal two hours before departure",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0593.mp3"
+  },
+  {
+    "id": "fr-02-0594",
+    "sentence": "J'ai fini mes devoirs, maman ; est-ce que je peux regarder un film ?",
+    "cloze": "je peux regarder un film",
+    "answer": "je peux regarder un film",
+    "lemma": "pouvoir + infinitif",
+    "meaning": "may I watch a film",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0594.mp3"
+  },
+  {
+    "id": "fr-02-0595",
+    "sentence": "Sa mère lui répond : « Tu n'as pas le droit de prendre mon ordinateur sans me demander. »",
+    "cloze": "Tu n'as pas le droit de prendre mon ordinateur",
+    "answer": "Tu n'as pas le droit de prendre mon ordinateur",
+    "lemma": "avoir le droit de + infinitif",
+    "meaning": "you are not allowed to take my computer",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0595.mp3"
+  },
+  {
+    "id": "fr-02-0596",
+    "sentence": "Mes colocataires et moi sommes d'accord : on doit nettoyer la cuisine à tour de rôle.",
+    "cloze": "on doit nettoyer la cuisine à tour de rôle",
+    "answer": "on doit nettoyer la cuisine à tour de rôle",
+    "lemma": "devoir + infinitif",
+    "meaning": "we must take turns cleaning the kitchen",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0596.mp3"
+  },
+  {
+    "id": "fr-02-0597",
+    "sentence": "Le four est encore chaud et ce plat est en plastique ; mon colocataire me rappelle qu'il ne faut pas le poser dessus.",
+    "cloze": "il ne faut pas le poser dessus",
+    "answer": "il ne faut pas le poser dessus",
+    "lemma": "falloir + infinitif",
+    "meaning": "you must not put it on top",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0597.mp3"
+  },
+  {
+    "id": "fr-02-0598",
+    "sentence": "La responsable de la résidence vous le confirme : vous avez le droit d'utiliser la cuisine commune jusqu'à vingt-deux heures.",
+    "cloze": "vous avez le droit d'utiliser la cuisine commune",
+    "answer": "vous avez le droit d'utiliser la cuisine commune",
+    "lemma": "avoir le droit de + infinitif",
+    "meaning": "you are allowed to use the shared kitchen",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0598.mp3"
+  },
+  {
+    "id": "fr-02-0599",
+    "sentence": "Le gardien me l'a rappelé à propos du hall : on n'a pas le droit d'y laisser des cartons.",
+    "cloze": "on n'a pas le droit d'y laisser des cartons",
+    "answer": "on n'a pas le droit d'y laisser des cartons",
+    "lemma": "avoir le droit de + infinitif",
+    "meaning": "you are not allowed to leave boxes there",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0599.mp3"
+  },
+  {
+    "id": "fr-02-0600",
+    "sentence": "Le réceptionniste précise : « Vous pouvez utiliser le parking, mais vous devez garder ce badge avec vous. »",
+    "cloze": "vous devez garder ce badge avec vous",
+    "answer": "vous devez garder ce badge avec vous",
+    "lemma": "devoir + infinitif",
+    "meaning": "you must keep this badge with you",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0600.mp3"
   }
 ]
