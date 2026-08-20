@@ -8577,5 +8577,405 @@
     "meaning": "platform thirteen or platform thirty",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0840.mp3"
+  },
+  {
+    "id": "fr-02-0841",
+    "sentence": "Pourriez-vous me proposer un autre créneau mardi après-midi ?",
+    "cloze": "me proposer un autre créneau",
+    "answer": "me proposer un autre créneau",
+    "lemma": "proposer un créneau",
+    "meaning": "suggest another time slot to me",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0841.mp3"
+  },
+  {
+    "id": "fr-02-0842",
+    "sentence": "Notre rendez-vous est bien maintenu à neuf heures trente.",
+    "cloze": "est bien maintenu",
+    "answer": "est bien maintenu",
+    "lemma": "maintenir un rendez-vous",
+    "meaning": "is definitely still scheduled",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0842.mp3"
+  },
+  {
+    "id": "fr-02-0843",
+    "sentence": "J'ai déplacé notre entretien à jeudi matin.",
+    "cloze": "J'ai déplacé notre entretien",
+    "answer": "J'ai déplacé notre entretien",
+    "lemma": "déplacer un entretien",
+    "meaning": "I moved our meeting",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0843.mp3"
+  },
+  {
+    "id": "fr-02-0844",
+    "sentence": "Êtes-vous disponible vendredi entre quatorze et seize heures ?",
+    "cloze": "entre quatorze et seize heures",
+    "answer": "entre quatorze et seize heures",
+    "lemma": "entre ... et ...",
+    "meaning": "between two and four p.m.",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0844.mp3"
+  },
+  {
+    "id": "fr-02-0845",
+    "sentence": "Si tu es libre après les cours, on peut se retrouver à la bibliothèque.",
+    "cloze": "on peut se retrouver à la bibliothèque",
+    "answer": "on peut se retrouver à la bibliothèque",
+    "lemma": "se retrouver à la bibliothèque",
+    "meaning": "we can meet at the library",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0845.mp3"
+  },
+  {
+    "id": "fr-02-0846",
+    "sentence": "Le rendez-vous durera environ quarante minutes.",
+    "cloze": "durera environ quarante minutes",
+    "answer": "durera environ quarante minutes",
+    "lemma": "durer",
+    "meaning": "will last about forty minutes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0846.mp3"
+  },
+  {
+    "id": "fr-02-0847",
+    "sentence": "Je vous confirme notre entretien du 12 octobre à dix heures.",
+    "cloze": "Je vous confirme notre entretien",
+    "answer": "Je vous confirme notre entretien",
+    "lemma": "confirmer un entretien",
+    "meaning": "I am confirming our meeting",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0847.mp3"
+  },
+  {
+    "id": "fr-02-0848",
+    "sentence": "Ça te dit de venir au concert avec nous samedi soir ?",
+    "cloze": "Ça te dit de venir",
+    "answer": "Ça te dit de venir",
+    "lemma": "ça te dit de + infinitif",
+    "meaning": "Would you like to come",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0848.mp3"
+  },
+  {
+    "id": "fr-02-0849",
+    "sentence": "Merci pour l'invitation, je viendrai avec plaisir.",
+    "cloze": "je viendrai avec plaisir",
+    "answer": "je viendrai avec plaisir",
+    "lemma": "venir avec plaisir",
+    "meaning": "I will be happy to come",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0849.mp3"
+  },
+  {
+    "id": "fr-02-0850",
+    "sentence": "Désolée, je ne pourrai finalement pas venir au dîner.",
+    "cloze": "je ne pourrai finalement pas venir",
+    "answer": "je ne pourrai finalement pas venir",
+    "lemma": "ne pas pouvoir venir",
+    "meaning": "I will not be able to come after all",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0850.mp3"
+  },
+  {
+    "id": "fr-02-0851",
+    "sentence": "Je dois annuler notre déjeuner parce que mon fils est malade.",
+    "cloze": "Je dois annuler notre déjeuner",
+    "answer": "Je dois annuler notre déjeuner",
+    "lemma": "annuler un déjeuner",
+    "meaning": "I have to cancel our lunch",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0851.mp3"
+  },
+  {
+    "id": "fr-02-0852",
+    "sentence": "Pour notre café, est-ce qu'on peut remettre ça à la semaine prochaine ?",
+    "cloze": "remettre ça à la semaine prochaine",
+    "answer": "remettre ça à la semaine prochaine",
+    "lemma": "remettre quelque chose à plus tard",
+    "meaning": "put it off until next week",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0852.mp3"
+  },
+  {
+    "id": "fr-02-0853",
+    "sentence": "Le cours de ce soir est reporté à lundi prochain.",
+    "cloze": "est reporté à lundi prochain",
+    "answer": "est reporté à lundi prochain",
+    "lemma": "reporter un cours",
+    "meaning": "has been postponed until next Monday",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0853.mp3"
+  },
+  {
+    "id": "fr-02-0854",
+    "sentence": "La réunion aura finalement lieu en visioconférence, pas au bureau.",
+    "cloze": "aura finalement lieu en visioconférence",
+    "answer": "aura finalement lieu en visioconférence",
+    "lemma": "avoir lieu en visioconférence",
+    "meaning": "will take place by video call after all",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0854.mp3"
+  },
+  {
+    "id": "fr-02-0855",
+    "sentence": "Comme Léa est absente, nous commencerons sans elle.",
+    "cloze": "nous commencerons sans elle",
+    "answer": "nous commencerons sans elle",
+    "lemma": "commencer sans quelqu'un",
+    "meaning": "we will start without her",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0855.mp3"
+  },
+  {
+    "id": "fr-02-0856",
+    "sentence": "Préviens-moi si l'heure du rendez-vous change.",
+    "cloze": "Préviens-moi",
+    "answer": "Préviens-moi",
+    "lemma": "prévenir quelqu'un",
+    "meaning": "Let me know",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0856.mp3"
+  },
+  {
+    "id": "fr-02-0857",
+    "sentence": "Au bureau, je m'occupe des commandes pendant que Paul répond aux clients.",
+    "cloze": "je m'occupe des commandes",
+    "answer": "je m'occupe des commandes",
+    "lemma": "s'occuper des commandes",
+    "meaning": "I handle the orders",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0857.mp3"
+  },
+  {
+    "id": "fr-02-0858",
+    "sentence": "Cette semaine, c'est Nora qui prépare le planning de l'équipe.",
+    "cloze": "prépare le planning de l'équipe",
+    "answer": "prépare le planning de l'équipe",
+    "lemma": "préparer le planning",
+    "meaning": "prepares the team's schedule",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0858.mp3"
+  },
+  {
+    "id": "fr-02-0859",
+    "sentence": "Peux-tu relire ce message pour vérifier s'il est clair ?",
+    "cloze": "relire ce message",
+    "answer": "relire ce message",
+    "lemma": "relire un message",
+    "meaning": "reread this message",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0859.mp3"
+  },
+  {
+    "id": "fr-02-0860",
+    "sentence": "Je terminerai ce dossier avant mercredi midi.",
+    "cloze": "terminerai ce dossier",
+    "answer": "terminerai ce dossier",
+    "lemma": "terminer un dossier",
+    "meaning": "will finish this file",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0860.mp3"
+  },
+  {
+    "id": "fr-02-0861",
+    "sentence": "Nous devons rendre le projet avant la fin du mois.",
+    "cloze": "rendre le projet",
+    "answer": "rendre le projet",
+    "lemma": "rendre un projet",
+    "meaning": "submit the project",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0861.mp3"
+  },
+  {
+    "id": "fr-02-0862",
+    "sentence": "Pendant mon rendez-vous médical, mon collègue s'est occupé de mes clients.",
+    "cloze": "s'est occupé de mes clients",
+    "answer": "s'est occupé de mes clients",
+    "lemma": "s'occuper de ses clients",
+    "meaning": "looked after my clients",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0862.mp3"
+  },
+  {
+    "id": "fr-02-0863",
+    "sentence": "J'ai réparti les tâches avec mes collègues ce matin.",
+    "cloze": "J'ai réparti les tâches",
+    "answer": "J'ai réparti les tâches",
+    "lemma": "répartir les tâches",
+    "meaning": "I divided up the tasks",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0863.mp3"
+  },
+  {
+    "id": "fr-02-0864",
+    "sentence": "Pour ce projet, tu t'occupes des photos et je prépare le texte.",
+    "cloze": "tu t'occupes des photos",
+    "answer": "tu t'occupes des photos",
+    "lemma": "s'occuper des photos",
+    "meaning": "you handle the photos",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0864.mp3"
+  },
+  {
+    "id": "fr-02-0865",
+    "sentence": "Pouvez-vous m'envoyer le document avant dix-sept heures ?",
+    "cloze": "m'envoyer le document",
+    "answer": "m'envoyer le document",
+    "lemma": "envoyer un document",
+    "meaning": "send me the document",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0865.mp3"
+  },
+  {
+    "id": "fr-02-0866",
+    "sentence": "Je n'ai pas fini la présentation, mais je l'enverrai demain matin.",
+    "cloze": "je l'enverrai demain matin",
+    "answer": "je l'enverrai demain matin",
+    "lemma": "envoyer une présentation",
+    "meaning": "I will send it tomorrow morning",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0866.mp3"
+  },
+  {
+    "id": "fr-02-0867",
+    "sentence": "Nous ferons une pause après cette tâche.",
+    "cloze": "ferons une pause",
+    "answer": "ferons une pause",
+    "lemma": "faire une pause",
+    "meaning": "will take a break",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0867.mp3"
+  },
+  {
+    "id": "fr-02-0868",
+    "sentence": "Tu peux partir plus tôt si tu as terminé ton travail.",
+    "cloze": "si tu as terminé ton travail",
+    "answer": "si tu as terminé ton travail",
+    "lemma": "terminer son travail",
+    "meaning": "if you have finished your work",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0868.mp3"
+  },
+  {
+    "id": "fr-02-0869",
+    "sentence": "Ma responsable m'a permis de travailler de chez moi vendredi.",
+    "cloze": "m'a permis de travailler de chez moi",
+    "answer": "m'a permis de travailler de chez moi",
+    "lemma": "permettre à quelqu'un de travailler de chez soi",
+    "meaning": "allowed me to work from home",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0869.mp3"
+  },
+  {
+    "id": "fr-02-0870",
+    "sentence": "À cause d'un rendez-vous médical, je ne pourrai pas assister à la réunion demain matin.",
+    "cloze": "ne pourrai pas assister à la réunion",
+    "answer": "ne pourrai pas assister à la réunion",
+    "lemma": "assister à une réunion",
+    "meaning": "will not be able to attend the meeting",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0870.mp3"
+  },
+  {
+    "id": "fr-02-0871",
+    "sentence": "Excusez-moi, quelle tâche dois-je faire en premier ?",
+    "cloze": "dois-je faire en premier",
+    "answer": "dois-je faire en premier",
+    "lemma": "faire en premier",
+    "meaning": "should I do first",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0871.mp3"
+  },
+  {
+    "id": "fr-02-0872",
+    "sentence": "Si vous avez un problème, demandez de l'aide à Camille.",
+    "cloze": "demandez de l'aide à Camille",
+    "answer": "demandez de l'aide à Camille",
+    "lemma": "demander de l'aide",
+    "meaning": "ask Camille for help",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0872.mp3"
+  },
+  {
+    "id": "fr-02-0873",
+    "sentence": "J'étudie le français pour parler avec mes nouveaux collègues.",
+    "cloze": "pour parler avec mes nouveaux collègues",
+    "answer": "pour parler avec mes nouveaux collègues",
+    "lemma": "parler avec ses collègues",
+    "meaning": "to speak with my new colleagues",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0873.mp3"
+  },
+  {
+    "id": "fr-02-0874",
+    "sentence": "Je suis une formation en ligne deux soirs par semaine.",
+    "cloze": "suis une formation en ligne",
+    "answer": "suis une formation en ligne",
+    "lemma": "suivre une formation en ligne",
+    "meaning": "am taking an online training course",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0874.mp3"
+  },
+  {
+    "id": "fr-02-0875",
+    "sentence": "Les inscriptions au cours se terminent le 30 septembre.",
+    "cloze": "se terminent le 30 septembre",
+    "answer": "se terminent le 30 septembre",
+    "lemma": "se terminer",
+    "meaning": "end on September 30",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0875.mp3"
+  },
+  {
+    "id": "fr-02-0876",
+    "sentence": "Pour vous inscrire, remplissez ce formulaire en ligne.",
+    "cloze": "remplissez ce formulaire en ligne",
+    "answer": "remplissez ce formulaire en ligne",
+    "lemma": "remplir un formulaire",
+    "meaning": "fill in this online form",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0876.mp3"
+  },
+  {
+    "id": "fr-02-0877",
+    "sentence": "J'ai raté le cours lundi, alors Inès va me prêter ses notes.",
+    "cloze": "J'ai raté le cours lundi",
+    "answer": "J'ai raté le cours lundi",
+    "lemma": "rater un cours",
+    "meaning": "I missed the class on Monday",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0877.mp3"
+  },
+  {
+    "id": "fr-02-0878",
+    "sentence": "Est-ce que tu peux m'expliquer cet exercice après le cours ?",
+    "cloze": "m'expliquer cet exercice après le cours",
+    "answer": "m'expliquer cet exercice après le cours",
+    "lemma": "expliquer un exercice",
+    "meaning": "explain this exercise to me after class",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0878.mp3"
+  },
+  {
+    "id": "fr-02-0879",
+    "sentence": "Je n'ai pas compris la dernière consigne : pourriez-vous la reformuler ?",
+    "cloze": "pourriez-vous la reformuler",
+    "answer": "pourriez-vous la reformuler",
+    "lemma": "reformuler une consigne",
+    "meaning": "could you rephrase it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0879.mp3"
+  },
+  {
+    "id": "fr-02-0880",
+    "sentence": "La formatrice confirme que la séance pratique aura lieu vendredi matin.",
+    "cloze": "aura lieu vendredi matin",
+    "answer": "aura lieu vendredi matin",
+    "lemma": "avoir lieu",
+    "meaning": "will take place Friday morning",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0880.mp3"
   }
 ]
