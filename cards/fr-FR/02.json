@@ -2463,5 +2463,405 @@
     "lemma": "il y a",
     "meaning": "a week ago",
     "audio": "work/audio/fr-FR/02/fr-02-0240.mp3"
+  },
+  {
+    "id": "fr-02-0241",
+    "sentence": "D'abord, j'ai appelé la réception, puis j'ai attendu dans l'entrée.",
+    "cloze": "j'ai appelé la réception",
+    "answer": "j'ai appelé la réception",
+    "lemma": "appeler la réception",
+    "meaning": "I called reception",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0241.mp3"
+  },
+  {
+    "id": "fr-02-0242",
+    "sentence": "Le train est arrivé avec quinze minutes de retard, puis nous sommes partis pour Lyon.",
+    "cloze": "Le train est arrivé",
+    "answer": "Le train est arrivé",
+    "lemma": "arriver",
+    "meaning": "The train arrived",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0242.mp3"
+  },
+  {
+    "id": "fr-02-0243",
+    "sentence": "Nous avons changé de ligne à Châtelet, puis nous sommes descendus à République.",
+    "cloze": "Nous avons changé de ligne",
+    "answer": "Nous avons changé de ligne",
+    "lemma": "changer de ligne",
+    "meaning": "We changed lines",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0243.mp3"
+  },
+  {
+    "id": "fr-02-0244",
+    "sentence": "Léa a d'abord regardé sous le lit, puis elle a retrouvé ses clés dans l'entrée.",
+    "cloze": "elle a retrouvé ses clés",
+    "answer": "elle a retrouvé ses clés",
+    "lemma": "retrouver ses clés",
+    "meaning": "she found her keys again",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0244.mp3"
+  },
+  {
+    "id": "fr-02-0245",
+    "sentence": "Après la réunion, Léa est arrivée à l'hôtel et elle a dîné au restaurant.",
+    "cloze": "Léa est arrivée à l'hôtel",
+    "answer": "Léa est arrivée à l'hôtel",
+    "lemma": "arriver à l'hôtel",
+    "meaning": "Léa arrived at the hotel",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0245.mp3"
+  },
+  {
+    "id": "fr-02-0246",
+    "sentence": "Le bus avait du retard, alors nous avons attendu vingt minutes devant la gare.",
+    "cloze": "nous avons attendu vingt minutes",
+    "answer": "nous avons attendu vingt minutes",
+    "lemma": "attendre",
+    "meaning": "we waited twenty minutes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0246.mp3"
+  },
+  {
+    "id": "fr-02-0247",
+    "sentence": "Nous marchions vers le musée quand il a commencé à pleuvoir.",
+    "cloze": "il a commencé à pleuvoir",
+    "answer": "il a commencé à pleuvoir",
+    "lemma": "commencer à pleuvoir",
+    "meaning": "it started to rain",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0247.mp3"
+  },
+  {
+    "id": "fr-02-0248",
+    "sentence": "Je suis arrivé avec vingt minutes de retard, alors j'ai manqué mon rendez-vous.",
+    "cloze": "j'ai manqué mon rendez-vous",
+    "answer": "j'ai manqué mon rendez-vous",
+    "lemma": "manquer un rendez-vous",
+    "meaning": "I missed my appointment",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0248.mp3"
+  },
+  {
+    "id": "fr-02-0249",
+    "sentence": "Il faisait beau, alors nous avons déjeuné en terrasse avant de visiter le musée.",
+    "cloze": "nous avons déjeuné en terrasse",
+    "answer": "nous avons déjeuné en terrasse",
+    "lemma": "déjeuner en terrasse",
+    "meaning": "we had lunch on the terrace",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0249.mp3"
+  },
+  {
+    "id": "fr-02-0250",
+    "sentence": "Après le cinéma, ma sœur est rentrée à pied, mais j'ai pris le métro.",
+    "cloze": "ma sœur est rentrée à pied",
+    "answer": "ma sœur est rentrée à pied",
+    "lemma": "rentrer à pied",
+    "meaning": "my sister walked home",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0250.mp3"
+  },
+  {
+    "id": "fr-02-0251",
+    "sentence": "J'ai reçu la confirmation ce matin, puis j'ai imprimé le document.",
+    "cloze": "J'ai reçu la confirmation",
+    "answer": "J'ai reçu la confirmation",
+    "lemma": "recevoir la confirmation",
+    "meaning": "I received the confirmation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0251.mp3"
+  },
+  {
+    "id": "fr-02-0252",
+    "sentence": "Nous avons attendu une heure, mais le bus n'est pas arrivé.",
+    "cloze": "le bus n'est pas arrivé",
+    "answer": "le bus n'est pas arrivé",
+    "lemma": "ne pas arriver",
+    "meaning": "the bus did not arrive",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0252.mp3"
+  },
+  {
+    "id": "fr-02-0253",
+    "sentence": "Paul et moi, nous sommes sortis du métro, puis nous avons marché jusqu'à l'hôtel.",
+    "cloze": "nous sommes sortis du métro",
+    "answer": "nous sommes sortis du métro",
+    "lemma": "sortir du métro",
+    "meaning": "we came out of the metro",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0253.mp3"
+  },
+  {
+    "id": "fr-02-0254",
+    "sentence": "Le train est parti, puis j'ai compris que ma valise était encore à la gare.",
+    "cloze": "ma valise était encore à la gare",
+    "answer": "ma valise était encore à la gare",
+    "lemma": "être encore à la gare",
+    "meaning": "my suitcase was still at the station",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0254.mp3"
+  },
+  {
+    "id": "fr-02-0255",
+    "sentence": "Le dernier métro était déjà parti, alors elle a pris un taxi pour rentrer.",
+    "cloze": "elle a pris un taxi",
+    "answer": "elle a pris un taxi",
+    "lemma": "prendre un taxi",
+    "meaning": "she took a taxi",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0255.mp3"
+  },
+  {
+    "id": "fr-02-0256",
+    "sentence": "Nous avons visité le musée le matin, puis nous avons déjeuné près de la gare.",
+    "cloze": "Nous avons visité le musée",
+    "answer": "Nous avons visité le musée",
+    "lemma": "visiter le musée",
+    "meaning": "We visited the museum",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0256.mp3"
+  },
+  {
+    "id": "fr-02-0257",
+    "sentence": "J'ai changé ma réservation hier, puis l'hôtel a envoyé une nouvelle confirmation.",
+    "cloze": "J'ai changé ma réservation",
+    "answer": "J'ai changé ma réservation",
+    "lemma": "changer une réservation",
+    "meaning": "I changed my reservation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0257.mp3"
+  },
+  {
+    "id": "fr-02-0258",
+    "sentence": "Mes parents sont venus dîner dimanche, puis nous avons joué aux cartes.",
+    "cloze": "Mes parents sont venus dîner",
+    "answer": "Mes parents sont venus dîner",
+    "lemma": "venir dîner",
+    "meaning": "My parents came for dinner",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0258.mp3"
+  },
+  {
+    "id": "fr-02-0259",
+    "sentence": "Je suis arrivé un peu tôt, alors j'ai attendu devant l'entrée principale.",
+    "cloze": "j'ai attendu devant l'entrée principale",
+    "answer": "j'ai attendu devant l'entrée principale",
+    "lemma": "attendre devant l'entrée",
+    "meaning": "I waited outside the main entrance",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0259.mp3"
+  },
+  {
+    "id": "fr-02-0260",
+    "sentence": "Nous avons d'abord dîné chez eux, puis nous avons passé la soirée à discuter.",
+    "cloze": "nous avons passé la soirée à discuter",
+    "answer": "nous avons passé la soirée à discuter",
+    "lemma": "passer la soirée à discuter",
+    "meaning": "we spent the evening talking",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0260.mp3"
+  },
+  {
+    "id": "fr-02-0261",
+    "sentence": "Elle a perdu son portefeuille, alors elle a appelé le bureau des objets trouvés.",
+    "cloze": "elle a appelé le bureau des objets trouvés",
+    "answer": "elle a appelé le bureau des objets trouvés",
+    "lemma": "appeler le bureau des objets trouvés",
+    "meaning": "she called the lost property office",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0261.mp3"
+  },
+  {
+    "id": "fr-02-0262",
+    "sentence": "Le terminal a d'abord refusé ma carte, alors j'ai payé en espèces au comptoir.",
+    "cloze": "j'ai payé en espèces au comptoir",
+    "answer": "j'ai payé en espèces au comptoir",
+    "lemma": "payer en espèces",
+    "meaning": "I paid in cash at the counter",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0262.mp3"
+  },
+  {
+    "id": "fr-02-0263",
+    "sentence": "Nous sommes partis après le déjeuner, puis nous avons pris le train de quinze heures.",
+    "cloze": "Nous sommes partis après le déjeuner",
+    "answer": "Nous sommes partis après le déjeuner",
+    "lemma": "partir après le déjeuner",
+    "meaning": "We left after lunch",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0263.mp3"
+  },
+  {
+    "id": "fr-02-0264",
+    "sentence": "Il a fermé la porte avant de partir, puis il a mis les clés dans le tiroir.",
+    "cloze": "Il a fermé la porte",
+    "answer": "Il a fermé la porte",
+    "lemma": "fermer la porte",
+    "meaning": "He closed the door",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0264.mp3"
+  },
+  {
+    "id": "fr-02-0265",
+    "sentence": "J'ai parlé à la réceptionniste, puis elle a vérifié ma réservation.",
+    "cloze": "J'ai parlé à la réceptionniste",
+    "answer": "J'ai parlé à la réceptionniste",
+    "lemma": "parler à la réceptionniste",
+    "meaning": "I spoke to the receptionist",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0265.mp3"
+  },
+  {
+    "id": "fr-02-0266",
+    "sentence": "Nous avons pris la mauvaise ligne, alors nous sommes arrivés en retard au musée.",
+    "cloze": "Nous avons pris la mauvaise ligne",
+    "answer": "Nous avons pris la mauvaise ligne",
+    "lemma": "prendre la mauvaise ligne",
+    "meaning": "We took the wrong line",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0266.mp3"
+  },
+  {
+    "id": "fr-02-0267",
+    "sentence": "Ma collègue est descendue à République, puis elle a marché jusqu'au bureau.",
+    "cloze": "Ma collègue est descendue à République",
+    "answer": "Ma collègue est descendue à République",
+    "lemma": "descendre à une station",
+    "meaning": "My colleague got off at République",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0267.mp3"
+  },
+  {
+    "id": "fr-02-0268",
+    "sentence": "Avant de partir, j'ai vérifié la météo, puis j'ai pris un parapluie.",
+    "cloze": "j'ai vérifié la météo",
+    "answer": "j'ai vérifié la météo",
+    "lemma": "vérifier la météo",
+    "meaning": "I checked the weather forecast",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0268.mp3"
+  },
+  {
+    "id": "fr-02-0269",
+    "sentence": "Après notre arrivée à Lyon, nous avons marché jusqu'à l'hôtel et nous avons laissé nos valises.",
+    "cloze": "nous avons marché jusqu'à l'hôtel",
+    "answer": "nous avons marché jusqu'à l'hôtel",
+    "lemma": "marcher jusqu'à l'hôtel",
+    "meaning": "we walked to the hotel",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0269.mp3"
+  },
+  {
+    "id": "fr-02-0270",
+    "sentence": "Luc est parti acheter du pain et il est revenu dix minutes plus tard.",
+    "cloze": "il est revenu dix minutes plus tard",
+    "answer": "il est revenu dix minutes plus tard",
+    "lemma": "revenir",
+    "meaning": "he came back ten minutes later",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0270.mp3"
+  },
+  {
+    "id": "fr-02-0271",
+    "sentence": "J'ai commencé par appeler l'hôtel, puis j'ai confirmé la réservation par écrit.",
+    "cloze": "J'ai commencé par appeler l'hôtel",
+    "answer": "J'ai commencé par appeler l'hôtel",
+    "lemma": "commencer par appeler",
+    "meaning": "I started by calling the hotel",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0271.mp3"
+  },
+  {
+    "id": "fr-02-0272",
+    "sentence": "Nous avons d'abord suivi la mauvaise rue, puis nous avons enfin trouvé l'entrée.",
+    "cloze": "nous avons enfin trouvé l'entrée",
+    "answer": "nous avons enfin trouvé l'entrée",
+    "lemma": "trouver l'entrée",
+    "meaning": "we finally found the entrance",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0272.mp3"
+  },
+  {
+    "id": "fr-02-0273",
+    "sentence": "Ma collègue a d'abord confirmé le rendez-vous, puis elle a envoyé l'adresse au client.",
+    "cloze": "Ma collègue a d'abord confirmé le rendez-vous",
+    "answer": "Ma collègue a d'abord confirmé le rendez-vous",
+    "lemma": "confirmer un rendez-vous",
+    "meaning": "My colleague first confirmed the appointment",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0273.mp3"
+  },
+  {
+    "id": "fr-02-0274",
+    "sentence": "Après la réunion, j'ai vérifié le document, puis j'ai envoyé une copie à tous mes collègues.",
+    "cloze": "j'ai envoyé une copie à tous mes collègues",
+    "answer": "j'ai envoyé une copie à tous mes collègues",
+    "lemma": "envoyer une copie",
+    "meaning": "I sent a copy to all my colleagues",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0274.mp3"
+  },
+  {
+    "id": "fr-02-0275",
+    "sentence": "Nous avons dîné près de la gare, puis nous sommes rentrés à pied.",
+    "cloze": "puis nous sommes rentrés à pied",
+    "answer": "puis nous sommes rentrés à pied",
+    "lemma": "rentrer à pied",
+    "meaning": "then we walked home",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0275.mp3"
+  },
+  {
+    "id": "fr-02-0276",
+    "sentence": "Le musée était fermé, alors j'ai repris le métro et je suis rentrée chez moi.",
+    "cloze": "j'ai repris le métro",
+    "answer": "j'ai repris le métro",
+    "lemma": "reprendre le métro",
+    "meaning": "I took the metro again",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0276.mp3"
+  },
+  {
+    "id": "fr-02-0277",
+    "sentence": "Avant de prendre le train, j'ai vérifié l'heure du départ sur le panneau.",
+    "cloze": "j'ai vérifié l'heure du départ",
+    "answer": "j'ai vérifié l'heure du départ",
+    "lemma": "vérifier l'heure du départ",
+    "meaning": "I checked the departure time",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0277.mp3"
+  },
+  {
+    "id": "fr-02-0278",
+    "sentence": "Nous avons discuté pendant le trajet, puis nous avons pris un café à la gare.",
+    "cloze": "Nous avons discuté pendant le trajet",
+    "answer": "Nous avons discuté pendant le trajet",
+    "lemma": "discuter pendant le trajet",
+    "meaning": "We talked during the journey",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0278.mp3"
+  },
+  {
+    "id": "fr-02-0279",
+    "sentence": "Il y a deux jours, j'ai perdu mon portefeuille, mais il était à la réception de l'hôtel.",
+    "cloze": "j'ai perdu mon portefeuille",
+    "answer": "j'ai perdu mon portefeuille",
+    "lemma": "perdre son portefeuille",
+    "meaning": "I lost my wallet",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0279.mp3"
+  },
+  {
+    "id": "fr-02-0280",
+    "sentence": "J'ai passé deux jours chez des amis à Rouen et je viens de rentrer.",
+    "cloze": "je viens de rentrer",
+    "answer": "je viens de rentrer",
+    "lemma": "venir de rentrer",
+    "meaning": "I have just got back",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0280.mp3"
   }
 ]
