@@ -624,7 +624,7 @@
     "cloze": "n'a pas pris",
     "answer": "n'a pas pris",
     "lemma": "prendre",
-    "meaning": "did not get",
+    "meaning": "was not delayed",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0062.mp3"
   },
@@ -2056,7 +2056,7 @@
   },
   {
     "id": "fr-02-0200",
-    "sentence": "Quand j'étais étudiant, je déjeunais souvent chez moi, mais samedi j'ai déjeuné au restaurant.",
+    "sentence": "Quand j'étais étudiante, je déjeunais souvent chez moi, mais un samedi, j'ai déjeuné au restaurant.",
     "cloze": "je déjeunais souvent chez moi",
     "answer": "je déjeunais souvent chez moi",
     "lemma": "déjeuner chez soi",
@@ -2536,7 +2536,7 @@
   },
   {
     "id": "fr-02-0248",
-    "sentence": "Je suis arrivé avec vingt minutes de retard, alors j'ai manqué mon rendez-vous.",
+    "sentence": "Je suis arrivée avec vingt minutes de retard, alors j'ai manqué mon rendez-vous.",
     "cloze": "j'ai manqué mon rendez-vous",
     "answer": "j'ai manqué mon rendez-vous",
     "lemma": "manquer un rendez-vous",
@@ -2606,7 +2606,7 @@
   },
   {
     "id": "fr-02-0255",
-    "sentence": "Le dernier métro était déjà parti, alors elle a pris un taxi pour rentrer.",
+    "sentence": "Il était déjà trop tard pour prendre le dernier métro, alors elle a pris un taxi pour rentrer.",
     "cloze": "elle a pris un taxi",
     "answer": "elle a pris un taxi",
     "lemma": "prendre un taxi",
@@ -2646,7 +2646,7 @@
   },
   {
     "id": "fr-02-0259",
-    "sentence": "Je suis arrivé un peu tôt, alors j'ai attendu devant l'entrée principale.",
+    "sentence": "Je suis arrivée un peu tôt, alors j'ai attendu devant l'entrée principale.",
     "cloze": "j'ai attendu devant l'entrée principale",
     "answer": "j'ai attendu devant l'entrée principale",
     "lemma": "attendre devant l'entrée",
@@ -3076,7 +3076,7 @@
   },
   {
     "id": "fr-02-0302",
-    "sentence": "La carte de l'hôtel était dans sa poche, mais il ne la trouve plus.",
+    "sentence": "Paul avait la carte de l'hôtel dans sa poche, mais il ne la trouve plus.",
     "cloze": "il ne la trouve plus",
     "answer": "il ne la trouve plus",
     "lemma": "trouver",
@@ -3116,7 +3116,7 @@
   },
   {
     "id": "fr-02-0306",
-    "sentence": "L'adresse est difficile à retenir ; elle la note dans son téléphone.",
+    "sentence": "Léa trouve l'adresse difficile à retenir, alors elle la note dans son téléphone.",
     "cloze": "elle la note",
     "answer": "elle la note",
     "lemma": "noter",
@@ -3136,7 +3136,7 @@
   },
   {
     "id": "fr-02-0308",
-    "sentence": "L'entrée électronique est jointe au message ; je l'imprime seulement si nécessaire.",
+    "sentence": "Le billet électronique est joint au message ; je l'imprime seulement si nécessaire.",
     "cloze": "je l'imprime seulement si nécessaire",
     "answer": "je l'imprime seulement si nécessaire",
     "lemma": "imprimer",
@@ -3266,11 +3266,11 @@
   },
   {
     "id": "fr-02-0321",
-    "sentence": "Le train de dix-sept heures est direct ; je vais le prendre demain matin.",
-    "cloze": "vais le prendre",
-    "answer": "vais le prendre",
+    "sentence": "Le train de dix-sept heures est direct ; je vais le prendre demain.",
+    "cloze": "vais le prendre demain",
+    "answer": "vais le prendre demain",
     "lemma": "prendre",
-    "meaning": "am going to take it",
+    "meaning": "am going to take it tomorrow",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0321.mp3"
   },
@@ -3536,7 +3536,7 @@
   },
   {
     "id": "fr-02-0348",
-    "sentence": "Le placard était fermé ; il ne l'a pas ouvert.",
+    "sentence": "Paul a trouvé le placard fermé ; il ne l'a pas ouvert.",
     "cloze": "ne l'a pas ouvert",
     "answer": "ne l'a pas ouvert",
     "lemma": "ouvrir",
@@ -3550,7 +3550,7 @@
     "cloze": "tu l'as appelé",
     "answer": "tu l'as appelé",
     "lemma": "appeler",
-    "meaning": "did you call it",
+    "meaning": "did you call the taxi",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0349.mp3"
   },
@@ -3636,7 +3636,7 @@
   },
   {
     "id": "fr-02-0358",
-    "sentence": "Le dernier mot était en anglais ; elle ne l'a pas compris.",
+    "sentence": "Léa a demandé le sens du dernier mot, car elle ne l'a pas compris.",
     "cloze": "ne l'a pas compris",
     "answer": "ne l'a pas compris",
     "lemma": "comprendre",
@@ -4299,7 +4299,7 @@
     "sentence": "Au bureau, mes collègues se prêtent des livres.",
     "cloze": "se prêtent des livres",
     "answer": "se prêtent des livres",
-    "lemma": "se prêter",
+    "lemma": "se prêter quelque chose",
     "meaning": "lend each other books",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0424.mp3"
@@ -4486,12 +4486,12 @@
   },
   {
     "id": "fr-02-0443",
-    "sentence": "La salle 12 est libre, et elle y attend le début de la formation.",
+    "sentence": "Nina arrive en avance dans la salle 12, et elle y attend le début de la formation.",
     "cloze": "elle y attend",
     "answer": "elle y attend",
-    "accepted_answers": [],
     "lemma": "y attendre",
     "meaning": "she waits there",
+    "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0443.mp3"
   },
   {
@@ -4666,12 +4666,12 @@
   },
   {
     "id": "fr-02-0461",
-    "sentence": "La boutique était encore ouverte quand elle y est entrée.",
+    "sentence": "Léa a trouvé la boutique encore ouverte, alors elle y est entrée.",
     "cloze": "elle y est entrée",
     "answer": "elle y est entrée",
-    "accepted_answers": [],
     "lemma": "y entrer",
     "meaning": "she went in there",
+    "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0461.mp3"
   },
   {
@@ -4686,12 +4686,12 @@
   },
   {
     "id": "fr-02-0463",
-    "sentence": "Le camping était trop loin du village, et ils n'y sont pas retournés.",
+    "sentence": "Mes amis trouvaient le camping trop loin du village, et ils n'y sont pas retournés.",
     "cloze": "ils n'y sont pas retournés",
     "answer": "ils n'y sont pas retournés",
-    "accepted_answers": [],
     "lemma": "ne pas y retourner",
     "meaning": "they did not go back there",
+    "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0463.mp3"
   },
   {
@@ -4806,22 +4806,22 @@
   },
   {
     "id": "fr-02-0475",
-    "sentence": "L'atelier fournit les outils, mais elle doit y apporter ses chaussures de sécurité.",
+    "sentence": "Léa participe à l'atelier ; les outils sont fournis, mais elle doit y apporter ses chaussures de sécurité.",
     "cloze": "doit y apporter",
     "answer": "doit y apporter",
-    "accepted_answers": [],
     "lemma": "y apporter quelque chose",
     "meaning": "must bring there",
+    "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0475.mp3"
   },
   {
     "id": "fr-02-0476",
-    "sentence": "Votre colis est au bureau de poste, et vous pouvez y récupérer votre colis demain matin.",
-    "cloze": "pouvez y récupérer",
-    "answer": "pouvez y récupérer",
+    "sentence": "Votre colis est au bureau de poste, et vous pouvez y passer demain matin pour le récupérer.",
+    "cloze": "pouvez y passer demain matin",
+    "answer": "pouvez y passer demain matin",
+    "lemma": "y passer",
+    "meaning": "can stop there tomorrow morning",
     "accepted_answers": [],
-    "lemma": "y récupérer quelque chose",
-    "meaning": "can collect there",
     "audio": "work/audio/fr-FR/02/fr-02-0476.mp3"
   },
   {
@@ -4954,7 +4954,7 @@
   },
   {
     "id": "fr-02-0489",
-    "sentence": "Le magasin propose ces piles à l'unité, mais il en vend par lots de six.",
+    "sentence": "Le magasin ne vend pas ces piles à l'unité : il en vend par lots de six.",
     "cloze": "il en vend par lots de six",
     "answer": "il en vend par lots de six",
     "lemma": "en vendre par lots de six",
@@ -5229,11 +5229,11 @@
   },
   {
     "id": "fr-02-0514",
-    "sentence": "Vous revenez de la gare ? Oui, j'en reviens à l'instant.",
+    "sentence": "— Vous revenez de la gare ? — Oui, j'en reviens à l'instant.",
     "cloze": "j'en reviens",
     "answer": "j'en reviens",
     "lemma": "revenir d'un lieu",
-    "meaning": "I am coming back from there",
+    "meaning": "I have just come back from there",
     "accepted_answers": [],
     "grammar": "en replacing a place introduced by de",
     "audio": "work/audio/fr-FR/02/fr-02-0514.mp3"
@@ -5312,6 +5312,7 @@
     "lemma": "toucher",
     "meaning": "do not touch it",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0521.mp3"
   },
   {
@@ -5322,6 +5323,7 @@
     "lemma": "fermer",
     "meaning": "close the window properly",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0522.mp3"
   },
   {
@@ -5332,6 +5334,7 @@
     "lemma": "mettre",
     "meaning": "put on your helmet",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0523.mp3"
   },
   {
@@ -5342,6 +5345,7 @@
     "lemma": "se dépêcher",
     "meaning": "hurry up a little",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0524.mp3"
   },
   {
@@ -5352,6 +5356,7 @@
     "lemma": "se coucher",
     "meaning": "do not go to bed too late",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0525.mp3"
   },
   {
@@ -5362,6 +5367,7 @@
     "lemma": "attendre",
     "meaning": "wait for me in front of the entrance",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0526.mp3"
   },
   {
@@ -5372,6 +5378,7 @@
     "lemma": "prendre",
     "meaning": "take it when you leave",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0527.mp3"
   },
   {
@@ -5382,6 +5389,7 @@
     "lemma": "mettre",
     "meaning": "do not put them in the dishwasher",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0528.mp3"
   },
   {
@@ -5392,6 +5400,7 @@
     "lemma": "ouvrir",
     "meaning": "open it gently",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0529.mp3"
   },
   {
@@ -5402,6 +5411,7 @@
     "lemma": "appeler",
     "meaning": "call her tomorrow morning",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0530.mp3"
   },
   {
@@ -5412,6 +5422,7 @@
     "lemma": "donner",
     "meaning": "give me the exact address",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0531.mp3"
   },
   {
@@ -5422,6 +5433,7 @@
     "lemma": "téléphoner",
     "meaning": "do not call them now",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0532.mp3"
   },
   {
@@ -5432,6 +5444,7 @@
     "lemma": "prendre",
     "meaning": "take two for this evening",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0533.mp3"
   },
   {
@@ -5442,6 +5455,7 @@
     "lemma": "s'asseoir",
     "meaning": "sit down here",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0534.mp3"
   },
   {
@@ -5452,6 +5466,7 @@
     "lemma": "se reposer",
     "meaning": "rest for a few minutes",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0535.mp3"
   },
   {
@@ -5466,7 +5481,7 @@
   },
   {
     "id": "fr-02-0537",
-    "sentence": "Veuillez patienter quelques instants, je vais appeler la responsable.",
+    "sentence": "Veuillez patienter quelques instants ; je vais appeler la responsable.",
     "cloze": "Veuillez patienter quelques instants",
     "answer": "Veuillez patienter quelques instants",
     "lemma": "patienter",
@@ -5476,7 +5491,7 @@
   },
   {
     "id": "fr-02-0538",
-    "sentence": "Monsieur, servez-vous, le buffet est ouvert.",
+    "sentence": "Monsieur, servez-vous : le buffet est ouvert.",
     "cloze": "servez-vous",
     "answer": "servez-vous",
     "lemma": "se servir",
@@ -5566,11 +5581,11 @@
   },
   {
     "id": "fr-02-0547",
-    "sentence": "Au prochain carrefour, prenez plutôt la rue qui descend vers la rivière.",
-    "cloze": "prenez plutôt la rue qui descend vers la rivière",
-    "answer": "prenez plutôt la rue qui descend vers la rivière",
+    "sentence": "Au prochain carrefour, prenez plutôt la rue en direction de la rivière.",
+    "cloze": "prenez plutôt la rue en direction de la rivière",
+    "answer": "prenez plutôt la rue en direction de la rivière",
     "lemma": "prendre",
-    "meaning": "take the street that goes down toward the river instead",
+    "meaning": "take the street toward the river instead",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0547.mp3"
   },
@@ -5606,11 +5621,11 @@
   },
   {
     "id": "fr-02-0551",
-    "sentence": "Il commence à pleuvoir, rentrons par le chemin le plus court.",
-    "cloze": "rentrons par le chemin le plus court",
-    "answer": "rentrons par le chemin le plus court",
+    "sentence": "Il commence à pleuvoir ; rentrons directement par le parc.",
+    "cloze": "rentrons directement par le parc",
+    "answer": "rentrons directement par le parc",
     "lemma": "rentrer",
-    "meaning": "let's go back by the shortest route",
+    "meaning": "let's go straight back through the park",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0551.mp3"
   },
@@ -5696,7 +5711,7 @@
   },
   {
     "id": "fr-02-0560",
-    "sentence": "La soupe est déjà salée, alors n'en ajoutez pas.",
+    "sentence": "Il y a déjà assez de sel dans la soupe, alors n'en ajoutez pas.",
     "cloze": "n'en ajoutez pas",
     "answer": "n'en ajoutez pas",
     "lemma": "ajouter",
@@ -5716,7 +5731,7 @@
   },
   {
     "id": "fr-02-0562",
-    "sentence": "La réception nous a prévenus : vous devez libérer la chambre avant onze heures.",
+    "sentence": "La réception précise que vous devez libérer la chambre avant onze heures.",
     "cloze": "vous devez libérer la chambre",
     "answer": "vous devez libérer la chambre",
     "lemma": "devoir + infinitif",
@@ -5726,11 +5741,11 @@
   },
   {
     "id": "fr-02-0563",
-    "sentence": "L'agent de bord vous le confirme : vous pouvez garder votre vélo avec vous si vous avez réservé une place.",
-    "cloze": "vous pouvez garder votre vélo avec vous",
-    "answer": "vous pouvez garder votre vélo avec vous",
+    "sentence": "La contrôleuse confirme que vous pouvez garder votre petit sac avec vous pendant le trajet.",
+    "cloze": "vous pouvez garder votre petit sac avec vous",
+    "answer": "vous pouvez garder votre petit sac avec vous",
     "lemma": "pouvoir + infinitif",
-    "meaning": "you may keep your bicycle with you",
+    "meaning": "you may keep your small bag with you",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0563.mp3"
   },
@@ -5746,7 +5761,7 @@
   },
   {
     "id": "fr-02-0565",
-    "sentence": "Le chauffeur vous le rappelle : vous ne devez pas laisser votre sac dans l'allée.",
+    "sentence": "Le chauffeur rappelle la consigne : vous ne devez pas laisser votre sac dans l'allée.",
     "cloze": "vous ne devez pas laisser votre sac dans l'allée",
     "answer": "vous ne devez pas laisser votre sac dans l'allée",
     "lemma": "devoir + infinitif",
@@ -5766,7 +5781,7 @@
   },
   {
     "id": "fr-02-0567",
-    "sentence": "Le gardien nous l'a demandé : le soir, il faut fermer doucement la porte d'entrée.",
+    "sentence": "Le gardien a rappelé la consigne : le soir, il faut fermer doucement la porte d'entrée.",
     "cloze": "il faut fermer doucement la porte d'entrée",
     "answer": "il faut fermer doucement la porte d'entrée",
     "lemma": "falloir + infinitif",
@@ -5786,7 +5801,7 @@
   },
   {
     "id": "fr-02-0569",
-    "sentence": "Le gardien nous l'a rappelé : après vingt-deux heures, on ne peut pas faire de bruit dans l'escalier.",
+    "sentence": "Le gardien a rappelé la règle : après vingt-deux heures, on ne peut pas faire de bruit dans l'escalier.",
     "cloze": "on ne peut pas faire de bruit",
     "answer": "on ne peut pas faire de bruit",
     "lemma": "pouvoir + infinitif",
@@ -5816,7 +5831,7 @@
   },
   {
     "id": "fr-02-0572",
-    "sentence": "À propos de l'escalier, le gardien nous a rappelé qu'il est interdit d'y laisser un vélo.",
+    "sentence": "À propos de l'escalier, le gardien a rappelé qu'il est interdit d'y laisser un vélo.",
     "cloze": "il est interdit d'y laisser un vélo",
     "answer": "il est interdit d'y laisser un vélo",
     "lemma": "être interdit de + infinitif",
@@ -5836,7 +5851,7 @@
   },
   {
     "id": "fr-02-0574",
-    "sentence": "Votre responsable vous l'a rappelé : vous devez envoyer votre présentation avant dix-sept heures.",
+    "sentence": "Votre responsable a rappelé que vous devez envoyer votre présentation avant dix-sept heures.",
     "cloze": "vous devez envoyer votre présentation",
     "answer": "vous devez envoyer votre présentation",
     "lemma": "devoir + infinitif",
@@ -5846,7 +5861,7 @@
   },
   {
     "id": "fr-02-0575",
-    "sentence": "Votre responsable l'a précisé : si vous êtes absent demain, il faut le prévenir aujourd'hui.",
+    "sentence": "Votre responsable, M. Lebrun, a précisé que si vous êtes absent demain, il faut le prévenir aujourd'hui.",
     "cloze": "il faut le prévenir aujourd'hui",
     "answer": "il faut le prévenir aujourd'hui",
     "lemma": "falloir + infinitif",
@@ -5886,7 +5901,7 @@
   },
   {
     "id": "fr-02-0579",
-    "sentence": "La bibliothécaire nous l'a rappelé : il est interdit de manger dans cette salle.",
+    "sentence": "La bibliothécaire a rappelé qu'il est interdit de manger dans cette salle.",
     "cloze": "il est interdit de manger",
     "answer": "il est interdit de manger",
     "lemma": "être interdit de + infinitif",
@@ -5906,7 +5921,7 @@
   },
   {
     "id": "fr-02-0581",
-    "sentence": "La bibliothécaire vous l'a confirmé : vous pouvez emprunter quatre livres à la fois.",
+    "sentence": "La bibliothécaire a confirmé que vous pouvez emprunter quatre livres à la fois.",
     "cloze": "vous pouvez emprunter quatre livres à la fois",
     "answer": "vous pouvez emprunter quatre livres à la fois",
     "lemma": "pouvoir + infinitif",
@@ -5916,7 +5931,7 @@
   },
   {
     "id": "fr-02-0582",
-    "sentence": "Le serveur nous l'a expliqué : pour régler séparément, il faut le préciser avant de demander l'addition.",
+    "sentence": "Le serveur a expliqué que, pour régler séparément, il faut le préciser avant de demander l'addition.",
     "cloze": "il faut le préciser avant de demander l'addition",
     "answer": "il faut le préciser avant de demander l'addition",
     "lemma": "falloir + infinitif",
@@ -5926,7 +5941,7 @@
   },
   {
     "id": "fr-02-0583",
-    "sentence": "La réceptionniste vous le confirme : si votre chambre n'est pas encore prête, vous pouvez laisser vos valises à la réception.",
+    "sentence": "La réceptionniste confirme que, si votre chambre n'est pas encore prête, vous pouvez laisser vos valises à la réception.",
     "cloze": "vous pouvez laisser vos valises à la réception",
     "answer": "vous pouvez laisser vos valises à la réception",
     "lemma": "pouvoir + infinitif",
@@ -5936,7 +5951,7 @@
   },
   {
     "id": "fr-02-0584",
-    "sentence": "La vendeuse vous l'a expliqué : pour obtenir un échange, vous devez rapporter l'article avec le ticket de caisse.",
+    "sentence": "La vendeuse a expliqué que, pour obtenir un échange, vous devez rapporter l'article avec le ticket de caisse.",
     "cloze": "vous devez rapporter l'article",
     "answer": "vous devez rapporter l'article",
     "lemma": "devoir + infinitif",
@@ -5986,11 +6001,11 @@
   },
   {
     "id": "fr-02-0589",
-    "sentence": "Dans son message, l'hôtel précise : « À votre arrivée, veuillez présenter votre réservation à l'accueil. »",
-    "cloze": "veuillez présenter votre réservation",
-    "answer": "veuillez présenter votre réservation",
-    "lemma": "vouloir + infinitif",
-    "meaning": "please show your reservation",
+    "sentence": "Dans son message, l'hôtel précise : « À votre arrivée, veuillez présenter votre confirmation de réservation à l'accueil. »",
+    "cloze": "veuillez présenter votre confirmation de réservation",
+    "answer": "veuillez présenter votre confirmation de réservation",
+    "lemma": "présenter",
+    "meaning": "please show your booking confirmation",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0589.mp3"
   },
@@ -6086,7 +6101,7 @@
   },
   {
     "id": "fr-02-0599",
-    "sentence": "Le gardien me l'a rappelé à propos du hall : on n'a pas le droit d'y laisser des cartons.",
+    "sentence": "Le gardien m'a rappelé la règle pour le hall : on n'a pas le droit d'y laisser des cartons.",
     "cloze": "on n'a pas le droit d'y laisser des cartons",
     "answer": "on n'a pas le droit d'y laisser des cartons",
     "lemma": "avoir le droit de + infinitif",
@@ -6372,7 +6387,7 @@
     "lemma": "vouloir",
     "meaning": "may want to rest",
     "accepted_answers": [],
-    "register": "informal",
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0626.mp3"
   },
   {
@@ -7688,7 +7703,7 @@
   },
   {
     "id": "fr-02-0753",
-    "sentence": "La médiathèque où elle travaille organise un atelier samedi.",
+    "sentence": "Léa apprécie la médiathèque où elle travaille, et l'établissement organise un atelier samedi.",
     "cloze": "où elle travaille",
     "answer": "où elle travaille",
     "lemma": "où",
@@ -7976,6 +7991,7 @@
     "lemma": "si",
     "meaning": "if you are still in pain",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0780.mp3"
   },
   {
@@ -8344,7 +8360,7 @@
     "cloze": "n'est pas arrivée avec mon vol",
     "answer": "n'est pas arrivée avec mon vol",
     "lemma": "arriver",
-    "meaning": "did not arrive with my flight",
+    "meaning": "did not arrive on my flight",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0817.mp3"
   },
@@ -8370,7 +8386,7 @@
   },
   {
     "id": "fr-02-0820",
-    "sentence": "Quand votre valise sera retrouvée, nous la livrerons à votre hôtel.",
+    "sentence": "Quand nous retrouverons votre valise, nous la livrerons à votre hôtel.",
     "cloze": "nous la livrerons à votre hôtel",
     "answer": "nous la livrerons à votre hôtel",
     "lemma": "livrer",
@@ -8536,6 +8552,7 @@
     "lemma": "se retrouver",
     "meaning": "shall we meet outside the hotel",
     "accepted_answers": [],
+    "register": "informal, between close travel companions",
     "audio": "work/audio/fr-FR/02/fr-02-0836.mp3"
   },
   {
@@ -8546,6 +8563,7 @@
     "lemma": "appeler",
     "meaning": "call me when you arrive",
     "accepted_answers": [],
+    "register": "informal, between close friends or family",
     "audio": "work/audio/fr-FR/02/fr-02-0837.mp3"
   },
   {
@@ -8656,6 +8674,7 @@
     "lemma": "ça te dit de + infinitif",
     "meaning": "Would you like to come",
     "accepted_answers": [],
+    "register": "informal, between close friends",
     "audio": "work/audio/fr-FR/02/fr-02-0848.mp3"
   },
   {
@@ -8690,7 +8709,7 @@
   },
   {
     "id": "fr-02-0852",
-    "sentence": "Pour notre café, est-ce qu'on peut remettre ça à la semaine prochaine ?",
+    "sentence": "Désolée, je ne suis plus libre pour notre café ; est-ce qu'on peut remettre ça à la semaine prochaine ?",
     "cloze": "remettre ça à la semaine prochaine",
     "answer": "remettre ça à la semaine prochaine",
     "lemma": "remettre quelque chose à plus tard",
@@ -8736,6 +8755,7 @@
     "lemma": "prévenir quelqu'un",
     "meaning": "Let me know",
     "accepted_answers": [],
+    "register": "informal, between close colleagues",
     "audio": "work/audio/fr-FR/02/fr-02-0856.mp3"
   },
   {
@@ -8766,6 +8786,7 @@
     "lemma": "relire un message",
     "meaning": "reread this message",
     "accepted_answers": [],
+    "register": "informal, between close colleagues",
     "audio": "work/audio/fr-FR/02/fr-02-0859.mp3"
   },
   {
@@ -8816,6 +8837,7 @@
     "lemma": "s'occuper des photos",
     "meaning": "you handle the photos",
     "accepted_answers": [],
+    "register": "informal, between close teammates",
     "audio": "work/audio/fr-FR/02/fr-02-0864.mp3"
   },
   {
@@ -8856,6 +8878,7 @@
     "lemma": "terminer son travail",
     "meaning": "if you have finished your work",
     "accepted_answers": [],
+    "register": "informal, a manager addressing a team member they know well",
     "audio": "work/audio/fr-FR/02/fr-02-0868.mp3"
   },
   {
@@ -8956,6 +8979,7 @@
     "lemma": "expliquer un exercice",
     "meaning": "explain this exercise to me after class",
     "accepted_answers": [],
+    "register": "informal, between close classmates",
     "audio": "work/audio/fr-FR/02/fr-02-0878.mp3"
   },
   {
@@ -8990,11 +9014,11 @@
   },
   {
     "id": "fr-02-0882",
-    "sentence": "Pourriez-vous l'échanger contre une taille en dessous ?",
-    "cloze": "l'échanger contre une taille en dessous",
-    "answer": "l'échanger contre une taille en dessous",
+    "sentence": "Cette veste est trop grande ; pourriez-vous l'échanger contre la taille en dessous ?",
+    "cloze": "pourriez-vous l'échanger contre la taille en dessous",
+    "answer": "pourriez-vous l'échanger contre la taille en dessous",
     "lemma": "échanger",
-    "meaning": "exchange it for one size smaller",
+    "meaning": "could you exchange it for the next size down",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0882.mp3"
   },
@@ -9130,11 +9154,11 @@
   },
   {
     "id": "fr-02-0896",
-    "sentence": "Désolée, ce n'est pas ce que j'ai commandé.",
-    "cloze": "ce n'est pas ce que j'ai commandé",
-    "answer": "ce n'est pas ce que j'ai commandé",
+    "sentence": "Désolée, je n'ai pas commandé ce plat.",
+    "cloze": "je n'ai pas commandé ce plat",
+    "answer": "je n'ai pas commandé ce plat",
     "lemma": "commander",
-    "meaning": "this is not what I ordered",
+    "meaning": "I did not order this dish",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0896.mp3"
   },
@@ -9639,14 +9663,14 @@
   },
   {
     "id": "fr-02-0946",
-    "sentence": "Je n'ai pas bien compris cette scène ; pouvez-vous me l'expliquer autrement ?",
-    "cloze": "pouvez-vous me l'expliquer autrement",
-    "answer": "pouvez-vous me l'expliquer autrement",
+    "sentence": "Je n'ai pas bien compris cette scène ; pouvez-vous l'expliquer autrement ?",
+    "cloze": "pouvez-vous l'expliquer autrement",
+    "answer": "pouvez-vous l'expliquer autrement",
     "lemma": "expliquer autrement",
     "meaning": "could you explain it differently",
     "accepted_answers": [],
-    "audio": "work/audio/fr-FR/02/fr-02-0946.mp3",
-    "register": "Polite clarification request."
+    "register": "Polite clarification request.",
+    "audio": "work/audio/fr-FR/02/fr-02-0946.mp3"
   },
   {
     "id": "fr-02-0947",
@@ -9881,6 +9905,7 @@
     "lemma": "aller",
     "meaning": "I have never been there",
     "accepted_answers": [],
+    "note": "The speaker is a woman.",
     "audio": "work/audio/fr-FR/02/fr-02-0969.mp3"
   },
   {
@@ -10121,6 +10146,7 @@
     "lemma": "mal s'exprimer",
     "meaning": "I expressed myself poorly",
     "accepted_answers": [],
+    "note": "The speaker is a woman.",
     "audio": "work/audio/fr-FR/02/fr-02-0993.mp3"
   },
   {
@@ -10161,15 +10187,16 @@
     "lemma": "être remboursé",
     "meaning": "I would like a refund",
     "accepted_answers": [],
+    "note": "The speaker is a woman.",
     "audio": "work/audio/fr-FR/02/fr-02-0997.mp3"
   },
   {
     "id": "fr-02-0998",
-    "sentence": "Je me suis coupé le doigt pendant que je cuisinais.",
-    "cloze": "Je me suis coupé le doigt",
-    "answer": "Je me suis coupé le doigt",
-    "lemma": "se couper",
-    "meaning": "I cut my finger",
+    "sentence": "Paul s'est coupé le doigt pendant qu'il cuisinait.",
+    "cloze": "Paul s'est coupé le doigt",
+    "answer": "Paul s'est coupé le doigt",
+    "lemma": "se couper le doigt",
+    "meaning": "Paul cut his finger",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0998.mp3"
   },
