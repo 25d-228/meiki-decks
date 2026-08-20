@@ -3663,5 +3663,405 @@
     "meaning": "have just received it",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0360.mp3"
+  },
+  {
+    "id": "fr-02-0361",
+    "sentence": "Ma mère attend mon appel, alors je lui téléphone après le travail.",
+    "cloze": "je lui téléphone",
+    "answer": "je lui téléphone",
+    "lemma": "téléphoner à quelqu'un",
+    "meaning": "I call her",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0361.mp3"
+  },
+  {
+    "id": "fr-02-0362",
+    "sentence": "Ma grand-mère aime recevoir des nouvelles, alors je lui écris chaque dimanche.",
+    "cloze": "je lui écris",
+    "answer": "je lui écris",
+    "lemma": "écrire à quelqu'un",
+    "meaning": "I write to her",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0362.mp3"
+  },
+  {
+    "id": "fr-02-0363",
+    "sentence": "Paul a posé une question, et nous lui répondons avant midi.",
+    "cloze": "nous lui répondons",
+    "answer": "nous lui répondons",
+    "lemma": "répondre à quelqu'un",
+    "meaning": "we answer him",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0363.mp3"
+  },
+  {
+    "id": "fr-02-0364",
+    "sentence": "La nouvelle stagiaire semble perdue ; vous lui expliquez le fonctionnement du logiciel.",
+    "cloze": "vous lui expliquez",
+    "answer": "vous lui expliquez",
+    "lemma": "expliquer quelque chose à quelqu'un",
+    "meaning": "you explain it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0364.mp3"
+  },
+  {
+    "id": "fr-02-0365",
+    "sentence": "La directrice est absente, alors je lui laisse un message à l'accueil.",
+    "cloze": "je lui laisse un message",
+    "answer": "je lui laisse un message",
+    "lemma": "laisser un message à quelqu'un",
+    "meaning": "I leave her a message",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0365.mp3"
+  },
+  {
+    "id": "fr-02-0366",
+    "sentence": "Nina hésite entre deux formations ; sa collègue lui donne un conseil utile.",
+    "cloze": "lui donne un conseil",
+    "answer": "lui donne un conseil",
+    "lemma": "donner un conseil à quelqu'un",
+    "meaning": "gives her some advice",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0366.mp3"
+  },
+  {
+    "id": "fr-02-0367",
+    "sentence": "Thomas attend au bureau, donc nous lui apportons son dossier.",
+    "cloze": "nous lui apportons son dossier",
+    "answer": "nous lui apportons son dossier",
+    "lemma": "apporter quelque chose à quelqu'un",
+    "meaning": "we bring him his file",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0367.mp3"
+  },
+  {
+    "id": "fr-02-0368",
+    "sentence": "Le fournisseur vient d'envoyer son offre ; vous lui demandez de confirmer le prix.",
+    "cloze": "vous lui demandez",
+    "answer": "vous lui demandez",
+    "lemma": "demander à quelqu'un de faire quelque chose",
+    "meaning": "you ask him",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0368.mp3"
+  },
+  {
+    "id": "fr-02-0369",
+    "sentence": "Ton frère veut connaître les détails, alors tu lui racontes ton voyage.",
+    "cloze": "tu lui racontes ton voyage",
+    "answer": "tu lui racontes ton voyage",
+    "lemma": "raconter quelque chose à quelqu'un",
+    "meaning": "you tell him about your trip",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0369.mp3"
+  },
+  {
+    "id": "fr-02-0370",
+    "sentence": "Lina ne peut pas porter les cartons seule ; le voisin lui propose son aide.",
+    "cloze": "lui propose son aide",
+    "answer": "lui propose son aide",
+    "lemma": "proposer son aide à quelqu'un",
+    "meaning": "offers her his help",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0370.mp3"
+  },
+  {
+    "id": "fr-02-0371",
+    "sentence": "Mon oncle dort à cette heure-ci, donc je ne lui téléphone pas maintenant.",
+    "cloze": "je ne lui téléphone pas",
+    "answer": "je ne lui téléphone pas",
+    "lemma": "téléphoner à quelqu'un",
+    "meaning": "I do not call him",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0371.mp3"
+  },
+  {
+    "id": "fr-02-0372",
+    "sentence": "La cliente a écrit trop tard ; nous ne lui répondons pas ce soir.",
+    "cloze": "nous ne lui répondons pas",
+    "answer": "nous ne lui répondons pas",
+    "lemma": "répondre à quelqu'un",
+    "meaning": "we are not answering her",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0372.mp3"
+  },
+  {
+    "id": "fr-02-0373",
+    "sentence": "Le candidat n'a pas fourni son adresse, alors vous ne lui envoyez pas le contrat aujourd'hui.",
+    "cloze": "vous ne lui envoyez pas le contrat",
+    "answer": "vous ne lui envoyez pas le contrat",
+    "lemma": "envoyer quelque chose à quelqu'un",
+    "meaning": "you do not send him the contract",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0373.mp3"
+  },
+  {
+    "id": "fr-02-0374",
+    "sentence": "Camille attend des nouvelles ; je vais lui écrire après le dîner.",
+    "cloze": "je vais lui écrire",
+    "answer": "je vais lui écrire",
+    "lemma": "écrire à quelqu'un",
+    "meaning": "I am going to write to her",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0374.mp3"
+  },
+  {
+    "id": "fr-02-0375",
+    "sentence": "Le nouveau collègue commence lundi ; nous allons lui expliquer ses tâches dès son arrivée.",
+    "cloze": "nous allons lui expliquer ses tâches",
+    "answer": "nous allons lui expliquer ses tâches",
+    "lemma": "expliquer quelque chose à quelqu'un",
+    "meaning": "we are going to explain his tasks to him",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0375.mp3"
+  },
+  {
+    "id": "fr-02-0376",
+    "sentence": "La propriétaire connaît le problème ; vous pouvez lui téléphoner demain matin.",
+    "cloze": "vous pouvez lui téléphoner",
+    "answer": "vous pouvez lui téléphoner",
+    "lemma": "téléphoner à quelqu'un",
+    "meaning": "you can call her",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0376.mp3"
+  },
+  {
+    "id": "fr-02-0377",
+    "sentence": "Ton professeur attend ta réponse, donc tu dois lui répondre aujourd'hui.",
+    "cloze": "tu dois lui répondre",
+    "answer": "tu dois lui répondre",
+    "lemma": "répondre à quelqu'un",
+    "meaning": "you must answer him",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0377.mp3"
+  },
+  {
+    "id": "fr-02-0378",
+    "sentence": "Ma sœur adore lire, alors je veux lui offrir ce roman pour son anniversaire.",
+    "cloze": "je veux lui offrir ce roman",
+    "answer": "je veux lui offrir ce roman",
+    "lemma": "offrir quelque chose à quelqu'un",
+    "meaning": "I want to give her this novel",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0378.mp3"
+  },
+  {
+    "id": "fr-02-0379",
+    "sentence": "Le médecin a encore quelques minutes ; je préfère lui parler directement.",
+    "cloze": "je préfère lui parler",
+    "answer": "je préfère lui parler",
+    "lemma": "parler à quelqu'un",
+    "meaning": "I prefer to speak to him",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0379.mp3"
+  },
+  {
+    "id": "fr-02-0380",
+    "sentence": "La responsable attend les coordonnées du client ; nous devons lui transmettre l'adresse complète.",
+    "cloze": "nous devons lui transmettre l'adresse complète",
+    "answer": "nous devons lui transmettre l'adresse complète",
+    "lemma": "transmettre quelque chose à quelqu'un",
+    "meaning": "we must send her the full address",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0380.mp3"
+  },
+  {
+    "id": "fr-02-0381",
+    "sentence": "Mon père était inquiet, alors je lui ai téléphoné hier soir.",
+    "cloze": "je lui ai téléphoné",
+    "answer": "je lui ai téléphoné",
+    "lemma": "téléphoner à quelqu'un",
+    "meaning": "I called him",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0381.mp3"
+  },
+  {
+    "id": "fr-02-0382",
+    "sentence": "Notre avocate demandait des précisions ; nous lui avons écrit hier soir.",
+    "cloze": "nous lui avons écrit",
+    "answer": "nous lui avons écrit",
+    "lemma": "écrire à quelqu'un",
+    "meaning": "we wrote to her",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0382.mp3"
+  },
+  {
+    "id": "fr-02-0383",
+    "sentence": "Zoé attendait une réponse, et son responsable lui a répondu ce matin.",
+    "cloze": "lui a répondu",
+    "answer": "lui a répondu",
+    "lemma": "répondre à quelqu'un",
+    "meaning": "answered her",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0383.mp3"
+  },
+  {
+    "id": "fr-02-0384",
+    "sentence": "La réceptionniste avait besoin des nouvelles dates ; vous lui avez expliqué le changement par téléphone.",
+    "cloze": "vous lui avez expliqué le changement",
+    "answer": "vous lui avez expliqué le changement",
+    "lemma": "expliquer quelque chose à quelqu'un",
+    "meaning": "you explained the change to her",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0384.mp3"
+  },
+  {
+    "id": "fr-02-0385",
+    "sentence": "Mon neveu voulait une console, mais je ne lui ai rien promis.",
+    "cloze": "je ne lui ai rien promis",
+    "answer": "je ne lui ai rien promis",
+    "lemma": "promettre quelque chose à quelqu'un",
+    "meaning": "I did not promise him anything",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0385.mp3"
+  },
+  {
+    "id": "fr-02-0386",
+    "sentence": "Mes parents attendent mon appel, alors je leur téléphone ce soir.",
+    "cloze": "je leur téléphone",
+    "answer": "je leur téléphone",
+    "lemma": "téléphoner à quelqu'un",
+    "meaning": "I call them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0386.mp3"
+  },
+  {
+    "id": "fr-02-0387",
+    "sentence": "Nos anciens voisins aiment avoir de nos nouvelles ; nous leur écrivons à Noël.",
+    "cloze": "nous leur écrivons",
+    "answer": "nous leur écrivons",
+    "lemma": "écrire à quelqu'un",
+    "meaning": "we write to them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0387.mp3"
+  },
+  {
+    "id": "fr-02-0388",
+    "sentence": "Les deux candidates ont une question ; vous leur répondez séparément.",
+    "cloze": "vous leur répondez",
+    "answer": "vous leur répondez",
+    "lemma": "répondre à quelqu'un",
+    "meaning": "you answer them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0388.mp3"
+  },
+  {
+    "id": "fr-02-0389",
+    "sentence": "Mes enfants ne comprennent pas le changement ; je leur explique le nouveau programme.",
+    "cloze": "je leur explique le nouveau programme",
+    "answer": "je leur explique le nouveau programme",
+    "lemma": "expliquer quelque chose à quelqu'un",
+    "meaning": "I explain the new schedule to them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0389.mp3"
+  },
+  {
+    "id": "fr-02-0390",
+    "sentence": "Les nouveaux locataires arrivent demain ; la propriétaire leur donne les clés à midi.",
+    "cloze": "leur donne les clés",
+    "answer": "leur donne les clés",
+    "lemma": "donner quelque chose à quelqu'un",
+    "meaning": "gives them the keys",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0390.mp3"
+  },
+  {
+    "id": "fr-02-0391",
+    "sentence": "Les participants ne sont pas disponibles vendredi ; on leur propose une autre date.",
+    "cloze": "on leur propose une autre date",
+    "answer": "on leur propose une autre date",
+    "lemma": "proposer quelque chose à quelqu'un",
+    "meaning": "we suggest another date to them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0391.mp3"
+  },
+  {
+    "id": "fr-02-0392",
+    "sentence": "Mes collègues connaissent déjà le problème, donc je ne leur demande rien aujourd'hui.",
+    "cloze": "je ne leur demande rien",
+    "answer": "je ne leur demande rien",
+    "lemma": "demander quelque chose à quelqu'un",
+    "meaning": "I do not ask them for anything",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0392.mp3"
+  },
+  {
+    "id": "fr-02-0393",
+    "sentence": "Les stagiaires attendent les horaires ; nous allons leur envoyer le programme cet après-midi.",
+    "cloze": "nous allons leur envoyer le programme",
+    "answer": "nous allons leur envoyer le programme",
+    "lemma": "envoyer quelque chose à quelqu'un",
+    "meaning": "we are going to send them the schedule",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0393.mp3"
+  },
+  {
+    "id": "fr-02-0394",
+    "sentence": "Les techniciens sont encore en intervention ; vous pouvez leur laisser un message.",
+    "cloze": "vous pouvez leur laisser un message",
+    "answer": "vous pouvez leur laisser un message",
+    "lemma": "laisser un message à quelqu'un",
+    "meaning": "you can leave them a message",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0394.mp3"
+  },
+  {
+    "id": "fr-02-0395",
+    "sentence": "Tes amis t'ont prêté deux livres ; tu dois leur rendre ces livres demain.",
+    "cloze": "tu dois leur rendre ces livres",
+    "answer": "tu dois leur rendre ces livres",
+    "lemma": "rendre quelque chose à quelqu'un",
+    "meaning": "you must return these books to them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0395.mp3"
+  },
+  {
+    "id": "fr-02-0396",
+    "sentence": "Les visiteurs ne connaissent pas le quartier ; la guide veut leur montrer le chemin jusqu'au musée.",
+    "cloze": "veut leur montrer le chemin",
+    "answer": "veut leur montrer le chemin",
+    "lemma": "montrer quelque chose à quelqu'un",
+    "meaning": "wants to show them the way",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0396.mp3"
+  },
+  {
+    "id": "fr-02-0397",
+    "sentence": "Mes grands-parents attendaient des nouvelles, alors je leur ai téléphoné dimanche.",
+    "cloze": "je leur ai téléphoné",
+    "answer": "je leur ai téléphoné",
+    "lemma": "téléphoner à quelqu'un",
+    "meaning": "I called them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0397.mp3"
+  },
+  {
+    "id": "fr-02-0398",
+    "sentence": "Les clients demandaient les documents ; nous leur avons envoyé les copies hier.",
+    "cloze": "nous leur avons envoyé les copies",
+    "answer": "nous leur avons envoyé les copies",
+    "lemma": "envoyer quelque chose à quelqu'un",
+    "meaning": "we sent them the copies",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0398.mp3"
+  },
+  {
+    "id": "fr-02-0399",
+    "sentence": "Les voyageurs ne comprenaient pas l'annonce ; vous leur avez expliqué le retard calmement.",
+    "cloze": "vous leur avez expliqué le retard",
+    "answer": "vous leur avez expliqué le retard",
+    "lemma": "expliquer quelque chose à quelqu'un",
+    "meaning": "you explained the delay to them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0399.mp3"
+  },
+  {
+    "id": "fr-02-0400",
+    "sentence": "Les candidats ont relancé le service, mais les recruteurs ne leur ont pas répondu.",
+    "cloze": "ne leur ont pas répondu",
+    "answer": "ne leur ont pas répondu",
+    "lemma": "répondre à quelqu'un",
+    "meaning": "did not answer them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0400.mp3"
   }
 ]
