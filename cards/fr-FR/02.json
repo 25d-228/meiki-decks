@@ -8977,5 +8977,405 @@
     "meaning": "will take place Friday morning",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0880.mp3"
+  },
+  {
+    "id": "fr-02-0881",
+    "sentence": "Bonjour, je voudrais rendre cet article, car il est trop grand.",
+    "cloze": "voudrais rendre cet article",
+    "answer": "voudrais rendre cet article",
+    "lemma": "rendre",
+    "meaning": "would like to return this item",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0881.mp3"
+  },
+  {
+    "id": "fr-02-0882",
+    "sentence": "Pourriez-vous l'échanger contre une taille en dessous ?",
+    "cloze": "l'échanger contre une taille en dessous",
+    "answer": "l'échanger contre une taille en dessous",
+    "lemma": "échanger",
+    "meaning": "exchange it for one size smaller",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0882.mp3"
+  },
+  {
+    "id": "fr-02-0883",
+    "sentence": "J'ai gardé le ticket de caisse pour pouvoir rendre l'article.",
+    "cloze": "gardé le ticket de caisse",
+    "answer": "gardé le ticket de caisse",
+    "lemma": "garder",
+    "meaning": "kept the receipt",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0883.mp3"
+  },
+  {
+    "id": "fr-02-0884",
+    "sentence": "Nous vous rembourserons sur la carte bancaire utilisée pour l'achat.",
+    "cloze": "sur la carte bancaire utilisée pour l'achat",
+    "answer": "sur la carte bancaire utilisée pour l'achat",
+    "lemma": "une carte bancaire",
+    "meaning": "via the card used for the purchase",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0884.mp3"
+  },
+  {
+    "id": "fr-02-0885",
+    "sentence": "Désolée, ce modèle n'est plus en stock en taille 38.",
+    "cloze": "n'est plus en stock",
+    "answer": "n'est plus en stock",
+    "lemma": "être en stock",
+    "meaning": "is no longer in stock",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0885.mp3"
+  },
+  {
+    "id": "fr-02-0886",
+    "sentence": "Je voudrais échanger cette bouilloire parce qu'elle a un défaut.",
+    "cloze": "a un défaut",
+    "answer": "a un défaut",
+    "lemma": "un défaut",
+    "meaning": "has a defect",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0886.mp3"
+  },
+  {
+    "id": "fr-02-0887",
+    "sentence": "Excusez-moi, vous m'avez facturé deux fois le même article.",
+    "cloze": "m'avez facturé deux fois",
+    "answer": "m'avez facturé deux fois",
+    "lemma": "facturer",
+    "meaning": "charged me twice",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0887.mp3"
+  },
+  {
+    "id": "fr-02-0888",
+    "sentence": "Je voudrais six bouteilles de jus de pomme pour la réunion.",
+    "cloze": "six bouteilles de jus de pomme",
+    "answer": "six bouteilles de jus de pomme",
+    "lemma": "une bouteille de jus de pomme",
+    "meaning": "six bottles of apple juice",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0888.mp3"
+  },
+  {
+    "id": "fr-02-0889",
+    "sentence": "Le prix affiché était de trente euros, mais j'ai payé trente-cinq euros.",
+    "cloze": "j'ai payé trente-cinq euros",
+    "answer": "j'ai payé trente-cinq euros",
+    "lemma": "payer",
+    "meaning": "I paid thirty-five euros",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0889.mp3"
+  },
+  {
+    "id": "fr-02-0890",
+    "sentence": "Avez-vous la pointure au-dessus pour ces chaussures ?",
+    "cloze": "la pointure au-dessus",
+    "answer": "la pointure au-dessus",
+    "lemma": "une pointure",
+    "meaning": "the next shoe size up",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0890.mp3"
+  },
+  {
+    "id": "fr-02-0891",
+    "sentence": "Nous allons prendre deux menus du jour, s'il vous plaît.",
+    "cloze": "deux menus du jour",
+    "answer": "deux menus du jour",
+    "lemma": "un menu du jour",
+    "meaning": "two set menus of the day",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0891.mp3"
+  },
+  {
+    "id": "fr-02-0892",
+    "sentence": "Pour moi, ce sera une soupe en entrée et le poisson grillé.",
+    "cloze": "le poisson grillé",
+    "answer": "le poisson grillé",
+    "lemma": "le poisson grillé",
+    "meaning": "the grilled fish",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0892.mp3"
+  },
+  {
+    "id": "fr-02-0893",
+    "sentence": "Je prendrai la salade, mais sans oignons.",
+    "cloze": "sans oignons",
+    "answer": "sans oignons",
+    "lemma": "un oignon",
+    "meaning": "without onions",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0893.mp3"
+  },
+  {
+    "id": "fr-02-0894",
+    "sentence": "Pourriez-vous nous apporter deux couverts de plus ?",
+    "cloze": "deux couverts de plus",
+    "answer": "deux couverts de plus",
+    "lemma": "un couvert",
+    "meaning": "two additional place settings",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0894.mp3"
+  },
+  {
+    "id": "fr-02-0895",
+    "sentence": "Excusez-moi, mon plat est froid.",
+    "cloze": "mon plat est froid",
+    "answer": "mon plat est froid",
+    "lemma": "être froid",
+    "meaning": "my dish is cold",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0895.mp3"
+  },
+  {
+    "id": "fr-02-0896",
+    "sentence": "Désolée, ce n'est pas ce que j'ai commandé.",
+    "cloze": "ce n'est pas ce que j'ai commandé",
+    "answer": "ce n'est pas ce que j'ai commandé",
+    "lemma": "commander",
+    "meaning": "this is not what I ordered",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0896.mp3"
+  },
+  {
+    "id": "fr-02-0897",
+    "sentence": "Excusez-moi, il manque l'accompagnement de mon poisson.",
+    "cloze": "l'accompagnement de mon poisson",
+    "answer": "l'accompagnement de mon poisson",
+    "lemma": "un accompagnement",
+    "meaning": "the side dish for my fish",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0897.mp3"
+  },
+  {
+    "id": "fr-02-0898",
+    "sentence": "Nous attendons nos plats depuis plus de quarante minutes.",
+    "cloze": "depuis plus de quarante minutes",
+    "answer": "depuis plus de quarante minutes",
+    "lemma": "depuis",
+    "meaning": "for more than forty minutes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0898.mp3"
+  },
+  {
+    "id": "fr-02-0899",
+    "sentence": "Pouvons-nous partager ce dessert ?",
+    "cloze": "partager ce dessert",
+    "answer": "partager ce dessert",
+    "lemma": "partager",
+    "meaning": "share this dessert",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0899.mp3"
+  },
+  {
+    "id": "fr-02-0900",
+    "sentence": "Pour cette pâte, on mélange la farine avec les œufs.",
+    "cloze": "mélange la farine avec les œufs",
+    "answer": "mélange la farine avec les œufs",
+    "lemma": "mélanger",
+    "meaning": "mixes the flour with the eggs",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0900.mp3"
+  },
+  {
+    "id": "fr-02-0901",
+    "sentence": "Ensuite, on ajoute la crème et un peu de sel.",
+    "cloze": "ajoute la crème et un peu de sel",
+    "answer": "ajoute la crème et un peu de sel",
+    "lemma": "ajouter",
+    "meaning": "adds the cream and a little salt",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0901.mp3"
+  },
+  {
+    "id": "fr-02-0902",
+    "sentence": "La tarte cuit au four pendant vingt minutes.",
+    "cloze": "pendant vingt minutes",
+    "answer": "pendant vingt minutes",
+    "lemma": "pendant",
+    "meaning": "for twenty minutes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0902.mp3"
+  },
+  {
+    "id": "fr-02-0903",
+    "sentence": "Cette sauce se sert avec du riz.",
+    "cloze": "se sert avec du riz",
+    "answer": "se sert avec du riz",
+    "lemma": "servir avec",
+    "meaning": "is served with rice",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0903.mp3"
+  },
+  {
+    "id": "fr-02-0904",
+    "sentence": "La soupe contient trop de sel pour moi.",
+    "cloze": "contient trop de sel",
+    "answer": "contient trop de sel",
+    "lemma": "contenir",
+    "meaning": "contains too much salt",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0904.mp3"
+  },
+  {
+    "id": "fr-02-0905",
+    "sentence": "Il y a une fuite sous l'évier de la cuisine.",
+    "cloze": "une fuite sous l'évier",
+    "answer": "une fuite sous l'évier",
+    "lemma": "une fuite",
+    "meaning": "a leak under the sink",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0905.mp3"
+  },
+  {
+    "id": "fr-02-0906",
+    "sentence": "Le radiateur de la chambre ne chauffe plus.",
+    "cloze": "ne chauffe plus",
+    "answer": "ne chauffe plus",
+    "lemma": "chauffer",
+    "meaning": "no longer heats up",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0906.mp3"
+  },
+  {
+    "id": "fr-02-0907",
+    "sentence": "Depuis hier, la machine à laver fait un bruit étrange.",
+    "cloze": "fait un bruit étrange",
+    "answer": "fait un bruit étrange",
+    "lemma": "faire un bruit étrange",
+    "meaning": "makes a strange noise",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0907.mp3"
+  },
+  {
+    "id": "fr-02-0908",
+    "sentence": "La prise du salon ne fonctionne plus depuis ce matin.",
+    "cloze": "ne fonctionne plus depuis ce matin",
+    "answer": "ne fonctionne plus depuis ce matin",
+    "lemma": "fonctionner",
+    "meaning": "has not worked since this morning",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0908.mp3"
+  },
+  {
+    "id": "fr-02-0909",
+    "sentence": "Pourriez-vous venir vérifier la chaudière demain matin ?",
+    "cloze": "venir vérifier la chaudière",
+    "answer": "venir vérifier la chaudière",
+    "lemma": "vérifier",
+    "meaning": "come and check the boiler",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0909.mp3"
+  },
+  {
+    "id": "fr-02-0910",
+    "sentence": "En attendant le plombier, vous devez couper l'eau.",
+    "cloze": "couper l'eau",
+    "answer": "couper l'eau",
+    "lemma": "couper l'eau",
+    "meaning": "turn off the water",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0910.mp3"
+  },
+  {
+    "id": "fr-02-0911",
+    "sentence": "La porte du placard reste bloquée quand j'essaie de l'ouvrir.",
+    "cloze": "reste bloquée",
+    "answer": "reste bloquée",
+    "lemma": "rester bloqué",
+    "meaning": "stays stuck",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0911.mp3"
+  },
+  {
+    "id": "fr-02-0912",
+    "sentence": "L'ampoule du couloir a grillé hier soir.",
+    "cloze": "a grillé hier soir",
+    "answer": "a grillé hier soir",
+    "lemma": "griller",
+    "meaning": "burned out last night",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0912.mp3"
+  },
+  {
+    "id": "fr-02-0913",
+    "sentence": "La lumière de l'escalier ne fonctionne plus, alors je vais signaler le problème au gardien.",
+    "cloze": "signaler le problème au gardien",
+    "answer": "signaler le problème au gardien",
+    "lemma": "signaler",
+    "meaning": "report the problem to the building caretaker",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0913.mp3"
+  },
+  {
+    "id": "fr-02-0914",
+    "sentence": "Les travaux dans l'appartement voisin commencent à huit heures.",
+    "cloze": "dans l'appartement voisin",
+    "answer": "dans l'appartement voisin",
+    "lemma": "un appartement voisin",
+    "meaning": "in the neighboring apartment",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0914.mp3"
+  },
+  {
+    "id": "fr-02-0915",
+    "sentence": "Pourriez-vous faire moins de bruit avant huit heures ?",
+    "cloze": "faire moins de bruit",
+    "answer": "faire moins de bruit",
+    "lemma": "faire moins de bruit",
+    "meaning": "make less noise",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0915.mp3"
+  },
+  {
+    "id": "fr-02-0916",
+    "sentence": "J'ai oublié mon sac à la caisse ce matin.",
+    "cloze": "ai oublié mon sac à la caisse",
+    "answer": "ai oublié mon sac à la caisse",
+    "lemma": "oublier",
+    "meaning": "left my bag at the checkout",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0916.mp3"
+  },
+  {
+    "id": "fr-02-0917",
+    "sentence": "Une cliente a trouvé un trousseau de clés près de l'entrée.",
+    "cloze": "un trousseau de clés",
+    "answer": "un trousseau de clés",
+    "lemma": "un trousseau de clés",
+    "meaning": "a set of keys",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0917.mp3"
+  },
+  {
+    "id": "fr-02-0918",
+    "sentence": "Pouvez-vous me donner une description précise du portefeuille ?",
+    "cloze": "une description précise",
+    "answer": "une description précise",
+    "lemma": "une description",
+    "meaning": "an accurate description",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0918.mp3"
+  },
+  {
+    "id": "fr-02-0919",
+    "sentence": "Je vais laisser mes coordonnées au bureau des objets trouvés.",
+    "cloze": "laisser mes coordonnées",
+    "answer": "laisser mes coordonnées",
+    "lemma": "laisser ses coordonnées",
+    "meaning": "leave my contact details",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0919.mp3"
+  },
+  {
+    "id": "fr-02-0920",
+    "sentence": "Si vous retrouvez mon portefeuille, pourriez-vous m'appeler ?",
+    "cloze": "pourriez-vous m'appeler",
+    "answer": "pourriez-vous m'appeler",
+    "lemma": "appeler",
+    "meaning": "could you call me",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0920.mp3"
   }
 ]
