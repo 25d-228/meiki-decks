@@ -3263,5 +3263,405 @@
     "meaning": "you do not have them either",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0320.mp3"
+  },
+  {
+    "id": "fr-02-0321",
+    "sentence": "Le train de dix-sept heures est direct ; je vais le prendre demain matin.",
+    "cloze": "vais le prendre",
+    "answer": "vais le prendre",
+    "lemma": "prendre",
+    "meaning": "am going to take it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0321.mp3"
+  },
+  {
+    "id": "fr-02-0322",
+    "sentence": "La réservation est pour jeudi, mais nous devons la déplacer.",
+    "cloze": "devons la déplacer",
+    "answer": "devons la déplacer",
+    "lemma": "déplacer",
+    "meaning": "must move it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0322.mp3"
+  },
+  {
+    "id": "fr-02-0323",
+    "sentence": "Les valises sont prêtes ; vous pouvez les déposer à l'accueil.",
+    "cloze": "pouvez les déposer",
+    "answer": "pouvez les déposer",
+    "lemma": "déposer",
+    "meaning": "can leave them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0323.mp3"
+  },
+  {
+    "id": "fr-02-0324",
+    "sentence": "Cette veste est trop large ; Léa veut l'échanger.",
+    "cloze": "veut l'échanger",
+    "answer": "veut l'échanger",
+    "lemma": "échanger",
+    "meaning": "wants to exchange it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0324.mp3"
+  },
+  {
+    "id": "fr-02-0325",
+    "sentence": "Le modèle bleu est encore disponible ; mon frère préfère le prendre.",
+    "cloze": "préfère le prendre",
+    "answer": "préfère le prendre",
+    "lemma": "prendre",
+    "meaning": "prefers to take it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0325.mp3"
+  },
+  {
+    "id": "fr-02-0326",
+    "sentence": "La table près de la fenêtre est libre ; nous allons la réserver.",
+    "cloze": "allons la réserver",
+    "answer": "allons la réserver",
+    "lemma": "réserver",
+    "meaning": "are going to reserve it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0326.mp3"
+  },
+  {
+    "id": "fr-02-0327",
+    "sentence": "Les documents sont prêts ; je peux les imprimer.",
+    "cloze": "peux les imprimer",
+    "answer": "peux les imprimer",
+    "lemma": "imprimer",
+    "meaning": "can print them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0327.mp3"
+  },
+  {
+    "id": "fr-02-0328",
+    "sentence": "Le ticket de caisse est dans votre sac ; vous devez le garder.",
+    "cloze": "devez le garder",
+    "answer": "devez le garder",
+    "lemma": "garder",
+    "meaning": "must keep it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0328.mp3"
+  },
+  {
+    "id": "fr-02-0329",
+    "sentence": "Le rendez-vous est confirmé ; je ne vais pas l'annuler.",
+    "cloze": "ne vais pas l'annuler",
+    "answer": "ne vais pas l'annuler",
+    "lemma": "annuler",
+    "meaning": "am not going to cancel it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0329.mp3"
+  },
+  {
+    "id": "fr-02-0330",
+    "sentence": "La valise est dans le couloir ; vous ne pouvez pas la laisser ici.",
+    "cloze": "ne pouvez pas la laisser",
+    "answer": "ne pouvez pas la laisser",
+    "lemma": "laisser",
+    "meaning": "cannot leave it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0330.mp3"
+  },
+  {
+    "id": "fr-02-0331",
+    "sentence": "Ces billets sont encore valables ; vous ne devez pas les jeter.",
+    "cloze": "ne devez pas les jeter",
+    "answer": "ne devez pas les jeter",
+    "lemma": "jeter",
+    "meaning": "must not throw them away",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0331.mp3"
+  },
+  {
+    "id": "fr-02-0332",
+    "sentence": "Le numéro est sur le reçu ; nous allons le vérifier.",
+    "cloze": "allons le vérifier",
+    "answer": "allons le vérifier",
+    "lemma": "vérifier",
+    "meaning": "are going to check it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0332.mp3"
+  },
+  {
+    "id": "fr-02-0333",
+    "sentence": "J'ai écrit l'adresse ; je peux l'envoyer maintenant.",
+    "cloze": "peux l'envoyer",
+    "answer": "peux l'envoyer",
+    "lemma": "envoyer",
+    "meaning": "can send it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0333.mp3"
+  },
+  {
+    "id": "fr-02-0334",
+    "sentence": "Cette chemise est trop petite ; vous devez la rapporter au magasin.",
+    "cloze": "devez la rapporter",
+    "answer": "devez la rapporter",
+    "lemma": "rapporter",
+    "meaning": "must take it back",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0334.mp3"
+  },
+  {
+    "id": "fr-02-0335",
+    "sentence": "Il reste quatre places ; elle va les réserver pour samedi.",
+    "cloze": "va les réserver",
+    "answer": "va les réserver",
+    "lemma": "réserver",
+    "meaning": "is going to reserve them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0335.mp3"
+  },
+  {
+    "id": "fr-02-0336",
+    "sentence": "Marc a reçu le document, mais il préfère ne pas le signer aujourd'hui.",
+    "cloze": "préfère ne pas le signer",
+    "answer": "préfère ne pas le signer",
+    "lemma": "signer",
+    "meaning": "prefers not to sign it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0336.mp3"
+  },
+  {
+    "id": "fr-02-0337",
+    "sentence": "La commande est prête au comptoir ; je vais la chercher.",
+    "cloze": "vais la chercher",
+    "answer": "vais la chercher",
+    "lemma": "chercher",
+    "meaning": "am going to collect it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0337.mp3"
+  },
+  {
+    "id": "fr-02-0338",
+    "sentence": "Les deux hôtels sont près de la gare ; nous pouvons les comparer.",
+    "cloze": "pouvons les comparer",
+    "answer": "pouvons les comparer",
+    "lemma": "comparer",
+    "meaning": "can compare them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0338.mp3"
+  },
+  {
+    "id": "fr-02-0339",
+    "sentence": "La porte ne ferme pas bien ; le propriétaire doit la réparer.",
+    "cloze": "doit la réparer",
+    "answer": "doit la réparer",
+    "lemma": "réparer",
+    "meaning": "must repair it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0339.mp3"
+  },
+  {
+    "id": "fr-02-0340",
+    "sentence": "Ce pantalon est un peu large, mais je ne veux pas le changer.",
+    "cloze": "ne veux pas le changer",
+    "answer": "ne veux pas le changer",
+    "lemma": "changer",
+    "meaning": "do not want to change it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0340.mp3"
+  },
+  {
+    "id": "fr-02-0341",
+    "sentence": "Le reçu était dans le sac ; je l'ai gardé.",
+    "cloze": "l'ai gardé",
+    "answer": "l'ai gardé",
+    "lemma": "garder",
+    "meaning": "kept it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0341.mp3"
+  },
+  {
+    "id": "fr-02-0342",
+    "sentence": "Le document était sur le bureau ; nous l'avons vérifié.",
+    "cloze": "l'avons vérifié",
+    "answer": "l'avons vérifié",
+    "lemma": "vérifier",
+    "meaning": "checked it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0342.mp3"
+  },
+  {
+    "id": "fr-02-0343",
+    "sentence": "Le studio était encore disponible ; elle l'a réservé pour samedi.",
+    "cloze": "l'a réservé",
+    "answer": "l'a réservé",
+    "lemma": "réserver",
+    "meaning": "reserved it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0343.mp3"
+  },
+  {
+    "id": "fr-02-0344",
+    "sentence": "Le document est correct ; vous l'avez signé il y a deux jours.",
+    "cloze": "l'avez signé",
+    "answer": "l'avez signé",
+    "lemma": "signer",
+    "meaning": "signed it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0344.mp3"
+  },
+  {
+    "id": "fr-02-0345",
+    "sentence": "Le billet était encore disponible ; ils l'ont acheté.",
+    "cloze": "l'ont acheté",
+    "answer": "l'ont acheté",
+    "lemma": "acheter",
+    "meaning": "bought it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0345.mp3"
+  },
+  {
+    "id": "fr-02-0346",
+    "sentence": "Le portefeuille n'était pas sous la table ; je ne l'ai pas trouvé.",
+    "cloze": "ne l'ai pas trouvé",
+    "answer": "ne l'ai pas trouvé",
+    "lemma": "trouver",
+    "meaning": "did not find it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0346.mp3"
+  },
+  {
+    "id": "fr-02-0347",
+    "sentence": "Le train avait du retard ; nous ne l'avons pas pris.",
+    "cloze": "ne l'avons pas pris",
+    "answer": "ne l'avons pas pris",
+    "lemma": "prendre",
+    "meaning": "did not take it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0347.mp3"
+  },
+  {
+    "id": "fr-02-0348",
+    "sentence": "Le placard était fermé ; il ne l'a pas ouvert.",
+    "cloze": "ne l'a pas ouvert",
+    "answer": "ne l'a pas ouvert",
+    "lemma": "ouvrir",
+    "meaning": "did not open it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0348.mp3"
+  },
+  {
+    "id": "fr-02-0349",
+    "sentence": "Le taxi avait quinze minutes de retard ; est-ce que tu l'as appelé ?",
+    "cloze": "tu l'as appelé",
+    "answer": "tu l'as appelé",
+    "lemma": "appeler",
+    "meaning": "did you call it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0349.mp3"
+  },
+  {
+    "id": "fr-02-0350",
+    "sentence": "Le menu du jour est ici ; est-ce que vous l'avez lu ?",
+    "cloze": "vous l'avez lu",
+    "answer": "vous l'avez lu",
+    "lemma": "lire",
+    "meaning": "did you read it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0350.mp3"
+  },
+  {
+    "id": "fr-02-0351",
+    "sentence": "Ce pantalon était trop serré ; je l'ai rendu.",
+    "cloze": "l'ai rendu",
+    "answer": "l'ai rendu",
+    "lemma": "rendre",
+    "meaning": "returned it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0351.mp3"
+  },
+  {
+    "id": "fr-02-0352",
+    "sentence": "Le modèle gris était disponible ; elle l'a choisi.",
+    "cloze": "l'a choisi",
+    "answer": "l'a choisi",
+    "lemma": "choisir",
+    "meaning": "chose it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0352.mp3"
+  },
+  {
+    "id": "fr-02-0353",
+    "sentence": "Le billet était pour Lyon ; nous l'avons payé par carte.",
+    "cloze": "l'avons payé",
+    "answer": "l'avons payé",
+    "lemma": "payer",
+    "meaning": "paid for it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0353.mp3"
+  },
+  {
+    "id": "fr-02-0354",
+    "sentence": "Le magasin était encore ouvert ; le responsable l'a fermé à dix-neuf heures.",
+    "cloze": "l'a fermé",
+    "answer": "l'a fermé",
+    "lemma": "fermer",
+    "meaning": "closed it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0354.mp3"
+  },
+  {
+    "id": "fr-02-0355",
+    "sentence": "Ton manteau était dans l'entrée ; tu l'as mis avant de partir.",
+    "cloze": "l'as mis",
+    "answer": "l'as mis",
+    "lemma": "mettre",
+    "meaning": "put it on",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0355.mp3"
+  },
+  {
+    "id": "fr-02-0356",
+    "sentence": "Mon ticket de métro était dans mon sac, mais je l'ai perdu.",
+    "cloze": "l'ai perdu",
+    "answer": "l'ai perdu",
+    "lemma": "perdre",
+    "meaning": "lost it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0356.mp3"
+  },
+  {
+    "id": "fr-02-0357",
+    "sentence": "Vous avez reçu le document ; vous l'avez imprimé au bureau.",
+    "cloze": "l'avez imprimé",
+    "answer": "l'avez imprimé",
+    "lemma": "imprimer",
+    "meaning": "printed it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0357.mp3"
+  },
+  {
+    "id": "fr-02-0358",
+    "sentence": "Le dernier mot était en anglais ; elle ne l'a pas compris.",
+    "cloze": "ne l'a pas compris",
+    "answer": "ne l'a pas compris",
+    "lemma": "comprendre",
+    "meaning": "did not understand it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0358.mp3"
+  },
+  {
+    "id": "fr-02-0359",
+    "sentence": "Le bus avait vingt minutes de retard ; on l'a attendu devant la gare.",
+    "cloze": "l'a attendu",
+    "answer": "l'a attendu",
+    "lemma": "attendre",
+    "meaning": "waited for it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0359.mp3"
+  },
+  {
+    "id": "fr-02-0360",
+    "sentence": "Le message de confirmation est sur mon téléphone ; je viens de le recevoir.",
+    "cloze": "viens de le recevoir",
+    "answer": "viens de le recevoir",
+    "lemma": "recevoir",
+    "meaning": "have just received it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0360.mp3"
   }
 ]
