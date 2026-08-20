@@ -5303,5 +5303,405 @@
     "accepted_answers": [],
     "grammar": "en before an infinitive with a retained quantity",
     "audio": "work/audio/fr-FR/02/fr-02-0520.mp3"
+  },
+  {
+    "id": "fr-02-0521",
+    "sentence": "Paul, le four est encore chaud, alors ne le touche pas.",
+    "cloze": "ne le touche pas",
+    "answer": "ne le touche pas",
+    "lemma": "toucher",
+    "meaning": "do not touch it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0521.mp3"
+  },
+  {
+    "id": "fr-02-0522",
+    "sentence": "Lina, avant de sortir, ferme bien la fenêtre.",
+    "cloze": "ferme bien la fenêtre",
+    "answer": "ferme bien la fenêtre",
+    "lemma": "fermer",
+    "meaning": "close the window properly",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0522.mp3"
+  },
+  {
+    "id": "fr-02-0523",
+    "sentence": "Tu prends le vélo ce soir, alors mets ton casque.",
+    "cloze": "mets ton casque",
+    "answer": "mets ton casque",
+    "lemma": "mettre",
+    "meaning": "put on your helmet",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0523.mp3"
+  },
+  {
+    "id": "fr-02-0524",
+    "sentence": "Ton train part dans cinq minutes : dépêche-toi un peu.",
+    "cloze": "dépêche-toi un peu",
+    "answer": "dépêche-toi un peu",
+    "lemma": "se dépêcher",
+    "meaning": "hurry up a little",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0524.mp3"
+  },
+  {
+    "id": "fr-02-0525",
+    "sentence": "Tu as cours tôt demain, alors ne te couche pas trop tard.",
+    "cloze": "ne te couche pas trop tard",
+    "answer": "ne te couche pas trop tard",
+    "lemma": "se coucher",
+    "meaning": "do not go to bed too late",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0525.mp3"
+  },
+  {
+    "id": "fr-02-0526",
+    "sentence": "Si tu arrives avant moi, attends-moi devant l'entrée.",
+    "cloze": "attends-moi devant l'entrée",
+    "answer": "attends-moi devant l'entrée",
+    "lemma": "attendre",
+    "meaning": "wait for me in front of the entrance",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0526.mp3"
+  },
+  {
+    "id": "fr-02-0527",
+    "sentence": "Le dossier est prêt, alors prends-le en partant.",
+    "cloze": "prends-le en partant",
+    "answer": "prends-le en partant",
+    "lemma": "prendre",
+    "meaning": "take it when you leave",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0527.mp3"
+  },
+  {
+    "id": "fr-02-0528",
+    "sentence": "Ces verres sont fragiles, alors ne les mets pas dans le lave-vaisselle.",
+    "cloze": "ne les mets pas dans le lave-vaisselle",
+    "answer": "ne les mets pas dans le lave-vaisselle",
+    "lemma": "mettre",
+    "meaning": "do not put them in the dishwasher",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0528.mp3"
+  },
+  {
+    "id": "fr-02-0529",
+    "sentence": "La porte fait du bruit, alors ouvre-la doucement.",
+    "cloze": "ouvre-la doucement",
+    "answer": "ouvre-la doucement",
+    "lemma": "ouvrir",
+    "meaning": "open it gently",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0529.mp3"
+  },
+  {
+    "id": "fr-02-0530",
+    "sentence": "Si Marie ne répond pas ce soir, appelle-la demain matin.",
+    "cloze": "appelle-la demain matin",
+    "answer": "appelle-la demain matin",
+    "lemma": "appeler",
+    "meaning": "call her tomorrow morning",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0530.mp3"
+  },
+  {
+    "id": "fr-02-0531",
+    "sentence": "Je conduis, alors donne-moi l'adresse exacte.",
+    "cloze": "donne-moi l'adresse exacte",
+    "answer": "donne-moi l'adresse exacte",
+    "lemma": "donner",
+    "meaning": "give me the exact address",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0531.mp3"
+  },
+  {
+    "id": "fr-02-0532",
+    "sentence": "Les enfants dorment déjà, alors ne leur téléphone pas maintenant.",
+    "cloze": "ne leur téléphone pas maintenant",
+    "answer": "ne leur téléphone pas maintenant",
+    "lemma": "téléphoner",
+    "meaning": "do not call them now",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0532.mp3"
+  },
+  {
+    "id": "fr-02-0533",
+    "sentence": "Il reste des baguettes : prends-en deux pour ce soir.",
+    "cloze": "prends-en deux pour ce soir",
+    "answer": "prends-en deux pour ce soir",
+    "lemma": "prendre",
+    "meaning": "take two for this evening",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0533.mp3"
+  },
+  {
+    "id": "fr-02-0534",
+    "sentence": "Il y a une place près de la fenêtre, alors assieds-toi ici.",
+    "cloze": "assieds-toi ici",
+    "answer": "assieds-toi ici",
+    "lemma": "s'asseoir",
+    "meaning": "sit down here",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0534.mp3"
+  },
+  {
+    "id": "fr-02-0535",
+    "sentence": "Tu sembles fatiguée ; repose-toi quelques minutes.",
+    "cloze": "repose-toi quelques minutes",
+    "answer": "repose-toi quelques minutes",
+    "lemma": "se reposer",
+    "meaning": "rest for a few minutes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0535.mp3"
+  },
+  {
+    "id": "fr-02-0536",
+    "sentence": "Madame, installez-vous dans le salon pendant que je vérifie votre réservation.",
+    "cloze": "installez-vous dans le salon",
+    "answer": "installez-vous dans le salon",
+    "lemma": "s'installer",
+    "meaning": "have a seat in the lounge",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0536.mp3"
+  },
+  {
+    "id": "fr-02-0537",
+    "sentence": "Veuillez patienter quelques instants, je vais appeler la responsable.",
+    "cloze": "Veuillez patienter quelques instants",
+    "answer": "Veuillez patienter quelques instants",
+    "lemma": "patienter",
+    "meaning": "please wait a few moments",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0537.mp3"
+  },
+  {
+    "id": "fr-02-0538",
+    "sentence": "Monsieur, servez-vous, le buffet est ouvert.",
+    "cloze": "servez-vous",
+    "answer": "servez-vous",
+    "lemma": "se servir",
+    "meaning": "help yourself",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0538.mp3"
+  },
+  {
+    "id": "fr-02-0539",
+    "sentence": "Pour valider votre retour, veuillez signer au bas du formulaire.",
+    "cloze": "veuillez signer au bas du formulaire",
+    "answer": "veuillez signer au bas du formulaire",
+    "lemma": "signer",
+    "meaning": "please sign at the bottom of the form",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0539.mp3"
+  },
+  {
+    "id": "fr-02-0540",
+    "sentence": "Pour l'échange, rapportez l'article avec le ticket de caisse, s'il vous plaît.",
+    "cloze": "rapportez l'article avec le ticket de caisse",
+    "answer": "rapportez l'article avec le ticket de caisse",
+    "lemma": "rapporter",
+    "meaning": "bring the item back with the receipt",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0540.mp3"
+  },
+  {
+    "id": "fr-02-0541",
+    "sentence": "Dans l'escalier, tenez-vous à la rampe jusqu'en bas.",
+    "cloze": "tenez-vous à la rampe jusqu'en bas",
+    "answer": "tenez-vous à la rampe jusqu'en bas",
+    "lemma": "se tenir",
+    "meaning": "hold on to the handrail all the way down",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0541.mp3"
+  },
+  {
+    "id": "fr-02-0542",
+    "sentence": "À la sortie du train, faites attention à la marche.",
+    "cloze": "faites attention à la marche",
+    "answer": "faites attention à la marche",
+    "lemma": "faire attention",
+    "meaning": "mind the step",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0542.mp3"
+  },
+  {
+    "id": "fr-02-0543",
+    "sentence": "Pendant le trajet, gardez votre billet à portée de main.",
+    "cloze": "gardez votre billet à portée de main",
+    "answer": "gardez votre billet à portée de main",
+    "lemma": "garder",
+    "meaning": "keep your ticket handy",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0543.mp3"
+  },
+  {
+    "id": "fr-02-0544",
+    "sentence": "À la bibliothèque, veuillez mettre votre téléphone en mode silencieux.",
+    "cloze": "veuillez mettre votre téléphone en mode silencieux",
+    "answer": "veuillez mettre votre téléphone en mode silencieux",
+    "lemma": "mettre",
+    "meaning": "please put your phone on silent",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0544.mp3"
+  },
+  {
+    "id": "fr-02-0545",
+    "sentence": "Pour votre sécurité, ne bloquez pas cette porte.",
+    "cloze": "ne bloquez pas cette porte",
+    "answer": "ne bloquez pas cette porte",
+    "lemma": "bloquer",
+    "meaning": "do not block this door",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0545.mp3"
+  },
+  {
+    "id": "fr-02-0546",
+    "sentence": "Avant de quitter la chambre, ne laissez rien dans le coffre.",
+    "cloze": "ne laissez rien dans le coffre",
+    "answer": "ne laissez rien dans le coffre",
+    "lemma": "laisser",
+    "meaning": "do not leave anything in the safe",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0546.mp3"
+  },
+  {
+    "id": "fr-02-0547",
+    "sentence": "Au prochain carrefour, prenez plutôt la rue qui descend vers la rivière.",
+    "cloze": "prenez plutôt la rue qui descend vers la rivière",
+    "answer": "prenez plutôt la rue qui descend vers la rivière",
+    "lemma": "prendre",
+    "meaning": "take the street that goes down toward the river instead",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0547.mp3"
+  },
+  {
+    "id": "fr-02-0548",
+    "sentence": "Après la boulangerie, traversez au passage piéton.",
+    "cloze": "traversez au passage piéton",
+    "answer": "traversez au passage piéton",
+    "lemma": "traverser",
+    "meaning": "cross at the pedestrian crossing",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0548.mp3"
+  },
+  {
+    "id": "fr-02-0549",
+    "sentence": "Pour rejoindre le quai B, suivez les panneaux jaunes.",
+    "cloze": "suivez les panneaux jaunes",
+    "answer": "suivez les panneaux jaunes",
+    "lemma": "suivre",
+    "meaning": "follow the yellow signs",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0549.mp3"
+  },
+  {
+    "id": "fr-02-0550",
+    "sentence": "À l'arrêt suivant, descendez du bus devant la mairie.",
+    "cloze": "descendez du bus devant la mairie",
+    "answer": "descendez du bus devant la mairie",
+    "lemma": "descendre",
+    "meaning": "get off the bus outside the town hall",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0550.mp3"
+  },
+  {
+    "id": "fr-02-0551",
+    "sentence": "Il commence à pleuvoir, rentrons par le chemin le plus court.",
+    "cloze": "rentrons par le chemin le plus court",
+    "answer": "rentrons par le chemin le plus court",
+    "lemma": "rentrer",
+    "meaning": "let's go back by the shortest route",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0551.mp3"
+  },
+  {
+    "id": "fr-02-0552",
+    "sentence": "Nous sommes en avance ; attendons nos collègues dans le hall.",
+    "cloze": "attendons nos collègues dans le hall",
+    "answer": "attendons nos collègues dans le hall",
+    "lemma": "attendre",
+    "meaning": "let's wait for our colleagues in the lobby",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0552.mp3"
+  },
+  {
+    "id": "fr-02-0553",
+    "sentence": "Le parking est complet, alors prenons le métro.",
+    "cloze": "prenons le métro",
+    "answer": "prenons le métro",
+    "lemma": "prendre",
+    "meaning": "let's take the metro",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0553.mp3"
+  },
+  {
+    "id": "fr-02-0554",
+    "sentence": "Avant de partir, vérifions une dernière fois l'adresse.",
+    "cloze": "vérifions une dernière fois l'adresse",
+    "answer": "vérifions une dernière fois l'adresse",
+    "lemma": "vérifier",
+    "meaning": "let's check the address one last time",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0554.mp3"
+  },
+  {
+    "id": "fr-02-0555",
+    "sentence": "Pour ne pas être en retard, passons par l'entrée principale.",
+    "cloze": "passons par l'entrée principale",
+    "answer": "passons par l'entrée principale",
+    "lemma": "passer",
+    "meaning": "let's go through the main entrance",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0555.mp3"
+  },
+  {
+    "id": "fr-02-0556",
+    "sentence": "La salle est petite, alors n'apportons pas toutes les chaises.",
+    "cloze": "n'apportons pas toutes les chaises",
+    "answer": "n'apportons pas toutes les chaises",
+    "lemma": "apporter",
+    "meaning": "let's not bring all the chairs",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0556.mp3"
+  },
+  {
+    "id": "fr-02-0557",
+    "sentence": "Votre passeport est sur le comptoir : prenez-le avant de partir.",
+    "cloze": "prenez-le avant de partir",
+    "answer": "prenez-le avant de partir",
+    "lemma": "prendre",
+    "meaning": "take it before you leave",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0557.mp3"
+  },
+  {
+    "id": "fr-02-0558",
+    "sentence": "Ce reçu est important, alors ne le jetez pas.",
+    "cloze": "ne le jetez pas",
+    "answer": "ne le jetez pas",
+    "lemma": "jeter",
+    "meaning": "do not throw it away",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0558.mp3"
+  },
+  {
+    "id": "fr-02-0559",
+    "sentence": "Le sol est mouillé dans le couloir, alors allez-y doucement.",
+    "cloze": "allez-y doucement",
+    "answer": "allez-y doucement",
+    "lemma": "aller",
+    "meaning": "go carefully",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0559.mp3"
+  },
+  {
+    "id": "fr-02-0560",
+    "sentence": "La soupe est déjà salée, alors n'en ajoutez pas.",
+    "cloze": "n'en ajoutez pas",
+    "answer": "n'en ajoutez pas",
+    "lemma": "ajouter",
+    "meaning": "do not add any more",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0560.mp3"
   }
 ]
