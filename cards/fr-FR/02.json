@@ -2863,5 +2863,405 @@
     "meaning": "I have just got back",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0280.mp3"
+  },
+  {
+    "id": "fr-02-0281",
+    "sentence": "Ce dossier contient mes notes ; je le relis avant la réunion.",
+    "cloze": "je le relis",
+    "answer": "je le relis",
+    "lemma": "relire",
+    "meaning": "I reread it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0281.mp3"
+  },
+  {
+    "id": "fr-02-0282",
+    "sentence": "Paul préfère le café sans sucre, alors il le prend noir.",
+    "cloze": "il le prend noir",
+    "answer": "il le prend noir",
+    "lemma": "prendre",
+    "meaning": "he takes it black",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0282.mp3"
+  },
+  {
+    "id": "fr-02-0283",
+    "sentence": "Ton manteau bleu est très chaud ; tu le portes souvent en hiver.",
+    "cloze": "tu le portes souvent",
+    "answer": "tu le portes souvent",
+    "lemma": "porter",
+    "meaning": "you often wear it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0283.mp3"
+  },
+  {
+    "id": "fr-02-0284",
+    "sentence": "Ce billet est valable toute la journée, donc je le garde dans mon portefeuille.",
+    "cloze": "je le garde",
+    "answer": "je le garde",
+    "lemma": "garder",
+    "meaning": "I keep it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0284.mp3"
+  },
+  {
+    "id": "fr-02-0285",
+    "sentence": "Ce rapport est presque prêt ; nous le terminons cet après-midi.",
+    "cloze": "nous le terminons",
+    "answer": "nous le terminons",
+    "lemma": "terminer",
+    "meaning": "we are finishing it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0285.mp3"
+  },
+  {
+    "id": "fr-02-0286",
+    "sentence": "Votre colis est arrivé ; vous le retirez à l'accueil avec une pièce d'identité.",
+    "cloze": "vous le retirez",
+    "answer": "vous le retirez",
+    "lemma": "retirer",
+    "meaning": "you collect it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0286.mp3"
+  },
+  {
+    "id": "fr-02-0287",
+    "sentence": "Le reçu peut servir pour l'échange ; le client le conserve pendant un mois.",
+    "cloze": "le client le conserve",
+    "answer": "le client le conserve",
+    "lemma": "conserver",
+    "meaning": "the customer keeps it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0287.mp3"
+  },
+  {
+    "id": "fr-02-0288",
+    "sentence": "Ce documentaire passe ce soir, et on le regarde ensemble après dîner.",
+    "cloze": "on le regarde ensemble",
+    "answer": "on le regarde ensemble",
+    "lemma": "regarder",
+    "meaning": "we watch it together",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0288.mp3"
+  },
+  {
+    "id": "fr-02-0289",
+    "sentence": "Ce livre appartient à la bibliothèque, mais je ne le rends pas aujourd'hui.",
+    "cloze": "je ne le rends pas aujourd'hui",
+    "answer": "je ne le rends pas aujourd'hui",
+    "lemma": "rendre",
+    "meaning": "I am not returning it today",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0289.mp3"
+  },
+  {
+    "id": "fr-02-0290",
+    "sentence": "Le code de la porte a changé et Karim ne le connaît pas encore.",
+    "cloze": "Karim ne le connaît pas encore",
+    "answer": "Karim ne le connaît pas encore",
+    "lemma": "connaître",
+    "meaning": "Karim does not know it yet",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0290.mp3"
+  },
+  {
+    "id": "fr-02-0291",
+    "sentence": "Le vélo a un pneu crevé, alors nous ne le prenons pas ce matin.",
+    "cloze": "nous ne le prenons pas",
+    "answer": "nous ne le prenons pas",
+    "lemma": "prendre",
+    "meaning": "we are not taking it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0291.mp3"
+  },
+  {
+    "id": "fr-02-0292",
+    "sentence": "Ce formulaire est incomplet, donc nous ne le signons pas pour le moment.",
+    "cloze": "nous ne le signons pas",
+    "answer": "nous ne le signons pas",
+    "lemma": "signer",
+    "meaning": "we do not sign it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0292.mp3"
+  },
+  {
+    "id": "fr-02-0293",
+    "sentence": "Entre les deux robes, je préfère la bleue ; je la trouve plus élégante.",
+    "cloze": "je la trouve plus élégante",
+    "answer": "je la trouve plus élégante",
+    "lemma": "trouver",
+    "meaning": "I find it more elegant",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0293.mp3"
+  },
+  {
+    "id": "fr-02-0294",
+    "sentence": "Cette facture semble trop élevée, alors je la vérifie avec ma collègue.",
+    "cloze": "je la vérifie",
+    "answer": "je la vérifie",
+    "lemma": "vérifier",
+    "meaning": "I check it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0294.mp3"
+  },
+  {
+    "id": "fr-02-0295",
+    "sentence": "Cette série compte seulement six épisodes ; nous la suivons chaque jeudi.",
+    "cloze": "nous la suivons chaque jeudi",
+    "answer": "nous la suivons chaque jeudi",
+    "lemma": "suivre",
+    "meaning": "we watch it every Thursday",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0295.mp3"
+  },
+  {
+    "id": "fr-02-0296",
+    "sentence": "La clé du garage reste dans l'entrée ; tu la ranges dans le petit tiroir.",
+    "cloze": "tu la ranges",
+    "answer": "tu la ranges",
+    "lemma": "ranger",
+    "meaning": "you put it away",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0296.mp3"
+  },
+  {
+    "id": "fr-02-0297",
+    "sentence": "La commande est prête ; nous la confirmons par courriel avant midi.",
+    "cloze": "nous la confirmons par courriel",
+    "answer": "nous la confirmons par courriel",
+    "lemma": "confirmer",
+    "meaning": "we confirm it by email",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0297.mp3"
+  },
+  {
+    "id": "fr-02-0298",
+    "sentence": "Cette table près de la fenêtre est libre, alors on la réserve pour ce soir.",
+    "cloze": "on la réserve pour ce soir",
+    "answer": "on la réserve pour ce soir",
+    "lemma": "réserver",
+    "meaning": "we reserve it for tonight",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0298.mp3"
+  },
+  {
+    "id": "fr-02-0299",
+    "sentence": "Cette photo de l'équipe est réussie ; Élodie la partage avec ses collègues.",
+    "cloze": "Élodie la partage",
+    "answer": "Élodie la partage",
+    "lemma": "partager",
+    "meaning": "Élodie shares it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0299.mp3"
+  },
+  {
+    "id": "fr-02-0300",
+    "sentence": "Ma valise contient mon ordinateur, donc je ne la laisse pas dans la voiture.",
+    "cloze": "je ne la laisse pas dans la voiture",
+    "answer": "je ne la laisse pas dans la voiture",
+    "lemma": "laisser",
+    "meaning": "I do not leave it in the car",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0300.mp3"
+  },
+  {
+    "id": "fr-02-0301",
+    "sentence": "La réunion concerne toute l'équipe ; nous ne la déplaçons pas sans prévenir.",
+    "cloze": "nous ne la déplaçons pas",
+    "answer": "nous ne la déplaçons pas",
+    "lemma": "déplacer",
+    "meaning": "we are not rescheduling it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0301.mp3"
+  },
+  {
+    "id": "fr-02-0302",
+    "sentence": "La carte de l'hôtel était dans sa poche, mais il ne la trouve plus.",
+    "cloze": "il ne la trouve plus",
+    "answer": "il ne la trouve plus",
+    "lemma": "trouver",
+    "meaning": "he cannot find it anymore",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0302.mp3"
+  },
+  {
+    "id": "fr-02-0303",
+    "sentence": "Cette chemise a une tache, alors la cliente ne la prend pas.",
+    "cloze": "la cliente ne la prend pas",
+    "answer": "la cliente ne la prend pas",
+    "lemma": "prendre",
+    "meaning": "the customer does not take it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0303.mp3"
+  },
+  {
+    "id": "fr-02-0304",
+    "sentence": "La radio est allumée, mais Claire ne l'écoute pas vraiment.",
+    "cloze": "Claire ne l'écoute pas vraiment",
+    "answer": "Claire ne l'écoute pas vraiment",
+    "lemma": "écouter",
+    "meaning": "Claire is not really listening to it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0304.mp3"
+  },
+  {
+    "id": "fr-02-0305",
+    "sentence": "Ce message contient une erreur, alors je l'efface tout de suite.",
+    "cloze": "je l'efface tout de suite",
+    "answer": "je l'efface tout de suite",
+    "lemma": "effacer",
+    "meaning": "I delete it immediately",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0305.mp3"
+  },
+  {
+    "id": "fr-02-0306",
+    "sentence": "L'adresse est difficile à retenir ; elle la note dans son téléphone.",
+    "cloze": "elle la note",
+    "answer": "elle la note",
+    "lemma": "noter",
+    "meaning": "she writes it down",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0306.mp3"
+  },
+  {
+    "id": "fr-02-0307",
+    "sentence": "Cette application est pratique pour les horaires ; nous l'utilisons tous les jours.",
+    "cloze": "nous l'utilisons tous les jours",
+    "answer": "nous l'utilisons tous les jours",
+    "lemma": "utiliser",
+    "meaning": "we use it every day",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0307.mp3"
+  },
+  {
+    "id": "fr-02-0308",
+    "sentence": "L'entrée électronique est jointe au message ; je l'imprime seulement si nécessaire.",
+    "cloze": "je l'imprime seulement si nécessaire",
+    "answer": "je l'imprime seulement si nécessaire",
+    "lemma": "imprimer",
+    "meaning": "I print it only if necessary",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0308.mp3"
+  },
+  {
+    "id": "fr-02-0309",
+    "sentence": "Cette exposition présente des artistes locaux, et mes parents l'aiment beaucoup.",
+    "cloze": "mes parents l'aiment beaucoup",
+    "answer": "mes parents l'aiment beaucoup",
+    "lemma": "aimer",
+    "meaning": "my parents like it a lot",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0309.mp3"
+  },
+  {
+    "id": "fr-02-0310",
+    "sentence": "L'ordinateur reste éteint pendant la réunion ; je l'allume après la pause.",
+    "cloze": "je l'allume après la pause",
+    "answer": "je l'allume après la pause",
+    "lemma": "allumer",
+    "meaning": "I turn it on after the break",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0310.mp3"
+  },
+  {
+    "id": "fr-02-0311",
+    "sentence": "Ces courriels concernent le nouveau projet ; je les lis avant notre entretien.",
+    "cloze": "je les lis",
+    "answer": "je les lis",
+    "lemma": "lire",
+    "meaning": "I read them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0311.mp3"
+  },
+  {
+    "id": "fr-02-0312",
+    "sentence": "Les dossiers terminés vont dans cette armoire ; Sophie les classe par date.",
+    "cloze": "Sophie les classe par date",
+    "answer": "Sophie les classe par date",
+    "lemma": "classer",
+    "meaning": "Sophie files them by date",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0312.mp3"
+  },
+  {
+    "id": "fr-02-0313",
+    "sentence": "Ces légumes viennent du marché ; nous les lavons soigneusement avant la préparation.",
+    "cloze": "nous les lavons soigneusement",
+    "answer": "nous les lavons soigneusement",
+    "lemma": "laver",
+    "meaning": "we wash them carefully",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0313.mp3"
+  },
+  {
+    "id": "fr-02-0314",
+    "sentence": "Les billets restent valables jusqu'à dimanche ; je les garde dans l'application.",
+    "cloze": "je les garde dans l'application",
+    "answer": "je les garde dans l'application",
+    "lemma": "garder",
+    "meaning": "I keep them in the app",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0314.mp3"
+  },
+  {
+    "id": "fr-02-0315",
+    "sentence": "Les nouveaux épisodes sont disponibles, et on les regarde ce week-end.",
+    "cloze": "on les regarde ce week-end",
+    "answer": "on les regarde ce week-end",
+    "lemma": "regarder",
+    "meaning": "we watch them this weekend",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0315.mp3"
+  },
+  {
+    "id": "fr-02-0316",
+    "sentence": "Ces chaussures existent aussi en noir ; je les essaie avant de choisir.",
+    "cloze": "je les essaie",
+    "answer": "je les essaie",
+    "lemma": "essayer",
+    "meaning": "I try them on",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0316.mp3"
+  },
+  {
+    "id": "fr-02-0317",
+    "sentence": "Les nouveaux collègues arrivent à neuf heures ; le responsable les reçoit dans son bureau.",
+    "cloze": "le responsable les reçoit",
+    "answer": "le responsable les reçoit",
+    "lemma": "recevoir",
+    "meaning": "the manager receives them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0317.mp3"
+  },
+  {
+    "id": "fr-02-0318",
+    "sentence": "Ces deux erreurs ne changent pas le prix final, donc nous ne les corrigeons pas aujourd'hui.",
+    "cloze": "nous ne les corrigeons pas aujourd'hui",
+    "answer": "nous ne les corrigeons pas aujourd'hui",
+    "lemma": "corriger",
+    "meaning": "we are not correcting them today",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0318.mp3"
+  },
+  {
+    "id": "fr-02-0319",
+    "sentence": "Ces sacs ont un défaut, donc nous ne les vendons pas.",
+    "cloze": "nous ne les vendons pas",
+    "answer": "nous ne les vendons pas",
+    "lemma": "vendre",
+    "meaning": "we do not sell them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0319.mp3"
+  },
+  {
+    "id": "fr-02-0320",
+    "sentence": "Les clés de la salle ne sont pas à l'accueil, et vous ne les avez pas non plus.",
+    "cloze": "vous ne les avez pas non plus",
+    "answer": "vous ne les avez pas non plus",
+    "lemma": "avoir",
+    "meaning": "you do not have them either",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0320.mp3"
   }
 ]
