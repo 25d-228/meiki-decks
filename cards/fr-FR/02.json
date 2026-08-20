@@ -9377,5 +9377,420 @@
     "meaning": "could you call me",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0920.mp3"
+  },
+  {
+    "id": "fr-02-0921",
+    "sentence": "Depuis ce matin, j'ai de la fièvre et je me sens faible.",
+    "cloze": "j'ai de la fièvre",
+    "answer": "j'ai de la fièvre",
+    "lemma": "avoir de la fièvre",
+    "meaning": "to have a fever",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0921.mp3"
+  },
+  {
+    "id": "fr-02-0922",
+    "sentence": "Je me suis fait mal à la cheville en descendant du bus.",
+    "cloze": "Je me suis fait mal à la cheville",
+    "answer": "Je me suis fait mal à la cheville",
+    "lemma": "se faire mal à la cheville",
+    "meaning": "to hurt one's ankle",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0922.mp3",
+    "grammar": "Passé composé of the reflexive construction se faire mal."
+  },
+  {
+    "id": "fr-02-0923",
+    "sentence": "Depuis quand avez-vous mal au dos ?",
+    "cloze": "avez-vous mal au dos",
+    "answer": "avez-vous mal au dos",
+    "lemma": "avoir mal au dos",
+    "meaning": "does your back hurt",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0923.mp3",
+    "register": "Polite question to a patient."
+  },
+  {
+    "id": "fr-02-0924",
+    "sentence": "Je voudrais prendre rendez-vous avec le médecin pour demain.",
+    "cloze": "Je voudrais prendre rendez-vous",
+    "answer": "Je voudrais prendre rendez-vous",
+    "lemma": "prendre rendez-vous",
+    "meaning": "I would like to make an appointment",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0924.mp3",
+    "register": "Polite appointment request."
+  },
+  {
+    "id": "fr-02-0925",
+    "sentence": "À la pharmacie, on m'a demandé : « Avez-vous une ordonnance pour ce médicament ? »",
+    "cloze": "Avez-vous une ordonnance",
+    "answer": "Avez-vous une ordonnance",
+    "lemma": "avoir une ordonnance",
+    "meaning": "do you have a prescription",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0925.mp3",
+    "register": "Professional pharmacy interaction."
+  },
+  {
+    "id": "fr-02-0926",
+    "sentence": "Excusez-moi, j'aurais besoin d'un pansement pour mon doigt.",
+    "cloze": "j'aurais besoin d'un pansement",
+    "answer": "j'aurais besoin d'un pansement",
+    "lemma": "avoir besoin d'un pansement",
+    "meaning": "I need a bandage",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0926.mp3",
+    "register": "Softened service request."
+  },
+  {
+    "id": "fr-02-0927",
+    "sentence": "Je suis allergique à la pénicilline, alors je préfère vous le signaler.",
+    "cloze": "Je suis allergique à la pénicilline",
+    "answer": "Je suis allergique à la pénicilline",
+    "lemma": "être allergique à",
+    "meaning": "I am allergic to penicillin",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0927.mp3"
+  },
+  {
+    "id": "fr-02-0928",
+    "sentence": "Je ne me sens pas bien depuis le déjeuner.",
+    "cloze": "Je ne me sens pas bien",
+    "answer": "Je ne me sens pas bien",
+    "lemma": "se sentir bien",
+    "meaning": "I do not feel well",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0928.mp3"
+  },
+  {
+    "id": "fr-02-0929",
+    "sentence": "Mon fils tousse depuis trois jours et nous avons rendez-vous cet après-midi.",
+    "cloze": "tousse depuis trois jours",
+    "answer": "tousse depuis trois jours",
+    "lemma": "tousser",
+    "meaning": "has been coughing for three days",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0929.mp3"
+  },
+  {
+    "id": "fr-02-0930",
+    "sentence": "Pourriez-vous me montrer où sont les thermomètres, s'il vous plaît ?",
+    "cloze": "Pourriez-vous me montrer",
+    "answer": "Pourriez-vous me montrer",
+    "lemma": "montrer",
+    "meaning": "could you show me",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0930.mp3",
+    "register": "Polite pharmacy request."
+  },
+  {
+    "id": "fr-02-0931",
+    "sentence": "Je dois reporter mon rendez-vous médical à la semaine prochaine.",
+    "cloze": "reporter mon rendez-vous médical",
+    "answer": "reporter mon rendez-vous médical",
+    "lemma": "reporter un rendez-vous médical",
+    "meaning": "to reschedule my medical appointment",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0931.mp3"
+  },
+  {
+    "id": "fr-02-0932",
+    "sentence": "Est-ce que je peux m'allonger quelques minutes dans cette salle ?",
+    "cloze": "je peux m'allonger quelques minutes",
+    "answer": "je peux m'allonger quelques minutes",
+    "lemma": "s'allonger",
+    "meaning": "may I lie down for a few minutes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0932.mp3"
+  },
+  {
+    "id": "fr-02-0933",
+    "sentence": "Hier soir, j'ai eu très mal au ventre, mais la douleur a diminué pendant la nuit.",
+    "cloze": "j'ai eu très mal au ventre",
+    "answer": "j'ai eu très mal au ventre",
+    "lemma": "avoir mal au ventre",
+    "meaning": "I had a very bad stomachache",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0933.mp3",
+    "grammar": "Passé composé for a completed past experience."
+  },
+  {
+    "id": "fr-02-0934",
+    "sentence": "Ce matin, je me sens déjà mieux qu'hier.",
+    "cloze": "je me sens déjà mieux",
+    "answer": "je me sens déjà mieux",
+    "lemma": "se sentir mieux",
+    "meaning": "I already feel better",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0934.mp3"
+  },
+  {
+    "id": "fr-02-0935",
+    "sentence": "J'ai repris la natation cette année et je vais à la piscine chaque mercredi.",
+    "cloze": "J'ai repris la natation",
+    "answer": "J'ai repris la natation",
+    "lemma": "reprendre la natation",
+    "meaning": "I started swimming again",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0935.mp3"
+  },
+  {
+    "id": "fr-02-0936",
+    "sentence": "S'il ne pleut pas dimanche, on va faire une randonnée en forêt.",
+    "cloze": "on va faire une randonnée",
+    "answer": "on va faire une randonnée",
+    "lemma": "faire une randonnée",
+    "meaning": "we are going for a hike",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0936.mp3"
+  },
+  {
+    "id": "fr-02-0937",
+    "sentence": "Je vous recommande ce petit cinéma parce que les places sont confortables.",
+    "cloze": "Je vous recommande ce petit cinéma",
+    "answer": "Je vous recommande ce petit cinéma",
+    "lemma": "recommander",
+    "meaning": "I recommend this small cinema",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0937.mp3",
+    "register": "Polite recommendation."
+  },
+  {
+    "id": "fr-02-0938",
+    "sentence": "Le film était moins drôle que la bande-annonce, mais les acteurs étaient excellents.",
+    "cloze": "moins drôle que la bande-annonce",
+    "answer": "moins drôle que la bande-annonce",
+    "lemma": "drôle",
+    "meaning": "less funny than the trailer",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0938.mp3"
+  },
+  {
+    "id": "fr-02-0939",
+    "sentence": "J'écoute souvent ce podcast dans le métro parce que les épisodes sont courts.",
+    "cloze": "J'écoute souvent ce podcast",
+    "answer": "J'écoute souvent ce podcast",
+    "lemma": "un podcast",
+    "meaning": "I often listen to this podcast",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0939.mp3"
+  },
+  {
+    "id": "fr-02-0940",
+    "sentence": "C'est le théâtre où nous avons vu « Cyrano de Bergerac » l'hiver dernier.",
+    "cloze": "où nous avons vu",
+    "answer": "où nous avons vu",
+    "lemma": "où",
+    "meaning": "where we saw",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0940.mp3",
+    "grammar": "Où introduces a relative clause referring to a place."
+  },
+  {
+    "id": "fr-02-0941",
+    "sentence": "L'exposition m'a beaucoup plu parce que les explications étaient faciles à suivre.",
+    "cloze": "m'a beaucoup plu",
+    "answer": "m'a beaucoup plu",
+    "lemma": "plaire",
+    "meaning": "I really enjoyed it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0941.mp3"
+  },
+  {
+    "id": "fr-02-0942",
+    "sentence": "Après le concert, nous avons pris un verre près de la salle.",
+    "cloze": "nous avons pris un verre",
+    "answer": "nous avons pris un verre",
+    "lemma": "prendre un verre",
+    "meaning": "we had a drink",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0942.mp3"
+  },
+  {
+    "id": "fr-02-0943",
+    "sentence": "J'ai emprunté ce roman à la bibliothèque pour les vacances.",
+    "cloze": "J'ai emprunté ce roman",
+    "answer": "J'ai emprunté ce roman",
+    "lemma": "emprunter un roman",
+    "meaning": "I borrowed this novel",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0943.mp3"
+  },
+  {
+    "id": "fr-02-0944",
+    "sentence": "Je préfère lire l'actualité le matin plutôt que de regarder la télévision.",
+    "cloze": "lire l'actualité le matin",
+    "answer": "lire l'actualité le matin",
+    "lemma": "l'actualité",
+    "meaning": "to read the news in the morning",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0944.mp3"
+  },
+  {
+    "id": "fr-02-0945",
+    "sentence": "Ce documentaire est plus intéressant que l'émission d'hier soir.",
+    "cloze": "plus intéressant que l'émission d'hier soir",
+    "answer": "plus intéressant que l'émission d'hier soir",
+    "lemma": "intéressant",
+    "meaning": "more interesting than last night's program",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0945.mp3"
+  },
+  {
+    "id": "fr-02-0946",
+    "sentence": "Je n'ai pas bien compris cette scène ; pouvez-vous me l'expliquer autrement ?",
+    "cloze": "pouvez-vous me l'expliquer autrement",
+    "answer": "pouvez-vous me l'expliquer autrement",
+    "lemma": "expliquer autrement",
+    "meaning": "could you explain it differently",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0946.mp3",
+    "register": "Polite clarification request."
+  },
+  {
+    "id": "fr-02-0947",
+    "sentence": "Pour nos vacances, nous avons loué une petite maison près de l'océan.",
+    "cloze": "nous avons loué une petite maison",
+    "answer": "nous avons loué une petite maison",
+    "lemma": "louer une maison",
+    "meaning": "we rented a small house",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0947.mp3"
+  },
+  {
+    "id": "fr-02-0948",
+    "sentence": "D'abord, nous avons posé nos valises, puis nous sommes partis découvrir le village.",
+    "cloze": "nous sommes partis découvrir le village",
+    "answer": "nous sommes partis découvrir le village",
+    "lemma": "partir découvrir",
+    "meaning": "we set off to explore the village",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0948.mp3"
+  },
+  {
+    "id": "fr-02-0949",
+    "sentence": "Comme il faisait trop chaud, nous sommes restés à l'ombre jusqu'à seize heures.",
+    "cloze": "nous sommes restés à l'ombre",
+    "answer": "nous sommes restés à l'ombre",
+    "lemma": "rester à l'ombre",
+    "meaning": "we stayed in the shade",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0949.mp3"
+  },
+  {
+    "id": "fr-02-0950",
+    "sentence": "Quand j'étais enfant, nous passions toujours le mois d'août chez mes grands-parents.",
+    "cloze": "nous passions toujours le mois d'août",
+    "answer": "nous passions toujours le mois d'août",
+    "lemma": "passer le mois d'août",
+    "meaning": "we always spent August",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0950.mp3",
+    "grammar": "Imparfait for a repeated childhood routine."
+  },
+  {
+    "id": "fr-02-0951",
+    "sentence": "Pendant notre séjour, nous avons fait une excursion en bateau jusqu'à l'île.",
+    "cloze": "nous avons fait une excursion en bateau",
+    "answer": "nous avons fait une excursion en bateau",
+    "lemma": "faire une excursion",
+    "meaning": "we took a boat trip",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0951.mp3"
+  },
+  {
+    "id": "fr-02-0952",
+    "sentence": "Le camping était simple, mais il se trouvait juste au bord du lac.",
+    "cloze": "il se trouvait juste au bord du lac",
+    "answer": "il se trouvait juste au bord du lac",
+    "lemma": "se trouver au bord de",
+    "meaning": "it was right beside the lake",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0952.mp3"
+  },
+  {
+    "id": "fr-02-0953",
+    "sentence": "Je vous conseille cette promenade, car la vue sur la côte est magnifique.",
+    "cloze": "Je vous conseille cette promenade",
+    "answer": "Je vous conseille cette promenade",
+    "lemma": "conseiller",
+    "meaning": "I recommend this walk",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0953.mp3",
+    "register": "Polite recommendation."
+  },
+  {
+    "id": "fr-02-0954",
+    "sentence": "À mon avis, le musée est agréable, mais la visite guidée est un peu longue.",
+    "cloze": "À mon avis",
+    "answer": "À mon avis",
+    "lemma": "à mon avis",
+    "meaning": "in my opinion",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0954.mp3"
+  },
+  {
+    "id": "fr-02-0955",
+    "sentence": "Le festival commencera vendredi soir et se terminera dimanche après-midi.",
+    "cloze": "se terminera dimanche après-midi",
+    "answer": "se terminera dimanche après-midi",
+    "lemma": "se terminer",
+    "meaning": "will end on Sunday afternoon",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0955.mp3"
+  },
+  {
+    "id": "fr-02-0956",
+    "sentence": "Désolée, je ne peux plus venir samedi ; est-ce qu'on peut remettre le pique-nique à dimanche ?",
+    "cloze": "remettre le pique-nique à dimanche",
+    "answer": "remettre le pique-nique à dimanche",
+    "lemma": "remettre",
+    "meaning": "move the picnic to Sunday",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0956.mp3",
+    "register": "Informal change of plans among friends."
+  },
+  {
+    "id": "fr-02-0957",
+    "sentence": "Les sous-titres défilent trop vite ; pouvez-vous revenir quelques secondes en arrière ?",
+    "cloze": "pouvez-vous revenir quelques secondes en arrière",
+    "answer": "pouvez-vous revenir quelques secondes en arrière",
+    "lemma": "revenir en arrière",
+    "meaning": "can you go back a few seconds",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0957.mp3",
+    "register": "Polite interaction repair."
+  },
+  {
+    "id": "fr-02-0958",
+    "sentence": "Ce roman se lit facilement, donc je le recommande pour les vacances.",
+    "cloze": "je le recommande pour les vacances",
+    "answer": "je le recommande pour les vacances",
+    "lemma": "recommander",
+    "meaning": "I recommend it for the holidays",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0958.mp3"
+  },
+  {
+    "id": "fr-02-0959",
+    "sentence": "Je parlais du spectacle de samedi, pas de celui de dimanche.",
+    "cloze": "pas de celui de dimanche",
+    "answer": "pas de celui de dimanche",
+    "lemma": "celui",
+    "meaning": "not the Sunday one",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0959.mp3",
+    "note": "Celui replaces a masculine singular noun already mentioned."
+  },
+  {
+    "id": "fr-02-0960",
+    "sentence": "À huit heures, nous sommes arrivés devant l'hôtel, puis nous avons rejoint nos amis au restaurant.",
+    "cloze": "nous sommes arrivés devant l'hôtel",
+    "answer": "nous sommes arrivés devant l'hôtel",
+    "lemma": "arriver",
+    "meaning": "we arrived in front of the hotel",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0960.mp3"
   }
 ]
