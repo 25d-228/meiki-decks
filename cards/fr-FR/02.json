@@ -2063,5 +2063,405 @@
     "meaning": "I often had lunch at home",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0200.mp3"
+  },
+  {
+    "id": "fr-02-0201",
+    "sentence": "Je viens de finir mon café.",
+    "cloze": "viens de finir",
+    "answer": "viens de finir",
+    "accepted_answers": [],
+    "lemma": "venir de + infinitif",
+    "meaning": "have just finished",
+    "audio": "work/audio/fr-FR/02/fr-02-0201.mp3"
+  },
+  {
+    "id": "fr-02-0202",
+    "sentence": "Tu viens de recevoir la confirmation de l'hôtel.",
+    "cloze": "viens de recevoir",
+    "answer": "viens de recevoir",
+    "accepted_answers": [],
+    "lemma": "venir de + infinitif",
+    "meaning": "have just received",
+    "audio": "work/audio/fr-FR/02/fr-02-0202.mp3"
+  },
+  {
+    "id": "fr-02-0203",
+    "sentence": "Léa vient de partir pour Lyon.",
+    "cloze": "vient de partir",
+    "answer": "vient de partir",
+    "accepted_answers": [],
+    "lemma": "venir de + infinitif",
+    "meaning": "has just left",
+    "audio": "work/audio/fr-FR/02/fr-02-0203.mp3"
+  },
+  {
+    "id": "fr-02-0204",
+    "sentence": "Nous venons de manquer le train de seize heures vingt.",
+    "cloze": "venons de manquer",
+    "answer": "venons de manquer",
+    "accepted_answers": [],
+    "lemma": "venir de + infinitif",
+    "meaning": "have just missed",
+    "audio": "work/audio/fr-FR/02/fr-02-0204.mp3"
+  },
+  {
+    "id": "fr-02-0205",
+    "sentence": "Vous venez de signer le document.",
+    "cloze": "venez de signer",
+    "answer": "venez de signer",
+    "accepted_answers": [],
+    "lemma": "venir de + infinitif",
+    "meaning": "have just signed",
+    "audio": "work/audio/fr-FR/02/fr-02-0205.mp3"
+  },
+  {
+    "id": "fr-02-0206",
+    "sentence": "Mes collègues viennent d'arriver à la gare.",
+    "cloze": "viennent d'arriver",
+    "answer": "viennent d'arriver",
+    "accepted_answers": [],
+    "lemma": "venir de + infinitif",
+    "meaning": "have just arrived",
+    "audio": "work/audio/fr-FR/02/fr-02-0206.mp3"
+  },
+  {
+    "id": "fr-02-0207",
+    "sentence": "Je viens d'écrire l'adresse sur le document.",
+    "cloze": "viens d'écrire",
+    "answer": "viens d'écrire",
+    "accepted_answers": [],
+    "lemma": "venir de + infinitif",
+    "meaning": "have just written",
+    "audio": "work/audio/fr-FR/02/fr-02-0207.mp3"
+  },
+  {
+    "id": "fr-02-0208",
+    "sentence": "La réceptionniste vient de fermer la porte.",
+    "cloze": "vient de fermer",
+    "answer": "vient de fermer",
+    "accepted_answers": [],
+    "lemma": "venir de + infinitif",
+    "meaning": "has just closed",
+    "audio": "work/audio/fr-FR/02/fr-02-0208.mp3"
+  },
+  {
+    "id": "fr-02-0209",
+    "sentence": "Pour réserver une chambre, j'ai d'abord appelé l'hôtel, puis j'ai envoyé un message.",
+    "cloze": "ai d'abord appelé l'hôtel",
+    "answer": "ai d'abord appelé l'hôtel",
+    "accepted_answers": [],
+    "lemma": "d'abord",
+    "meaning": "first called the hotel",
+    "audio": "work/audio/fr-FR/02/fr-02-0209.mp3"
+  },
+  {
+    "id": "fr-02-0210",
+    "sentence": "Pour préparer le dîner, nous avons d'abord acheté les légumes, puis nous avons cuisiné.",
+    "cloze": "avons d'abord acheté les légumes",
+    "answer": "avons d'abord acheté les légumes",
+    "accepted_answers": [],
+    "lemma": "d'abord",
+    "meaning": "first bought the vegetables",
+    "audio": "work/audio/fr-FR/02/fr-02-0210.mp3"
+  },
+  {
+    "id": "fr-02-0211",
+    "sentence": "À la gare, j'ai d'abord regardé le panneau des départs, puis j'ai pris le train.",
+    "cloze": "ai d'abord regardé le panneau des départs",
+    "answer": "ai d'abord regardé le panneau des départs",
+    "accepted_answers": [],
+    "lemma": "d'abord",
+    "meaning": "first looked at the departure board",
+    "audio": "work/audio/fr-FR/02/fr-02-0211.mp3"
+  },
+  {
+    "id": "fr-02-0212",
+    "sentence": "Avant la réunion, vous avez d'abord fait le point avec la directrice, puis vous avez préparé la salle.",
+    "cloze": "avez d'abord fait le point",
+    "answer": "avez d'abord fait le point",
+    "accepted_answers": [],
+    "lemma": "d'abord",
+    "meaning": "first reviewed the situation",
+    "audio": "work/audio/fr-FR/02/fr-02-0212.mp3"
+  },
+  {
+    "id": "fr-02-0213",
+    "sentence": "On a d'abord pris le métro, puis on a marché jusqu'à l'hôtel.",
+    "cloze": "a d'abord pris le métro",
+    "answer": "a d'abord pris le métro",
+    "accepted_answers": [],
+    "lemma": "d'abord",
+    "meaning": "first took the metro",
+    "audio": "work/audio/fr-FR/02/fr-02-0213.mp3"
+  },
+  {
+    "id": "fr-02-0214",
+    "sentence": "J'ai lu le document et j'ai ensuite signé en bas de la page.",
+    "cloze": "ai ensuite signé",
+    "answer": "ai ensuite signé",
+    "accepted_answers": [],
+    "lemma": "ensuite",
+    "meaning": "then signed",
+    "audio": "work/audio/fr-FR/02/fr-02-0214.mp3"
+  },
+  {
+    "id": "fr-02-0215",
+    "sentence": "Elle a préparé le café et nous avons ensuite discuté quelques minutes.",
+    "cloze": "avons ensuite discuté",
+    "answer": "avons ensuite discuté",
+    "accepted_answers": [],
+    "lemma": "ensuite",
+    "meaning": "then talked",
+    "audio": "work/audio/fr-FR/02/fr-02-0215.mp3"
+  },
+  {
+    "id": "fr-02-0216",
+    "sentence": "Nous avons visité le musée et nous avons ensuite déjeuné en terrasse.",
+    "cloze": "avons ensuite déjeuné",
+    "answer": "avons ensuite déjeuné",
+    "accepted_answers": [],
+    "lemma": "ensuite",
+    "meaning": "then had lunch",
+    "audio": "work/audio/fr-FR/02/fr-02-0216.mp3"
+  },
+  {
+    "id": "fr-02-0217",
+    "sentence": "Le train est arrivé et nous sommes ensuite montés.",
+    "cloze": "sommes ensuite montés",
+    "answer": "sommes ensuite montés",
+    "accepted_answers": [],
+    "lemma": "ensuite",
+    "meaning": "then got on",
+    "audio": "work/audio/fr-FR/02/fr-02-0217.mp3"
+  },
+  {
+    "id": "fr-02-0218",
+    "sentence": "J'ai essayé la veste et j'ai ensuite choisi le modèle bleu.",
+    "cloze": "ai ensuite choisi le modèle bleu",
+    "answer": "ai ensuite choisi le modèle bleu",
+    "accepted_answers": [],
+    "lemma": "ensuite",
+    "meaning": "then chose the blue one",
+    "audio": "work/audio/fr-FR/02/fr-02-0218.mp3"
+  },
+  {
+    "id": "fr-02-0219",
+    "sentence": "Nous avons pris un café, puis nous sommes partis pour la gare.",
+    "cloze": "puis nous sommes partis",
+    "answer": "puis nous sommes partis",
+    "accepted_answers": [],
+    "lemma": "puis",
+    "meaning": "then we left",
+    "audio": "work/audio/fr-FR/02/fr-02-0219.mp3"
+  },
+  {
+    "id": "fr-02-0220",
+    "sentence": "Il a ouvert la fenêtre, puis il a allumé la lumière.",
+    "cloze": "puis il a allumé",
+    "answer": "puis il a allumé",
+    "accepted_answers": [],
+    "lemma": "puis",
+    "meaning": "then he turned on",
+    "audio": "work/audio/fr-FR/02/fr-02-0220.mp3"
+  },
+  {
+    "id": "fr-02-0221",
+    "sentence": "J'ai écrit l'adresse, puis j'ai appelé un taxi.",
+    "cloze": "puis j'ai appelé un taxi",
+    "answer": "puis j'ai appelé un taxi",
+    "accepted_answers": [],
+    "lemma": "puis",
+    "meaning": "then I called a taxi",
+    "audio": "work/audio/fr-FR/02/fr-02-0221.mp3"
+  },
+  {
+    "id": "fr-02-0222",
+    "sentence": "Elles sont sorties du bureau, puis elles sont rentrées à pied.",
+    "cloze": "puis elles sont rentrées",
+    "answer": "puis elles sont rentrées",
+    "accepted_answers": [],
+    "lemma": "puis",
+    "meaning": "then they went home",
+    "audio": "work/audio/fr-FR/02/fr-02-0222.mp3"
+  },
+  {
+    "id": "fr-02-0223",
+    "sentence": "Après le déjeuner, j'ai téléphoné à mes parents.",
+    "cloze": "Après le déjeuner",
+    "answer": "Après le déjeuner",
+    "accepted_answers": [],
+    "lemma": "après",
+    "meaning": "after lunch",
+    "audio": "work/audio/fr-FR/02/fr-02-0223.mp3"
+  },
+  {
+    "id": "fr-02-0224",
+    "sentence": "Nous avons discuté après la réunion.",
+    "cloze": "après la réunion",
+    "answer": "après la réunion",
+    "accepted_answers": [],
+    "lemma": "après",
+    "meaning": "after the meeting",
+    "audio": "work/audio/fr-FR/02/fr-02-0224.mp3"
+  },
+  {
+    "id": "fr-02-0225",
+    "sentence": "Le train est parti après l'arrivée du bus.",
+    "cloze": "après l'arrivée du bus",
+    "answer": "après l'arrivée du bus",
+    "accepted_answers": [],
+    "lemma": "après",
+    "meaning": "after the bus arrived",
+    "audio": "work/audio/fr-FR/02/fr-02-0225.mp3"
+  },
+  {
+    "id": "fr-02-0226",
+    "sentence": "Vous avez réglé l'addition après le café.",
+    "cloze": "après le café",
+    "answer": "après le café",
+    "accepted_answers": [],
+    "lemma": "après",
+    "meaning": "after coffee",
+    "audio": "work/audio/fr-FR/02/fr-02-0226.mp3"
+  },
+  {
+    "id": "fr-02-0227",
+    "sentence": "J'ai vérifié l'adresse avant de partir.",
+    "cloze": "avant de partir",
+    "answer": "avant de partir",
+    "accepted_answers": [],
+    "lemma": "avant de + infinitif",
+    "meaning": "before leaving",
+    "audio": "work/audio/fr-FR/02/fr-02-0227.mp3"
+  },
+  {
+    "id": "fr-02-0228",
+    "sentence": "Nous avons réservé une table avant de venir.",
+    "cloze": "avant de venir",
+    "answer": "avant de venir",
+    "accepted_answers": [],
+    "lemma": "avant de + infinitif",
+    "meaning": "before coming",
+    "audio": "work/audio/fr-FR/02/fr-02-0228.mp3"
+  },
+  {
+    "id": "fr-02-0229",
+    "sentence": "Avant de prendre le train, elle a acheté deux bouteilles d'eau.",
+    "cloze": "Avant de prendre le train",
+    "answer": "Avant de prendre le train",
+    "accepted_answers": [],
+    "lemma": "avant de + infinitif",
+    "meaning": "before taking the train",
+    "audio": "work/audio/fr-FR/02/fr-02-0229.mp3"
+  },
+  {
+    "id": "fr-02-0230",
+    "sentence": "Vous devez valider le ticket avant de monter dans le bus.",
+    "cloze": "avant de monter dans le bus",
+    "answer": "avant de monter dans le bus",
+    "accepted_answers": [],
+    "lemma": "avant de + infinitif",
+    "meaning": "before getting on the bus",
+    "audio": "work/audio/fr-FR/02/fr-02-0230.mp3"
+  },
+  {
+    "id": "fr-02-0231",
+    "sentence": "Ils ont fait le point avant de commencer la réunion.",
+    "cloze": "avant de commencer la réunion",
+    "answer": "avant de commencer la réunion",
+    "accepted_answers": [],
+    "lemma": "avant de + infinitif",
+    "meaning": "before starting the meeting",
+    "audio": "work/audio/fr-FR/02/fr-02-0231.mp3"
+  },
+  {
+    "id": "fr-02-0232",
+    "sentence": "Nous avons attendu pendant vingt-cinq minutes.",
+    "cloze": "pendant vingt-cinq minutes",
+    "answer": "pendant vingt-cinq minutes",
+    "accepted_answers": [],
+    "lemma": "pendant",
+    "meaning": "for twenty-five minutes",
+    "audio": "work/audio/fr-FR/02/fr-02-0232.mp3"
+  },
+  {
+    "id": "fr-02-0233",
+    "sentence": "Elle a travaillé à l'accueil pendant trois ans.",
+    "cloze": "pendant trois ans",
+    "answer": "pendant trois ans",
+    "accepted_answers": [],
+    "lemma": "pendant",
+    "meaning": "for three years",
+    "audio": "work/audio/fr-FR/02/fr-02-0233.mp3"
+  },
+  {
+    "id": "fr-02-0234",
+    "sentence": "Pendant le trajet, j'ai lu le document.",
+    "cloze": "Pendant le trajet",
+    "answer": "Pendant le trajet",
+    "accepted_answers": [],
+    "lemma": "pendant",
+    "meaning": "during the journey",
+    "audio": "work/audio/fr-FR/02/fr-02-0234.mp3"
+  },
+  {
+    "id": "fr-02-0235",
+    "sentence": "Ils ont discuté pendant une heure.",
+    "cloze": "pendant une heure",
+    "answer": "pendant une heure",
+    "accepted_answers": [],
+    "lemma": "pendant",
+    "meaning": "for an hour",
+    "audio": "work/audio/fr-FR/02/fr-02-0235.mp3"
+  },
+  {
+    "id": "fr-02-0236",
+    "sentence": "J'habite à Rouen depuis trois ans.",
+    "cloze": "depuis trois ans",
+    "answer": "depuis trois ans",
+    "accepted_answers": [],
+    "lemma": "depuis",
+    "meaning": "for three years",
+    "audio": "work/audio/fr-FR/02/fr-02-0236.mp3"
+  },
+  {
+    "id": "fr-02-0237",
+    "sentence": "Elle travaille dans cette banque depuis septembre.",
+    "cloze": "depuis septembre",
+    "answer": "depuis septembre",
+    "accepted_answers": [],
+    "lemma": "depuis",
+    "meaning": "since September",
+    "audio": "work/audio/fr-FR/02/fr-02-0237.mp3"
+  },
+  {
+    "id": "fr-02-0238",
+    "sentence": "Nous attendons le bus depuis vingt minutes.",
+    "cloze": "depuis vingt minutes",
+    "answer": "depuis vingt minutes",
+    "accepted_answers": [],
+    "lemma": "depuis",
+    "meaning": "for twenty minutes",
+    "audio": "work/audio/fr-FR/02/fr-02-0238.mp3"
+  },
+  {
+    "id": "fr-02-0239",
+    "sentence": "J'ai reçu la confirmation il y a deux jours.",
+    "cloze": "il y a deux jours",
+    "answer": "il y a deux jours",
+    "accepted_answers": [],
+    "lemma": "il y a",
+    "meaning": "two days ago",
+    "audio": "work/audio/fr-FR/02/fr-02-0239.mp3"
+  },
+  {
+    "id": "fr-02-0240",
+    "sentence": "Nous sommes arrivés à Paris il y a une semaine.",
+    "cloze": "il y a une semaine",
+    "answer": "il y a une semaine",
+    "accepted_answers": [],
+    "lemma": "il y a",
+    "meaning": "a week ago",
+    "audio": "work/audio/fr-FR/02/fr-02-0240.mp3"
   }
 ]
