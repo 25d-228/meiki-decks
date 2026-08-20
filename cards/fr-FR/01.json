@@ -129,20 +129,20 @@
   },
   {
     "id": "fr-01-0013",
-    "sentence": "Je m'appelle Nora.",
-    "cloze": "Je m'appelle",
-    "answer": "Je m'appelle",
-    "lemma": "s'appeler",
+    "sentence": "Mon nom est Nora.",
+    "cloze": "Mon nom est",
+    "answer": "Mon nom est",
+    "lemma": "nom (le)",
     "meaning": "my name is",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/01/fr-01-0013.mp3"
   },
   {
     "id": "fr-01-0014",
-    "sentence": "Comment vous appelez-vous ?",
-    "cloze": "Comment vous appelez-vous",
-    "answer": "Comment vous appelez-vous",
-    "lemma": "s'appeler",
+    "sentence": "Quel est votre nom ?",
+    "cloze": "Quel est votre nom",
+    "answer": "Quel est votre nom",
+    "lemma": "nom (le)",
     "meaning": "what is your name",
     "accepted_answers": [],
     "register": "polite",
@@ -2157,7 +2157,7 @@
     "meaning": "are going to the cinema",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/01/fr-01-0202.mp3",
-    "register": "informal"
+    "register": "between close friends"
   },
   {
     "id": "fr-01-0203",
@@ -2271,7 +2271,7 @@
     "meaning": "are coming to the restaurant",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/01/fr-01-0213.mp3",
-    "register": "informal"
+    "register": "between close friends"
   },
   {
     "id": "fr-01-0214",
@@ -2396,7 +2396,7 @@
     "meaning": "can come",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/01/fr-01-0225.mp3",
-    "register": "informal"
+    "register": "between close friends"
   },
   {
     "id": "fr-01-0226",
@@ -2442,7 +2442,7 @@
   },
   {
     "id": "fr-01-0230",
-    "sentence": "Vous voulez de l'eau ? — Oui, je veux bien un verre d'eau, s'il vous plaît.",
+    "sentence": "— Vous voulez de l'eau ? — Oui, je veux bien un verre d'eau, s'il vous plaît.",
     "cloze": "veux bien un verre d'eau",
     "answer": "veux bien un verre d'eau",
     "lemma": "vouloir",
@@ -2523,7 +2523,7 @@
     "meaning": "need to put on a jacket",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/01/fr-01-0237.mp3",
-    "register": "informal"
+    "register": "adult speaking to a child"
   },
   {
     "id": "fr-01-0238",
@@ -2772,14 +2772,14 @@
   },
   {
     "id": "fr-01-0261",
-    "sentence": "Comment ça s'écrit, « Meaux » ?",
-    "cloze": "Comment ça s'écrit",
-    "answer": "Comment ça s'écrit",
-    "lemma": "s'écrire",
+    "sentence": "Comment est-ce qu'on écrit « Meaux » ?",
+    "cloze": "Comment est-ce qu'on écrit",
+    "answer": "Comment est-ce qu'on écrit",
+    "lemma": "écrire",
     "meaning": "How is that spelled?",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/01/fr-01-0261.mp3",
-    "note": "A fixed expression for asking about spelling."
+    "note": "A common question for asking about spelling."
   },
   {
     "id": "fr-01-0262",
@@ -3026,7 +3026,7 @@
     "meaning": "How old are you?",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/01/fr-01-0284.mp3",
-    "register": "informal"
+    "register": "between child classmates"
   },
   {
     "id": "fr-01-0285",
@@ -3041,7 +3041,7 @@
   },
   {
     "id": "fr-01-0286",
-    "sentence": "À l'accueil, on vous demande : « Quel est votre numéro de téléphone ? »",
+    "sentence": "À l'accueil, la secrétaire demande : « Quel est votre numéro de téléphone ? »",
     "cloze": "Quel est votre numéro de téléphone",
     "answer": "Quel est votre numéro de téléphone",
     "lemma": "le numéro de téléphone",
@@ -3080,7 +3080,7 @@
     "meaning": "telephone number 07 51 32 64 80",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/01/fr-01-0289.mp3",
-    "register": "informal"
+    "register": "between close friends"
   },
   {
     "id": "fr-01-0290",
@@ -3936,7 +3936,7 @@
     "lemma": "aimer",
     "meaning": "like goat cheese",
     "accepted_answers": [],
-    "register": "informal",
+    "register": "between partners",
     "note": "Tu is appropriate with a relative, friend, or other close contact.",
     "audio": "work/audio/fr-FR/01/fr-01-0372.mp3"
   },
@@ -4076,7 +4076,7 @@
     "meaning": "enough water",
     "accepted_answers": [],
     "grammar": "A quantity expression is followed by de.",
-    "register": "informal",
+    "register": "adult speaking to a child",
     "audio": "work/audio/fr-FR/01/fr-01-0385.mp3"
   },
   {
@@ -4199,7 +4199,7 @@
     "lemma": "le café",
     "meaning": "coffee or tea",
     "accepted_answers": [],
-    "register": "informal",
+    "register": "between close friends",
     "note": "Tu is appropriate with a relative, friend, or other close contact.",
     "audio": "work/audio/fr-FR/01/fr-01-0397.mp3"
   },
@@ -4236,7 +4236,7 @@
   },
   {
     "id": "fr-01-0401",
-    "sentence": "Serveur : Bonsoir, vous êtes combien ? Cliente : Nous sommes deux.",
+    "sentence": "— Bonsoir, vous êtes combien ? — Nous sommes deux.",
     "cloze": "Nous sommes deux",
     "answer": "Nous sommes deux",
     "lemma": "être",
@@ -4246,7 +4246,7 @@
   },
   {
     "id": "fr-01-0402",
-    "sentence": "Serveuse : Vous préférez une table en terrasse ou à l'intérieur ?",
+    "sentence": "— Vous préférez une table en terrasse ou à l'intérieur ?",
     "cloze": "en terrasse ou à l'intérieur",
     "answer": "en terrasse ou à l'intérieur",
     "lemma": "la terrasse; l'intérieur",
@@ -4256,7 +4256,7 @@
   },
   {
     "id": "fr-01-0403",
-    "sentence": "Client : Une table près de la fenêtre, s'il vous plaît.",
+    "sentence": "— Une table près de la fenêtre, s'il vous plaît.",
     "cloze": "près de la fenêtre",
     "answer": "près de la fenêtre",
     "lemma": "la fenêtre",
@@ -4266,7 +4266,7 @@
   },
   {
     "id": "fr-01-0404",
-    "sentence": "Cliente : Est-ce que cette table est libre ?",
+    "sentence": "— Est-ce que cette table est libre ?",
     "cloze": "cette table est libre",
     "answer": "cette table est libre",
     "lemma": "la table; libre",
@@ -4276,7 +4276,7 @@
   },
   {
     "id": "fr-01-0405",
-    "sentence": "Serveur : Voici le menu et la carte des boissons.",
+    "sentence": "— Voici le menu et la carte des boissons.",
     "cloze": "la carte des boissons",
     "answer": "la carte des boissons",
     "lemma": "la carte des boissons",
@@ -4286,7 +4286,7 @@
   },
   {
     "id": "fr-01-0406",
-    "sentence": "Client : Est-ce que le menu du jour est encore disponible ?",
+    "sentence": "— Est-ce que le menu du jour est encore disponible ?",
     "cloze": "le menu du jour",
     "answer": "le menu du jour",
     "lemma": "le menu du jour",
@@ -4296,7 +4296,7 @@
   },
   {
     "id": "fr-01-0407",
-    "sentence": "Cliente : Avez-vous un plat végétarien ?",
+    "sentence": "— Avez-vous un plat végétarien ?",
     "cloze": "un plat végétarien",
     "answer": "un plat végétarien",
     "lemma": "le plat végétarien",
@@ -4306,7 +4306,7 @@
   },
   {
     "id": "fr-01-0408",
-    "sentence": "Serveur : Oui, nous avons une omelette aux fines herbes.",
+    "sentence": "— Oui, nous avons une omelette aux fines herbes.",
     "cloze": "une omelette aux fines herbes",
     "answer": "une omelette aux fines herbes",
     "lemma": "l'omelette aux fines herbes",
@@ -4316,7 +4316,7 @@
   },
   {
     "id": "fr-01-0409",
-    "sentence": "Cliente : Je vais prendre l'entrée du jour, s'il vous plaît.",
+    "sentence": "— Je vais prendre l'entrée du jour, s'il vous plaît.",
     "cloze": "l'entrée du jour",
     "answer": "l'entrée du jour",
     "lemma": "l'entrée du jour",
@@ -4326,7 +4326,7 @@
   },
   {
     "id": "fr-01-0410",
-    "sentence": "Client : Comme plat principal, je prends le poulet rôti.",
+    "sentence": "— Comme plat principal, je prends le poulet rôti.",
     "cloze": "Comme plat principal",
     "answer": "Comme plat principal",
     "lemma": "le plat principal",
@@ -4336,7 +4336,7 @@
   },
   {
     "id": "fr-01-0411",
-    "sentence": "Cliente : Je prends le saumon grillé avec du riz.",
+    "sentence": "— Je prends le saumon grillé avec du riz.",
     "cloze": "le saumon grillé",
     "answer": "le saumon grillé",
     "lemma": "le saumon grillé",
@@ -4346,7 +4346,7 @@
   },
   {
     "id": "fr-01-0412",
-    "sentence": "Serveuse : Et comme dessert ? Client : Une tarte aux pommes, s'il vous plaît.",
+    "sentence": "— Et comme dessert ? — Une tarte aux pommes, s'il vous plaît.",
     "cloze": "Une tarte aux pommes",
     "answer": "Une tarte aux pommes",
     "lemma": "la tarte aux pommes",
@@ -4356,7 +4356,7 @@
   },
   {
     "id": "fr-01-0413",
-    "sentence": "Cliente : Une carafe d'eau, s'il vous plaît.",
+    "sentence": "— Une carafe d'eau, s'il vous plaît.",
     "cloze": "Une carafe d'eau",
     "answer": "Une carafe d'eau",
     "lemma": "la carafe d'eau",
@@ -4366,7 +4366,7 @@
   },
   {
     "id": "fr-01-0414",
-    "sentence": "Client : Nous prenons deux verres de vin rouge.",
+    "sentence": "— Nous prenons deux verres de vin rouge.",
     "cloze": "deux verres de vin rouge",
     "answer": "deux verres de vin rouge",
     "lemma": "le verre de vin rouge",
@@ -4376,7 +4376,7 @@
   },
   {
     "id": "fr-01-0415",
-    "sentence": "Cliente : Après le repas, je prends un café crème.",
+    "sentence": "— Après le repas, je prends un café crème.",
     "cloze": "un café crème",
     "answer": "un café crème",
     "lemma": "le café crème",
@@ -4386,7 +4386,7 @@
   },
   {
     "id": "fr-01-0416",
-    "sentence": "Client : Pour moi, un thé au citron, s'il vous plaît.",
+    "sentence": "— Pour moi, un thé au citron, s'il vous plaît.",
     "cloze": "un thé au citron",
     "answer": "un thé au citron",
     "lemma": "le thé au citron",
@@ -4396,7 +4396,7 @@
   },
   {
     "id": "fr-01-0417",
-    "sentence": "Cliente : Vous pouvez apporter un peu de pain, s'il vous plaît ?",
+    "sentence": "— Vous pouvez apporter un peu de pain, s'il vous plaît ?",
     "cloze": "un peu de pain",
     "answer": "un peu de pain",
     "lemma": "le pain",
@@ -4406,7 +4406,7 @@
   },
   {
     "id": "fr-01-0418",
-    "sentence": "Client : Je prends le steak bien cuit.",
+    "sentence": "— Je prends le steak bien cuit.",
     "cloze": "le steak bien cuit",
     "answer": "le steak bien cuit",
     "lemma": "le steak; bien cuit",
@@ -4416,7 +4416,7 @@
   },
   {
     "id": "fr-01-0419",
-    "sentence": "Cliente : Je prends le plat sans sauce, s'il vous plaît.",
+    "sentence": "— Je prends le plat sans sauce, s'il vous plaît.",
     "cloze": "sans sauce",
     "answer": "sans sauce",
     "lemma": "la sauce",
@@ -4426,7 +4426,7 @@
   },
   {
     "id": "fr-01-0420",
-    "sentence": "Client : Est-ce que je peux avoir des légumes à la place des frites ?",
+    "sentence": "— Est-ce que je peux avoir des légumes à la place des frites ?",
     "cloze": "des légumes à la place des frites",
     "answer": "des légumes à la place des frites",
     "lemma": "à la place de",
@@ -4436,7 +4436,7 @@
   },
   {
     "id": "fr-01-0421",
-    "sentence": "Serveuse : Vous choisissez le menu ou un plat à la carte ?",
+    "sentence": "— Vous choisissez le menu ou un plat à la carte ?",
     "cloze": "un plat à la carte",
     "answer": "un plat à la carte",
     "lemma": "le plat à la carte",
@@ -4446,7 +4446,7 @@
   },
   {
     "id": "fr-01-0422",
-    "sentence": "Serveuse : Donc, une salade et deux soupes, c'est bien ça ?",
+    "sentence": "— Donc, une salade et deux soupes, c'est bien ça ?",
     "cloze": "une salade et deux soupes",
     "answer": "une salade et deux soupes",
     "lemma": "la salade; la soupe",
@@ -4456,7 +4456,7 @@
   },
   {
     "id": "fr-01-0423",
-    "sentence": "Client : Non, je prends le poulet, pas le poisson.",
+    "sentence": "— Non, je prends le poulet, pas le poisson.",
     "cloze": "le poulet, pas le poisson",
     "answer": "le poulet, pas le poisson",
     "lemma": "le poulet; le poisson",
@@ -4466,7 +4466,7 @@
   },
   {
     "id": "fr-01-0424",
-    "sentence": "Cliente : Pardon, il manque une bouteille d'eau.",
+    "sentence": "— Pardon, il manque une bouteille d'eau.",
     "cloze": "il manque une bouteille d'eau",
     "answer": "il manque une bouteille d'eau",
     "lemma": "manquer",
@@ -4476,7 +4476,7 @@
   },
   {
     "id": "fr-01-0425",
-    "sentence": "Serveur : Vous avez bien trois cafés ?",
+    "sentence": "— Vous avez bien trois cafés ?",
     "cloze": "trois cafés",
     "answer": "trois cafés",
     "lemma": "le café",
@@ -4486,7 +4486,7 @@
   },
   {
     "id": "fr-01-0426",
-    "sentence": "Client : Pouvez-vous apporter encore de l'eau, s'il vous plaît ?",
+    "sentence": "— Pouvez-vous apporter encore de l'eau, s'il vous plaît ?",
     "cloze": "apporter encore de l'eau",
     "answer": "apporter encore de l'eau",
     "lemma": "apporter",
@@ -4496,7 +4496,7 @@
   },
   {
     "id": "fr-01-0427",
-    "sentence": "Cliente : L'addition, s'il vous plaît.",
+    "sentence": "— L'addition, s'il vous plaît.",
     "cloze": "L'addition, s'il vous plaît",
     "answer": "L'addition, s'il vous plaît",
     "lemma": "l'addition",
@@ -4506,7 +4506,7 @@
   },
   {
     "id": "fr-01-0428",
-    "sentence": "Client : Est-ce que les boissons sont bien sur l'addition ?",
+    "sentence": "— Est-ce que les boissons sont bien sur l'addition ?",
     "cloze": "sur l'addition",
     "answer": "sur l'addition",
     "lemma": "l'addition",
@@ -4516,7 +4516,7 @@
   },
   {
     "id": "fr-01-0429",
-    "sentence": "Cliente : Nous allons régler ensemble.",
+    "sentence": "— Nous allons régler ensemble.",
     "cloze": "régler ensemble",
     "answer": "régler ensemble",
     "lemma": "régler",
@@ -4526,7 +4526,7 @@
   },
   {
     "id": "fr-01-0430",
-    "sentence": "Client : Nous allons payer séparément.",
+    "sentence": "— Nous allons payer séparément.",
     "cloze": "payer séparément",
     "answer": "payer séparément",
     "lemma": "payer",
@@ -4536,7 +4536,7 @@
   },
   {
     "id": "fr-01-0431",
-    "sentence": "Cliente : Je paie par carte bancaire.",
+    "sentence": "— Je paie par carte bancaire.",
     "cloze": "par carte bancaire",
     "answer": "par carte bancaire",
     "lemma": "la carte bancaire",
@@ -4546,7 +4546,7 @@
   },
   {
     "id": "fr-01-0432",
-    "sentence": "Client : Je paie en espèces.",
+    "sentence": "— Je paie en espèces.",
     "cloze": "en espèces",
     "answer": "en espèces",
     "lemma": "les espèces",
@@ -4556,7 +4556,7 @@
   },
   {
     "id": "fr-01-0433",
-    "sentence": "Cliente : Un reçu, s'il vous plaît.",
+    "sentence": "— Un reçu, s'il vous plaît.",
     "cloze": "Un reçu, s'il vous plaît",
     "answer": "Un reçu, s'il vous plaît",
     "lemma": "le reçu",
@@ -4566,7 +4566,7 @@
   },
   {
     "id": "fr-01-0434",
-    "sentence": "Serveuse : Ce sandwich est à emporter ?",
+    "sentence": "— Ce sandwich est à emporter ?",
     "cloze": "à emporter",
     "answer": "à emporter",
     "lemma": "à emporter",
@@ -4576,7 +4576,7 @@
   },
   {
     "id": "fr-01-0435",
-    "sentence": "Client : Non, je mange sur place.",
+    "sentence": "— Non, je mange sur place.",
     "cloze": "sur place",
     "answer": "sur place",
     "lemma": "sur place",
@@ -4586,7 +4586,7 @@
   },
   {
     "id": "fr-01-0436",
-    "sentence": "Cliente : Je prends le café avec un peu de lait.",
+    "sentence": "— Je prends le café avec un peu de lait.",
     "cloze": "avec un peu de lait",
     "answer": "avec un peu de lait",
     "lemma": "le lait",
@@ -4596,7 +4596,7 @@
   },
   {
     "id": "fr-01-0437",
-    "sentence": "Client : Vous pouvez apporter une petite cuillère, s'il vous plaît ?",
+    "sentence": "— Vous pouvez apporter une petite cuillère, s'il vous plaît ?",
     "cloze": "une petite cuillère",
     "answer": "une petite cuillère",
     "lemma": "la petite cuillère",
@@ -4606,7 +4606,7 @@
   },
   {
     "id": "fr-01-0438",
-    "sentence": "Cliente : Est-ce que vous avez une serviette en papier ?",
+    "sentence": "— Est-ce que vous avez une serviette en papier ?",
     "cloze": "une serviette en papier",
     "answer": "une serviette en papier",
     "lemma": "la serviette en papier",
@@ -4616,7 +4616,7 @@
   },
   {
     "id": "fr-01-0439",
-    "sentence": "Client : Où sont les toilettes, s'il vous plaît ?",
+    "sentence": "— Où sont les toilettes, s'il vous plaît ?",
     "cloze": "les toilettes",
     "answer": "les toilettes",
     "lemma": "les toilettes",
@@ -4626,7 +4626,7 @@
   },
   {
     "id": "fr-01-0440",
-    "sentence": "Serveuse : Votre commande est prête au comptoir.",
+    "sentence": "— Votre commande est prête au comptoir.",
     "cloze": "prête au comptoir",
     "answer": "prête au comptoir",
     "lemma": "prêt, prête",
@@ -6196,7 +6196,7 @@
     "cloze": "va déjeuner dehors",
     "answer": "va déjeuner dehors",
     "lemma": "déjeuner",
-    "meaning": "is going to have lunch outside",
+    "meaning": "are going to have lunch outside",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/01/fr-01-0589.mp3",
     "grammar": "Near future with on."
@@ -6709,6 +6709,7 @@
     "lemma": "rester au café",
     "meaning": "stay at the café",
     "accepted_answers": [],
+    "register": "informal, between close friends",
     "audio": "work/audio/fr-FR/01/fr-01-0639.mp3"
   },
   {
@@ -6878,7 +6879,7 @@
   },
   {
     "id": "fr-01-0656",
-    "sentence": "Vous avez trouvé un portefeuille noir, monsieur ?",
+    "sentence": "Vous cherchez un portefeuille noir, monsieur ?",
     "cloze": "un portefeuille noir",
     "answer": "un portefeuille noir",
     "lemma": "portefeuille (m.)",
@@ -7354,9 +7355,9 @@
   },
   {
     "id": "fr-01-0700",
-    "sentence": "Si j'ai bien compris, le bureau ferme à dix-huit heures.",
-    "cloze": "Si j'ai bien compris",
-    "answer": "Si j'ai bien compris",
+    "sentence": "Si je comprends bien, le bureau ferme à dix-huit heures.",
+    "cloze": "Si je comprends bien",
+    "answer": "Si je comprends bien",
     "lemma": "comprendre",
     "meaning": "if I understood correctly",
     "accepted_answers": [],
@@ -7570,7 +7571,7 @@
   },
   {
     "id": "fr-01-0720",
-    "sentence": "— Cette table vous convient ? — Je préfère une autre table, si possible.",
+    "sentence": "— Vous préférez cette table ? — Je préfère une autre table, si possible.",
     "cloze": "une autre table, si possible",
     "answer": "une autre table, si possible",
     "lemma": "une table",
@@ -7603,11 +7604,11 @@
   },
   {
     "id": "fr-01-0723",
-    "sentence": "— Est-ce que le prix de quinze euros comprend aussi le dessert ? — Oui, le dessert est compris dans le menu.",
-    "cloze": "est compris dans le menu",
-    "answer": "est compris dans le menu",
-    "lemma": "être compris dans le menu",
-    "meaning": "is included in the set menu",
+    "sentence": "— Est-ce que le prix de quinze euros comprend aussi le dessert ? — Oui, le menu comprend le dessert.",
+    "cloze": "le menu comprend le dessert",
+    "answer": "le menu comprend le dessert",
+    "lemma": "comprendre",
+    "meaning": "the set menu includes dessert",
     "accepted_answers": [],
     "register": "polite service",
     "audio": "work/audio/fr-FR/01/fr-01-0723.mp3"
@@ -7724,11 +7725,11 @@
   },
   {
     "id": "fr-01-0734",
-    "sentence": "— Est-ce que je peux changer cet article ? — Oui, un échange est possible pendant quinze jours.",
-    "cloze": "un échange est possible",
-    "answer": "un échange est possible",
-    "lemma": "un échange",
-    "meaning": "an exchange is possible",
+    "sentence": "— Est-ce que vous avez encore ce modèle en taille 38 ? — Je vais vérifier le stock.",
+    "cloze": "vais vérifier le stock",
+    "answer": "vais vérifier le stock",
+    "lemma": "vérifier",
+    "meaning": "am going to check the stock",
     "accepted_answers": [],
     "register": "polite service",
     "audio": "work/audio/fr-FR/01/fr-01-0734.mp3"
@@ -7757,14 +7758,13 @@
   },
   {
     "id": "fr-01-0737",
-    "sentence": "— Quel train souhaitez-vous prendre pour Tours ? — Je voudrais le train de seize heures vingt.",
-    "cloze": "Je voudrais le train de seize heures vingt",
-    "answer": "Je voudrais le train de seize heures vingt",
-    "lemma": "vouloir",
-    "meaning": "I would like the 4:20 p.m. train",
+    "sentence": "— Quel train voulez-vous prendre pour Tours ? — Je prends le train de seize heures vingt.",
+    "cloze": "prends le train de seize heures vingt",
+    "answer": "prends le train de seize heures vingt",
+    "lemma": "prendre",
+    "meaning": "am taking the 4:20 p.m. train",
     "accepted_answers": [],
     "register": "polite service",
-    "note": "Je voudrais is a standard polite service request.",
     "audio": "work/audio/fr-FR/01/fr-01-0737.mp3"
   },
   {
@@ -7951,7 +7951,7 @@
     "lemma": "la fin d'après-midi",
     "meaning": "late Saturday afternoon",
     "accepted_answers": [],
-    "register": "informal",
+    "register": "between close friends",
     "audio": "work/audio/fr-FR/01/fr-01-0754.mp3"
   },
   {
@@ -7962,7 +7962,7 @@
     "lemma": "apporter",
     "meaning": "I can bring dessert",
     "accepted_answers": [],
-    "register": "informal",
+    "register": "between close friends",
     "audio": "work/audio/fr-FR/01/fr-01-0755.mp3"
   },
   {
@@ -7978,11 +7978,11 @@
   },
   {
     "id": "fr-01-0757",
-    "sentence": "— Désolée, la carte est refusée. — Dans ce cas, je vais payer en espèces.",
-    "cloze": "la carte est refusée",
-    "answer": "la carte est refusée",
+    "sentence": "— Désolée, le terminal refuse votre carte. — Dans ce cas, je vais payer en espèces.",
+    "cloze": "le terminal refuse votre carte",
+    "answer": "le terminal refuse votre carte",
     "lemma": "refuser",
-    "meaning": "the card has been declined",
+    "meaning": "the terminal is declining your card",
     "accepted_answers": [],
     "register": "polite service",
     "audio": "work/audio/fr-FR/01/fr-01-0757.mp3"
@@ -8116,23 +8116,25 @@
   },
   {
     "id": "fr-01-0770",
-    "sentence": "Je sais où est la gare.",
-    "cloze": "sais où est la gare",
-    "answer": "sais où est la gare",
-    "lemma": "savoir",
-    "meaning": "know where the station is",
+    "sentence": "Sur la photo, ce sont mes collègues de Lyon.",
+    "cloze": "ce sont mes collègues de Lyon",
+    "answer": "ce sont mes collègues de Lyon",
+    "lemma": "ce sont",
+    "meaning": "they are my colleagues from Lyon",
     "accepted_answers": [],
+    "grammar": "Use ce sont before a plural noun phrase when identifying people or things.",
     "audio": "work/audio/fr-FR/01/fr-01-0770.mp3"
   },
   {
     "id": "fr-01-0771",
-    "sentence": "Excusez-moi, vous savez si le musée est ouvert aujourd'hui ?",
-    "cloze": "savez si le musée est ouvert",
-    "answer": "savez si le musée est ouvert",
-    "lemma": "savoir",
-    "meaning": "know whether the museum is open",
+    "sentence": "Pour le contact, mon adresse électronique est bonjour arobase exemple point fr.",
+    "cloze": "bonjour arobase exemple point fr",
+    "answer": "bonjour arobase exemple point fr",
+    "lemma": "une adresse électronique",
+    "meaning": "bonjour@example.fr",
     "accepted_answers": [],
-    "register": "polite",
+    "register": "polite contact-information exchange",
+    "note": "In a spoken email address, arobase names the @ sign and point names the dot.",
     "audio": "work/audio/fr-FR/01/fr-01-0771.mp3"
   },
   {
@@ -8229,14 +8231,14 @@
   },
   {
     "id": "fr-01-0781",
-    "sentence": "Tu viens ce soir ? — Désolée, je peux pas.",
+    "sentence": "— Tu viens ce soir ? — Désolée, je peux pas.",
     "cloze": "je peux pas",
     "answer": "je peux pas",
     "lemma": "pouvoir",
     "meaning": "I can't",
     "accepted_answers": [],
     "grammar": "In ordinary informal speech, ne is often omitted.",
-    "register": "informal spoken",
+    "register": "informal spoken; between close friends",
     "audio": "work/audio/fr-FR/01/fr-01-0781.mp3"
   },
   {
@@ -8397,13 +8399,12 @@
   },
   {
     "id": "fr-01-0797",
-    "sentence": "Bonjour, je voudrais modifier ma réservation.",
-    "cloze": "voudrais modifier ma réservation",
-    "answer": "voudrais modifier ma réservation",
-    "lemma": "vouloir",
-    "meaning": "would like to change my reservation",
+    "sentence": "Bonjour, je dois changer ma réservation.",
+    "cloze": "dois changer ma réservation",
+    "answer": "dois changer ma réservation",
+    "lemma": "devoir changer",
+    "meaning": "need to change my reservation",
     "accepted_answers": [],
-    "note": "Je voudrais is a standard polite service expression.",
     "register": "polite",
     "audio": "work/audio/fr-FR/01/fr-01-0797.mp3"
   },
