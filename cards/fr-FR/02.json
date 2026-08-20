@@ -1254,5 +1254,412 @@
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0120.mp3",
     "grammar": "Passé composé with être; feminine plural agreement."
+  },
+  {
+    "id": "fr-02-0121",
+    "sentence": "En 2020, j'avais vingt ans.",
+    "cloze": "avais vingt ans",
+    "answer": "avais vingt ans",
+    "lemma": "avoir",
+    "meaning": "was twenty years old",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0121.mp3",
+    "grammar": "imparfait for past age"
+  },
+  {
+    "id": "fr-02-0122",
+    "sentence": "À ton arrivée à Lyon, tu avais quel âge ?",
+    "cloze": "avais quel âge",
+    "answer": "avais quel âge",
+    "lemma": "avoir",
+    "meaning": "how old were you",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0122.mp3",
+    "register": "informal, familiar relationship"
+  },
+  {
+    "id": "fr-02-0123",
+    "sentence": "Au début de l'année, leur fille avait quatre ans.",
+    "cloze": "avait quatre ans",
+    "answer": "avait quatre ans",
+    "lemma": "avoir",
+    "meaning": "was four years old",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0123.mp3"
+  },
+  {
+    "id": "fr-02-0124",
+    "sentence": "En 2018, ma sœur jumelle et moi avions trente et un ans.",
+    "cloze": "avions trente et un ans",
+    "answer": "avions trente et un ans",
+    "lemma": "avoir",
+    "meaning": "were thirty-one years old",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0124.mp3"
+  },
+  {
+    "id": "fr-02-0125",
+    "sentence": "Au moment du départ, il était sept heures.",
+    "cloze": "était sept heures",
+    "answer": "était sept heures",
+    "lemma": "être",
+    "meaning": "was seven o'clock",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0125.mp3",
+    "grammar": "imparfait for past clock time"
+  },
+  {
+    "id": "fr-02-0126",
+    "sentence": "À notre arrivée à l'hôtel, il était presque minuit.",
+    "cloze": "était presque minuit",
+    "answer": "était presque minuit",
+    "lemma": "être",
+    "meaning": "was almost midnight",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0126.mp3"
+  },
+  {
+    "id": "fr-02-0127",
+    "sentence": "Pendant notre semaine en Bretagne, il faisait beau presque tous les jours.",
+    "cloze": "faisait beau",
+    "answer": "faisait beau",
+    "lemma": "faire",
+    "meaning": "the weather was nice",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0127.mp3"
+  },
+  {
+    "id": "fr-02-0128",
+    "sentence": "Pendant notre trajet vers Annecy, il pleuvait et la route était glissante.",
+    "cloze": "pleuvait",
+    "answer": "pleuvait",
+    "lemma": "pleuvoir",
+    "meaning": "was raining",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0128.mp3"
+  },
+  {
+    "id": "fr-02-0129",
+    "sentence": "Au bord de la mer, il y avait beaucoup de vent.",
+    "cloze": "y avait beaucoup de vent",
+    "answer": "y avait beaucoup de vent",
+    "lemma": "il y avoir",
+    "meaning": "was very windy",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0129.mp3",
+    "grammar": "imparfait of il y a"
+  },
+  {
+    "id": "fr-02-0130",
+    "sentence": "Avant l'orage, le ciel était presque noir.",
+    "cloze": "était presque noir",
+    "answer": "était presque noir",
+    "lemma": "être",
+    "meaning": "was almost black",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0130.mp3"
+  },
+  {
+    "id": "fr-02-0131",
+    "sentence": "Pendant notre séjour à Strasbourg, il faisait très froid.",
+    "cloze": "faisait très froid",
+    "answer": "faisait très froid",
+    "lemma": "faire",
+    "meaning": "was very cold",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0131.mp3"
+  },
+  {
+    "id": "fr-02-0132",
+    "sentence": "En janvier, il neigeait souvent dans ce village.",
+    "cloze": "neigeait souvent",
+    "answer": "neigeait souvent",
+    "lemma": "neiger",
+    "meaning": "often snowed",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0132.mp3"
+  },
+  {
+    "id": "fr-02-0133",
+    "sentence": "La route était difficile à voir parce qu'il y avait du brouillard.",
+    "cloze": "y avait du brouillard",
+    "answer": "y avait du brouillard",
+    "lemma": "il y avoir",
+    "meaning": "there was fog",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0133.mp3"
+  },
+  {
+    "id": "fr-02-0134",
+    "sentence": "Après la réunion, j'étais fatiguée.",
+    "cloze": "étais",
+    "answer": "étais",
+    "lemma": "être",
+    "meaning": "was",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0134.mp3"
+  },
+  {
+    "id": "fr-02-0135",
+    "sentence": "Avant le déjeuner, j'avais très faim.",
+    "cloze": "avais très faim",
+    "answer": "avais très faim",
+    "lemma": "avoir faim",
+    "meaning": "was very hungry",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0135.mp3"
+  },
+  {
+    "id": "fr-02-0136",
+    "sentence": "Après deux heures de marche, elle avait soif.",
+    "cloze": "avait soif",
+    "answer": "avait soif",
+    "lemma": "avoir soif",
+    "meaning": "was thirsty",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0136.mp3"
+  },
+  {
+    "id": "fr-02-0137",
+    "sentence": "Sur le quai, sans nos manteaux, nous avions froid.",
+    "cloze": "avions froid",
+    "answer": "avions froid",
+    "lemma": "avoir froid",
+    "meaning": "were cold",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0137.mp3"
+  },
+  {
+    "id": "fr-02-0138",
+    "sentence": "Dans le train, vous aviez chaud avec cette veste ?",
+    "cloze": "aviez chaud",
+    "answer": "aviez chaud",
+    "lemma": "avoir chaud",
+    "meaning": "were you hot",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0138.mp3",
+    "register": "neutral or polite"
+  },
+  {
+    "id": "fr-02-0139",
+    "sentence": "Pendant la réunion, il avait mal à la tête.",
+    "cloze": "avait mal à la tête",
+    "answer": "avait mal à la tête",
+    "lemma": "avoir mal à la tête",
+    "meaning": "had a headache",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0139.mp3"
+  },
+  {
+    "id": "fr-02-0140",
+    "sentence": "Malgré ma fatigue, je n'étais pas malade.",
+    "cloze": "n'étais pas malade",
+    "answer": "n'étais pas malade",
+    "lemma": "être",
+    "meaning": "was not ill",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0140.mp3"
+  },
+  {
+    "id": "fr-02-0141",
+    "sentence": "Pendant l'attente, elle était inquiète pour sa fille.",
+    "cloze": "était inquiète",
+    "answer": "était inquiète",
+    "lemma": "être",
+    "meaning": "was worried",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0141.mp3"
+  },
+  {
+    "id": "fr-02-0142",
+    "sentence": "À la fin de la visite, mes frères étaient contents de l'appartement.",
+    "cloze": "étaient contents",
+    "answer": "étaient contents",
+    "lemma": "être",
+    "meaning": "were pleased",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0142.mp3"
+  },
+  {
+    "id": "fr-02-0143",
+    "sentence": "Dans le brouillard, les enfants avaient peur.",
+    "cloze": "avaient peur",
+    "answer": "avaient peur",
+    "lemma": "avoir peur",
+    "meaning": "were afraid",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0143.mp3"
+  },
+  {
+    "id": "fr-02-0144",
+    "sentence": "Notre premier appartement était petit, mais très lumineux.",
+    "cloze": "était petit",
+    "answer": "était petit",
+    "lemma": "être",
+    "meaning": "was small",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0144.mp3"
+  },
+  {
+    "id": "fr-02-0145",
+    "sentence": "Le soir, la rue derrière l'hôtel était très calme.",
+    "cloze": "était très calme",
+    "answer": "était très calme",
+    "lemma": "être",
+    "meaning": "was very quiet",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0145.mp3"
+  },
+  {
+    "id": "fr-02-0146",
+    "sentence": "Dans le salon, on avait une belle vue sur la cour.",
+    "cloze": "avait une belle vue sur la cour",
+    "answer": "avait une belle vue sur la cour",
+    "lemma": "avoir",
+    "meaning": "had a beautiful view of the courtyard",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0146.mp3"
+  },
+  {
+    "id": "fr-02-0147",
+    "sentence": "La laverie était au fond du camping, près des sanitaires.",
+    "cloze": "était au fond",
+    "answer": "était au fond",
+    "lemma": "être",
+    "meaning": "was at the end",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0147.mp3"
+  },
+  {
+    "id": "fr-02-0148",
+    "sentence": "La fenêtre de la cuisine donnait sur la cour.",
+    "cloze": "donnait sur la cour",
+    "answer": "donnait sur la cour",
+    "lemma": "donner sur",
+    "meaning": "looked onto the courtyard",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0148.mp3"
+  },
+  {
+    "id": "fr-02-0149",
+    "sentence": "Notre hôtel était près de la gare, à un endroit très pratique.",
+    "cloze": "était près de la gare",
+    "answer": "était près de la gare",
+    "lemma": "être",
+    "meaning": "was near the station",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0149.mp3"
+  },
+  {
+    "id": "fr-02-0150",
+    "sentence": "Dans le salon, les fenêtres étaient grandes.",
+    "cloze": "étaient grandes",
+    "answer": "étaient grandes",
+    "lemma": "être",
+    "meaning": "were large",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0150.mp3"
+  },
+  {
+    "id": "fr-02-0151",
+    "sentence": "Même l'après-midi, la chambre était sombre.",
+    "cloze": "était sombre",
+    "answer": "était sombre",
+    "lemma": "être",
+    "meaning": "was dark",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0151.mp3"
+  },
+  {
+    "id": "fr-02-0152",
+    "sentence": "Dans cet immeuble, il n'y avait pas d'ascenseur.",
+    "cloze": "n'y avait pas d'ascenseur",
+    "answer": "n'y avait pas d'ascenseur",
+    "lemma": "il y avoir",
+    "meaning": "there was no lift",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0152.mp3",
+    "grammar": "negative imparfait of il y a"
+  },
+  {
+    "id": "fr-02-0153",
+    "sentence": "En septembre, la chambre d'amis était encore disponible.",
+    "cloze": "était encore disponible",
+    "answer": "était encore disponible",
+    "lemma": "être",
+    "meaning": "was still available",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0153.mp3"
+  },
+  {
+    "id": "fr-02-0154",
+    "sentence": "À midi, j'étais en réunion avec la directrice.",
+    "cloze": "étais en réunion",
+    "answer": "étais en réunion",
+    "lemma": "être",
+    "meaning": "was in a meeting",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0154.mp3"
+  },
+  {
+    "id": "fr-02-0155",
+    "sentence": "En 2020, elle travaillait à l'hôpital de Lille.",
+    "cloze": "travaillait à l'hôpital",
+    "answer": "travaillait à l'hôpital",
+    "lemma": "travailler",
+    "meaning": "worked at the hospital",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0155.mp3"
+  },
+  {
+    "id": "fr-02-0156",
+    "sentence": "Avant notre départ, nous habitions près de l'université.",
+    "cloze": "habitions près de l'université",
+    "answer": "habitions près de l'université",
+    "lemma": "habiter",
+    "meaning": "lived near the university",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0156.mp3"
+  },
+  {
+    "id": "fr-02-0157",
+    "sentence": "Ce jour-là, mes parents étaient chez nous pour le déjeuner.",
+    "cloze": "étaient chez nous",
+    "answer": "étaient chez nous",
+    "lemma": "être",
+    "meaning": "were at our place",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0157.mp3"
+  },
+  {
+    "id": "fr-02-0158",
+    "sentence": "Avant la réunion, j'avais besoin d'aide pour le document.",
+    "cloze": "avais besoin d'aide",
+    "answer": "avais besoin d'aide",
+    "lemma": "avoir besoin de",
+    "meaning": "needed help",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0158.mp3"
+  },
+  {
+    "id": "fr-02-0159",
+    "sentence": "À la gare, il n'y avait plus de billets pour Lyon.",
+    "cloze": "n'y avait plus de billets",
+    "answer": "n'y avait plus de billets",
+    "lemma": "il y avoir",
+    "meaning": "there were no tickets left",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0159.mp3"
+  },
+  {
+    "id": "fr-02-0160",
+    "sentence": "Ce matin-là, vous étiez en retard au rendez-vous.",
+    "cloze": "étiez en retard",
+    "answer": "étiez en retard",
+    "lemma": "être",
+    "meaning": "were late",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0160.mp3",
+    "register": "neutral or professional"
   }
 ]
