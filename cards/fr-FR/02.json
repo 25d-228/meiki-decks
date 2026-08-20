@@ -9792,5 +9792,405 @@
     "meaning": "we arrived in front of the hotel",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0960.mp3"
+  },
+  {
+    "id": "fr-02-0961",
+    "sentence": "Je marchais vers la gare quand le téléphone a sonné.",
+    "cloze": "le téléphone a sonné",
+    "answer": "le téléphone a sonné",
+    "lemma": "sonner",
+    "meaning": "the phone rang",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0961.mp3"
+  },
+  {
+    "id": "fr-02-0962",
+    "sentence": "Il pleuvait encore quand nous avons trouvé un taxi.",
+    "cloze": "nous avons trouvé un taxi",
+    "answer": "nous avons trouvé un taxi",
+    "lemma": "trouver",
+    "meaning": "we found a taxi",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0962.mp3"
+  },
+  {
+    "id": "fr-02-0963",
+    "sentence": "Quand j'étais enfant, je passais chaque été chez mes grands-parents.",
+    "cloze": "je passais chaque été",
+    "answer": "je passais chaque été",
+    "lemma": "passer",
+    "meaning": "I used to spend every summer",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0963.mp3"
+  },
+  {
+    "id": "fr-02-0964",
+    "sentence": "Nous venons de rater le bus, alors nous allons prendre le métro.",
+    "cloze": "Nous venons de rater le bus",
+    "answer": "Nous venons de rater le bus",
+    "lemma": "venir de rater",
+    "meaning": "we have just missed the bus",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0964.mp3"
+  },
+  {
+    "id": "fr-02-0965",
+    "sentence": "D'abord, j'ai appelé le cabinet, puis j'ai demandé un autre créneau.",
+    "cloze": "puis j'ai demandé un autre créneau",
+    "answer": "puis j'ai demandé un autre créneau",
+    "lemma": "demander",
+    "meaning": "then I asked for another time slot",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0965.mp3"
+  },
+  {
+    "id": "fr-02-0966",
+    "sentence": "Le client attend votre réponse ; merci de lui répondre aujourd'hui.",
+    "cloze": "merci de lui répondre aujourd'hui",
+    "answer": "merci de lui répondre aujourd'hui",
+    "lemma": "répondre à quelqu'un",
+    "meaning": "please reply to him today",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0966.mp3"
+  },
+  {
+    "id": "fr-02-0967",
+    "sentence": "Les collègues n'ont pas le programme ; veuillez leur envoyer une copie.",
+    "cloze": "veuillez leur envoyer une copie",
+    "answer": "veuillez leur envoyer une copie",
+    "lemma": "envoyer",
+    "meaning": "please send them a copy",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0967.mp3"
+  },
+  {
+    "id": "fr-02-0968",
+    "sentence": "Ces guides existent en français ; j'en prendrai deux pour mes parents.",
+    "cloze": "j'en prendrai deux",
+    "answer": "j'en prendrai deux",
+    "lemma": "prendre",
+    "meaning": "I will take two of them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0968.mp3"
+  },
+  {
+    "id": "fr-02-0969",
+    "sentence": "La salle est au troisième étage, mais je n'y suis jamais allée.",
+    "cloze": "je n'y suis jamais allée",
+    "answer": "je n'y suis jamais allée",
+    "lemma": "aller",
+    "meaning": "I have never been there",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0969.mp3"
+  },
+  {
+    "id": "fr-02-0970",
+    "sentence": "Cette veste est trop large, donc je vais la rapporter demain.",
+    "cloze": "je vais la rapporter demain",
+    "answer": "je vais la rapporter demain",
+    "lemma": "rapporter",
+    "meaning": "I am going to return it tomorrow",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0970.mp3"
+  },
+  {
+    "id": "fr-02-0971",
+    "sentence": "Le client attend, mais je ne peux pas lui répondre avant la réunion.",
+    "cloze": "je ne peux pas lui répondre",
+    "answer": "je ne peux pas lui répondre",
+    "lemma": "répondre à quelqu'un",
+    "meaning": "I cannot reply to him",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0971.mp3"
+  },
+  {
+    "id": "fr-02-0972",
+    "sentence": "Avec Paul, nous nous sommes aidés à ranger la salle après la formation.",
+    "cloze": "nous nous sommes aidés",
+    "answer": "nous nous sommes aidés",
+    "lemma": "s'aider",
+    "meaning": "we helped each other",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0972.mp3"
+  },
+  {
+    "id": "fr-02-0973",
+    "sentence": "Ces formulaires sont gratuits ; prenez-en un à l'accueil.",
+    "cloze": "prenez-en un à l'accueil",
+    "answer": "prenez-en un à l'accueil",
+    "lemma": "prendre",
+    "meaning": "take one at reception",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0973.mp3"
+  },
+  {
+    "id": "fr-02-0974",
+    "sentence": "Pourriez-vous baisser un peu le chauffage, s'il vous plaît ?",
+    "cloze": "Pourriez-vous baisser un peu le chauffage",
+    "answer": "Pourriez-vous baisser un peu le chauffage",
+    "lemma": "baisser",
+    "meaning": "could you turn the heating down a little",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0974.mp3"
+  },
+  {
+    "id": "fr-02-0975",
+    "sentence": "Dans le couloir, merci de laisser le passage libre.",
+    "cloze": "merci de laisser le passage libre",
+    "answer": "merci de laisser le passage libre",
+    "lemma": "laisser le passage libre",
+    "meaning": "please keep the passage clear",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0975.mp3"
+  },
+  {
+    "id": "fr-02-0976",
+    "sentence": "Est-ce que je peux prendre une photo ici ?",
+    "cloze": "prendre une photo ici",
+    "answer": "prendre une photo ici",
+    "lemma": "prendre une photo",
+    "meaning": "take a photo here",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0976.mp3"
+  },
+  {
+    "id": "fr-02-0977",
+    "sentence": "Avant votre départ, vous devrez rendre les clés à la réception.",
+    "cloze": "vous devrez rendre les clés",
+    "answer": "vous devrez rendre les clés",
+    "lemma": "devoir rendre",
+    "meaning": "you will have to return the keys",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0977.mp3"
+  },
+  {
+    "id": "fr-02-0978",
+    "sentence": "Pendant les travaux, il ne faut pas ouvrir cette fenêtre.",
+    "cloze": "il ne faut pas ouvrir",
+    "answer": "il ne faut pas ouvrir",
+    "lemma": "falloir",
+    "meaning": "it must not be opened",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0978.mp3"
+  },
+  {
+    "id": "fr-02-0979",
+    "sentence": "L'équipe se réunira demain à seize heures dans la petite salle.",
+    "cloze": "se réunira demain à seize heures",
+    "answer": "se réunira demain à seize heures",
+    "lemma": "se réunir",
+    "meaning": "will meet tomorrow at 4 p.m.",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0979.mp3"
+  },
+  {
+    "id": "fr-02-0980",
+    "sentence": "Après les travaux, le musée rouvrira ses portes au public samedi.",
+    "cloze": "rouvrira ses portes au public",
+    "answer": "rouvrira ses portes au public",
+    "lemma": "rouvrir",
+    "meaning": "will reopen to the public",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0980.mp3"
+  },
+  {
+    "id": "fr-02-0981",
+    "sentence": "Si l'horaire change, je vous préviendrai dès que possible.",
+    "cloze": "je vous préviendrai",
+    "answer": "je vous préviendrai",
+    "lemma": "prévenir",
+    "meaning": "I will let you know",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0981.mp3"
+  },
+  {
+    "id": "fr-02-0982",
+    "sentence": "Si le train est supprimé, nous prendrons le bus.",
+    "cloze": "nous prendrons le bus",
+    "answer": "nous prendrons le bus",
+    "lemma": "prendre",
+    "meaning": "we will take the bus",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0982.mp3"
+  },
+  {
+    "id": "fr-02-0983",
+    "sentence": "Il nous reste du riz, mais nous n'avons plus de farine.",
+    "cloze": "nous n'avons plus de farine",
+    "answer": "nous n'avons plus de farine",
+    "lemma": "la farine",
+    "meaning": "we have no flour left",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0983.mp3"
+  },
+  {
+    "id": "fr-02-0984",
+    "sentence": "À mon avis, cette chambre est plus confortable que la première.",
+    "cloze": "plus confortable que la première",
+    "answer": "plus confortable que la première",
+    "lemma": "confortable",
+    "meaning": "more comfortable than the first one",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0984.mp3"
+  },
+  {
+    "id": "fr-02-0985",
+    "sentence": "Ce train a moins de retard que le précédent.",
+    "cloze": "moins de retard que le précédent",
+    "answer": "moins de retard que le précédent",
+    "lemma": "moins de ... que",
+    "meaning": "less delay than the previous one",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0985.mp3"
+  },
+  {
+    "id": "fr-02-0986",
+    "sentence": "De toutes ces vestes, les bleues sont les moins chères.",
+    "cloze": "les moins chères",
+    "answer": "les moins chères",
+    "lemma": "le moins cher",
+    "meaning": "the least expensive ones",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0986.mp3"
+  },
+  {
+    "id": "fr-02-0987",
+    "sentence": "C'est la collègue qui a remplacé Paul pendant la formation.",
+    "cloze": "qui a remplacé Paul pendant la formation",
+    "answer": "qui a remplacé Paul pendant la formation",
+    "lemma": "remplacer",
+    "meaning": "who replaced Paul during the training course",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0987.mp3"
+  },
+  {
+    "id": "fr-02-0988",
+    "sentence": "Voici le message que j'ai reçu ce matin.",
+    "cloze": "que j'ai reçu ce matin",
+    "answer": "que j'ai reçu ce matin",
+    "lemma": "recevoir",
+    "meaning": "that I received this morning",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0988.mp3"
+  },
+  {
+    "id": "fr-02-0989",
+    "sentence": "Le vendredi, c'est le jour où je travaille de chez moi.",
+    "cloze": "où je travaille de chez moi",
+    "answer": "où je travaille de chez moi",
+    "lemma": "où",
+    "meaning": "when I work from home",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0989.mp3"
+  },
+  {
+    "id": "fr-02-0990",
+    "sentence": "Comme il pleuvait, nous avons pris le bus.",
+    "cloze": "Comme il pleuvait",
+    "answer": "Comme il pleuvait",
+    "lemma": "comme",
+    "meaning": "since it was raining",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0990.mp3"
+  },
+  {
+    "id": "fr-02-0991",
+    "sentence": "Il faisait froid, pourtant nous avons déjeuné en terrasse.",
+    "cloze": "pourtant nous avons déjeuné en terrasse",
+    "answer": "pourtant nous avons déjeuné en terrasse",
+    "lemma": "pourtant",
+    "meaning": "yet we had lunch outside",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0991.mp3"
+  },
+  {
+    "id": "fr-02-0992",
+    "sentence": "Merci de confirmer votre réservation avant midi ; sinon nous ne pourrons pas la garder.",
+    "cloze": "sinon nous ne pourrons pas la garder",
+    "answer": "sinon nous ne pourrons pas la garder",
+    "lemma": "sinon",
+    "meaning": "otherwise we will not be able to keep it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0992.mp3"
+  },
+  {
+    "id": "fr-02-0993",
+    "sentence": "Pardon, je me suis mal exprimée : la réunion est jeudi, pas mardi.",
+    "cloze": "je me suis mal exprimée",
+    "answer": "je me suis mal exprimée",
+    "lemma": "mal s'exprimer",
+    "meaning": "I expressed myself poorly",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0993.mp3"
+  },
+  {
+    "id": "fr-02-0994",
+    "sentence": "Le dernier mot m'a échappé ; pouvez-vous répéter la phrase plus lentement ?",
+    "cloze": "pouvez-vous répéter la phrase plus lentement",
+    "answer": "pouvez-vous répéter la phrase plus lentement",
+    "lemma": "répéter",
+    "meaning": "could you repeat the sentence more slowly",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0994.mp3"
+  },
+  {
+    "id": "fr-02-0995",
+    "sentence": "Juste pour confirmer : vous arriverez vendredi vers dix heures ?",
+    "cloze": "Juste pour confirmer",
+    "answer": "Juste pour confirmer",
+    "lemma": "confirmer",
+    "meaning": "just to confirm",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0995.mp3"
+  },
+  {
+    "id": "fr-02-0996",
+    "sentence": "Désolée, je vous ai donné l'ancienne adresse ; voici la bonne.",
+    "cloze": "je vous ai donné l'ancienne adresse",
+    "answer": "je vous ai donné l'ancienne adresse",
+    "lemma": "donner",
+    "meaning": "I gave you the old address",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0996.mp3"
+  },
+  {
+    "id": "fr-02-0997",
+    "sentence": "Ce chargeur ne fonctionne pas, alors je voudrais être remboursée.",
+    "cloze": "je voudrais être remboursée",
+    "answer": "je voudrais être remboursée",
+    "lemma": "être remboursé",
+    "meaning": "I would like a refund",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0997.mp3"
+  },
+  {
+    "id": "fr-02-0998",
+    "sentence": "Je me suis coupé le doigt pendant que je cuisinais.",
+    "cloze": "Je me suis coupé le doigt",
+    "answer": "Je me suis coupé le doigt",
+    "lemma": "se couper",
+    "meaning": "I cut my finger",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0998.mp3"
+  },
+  {
+    "id": "fr-02-0999",
+    "sentence": "Prévenez-moi quand le dossier sera prêt.",
+    "cloze": "quand le dossier sera prêt",
+    "answer": "quand le dossier sera prêt",
+    "lemma": "être prêt",
+    "meaning": "when the file is ready",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0999.mp3"
+  },
+  {
+    "id": "fr-02-1000",
+    "sentence": "Nous avons eu un problème à l'arrivée, mais la réceptionniste nous a proposé une autre chambre.",
+    "cloze": "nous a proposé une autre chambre",
+    "answer": "nous a proposé une autre chambre",
+    "lemma": "proposer à quelqu'un",
+    "meaning": "offered us another room",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-1000.mp3"
   }
 ]
