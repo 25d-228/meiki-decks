@@ -8177,5 +8177,405 @@
     "meaning": "since the beginning of the month",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0800.mp3"
+  },
+  {
+    "id": "fr-02-0801",
+    "sentence": "Pour notre week-end, je voudrais réserver une chambre double avec petit déjeuner.",
+    "cloze": "une chambre double avec petit déjeuner",
+    "answer": "une chambre double avec petit déjeuner",
+    "lemma": "une chambre double",
+    "meaning": "a double room with breakfast",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0801.mp3"
+  },
+  {
+    "id": "fr-02-0802",
+    "sentence": "Pourriez-vous vérifier que ma réservation comprend bien le petit déjeuner ?",
+    "cloze": "comprend bien le petit déjeuner",
+    "answer": "comprend bien le petit déjeuner",
+    "lemma": "comprendre",
+    "meaning": "does include breakfast",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0802.mp3"
+  },
+  {
+    "id": "fr-02-0803",
+    "sentence": "Nous arriverons à l'hôtel vers vingt et une heures trente.",
+    "cloze": "arriverons à l'hôtel",
+    "answer": "arriverons à l'hôtel",
+    "lemma": "arriver",
+    "meaning": "will arrive at the hotel",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0803.mp3"
+  },
+  {
+    "id": "fr-02-0804",
+    "sentence": "En cas d'arrivée tardive, vous devez prévenir la réception avant vingt heures.",
+    "cloze": "prévenir la réception avant vingt heures",
+    "answer": "prévenir la réception avant vingt heures",
+    "lemma": "prévenir",
+    "meaning": "notify reception before 8 p.m.",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0804.mp3"
+  },
+  {
+    "id": "fr-02-0805",
+    "sentence": "J'ai réservé trois nuits, mais je voudrais en garder seulement deux.",
+    "cloze": "je voudrais en garder seulement deux",
+    "answer": "je voudrais en garder seulement deux",
+    "lemma": "garder",
+    "meaning": "I would like to keep only two of them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0805.mp3"
+  },
+  {
+    "id": "fr-02-0806",
+    "sentence": "Nous préférons une chambre avec deux lits séparés.",
+    "cloze": "une chambre avec deux lits séparés",
+    "answer": "une chambre avec deux lits séparés",
+    "lemma": "un lit séparé",
+    "meaning": "a room with two separate beds",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0806.mp3"
+  },
+  {
+    "id": "fr-02-0807",
+    "sentence": "Il ne reste qu'une chambre libre pour ce soir.",
+    "cloze": "ne reste qu'une chambre libre",
+    "answer": "ne reste qu'une chambre libre",
+    "lemma": "rester",
+    "meaning": "only one room is left",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0807.mp3"
+  },
+  {
+    "id": "fr-02-0808",
+    "sentence": "Vous pouvez annuler la réservation jusqu'à dix-huit heures.",
+    "cloze": "annuler la réservation jusqu'à dix-huit heures",
+    "answer": "annuler la réservation jusqu'à dix-huit heures",
+    "lemma": "annuler",
+    "meaning": "cancel the booking until 6 p.m.",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0808.mp3"
+  },
+  {
+    "id": "fr-02-0809",
+    "sentence": "À notre arrivée, nous présenterons nos pièces d'identité à l'accueil.",
+    "cloze": "nous présenterons nos pièces d'identité",
+    "answer": "nous présenterons nos pièces d'identité",
+    "lemma": "présenter",
+    "meaning": "we will show our identity documents",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0809.mp3"
+  },
+  {
+    "id": "fr-02-0810",
+    "sentence": "Vous devrez libérer la chambre avant onze heures demain.",
+    "cloze": "libérer la chambre avant onze heures",
+    "answer": "libérer la chambre avant onze heures",
+    "lemma": "libérer",
+    "meaning": "vacate the room before 11 a.m.",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0810.mp3"
+  },
+  {
+    "id": "fr-02-0811",
+    "sentence": "En attendant, vous pouvez déposer vos bagages à la bagagerie.",
+    "cloze": "déposer vos bagages à la bagagerie",
+    "answer": "déposer vos bagages à la bagagerie",
+    "lemma": "déposer",
+    "meaning": "leave your luggage in the luggage room",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0811.mp3"
+  },
+  {
+    "id": "fr-02-0812",
+    "sentence": "Ma carte d'accès n'ouvre plus la porte de ma chambre.",
+    "cloze": "n'ouvre plus la porte de ma chambre",
+    "answer": "n'ouvre plus la porte de ma chambre",
+    "lemma": "ouvrir",
+    "meaning": "no longer opens my room door",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0812.mp3"
+  },
+  {
+    "id": "fr-02-0813",
+    "sentence": "Excusez-moi, j'ai demandé une chambre calme, mais celle-ci donne sur la rue.",
+    "cloze": "j'ai demandé une chambre calme",
+    "answer": "j'ai demandé une chambre calme",
+    "lemma": "demander",
+    "meaning": "I asked for a quiet room",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0813.mp3"
+  },
+  {
+    "id": "fr-02-0814",
+    "sentence": "Depuis hier soir, il n'y a plus d'eau chaude dans ma chambre.",
+    "cloze": "il n'y a plus d'eau chaude",
+    "answer": "il n'y a plus d'eau chaude",
+    "lemma": "l'eau chaude",
+    "meaning": "there is no hot water anymore",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0814.mp3"
+  },
+  {
+    "id": "fr-02-0815",
+    "sentence": "Pourriez-vous envoyer quelqu'un pour vérifier le chauffage ?",
+    "cloze": "Pourriez-vous envoyer quelqu'un",
+    "answer": "Pourriez-vous envoyer quelqu'un",
+    "lemma": "envoyer",
+    "meaning": "Could you send someone",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0815.mp3"
+  },
+  {
+    "id": "fr-02-0816",
+    "sentence": "Comme l'ascenseur est en panne, nous pouvons vous proposer une chambre au premier étage.",
+    "cloze": "nous pouvons vous proposer une chambre",
+    "answer": "nous pouvons vous proposer une chambre",
+    "lemma": "proposer",
+    "meaning": "we can offer you a room",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0816.mp3"
+  },
+  {
+    "id": "fr-02-0817",
+    "sentence": "Ma valise n'est pas arrivée avec mon vol.",
+    "cloze": "n'est pas arrivée avec mon vol",
+    "answer": "n'est pas arrivée avec mon vol",
+    "lemma": "arriver",
+    "meaning": "did not arrive with my flight",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0817.mp3"
+  },
+  {
+    "id": "fr-02-0818",
+    "sentence": "Sur quel tapis puis-je récupérer mon bagage ?",
+    "cloze": "puis-je récupérer mon bagage",
+    "answer": "puis-je récupérer mon bagage",
+    "lemma": "récupérer",
+    "meaning": "can I collect my luggage",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0818.mp3"
+  },
+  {
+    "id": "fr-02-0819",
+    "sentence": "J'ai décrit ma valise au service des bagages.",
+    "cloze": "J'ai décrit ma valise",
+    "answer": "J'ai décrit ma valise",
+    "lemma": "décrire",
+    "meaning": "I described my suitcase",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0819.mp3"
+  },
+  {
+    "id": "fr-02-0820",
+    "sentence": "Quand votre valise sera retrouvée, nous la livrerons à votre hôtel.",
+    "cloze": "nous la livrerons à votre hôtel",
+    "answer": "nous la livrerons à votre hôtel",
+    "lemma": "livrer",
+    "meaning": "we will deliver it to your hotel",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0820.mp3"
+  },
+  {
+    "id": "fr-02-0821",
+    "sentence": "Le train de dix-huit heures pour Rennes est supprimé aujourd'hui.",
+    "cloze": "est supprimé aujourd'hui",
+    "answer": "est supprimé aujourd'hui",
+    "lemma": "être supprimé",
+    "meaning": "is cancelled today",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0821.mp3"
+  },
+  {
+    "id": "fr-02-0822",
+    "sentence": "Notre TGV a maintenant quarante-cinq minutes de retard.",
+    "cloze": "quarante-cinq minutes de retard",
+    "answer": "quarante-cinq minutes de retard",
+    "lemma": "avoir du retard",
+    "meaning": "forty-five minutes late",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0822.mp3"
+  },
+  {
+    "id": "fr-02-0823",
+    "sentence": "Attention, votre train partira finalement de la voie onze.",
+    "cloze": "partira finalement de la voie onze",
+    "answer": "partira finalement de la voie onze",
+    "lemma": "partir",
+    "meaning": "will ultimately leave from platform eleven",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0823.mp3"
+  },
+  {
+    "id": "fr-02-0824",
+    "sentence": "À cause du retard, nous avons manqué notre correspondance à Tours.",
+    "cloze": "nous avons manqué notre correspondance",
+    "answer": "nous avons manqué notre correspondance",
+    "lemma": "manquer une correspondance",
+    "meaning": "we missed our connection",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0824.mp3"
+  },
+  {
+    "id": "fr-02-0825",
+    "sentence": "Vous pouvez prendre le train suivant, qui part dans vingt minutes.",
+    "cloze": "prendre le train suivant",
+    "answer": "prendre le train suivant",
+    "lemma": "prendre le train suivant",
+    "meaning": "take the next train",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0825.mp3"
+  },
+  {
+    "id": "fr-02-0826",
+    "sentence": "Aujourd'hui, le bus 42 ne dessert pas l'arrêt République.",
+    "cloze": "ne dessert pas l'arrêt République",
+    "answer": "ne dessert pas l'arrêt République",
+    "lemma": "desservir",
+    "meaning": "does not serve the République stop",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0826.mp3"
+  },
+  {
+    "id": "fr-02-0827",
+    "sentence": "Le prochain car pour Caen part à dix-neuf heures cinq.",
+    "cloze": "part à dix-neuf heures cinq",
+    "answer": "part à dix-neuf heures cinq",
+    "lemma": "partir",
+    "meaning": "leaves at 7:05 p.m.",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0827.mp3"
+  },
+  {
+    "id": "fr-02-0828",
+    "sentence": "L'embarquement commencera à dix-sept heures quarante.",
+    "cloze": "commencera à dix-sept heures quarante",
+    "answer": "commencera à dix-sept heures quarante",
+    "lemma": "commencer",
+    "meaning": "will begin at 5:40 p.m.",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0828.mp3"
+  },
+  {
+    "id": "fr-02-0829",
+    "sentence": "Votre porte d'embarquement est maintenant la porte 24.",
+    "cloze": "est maintenant la porte 24",
+    "answer": "est maintenant la porte 24",
+    "lemma": "la porte d'embarquement",
+    "meaning": "is now gate 24",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0829.mp3"
+  },
+  {
+    "id": "fr-02-0830",
+    "sentence": "Pardon, ce billet est pour demain, pas pour aujourd'hui.",
+    "cloze": "pour demain, pas pour aujourd'hui",
+    "answer": "pour demain, pas pour aujourd'hui",
+    "lemma": "pour",
+    "meaning": "for tomorrow, not today",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0830.mp3"
+  },
+  {
+    "id": "fr-02-0831",
+    "sentence": "De quelle voie part le train pour Bordeaux ?",
+    "cloze": "De quelle voie",
+    "answer": "De quelle voie",
+    "lemma": "une voie",
+    "meaning": "From which platform",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0831.mp3"
+  },
+  {
+    "id": "fr-02-0832",
+    "sentence": "Après le contrôle, suivez le couloir jusqu'aux ascenseurs.",
+    "cloze": "suivez le couloir jusqu'aux ascenseurs",
+    "answer": "suivez le couloir jusqu'aux ascenseurs",
+    "lemma": "suivre",
+    "meaning": "follow the corridor to the lifts",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0832.mp3"
+  },
+  {
+    "id": "fr-02-0833",
+    "sentence": "Pour rejoindre les taxis, sortez du côté de la rue principale.",
+    "cloze": "sortez du côté de la rue principale",
+    "answer": "sortez du côté de la rue principale",
+    "lemma": "sortir",
+    "meaning": "exit on the main street side",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0833.mp3"
+  },
+  {
+    "id": "fr-02-0834",
+    "sentence": "L'arrêt de la navette se trouve devant le terminal 2.",
+    "cloze": "se trouve devant le terminal 2",
+    "answer": "se trouve devant le terminal 2",
+    "lemma": "se trouver",
+    "meaning": "is located in front of Terminal 2",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0834.mp3"
+  },
+  {
+    "id": "fr-02-0835",
+    "sentence": "Si vous manquez le dernier métro, prenez le bus de nuit.",
+    "cloze": "prenez le bus de nuit",
+    "answer": "prenez le bus de nuit",
+    "lemma": "un bus de nuit",
+    "meaning": "take the night bus",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0835.mp3"
+  },
+  {
+    "id": "fr-02-0836",
+    "sentence": "Lina, on se retrouve devant l'hôtel à huit heures ?",
+    "cloze": "on se retrouve devant l'hôtel",
+    "answer": "on se retrouve devant l'hôtel",
+    "lemma": "se retrouver",
+    "meaning": "shall we meet outside the hotel",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0836.mp3"
+  },
+  {
+    "id": "fr-02-0837",
+    "sentence": "Ton train est annulé, alors prends le car et appelle-moi à ton arrivée.",
+    "cloze": "appelle-moi à ton arrivée",
+    "answer": "appelle-moi à ton arrivée",
+    "lemma": "appeler",
+    "meaning": "call me when you arrive",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0837.mp3"
+  },
+  {
+    "id": "fr-02-0838",
+    "sentence": "Nous sommes arrivés tard, puis nous avons marché jusqu'à notre hôtel.",
+    "cloze": "puis nous avons marché jusqu'à notre hôtel",
+    "answer": "puis nous avons marché jusqu'à notre hôtel",
+    "lemma": "marcher",
+    "meaning": "then we walked to our hotel",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0838.mp3"
+  },
+  {
+    "id": "fr-02-0839",
+    "sentence": "Pourriez-vous garder nos valises après notre départ, jusqu'à seize heures ?",
+    "cloze": "garder nos valises après notre départ",
+    "answer": "garder nos valises après notre départ",
+    "lemma": "garder",
+    "meaning": "keep our suitcases after we leave",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0839.mp3"
+  },
+  {
+    "id": "fr-02-0840",
+    "sentence": "Pardon, vous avez dit voie treize ou voie trente ?",
+    "cloze": "voie treize ou voie trente",
+    "answer": "voie treize ou voie trente",
+    "lemma": "une voie",
+    "meaning": "platform thirteen or platform thirty",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0840.mp3"
   }
 ]
