@@ -6103,5 +6103,421 @@
     "meaning": "you must keep this badge with you",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0600.mp3"
+  },
+  {
+    "id": "fr-02-0601",
+    "sentence": "Demain, je travaillerai de chez moi pour attendre le technicien.",
+    "cloze": "travaillerai de chez moi",
+    "answer": "travaillerai de chez moi",
+    "lemma": "travailler",
+    "meaning": "will work from home",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0601.mp3"
+  },
+  {
+    "id": "fr-02-0602",
+    "sentence": "Nous préparerons la salle demain matin avant l'arrivée des participants.",
+    "cloze": "préparerons la salle",
+    "answer": "préparerons la salle",
+    "lemma": "préparer",
+    "meaning": "will prepare the room",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0602.mp3"
+  },
+  {
+    "id": "fr-02-0603",
+    "sentence": "Vous recevrez la confirmation par courriel dans la journée.",
+    "cloze": "recevrez la confirmation",
+    "answer": "recevrez la confirmation",
+    "lemma": "recevoir",
+    "meaning": "will receive the confirmation",
+    "accepted_answers": [],
+    "register": "professional",
+    "audio": "work/audio/fr-FR/02/fr-02-0603.mp3"
+  },
+  {
+    "id": "fr-02-0604",
+    "sentence": "Le nouveau magasin ouvrira samedi à dix heures.",
+    "cloze": "ouvrira samedi",
+    "answer": "ouvrira samedi",
+    "lemma": "ouvrir",
+    "meaning": "will open on Saturday",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0604.mp3"
+  },
+  {
+    "id": "fr-02-0605",
+    "sentence": "La formation commencera lundi prochain à neuf heures précises.",
+    "cloze": "commencera lundi prochain",
+    "answer": "commencera lundi prochain",
+    "lemma": "commencer",
+    "meaning": "will start next Monday",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0605.mp3"
+  },
+  {
+    "id": "fr-02-0606",
+    "sentence": "Les travaux finiront normalement à la fin du mois.",
+    "cloze": "finiront normalement",
+    "answer": "finiront normalement",
+    "lemma": "finir",
+    "meaning": "will normally finish",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0606.mp3"
+  },
+  {
+    "id": "fr-02-0607",
+    "sentence": "Je choisirai l'horaire le plus pratique après la réunion.",
+    "cloze": "choisirai l'horaire",
+    "answer": "choisirai l'horaire",
+    "lemma": "choisir",
+    "meaning": "will choose the time",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0607.mp3"
+  },
+  {
+    "id": "fr-02-0608",
+    "sentence": "Nous réserverons une chambre près de la gare pour vendredi soir.",
+    "cloze": "réserverons une chambre",
+    "answer": "réserverons une chambre",
+    "lemma": "réserver",
+    "meaning": "will book a room",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0608.mp3"
+  },
+  {
+    "id": "fr-02-0609",
+    "sentence": "Sophie prendra le train de dix-huit heures pour rentrer à Lille.",
+    "cloze": "prendra le train",
+    "answer": "prendra le train",
+    "lemma": "prendre",
+    "meaning": "will take the train",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0609.mp3"
+  },
+  {
+    "id": "fr-02-0610",
+    "sentence": "Je mettrai les documents sur votre bureau demain matin.",
+    "cloze": "mettrai les documents",
+    "answer": "mettrai les documents",
+    "lemma": "mettre",
+    "meaning": "will put the documents",
+    "accepted_answers": [],
+    "register": "professional",
+    "audio": "work/audio/fr-FR/02/fr-02-0610.mp3"
+  },
+  {
+    "id": "fr-02-0611",
+    "sentence": "Nous ferons le point avec l'équipe jeudi après-midi.",
+    "cloze": "ferons le point",
+    "answer": "ferons le point",
+    "lemma": "faire le point",
+    "meaning": "will review the situation",
+    "accepted_answers": [],
+    "register": "professional",
+    "audio": "work/audio/fr-FR/02/fr-02-0611.mp3"
+  },
+  {
+    "id": "fr-02-0612",
+    "sentence": "Lina ira chez le médecin demain à onze heures.",
+    "cloze": "ira chez le médecin",
+    "answer": "ira chez le médecin",
+    "lemma": "aller",
+    "meaning": "will go to the doctor",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0612.mp3"
+  },
+  {
+    "id": "fr-02-0613",
+    "sentence": "Mes parents viendront déjeuner chez nous dimanche midi.",
+    "cloze": "viendront déjeuner",
+    "answer": "viendront déjeuner",
+    "lemma": "venir",
+    "meaning": "will come for lunch",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0613.mp3"
+  },
+  {
+    "id": "fr-02-0614",
+    "sentence": "Le technicien reviendra mardi pour terminer la réparation.",
+    "cloze": "reviendra mardi",
+    "answer": "reviendra mardi",
+    "lemma": "revenir",
+    "meaning": "will come back on Tuesday",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0614.mp3"
+  },
+  {
+    "id": "fr-02-0615",
+    "sentence": "Je pourrai vous accompagner à la gare demain matin.",
+    "cloze": "pourrai vous accompagner",
+    "answer": "pourrai vous accompagner",
+    "lemma": "pouvoir",
+    "meaning": "will be able to accompany you",
+    "accepted_answers": [],
+    "register": "polite",
+    "audio": "work/audio/fr-FR/02/fr-02-0615.mp3"
+  },
+  {
+    "id": "fr-02-0616",
+    "sentence": "Vous pourrez récupérer vos clés à la réception dès quinze heures.",
+    "cloze": "pourrez récupérer vos clés",
+    "answer": "pourrez récupérer vos clés",
+    "lemma": "pouvoir",
+    "meaning": "will be able to collect your keys",
+    "accepted_answers": [],
+    "register": "service",
+    "audio": "work/audio/fr-FR/02/fr-02-0616.mp3"
+  },
+  {
+    "id": "fr-02-0617",
+    "sentence": "Vous devrez présenter une pièce d'identité à votre arrivée.",
+    "cloze": "devrez présenter une pièce d'identité",
+    "answer": "devrez présenter une pièce d'identité",
+    "lemma": "devoir",
+    "meaning": "will have to show identification",
+    "accepted_answers": [],
+    "register": "service",
+    "audio": "work/audio/fr-FR/02/fr-02-0617.mp3"
+  },
+  {
+    "id": "fr-02-0618",
+    "sentence": "Paul devra quitter le bureau un peu plus tôt vendredi.",
+    "cloze": "devra quitter le bureau",
+    "answer": "devra quitter le bureau",
+    "lemma": "devoir",
+    "meaning": "will have to leave the office",
+    "accepted_answers": [],
+    "register": "professional",
+    "audio": "work/audio/fr-FR/02/fr-02-0618.mp3"
+  },
+  {
+    "id": "fr-02-0619",
+    "sentence": "Il faudra changer de train à Strasbourg demain matin.",
+    "cloze": "faudra changer de train",
+    "answer": "faudra changer de train",
+    "lemma": "falloir",
+    "meaning": "will be necessary to change trains",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0619.mp3"
+  },
+  {
+    "id": "fr-02-0620",
+    "sentence": "Nous aurons assez de temps pour déjeuner avant le départ.",
+    "cloze": "aurons assez de temps",
+    "answer": "aurons assez de temps",
+    "lemma": "avoir",
+    "meaning": "will have enough time",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0620.mp3"
+  },
+  {
+    "id": "fr-02-0621",
+    "sentence": "Vous aurez une réponse définitive avant vendredi soir.",
+    "cloze": "aurez une réponse définitive",
+    "answer": "aurez une réponse définitive",
+    "lemma": "avoir",
+    "meaning": "will have a final answer",
+    "accepted_answers": [],
+    "register": "professional",
+    "audio": "work/audio/fr-FR/02/fr-02-0621.mp3"
+  },
+  {
+    "id": "fr-02-0622",
+    "sentence": "La chambre sera prête à partir de quatorze heures.",
+    "cloze": "sera prête",
+    "answer": "sera prête",
+    "lemma": "être",
+    "meaning": "will be ready",
+    "accepted_answers": [],
+    "register": "service",
+    "audio": "work/audio/fr-FR/02/fr-02-0622.mp3"
+  },
+  {
+    "id": "fr-02-0623",
+    "sentence": "Les résultats seront disponibles en ligne demain matin.",
+    "cloze": "seront disponibles en ligne",
+    "answer": "seront disponibles en ligne",
+    "lemma": "être",
+    "meaning": "will be available online",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0623.mp3"
+  },
+  {
+    "id": "fr-02-0624",
+    "sentence": "Nous verrons la nouvelle exposition pendant les vacances.",
+    "cloze": "verrons la nouvelle exposition",
+    "answer": "verrons la nouvelle exposition",
+    "lemma": "voir",
+    "meaning": "will see the new exhibition",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0624.mp3"
+  },
+  {
+    "id": "fr-02-0625",
+    "sentence": "La réceptionniste saura vous indiquer le chemin jusqu'à votre chambre.",
+    "cloze": "saura vous indiquer le chemin",
+    "answer": "saura vous indiquer le chemin",
+    "lemma": "savoir",
+    "meaning": "will be able to show you the way",
+    "accepted_answers": [],
+    "register": "service",
+    "audio": "work/audio/fr-FR/02/fr-02-0625.mp3"
+  },
+  {
+    "id": "fr-02-0626",
+    "sentence": "Tu voudras peut-être te reposer après ce long trajet.",
+    "cloze": "voudras peut-être te reposer",
+    "answer": "voudras peut-être te reposer",
+    "lemma": "vouloir",
+    "meaning": "may want to rest",
+    "accepted_answers": [],
+    "register": "informal",
+    "audio": "work/audio/fr-FR/02/fr-02-0626.mp3"
+  },
+  {
+    "id": "fr-02-0627",
+    "sentence": "D'après la météo, il pleuvra demain en fin d'après-midi.",
+    "cloze": "pleuvra demain",
+    "answer": "pleuvra demain",
+    "lemma": "pleuvoir",
+    "meaning": "will rain tomorrow",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0627.mp3"
+  },
+  {
+    "id": "fr-02-0628",
+    "sentence": "Il fera plus frais près de la mer ce week-end.",
+    "cloze": "fera plus frais",
+    "answer": "fera plus frais",
+    "lemma": "faire",
+    "meaning": "will be cooler",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0628.mp3"
+  },
+  {
+    "id": "fr-02-0629",
+    "sentence": "Il y aura probablement beaucoup de monde au marché samedi matin.",
+    "cloze": "Il y aura probablement",
+    "answer": "Il y aura probablement",
+    "lemma": "il y avoir",
+    "meaning": "there will probably be",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0629.mp3"
+  },
+  {
+    "id": "fr-02-0630",
+    "sentence": "Selon les prévisions, il neigera cette nuit dans les Alpes.",
+    "cloze": "il neigera cette nuit",
+    "answer": "il neigera cette nuit",
+    "lemma": "neiger",
+    "meaning": "it will snow tonight",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0630.mp3"
+  },
+  {
+    "id": "fr-02-0631",
+    "sentence": "Je vous enverrai le programme complet avant midi.",
+    "cloze": "vous enverrai le programme",
+    "answer": "vous enverrai le programme",
+    "lemma": "envoyer",
+    "meaning": "will send you the program",
+    "accepted_answers": [],
+    "register": "professional",
+    "audio": "work/audio/fr-FR/02/fr-02-0631.mp3"
+  },
+  {
+    "id": "fr-02-0632",
+    "sentence": "Nous vous rappellerons demain pour confirmer la nouvelle date.",
+    "cloze": "vous rappellerons demain",
+    "answer": "vous rappellerons demain",
+    "lemma": "rappeler",
+    "meaning": "will call you back tomorrow",
+    "accepted_answers": [],
+    "register": "professional",
+    "audio": "work/audio/fr-FR/02/fr-02-0632.mp3"
+  },
+  {
+    "id": "fr-02-0633",
+    "sentence": "Je répondrai à votre message dès mon retour au bureau.",
+    "cloze": "répondrai à votre message",
+    "answer": "répondrai à votre message",
+    "lemma": "répondre",
+    "meaning": "will reply to your message",
+    "accepted_answers": [],
+    "register": "professional",
+    "audio": "work/audio/fr-FR/02/fr-02-0633.mp3"
+  },
+  {
+    "id": "fr-02-0634",
+    "sentence": "Je garderai votre réservation jusqu'à vingt heures.",
+    "cloze": "garderai votre réservation",
+    "answer": "garderai votre réservation",
+    "lemma": "garder",
+    "meaning": "will hold your reservation",
+    "accepted_answers": [],
+    "register": "service",
+    "audio": "work/audio/fr-FR/02/fr-02-0634.mp3"
+  },
+  {
+    "id": "fr-02-0635",
+    "sentence": "Nous n'oublierons pas d'apporter les billets pour le concert.",
+    "cloze": "n'oublierons pas d'apporter",
+    "answer": "n'oublierons pas d'apporter",
+    "lemma": "oublier",
+    "meaning": "will not forget to bring",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0635.mp3"
+  },
+  {
+    "id": "fr-02-0636",
+    "sentence": "Le restaurant ne sera pas ouvert lundi soir.",
+    "cloze": "ne sera pas ouvert",
+    "answer": "ne sera pas ouvert",
+    "lemma": "être ouvert",
+    "meaning": "will not be open",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0636.mp3"
+  },
+  {
+    "id": "fr-02-0637",
+    "sentence": "Le dernier train partira de la voie quatre à vingt-trois heures dix.",
+    "cloze": "partira de la voie quatre",
+    "answer": "partira de la voie quatre",
+    "lemma": "partir",
+    "meaning": "will leave from platform four",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0637.mp3"
+  },
+  {
+    "id": "fr-02-0638",
+    "sentence": "Votre commande arrivera entre mardi et jeudi.",
+    "cloze": "arrivera entre mardi et jeudi",
+    "answer": "arrivera entre mardi et jeudi",
+    "lemma": "arriver",
+    "meaning": "will arrive between Tuesday and Thursday",
+    "accepted_answers": [],
+    "register": "service",
+    "audio": "work/audio/fr-FR/02/fr-02-0638.mp3"
+  },
+  {
+    "id": "fr-02-0639",
+    "sentence": "La visite guidée durera environ une heure et demie.",
+    "cloze": "durera environ une heure et demie",
+    "answer": "durera environ une heure et demie",
+    "lemma": "durer",
+    "meaning": "will last about an hour and a half",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0639.mp3"
+  },
+  {
+    "id": "fr-02-0640",
+    "sentence": "À partir de lundi, le bus passera toutes les vingt minutes.",
+    "cloze": "passera toutes les vingt minutes",
+    "answer": "passera toutes les vingt minutes",
+    "lemma": "passer",
+    "meaning": "will run every twenty minutes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0640.mp3"
   }
 ]
