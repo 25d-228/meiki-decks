@@ -1661,5 +1661,407 @@
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0160.mp3",
     "register": "neutral or professional"
+  },
+  {
+    "id": "fr-02-0161",
+    "sentence": "Quand j'étais enfant, je jouais aux cartes avec mes cousins tous les samedis.",
+    "cloze": "je jouais aux cartes",
+    "answer": "je jouais aux cartes",
+    "lemma": "jouer aux cartes",
+    "meaning": "I used to play cards",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0161.mp3"
+  },
+  {
+    "id": "fr-02-0162",
+    "sentence": "Quand nous habitions près de l'université, nous rentrions à pied tous les soirs.",
+    "cloze": "nous rentrions à pied",
+    "answer": "nous rentrions à pied",
+    "lemma": "rentrer à pied",
+    "meaning": "we used to walk home",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0162.mp3"
+  },
+  {
+    "id": "fr-02-0163",
+    "sentence": "D'habitude, ma mère préparait le café avant le petit déjeuner.",
+    "cloze": "ma mère préparait le café",
+    "answer": "ma mère préparait le café",
+    "lemma": "préparer le café",
+    "meaning": "my mother used to make coffee",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0163.mp3"
+  },
+  {
+    "id": "fr-02-0164",
+    "sentence": "Chaque dimanche, mon père téléphonait à ses parents.",
+    "cloze": "téléphonait à ses parents",
+    "answer": "téléphonait à ses parents",
+    "lemma": "téléphoner à ses parents",
+    "meaning": "used to call his parents",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0164.mp3"
+  },
+  {
+    "id": "fr-02-0165",
+    "sentence": "Tous les soirs, nous regardions une série après le dîner.",
+    "cloze": "nous regardions une série",
+    "answer": "nous regardions une série",
+    "lemma": "regarder une série",
+    "meaning": "we used to watch a series",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0165.mp3"
+  },
+  {
+    "id": "fr-02-0166",
+    "sentence": "Le dimanche, mes grands-parents déjeunaient souvent chez nous.",
+    "cloze": "mes grands-parents déjeunaient souvent",
+    "answer": "mes grands-parents déjeunaient souvent",
+    "lemma": "déjeuner souvent",
+    "meaning": "my grandparents often had lunch",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0166.mp3"
+  },
+  {
+    "id": "fr-02-0167",
+    "sentence": "À vingt ans, je travaillais dans une banque à Rouen.",
+    "cloze": "je travaillais dans une banque",
+    "answer": "je travaillais dans une banque",
+    "lemma": "travailler dans une banque",
+    "meaning": "I worked in a bank",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0167.mp3"
+  },
+  {
+    "id": "fr-02-0168",
+    "sentence": "Quand il faisait beau, on marchait dans le parc après le déjeuner.",
+    "cloze": "on marchait dans le parc",
+    "answer": "on marchait dans le parc",
+    "lemma": "marcher dans le parc",
+    "meaning": "we used to walk in the park",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0168.mp3"
+  },
+  {
+    "id": "fr-02-0169",
+    "sentence": "Chaque hiver, nous faisions souvent du ski avec nos cousins.",
+    "cloze": "nous faisions souvent du ski",
+    "answer": "nous faisions souvent du ski",
+    "lemma": "faire du ski",
+    "meaning": "we often went skiing",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0169.mp3"
+  },
+  {
+    "id": "fr-02-0170",
+    "sentence": "Tous les étés, je prenais le train pour aller chez mes grands-parents.",
+    "cloze": "je prenais le train",
+    "answer": "je prenais le train",
+    "lemma": "prendre le train",
+    "meaning": "I used to take the train",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0170.mp3"
+  },
+  {
+    "id": "fr-02-0171",
+    "sentence": "D'habitude, tu finissais les cours à quatre heures.",
+    "cloze": "tu finissais les cours",
+    "answer": "tu finissais les cours",
+    "lemma": "finir les cours",
+    "meaning": "you used to finish classes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0171.mp3",
+    "register": "informal, close peer"
+  },
+  {
+    "id": "fr-02-0172",
+    "sentence": "Avant leur déménagement, ils habitaient au-dessus d'une boulangerie.",
+    "cloze": "habitaient au-dessus d'une boulangerie",
+    "answer": "habitaient au-dessus d'une boulangerie",
+    "lemma": "habiter au-dessus de",
+    "meaning": "used to live above a bakery",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0172.mp3"
+  },
+  {
+    "id": "fr-02-0173",
+    "sentence": "À l'université, vous étudiiez souvent ensemble.",
+    "cloze": "vous étudiiez souvent",
+    "answer": "vous étudiiez souvent",
+    "lemma": "étudier souvent",
+    "meaning": "you often studied",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0173.mp3"
+  },
+  {
+    "id": "fr-02-0174",
+    "sentence": "Quand elle travaillait à l'hôpital, elle commençait à huit heures.",
+    "cloze": "elle commençait à huit heures",
+    "answer": "elle commençait à huit heures",
+    "lemma": "commencer à huit heures",
+    "meaning": "she used to start at eight",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0174.mp3"
+  },
+  {
+    "id": "fr-02-0175",
+    "sentence": "Chaque dimanche, nous cuisinions ensemble chez mes parents.",
+    "cloze": "nous cuisinions ensemble",
+    "answer": "nous cuisinions ensemble",
+    "lemma": "cuisiner ensemble",
+    "meaning": "we used to cook together",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0175.mp3"
+  },
+  {
+    "id": "fr-02-0176",
+    "sentence": "Tous les soirs, ma sœur lisait dans sa chambre.",
+    "cloze": "ma sœur lisait",
+    "answer": "ma sœur lisait",
+    "lemma": "lire",
+    "meaning": "my sister used to read",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0176.mp3"
+  },
+  {
+    "id": "fr-02-0177",
+    "sentence": "Quand j'étais étudiante, j'écrivais souvent à ma meilleure amie.",
+    "cloze": "j'écrivais souvent à ma meilleure amie",
+    "answer": "j'écrivais souvent à ma meilleure amie",
+    "lemma": "écrire à une amie",
+    "meaning": "I often wrote to my best friend",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0177.mp3"
+  },
+  {
+    "id": "fr-02-0178",
+    "sentence": "Quand tu étais étudiante, tu venais en bus tous les matins.",
+    "cloze": "tu venais en bus",
+    "answer": "tu venais en bus",
+    "lemma": "venir en bus",
+    "meaning": "you used to come by bus",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0178.mp3",
+    "register": "informal, close peer"
+  },
+  {
+    "id": "fr-02-0179",
+    "sentence": "Après les cours, on prenait souvent un café près de l'université.",
+    "cloze": "on prenait souvent un café",
+    "answer": "on prenait souvent un café",
+    "lemma": "prendre un café",
+    "meaning": "we often had coffee",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0179.mp3"
+  },
+  {
+    "id": "fr-02-0180",
+    "sentence": "Après chaque réunion, les collègues discutaient quelques minutes.",
+    "cloze": "discutaient quelques minutes",
+    "answer": "discutaient quelques minutes",
+    "lemma": "discuter quelques minutes",
+    "meaning": "used to talk for a few minutes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0180.mp3"
+  },
+  {
+    "id": "fr-02-0181",
+    "sentence": "Il pleuvait encore quand le bus est arrivé.",
+    "cloze": "pleuvait encore",
+    "answer": "pleuvait encore",
+    "lemma": "pleuvoir",
+    "meaning": "was still raining",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0181.mp3"
+  },
+  {
+    "id": "fr-02-0182",
+    "sentence": "Je travaillais quand Léa a téléphoné.",
+    "cloze": "Je travaillais",
+    "answer": "Je travaillais",
+    "lemma": "travailler",
+    "meaning": "I was working",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0182.mp3"
+  },
+  {
+    "id": "fr-02-0183",
+    "sentence": "Nous dînions quand Paul est arrivé.",
+    "cloze": "Nous dînions",
+    "answer": "Nous dînions",
+    "lemma": "dîner",
+    "meaning": "we were having dinner",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0183.mp3"
+  },
+  {
+    "id": "fr-02-0184",
+    "sentence": "Elle attendait le bus quand elle a reçu votre message.",
+    "cloze": "Elle attendait le bus",
+    "answer": "Elle attendait le bus",
+    "lemma": "attendre le bus",
+    "meaning": "she was waiting for the bus",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0184.mp3"
+  },
+  {
+    "id": "fr-02-0185",
+    "sentence": "Le client a téléphoné quand vous étiez en réunion.",
+    "cloze": "vous étiez en réunion",
+    "answer": "vous étiez en réunion",
+    "lemma": "être en réunion",
+    "meaning": "you were in a meeting",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0185.mp3"
+  },
+  {
+    "id": "fr-02-0186",
+    "sentence": "Ils regardaient encore une série quand nous sommes rentrés.",
+    "cloze": "Ils regardaient encore une série",
+    "answer": "Ils regardaient encore une série",
+    "lemma": "regarder une série",
+    "meaning": "they were still watching a series",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0186.mp3"
+  },
+  {
+    "id": "fr-02-0187",
+    "sentence": "Je faisais les courses quand j'ai perdu mes clés.",
+    "cloze": "Je faisais les courses",
+    "answer": "Je faisais les courses",
+    "lemma": "faire les courses",
+    "meaning": "I was shopping",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0187.mp3"
+  },
+  {
+    "id": "fr-02-0188",
+    "sentence": "Le ciel était encore noir quand je suis partie.",
+    "cloze": "Le ciel était encore noir",
+    "answer": "Le ciel était encore noir",
+    "lemma": "être encore noir",
+    "meaning": "the sky was still dark",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0188.mp3"
+  },
+  {
+    "id": "fr-02-0189",
+    "sentence": "Nous marchions vers la gare quand le train est parti.",
+    "cloze": "Nous marchions vers la gare",
+    "answer": "Nous marchions vers la gare",
+    "lemma": "marcher vers la gare",
+    "meaning": "we were walking toward the station",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0189.mp3"
+  },
+  {
+    "id": "fr-02-0190",
+    "sentence": "Ses parents sont arrivés quand elle préparait le café.",
+    "cloze": "elle préparait le café",
+    "answer": "elle préparait le café",
+    "lemma": "préparer le café",
+    "meaning": "she was making coffee",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0190.mp3"
+  },
+  {
+    "id": "fr-02-0191",
+    "sentence": "Quand j'avais dix ans, j'ai visité Paris pour la première fois.",
+    "cloze": "j'ai visité Paris pour la première fois",
+    "answer": "j'ai visité Paris pour la première fois",
+    "lemma": "visiter Paris",
+    "meaning": "I visited Paris for the first time",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0191.mp3"
+  },
+  {
+    "id": "fr-02-0192",
+    "sentence": "Quand nous habitions à Rouen, nous avons passé un week-end à Paris.",
+    "cloze": "nous avons passé un week-end à Paris",
+    "answer": "nous avons passé un week-end à Paris",
+    "lemma": "passer un week-end à Paris",
+    "meaning": "we spent a weekend in Paris",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0192.mp3"
+  },
+  {
+    "id": "fr-02-0193",
+    "sentence": "Il faisait très froid quand nous avons pris le train pour Lyon.",
+    "cloze": "nous avons pris le train pour Lyon",
+    "answer": "nous avons pris le train pour Lyon",
+    "lemma": "prendre le train",
+    "meaning": "we took the train to Lyon",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0193.mp3"
+  },
+  {
+    "id": "fr-02-0194",
+    "sentence": "J'avais très faim quand j'ai commandé le menu du jour.",
+    "cloze": "j'ai commandé le menu du jour",
+    "answer": "j'ai commandé le menu du jour",
+    "lemma": "commander le menu du jour",
+    "meaning": "I ordered the set menu",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0194.mp3"
+  },
+  {
+    "id": "fr-02-0195",
+    "sentence": "Elle était inquiète quand elle a reçu la confirmation.",
+    "cloze": "elle a reçu la confirmation",
+    "answer": "elle a reçu la confirmation",
+    "lemma": "recevoir une confirmation",
+    "meaning": "she received the confirmation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0195.mp3"
+  },
+  {
+    "id": "fr-02-0196",
+    "sentence": "Nous étions chez mes parents quand Léa a téléphoné.",
+    "cloze": "Nous étions chez mes parents",
+    "answer": "Nous étions chez mes parents",
+    "lemma": "être chez ses parents",
+    "meaning": "we were at my parents' home",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0196.mp3"
+  },
+  {
+    "id": "fr-02-0197",
+    "sentence": "D'habitude, il arrivait tôt, mais hier il est arrivé en retard.",
+    "cloze": "il arrivait tôt",
+    "answer": "il arrivait tôt",
+    "lemma": "arriver tôt",
+    "meaning": "he usually arrived early",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0197.mp3"
+  },
+  {
+    "id": "fr-02-0198",
+    "sentence": "D'habitude, nous prenions le métro, mais hier nous sommes rentrés à pied.",
+    "cloze": "nous prenions le métro",
+    "answer": "nous prenions le métro",
+    "lemma": "prendre le métro",
+    "meaning": "we usually took the metro",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0198.mp3"
+  },
+  {
+    "id": "fr-02-0199",
+    "sentence": "Elle travaillait à l'hôpital, mais l'année dernière elle a changé de travail.",
+    "cloze": "elle a changé de travail",
+    "answer": "elle a changé de travail",
+    "lemma": "changer de travail",
+    "meaning": "she changed jobs",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0199.mp3"
+  },
+  {
+    "id": "fr-02-0200",
+    "sentence": "Quand j'étais étudiant, je déjeunais souvent chez moi, mais samedi j'ai déjeuné au restaurant.",
+    "cloze": "je déjeunais souvent chez moi",
+    "answer": "je déjeunais souvent chez moi",
+    "lemma": "déjeuner chez soi",
+    "meaning": "I often had lunch at home",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0200.mp3"
   }
 ]
