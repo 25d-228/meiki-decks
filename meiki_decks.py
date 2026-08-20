@@ -27,6 +27,15 @@ JAPANESE_COMPLETE_STAGE_NAMES = {
     "04": "Japanese 04 — N2 / B2 upper-intermediate",
     "05": "Japanese 05 — N1 / balanced C1 bridge",
 }
+KOREAN_COMPLETE_STAGE_NAMES = {
+    "00": "Korean 00 — Hangul and sound foundation",
+    "01": "Korean 01 — Basic operational Korean / TOPIK 1",
+    "02": "Korean 02 — Strong beginner Korean / TOPIK 2",
+    "03": "Korean 03 — Independent Korean / TOPIK 3",
+    "04": "Korean 04 — Upper-intermediate Korean / TOPIK 4",
+    "05": "Korean 05 — Advanced Korean / TOPIK 5",
+    "06": "Korean 06 — TOPIK 6 and advanced functional Korean bridge",
+}
 COLLECTION_DAILY_TIME_BUDGET_MINUTES = 30
 INITIAL_TIMESTAMP_MS = 0
 SCHEDULER_ENGINE = "fsrs-7"
@@ -1010,6 +1019,14 @@ def build_language(root, language, probe=probe_audio):
                 "Japanese complete bundle requires stages "
                 f"{', '.join(expected_stages)} in order; found {', '.join(actual_stages)}"
             )
+    if language == "ko-KR":
+        actual_stages = tuple(stage_file.stem for stage_file in stage_files)
+        expected_stages = tuple(KOREAN_COMPLETE_STAGE_NAMES)
+        if actual_stages != expected_stages:
+            raise DeckError(
+                "Korean complete bundle requires stages "
+                f"{', '.join(expected_stages)} in order; found {', '.join(actual_stages)}"
+            )
 
     decks = []
     notes = []
@@ -1023,7 +1040,7 @@ def build_language(root, language, probe=probe_audio):
         if language == "ja-JP":
             deck_name = JAPANESE_COMPLETE_STAGE_NAMES[stage]
         elif language == "ko-KR":
-            deck_name = f"Korean {stage}"
+            deck_name = KOREAN_COMPLETE_STAGE_NAMES[stage]
         else:
             deck_name = f"{language} {stage}"
         decks.append(
