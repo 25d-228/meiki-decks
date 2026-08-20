@@ -7777,5 +7777,405 @@
     "grammar": "où referring to a time",
     "register": "professional",
     "audio": "work/audio/fr-FR/02/fr-02-0760.mp3"
+  },
+  {
+    "id": "fr-02-0761",
+    "sentence": "Je prends le bus parce que ma voiture est au garage.",
+    "cloze": "parce que ma voiture est au garage",
+    "answer": "parce que ma voiture est au garage",
+    "lemma": "parce que",
+    "meaning": "because my car is at the garage",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0761.mp3"
+  },
+  {
+    "id": "fr-02-0762",
+    "sentence": "Le train est supprimé, donc nous allons prendre le car.",
+    "cloze": "donc nous allons prendre le car",
+    "answer": "donc nous allons prendre le car",
+    "lemma": "donc",
+    "meaning": "so we are going to take the coach",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0762.mp3"
+  },
+  {
+    "id": "fr-02-0763",
+    "sentence": "Il pleut, alors prenez un parapluie.",
+    "cloze": "alors prenez un parapluie",
+    "answer": "alors prenez un parapluie",
+    "lemma": "alors",
+    "meaning": "so take an umbrella",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0763.mp3"
+  },
+  {
+    "id": "fr-02-0764",
+    "sentence": "Le trajet est plus long, mais il coûte moins cher.",
+    "cloze": "mais il coûte moins cher",
+    "answer": "mais il coûte moins cher",
+    "lemma": "mais",
+    "meaning": "but it costs less",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0764.mp3"
+  },
+  {
+    "id": "fr-02-0765",
+    "sentence": "La chambre donne sur la rue, pourtant elle est très calme.",
+    "cloze": "pourtant elle est très calme",
+    "answer": "pourtant elle est très calme",
+    "lemma": "pourtant",
+    "meaning": "yet it is very quiet",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0765.mp3"
+  },
+  {
+    "id": "fr-02-0766",
+    "sentence": "Comme le magasin ferme bientôt, nous allons revenir demain.",
+    "cloze": "Comme le magasin ferme bientôt",
+    "answer": "Comme le magasin ferme bientôt",
+    "lemma": "comme",
+    "meaning": "since the shop is closing soon",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0766.mp3"
+  },
+  {
+    "id": "fr-02-0767",
+    "sentence": "La réunion a commencé en retard à cause d'un problème technique.",
+    "cloze": "à cause d'un problème technique",
+    "answer": "à cause d'un problème technique",
+    "lemma": "à cause de",
+    "meaning": "because of a technical problem",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0767.mp3"
+  },
+  {
+    "id": "fr-02-0768",
+    "sentence": "Grâce à votre message, j'ai trouvé la bonne entrée.",
+    "cloze": "Grâce à votre message",
+    "answer": "Grâce à votre message",
+    "lemma": "grâce à",
+    "meaning": "thanks to your message",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0768.mp3"
+  },
+  {
+    "id": "fr-02-0769",
+    "sentence": "Je vous appelle pour confirmer l'heure du rendez-vous.",
+    "cloze": "pour confirmer l'heure du rendez-vous",
+    "answer": "pour confirmer l'heure du rendez-vous",
+    "lemma": "confirmer",
+    "meaning": "to confirm the appointment time",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0769.mp3"
+  },
+  {
+    "id": "fr-02-0770",
+    "sentence": "Nous sommes partis tôt pour éviter les embouteillages.",
+    "cloze": "pour éviter les embouteillages",
+    "answer": "pour éviter les embouteillages",
+    "lemma": "éviter",
+    "meaning": "to avoid traffic jams",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0770.mp3"
+  },
+  {
+    "id": "fr-02-0771",
+    "sentence": "Gardez votre billet pour ne pas avoir de problème au contrôle.",
+    "cloze": "pour ne pas avoir de problème au contrôle",
+    "answer": "pour ne pas avoir de problème au contrôle",
+    "lemma": "ne pas avoir de problème",
+    "meaning": "so as not to have a problem during the ticket inspection",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0771.mp3"
+  },
+  {
+    "id": "fr-02-0772",
+    "sentence": "Nous avons d'abord déposé les valises, puis nous sommes allés déjeuner.",
+    "cloze": "puis nous sommes allés déjeuner",
+    "answer": "puis nous sommes allés déjeuner",
+    "lemma": "puis",
+    "meaning": "then we went to lunch",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0772.mp3"
+  },
+  {
+    "id": "fr-02-0773",
+    "sentence": "Avant de quitter l'hôtel, vérifiez que vous avez toutes vos affaires.",
+    "cloze": "Avant de quitter l'hôtel",
+    "answer": "Avant de quitter l'hôtel",
+    "lemma": "avant de quitter",
+    "meaning": "before leaving the hotel",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0773.mp3"
+  },
+  {
+    "id": "fr-02-0774",
+    "sentence": "Après la visite du musée, nous avons pris un café sur la place.",
+    "cloze": "Après la visite du musée",
+    "answer": "Après la visite du musée",
+    "lemma": "après",
+    "meaning": "after the museum visit",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0774.mp3"
+  },
+  {
+    "id": "fr-02-0775",
+    "sentence": "Je prépare les documents pendant que vous appelez le client.",
+    "cloze": "pendant que vous appelez le client",
+    "answer": "pendant que vous appelez le client",
+    "lemma": "pendant que",
+    "meaning": "while you call the client",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0775.mp3"
+  },
+  {
+    "id": "fr-02-0776",
+    "sentence": "Quand vous arriverez à la gare, regardez le panneau des départs.",
+    "cloze": "Quand vous arriverez à la gare",
+    "answer": "Quand vous arriverez à la gare",
+    "lemma": "quand",
+    "meaning": "when you arrive at the station",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0776.mp3"
+  },
+  {
+    "id": "fr-02-0777",
+    "sentence": "Le premier train est direct, tandis que le suivant passe par Dijon.",
+    "cloze": "tandis que le suivant passe par Dijon",
+    "answer": "tandis que le suivant passe par Dijon",
+    "lemma": "tandis que",
+    "meaning": "whereas the next one goes via Dijon",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0777.mp3"
+  },
+  {
+    "id": "fr-02-0778",
+    "sentence": "Si vous arrivez après vingt-deux heures, appelez la réception.",
+    "cloze": "Si vous arrivez après vingt-deux heures",
+    "answer": "Si vous arrivez après vingt-deux heures",
+    "lemma": "si",
+    "meaning": "if you arrive after ten p.m.",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0778.mp3"
+  },
+  {
+    "id": "fr-02-0779",
+    "sentence": "Si le bus a du retard, nous prendrons le métro.",
+    "cloze": "Si le bus a du retard",
+    "answer": "Si le bus a du retard",
+    "lemma": "si",
+    "meaning": "if the bus is late",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0779.mp3"
+  },
+  {
+    "id": "fr-02-0780",
+    "sentence": "Si tu as encore mal, appelle le cabinet du médecin.",
+    "cloze": "Si tu as encore mal",
+    "answer": "Si tu as encore mal",
+    "lemma": "si",
+    "meaning": "if you are still in pain",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0780.mp3"
+  },
+  {
+    "id": "fr-02-0781",
+    "sentence": "S'il fait beau demain, nous déjeunerons en terrasse.",
+    "cloze": "S'il fait beau demain",
+    "answer": "S'il fait beau demain",
+    "lemma": "si",
+    "meaning": "if the weather is nice tomorrow",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0781.mp3"
+  },
+  {
+    "id": "fr-02-0782",
+    "sentence": "Si nous finissons avant midi, nous vous enverrons le dossier aujourd'hui.",
+    "cloze": "Si nous finissons avant midi",
+    "answer": "Si nous finissons avant midi",
+    "lemma": "si",
+    "meaning": "if we finish before noon",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0782.mp3"
+  },
+  {
+    "id": "fr-02-0783",
+    "sentence": "Si la chambre ne vous convient pas, nous pouvons vous en proposer une autre.",
+    "cloze": "Si la chambre ne vous convient pas",
+    "answer": "Si la chambre ne vous convient pas",
+    "lemma": "convenir",
+    "meaning": "if the room does not suit you",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0783.mp3"
+  },
+  {
+    "id": "fr-02-0784",
+    "sentence": "Si vous ne trouvez pas l'adresse, téléphonez-moi.",
+    "cloze": "Si vous ne trouvez pas l'adresse",
+    "answer": "Si vous ne trouvez pas l'adresse",
+    "lemma": "trouver",
+    "meaning": "if you cannot find the address",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0784.mp3"
+  },
+  {
+    "id": "fr-02-0785",
+    "sentence": "Si j'ai une réponse ce soir, je vous préviendrai immédiatement.",
+    "cloze": "Si j'ai une réponse ce soir",
+    "answer": "Si j'ai une réponse ce soir",
+    "lemma": "si",
+    "meaning": "if I get an answer this evening",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0785.mp3"
+  },
+  {
+    "id": "fr-02-0786",
+    "sentence": "Nous irons de Lille à Paris en TGV.",
+    "cloze": "de Lille à Paris en TGV",
+    "answer": "de Lille à Paris en TGV",
+    "lemma": "en TGV",
+    "meaning": "from Lille to Paris by high-speed train",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0786.mp3"
+  },
+  {
+    "id": "fr-02-0787",
+    "sentence": "Le vol pour Marseille partira avec quarante minutes de retard.",
+    "cloze": "pour Marseille",
+    "answer": "pour Marseille",
+    "lemma": "pour",
+    "meaning": "to Marseille",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0787.mp3"
+  },
+  {
+    "id": "fr-02-0788",
+    "sentence": "À l'aéroport, suivez les panneaux jusqu'au contrôle de sécurité.",
+    "cloze": "jusqu'au contrôle de sécurité",
+    "answer": "jusqu'au contrôle de sécurité",
+    "lemma": "jusqu'à",
+    "meaning": "as far as the security checkpoint",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0788.mp3"
+  },
+  {
+    "id": "fr-02-0789",
+    "sentence": "Vous devez vous présenter à la mairie avec une pièce d'identité.",
+    "cloze": "à la mairie avec une pièce d'identité",
+    "answer": "à la mairie avec une pièce d'identité",
+    "lemma": "la mairie",
+    "meaning": "at the town hall with an identity document",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0789.mp3"
+  },
+  {
+    "id": "fr-02-0790",
+    "sentence": "Je passerai chez le médecin avant d'aller au travail.",
+    "cloze": "chez le médecin avant d'aller au travail",
+    "answer": "chez le médecin avant d'aller au travail",
+    "lemma": "chez le médecin",
+    "meaning": "to the doctor's before going to work",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0790.mp3"
+  },
+  {
+    "id": "fr-02-0791",
+    "sentence": "Nous déjeunons avec notre formatrice près du centre de formation.",
+    "cloze": "avec notre formatrice",
+    "answer": "avec notre formatrice",
+    "lemma": "avec",
+    "meaning": "with our trainer",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0791.mp3"
+  },
+  {
+    "id": "fr-02-0792",
+    "sentence": "Ce document est destiné au service des ressources humaines.",
+    "cloze": "au service des ressources humaines",
+    "answer": "au service des ressources humaines",
+    "lemma": "le service des ressources humaines",
+    "meaning": "for the human resources department",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0792.mp3"
+  },
+  {
+    "id": "fr-02-0793",
+    "sentence": "Ma sœur reste chez nos cousins pendant les travaux.",
+    "cloze": "chez nos cousins pendant les travaux",
+    "answer": "chez nos cousins pendant les travaux",
+    "lemma": "chez",
+    "meaning": "at our cousins' during the building work",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0793.mp3"
+  },
+  {
+    "id": "fr-02-0794",
+    "sentence": "Les nouveaux collègues sont en formation toute la matinée.",
+    "cloze": "en formation toute la matinée",
+    "answer": "en formation toute la matinée",
+    "lemma": "être en formation",
+    "meaning": "in training all morning",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0794.mp3"
+  },
+  {
+    "id": "fr-02-0795",
+    "sentence": "Nous nous retrouverons à l'entrée du théâtre avant le spectacle.",
+    "cloze": "à l'entrée du théâtre",
+    "answer": "à l'entrée du théâtre",
+    "lemma": "l'entrée du théâtre",
+    "meaning": "at the theatre entrance",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0795.mp3"
+  },
+  {
+    "id": "fr-02-0796",
+    "sentence": "Notre chambre se trouve au-dessus du restaurant.",
+    "cloze": "au-dessus du restaurant",
+    "answer": "au-dessus du restaurant",
+    "lemma": "au-dessus de",
+    "meaning": "above the restaurant",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0796.mp3"
+  },
+  {
+    "id": "fr-02-0797",
+    "sentence": "Il y a un arrêt de bus au bord de la route.",
+    "cloze": "au bord de la route",
+    "answer": "au bord de la route",
+    "lemma": "au bord de",
+    "meaning": "at the side of the road",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0797.mp3"
+  },
+  {
+    "id": "fr-02-0798",
+    "sentence": "Veuillez attendre à l'intérieur du bâtiment.",
+    "cloze": "à l'intérieur du bâtiment",
+    "answer": "à l'intérieur du bâtiment",
+    "lemma": "à l'intérieur de",
+    "meaning": "inside the building",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0798.mp3"
+  },
+  {
+    "id": "fr-02-0799",
+    "sentence": "Nous avons loué cet appartement pour trois semaines.",
+    "cloze": "pour trois semaines",
+    "answer": "pour trois semaines",
+    "lemma": "pour",
+    "meaning": "for three weeks",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0799.mp3"
+  },
+  {
+    "id": "fr-02-0800",
+    "sentence": "Le musée est fermé depuis le début du mois.",
+    "cloze": "depuis le début du mois",
+    "answer": "depuis le début du mois",
+    "lemma": "depuis",
+    "meaning": "since the beginning of the month",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0800.mp3"
   }
 ]
