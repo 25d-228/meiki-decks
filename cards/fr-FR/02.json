@@ -1,0 +1,411 @@
+[
+  {
+    "id": "fr-02-0001",
+    "sentence": "J'ai travaillé avec l'équipe toute la journée.",
+    "cloze": "J'ai travaillé",
+    "answer": "J'ai travaillé",
+    "lemma": "travailler",
+    "meaning": "I worked",
+    "accepted_answers": [],
+    "grammar": "Passé composé with avoir: auxiliary + past participle.",
+    "audio": "work/audio/fr-FR/02/fr-02-0001.mp3"
+  },
+  {
+    "id": "fr-02-0002",
+    "sentence": "Nous avons discuté du voyage pendant le déjeuner.",
+    "cloze": "avons discuté",
+    "answer": "avons discuté",
+    "lemma": "discuter",
+    "meaning": "discussed; talked",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0002.mp3"
+  },
+  {
+    "id": "fr-02-0003",
+    "sentence": "Léa a préparé la salle avant la réunion.",
+    "cloze": "a préparé",
+    "answer": "a préparé",
+    "lemma": "préparer",
+    "meaning": "prepared",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0003.mp3"
+  },
+  {
+    "id": "fr-02-0004",
+    "sentence": "On a dîné chez nos voisins mardi soir.",
+    "cloze": "a dîné",
+    "answer": "a dîné",
+    "lemma": "dîner",
+    "meaning": "had dinner",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0004.mp3"
+  },
+  {
+    "id": "fr-02-0005",
+    "sentence": "Vous avez téléphoné à la réception ce matin.",
+    "cloze": "avez téléphoné",
+    "answer": "avez téléphoné",
+    "lemma": "téléphoner à",
+    "meaning": "called; phoned",
+    "accepted_answers": [],
+    "register": "polite",
+    "audio": "work/audio/fr-FR/02/fr-02-0005.mp3"
+  },
+  {
+    "id": "fr-02-0006",
+    "sentence": "Tu as rangé les courses dans les placards.",
+    "cloze": "as rangé",
+    "answer": "as rangé",
+    "lemma": "ranger",
+    "meaning": "put away",
+    "accepted_answers": [],
+    "register": "between close friends or family",
+    "audio": "work/audio/fr-FR/02/fr-02-0006.mp3"
+  },
+  {
+    "id": "fr-02-0007",
+    "sentence": "Ils ont débarrassé la table après le déjeuner.",
+    "cloze": "ont débarrassé",
+    "answer": "ont débarrassé",
+    "lemma": "débarrasser",
+    "meaning": "cleared",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0007.mp3"
+  },
+  {
+    "id": "fr-02-0008",
+    "sentence": "Elle a acheté un cadeau pour sa mère.",
+    "cloze": "a acheté",
+    "answer": "a acheté",
+    "lemma": "acheter",
+    "meaning": "bought",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0008.mp3"
+  },
+  {
+    "id": "fr-02-0009",
+    "sentence": "Nous avons écouté les informations dans la voiture ce matin.",
+    "cloze": "avons écouté",
+    "answer": "avons écouté",
+    "lemma": "écouter",
+    "meaning": "listened to",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0009.mp3"
+  },
+  {
+    "id": "fr-02-0010",
+    "sentence": "J'ai cuisiné pour toute la famille dimanche.",
+    "cloze": "J'ai cuisiné",
+    "answer": "J'ai cuisiné",
+    "lemma": "cuisiner",
+    "meaning": "I cooked",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0010.mp3"
+  },
+  {
+    "id": "fr-02-0011",
+    "sentence": "Paul a étudié le français dimanche matin.",
+    "cloze": "a étudié",
+    "answer": "a étudié",
+    "lemma": "étudier",
+    "meaning": "studied",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0011.mp3"
+  },
+  {
+    "id": "fr-02-0012",
+    "sentence": "On a commencé la réunion sans la directrice.",
+    "cloze": "a commencé",
+    "answer": "a commencé",
+    "lemma": "commencer",
+    "meaning": "started",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0012.mp3"
+  },
+  {
+    "id": "fr-02-0013",
+    "sentence": "Vous avez terminé votre café avant la réunion.",
+    "cloze": "avez terminé",
+    "answer": "avez terminé",
+    "lemma": "terminer",
+    "meaning": "finished",
+    "accepted_answers": [],
+    "register": "polite or professional",
+    "audio": "work/audio/fr-FR/02/fr-02-0013.mp3"
+  },
+  {
+    "id": "fr-02-0014",
+    "sentence": "Léa a présenté sa collègue à la directrice.",
+    "cloze": "a présenté",
+    "answer": "a présenté",
+    "lemma": "présenter",
+    "meaning": "introduced",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0014.mp3"
+  },
+  {
+    "id": "fr-02-0015",
+    "sentence": "J'ai envoyé l'adresse de l'hôtel à ma collègue.",
+    "cloze": "J'ai envoyé",
+    "answer": "J'ai envoyé",
+    "lemma": "envoyer",
+    "meaning": "I sent",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0015.mp3"
+  },
+  {
+    "id": "fr-02-0016",
+    "sentence": "La directrice a organisé une réunion vendredi.",
+    "cloze": "a organisé",
+    "answer": "a organisé",
+    "lemma": "organiser",
+    "meaning": "organized",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0016.mp3"
+  },
+  {
+    "id": "fr-02-0017",
+    "sentence": "Vous avez réservé une voiture pour le week-end.",
+    "cloze": "avez réservé",
+    "answer": "avez réservé",
+    "lemma": "réserver",
+    "meaning": "reserved; booked",
+    "accepted_answers": [],
+    "register": "polite",
+    "audio": "work/audio/fr-FR/02/fr-02-0017.mp3"
+  },
+  {
+    "id": "fr-02-0018",
+    "sentence": "On a commandé deux cafés au comptoir.",
+    "cloze": "a commandé",
+    "answer": "a commandé",
+    "lemma": "commander",
+    "meaning": "ordered",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0018.mp3"
+  },
+  {
+    "id": "fr-02-0019",
+    "sentence": "Les clients ont réglé leur séjour avant le départ.",
+    "cloze": "ont réglé",
+    "answer": "ont réglé",
+    "lemma": "régler",
+    "meaning": "paid; settled",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0019.mp3"
+  },
+  {
+    "id": "fr-02-0020",
+    "sentence": "J'ai essayé des chaussures dans deux magasins.",
+    "cloze": "J'ai essayé",
+    "answer": "J'ai essayé",
+    "lemma": "essayer",
+    "meaning": "I tried on",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0020.mp3"
+  },
+  {
+    "id": "fr-02-0021",
+    "sentence": "Mon amie a échangé cette chemise au magasin.",
+    "cloze": "a échangé",
+    "answer": "a échangé",
+    "lemma": "échanger",
+    "meaning": "exchanged",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0021.mp3"
+  },
+  {
+    "id": "fr-02-0022",
+    "sentence": "Nous avons payé le taxi à l'arrivée.",
+    "cloze": "avons payé",
+    "answer": "avons payé",
+    "lemma": "payer",
+    "meaning": "paid for",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0022.mp3"
+  },
+  {
+    "id": "fr-02-0023",
+    "sentence": "Nous avons visité un appartement près de la gare.",
+    "cloze": "avons visité",
+    "answer": "avons visité",
+    "lemma": "visiter",
+    "meaning": "visited",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0023.mp3"
+  },
+  {
+    "id": "fr-02-0024",
+    "sentence": "Tu as marché une heure sur la plage.",
+    "cloze": "as marché",
+    "answer": "as marché",
+    "lemma": "marcher",
+    "meaning": "walked",
+    "accepted_answers": [],
+    "register": "between close friends or family",
+    "audio": "work/audio/fr-FR/02/fr-02-0024.mp3"
+  },
+  {
+    "id": "fr-02-0025",
+    "sentence": "Mes collègues ont joué aux cartes après le travail.",
+    "cloze": "ont joué aux cartes",
+    "answer": "ont joué aux cartes",
+    "lemma": "jouer aux cartes",
+    "meaning": "played cards",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0025.mp3"
+  },
+  {
+    "id": "fr-02-0026",
+    "sentence": "J'ai assisté au concert vendredi soir.",
+    "cloze": "J'ai assisté",
+    "answer": "J'ai assisté",
+    "lemma": "assister à",
+    "meaning": "I attended",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0026.mp3"
+  },
+  {
+    "id": "fr-02-0027",
+    "sentence": "Elle a photographié ses amis devant l'hôtel.",
+    "cloze": "a photographié",
+    "answer": "a photographié",
+    "lemma": "photographier",
+    "meaning": "photographed",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0027.mp3"
+  },
+  {
+    "id": "fr-02-0028",
+    "sentence": "Nous avons passé la soirée chez des amis.",
+    "cloze": "avons passé",
+    "answer": "avons passé",
+    "lemma": "passer",
+    "meaning": "spent",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0028.mp3"
+  },
+  {
+    "id": "fr-02-0029",
+    "sentence": "Vous avez voyagé en train jusqu'à Lille.",
+    "cloze": "avez voyagé",
+    "answer": "avez voyagé",
+    "lemma": "voyager",
+    "meaning": "travelled",
+    "accepted_answers": [],
+    "register": "polite",
+    "audio": "work/audio/fr-FR/02/fr-02-0029.mp3"
+  },
+  {
+    "id": "fr-02-0030",
+    "sentence": "On a pique-niqué dans le jardin de nos amis.",
+    "cloze": "a pique-niqué",
+    "answer": "a pique-niqué",
+    "lemma": "pique-niquer",
+    "meaning": "had a picnic",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0030.mp3"
+  },
+  {
+    "id": "fr-02-0031",
+    "sentence": "J'ai imprimé le plan du métro au bureau.",
+    "cloze": "J'ai imprimé",
+    "answer": "J'ai imprimé",
+    "lemma": "imprimer",
+    "meaning": "I printed",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0031.mp3"
+  },
+  {
+    "id": "fr-02-0032",
+    "sentence": "Ma collègue a corrigé l'adresse de l'hôtel.",
+    "cloze": "a corrigé",
+    "answer": "a corrigé",
+    "lemma": "corriger",
+    "meaning": "corrected",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0032.mp3"
+  },
+  {
+    "id": "fr-02-0033",
+    "sentence": "Nous avons déplacé les tables après la pause.",
+    "cloze": "avons déplacé les tables",
+    "answer": "avons déplacé les tables",
+    "lemma": "déplacer",
+    "meaning": "moved the tables",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0033.mp3"
+  },
+  {
+    "id": "fr-02-0034",
+    "sentence": "Les collègues ont participé à une formation lundi.",
+    "cloze": "ont participé à une formation",
+    "answer": "ont participé à une formation",
+    "lemma": "participer à",
+    "meaning": "took part in a training course",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0034.mp3"
+  },
+  {
+    "id": "fr-02-0035",
+    "sentence": "Vous avez signé le document à l'accueil.",
+    "cloze": "avez signé le document",
+    "answer": "avez signé le document",
+    "lemma": "signer",
+    "meaning": "signed the document",
+    "accepted_answers": [],
+    "register": "polite or professional",
+    "audio": "work/audio/fr-FR/02/fr-02-0035.mp3"
+  },
+  {
+    "id": "fr-02-0036",
+    "sentence": "La réceptionniste a confirmé l'heure du petit déjeuner.",
+    "cloze": "a confirmé",
+    "answer": "a confirmé",
+    "lemma": "confirmer",
+    "meaning": "confirmed",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0036.mp3"
+  },
+  {
+    "id": "fr-02-0037",
+    "sentence": "J'ai contacté l'hôtel ce matin.",
+    "cloze": "J'ai contacté",
+    "answer": "J'ai contacté",
+    "lemma": "contacter",
+    "meaning": "I contacted",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0037.mp3"
+  },
+  {
+    "id": "fr-02-0038",
+    "sentence": "La propriétaire a réparé la douche vendredi.",
+    "cloze": "a réparé",
+    "answer": "a réparé",
+    "lemma": "réparer",
+    "meaning": "repaired",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0038.mp3"
+  },
+  {
+    "id": "fr-02-0039",
+    "sentence": "Tu as allumé la lumière du salon.",
+    "cloze": "as allumé",
+    "answer": "as allumé",
+    "lemma": "allumer",
+    "meaning": "turned on",
+    "accepted_answers": [],
+    "register": "between close friends or family",
+    "audio": "work/audio/fr-FR/02/fr-02-0039.mp3"
+  },
+  {
+    "id": "fr-02-0040",
+    "sentence": "Les collègues ont fermé le bureau pour la pause déjeuner.",
+    "cloze": "ont fermé",
+    "answer": "ont fermé",
+    "lemma": "fermer",
+    "meaning": "closed",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0040.mp3"
+  }
+]
