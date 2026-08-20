@@ -6519,5 +6519,405 @@
     "meaning": "will run every twenty minutes",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0640.mp3"
+  },
+  {
+    "id": "fr-02-0641",
+    "sentence": "Pour accompagner le poisson, nous préparons du riz complet.",
+    "cloze": "du riz complet",
+    "answer": "du riz complet",
+    "lemma": "le riz complet",
+    "meaning": "some brown rice",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0641.mp3"
+  },
+  {
+    "id": "fr-02-0642",
+    "sentence": "Pour la pâte, versez de la farine dans le saladier.",
+    "cloze": "de la farine",
+    "answer": "de la farine",
+    "lemma": "la farine",
+    "meaning": "some flour",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0642.mp3"
+  },
+  {
+    "id": "fr-02-0643",
+    "sentence": "La vinaigrette contient de l'huile de tournesol et du vinaigre.",
+    "cloze": "de l'huile de tournesol",
+    "answer": "de l'huile de tournesol",
+    "lemma": "l'huile de tournesol",
+    "meaning": "some sunflower oil",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0643.mp3"
+  },
+  {
+    "id": "fr-02-0644",
+    "sentence": "Ce soir, nous mangeons des lentilles avec des carottes.",
+    "cloze": "des lentilles",
+    "answer": "des lentilles",
+    "lemma": "la lentille",
+    "meaning": "some lentils",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0644.mp3"
+  },
+  {
+    "id": "fr-02-0645",
+    "sentence": "Cette purée ne contient pas de beurre.",
+    "cloze": "de beurre",
+    "answer": "de beurre",
+    "lemma": "le beurre",
+    "meaning": "any butter after negation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0645.mp3"
+  },
+  {
+    "id": "fr-02-0646",
+    "sentence": "En hiver, ce petit magasin ne vend pas de fruits frais.",
+    "cloze": "de fruits frais",
+    "answer": "de fruits frais",
+    "lemma": "le fruit frais",
+    "meaning": "any fresh fruit after negation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0646.mp3"
+  },
+  {
+    "id": "fr-02-0647",
+    "sentence": "Il faut trois cents grammes de farine pour ce gâteau.",
+    "cloze": "trois cents grammes de farine",
+    "answer": "trois cents grammes de farine",
+    "lemma": "le gramme",
+    "meaning": "three hundred grams of flour",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0647.mp3"
+  },
+  {
+    "id": "fr-02-0648",
+    "sentence": "Ajoutez un quart de litre de lait, puis mélangez doucement.",
+    "cloze": "un quart de litre de lait",
+    "answer": "un quart de litre de lait",
+    "lemma": "le litre",
+    "meaning": "a quarter of a litre of milk",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0648.mp3"
+  },
+  {
+    "id": "fr-02-0649",
+    "sentence": "Je mets deux cuillères à soupe d'huile dans la poêle.",
+    "cloze": "deux cuillères à soupe d'huile",
+    "answer": "deux cuillères à soupe d'huile",
+    "lemma": "la cuillère à soupe",
+    "meaning": "two tablespoons of oil",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0649.mp3"
+  },
+  {
+    "id": "fr-02-0650",
+    "sentence": "Une cuillère à café de sel suffit pour cette soupe.",
+    "cloze": "Une cuillère à café de sel",
+    "answer": "Une cuillère à café de sel",
+    "lemma": "la cuillère à café",
+    "meaning": "one teaspoon of salt",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0650.mp3"
+  },
+  {
+    "id": "fr-02-0651",
+    "sentence": "Terminez la sauce avec une pincée de poivre.",
+    "cloze": "une pincée de poivre",
+    "answer": "une pincée de poivre",
+    "lemma": "la pincée",
+    "meaning": "a pinch of pepper",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0651.mp3"
+  },
+  {
+    "id": "fr-02-0652",
+    "sentence": "Pour faire lever la pâte, j'utilise un sachet de levure.",
+    "cloze": "un sachet de levure",
+    "answer": "un sachet de levure",
+    "lemma": "le sachet",
+    "meaning": "a packet of yeast",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0652.mp3"
+  },
+  {
+    "id": "fr-02-0653",
+    "sentence": "Pour la sauce, ouvrez une boîte de tomates concassées.",
+    "cloze": "une boîte de tomates concassées",
+    "answer": "une boîte de tomates concassées",
+    "lemma": "la boîte",
+    "meaning": "a can of chopped tomatoes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0653.mp3"
+  },
+  {
+    "id": "fr-02-0654",
+    "sentence": "Il faut un pot de crème fraîche pour cette recette.",
+    "cloze": "un pot de crème fraîche",
+    "answer": "un pot de crème fraîche",
+    "lemma": "le pot",
+    "meaning": "a tub of crème fraîche",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0654.mp3"
+  },
+  {
+    "id": "fr-02-0655",
+    "sentence": "À la charcuterie, je prends quatre tranches de jambon pour les sandwichs.",
+    "cloze": "quatre tranches de jambon",
+    "answer": "quatre tranches de jambon",
+    "lemma": "la tranche",
+    "meaning": "four slices of ham",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0655.mp3"
+  },
+  {
+    "id": "fr-02-0656",
+    "sentence": "Au marché, j'ai pris une barquette de fraises bien mûres.",
+    "cloze": "une barquette de fraises",
+    "answer": "une barquette de fraises",
+    "lemma": "la barquette",
+    "meaning": "a punnet of strawberries",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0656.mp3"
+  },
+  {
+    "id": "fr-02-0657",
+    "sentence": "Pour l'entrée, prenez une botte de radis.",
+    "cloze": "une botte de radis",
+    "answer": "une botte de radis",
+    "lemma": "la botte",
+    "meaning": "a bunch of radishes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0657.mp3"
+  },
+  {
+    "id": "fr-02-0658",
+    "sentence": "Ajoutez une poignée de noix à la salade.",
+    "cloze": "une poignée de noix",
+    "answer": "une poignée de noix",
+    "lemma": "la poignée",
+    "meaning": "a handful of walnuts",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0658.mp3"
+  },
+  {
+    "id": "fr-02-0659",
+    "sentence": "Il nous faut une demi-douzaine de citrons pour les boissons.",
+    "cloze": "une demi-douzaine de citrons",
+    "answer": "une demi-douzaine de citrons",
+    "lemma": "la demi-douzaine",
+    "meaning": "half a dozen lemons",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0659.mp3"
+  },
+  {
+    "id": "fr-02-0660",
+    "sentence": "Je prends un kilo et demi de pommes de terre pour le gratin.",
+    "cloze": "un kilo et demi de pommes de terre",
+    "answer": "un kilo et demi de pommes de terre",
+    "lemma": "le kilo",
+    "meaning": "one and a half kilos of potatoes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0660.mp3"
+  },
+  {
+    "id": "fr-02-0661",
+    "sentence": "Le vendeur a pesé deux kilos trois cents grammes de tomates.",
+    "cloze": "deux kilos trois cents grammes de tomates",
+    "answer": "deux kilos trois cents grammes de tomates",
+    "lemma": "le kilo; le gramme",
+    "meaning": "two kilos and three hundred grams of tomatoes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0661.mp3"
+  },
+  {
+    "id": "fr-02-0662",
+    "sentence": "Aujourd'hui, les pêches coûtent entre cinq et six euros le kilo.",
+    "cloze": "entre cinq et six euros le kilo",
+    "answer": "entre cinq et six euros le kilo",
+    "lemma": "un euro; le kilo",
+    "meaning": "between five and six euros per kilo",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0662.mp3"
+  },
+  {
+    "id": "fr-02-0663",
+    "sentence": "Avec la réduction, cette boîte coûte sept euros quatre-vingts.",
+    "cloze": "sept euros quatre-vingts",
+    "answer": "sept euros quatre-vingts",
+    "lemma": "un euro",
+    "meaning": "seven euros eighty",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0663.mp3"
+  },
+  {
+    "id": "fr-02-0664",
+    "sentence": "Je cherche une lampe à moins de vingt euros.",
+    "cloze": "moins de vingt euros",
+    "answer": "moins de vingt euros",
+    "lemma": "moins de",
+    "meaning": "less than twenty euros",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0664.mp3"
+  },
+  {
+    "id": "fr-02-0665",
+    "sentence": "Il nous faut un câble d'un peu plus de trois mètres.",
+    "cloze": "un peu plus de trois mètres",
+    "answer": "un peu plus de trois mètres",
+    "lemma": "un peu plus de",
+    "meaning": "a little over three metres",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0665.mp3"
+  },
+  {
+    "id": "fr-02-0666",
+    "sentence": "Cette étagère mesure quatre-vingts centimètres de large.",
+    "cloze": "quatre-vingts centimètres de large",
+    "answer": "quatre-vingts centimètres de large",
+    "lemma": "le centimètre",
+    "meaning": "eighty centimetres wide",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0666.mp3"
+  },
+  {
+    "id": "fr-02-0667",
+    "sentence": "Le tapis fait deux mètres sur trois.",
+    "cloze": "deux mètres sur trois",
+    "answer": "deux mètres sur trois",
+    "lemma": "faire ... sur ...",
+    "meaning": "two metres by three",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0667.mp3"
+  },
+  {
+    "id": "fr-02-0668",
+    "sentence": "Ma valise pèse environ huit kilos.",
+    "cloze": "environ huit kilos",
+    "answer": "environ huit kilos",
+    "lemma": "peser",
+    "meaning": "about eight kilos",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0668.mp3"
+  },
+  {
+    "id": "fr-02-0669",
+    "sentence": "La carafe posée sur la table peut contenir un litre et demi.",
+    "cloze": "un litre et demi",
+    "answer": "un litre et demi",
+    "lemma": "le litre",
+    "meaning": "one and a half litres",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0669.mp3"
+  },
+  {
+    "id": "fr-02-0670",
+    "sentence": "Je vais à la piscine deux fois par semaine.",
+    "cloze": "deux fois par semaine",
+    "answer": "deux fois par semaine",
+    "lemma": "la fois",
+    "meaning": "twice a week",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0670.mp3"
+  },
+  {
+    "id": "fr-02-0671",
+    "sentence": "Le marché bio a lieu tous les quinze jours.",
+    "cloze": "tous les quinze jours",
+    "answer": "tous les quinze jours",
+    "lemma": "tous les quinze jours",
+    "meaning": "every two weeks",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0671.mp3"
+  },
+  {
+    "id": "fr-02-0672",
+    "sentence": "Nous commandons ces produits une fois par mois.",
+    "cloze": "une fois par mois",
+    "answer": "une fois par mois",
+    "lemma": "la fois",
+    "meaning": "once a month",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0672.mp3"
+  },
+  {
+    "id": "fr-02-0673",
+    "sentence": "La livraison prend généralement entre trois et cinq jours.",
+    "cloze": "entre trois et cinq jours",
+    "answer": "entre trois et cinq jours",
+    "lemma": "entre ... et ...",
+    "meaning": "between three and five days",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0673.mp3"
+  },
+  {
+    "id": "fr-02-0674",
+    "sentence": "Le technicien peut passer entre neuf heures et midi.",
+    "cloze": "entre neuf heures et midi",
+    "answer": "entre neuf heures et midi",
+    "lemma": "entre ... et ...",
+    "meaning": "between nine and noon",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0674.mp3"
+  },
+  {
+    "id": "fr-02-0675",
+    "sentence": "La salle peut accueillir jusqu'à trente personnes.",
+    "cloze": "jusqu'à trente personnes",
+    "answer": "jusqu'à trente personnes",
+    "lemma": "jusqu'à",
+    "meaning": "up to thirty people",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0675.mp3"
+  },
+  {
+    "id": "fr-02-0676",
+    "sentence": "Pour le dîner, prévoyez au moins quatre bouteilles d'eau.",
+    "cloze": "au moins quatre bouteilles d'eau",
+    "answer": "au moins quatre bouteilles d'eau",
+    "lemma": "au moins",
+    "meaning": "at least four bottles of water",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0676.mp3"
+  },
+  {
+    "id": "fr-02-0677",
+    "sentence": "Dans ce train, chaque voyageur peut prendre au maximum deux bagages.",
+    "cloze": "au maximum deux bagages",
+    "answer": "au maximum deux bagages",
+    "lemma": "au maximum",
+    "meaning": "no more than two pieces of luggage",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0677.mp3"
+  },
+  {
+    "id": "fr-02-0678",
+    "sentence": "Pour la pause, prévoyez autant de café que de thé.",
+    "cloze": "autant de café que de thé",
+    "answer": "autant de café que de thé",
+    "lemma": "autant de ... que de ...",
+    "meaning": "as much coffee as tea",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0678.mp3"
+  },
+  {
+    "id": "fr-02-0679",
+    "sentence": "Le grand paquet contient deux fois plus de biscuits que le petit.",
+    "cloze": "deux fois plus de biscuits",
+    "answer": "deux fois plus de biscuits",
+    "lemma": "deux fois plus de",
+    "meaning": "twice as many biscuits",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0679.mp3"
+  },
+  {
+    "id": "fr-02-0680",
+    "sentence": "Pendant les soldes, cette table est à moitié prix.",
+    "cloze": "à moitié prix",
+    "answer": "à moitié prix",
+    "lemma": "à moitié prix",
+    "meaning": "half price",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0680.mp3"
   }
 ]
