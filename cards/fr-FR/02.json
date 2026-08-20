@@ -407,5 +407,405 @@
     "meaning": "closed",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0040.mp3"
+  },
+  {
+    "id": "fr-02-0041",
+    "sentence": "Hier soir, j'ai fait le point avec ma collègue avant son départ.",
+    "cloze": "j'ai fait le point",
+    "answer": "j'ai fait le point",
+    "lemma": "faire le point",
+    "meaning": "I reviewed the situation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0041.mp3"
+  },
+  {
+    "id": "fr-02-0042",
+    "sentence": "Paul a pris le dernier train pour Rouen.",
+    "cloze": "a pris",
+    "answer": "a pris",
+    "lemma": "prendre",
+    "meaning": "took",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0042.mp3"
+  },
+  {
+    "id": "fr-02-0043",
+    "sentence": "Nous avons eu une réunion à neuf heures.",
+    "cloze": "avons eu",
+    "answer": "avons eu",
+    "lemma": "avoir",
+    "meaning": "had",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0043.mp3"
+  },
+  {
+    "id": "fr-02-0044",
+    "sentence": "Les enfants ont vu une exposition au musée.",
+    "cloze": "ont vu",
+    "answer": "ont vu",
+    "lemma": "voir",
+    "meaning": "saw",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0044.mp3"
+  },
+  {
+    "id": "fr-02-0045",
+    "sentence": "Vous avez lu le message avant la réunion.",
+    "cloze": "avez lu",
+    "answer": "avez lu",
+    "lemma": "lire",
+    "meaning": "read",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0045.mp3"
+  },
+  {
+    "id": "fr-02-0046",
+    "sentence": "J'ai écrit l'adresse dans mon carnet.",
+    "cloze": "J'ai écrit",
+    "answer": "J'ai écrit",
+    "lemma": "écrire",
+    "meaning": "I wrote",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0046.mp3"
+  },
+  {
+    "id": "fr-02-0047",
+    "sentence": "La réceptionniste a mis les clés sur le comptoir.",
+    "cloze": "a mis",
+    "answer": "a mis",
+    "lemma": "mettre",
+    "meaning": "put",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0047.mp3"
+  },
+  {
+    "id": "fr-02-0048",
+    "sentence": "Mes collègues ont dit la même chose.",
+    "cloze": "ont dit",
+    "answer": "ont dit",
+    "lemma": "dire",
+    "meaning": "said",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0048.mp3"
+  },
+  {
+    "id": "fr-02-0049",
+    "sentence": "Tu as bu un café avec Léa après le déjeuner.",
+    "cloze": "as bu un café",
+    "answer": "as bu un café",
+    "lemma": "boire",
+    "meaning": "had a coffee",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0049.mp3"
+  },
+  {
+    "id": "fr-02-0050",
+    "sentence": "Nous avons reçu la confirmation ce matin.",
+    "cloze": "avons reçu",
+    "answer": "avons reçu",
+    "lemma": "recevoir",
+    "meaning": "received",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0050.mp3"
+  },
+  {
+    "id": "fr-02-0051",
+    "sentence": "J'ai compris le changement de voie après l'annonce.",
+    "cloze": "J'ai compris",
+    "answer": "J'ai compris",
+    "lemma": "comprendre",
+    "meaning": "I understood",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0051.mp3"
+  },
+  {
+    "id": "fr-02-0052",
+    "sentence": "Léa a appris l'heure du départ à l'accueil.",
+    "cloze": "a appris",
+    "answer": "a appris",
+    "lemma": "apprendre",
+    "meaning": "found out",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0052.mp3"
+  },
+  {
+    "id": "fr-02-0053",
+    "sentence": "Vous avez choisi le menu végétarien.",
+    "cloze": "avez choisi",
+    "answer": "avez choisi",
+    "lemma": "choisir",
+    "meaning": "chose",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0053.mp3"
+  },
+  {
+    "id": "fr-02-0054",
+    "sentence": "Nous avons fini la réunion à dix-sept heures.",
+    "cloze": "avons fini",
+    "answer": "avons fini",
+    "lemma": "finir",
+    "meaning": "finished",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0054.mp3"
+  },
+  {
+    "id": "fr-02-0055",
+    "sentence": "Mes parents ont attendu le bus pendant vingt minutes.",
+    "cloze": "ont attendu",
+    "answer": "ont attendu",
+    "lemma": "attendre",
+    "meaning": "waited for",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0055.mp3"
+  },
+  {
+    "id": "fr-02-0056",
+    "sentence": "Ma sœur a perdu ses clés dans le train.",
+    "cloze": "a perdu",
+    "answer": "a perdu",
+    "lemma": "perdre",
+    "meaning": "lost",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0056.mp3"
+  },
+  {
+    "id": "fr-02-0057",
+    "sentence": "J'ai ouvert la fenêtre après la réunion.",
+    "cloze": "J'ai ouvert",
+    "answer": "J'ai ouvert",
+    "lemma": "ouvrir",
+    "meaning": "I opened",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0057.mp3"
+  },
+  {
+    "id": "fr-02-0058",
+    "sentence": "Le serveur a offert un café après cette longue attente.",
+    "cloze": "a offert",
+    "answer": "a offert",
+    "lemma": "offrir",
+    "meaning": "offered",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0058.mp3"
+  },
+  {
+    "id": "fr-02-0059",
+    "sentence": "Je n'ai pas pu payer par carte au restaurant.",
+    "cloze": "n'ai pas pu",
+    "answer": "n'ai pas pu",
+    "lemma": "pouvoir",
+    "meaning": "could not",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0059.mp3"
+  },
+  {
+    "id": "fr-02-0060",
+    "sentence": "Elle n'a pas voulu changer de table.",
+    "cloze": "n'a pas voulu",
+    "answer": "n'a pas voulu",
+    "lemma": "vouloir",
+    "meaning": "did not want",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0060.mp3"
+  },
+  {
+    "id": "fr-02-0061",
+    "sentence": "Nous n'avons pas eu de réponse ce matin.",
+    "cloze": "n'avons pas eu",
+    "answer": "n'avons pas eu",
+    "lemma": "avoir",
+    "meaning": "did not get",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0061.mp3"
+  },
+  {
+    "id": "fr-02-0062",
+    "sentence": "Le train n'a pas pris de retard ce matin.",
+    "cloze": "n'a pas pris",
+    "answer": "n'a pas pris",
+    "lemma": "prendre",
+    "meaning": "did not get",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0062.mp3"
+  },
+  {
+    "id": "fr-02-0063",
+    "sentence": "Vous n'avez pas reçu le message de confirmation.",
+    "cloze": "n'avez pas reçu",
+    "answer": "n'avez pas reçu",
+    "lemma": "recevoir",
+    "meaning": "did not receive",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0063.mp3"
+  },
+  {
+    "id": "fr-02-0064",
+    "sentence": "Les clients n'ont pas compris le changement de salle.",
+    "cloze": "n'ont pas compris",
+    "answer": "n'ont pas compris",
+    "lemma": "comprendre",
+    "meaning": "did not understand",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0064.mp3"
+  },
+  {
+    "id": "fr-02-0065",
+    "sentence": "Désolée, je n'ai pas vu votre message hier.",
+    "cloze": "n'ai pas vu",
+    "answer": "n'ai pas vu",
+    "lemma": "voir",
+    "meaning": "did not see",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0065.mp3"
+  },
+  {
+    "id": "fr-02-0066",
+    "sentence": "Tu n'as pas pris ton parapluie ce matin.",
+    "cloze": "n'as pas pris",
+    "answer": "n'as pas pris",
+    "lemma": "prendre",
+    "meaning": "did not take",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0066.mp3"
+  },
+  {
+    "id": "fr-02-0067",
+    "sentence": "Le technicien n'a pas fait la réparation aujourd'hui.",
+    "cloze": "n'a pas fait",
+    "answer": "n'a pas fait",
+    "lemma": "faire",
+    "meaning": "did not do",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0067.mp3"
+  },
+  {
+    "id": "fr-02-0068",
+    "sentence": "Nous n'avons pas écrit la bonne adresse sur le document.",
+    "cloze": "n'avons pas écrit",
+    "answer": "n'avons pas écrit",
+    "lemma": "écrire",
+    "meaning": "did not write",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0068.mp3"
+  },
+  {
+    "id": "fr-02-0069",
+    "sentence": "Ils n'ont rien dit pendant la réunion.",
+    "cloze": "n'ont rien dit",
+    "answer": "n'ont rien dit",
+    "lemma": "dire",
+    "meaning": "said nothing",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0069.mp3"
+  },
+  {
+    "id": "fr-02-0070",
+    "sentence": "Le client n'a pas mis son nom sur le document.",
+    "cloze": "n'a pas mis",
+    "answer": "n'a pas mis",
+    "lemma": "mettre",
+    "meaning": "did not put",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0070.mp3"
+  },
+  {
+    "id": "fr-02-0071",
+    "sentence": "Est-ce que vous avez reçu ma confirmation ?",
+    "cloze": "avez reçu",
+    "answer": "avez reçu",
+    "lemma": "recevoir",
+    "meaning": "did you receive",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0071.mp3"
+  },
+  {
+    "id": "fr-02-0072",
+    "sentence": "Après le travail, qu'est-ce que tu as fait ?",
+    "cloze": "as fait",
+    "answer": "as fait",
+    "lemma": "faire",
+    "meaning": "did you do",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0072.mp3"
+  },
+  {
+    "id": "fr-02-0073",
+    "sentence": "Où est-ce que vous avez mis les clés de la chambre ?",
+    "cloze": "avez mis",
+    "answer": "avez mis",
+    "lemma": "mettre",
+    "meaning": "did you put",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0073.mp3"
+  },
+  {
+    "id": "fr-02-0074",
+    "sentence": "Quand est-ce que vous avez lu mon message ?",
+    "cloze": "est-ce que vous avez lu",
+    "answer": "est-ce que vous avez lu",
+    "lemma": "lire",
+    "meaning": "did you read",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0074.mp3"
+  },
+  {
+    "id": "fr-02-0075",
+    "sentence": "Pourquoi est-ce que tu as choisi ce train ?",
+    "cloze": "as choisi",
+    "answer": "as choisi",
+    "lemma": "choisir",
+    "meaning": "did you choose",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0075.mp3"
+  },
+  {
+    "id": "fr-02-0076",
+    "sentence": "Qui a écrit l'adresse sur le document ?",
+    "cloze": "a écrit",
+    "answer": "a écrit",
+    "lemma": "écrire",
+    "meaning": "wrote",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0076.mp3"
+  },
+  {
+    "id": "fr-02-0077",
+    "sentence": "Tu as bu combien de cafés pendant la réunion ?",
+    "cloze": "as bu",
+    "answer": "as bu",
+    "lemma": "boire",
+    "meaning": "did you drink",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0077.mp3"
+  },
+  {
+    "id": "fr-02-0078",
+    "sentence": "Est-ce que vous avez compris les nouvelles instructions ?",
+    "cloze": "avez compris",
+    "answer": "avez compris",
+    "lemma": "comprendre",
+    "meaning": "did you understand",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0078.mp3"
+  },
+  {
+    "id": "fr-02-0079",
+    "sentence": "Excusez-moi, qu'est-ce que vous avez dit après l'heure de départ ?",
+    "cloze": "avez dit",
+    "answer": "avez dit",
+    "lemma": "dire",
+    "meaning": "did you say",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0079.mp3"
+  },
+  {
+    "id": "fr-02-0080",
+    "sentence": "Est-ce que vous avez pu ouvrir la porte de votre chambre ?",
+    "cloze": "avez pu ouvrir",
+    "answer": "avez pu ouvrir",
+    "lemma": "pouvoir",
+    "meaning": "were you able to open",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0080.mp3"
   }
 ]
