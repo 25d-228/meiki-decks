@@ -6919,5 +6919,405 @@
     "meaning": "half price",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/02/fr-02-0680.mp3"
+  },
+  {
+    "id": "fr-02-0681",
+    "sentence": "Pour quatre personnes, cet appartement est plus spacieux que le studio du centre-ville.",
+    "cloze": "plus spacieux",
+    "answer": "plus spacieux",
+    "lemma": "spacieux, spacieuse",
+    "meaning": "more spacious",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0681.mp3"
+  },
+  {
+    "id": "fr-02-0682",
+    "sentence": "Cette chambre côté cour est moins bruyante que la chambre côté rue.",
+    "cloze": "moins bruyante",
+    "answer": "moins bruyante",
+    "lemma": "bruyant, bruyante",
+    "meaning": "less noisy",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0682.mp3"
+  },
+  {
+    "id": "fr-02-0683",
+    "sentence": "Sur un long trajet, les sièges avant sont aussi confortables que les sièges arrière.",
+    "cloze": "aussi confortables",
+    "answer": "aussi confortables",
+    "lemma": "confortable",
+    "meaning": "just as comfortable",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0683.mp3"
+  },
+  {
+    "id": "fr-02-0684",
+    "sentence": "Pour voyager en train, je prends cette valise parce qu'elle est plus légère que mon grand sac.",
+    "cloze": "plus légère",
+    "answer": "plus légère",
+    "lemma": "léger, légère",
+    "meaning": "lighter",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0684.mp3"
+  },
+  {
+    "id": "fr-02-0685",
+    "sentence": "Pour le même trajet, le billet de bus est moins cher que le billet de train.",
+    "cloze": "moins cher",
+    "answer": "moins cher",
+    "lemma": "cher, chère",
+    "meaning": "less expensive",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0685.mp3"
+  },
+  {
+    "id": "fr-02-0686",
+    "sentence": "Pour les appels vidéo, je vous recommande ce casque : il est meilleur que le modèle sans micro.",
+    "cloze": "meilleur",
+    "answer": "meilleur",
+    "lemma": "meilleur, meilleure",
+    "meaning": "better",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0686.mp3"
+  },
+  {
+    "id": "fr-02-0687",
+    "sentence": "Pour rejoindre la gare, le trajet par le parc est plus direct que le trajet par le centre.",
+    "cloze": "plus direct",
+    "answer": "plus direct",
+    "lemma": "direct, directe",
+    "meaning": "more direct",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0687.mp3"
+  },
+  {
+    "id": "fr-02-0688",
+    "sentence": "En journée, cette chambre reste moins lumineuse que le salon.",
+    "cloze": "moins lumineuse",
+    "answer": "moins lumineuse",
+    "lemma": "lumineux, lumineuse",
+    "meaning": "less bright",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0688.mp3"
+  },
+  {
+    "id": "fr-02-0689",
+    "sentence": "Pour un week-end, ce sac noir est aussi pratique que la petite valise.",
+    "cloze": "aussi pratique",
+    "answer": "aussi pratique",
+    "lemma": "pratique",
+    "meaning": "just as practical",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0689.mp3"
+  },
+  {
+    "id": "fr-02-0690",
+    "sentence": "Pour le dîner, je trouve la veste grise plus élégante que la veste noire.",
+    "cloze": "plus élégante",
+    "answer": "plus élégante",
+    "lemma": "élégant, élégante",
+    "meaning": "more elegant",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0690.mp3"
+  },
+  {
+    "id": "fr-02-0691",
+    "sentence": "Le train direct pour Lyon arrive plus tôt que le car.",
+    "cloze": "arrive plus tôt",
+    "answer": "arrive plus tôt",
+    "lemma": "arriver",
+    "meaning": "arrives earlier",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0691.mp3"
+  },
+  {
+    "id": "fr-02-0692",
+    "sentence": "Depuis son accident, Hugo conduit moins vite qu'avant.",
+    "cloze": "conduit moins vite",
+    "answer": "conduit moins vite",
+    "lemma": "conduire",
+    "meaning": "drives more slowly",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0692.mp3"
+  },
+  {
+    "id": "fr-02-0693",
+    "sentence": "Pour les nouveaux collègues, Nadia explique les tâches aussi clairement que la formatrice.",
+    "cloze": "aussi clairement",
+    "answer": "aussi clairement",
+    "lemma": "clairement",
+    "meaning": "just as clearly",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0693.mp3"
+  },
+  {
+    "id": "fr-02-0694",
+    "sentence": "Dans la chambre côté cour, je dors mieux que dans la chambre côté rue.",
+    "cloze": "dors mieux",
+    "answer": "dors mieux",
+    "lemma": "dormir",
+    "meaning": "sleep better",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0694.mp3"
+  },
+  {
+    "id": "fr-02-0695",
+    "sentence": "Avec cette connexion, le fichier se télécharge plus rapidement qu'au bureau.",
+    "cloze": "se télécharge plus rapidement",
+    "answer": "se télécharge plus rapidement",
+    "lemma": "se télécharger",
+    "meaning": "downloads more quickly",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0695.mp3"
+  },
+  {
+    "id": "fr-02-0696",
+    "sentence": "Au guichet, on attend moins longtemps le matin qu'à midi.",
+    "cloze": "attend moins longtemps",
+    "answer": "attend moins longtemps",
+    "lemma": "attendre",
+    "meaning": "waits for less time",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0696.mp3"
+  },
+  {
+    "id": "fr-02-0697",
+    "sentence": "Avec un écran externe, Luc travaille plus efficacement qu'avant.",
+    "cloze": "travaille plus efficacement",
+    "answer": "travaille plus efficacement",
+    "lemma": "travailler",
+    "meaning": "works more efficiently",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0697.mp3"
+  },
+  {
+    "id": "fr-02-0698",
+    "sentence": "Depuis mon déménagement, je vais plus souvent au marché qu'au supermarché.",
+    "cloze": "vais plus souvent au marché",
+    "answer": "vais plus souvent au marché",
+    "lemma": "aller",
+    "meaning": "go to the market more often",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0698.mp3"
+  },
+  {
+    "id": "fr-02-0699",
+    "sentence": "Pour les repas de famille, ma sœur cuisine mieux que moi.",
+    "cloze": "cuisine mieux que moi",
+    "answer": "cuisine mieux que moi",
+    "lemma": "cuisiner",
+    "meaning": "cooks better than I do",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0699.mp3"
+  },
+  {
+    "id": "fr-02-0700",
+    "sentence": "Cette application fonctionne aussi bien sur mon téléphone que sur ma tablette.",
+    "cloze": "fonctionne aussi bien",
+    "answer": "fonctionne aussi bien",
+    "lemma": "fonctionner",
+    "meaning": "works just as well",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0700.mp3"
+  },
+  {
+    "id": "fr-02-0701",
+    "sentence": "Ce placard offre plus d'espace de rangement que l'armoire de l'entrée.",
+    "cloze": "plus d'espace de rangement",
+    "answer": "plus d'espace de rangement",
+    "lemma": "l'espace de rangement",
+    "meaning": "more storage space",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0701.mp3"
+  },
+  {
+    "id": "fr-02-0702",
+    "sentence": "Cette compote contient moins de sucre que le dessert au chocolat.",
+    "cloze": "moins de sucre",
+    "answer": "moins de sucre",
+    "lemma": "le sucre",
+    "meaning": "less sugar",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0702.mp3"
+  },
+  {
+    "id": "fr-02-0703",
+    "sentence": "Le premier atelier a autant de places que le second.",
+    "cloze": "autant de places",
+    "answer": "autant de places",
+    "lemma": "la place",
+    "meaning": "as many places",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0703.mp3"
+  },
+  {
+    "id": "fr-02-0704",
+    "sentence": "Cette année, j'ai moins de temps libre que l'an dernier.",
+    "cloze": "moins de temps libre",
+    "answer": "moins de temps libre",
+    "lemma": "le temps libre",
+    "meaning": "less free time",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0704.mp3"
+  },
+  {
+    "id": "fr-02-0705",
+    "sentence": "Le cours en classe demande plus de travail que le cours en ligne.",
+    "cloze": "plus de travail",
+    "answer": "plus de travail",
+    "lemma": "le travail",
+    "meaning": "more work",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0705.mp3"
+  },
+  {
+    "id": "fr-02-0706",
+    "sentence": "Au retour, nous avons autant de bagages qu'à l'aller.",
+    "cloze": "autant de bagages",
+    "answer": "autant de bagages",
+    "lemma": "le bagage",
+    "meaning": "as much luggage",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0706.mp3"
+  },
+  {
+    "id": "fr-02-0707",
+    "sentence": "Pendant nos vacances, Lina marche plus que moi.",
+    "cloze": "marche plus que moi",
+    "answer": "marche plus que moi",
+    "lemma": "marcher",
+    "meaning": "walks more than I do",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0707.mp3"
+  },
+  {
+    "id": "fr-02-0708",
+    "sentence": "Pour les voyages de travail, je dépense moins que mon collègue.",
+    "cloze": "dépense moins que mon collègue",
+    "answer": "dépense moins que mon collègue",
+    "lemma": "dépenser",
+    "meaning": "spend less than my colleague",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0708.mp3"
+  },
+  {
+    "id": "fr-02-0709",
+    "sentence": "Pour aller au centre-ville, le trajet en tram prend moins de temps que le trajet en voiture.",
+    "cloze": "prend moins de temps",
+    "answer": "prend moins de temps",
+    "lemma": "prendre moins de temps",
+    "meaning": "takes less time",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0709.mp3"
+  },
+  {
+    "id": "fr-02-0710",
+    "sentence": "Pour ce trajet de nuit, je préfère le train à la voiture.",
+    "cloze": "préfère le train à la voiture",
+    "answer": "préfère le train à la voiture",
+    "lemma": "préférer",
+    "meaning": "prefer the train to the car",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0710.mp3"
+  },
+  {
+    "id": "fr-02-0711",
+    "sentence": "Parmi ces trois hôtels, celui-ci est le moins cher.",
+    "cloze": "le moins cher",
+    "answer": "le moins cher",
+    "lemma": "cher, chère",
+    "meaning": "the least expensive",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0711.mp3"
+  },
+  {
+    "id": "fr-02-0712",
+    "sentence": "La chambre 12 est la plus calme de l'hôtel.",
+    "cloze": "la plus calme de l'hôtel",
+    "answer": "la plus calme de l'hôtel",
+    "lemma": "calme",
+    "meaning": "the quietest in the hotel",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0712.mp3"
+  },
+  {
+    "id": "fr-02-0713",
+    "sentence": "Parmi les itinéraires proposés, le chemin par le parc est le plus agréable.",
+    "cloze": "le plus agréable",
+    "answer": "le plus agréable",
+    "lemma": "agréable",
+    "meaning": "the most pleasant",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0713.mp3"
+  },
+  {
+    "id": "fr-02-0714",
+    "sentence": "Le train de huit heures douze est le plus rapide des trois.",
+    "cloze": "le plus rapide des trois",
+    "answer": "le plus rapide des trois",
+    "lemma": "rapide",
+    "meaning": "the fastest of the three",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0714.mp3"
+  },
+  {
+    "id": "fr-02-0715",
+    "sentence": "Parmi les trois offres de l'hôtel, la formule familiale a le meilleur rapport qualité-prix.",
+    "cloze": "le meilleur rapport qualité-prix",
+    "answer": "le meilleur rapport qualité-prix",
+    "lemma": "le rapport qualité-prix",
+    "meaning": "the best value for money",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0715.mp3"
+  },
+  {
+    "id": "fr-02-0716",
+    "sentence": "À mon avis, ce restaurant propose le meilleur choix végétarien du quartier.",
+    "cloze": "le meilleur choix végétarien du quartier",
+    "answer": "le meilleur choix végétarien du quartier",
+    "lemma": "le choix végétarien",
+    "meaning": "the best vegetarian selection in the neighborhood",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0716.mp3"
+  },
+  {
+    "id": "fr-02-0717",
+    "sentence": "Pour modifier la réservation, le formulaire en ligne est la solution la moins compliquée des trois.",
+    "cloze": "la solution la moins compliquée des trois",
+    "answer": "la solution la moins compliquée des trois",
+    "lemma": "compliqué, compliquée",
+    "meaning": "the least complicated solution of the three",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0717.mp3"
+  },
+  {
+    "id": "fr-02-0718",
+    "sentence": "Dans notre équipe, Inès présente les résultats le plus clairement.",
+    "cloze": "le plus clairement",
+    "answer": "le plus clairement",
+    "lemma": "clairement",
+    "meaning": "the most clearly",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0718.mp3"
+  },
+  {
+    "id": "fr-02-0719",
+    "sentence": "De nous trois, Léo conduit le plus prudemment.",
+    "cloze": "le plus prudemment",
+    "answer": "le plus prudemment",
+    "lemma": "prudemment",
+    "meaning": "the most carefully",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0719.mp3"
+  },
+  {
+    "id": "fr-02-0720",
+    "sentence": "Parmi les quatre modèles, cette valise a le plus de poches.",
+    "cloze": "le plus de poches",
+    "answer": "le plus de poches",
+    "lemma": "la poche",
+    "meaning": "the most pockets",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/02/fr-02-0720.mp3"
   }
 ]
