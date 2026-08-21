@@ -13056,5 +13056,2020 @@
     "meaning": "remain available to help",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-1200.mp3"
+  },
+  {
+    "id": "fr-03-1201",
+    "sentence": "À mon avis, cette fête de quartier crée du lien social entre les habitants.",
+    "cloze": "crée du lien social",
+    "answer": "crée du lien social",
+    "lemma": "créer du lien social",
+    "meaning": "builds social connections",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1201.mp3"
+  },
+  {
+    "id": "fr-03-1202",
+    "sentence": "Cet atelier aide surtout à rompre l'isolement des personnes qui vivent seules.",
+    "cloze": "rompre l'isolement",
+    "answer": "rompre l'isolement",
+    "lemma": "rompre l'isolement",
+    "meaning": "break social isolation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1202.mp3"
+  },
+  {
+    "id": "fr-03-1203",
+    "sentence": "Les rencontres intergénérationnelles permettent aux jeunes et aux personnes âgées d'échanger.",
+    "cloze": "rencontres intergénérationnelles",
+    "answer": "rencontres intergénérationnelles",
+    "lemma": "la rencontre intergénérationnelle",
+    "meaning": "intergenerational meetings",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1203.mp3"
+  },
+  {
+    "id": "fr-03-1204",
+    "sentence": "Je suis plutôt favorable au bénévolat local, parce qu'il répond à des besoins concrets.",
+    "cloze": "bénévolat local",
+    "answer": "bénévolat local",
+    "lemma": "le bénévolat local",
+    "meaning": "local volunteering",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1204.mp3"
+  },
+  {
+    "id": "fr-03-1205",
+    "sentence": "Même si je dispose de peu de temps, je peux donner deux heures par mois à l'association.",
+    "cloze": "donner deux heures par mois",
+    "answer": "donner deux heures par mois",
+    "lemma": "donner du temps",
+    "meaning": "give two hours a month",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1205.mp3"
+  },
+  {
+    "id": "fr-03-1206",
+    "sentence": "Pour accueillir les nouveaux habitants, l'association organise un café chaque premier samedi du mois.",
+    "cloze": "accueillir les nouveaux habitants",
+    "answer": "accueillir les nouveaux habitants",
+    "lemma": "accueillir",
+    "meaning": "welcome new residents",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1206.mp3"
+  },
+  {
+    "id": "fr-03-1207",
+    "sentence": "Ce projet encourage la participation à la vie du quartier sans demander un engagement régulier.",
+    "cloze": "la participation à la vie du quartier",
+    "answer": "la participation à la vie du quartier",
+    "lemma": "la participation",
+    "meaning": "participation in neighborhood life",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1207.mp3"
+  },
+  {
+    "id": "fr-03-1208",
+    "sentence": "La médiathèque est accessible à tous, y compris aux personnes qui se déplacent en fauteuil roulant.",
+    "cloze": "accessible à tous",
+    "answer": "accessible à tous",
+    "lemma": "accessible",
+    "meaning": "accessible to everyone",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1208.mp3"
+  },
+  {
+    "id": "fr-03-1209",
+    "sentence": "Ce groupe de voisinage renforce l'entraide, par exemple lorsqu'un habitant récupère un colis pour un autre.",
+    "cloze": "renforce l'entraide",
+    "answer": "renforce l'entraide",
+    "lemma": "renforcer l'entraide",
+    "meaning": "strengthens mutual support",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1209.mp3"
+  },
+  {
+    "id": "fr-03-1210",
+    "sentence": "Je trouve l'idée utile, mais elle demande une bonne organisation pour fonctionner.",
+    "cloze": "demande une bonne organisation",
+    "answer": "demande une bonne organisation",
+    "lemma": "demander une bonne organisation",
+    "meaning": "requires good organization",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1210.mp3"
+  },
+  {
+    "id": "fr-03-1211",
+    "sentence": "La programmation culturelle du centre comprend des films, des concerts et des ateliers.",
+    "cloze": "programmation culturelle",
+    "answer": "programmation culturelle",
+    "lemma": "la programmation culturelle",
+    "meaning": "cultural program",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1211.mp3"
+  },
+  {
+    "id": "fr-03-1212",
+    "sentence": "Notre médiathèque municipale prête aussi des jeux et organise des rencontres avec des auteurs.",
+    "cloze": "médiathèque municipale",
+    "answer": "médiathèque municipale",
+    "lemma": "la médiathèque municipale",
+    "meaning": "municipal media library",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1212.mp3"
+  },
+  {
+    "id": "fr-03-1213",
+    "sentence": "À mon avis, le spectacle vivant mérite une place dans les petites villes.",
+    "cloze": "le spectacle vivant",
+    "answer": "le spectacle vivant",
+    "lemma": "le spectacle vivant",
+    "meaning": "live performance",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1213.mp3"
+  },
+  {
+    "id": "fr-03-1214",
+    "sentence": "Cette visite permet de mieux connaître le patrimoine local grâce à des exemples concrets.",
+    "cloze": "le patrimoine local",
+    "answer": "le patrimoine local",
+    "lemma": "le patrimoine local",
+    "meaning": "local heritage",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1214.mp3"
+  },
+  {
+    "id": "fr-03-1215",
+    "sentence": "Le musée propose des tarifs réduits aux étudiants et aux personnes sans emploi.",
+    "cloze": "des tarifs réduits",
+    "answer": "des tarifs réduits",
+    "lemma": "le tarif réduit",
+    "meaning": "discounted rates",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1215.mp3"
+  },
+  {
+    "id": "fr-03-1216",
+    "sentence": "Des tarifs abordables facilitent l'accès à la culture, surtout pour les familles.",
+    "cloze": "l'accès à la culture",
+    "answer": "l'accès à la culture",
+    "lemma": "l'accès à la culture",
+    "meaning": "access to culture",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1216.mp3"
+  },
+  {
+    "id": "fr-03-1217",
+    "sentence": "Quand les acteurs parlent vite, les sous-titres en français m'aident à suivre le film.",
+    "cloze": "les sous-titres en français",
+    "answer": "les sous-titres en français",
+    "lemma": "le sous-titre",
+    "meaning": "French subtitles",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1217.mp3"
+  },
+  {
+    "id": "fr-03-1218",
+    "sentence": "Le festival reflète la diversité culturelle du quartier, même si toutes les communautés ne participent pas encore.",
+    "cloze": "la diversité culturelle",
+    "answer": "la diversité culturelle",
+    "lemma": "la diversité culturelle",
+    "meaning": "cultural diversity",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1218.mp3"
+  },
+  {
+    "id": "fr-03-1219",
+    "sentence": "Je pense qu'un atelier participatif serait plus intéressant qu'une longue présentation.",
+    "cloze": "un atelier participatif",
+    "answer": "un atelier participatif",
+    "lemma": "l'atelier participatif",
+    "meaning": "a participatory workshop",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1219.mp3"
+  },
+  {
+    "id": "fr-03-1220",
+    "sentence": "L'exposition a attiré davantage de visiteurs grâce aux activités pour enfants.",
+    "cloze": "a attiré davantage de visiteurs",
+    "answer": "a attiré davantage de visiteurs",
+    "lemma": "attirer davantage de visiteurs",
+    "meaning": "attracted more visitors",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1220.mp3"
+  },
+  {
+    "id": "fr-03-1221",
+    "sentence": "Nous pourrions réduire les déchets alimentaires en préparant seulement les quantités nécessaires.",
+    "cloze": "réduire les déchets alimentaires",
+    "answer": "réduire les déchets alimentaires",
+    "lemma": "réduire les déchets alimentaires",
+    "meaning": "reduce food waste",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1221.mp3"
+  },
+  {
+    "id": "fr-03-1222",
+    "sentence": "Dans notre immeuble, le composteur collectif fonctionne bien si chacun respecte les consignes.",
+    "cloze": "le composteur collectif",
+    "answer": "le composteur collectif",
+    "lemma": "le composteur collectif",
+    "meaning": "shared compost bin",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1222.mp3"
+  },
+  {
+    "id": "fr-03-1223",
+    "sentence": "Des panneaux plus clairs aideraient les habitants à trier correctement leurs déchets.",
+    "cloze": "trier correctement leurs déchets",
+    "answer": "trier correctement leurs déchets",
+    "lemma": "trier les déchets",
+    "meaning": "sort their waste correctly",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1223.mp3"
+  },
+  {
+    "id": "fr-03-1224",
+    "sentence": "Pour réduire les emballages, je préfère acheter certains produits en vrac.",
+    "cloze": "acheter certains produits en vrac",
+    "answer": "acheter certains produits en vrac",
+    "lemma": "acheter en vrac",
+    "meaning": "buy some products in bulk",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1224.mp3"
+  },
+  {
+    "id": "fr-03-1225",
+    "sentence": "Le covoiturage entre collègues réduit le nombre de voitures devant le bureau.",
+    "cloze": "Le covoiturage entre collègues",
+    "answer": "Le covoiturage entre collègues",
+    "lemma": "le covoiturage",
+    "meaning": "carpooling among colleagues",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1225.mp3"
+  },
+  {
+    "id": "fr-03-1226",
+    "sentence": "La ville devrait créer des pistes cyclables continues pour rendre les trajets à vélo plus sûrs.",
+    "cloze": "des pistes cyclables continues",
+    "answer": "des pistes cyclables continues",
+    "lemma": "la piste cyclable",
+    "meaning": "continuous cycle lanes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1226.mp3"
+  },
+  {
+    "id": "fr-03-1227",
+    "sentence": "La circulation a un effet direct sur la qualité de l'air près des écoles.",
+    "cloze": "la qualité de l'air",
+    "answer": "la qualité de l'air",
+    "lemma": "la qualité de l'air",
+    "meaning": "air quality",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1227.mp3"
+  },
+  {
+    "id": "fr-03-1228",
+    "sentence": "Baisser le chauffage d'un degré permet de faire des économies d'énergie sans perdre trop de confort.",
+    "cloze": "faire des économies d'énergie",
+    "answer": "faire des économies d'énergie",
+    "lemma": "faire des économies d'énergie",
+    "meaning": "save energy",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1228.mp3"
+  },
+  {
+    "id": "fr-03-1229",
+    "sentence": "Je choisis des appareils réparables, car c'est une forme de consommation responsable.",
+    "cloze": "une forme de consommation responsable",
+    "answer": "une forme de consommation responsable",
+    "lemma": "la consommation responsable",
+    "meaning": "a form of responsible consumption",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1229.mp3"
+  },
+  {
+    "id": "fr-03-1230",
+    "sentence": "Avant d'acheter un appareil neuf, on peut essayer de réparer l'ancien au lieu de le jeter.",
+    "cloze": "au lieu de le jeter",
+    "answer": "au lieu de le jeter",
+    "lemma": "au lieu de",
+    "meaning": "instead of throwing it away",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1230.mp3"
+  },
+  {
+    "id": "fr-03-1231",
+    "sentence": "Le marché met en avant les produits locaux et de saison, mais ils coûtent parfois plus cher.",
+    "cloze": "les produits locaux et de saison",
+    "answer": "les produits locaux et de saison",
+    "lemma": "le produit local et de saison",
+    "meaning": "local seasonal products",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1231.mp3"
+  },
+  {
+    "id": "fr-03-1232",
+    "sentence": "Planter plus d'arbres créerait des espaces verts plus frais pendant l'été.",
+    "cloze": "des espaces verts plus frais",
+    "answer": "des espaces verts plus frais",
+    "lemma": "l'espace vert",
+    "meaning": "cooler green spaces",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1232.mp3"
+  },
+  {
+    "id": "fr-03-1233",
+    "sentence": "Même si les travaux coûtent cher, la ville pourrait commencer par une seule rue.",
+    "cloze": "commencer par une seule rue",
+    "answer": "commencer par une seule rue",
+    "lemma": "commencer par",
+    "meaning": "start with just one street",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1233.mp3"
+  },
+  {
+    "id": "fr-03-1234",
+    "sentence": "Le conseil de quartier se réunit tous les deux mois pour discuter de problèmes concrets.",
+    "cloze": "Le conseil de quartier",
+    "answer": "Le conseil de quartier",
+    "lemma": "le conseil de quartier",
+    "meaning": "neighborhood council",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1234.mp3"
+  },
+  {
+    "id": "fr-03-1235",
+    "sentence": "Avant les travaux, une consultation des habitants permettrait de comparer plusieurs solutions.",
+    "cloze": "une consultation des habitants",
+    "answer": "une consultation des habitants",
+    "lemma": "la consultation des habitants",
+    "meaning": "a consultation with residents",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1235.mp3"
+  },
+  {
+    "id": "fr-03-1236",
+    "sentence": "Cette année, le budget participatif finance de petits projets choisis par les habitants.",
+    "cloze": "le budget participatif",
+    "answer": "le budget participatif",
+    "lemma": "le budget participatif",
+    "meaning": "participatory budget",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1236.mp3"
+  },
+  {
+    "id": "fr-03-1237",
+    "sentence": "En cas de problème, un groupe de voisinage peut prévenir rapidement les habitants.",
+    "cloze": "un groupe de voisinage",
+    "answer": "un groupe de voisinage",
+    "lemma": "le groupe de voisinage",
+    "meaning": "a neighborhood group",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1237.mp3"
+  },
+  {
+    "id": "fr-03-1238",
+    "sentence": "L'association organise une collecte solidaire de vêtements avant l'hiver.",
+    "cloze": "une collecte solidaire de vêtements",
+    "answer": "une collecte solidaire de vêtements",
+    "lemma": "la collecte solidaire",
+    "meaning": "a charitable clothing drive",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1238.mp3"
+  },
+  {
+    "id": "fr-03-1239",
+    "sentence": "Je proposerais d'abord une phase d'essai de trois mois, puis nous ferions le point.",
+    "cloze": "une phase d'essai de trois mois",
+    "answer": "une phase d'essai de trois mois",
+    "lemma": "la phase d'essai",
+    "meaning": "a three-month trial phase",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1239.mp3"
+  },
+  {
+    "id": "fr-03-1240",
+    "sentence": "Je soutiens ce projet parce qu'il rend la place plus agréable, même s'il supprime quelques places de stationnement.",
+    "cloze": "supprime quelques places de stationnement",
+    "answer": "supprime quelques places de stationnement",
+    "lemma": "supprimer des places de stationnement",
+    "meaning": "removes a few parking spaces",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1240.mp3"
+  },
+  {
+    "id": "fr-03-1241",
+    "sentence": "Même après une charge complète, la batterie de mon téléphone tient à peine une demi-journée.",
+    "cloze": "tient à peine une demi-journée",
+    "answer": "tient à peine une demi-journée",
+    "lemma": "tenir",
+    "meaning": "lasts barely half a day",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1241.mp3"
+  },
+  {
+    "id": "fr-03-1242",
+    "sentence": "Comme je vais utiliser le GPS, je dois recharger mon téléphone avant de partir.",
+    "cloze": "recharger mon téléphone",
+    "answer": "recharger mon téléphone",
+    "lemma": "recharger un téléphone",
+    "meaning": "charge my phone",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1242.mp3"
+  },
+  {
+    "id": "fr-03-1243",
+    "sentence": "Je ne peux plus enregistrer de vidéos, car mon téléphone manque d'espace de stockage.",
+    "cloze": "manque d'espace de stockage",
+    "answer": "manque d'espace de stockage",
+    "lemma": "manquer d'espace de stockage",
+    "meaning": "is running out of storage space",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1243.mp3"
+  },
+  {
+    "id": "fr-03-1244",
+    "sentence": "Pour libérer de la place, je vais supprimer les fichiers inutiles.",
+    "cloze": "supprimer les fichiers inutiles",
+    "answer": "supprimer les fichiers inutiles",
+    "lemma": "supprimer un fichier",
+    "meaning": "delete unnecessary files",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1244.mp3"
+  },
+  {
+    "id": "fr-03-1245",
+    "sentence": "Dans les réglages, j'ai choisi d'activer les mises à jour automatiques.",
+    "cloze": "activer les mises à jour automatiques",
+    "answer": "activer les mises à jour automatiques",
+    "lemma": "activer les mises à jour automatiques",
+    "meaning": "enable automatic updates",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1245.mp3"
+  },
+  {
+    "id": "fr-03-1246",
+    "sentence": "Sur cette liseuse, on peut augmenter la taille du texte pour lire plus facilement.",
+    "cloze": "augmenter la taille du texte",
+    "answer": "augmenter la taille du texte",
+    "lemma": "augmenter la taille du texte",
+    "meaning": "increase the text size",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1246.mp3"
+  },
+  {
+    "id": "fr-03-1247",
+    "sentence": "Pour la présentation, pourriez-vous connecter l'ordinateur à l'écran de la salle ?",
+    "cloze": "connecter l'ordinateur à l'écran",
+    "answer": "connecter l'ordinateur à l'écran",
+    "lemma": "connecter un ordinateur à un écran",
+    "meaning": "connect the computer to the screen",
+    "accepted_answers": [],
+    "register": "professional",
+    "audio": "work/audio/fr-FR/03/fr-03-1247.mp3"
+  },
+  {
+    "id": "fr-03-1248",
+    "sentence": "Le disque externe n'est pas reconnu par mon ordinateur, même avec un autre câble.",
+    "cloze": "n'est pas reconnu",
+    "answer": "n'est pas reconnu",
+    "lemma": "reconnaître un périphérique",
+    "meaning": "is not recognized",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1248.mp3"
+  },
+  {
+    "id": "fr-03-1249",
+    "sentence": "Au bureau, j'aimerais imprimer ce document en recto verso pour économiser du papier.",
+    "cloze": "imprimer ce document en recto verso",
+    "answer": "imprimer ce document en recto verso",
+    "lemma": "imprimer en recto verso",
+    "meaning": "print this document double-sided",
+    "accepted_answers": [],
+    "register": "professional",
+    "audio": "work/audio/fr-FR/03/fr-03-1249.mp3"
+  },
+  {
+    "id": "fr-03-1250",
+    "sentence": "Pouvez-vous m'aider à numériser ce formulaire avant de l'envoyer ?",
+    "cloze": "numériser ce formulaire",
+    "answer": "numériser ce formulaire",
+    "lemma": "numériser un formulaire",
+    "meaning": "scan this form",
+    "accepted_answers": [],
+    "register": "polite",
+    "audio": "work/audio/fr-FR/03/fr-03-1250.mp3"
+  },
+  {
+    "id": "fr-03-1251",
+    "sentence": "Je peux ouvrir le site, mais je n'arrive plus à me connecter à mon compte.",
+    "cloze": "me connecter à mon compte",
+    "answer": "me connecter à mon compte",
+    "lemma": "se connecter à un compte",
+    "meaning": "log in to my account",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1251.mp3"
+  },
+  {
+    "id": "fr-03-1252",
+    "sentence": "Vous pouvez réinitialiser votre mot de passe depuis cette page.",
+    "cloze": "réinitialiser votre mot de passe",
+    "answer": "réinitialiser votre mot de passe",
+    "lemma": "réinitialiser un mot de passe",
+    "meaning": "reset your password",
+    "accepted_answers": [],
+    "register": "polite",
+    "audio": "work/audio/fr-FR/03/fr-03-1252.mp3"
+  },
+  {
+    "id": "fr-03-1253",
+    "sentence": "Le code de vérification envoyé par SMS n'est valable que dix minutes.",
+    "cloze": "n'est valable que dix minutes",
+    "answer": "n'est valable que dix minutes",
+    "lemma": "être valable",
+    "meaning": "is valid for only ten minutes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1253.mp3"
+  },
+  {
+    "id": "fr-03-1254",
+    "sentence": "Après trois tentatives infructueuses, le site a temporairement bloqué mon compte.",
+    "cloze": "a temporairement bloqué mon compte",
+    "answer": "a temporairement bloqué mon compte",
+    "lemma": "bloquer un compte",
+    "meaning": "temporarily blocked my account",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1254.mp3"
+  },
+  {
+    "id": "fr-03-1255",
+    "sentence": "Avant d'installer ce jeu, je préfère vérifier les autorisations demandées par l'application.",
+    "cloze": "vérifier les autorisations demandées",
+    "answer": "vérifier les autorisations demandées",
+    "lemma": "vérifier une autorisation",
+    "meaning": "check the requested permissions",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1255.mp3"
+  },
+  {
+    "id": "fr-03-1256",
+    "sentence": "Pour protéger ma vie privée, j'ai désactivé le partage de ma position.",
+    "cloze": "le partage de ma position",
+    "answer": "le partage de ma position",
+    "lemma": "le partage de la position",
+    "meaning": "location sharing",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1256.mp3"
+  },
+  {
+    "id": "fr-03-1257",
+    "sentence": "Ma liste de contacts n'est visible que par moi, car je l'ai rendue privée.",
+    "cloze": "l'ai rendue privée",
+    "answer": "l'ai rendue privée",
+    "lemma": "rendre une liste privée",
+    "meaning": "made it private",
+    "accepted_answers": [],
+    "grammar": "The past participle agrees with the preceding feminine direct object l', referring to la liste.",
+    "audio": "work/audio/fr-FR/03/fr-03-1257.mp3"
+  },
+  {
+    "id": "fr-03-1258",
+    "sentence": "Je sauvegarde mes photos sur un disque externe une fois par mois.",
+    "cloze": "sauvegarde mes photos",
+    "answer": "sauvegarde mes photos",
+    "lemma": "sauvegarder une photo",
+    "meaning": "back up my photos",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1258.mp3"
+  },
+  {
+    "id": "fr-03-1259",
+    "sentence": "Après avoir changé de téléphone, j'ai réussi à récupérer mes anciens messages.",
+    "cloze": "récupérer mes anciens messages",
+    "answer": "récupérer mes anciens messages",
+    "lemma": "récupérer un message",
+    "meaning": "recover my old messages",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1259.mp3"
+  },
+  {
+    "id": "fr-03-1260",
+    "sentence": "Depuis la dernière mise à jour, je ne reçois plus aucune notification de l'application.",
+    "cloze": "ne reçois plus aucune notification",
+    "answer": "ne reçois plus aucune notification",
+    "lemma": "recevoir une notification",
+    "meaning": "no longer receive any notifications",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1260.mp3"
+  },
+  {
+    "id": "fr-03-1261",
+    "sentence": "N'oubliez pas de joindre le fichier à votre e-mail avant de l'envoyer.",
+    "cloze": "joindre le fichier à votre e-mail",
+    "answer": "joindre le fichier à votre e-mail",
+    "lemma": "joindre un fichier à un e-mail",
+    "meaning": "attach the file to your email",
+    "accepted_answers": [],
+    "register": "professional",
+    "audio": "work/audio/fr-FR/03/fr-03-1261.mp3"
+  },
+  {
+    "id": "fr-03-1262",
+    "sentence": "Les photos sont trop lourdes ; je vais les compresser avant de les envoyer.",
+    "cloze": "les compresser",
+    "answer": "les compresser",
+    "lemma": "compresser un fichier",
+    "meaning": "compress them",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1262.mp3"
+  },
+  {
+    "id": "fr-03-1263",
+    "sentence": "Pendant la visioconférence, veuillez couper votre micro quand vous ne parlez pas.",
+    "cloze": "couper votre micro",
+    "answer": "couper votre micro",
+    "lemma": "couper son micro",
+    "meaning": "mute your microphone",
+    "accepted_answers": [],
+    "register": "professional",
+    "audio": "work/audio/fr-FR/03/fr-03-1263.mp3"
+  },
+  {
+    "id": "fr-03-1264",
+    "sentence": "Je vous entends bien, mais votre image se fige toutes les deux ou trois secondes.",
+    "cloze": "se fige",
+    "answer": "se fige",
+    "lemma": "se figer",
+    "meaning": "freezes",
+    "accepted_answers": [],
+    "register": "professional",
+    "audio": "work/audio/fr-FR/03/fr-03-1264.mp3"
+  },
+  {
+    "id": "fr-03-1265",
+    "sentence": "La connexion est instable et le son se coupe souvent pendant les appels.",
+    "cloze": "se coupe souvent",
+    "answer": "se coupe souvent",
+    "lemma": "se couper",
+    "meaning": "keeps cutting out",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1265.mp3"
+  },
+  {
+    "id": "fr-03-1266",
+    "sentence": "Le technicien m'a conseillé de redémarrer la box avant de refaire un essai.",
+    "cloze": "redémarrer la box",
+    "answer": "redémarrer la box",
+    "lemma": "redémarrer une box",
+    "meaning": "restart the router",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1266.mp3"
+  },
+  {
+    "id": "fr-03-1267",
+    "sentence": "Pour montrer les résultats à l'équipe, je vais partager mon écran.",
+    "cloze": "partager mon écran",
+    "answer": "partager mon écran",
+    "lemma": "partager son écran",
+    "meaning": "share my screen",
+    "accepted_answers": [],
+    "register": "professional",
+    "audio": "work/audio/fr-FR/03/fr-03-1267.mp3"
+  },
+  {
+    "id": "fr-03-1268",
+    "sentence": "Le lien de la réunion ne s'ouvre pas dans mon navigateur habituel.",
+    "cloze": "ne s'ouvre pas",
+    "answer": "ne s'ouvre pas",
+    "lemma": "s'ouvrir",
+    "meaning": "does not open",
+    "accepted_answers": [],
+    "register": "professional",
+    "audio": "work/audio/fr-FR/03/fr-03-1268.mp3"
+  },
+  {
+    "id": "fr-03-1269",
+    "sentence": "J'ai envoyé l'information à toute l'équipe en choisissant « Répondre à tous ».",
+    "cloze": "Répondre à tous",
+    "answer": "Répondre à tous",
+    "lemma": "répondre à tous",
+    "meaning": "Reply all",
+    "accepted_answers": [],
+    "register": "professional",
+    "audio": "work/audio/fr-FR/03/fr-03-1269.mp3"
+  },
+  {
+    "id": "fr-03-1270",
+    "sentence": "Je préfère mettre cette conversation en sourdine pendant mes heures de travail.",
+    "cloze": "mettre cette conversation en sourdine",
+    "answer": "mettre cette conversation en sourdine",
+    "lemma": "mettre une conversation en sourdine",
+    "meaning": "mute this conversation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1270.mp3"
+  },
+  {
+    "id": "fr-03-1271",
+    "sentence": "J'ai téléchargé l'épisode afin de pouvoir l'écouter hors ligne dans le train.",
+    "cloze": "l'écouter hors ligne",
+    "answer": "l'écouter hors ligne",
+    "lemma": "écouter hors ligne",
+    "meaning": "listen to it offline",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1271.mp3"
+  },
+  {
+    "id": "fr-03-1272",
+    "sentence": "Quand le son est faible, je préfère activer les sous-titres pour suivre le film.",
+    "cloze": "activer les sous-titres",
+    "answer": "activer les sous-titres",
+    "lemma": "activer les sous-titres",
+    "meaning": "turn on the subtitles",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1272.mp3"
+  },
+  {
+    "id": "fr-03-1273",
+    "sentence": "Pour ce long entretien, j'ai réglé la vitesse de lecture sur 1,25.",
+    "cloze": "réglé la vitesse de lecture",
+    "answer": "réglé la vitesse de lecture",
+    "lemma": "régler la vitesse de lecture",
+    "meaning": "set the playback speed",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1273.mp3"
+  },
+  {
+    "id": "fr-03-1274",
+    "sentence": "L'application me permet de reprendre la vidéo exactement là où je l'avais arrêtée.",
+    "cloze": "reprendre la vidéo",
+    "answer": "reprendre la vidéo",
+    "lemma": "reprendre une vidéo",
+    "meaning": "resume the video",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1274.mp3"
+  },
+  {
+    "id": "fr-03-1275",
+    "sentence": "Avant de partager cet article, je vérifie toujours la source de l'information.",
+    "cloze": "vérifie toujours la source de l'information",
+    "answer": "vérifie toujours la source de l'information",
+    "lemma": "vérifier la source d'une information",
+    "meaning": "always check the source of the information",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1275.mp3"
+  },
+  {
+    "id": "fr-03-1276",
+    "sentence": "Dans cette chronique, la journaliste distingue clairement les faits des opinions.",
+    "cloze": "distingue clairement les faits des opinions",
+    "answer": "distingue clairement les faits des opinions",
+    "lemma": "distinguer les faits des opinions",
+    "meaning": "clearly distinguishes facts from opinions",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1276.mp3"
+  },
+  {
+    "id": "fr-03-1277",
+    "sentence": "Ce podcast propose trois conseils simples pour limiter son temps d'écran au quotidien.",
+    "cloze": "limiter son temps d'écran",
+    "answer": "limiter son temps d'écran",
+    "lemma": "limiter son temps d'écran",
+    "meaning": "limit one's screen time",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1277.mp3"
+  },
+  {
+    "id": "fr-03-1278",
+    "sentence": "Entre les deux applications, celle-ci me paraît plus simple à utiliser au quotidien.",
+    "cloze": "plus simple à utiliser",
+    "answer": "plus simple à utiliser",
+    "lemma": "simple à utiliser",
+    "meaning": "easier to use",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1278.mp3"
+  },
+  {
+    "id": "fr-03-1279",
+    "sentence": "Je préfère payer un peu plus pour un abonnement sans publicité.",
+    "cloze": "un abonnement sans publicité",
+    "answer": "un abonnement sans publicité",
+    "lemma": "l'abonnement sans publicité",
+    "meaning": "an ad-free subscription",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1279.mp3"
+  },
+  {
+    "id": "fr-03-1280",
+    "sentence": "Bonjour, pourriez-vous me guider étape par étape pour retrouver l'accès à mon compte ?",
+    "cloze": "me guider étape par étape",
+    "answer": "me guider étape par étape",
+    "lemma": "guider quelqu'un étape par étape",
+    "meaning": "guide me step by step",
+    "accepted_answers": [],
+    "register": "polite",
+    "audio": "work/audio/fr-FR/03/fr-03-1280.mp3"
+  }
+,
+  {
+    "id": "fr-03-1281",
+    "sentence": "Depuis hier, j'ai une douleur au poignet qui m'empêche d'utiliser la souris.",
+    "cloze": "une douleur au poignet",
+    "answer": "une douleur au poignet",
+    "lemma": "une douleur au poignet",
+    "meaning": "pain in the wrist",
+    "audio": "work/audio/fr-FR/03/fr-03-1281.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1282",
+    "sentence": "J'ai des vertiges depuis ce matin et je préfère m'asseoir.",
+    "cloze": "des vertiges depuis ce matin",
+    "answer": "des vertiges depuis ce matin",
+    "lemma": "avoir des vertiges",
+    "meaning": "dizziness since this morning",
+    "audio": "work/audio/fr-FR/03/fr-03-1282.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1283",
+    "sentence": "Mon œil droit est très irrité, mais je n'ai pas de problème de vue.",
+    "cloze": "très irrité",
+    "answer": "très irrité",
+    "lemma": "être irrité",
+    "meaning": "very irritated",
+    "audio": "work/audio/fr-FR/03/fr-03-1283.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1284",
+    "sentence": "J'ai le nez qui coule depuis cette nuit, mais je n'ai pas de fièvre.",
+    "cloze": "le nez qui coule",
+    "answer": "le nez qui coule",
+    "lemma": "avoir le nez qui coule",
+    "meaning": "a runny nose",
+    "audio": "work/audio/fr-FR/03/fr-03-1284.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1285",
+    "sentence": "Je suis essoufflée après avoir monté quelques marches, alors j'ai besoin de faire une pause.",
+    "cloze": "essoufflée après avoir monté quelques marches",
+    "answer": "essoufflée après avoir monté quelques marches",
+    "lemma": "être essoufflé",
+    "meaning": "out of breath after climbing a few steps",
+    "audio": "work/audio/fr-FR/03/fr-03-1285.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1286",
+    "sentence": "Cette douleur m'empêche de rester debout longtemps.",
+    "cloze": "rester debout longtemps",
+    "answer": "rester debout longtemps",
+    "lemma": "rester debout",
+    "meaning": "remain standing for a long time",
+    "audio": "work/audio/fr-FR/03/fr-03-1286.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1287",
+    "sentence": "Pour mon rendez-vous, je dois signaler que je ne peux pas porter de charges lourdes.",
+    "cloze": "porter de charges lourdes",
+    "answer": "porter de charges lourdes",
+    "lemma": "porter une charge lourde",
+    "meaning": "carry heavy loads",
+    "audio": "work/audio/fr-FR/03/fr-03-1287.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1288",
+    "sentence": "En ce moment, je dois me déplacer avec une canne.",
+    "cloze": "me déplacer avec une canne",
+    "answer": "me déplacer avec une canne",
+    "lemma": "se déplacer avec une canne",
+    "meaning": "get around with a walking stick",
+    "audio": "work/audio/fr-FR/03/fr-03-1288.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1289",
+    "sentence": "Je voudrais renouveler mon ordonnance avant mon départ.",
+    "cloze": "renouveler mon ordonnance",
+    "answer": "renouveler mon ordonnance",
+    "lemma": "renouveler une ordonnance",
+    "meaning": "renew my prescription",
+    "audio": "work/audio/fr-FR/03/fr-03-1289.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1290",
+    "sentence": "À la pharmacie, je cherche une boîte de compresses stériles.",
+    "cloze": "une boîte de compresses stériles",
+    "answer": "une boîte de compresses stériles",
+    "lemma": "une compresse stérile",
+    "meaning": "a box of sterile gauze pads",
+    "audio": "work/audio/fr-FR/03/fr-03-1290.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1291",
+    "sentence": "Avez-vous ce pansement en version hypoallergénique ?",
+    "cloze": "en version hypoallergénique",
+    "answer": "en version hypoallergénique",
+    "lemma": "hypoallergénique",
+    "meaning": "in a hypoallergenic version",
+    "audio": "work/audio/fr-FR/03/fr-03-1291.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1292",
+    "sentence": "Je dois conserver ce médicament au frais pendant le trajet.",
+    "cloze": "au frais pendant le trajet",
+    "answer": "au frais pendant le trajet",
+    "lemma": "conserver au frais",
+    "meaning": "kept cool during the journey",
+    "audio": "work/audio/fr-FR/03/fr-03-1292.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1293",
+    "sentence": "Pourriez-vous préparer les médicaments de mon ordonnance pour demain matin ?",
+    "cloze": "les médicaments de mon ordonnance",
+    "answer": "les médicaments de mon ordonnance",
+    "lemma": "un médicament sur ordonnance",
+    "meaning": "the medicines on my prescription",
+    "audio": "work/audio/fr-FR/03/fr-03-1293.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1294",
+    "sentence": "Puis-je utiliser ma carte Vitale pour retirer ces médicaments ?",
+    "cloze": "utiliser ma carte Vitale",
+    "answer": "utiliser ma carte Vitale",
+    "lemma": "utiliser une carte Vitale",
+    "meaning": "use my French health insurance card",
+    "audio": "work/audio/fr-FR/03/fr-03-1294.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1295",
+    "sentence": "Je ne peux pas venir seule au cabinet, alors ma sœur m'accompagnera.",
+    "cloze": "venir seule au cabinet",
+    "answer": "venir seule au cabinet",
+    "lemma": "venir seul au cabinet",
+    "meaning": "come to the medical office alone",
+    "audio": "work/audio/fr-FR/03/fr-03-1295.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1296",
+    "sentence": "Après le rendez-vous, pourriez-vous appeler un taxi accessible en fauteuil roulant ?",
+    "cloze": "un taxi accessible en fauteuil roulant",
+    "answer": "un taxi accessible en fauteuil roulant",
+    "lemma": "un taxi accessible en fauteuil roulant",
+    "meaning": "a wheelchair-accessible taxi",
+    "audio": "work/audio/fr-FR/03/fr-03-1296.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1297",
+    "sentence": "Je dois signaler mon absence pour raison médicale mardi matin.",
+    "cloze": "mon absence pour raison médicale",
+    "answer": "mon absence pour raison médicale",
+    "lemma": "une absence pour raison médicale",
+    "meaning": "my absence for medical reasons",
+    "audio": "work/audio/fr-FR/03/fr-03-1297.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1298",
+    "sentence": "Pour des raisons de santé, je souhaiterais avoir un siège près de la sortie.",
+    "cloze": "un siège près de la sortie",
+    "answer": "un siège près de la sortie",
+    "lemma": "un siège près de la sortie",
+    "meaning": "a seat near the exit",
+    "audio": "work/audio/fr-FR/03/fr-03-1298.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1299",
+    "sentence": "Je souhaiterais déplacer mon rendez-vous du 12 au 15 octobre.",
+    "cloze": "du 12 au 15 octobre",
+    "answer": "du 12 au 15 octobre",
+    "lemma": "du 12 au 15 octobre",
+    "meaning": "from October 12 to October 15",
+    "audio": "work/audio/fr-FR/03/fr-03-1299.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1300",
+    "sentence": "Merci de m'indiquer si le cabinet est accessible sans escalier.",
+    "cloze": "accessible sans escalier",
+    "answer": "accessible sans escalier",
+    "lemma": "être accessible sans escalier",
+    "meaning": "accessible without stairs",
+    "audio": "work/audio/fr-FR/03/fr-03-1300.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1301",
+    "sentence": "Je vous écris pour demander l'annulation de mon rendez-vous du 6 novembre.",
+    "cloze": "l'annulation de mon rendez-vous du 6 novembre",
+    "answer": "l'annulation de mon rendez-vous du 6 novembre",
+    "lemma": "une annulation de rendez-vous",
+    "meaning": "the cancellation of my November 6 appointment",
+    "audio": "work/audio/fr-FR/03/fr-03-1301.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1302",
+    "sentence": "Madame, Monsieur, je souhaite vous signaler une erreur sur ma facture.",
+    "cloze": "Madame, Monsieur",
+    "answer": "Madame, Monsieur",
+    "lemma": "Madame, Monsieur",
+    "meaning": "Dear Sir or Madam",
+    "audio": "work/audio/fr-FR/03/fr-03-1302.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1303",
+    "sentence": "Je vous prie de bien vouloir accuser réception de ce message.",
+    "cloze": "accuser réception de ce message",
+    "answer": "accuser réception de ce message",
+    "lemma": "accuser réception",
+    "meaning": "acknowledge receipt of this message",
+    "audio": "work/audio/fr-FR/03/fr-03-1303.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1304",
+    "sentence": "Vous trouverez le justificatif demandé en pièce jointe.",
+    "cloze": "le justificatif demandé",
+    "answer": "le justificatif demandé",
+    "lemma": "un justificatif",
+    "meaning": "the requested supporting document",
+    "audio": "work/audio/fr-FR/03/fr-03-1304.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1305",
+    "sentence": "En raison d'un empêchement, je dois annuler notre entretien de vendredi.",
+    "cloze": "En raison d'un empêchement",
+    "answer": "En raison d'un empêchement",
+    "lemma": "en raison d'un empêchement",
+    "meaning": "because of an unforeseen conflict",
+    "audio": "work/audio/fr-FR/03/fr-03-1305.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1306",
+    "sentence": "Serait-il possible de fixer un nouveau rendez-vous la semaine du 23 novembre ?",
+    "cloze": "fixer un nouveau rendez-vous",
+    "answer": "fixer un nouveau rendez-vous",
+    "lemma": "fixer un rendez-vous",
+    "meaning": "set a new appointment",
+    "audio": "work/audio/fr-FR/03/fr-03-1306.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1307",
+    "sentence": "Je vous propose le mardi 24 novembre à 10 h 30.",
+    "cloze": "le mardi 24 novembre à 10 h 30",
+    "answer": "le mardi 24 novembre à 10 h 30",
+    "lemma": "le mardi 24 novembre à 10 h 30",
+    "meaning": "Tuesday, November 24 at 10:30 a.m.",
+    "audio": "work/audio/fr-FR/03/fr-03-1307.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1308",
+    "sentence": "Si ce créneau n'est pas disponible, je peux également me libérer jeudi après-midi.",
+    "cloze": "me libérer jeudi après-midi",
+    "answer": "me libérer jeudi après-midi",
+    "lemma": "se libérer",
+    "meaning": "make myself available Thursday afternoon",
+    "audio": "work/audio/fr-FR/03/fr-03-1308.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1309",
+    "sentence": "Je vous remercie de me confirmer la nouvelle date par écrit.",
+    "cloze": "la nouvelle date par écrit",
+    "answer": "la nouvelle date par écrit",
+    "lemma": "confirmer une date par écrit",
+    "meaning": "the new date in writing",
+    "audio": "work/audio/fr-FR/03/fr-03-1309.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1310",
+    "sentence": "À ce jour, je n'ai reçu ni réponse ni remboursement.",
+    "cloze": "ni réponse ni remboursement",
+    "answer": "ni réponse ni remboursement",
+    "lemma": "ni réponse ni remboursement",
+    "meaning": "neither a reply nor a refund",
+    "audio": "work/audio/fr-FR/03/fr-03-1310.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1311",
+    "sentence": "Le montant de 48 euros a été débité deux fois sur mon compte.",
+    "cloze": "a été débité deux fois",
+    "answer": "a été débité deux fois",
+    "lemma": "débiter deux fois",
+    "meaning": "was charged twice",
+    "audio": "work/audio/fr-FR/03/fr-03-1311.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1312",
+    "sentence": "Je vous demande donc de corriger cette erreur dans les meilleurs délais.",
+    "cloze": "dans les meilleurs délais",
+    "answer": "dans les meilleurs délais",
+    "lemma": "dans les meilleurs délais",
+    "meaning": "as soon as reasonably possible",
+    "audio": "work/audio/fr-FR/03/fr-03-1312.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1313",
+    "sentence": "La facture jointe ne correspond pas au montant indiqué lors de la commande.",
+    "cloze": "ne correspond pas au montant indiqué",
+    "answer": "ne correspond pas au montant indiqué",
+    "lemma": "correspondre au montant indiqué",
+    "meaning": "does not match the stated amount",
+    "audio": "work/audio/fr-FR/03/fr-03-1313.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1314",
+    "sentence": "Pour faciliter la vérification, j'ai indiqué la référence du dossier ci-dessous.",
+    "cloze": "la référence du dossier",
+    "answer": "la référence du dossier",
+    "lemma": "une référence de dossier",
+    "meaning": "the case reference",
+    "audio": "work/audio/fr-FR/03/fr-03-1314.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1315",
+    "sentence": "Je vous serais reconnaissante de m'informer de la suite donnée à ma demande.",
+    "cloze": "de la suite donnée à ma demande",
+    "answer": "de la suite donnée à ma demande",
+    "lemma": "la suite donnée à une demande",
+    "meaning": "of the action taken on my request",
+    "audio": "work/audio/fr-FR/03/fr-03-1315.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1316",
+    "sentence": "Sans retour de votre part d'ici lundi, je contacterai de nouveau votre service.",
+    "cloze": "Sans retour de votre part",
+    "answer": "Sans retour de votre part",
+    "lemma": "sans retour de votre part",
+    "meaning": "if I do not hear back from you",
+    "audio": "work/audio/fr-FR/03/fr-03-1316.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1317",
+    "sentence": "Je vous confirme l'annulation de mon inscription à l'atelier du 8 décembre.",
+    "cloze": "l'annulation de mon inscription",
+    "answer": "l'annulation de mon inscription",
+    "lemma": "une annulation d'inscription",
+    "meaning": "the cancellation of my registration",
+    "audio": "work/audio/fr-FR/03/fr-03-1317.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1318",
+    "sentence": "Veuillez excuser cette annulation tardive, due à un imprévu familial.",
+    "cloze": "due à un imprévu familial",
+    "answer": "due à un imprévu familial",
+    "lemma": "être dû à un imprévu familial",
+    "meaning": "due to an unexpected family matter",
+    "audio": "work/audio/fr-FR/03/fr-03-1318.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1319",
+    "sentence": "Je vous remercie de votre compréhension et reste joignable au numéro indiqué.",
+    "cloze": "reste joignable au numéro indiqué",
+    "answer": "reste joignable au numéro indiqué",
+    "lemma": "rester joignable",
+    "meaning": "remain reachable at the stated number",
+    "audio": "work/audio/fr-FR/03/fr-03-1319.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "fr-03-1320",
+    "sentence": "Je vous remercie de votre aide et vous adresse mes salutations cordiales.",
+    "cloze": "mes salutations cordiales",
+    "answer": "mes salutations cordiales",
+    "lemma": "des salutations cordiales",
+    "meaning": "my kind regards",
+    "audio": "work/audio/fr-FR/03/fr-03-1320.mp3",
+    "accepted_answers": []
+  }
+,
+  {
+    "id": "fr-03-1321",
+    "sentence": "Pour éviter un malentendu, qu'entendez-vous précisément par « accès libre » ?",
+    "cloze": "entendez-vous précisément par",
+    "answer": "entendez-vous précisément par",
+    "lemma": "entendre par",
+    "meaning": "mean precisely by",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1321.mp3"
+  },
+  {
+    "id": "fr-03-1322",
+    "sentence": "Si j'ai bien suivi votre explication, le premier atelier est gratuit et les suivants sont payants.",
+    "cloze": "bien suivi votre explication",
+    "answer": "bien suivi votre explication",
+    "lemma": "bien suivre une explication",
+    "meaning": "followed your explanation correctly",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1322.mp3"
+  },
+  {
+    "id": "fr-03-1323",
+    "sentence": "Je vais le formuler autrement : nous pouvons changer l'heure, mais pas la date.",
+    "cloze": "le formuler autrement",
+    "answer": "le formuler autrement",
+    "lemma": "formuler quelque chose autrement",
+    "meaning": "phrase it another way",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1323.mp3"
+  },
+  {
+    "id": "fr-03-1324",
+    "sentence": "Excusez-moi de vous interrompre un instant, mais ce chiffre vient d'être corrigé.",
+    "cloze": "vous interrompre un instant",
+    "answer": "vous interrompre un instant",
+    "lemma": "interrompre quelqu'un un instant",
+    "meaning": "interrupt you for a moment",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1324.mp3"
+  },
+  {
+    "id": "fr-03-1325",
+    "sentence": "D'accord, je vous laisse terminer, puis je répondrai à vos deux questions.",
+    "cloze": "vous laisse terminer",
+    "answer": "vous laisse terminer",
+    "lemma": "laisser quelqu'un terminer",
+    "meaning": "will let you finish",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1325.mp3"
+  },
+  {
+    "id": "fr-03-1326",
+    "sentence": "Laissez-moi terminer mon explication, et je vous donnerai la parole juste après.",
+    "cloze": "terminer mon explication",
+    "answer": "terminer mon explication",
+    "lemma": "terminer une explication",
+    "meaning": "finish my explanation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1326.mp3"
+  },
+  {
+    "id": "fr-03-1327",
+    "sentence": "Après cette parenthèse, revenons à la question du budget.",
+    "cloze": "revenons à",
+    "answer": "revenons à",
+    "lemma": "revenir à",
+    "meaning": "let's return to",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1327.mp3"
+  },
+  {
+    "id": "fr-03-1328",
+    "sentence": "Quand vous dites « elle », parlez-vous bien de la responsable du site ?",
+    "cloze": "parlez-vous bien de",
+    "answer": "parlez-vous bien de",
+    "lemma": "parler de quelqu'un",
+    "meaning": "are you referring to",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1328.mp3"
+  },
+  {
+    "id": "fr-03-1329",
+    "sentence": "Pour vérifier l'horaire, avez-vous bien dit jeudi à treize heures trente ?",
+    "cloze": "avez-vous bien dit",
+    "answer": "avez-vous bien dit",
+    "lemma": "bien dire",
+    "meaning": "did you definitely say",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1329.mp3"
+  },
+  {
+    "id": "fr-03-1330",
+    "sentence": "Je me suis mal fait comprendre : le document est facultatif, mais le formulaire est obligatoire.",
+    "cloze": "mal fait comprendre",
+    "answer": "mal fait comprendre",
+    "lemma": "se faire comprendre",
+    "meaning": "didn't make myself clear",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1330.mp3"
+  },
+  {
+    "id": "fr-03-1331",
+    "sentence": "Je voudrais dissiper ce malentendu : ma remarque concernait le calendrier, pas votre travail.",
+    "cloze": "dissiper ce malentendu",
+    "answer": "dissiper ce malentendu",
+    "lemma": "dissiper un malentendu",
+    "meaning": "clear up this misunderstanding",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1331.mp3"
+  },
+  {
+    "id": "fr-03-1332",
+    "sentence": "En fait, je faisais allusion au rapport de lundi, et non à celui de vendredi.",
+    "cloze": "faisais allusion au rapport de lundi",
+    "answer": "faisais allusion au rapport de lundi",
+    "lemma": "faire allusion à",
+    "meaning": "was referring to Monday's report",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1332.mp3"
+  },
+  {
+    "id": "fr-03-1333",
+    "sentence": "Pour la brochure, j'ai dit quinze exemplaires, et non cinquante.",
+    "cloze": "quinze exemplaires, et non cinquante",
+    "answer": "quinze exemplaires, et non cinquante",
+    "lemma": "un exemplaire",
+    "meaning": "fifteen copies, not fifty",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1333.mp3"
+  },
+  {
+    "id": "fr-03-1334",
+    "sentence": "Sur l'invitation, la date correcte est le 17, pas le 7.",
+    "cloze": "le 17, pas le 7",
+    "answer": "le 17, pas le 7",
+    "lemma": "le 17, pas le 7",
+    "meaning": "the 17th, not the 7th",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1334.mp3"
+  },
+  {
+    "id": "fr-03-1335",
+    "sentence": "Pour éviter toute erreur, « appeler » s'écrit avec deux p et un seul l.",
+    "cloze": "avec deux p et un seul l",
+    "answer": "avec deux p et un seul l",
+    "lemma": "appeler",
+    "meaning": "with two p's and one l",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1335.mp3"
+  },
+  {
+    "id": "fr-03-1336",
+    "sentence": "Pourriez-vous me confirmer une dernière fois que le rendez-vous est toujours prévu lundi ?",
+    "cloze": "me confirmer une dernière fois",
+    "answer": "me confirmer une dernière fois",
+    "lemma": "confirmer quelque chose",
+    "meaning": "confirm for me once more",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1336.mp3"
+  },
+  {
+    "id": "fr-03-1337",
+    "sentence": "Ai-je bien entendu « porte B » et non « porte D » ?",
+    "cloze": "bien entendu",
+    "answer": "bien entendu",
+    "lemma": "bien entendre",
+    "meaning": "heard correctly",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1337.mp3"
+  },
+  {
+    "id": "fr-03-1338",
+    "sentence": "Pourriez-vous préciser le nom de la personne concernée avant que je réponde ?",
+    "cloze": "préciser le nom de la personne concernée",
+    "answer": "préciser le nom de la personne concernée",
+    "lemma": "préciser le nom de quelqu'un",
+    "meaning": "specify the name of the person concerned",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1338.mp3"
+  },
+  {
+    "id": "fr-03-1339",
+    "sentence": "Pourriez-vous donner un exemple concret afin que je voie mieux la différence ?",
+    "cloze": "donner un exemple concret",
+    "answer": "donner un exemple concret",
+    "lemma": "donner un exemple concret",
+    "meaning": "give a concrete example",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1339.mp3"
+  },
+  {
+    "id": "fr-03-1340",
+    "sentence": "Pour le dire plus simplement, cette option coûte moins cher mais prend plus de temps.",
+    "cloze": "le dire plus simplement",
+    "answer": "le dire plus simplement",
+    "lemma": "dire quelque chose plus simplement",
+    "meaning": "put it more simply",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1340.mp3"
+  },
+  {
+    "id": "fr-03-1341",
+    "sentence": "Dites-moi si j'ai bien compris l'essentiel : vous gardez la première date et vous changez seulement l'heure.",
+    "cloze": "bien compris l'essentiel",
+    "answer": "bien compris l'essentiel",
+    "lemma": "bien comprendre l'essentiel",
+    "meaning": "understood the main point",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1341.mp3"
+  },
+  {
+    "id": "fr-03-1342",
+    "sentence": "Sommes-nous d'accord sur ce point avant de passer au suivant ?",
+    "cloze": "d'accord sur ce point",
+    "answer": "d'accord sur ce point",
+    "lemma": "être d'accord sur un point",
+    "meaning": "in agreement on this point",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1342.mp3"
+  },
+  {
+    "id": "fr-03-1343",
+    "sentence": "Je parle du devis, pas de la facture que vous avez reçue hier.",
+    "cloze": "du devis, pas de la facture",
+    "answer": "du devis, pas de la facture",
+    "lemma": "un devis ; une facture",
+    "meaning": "the quote, not the invoice",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1343.mp3"
+  },
+  {
+    "id": "fr-03-1344",
+    "sentence": "Le changement a eu lieu après l'envoi du message, pas avant.",
+    "cloze": "après l'envoi du message, pas avant",
+    "answer": "après l'envoi du message, pas avant",
+    "lemma": "après l'envoi d'un message",
+    "meaning": "after the message was sent, not before",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1344.mp3"
+  },
+  {
+    "id": "fr-03-1345",
+    "sentence": "Attends, laisse-moi aller au bout de mon idée, et ensuite je t'écoute.",
+    "cloze": "aller au bout de mon idée",
+    "answer": "aller au bout de mon idée",
+    "lemma": "aller au bout de son idée",
+    "meaning": "finish making my point",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1345.mp3"
+  },
+  {
+    "id": "fr-03-1346",
+    "sentence": "Quand tu dis « demain », tu penses à demain matin ou à demain après-midi ?",
+    "cloze": "à demain matin ou à demain après-midi",
+    "answer": "à demain matin ou à demain après-midi",
+    "lemma": "demain matin ou demain après-midi",
+    "meaning": "tomorrow morning or tomorrow afternoon",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1346.mp3"
+  },
+  {
+    "id": "fr-03-1347",
+    "sentence": "Puis-je reprendre la parole pour répondre à ce dernier point ?",
+    "cloze": "reprendre la parole",
+    "answer": "reprendre la parole",
+    "lemma": "reprendre la parole",
+    "meaning": "speak again",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1347.mp3"
+  },
+  {
+    "id": "fr-03-1348",
+    "sentence": "Laissez-moi finir ma phrase, puis je répondrai à votre question.",
+    "cloze": "finir ma phrase",
+    "answer": "finir ma phrase",
+    "lemma": "finir sa phrase",
+    "meaning": "finish my sentence",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1348.mp3"
+  },
+  {
+    "id": "fr-03-1349",
+    "sentence": "Vous pouvez continuer sans vous presser ; je note vos remarques.",
+    "cloze": "continuer sans vous presser",
+    "answer": "continuer sans vous presser",
+    "lemma": "continuer sans se presser",
+    "meaning": "continue without rushing",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1349.mp3"
+  },
+  {
+    "id": "fr-03-1350",
+    "sentence": "Comme nous avons commencé en même temps, je vous laisse la parole.",
+    "cloze": "vous laisse la parole",
+    "answer": "vous laisse la parole",
+    "lemma": "laisser la parole à quelqu'un",
+    "meaning": "will let you speak first",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1350.mp3"
+  },
+  {
+    "id": "fr-03-1351",
+    "sentence": "Il s'agit d'une demande de délai, et non d'un refus.",
+    "cloze": "d'une demande de délai, et non d'un refus",
+    "answer": "d'une demande de délai, et non d'un refus",
+    "lemma": "une demande de délai",
+    "meaning": "a request for an extension, not a refusal",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1351.mp3"
+  },
+  {
+    "id": "fr-03-1352",
+    "sentence": "Pour lever le malentendu, c'est Léa, et non Nadia, qui présentera le projet.",
+    "cloze": "Léa, et non Nadia",
+    "answer": "Léa, et non Nadia",
+    "lemma": "Léa, et non Nadia",
+    "meaning": "Léa, not Nadia",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1352.mp3"
+  },
+  {
+    "id": "fr-03-1353",
+    "sentence": "Dans ce message, par « nous », j'entends uniquement l'équipe du matin.",
+    "cloze": "uniquement l'équipe du matin",
+    "answer": "uniquement l'équipe du matin",
+    "lemma": "l'équipe du matin",
+    "meaning": "only the morning team",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1353.mp3"
+  },
+  {
+    "id": "fr-03-1354",
+    "sentence": "Ici, le pronom « ils » désigne les deux techniciens, pas les voisins.",
+    "cloze": "les deux techniciens, pas les voisins",
+    "answer": "les deux techniciens, pas les voisins",
+    "lemma": "un technicien ; un voisin",
+    "meaning": "the two technicians, not the neighbors",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1354.mp3"
+  },
+  {
+    "id": "fr-03-1355",
+    "sentence": "Quand je parle de « cette solution », je désigne celle proposée par la mairie.",
+    "cloze": "celle proposée par la mairie",
+    "answer": "celle proposée par la mairie",
+    "lemma": "celui, celle",
+    "meaning": "the one proposed by the town hall",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1355.mp3"
+  },
+  {
+    "id": "fr-03-1356",
+    "sentence": "Je reprends depuis le début pour expliquer clairement l'ordre des étapes.",
+    "cloze": "reprends depuis le début",
+    "answer": "reprends depuis le début",
+    "lemma": "reprendre depuis le début",
+    "meaning": "start again from the beginning",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1356.mp3"
+  },
+  {
+    "id": "fr-03-1357",
+    "sentence": "Revenons au point resté en suspens avant la pause.",
+    "cloze": "au point resté en suspens",
+    "answer": "au point resté en suspens",
+    "lemma": "un point resté en suspens",
+    "meaning": "to the point left unresolved",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1357.mp3"
+  },
+  {
+    "id": "fr-03-1358",
+    "sentence": "Pour revenir à votre question initiale, le délai est bien de cinq jours ouvrés.",
+    "cloze": "revenir à votre question initiale",
+    "answer": "revenir à votre question initiale",
+    "lemma": "revenir à une question",
+    "meaning": "return to your original question",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1358.mp3"
+  },
+  {
+    "id": "fr-03-1359",
+    "sentence": "Je dois rectifier l'information donnée tout à l'heure : la salle se trouve au premier étage.",
+    "cloze": "rectifier l'information",
+    "answer": "rectifier l'information",
+    "lemma": "rectifier une information",
+    "meaning": "correct the information",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1359.mp3"
+  },
+  {
+    "id": "fr-03-1360",
+    "sentence": "Avant de conclure, vérifions que nous parlons bien de la même chose.",
+    "cloze": "de la même chose",
+    "answer": "de la même chose",
+    "lemma": "parler de la même chose",
+    "meaning": "about the same thing",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1360.mp3"
+  }
+,
+  {
+    "id": "fr-03-1361",
+    "sentence": "Quand je suis arrivée au bureau, mon collègue avait déjà envoyé le compte rendu.",
+    "cloze": "avait déjà envoyé le compte rendu",
+    "answer": "avait déjà envoyé le compte rendu",
+    "lemma": "envoyer",
+    "meaning": "had already sent the report",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1361.mp3"
+  },
+  {
+    "id": "fr-03-1362",
+    "sentence": "Je cherchais mon badge quand la gardienne l'a retrouvé près de l'ascenseur.",
+    "cloze": "l'a retrouvé près de l'ascenseur",
+    "answer": "l'a retrouvé près de l'ascenseur",
+    "lemma": "retrouver",
+    "meaning": "found it near the lift",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1362.mp3"
+  },
+  {
+    "id": "fr-03-1363",
+    "sentence": "Le projecteur s'est éteint pendant que nous présentions le projet.",
+    "cloze": "présentions le projet",
+    "answer": "présentions le projet",
+    "lemma": "présenter",
+    "meaning": "were presenting the project",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1363.mp3"
+  },
+  {
+    "id": "fr-03-1364",
+    "sentence": "La chambre que nous avions réservée donnait sur une rue très calme.",
+    "cloze": "avions réservée",
+    "answer": "avions réservée",
+    "lemma": "réserver",
+    "meaning": "had booked",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1364.mp3"
+  },
+  {
+    "id": "fr-03-1365",
+    "sentence": "Cela faisait déjà trois mois que je travaillais dans cette équipe quand le projet a commencé.",
+    "cloze": "Cela faisait déjà trois mois",
+    "answer": "Cela faisait déjà trois mois",
+    "lemma": "faire",
+    "meaning": "it had already been three months",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1365.mp3"
+  },
+  {
+    "id": "fr-03-1366",
+    "sentence": "Dès que la pluie s'est arrêtée, nous avons repris notre promenade.",
+    "cloze": "avons repris notre promenade",
+    "answer": "avons repris notre promenade",
+    "lemma": "reprendre",
+    "meaning": "resumed our walk",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1366.mp3"
+  },
+  {
+    "id": "fr-03-1367",
+    "sentence": "Si la mairie accepte notre proposition, nous organiserons une réunion publique en septembre.",
+    "cloze": "organiserons une réunion publique",
+    "answer": "organiserons une réunion publique",
+    "lemma": "organiser",
+    "meaning": "will organize a public meeting",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1367.mp3"
+  },
+  {
+    "id": "fr-03-1368",
+    "sentence": "Si tu avais davantage de temps, tu pourrais participer à l'atelier du samedi.",
+    "cloze": "pourrais participer à l'atelier du samedi",
+    "answer": "pourrais participer à l'atelier du samedi",
+    "lemma": "pouvoir participer",
+    "meaning": "could take part in the Saturday workshop",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1368.mp3"
+  },
+  {
+    "id": "fr-03-1369",
+    "sentence": "À votre place, je demanderais un devis avant d'accepter les travaux.",
+    "cloze": "demanderais un devis",
+    "answer": "demanderais un devis",
+    "lemma": "demander",
+    "meaning": "would ask for a quote",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1369.mp3"
+  },
+  {
+    "id": "fr-03-1370",
+    "sentence": "Le train devrait arriver à l'heure, sauf si les travaux se prolongent.",
+    "cloze": "devrait arriver à l'heure",
+    "answer": "devrait arriver à l'heure",
+    "lemma": "devoir arriver",
+    "meaning": "should arrive on time",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1370.mp3"
+  },
+  {
+    "id": "fr-03-1371",
+    "sentence": "Je souhaite recevoir une confirmation écrite avant vendredi.",
+    "cloze": "recevoir une confirmation écrite",
+    "answer": "recevoir une confirmation écrite",
+    "lemma": "recevoir",
+    "meaning": "to receive written confirmation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1371.mp3"
+  },
+  {
+    "id": "fr-03-1372",
+    "sentence": "Je souhaite que vous m'envoyiez une confirmation écrite avant vendredi.",
+    "cloze": "m'envoyiez une confirmation écrite",
+    "answer": "m'envoyiez une confirmation écrite",
+    "lemma": "envoyer",
+    "meaning": "send me written confirmation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1372.mp3"
+  },
+  {
+    "id": "fr-03-1373",
+    "sentence": "Il faut que chaque participant puisse consulter le document avant la réunion.",
+    "cloze": "puisse consulter le document",
+    "answer": "puisse consulter le document",
+    "lemma": "pouvoir consulter",
+    "meaning": "must be able to consult the document",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1373.mp3"
+  },
+  {
+    "id": "fr-03-1374",
+    "sentence": "Bien que le trajet soit plus long, il évite deux correspondances.",
+    "cloze": "soit plus long",
+    "answer": "soit plus long",
+    "lemma": "être",
+    "meaning": "is longer",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1374.mp3"
+  },
+  {
+    "id": "fr-03-1375",
+    "sentence": "Nous avons fermé les fenêtres pour ne pas déranger les voisins.",
+    "cloze": "pour ne pas déranger les voisins",
+    "answer": "pour ne pas déranger les voisins",
+    "lemma": "déranger",
+    "meaning": "so as not to disturb the neighbors",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1375.mp3"
+  },
+  {
+    "id": "fr-03-1376",
+    "sentence": "Les nouveaux horaires sont prêts : la responsable nous les transmettra demain matin.",
+    "cloze": "nous les transmettra",
+    "answer": "nous les transmettra",
+    "lemma": "transmettre",
+    "meaning": "will send them to us",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1376.mp3"
+  },
+  {
+    "id": "fr-03-1377",
+    "sentence": "Après avoir corrigé l'adresse sur ce formulaire, vous pouvez me le renvoyer.",
+    "cloze": "me le renvoyer",
+    "answer": "me le renvoyer",
+    "lemma": "renvoyer",
+    "meaning": "send it back to me",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1377.mp3"
+  },
+  {
+    "id": "fr-03-1378",
+    "sentence": "Ce changement d'horaire n'est pas clair ; expliquez-le-nous une dernière fois, s'il vous plaît.",
+    "cloze": "expliquez-le-nous",
+    "answer": "expliquez-le-nous",
+    "lemma": "expliquer",
+    "meaning": "explain it to us",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1378.mp3"
+  },
+  {
+    "id": "fr-03-1379",
+    "sentence": "Le rapport n'est pas validé ; ne nous l'envoyez pas avant l'accord de la directrice.",
+    "cloze": "ne nous l'envoyez pas",
+    "answer": "ne nous l'envoyez pas",
+    "lemma": "envoyer",
+    "meaning": "do not send it to us",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1379.mp3"
+  },
+  {
+    "id": "fr-03-1380",
+    "sentence": "Tu m'avais parlé de cette formation ; j'y avais pensé, mais je n'avais pas encore vérifié les horaires.",
+    "cloze": "y avais pensé",
+    "answer": "y avais pensé",
+    "lemma": "penser à",
+    "meaning": "had thought about it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1380.mp3"
+  },
+  {
+    "id": "fr-03-1381",
+    "sentence": "La réservation était complexe, mais Claire s'en est occupée pendant mon absence.",
+    "cloze": "s'en est occupée",
+    "answer": "s'en est occupée",
+    "lemma": "s'occuper de",
+    "meaning": "took care of it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1381.mp3"
+  },
+  {
+    "id": "fr-03-1382",
+    "sentence": "Les corrections que j'ai faites figurent dans la nouvelle version.",
+    "cloze": "ai faites",
+    "answer": "ai faites",
+    "lemma": "faire",
+    "meaning": "made",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1382.mp3"
+  },
+  {
+    "id": "fr-03-1383",
+    "sentence": "Elles se sont excusées auprès de la cliente après le malentendu.",
+    "cloze": "se sont excusées auprès de la cliente",
+    "answer": "se sont excusées auprès de la cliente",
+    "lemma": "s'excuser auprès de",
+    "meaning": "apologized to the customer",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1383.mp3"
+  },
+  {
+    "id": "fr-03-1384",
+    "sentence": "C'est le document dont j'avais besoin pour compléter mon dossier.",
+    "cloze": "avais besoin",
+    "answer": "avais besoin",
+    "lemma": "avoir besoin de",
+    "meaning": "needed",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1384.mp3"
+  },
+  {
+    "id": "fr-03-1385",
+    "sentence": "Voici la conseillère auprès de laquelle j'ai déposé mon dossier.",
+    "cloze": "auprès de laquelle",
+    "answer": "auprès de laquelle",
+    "lemma": "auprès de laquelle",
+    "meaning": "with whom",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1385.mp3"
+  },
+  {
+    "id": "fr-03-1386",
+    "sentence": "C'est le projet à propos duquel les habitants ont posé le plus de questions.",
+    "cloze": "à propos duquel",
+    "answer": "à propos duquel",
+    "lemma": "à propos duquel",
+    "meaning": "about which",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1386.mp3"
+  },
+  {
+    "id": "fr-03-1387",
+    "sentence": "Élodie m'a dit qu'elle arriverait le lendemain en fin de matinée.",
+    "cloze": "arriverait le lendemain en fin de matinée",
+    "answer": "arriverait le lendemain en fin de matinée",
+    "lemma": "arriver",
+    "meaning": "would arrive the next day in the late morning",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1387.mp3"
+  },
+  {
+    "id": "fr-03-1388",
+    "sentence": "Le gardien m'a demandé si j'avais bien fermé la porte de la cave.",
+    "cloze": "avais bien fermé la porte de la cave",
+    "answer": "avais bien fermé la porte de la cave",
+    "lemma": "fermer",
+    "meaning": "had properly closed the cellar door",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1388.mp3"
+  },
+  {
+    "id": "fr-03-1389",
+    "sentence": "La responsable nous a demandé de ne pas diffuser le document avant lundi.",
+    "cloze": "de ne pas diffuser le document",
+    "answer": "de ne pas diffuser le document",
+    "lemma": "diffuser",
+    "meaning": "not to circulate the document",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1389.mp3"
+  },
+  {
+    "id": "fr-03-1390",
+    "sentence": "Paul a expliqué qu'il avait laissé les clés à l'accueil la veille.",
+    "cloze": "avait laissé les clés à l'accueil",
+    "answer": "avait laissé les clés à l'accueil",
+    "lemma": "laisser",
+    "meaning": "had left the keys at reception",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1390.mp3"
+  },
+  {
+    "id": "fr-03-1391",
+    "sentence": "Je préfère le train, car il réduit le temps de trajet et permet de travailler.",
+    "cloze": "réduit le temps de trajet",
+    "answer": "réduit le temps de trajet",
+    "lemma": "réduire",
+    "meaning": "reduces the journey time",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1391.mp3"
+  },
+  {
+    "id": "fr-03-1392",
+    "sentence": "À mon avis, cette solution est plus utile, puisqu'elle reste accessible aux personnes sans voiture.",
+    "cloze": "reste accessible aux personnes sans voiture",
+    "answer": "reste accessible aux personnes sans voiture",
+    "lemma": "rester accessible",
+    "meaning": "remains accessible to people without a car",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1392.mp3"
+  },
+  {
+    "id": "fr-03-1393",
+    "sentence": "Je recommande cet atelier : il propose des explications claires et des exercices concrets.",
+    "cloze": "des explications claires et des exercices concrets",
+    "answer": "des explications claires et des exercices concrets",
+    "lemma": "une explication claire ; un exercice concret",
+    "meaning": "clear explanations and practical exercises",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1393.mp3"
+  },
+  {
+    "id": "fr-03-1394",
+    "sentence": "Même si l'application est pratique, je garderais une copie papier en cas de panne.",
+    "cloze": "garderais une copie papier",
+    "answer": "garderais une copie papier",
+    "lemma": "garder",
+    "meaning": "would keep a paper copy",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1394.mp3"
+  },
+  {
+    "id": "fr-03-1395",
+    "sentence": "Dans l'interview, l'invitée explique que les habitants ont réduit leurs déchets grâce au compostage.",
+    "cloze": "ont réduit leurs déchets",
+    "answer": "ont réduit leurs déchets",
+    "lemma": "réduire",
+    "meaning": "reduced their waste",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1395.mp3"
+  },
+  {
+    "id": "fr-03-1396",
+    "sentence": "Le reportage commence par présenter le problème, puis se termine par un exemple concret.",
+    "cloze": "se termine par un exemple concret",
+    "answer": "se termine par un exemple concret",
+    "lemma": "se terminer par",
+    "meaning": "ends with a concrete example",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1396.mp3"
+  },
+  {
+    "id": "fr-03-1397",
+    "sentence": "Selon l'article, le nouveau service facilite les déplacements des personnes âgées.",
+    "cloze": "facilite les déplacements",
+    "answer": "facilite les déplacements",
+    "lemma": "faciliter",
+    "meaning": "makes travel easier",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1397.mp3"
+  },
+  {
+    "id": "fr-03-1398",
+    "sentence": "En résumé, la présentation recommande de tester le projet pendant trois mois avant de l'étendre.",
+    "cloze": "de tester le projet pendant trois mois",
+    "answer": "de tester le projet pendant trois mois",
+    "lemma": "tester",
+    "meaning": "to test the project for three months",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1398.mp3"
+  },
+  {
+    "id": "fr-03-1399",
+    "sentence": "Madame, je vous serais reconnaissante de me confirmer la date d'intervention par écrit.",
+    "cloze": "me confirmer la date d'intervention",
+    "answer": "me confirmer la date d'intervention",
+    "lemma": "confirmer",
+    "meaning": "confirm the intervention date for me",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1399.mp3"
+  },
+  {
+    "id": "fr-03-1400",
+    "sentence": "Je me suis mal exprimée : je parlais de la date de livraison, pas de la date de commande.",
+    "cloze": "parlais de la date de livraison",
+    "answer": "parlais de la date de livraison",
+    "lemma": "parler de",
+    "meaning": "was talking about the delivery date",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/03/fr-03-1400.mp3"
   }
 ]
