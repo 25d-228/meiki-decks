@@ -4682,26 +4682,25 @@
   {
     "id": "fr-03-0441",
     "sentence": "Je relis votre message pour confirmer l'heure du rendez-vous.",
-    "cloze": "pour confirmer l'heure",
-    "answer": "pour confirmer l'heure",
-    "lemma": "pour + infinitif",
-    "meaning": "to confirm the time",
+    "cloze": "confirmer l'heure du rendez-vous",
+    "answer": "confirmer l'heure du rendez-vous",
+    "lemma": "confirmer l'heure",
+    "meaning": "confirm the appointment time",
     "accepted_answers": [],
-    "register": "professional",
+    "audio": "work/audio/fr-FR/03/fr-03-0441.mp3",
     "grammar": "Use pour followed by an infinitive when the subject stays the same.",
-    "audio": "work/audio/fr-FR/03/fr-03-0441.mp3"
+    "register": "professional"
   },
   {
     "id": "fr-03-0442",
     "sentence": "Nous prenons le train direct afin d'éviter une correspondance à Châtelet.",
-    "cloze": "afin d'éviter une correspondance",
-    "answer": "afin d'éviter une correspondance",
-    "lemma": "afin de + infinitif",
-    "meaning": "in order to avoid a connection",
+    "cloze": "une correspondance à Châtelet",
+    "answer": "une correspondance à Châtelet",
+    "lemma": "une correspondance",
+    "meaning": "a connection at Châtelet",
     "accepted_answers": [],
-    "register": "neutral",
-    "grammar": "Afin de introduces a purpose when both actions have the same subject.",
-    "audio": "work/audio/fr-FR/03/fr-03-0442.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-0442.mp3",
+    "register": "neutral"
   },
   {
     "id": "fr-03-0443",
@@ -4742,38 +4741,38 @@
   {
     "id": "fr-03-0446",
     "sentence": "Avant de partir, il vérifie l'itinéraire pour ne pas prendre la mauvaise ligne.",
-    "cloze": "pour ne pas prendre la mauvaise ligne",
-    "answer": "pour ne pas prendre la mauvaise ligne",
-    "lemma": "pour ne pas + infinitif",
-    "meaning": "so as not to take the wrong line",
+    "cloze": "prendre la mauvaise ligne",
+    "answer": "prendre la mauvaise ligne",
+    "lemma": "prendre la mauvaise ligne",
+    "meaning": "take the wrong line",
     "accepted_answers": [],
-    "register": "neutral",
-    "grammar": "Use a negative infinitive after pour when the subject stays the same.",
-    "audio": "work/audio/fr-FR/03/fr-03-0446.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-0446.mp3",
+    "grammar": "The visible pour ne pas supplies the negative purpose frame.",
+    "register": "neutral"
   },
   {
     "id": "fr-03-0447",
     "sentence": "Vous pouvez laisser vos coordonnées afin de recevoir une réponse demain.",
-    "cloze": "afin de recevoir une réponse",
-    "answer": "afin de recevoir une réponse",
-    "lemma": "afin de + infinitif",
-    "meaning": "in order to receive a reply",
+    "cloze": "recevoir une réponse demain",
+    "answer": "recevoir une réponse demain",
+    "lemma": "recevoir une réponse",
+    "meaning": "receive a reply tomorrow",
     "accepted_answers": [],
-    "register": "polite",
+    "audio": "work/audio/fr-FR/03/fr-03-0447.mp3",
     "grammar": "Afin de is followed by an infinitive when vous performs both actions.",
-    "audio": "work/audio/fr-FR/03/fr-03-0447.mp3"
+    "register": "polite"
   },
   {
     "id": "fr-03-0448",
     "sentence": "Je prends une photo du panneau pour me rappeler le numéro de la voie.",
-    "cloze": "pour me rappeler le numéro",
-    "answer": "pour me rappeler le numéro",
+    "cloze": "me rappeler le numéro de la voie",
+    "answer": "me rappeler le numéro de la voie",
     "lemma": "se rappeler",
-    "meaning": "to remember the number",
+    "meaning": "remember the platform number",
     "accepted_answers": [],
-    "register": "neutral",
+    "audio": "work/audio/fr-FR/03/fr-03-0448.mp3",
     "grammar": "Use a reflexive infinitive after pour because the subject does not change.",
-    "audio": "work/audio/fr-FR/03/fr-03-0448.mp3"
+    "register": "neutral"
   },
   {
     "id": "fr-03-0449",
@@ -4790,14 +4789,14 @@
   {
     "id": "fr-03-0450",
     "sentence": "Elle suit une formation afin de travailler plus efficacement.",
-    "cloze": "afin de travailler",
-    "answer": "afin de travailler",
-    "lemma": "afin de + infinitif",
-    "meaning": "in order to work",
+    "cloze": "travailler plus efficacement",
+    "answer": "travailler plus efficacement",
+    "lemma": "travailler",
+    "meaning": "work more effectively",
     "accepted_answers": [],
-    "register": "professional",
+    "audio": "work/audio/fr-FR/03/fr-03-0450.mp3",
     "grammar": "Use afin de with an infinitive when elle performs both actions.",
-    "audio": "work/audio/fr-FR/03/fr-03-0450.mp3"
+    "register": "professional"
   },
   {
     "id": "fr-03-0451",
@@ -5404,24 +5403,24 @@
   {
     "id": "fr-03-0503",
     "sentence": "Ma carte a été refusée, c'est pourquoi je paierai en espèces.",
-    "cloze": "c'est pourquoi je paierai",
-    "answer": "c'est pourquoi je paierai",
+    "cloze": "c'est pourquoi",
+    "answer": "c'est pourquoi",
     "lemma": "c'est pourquoi",
-    "meaning": "which is why I will pay",
+    "meaning": "which is why",
     "accepted_answers": [],
-    "register": "service",
-    "audio": "work/audio/fr-FR/03/fr-03-0503.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-0503.mp3",
+    "register": "service"
   },
   {
     "id": "fr-03-0504",
     "sentence": "Nous avons manqué le dernier bus, c'est pourquoi nous rentrerons à pied.",
-    "cloze": "c'est pourquoi nous rentrerons",
-    "answer": "c'est pourquoi nous rentrerons",
-    "lemma": "c'est pourquoi",
-    "meaning": "which is why we will return",
+    "cloze": "rentrerons",
+    "answer": "rentrerons",
+    "lemma": "rentrer",
+    "meaning": "will return",
     "accepted_answers": [],
-    "register": "neutral",
-    "audio": "work/audio/fr-FR/03/fr-03-0504.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-0504.mp3",
+    "register": "neutral"
   },
   {
     "id": "fr-03-0505",
@@ -5437,13 +5436,13 @@
   {
     "id": "fr-03-0506",
     "sentence": "La salle sera fermée lundi, c'est pourquoi la réunion aura lieu en visioconférence.",
-    "cloze": "c'est pourquoi la réunion aura lieu",
-    "answer": "c'est pourquoi la réunion aura lieu",
-    "lemma": "c'est pourquoi",
-    "meaning": "which is why the meeting will take place",
+    "cloze": "en visioconférence",
+    "answer": "en visioconférence",
+    "lemma": "en visioconférence",
+    "meaning": "by video conference",
     "accepted_answers": [],
-    "register": "professional",
-    "audio": "work/audio/fr-FR/03/fr-03-0506.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-0506.mp3",
+    "register": "professional"
   },
   {
     "id": "fr-03-0507",
@@ -5492,46 +5491,46 @@
   {
     "id": "fr-03-0511",
     "sentence": "Je vous appelle pour confirmer notre entretien de vendredi.",
-    "cloze": "pour confirmer notre entretien",
-    "answer": "pour confirmer notre entretien",
-    "lemma": "pour",
-    "meaning": "to confirm our meeting",
+    "cloze": "confirmer notre entretien de vendredi",
+    "answer": "confirmer notre entretien de vendredi",
+    "lemma": "confirmer un entretien",
+    "meaning": "confirm our Friday meeting",
     "accepted_answers": [],
-    "register": "professional",
-    "audio": "work/audio/fr-FR/03/fr-03-0511.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-0511.mp3",
+    "register": "professional"
   },
   {
     "id": "fr-03-0512",
     "sentence": "Nous prendrons le train direct pour éviter une correspondance à Châtelet.",
-    "cloze": "pour éviter une correspondance",
-    "answer": "pour éviter une correspondance",
-    "lemma": "pour",
-    "meaning": "to avoid a connection",
+    "cloze": "éviter une correspondance à Châtelet",
+    "answer": "éviter une correspondance à Châtelet",
+    "lemma": "éviter une correspondance",
+    "meaning": "avoid a connection at Châtelet",
     "accepted_answers": [],
-    "register": "neutral",
-    "audio": "work/audio/fr-FR/03/fr-03-0512.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-0512.mp3",
+    "register": "neutral"
   },
   {
     "id": "fr-03-0513",
     "sentence": "Je garde le ticket de caisse pour pouvoir échanger cette veste demain.",
-    "cloze": "pour pouvoir échanger cette veste",
-    "answer": "pour pouvoir échanger cette veste",
-    "lemma": "pour",
-    "meaning": "to be able to exchange this jacket",
+    "cloze": "échanger cette veste demain",
+    "answer": "échanger cette veste demain",
+    "lemma": "échanger",
+    "meaning": "exchange this jacket tomorrow",
     "accepted_answers": [],
-    "register": "service",
-    "audio": "work/audio/fr-FR/03/fr-03-0513.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-0513.mp3",
+    "register": "service"
   },
   {
     "id": "fr-03-0514",
     "sentence": "Elle note le trajet pour ne pas se tromper de ligne demain.",
-    "cloze": "pour ne pas se tromper de ligne",
-    "answer": "pour ne pas se tromper de ligne",
-    "lemma": "pour",
-    "meaning": "so as not to take the wrong line",
+    "cloze": "se tromper de ligne demain",
+    "answer": "se tromper de ligne demain",
+    "lemma": "se tromper de ligne",
+    "meaning": "take the wrong line tomorrow",
     "accepted_answers": [],
-    "register": "neutral",
-    "audio": "work/audio/fr-FR/03/fr-03-0514.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-0514.mp3",
+    "register": "neutral"
   },
   {
     "id": "fr-03-0515",
@@ -5547,57 +5546,57 @@
   {
     "id": "fr-03-0516",
     "sentence": "Je vous écris afin de recevoir une confirmation avant lundi.",
-    "cloze": "afin de recevoir une confirmation",
-    "answer": "afin de recevoir une confirmation",
-    "lemma": "afin de",
-    "meaning": "in order to receive confirmation",
+    "cloze": "recevoir une confirmation avant lundi",
+    "answer": "recevoir une confirmation avant lundi",
+    "lemma": "recevoir une confirmation",
+    "meaning": "receive confirmation before Monday",
     "accepted_answers": [],
-    "register": "professional",
-    "audio": "work/audio/fr-FR/03/fr-03-0516.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-0516.mp3",
+    "register": "professional"
   },
   {
     "id": "fr-03-0517",
     "sentence": "Je mettrai mon téléphone en mode silencieux afin de ne pas interrompre la présentation de la formatrice.",
-    "cloze": "afin de ne pas interrompre la présentation",
-    "answer": "afin de ne pas interrompre la présentation",
-    "lemma": "afin de",
-    "meaning": "in order not to interrupt the presentation",
+    "cloze": "interrompre la présentation de la formatrice",
+    "answer": "interrompre la présentation de la formatrice",
+    "lemma": "interrompre une présentation",
+    "meaning": "interrupt the trainer's presentation",
     "accepted_answers": [],
-    "register": "professional",
-    "audio": "work/audio/fr-FR/03/fr-03-0517.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-0517.mp3",
+    "register": "professional"
   },
   {
     "id": "fr-03-0518",
     "sentence": "Le responsable viendra afin de vérifier la chaudière demain matin.",
-    "cloze": "afin de vérifier la chaudière",
-    "answer": "afin de vérifier la chaudière",
-    "lemma": "afin de",
-    "meaning": "in order to check the boiler",
+    "cloze": "vérifier la chaudière demain matin",
+    "answer": "vérifier la chaudière demain matin",
+    "lemma": "vérifier une chaudière",
+    "meaning": "check the boiler tomorrow morning",
     "accepted_answers": [],
-    "register": "service",
-    "audio": "work/audio/fr-FR/03/fr-03-0518.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-0518.mp3",
+    "register": "service"
   },
   {
     "id": "fr-03-0519",
     "sentence": "Je mettrai le document à jour afin de corriger l'adresse avant de l'envoyer.",
-    "cloze": "afin de corriger l'adresse",
-    "answer": "afin de corriger l'adresse",
-    "lemma": "afin de",
-    "meaning": "in order to correct the address",
+    "cloze": "corriger l'adresse",
+    "answer": "corriger l'adresse",
+    "lemma": "corriger une adresse",
+    "meaning": "correct the address",
     "accepted_answers": [],
-    "register": "professional",
-    "audio": "work/audio/fr-FR/03/fr-03-0519.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-0519.mp3",
+    "register": "professional"
   },
   {
     "id": "fr-03-0520",
     "sentence": "Nous partirons à huit heures afin d'arriver avant le début de la formation.",
-    "cloze": "afin d'arriver",
-    "answer": "afin d'arriver",
-    "lemma": "afin de",
-    "meaning": "in order to arrive",
+    "cloze": "arriver avant le début de la formation",
+    "answer": "arriver avant le début de la formation",
+    "lemma": "arriver",
+    "meaning": "arrive before the training begins",
     "accepted_answers": [],
-    "register": "professional",
-    "audio": "work/audio/fr-FR/03/fr-03-0520.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-0520.mp3",
+    "register": "professional"
   },
   {
     "id": "fr-03-0521",
@@ -10730,14 +10729,14 @@
   {
     "id": "fr-03-0981",
     "sentence": "La responsable me demande de confirmer ma présence avant jeudi.",
-    "cloze": "de confirmer ma présence",
-    "answer": "de confirmer ma présence",
-    "lemma": "confirmer",
-    "meaning": "to confirm my attendance",
+    "cloze": "confirmer ma présence avant jeudi",
+    "answer": "confirmer ma présence avant jeudi",
+    "lemma": "confirmer sa présence",
+    "meaning": "confirm my attendance before Thursday",
     "accepted_answers": [],
-    "grammar": "reported request with de plus infinitive",
-    "register": "professional",
-    "audio": "work/audio/fr-FR/03/fr-03-0981.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-0981.mp3",
+    "grammar": "The visible de introduces the reported request.",
+    "register": "professional"
   },
   {
     "id": "fr-03-0982",
@@ -10981,13 +10980,13 @@
   {
     "id": "fr-03-1002",
     "sentence": "L'hôtel du centre est plus calme que celui de la gare et il reste peu de chambres, alors je vous conseille plutôt de réserver dès aujourd'hui.",
-    "cloze": "je vous conseille plutôt de réserver",
-    "answer": "je vous conseille plutôt de réserver",
-    "lemma": "conseiller de réserver",
-    "meaning": "I advise you to book instead",
+    "cloze": "conseille plutôt",
+    "answer": "conseille plutôt",
+    "lemma": "conseiller",
+    "meaning": "recommend instead",
     "accepted_answers": [],
-    "register": "polite",
-    "audio": "work/audio/fr-FR/03/fr-03-1002.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-1002.mp3",
+    "register": "polite"
   },
   {
     "id": "fr-03-1003",
@@ -11179,13 +11178,13 @@
   {
     "id": "fr-03-1020",
     "sentence": "Le propriétaire a promis une réponse demain et un autre appel risquerait de créer une confusion, donc je conseillerais d'attendre jusqu'à demain midi.",
-    "cloze": "je conseillerais d'attendre",
-    "answer": "je conseillerais d'attendre",
-    "lemma": "conseiller d'attendre",
-    "meaning": "I would advise waiting",
+    "cloze": "conseillerais",
+    "answer": "conseillerais",
+    "lemma": "conseiller",
+    "meaning": "would advise",
     "accepted_answers": [],
-    "register": "neutral",
-    "audio": "work/audio/fr-FR/03/fr-03-1020.mp3"
+    "audio": "work/audio/fr-FR/03/fr-03-1020.mp3",
+    "register": "neutral"
   },
   {
     "id": "fr-03-1021",
@@ -11590,10 +11589,10 @@
   {
     "id": "fr-03-1059",
     "sentence": "Sami retient deux idées pour résumer l'entretien : former les équipes et simplifier le formulaire.",
-    "cloze": "pour résumer l'entretien",
-    "answer": "pour résumer l'entretien",
+    "cloze": "résumer l'entretien",
+    "answer": "résumer l'entretien",
     "lemma": "résumer",
-    "meaning": "to summarize the interview",
+    "meaning": "summarize the interview",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-1059.mp3"
   },
@@ -12766,10 +12765,10 @@
   {
     "id": "fr-03-1171",
     "sentence": "Le formateur nous a demandé de renommer les fichiers avant de les envoyer.",
-    "cloze": "de renommer les fichiers",
-    "answer": "de renommer les fichiers",
+    "cloze": "renommer les fichiers",
+    "answer": "renommer les fichiers",
     "lemma": "renommer un fichier",
-    "meaning": "to rename the files",
+    "meaning": "rename the files",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-1171.mp3"
   },
@@ -12837,8 +12836,8 @@
   {
     "id": "fr-03-1178",
     "sentence": "Je vais reprendre ce passage en tenant compte de vos commentaires.",
-    "cloze": "en tenant compte de vos commentaires",
-    "answer": "en tenant compte de vos commentaires",
+    "cloze": "tenant compte de vos commentaires",
+    "answer": "tenant compte de vos commentaires",
     "lemma": "tenir compte de",
     "meaning": "taking your comments into account",
     "accepted_answers": [],
@@ -14584,10 +14583,10 @@
   {
     "id": "fr-03-1351",
     "sentence": "Il s'agit d'une demande de délai, et non d'un refus.",
-    "cloze": "d'une demande de délai, et non d'un refus",
-    "answer": "d'une demande de délai, et non d'un refus",
+    "cloze": "une demande de délai",
+    "answer": "une demande de délai",
     "lemma": "une demande de délai",
-    "meaning": "a request for an extension, not a refusal",
+    "meaning": "a request for an extension",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-1351.mp3"
   },
@@ -14828,10 +14827,10 @@
   {
     "id": "fr-03-1375",
     "sentence": "Nous avons fermé les fenêtres pour ne pas déranger les voisins.",
-    "cloze": "pour ne pas déranger les voisins",
-    "answer": "pour ne pas déranger les voisins",
+    "cloze": "déranger les voisins",
+    "answer": "déranger les voisins",
     "lemma": "déranger",
-    "meaning": "so as not to disturb the neighbors",
+    "meaning": "disturb the neighbors",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-1375.mp3"
   },
@@ -14972,10 +14971,10 @@
   {
     "id": "fr-03-1389",
     "sentence": "La responsable nous a demandé de ne pas diffuser le document avant lundi.",
-    "cloze": "de ne pas diffuser le document",
-    "answer": "de ne pas diffuser le document",
+    "cloze": "diffuser le document",
+    "answer": "diffuser le document",
     "lemma": "diffuser",
-    "meaning": "not to circulate the document",
+    "meaning": "circulate the document",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-1389.mp3"
   },
@@ -15062,10 +15061,10 @@
   {
     "id": "fr-03-1398",
     "sentence": "En résumé, la présentation recommande de tester le projet pendant trois mois avant de l'étendre.",
-    "cloze": "de tester le projet pendant trois mois",
-    "answer": "de tester le projet pendant trois mois",
+    "cloze": "tester le projet pendant trois mois",
+    "answer": "tester le projet pendant trois mois",
     "lemma": "tester",
-    "meaning": "to test the project for three months",
+    "meaning": "test the project for three months",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-1398.mp3"
   },
