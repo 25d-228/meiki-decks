@@ -9674,20 +9674,20 @@
   {
     "id": "fr-03-0882",
     "sentence": "Ce sont les outils avec lesquels le plombier va réparer la chaudière.",
-    "cloze": "avec lesquels",
-    "answer": "avec lesquels",
-    "lemma": "avec lequel",
-    "meaning": "with which",
+    "cloze": "va réparer la chaudière",
+    "answer": "va réparer la chaudière",
+    "lemma": "réparer la chaudière",
+    "meaning": "is going to repair the boiler",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0882.mp3"
   },
   {
     "id": "fr-03-0883",
     "sentence": "J'ai retrouvé les photos avec lesquelles j'avais préparé la présentation.",
-    "cloze": "avec lesquelles",
-    "answer": "avec lesquelles",
-    "lemma": "avec lequel",
-    "meaning": "with which",
+    "cloze": "avais préparé la présentation",
+    "answer": "avais préparé la présentation",
+    "lemma": "préparer une présentation",
+    "meaning": "had prepared the presentation",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0883.mp3"
   },
@@ -9698,9 +9698,7 @@
     "answer": "pour qui",
     "lemma": "pour qui",
     "meaning": "for whom",
-    "accepted_answers": [
-      "pour laquelle"
-    ],
+    "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0884.mp3"
   },
   {
@@ -9710,21 +9708,17 @@
     "answer": "chez qui",
     "lemma": "chez qui",
     "meaning": "at whose home",
-    "accepted_answers": [
-      "chez laquelle"
-    ],
+    "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0885.mp3"
   },
   {
     "id": "fr-03-0886",
     "sentence": "C'est le technicien sans qui le projet ne peut pas avancer.",
-    "cloze": "sans qui",
-    "answer": "sans qui",
-    "lemma": "sans qui",
-    "meaning": "without whom",
-    "accepted_answers": [
-      "sans lequel"
-    ],
+    "cloze": "ne peut pas avancer",
+    "answer": "ne peut pas avancer",
+    "lemma": "avancer",
+    "meaning": "cannot move forward",
+    "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0886.mp3"
   },
   {
@@ -9734,45 +9728,37 @@
     "answer": "auprès de qui",
     "lemma": "auprès de qui",
     "meaning": "from whom",
-    "accepted_answers": [
-      "auprès de laquelle"
-    ],
+    "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0887.mp3"
   },
   {
     "id": "fr-03-0888",
     "sentence": "La personne à côté de qui vous travaillerez connaît déjà le logiciel.",
-    "cloze": "à côté de qui",
-    "answer": "à côté de qui",
-    "lemma": "à côté de qui",
-    "meaning": "next to whom",
-    "accepted_answers": [
-      "à côté de laquelle"
-    ],
+    "cloze": "travaillerez",
+    "answer": "travaillerez",
+    "lemma": "travailler",
+    "meaning": "will work",
+    "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0888.mp3"
   },
   {
     "id": "fr-03-0889",
     "sentence": "Le collègue en face de qui Paul était assis lui a expliqué le retard.",
-    "cloze": "en face de qui",
-    "answer": "en face de qui",
-    "lemma": "en face de qui",
-    "meaning": "opposite whom",
-    "accepted_answers": [
-      "en face duquel"
-    ],
+    "cloze": "lui a expliqué le retard",
+    "answer": "lui a expliqué le retard",
+    "lemma": "expliquer le retard à quelqu'un",
+    "meaning": "explained the delay to him",
+    "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0889.mp3"
   },
   {
     "id": "fr-03-0890",
     "sentence": "Je vais remercier la réceptionniste grâce à qui nous avons retrouvé nos bagages.",
-    "cloze": "grâce à qui",
-    "answer": "grâce à qui",
-    "lemma": "grâce à qui",
-    "meaning": "thanks to whom",
-    "accepted_answers": [
-      "grâce à laquelle"
-    ],
+    "cloze": "avons retrouvé nos bagages",
+    "answer": "avons retrouvé nos bagages",
+    "lemma": "retrouver ses bagages",
+    "meaning": "found our luggage",
+    "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0890.mp3"
   },
   {
@@ -9788,42 +9774,40 @@
   {
     "id": "fr-03-0892",
     "sentence": "La plateforme sur laquelle vous devez déposer le document est de nouveau accessible.",
-    "cloze": "sur laquelle",
-    "answer": "sur laquelle",
-    "lemma": "sur lequel",
-    "meaning": "on which",
+    "cloze": "déposer le document",
+    "answer": "déposer le document",
+    "lemma": "déposer un document",
+    "meaning": "upload the document",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0892.mp3"
   },
   {
     "id": "fr-03-0893",
     "sentence": "Le dossier dans lequel vous trouverez le contrat est posé sur mon bureau.",
-    "cloze": "dans lequel",
-    "answer": "dans lequel",
-    "lemma": "dans lequel",
-    "meaning": "in which",
+    "cloze": "trouverez le contrat",
+    "answer": "trouverez le contrat",
+    "lemma": "trouver un contrat",
+    "meaning": "will find the contract",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0893.mp3"
   },
   {
     "id": "fr-03-0894",
     "sentence": "La salle dans laquelle aura lieu la formation se trouve au deuxième étage.",
-    "cloze": "dans laquelle",
-    "answer": "dans laquelle",
-    "lemma": "dans lequel",
-    "meaning": "in which",
-    "accepted_answers": [
-      "où"
-    ],
+    "cloze": "aura lieu la formation",
+    "answer": "aura lieu la formation",
+    "lemma": "avoir lieu",
+    "meaning": "the training will take place",
+    "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0894.mp3"
   },
   {
     "id": "fr-03-0895",
     "sentence": "Les documents dans lesquels figurent les nouveaux horaires sont disponibles à l'accueil.",
-    "cloze": "dans lesquels",
-    "answer": "dans lesquels",
-    "lemma": "dans lequel",
-    "meaning": "in which",
+    "cloze": "figurent",
+    "answer": "figurent",
+    "lemma": "figurer",
+    "meaning": "are listed",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0895.mp3"
   },
@@ -9835,6 +9819,7 @@
     "lemma": "dans lequel",
     "meaning": "under which",
     "accepted_answers": [],
+    "note": "With conditions, dans lesquelles means 'under which'.",
     "audio": "work/audio/fr-FR/03/fr-03-0896.mp3"
   },
   {
@@ -9850,30 +9835,30 @@
   {
     "id": "fr-03-0898",
     "sentence": "La station près de laquelle nous avons loué l'appartement dessert directement le centre.",
-    "cloze": "près de laquelle",
-    "answer": "près de laquelle",
-    "lemma": "près duquel",
-    "meaning": "near which",
+    "cloze": "avons loué l'appartement",
+    "answer": "avons loué l'appartement",
+    "lemma": "louer un appartement",
+    "meaning": "rented the apartment",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0898.mp3"
   },
   {
     "id": "fr-03-0899",
     "sentence": "Le guichet à côté duquel vous devez attendre porte le numéro six.",
-    "cloze": "à côté duquel",
-    "answer": "à côté duquel",
-    "lemma": "à côté duquel",
-    "meaning": "next to which",
+    "cloze": "porte le numéro six",
+    "answer": "porte le numéro six",
+    "lemma": "porter un numéro",
+    "meaning": "is numbered six",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0899.mp3"
   },
   {
     "id": "fr-03-0900",
     "sentence": "La pharmacie en face de laquelle se trouve l'arrêt reste ouverte le dimanche.",
-    "cloze": "en face de laquelle",
-    "answer": "en face de laquelle",
-    "lemma": "en face duquel",
-    "meaning": "opposite which",
+    "cloze": "reste ouverte le dimanche",
+    "answer": "reste ouverte le dimanche",
+    "lemma": "rester ouvert",
+    "meaning": "remains open on Sundays",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0900.mp3"
   },
@@ -9885,18 +9870,16 @@
     "lemma": "préparer une présentation",
     "meaning": "will prepare the presentation",
     "accepted_answers": [],
-    "grammar": "Future simple for a planned task.",
     "audio": "work/audio/fr-FR/03/fr-03-0901.mp3"
   },
   {
     "id": "fr-03-0902",
     "sentence": "Ce sont les deux ateliers pour lesquels nous cherchons encore des bénévoles.",
-    "cloze": "pour lesquels",
-    "answer": "pour lesquels",
-    "lemma": "pour lequel",
-    "meaning": "for which",
+    "cloze": "cherchons encore des bénévoles",
+    "answer": "cherchons encore des bénévoles",
+    "lemma": "chercher des bénévoles",
+    "meaning": "are still looking for volunteers",
     "accepted_answers": [],
-    "grammar": "Frequent preposition-plus-relative pattern with a masculine plural antecedent.",
     "audio": "work/audio/fr-FR/03/fr-03-0902.mp3"
   },
   {
@@ -9907,15 +9890,16 @@
     "lemma": "auquel",
     "meaning": "which I enrolled in",
     "accepted_answers": [],
+    "grammar": "S'inscrire à takes auquel with a masculine singular antecedent.",
     "audio": "work/audio/fr-FR/03/fr-03-0903.mp3"
   },
   {
     "id": "fr-03-0904",
     "sentence": "L'adresse à laquelle vous avez envoyé le formulaire n'est plus valable.",
-    "cloze": "à laquelle",
-    "answer": "à laquelle",
-    "lemma": "auquel",
-    "meaning": "to which",
+    "cloze": "n'est plus valable",
+    "answer": "n'est plus valable",
+    "lemma": "être valable",
+    "meaning": "is no longer valid",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0904.mp3"
   },
@@ -9927,46 +9911,46 @@
     "lemma": "auquel",
     "meaning": "which I have not answered",
     "accepted_answers": [],
+    "grammar": "Répondre à takes auxquels with a masculine plural antecedent.",
     "audio": "work/audio/fr-FR/03/fr-03-0905.mp3"
   },
   {
     "id": "fr-03-0906",
     "sentence": "Les réunions auxquelles vous devez assister auront lieu en visioconférence.",
-    "cloze": "auxquelles",
-    "answer": "auxquelles",
-    "lemma": "auquel",
-    "meaning": "which you must attend",
+    "cloze": "devez assister",
+    "answer": "devez assister",
+    "lemma": "assister à une réunion",
+    "meaning": "must attend",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0906.mp3"
   },
   {
     "id": "fr-03-0907",
     "sentence": "C'est le problème au sujet duquel je vous ai écrit hier.",
-    "cloze": "au sujet duquel",
-    "answer": "au sujet duquel",
-    "lemma": "au sujet duquel",
-    "meaning": "about which",
+    "cloze": "vous ai écrit hier",
+    "answer": "vous ai écrit hier",
+    "lemma": "écrire à quelqu'un",
+    "meaning": "wrote to you yesterday",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0907.mp3"
   },
   {
     "id": "fr-03-0908",
     "sentence": "La résidence devant laquelle nous nous retrouverons est facile à reconnaître.",
-    "cloze": "devant laquelle",
-    "answer": "devant laquelle",
-    "lemma": "devant lequel",
-    "meaning": "in front of which",
+    "cloze": "facile à reconnaître",
+    "answer": "facile à reconnaître",
+    "lemma": "facile à reconnaître",
+    "meaning": "easy to recognize",
     "accepted_answers": [],
-    "grammar": "Practical place-relative pattern with a feminine singular antecedent.",
     "audio": "work/audio/fr-FR/03/fr-03-0908.mp3"
   },
   {
     "id": "fr-03-0909",
     "sentence": "Les bureaux devant lesquels le tram passe seront fermés pendant les travaux.",
-    "cloze": "devant lesquels",
-    "answer": "devant lesquels",
-    "lemma": "devant lequel",
-    "meaning": "in front of which",
+    "cloze": "seront fermés pendant les travaux",
+    "answer": "seront fermés pendant les travaux",
+    "lemma": "être fermé pendant les travaux",
+    "meaning": "will be closed during the work",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0909.mp3"
   },
@@ -9978,7 +9962,6 @@
     "lemma": "par lequel",
     "meaning": "through which",
     "accepted_answers": [],
-    "grammar": "Practical preposition-plus-relative pattern for a route or entrance.",
     "audio": "work/audio/fr-FR/03/fr-03-0910.mp3"
   },
   {
@@ -9989,19 +9972,17 @@
     "lemma": "sur qui",
     "meaning": "whom you can rely on",
     "accepted_answers": [],
-    "grammar": "Preposition plus qui for a person.",
     "register": "professional",
     "audio": "work/audio/fr-FR/03/fr-03-0911.mp3"
   },
   {
     "id": "fr-03-0912",
     "sentence": "Le technicien avec lequel nous avons vérifié la chaudière reviendra lundi.",
-    "cloze": "avec lequel",
-    "answer": "avec lequel",
-    "lemma": "avec lequel",
-    "meaning": "with whom",
+    "cloze": "avons vérifié",
+    "answer": "avons vérifié",
+    "lemma": "vérifier",
+    "meaning": "checked",
     "accepted_answers": [],
-    "grammar": "Common preposition-plus-relative pattern with a masculine singular antecedent.",
     "audio": "work/audio/fr-FR/03/fr-03-0912.mp3"
   },
   {
@@ -10017,52 +9998,51 @@
   {
     "id": "fr-03-0914",
     "sentence": "La raison pour laquelle le train est supprimé n'a pas encore été annoncée.",
-    "cloze": "pour laquelle",
-    "answer": "pour laquelle",
-    "lemma": "pour lequel",
-    "meaning": "why",
+    "cloze": "n'a pas encore été annoncée",
+    "answer": "n'a pas encore été annoncée",
+    "lemma": "annoncer",
+    "meaning": "has not yet been announced",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0914.mp3"
   },
   {
     "id": "fr-03-0915",
     "sentence": "Le badge sans lequel vous ne pouvez pas entrer doit rester visible.",
-    "cloze": "sans lequel",
-    "answer": "sans lequel",
-    "lemma": "sans lequel",
-    "meaning": "without which",
+    "cloze": "doit rester visible",
+    "answer": "doit rester visible",
+    "lemma": "rester visible",
+    "meaning": "must remain visible",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0915.mp3"
   },
   {
     "id": "fr-03-0916",
     "sentence": "La confirmation sans laquelle nous ne pouvons pas maintenir la réservation arrivera demain.",
-    "cloze": "sans laquelle",
-    "answer": "sans laquelle",
-    "lemma": "sans lequel",
-    "meaning": "without which",
+    "cloze": "maintenir la réservation",
+    "answer": "maintenir la réservation",
+    "lemma": "maintenir une réservation",
+    "meaning": "keep the reservation",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0916.mp3"
   },
   {
     "id": "fr-03-0917",
     "sentence": "Les documents sans lesquels votre demande ne peut pas être traitée sont disponibles à l'accueil.",
-    "cloze": "sans lesquels",
-    "answer": "sans lesquels",
-    "lemma": "sans lequel",
-    "meaning": "without which",
+    "cloze": "être traitée",
+    "answer": "être traitée",
+    "lemma": "traiter une demande",
+    "meaning": "be processed",
     "accepted_answers": [],
-    "grammar": "Practical preposition-plus-relative pattern with a masculine plural antecedent.",
     "register": "service",
     "audio": "work/audio/fr-FR/03/fr-03-0917.mp3"
   },
   {
     "id": "fr-03-0918",
     "sentence": "Voici la décision contre laquelle plusieurs habitants ont protesté.",
-    "cloze": "contre laquelle",
-    "answer": "contre laquelle",
-    "lemma": "contre lequel",
-    "meaning": "against which",
+    "cloze": "ont protesté",
+    "answer": "ont protesté",
+    "lemma": "protester",
+    "meaning": "protested",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/03/fr-03-0918.mp3"
   },
@@ -10074,6 +10054,7 @@
     "lemma": "ce à quoi",
     "meaning": "what",
     "accepted_answers": [],
+    "grammar": "Ce à quoi refers to an unspecified thing introduced by à.",
     "audio": "work/audio/fr-FR/03/fr-03-0919.mp3"
   },
   {
@@ -10084,6 +10065,7 @@
     "lemma": "ce dont",
     "meaning": "what",
     "accepted_answers": [],
+    "grammar": "Ce dont refers to an unspecified thing introduced by de.",
     "audio": "work/audio/fr-FR/03/fr-03-0920.mp3"
   },
   {
