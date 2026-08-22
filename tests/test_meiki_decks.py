@@ -1078,7 +1078,7 @@ class MeikiDecksTests(unittest.TestCase):
 
     def test_french_sources_have_current_card_counts(self):
         repository_root = Path(__file__).resolve().parents[1]
-        expected_counts = {"01": 800, "02": 1_000, "03": 1_400}
+        expected_counts = {"01": 800, "02": 1_000, "03": 1_400, "04": 2_000}
 
         actual_counts = {
             stage: len(
