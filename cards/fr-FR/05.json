@@ -2158,5 +2158,2006 @@
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/05/fr-05-0200.mp3",
     "register": "close-peer negotiation"
+  },
+  {
+    "id": "fr-05-0201",
+    "sentence": "À l'issue de l'entretien, la candidate a précisé qu'elle travaillerait depuis chez elle dès la semaine suivante.",
+    "cloze": "travaillerait depuis chez elle dès la semaine suivante",
+    "answer": "travaillerait depuis chez elle dès la semaine suivante",
+    "lemma": "travailler depuis chez soi",
+    "meaning": "would work from home starting the following week",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0201.mp3"
+  },
+  {
+    "id": "fr-05-0202",
+    "sentence": "En réunion, le directeur nous a demandé si nous avions reçu la version corrigée la veille.",
+    "cloze": "avions reçu la version corrigée la veille",
+    "answer": "avions reçu la version corrigée la veille",
+    "lemma": "recevoir la version corrigée",
+    "meaning": "had received the corrected version the previous day",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0202.mp3"
+  },
+  {
+    "id": "fr-05-0203",
+    "sentence": "Dans sa réponse, la propriétaire m'a confirmé qu'elle passerait à l'appartement le lendemain matin.",
+    "cloze": "passerait à l'appartement le lendemain matin",
+    "answer": "passerait à l'appartement le lendemain matin",
+    "lemma": "passer à l'appartement",
+    "meaning": "would come to the apartment the following morning",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0203.mp3"
+  },
+  {
+    "id": "fr-05-0204",
+    "sentence": "Au téléphone, la technicienne m'a conseillé de redémarrer l'appareil chez moi avant de la rappeler.",
+    "cloze": "redémarrer l'appareil chez moi",
+    "answer": "redémarrer l'appareil chez moi",
+    "lemma": "redémarrer l'appareil chez soi",
+    "meaning": "restart the device at my home",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0204.mp3"
+  },
+  {
+    "id": "fr-05-0205",
+    "sentence": "Après mon appel, j'ai expliqué à mes voisins que je ne pourrais pas rester chez eux ce soir-là.",
+    "cloze": "ne pourrais pas rester chez eux ce soir-là",
+    "answer": "ne pourrais pas rester chez eux ce soir-là",
+    "lemma": "ne pas pouvoir rester chez quelqu'un",
+    "meaning": "would not be able to stay at their home that evening",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0205.mp3"
+  },
+  {
+    "id": "fr-05-0206",
+    "sentence": "Au guichet, l'agente a validé la fabrication de la nouvelle carte et m'a demandé à quelle adresse l'envoyer.",
+    "cloze": "à quelle adresse",
+    "answer": "à quelle adresse",
+    "lemma": "à quelle adresse",
+    "meaning": "to which address",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0206.mp3"
+  },
+  {
+    "id": "fr-05-0207",
+    "sentence": "Lors du point budgétaire, le trésorier a indiqué qu'il détaillerait toutes les dépenses engagées ce jour-là dans le compte rendu.",
+    "cloze": "détaillerait toutes les dépenses engagées ce jour-là",
+    "answer": "détaillerait toutes les dépenses engagées ce jour-là",
+    "lemma": "détailler les dépenses engagées",
+    "meaning": "would itemize all the expenses incurred that day",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0207.mp3"
+  },
+  {
+    "id": "fr-05-0208",
+    "sentence": "Avant l'entretien collectif, la médiatrice a rappelé aux participants de ne pas prendre de photos sur place pendant les échanges.",
+    "cloze": "ne pas prendre de photos sur place",
+    "answer": "ne pas prendre de photos sur place",
+    "lemma": "ne pas prendre de photos sur place",
+    "meaning": "not take photographs there",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0208.mp3"
+  },
+  {
+    "id": "fr-05-0209",
+    "sentence": "Interrogée après la visite, l'architecte a expliqué qu'elle avait trouvé l'entrée accessible depuis la cour.",
+    "cloze": "avait trouvé l'entrée accessible depuis la cour",
+    "answer": "avait trouvé l'entrée accessible depuis la cour",
+    "lemma": "trouver l'entrée accessible depuis la cour",
+    "meaning": "had found the entrance accessible from the courtyard",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0209.mp3"
+  },
+  {
+    "id": "fr-05-0210",
+    "sentence": "Le lendemain soir, mon père m'a demandé pourquoi je n'avais pas appelé en arrivant chez moi la veille.",
+    "cloze": "n'avais pas appelé en arrivant chez moi la veille",
+    "answer": "n'avais pas appelé en arrivant chez moi la veille",
+    "lemma": "ne pas appeler en arrivant chez soi",
+    "meaning": "had not called upon arriving home the previous day",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0210.mp3"
+  },
+  {
+    "id": "fr-05-0211",
+    "sentence": "Dans son dernier courriel, mon ancienne collègue m'a écrit qu'elle était installée à Lyon depuis le mois précédent.",
+    "cloze": "était installée à Lyon depuis le mois précédent",
+    "answer": "était installée à Lyon depuis le mois précédent",
+    "lemma": "être installé à Lyon",
+    "meaning": "had been settled in Lyon since the previous month",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0211.mp3"
+  },
+  {
+    "id": "fr-05-0212",
+    "sentence": "Au sujet des clés, le propriétaire m'a demandé par message de les déposer chez sa voisine le lendemain, avant dix heures.",
+    "cloze": "les déposer chez sa voisine",
+    "answer": "les déposer chez sa voisine",
+    "lemma": "déposer les clés chez sa voisine",
+    "meaning": "leave them at his neighbor's home",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0212.mp3"
+  },
+  {
+    "id": "fr-05-0213",
+    "sentence": "Pendant la réunion, la formatrice nous a demandé qui prendrait le relais dans cette salle après son départ.",
+    "cloze": "prendrait le relais dans cette salle après son départ",
+    "answer": "prendrait le relais dans cette salle après son départ",
+    "lemma": "prendre le relais",
+    "meaning": "would take over in that room after her departure",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0213.mp3"
+  },
+  {
+    "id": "fr-05-0214",
+    "sentence": "Après avoir vérifié ma réservation, l'agente m'a assuré que mon billet resterait valable jusqu'au lundi suivant.",
+    "cloze": "resterait valable jusqu'au lundi suivant",
+    "answer": "resterait valable jusqu'au lundi suivant",
+    "lemma": "rester valable",
+    "meaning": "would remain valid until the following Monday",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0214.mp3"
+  },
+  {
+    "id": "fr-05-0215",
+    "sentence": "Dans l'entretien, la journaliste a demandé à l'élu ce qu'il comptait changer dans son quartier dès l'année suivante.",
+    "cloze": "comptait changer dans son quartier dès l'année suivante",
+    "answer": "comptait changer dans son quartier dès l'année suivante",
+    "lemma": "compter changer quelque chose",
+    "meaning": "intended to change in his district starting the following year",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0215.mp3"
+  },
+  {
+    "id": "fr-05-0216",
+    "sentence": "En récupérant ses lunettes chez moi, ma sœur m'a raconté qu'elle les y avait laissées lors de sa visite précédente.",
+    "cloze": "les y avait laissées",
+    "answer": "les y avait laissées",
+    "lemma": "laisser quelque chose chez quelqu'un",
+    "meaning": "had left them there",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0216.mp3"
+  },
+  {
+    "id": "fr-05-0217",
+    "sentence": "Avant le début des travaux, le régisseur nous a demandé de rester dans cette salle jusqu'à son retour.",
+    "cloze": "rester dans cette salle",
+    "answer": "rester dans cette salle",
+    "lemma": "rester dans cette salle",
+    "meaning": "stay in that room",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0217.mp3"
+  },
+  {
+    "id": "fr-05-0218",
+    "sentence": "Face à ma relance, la gestionnaire a reconnu qu'elle n'avait pas consulté le dossier avant sa réponse.",
+    "cloze": "n'avait pas consulté le dossier avant sa réponse",
+    "answer": "n'avait pas consulté le dossier avant sa réponse",
+    "lemma": "ne pas consulter le dossier",
+    "meaning": "had not consulted the file before replying",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0218.mp3"
+  },
+  {
+    "id": "fr-05-0219",
+    "sentence": "Dans son appel, la cliente m'a demandé si son remboursement apparaîtrait sur son relevé du mois suivant.",
+    "cloze": "apparaîtrait sur son relevé du mois suivant",
+    "answer": "apparaîtrait sur son relevé du mois suivant",
+    "lemma": "apparaître sur le relevé",
+    "meaning": "would appear on her statement the following month",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0219.mp3"
+  },
+  {
+    "id": "fr-05-0220",
+    "sentence": "Avant de lancer la consultation, la coordinatrice nous a demandé de ne lui répondre qu'après son feu vert.",
+    "cloze": "ne lui répondre qu'après son feu vert",
+    "answer": "ne lui répondre qu'après son feu vert",
+    "lemma": "ne répondre qu'après le feu vert",
+    "meaning": "reply to her only after she gave the go-ahead",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0220.mp3"
+  },
+  {
+    "id": "fr-05-0221",
+    "sentence": "À la fin de l'interview, la photographe a expliqué qu'elle reviendrait sur les lieux deux jours plus tard pour compléter son reportage.",
+    "cloze": "reviendrait sur les lieux deux jours plus tard",
+    "answer": "reviendrait sur les lieux deux jours plus tard",
+    "lemma": "revenir sur les lieux",
+    "meaning": "would return to the location two days later",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0221.mp3"
+  },
+  {
+    "id": "fr-05-0222",
+    "sentence": "À l'arrivée, le réceptionniste a voulu savoir combien de nuits nous resterions dans cet hôtel.",
+    "cloze": "resterions dans cet hôtel",
+    "answer": "resterions dans cet hôtel",
+    "lemma": "rester dans un hôtel",
+    "meaning": "would stay in that hotel",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0222.mp3"
+  },
+  {
+    "id": "fr-05-0223",
+    "sentence": "À propos du local rénové, l'association précise dans sa lettre de ce matin qu'elle y ouvrira un accueil provisoire la semaine prochaine.",
+    "cloze": "y ouvrira un accueil provisoire la semaine prochaine",
+    "answer": "y ouvrira un accueil provisoire la semaine prochaine",
+    "lemma": "ouvrir un accueil provisoire dans un local",
+    "meaning": "will open a temporary reception point there next week",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0223.mp3"
+  },
+  {
+    "id": "fr-05-0224",
+    "sentence": "En fin de réunion, la responsable a désigné le tableau corrigé et nous a demandé de le lui transmettre avant notre départ.",
+    "cloze": "le lui transmettre avant notre départ",
+    "answer": "le lui transmettre avant notre départ",
+    "lemma": "transmettre un tableau à quelqu'un",
+    "meaning": "send it to her before we left",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0224.mp3"
+  },
+  {
+    "id": "fr-05-0225",
+    "sentence": "Après le deuxième vol de vélo dans la rue, mon voisin m'a confié qu'il n'oserait plus laisser son vélo devant notre immeuble.",
+    "cloze": "n'oserait plus laisser son vélo devant notre immeuble",
+    "answer": "n'oserait plus laisser son vélo devant notre immeuble",
+    "lemma": "ne plus oser laisser son vélo",
+    "meaning": "would no longer dare leave his bicycle outside our building",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0225.mp3"
+  },
+  {
+    "id": "fr-05-0226",
+    "sentence": "À la fin de l'entretien, la recruteuse m'a demandé à quelle date je pourrais rejoindre l'équipe le mois suivant.",
+    "cloze": "pourrais rejoindre l'équipe le mois suivant",
+    "answer": "pourrais rejoindre l'équipe le mois suivant",
+    "lemma": "pouvoir rejoindre l'équipe",
+    "meaning": "could join the team the following month",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0226.mp3"
+  },
+  {
+    "id": "fr-05-0227",
+    "sentence": "À la suite de ma relance, la gestionnaire m'a confirmé que le réparateur passerait à mon domicile l'après-midi même.",
+    "cloze": "passerait à mon domicile l'après-midi même",
+    "answer": "passerait à mon domicile l'après-midi même",
+    "lemma": "passer au domicile de quelqu'un",
+    "meaning": "would come to my home that same afternoon",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0227.mp3"
+  },
+  {
+    "id": "fr-05-0228",
+    "sentence": "Dans son message, la bibliothécaire demande aux usagers de rendre leurs documents à cet accueil une fois l'annexe fermée.",
+    "cloze": "rendre leurs documents à cet accueil",
+    "answer": "rendre leurs documents à cet accueil",
+    "lemma": "rendre ses documents à l'accueil",
+    "meaning": "return their items to that reception desk",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0228.mp3"
+  },
+  {
+    "id": "fr-05-0229",
+    "sentence": "Après le vote, la présidente a annoncé qu'elle nous enverrait le relevé des décisions dès le lendemain.",
+    "cloze": "nous enverrait le relevé des décisions dès le lendemain",
+    "answer": "nous enverrait le relevé des décisions dès le lendemain",
+    "lemma": "envoyer le relevé des décisions",
+    "meaning": "would send us the record of decisions the very next day",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0229.mp3"
+  },
+  {
+    "id": "fr-05-0230",
+    "sentence": "En préparant notre sortie, une amie m'a demandé où je l'attendrais dans la gare le lendemain après son cours.",
+    "cloze": "l'attendrais dans la gare le lendemain",
+    "answer": "l'attendrais dans la gare le lendemain",
+    "lemma": "attendre quelqu'un dans une gare",
+    "meaning": "would wait for her in the station the next day",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0230.mp3"
+  },
+  {
+    "id": "fr-05-0231",
+    "sentence": "À propos du déménagement, mon frère m'a rappelé qu'il garderait mes cartons chez lui jusqu'à mon retour.",
+    "cloze": "garderait mes cartons chez lui jusqu'à mon retour",
+    "answer": "garderait mes cartons chez lui jusqu'à mon retour",
+    "lemma": "garder des cartons chez soi",
+    "meaning": "would keep my boxes at his home until I returned",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0231.mp3"
+  },
+  {
+    "id": "fr-05-0232",
+    "sentence": "Lors de notre échange sur l'aménagement du poste, le médecin du travail m'a demandé de lui signaler sur place toute difficulté avant de partir ce jour-là.",
+    "cloze": "lui signaler sur place toute difficulté",
+    "answer": "lui signaler sur place toute difficulté",
+    "lemma": "signaler sur place une difficulté à quelqu'un",
+    "meaning": "report to him there any difficulty",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0232.mp3"
+  },
+  {
+    "id": "fr-05-0233",
+    "sentence": "Dans son témoignage, l'artisane a raconté qu'elle avait appris le métier dans ce même atelier dix ans plus tôt.",
+    "cloze": "avait appris le métier dans ce même atelier dix ans plus tôt",
+    "answer": "avait appris le métier dans ce même atelier dix ans plus tôt",
+    "lemma": "apprendre le métier dans un atelier",
+    "meaning": "had learned the trade in that same workshop ten years earlier",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0233.mp3"
+  },
+  {
+    "id": "fr-05-0234",
+    "sentence": "À la fin de l'interview, le journaliste a demandé à la chercheuse si elle maintenait toujours cette conclusion.",
+    "cloze": "maintenait toujours cette conclusion",
+    "answer": "maintenait toujours cette conclusion",
+    "lemma": "maintenir une conclusion",
+    "meaning": "still stood by that conclusion",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0234.mp3"
+  },
+  {
+    "id": "fr-05-0235",
+    "sentence": "Au retour du rendez-vous, j'ai expliqué à l'équipe que je devais rappeler la cliente le soir même.",
+    "cloze": "devais rappeler la cliente le soir même",
+    "answer": "devais rappeler la cliente le soir même",
+    "lemma": "devoir rappeler une cliente",
+    "meaning": "had to call the customer back that same evening",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0235.mp3"
+  },
+  {
+    "id": "fr-05-0236",
+    "sentence": "À la fin de l'entretien, la responsable des lieux nous a demandé de nous présenter à l'entrée latérale le lendemain dès l'ouverture.",
+    "cloze": "nous présenter à l'entrée latérale le lendemain",
+    "answer": "nous présenter à l'entrée latérale le lendemain",
+    "lemma": "se présenter à l'entrée latérale",
+    "meaning": "report to the side entrance the following day",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0236.mp3"
+  },
+  {
+    "id": "fr-05-0237",
+    "sentence": "Dans sa réponse au comité, le délégué a précisé que sa proposition ne concernait que les bureaux de ce site.",
+    "cloze": "ne concernait que les bureaux de ce site",
+    "answer": "ne concernait que les bureaux de ce site",
+    "lemma": "ne concerner que les bureaux d'un site",
+    "meaning": "concerned only the offices at that site",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0237.mp3"
+  },
+  {
+    "id": "fr-05-0238",
+    "sentence": "Au comptoir, l'agente a affiché le suivi du colis et m'a demandé si je souhaitais le récupérer là le lendemain ou le faire livrer.",
+    "cloze": "le récupérer là le lendemain",
+    "answer": "le récupérer là le lendemain",
+    "lemma": "récupérer un colis sur place",
+    "meaning": "collect it there the following day",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0238.mp3"
+  },
+  {
+    "id": "fr-05-0239",
+    "sentence": "Lors de la réunion de chantier, la cheffe de chantier a annoncé que les travaux commenceraient sur ce site la semaine suivante.",
+    "cloze": "commenceraient sur ce site la semaine suivante",
+    "answer": "commenceraient sur ce site la semaine suivante",
+    "lemma": "commencer sur un site",
+    "meaning": "would begin at that site the following week",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0239.mp3"
+  },
+  {
+    "id": "fr-05-0240",
+    "sentence": "Ma cousine m'a écrit : « Je passerai chez toi demain » ; le soir, j'ai expliqué à mon colocataire qu'elle passerait chez nous le lendemain.",
+    "cloze": "passerait chez nous le lendemain",
+    "answer": "passerait chez nous le lendemain",
+    "lemma": "passer chez quelqu'un",
+    "meaning": "would come to our home the following day",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0240.mp3"
+  },
+  {
+    "id": "fr-05-0241",
+    "sentence": "Les trois relevés affichent la même heure de coupure, ce qui confirme que l'incident vient bien du serveur central.",
+    "cloze": "vient bien",
+    "answer": "vient bien",
+    "lemma": "venir de",
+    "meaning": "does indeed originate",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0241.mp3"
+  },
+  {
+    "id": "fr-05-0242",
+    "sentence": "Au vu des retours recueillis à l'accueil, il est souhaitable que l'équipe revoie le parcours d'inscription.",
+    "cloze": "revoie",
+    "answer": "revoie",
+    "lemma": "revoir",
+    "meaning": "revise",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0242.mp3"
+  },
+  {
+    "id": "fr-05-0243",
+    "sentence": "Les essais n'ont pas reproduit l'erreur, si bien que je doute qu'elle soit liée au nouveau réglage.",
+    "cloze": "soit liée",
+    "answer": "soit liée",
+    "lemma": "être lié à",
+    "meaning": "be related",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0243.mp3"
+  },
+  {
+    "id": "fr-05-0244",
+    "sentence": "Sans budget complémentaire, nous serions contraints de limiter la première phase aux deux sites déjà équipés.",
+    "cloze": "serions contraints de limiter",
+    "answer": "serions contraints de limiter",
+    "lemma": "être contraint de limiter",
+    "meaning": "would be forced to limit",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0244.mp3"
+  },
+  {
+    "id": "fr-05-0245",
+    "sentence": "Pour éviter un nouveau déplacement, je souhaite que vous m'envoyiez la confirmation par courriel.",
+    "cloze": "m'envoyiez",
+    "answer": "m'envoyiez",
+    "lemma": "envoyer",
+    "meaning": "send me",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0245.mp3"
+  },
+  {
+    "id": "fr-05-0246",
+    "sentence": "Les horaires affichés à l'entrée indiquent que la permanence est désormais ouverte jusqu'à dix-huit heures.",
+    "cloze": "est désormais ouverte",
+    "answer": "est désormais ouverte",
+    "lemma": "être ouvert",
+    "meaning": "is now open",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0246.mp3"
+  },
+  {
+    "id": "fr-05-0247",
+    "sentence": "Même si le calendrier est serré, il est raisonnable que chaque équipe puisse disposer d'une journée pour tester l'outil.",
+    "cloze": "puisse disposer",
+    "answer": "puisse disposer",
+    "lemma": "pouvoir disposer de",
+    "meaning": "be able to have",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0247.mp3"
+  },
+  {
+    "id": "fr-05-0248",
+    "sentence": "À ta place, je demanderais un état des lieux écrit avant de rendre les clés.",
+    "cloze": "demanderais",
+    "answer": "demanderais",
+    "lemma": "demander",
+    "meaning": "would ask",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0248.mp3"
+  },
+  {
+    "id": "fr-05-0249",
+    "sentence": "Le compteur a continué de tourner après la fermeture du robinet ; il est donc certain qu'une fuite subsiste dans le logement.",
+    "cloze": "subsiste",
+    "answer": "subsiste",
+    "lemma": "subsister",
+    "meaning": "remains",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0249.mp3"
+  },
+  {
+    "id": "fr-05-0250",
+    "sentence": "La note explique le principe, mais je ne suis pas convaincue qu'elle réponde aux difficultés signalées sur le terrain.",
+    "cloze": "réponde",
+    "answer": "réponde",
+    "lemma": "répondre à",
+    "meaning": "address",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0250.mp3"
+  },
+  {
+    "id": "fr-05-0251",
+    "sentence": "Avec un guichet ouvert le samedi, les usagers qui travaillent en semaine accéderaient plus facilement au service.",
+    "cloze": "accéderaient plus facilement",
+    "answer": "accéderaient plus facilement",
+    "lemma": "accéder plus facilement",
+    "meaning": "would have easier access",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0251.mp3"
+  },
+  {
+    "id": "fr-05-0252",
+    "sentence": "Votre dossier est complet ; selon l'agente, il relève bien de la procédure accélérée.",
+    "cloze": "relève bien de",
+    "answer": "relève bien de",
+    "lemma": "relever de",
+    "meaning": "does indeed fall under",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0252.mp3"
+  },
+  {
+    "id": "fr-05-0253",
+    "sentence": "Avant la présentation publique, il faut que nous vérifiions la lisibilité des graphiques sur le petit écran.",
+    "cloze": "vérifiions",
+    "answer": "vérifiions",
+    "lemma": "vérifier",
+    "meaning": "check",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0253.mp3"
+  },
+  {
+    "id": "fr-05-0254",
+    "sentence": "Si les contraintes annoncées se confirmaient, je privilégierais une mise en service progressive plutôt qu'un lancement général.",
+    "cloze": "privilégierais",
+    "answer": "privilégierais",
+    "lemma": "privilégier",
+    "meaning": "would favor",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0254.mp3"
+  },
+  {
+    "id": "fr-05-0255",
+    "sentence": "À mon sens, la nouvelle répartition correspond mieux aux compétences de chacun.",
+    "cloze": "correspond mieux",
+    "answer": "correspond mieux",
+    "lemma": "correspondre à",
+    "meaning": "is a better match",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0255.mp3"
+  },
+  {
+    "id": "fr-05-0256",
+    "sentence": "Comme aucune marge n'est prévue, je crains que le délai ne soit trop court pour consulter les équipes.",
+    "cloze": "ne soit trop court",
+    "answer": "ne soit trop court",
+    "lemma": "être trop court",
+    "meaning": "be too short",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0256.mp3"
+  },
+  {
+    "id": "fr-05-0257",
+    "sentence": "Si la panne se reproduisait pendant l'accueil du public, nous basculerions immédiatement sur la procédure papier.",
+    "cloze": "basculerions immédiatement",
+    "answer": "basculerions immédiatement",
+    "lemma": "basculer sur",
+    "meaning": "would immediately switch",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0257.mp3"
+  },
+  {
+    "id": "fr-05-0258",
+    "sentence": "Puisque tu connais déjà le dossier, je préférerais que tu conduises toi-même l'entretien avec le propriétaire.",
+    "cloze": "conduises toi-même",
+    "answer": "conduises toi-même",
+    "lemma": "conduire soi-même",
+    "meaning": "conduct it yourself",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0258.mp3"
+  },
+  {
+    "id": "fr-05-0259",
+    "sentence": "Les deux versions comportent la même erreur de calcul ; il est clair que la correction n'a pas été intégrée.",
+    "cloze": "n'a pas été intégrée",
+    "answer": "n'a pas été intégrée",
+    "lemma": "ne pas intégrer",
+    "meaning": "was not incorporated",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0259.mp3"
+  },
+  {
+    "id": "fr-05-0260",
+    "sentence": "On peut défendre des positions fermes, mais il serait regrettable que le débat devienne personnel.",
+    "cloze": "devienne personnel",
+    "answer": "devienne personnel",
+    "lemma": "devenir personnel",
+    "meaning": "become personal",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0260.mp3"
+  },
+  {
+    "id": "fr-05-0261",
+    "sentence": "Dans cette configuration, supprimer l'accueil téléphonique pénaliserait surtout les personnes qui utilisent peu les services en ligne.",
+    "cloze": "pénaliserait surtout",
+    "answer": "pénaliserait surtout",
+    "lemma": "pénaliser",
+    "meaning": "would especially disadvantage",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0261.mp3"
+  },
+  {
+    "id": "fr-05-0262",
+    "sentence": "Même si la procédure paraît lourde, le double contrôle garantit que chaque modification peut être retracée.",
+    "cloze": "peut être retracée",
+    "answer": "peut être retracée",
+    "lemma": "pouvoir retracer",
+    "meaning": "can be traced",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0262.mp3"
+  },
+  {
+    "id": "fr-05-0263",
+    "sentence": "Le message d'erreur persiste ; il est donc possible que la demande n'atteigne pas le bon service.",
+    "cloze": "n'atteigne pas",
+    "answer": "n'atteigne pas",
+    "lemma": "ne pas atteindre",
+    "meaning": "may not reach",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0263.mp3"
+  },
+  {
+    "id": "fr-05-0264",
+    "sentence": "En décalant ton départ d'une heure, tu éviterais le gros de la circulation sans manquer ton rendez-vous.",
+    "cloze": "éviterais",
+    "answer": "éviterais",
+    "lemma": "éviter",
+    "meaning": "would avoid",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0264.mp3"
+  },
+  {
+    "id": "fr-05-0265",
+    "sentence": "Puisque le justificatif n'apparaît pas dans mon espace, je souhaiterais recevoir la confirmation de son rattachement à mon dossier.",
+    "cloze": "souhaiterais recevoir",
+    "answer": "souhaiterais recevoir",
+    "lemma": "souhaiter recevoir",
+    "meaning": "would like to receive",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0265.mp3"
+  },
+  {
+    "id": "fr-05-0266",
+    "sentence": "Après comparaison des journaux de connexion, nous constatons que les interruptions sont synchronisées avec les sauvegardes automatiques.",
+    "cloze": "sont synchronisées",
+    "answer": "sont synchronisées",
+    "lemma": "être synchronisé",
+    "meaning": "are synchronized",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0266.mp3"
+  },
+  {
+    "id": "fr-05-0267",
+    "sentence": "Bien que la proposition soit moins coûteuse, elle ne répond pas au besoin d'accès hors ligne.",
+    "cloze": "soit moins coûteuse",
+    "answer": "soit moins coûteuse",
+    "lemma": "être moins coûteux",
+    "meaning": "be less expensive",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0267.mp3"
+  },
+  {
+    "id": "fr-05-0268",
+    "sentence": "À défaut d'un accord avant vendredi, la commande serait reportée au prochain exercice budgétaire.",
+    "cloze": "serait reportée",
+    "answer": "serait reportée",
+    "lemma": "reporter",
+    "meaning": "would be postponed",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0268.mp3"
+  },
+  {
+    "id": "fr-05-0269",
+    "sentence": "Le suivi horodaté montre que votre courrier est bien arrivé avant la clôture des inscriptions.",
+    "cloze": "est bien arrivé",
+    "answer": "est bien arrivé",
+    "lemma": "arriver",
+    "meaning": "did indeed arrive",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0269.mp3"
+  },
+  {
+    "id": "fr-05-0270",
+    "sentence": "Pour la prochaine réunion, l'objectif est que chacun puisse consulter les documents dans un format accessible.",
+    "cloze": "puisse consulter",
+    "answer": "puisse consulter",
+    "lemma": "pouvoir consulter",
+    "meaning": "be able to consult",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0270.mp3"
+  },
+  {
+    "id": "fr-05-0271",
+    "sentence": "Les photos montrent la fissure, mais rien ne prouve qu'elle compromette la stabilité du mur.",
+    "cloze": "compromette",
+    "answer": "compromette",
+    "lemma": "compromettre",
+    "meaning": "jeopardize",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0271.mp3"
+  },
+  {
+    "id": "fr-05-0272",
+    "sentence": "Une consultation organisée avant le vote permettrait aux habitants de comparer les deux options proposées.",
+    "cloze": "permettrait",
+    "answer": "permettrait",
+    "lemma": "permettre",
+    "meaning": "would allow",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0272.mp3"
+  },
+  {
+    "id": "fr-05-0273",
+    "sentence": "Je comprends la réserve exprimée, mais le fait est que ce dispositif réduit déjà le délai d'attente.",
+    "cloze": "réduit déjà",
+    "answer": "réduit déjà",
+    "lemma": "réduire",
+    "meaning": "already reduces",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0273.mp3"
+  },
+  {
+    "id": "fr-05-0274",
+    "sentence": "Pour se prononcer en connaissance de cause, il est essentiel que le public connaisse aussi le coût d'entretien.",
+    "cloze": "connaisse aussi",
+    "answer": "connaisse aussi",
+    "lemma": "connaître",
+    "meaning": "also know",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0274.mp3"
+  },
+  {
+    "id": "fr-05-0275",
+    "sentence": "Si nous devions arbitrer aujourd'hui, je recommanderais l'option qui conserve un accueil physique.",
+    "cloze": "recommanderais",
+    "answer": "recommanderais",
+    "lemma": "recommander",
+    "meaning": "would recommend",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0275.mp3"
+  },
+  {
+    "id": "fr-05-0276",
+    "sentence": "Le test réalisé avec le lecteur d'écran établit que les boutons sont maintenant annoncés dans le bon ordre.",
+    "cloze": "sont maintenant annoncés",
+    "answer": "sont maintenant annoncés",
+    "lemma": "annoncer",
+    "meaning": "are now announced",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0276.mp3"
+  },
+  {
+    "id": "fr-05-0277",
+    "sentence": "Les conditions d'utilisation restent vagues, et il n'est pas certain que les données soient encore accessibles après la résiliation.",
+    "cloze": "soient encore accessibles",
+    "answer": "soient encore accessibles",
+    "lemma": "être accessible",
+    "meaning": "still be accessible",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0277.mp3"
+  },
+  {
+    "id": "fr-05-0278",
+    "sentence": "Si j'étais à ta place, je ne signerais rien tant que le montant des charges n'est pas détaillé.",
+    "cloze": "ne signerais rien",
+    "answer": "ne signerais rien",
+    "lemma": "ne rien signer",
+    "meaning": "would not sign anything",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0278.mp3"
+  },
+  {
+    "id": "fr-05-0279",
+    "sentence": "Je tiens à ce que le rendez-vous soit confirmé par écrit, car le précédent créneau a été annulé sans message.",
+    "cloze": "soit confirmé par écrit",
+    "answer": "soit confirmé par écrit",
+    "lemma": "confirmer par écrit",
+    "meaning": "be confirmed in writing",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0279.mp3"
+  },
+  {
+    "id": "fr-05-0280",
+    "sentence": "Tous les relevés effectués après le réglage sont inférieurs aux précédents : l'appareil consomme moins d'énergie.",
+    "cloze": "consomme moins d'énergie",
+    "answer": "consomme moins d'énergie",
+    "lemma": "consommer moins d'énergie",
+    "meaning": "uses less energy",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0280.mp3"
+  },
+  {
+    "id": "fr-05-0281",
+    "sentence": "Votre demande pourra être examinée aujourd'hui, mais il faut que vous joigniez l'attestation manquante avant midi.",
+    "cloze": "joigniez l'attestation manquante",
+    "answer": "joigniez l'attestation manquante",
+    "lemma": "joindre",
+    "meaning": "attach the missing certificate",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0281.mp3"
+  },
+  {
+    "id": "fr-05-0282",
+    "sentence": "Nous sommes ravis que votre proposition prenne en compte les besoins des usagers, car la première version n'en disait rien.",
+    "cloze": "prenne en compte les besoins des usagers",
+    "answer": "prenne en compte les besoins des usagers",
+    "lemma": "prendre en compte",
+    "meaning": "take users' needs into account",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0282.mp3"
+  },
+  {
+    "id": "fr-05-0283",
+    "sentence": "Après deux essais trop courts, il n'est pas certain que le dispositif réponde aux usages les plus fréquents.",
+    "cloze": "réponde aux usages les plus fréquents",
+    "answer": "réponde aux usages les plus fréquents",
+    "lemma": "répondre à",
+    "meaning": "meet the most common use cases",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0283.mp3"
+  },
+  {
+    "id": "fr-05-0284",
+    "sentence": "Bien que votre proposition aille dans le bon sens, elle laisse entière la question du financement.",
+    "cloze": "aille dans le bon sens",
+    "answer": "aille dans le bon sens",
+    "lemma": "aller dans le bon sens",
+    "meaning": "go in the right direction",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0284.mp3"
+  },
+  {
+    "id": "fr-05-0285",
+    "sentence": "La présidente résumera les deux positions pour que le débat reprenne sur une base commune.",
+    "cloze": "reprenne sur une base commune",
+    "answer": "reprenne sur une base commune",
+    "lemma": "reprendre",
+    "meaning": "resume on shared ground",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0285.mp3"
+  },
+  {
+    "id": "fr-05-0286",
+    "sentence": "Dans l'intérêt des usagers qui travaillent, il serait souhaitable que le guichet reste ouvert pendant la pause de midi.",
+    "cloze": "reste ouvert pendant la pause de midi",
+    "answer": "reste ouvert pendant la pause de midi",
+    "lemma": "rester ouvert",
+    "meaning": "remain open during the lunch break",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0286.mp3"
+  },
+  {
+    "id": "fr-05-0287",
+    "sentence": "Nous craignons que l'attente devienne difficile pour les personnes fragiles ; prévoyons donc quelques sièges près de l'accueil.",
+    "cloze": "devienne difficile pour les personnes fragiles",
+    "answer": "devienne difficile pour les personnes fragiles",
+    "lemma": "devenir",
+    "meaning": "become difficult for vulnerable people",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0287.mp3"
+  },
+  {
+    "id": "fr-05-0288",
+    "sentence": "Pour sortir du désaccord sur les horaires, il importe que les deux équipes s'entendent d'abord sur le périmètre.",
+    "cloze": "s'entendent d'abord sur le périmètre",
+    "answer": "s'entendent d'abord sur le périmètre",
+    "lemma": "s'entendre sur",
+    "meaning": "first agree on the scope",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0288.mp3"
+  },
+  {
+    "id": "fr-05-0289",
+    "sentence": "Nous reformulerons la conclusion afin qu'elle distingue nettement les faits des hypothèses.",
+    "cloze": "distingue nettement les faits des hypothèses",
+    "answer": "distingue nettement les faits des hypothèses",
+    "lemma": "distinguer",
+    "meaning": "clearly distinguish facts from hypotheses",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0289.mp3"
+  },
+  {
+    "id": "fr-05-0290",
+    "sentence": "Je ne crois pas que la direction puisse maintenir cette échéance sans renfort ; proposons-lui un calendrier réaliste.",
+    "cloze": "puisse maintenir cette échéance sans renfort",
+    "answer": "puisse maintenir cette échéance sans renfort",
+    "lemma": "pouvoir maintenir",
+    "meaning": "keep this deadline without extra staff",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0290.mp3"
+  },
+  {
+    "id": "fr-05-0291",
+    "sentence": "Pour une comparaison honnête, il est juste que les trois offres soient évaluées selon les mêmes critères.",
+    "cloze": "soient évaluées selon les mêmes critères",
+    "answer": "soient évaluées selon les mêmes critères",
+    "lemma": "évaluer",
+    "meaning": "be assessed against the same criteria",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0291.mp3"
+  },
+  {
+    "id": "fr-05-0292",
+    "sentence": "Je suis heureuse que ce nouvel horaire vous permette de rentrer sans correspondance.",
+    "cloze": "vous permette de rentrer sans correspondance",
+    "answer": "vous permette de rentrer sans correspondance",
+    "lemma": "permettre",
+    "meaning": "allow you to return without changing trains",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0292.mp3"
+  },
+  {
+    "id": "fr-05-0293",
+    "sentence": "Nous pouvons reconnaître cette erreur sans que cela remette en cause l'ensemble du rapport.",
+    "cloze": "remette en cause l'ensemble du rapport",
+    "answer": "remette en cause l'ensemble du rapport",
+    "lemma": "remettre en cause",
+    "meaning": "undermine the report as a whole",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0293.mp3"
+  },
+  {
+    "id": "fr-05-0294",
+    "sentence": "Madame, pour éviter une nouvelle erreur de facturation, il est indispensable que votre service rectifie le montant avant le prélèvement.",
+    "cloze": "rectifie le montant avant le prélèvement",
+    "answer": "rectifie le montant avant le prélèvement",
+    "lemma": "rectifier",
+    "meaning": "correct the amount before it is debited",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0294.mp3"
+  },
+  {
+    "id": "fr-05-0295",
+    "sentence": "Gardons dix minutes en fin de réunion pour que chacun exprime ses réserves sans être interrompu.",
+    "cloze": "exprime ses réserves",
+    "answer": "exprime ses réserves",
+    "lemma": "exprimer",
+    "meaning": "voice their reservations",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0295.mp3"
+  },
+  {
+    "id": "fr-05-0296",
+    "sentence": "Compte tenu des pièces manquantes, il est peu probable que le dossier aboutisse avant la fin du mois.",
+    "cloze": "aboutisse avant la fin du mois",
+    "answer": "aboutisse avant la fin du mois",
+    "lemma": "aboutir",
+    "meaning": "reach a successful outcome before the end of the month",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0296.mp3"
+  },
+  {
+    "id": "fr-05-0297",
+    "sentence": "Au vu des retours contradictoires, il serait préférable que nous reportions la décision à l'issue des essais.",
+    "cloze": "reportions la décision à l'issue des essais",
+    "answer": "reportions la décision à l'issue des essais",
+    "lemma": "reporter",
+    "meaning": "postpone the decision until the tests are complete",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0297.mp3"
+  },
+  {
+    "id": "fr-05-0298",
+    "sentence": "Je crains que ce délai très court ne décourage les petites associations.",
+    "cloze": "ne décourage les petites associations",
+    "answer": "ne décourage les petites associations",
+    "lemma": "décourager",
+    "meaning": "may discourage small associations",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0298.mp3",
+    "grammar": "After craindre, ne is expletive here and does not negate the clause."
+  },
+  {
+    "id": "fr-05-0299",
+    "sentence": "Bien que nous soyons encore loin d'un accord, les deux priorités sont maintenant claires.",
+    "cloze": "soyons encore loin d'un accord",
+    "answer": "soyons encore loin d'un accord",
+    "lemma": "être loin de",
+    "meaning": "still be far from an agreement",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0299.mp3"
+  },
+  {
+    "id": "fr-05-0300",
+    "sentence": "Le compromis sera consigné par écrit afin que personne ne puisse en modifier la portée.",
+    "cloze": "ne puisse en modifier la portée",
+    "answer": "ne puisse en modifier la portée",
+    "lemma": "pouvoir modifier",
+    "meaning": "be able to alter its scope",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0300.mp3"
+  },
+  {
+    "id": "fr-05-0301",
+    "sentence": "Je trouve surprenant que cette option revienne encore dans la proposition finale alors qu'elle avait été écartée.",
+    "cloze": "revienne encore dans la proposition finale",
+    "answer": "revienne encore dans la proposition finale",
+    "lemma": "revenir",
+    "meaning": "come up again in the final proposal",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0301.mp3"
+  },
+  {
+    "id": "fr-05-0302",
+    "sentence": "Je regrette que vous ne disposiez toujours pas d'un accès autonome à la salle principale.",
+    "cloze": "ne disposiez toujours pas d'un accès autonome",
+    "answer": "ne disposiez toujours pas d'un accès autonome",
+    "lemma": "disposer de",
+    "meaning": "still not have independent access",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0302.mp3"
+  },
+  {
+    "id": "fr-05-0303",
+    "sentence": "Pendant le montage, il est impératif que les accès de secours restent entièrement dégagés jusqu'à l'ouverture.",
+    "cloze": "restent entièrement dégagés",
+    "answer": "restent entièrement dégagés",
+    "lemma": "rester dégagé",
+    "meaning": "remain completely unobstructed",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0303.mp3"
+  },
+  {
+    "id": "fr-05-0304",
+    "sentence": "Rien ne prouve encore que ce changement réduise réellement le délai d'attente ; mesurons-le avant de conclure.",
+    "cloze": "réduise réellement le délai d'attente",
+    "answer": "réduise réellement le délai d'attente",
+    "lemma": "réduire",
+    "meaning": "actually reduce the waiting time",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0304.mp3"
+  },
+  {
+    "id": "fr-05-0305",
+    "sentence": "La médiatrice propose de déplacer l'échéance sans qu'aucune des deux parties renonce à ses priorités essentielles.",
+    "cloze": "renonce à ses priorités essentielles",
+    "answer": "renonce à ses priorités essentielles",
+    "lemma": "renoncer à",
+    "meaning": "give up its core priorities",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0305.mp3"
+  },
+  {
+    "id": "fr-05-0306",
+    "sentence": "Je vous envoie le tableau complet pour que vous puissiez comparer les coûts à périmètre égal.",
+    "cloze": "puissiez comparer les coûts",
+    "answer": "puissiez comparer les coûts",
+    "lemma": "pouvoir comparer",
+    "meaning": "be able to compare the costs",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0306.mp3"
+  },
+  {
+    "id": "fr-05-0307",
+    "sentence": "Il est regrettable que les personnes concernées n'aient accès au résumé qu'après la réunion.",
+    "cloze": "n'aient accès au résumé qu'après la réunion",
+    "answer": "n'aient accès au résumé qu'après la réunion",
+    "lemma": "avoir accès à",
+    "meaning": "only have access to the summary after the meeting",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0307.mp3"
+  },
+  {
+    "id": "fr-05-0308",
+    "sentence": "J'ai peur que les changements annoncés créent encore plus de confusion chez les nouveaux usagers.",
+    "cloze": "créent encore plus de confusion",
+    "answer": "créent encore plus de confusion",
+    "lemma": "créer",
+    "meaning": "create even more confusion",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0308.mp3"
+  },
+  {
+    "id": "fr-05-0309",
+    "sentence": "Avant tout vote, il est essentiel que chaque option fasse l'objet d'un chiffrage distinct.",
+    "cloze": "fasse l'objet d'un chiffrage distinct",
+    "answer": "fasse l'objet d'un chiffrage distinct",
+    "lemma": "faire l'objet de",
+    "meaning": "be costed separately",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0309.mp3"
+  },
+  {
+    "id": "fr-05-0310",
+    "sentence": "Bien que le désaccord porte sur la méthode plutôt que sur l'objectif, un compromis reste possible.",
+    "cloze": "porte sur la méthode plutôt que sur l'objectif",
+    "answer": "porte sur la méthode plutôt que sur l'objectif",
+    "lemma": "porter sur",
+    "meaning": "concern the method rather than the objective",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0310.mp3"
+  },
+  {
+    "id": "fr-05-0311",
+    "sentence": "Je vais rapprocher les deux versions pour que la cliente voie précisément ce qui change.",
+    "cloze": "voie précisément ce qui change",
+    "answer": "voie précisément ce qui change",
+    "lemma": "voir",
+    "meaning": "see exactly what changes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0311.mp3"
+  },
+  {
+    "id": "fr-05-0312",
+    "sentence": "Je doute que ce correctif suffise à prévenir une nouvelle panne ; gardons donc une solution de secours.",
+    "cloze": "suffise à prévenir une nouvelle panne",
+    "answer": "suffise à prévenir une nouvelle panne",
+    "lemma": "suffire",
+    "meaning": "be enough to prevent another breakdown",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0312.mp3"
+  },
+  {
+    "id": "fr-05-0313",
+    "sentence": "Dans une médiation, il n'est pas acceptable qu'une seule partie fixe d'avance les termes du compromis.",
+    "cloze": "fixe d'avance les termes du compromis",
+    "answer": "fixe d'avance les termes du compromis",
+    "lemma": "fixer",
+    "meaning": "set the terms of the compromise in advance",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0313.mp3"
+  },
+  {
+    "id": "fr-05-0314",
+    "sentence": "Je suis soulagée que l'équipe puisse enfin accéder aux documents utiles avant la séance.",
+    "cloze": "puisse enfin accéder aux documents utiles",
+    "answer": "puisse enfin accéder aux documents utiles",
+    "lemma": "pouvoir accéder",
+    "meaning": "finally be able to access the relevant documents",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0314.mp3"
+  },
+  {
+    "id": "fr-05-0315",
+    "sentence": "Votre réclamation pourra avancer, mais encore faut-il que vous décriviez précisément le défaut au moment où il apparaît.",
+    "cloze": "décriviez précisément le défaut",
+    "answer": "décriviez précisément le défaut",
+    "lemma": "décrire",
+    "meaning": "describe the fault precisely",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0315.mp3"
+  },
+  {
+    "id": "fr-05-0316",
+    "sentence": "Nous ajouterons un exemple concret afin que cette recommandation soit comprise sans explication supplémentaire.",
+    "cloze": "soit comprise sans explication supplémentaire",
+    "answer": "soit comprise sans explication supplémentaire",
+    "lemma": "comprendre",
+    "meaning": "be understood without further explanation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0316.mp3"
+  },
+  {
+    "id": "fr-05-0317",
+    "sentence": "Je vais répartir les interventions afin que vous ayez tous le même temps de parole.",
+    "cloze": "ayez tous le même temps de parole",
+    "answer": "ayez tous le même temps de parole",
+    "lemma": "avoir",
+    "meaning": "all have the same speaking time",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0317.mp3"
+  },
+  {
+    "id": "fr-05-0318",
+    "sentence": "Le collectif est déçu que la mairie n'envisage aucun accueil le samedi, même à titre d'essai.",
+    "cloze": "n'envisage aucun accueil le samedi",
+    "answer": "n'envisage aucun accueil le samedi",
+    "lemma": "envisager",
+    "meaning": "not consider any Saturday service",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0318.mp3"
+  },
+  {
+    "id": "fr-05-0319",
+    "sentence": "Pour une évaluation équilibrée, il est normal que les réserves du public figurent à côté des résultats positifs.",
+    "cloze": "figurent à côté des résultats positifs",
+    "answer": "figurent à côté des résultats positifs",
+    "lemma": "figurer",
+    "meaning": "appear alongside the positive results",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0319.mp3"
+  },
+  {
+    "id": "fr-05-0320",
+    "sentence": "Après la médiation, il est rassurant que chacun sache à qui transmettre ses remarques.",
+    "cloze": "sache à qui transmettre ses remarques",
+    "answer": "sache à qui transmettre ses remarques",
+    "lemma": "savoir",
+    "meaning": "know whom to send their comments to",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0320.mp3"
+  },
+  {
+    "id": "fr-05-0321",
+    "sentence": "Dans son bilan, la cheffe de projet juge regrettable que l'équipe ait écarté l'option accessible sans en expliquer le coût.",
+    "cloze": "ait écarté l'option accessible",
+    "answer": "ait écarté l'option accessible",
+    "lemma": "écarter une option accessible",
+    "meaning": "has rejected the accessible option",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0321.mp3"
+  },
+  {
+    "id": "fr-05-0322",
+    "sentence": "Au vu du défaut reproduit sur tous les appareils testés, je doute que le prestataire ait vérifié la compatibilité avant la mise en ligne.",
+    "cloze": "ait vérifié la compatibilité",
+    "answer": "ait vérifié la compatibilité",
+    "lemma": "vérifier la compatibilité",
+    "meaning": "has checked compatibility",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0322.mp3"
+  },
+  {
+    "id": "fr-05-0323",
+    "sentence": "Dans cette analyse, il est surprenant que le rapport ait omis la seule réserve formulée lors de la réunion.",
+    "cloze": "ait omis la seule réserve",
+    "answer": "ait omis la seule réserve",
+    "lemma": "omettre une réserve",
+    "meaning": "has omitted the only reservation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0323.mp3"
+  },
+  {
+    "id": "fr-05-0324",
+    "sentence": "Après l'incident, nous sommes soulagés que la sauvegarde ait permis une reprise sans nouvelle saisie.",
+    "cloze": "ait permis une reprise",
+    "answer": "ait permis une reprise",
+    "lemma": "permettre une reprise",
+    "meaning": "has enabled a recovery",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0324.mp3"
+  },
+  {
+    "id": "fr-05-0325",
+    "sentence": "Le comité se réjouit que les deux équipes se soient accordées sur un calendrier commun avant la clôture du projet.",
+    "cloze": "se soient accordées sur un calendrier commun",
+    "answer": "se soient accordées sur un calendrier commun",
+    "lemma": "s'accorder sur un calendrier",
+    "meaning": "have agreed on a shared schedule",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0325.mp3"
+  },
+  {
+    "id": "fr-05-0326",
+    "sentence": "Je regrette que vous n'ayez reçu qu'une réponse automatique après votre second signalement.",
+    "cloze": "n'ayez reçu qu'une réponse automatique",
+    "answer": "n'ayez reçu qu'une réponse automatique",
+    "lemma": "ne recevoir qu'une réponse automatique",
+    "meaning": "have received only an automated reply",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0326.mp3"
+  },
+  {
+    "id": "fr-05-0327",
+    "sentence": "Il est préoccupant que le service ait prélevé la somme avant la vérification du montant contesté.",
+    "cloze": "ait prélevé la somme",
+    "answer": "ait prélevé la somme",
+    "lemma": "prélever une somme",
+    "meaning": "has charged the amount",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0327.mp3"
+  },
+  {
+    "id": "fr-05-0328",
+    "sentence": "Le responsable trouve normal que vous ayez demandé une confirmation écrite avant d'engager les frais.",
+    "cloze": "ayez demandé une confirmation écrite",
+    "answer": "ayez demandé une confirmation écrite",
+    "lemma": "demander une confirmation écrite",
+    "meaning": "have requested written confirmation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0328.mp3"
+  },
+  {
+    "id": "fr-05-0329",
+    "sentence": "Bien qu'elle ait reconnu l'erreur de calcul, l'entreprise n'a toujours pas corrigé la facture.",
+    "cloze": "ait reconnu l'erreur de calcul",
+    "answer": "ait reconnu l'erreur de calcul",
+    "lemma": "reconnaître une erreur de calcul",
+    "meaning": "has acknowledged the calculation error",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0329.mp3"
+  },
+  {
+    "id": "fr-05-0330",
+    "sentence": "Quoique les deux expertises aient abouti à des recommandations différentes, le constat de départ reste commun.",
+    "cloze": "aient abouti à des recommandations différentes",
+    "answer": "aient abouti à des recommandations différentes",
+    "lemma": "aboutir à des recommandations différentes",
+    "meaning": "have led to different recommendations",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0330.mp3"
+  },
+  {
+    "id": "fr-05-0331",
+    "sentence": "Je suis déçue que l'agence ait annulé la visite sans proposer de nouveau créneau.",
+    "cloze": "ait annulé la visite",
+    "answer": "ait annulé la visite",
+    "lemma": "annuler une visite",
+    "meaning": "has cancelled the viewing",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0331.mp3"
+  },
+  {
+    "id": "fr-05-0332",
+    "sentence": "Rien ne prouve que le technicien ait remplacé la pièce indiquée sur le bon d'intervention.",
+    "cloze": "ait remplacé la pièce indiquée",
+    "answer": "ait remplacé la pièce indiquée",
+    "lemma": "remplacer une pièce",
+    "meaning": "has replaced the specified part",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0332.mp3"
+  },
+  {
+    "id": "fr-05-0333",
+    "sentence": "Pour clore la réclamation, encore faut-il que le service ait effectué le remboursement sur le compte utilisé lors de l'achat.",
+    "cloze": "ait effectué le remboursement",
+    "answer": "ait effectué le remboursement",
+    "lemma": "effectuer un remboursement",
+    "meaning": "has issued the refund",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0333.mp3"
+  },
+  {
+    "id": "fr-05-0334",
+    "sentence": "Avant d'approuver le bilan, il est indispensable que nous ayons vérifié l'origine de chaque écart signalé.",
+    "cloze": "ayons vérifié l'origine de chaque écart",
+    "answer": "ayons vérifié l'origine de chaque écart",
+    "lemma": "vérifier l'origine d'un écart",
+    "meaning": "have checked the origin of each discrepancy",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0334.mp3"
+  },
+  {
+    "id": "fr-05-0335",
+    "sentence": "Je suis étonnée que votre équipe se soit privée de l'avis des usagers avant de rendre ses conclusions.",
+    "cloze": "se soit privée de l'avis des usagers",
+    "answer": "se soit privée de l'avis des usagers",
+    "lemma": "se priver de l'avis des usagers",
+    "meaning": "has gone without user input",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0335.mp3"
+  },
+  {
+    "id": "fr-05-0336",
+    "sentence": "Mes collègues sont ravis que notre coordinatrice se soit chargée de la présentation finale, car ils ont pu se concentrer sur les questions.",
+    "cloze": "se soit chargée de la présentation finale",
+    "answer": "se soit chargée de la présentation finale",
+    "lemma": "se charger d'une présentation",
+    "meaning": "has taken charge of the final presentation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0336.mp3"
+  },
+  {
+    "id": "fr-05-0337",
+    "sentence": "Il est dommage que l'équipe ait retiré l'affiche avant la fin de la consultation publique.",
+    "cloze": "ait retiré l'affiche",
+    "answer": "ait retiré l'affiche",
+    "lemma": "retirer une affiche",
+    "meaning": "has taken down the poster",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0337.mp3"
+  },
+  {
+    "id": "fr-05-0338",
+    "sentence": "Le public s'étonne que la mairie n'ait publié aucune explication après la fermeture du lieu.",
+    "cloze": "n'ait publié aucune explication",
+    "answer": "n'ait publié aucune explication",
+    "lemma": "ne publier aucune explication",
+    "meaning": "has not published any explanation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0338.mp3"
+  },
+  {
+    "id": "fr-05-0339",
+    "sentence": "Je ne crois pas que l'assureur ait tenu compte des photos jointes à mon dossier.",
+    "cloze": "ait tenu compte des photos",
+    "answer": "ait tenu compte des photos",
+    "lemma": "tenir compte de photos",
+    "meaning": "has taken the photos into account",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0339.mp3"
+  },
+  {
+    "id": "fr-05-0340",
+    "sentence": "Je suis heureuse que nous ayons finalement tenu l'engagement pris envers les bénévoles.",
+    "cloze": "ayons finalement tenu l'engagement",
+    "answer": "ayons finalement tenu l'engagement",
+    "lemma": "tenir un engagement",
+    "meaning": "have finally honored the commitment",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0340.mp3"
+  },
+  {
+    "id": "fr-05-0341",
+    "sentence": "Le médiateur juge inacceptable que le service ait clos le dossier sans répondre aux questions précises du client.",
+    "cloze": "ait clos le dossier",
+    "answer": "ait clos le dossier",
+    "lemma": "clore un dossier",
+    "meaning": "has closed the case",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0341.mp3"
+  },
+  {
+    "id": "fr-05-0342",
+    "sentence": "Bien que l'entreprise ait présenté ses excuses rapidement, le remboursement reste en attente.",
+    "cloze": "ait présenté ses excuses",
+    "answer": "ait présenté ses excuses",
+    "lemma": "présenter ses excuses",
+    "meaning": "has offered its apologies",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0342.mp3"
+  },
+  {
+    "id": "fr-05-0343",
+    "sentence": "La réponse reste vague, et je ne suis pas convaincue que le service ait compris la nature exacte de la panne.",
+    "cloze": "ait compris la nature exacte de la panne",
+    "answer": "ait compris la nature exacte de la panne",
+    "lemma": "comprendre la nature d'une panne",
+    "meaning": "has understood the exact nature of the fault",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0343.mp3"
+  },
+  {
+    "id": "fr-05-0344",
+    "sentence": "Pour rouvrir la salle, il faut que le responsable ait dégagé l'issue et contrôlé son mécanisme de fermeture.",
+    "cloze": "ait dégagé l'issue",
+    "answer": "ait dégagé l'issue",
+    "lemma": "dégager une issue",
+    "meaning": "has cleared the exit",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0344.mp3"
+  },
+  {
+    "id": "fr-05-0345",
+    "sentence": "Après des semaines d'incertitude, nous sommes contents que le bailleur ait enfin confirmé la date des travaux par écrit.",
+    "cloze": "ait enfin confirmé la date des travaux",
+    "answer": "ait enfin confirmé la date des travaux",
+    "lemma": "confirmer la date des travaux",
+    "meaning": "has finally confirmed the date of the work",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0345.mp3"
+  },
+  {
+    "id": "fr-05-0346",
+    "sentence": "Les riverains regrettent que leur proposition n'ait obtenu aucune réponse avant le vote.",
+    "cloze": "n'ait obtenu aucune réponse",
+    "answer": "n'ait obtenu aucune réponse",
+    "lemma": "n'obtenir aucune réponse",
+    "meaning": "has received no response",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0346.mp3"
+  },
+  {
+    "id": "fr-05-0347",
+    "sentence": "Je trouve rassurant que l'application ait conservé mes brouillons malgré la coupure.",
+    "cloze": "ait conservé mes brouillons",
+    "answer": "ait conservé mes brouillons",
+    "lemma": "conserver des brouillons",
+    "meaning": "has retained my drafts",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0347.mp3"
+  },
+  {
+    "id": "fr-05-0348",
+    "sentence": "Au vu de l'accusé de réception, il paraît peu vraisemblable que le service ait égaré la demande avant son examen.",
+    "cloze": "ait égaré la demande",
+    "answer": "ait égaré la demande",
+    "lemma": "égarer une demande",
+    "meaning": "has misplaced the request",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0348.mp3"
+  },
+  {
+    "id": "fr-05-0349",
+    "sentence": "Bien que le musée ait réduit ses horaires, l'équipe a maintenu toutes les visites déjà réservées.",
+    "cloze": "ait réduit ses horaires",
+    "answer": "ait réduit ses horaires",
+    "lemma": "réduire ses horaires",
+    "meaning": "has reduced its opening hours",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0349.mp3"
+  },
+  {
+    "id": "fr-05-0350",
+    "sentence": "Le critique est surpris que la mise en scène ait relégué le conflit principal au second plan dès le premier acte.",
+    "cloze": "ait relégué le conflit principal au second plan",
+    "answer": "ait relégué le conflit principal au second plan",
+    "lemma": "reléguer un conflit au second plan",
+    "meaning": "has relegated the main conflict to the background",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0350.mp3"
+  },
+  {
+    "id": "fr-05-0351",
+    "sentence": "Je déplore que le service ait facturé une intervention qui n'a jamais eu lieu.",
+    "cloze": "ait facturé une intervention",
+    "answer": "ait facturé une intervention",
+    "lemma": "facturer une intervention",
+    "meaning": "has billed for a service call",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0351.mp3"
+  },
+  {
+    "id": "fr-05-0352",
+    "sentence": "Nous apprécions que vous ayez pris le temps de détailler chaque étape dans votre réponse.",
+    "cloze": "ayez pris le temps de détailler",
+    "answer": "ayez pris le temps de détailler",
+    "lemma": "prendre le temps de détailler",
+    "meaning": "have taken the time to explain in detail",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0352.mp3"
+  },
+  {
+    "id": "fr-05-0353",
+    "sentence": "Il importe que chacun ait relu le texte avant que la réponse publique soit diffusée.",
+    "cloze": "ait relu le texte",
+    "answer": "ait relu le texte",
+    "lemma": "relire un texte",
+    "meaning": "has reread the text",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0353.mp3"
+  },
+  {
+    "id": "fr-05-0354",
+    "sentence": "Comme l'écart persiste, nous doutons que l'équipe ait appliqué la correction à l'ensemble des dossiers concernés.",
+    "cloze": "ait appliqué la correction",
+    "answer": "ait appliqué la correction",
+    "lemma": "appliquer une correction",
+    "meaning": "has applied the correction",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0354.mp3"
+  },
+  {
+    "id": "fr-05-0355",
+    "sentence": "Avec le recul, je suis fière que nous ayons défendu une solution simple sans minimiser les contraintes.",
+    "cloze": "ayons défendu une solution simple",
+    "answer": "ayons défendu une solution simple",
+    "lemma": "défendre une solution",
+    "meaning": "have defended a simple solution",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0355.mp3"
+  },
+  {
+    "id": "fr-05-0356",
+    "sentence": "L'association est heureuse que les habitantes aient porté la demande assez tôt pour préserver l'accueil de proximité.",
+    "cloze": "aient porté la demande",
+    "answer": "aient porté la demande",
+    "lemma": "porter une demande",
+    "meaning": "have raised the request",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0356.mp3"
+  },
+  {
+    "id": "fr-05-0357",
+    "sentence": "La cliente estime regrettable que l'équipe ne l'ait pas prévenue du changement d'horaire avant son déplacement.",
+    "cloze": "ne l'ait pas prévenue",
+    "answer": "ne l'ait pas prévenue",
+    "lemma": "ne pas prévenir quelqu'un",
+    "meaning": "has not informed her",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0357.mp3"
+  },
+  {
+    "id": "fr-05-0358",
+    "sentence": "Bien que vous ayez obtenu un geste commercial, votre demande d'explication reste légitime.",
+    "cloze": "ayez obtenu un geste commercial",
+    "answer": "ayez obtenu un geste commercial",
+    "lemma": "obtenir un geste commercial",
+    "meaning": "have received a goodwill gesture",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0358.mp3"
+  },
+  {
+    "id": "fr-05-0359",
+    "sentence": "Je trouve anormal que le transporteur ait renvoyé le colis vers l'expéditeur alors que mon adresse était correcte.",
+    "cloze": "ait renvoyé le colis vers l'expéditeur",
+    "answer": "ait renvoyé le colis vers l'expéditeur",
+    "lemma": "renvoyer un colis à l'expéditeur",
+    "meaning": "has returned the parcel to the sender",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0359.mp3"
+  },
+  {
+    "id": "fr-05-0360",
+    "sentence": "Avec le recul, je suis reconnaissante que mon amie m'ait posé la bonne question avant que je renonce.",
+    "cloze": "m'ait posé la bonne question",
+    "answer": "m'ait posé la bonne question",
+    "lemma": "poser la bonne question",
+    "meaning": "has asked me the right question",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0360.mp3"
+  },
+  {
+    "id": "fr-05-0361",
+    "sentence": "Dans son bilan, la responsable reconnaît avoir sous-estimé le temps de coordination entre les deux sites.",
+    "cloze": "avoir sous-estimé le temps de coordination",
+    "answer": "avoir sous-estimé le temps de coordination",
+    "lemma": "sous-estimer le temps de coordination",
+    "meaning": "to have underestimated the coordination time",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0361.mp3"
+  },
+  {
+    "id": "fr-05-0362",
+    "sentence": "Le relevé des appels montre que les délais se sont allongés après la fusion des guichets, surtout le lundi matin.",
+    "cloze": "se sont allongés",
+    "answer": "se sont allongés",
+    "lemma": "s'allonger après une fusion",
+    "meaning": "became longer after the service desks were merged",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0362.mp3"
+  },
+  {
+    "id": "fr-05-0363",
+    "sentence": "Pour tenir l'échéance sans réduire les contrôles, nous proposons de nous en tenir au périmètre déjà validé.",
+    "cloze": "nous en tenir au périmètre déjà validé",
+    "answer": "nous en tenir au périmètre déjà validé",
+    "lemma": "s'en tenir à un périmètre",
+    "meaning": "to stick to the scope already approved",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0363.mp3"
+  },
+  {
+    "id": "fr-05-0364",
+    "sentence": "La médiatrice recommande que le service conserve une solution de dépôt sur place afin de ne pas exclure les usagers sans accès numérique.",
+    "cloze": "conserve une solution de dépôt sur place",
+    "answer": "conserve une solution de dépôt sur place",
+    "lemma": "conserver une solution de dépôt",
+    "meaning": "keep an in-person submission option",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0364.mp3"
+  },
+  {
+    "id": "fr-05-0365",
+    "sentence": "Dans son compte rendu, la chargée d'accueil dit s'être trompée de destinataire en transférant ma demande.",
+    "cloze": "s'être trompée de destinataire",
+    "answer": "s'être trompée de destinataire",
+    "lemma": "se tromper de destinataire",
+    "meaning": "to have chosen the wrong recipient",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0365.mp3"
+  },
+  {
+    "id": "fr-05-0366",
+    "sentence": "Pour vérifier le passage du fauteuil avant la visite, je vous demande de me transmettre un plan coté de l'entrée.",
+    "cloze": "me transmettre un plan coté de l'entrée",
+    "answer": "me transmettre un plan coté de l'entrée",
+    "lemma": "transmettre un plan coté",
+    "meaning": "to send me a dimensioned plan of the entrance",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0366.mp3"
+  },
+  {
+    "id": "fr-05-0367",
+    "sentence": "Faute de réponse au premier courrier, je demande que le service m'adresse le détail des frais contestés avant tout nouveau prélèvement.",
+    "cloze": "m'adresse le détail des frais contestés",
+    "answer": "m'adresse le détail des frais contestés",
+    "lemma": "adresser le détail des frais",
+    "meaning": "send me an itemized account of the disputed charges",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0367.mp3"
+  },
+  {
+    "id": "fr-05-0368",
+    "sentence": "Pour expliquer son choix, l'équipe dit avoir privilégié l'option la plus sobre au vu des consommations annoncées.",
+    "cloze": "avoir privilégié l'option la plus sobre",
+    "answer": "avoir privilégié l'option la plus sobre",
+    "lemma": "privilégier l'option la plus sobre",
+    "meaning": "to have favored the most resource-efficient option",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0368.mp3"
+  },
+  {
+    "id": "fr-05-0369",
+    "sentence": "La note technique explique que l'alerte vient d'un réglage trop sensible et non d'une panne du capteur.",
+    "cloze": "vient d'un réglage trop sensible",
+    "answer": "vient d'un réglage trop sensible",
+    "lemma": "venir d'un réglage",
+    "meaning": "comes from an overly sensitive setting",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0369.mp3"
+  },
+  {
+    "id": "fr-05-0370",
+    "sentence": "Pour éviter de traverser la ville deux fois, nous prévoyons de nous y retrouver après ton cours.",
+    "cloze": "nous y retrouver après ton cours",
+    "answer": "nous y retrouver après ton cours",
+    "lemma": "se retrouver après un cours",
+    "meaning": "to meet there after your class",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0370.mp3"
+  },
+  {
+    "id": "fr-05-0371",
+    "sentence": "Comme mes horaires peuvent encore changer, je préfère que tu réserves le billet échangeable pour notre week-end.",
+    "cloze": "réserves le billet échangeable",
+    "answer": "réserves le billet échangeable",
+    "lemma": "réserver un billet échangeable",
+    "meaning": "book the flexible ticket",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0371.mp3"
+  },
+  {
+    "id": "fr-05-0372",
+    "sentence": "Après trois semaines de suivi, ce bilan semble confirmer la baisse des erreurs de saisie sur le nouveau portail.",
+    "cloze": "confirmer la baisse des erreurs de saisie",
+    "answer": "confirmer la baisse des erreurs de saisie",
+    "lemma": "confirmer une baisse",
+    "meaning": "to confirm the drop in data-entry errors",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0372.mp3"
+  },
+  {
+    "id": "fr-05-0373",
+    "sentence": "Le message d'accueil confirme que la salle reste accessible jusqu'à dix-neuf heures pendant les travaux.",
+    "cloze": "reste accessible jusqu'à dix-neuf heures",
+    "answer": "reste accessible jusqu'à dix-neuf heures",
+    "lemma": "rester accessible",
+    "meaning": "remains accessible until 7 p.m.",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0373.mp3"
+  },
+  {
+    "id": "fr-05-0374",
+    "sentence": "Les bénévoles disent n'avoir rien su, mais la coordinatrice assure les avoir prévenus avant la coupure.",
+    "cloze": "les avoir prévenus avant la coupure",
+    "answer": "les avoir prévenus avant la coupure",
+    "lemma": "prévenir avant une coupure",
+    "meaning": "to have warned them before the outage",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0374.mp3"
+  },
+  {
+    "id": "fr-05-0375",
+    "sentence": "Après les avoir consultées séparément, le chef de projet a réuni les deux associations autour d'une proposition commune.",
+    "cloze": "les avoir consultées séparément",
+    "answer": "les avoir consultées séparément",
+    "lemma": "consulter séparément",
+    "meaning": "to have consulted them separately",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0375.mp3"
+  },
+  {
+    "id": "fr-05-0376",
+    "sentence": "Le comité juge préférable que le tableau soit repris dans la version publique avec ses limites clairement indiquées.",
+    "cloze": "soit repris dans la version publique",
+    "answer": "soit repris dans la version publique",
+    "lemma": "reprendre dans une version publique",
+    "meaning": "be included in the public version",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0376.mp3"
+  },
+  {
+    "id": "fr-05-0377",
+    "sentence": "Au vu des deux résultats contradictoires, il paraît plus prudent de reporter l'annonce jusqu'au retour des tests.",
+    "cloze": "reporter l'annonce jusqu'au retour des tests",
+    "answer": "reporter l'annonce jusqu'au retour des tests",
+    "lemma": "reporter une annonce",
+    "meaning": "to postpone the announcement until the test results are back",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0377.mp3"
+  },
+  {
+    "id": "fr-05-0378",
+    "sentence": "Le formulaire invite chaque visiteur à signaler toute difficulté dès l'accueil plutôt que d'attendre la fin du parcours.",
+    "cloze": "signaler toute difficulté dès l'accueil",
+    "answer": "signaler toute difficulté dès l'accueil",
+    "lemma": "signaler une difficulté",
+    "meaning": "to report any difficulty at reception",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0378.mp3"
+  },
+  {
+    "id": "fr-05-0379",
+    "sentence": "Le rapport précise que l'hypothèse n'a été écartée qu'après un essai complet sur le matériel disponible.",
+    "cloze": "n'a été écartée qu'après un essai complet",
+    "answer": "n'a été écartée qu'après un essai complet",
+    "lemma": "écarter après un essai complet",
+    "meaning": "was only ruled out after a full trial",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0379.mp3"
+  },
+  {
+    "id": "fr-05-0380",
+    "sentence": "Nous avons prérempli les coordonnées connues afin que l'usager n'ait pas à les ressaisir sur place.",
+    "cloze": "n'ait pas à les ressaisir",
+    "answer": "n'ait pas à les ressaisir",
+    "lemma": "ne pas avoir à ressaisir",
+    "meaning": "not have to enter them again",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0380.mp3"
+  },
+  {
+    "id": "fr-05-0381",
+    "sentence": "Ma collègue pensait avoir déjà envoyé la version corrigée, mais elle l'a retrouvée ce matin dans ses brouillons.",
+    "cloze": "avoir déjà envoyé la version corrigée",
+    "answer": "avoir déjà envoyé la version corrigée",
+    "lemma": "envoyer une version corrigée",
+    "meaning": "to have already sent the corrected version",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0381.mp3"
+  },
+  {
+    "id": "fr-05-0382",
+    "sentence": "Avant tout remboursement, la direction exige que la bénéficiaire vérifie elle-même les coordonnées bancaires affichées.",
+    "cloze": "vérifie elle-même les coordonnées bancaires",
+    "answer": "vérifie elle-même les coordonnées bancaires",
+    "lemma": "vérifier soi-même des coordonnées",
+    "meaning": "check the bank details herself",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0382.mp3"
+  },
+  {
+    "id": "fr-05-0383",
+    "sentence": "Le document contient encore des chiffres provisoires; la consigne demande aux équipes de ne pas le communiquer avant validation.",
+    "cloze": "ne pas le communiquer avant validation",
+    "answer": "ne pas le communiquer avant validation",
+    "lemma": "ne pas communiquer avant validation",
+    "meaning": "not to share it before approval",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0383.mp3"
+  },
+  {
+    "id": "fr-05-0384",
+    "sentence": "Le fournisseur affirme que les deux prestations sont bien distinctes dans le devis : l'une couvre la pose, l'autre l'entretien.",
+    "cloze": "sont bien distinctes dans le devis",
+    "answer": "sont bien distinctes dans le devis",
+    "lemma": "être distinct dans un devis",
+    "meaning": "are clearly separated in the quote",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0384.mp3"
+  },
+  {
+    "id": "fr-05-0385",
+    "sentence": "Mon amie explique être arrivée trop tard pour rejoindre le groupe parce que son train avait été supprimé.",
+    "cloze": "être arrivée trop tard",
+    "answer": "être arrivée trop tard",
+    "lemma": "arriver trop tard",
+    "meaning": "to have arrived too late",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0385.mp3"
+  },
+  {
+    "id": "fr-05-0386",
+    "sentence": "Tu peux être fier de t'être organisé sans dépendre de nous malgré ce changement de dernière minute.",
+    "cloze": "t'être organisé sans dépendre de nous",
+    "answer": "t'être organisé sans dépendre de nous",
+    "lemma": "s'organiser sans dépendre de quelqu'un",
+    "meaning": "to have organized things without relying on us",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0386.mp3"
+  },
+  {
+    "id": "fr-05-0387",
+    "sentence": "La responsable attend que nous ayons reçu les autorisations écrites avant d'ouvrir les inscriptions au public.",
+    "cloze": "ayons reçu les autorisations écrites",
+    "answer": "ayons reçu les autorisations écrites",
+    "lemma": "recevoir des autorisations écrites",
+    "meaning": "have received the written permissions",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0387.mp3"
+  },
+  {
+    "id": "fr-05-0388",
+    "sentence": "La trésorière découvre le dossier aujourd'hui; je suggère de lui laisser le temps de relire le budget avant le vote.",
+    "cloze": "lui laisser le temps de relire le budget",
+    "answer": "lui laisser le temps de relire le budget",
+    "lemma": "laisser le temps de relire",
+    "meaning": "to give her time to reread the budget",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0388.mp3"
+  },
+  {
+    "id": "fr-05-0389",
+    "sentence": "Le reçu signé établit que le badge vous a été remis en main propre, et non envoyé par courrier.",
+    "cloze": "vous a été remis en main propre",
+    "answer": "vous a été remis en main propre",
+    "lemma": "remettre en main propre",
+    "meaning": "was handed to you in person",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0389.mp3"
+  },
+  {
+    "id": "fr-05-0390",
+    "sentence": "Le calendrier ne sera tenable qu'à condition que le binôme se mette d'accord avant vendredi sur le partage des permanences.",
+    "cloze": "se mette d'accord avant vendredi",
+    "answer": "se mette d'accord avant vendredi",
+    "lemma": "se mettre d'accord",
+    "meaning": "agree by Friday",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0390.mp3"
+  },
+  {
+    "id": "fr-05-0391",
+    "sentence": "À la lecture du compte rendu, cette réserve semble avoir été mal interprétée lors du premier échange, puis corrigée dans la synthèse.",
+    "cloze": "avoir été mal interprétée",
+    "answer": "avoir été mal interprétée",
+    "lemma": "mal interpréter une réserve",
+    "meaning": "to have been misinterpreted",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0391.mp3"
+  },
+  {
+    "id": "fr-05-0392",
+    "sentence": "Cette option reste ouverte, mais je te déconseille d'y renoncer avant d'avoir chiffré l'alternative.",
+    "cloze": "y renoncer avant d'avoir chiffré l'alternative",
+    "answer": "y renoncer avant d'avoir chiffré l'alternative",
+    "lemma": "renoncer avant d'avoir chiffré",
+    "meaning": "to give it up before costing the alternative",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0392.mp3"
+  },
+  {
+    "id": "fr-05-0393",
+    "sentence": "Les deux devis additionnés indiquent que le coût dépassera l'enveloppe convenue, même sans l'option de maintenance.",
+    "cloze": "dépassera l'enveloppe convenue",
+    "answer": "dépassera l'enveloppe convenue",
+    "lemma": "dépasser l'enveloppe convenue",
+    "meaning": "will exceed the agreed budget",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0393.mp3"
+  },
+  {
+    "id": "fr-05-0394",
+    "sentence": "Nous avons regroupé les formulaires afin que vous puissiez déposer les pièces en une seule fois au même guichet.",
+    "cloze": "puissiez déposer les pièces",
+    "answer": "puissiez déposer les pièces",
+    "lemma": "pouvoir déposer des pièces",
+    "meaning": "can submit the documents",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0394.mp3"
+  },
+  {
+    "id": "fr-05-0395",
+    "sentence": "L'auteur du rapport reconnaît avoir omis de joindre l'annexe technique lors du premier envoi.",
+    "cloze": "avoir omis de joindre l'annexe technique",
+    "answer": "avoir omis de joindre l'annexe technique",
+    "lemma": "omettre de joindre une annexe",
+    "meaning": "to have omitted the technical appendix",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0395.mp3"
+  },
+  {
+    "id": "fr-05-0396",
+    "sentence": "La juriste recommande que l'accès ne s'étende pas aux données personnelles tant que le besoin n'est pas établi.",
+    "cloze": "ne s'étende pas aux données personnelles",
+    "answer": "ne s'étende pas aux données personnelles",
+    "lemma": "ne pas s'étendre aux données personnelles",
+    "meaning": "not extend to personal data",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0396.mp3"
+  },
+  {
+    "id": "fr-05-0397",
+    "sentence": "Avant de confirmer ce chiffre au client, j'ai choisi de lui répondre après avoir vérifié les références citées dans le tableau.",
+    "cloze": "lui répondre après avoir vérifié les références",
+    "answer": "lui répondre après avoir vérifié les références",
+    "lemma": "répondre après avoir vérifié",
+    "meaning": "to reply to him after checking the references",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0397.mp3"
+  },
+  {
+    "id": "fr-05-0398",
+    "sentence": "Le bail précise que l'entretien annuel reste à la charge du propriétaire, tandis que le locataire assure le nettoyage courant.",
+    "cloze": "reste à la charge du propriétaire",
+    "answer": "reste à la charge du propriétaire",
+    "lemma": "rester à la charge du propriétaire",
+    "meaning": "remains the owner's responsibility",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0398.mp3"
+  },
+  {
+    "id": "fr-05-0399",
+    "sentence": "Comme la décision engage tout le groupe, je préfère que nous soyons tous présents pour trancher ce soir.",
+    "cloze": "soyons tous présents",
+    "answer": "soyons tous présents",
+    "lemma": "être présent pour trancher",
+    "meaning": "for all of us to be there",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0399.mp3"
+  },
+  {
+    "id": "fr-05-0400",
+    "sentence": "Comme tu centralises les billets électroniques, je te propose de nous les envoyer dès réception.",
+    "cloze": "nous les envoyer dès réception",
+    "answer": "nous les envoyer dès réception",
+    "lemma": "envoyer des billets à quelqu'un",
+    "meaning": "to send them to us upon receipt",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0400.mp3"
   }
 ]
