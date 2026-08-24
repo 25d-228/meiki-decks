@@ -8900,5 +8900,2009 @@
     "audio": "work/audio/fr-FR/05/fr-05-0840.mp3",
     "grammar": "The nominal group packages the priority with explicit contrastive ordering.",
     "register": "digital-service analysis"
+  },
+  {
+    "id": "fr-05-0841",
+    "sentence": "La fréquentation n'a reculé que les après-midi où l'entrée secondaire était fermée ; cette baisse semble tenir en partie à la fermeture de cet accès.",
+    "cloze": "semble tenir en partie à",
+    "answer": "semble tenir en partie à",
+    "lemma": "tenir en partie à",
+    "meaning": "appears to be due in part to",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0841.mp3"
+  },
+  {
+    "id": "fr-05-0842",
+    "sentence": "Le bilan présentera séparément les relevés automatiques et les observations des agents afin de distinguer les mesures des appréciations.",
+    "cloze": "afin de distinguer",
+    "answer": "afin de distinguer",
+    "lemma": "afin de distinguer",
+    "meaning": "in order to distinguish",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0842.mp3"
+  },
+  {
+    "id": "fr-05-0843",
+    "sentence": "Deux mesures indispensables manquent encore au dossier, ce qui aura pour conséquence de repousser la remise du rapport.",
+    "cloze": "aura pour conséquence de repousser",
+    "answer": "aura pour conséquence de repousser",
+    "lemma": "avoir pour conséquence de repousser",
+    "meaning": "will result in postponing",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0843.mp3"
+  },
+  {
+    "id": "fr-05-0844",
+    "sentence": "Les inscriptions ont diminué après l'envoi tardif des horaires ; leur recul peut s'expliquer par le report de cette information.",
+    "cloze": "peut s'expliquer par",
+    "answer": "peut s'expliquer par",
+    "lemma": "pouvoir s'expliquer par",
+    "meaning": "may be explained by",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0844.mp3"
+  },
+  {
+    "id": "fr-05-0845",
+    "sentence": "Nous proposons d'échelonner les livraisons de manière à laisser l'entrée accessible pendant les travaux.",
+    "cloze": "de manière à laisser",
+    "answer": "de manière à laisser",
+    "lemma": "de manière à laisser",
+    "meaning": "so as to keep",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0845.mp3"
+  },
+  {
+    "id": "fr-05-0846",
+    "sentence": "Lors du test, le serveur a redémarré avant la sauvegarde, entraînant une reprise manuelle de chaque dossier ouvert.",
+    "cloze": "entraînant une reprise manuelle",
+    "answer": "entraînant une reprise manuelle",
+    "lemma": "entraîner une reprise manuelle",
+    "meaning": "causing a manual re-entry",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0846.mp3"
+  },
+  {
+    "id": "fr-05-0847",
+    "sentence": "Les erreurs se concentrent sur les écrans consultés en faible lumière ; le manque de contraste a vraisemblablement contribué aux erreurs de saisie.",
+    "cloze": "a vraisemblablement contribué aux",
+    "answer": "a vraisemblablement contribué aux",
+    "lemma": "contribuer vraisemblablement à",
+    "meaning": "probably contributed to the",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0847.mp3"
+  },
+  {
+    "id": "fr-05-0848",
+    "sentence": "Le formulaire en ligne reste inutilisable au clavier ; supprimer l'accueil physique ferait courir le risque d'exclure une partie du public.",
+    "cloze": "ferait courir le risque d'exclure",
+    "answer": "ferait courir le risque d'exclure",
+    "lemma": "faire courir le risque de",
+    "meaning": "would create a risk of excluding",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0848.mp3"
+  },
+  {
+    "id": "fr-05-0849",
+    "sentence": "Le projet prévoit un point d'accueil unique, avec pour objectif de raccourcir le parcours des visiteurs.",
+    "cloze": "avec pour objectif de raccourcir",
+    "answer": "avec pour objectif de raccourcir",
+    "lemma": "avec pour objectif de raccourcir",
+    "meaning": "with the aim of shortening",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0849.mp3"
+  },
+  {
+    "id": "fr-05-0850",
+    "sentence": "Faute d'avoir reçu le détail des prix, le comité ne peut pas encore comparer les deux propositions.",
+    "cloze": "Faute d'avoir reçu",
+    "answer": "Faute d'avoir reçu",
+    "lemma": "faute d'avoir reçu",
+    "meaning": "because it has not received",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0850.mp3",
+    "grammar": "Faute de followed by a past infinitive presents the missing information as the reason for the current limitation."
+  },
+  {
+    "id": "fr-05-0851",
+    "sentence": "Après la réparation de la rampe, un essai limité est prévu en vue d'une réouverture progressive du bâtiment.",
+    "cloze": "en vue d'une réouverture",
+    "answer": "en vue d'une réouverture",
+    "lemma": "en vue d'une réouverture",
+    "meaning": "with a view to reopening",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0851.mp3"
+  },
+  {
+    "id": "fr-05-0852",
+    "sentence": "Le fichier dépasse la taille recommandée et met dix minutes à partir ; il est assez volumineux pour ralentir chaque envoi.",
+    "cloze": "est assez volumineux pour ralentir",
+    "answer": "est assez volumineux pour ralentir",
+    "lemma": "assez volumineux pour ralentir",
+    "meaning": "is large enough to slow down",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0852.mp3"
+  },
+  {
+    "id": "fr-05-0853",
+    "sentence": "Les deux essais sont restés inconcluants, ce qui conduit à recommander le report de l'extension du dispositif.",
+    "cloze": "conduit à recommander le report",
+    "answer": "conduit à recommander le report",
+    "lemma": "conduire à recommander",
+    "meaning": "leads to recommending a postponement",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0853.mp3"
+  },
+  {
+    "id": "fr-05-0854",
+    "sentence": "Le fournisseur a modifié le prix total sans détailler l'écart, d'où la nécessité d'une seconde vérification.",
+    "cloze": "d'où la nécessité",
+    "answer": "d'où la nécessité",
+    "lemma": "d'où la nécessité",
+    "meaning": "hence the need",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0854.mp3"
+  },
+  {
+    "id": "fr-05-0855",
+    "sentence": "Le graphique affichera les effectifs à côté des pourcentages pour éviter que ne soit confondue une hausse relative avec un grand nombre de réponses.",
+    "cloze": "pour éviter que ne soit confondue",
+    "answer": "pour éviter que ne soit confondue",
+    "lemma": "pour éviter que",
+    "meaning": "to prevent confusion between",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0855.mp3",
+    "grammar": "The present subjunctive follows pour éviter que; the optional ne does not make the clause negative."
+  },
+  {
+    "id": "fr-05-0856",
+    "sentence": "Pendant les créneaux où les deux bornes étaient hors service, l'attente moyenne a augmenté ; cette simultanéité semble avoir contribué à l'allonger.",
+    "cloze": "semble avoir contribué à l'allonger",
+    "answer": "semble avoir contribué à l'allonger",
+    "lemma": "sembler contribuer à",
+    "meaning": "appears to have contributed to increasing it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0856.mp3"
+  },
+  {
+    "id": "fr-05-0857",
+    "sentence": "Une version en langage clair accompagnera la notice technique dans le souci de rendre la procédure compréhensible sans assistance.",
+    "cloze": "dans le souci de rendre",
+    "answer": "dans le souci de rendre",
+    "lemma": "dans le souci de rendre",
+    "meaning": "with the aim of making",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0857.mp3"
+  },
+  {
+    "id": "fr-05-0858",
+    "sentence": "Quatre validations intermédiaires sont exigées pour une demande courante, au point de retarder les réponses les plus simples.",
+    "cloze": "au point de retarder",
+    "answer": "au point de retarder",
+    "lemma": "au point de retarder",
+    "meaning": "to the point of delaying",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0858.mp3"
+  },
+  {
+    "id": "fr-05-0859",
+    "sentence": "Chaque correction repasse par trois contrôles identiques ; le traitement finit par ralentir à force de multiplier les validations manuelles.",
+    "cloze": "à force de multiplier",
+    "answer": "à force de multiplier",
+    "lemma": "à force de multiplier",
+    "meaning": "through repeatedly multiplying",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0859.mp3"
+  },
+  {
+    "id": "fr-05-0860",
+    "sentence": "Pendant l'essai, le calendrier partagé a remplacé trois tableaux distincts, avec, à la clé, une baisse observée des doubles réservations.",
+    "cloze": "avec, à la clé, une baisse",
+    "answer": "avec, à la clé, une baisse",
+    "lemma": "avec, à la clé, une baisse",
+    "meaning": "resulting in a decrease",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0860.mp3"
+  },
+  {
+    "id": "fr-05-0861",
+    "sentence": "Envoyons le lien d'essai avant la réunion afin d'en vérifier la compatibilité avec les lecteurs d'écran.",
+    "cloze": "afin d'en vérifier",
+    "answer": "afin d'en vérifier",
+    "lemma": "afin de vérifier",
+    "meaning": "in order to check its",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0861.mp3"
+  },
+  {
+    "id": "fr-05-0862",
+    "sentence": "En l'absence de réponse après deux relances, la proposition maintient une solution de remplacement jusqu'à la confirmation écrite.",
+    "cloze": "En l'absence de réponse",
+    "answer": "En l'absence de réponse",
+    "lemma": "en l'absence de réponse",
+    "meaning": "in the absence of a response",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0862.mp3"
+  },
+  {
+    "id": "fr-05-0863",
+    "sentence": "Le chantier fermerait l'unique rampe pendant une semaine et serait donc susceptible de bloquer l'accès autonome.",
+    "cloze": "serait donc susceptible de bloquer",
+    "answer": "serait donc susceptible de bloquer",
+    "lemma": "être susceptible de bloquer",
+    "meaning": "could therefore prevent",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0863.mp3"
+  },
+  {
+    "id": "fr-05-0864",
+    "sentence": "La proposition associe chaque entrée à une couleur et à un symbole de façon à faciliter l'orientation dès le parvis.",
+    "cloze": "de façon à faciliter",
+    "answer": "de façon à faciliter",
+    "lemma": "de façon à faciliter",
+    "meaning": "so as to make easier",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0864.mp3"
+  },
+  {
+    "id": "fr-05-0865",
+    "sentence": "Le temps de traitement n'a augmenté qu'après l'ajout du contrôle final ; cet allongement paraît lié à cette étape supplémentaire.",
+    "cloze": "paraît lié à",
+    "answer": "paraît lié à",
+    "lemma": "paraître lié à",
+    "meaning": "appears to be linked to",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0865.mp3"
+  },
+  {
+    "id": "fr-05-0866",
+    "sentence": "Lors des essais, les participants ont repéré plus vite les informations dans la liste réorganisée ; cette présentation peut ainsi réduire le temps de recherche.",
+    "cloze": "peut ainsi réduire",
+    "answer": "peut ainsi réduire",
+    "lemma": "pouvoir ainsi réduire",
+    "meaning": "can therefore reduce",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0866.mp3"
+  },
+  {
+    "id": "fr-05-0867",
+    "sentence": "Conservons les reçus papier pendant la transition pour que demeure disponible une preuve immédiatement consultable.",
+    "cloze": "pour que demeure disponible",
+    "answer": "pour que demeure disponible",
+    "lemma": "pour que demeurer disponible",
+    "meaning": "so that there remains available",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0867.mp3",
+    "grammar": "The present subjunctive demeure follows pour que; the subject is placed after the verb."
+  },
+  {
+    "id": "fr-05-0868",
+    "sentence": "Avant l'envoi du rappel, les absences augmentaient ; elles ont ensuite diminué pendant trois séances, et cette évolution est compatible avec un effet du rappel.",
+    "cloze": "est compatible avec un effet du",
+    "answer": "est compatible avec un effet du",
+    "lemma": "être compatible avec un effet de",
+    "meaning": "is consistent with an effect of the",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0868.mp3"
+  },
+  {
+    "id": "fr-05-0869",
+    "sentence": "Aucun appel en double n'a été reçu pendant les deux semaines d'essai ; la confirmation automatique devrait ainsi éviter les relances inutiles.",
+    "cloze": "devrait ainsi éviter",
+    "answer": "devrait ainsi éviter",
+    "lemma": "devoir ainsi éviter",
+    "meaning": "should therefore prevent",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0869.mp3"
+  },
+  {
+    "id": "fr-05-0870",
+    "sentence": "Une ligne d'assistance temporaire est prévue, destinée à maintenir l'accompagnement pendant le changement d'outil.",
+    "cloze": "destinée à maintenir",
+    "answer": "destinée à maintenir",
+    "lemma": "destiné à maintenir",
+    "meaning": "designed to maintain",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0870.mp3"
+  },
+  {
+    "id": "fr-05-0871",
+    "sentence": "Les écarts n'apparaissent que lorsque la protection est mal ajustée ; ils pourraient provenir en partie de ce mauvais réglage.",
+    "cloze": "pourraient provenir en partie de",
+    "answer": "pourraient provenir en partie de",
+    "lemma": "pouvoir provenir en partie de",
+    "meaning": "could stem in part from",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0871.mp3"
+  },
+  {
+    "id": "fr-05-0872",
+    "sentence": "Depuis la fermeture du guichet du soir, des demandes restent en attente jusqu'au lendemain ; cette mesure se traduit par une accumulation de dossiers dès l'ouverture.",
+    "cloze": "se traduit par une accumulation",
+    "answer": "se traduit par une accumulation",
+    "lemma": "se traduire par une accumulation",
+    "meaning": "results in an accumulation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0872.mp3"
+  },
+  {
+    "id": "fr-05-0873",
+    "sentence": "Le musée propose des départs échelonnés dans l'espoir de réduire l'attente observée à l'entrée lors des journées chargées.",
+    "cloze": "dans l'espoir de réduire",
+    "answer": "dans l'espoir de réduire",
+    "lemma": "dans l'espoir de réduire",
+    "meaning": "in the hope of reducing",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0873.mp3"
+  },
+  {
+    "id": "fr-05-0874",
+    "sentence": "Lors des deux permanences où un agent indiquait l'entrée accessible, aucun visiteur n'a fait demi-tour ; sa présence a donc pu faciliter l'orientation.",
+    "cloze": "a donc pu faciliter",
+    "answer": "a donc pu faciliter",
+    "lemma": "pouvoir faciliter",
+    "meaning": "may therefore have made easier",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0874.mp3"
+  },
+  {
+    "id": "fr-05-0875",
+    "sentence": "Déplacer les archives hors du site aurait pour effet d'allonger chaque consultation nécessitant un document original.",
+    "cloze": "aurait pour effet d'allonger",
+    "answer": "aurait pour effet d'allonger",
+    "lemma": "avoir pour effet d'allonger",
+    "meaning": "would have the effect of lengthening",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0875.mp3"
+  },
+  {
+    "id": "fr-05-0876",
+    "sentence": "L'équipe suggère de préremplir les informations déjà vérifiées pour limiter les doubles saisies sans masquer les champs modifiables.",
+    "cloze": "pour limiter",
+    "answer": "pour limiter",
+    "lemma": "pour limiter",
+    "meaning": "to limit",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0876.mp3"
+  },
+  {
+    "id": "fr-05-0877",
+    "sentence": "Le nouvel horaire ne laisse que cinq minutes entre deux trains alors que le changement en exige quinze ; il ne permet donc plus d'assurer la correspondance.",
+    "cloze": "ne permet donc plus d'assurer",
+    "answer": "ne permet donc plus d'assurer",
+    "lemma": "ne plus permettre d'assurer",
+    "meaning": "therefore no longer allows",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0877.mp3"
+  },
+  {
+    "id": "fr-05-0878",
+    "sentence": "La note distinguera clairement les dépenses ponctuelles des frais réguliers, le but étant de rendre le coût annuel vérifiable.",
+    "cloze": "le but étant de rendre",
+    "answer": "le but étant de rendre",
+    "lemma": "le but étant de rendre",
+    "meaning": "the aim being to make",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0878.mp3"
+  },
+  {
+    "id": "fr-05-0879",
+    "sentence": "La page emploie deux termes différents pour la même démarche, au risque que soient brouillées les consignes données au public.",
+    "cloze": "au risque que soient brouillées",
+    "answer": "au risque que soient brouillées",
+    "lemma": "au risque que",
+    "meaning": "at the risk of making unclear",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0879.mp3",
+    "grammar": "The present subjunctive follows au risque que; the passive subject is placed after the verb."
+  },
+  {
+    "id": "fr-05-0880",
+    "sentence": "Le vote serait organisé en deux temps, d'abord sur le principe puis sur les modalités, pour permettre un choix éclairé sans présenter l'accord comme acquis.",
+    "cloze": "pour permettre",
+    "answer": "pour permettre",
+    "lemma": "pour permettre",
+    "meaning": "to allow",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0880.mp3"
+  },
+  {
+    "id": "fr-05-0881",
+    "sentence": "Pour absorber vos vingt livraisons supplémentaires, nous n'accepterons l'augmentation de volume qu'à prix unitaire inchangé pendant tout le trimestre.",
+    "cloze": "qu'à prix unitaire inchangé",
+    "answer": "qu'à prix unitaire inchangé",
+    "lemma": "ne... qu'à prix inchangé",
+    "meaning": "only if the unit price remains unchanged",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0881.mp3"
+  },
+  {
+    "id": "fr-05-0882",
+    "sentence": "L'avoir réduit bien le solde ; il reste toutefois sans effet sur les frais bancaires indiqués dans ma réclamation.",
+    "cloze": "reste toutefois sans effet sur les frais bancaires",
+    "answer": "reste toutefois sans effet sur les frais bancaires",
+    "lemma": "rester toutefois sans effet sur",
+    "meaning": "nevertheless has no effect on the bank fees",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0882.mp3"
+  },
+  {
+    "id": "fr-05-0883",
+    "sentence": "L'ouverture dominicale du parc reste subordonnée au maintien de deux accès libres pour les immeubles voisins.",
+    "cloze": "subordonnée au maintien de deux accès libres",
+    "answer": "subordonnée au maintien de deux accès libres",
+    "lemma": "être subordonné à",
+    "meaning": "conditional on keeping two access routes open",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0883.mp3"
+  },
+  {
+    "id": "fr-05-0884",
+    "sentence": "Ce poste ne mérite d'être envisagé qu'avec une réelle autonomie sur les horaires, puisque c'est précisément ce que tu recherches.",
+    "cloze": "qu'avec une réelle autonomie sur les horaires",
+    "answer": "qu'avec une réelle autonomie sur les horaires",
+    "lemma": "ne... qu'avec",
+    "meaning": "only with genuine control over working hours",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0884.mp3"
+  },
+  {
+    "id": "fr-05-0885",
+    "sentence": "Le nouveau portail simplifie le dépôt ; son lancement n'en reste pas moins risqué sans une procédure de secours déjà testée.",
+    "cloze": "n'en reste pas moins risqué",
+    "answer": "n'en reste pas moins risqué",
+    "lemma": "n'en rester pas moins",
+    "meaning": "nonetheless remains risky",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0885.mp3"
+  },
+  {
+    "id": "fr-05-0886",
+    "sentence": "L'accord réduit bien les coûts ; encore faudrait-il qu'il soit assorti d'un calendrier de sortie joint au contrat.",
+    "cloze": "encore faudrait-il qu'il soit assorti",
+    "answer": "encore faudrait-il qu'il soit assorti",
+    "lemma": "encore faudrait-il que",
+    "meaning": "but it would still need to include",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0886.mp3"
+  },
+  {
+    "id": "fr-05-0887",
+    "sentence": "Pour attribuer le label, les photographies sont utiles mais insuffisantes : seule une vérification sur place permet de mesurer la largeur du passage.",
+    "cloze": "utiles mais insuffisantes",
+    "answer": "utiles mais insuffisantes",
+    "lemma": "utile mais insuffisant",
+    "meaning": "useful but insufficient",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0887.mp3"
+  },
+  {
+    "id": "fr-05-0888",
+    "sentence": "Nous pouvons remplacer l'appareil moyennant la restitution du modèle défectueux, dont le numéro figure sur votre facture.",
+    "cloze": "moyennant la restitution du modèle défectueux",
+    "answer": "moyennant la restitution du modèle défectueux",
+    "lemma": "moyennant",
+    "meaning": "provided that the defective unit is returned",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0888.mp3"
+  },
+  {
+    "id": "fr-05-0889",
+    "sentence": "En dépit d'objections motivées de riverains directement concernés, la mairie maintient la réunion de décision afin que leurs arguments soient examinés publiquement.",
+    "cloze": "En dépit d'objections motivées de riverains directement concernés",
+    "answer": "En dépit d'objections motivées de riverains directement concernés",
+    "lemma": "en dépit de",
+    "meaning": "despite reasoned objections from directly affected residents",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0889.mp3"
+  },
+  {
+    "id": "fr-05-0890",
+    "sentence": "Je viendrai t'aider à moins d'un imprévu de dernière minute, mais je te confirmerai ma présence avant que tu réserves le véhicule.",
+    "cloze": "à moins d'un imprévu de dernière minute",
+    "answer": "à moins d'un imprévu de dernière minute",
+    "lemma": "à moins de",
+    "meaning": "unless something unexpected comes up at the last minute",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0890.mp3"
+  },
+  {
+    "id": "fr-05-0891",
+    "sentence": "Dans notre proposition commerciale, l'ouverture du droit à la remise dépend non du volume commandé, mais du versement d'un acompte.",
+    "cloze": "non du volume commandé, mais du versement d'un acompte",
+    "answer": "non du volume commandé, mais du versement d'un acompte",
+    "lemma": "non... mais...",
+    "meaning": "not on the volume ordered, but on payment of a deposit",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0891.mp3"
+  },
+  {
+    "id": "fr-05-0892",
+    "sentence": "Cette conclusion ne tient que dans l'hypothèse d'une fréquentation comparable, or les relevés du samedi ont été exclus de la seconde période.",
+    "cloze": "que dans l'hypothèse d'une fréquentation comparable",
+    "answer": "que dans l'hypothèse d'une fréquentation comparable",
+    "lemma": "ne tenir que dans l'hypothèse de",
+    "meaning": "only if attendance levels are comparable",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0892.mp3"
+  },
+  {
+    "id": "fr-05-0893",
+    "sentence": "L'hôtel s'est engagé à répondre aujourd'hui ; la réservation reste néanmoins provisoire jusqu'à réception d'une confirmation écrite.",
+    "cloze": "reste néanmoins provisoire jusqu'à réception d'une confirmation écrite",
+    "answer": "reste néanmoins provisoire jusqu'à réception d'une confirmation écrite",
+    "lemma": "rester néanmoins provisoire",
+    "meaning": "nevertheless remains provisional until written confirmation is received",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0893.mp3"
+  },
+  {
+    "id": "fr-05-0894",
+    "sentence": "Le compromis présuppose l'accord explicite des commerçants sur les horaires de livraison, sans lequel la rue resterait bloquée chaque matin.",
+    "cloze": "présuppose l'accord explicite des commerçants",
+    "answer": "présuppose l'accord explicite des commerçants",
+    "lemma": "présupposer l'accord de",
+    "meaning": "presupposes the shopkeepers' explicit agreement",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0894.mp3"
+  },
+  {
+    "id": "fr-05-0895",
+    "sentence": "La colocation offre plus d'espace commun, mais aucun bureau séparé ; avec vos horaires qui se chevauchent, elle risque de mal vous convenir.",
+    "cloze": "plus d'espace commun, mais aucun bureau séparé",
+    "answer": "plus d'espace commun, mais aucun bureau séparé",
+    "lemma": "plus de... mais aucun...",
+    "meaning": "more shared space, but no separate office",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0895.mp3"
+  },
+  {
+    "id": "fr-05-0896",
+    "sentence": "Le remboursement reste possible, sauf en cas de clôture comptable déjà engagée ; le service vérifiera ce point avant de vous rappeler.",
+    "cloze": "sauf en cas de clôture comptable déjà engagée",
+    "answer": "sauf en cas de clôture comptable déjà engagée",
+    "lemma": "sauf en cas de",
+    "meaning": "unless the accounting close is already underway",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0896.mp3"
+  },
+  {
+    "id": "fr-05-0897",
+    "sentence": "La nouvelle procédure a beau être plus simple à expliquer, elle exige encore deux saisies pour chaque demande urgente.",
+    "cloze": "a beau être plus simple à expliquer",
+    "answer": "a beau être plus simple à expliquer",
+    "lemma": "avoir beau",
+    "meaning": "may be easier to explain, but",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0897.mp3"
+  },
+  {
+    "id": "fr-05-0898",
+    "sentence": "Le téléphone de prêt n'en demeure pas moins temporaire : le vôtre devra être réparé ou remplacé après le diagnostic.",
+    "cloze": "n'en demeure pas moins temporaire",
+    "answer": "n'en demeure pas moins temporaire",
+    "lemma": "n'en demeurer pas moins",
+    "meaning": "is nonetheless temporary",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0898.mp3"
+  },
+  {
+    "id": "fr-05-0899",
+    "sentence": "Le compromis se révèle moins ambitieux que prévu, mais plus respectueux des usages existants : il préserve le passage des bus et les terrasses actuelles.",
+    "cloze": "moins ambitieux que prévu, mais plus respectueux des usages existants",
+    "answer": "moins ambitieux que prévu, mais plus respectueux des usages existants",
+    "lemma": "moins... mais plus...",
+    "meaning": "less ambitious than expected, but more respectful of existing uses",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0899.mp3"
+  },
+  {
+    "id": "fr-05-0900",
+    "sentence": "Les délais sont serrés ; nous pouvons néanmoins étaler les contrôles sur deux semaines sans retarder l'ouverture.",
+    "cloze": "néanmoins étaler les contrôles sur deux semaines",
+    "answer": "néanmoins étaler les contrôles sur deux semaines",
+    "lemma": "néanmoins",
+    "meaning": "nevertheless spread the checks over two weeks",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0900.mp3"
+  },
+  {
+    "id": "fr-05-0901",
+    "sentence": "Même avec une hausse de salaire, je ne changerais pas d'avis, car le trajet quotidien resterait trop long.",
+    "cloze": "Même avec une hausse de salaire",
+    "answer": "Même avec une hausse de salaire",
+    "lemma": "même avec",
+    "meaning": "even with a pay rise",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0901.mp3"
+  },
+  {
+    "id": "fr-05-0902",
+    "sentence": "Le second essai montre une amélioration, non une disparition des défauts relevés lors du premier, puisque la reprise manuelle reste nécessaire.",
+    "cloze": "une amélioration, non une disparition des défauts",
+    "answer": "une amélioration, non une disparition des défauts",
+    "lemma": "non",
+    "meaning": "an improvement, not the disappearance of the flaws",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0902.mp3"
+  },
+  {
+    "id": "fr-05-0903",
+    "sentence": "La consultation a été brève, mais elle n'a pas pour autant privé les habitants d'un retour écrit sur chaque proposition.",
+    "cloze": "n'a pas pour autant privé",
+    "answer": "n'a pas pour autant privé",
+    "lemma": "ne pas pour autant priver de",
+    "meaning": "did not thereby deprive",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0903.mp3"
+  },
+  {
+    "id": "fr-05-0904",
+    "sentence": "En dépit d'un délai plus long, le remplacement reste acceptable, car l'appareil proposé possède toutes les fonctions convenues.",
+    "cloze": "En dépit d'un délai plus long",
+    "answer": "En dépit d'un délai plus long",
+    "lemma": "en dépit de",
+    "meaning": "despite a longer delay",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0904.mp3"
+  },
+  {
+    "id": "fr-05-0905",
+    "sentence": "Malgré la perte d'une journée, l'échéance demeure tenable sous réserve du regroupement des validations intermédiaires.",
+    "cloze": "sous réserve du regroupement des validations intermédiaires",
+    "answer": "sous réserve du regroupement des validations intermédiaires",
+    "lemma": "sous réserve de",
+    "meaning": "provided that the intermediate approvals are grouped together",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0905.mp3"
+  },
+  {
+    "id": "fr-05-0906",
+    "sentence": "Le documentaire n'en est pas moins cohérent dans son parti pris : il annonce clairement que les témoignages guident le récit.",
+    "cloze": "n'en est pas moins cohérent",
+    "answer": "n'en est pas moins cohérent",
+    "lemma": "n'en être pas moins",
+    "meaning": "is nonetheless coherent",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0906.mp3"
+  },
+  {
+    "id": "fr-05-0907",
+    "sentence": "Ton itinéraire reste judicieux moyennant deux ajustements précis : pars dix minutes plus tôt et évite la correspondance du soir.",
+    "cloze": "moyennant deux ajustements précis",
+    "answer": "moyennant deux ajustements précis",
+    "lemma": "moyennant",
+    "meaning": "provided that two specific adjustments are made",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0907.mp3"
+  },
+  {
+    "id": "fr-05-0908",
+    "sentence": "Malgré leur nombre restreint, les réponses font apparaître une convergence précise : chacun des trois quartiers signale le même obstacle d'accès.",
+    "cloze": "Malgré leur nombre restreint",
+    "answer": "Malgré leur nombre restreint",
+    "lemma": "malgré un nombre restreint",
+    "meaning": "despite their limited number",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0908.mp3"
+  },
+  {
+    "id": "fr-05-0909",
+    "sentence": "Notre désaccord porte moins sur le principe que sur le partage des risques, puisque nous acceptons tous deux une phase d'essai.",
+    "cloze": "porte moins sur le principe que sur le partage des risques",
+    "answer": "porte moins sur le principe que sur le partage des risques",
+    "lemma": "porter moins sur... que sur...",
+    "meaning": "concerns the principle less than the sharing of risk",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0909.mp3"
+  },
+  {
+    "id": "fr-05-0910",
+    "sentence": "Le rapport oppose une amélioration locale à une stabilité globale : l'accueil central traite plus vite les dossiers, tandis que le délai moyen reste inchangé.",
+    "cloze": "oppose une amélioration locale à une stabilité globale",
+    "answer": "oppose une amélioration locale à une stabilité globale",
+    "lemma": "opposer à",
+    "meaning": "contrasts a local improvement with overall stability",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0910.mp3"
+  },
+  {
+    "id": "fr-05-0911",
+    "sentence": "Ce tracé ne peut être retenu qu'avec le maintien d'une fréquence suffisante sur les liaisons périphériques, car la suppression de deux arrêts favorise déjà les trajets courts.",
+    "cloze": "qu'avec le maintien d'une fréquence suffisante sur les liaisons périphériques",
+    "answer": "qu'avec le maintien d'une fréquence suffisante sur les liaisons périphériques",
+    "lemma": "ne pouvoir être retenu qu'avec",
+    "meaning": "only if sufficient service is maintained on outlying connections",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0911.mp3"
+  },
+  {
+    "id": "fr-05-0912",
+    "sentence": "En exigeant uniquement le ticket imprimé, vous confondez la preuve d'achat avec son support papier, alors que le paiement apparaît dans mon espace client.",
+    "cloze": "confondez la preuve d'achat avec son support papier",
+    "answer": "confondez la preuve d'achat avec son support papier",
+    "lemma": "confondre avec",
+    "meaning": "are confusing proof of purchase with its paper format",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0912.mp3"
+  },
+  {
+    "id": "fr-05-0913",
+    "sentence": "Avec cet appartement, tu privilégies la proximité aux dépens du calme, puisque la chambre donne directement sur le boulevard.",
+    "cloze": "privilégies la proximité aux dépens du calme",
+    "answer": "privilégies la proximité aux dépens du calme",
+    "lemma": "privilégier aux dépens de",
+    "meaning": "are prioritizing proximity at the expense of quiet",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0913.mp3"
+  },
+  {
+    "id": "fr-05-0914",
+    "sentence": "Cette clause ne complétera réellement la garantie qu'avec le maintien d'un recours après la période d'essai ; dans sa rédaction actuelle, elle s'y substitue.",
+    "cloze": "qu'avec le maintien d'un recours après la période d'essai",
+    "answer": "qu'avec le maintien d'un recours après la période d'essai",
+    "lemma": "ne... qu'avec",
+    "meaning": "only if a remedy remains available after the trial period",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0914.mp3"
+  },
+  {
+    "id": "fr-05-0915",
+    "sentence": "La seconde méthode se distingue de la première par son suivi individualisé, chaque participant recevant un retour après l'exercice.",
+    "cloze": "se distingue de la première par son suivi individualisé",
+    "answer": "se distingue de la première par son suivi individualisé",
+    "lemma": "se distinguer de par",
+    "meaning": "differs from the first method through its individualized follow-up",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0915.mp3"
+  },
+  {
+    "id": "fr-05-0916",
+    "sentence": "Les deux consultations diffèrent moins par le taux de participation que par leur calendrier : l'une a précédé les travaux, l'autre les a suivis.",
+    "cloze": "diffèrent moins par le taux de participation que par leur calendrier",
+    "answer": "diffèrent moins par le taux de participation que par leur calendrier",
+    "lemma": "différer moins par... que par...",
+    "meaning": "differ less in participation rates than in their timing",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0916.mp3"
+  },
+  {
+    "id": "fr-05-0917",
+    "sentence": "L'avoir peut sembler avantageux ; il n'en constitue pas moins un report de la dépense, puisqu'il m'oblige à acheter de nouveau auprès de votre enseigne.",
+    "cloze": "n'en constitue pas moins un report de la dépense",
+    "answer": "n'en constitue pas moins un report de la dépense",
+    "lemma": "n'en constituer pas moins",
+    "meaning": "nonetheless amounts to postponing the expense",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0917.mp3"
+  },
+  {
+    "id": "fr-05-0918",
+    "sentence": "Ton hésitation ne vient pas d'un manque d'envie, mais de l'absence de solution de garde ; cherche d'abord si quelqu'un peut prendre le relais.",
+    "cloze": "ne vient pas d'un manque d'envie, mais de l'absence de solution de garde",
+    "answer": "ne vient pas d'un manque d'envie, mais de l'absence de solution de garde",
+    "lemma": "venir non de... mais de...",
+    "meaning": "comes not from a lack of interest but from having no childcare solution",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0918.mp3"
+  },
+  {
+    "id": "fr-05-0919",
+    "sentence": "En l'absence d'une réponse motivée sur le double prélèvement, ma contestation restera ouverte malgré votre accusé de réception.",
+    "cloze": "En l'absence d'une réponse motivée sur le double prélèvement",
+    "answer": "En l'absence d'une réponse motivée sur le double prélèvement",
+    "lemma": "en l'absence de",
+    "meaning": "unless a reasoned response is provided about the duplicate charge",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0919.mp3"
+  },
+  {
+    "id": "fr-05-0920",
+    "sentence": "Notre évaluation met en balance l'économie immédiate et la charge de suivi durable, afin que le comité tranche sur les deux effets réellement observés.",
+    "cloze": "met en balance l'économie immédiate et la charge de suivi durable",
+    "answer": "met en balance l'économie immédiate et la charge de suivi durable",
+    "lemma": "mettre en balance",
+    "meaning": "weighs the immediate saving against the lasting follow-up burden",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0920.mp3"
+  },
+  {
+    "id": "fr-05-0921",
+    "sentence": "Le rapport conclut à une baisse du temps d'attente sur les seuls créneaux effectivement observés, les soirées n'ayant pas été mesurées.",
+    "cloze": "sur les seuls créneaux effectivement observés",
+    "answer": "sur les seuls créneaux effectivement observés",
+    "lemma": "sur les seuls créneaux observés",
+    "meaning": "only during the time slots actually observed",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0921.mp3"
+  },
+  {
+    "id": "fr-05-0922",
+    "sentence": "D'après trois trajets chronométrés sur chaque parcours, leurs durées sont comparables, à quelques minutes près.",
+    "cloze": "à quelques minutes près",
+    "answer": "à quelques minutes près",
+    "lemma": "à quelques minutes près",
+    "meaning": "within a few minutes",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0922.mp3"
+  },
+  {
+    "id": "fr-05-0923",
+    "sentence": "L'analyse des retards documentés juge l'allongement pour l'essentiel imputable aux doubles saisies, les autres causes restant dispersées.",
+    "cloze": "pour l'essentiel imputable aux doubles saisies",
+    "answer": "pour l'essentiel imputable aux doubles saisies",
+    "lemma": "pour l'essentiel imputable à",
+    "meaning": "largely attributable to duplicate data entry",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0923.mp3"
+  },
+  {
+    "id": "fr-05-0924",
+    "sentence": "La comparaison porte sur la qualité des réponses, indépendamment de leur mise en page, qui varie encore d'une version à l'autre.",
+    "cloze": "indépendamment de leur mise en page",
+    "answer": "indépendamment de leur mise en page",
+    "lemma": "indépendamment de",
+    "meaning": "regardless of their formatting",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0924.mp3"
+  },
+  {
+    "id": "fr-05-0925",
+    "sentence": "Le gel des achats s'applique à toutes les commandes nouvelles, à l'exception des renouvellements déjà engagés.",
+    "cloze": "à l'exception des renouvellements déjà engagés",
+    "answer": "à l'exception des renouvellements déjà engagés",
+    "lemma": "à l'exception de",
+    "meaning": "except for renewals already under way",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0925.mp3"
+  },
+  {
+    "id": "fr-05-0926",
+    "sentence": "Le mode hors ligne fonctionne dans sa version actuellement testée, mais il reste absent de la version diffusée au public.",
+    "cloze": "dans sa version actuellement testée",
+    "answer": "dans sa version actuellement testée",
+    "lemma": "dans la version actuellement testée",
+    "meaning": "in the version currently being tested",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0926.mp3"
+  },
+  {
+    "id": "fr-05-0927",
+    "sentence": "Après un essai mené en milieu de matinée, le bilan décrit une circulation fluide, sous réserve d'un contrôle en période de pointe.",
+    "cloze": "sous réserve d'un contrôle en période de pointe",
+    "answer": "sous réserve d'un contrôle en période de pointe",
+    "lemma": "sous réserve de",
+    "meaning": "subject to a check during peak hours",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0927.mp3"
+  },
+  {
+    "id": "fr-05-0928",
+    "sentence": "Vingt-trois réponses sur quarante représentent un peu plus de la moitié des personnes interrogées, et non une adhésion générale.",
+    "cloze": "un peu plus de la moitié des personnes interrogées",
+    "answer": "un peu plus de la moitié des personnes interrogées",
+    "lemma": "un peu plus de la moitié",
+    "meaning": "slightly more than half of those surveyed",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0928.mp3"
+  },
+  {
+    "id": "fr-05-0929",
+    "sentence": "Le budget couvre l'installation et la première année d'assistance, hors coûts de migration et de formation.",
+    "cloze": "hors coûts de migration et de formation",
+    "answer": "hors coûts de migration et de formation",
+    "lemma": "hors coûts de",
+    "meaning": "excluding migration and training costs",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0929.mp3"
+  },
+  {
+    "id": "fr-05-0930",
+    "sentence": "Au vu des délais annoncés par les deux artisans, la remise en état se situe dans une fourchette de six à huit semaines.",
+    "cloze": "dans une fourchette de six à huit semaines",
+    "answer": "dans une fourchette de six à huit semaines",
+    "lemma": "dans une fourchette de",
+    "meaning": "within a range of six to eight weeks",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0930.mp3"
+  },
+  {
+    "id": "fr-05-0931",
+    "sentence": "Comme l'écart disparaît au second relevé, l'analyse y voit tout au plus un effet transitoire.",
+    "cloze": "tout au plus un effet transitoire",
+    "answer": "tout au plus un effet transitoire",
+    "lemma": "tout au plus",
+    "meaning": "at most a temporary effect",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0931.mp3"
+  },
+  {
+    "id": "fr-05-0932",
+    "sentence": "Le remboursement accéléré s'applique exclusivement aux dossiers déposés avant la fermeture ; les dépôts tardifs suivent la procédure ordinaire.",
+    "cloze": "exclusivement aux dossiers déposés avant la fermeture",
+    "answer": "exclusivement aux dossiers déposés avant la fermeture",
+    "lemma": "s'appliquer exclusivement à",
+    "meaning": "exclusively to cases submitted before closing",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0932.mp3"
+  },
+  {
+    "id": "fr-05-0933",
+    "sentence": "L'équipe estime que le nouveau guichet est plus rapide à volume de demandes comparable, sans comparer les semaines de rentrée.",
+    "cloze": "à volume de demandes comparable",
+    "answer": "à volume de demandes comparable",
+    "lemma": "à volume comparable",
+    "meaning": "when the volume of requests is comparable",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0933.mp3"
+  },
+  {
+    "id": "fr-05-0934",
+    "sentence": "Les constats sont bien étayés par les exemples ; la présentation convainc sur le diagnostic, mais pas encore sur les solutions proposées.",
+    "cloze": "sur le diagnostic, mais pas encore sur les solutions proposées",
+    "answer": "sur le diagnostic, mais pas encore sur les solutions proposées",
+    "lemma": "sur le diagnostic, pas encore sur les solutions",
+    "meaning": "on the diagnosis, but not yet on the proposed solutions",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0934.mp3"
+  },
+  {
+    "id": "fr-05-0935",
+    "sentence": "La nouvelle procédure réduit le temps de préparation, du moins pour les équipes déjà formées, qui ont mené les essais.",
+    "cloze": "du moins pour les équipes déjà formées",
+    "answer": "du moins pour les équipes déjà formées",
+    "lemma": "du moins pour",
+    "meaning": "at least for teams that are already trained",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0935.mp3"
+  },
+  {
+    "id": "fr-05-0936",
+    "sentence": "La notice décrit le parcours principal ; ses indications ne valent pas pour l'entrée latérale, encore en travaux.",
+    "cloze": "ne valent pas pour l'entrée latérale",
+    "answer": "ne valent pas pour l'entrée latérale",
+    "lemma": "ne pas valoir pour",
+    "meaning": "do not apply to the side entrance",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0936.mp3"
+  },
+  {
+    "id": "fr-05-0937",
+    "sentence": "Les résultats du tutorat sont encourageants à l'échelle de ce seul établissement, puisqu'aucun autre lycée n'a participé.",
+    "cloze": "à l'échelle de ce seul établissement",
+    "answer": "à l'échelle de ce seul établissement",
+    "lemma": "à l'échelle de",
+    "meaning": "at the level of this one institution only",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0937.mp3"
+  },
+  {
+    "id": "fr-05-0938",
+    "sentence": "Dans cette critique, le reproche porte sur l'ordre des chapitres, non sur leur contenu, jugé solide.",
+    "cloze": "sur l'ordre des chapitres, non sur leur contenu",
+    "answer": "sur l'ordre des chapitres, non sur leur contenu",
+    "lemma": "porter sur un point, non sur un autre",
+    "meaning": "on the order of the chapters, not on their content",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0938.mp3"
+  },
+  {
+    "id": "fr-05-0939",
+    "sentence": "La revue juge la brochure satisfaisante sous l'angle précis de la lisibilité ; son contenu n'a pas encore été évalué.",
+    "cloze": "sous l'angle précis de la lisibilité",
+    "answer": "sous l'angle précis de la lisibilité",
+    "lemma": "sous l'angle de",
+    "meaning": "specifically from the standpoint of readability",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0939.mp3"
+  },
+  {
+    "id": "fr-05-0940",
+    "sentence": "Le délai moyen est calculé sur les semaines complètes, jours fériés exclus, afin de conserver des périodes comparables.",
+    "cloze": "sur les semaines complètes, jours fériés exclus",
+    "answer": "sur les semaines complètes, jours fériés exclus",
+    "lemma": "jours fériés exclus",
+    "meaning": "across complete weeks, excluding public holidays",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0940.mp3"
+  },
+  {
+    "id": "fr-05-0941",
+    "sentence": "Les douze entretiens convergent sur le besoin d'un accueil humain, dans les limites de l'échantillon disponible.",
+    "cloze": "dans les limites de l'échantillon disponible",
+    "answer": "dans les limites de l'échantillon disponible",
+    "lemma": "dans les limites de",
+    "meaning": "within the limitations of the available sample",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0941.mp3"
+  },
+  {
+    "id": "fr-05-0942",
+    "sentence": "La courbe suggère une hausse régulière, présentée à titre de tendance, non de prévision, faute de données au-delà du mois en cours.",
+    "cloze": "à titre de tendance, non de prévision",
+    "answer": "à titre de tendance, non de prévision",
+    "lemma": "à titre de tendance",
+    "meaning": "as an indication of a trend, not a forecast",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0942.mp3"
+  },
+  {
+    "id": "fr-05-0943",
+    "sentence": "Le gain de productivité est établi pour les deux premiers mois d'utilisation, seule période couverte par le suivi.",
+    "cloze": "pour les deux premiers mois d'utilisation",
+    "answer": "pour les deux premiers mois d'utilisation",
+    "lemma": "pour les premiers mois d'utilisation",
+    "meaning": "for the first two months of use",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0943.mp3"
+  },
+  {
+    "id": "fr-05-0944",
+    "sentence": "La jauge reste fixée à une trentaine de personnes, équipe d'accueil comprise.",
+    "cloze": "équipe d'accueil comprise",
+    "answer": "équipe d'accueil comprise",
+    "lemma": "équipe comprise",
+    "meaning": "including the reception team",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0944.mp3"
+  },
+  {
+    "id": "fr-05-0945",
+    "sentence": "La livraison est attendue mardi, à plus ou moins un jour ouvré, selon la marge donnée par le transporteur.",
+    "cloze": "à plus ou moins un jour ouvré",
+    "answer": "à plus ou moins un jour ouvré",
+    "lemma": "à plus ou moins",
+    "meaning": "within plus or minus one working day",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0945.mp3"
+  },
+  {
+    "id": "fr-05-0946",
+    "sentence": "L'analyse compare les délais sur la base des relevés complets uniquement, et signale séparément les fiches inachevées.",
+    "cloze": "sur la base des relevés complets uniquement",
+    "answer": "sur la base des relevés complets uniquement",
+    "lemma": "sur la base de",
+    "meaning": "based solely on complete records",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0946.mp3"
+  },
+  {
+    "id": "fr-05-0947",
+    "sentence": "Sept des quarante réclamations portent sur l'adresse de livraison, soit environ un cas sur six.",
+    "cloze": "environ un cas sur six",
+    "answer": "environ un cas sur six",
+    "lemma": "environ un cas sur",
+    "meaning": "approximately one case in six",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0947.mp3"
+  },
+  {
+    "id": "fr-05-0948",
+    "sentence": "La médiathèque peut prolonger les horaires dans la limite des moyens déjà alloués, sans réduire l'accueil de jour.",
+    "cloze": "dans la limite des moyens déjà alloués",
+    "answer": "dans la limite des moyens déjà alloués",
+    "lemma": "dans la limite des moyens alloués",
+    "meaning": "within the limits of the resources already allocated",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0948.mp3"
+  },
+  {
+    "id": "fr-05-0949",
+    "sentence": "La visite commentée dure près de deux heures, pauses incluses, d'après le parcours chronométré hier.",
+    "cloze": "près de deux heures, pauses incluses",
+    "answer": "près de deux heures, pauses incluses",
+    "lemma": "près de deux heures",
+    "meaning": "nearly two hours, including breaks",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0949.mp3"
+  },
+  {
+    "id": "fr-05-0950",
+    "sentence": "Les mesures de bruit se rapportent au seul périmètre résidentiel ; la zone commerciale n'était pas équipée de capteurs.",
+    "cloze": "au seul périmètre résidentiel",
+    "answer": "au seul périmètre résidentiel",
+    "lemma": "se rapporter au seul périmètre",
+    "meaning": "to the residential area alone",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0950.mp3"
+  },
+  {
+    "id": "fr-05-0951",
+    "sentence": "Les recommandations ont été appliquées dans l'ordre prévu, à l'exception de celles portant sur l'archivage, reportées à la prochaine version.",
+    "cloze": "à l'exception de celles portant sur l'archivage",
+    "answer": "à l'exception de celles portant sur l'archivage",
+    "lemma": "à l'exception de",
+    "meaning": "except for those concerning archiving",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0951.mp3"
+  },
+  {
+    "id": "fr-05-0952",
+    "sentence": "Sur quatre-vingt-dix personnes invitées, trente et une se sont inscrites, soit une proportion voisine d'un tiers.",
+    "cloze": "une proportion voisine d'un tiers",
+    "answer": "une proportion voisine d'un tiers",
+    "lemma": "une proportion voisine de",
+    "meaning": "a proportion close to one third",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0952.mp3"
+  },
+  {
+    "id": "fr-05-0953",
+    "sentence": "L'évaluation couvre le projet jusqu'au stade de la maquette ; elle ne porte pas encore sur la fabrication.",
+    "cloze": "jusqu'au stade de la maquette",
+    "answer": "jusqu'au stade de la maquette",
+    "lemma": "jusqu'au stade de",
+    "meaning": "up to the mock-up stage",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0953.mp3"
+  },
+  {
+    "id": "fr-05-0954",
+    "sentence": "Le séjour revient à neuf cents euros, hors frais annexes encore inconnus, notamment les transferts locaux.",
+    "cloze": "hors frais annexes encore inconnus",
+    "answer": "hors frais annexes encore inconnus",
+    "lemma": "hors frais annexes",
+    "meaning": "excluding ancillary costs that are not yet known",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0954.mp3"
+  },
+  {
+    "id": "fr-05-0955",
+    "sentence": "L'aide mobile s'adresse en priorité, mais non exclusivement, aux personnes qui ne peuvent pas rester debout.",
+    "cloze": "en priorité, mais non exclusivement",
+    "answer": "en priorité, mais non exclusivement",
+    "lemma": "en priorité, mais non exclusivement",
+    "meaning": "primarily, but not exclusively",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0955.mp3"
+  },
+  {
+    "id": "fr-05-0956",
+    "sentence": "Les deux méthodes donnent des réponses également exactes ; leur différence porte uniquement sur le temps nécessaire à la vérification.",
+    "cloze": "uniquement sur le temps nécessaire à la vérification",
+    "answer": "uniquement sur le temps nécessaire à la vérification",
+    "lemma": "porter uniquement sur",
+    "meaning": "solely on the time needed for verification",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0956.mp3"
+  },
+  {
+    "id": "fr-05-0957",
+    "sentence": "La baisse annoncée concerne les demandes ordinaires, à l'exclusion des urgences traitées dans une file distincte.",
+    "cloze": "à l'exclusion des urgences traitées dans une file distincte",
+    "answer": "à l'exclusion des urgences traitées dans une file distincte",
+    "lemma": "à l'exclusion de",
+    "meaning": "excluding urgent requests handled in a separate queue",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0957.mp3"
+  },
+  {
+    "id": "fr-05-0958",
+    "sentence": "L'autonomie dépasse la journée sur les appareils ayant reçu la nouvelle version ; les autres n'ont pas été retestés.",
+    "cloze": "sur les appareils ayant reçu la nouvelle version",
+    "answer": "sur les appareils ayant reçu la nouvelle version",
+    "lemma": "sur les appareils ayant reçu",
+    "meaning": "on devices that received the new version",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0958.mp3"
+  },
+  {
+    "id": "fr-05-0959",
+    "sentence": "La fréquentation du festival demeure dans l'ensemble stable, malgré deux baisses ponctuelles lors des soirées pluvieuses.",
+    "cloze": "dans l'ensemble stable",
+    "answer": "dans l'ensemble stable",
+    "lemma": "dans l'ensemble",
+    "meaning": "stable overall",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0959.mp3"
+  },
+  {
+    "id": "fr-05-0960",
+    "sentence": "Le chiffre de cent participants constitue un repère de planification, non un engagement ferme, tant que les inscriptions restent ouvertes.",
+    "cloze": "un repère de planification, non un engagement ferme",
+    "answer": "un repère de planification, non un engagement ferme",
+    "lemma": "un repère, non un engagement",
+    "meaning": "a planning benchmark, not a firm commitment",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0960.mp3"
+  },
+  {
+    "id": "fr-05-0961",
+    "sentence": "À en juger par les notes prises pendant les visites guidées, les visiteurs comprennent mieux le parcours quand les salles sont annoncées dans l'ordre.",
+    "cloze": "À en juger par les notes prises pendant les visites guidées",
+    "answer": "À en juger par les notes prises pendant les visites guidées",
+    "lemma": "à en juger par",
+    "meaning": "judging from the notes taken during the guided tours",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0961.mp3"
+  },
+  {
+    "id": "fr-05-0962",
+    "sentence": "Une difficulté récurrente à repérer l'entrée accessible ressort nettement des échanges consignés.",
+    "cloze": "ressort nettement des échanges consignés",
+    "answer": "ressort nettement des échanges consignés",
+    "lemma": "ressortir de",
+    "meaning": "clearly emerges from the recorded discussions",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0962.mp3"
+  },
+  {
+    "id": "fr-05-0963",
+    "sentence": "Les messages lus à l'antenne donnent toutefois une image partielle : le nouvel horaire convient aux salariés, mais moins aux parents de jeunes enfants.",
+    "cloze": "donnent toutefois une image partielle",
+    "answer": "donnent toutefois une image partielle",
+    "lemma": "donner une image partielle",
+    "meaning": "give only a partial picture",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0963.mp3"
+  },
+  {
+    "id": "fr-05-0964",
+    "sentence": "La chroniqueuse présente cette sobriété comme un choix de mise en scène plutôt que comme un manque de moyens.",
+    "cloze": "présente cette sobriété comme un choix de mise en scène",
+    "answer": "présente cette sobriété comme un choix de mise en scène",
+    "lemma": "présenter comme",
+    "meaning": "presents this restraint as a staging choice",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0964.mp3"
+  },
+  {
+    "id": "fr-05-0965",
+    "sentence": "Dans son explication, l'enseignante attribue avec prudence le contraste observé à la différence entre lecture silencieuse et lecture à voix haute.",
+    "cloze": "attribue avec prudence le contraste observé à",
+    "answer": "attribue avec prudence le contraste observé à",
+    "lemma": "attribuer avec prudence à",
+    "meaning": "cautiously attributes the observed contrast to",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0965.mp3"
+  },
+  {
+    "id": "fr-05-0966",
+    "sentence": "Les copies anonymisées semblent confirmer l'avantage de l'exemple placé en tête sur celui ajouté en conclusion.",
+    "cloze": "semblent confirmer l'avantage de l'exemple placé en tête",
+    "answer": "semblent confirmer l'avantage de l'exemple placé en tête",
+    "lemma": "sembler confirmer",
+    "meaning": "appear to confirm the advantage of the opening example",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0966.mp3"
+  },
+  {
+    "id": "fr-05-0967",
+    "sentence": "L'étude de cas décrite pendant le cours ne permet d'inférer qu'un rôle probable de l'accompagnement initial, sans exclure celui de l'outil.",
+    "cloze": "ne permet d'inférer qu'un rôle probable de l'accompagnement initial",
+    "answer": "ne permet d'inférer qu'un rôle probable de l'accompagnement initial",
+    "lemma": "ne permettre d'inférer que",
+    "meaning": "supports inferring only a probable role for the initial guidance",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0967.mp3"
+  },
+  {
+    "id": "fr-05-0968",
+    "sentence": "Dans leurs réserves, les relecteurs estiment la conclusion plus générale que les exemples effectivement analysés.",
+    "cloze": "estiment la conclusion plus générale",
+    "answer": "estiment la conclusion plus générale",
+    "lemma": "estimer plus général",
+    "meaning": "consider the conclusion broader",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0968.mp3"
+  },
+  {
+    "id": "fr-05-0969",
+    "sentence": "Le rapport interne ne fait état que d'une baisse des appels le matin et ne se prononce pas sur le reste de la journée.",
+    "cloze": "ne fait état que d'une baisse des appels le matin",
+    "answer": "ne fait état que d'une baisse des appels le matin",
+    "lemma": "ne faire état que de",
+    "meaning": "reports only a drop in morning calls",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0969.mp3"
+  },
+  {
+    "id": "fr-05-0970",
+    "sentence": "Faute de recul au-delà des premières semaines, la synthèse des réponses n'étaye que l'hypothèse d'un effet temporaire.",
+    "cloze": "n'étaye que l'hypothèse d'un effet temporaire",
+    "answer": "n'étaye que l'hypothèse d'un effet temporaire",
+    "lemma": "n'étayer que l'hypothèse de",
+    "meaning": "supports only the hypothesis of a temporary effect",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0970.mp3"
+  },
+  {
+    "id": "fr-05-0971",
+    "sentence": "Selon les relevés projetés pendant la présentation, les files se forment surtout juste avant l'ouverture des guichets.",
+    "cloze": "Selon les relevés projetés pendant la présentation",
+    "answer": "Selon les relevés projetés pendant la présentation",
+    "lemma": "selon les relevés",
+    "meaning": "according to the readings shown during the presentation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0971.mp3"
+  },
+  {
+    "id": "fr-05-0972",
+    "sentence": "La personne chargée du bilan dit avoir relevé moins d'erreurs après l'ajout d'une relecture croisée.",
+    "cloze": "dit avoir relevé moins d'erreurs",
+    "answer": "dit avoir relevé moins d'erreurs",
+    "lemma": "dire avoir relevé",
+    "meaning": "says they observed fewer errors",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0972.mp3"
+  },
+  {
+    "id": "fr-05-0973",
+    "sentence": "Après le déplacement du bureau d'information, l'accueil s'est amélioré ; l'intervenant y voit la cause la plus plausible de ce changement.",
+    "cloze": "y voit la cause la plus plausible",
+    "answer": "y voit la cause la plus plausible",
+    "lemma": "voir en quelque chose la cause",
+    "meaning": "sees it as the most plausible cause",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0973.mp3"
+  },
+  {
+    "id": "fr-05-0974",
+    "sentence": "La conférencière avance l'hypothèse d'un effet du nouveau revêtement sur la baisse du bruit, sans le tenir pour acquis.",
+    "cloze": "avance l'hypothèse d'un effet du nouveau revêtement",
+    "answer": "avance l'hypothèse d'un effet du nouveau revêtement",
+    "lemma": "avancer l'hypothèse de",
+    "meaning": "puts forward the hypothesis of an effect from the new flooring",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0974.mp3"
+  },
+  {
+    "id": "fr-05-0975",
+    "sentence": "Le support de présentation fait état d'une amélioration de la ponctualité, mais limite explicitement ce constat aux trajets effectués en journée.",
+    "cloze": "limite explicitement ce constat aux trajets effectués en journée",
+    "answer": "limite explicitement ce constat aux trajets effectués en journée",
+    "lemma": "limiter un constat à",
+    "meaning": "explicitly limits this finding to daytime journeys",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0975.mp3"
+  },
+  {
+    "id": "fr-05-0976",
+    "sentence": "L'oratrice reconnaît manquer de recul sur le maintien de l'effet lorsque les groupes seront plus nombreux.",
+    "cloze": "reconnaît manquer de recul sur le maintien de l'effet",
+    "answer": "reconnaît manquer de recul sur le maintien de l'effet",
+    "lemma": "reconnaître manquer de recul",
+    "meaning": "acknowledges lacking perspective on whether the effect will last",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0976.mp3"
+  },
+  {
+    "id": "fr-05-0977",
+    "sentence": "Dans son analyse, l'experte relève que les retards touchent surtout les dossiers incomplets et circonscrit son diagnostic à ce seul cas de figure.",
+    "cloze": "circonscrit son diagnostic à ce seul cas de figure",
+    "answer": "circonscrit son diagnostic à ce seul cas de figure",
+    "lemma": "circonscrire un diagnostic à",
+    "meaning": "confines her assessment to that situation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0977.mp3"
+  },
+  {
+    "id": "fr-05-0978",
+    "sentence": "Dans sa conclusion, le rapporteur juge probable un déplacement des demandes vers les permanences du soir.",
+    "cloze": "juge probable un déplacement des demandes",
+    "answer": "juge probable un déplacement des demandes",
+    "lemma": "juger probable",
+    "meaning": "considers a shift in requests probable",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0978.mp3"
+  },
+  {
+    "id": "fr-05-0979",
+    "sentence": "Le bilan présenté en séance n'établit aucun lien entre le nouvel affichage et la baisse des réclamations.",
+    "cloze": "n'établit aucun lien",
+    "answer": "n'établit aucun lien",
+    "lemma": "n'établir aucun lien entre",
+    "meaning": "establishes no link",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0979.mp3"
+  },
+  {
+    "id": "fr-05-0980",
+    "sentence": "La démonstration publique ne vaut que comme indice de la possibilité de consulter un dossier hors ligne, mais non de le modifier.",
+    "cloze": "ne vaut que comme indice",
+    "answer": "ne vaut que comme indice",
+    "lemma": "ne valoir que comme indice",
+    "meaning": "counts only as an indication",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0980.mp3"
+  },
+  {
+    "id": "fr-05-0981",
+    "sentence": "Dans la critique, la clarté du propos est donnée comme le principal mérite de la pièce, malgré une dernière partie jugée trop longue.",
+    "cloze": "est donnée comme le principal mérite de la pièce",
+    "answer": "est donnée comme le principal mérite de la pièce",
+    "lemma": "être donné comme",
+    "meaning": "is presented as the play's main strength",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0981.mp3"
+  },
+  {
+    "id": "fr-05-0982",
+    "sentence": "L'auteur de la recension juge pour sa part l'évolution du personnage crédible malgré quelques raccourcis.",
+    "cloze": "juge pour sa part l'évolution du personnage crédible",
+    "answer": "juge pour sa part l'évolution du personnage crédible",
+    "lemma": "juger pour sa part",
+    "meaning": "for their part, finds the character's development credible",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0982.mp3"
+  },
+  {
+    "id": "fr-05-0983",
+    "sentence": "La notice de l'exposition retient l'usage des objets comme critère de regroupement, plutôt que leur époque.",
+    "cloze": "retient l'usage des objets comme critère",
+    "answer": "retient l'usage des objets comme critère",
+    "lemma": "retenir comme critère",
+    "meaning": "uses the objects' function as its criterion",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0983.mp3"
+  },
+  {
+    "id": "fr-05-0984",
+    "sentence": "La revue de presse dégage l'image d'un accueil partagé : plusieurs articles admirent les images, tandis que d'autres regrettent le rythme.",
+    "cloze": "dégage l'image d'un accueil partagé",
+    "answer": "dégage l'image d'un accueil partagé",
+    "lemma": "dégager l'image de",
+    "meaning": "conveys an overall picture of mixed reception",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0984.mp3"
+  },
+  {
+    "id": "fr-05-0985",
+    "sentence": "La chronique suspend son jugement sur la dernière scène, dont elle tient le sens pour volontairement ouvert.",
+    "cloze": "suspend son jugement sur la dernière scène",
+    "answer": "suspend son jugement sur la dernière scène",
+    "lemma": "suspendre son jugement sur",
+    "meaning": "withholds judgment on the final scene",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0985.mp3"
+  },
+  {
+    "id": "fr-05-0986",
+    "sentence": "Le compte rendu de lecture n'avance qu'une hypothèse explicative : le changement de narrateur éclairerait certains écarts sans tous les résoudre.",
+    "cloze": "n'avance qu'une hypothèse explicative",
+    "answer": "n'avance qu'une hypothèse explicative",
+    "lemma": "n'avancer qu'une hypothèse",
+    "meaning": "puts forward only an explanatory hypothesis",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0986.mp3"
+  },
+  {
+    "id": "fr-05-0987",
+    "sentence": "Aux yeux de la critique, le décor crée une proximité bienvenue, au prix d'une moindre lisibilité dans les scènes collectives.",
+    "cloze": "Aux yeux de la critique",
+    "answer": "Aux yeux de la critique",
+    "lemma": "aux yeux de",
+    "meaning": "in the critic's view",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0987.mp3"
+  },
+  {
+    "id": "fr-05-0988",
+    "sentence": "Le comparatif publié par la rédaction conclut à une meilleure lisibilité sur petit écran, tout en relevant une navigation plus lente.",
+    "cloze": "conclut à une meilleure lisibilité sur petit écran",
+    "answer": "conclut à une meilleure lisibilité sur petit écran",
+    "lemma": "conclure à",
+    "meaning": "concludes that readability is better on a small screen",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0988.mp3"
+  },
+  {
+    "id": "fr-05-0989",
+    "sentence": "La recension qualifie la réussite d'inégale : elle la juge convaincante dans les dialogues, mais moins dans les transitions.",
+    "cloze": "qualifie la réussite d'inégale",
+    "answer": "qualifie la réussite d'inégale",
+    "lemma": "qualifier d'inégal",
+    "meaning": "describes the result as uneven",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0989.mp3"
+  },
+  {
+    "id": "fr-05-0990",
+    "sentence": "Le billet signé par la commissaire reconnaît expressément une limite : les œuvres les plus fragiles ne peuvent être montrées en pleine lumière.",
+    "cloze": "reconnaît expressément une limite",
+    "answer": "reconnaît expressément une limite",
+    "lemma": "reconnaître expressément une limite",
+    "meaning": "explicitly acknowledges a limitation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0990.mp3"
+  },
+  {
+    "id": "fr-05-0991",
+    "sentence": "À s'en tenir aux témoignages repris dans le podcast, l'entraide s'est d'abord organisée entre voisins d'un même immeuble.",
+    "cloze": "À s'en tenir aux témoignages repris dans le podcast",
+    "answer": "À s'en tenir aux témoignages repris dans le podcast",
+    "lemma": "à s'en tenir à",
+    "meaning": "judging solely by the accounts included in the podcast",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0991.mp3"
+  },
+  {
+    "id": "fr-05-0992",
+    "sentence": "Le journaliste constate la reprise des activités du soir, mais ne la tient pas encore pour durable, faute de recul.",
+    "cloze": "ne la tient pas encore pour durable",
+    "answer": "ne la tient pas encore pour durable",
+    "lemma": "ne pas tenir pour durable",
+    "meaning": "does not yet regard it as lasting",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0992.mp3"
+  },
+  {
+    "id": "fr-05-0993",
+    "sentence": "La réouverture de l'accès secondaire avait été annoncée pendant la réunion, mais la correspondante dit ne pas avoir pu la confirmer.",
+    "cloze": "dit ne pas avoir pu la confirmer",
+    "answer": "dit ne pas avoir pu la confirmer",
+    "lemma": "dire ne pas avoir pu confirmer",
+    "meaning": "says she was unable to confirm it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0993.mp3"
+  },
+  {
+    "id": "fr-05-0994",
+    "sentence": "Les propos d'habitants recueillis dans l'épisode font ressortir une préférence nette : des réunions plus courtes et plus fréquentes.",
+    "cloze": "font ressortir une préférence nette",
+    "answer": "font ressortir une préférence nette",
+    "lemma": "faire ressortir une préférence",
+    "meaning": "bring out a clear preference",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0994.mp3"
+  },
+  {
+    "id": "fr-05-0995",
+    "sentence": "À entendre les deux intervenantes, leur désaccord porte sur le rythme de mise en œuvre plutôt que sur l'objectif.",
+    "cloze": "À entendre les deux intervenantes",
+    "answer": "À entendre les deux intervenantes",
+    "lemma": "à entendre",
+    "meaning": "judging by the two speakers' remarks",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0995.mp3"
+  },
+  {
+    "id": "fr-05-0996",
+    "sentence": "Le présentateur interprète leur échange comme un accord sur le maintien d'un accueil en personne pendant la transition.",
+    "cloze": "interprète leur échange comme un accord",
+    "answer": "interprète leur échange comme un accord",
+    "lemma": "interpréter comme un accord",
+    "meaning": "interprets their exchange as an agreement",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0996.mp3"
+  },
+  {
+    "id": "fr-05-0997",
+    "sentence": "La dépêche ne présente que comme provisoire le retour à une circulation normale autour du chantier.",
+    "cloze": "ne présente que comme provisoire",
+    "answer": "ne présente que comme provisoire",
+    "lemma": "ne présenter que comme provisoire",
+    "meaning": "presents as merely provisional",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0997.mp3"
+  },
+  {
+    "id": "fr-05-0998",
+    "sentence": "Le reportage s'en tient au constat d'une fréquentation plus régulière depuis l'extension des horaires, sans en proposer d'explication.",
+    "cloze": "s'en tient au constat d'une fréquentation plus régulière",
+    "answer": "s'en tient au constat d'une fréquentation plus régulière",
+    "lemma": "s'en tenir au constat de",
+    "meaning": "confines itself to noting more regular attendance",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0998.mp3"
+  },
+  {
+    "id": "fr-05-0999",
+    "sentence": "La rubrique locale relaie l'hypothèse sans la faire sienne : le marché serait déplacé vers la place couverte.",
+    "cloze": "relaie l'hypothèse sans la faire sienne",
+    "answer": "relaie l'hypothèse sans la faire sienne",
+    "lemma": "relayer sans faire sien",
+    "meaning": "relays the hypothesis without endorsing it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-0999.mp3"
+  },
+  {
+    "id": "fr-05-1000",
+    "sentence": "Après l'entretien, le résumé évoque le maintien de l'accès au service une fois l'essai terminé, mais laisse explicitement la question sans réponse.",
+    "cloze": "laisse explicitement la question sans réponse",
+    "answer": "laisse explicitement la question sans réponse",
+    "lemma": "laisser une question sans réponse",
+    "meaning": "explicitly leaves the question unanswered",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1000.mp3"
+  },
+  {
+    "id": "fr-05-1001",
+    "sentence": "En précisant que ses résultats ne concernent que les adultes déjà inscrits, la chercheuse donne à sa conclusion une portée limitée à ce public.",
+    "cloze": "une portée limitée à ce public",
+    "answer": "une portée limitée à ce public",
+    "lemma": "limiter la portée à",
+    "meaning": "a scope limited to this group",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1001.mp3"
+  },
+  {
+    "id": "fr-05-1002",
+    "sentence": "En réunion de projet, le responsable dit qu'une phase pilote pourrait améliorer la coordination, sans certitude de résultat : il évoque ainsi une amélioration envisageable plutôt qu'un résultat acquis.",
+    "cloze": "une amélioration envisageable plutôt qu'un résultat acquis",
+    "answer": "une amélioration envisageable plutôt qu'un résultat acquis",
+    "lemma": "envisager plutôt que tenir pour acquis",
+    "meaning": "a possible improvement rather than an established result",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1002.mp3"
+  },
+  {
+    "id": "fr-05-1003",
+    "sentence": "Visuellement réussi mais trop dispersé dans son récit : tel est l'avis de la chroniqueuse, qui salue les images mais regrette le manque d'unité.",
+    "cloze": "salue les images mais regrette le manque d'unité",
+    "answer": "salue les images mais regrette le manque d'unité",
+    "lemma": "saluer mais regretter",
+    "meaning": "praises the visuals but regrets the lack of unity",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1003.mp3"
+  },
+  {
+    "id": "fr-05-1004",
+    "sentence": "À la réunion publique, la riveraine accepte le réaménagement seulement si l'accès aux commerces est maintenu : elle ne donne donc son accord qu'à cette condition.",
+    "cloze": "ne donne donc son accord qu'à cette condition",
+    "answer": "ne donne donc son accord qu'à cette condition",
+    "lemma": "ne donner son accord qu'à une condition",
+    "meaning": "agrees only on that condition",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1004.mp3"
+  },
+  {
+    "id": "fr-05-1005",
+    "sentence": "Pour la directrice, le retard vient surtout d'une validation tardive, même si d'autres causes restent possibles : elle privilégie donc cette explication sans écarter les autres.",
+    "cloze": "privilégie donc cette explication sans écarter les autres",
+    "answer": "privilégie donc cette explication sans écarter les autres",
+    "lemma": "privilégier sans écarter",
+    "meaning": "prioritizes this explanation without ruling out the others",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1005.mp3"
+  },
+  {
+    "id": "fr-05-1006",
+    "sentence": "Parce qu'il ne conteste pas la méthode tout en demandant un exposé plus clair de ses limites, l'évaluateur exprime un accord de principe assorti d'une demande de clarification.",
+    "cloze": "un accord de principe assorti d'une demande de clarification",
+    "answer": "un accord de principe assorti d'une demande de clarification",
+    "lemma": "accord de principe assorti d'une demande",
+    "meaning": "agreement in principle combined with a request for clarification",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1006.mp3"
+  },
+  {
+    "id": "fr-05-1007",
+    "sentence": "En précisant que la gratuité sera étudiée mais qu'aucune décision n'est prise, l'élue laisse l'option ouverte sans prendre d'engagement.",
+    "cloze": "laisse l'option ouverte sans prendre d'engagement",
+    "answer": "laisse l'option ouverte sans prendre d'engagement",
+    "lemma": "laisser une option ouverte sans engagement",
+    "meaning": "keeps the option open without committing to it",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1007.mp3"
+  },
+  {
+    "id": "fr-05-1008",
+    "sentence": "Une collègue estime que deux jours de télétravail sont envisageables si la permanence reste assurée : elle subordonne donc cette souplesse au maintien de l'accueil.",
+    "cloze": "subordonne donc cette souplesse au maintien de l'accueil",
+    "answer": "subordonne donc cette souplesse au maintien de l'accueil",
+    "lemma": "subordonner une souplesse au maintien de l'accueil",
+    "meaning": "makes this flexibility conditional on maintaining the service desk",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1008.mp3"
+  },
+  {
+    "id": "fr-05-1009",
+    "sentence": "À la soutenance, le doctorant dit que les données suggèrent une tendance sans prouver de relation : il y voit donc un indice, pas un lien établi.",
+    "cloze": "un indice, pas un lien établi",
+    "answer": "un indice, pas un lien établi",
+    "lemma": "indice, pas lien établi",
+    "meaning": "an indication, not an established link",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1009.mp3"
+  },
+  {
+    "id": "fr-05-1010",
+    "sentence": "Le trajet est plus simple, reconnaît l'usagère, mais il reste difficile aux heures de pointe : un gain réel qui ne fait pas disparaître la difficulté.",
+    "cloze": "un gain réel qui ne fait pas disparaître la difficulté",
+    "answer": "un gain réel qui ne fait pas disparaître la difficulté",
+    "lemma": "gain qui ne supprime pas la difficulté",
+    "meaning": "a real improvement that does not eliminate the difficulty",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1010.mp3"
+  },
+  {
+    "id": "fr-05-1011",
+    "sentence": "La rédactrice, qui juge le titre exact mais trop affirmatif au regard de l'article, demande d'en atténuer le ton sans en modifier le fond.",
+    "cloze": "d'en atténuer le ton sans en modifier le fond",
+    "answer": "d'en atténuer le ton sans en modifier le fond",
+    "lemma": "atténuer le ton sans modifier le fond",
+    "meaning": "to soften its tone without changing its substance",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1011.mp3"
+  },
+  {
+    "id": "fr-05-1012",
+    "sentence": "En séminaire, le professeur avance que l'absence de réponse peut signaler une hésitation sans la prouver : il la présente donc comme un indice possible, non comme une preuve.",
+    "cloze": "comme un indice possible, non comme une preuve",
+    "answer": "comme un indice possible, non comme une preuve",
+    "lemma": "indice possible, non preuve",
+    "meaning": "as a possible indication rather than proof",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1012.mp3"
+  },
+  {
+    "id": "fr-05-1013",
+    "sentence": "L'auditrice précise qu'elle n'a constaté le respect de la procédure que dans les cas contrôlés : son bilan ne vaut donc que pour les dossiers examinés.",
+    "cloze": "ne vaut donc que pour les dossiers examinés",
+    "answer": "ne vaut donc que pour les dossiers examinés",
+    "lemma": "ne valoir que pour",
+    "meaning": "applies only to the files examined",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1013.mp3"
+  },
+  {
+    "id": "fr-05-1014",
+    "sentence": "Le critique juge l'adaptation fidèle à l'intrigue, mais moins nuancée que le roman : à ses yeux, elle respecte la trame sans retrouver toute la finesse du roman.",
+    "cloze": "respecte la trame sans retrouver toute la finesse du roman",
+    "answer": "respecte la trame sans retrouver toute la finesse du roman",
+    "lemma": "respecter la trame sans en retrouver toute la finesse",
+    "meaning": "preserves the plot without capturing all the novel's subtlety",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1014.mp3"
+  },
+  {
+    "id": "fr-05-1015",
+    "sentence": "Au conseil municipal, le maire adjoint n'annonce un début des travaux à l'automne que si le financement est confirmé, ce qui subordonne le calendrier à la confirmation des crédits.",
+    "cloze": "subordonne le calendrier à la confirmation des crédits",
+    "answer": "subordonne le calendrier à la confirmation des crédits",
+    "lemma": "subordonner à",
+    "meaning": "makes the schedule conditional on confirmation of the funding",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1015.mp3"
+  },
+  {
+    "id": "fr-05-1016",
+    "sentence": "La chaleur reste, selon l'ingénieure, l'explication la plus plausible avant les derniers essais : elle la retient donc comme hypothèse, pas comme cause établie.",
+    "cloze": "comme hypothèse, pas comme cause établie",
+    "answer": "comme hypothèse, pas comme cause établie",
+    "lemma": "retenir comme hypothèse, pas comme cause",
+    "meaning": "as a hypothesis rather than an established cause",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1016.mp3"
+  },
+  {
+    "id": "fr-05-1017",
+    "sentence": "En acceptant le principe de la nouvelle organisation pourvu que les horaires ne s'alourdissent pas, le représentant précise que son accord reste donc subordonné à cette exigence.",
+    "cloze": "reste donc subordonné à cette exigence",
+    "answer": "reste donc subordonné à cette exigence",
+    "lemma": "rester subordonné à une exigence",
+    "meaning": "remains conditional on this requirement",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1017.mp3"
+  },
+  {
+    "id": "fr-05-1018",
+    "sentence": "Ce que l'intervenante observe concerne les échanges écrits, pas les réunions : son constat ne porte donc que sur les échanges par écrit.",
+    "cloze": "ne porte donc que sur les échanges par écrit",
+    "answer": "ne porte donc que sur les échanges par écrit",
+    "lemma": "ne porter que sur",
+    "meaning": "applies only to written exchanges",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1018.mp3"
+  },
+  {
+    "id": "fr-05-1019",
+    "sentence": "L'outil a facilité le suivi sans réduire la charge globale, estime la cheffe de projet, qui distingue le gain de visibilité d'une baisse du travail.",
+    "cloze": "distingue le gain de visibilité d'une baisse du travail",
+    "answer": "distingue le gain de visibilité d'une baisse du travail",
+    "lemma": "distinguer de",
+    "meaning": "distinguishes improved visibility from reduced workload",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1019.mp3"
+  },
+  {
+    "id": "fr-05-1020",
+    "sentence": "À la radio, quand la réalisatrice explique avoir voulu laisser la fin ouverte plutôt que résoudre le conflit, la journaliste y voit un choix délibéré de laisser l'issue en suspens.",
+    "cloze": "un choix délibéré de laisser l'issue en suspens",
+    "answer": "un choix délibéré de laisser l'issue en suspens",
+    "lemma": "laisser délibérément en suspens",
+    "meaning": "a deliberate choice to leave the outcome unresolved",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1020.mp3"
+  },
+  {
+    "id": "fr-05-1021",
+    "sentence": "Au comité d'éthique, une membre demande que l'examen du dispositif soit confié à un tiers, sans en réclamer l'abandon : elle préconise ainsi une vérification indépendante plutôt qu'un retrait.",
+    "cloze": "une vérification indépendante plutôt qu'un retrait",
+    "answer": "une vérification indépendante plutôt qu'un retrait",
+    "lemma": "vérification indépendante plutôt que retrait",
+    "meaning": "an independent review rather than withdrawal",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1021.mp3"
+  },
+  {
+    "id": "fr-05-1022",
+    "sentence": "Le trésorier estime l'économie annuelle plausible si les frais de maintenance sont inclus : son évaluation porte sur un gain possible, à condition d'y intégrer ces coûts.",
+    "cloze": "un gain possible, à condition d'y intégrer ces coûts",
+    "answer": "un gain possible, à condition d'y intégrer ces coûts",
+    "lemma": "gain possible à condition de",
+    "meaning": "a possible saving provided these costs are included",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1022.mp3"
+  },
+  {
+    "id": "fr-05-1023",
+    "sentence": "La directrice de mémoire trouve l'argument pertinent mais trop général pour les exemples présentés : elle en reconnaît donc l'intérêt, tout en jugeant sa portée excessive.",
+    "cloze": "en reconnaît donc l'intérêt, tout en jugeant sa portée excessive",
+    "answer": "en reconnaît donc l'intérêt, tout en jugeant sa portée excessive",
+    "lemma": "reconnaître l'intérêt tout en jugeant la portée excessive",
+    "meaning": "acknowledges its value while judging its scope excessive",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1023.mp3"
+  },
+  {
+    "id": "fr-05-1024",
+    "sentence": "Le correspondant signale une reprise des trains, mais pas un retour complet à la normale, nuance que le résumé respecte lorsqu'il évoque une amélioration encore partielle.",
+    "cloze": "évoque une amélioration encore partielle",
+    "answer": "évoque une amélioration encore partielle",
+    "lemma": "évoquer une amélioration partielle",
+    "meaning": "describes an improvement that remains partial",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1024.mp3"
+  },
+  {
+    "id": "fr-05-1025",
+    "sentence": "Le nouveau créneau devrait, selon la responsable d'accueil, réduire l'attente des personnes déjà inscrites : elle en attend donc un bénéfice probable, mais limité aux personnes inscrites.",
+    "cloze": "un bénéfice probable, mais limité aux personnes inscrites",
+    "answer": "un bénéfice probable, mais limité aux personnes inscrites",
+    "lemma": "bénéfice probable limité à",
+    "meaning": "a probable benefit limited to registered users",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1025.mp3"
+  },
+  {
+    "id": "fr-05-1026",
+    "sentence": "Le fournisseur accepte de remplacer les pièces défectueuses, mais refuse de payer la pose, ce qui ramène sa concession à un remplacement sans prise en charge de l'installation.",
+    "cloze": "un remplacement sans prise en charge de l'installation",
+    "answer": "un remplacement sans prise en charge de l'installation",
+    "lemma": "remplacement sans prise en charge de la pose",
+    "meaning": "replacement without coverage of installation costs",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1026.mp3"
+  },
+  {
+    "id": "fr-05-1027",
+    "sentence": "Dans son analyse, l'autrice attribue à la comparaison, qui éclaire les écarts sans en expliquer l'origine, une fonction descriptive plutôt qu'explicative.",
+    "cloze": "une fonction descriptive plutôt qu'explicative",
+    "answer": "une fonction descriptive plutôt qu'explicative",
+    "lemma": "fonction descriptive plutôt qu'explicative",
+    "meaning": "a descriptive rather than explanatory function",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1027.mp3"
+  },
+  {
+    "id": "fr-05-1028",
+    "sentence": "Lors de la présentation du festival, la programmatrice estime que le documentaire mérite d'être montré malgré quelques longueurs : elle le recommande donc tout en émettant une réserve sur le rythme.",
+    "cloze": "le recommande donc tout en émettant une réserve sur le rythme",
+    "answer": "le recommande donc tout en émettant une réserve sur le rythme",
+    "lemma": "recommander tout en émettant une réserve",
+    "meaning": "recommends it while expressing a reservation about its pacing",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1028.mp3"
+  },
+  {
+    "id": "fr-05-1029",
+    "sentence": "Au conseil d'école, le parent élu refuse que l'outil numérique remplace les cours : il le présente comme un complément aux cours, jamais comme leur remplacement.",
+    "cloze": "comme un complément aux cours, jamais comme leur remplacement",
+    "answer": "comme un complément aux cours, jamais comme leur remplacement",
+    "lemma": "complément, non remplacement",
+    "meaning": "as a complement to lessons, never as their replacement",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1029.mp3"
+  },
+  {
+    "id": "fr-05-1030",
+    "sentence": "Praticable avec assistance, mais pas en autonomie : pour la participante, l'entrée latérale est accessible uniquement avec un accompagnement.",
+    "cloze": "accessible uniquement avec un accompagnement",
+    "answer": "accessible uniquement avec un accompagnement",
+    "lemma": "accessible uniquement avec accompagnement",
+    "meaning": "accessible only with assistance",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1030.mp3"
+  },
+  {
+    "id": "fr-05-1031",
+    "sentence": "Les chiffres sont exacts, mais la conclusion qu'on en tire ne convainc pas le journaliste, qui ne reprend pas à son compte cette lecture des données.",
+    "cloze": "ne reprend pas à son compte cette lecture des données",
+    "answer": "ne reprend pas à son compte cette lecture des données",
+    "lemma": "ne pas reprendre à son compte",
+    "meaning": "does not endorse this interpretation of the data",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1031.mp3"
+  },
+  {
+    "id": "fr-05-1032",
+    "sentence": "Pour la commanditaire, le prototype répond aux besoins essentiels, mais n'est pas prêt pour un déploiement général, ce qui en fait une solution fonctionnelle à ce stade, non généralisable.",
+    "cloze": "une solution fonctionnelle à ce stade, non généralisable",
+    "answer": "une solution fonctionnelle à ce stade, non généralisable",
+    "lemma": "fonctionnel mais non généralisable",
+    "meaning": "a currently functional solution not suitable for general rollout",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1032.mp3"
+  },
+  {
+    "id": "fr-05-1033",
+    "sentence": "En jugeant la corrélation digne d'examen tout en refusant d'y voir déjà une cause, le chercheur estime qu'elle mérite d'être explorée sans être tenue pour une explication.",
+    "cloze": "mérite d'être explorée sans être tenue pour une explication",
+    "answer": "mérite d'être explorée sans être tenue pour une explication",
+    "lemma": "mériter d'être exploré sans être tenu pour une explication",
+    "meaning": "deserves further examination without being treated as an explanation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1033.mp3"
+  },
+  {
+    "id": "fr-05-1034",
+    "sentence": "Dans son reportage local, la journaliste précise que la hausse annoncée par l'association ne concerne que le week-end : elle en tire donc un bilan limité aux samedis et dimanches.",
+    "cloze": "un bilan limité aux samedis et dimanches",
+    "answer": "un bilan limité aux samedis et dimanches",
+    "lemma": "bilan limité à",
+    "meaning": "a report limited to Saturdays and Sundays",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1034.mp3"
+  },
+  {
+    "id": "fr-05-1035",
+    "sentence": "Le calendrier n'est tenable, selon la responsable, que si les validations arrivent chaque semaine : elle ne le juge donc crédible que sous réserve du respect de ce rythme.",
+    "cloze": "ne le juge donc crédible que sous réserve du respect de ce rythme",
+    "answer": "ne le juge donc crédible que sous réserve du respect de ce rythme",
+    "lemma": "ne juger crédible que sous réserve de",
+    "meaning": "considers it credible only if this pace is maintained",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1035.mp3"
+  },
+  {
+    "id": "fr-05-1036",
+    "sentence": "Devant la commission, l'étudiante, qui demande davantage de préparation sans remettre en cause l'examen oral, fait porter sa contestation sur les conditions actuelles de l'épreuve plutôt que sur son principe.",
+    "cloze": "sur les conditions actuelles de l'épreuve plutôt que sur son principe",
+    "answer": "sur les conditions actuelles de l'épreuve plutôt que sur son principe",
+    "lemma": "porter sur les conditions plutôt que sur le principe",
+    "meaning": "on the current conditions of the assessment rather than on its principle",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1036.mp3"
+  },
+  {
+    "id": "fr-05-1037",
+    "sentence": "En médiation, le client n'accepte qu'un avoir valable un an : il subordonne donc son accord à cette durée de validité.",
+    "cloze": "subordonne donc son accord à cette durée de validité",
+    "answer": "subordonne donc son accord à cette durée de validité",
+    "lemma": "subordonner un accord à une durée de validité",
+    "meaning": "makes his agreement conditional on this validity period",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1037.mp3"
+  },
+  {
+    "id": "fr-05-1038",
+    "sentence": "Au comité exécutif, la directrice juge la réorganisation nécessaire tout en refusant une application sans essai, position qui associe un soutien au changement et l'exigence d'une phase pilote.",
+    "cloze": "un soutien au changement et l'exigence d'une phase pilote",
+    "answer": "un soutien au changement et l'exigence d'une phase pilote",
+    "lemma": "soutien assorti d'une phase pilote",
+    "meaning": "support for the change combined with a requirement for a pilot phase",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1038.mp3"
+  },
+  {
+    "id": "fr-05-1039",
+    "sentence": "À la table ronde scientifique, le conférencier affirme que son modèle explique certains cas fréquents, ce qui en fait un cadre valable pour une partie des situations, sans portée générale.",
+    "cloze": "un cadre valable pour une partie des situations, sans portée générale",
+    "answer": "un cadre valable pour une partie des situations, sans portée générale",
+    "lemma": "valable pour une partie sans portée générale",
+    "meaning": "a framework valid for some situations without general scope",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1039.mp3"
+  },
+  {
+    "id": "fr-05-1040",
+    "sentence": "Dans le débat public, la porte-parole se dit favorable à l'ouverture dominicale à titre expérimental : elle défend donc un essai limité dans le temps plutôt qu'un changement définitif.",
+    "cloze": "un essai limité dans le temps plutôt qu'un changement définitif",
+    "answer": "un essai limité dans le temps plutôt qu'un changement définitif",
+    "lemma": "essai limité plutôt que changement définitif",
+    "meaning": "a time-limited trial rather than a permanent change",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-1040.mp3"
   }
 ]
