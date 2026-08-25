@@ -22751,5 +22751,405 @@
     "meaning": "will be presented as a reversible compromise between savings and service quality",
     "accepted_answers": [],
     "audio": "work/audio/fr-FR/05/fr-05-2160.mp3"
+  },
+  {
+    "id": "fr-05-2161",
+    "sentence": "Devant l'équipe, le journal d'erreurs ne signale que deux modules touchés ; le compte rendu qualifie donc l'incident de sérieux mais circonscrit, et la relance de demain ne concernera que leurs tests.",
+    "cloze": "qualifie donc l'incident de sérieux mais circonscrit",
+    "answer": "qualifie donc l'incident de sérieux mais circonscrit",
+    "lemma": "qualifier un incident de sérieux mais circonscrit",
+    "meaning": "characterizes the incident as serious yet confined to the verified scope",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2161.mp3"
+  },
+  {
+    "id": "fr-05-2162",
+    "sentence": "À l'accueil, l'agente reformule avec tact votre demande comme un besoin d'accès à l'information, puis fait tester la boucle magnétique avant votre rendez-vous.",
+    "cloze": "reformule avec tact votre demande comme un besoin d'accès à l'information",
+    "answer": "reformule avec tact votre demande comme un besoin d'accès à l'information",
+    "lemma": "reformuler une demande comme un besoin d'accès",
+    "meaning": "tactfully reframes a request as an access need",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2162.mp3"
+  },
+  {
+    "id": "fr-05-2163",
+    "sentence": "Les commerçants redoutent une baisse de fréquentation, mais aucun comptage ne l'établit ; la présidente accueille leur crainte comme une réserve recevable, non comme un veto, avant le vote d'un essai de quatre samedis.",
+    "cloze": "accueille leur crainte comme une réserve recevable, non comme un veto",
+    "answer": "accueille leur crainte comme une réserve recevable, non comme un veto",
+    "lemma": "accueillir une crainte comme une réserve, non un veto",
+    "meaning": "acknowledges a concern as legitimate without treating it as a veto",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2163.mp3"
+  },
+  {
+    "id": "fr-05-2164",
+    "sentence": "Le bilan confirme de nouvelles inscriptions et une demande d'accessibilité non satisfaite ; au comité, je donne un accord de principe strictement limité à la séance sous-titrée, dont le coût sera chiffré demain.",
+    "cloze": "un accord de principe strictement limité à la séance sous-titrée",
+    "answer": "un accord de principe strictement limité à la séance sous-titrée",
+    "lemma": "donner un accord de principe limité",
+    "meaning": "gives conditional support with a clearly defined scope",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2164.mp3"
+  },
+  {
+    "id": "fr-05-2165",
+    "sentence": "Après notre dispute sur le voyage, j'assume devant toi, sans réserve, le caractère injuste de mon reproche ; dès ce soir, chacun prendra en charge la moitié des réservations.",
+    "cloze": "assume devant toi, sans réserve, le caractère injuste de mon reproche",
+    "answer": "assume devant toi, sans réserve, le caractère injuste de mon reproche",
+    "lemma": "assumer sans réserve un reproche injuste",
+    "meaning": "openly takes responsibility for an unfair criticism",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2165.mp3"
+  },
+  {
+    "id": "fr-05-2166",
+    "sentence": "Dans mon retour au doctorant, je présente l'observation comme établie et notre explication comme provisoire ; une nouvelle série d'entretiens vérifiera cette dernière.",
+    "cloze": "présente l'observation comme établie et notre explication comme provisoire",
+    "answer": "présente l'observation comme établie et notre explication comme provisoire",
+    "lemma": "distinguer observation établie et explication provisoire",
+    "meaning": "separates an established observation from a provisional explanation",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2166.mp3"
+  },
+  {
+    "id": "fr-05-2167",
+    "sentence": "Puisque notre courriel laissait croire à un remboursement automatique, je reconnais sans détour notre part dans l'ambiguïté ; vous choisirez aujourd'hui entre le remboursement et le remplacement.",
+    "cloze": "reconnais sans détour notre part dans l'ambiguïté",
+    "answer": "reconnais sans détour notre part dans l'ambiguïté",
+    "lemma": "reconnaître sa part dans une ambiguïté",
+    "meaning": "directly acknowledges responsibility for an ambiguous message",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2167.mp3"
+  },
+  {
+    "id": "fr-05-2168",
+    "sentence": "La cour est plus sombre, mais aucune hausse des chutes n'est relevée ; devant les résidents, je présente leur inquiétude comme légitime et le lien causal comme non établi, avant un vote sur l'éclairage provisoire.",
+    "cloze": "présente leur inquiétude comme légitime et le lien causal comme non établi",
+    "answer": "présente leur inquiétude comme légitime et le lien causal comme non établi",
+    "lemma": "distinguer inquiétude légitime et lien non établi",
+    "meaning": "validates a concern while making clear that causation is unproven",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2168.mp3"
+  },
+  {
+    "id": "fr-05-2169",
+    "sentence": "Seul l'arrêté préfectoral confirme la fermeture, que le procès-verbal attribuait à la mairie ; la rédaction corrige avec tact l'attribution au regard du document vérifié, et le nouveau titre nommera la préfecture.",
+    "cloze": "corrige avec tact l'attribution au regard du document vérifié",
+    "answer": "corrige avec tact l'attribution au regard du document vérifié",
+    "lemma": "corriger une attribution au regard d'une source vérifiée",
+    "meaning": "tactfully corrects an attribution using the verified source",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2169.mp3"
+  },
+  {
+    "id": "fr-05-2170",
+    "sentence": "Le livre audio demandé manque au catalogue, mais une version numérique accessible existe ; le bibliothécaire formule un refus explicite, assorti d'une solution équivalente, et réserve cette version jusqu'à vendredi.",
+    "cloze": "formule un refus explicite, assorti d'une solution équivalente",
+    "answer": "formule un refus explicite, assorti d'une solution équivalente",
+    "lemma": "formuler un refus assorti d'une solution",
+    "meaning": "states a clear refusal while offering an equivalent solution",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2170.mp3"
+  },
+  {
+    "id": "fr-05-2171",
+    "sentence": "Avant que la discussion ne revienne au budget, Nora en donne une synthèse brève, fidèle à ton désaccord, puis te rend la parole pour préciser l'effet du retard sur ton équipe.",
+    "cloze": "en donne une synthèse brève, fidèle à ton désaccord",
+    "answer": "en donne une synthèse brève, fidèle à ton désaccord",
+    "lemma": "donner une synthèse brève et fidèle",
+    "meaning": "summarizes the point concisely without erasing the speaker's disagreement",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2171.mp3"
+  },
+  {
+    "id": "fr-05-2172",
+    "sentence": "Pour clore le différend entre le scénographe et l'équipe scientifique, le cartel retient une attribution distincte mais respectueuse du travail commun ; les deux équipes le valideront cet après-midi.",
+    "cloze": "retient une attribution distincte mais respectueuse du travail commun",
+    "answer": "retient une attribution distincte mais respectueuse du travail commun",
+    "lemma": "retenir une attribution distincte et respectueuse",
+    "meaning": "records distinct contributions while respecting the shared work",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2172.mp3"
+  },
+  {
+    "id": "fr-05-2173",
+    "sentence": "Le dispositif a aidé les présents, mais les absents n'ont pas répondu au questionnaire ; au comité, je formule une adhésion réservée, limitée au dispositif actuel, dans l'attente du second bilan.",
+    "cloze": "formule une adhésion réservée, limitée au dispositif actuel",
+    "answer": "formule une adhésion réservée, limitée au dispositif actuel",
+    "lemma": "formuler une adhésion réservée et limitée",
+    "meaning": "expresses qualified support confined to the current scheme",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2173.mp3"
+  },
+  {
+    "id": "fr-05-2174",
+    "sentence": "Le fournisseur avance la livraison sans garantir l'essai ; notre société donne un accord conditionnel, borné à la phase pilote, avec un point de contrôle et une sortie sans pénalité inscrits au contrat.",
+    "cloze": "donne un accord conditionnel, borné à la phase pilote",
+    "answer": "donne un accord conditionnel, borné à la phase pilote",
+    "lemma": "donner un accord conditionnel et borné",
+    "meaning": "gives conditional agreement limited to the pilot phase",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2174.mp3"
+  },
+  {
+    "id": "fr-05-2175",
+    "sentence": "La pétition annonce huit cents soutiens, tandis que la liste ne comporte que six cent douze signatures vérifiées ; à l'assemblée, la porte-parole présente les signatures comme attestées et le total annoncé comme non établi, avant de demander les pièces manquantes.",
+    "cloze": "présente les signatures comme attestées et le total annoncé comme non établi",
+    "answer": "présente les signatures comme attestées et le total annoncé comme non établi",
+    "lemma": "distinguer un nombre attesté d'un total non établi",
+    "meaning": "distinguishes verified signatures from an unsupported announced total",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2175.mp3"
+  },
+  {
+    "id": "fr-05-2176",
+    "sentence": "Lors du point individuel, je dresse un constat factuel de surcharge, exempt de mise en cause personnelle ; deux comptes rendus seront supprimés pendant un mois, puis la charge sera remesurée.",
+    "cloze": "un constat factuel de surcharge, exempt de mise en cause personnelle",
+    "answer": "un constat factuel de surcharge, exempt de mise en cause personnelle",
+    "lemma": "dresser un constat factuel sans mise en cause",
+    "meaning": "states the workload problem factually without blaming individuals",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2176.mp3"
+  },
+  {
+    "id": "fr-05-2177",
+    "sentence": "Les bénévoles demandent davantage de pauses et les régisseurs une présence continue ; la coordinatrice reformule leurs priorités comme compatibles sur le principe, puis les équipes choisissent entre deux rotations sûres.",
+    "cloze": "reformule leurs priorités comme compatibles sur le principe",
+    "answer": "reformule leurs priorités comme compatibles sur le principe",
+    "lemma": "reformuler des priorités comme compatibles",
+    "meaning": "reframes apparently competing priorities as compatible in principle",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2177.mp3"
+  },
+  {
+    "id": "fr-05-2178",
+    "sentence": "Une salariée a témoigné sous condition d'anonymat, ce qui ne suffit pas à prouver un fait général ; au client, je présente une synthèse anonymisée, explicitement distincte d'un constat général, et le document remis demain précisera les tendances et leurs limites.",
+    "cloze": "présente une synthèse anonymisée, explicitement distincte d'un constat général",
+    "answer": "présente une synthèse anonymisée, explicitement distincte d'un constat général",
+    "lemma": "distinguer une synthèse anonymisée d'un constat général",
+    "meaning": "presents confidential testimony without overstating it as a general finding",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2178.mp3"
+  },
+  {
+    "id": "fr-05-2179",
+    "sentence": "Le tableau prévoit un rétablissement à 18 heures sans garantir la fréquence habituelle ; au micro, nous donnons un délai confirmé, présenté comme une estimation prudente, tandis que des agents orientent les voyageurs sur les deux quais.",
+    "cloze": "donnons un délai confirmé, présenté comme une estimation prudente",
+    "answer": "donnons un délai confirmé, présenté comme une estimation prudente",
+    "lemma": "présenter un délai confirmé comme une estimation prudente",
+    "meaning": "communicates a confirmed time while preserving uncertainty about service",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2179.mp3"
+  },
+  {
+    "id": "fr-05-2180",
+    "sentence": "Après avoir relu nos messages sur le ménage, j'assume pleinement mon ton sec, sans mise en cause de ta bonne foi ; dès lundi, nous alternerons les tâches chaque semaine.",
+    "cloze": "assume pleinement mon ton sec, sans mise en cause de ta bonne foi",
+    "answer": "assume pleinement mon ton sec, sans mise en cause de ta bonne foi",
+    "lemma": "assumer son ton sans mettre l'autre en cause",
+    "meaning": "owns a harsh tone without questioning the other person's good faith",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2180.mp3"
+  },
+  {
+    "id": "fr-05-2181",
+    "sentence": "Au conseil de l'association, je donne un accord de principe assorti de garanties vérifiables : les dons seront séparés et le plafond de dépenses revoté chaque trimestre.",
+    "cloze": "un accord de principe assorti de garanties vérifiables",
+    "answer": "un accord de principe assorti de garanties vérifiables",
+    "lemma": "donner un accord assorti de garanties vérifiables",
+    "meaning": "gives support in principle subject to verifiable safeguards",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2181.mp3"
+  },
+  {
+    "id": "fr-05-2182",
+    "sentence": "Les habitants s'accordent sur les nuisances mais pas sur leurs causes ; la médiatrice propose une synthèse nette des faits communs et des explications contestées, puis chacun choisit deux mesures temporaires à tester.",
+    "cloze": "une synthèse nette des faits communs et des explications contestées",
+    "answer": "une synthèse nette des faits communs et des explications contestées",
+    "lemma": "synthétiser faits communs et explications contestées",
+    "meaning": "clearly separates shared facts from disputed explanations",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2182.mp3"
+  },
+  {
+    "id": "fr-05-2183",
+    "sentence": "Le formulaire n'expliquait pas l'usage secondaire des réponses ; devant les participants, la déléguée reconnaît explicitement la responsabilité du service dans cette information incomplète, et la collecte restera suspendue jusqu'à l'envoi d'une notice corrigée.",
+    "cloze": "reconnaît explicitement la responsabilité du service dans cette information incomplète",
+    "answer": "reconnaît explicitement la responsabilité du service dans cette information incomplète",
+    "lemma": "reconnaître la responsabilité d'une information incomplète",
+    "meaning": "openly acknowledges the service's responsibility for incomplete information",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2183.mp3"
+  },
+  {
+    "id": "fr-05-2184",
+    "sentence": "Le premier article attribuait à tort la scénographie au réalisateur et jugeait tout le spectacle incohérent ; dans la nouvelle version, je remplace l'attribution erronée par une critique précisément située, centrée sur la rupture de rythme du dernier acte.",
+    "cloze": "remplace l'attribution erronée par une critique précisément située",
+    "answer": "remplace l'attribution erronée par une critique précisément située",
+    "lemma": "remplacer une attribution erronée par une critique située",
+    "meaning": "corrects a false attribution and narrows the criticism to a precise point",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2184.mp3"
+  },
+  {
+    "id": "fr-05-2185",
+    "sentence": "La fiche technique annonce une rampe dont l'inclinaison reste à vérifier ; au téléphone, la responsable présente l'accès comme possible, non comme garanti, et réserve un itinéraire de plain-pied pour votre venue.",
+    "cloze": "présente l'accès comme possible, non comme garanti",
+    "answer": "présente l'accès comme possible, non comme garanti",
+    "lemma": "présenter un accès comme possible, non garanti",
+    "meaning": "describes access as possible without claiming that it is guaranteed",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2185.mp3"
+  },
+  {
+    "id": "fr-05-2186",
+    "sentence": "Huit groupes sur dix progressent, mais l'échantillon est réduit et aucune équipe indépendante n'a repris le protocole ; devant nos partenaires, je qualifie l'effet de prometteur, mais encore trop incertain pour une généralisation, et une réplication précédera toute recommandation.",
+    "cloze": "qualifie l'effet de prometteur, mais encore trop incertain pour une généralisation",
+    "answer": "qualifie l'effet de prometteur, mais encore trop incertain pour une généralisation",
+    "lemma": "qualifier un effet de prometteur mais incertain",
+    "meaning": "calls the effect promising while rejecting premature generalization",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2186.mp3"
+  },
+  {
+    "id": "fr-05-2187",
+    "sentence": "La confirmation promettait une chambre calme, alors que celle qui vous a été remise donne sur l'ascenseur ; à la réception, je reconnais explicitement notre responsabilité dans cet écart de service, et vous choisissez sans frais un transfert ou un remboursement.",
+    "cloze": "reconnais explicitement notre responsabilité dans cet écart de service",
+    "answer": "reconnais explicitement notre responsabilité dans cet écart de service",
+    "lemma": "reconnaître sa responsabilité dans un écart de service",
+    "meaning": "openly accepts responsibility for a service mismatch",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2187.mp3"
+  },
+  {
+    "id": "fr-05-2188",
+    "sentence": "Les relevés situent le bruit entre 7 et 9 heures, non sur toute la journée ; en réunion, je ramène avec tact l'essai aux seules heures documentées, avec un bilan commun prévu après deux semaines.",
+    "cloze": "ramène avec tact l'essai aux seules heures documentées",
+    "answer": "ramène avec tact l'essai aux seules heures documentées",
+    "lemma": "ramener avec tact un essai au périmètre documenté",
+    "meaning": "tactfully narrows a trial to the hours supported by evidence",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2188.mp3"
+  },
+  {
+    "id": "fr-05-2189",
+    "sentence": "La candidate a fourni des exemples précis, tandis que notre note évoque seulement une impression de réserve ; le compte rendu classe séparément l'expérience attestée et notre perception subjective, avant un second entretien sur la coopération.",
+    "cloze": "classe séparément l'expérience attestée et notre perception subjective",
+    "answer": "classe séparément l'expérience attestée et notre perception subjective",
+    "lemma": "séparer expérience attestée et perception subjective",
+    "meaning": "keeps documented experience separate from a subjective impression",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2189.mp3"
+  },
+  {
+    "id": "fr-05-2190",
+    "sentence": "Pendant l'entretien avec les parents, la professeure accueille leur inquiétude avec tact et une égale attention au point de vue de l'élève ; pendant trois semaines, le suivi portera sur les devoirs rendus et les demandes d'aide.",
+    "cloze": "accueille leur inquiétude avec tact et une égale attention au point de vue de l'élève",
+    "answer": "accueille leur inquiétude avec tact et une égale attention au point de vue de l'élève",
+    "lemma": "accueillir une inquiétude avec tact et équité",
+    "meaning": "receives the parents' concern tactfully while preserving the student's perspective",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2190.mp3"
+  },
+  {
+    "id": "fr-05-2191",
+    "sentence": "Votre attestation prouve la résidence, mais pas encore la durée requise ; au guichet, je formule un refus provisoire strictement fondé sur les pièces reçues, puis vous remets la liste des deux justificatifs recevables.",
+    "cloze": "formule un refus provisoire strictement fondé sur les pièces reçues",
+    "answer": "formule un refus provisoire strictement fondé sur les pièces reçues",
+    "lemma": "formuler un refus provisoire fondé sur les pièces",
+    "meaning": "issues a provisional refusal limited to the evidence received",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2191.mp3"
+  },
+  {
+    "id": "fr-05-2192",
+    "sentence": "Plusieurs chercheurs jugent le fonds irremplaçable, bien qu'il soit rarement consulté ; au comité, je défends une conservation ciblée, proportionnée à sa valeur attestée, avec un réexamen après la numérisation des documents fragiles.",
+    "cloze": "défends une conservation ciblée, proportionnée à sa valeur attestée",
+    "answer": "défends une conservation ciblée, proportionnée à sa valeur attestée",
+    "lemma": "défendre une conservation ciblée et proportionnée",
+    "meaning": "supports targeted preservation proportionate to the collection's established value",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2192.mp3"
+  },
+  {
+    "id": "fr-05-2193",
+    "sentence": "La démonstration a échoué sur mobile malgré l'annonce d'une compatibilité complète ; devant le client, l'équipe présente franchement cet échec comme la limite actuelle de sa démonstration, puis ne montre que les fonctions validées sur les appareils disponibles.",
+    "cloze": "présente franchement cet échec comme la limite actuelle de sa démonstration",
+    "answer": "présente franchement cet échec comme la limite actuelle de sa démonstration",
+    "lemma": "présenter franchement un échec comme une limite",
+    "meaning": "openly incorporates a failure into an accurate account of current limits",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2193.mp3"
+  },
+  {
+    "id": "fr-05-2194",
+    "sentence": "Les ventes dépassent les prévisions, mais la trésorerie reste irrégulière ; à l'assemblée, je présente la hausse comme un signal favorable, non comme une garantie, et le plafond ne sera revu qu'après deux soldes trimestriels positifs.",
+    "cloze": "présente la hausse comme un signal favorable, non comme une garantie",
+    "answer": "présente la hausse comme un signal favorable, non comme une garantie",
+    "lemma": "présenter une hausse comme un signal, non une garantie",
+    "meaning": "frames the increase as encouraging evidence rather than a guarantee",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2194.mp3"
+  },
+  {
+    "id": "fr-05-2195",
+    "sentence": "À la répétition, la metteuse en scène assume devant l'interprète l'imprécision de sa consigne ; le passage sera repris au ralenti avant toute décision sur le mouvement.",
+    "cloze": "assume devant l'interprète l'imprécision de sa consigne",
+    "answer": "assume devant l'interprète l'imprécision de sa consigne",
+    "lemma": "assumer l'imprécision de sa consigne",
+    "meaning": "takes ownership of an unclear instruction without blaming the performer",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2195.mp3"
+  },
+  {
+    "id": "fr-05-2196",
+    "sentence": "Après examen du contrat et des photographies, l'assureur distingue clairement la garantie acquise de la responsabilité encore ouverte ; la vitre sera sécurisée aujourd'hui sans attendre l'expertise.",
+    "cloze": "distingue clairement la garantie acquise de la responsabilité encore ouverte",
+    "answer": "distingue clairement la garantie acquise de la responsabilité encore ouverte",
+    "lemma": "distinguer une garantie acquise d'une responsabilité ouverte",
+    "meaning": "clearly separates confirmed coverage from unresolved liability",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2196.mp3"
+  },
+  {
+    "id": "fr-05-2197",
+    "sentence": "Puisque tu ne veux pas encore en parler au groupe, je te propose une aide discrète, strictement à la mesure de ta demande ; je t'accompagnerai au rendez-vous sans prévenir les autres.",
+    "cloze": "te propose une aide discrète, strictement à la mesure de ta demande",
+    "answer": "te propose une aide discrète, strictement à la mesure de ta demande",
+    "lemma": "proposer une aide discrète et proportionnée",
+    "meaning": "offers discreet help limited to what the friend has requested",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2197.mp3"
+  },
+  {
+    "id": "fr-05-2198",
+    "sentence": "En comité de direction, je présente ma réserve budgétaire comme compatible avec l'accord de principe ; le diagnostic sera financé maintenant, mais la mise en œuvre attendra un chiffrage validé.",
+    "cloze": "présente ma réserve budgétaire comme compatible avec l'accord de principe",
+    "answer": "présente ma réserve budgétaire comme compatible avec l'accord de principe",
+    "lemma": "présenter une réserve comme compatible avec un accord",
+    "meaning": "frames a budget concern without withdrawing agreement in principle",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2198.mp3"
+  },
+  {
+    "id": "fr-05-2199",
+    "sentence": "Les mesures confirment une baisse de fréquentation, tandis que les associations divergent sur ses causes ; dans la note au conseil, le rapporteur distingue le constat mesuré des causes encore débattues, et une action temporaire sera évaluée selon des critères publics.",
+    "cloze": "distingue le constat mesuré des causes encore débattues",
+    "answer": "distingue le constat mesuré des causes encore débattues",
+    "lemma": "distinguer un constat mesuré de causes débattues",
+    "meaning": "separates the measured finding from disputed explanations",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2199.mp3"
+  },
+  {
+    "id": "fr-05-2200",
+    "sentence": "Pour conclure la réunion du quartier, nous consignons le désaccord dans une conclusion commune mais non unanime ; pendant six semaines, un créneau supplémentaire sera testé avant une nouvelle décision collective.",
+    "cloze": "consignons le désaccord dans une conclusion commune mais non unanime",
+    "answer": "consignons le désaccord dans une conclusion commune mais non unanime",
+    "lemma": "consigner un désaccord dans une conclusion commune",
+    "meaning": "records continuing disagreement in shared wording without claiming unanimity",
+    "accepted_answers": [],
+    "audio": "work/audio/fr-FR/05/fr-05-2200.mp3"
   }
 ]
