@@ -69,6 +69,7 @@ jobs:
               "cards/fr-FR/02.json",
               "cards/fr-FR/03.json",
               "cards/fr-FR/04.json",
+              "cards/fr-FR/05.json",
               "cards/ja-JP/00.json",
               "cards/ja-JP/01.json",
               "cards/ja-JP/02.json",
@@ -86,6 +87,7 @@ jobs:
               "coverage/fr-FR/02.md",
               "coverage/fr-FR/03.md",
               "coverage/fr-FR/04.md",
+              "coverage/fr-FR/05.md",
               "coverage/ja-JP/00.md",
               "coverage/ja-JP/01.md",
               "coverage/ja-JP/02.md",
@@ -126,6 +128,7 @@ jobs:
           python meiki_decks.py check --language fr-FR --stage 02
           python meiki_decks.py check --language fr-FR --stage 03
           python meiki_decks.py check --language fr-FR --stage 04
+          python meiki_decks.py check --language fr-FR --stage 05
       - name: Validate Korean source
         run: |
           python meiki_decks.py check --language ko-KR --stage 00
