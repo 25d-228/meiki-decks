@@ -1084,6 +1084,7 @@ class MeikiDecksTests(unittest.TestCase):
             "03": 1_400,
             "04": 2_000,
             "05": 2_200,
+            "06": 2_600,
         }
 
         actual_counts = {
