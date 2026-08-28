@@ -19,6 +19,14 @@ ARCHIVE_VERSION = 4
 ARCHIVE_RELEASE_VERSION = "0.1.0"
 COLLECTION_PATH = "collection.json"
 MANIFEST_PATH = "manifest.json"
+FRENCH_COMPLETE_STAGE_NAMES = {
+    "01": "French 01 — A1 foundation",
+    "02": "French 02 — A2 elementary",
+    "03": "French 03 — B1 intermediate",
+    "04": "French 04 — B2 upper-intermediate",
+    "05": "French 05 — C1 advanced",
+    "06": "French 06 — C2 examination and advanced-use bridge",
+}
 JAPANESE_COMPLETE_STAGE_NAMES = {
     "00": "Japanese 00 — Kana, sound, and Japanese input",
     "01": "Japanese 01 — N5 / A1 foundation",
@@ -1016,6 +1024,14 @@ def build_language(root, language, probe=probe_audio):
     stage_files = sorted((root / "cards" / language).glob("*.json"))
     if not stage_files:
         raise DeckError(f"no card stages exist for language {language}")
+    if language == "fr-FR":
+        actual_stages = tuple(stage_file.stem for stage_file in stage_files)
+        expected_stages = tuple(FRENCH_COMPLETE_STAGE_NAMES)
+        if actual_stages != expected_stages:
+            raise DeckError(
+                "French complete bundle requires stages "
+                f"{', '.join(expected_stages)} in order; found {', '.join(actual_stages)}"
+            )
     if language == "ja-JP":
         actual_stages = tuple(stage_file.stem for stage_file in stage_files)
         expected_stages = tuple(JAPANESE_COMPLETE_STAGE_NAMES)
@@ -1042,7 +1058,9 @@ def build_language(root, language, probe=probe_audio):
         validate_path_component(stage, "stage")
         cards = load_stage_cards(root, language, stage)
         deck_id = f"deck:{language}:{stage}"
-        if language == "ja-JP":
+        if language == "fr-FR":
+            deck_name = FRENCH_COMPLETE_STAGE_NAMES[stage]
+        elif language == "ja-JP":
             deck_name = JAPANESE_COMPLETE_STAGE_NAMES[stage]
         elif language == "ko-KR":
             deck_name = KOREAN_COMPLETE_STAGE_NAMES[stage]

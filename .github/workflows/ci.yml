@@ -106,6 +106,7 @@ jobs:
               "meiki_decks.py",
               "mossformer2_batch.py",
               "pyproject.toml",
+              "release-notes/fr-FR-v0.1.0.md",
               "release-notes/ja-JP-v0.1.0.md",
               "release-notes/ko-KR-v0.1.0.md",
               "tests/test_meiki_decks.py",
