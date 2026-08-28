@@ -944,6 +944,7 @@ class MeikiDecksTests(unittest.TestCase):
             self.assertEqual(manifest["counts"]["cards"], 2)
             self.assertEqual(manifest["counts"]["media_objects"], 1)
             self.assertEqual(len(collection["decks"]), 1)
+            self.assertEqual(collection["decks"][0]["name"], "test-Latn foundation")
             self.assertEqual(len(collection["notes"]), 2)
             self.assertEqual(collection["notes"][0]["cards"][0]["review_events"], [])
             self.assertEqual(
@@ -1099,6 +1100,49 @@ class MeikiDecksTests(unittest.TestCase):
         }
 
         self.assertEqual(actual_counts, expected_counts)
+
+    def test_french_build_uses_complete_stage_order_and_names(self):
+        self.language = "fr-FR"
+        for stage in meiki_decks.FRENCH_COMPLETE_STAGE_NAMES:
+            self.stage = stage
+            card = self.card(f"fr-{stage}-test")
+            self.write_stage([card])
+            audio_path = self.root / card["audio"]
+            audio_path.parent.mkdir(parents=True)
+            audio_path.write_bytes(f"audio {stage}".encode())
+
+        summary = meiki_decks.build_language(self.root, self.language, probe=lambda _: 1_500)
+
+        with zipfile.ZipFile(summary["path"], "r") as archive:
+            collection = json.loads(archive.read("collection.json"))
+        self.assertEqual(
+            [(deck["id"], deck["name"]) for deck in collection["decks"]],
+            [
+                (f"deck:fr-FR:{stage}", name)
+                for stage, name in meiki_decks.FRENCH_COMPLETE_STAGE_NAMES.items()
+            ],
+        )
+
+    def test_french_build_requires_the_complete_stage_set(self):
+        self.language = "fr-FR"
+        expected_error = "French complete bundle requires stages 01, 02, 03, 04, 05, 06"
+        archive_path = self.root / "dist" / "meiki-fr-fr-complete-v0.1.0.meiki"
+
+        for stage in ("01", "02", "03", "04", "05"):
+            self.stage = stage
+            self.write_stage([self.card(f"fr-{stage}-test")])
+
+        with self.assertRaisesRegex(meiki_decks.DeckError, expected_error):
+            meiki_decks.build_language(self.root, self.language, probe=lambda _: 1_500)
+        self.assertFalse(archive_path.exists())
+
+        for stage in ("06", "07"):
+            self.stage = stage
+            self.write_stage([self.card(f"fr-{stage}-test")])
+
+        with self.assertRaisesRegex(meiki_decks.DeckError, expected_error):
+            meiki_decks.build_language(self.root, self.language, probe=lambda _: 1_500)
+        self.assertFalse(archive_path.exists())
 
     def test_generated_paths_remain_ignored(self):
         repository_root = Path(__file__).resolve().parents[1]
