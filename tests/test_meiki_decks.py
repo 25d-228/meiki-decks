@@ -763,6 +763,11 @@ class MeikiDecksTests(unittest.TestCase):
         self.assertEqual(
             meiki_decks.TTS_CONFIG,
             {
+                "es-MX": {
+                    "model": "openbmb/VoxCPM2",
+                    "reference_wav": "work/voices/es-MX/reference.wav",
+                    "reference_text": "work/voices/es-MX/reference.txt",
+                },
                 "fr-FR": {
                     "model": "openbmb/VoxCPM2",
                     "reference_wav": "work/voices/fr-FR/reference.wav",
