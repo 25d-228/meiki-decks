@@ -763,6 +763,11 @@ class MeikiDecksTests(unittest.TestCase):
         self.assertEqual(
             meiki_decks.TTS_CONFIG,
             {
+                "es-MX": {
+                    "model": "openbmb/VoxCPM2",
+                    "reference_wav": "work/voices/es-MX/reference.wav",
+                    "reference_text": "work/voices/es-MX/reference.txt",
+                },
                 "fr-FR": {
                     "model": "openbmb/VoxCPM2",
                     "reference_wav": "work/voices/fr-FR/reference.wav",
@@ -1100,6 +1105,16 @@ class MeikiDecksTests(unittest.TestCase):
         }
 
         self.assertEqual(actual_counts, expected_counts)
+
+    def test_mexican_spanish_01_source_has_expected_card_count(self):
+        repository_root = Path(__file__).resolve().parents[1]
+        cards = json.loads(
+            (repository_root / "cards" / "es-MX" / "01.json").read_text(
+                encoding="utf-8"
+            )
+        )
+
+        self.assertEqual(len(cards), 800)
 
     def test_french_build_uses_complete_stage_order_and_names(self):
         self.language = "fr-FR"
