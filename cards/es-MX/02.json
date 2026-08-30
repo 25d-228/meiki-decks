@@ -8058,5 +8058,2005 @@
     "meaning": "the most convenient option",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0800.mp3"
+  },
+  {
+    "id": "es-02-0801",
+    "sentence": "De los tres cargadores, este es el único que funciona con esta computadora.",
+    "cloze": "que funciona",
+    "answer": "que funciona",
+    "lemma": "que",
+    "meaning": "that works",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0801.mp3"
+  },
+  {
+    "id": "es-02-0802",
+    "sentence": "Abrí el archivo que incluye la copia firmada.",
+    "cloze": "que incluye",
+    "answer": "que incluye",
+    "lemma": "que",
+    "meaning": "that includes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0802.mp3"
+  },
+  {
+    "id": "es-02-0803",
+    "sentence": "La llave que abre la bodega tiene una etiqueta verde.",
+    "cloze": "que abre",
+    "answer": "que abre",
+    "lemma": "que",
+    "meaning": "that opens",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0803.mp3"
+  },
+  {
+    "id": "es-02-0804",
+    "sentence": "Guardé el mensaje que confirma la hora de la cita.",
+    "cloze": "que confirma",
+    "answer": "que confirma",
+    "lemma": "que",
+    "meaning": "that confirms",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0804.mp3"
+  },
+  {
+    "id": "es-02-0805",
+    "sentence": "La empleada que atendió mi devolución está en la caja dos.",
+    "cloze": "que atendió",
+    "answer": "que atendió",
+    "lemma": "que",
+    "meaning": "who handled",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0805.mp3"
+  },
+  {
+    "id": "es-02-0806",
+    "sentence": "El vecino que encontró mi cartera vive en el cuarto piso.",
+    "cloze": "que encontró",
+    "answer": "que encontró",
+    "lemma": "que",
+    "meaning": "who found",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0806.mp3"
+  },
+  {
+    "id": "es-02-0807",
+    "sentence": "En la esquina está la tienda donde venden fundas para celular.",
+    "cloze": "donde venden",
+    "answer": "donde venden",
+    "lemma": "donde",
+    "meaning": "where they sell",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0807.mp3"
+  },
+  {
+    "id": "es-02-0808",
+    "sentence": "La recepcionista me indicó el módulo donde reciben los objetos encontrados.",
+    "cloze": "donde reciben",
+    "answer": "donde reciben",
+    "lemma": "donde",
+    "meaning": "where they receive",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0808.mp3"
+  },
+  {
+    "id": "es-02-0809",
+    "sentence": "Busca el recibo en la carpeta donde guardamos las garantías.",
+    "cloze": "donde guardamos",
+    "answer": "donde guardamos",
+    "lemma": "donde",
+    "meaning": "where we keep",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0809.mp3"
+  },
+  {
+    "id": "es-02-0810",
+    "sentence": "Regresamos al hotel donde nos quedamos durante el viaje a Oaxaca.",
+    "cloze": "donde nos quedamos",
+    "answer": "donde nos quedamos",
+    "lemma": "donde",
+    "meaning": "where we stayed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0810.mp3"
+  },
+  {
+    "id": "es-02-0811",
+    "sentence": "Instalé una aplicación que se puede usar sin conexión.",
+    "cloze": "que se puede usar",
+    "answer": "que se puede usar",
+    "lemma": "que",
+    "meaning": "that can be used",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0811.mp3"
+  },
+  {
+    "id": "es-02-0812",
+    "sentence": "El autobús que va directo al aeropuerto sale del andén cuatro.",
+    "cloze": "que va directo",
+    "answer": "que va directo",
+    "lemma": "que",
+    "meaning": "that goes directly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0812.mp3"
+  },
+  {
+    "id": "es-02-0813",
+    "sentence": "La capacitación será en el salón donde hicimos la reunión de ayer.",
+    "cloze": "donde hicimos",
+    "answer": "donde hicimos",
+    "lemma": "donde",
+    "meaning": "where we held",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0813.mp3"
+  },
+  {
+    "id": "es-02-0814",
+    "sentence": "Te mandé el enlace que lleva al mapa de la colonia.",
+    "cloze": "que lleva",
+    "answer": "que lleva",
+    "lemma": "que",
+    "meaning": "that leads",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0814.mp3"
+  },
+  {
+    "id": "es-02-0815",
+    "sentence": "Ya hablé con el técnico que me recomendaste para reparar el teléfono.",
+    "cloze": "que me recomendaste",
+    "answer": "que me recomendaste",
+    "lemma": "que",
+    "meaning": "whom you recommended",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0815.mp3"
+  },
+  {
+    "id": "es-02-0816",
+    "sentence": "Guardé el recibo que muestra la fecha de compra.",
+    "cloze": "que muestra",
+    "answer": "que muestra",
+    "lemma": "que",
+    "meaning": "that shows",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0816.mp3"
+  },
+  {
+    "id": "es-02-0817",
+    "sentence": "La persona que llamó esta mañana dejó este número.",
+    "cloze": "que llamó",
+    "answer": "que llamó",
+    "lemma": "que",
+    "meaning": "who called",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0817.mp3"
+  },
+  {
+    "id": "es-02-0818",
+    "sentence": "El departamento donde vive mi hermana queda cerca del metro.",
+    "cloze": "donde vive",
+    "answer": "donde vive",
+    "lemma": "donde",
+    "meaning": "where she lives",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0818.mp3"
+  },
+  {
+    "id": "es-02-0819",
+    "sentence": "Ya llegó el técnico que instaló el nuevo módem.",
+    "cloze": "que instaló",
+    "answer": "que instaló",
+    "lemma": "que",
+    "meaning": "who installed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0819.mp3"
+  },
+  {
+    "id": "es-02-0820",
+    "sentence": "El portero me mostró el casillero donde dejan los paquetes del edificio.",
+    "cloze": "donde dejan",
+    "answer": "donde dejan",
+    "lemma": "donde",
+    "meaning": "where they leave",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0820.mp3"
+  },
+  {
+    "id": "es-02-0821",
+    "sentence": "La directora marcó algo importante en la última página.",
+    "cloze": "algo importante",
+    "answer": "algo importante",
+    "lemma": "algo",
+    "meaning": "something important",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0821.mp3"
+  },
+  {
+    "id": "es-02-0822",
+    "sentence": "El técnico encontró algo suelto dentro de la secadora.",
+    "cloze": "algo suelto",
+    "answer": "algo suelto",
+    "lemma": "algo",
+    "meaning": "something loose",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0822.mp3"
+  },
+  {
+    "id": "es-02-0823",
+    "sentence": "En recepción hay alguien que conoce el sistema de reservaciones.",
+    "cloze": "hay alguien",
+    "answer": "hay alguien",
+    "lemma": "alguien",
+    "meaning": "there is someone",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0823.mp3"
+  },
+  {
+    "id": "es-02-0824",
+    "sentence": "Yo no pude bajar, pero alguien más llevó las llaves a recepción.",
+    "cloze": "alguien más",
+    "answer": "alguien más",
+    "lemma": "alguien",
+    "meaning": "someone else",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0824.mp3"
+  },
+  {
+    "id": "es-02-0825",
+    "sentence": "La etiqueta está borrosa y nadie sabe a quién pertenece la maleta.",
+    "cloze": "nadie sabe",
+    "answer": "nadie sabe",
+    "lemma": "nadie",
+    "meaning": "no one knows",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0825.mp3"
+  },
+  {
+    "id": "es-02-0826",
+    "sentence": "Llegué a las ocho, pero no había nadie en el módulo.",
+    "cloze": "no había nadie",
+    "answer": "no había nadie",
+    "lemma": "nadie",
+    "meaning": "there was no one",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0826.mp3"
+  },
+  {
+    "id": "es-02-0827",
+    "sentence": "El técnico revisó el cable y no encontró nada extraño.",
+    "cloze": "nada extraño",
+    "answer": "nada extraño",
+    "lemma": "nada",
+    "meaning": "nothing unusual",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0827.mp3"
+  },
+  {
+    "id": "es-02-0828",
+    "sentence": "La solicitud ya está completa: no queda nada pendiente.",
+    "cloze": "nada pendiente",
+    "answer": "nada pendiente",
+    "lemma": "nada",
+    "meaning": "nothing pending",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0828.mp3"
+  },
+  {
+    "id": "es-02-0829",
+    "sentence": "Para hacer el cambio, ¿tiene algún comprobante de la compra?",
+    "cloze": "algún comprobante",
+    "answer": "algún comprobante",
+    "lemma": "alguno",
+    "meaning": "any proof",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0829.mp3"
+  },
+  {
+    "id": "es-02-0830",
+    "sentence": "¿Queda alguna habitación libre para esta noche?",
+    "cloze": "alguna habitación",
+    "answer": "alguna habitación",
+    "lemma": "alguno",
+    "meaning": "any room",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0830.mp3"
+  },
+  {
+    "id": "es-02-0831",
+    "sentence": "Revisa el formulario: todavía faltan algunos datos de contacto.",
+    "cloze": "algunos datos",
+    "answer": "algunos datos",
+    "lemma": "alguno",
+    "meaning": "some details",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0831.mp3"
+  },
+  {
+    "id": "es-02-0832",
+    "sentence": "El hotel no tiene restaurante; ¿conoce alguna tienda abierta cerca?",
+    "cloze": "alguna tienda",
+    "answer": "alguna tienda",
+    "lemma": "alguno",
+    "meaning": "any store",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0832.mp3"
+  },
+  {
+    "id": "es-02-0833",
+    "sentence": "La empleada revisó el recibo y no hubo ningún problema con la devolución.",
+    "cloze": "ningún problema",
+    "answer": "ningún problema",
+    "lemma": "ninguno",
+    "meaning": "no problem",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0833.mp3"
+  },
+  {
+    "id": "es-02-0834",
+    "sentence": "Revisé el correo, pero no venía ningún archivo adjunto.",
+    "cloze": "ningún archivo",
+    "answer": "ningún archivo",
+    "lemma": "ninguno",
+    "meaning": "no file",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0834.mp3"
+  },
+  {
+    "id": "es-02-0835",
+    "sentence": "El contrato está completo; no falta ninguna firma.",
+    "cloze": "ninguna firma",
+    "answer": "ninguna firma",
+    "lemma": "ninguno",
+    "meaning": "no signature",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0835.mp3"
+  },
+  {
+    "id": "es-02-0836",
+    "sentence": "Miré el celular y no tenía ninguna llamada perdida.",
+    "cloze": "ninguna llamada",
+    "answer": "ninguna llamada",
+    "lemma": "ninguno",
+    "meaning": "no call",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0836.mp3"
+  },
+  {
+    "id": "es-02-0837",
+    "sentence": "En esa talla ya no queda nada disponible.",
+    "cloze": "no queda nada",
+    "answer": "no queda nada",
+    "lemma": "nada",
+    "meaning": "nothing remains",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0837.mp3"
+  },
+  {
+    "id": "es-02-0838",
+    "sentence": "Revisé la lista, pero no reconocí a nadie por ese apellido.",
+    "cloze": "a nadie",
+    "answer": "a nadie",
+    "lemma": "nadie",
+    "meaning": "anyone",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0838.mp3"
+  },
+  {
+    "id": "es-02-0839",
+    "sentence": "Ya saqué los documentos; todavía hay algo más dentro de la caja.",
+    "cloze": "algo más",
+    "answer": "algo más",
+    "lemma": "algo",
+    "meaning": "something else",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0839.mp3"
+  },
+  {
+    "id": "es-02-0840",
+    "sentence": "De los dos técnicos, ¿alguno tiene una copia legible del contrato?",
+    "cloze": "alguno",
+    "answer": "alguno",
+    "lemma": "alguno",
+    "meaning": "either one",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0840.mp3"
+  },
+  {
+    "id": "es-02-0841",
+    "sentence": "Conservé el recibo original, pues todavía podía necesitarlo para la devolución.",
+    "cloze": "pues",
+    "answer": "pues",
+    "lemma": "pues",
+    "meaning": "since",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0841.mp3"
+  },
+  {
+    "id": "es-02-0842",
+    "sentence": "No pude subir el reporte ya que perdí la conexión a internet.",
+    "cloze": "ya que",
+    "answer": "ya que",
+    "lemma": "ya que",
+    "meaning": "since",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0842.mp3"
+  },
+  {
+    "id": "es-02-0843",
+    "sentence": "Llegamos tarde al tren debido al cambio de andén sin previo aviso.",
+    "cloze": "debido al cambio de andén",
+    "answer": "debido al cambio de andén",
+    "lemma": "debido a",
+    "meaning": "because of the platform change",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0843.mp3"
+  },
+  {
+    "id": "es-02-0844",
+    "sentence": "Por falta de una pieza, el técnico regresó por la tarde.",
+    "cloze": "Por falta de una pieza",
+    "answer": "Por falta de una pieza",
+    "lemma": "por falta de",
+    "meaning": "because one part was missing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0844.mp3"
+  },
+  {
+    "id": "es-02-0845",
+    "sentence": "Marta canceló la comida, sobre todo porque tenía otra cita a la misma hora.",
+    "cloze": "sobre todo porque",
+    "answer": "sobre todo porque",
+    "lemma": "sobre todo porque",
+    "meaning": "mainly because",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0845.mp3"
+  },
+  {
+    "id": "es-02-0846",
+    "sentence": "El cargador dejó de funcionar; por eso pedí un reembolso.",
+    "cloze": "por eso",
+    "answer": "por eso",
+    "lemma": "por eso",
+    "meaning": "that is why",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0846.mp3"
+  },
+  {
+    "id": "es-02-0847",
+    "sentence": "La avenida estaba bloqueada, así que tomamos otra ruta hacia la terminal.",
+    "cloze": "así que",
+    "answer": "así que",
+    "lemma": "así que",
+    "meaning": "so",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0847.mp3"
+  },
+  {
+    "id": "es-02-0848",
+    "sentence": "La directora adelantó la entrega; como consecuencia, movimos la reunión al miércoles.",
+    "cloze": "como consecuencia",
+    "answer": "como consecuencia",
+    "lemma": "como consecuencia",
+    "meaning": "as a result",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0848.mp3"
+  },
+  {
+    "id": "es-02-0849",
+    "sentence": "Olvidé mi credencial y, por esa razón, no pude entrar al edificio.",
+    "cloze": "por esa razón",
+    "answer": "por esa razón",
+    "lemma": "por esa razón",
+    "meaning": "for that reason",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0849.mp3"
+  },
+  {
+    "id": "es-02-0850",
+    "sentence": "Además de corregir la fecha del archivo, guardé una copia antes de enviarlo.",
+    "cloze": "Además de corregir",
+    "answer": "Además de corregir",
+    "lemma": "además de",
+    "meaning": "besides correcting",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0850.mp3"
+  },
+  {
+    "id": "es-02-0851",
+    "sentence": "La oficina ya cerró, por lo que decidimos llamar mañana a primera hora.",
+    "cloze": "por lo que decidimos",
+    "answer": "por lo que decidimos",
+    "lemma": "por lo que",
+    "meaning": "so we decided to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0851.mp3"
+  },
+  {
+    "id": "es-02-0852",
+    "sentence": "El cable nuevo no solo es compatible, sino que también carga la computadora más rápido.",
+    "cloze": "sino que también",
+    "answer": "sino que también",
+    "lemma": "sino que también",
+    "meaning": "but it also",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0852.mp3"
+  },
+  {
+    "id": "es-02-0853",
+    "sentence": "El vuelo salió con demora, de modo que llegaremos después de las diez.",
+    "cloze": "de modo que",
+    "answer": "de modo que",
+    "lemma": "de modo que",
+    "meaning": "so",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0853.mp3"
+  },
+  {
+    "id": "es-02-0854",
+    "sentence": "Llamé al hotel para confirmar el cambio de habitación.",
+    "cloze": "para confirmar",
+    "answer": "para confirmar",
+    "lemma": "para confirmar",
+    "meaning": "in order to confirm",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0854.mp3"
+  },
+  {
+    "id": "es-02-0855",
+    "sentence": "Salimos por la carretera lateral para poder llegar antes del cierre.",
+    "cloze": "para poder llegar",
+    "answer": "para poder llegar",
+    "lemma": "para poder",
+    "meaning": "in order to be able to arrive",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0855.mp3"
+  },
+  {
+    "id": "es-02-0856",
+    "sentence": "Guardé la caja y la factura para pedir una devolución después.",
+    "cloze": "para pedir una devolución",
+    "answer": "para pedir una devolución",
+    "lemma": "pedir",
+    "meaning": "to request a return",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0856.mp3"
+  },
+  {
+    "id": "es-02-0857",
+    "sentence": "Compré una funda resistente para proteger la pantalla del celular.",
+    "cloze": "para proteger la pantalla",
+    "answer": "para proteger la pantalla",
+    "lemma": "proteger",
+    "meaning": "to protect the screen",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0857.mp3"
+  },
+  {
+    "id": "es-02-0858",
+    "sentence": "La coordinadora mandó un recordatorio para evitar confusiones con la nueva hora.",
+    "cloze": "para evitar confusiones",
+    "answer": "para evitar confusiones",
+    "lemma": "evitar",
+    "meaning": "to avoid confusion",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0858.mp3"
+  },
+  {
+    "id": "es-02-0859",
+    "sentence": "Para reiniciar el teléfono, primero apágalo y espera diez segundos.",
+    "cloze": "primero",
+    "answer": "primero",
+    "lemma": "primero",
+    "meaning": "first",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0859.mp3"
+  },
+  {
+    "id": "es-02-0860",
+    "sentence": "Al llegar al hotel, dejamos las maletas; luego buscamos un lugar para cenar.",
+    "cloze": "luego",
+    "answer": "luego",
+    "lemma": "luego",
+    "meaning": "then",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0860.mp3"
+  },
+  {
+    "id": "es-02-0861",
+    "sentence": "Después de comparar los precios, elegimos el boleto flexible.",
+    "cloze": "Después de comparar",
+    "answer": "Después de comparar",
+    "lemma": "después de",
+    "meaning": "after comparing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0861.mp3"
+  },
+  {
+    "id": "es-02-0862",
+    "sentence": "Revisa la fecha antes de confirmar la compra en la aplicación.",
+    "cloze": "antes de confirmar",
+    "answer": "antes de confirmar",
+    "lemma": "antes de",
+    "meaning": "before confirming",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0862.mp3"
+  },
+  {
+    "id": "es-02-0863",
+    "sentence": "Primero revisen la dirección; a continuación, peguen la etiqueta en la caja.",
+    "cloze": "a continuación",
+    "answer": "a continuación",
+    "lemma": "a continuación",
+    "meaning": "next",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0863.mp3"
+  },
+  {
+    "id": "es-02-0864",
+    "sentence": "La tarifa básica es más barata, pero no incluye equipaje documentado.",
+    "cloze": "pero no incluye",
+    "answer": "pero no incluye",
+    "lemma": "pero",
+    "meaning": "but it does not include",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0864.mp3"
+  },
+  {
+    "id": "es-02-0865",
+    "sentence": "La pantalla estaba rota; sin embargo, ahora funciona bien después de la reparación.",
+    "cloze": "sin embargo",
+    "answer": "sin embargo",
+    "lemma": "sin embargo",
+    "meaning": "however",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0865.mp3"
+  },
+  {
+    "id": "es-02-0866",
+    "sentence": "La tarifa básica cuesta menos; en cambio, la flexible permite cambios sin costo.",
+    "cloze": "en cambio",
+    "answer": "en cambio",
+    "lemma": "en cambio",
+    "meaning": "in contrast",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0866.mp3"
+  },
+  {
+    "id": "es-02-0867",
+    "sentence": "El pedido llegó a tiempo; aun así, venía sin la factura.",
+    "cloze": "aun así",
+    "answer": "aun así",
+    "lemma": "aun así",
+    "meaning": "even so",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0867.mp3"
+  },
+  {
+    "id": "es-02-0868",
+    "sentence": "La habitación da a la avenida, pero podemos cambiarla por una interior.",
+    "cloze": "pero podemos cambiarla por",
+    "answer": "pero podemos cambiarla por",
+    "lemma": "pero",
+    "meaning": "but we can exchange it for",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0868.mp3"
+  },
+  {
+    "id": "es-02-0869",
+    "sentence": "A pesar de estar lejos, elegimos ese hotel porque aceptaba mascotas.",
+    "cloze": "A pesar de estar lejos",
+    "answer": "A pesar de estar lejos",
+    "lemma": "a pesar de",
+    "meaning": "despite being far away",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0869.mp3"
+  },
+  {
+    "id": "es-02-0870",
+    "sentence": "La tienda aceptó el cambio pese a la falta de garantía.",
+    "cloze": "pese a la falta de garantía",
+    "answer": "pese a la falta de garantía",
+    "lemma": "pese a",
+    "meaning": "despite the lack of a warranty",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0870.mp3"
+  },
+  {
+    "id": "es-02-0871",
+    "sentence": "Aunque complicada al principio, la reparación terminó ese mismo día.",
+    "cloze": "Aunque complicada",
+    "answer": "Aunque complicada",
+    "lemma": "aunque",
+    "meaning": "although complicated",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0871.mp3"
+  },
+  {
+    "id": "es-02-0872",
+    "sentence": "Elegí la tarifa flexible, si bien cuesta un poco más que la básica.",
+    "cloze": "si bien",
+    "answer": "si bien",
+    "lemma": "si bien",
+    "meaning": "although",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0872.mp3"
+  },
+  {
+    "id": "es-02-0873",
+    "sentence": "Si hoy recibo la confirmación, reservaré la habitación esta noche.",
+    "cloze": "Si hoy recibo",
+    "answer": "Si hoy recibo",
+    "lemma": "si",
+    "meaning": "if I receive today",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0873.mp3"
+  },
+  {
+    "id": "es-02-0874",
+    "sentence": "El tren de las seis nos conviene, siempre que salga a tiempo; así llegaremos antes de las ocho.",
+    "cloze": "siempre que salga",
+    "answer": "siempre que salga",
+    "lemma": "siempre que",
+    "meaning": "provided that it leaves",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0874.mp3"
+  },
+  {
+    "id": "es-02-0875",
+    "sentence": "Si no encuentras la entrada, llámame desde la plaza.",
+    "cloze": "Si no encuentras",
+    "answer": "Si no encuentras",
+    "lemma": "si",
+    "meaning": "if you do not find",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0875.mp3"
+  },
+  {
+    "id": "es-02-0876",
+    "sentence": "La cita sigue pendiente; en caso de cambio de horario, te avisaré por mensaje.",
+    "cloze": "en caso de cambio",
+    "answer": "en caso de cambio",
+    "lemma": "en caso de",
+    "meaning": "in case of a change",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0876.mp3"
+  },
+  {
+    "id": "es-02-0877",
+    "sentence": "Mientras conserves el folio, podrás revisar el trámite en línea.",
+    "cloze": "Mientras conserves",
+    "answer": "Mientras conserves",
+    "lemma": "mientras",
+    "meaning": "as long as you keep",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0877.mp3"
+  },
+  {
+    "id": "es-02-0878",
+    "sentence": "De haber lugar en el hotel, nos quedaremos cerca de la terminal.",
+    "cloze": "De haber lugar",
+    "answer": "De haber lugar",
+    "lemma": "de haber",
+    "meaning": "should there be space",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0878.mp3"
+  },
+  {
+    "id": "es-02-0879",
+    "sentence": "Ante una falla de la aplicación, compraremos los boletos en la taquilla.",
+    "cloze": "Ante una falla de la aplicación",
+    "answer": "Ante una falla de la aplicación",
+    "lemma": "ante",
+    "meaning": "in the event of an app failure",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0879.mp3"
+  },
+  {
+    "id": "es-02-0880",
+    "sentence": "Si logramos terminar antes, pasaremos por el paquete camino a casa.",
+    "cloze": "Si logramos terminar",
+    "answer": "Si logramos terminar",
+    "lemma": "si",
+    "meaning": "if we manage to finish",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0880.mp3"
+  },
+  {
+    "id": "es-02-0881",
+    "sentence": "El técnico pasará entre las seis y las ocho para revisar la fuga.",
+    "cloze": "entre las seis y las ocho",
+    "answer": "entre las seis y las ocho",
+    "lemma": "entre … y …",
+    "meaning": "between six and eight",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0881.mp3"
+  },
+  {
+    "id": "es-02-0882",
+    "sentence": "Como el elevador está cerrado, subiremos por las escaleras hasta el cuarto piso.",
+    "cloze": "hasta el cuarto piso",
+    "answer": "hasta el cuarto piso",
+    "lemma": "hasta",
+    "meaning": "up to the fourth floor",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0882.mp3"
+  },
+  {
+    "id": "es-02-0883",
+    "sentence": "La puerta principal está cerrada; caminen hacia la salida de emergencia.",
+    "cloze": "hacia la salida de emergencia",
+    "answer": "hacia la salida de emergencia",
+    "lemma": "hacia",
+    "meaning": "toward the emergency exit",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0883.mp3"
+  },
+  {
+    "id": "es-02-0884",
+    "sentence": "Para llegar al cuarto de lavado, pase a través del patio interior.",
+    "cloze": "a través del patio interior",
+    "answer": "a través del patio interior",
+    "lemma": "a través de",
+    "meaning": "through the inner courtyard",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0884.mp3"
+  },
+  {
+    "id": "es-02-0885",
+    "sentence": "El taxi dio vuelta alrededor de la glorieta antes de tomar la avenida.",
+    "cloze": "alrededor de la glorieta",
+    "answer": "alrededor de la glorieta",
+    "lemma": "alrededor de",
+    "meaning": "around the traffic circle",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0885.mp3"
+  },
+  {
+    "id": "es-02-0886",
+    "sentence": "El departamento que vimos está entre la estación y el mercado.",
+    "cloze": "entre la estación y el mercado",
+    "answer": "entre la estación y el mercado",
+    "lemma": "entre",
+    "meaning": "between the station and the market",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0886.mp3"
+  },
+  {
+    "id": "es-02-0887",
+    "sentence": "Mañana revisaré la fuga con el personal de mantenimiento.",
+    "cloze": "con el personal de mantenimiento",
+    "answer": "con el personal de mantenimiento",
+    "lemma": "con",
+    "meaning": "with the maintenance staff",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0887.mp3"
+  },
+  {
+    "id": "es-02-0888",
+    "sentence": "Puede entregar la solicitud y los documentos requeridos en el módulo de atención al público.",
+    "cloze": "en el módulo de atención al público",
+    "answer": "en el módulo de atención al público",
+    "lemma": "en",
+    "meaning": "at the public service desk",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0888.mp3"
+  },
+  {
+    "id": "es-02-0889",
+    "sentence": "El cajero automático está frente a la entrada principal del edificio.",
+    "cloze": "frente a la entrada principal",
+    "answer": "frente a la entrada principal",
+    "lemma": "frente a",
+    "meaning": "in front of the main entrance",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0889.mp3"
+  },
+  {
+    "id": "es-02-0890",
+    "sentence": "La ventanilla principal recibe solicitudes únicamente los días hábiles, de las nueve de la mañana a la una de la tarde.",
+    "cloze": "de las nueve de la mañana a la una de la tarde",
+    "answer": "de las nueve de la mañana a la una de la tarde",
+    "lemma": "de … a …",
+    "meaning": "from nine in the morning to one in the afternoon",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0890.mp3"
+  },
+  {
+    "id": "es-02-0891",
+    "sentence": "El equipo trabajará desde el lunes hasta el jueves para terminar la reparación.",
+    "cloze": "desde el lunes hasta el jueves",
+    "answer": "desde el lunes hasta el jueves",
+    "lemma": "desde … hasta …",
+    "meaning": "from Monday through Thursday",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0891.mp3"
+  },
+  {
+    "id": "es-02-0892",
+    "sentence": "La revisión del departamento tomó unos cuarenta y cinco minutos.",
+    "cloze": "unos cuarenta y cinco minutos",
+    "answer": "unos cuarenta y cinco minutos",
+    "lemma": "unos",
+    "meaning": "about forty-five minutes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0892.mp3"
+  },
+  {
+    "id": "es-02-0893",
+    "sentence": "Desde el hotel, el viaje a la central camionera toma alrededor de veinte minutos.",
+    "cloze": "alrededor de veinte minutos",
+    "answer": "alrededor de veinte minutos",
+    "lemma": "alrededor de",
+    "meaning": "around twenty minutes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0893.mp3"
+  },
+  {
+    "id": "es-02-0894",
+    "sentence": "Según el letrero, el mirador está a unos doce kilómetros de aquí.",
+    "cloze": "a unos doce kilómetros de aquí",
+    "answer": "a unos doce kilómetros de aquí",
+    "lemma": "a unos … de",
+    "meaning": "about twelve kilometers from here",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0894.mp3"
+  },
+  {
+    "id": "es-02-0895",
+    "sentence": "La distancia entre el estacionamiento y la entrada es de dos kilómetros y medio.",
+    "cloze": "dos kilómetros y medio",
+    "answer": "dos kilómetros y medio",
+    "lemma": "kilómetro",
+    "meaning": "two and a half kilometers",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0895.mp3"
+  },
+  {
+    "id": "es-02-0896",
+    "sentence": "Para llenar este garrafón hasta la marca, hacen falta cuatro litros de agua.",
+    "cloze": "cuatro litros de agua",
+    "answer": "cuatro litros de agua",
+    "lemma": "litro",
+    "meaning": "four liters of water",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0896.mp3"
+  },
+  {
+    "id": "es-02-0897",
+    "sentence": "La maleta documentada pesa tres kilos y medio más que la de mano.",
+    "cloze": "tres kilos y medio más que",
+    "answer": "tres kilos y medio más que",
+    "lemma": "más que",
+    "meaning": "three and a half kilos more than",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0897.mp3"
+  },
+  {
+    "id": "es-02-0898",
+    "sentence": "Para la receta, necesito doscientos cincuenta gramos de harina.",
+    "cloze": "doscientos cincuenta gramos",
+    "answer": "doscientos cincuenta gramos",
+    "lemma": "gramo",
+    "meaning": "two hundred fifty grams",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0898.mp3"
+  },
+  {
+    "id": "es-02-0899",
+    "sentence": "La puerta debe medir un metro con veinte centímetros de ancho.",
+    "cloze": "un metro con veinte centímetros",
+    "answer": "un metro con veinte centímetros",
+    "lemma": "metro",
+    "meaning": "one meter and twenty centimeters",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0899.mp3"
+  },
+  {
+    "id": "es-02-0900",
+    "sentence": "El cable que necesitamos debe tener dos metros y medio de largo.",
+    "cloze": "dos metros y medio de largo",
+    "answer": "dos metros y medio de largo",
+    "lemma": "metro",
+    "meaning": "two and a half meters long",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0900.mp3"
+  },
+  {
+    "id": "es-02-0901",
+    "sentence": "Para reservar el departamento, piden un depósito de mil quinientos pesos.",
+    "cloze": "un depósito de mil quinientos pesos",
+    "answer": "un depósito de mil quinientos pesos",
+    "lemma": "depósito",
+    "meaning": "a deposit of fifteen hundred pesos",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0901.mp3"
+  },
+  {
+    "id": "es-02-0902",
+    "sentence": "Al confirmar el viaje, debemos pagar el veinticinco por ciento del total.",
+    "cloze": "el veinticinco por ciento del total",
+    "answer": "el veinticinco por ciento del total",
+    "lemma": "por ciento",
+    "meaning": "twenty-five percent of the total",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0902.mp3"
+  },
+  {
+    "id": "es-02-0903",
+    "sentence": "En el mercado, la manzana está a ciento diez pesos el kilo.",
+    "cloze": "a ciento diez pesos el kilo",
+    "answer": "a ciento diez pesos el kilo",
+    "lemma": "a … el kilo",
+    "meaning": "at one hundred ten pesos per kilo",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0903.mp3"
+  },
+  {
+    "id": "es-02-0904",
+    "sentence": "El cuarto sencillo cuesta seiscientos ochenta pesos por noche, con desayuno incluido.",
+    "cloze": "seiscientos ochenta pesos por noche",
+    "answer": "seiscientos ochenta pesos por noche",
+    "lemma": "por noche",
+    "meaning": "six hundred eighty pesos per night",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0904.mp3"
+  },
+  {
+    "id": "es-02-0905",
+    "sentence": "La renta incluye el agua, pero por el estacionamiento cobran novecientos pesos al mes.",
+    "cloze": "novecientos pesos al mes",
+    "answer": "novecientos pesos al mes",
+    "lemma": "al mes",
+    "meaning": "nine hundred pesos per month",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0905.mp3"
+  },
+  {
+    "id": "es-02-0906",
+    "sentence": "Con la credencial de estudiante, recibes un descuento del quince por ciento.",
+    "cloze": "un descuento del quince por ciento",
+    "answer": "un descuento del quince por ciento",
+    "lemma": "descuento",
+    "meaning": "a fifteen-percent discount",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0906.mp3"
+  },
+  {
+    "id": "es-02-0907",
+    "sentence": "La pantalla indica que el estacionamiento está al setenta por ciento de su capacidad.",
+    "cloze": "al setenta por ciento de su capacidad",
+    "answer": "al setenta por ciento de su capacidad",
+    "lemma": "al … por ciento",
+    "meaning": "at seventy percent of its capacity",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0907.mp3"
+  },
+  {
+    "id": "es-02-0908",
+    "sentence": "El curso será del doce al dieciséis de noviembre.",
+    "cloze": "del doce al dieciséis",
+    "answer": "del doce al dieciséis",
+    "lemma": "del … al …",
+    "meaning": "from the twelfth through the sixteenth",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0908.mp3"
+  },
+  {
+    "id": "es-02-0909",
+    "sentence": "El nuevo horario de atención al público comenzará a partir del cinco de enero.",
+    "cloze": "a partir del cinco de enero",
+    "answer": "a partir del cinco de enero",
+    "lemma": "a partir de",
+    "meaning": "starting January fifth",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0909.mp3"
+  },
+  {
+    "id": "es-02-0910",
+    "sentence": "El paquete llegará entre el lunes y el miércoles de la próxima semana.",
+    "cloze": "entre el lunes y el miércoles",
+    "answer": "entre el lunes y el miércoles",
+    "lemma": "entre … y …",
+    "meaning": "between Monday and Wednesday",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0910.mp3"
+  },
+  {
+    "id": "es-02-0911",
+    "sentence": "En el edificio recogen la basura cada quince días.",
+    "cloze": "cada quince días",
+    "answer": "cada quince días",
+    "lemma": "cada … días",
+    "meaning": "every fifteen days",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0911.mp3"
+  },
+  {
+    "id": "es-02-0912",
+    "sentence": "La administradora revisa los medidores una vez cada dos meses.",
+    "cloze": "una vez cada dos meses",
+    "answer": "una vez cada dos meses",
+    "lemma": "una vez cada …",
+    "meaning": "once every two months",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0912.mp3"
+  },
+  {
+    "id": "es-02-0913",
+    "sentence": "Por trabajo, hacemos el mismo viaje de dos a cuatro veces al año.",
+    "cloze": "de dos a cuatro veces al año",
+    "answer": "de dos a cuatro veces al año",
+    "lemma": "de … a … veces al año",
+    "meaning": "two to four times a year",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0913.mp3"
+  },
+  {
+    "id": "es-02-0914",
+    "sentence": "¿Me confirma por favor si el teléfono del taller termina en treinta y ocho, cero seis?",
+    "cloze": "termina en treinta y ocho, cero seis",
+    "answer": "termina en treinta y ocho, cero seis",
+    "lemma": "terminar en",
+    "meaning": "ends in thirty-eight, zero-six",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0914.mp3"
+  },
+  {
+    "id": "es-02-0915",
+    "sentence": "Los salones del curso están entre los pisos cinco y ocho.",
+    "cloze": "entre los pisos cinco y ocho",
+    "answer": "entre los pisos cinco y ocho",
+    "lemma": "entre los pisos … y …",
+    "meaning": "between floors five and eight",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0915.mp3"
+  },
+  {
+    "id": "es-02-0916",
+    "sentence": "El estacionamiento para visitas queda tres pisos debajo de la recepción.",
+    "cloze": "tres pisos debajo de la recepción",
+    "answer": "tres pisos debajo de la recepción",
+    "lemma": "debajo de",
+    "meaning": "three floors below reception",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0916.mp3"
+  },
+  {
+    "id": "es-02-0917",
+    "sentence": "Para la capacitación del próximo viernes, esperamos recibir entre treinta y treinta y cinco personas.",
+    "cloze": "entre treinta y treinta y cinco personas",
+    "answer": "entre treinta y treinta y cinco personas",
+    "lemma": "entre … y …",
+    "meaning": "between thirty and thirty-five people",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0917.mp3"
+  },
+  {
+    "id": "es-02-0918",
+    "sentence": "Según el inventario, quedan poco más de cien cajas en la bodega.",
+    "cloze": "poco más de cien cajas",
+    "answer": "poco más de cien cajas",
+    "lemma": "poco más de",
+    "meaning": "slightly more than one hundred boxes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0918.mp3"
+  },
+  {
+    "id": "es-02-0919",
+    "sentence": "La reparación costará aproximadamente mil quinientos pesos.",
+    "cloze": "aproximadamente",
+    "answer": "aproximadamente",
+    "lemma": "aproximadamente",
+    "meaning": "approximately",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0919.mp3"
+  },
+  {
+    "id": "es-02-0920",
+    "sentence": "Dentro de la caja, el monitor pesa poco menos de diez kilos.",
+    "cloze": "poco menos de diez kilos",
+    "answer": "poco menos de diez kilos",
+    "lemma": "poco menos de",
+    "meaning": "slightly less than ten kilos",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0920.mp3"
+  },
+  {
+    "id": "es-02-0921",
+    "sentence": "Como el autobús llegó tarde, perdí la conexión a Oaxaca en Puebla.",
+    "cloze": "perdí la conexión",
+    "answer": "perdí la conexión",
+    "lemma": "perder la conexión",
+    "meaning": "I missed the connection",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0921.mp3"
+  },
+  {
+    "id": "es-02-0922",
+    "sentence": "Por la cancelación, en la taquilla me cambiaron el boleto para la salida de las seis.",
+    "cloze": "me cambiaron el boleto",
+    "answer": "me cambiaron el boleto",
+    "lemma": "cambiarle el boleto a alguien",
+    "meaning": "they changed my ticket",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0922.mp3"
+  },
+  {
+    "id": "es-02-0923",
+    "sentence": "El tren de las nueve se canceló, pero pudimos tomar el siguiente sin pagar otra vez.",
+    "cloze": "pudimos tomar el siguiente",
+    "answer": "pudimos tomar el siguiente",
+    "lemma": "poder tomar el siguiente",
+    "meaning": "we were able to take the next one",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0923.mp3"
+  },
+  {
+    "id": "es-02-0924",
+    "sentence": "El agente pidió mi boleto y se lo enseñé antes de abordar.",
+    "cloze": "se lo enseñé",
+    "answer": "se lo enseñé",
+    "lemma": "enseñárselo a alguien",
+    "meaning": "I showed it to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0924.mp3"
+  },
+  {
+    "id": "es-02-0925",
+    "sentence": "Señor, el andén cambió; vaya al andén siete por este pasillo.",
+    "cloze": "vaya al andén siete",
+    "answer": "vaya al andén siete",
+    "lemma": "ir al andén siete",
+    "meaning": "go to platform seven",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0925.mp3"
+  },
+  {
+    "id": "es-02-0926",
+    "sentence": "Pasajeros, esta parada está cerrada; no se bajen aquí.",
+    "cloze": "no se bajen aquí",
+    "answer": "no se bajen aquí",
+    "lemma": "no bajarse aquí",
+    "meaning": "do not get off here",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0926.mp3"
+  },
+  {
+    "id": "es-02-0927",
+    "sentence": "El vuelo se canceló, pero la aerolínea nos reembolsará el costo del boleto esta semana.",
+    "cloze": "nos reembolsará el costo del boleto",
+    "answer": "nos reembolsará el costo del boleto",
+    "lemma": "reembolsar el costo del boleto",
+    "meaning": "it will refund us the cost of the ticket",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0927.mp3"
+  },
+  {
+    "id": "es-02-0928",
+    "sentence": "Por las obras, en la terminal se ofrece un servicio de transporte alterno.",
+    "cloze": "se ofrece",
+    "answer": "se ofrece",
+    "lemma": "ofrecerse",
+    "meaning": "is offered",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0928.mp3"
+  },
+  {
+    "id": "es-02-0929",
+    "sentence": "Por las obras en la avenida, la ruta por el Periférico será más rápida que la del centro.",
+    "cloze": "será más rápida que la del centro",
+    "answer": "será más rápida que la del centro",
+    "lemma": "ser más rápido que",
+    "meaning": "will be faster than the downtown route",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0929.mp3"
+  },
+  {
+    "id": "es-02-0930",
+    "sentence": "Mi maleta no llegó con el vuelo y la reporté como perdida en el módulo.",
+    "cloze": "la reporté como perdida",
+    "answer": "la reporté como perdida",
+    "lemma": "reportar algo como perdido",
+    "meaning": "I reported it as lost",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0930.mp3"
+  },
+  {
+    "id": "es-02-0931",
+    "sentence": "El empleado encontró mi celular y me lo devolvió en el módulo de objetos perdidos.",
+    "cloze": "me lo devolvió",
+    "answer": "me lo devolvió",
+    "lemma": "devolvérselo a alguien",
+    "meaning": "he returned it to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0931.mp3"
+  },
+  {
+    "id": "es-02-0932",
+    "sentence": "Señora, para llegar al sitio de taxis, cruce por el puente peatonal, por favor.",
+    "cloze": "cruce por el puente peatonal",
+    "answer": "cruce por el puente peatonal",
+    "lemma": "cruzar por el puente peatonal",
+    "meaning": "cross using the pedestrian bridge",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0932.mp3"
+  },
+  {
+    "id": "es-02-0933",
+    "sentence": "Como vamos a quedarnos una noche más, cambié la reservación para tres noches.",
+    "cloze": "cambié la reservación",
+    "answer": "cambié la reservación",
+    "lemma": "cambiar la reservación",
+    "meaning": "I changed the reservation",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0933.mp3"
+  },
+  {
+    "id": "es-02-0934",
+    "sentence": "La tarjeta de la habitación no abrió la puerta y me dieron otra en recepción.",
+    "cloze": "me dieron otra",
+    "answer": "me dieron otra",
+    "lemma": "darle otra a alguien",
+    "meaning": "they gave me another one",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0934.mp3"
+  },
+  {
+    "id": "es-02-0935",
+    "sentence": "El cuarto que daba a la avenida era ruidoso, así que pedí uno más tranquilo.",
+    "cloze": "pedí uno más tranquilo",
+    "answer": "pedí uno más tranquilo",
+    "lemma": "pedir uno más tranquilo",
+    "meaning": "I asked for a quieter one",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0935.mp3"
+  },
+  {
+    "id": "es-02-0936",
+    "sentence": "Señora, la llave ya está lista; recójala en recepción, por favor.",
+    "cloze": "recójala en recepción",
+    "answer": "recójala en recepción",
+    "lemma": "recogerla en recepción",
+    "meaning": "pick it up at reception",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0936.mp3"
+  },
+  {
+    "id": "es-02-0937",
+    "sentence": "Señor, hay una fuga junto a la ventana; no deje su maleta ahí.",
+    "cloze": "no deje su maleta ahí",
+    "answer": "no deje su maleta ahí",
+    "lemma": "no dejar la maleta ahí",
+    "meaning": "do not leave your suitcase there",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0937.mp3"
+  },
+  {
+    "id": "es-02-0938",
+    "sentence": "El aire acondicionado no funciona, pero el técnico lo reparará esta tarde.",
+    "cloze": "lo reparará esta tarde",
+    "answer": "lo reparará esta tarde",
+    "lemma": "repararlo",
+    "meaning": "he will repair it this afternoon",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0938.mp3"
+  },
+  {
+    "id": "es-02-0939",
+    "sentence": "Mientras reparan la fuga, el baño del pasillo se puede usar sin problema.",
+    "cloze": "se puede usar",
+    "answer": "se puede usar",
+    "lemma": "poderse usar",
+    "meaning": "can be used",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0939.mp3"
+  },
+  {
+    "id": "es-02-0940",
+    "sentence": "La huésped pidió una cobija y el recepcionista se la llevó al cuarto.",
+    "cloze": "se la llevó al cuarto",
+    "answer": "se la llevó al cuarto",
+    "lemma": "llevársela al cuarto",
+    "meaning": "he took it to her room",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0940.mp3"
+  },
+  {
+    "id": "es-02-0941",
+    "sentence": "Huéspedes, el elevador no funciona; suban por las escaleras, por favor.",
+    "cloze": "suban por las escaleras",
+    "answer": "suban por las escaleras",
+    "lemma": "subir por las escaleras",
+    "meaning": "go up using the stairs",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0941.mp3"
+  },
+  {
+    "id": "es-02-0942",
+    "sentence": "En la habitación, el agua de la regadera sale fría y necesito ayuda.",
+    "cloze": "el agua de la regadera sale fría",
+    "answer": "el agua de la regadera sale fría",
+    "lemma": "salir fría el agua",
+    "meaning": "the shower water runs cold",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0942.mp3"
+  },
+  {
+    "id": "es-02-0943",
+    "sentence": "Anoche empezó la fuga y cerré la llave del agua antes de llamar al técnico.",
+    "cloze": "cerré la llave del agua",
+    "answer": "cerré la llave del agua",
+    "lemma": "cerrar la llave del agua",
+    "meaning": "I shut off the water valve",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0943.mp3"
+  },
+  {
+    "id": "es-02-0944",
+    "sentence": "El plomero ya vio la fuga y volverá mañana con la pieza.",
+    "cloze": "volverá mañana con la pieza",
+    "answer": "volverá mañana con la pieza",
+    "lemma": "volver con la pieza",
+    "meaning": "he will return tomorrow with the part",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0944.mp3"
+  },
+  {
+    "id": "es-02-0945",
+    "sentence": "Señora, para revisar la fuga, abra la puerta de la cocina, por favor.",
+    "cloze": "abra la puerta de la cocina",
+    "answer": "abra la puerta de la cocina",
+    "lemma": "abrir la puerta de la cocina",
+    "meaning": "open the kitchen door",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0945.mp3"
+  },
+  {
+    "id": "es-02-0946",
+    "sentence": "Señor, el cable está mojado; no lo conecte todavía.",
+    "cloze": "no lo conecte todavía",
+    "answer": "no lo conecte todavía",
+    "lemma": "no conectarlo todavía",
+    "meaning": "do not plug it in yet",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0946.mp3"
+  },
+  {
+    "id": "es-02-0947",
+    "sentence": "En este edificio, las fallas se reportan en recepción.",
+    "cloze": "se reportan en recepción",
+    "answer": "se reportan en recepción",
+    "lemma": "reportarse en recepción",
+    "meaning": "are reported at reception",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0947.mp3"
+  },
+  {
+    "id": "es-02-0948",
+    "sentence": "Después de la reparación, el refrigerador hace menos ruido que antes.",
+    "cloze": "hace menos ruido que antes",
+    "answer": "hace menos ruido que antes",
+    "lemma": "hacer menos ruido que antes",
+    "meaning": "makes less noise than before",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0948.mp3"
+  },
+  {
+    "id": "es-02-0949",
+    "sentence": "El repartidor dejó la caja en otro edificio, pero la recuperó esta mañana.",
+    "cloze": "la recuperó esta mañana",
+    "answer": "la recuperó esta mañana",
+    "lemma": "recuperarla",
+    "meaning": "he recovered it this morning",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0949.mp3"
+  },
+  {
+    "id": "es-02-0950",
+    "sentence": "Como la entrega se retrasó, le confirmé la nueva fecha a la clienta por mensaje.",
+    "cloze": "le confirmé la nueva fecha",
+    "answer": "le confirmé la nueva fecha",
+    "lemma": "confirmarle una fecha a alguien",
+    "meaning": "I confirmed the new date for her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0950.mp3"
+  },
+  {
+    "id": "es-02-0951",
+    "sentence": "Como el elevador no funcionaba, los vecinos se ayudaron a subir las cajas por las escaleras.",
+    "cloze": "se ayudaron a subir las cajas",
+    "answer": "se ayudaron a subir las cajas",
+    "lemma": "ayudarse a subir las cajas",
+    "meaning": "they helped each other carry the boxes up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0951.mp3"
+  },
+  {
+    "id": "es-02-0952",
+    "sentence": "El rastreo cambió y ahora el paquete llegará un día después.",
+    "cloze": "llegará un día después",
+    "answer": "llegará un día después",
+    "lemma": "llegar un día después",
+    "meaning": "will arrive one day later",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0952.mp3"
+  },
+  {
+    "id": "es-02-0953",
+    "sentence": "La entrada principal estaba cerrada, pero entramos por el estacionamiento.",
+    "cloze": "entramos por el estacionamiento",
+    "answer": "entramos por el estacionamiento",
+    "lemma": "entrar por el estacionamiento",
+    "meaning": "we entered through the parking lot",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0953.mp3"
+  },
+  {
+    "id": "es-02-0954",
+    "sentence": "Señora, el hotel está después de la farmacia; dé vuelta a la derecha en la esquina.",
+    "cloze": "dé vuelta a la derecha",
+    "answer": "dé vuelta a la derecha",
+    "lemma": "dar vuelta a la derecha",
+    "meaning": "turn right",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0954.mp3"
+  },
+  {
+    "id": "es-02-0955",
+    "sentence": "Desde la estación, se llega al hotel por la avenida Juárez en diez minutos.",
+    "cloze": "se llega al hotel",
+    "answer": "se llega al hotel",
+    "lemma": "llegar al hotel",
+    "meaning": "you can reach the hotel",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0955.mp3"
+  },
+  {
+    "id": "es-02-0956",
+    "sentence": "Después del retraso, Ana y yo nos encontramos junto al módulo de información.",
+    "cloze": "nos encontramos junto al módulo",
+    "answer": "nos encontramos junto al módulo",
+    "lemma": "encontrarse junto al módulo",
+    "meaning": "we met by the desk",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0956.mp3"
+  },
+  {
+    "id": "es-02-0957",
+    "sentence": "Dejé la llave en el taxi, pero el chofer me la trajo al hotel.",
+    "cloze": "me la trajo al hotel",
+    "answer": "me la trajo al hotel",
+    "lemma": "traérsela a alguien",
+    "meaning": "he brought it to me at the hotel",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0957.mp3"
+  },
+  {
+    "id": "es-02-0958",
+    "sentence": "Después del viaje me dolía la cabeza, así que pedí un lugar tranquilo en la terminal.",
+    "cloze": "me dolía la cabeza",
+    "answer": "me dolía la cabeza",
+    "lemma": "dolerle la cabeza a alguien",
+    "meaning": "my head hurt",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0958.mp3"
+  },
+  {
+    "id": "es-02-0959",
+    "sentence": "No puedo caminar hasta el hotel; ¿podría llamar un taxi para mí, por favor?",
+    "cloze": "podría llamar un taxi",
+    "answer": "podría llamar un taxi",
+    "lemma": "poder llamar un taxi",
+    "meaning": "could you call a taxi?",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0959.mp3"
+  },
+  {
+    "id": "es-02-0960",
+    "sentence": "Señor, necesito llegar a la farmacia; indíqueme cómo llegar, por favor.",
+    "cloze": "indíqueme cómo llegar",
+    "answer": "indíqueme cómo llegar",
+    "lemma": "indicar cómo llegar",
+    "meaning": "show me how to get there",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0960.mp3"
+  },
+  {
+    "id": "es-02-0961",
+    "sentence": "Ayer corregí el reporte y se lo mandé de nuevo a la jefa.",
+    "cloze": "se lo mandé de nuevo",
+    "answer": "se lo mandé de nuevo",
+    "lemma": "mandar algo de nuevo",
+    "meaning": "I sent it to her again",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0961.mp3"
+  },
+  {
+    "id": "es-02-0962",
+    "sentence": "Cuando estudiaba en la universidad, trabajaba medio tiempo, pero el año pasado cambié de empleo.",
+    "cloze": "trabajaba medio tiempo",
+    "answer": "trabajaba medio tiempo",
+    "lemma": "trabajar",
+    "meaning": "I used to work part-time",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0962.mp3"
+  },
+  {
+    "id": "es-02-0963",
+    "sentence": "Esta semana hemos resuelto tres problemas con las cuentas del equipo.",
+    "cloze": "hemos resuelto tres problemas",
+    "answer": "hemos resuelto tres problemas",
+    "lemma": "resolver",
+    "meaning": "we have solved three problems",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0963.mp3"
+  },
+  {
+    "id": "es-02-0964",
+    "sentence": "La coordinadora acaba de cambiar el salón de la capacitación.",
+    "cloze": "acaba de cambiar el salón",
+    "answer": "acaba de cambiar el salón",
+    "lemma": "acabar de cambiar",
+    "meaning": "has just changed the room",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0964.mp3"
+  },
+  {
+    "id": "es-02-0965",
+    "sentence": "El archivo final ya está listo y lo compartiré con el equipo esta tarde.",
+    "cloze": "lo compartiré con el equipo",
+    "answer": "lo compartiré con el equipo",
+    "lemma": "compartir algo",
+    "meaning": "I will share it with the team",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0965.mp3"
+  },
+  {
+    "id": "es-02-0966",
+    "sentence": "Como Marta faltó al curso, le guardé los materiales impresos.",
+    "cloze": "le guardé los materiales",
+    "answer": "le guardé los materiales",
+    "lemma": "guardar algo a alguien",
+    "meaning": "I saved the materials for her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0966.mp3"
+  },
+  {
+    "id": "es-02-0967",
+    "sentence": "La contadora pidió las facturas y mañana se las volveré a enviar.",
+    "cloze": "se las volveré a enviar",
+    "answer": "se las volveré a enviar",
+    "lemma": "volver a enviar algo",
+    "meaning": "I will send them to her again",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0967.mp3"
+  },
+  {
+    "id": "es-02-0968",
+    "sentence": "Por el cambio de horario, nos reunimos en línea ayer por la tarde.",
+    "cloze": "nos reunimos en línea",
+    "answer": "nos reunimos en línea",
+    "lemma": "reunirse",
+    "meaning": "we met online",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0968.mp3"
+  },
+  {
+    "id": "es-02-0969",
+    "sentence": "Después del taller, Ana y Leo se recomendaron dos podcasts sobre cine.",
+    "cloze": "se recomendaron dos podcasts",
+    "answer": "se recomendaron dos podcasts",
+    "lemma": "recomendarse algo",
+    "meaning": "they recommended two podcasts to each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0969.mp3"
+  },
+  {
+    "id": "es-02-0970",
+    "sentence": "Con este enlace se recuperan las cuentas bloqueadas en pocos minutos.",
+    "cloze": "se recuperan las cuentas bloqueadas",
+    "answer": "se recuperan las cuentas bloqueadas",
+    "lemma": "recuperar",
+    "meaning": "blocked accounts are recovered",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0970.mp3"
+  },
+  {
+    "id": "es-02-0971",
+    "sentence": "Luis, el módem no responde; reinícialo desde el menú, por favor.",
+    "cloze": "reinícialo desde el menú",
+    "answer": "reinícialo desde el menú",
+    "lemma": "reiniciar algo",
+    "meaning": "restart it from the menu",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0971.mp3"
+  },
+  {
+    "id": "es-02-0972",
+    "sentence": "Señora, la copia todavía se está guardando; no cierre la aplicación.",
+    "cloze": "no cierre la aplicación",
+    "answer": "no cierre la aplicación",
+    "lemma": "no cerrar",
+    "meaning": "do not close the application",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0972.mp3"
+  },
+  {
+    "id": "es-02-0973",
+    "sentence": "Equipo, descarguen el archivo antes de la sesión de mañana.",
+    "cloze": "descarguen el archivo",
+    "answer": "descarguen el archivo",
+    "lemma": "descargar algo",
+    "meaning": "download the file",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0973.mp3"
+  },
+  {
+    "id": "es-02-0974",
+    "sentence": "Todavía no puedo enviar la presentación porque la estamos revisando.",
+    "cloze": "la estamos revisando",
+    "answer": "la estamos revisando",
+    "lemma": "estar revisando algo",
+    "meaning": "we are reviewing it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0974.mp3"
+  },
+  {
+    "id": "es-02-0975",
+    "sentence": "La barra ya llegó al cien por ciento, pero el programa sigue cargando.",
+    "cloze": "sigue cargando",
+    "answer": "sigue cargando",
+    "lemma": "seguir cargando",
+    "meaning": "keeps loading",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0975.mp3"
+  },
+  {
+    "id": "es-02-0976",
+    "sentence": "Después de actualizarlo, el calendario dejó de sincronizarse con mi celular.",
+    "cloze": "dejó de sincronizarse",
+    "answer": "dejó de sincronizarse",
+    "lemma": "dejar de sincronizarse",
+    "meaning": "stopped syncing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0976.mp3"
+  },
+  {
+    "id": "es-02-0977",
+    "sentence": "El documento se cerró sin guardar; vuelve a abrirlo desde la carpeta.",
+    "cloze": "vuelve a abrirlo",
+    "answer": "vuelve a abrirlo",
+    "lemma": "volver a abrir algo",
+    "meaning": "open it again",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0977.mp3"
+  },
+  {
+    "id": "es-02-0978",
+    "sentence": "Como cancelaron el taller, voy a cambiar la hora de nuestra junta.",
+    "cloze": "voy a cambiar la hora",
+    "answer": "voy a cambiar la hora",
+    "lemma": "ir a cambiar",
+    "meaning": "I am going to change the time",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0978.mp3"
+  },
+  {
+    "id": "es-02-0979",
+    "sentence": "No tengo una respuesta todavía, pero te confirmaré el lugar esta noche.",
+    "cloze": "te confirmaré el lugar",
+    "answer": "te confirmaré el lugar",
+    "lemma": "confirmar algo a alguien",
+    "meaning": "I will confirm the place for you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0979.mp3"
+  },
+  {
+    "id": "es-02-0980",
+    "sentence": "Disculpe, ¿podría repetirme el nombre de usuario?",
+    "cloze": "podría repetirme",
+    "answer": "podría repetirme",
+    "lemma": "poder repetir",
+    "meaning": "could you repeat to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0980.mp3"
+  },
+  {
+    "id": "es-02-0981",
+    "sentence": "No entré a la videollamada por un problema con mi cuenta.",
+    "cloze": "por un problema con mi cuenta",
+    "answer": "por un problema con mi cuenta",
+    "lemma": "por",
+    "meaning": "because of a problem with my account",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0981.mp3"
+  },
+  {
+    "id": "es-02-0982",
+    "sentence": "Este adaptador es para conectar la laptop al proyector.",
+    "cloze": "conectar la laptop",
+    "answer": "conectar la laptop",
+    "lemma": "conectar algo",
+    "meaning": "to connect the laptop",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0982.mp3"
+  },
+  {
+    "id": "es-02-0983",
+    "sentence": "Para las videollamadas, la conexión por cable es más estable que el wifi.",
+    "cloze": "es más estable que el wifi",
+    "answer": "es más estable que el wifi",
+    "lemma": "más que",
+    "meaning": "is more stable than Wi-Fi",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0983.mp3"
+  },
+  {
+    "id": "es-02-0984",
+    "sentence": "De las tres suscripciones, elegí la menos costosa.",
+    "cloze": "la menos costosa",
+    "answer": "la menos costosa",
+    "lemma": "menos costoso",
+    "meaning": "the least expensive one",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0984.mp3"
+  },
+  {
+    "id": "es-02-0985",
+    "sentence": "No encuentro la versión que guardaste ayer.",
+    "cloze": "que guardaste ayer",
+    "answer": "que guardaste ayer",
+    "lemma": "que",
+    "meaning": "that you saved yesterday",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0985.mp3"
+  },
+  {
+    "id": "es-02-0986",
+    "sentence": "Este es el sitio donde subimos las tareas del curso.",
+    "cloze": "donde subimos las tareas",
+    "answer": "donde subimos las tareas",
+    "lemma": "donde",
+    "meaning": "where we upload the assignments",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0986.mp3"
+  },
+  {
+    "id": "es-02-0987",
+    "sentence": "Durante la junta, nadie pudo abrir el enlace de la presentación.",
+    "cloze": "nadie pudo abrir el enlace",
+    "answer": "nadie pudo abrir el enlace",
+    "lemma": "nadie",
+    "meaning": "nobody could open the link",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0987.mp3"
+  },
+  {
+    "id": "es-02-0988",
+    "sentence": "El instructor se enfermó; por eso pospusimos la capacitación hasta el viernes.",
+    "cloze": "por eso pospusimos la capacitación",
+    "answer": "por eso pospusimos la capacitación",
+    "lemma": "por eso",
+    "meaning": "so we postponed the training",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0988.mp3"
+  },
+  {
+    "id": "es-02-0989",
+    "sentence": "Antes de volver a enviarlo, revisé el archivo con mi compañera.",
+    "cloze": "Antes de volver a enviarlo",
+    "answer": "Antes de volver a enviarlo",
+    "lemma": "antes de",
+    "meaning": "before sending it again",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0989.mp3"
+  },
+  {
+    "id": "es-02-0990",
+    "sentence": "Si vuelve a fallar la cuenta, avísame antes de la reunión.",
+    "cloze": "Si vuelve a fallar la cuenta",
+    "answer": "Si vuelve a fallar la cuenta",
+    "lemma": "si",
+    "meaning": "if the account fails again",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0990.mp3"
+  },
+  {
+    "id": "es-02-0991",
+    "sentence": "La mitad del grupo eligió el curso de los sábados.",
+    "cloze": "La mitad del grupo",
+    "answer": "La mitad del grupo",
+    "lemma": "la mitad de",
+    "meaning": "half of the group",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0991.mp3"
+  },
+  {
+    "id": "es-02-0992",
+    "sentence": "La capacitación duró cerca de una hora y media.",
+    "cloze": "cerca de una hora y media",
+    "answer": "cerca de una hora y media",
+    "lemma": "cerca de",
+    "meaning": "about an hour and a half",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0992.mp3"
+  },
+  {
+    "id": "es-02-0993",
+    "sentence": "Perdón, no podremos ir a la función porque cambiaron nuestro turno.",
+    "cloze": "no podremos ir a la función",
+    "answer": "no podremos ir a la función",
+    "lemma": "no poder ir",
+    "meaning": "we will not be able to go to the show",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0993.mp3"
+  },
+  {
+    "id": "es-02-0994",
+    "sentence": "Tenemos un boleto extra; ¿te gustaría acompañarnos al concierto?",
+    "cloze": "te gustaría acompañarnos",
+    "answer": "te gustaría acompañarnos",
+    "lemma": "gustar + infinitivo",
+    "meaning": "would you like to join us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0994.mp3"
+  },
+  {
+    "id": "es-02-0995",
+    "sentence": "Disculpe, quisiera cambiar estos audífonos porque solo se oye de un lado.",
+    "cloze": "quisiera cambiar estos audífonos",
+    "answer": "quisiera cambiar estos audífonos",
+    "lemma": "quisiera",
+    "meaning": "I would like to exchange these headphones",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0995.mp3"
+  },
+  {
+    "id": "es-02-0996",
+    "sentence": "Cuando digo «la versión final», me refiero al archivo firmado.",
+    "cloze": "me refiero al archivo firmado",
+    "answer": "me refiero al archivo firmado",
+    "lemma": "referirse a",
+    "meaning": "I mean the signed file",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0996.mp3"
+  },
+  {
+    "id": "es-02-0997",
+    "sentence": "La reunión será a las siete, no a las seis.",
+    "cloze": "a las siete, no a las seis",
+    "answer": "a las siete, no a las seis",
+    "lemma": "no",
+    "meaning": "at seven, not at six",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0997.mp3"
+  },
+  {
+    "id": "es-02-0998",
+    "sentence": "Entonces, ¿ustedes sí vendrán a la celebración el sábado?",
+    "cloze": "sí vendrán a la celebración",
+    "answer": "sí vendrán a la celebración",
+    "lemma": "venir",
+    "meaning": "you will indeed come to the celebration",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0998.mp3"
+  },
+  {
+    "id": "es-02-0999",
+    "sentence": "La llamada se cortó; ¿puede repetirlo más despacio, por favor?",
+    "cloze": "puede repetirlo más despacio",
+    "answer": "puede repetirlo más despacio",
+    "lemma": "poder repetir algo",
+    "meaning": "can you repeat it more slowly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0999.mp3"
+  },
+  {
+    "id": "es-02-1000",
+    "sentence": "Primero corregí la fecha y luego se lo mandé a la coordinadora.",
+    "cloze": "se lo mandé a la coordinadora",
+    "answer": "se lo mandé a la coordinadora",
+    "lemma": "mandar algo a alguien",
+    "meaning": "I sent it to the coordinator",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-1000.mp3"
   }
 ]
