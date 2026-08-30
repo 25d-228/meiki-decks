@@ -1106,15 +1106,22 @@ class MeikiDecksTests(unittest.TestCase):
 
         self.assertEqual(actual_counts, expected_counts)
 
-    def test_mexican_spanish_01_source_has_expected_card_count(self):
+    def test_mexican_spanish_sources_have_current_card_counts(self):
         repository_root = Path(__file__).resolve().parents[1]
-        cards = json.loads(
-            (repository_root / "cards" / "es-MX" / "01.json").read_text(
-                encoding="utf-8"
-            )
-        )
+        expected_counts = {"01": 800, "02": 1_000}
 
-        self.assertEqual(len(cards), 800)
+        actual_counts = {
+            stage: len(
+                json.loads(
+                    (
+                        repository_root / "cards" / "es-MX" / f"{stage}.json"
+                    ).read_text(encoding="utf-8")
+                )
+            )
+            for stage in expected_counts
+        }
+
+        self.assertEqual(actual_counts, expected_counts)
 
     def test_french_build_uses_complete_stage_order_and_names(self):
         self.language = "fr-FR"
