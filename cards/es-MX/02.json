@@ -1998,5 +1998,2045 @@
     "meaning": "used to learn new words",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0200.mp3"
+  },
+  {
+    "id": "es-02-0201",
+    "sentence": "La farmacia estaba cerrada cuando llegamos, así que regresamos a casa.",
+    "cloze": "estaba cerrada",
+    "answer": "estaba cerrada",
+    "lemma": "estar cerrado",
+    "meaning": "was closed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0201.mp3"
+  },
+  {
+    "id": "es-02-0202",
+    "sentence": "Mientras hacía mucho viento, esperamos el autobús dentro de la estación.",
+    "cloze": "esperamos el autobús",
+    "answer": "esperamos el autobús",
+    "lemma": "esperar el autobús",
+    "meaning": "we waited for the bus",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0202.mp3"
+  },
+  {
+    "id": "es-02-0203",
+    "sentence": "Eran casi las nueve cuando terminó la reunión, así que fuimos a casa.",
+    "cloze": "terminó la reunión",
+    "answer": "terminó la reunión",
+    "lemma": "terminar la reunión",
+    "meaning": "the meeting ended",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0203.mp3"
+  },
+  {
+    "id": "es-02-0204",
+    "sentence": "Había poca gente cuando entré al museo, pero después llegó un grupo grande.",
+    "cloze": "Había poca gente",
+    "answer": "Había poca gente",
+    "lemma": "haber poca gente",
+    "meaning": "there were few people",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0204.mp3"
+  },
+  {
+    "id": "es-02-0205",
+    "sentence": "Yo tenía mucho sueño cuando salí de la oficina, pero fui a cenar con mis compañeros.",
+    "cloze": "salí de la oficina",
+    "answer": "salí de la oficina",
+    "lemma": "salir de la oficina",
+    "meaning": "I left the office",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0205.mp3"
+  },
+  {
+    "id": "es-02-0206",
+    "sentence": "Estábamos en la fila cuando vimos el aviso de cancelación en la pantalla.",
+    "cloze": "Estábamos en la fila",
+    "answer": "Estábamos en la fila",
+    "lemma": "estar en la fila",
+    "meaning": "we were in line",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0206.mp3"
+  },
+  {
+    "id": "es-02-0207",
+    "sentence": "Raúl trabajaba en recepción cuando lo conocí durante una capacitación.",
+    "cloze": "lo conocí",
+    "answer": "lo conocí",
+    "lemma": "conocer a alguien",
+    "meaning": "I met him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0207.mp3"
+  },
+  {
+    "id": "es-02-0208",
+    "sentence": "Vivíamos cerca del mercado cuando abrió esa cafetería de la esquina.",
+    "cloze": "abrió esa cafetería",
+    "answer": "abrió esa cafetería",
+    "lemma": "abrir",
+    "meaning": "that café opened",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0208.mp3"
+  },
+  {
+    "id": "es-02-0209",
+    "sentence": "El técnico llevaba una chamarra azul cuando lo vi junto al elevador.",
+    "cloze": "llevaba una chamarra azul",
+    "answer": "llevaba una chamarra azul",
+    "lemma": "llevar puesto",
+    "meaning": "was wearing a blue jacket",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0209.mp3"
+  },
+  {
+    "id": "es-02-0210",
+    "sentence": "Quería cambiar la fecha, pero no pude hablar con la coordinadora.",
+    "cloze": "no pude hablar",
+    "answer": "no pude hablar",
+    "lemma": "no poder hablar",
+    "meaning": "I could not speak",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0210.mp3"
+  },
+  {
+    "id": "es-02-0211",
+    "sentence": "Desde mi asiento no podía leer la pantalla, así que cambié de lugar.",
+    "cloze": "cambié de lugar",
+    "answer": "cambié de lugar",
+    "lemma": "cambiar de lugar",
+    "meaning": "I changed seats",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0211.mp3"
+  },
+  {
+    "id": "es-02-0212",
+    "sentence": "Los huéspedes no sabían el horario y preguntaron en recepción antes de salir.",
+    "cloze": "preguntaron en recepción",
+    "answer": "preguntaron en recepción",
+    "lemma": "preguntar en recepción",
+    "meaning": "they asked at reception",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0212.mp3"
+  },
+  {
+    "id": "es-02-0213",
+    "sentence": "Iba al trabajo cuando empezó a llover, así que tomé el metro.",
+    "cloze": "empezó a llover",
+    "answer": "empezó a llover",
+    "lemma": "empezar a llover",
+    "meaning": "it started to rain",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0213.mp3"
+  },
+  {
+    "id": "es-02-0214",
+    "sentence": "Mi hermana y yo veníamos de la estación cuando vimos el aviso del retraso.",
+    "cloze": "vimos el aviso del retraso",
+    "answer": "vimos el aviso del retraso",
+    "lemma": "ver el aviso",
+    "meaning": "we saw the delay notice",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0214.mp3"
+  },
+  {
+    "id": "es-02-0215",
+    "sentence": "Yo hacía la cena cuando llamó mi mamá para confirmar la hora.",
+    "cloze": "llamó mi mamá",
+    "answer": "llamó mi mamá",
+    "lemma": "llamar",
+    "meaning": "my mother called",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0215.mp3"
+  },
+  {
+    "id": "es-02-0216",
+    "sentence": "Mariana preparaba los documentos cuando falló el internet de la oficina.",
+    "cloze": "falló el internet",
+    "answer": "falló el internet",
+    "lemma": "fallar el internet",
+    "meaning": "the internet failed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0216.mp3"
+  },
+  {
+    "id": "es-02-0217",
+    "sentence": "Mi esposo y yo leíamos el aviso cuando llegó la empleada del módulo.",
+    "cloze": "llegó la empleada",
+    "answer": "llegó la empleada",
+    "lemma": "llegar",
+    "meaning": "the employee arrived",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0217.mp3"
+  },
+  {
+    "id": "es-02-0218",
+    "sentence": "Los pasajeros esperaban el autobús cuando recibieron el mensaje del retraso.",
+    "cloze": "recibieron el mensaje",
+    "answer": "recibieron el mensaje",
+    "lemma": "recibir el mensaje",
+    "meaning": "they received the message",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0218.mp3"
+  },
+  {
+    "id": "es-02-0219",
+    "sentence": "Mi hijo dormía cuando sonó el teléfono de la habitación.",
+    "cloze": "sonó el teléfono",
+    "answer": "sonó el teléfono",
+    "lemma": "sonar el teléfono",
+    "meaning": "the telephone rang",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0219.mp3"
+  },
+  {
+    "id": "es-02-0220",
+    "sentence": "Yo tomaba café cuando llegó mi compañera con los resultados.",
+    "cloze": "llegó mi compañera",
+    "answer": "llegó mi compañera",
+    "lemma": "llegar",
+    "meaning": "my colleague arrived",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0220.mp3"
+  },
+  {
+    "id": "es-02-0221",
+    "sentence": "El técnico llegó mientras preparábamos los archivos para la reunión.",
+    "cloze": "preparábamos los archivos",
+    "answer": "preparábamos los archivos",
+    "lemma": "preparar los archivos",
+    "meaning": "we were preparing the files",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0221.mp3"
+  },
+  {
+    "id": "es-02-0222",
+    "sentence": "La lámpara falló mientras trabajábamos en el reporte de la oficina.",
+    "cloze": "trabajábamos en el reporte",
+    "answer": "trabajábamos en el reporte",
+    "lemma": "trabajar en el reporte",
+    "meaning": "we were working on the report",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0222.mp3"
+  },
+  {
+    "id": "es-02-0223",
+    "sentence": "Mientras buscaba mi credencial, encontré mi cartera debajo del escritorio.",
+    "cloze": "encontré mi cartera",
+    "answer": "encontré mi cartera",
+    "lemma": "encontrar la cartera",
+    "meaning": "I found my wallet",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0223.mp3"
+  },
+  {
+    "id": "es-02-0224",
+    "sentence": "Recibimos el mensaje mientras estábamos en la junta con la directora.",
+    "cloze": "estábamos en la junta",
+    "answer": "estábamos en la junta",
+    "lemma": "estar en la junta",
+    "meaning": "we were in the meeting",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0224.mp3"
+  },
+  {
+    "id": "es-02-0225",
+    "sentence": "La salida cambió de andén mientras esperábamos el tren de las nueve.",
+    "cloze": "esperábamos el tren",
+    "answer": "esperábamos el tren",
+    "lemma": "esperar el tren",
+    "meaning": "we were waiting for the train",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0225.mp3"
+  },
+  {
+    "id": "es-02-0226",
+    "sentence": "Comenzó a llover mientras caminábamos al mercado desde la estación.",
+    "cloze": "Comenzó a llover",
+    "answer": "Comenzó a llover",
+    "lemma": "comenzar a llover",
+    "meaning": "it began to rain",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0226.mp3"
+  },
+  {
+    "id": "es-02-0227",
+    "sentence": "El teléfono sonó mientras llenaba el formato en recepción.",
+    "cloze": "llenaba el formato",
+    "answer": "llenaba el formato",
+    "lemma": "llenar el formato",
+    "meaning": "I was filling out the form",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0227.mp3"
+  },
+  {
+    "id": "es-02-0228",
+    "sentence": "La reunión terminó mientras todavía llovía afuera del edificio.",
+    "cloze": "todavía llovía",
+    "answer": "todavía llovía",
+    "lemma": "seguir lloviendo",
+    "meaning": "it was still raining",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0228.mp3"
+  },
+  {
+    "id": "es-02-0229",
+    "sentence": "Mientras la directora entraba al edificio, la vi desde recepción.",
+    "cloze": "entraba al edificio",
+    "answer": "entraba al edificio",
+    "lemma": "entrar al edificio",
+    "meaning": "was entering the building",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0229.mp3"
+  },
+  {
+    "id": "es-02-0230",
+    "sentence": "La puerta estaba cerrada, pero pudimos entrar por la recepción del hotel.",
+    "cloze": "pudimos entrar",
+    "answer": "pudimos entrar",
+    "lemma": "poder entrar",
+    "meaning": "we managed to enter",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0230.mp3"
+  },
+  {
+    "id": "es-02-0231",
+    "sentence": "Puse las llaves en el cajón mientras hablaba con la administradora.",
+    "cloze": "hablaba con la administradora",
+    "answer": "hablaba con la administradora",
+    "lemma": "hablar con alguien",
+    "meaning": "I was speaking with the manager",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0231.mp3"
+  },
+  {
+    "id": "es-02-0232",
+    "sentence": "La empleada dijo mi nombre mientras revisaba la lista de citas.",
+    "cloze": "revisaba la lista de citas",
+    "answer": "revisaba la lista de citas",
+    "lemma": "revisar la lista",
+    "meaning": "was checking the appointment list",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0232.mp3"
+  },
+  {
+    "id": "es-02-0233",
+    "sentence": "Mi hermana vino cuando yo preparaba la cena para nuestros amigos.",
+    "cloze": "vino",
+    "answer": "vino",
+    "lemma": "venir",
+    "meaning": "came",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0233.mp3"
+  },
+  {
+    "id": "es-02-0234",
+    "sentence": "Mientras el taxista revisaba el mapa, di la dirección correcta del hotel.",
+    "cloze": "di la dirección correcta",
+    "answer": "di la dirección correcta",
+    "lemma": "dar la dirección",
+    "meaning": "I gave the correct address",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0234.mp3"
+  },
+  {
+    "id": "es-02-0235",
+    "sentence": "Supe la respuesta mientras la maestra explicaba el último ejercicio.",
+    "cloze": "Supe",
+    "answer": "Supe",
+    "lemma": "saber",
+    "meaning": "I realized",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0235.mp3"
+  },
+  {
+    "id": "es-02-0236",
+    "sentence": "Quise llamar al hotel mientras esperaba el tren en la terminal.",
+    "cloze": "Quise",
+    "answer": "Quise",
+    "lemma": "querer",
+    "meaning": "I tried to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0236.mp3"
+  },
+  {
+    "id": "es-02-0237",
+    "sentence": "La cajera trajo otra terminal porque la primera no funcionaba.",
+    "cloze": "trajo otra terminal",
+    "answer": "trajo otra terminal",
+    "lemma": "traer otra terminal",
+    "meaning": "she brought another card terminal",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0237.mp3"
+  },
+  {
+    "id": "es-02-0238",
+    "sentence": "Durante la capacitación hacía calor, así que hicimos una pausa.",
+    "cloze": "hicimos una pausa",
+    "answer": "hicimos una pausa",
+    "lemma": "hacer una pausa",
+    "meaning": "we took a break",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0238.mp3"
+  },
+  {
+    "id": "es-02-0239",
+    "sentence": "Tuvimos un problema cuando regresábamos al hotel después de la cena.",
+    "cloze": "regresábamos al hotel",
+    "answer": "regresábamos al hotel",
+    "lemma": "regresar al hotel",
+    "meaning": "we were returning to the hotel",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0239.mp3"
+  },
+  {
+    "id": "es-02-0240",
+    "sentence": "Fuimos a la farmacia porque mi hija tenía fiebre después del viaje.",
+    "cloze": "tenía fiebre",
+    "answer": "tenía fiebre",
+    "lemma": "tener fiebre",
+    "meaning": "had a fever",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0240.mp3"
+  },
+  {
+    "id": "es-02-0241",
+    "sentence": "En lo que va del mes, he tenido tres reuniones con el nuevo equipo.",
+    "cloze": "he tenido tres reuniones",
+    "answer": "he tenido tres reuniones",
+    "lemma": "tener una reunión",
+    "meaning": "I have had three meetings",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0241.mp3"
+  },
+  {
+    "id": "es-02-0242",
+    "sentence": "Esta semana ya hemos enviado todos los archivos del curso.",
+    "cloze": "hemos enviado",
+    "answer": "hemos enviado",
+    "lemma": "enviar",
+    "meaning": "we have sent",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0242.mp3"
+  },
+  {
+    "id": "es-02-0243",
+    "sentence": "Hoy todavía no he recibido el mensaje de confirmación.",
+    "cloze": "no he recibido",
+    "answer": "no he recibido",
+    "lemma": "recibir",
+    "meaning": "I have not received",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0243.mp3"
+  },
+  {
+    "id": "es-02-0244",
+    "sentence": "Hasta ahora, la clínica no ha cambiado la hora de mi cita.",
+    "cloze": "no ha cambiado",
+    "answer": "no ha cambiado",
+    "lemma": "cambiar",
+    "meaning": "has not changed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0244.mp3"
+  },
+  {
+    "id": "es-02-0245",
+    "sentence": "¿Alguna vez has perdido una maleta durante un viaje?",
+    "cloze": "has perdido una maleta",
+    "answer": "has perdido una maleta",
+    "lemma": "perder una maleta",
+    "meaning": "have you ever lost a suitcase",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0245.mp3"
+  },
+  {
+    "id": "es-02-0246",
+    "sentence": "En lo que va del año, mis papás han visitado Puebla dos veces.",
+    "cloze": "han visitado Puebla",
+    "answer": "han visitado Puebla",
+    "lemma": "visitar",
+    "meaning": "they have visited Puebla",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0246.mp3"
+  },
+  {
+    "id": "es-02-0247",
+    "sentence": "Últimamente, he usado el metro porque hay menos tráfico.",
+    "cloze": "he usado el metro",
+    "answer": "he usado el metro",
+    "lemma": "usar el metro",
+    "meaning": "I have used the subway",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0247.mp3"
+  },
+  {
+    "id": "es-02-0248",
+    "sentence": "Desde que empezó el curso, hemos aprendido a resolver estos ejercicios.",
+    "cloze": "hemos aprendido",
+    "answer": "hemos aprendido",
+    "lemma": "aprender",
+    "meaning": "we have learned",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0248.mp3"
+  },
+  {
+    "id": "es-02-0249",
+    "sentence": "Ya han reparado el elevador, así que podemos usarlo.",
+    "cloze": "han reparado",
+    "answer": "han reparado",
+    "lemma": "reparar",
+    "meaning": "they have repaired",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0249.mp3"
+  },
+  {
+    "id": "es-02-0250",
+    "sentence": "Todavía no he podido descargar el archivo que necesito.",
+    "cloze": "no he podido descargar",
+    "answer": "no he podido descargar",
+    "lemma": "poder descargar",
+    "meaning": "I have not been able to download",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0250.mp3"
+  },
+  {
+    "id": "es-02-0251",
+    "sentence": "Este semestre, Mariana ha faltado a clase solo una vez.",
+    "cloze": "ha faltado a clase",
+    "answer": "ha faltado a clase",
+    "lemma": "faltar a clase",
+    "meaning": "she has missed class",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0251.mp3"
+  },
+  {
+    "id": "es-02-0252",
+    "sentence": "En lo que va de la tarde, hemos revisado dos opciones y esta es la más práctica.",
+    "cloze": "hemos revisado dos opciones",
+    "answer": "hemos revisado dos opciones",
+    "lemma": "revisar",
+    "meaning": "we have reviewed two options",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0252.mp3"
+  },
+  {
+    "id": "es-02-0253",
+    "sentence": "Acabo de confirmar la reservación, así que ya podemos salir.",
+    "cloze": "Acabo de confirmar",
+    "answer": "Acabo de confirmar",
+    "lemma": "acabar de confirmar",
+    "meaning": "I have just confirmed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0253.mp3"
+  },
+  {
+    "id": "es-02-0254",
+    "sentence": "El técnico acaba de cambiar el foco del pasillo.",
+    "cloze": "acaba de cambiar",
+    "answer": "acaba de cambiar",
+    "lemma": "acabar de cambiar",
+    "meaning": "has just changed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0254.mp3"
+  },
+  {
+    "id": "es-02-0255",
+    "sentence": "Acabamos de llegar al hotel y todavía tenemos las maletas con nosotros.",
+    "cloze": "Acabamos de llegar",
+    "answer": "Acabamos de llegar",
+    "lemma": "acabar de llegar",
+    "meaning": "we have just arrived",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0255.mp3"
+  },
+  {
+    "id": "es-02-0256",
+    "sentence": "¿Acabas de mandar el archivo al grupo?",
+    "cloze": "Acabas de mandar",
+    "answer": "Acabas de mandar",
+    "lemma": "acabar de mandar",
+    "meaning": "have you just sent",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0256.mp3"
+  },
+  {
+    "id": "es-02-0257",
+    "sentence": "Los niños acaban de terminar la tarea y ahora pueden jugar.",
+    "cloze": "acaban de terminar",
+    "answer": "acaban de terminar",
+    "lemma": "acabar de terminar",
+    "meaning": "they have just finished",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0257.mp3"
+  },
+  {
+    "id": "es-02-0258",
+    "sentence": "Señora, su pedido acaba de salir de la tienda.",
+    "cloze": "acaba de salir",
+    "answer": "acaba de salir",
+    "lemma": "acabar de salir",
+    "meaning": "has just left",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0258.mp3"
+  },
+  {
+    "id": "es-02-0259",
+    "sentence": "Mi hermana acaba de poner la mesa para la cena.",
+    "cloze": "acaba de poner la mesa",
+    "answer": "acaba de poner la mesa",
+    "lemma": "acabar de poner la mesa",
+    "meaning": "has just set the table",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0259.mp3"
+  },
+  {
+    "id": "es-02-0260",
+    "sentence": "El autobús acaba de pasar, pero viene otro en veinte minutos.",
+    "cloze": "acaba de pasar",
+    "answer": "acaba de pasar",
+    "lemma": "acabar de pasar",
+    "meaning": "has just passed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0260.mp3"
+  },
+  {
+    "id": "es-02-0261",
+    "sentence": "Acabo de ver tu mensaje sobre el cambio de horario.",
+    "cloze": "Acabo de ver",
+    "answer": "Acabo de ver",
+    "lemma": "acabar de ver",
+    "meaning": "I have just seen",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0261.mp3"
+  },
+  {
+    "id": "es-02-0262",
+    "sentence": "La recepcionista acaba de decir que la doctora ya viene.",
+    "cloze": "acaba de decir",
+    "answer": "acaba de decir",
+    "lemma": "acabar de decir",
+    "meaning": "has just said",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0262.mp3"
+  },
+  {
+    "id": "es-02-0263",
+    "sentence": "Hoy en la mañana confirmé la cita por teléfono.",
+    "cloze": "confirmé la cita",
+    "answer": "confirmé la cita",
+    "lemma": "confirmar una cita",
+    "meaning": "I confirmed the appointment",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0263.mp3"
+  },
+  {
+    "id": "es-02-0264",
+    "sentence": "Hace un rato, dejé el paquete en recepción antes de entrar a la oficina.",
+    "cloze": "dejé el paquete en recepción",
+    "answer": "dejé el paquete en recepción",
+    "lemma": "dejar un paquete",
+    "meaning": "I left the package at reception",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0264.mp3"
+  },
+  {
+    "id": "es-02-0265",
+    "sentence": "Esta tarde pagué la inscripción en el banco y guardé el recibo.",
+    "cloze": "pagué la inscripción",
+    "answer": "pagué la inscripción",
+    "lemma": "pagar la inscripción",
+    "meaning": "I paid the registration fee",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0265.mp3"
+  },
+  {
+    "id": "es-02-0266",
+    "sentence": "Hoy el gerente llamó para avisar del retraso.",
+    "cloze": "llamó para avisar",
+    "answer": "llamó para avisar",
+    "lemma": "llamar para avisar",
+    "meaning": "called to report",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0266.mp3"
+  },
+  {
+    "id": "es-02-0267",
+    "sentence": "Primero revisé la dirección y luego pedí el taxi.",
+    "cloze": "Primero revisé",
+    "answer": "Primero revisé",
+    "lemma": "primero",
+    "meaning": "first I checked",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0267.mp3"
+  },
+  {
+    "id": "es-02-0268",
+    "sentence": "Primero compramos los boletos y después buscamos el andén.",
+    "cloze": "después buscamos",
+    "answer": "después buscamos",
+    "lemma": "después",
+    "meaning": "afterward we looked for",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0268.mp3"
+  },
+  {
+    "id": "es-02-0269",
+    "sentence": "La cajera pesó la fruta; luego imprimió el recibo.",
+    "cloze": "luego imprimió",
+    "answer": "luego imprimió",
+    "lemma": "luego",
+    "meaning": "then she printed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0269.mp3"
+  },
+  {
+    "id": "es-02-0270",
+    "sentence": "Antes de entregar la solicitud, saqué una copia para mis archivos.",
+    "cloze": "Antes de entregar la solicitud",
+    "answer": "Antes de entregar la solicitud",
+    "lemma": "antes de",
+    "meaning": "before submitting the application",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0270.mp3"
+  },
+  {
+    "id": "es-02-0271",
+    "sentence": "Después de hablar con la directora, cambiamos la fecha de la reunión.",
+    "cloze": "Después de hablar con la directora",
+    "answer": "Después de hablar con la directora",
+    "lemma": "después de",
+    "meaning": "after speaking with the director",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0271.mp3"
+  },
+  {
+    "id": "es-02-0272",
+    "sentence": "Mientras esperaba mi turno, revisé los datos del formato.",
+    "cloze": "Mientras esperaba mi turno",
+    "answer": "Mientras esperaba mi turno",
+    "lemma": "mientras",
+    "meaning": "while I was waiting for my turn",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0272.mp3"
+  },
+  {
+    "id": "es-02-0273",
+    "sentence": "Durante la visita al museo, tomamos muchas fotos.",
+    "cloze": "Durante la visita al museo",
+    "answer": "Durante la visita al museo",
+    "lemma": "durante",
+    "meaning": "during the museum visit",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0273.mp3"
+  },
+  {
+    "id": "es-02-0274",
+    "sentence": "Desde el lunes pasado, la nueva recepcionista trabaja en el turno de la mañana.",
+    "cloze": "Desde el lunes pasado",
+    "answer": "Desde el lunes pasado",
+    "lemma": "desde",
+    "meaning": "since last Monday",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0274.mp3"
+  },
+  {
+    "id": "es-02-0275",
+    "sentence": "Hace tres días, cambiaron la contraseña de la cuenta.",
+    "cloze": "Hace tres días",
+    "answer": "Hace tres días",
+    "lemma": "hace",
+    "meaning": "three days ago",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0275.mp3"
+  },
+  {
+    "id": "es-02-0276",
+    "sentence": "Desde hace dos semanas, trabajo desde casa por las tardes.",
+    "cloze": "Desde hace dos semanas",
+    "answer": "Desde hace dos semanas",
+    "lemma": "desde hace",
+    "meaning": "for the past two weeks",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0276.mp3"
+  },
+  {
+    "id": "es-02-0277",
+    "sentence": "Vivimos en este departamento desde hace un año.",
+    "cloze": "desde hace un año",
+    "answer": "desde hace un año",
+    "lemma": "desde hace",
+    "meaning": "for a year",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0277.mp3"
+  },
+  {
+    "id": "es-02-0278",
+    "sentence": "Al llegar a la terminal, vimos el aviso del nuevo horario.",
+    "cloze": "Al llegar a la terminal",
+    "answer": "Al llegar a la terminal",
+    "lemma": "al + infinitivo",
+    "meaning": "upon arriving at the terminal",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0278.mp3"
+  },
+  {
+    "id": "es-02-0279",
+    "sentence": "Antes de tomar el autobús, guardé el boleto en la cartera.",
+    "cloze": "Antes de tomar el autobús",
+    "answer": "Antes de tomar el autobús",
+    "lemma": "antes de",
+    "meaning": "before taking the bus",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0279.mp3"
+  },
+  {
+    "id": "es-02-0280",
+    "sentence": "Después de recoger las llaves, entramos al departamento.",
+    "cloze": "Después de recoger las llaves",
+    "answer": "Después de recoger las llaves",
+    "lemma": "después de",
+    "meaning": "after picking up the keys",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0280.mp3"
+  },
+  {
+    "id": "es-02-0281",
+    "sentence": "El horario nuevo está en el correo; lo consulto antes de salir.",
+    "cloze": "lo consulto",
+    "answer": "lo consulto",
+    "lemma": "consultar algo",
+    "meaning": "I check it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0281.mp3"
+  },
+  {
+    "id": "es-02-0282",
+    "sentence": "La factura incluye tres cargos; la comparo con el recibo.",
+    "cloze": "la comparo",
+    "answer": "la comparo",
+    "lemma": "comparar algo",
+    "meaning": "I compare it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0282.mp3"
+  },
+  {
+    "id": "es-02-0283",
+    "sentence": "Los boletos están en mi celular; los muestro en la entrada.",
+    "cloze": "los muestro",
+    "answer": "los muestro",
+    "lemma": "mostrar algo",
+    "meaning": "I show them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0283.mp3"
+  },
+  {
+    "id": "es-02-0284",
+    "sentence": "Las llaves del hotel van en esta bolsa; las guardo aquí.",
+    "cloze": "las guardo",
+    "answer": "las guardo",
+    "lemma": "guardar algo",
+    "meaning": "I put them away",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0284.mp3"
+  },
+  {
+    "id": "es-02-0285",
+    "sentence": "El aviso usa palabras difíciles y no lo entiendo bien.",
+    "cloze": "no lo entiendo",
+    "answer": "no lo entiendo",
+    "lemma": "entender algo",
+    "meaning": "I do not understand it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0285.mp3"
+  },
+  {
+    "id": "es-02-0286",
+    "sentence": "La dirección está junto al nombre; la anoto en mi libreta.",
+    "cloze": "la anoto",
+    "answer": "la anoto",
+    "lemma": "anotar algo",
+    "meaning": "I write it down",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0286.mp3"
+  },
+  {
+    "id": "es-02-0287",
+    "sentence": "Necesito los documentos originales y los llevo en esta carpeta.",
+    "cloze": "los llevo",
+    "answer": "los llevo",
+    "lemma": "llevar algo",
+    "meaning": "I carry them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0287.mp3"
+  },
+  {
+    "id": "es-02-0288",
+    "sentence": "Las fotos de la visita están claras; las compartimos con el grupo.",
+    "cloze": "las compartimos",
+    "answer": "las compartimos",
+    "lemma": "compartir algo",
+    "meaning": "we share them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0288.mp3"
+  },
+  {
+    "id": "es-02-0289",
+    "sentence": "El nuevo director está en recepción; ¿lo conoce usted?",
+    "cloze": "lo conoce usted",
+    "answer": "lo conoce usted",
+    "lemma": "conocer a alguien",
+    "meaning": "do you know him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0289.mp3"
+  },
+  {
+    "id": "es-02-0290",
+    "sentence": "El número del hotel está aquí; ¿lo marcas tú o lo marco yo?",
+    "cloze": "lo marcas",
+    "answer": "lo marcas",
+    "lemma": "marcar un número",
+    "meaning": "do you dial it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0290.mp3"
+  },
+  {
+    "id": "es-02-0291",
+    "sentence": "El archivo quedó listo ayer y lo envié antes de la junta.",
+    "cloze": "lo envié",
+    "answer": "lo envié",
+    "lemma": "enviar algo",
+    "meaning": "I sent it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0291.mp3"
+  },
+  {
+    "id": "es-02-0292",
+    "sentence": "Compré una chamarra azul, pero la devolví al día siguiente.",
+    "cloze": "la devolví",
+    "answer": "la devolví",
+    "lemma": "devolver algo",
+    "meaning": "I returned it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0292.mp3"
+  },
+  {
+    "id": "es-02-0293",
+    "sentence": "Los boletos estaban disponibles y los compramos en la taquilla.",
+    "cloze": "los compramos",
+    "answer": "los compramos",
+    "lemma": "comprar algo",
+    "meaning": "we bought them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0293.mp3"
+  },
+  {
+    "id": "es-02-0294",
+    "sentence": "Las solicitudes ya estaban completas; las entregamos el martes.",
+    "cloze": "las entregamos",
+    "answer": "las entregamos",
+    "lemma": "entregar algo",
+    "meaning": "we submitted them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0294.mp3"
+  },
+  {
+    "id": "es-02-0295",
+    "sentence": "El mensaje llegó durante la clase, pero lo leí después.",
+    "cloze": "lo leí",
+    "answer": "lo leí",
+    "lemma": "leer algo",
+    "meaning": "I read it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0295.mp3"
+  },
+  {
+    "id": "es-02-0296",
+    "sentence": "La caja tenía una esquina dañada y la revisé en la tienda.",
+    "cloze": "la revisé",
+    "answer": "la revisé",
+    "lemma": "revisar algo",
+    "meaning": "I inspected it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0296.mp3"
+  },
+  {
+    "id": "es-02-0297",
+    "sentence": "Los resultados del laboratorio estuvieron listos ayer y los recogí por la tarde.",
+    "cloze": "los recogí",
+    "answer": "los recogí",
+    "lemma": "recoger algo",
+    "meaning": "I picked them up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0297.mp3"
+  },
+  {
+    "id": "es-02-0298",
+    "sentence": "Las maletas estaban junto a la puerta; las pusimos en el taxi.",
+    "cloze": "las pusimos",
+    "answer": "las pusimos",
+    "lemma": "poner algo",
+    "meaning": "we put them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0298.mp3"
+  },
+  {
+    "id": "es-02-0299",
+    "sentence": "El cambio de horario estaba en la pantalla, pero no lo vi.",
+    "cloze": "no lo vi",
+    "answer": "no lo vi",
+    "lemma": "ver algo",
+    "meaning": "I did not see it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0299.mp3"
+  },
+  {
+    "id": "es-02-0300",
+    "sentence": "La contraseña era nueva y la anoté en mi celular.",
+    "cloze": "la anoté",
+    "answer": "la anoté",
+    "lemma": "anotar algo",
+    "meaning": "I wrote it down",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0300.mp3"
+  },
+  {
+    "id": "es-02-0301",
+    "sentence": "El contrato está en la mesa; mañana lo llevo a la oficina.",
+    "cloze": "lo llevo",
+    "answer": "lo llevo",
+    "lemma": "llevar algo",
+    "meaning": "I will take it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0301.mp3"
+  },
+  {
+    "id": "es-02-0302",
+    "sentence": "La reservación sigue pendiente; la voy a confirmar esta tarde.",
+    "cloze": "la voy a confirmar",
+    "answer": "la voy a confirmar",
+    "lemma": "confirmar algo",
+    "meaning": "I am going to confirm it",
+    "accepted_answers": [
+      "voy a confirmarla"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0302.mp3"
+  },
+  {
+    "id": "es-02-0303",
+    "sentence": "Los paquetes llegan el viernes y los vamos a recoger por la mañana.",
+    "cloze": "los vamos a recoger",
+    "answer": "los vamos a recoger",
+    "lemma": "recoger algo",
+    "meaning": "we are going to pick them up",
+    "accepted_answers": [
+      "vamos a recogerlos"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0303.mp3"
+  },
+  {
+    "id": "es-02-0304",
+    "sentence": "Estas copias son para la escuela; las voy a guardar en una carpeta.",
+    "cloze": "las voy a guardar",
+    "answer": "las voy a guardar",
+    "lemma": "guardar algo",
+    "meaning": "I am going to put them away",
+    "accepted_answers": [
+      "voy a guardarlas"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0304.mp3"
+  },
+  {
+    "id": "es-02-0305",
+    "sentence": "El archivo llega esta noche por correo y voy a descargarlo antes del viaje.",
+    "cloze": "voy a descargarlo",
+    "answer": "voy a descargarlo",
+    "lemma": "descargar algo",
+    "meaning": "I am going to download it",
+    "accepted_answers": [
+      "lo voy a descargar"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0305.mp3"
+  },
+  {
+    "id": "es-02-0306",
+    "sentence": "La mesa para seis todavía está libre; podemos reservarla ahora.",
+    "cloze": "podemos reservarla",
+    "answer": "podemos reservarla",
+    "lemma": "reservar algo",
+    "meaning": "we can reserve it",
+    "accepted_answers": [
+      "la podemos reservar"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0306.mp3"
+  },
+  {
+    "id": "es-02-0307",
+    "sentence": "Los reportes vencen mañana; tenemos que enviarlos hoy.",
+    "cloze": "tenemos que enviarlos",
+    "answer": "tenemos que enviarlos",
+    "lemma": "enviar algo",
+    "meaning": "we have to send them",
+    "accepted_answers": [
+      "los tenemos que enviar"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0307.mp3"
+  },
+  {
+    "id": "es-02-0308",
+    "sentence": "Estas botas son demasiado grandes y necesito cambiarlas mañana.",
+    "cloze": "necesito cambiarlas",
+    "answer": "necesito cambiarlas",
+    "lemma": "cambiar algo",
+    "meaning": "I need to exchange them",
+    "accepted_answers": [
+      "las necesito cambiar"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0308.mp3"
+  },
+  {
+    "id": "es-02-0309",
+    "sentence": "Este cargador es nuevo; ¿quieres probarlo con tu celular?",
+    "cloze": "quieres probarlo",
+    "answer": "quieres probarlo",
+    "lemma": "probar algo",
+    "meaning": "do you want to try it",
+    "accepted_answers": [
+      "lo quieres probar"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0309.mp3"
+  },
+  {
+    "id": "es-02-0310",
+    "sentence": "La caja pequeña no pesa mucho, señora; puede llevarla sin ayuda.",
+    "cloze": "puede llevarla",
+    "answer": "puede llevarla",
+    "lemma": "llevar algo",
+    "meaning": "you can carry it",
+    "accepted_answers": [
+      "la puede llevar"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0310.mp3"
+  },
+  {
+    "id": "es-02-0311",
+    "sentence": "El archivo era demasiado grande para mi celular, pero pude abrirlo en otra computadora.",
+    "cloze": "pude abrirlo",
+    "answer": "pude abrirlo",
+    "lemma": "abrir algo",
+    "meaning": "I was able to open it",
+    "accepted_answers": [
+      "lo pude abrir"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0311.mp3"
+  },
+  {
+    "id": "es-02-0312",
+    "sentence": "La blusa tenía una mancha, así que quise cambiarla en la tienda.",
+    "cloze": "quise cambiarla",
+    "answer": "quise cambiarla",
+    "lemma": "cambiar algo",
+    "meaning": "I wanted to exchange it",
+    "accepted_answers": [
+      "la quise cambiar"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0312.mp3"
+  },
+  {
+    "id": "es-02-0313",
+    "sentence": "Los audífonos no funcionaron y tuvimos que devolverlos.",
+    "cloze": "tuvimos que devolverlos",
+    "answer": "tuvimos que devolverlos",
+    "lemma": "devolver algo",
+    "meaning": "we had to return them",
+    "accepted_answers": [
+      "los tuvimos que devolver"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0313.mp3"
+  },
+  {
+    "id": "es-02-0314",
+    "sentence": "Las llaves no estaban en la mesa y la recepcionista no pudo encontrarlas.",
+    "cloze": "no pudo encontrarlas",
+    "answer": "no pudo encontrarlas",
+    "lemma": "encontrar algo",
+    "meaning": "she could not find them",
+    "accepted_answers": [
+      "no las pudo encontrar"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0314.mp3"
+  },
+  {
+    "id": "es-02-0315",
+    "sentence": "El paquete ya está en recepción; acabamos de recibirlo.",
+    "cloze": "acabamos de recibirlo",
+    "answer": "acabamos de recibirlo",
+    "lemma": "recibir algo",
+    "meaning": "we have just received it",
+    "accepted_answers": [
+      "lo acabamos de recibir"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0315.mp3"
+  },
+  {
+    "id": "es-02-0316",
+    "sentence": "La última página del contrato está pendiente y debo firmarla hoy.",
+    "cloze": "debo firmarla",
+    "answer": "debo firmarla",
+    "lemma": "firmar algo",
+    "meaning": "I must sign it",
+    "accepted_answers": [
+      "la debo firmar"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0316.mp3"
+  },
+  {
+    "id": "es-02-0317",
+    "sentence": "Esta credencial es importante y no quiero perderla durante el viaje.",
+    "cloze": "no quiero perderla",
+    "answer": "no quiero perderla",
+    "lemma": "perder algo",
+    "meaning": "I do not want to lose it",
+    "accepted_answers": [
+      "no la quiero perder"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0317.mp3"
+  },
+  {
+    "id": "es-02-0318",
+    "sentence": "El mapa está disponible en línea; pueden consultarlo desde el celular.",
+    "cloze": "pueden consultarlo",
+    "answer": "pueden consultarlo",
+    "lemma": "consultar algo",
+    "meaning": "you can check it",
+    "accepted_answers": [
+      "lo pueden consultar"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0318.mp3"
+  },
+  {
+    "id": "es-02-0319",
+    "sentence": "Estas tortillas están calientes y prefiero comerlas con la sopa.",
+    "cloze": "prefiero comerlas",
+    "answer": "prefiero comerlas",
+    "lemma": "comer algo",
+    "meaning": "I prefer to eat them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0319.mp3"
+  },
+  {
+    "id": "es-02-0320",
+    "sentence": "Señor, el formato sigue incompleto; necesita completarlo antes de firmar.",
+    "cloze": "necesita completarlo",
+    "answer": "necesita completarlo",
+    "lemma": "completar algo",
+    "meaning": "you need to complete it",
+    "accepted_answers": [
+      "lo necesita completar"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0320.mp3"
+  },
+  {
+    "id": "es-02-0321",
+    "sentence": "Después de cambiar la hora, le mandé el horario a la directora.",
+    "cloze": "le mandé el horario",
+    "answer": "le mandé el horario",
+    "lemma": "mandar algo a alguien",
+    "meaning": "I sent the schedule to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0321.mp3"
+  },
+  {
+    "id": "es-02-0322",
+    "sentence": "Como no fuiste a la junta, te envié una copia del reporte por correo.",
+    "cloze": "te envié una copia",
+    "answer": "te envié una copia",
+    "lemma": "enviar algo a alguien",
+    "meaning": "I sent you a copy",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0322.mp3"
+  },
+  {
+    "id": "es-02-0323",
+    "sentence": "Al llegar al hotel, me dieron las llaves de la habitación en recepción.",
+    "cloze": "me dieron las llaves",
+    "answer": "me dieron las llaves",
+    "lemma": "dar algo a alguien",
+    "meaning": "they gave me the keys",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0323.mp3"
+  },
+  {
+    "id": "es-02-0324",
+    "sentence": "Antes de empezar, la coordinadora nos explicó el nuevo horario.",
+    "cloze": "nos explicó el nuevo horario",
+    "answer": "nos explicó el nuevo horario",
+    "lemma": "explicar algo a alguien",
+    "meaning": "she explained the new schedule to us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0324.mp3"
+  },
+  {
+    "id": "es-02-0325",
+    "sentence": "Mis compañeros estaban en otra oficina, así que les llevé los documentos.",
+    "cloze": "les llevé los documentos",
+    "answer": "les llevé los documentos",
+    "lemma": "llevar algo a alguien",
+    "meaning": "I took the documents to them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0325.mp3"
+  },
+  {
+    "id": "es-02-0326",
+    "sentence": "En la oficina, a la directora le entregué el reporte antes de las cuatro.",
+    "cloze": "le entregué el reporte",
+    "answer": "le entregué el reporte",
+    "lemma": "entregar algo a alguien",
+    "meaning": "I handed the report to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0326.mp3"
+  },
+  {
+    "id": "es-02-0327",
+    "sentence": "Después de la visita, a mis papás les mandé las fotos del museo.",
+    "cloze": "les mandé las fotos",
+    "answer": "les mandé las fotos",
+    "lemma": "mandar algo a alguien",
+    "meaning": "I sent them the photos",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0327.mp3"
+  },
+  {
+    "id": "es-02-0328",
+    "sentence": "Como saliste sin desayunar, te preparé un café en la oficina.",
+    "cloze": "te preparé un café",
+    "answer": "te preparé un café",
+    "lemma": "preparar algo a alguien",
+    "meaning": "I made you a coffee",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0328.mp3"
+  },
+  {
+    "id": "es-02-0329",
+    "sentence": "Para la cena del sábado, la recepcionista me reservó una mesa junto a la ventana.",
+    "cloze": "me reservó una mesa",
+    "answer": "me reservó una mesa",
+    "lemma": "reservar algo a alguien",
+    "meaning": "she reserved a table for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0329.mp3"
+  },
+  {
+    "id": "es-02-0330",
+    "sentence": "Como nuestra orden no llegaba, el mesero nos trajo el pedido unos minutos después.",
+    "cloze": "nos trajo el pedido",
+    "answer": "nos trajo el pedido",
+    "lemma": "traer algo a alguien",
+    "meaning": "the waiter brought us the order",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0330.mp3"
+  },
+  {
+    "id": "es-02-0331",
+    "sentence": "Para su cumpleaños, le compré un libro a mi hermana.",
+    "cloze": "le compré un libro",
+    "answer": "le compré un libro",
+    "lemma": "comprar algo a alguien",
+    "meaning": "I bought her a book",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0331.mp3"
+  },
+  {
+    "id": "es-02-0332",
+    "sentence": "Al terminar la clase, les dije la nueva fecha del examen a los alumnos.",
+    "cloze": "les dije la nueva fecha",
+    "answer": "les dije la nueva fecha",
+    "lemma": "decir algo a alguien",
+    "meaning": "I told them the new date",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0332.mp3"
+  },
+  {
+    "id": "es-02-0333",
+    "sentence": "Como mi celular no tenía batería, mi compañera me prestó su cargador.",
+    "cloze": "me prestó su cargador",
+    "answer": "me prestó su cargador",
+    "lemma": "prestar algo a alguien",
+    "meaning": "she lent me her charger",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0333.mp3"
+  },
+  {
+    "id": "es-02-0334",
+    "sentence": "La sala estaba llena, pero te guardé una silla junto a mí.",
+    "cloze": "te guardé una silla",
+    "answer": "te guardé una silla",
+    "lemma": "guardar algo a alguien",
+    "meaning": "I saved you a chair",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0334.mp3"
+  },
+  {
+    "id": "es-02-0335",
+    "sentence": "Como el primero tenía un error, a la señora le dieron otro recibo en la caja.",
+    "cloze": "le dieron otro recibo",
+    "answer": "le dieron otro recibo",
+    "lemma": "dar algo a alguien",
+    "meaning": "they gave her another receipt",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0335.mp3"
+  },
+  {
+    "id": "es-02-0336",
+    "sentence": "Como no estábamos en la oficina, nos dejaron un mensaje en recepción.",
+    "cloze": "nos dejaron un mensaje",
+    "answer": "nos dejaron un mensaje",
+    "lemma": "dejar un mensaje a alguien",
+    "meaning": "they left us a message",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0336.mp3"
+  },
+  {
+    "id": "es-02-0337",
+    "sentence": "Como no entendía el formato, le pedí ayuda a la recepcionista.",
+    "cloze": "le pedí ayuda",
+    "answer": "le pedí ayuda",
+    "lemma": "pedir ayuda a alguien",
+    "meaning": "I asked her for help",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0337.mp3"
+  },
+  {
+    "id": "es-02-0338",
+    "sentence": "Para el trámite de mañana, te conseguí una copia legible en la oficina.",
+    "cloze": "te conseguí una copia",
+    "answer": "te conseguí una copia",
+    "lemma": "conseguir algo a alguien",
+    "meaning": "I got you a copy",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0338.mp3"
+  },
+  {
+    "id": "es-02-0339",
+    "sentence": "En atención a clientes, les expliqué el problema de la entrega a los empleados.",
+    "cloze": "les expliqué el problema",
+    "answer": "les expliqué el problema",
+    "lemma": "explicar algo a alguien",
+    "meaning": "I explained the problem to them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0339.mp3"
+  },
+  {
+    "id": "es-02-0340",
+    "sentence": "Durante la junta, la directora me enseñó el archivo con los cambios.",
+    "cloze": "me enseñó el archivo",
+    "answer": "me enseñó el archivo",
+    "lemma": "enseñar algo a alguien",
+    "meaning": "she showed me the file",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0340.mp3"
+  },
+  {
+    "id": "es-02-0341",
+    "sentence": "La visita al museo me gustó mucho porque la guía fue clara.",
+    "cloze": "me gustó mucho",
+    "answer": "me gustó mucho",
+    "lemma": "gustarle algo a alguien",
+    "meaning": "I liked it a lot",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0341.mp3"
+  },
+  {
+    "id": "es-02-0342",
+    "sentence": "Usaste la computadora nueva en la oficina; ¿te pareció práctica?",
+    "cloze": "te pareció práctica",
+    "answer": "te pareció práctica",
+    "lemma": "parecerle algo a alguien",
+    "meaning": "did it seem practical to you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0342.mp3"
+  },
+  {
+    "id": "es-02-0343",
+    "sentence": "A la señora Ortiz le molestó el ruido de la sala de espera.",
+    "cloze": "le molestó el ruido",
+    "answer": "le molestó el ruido",
+    "lemma": "molestarle algo a alguien",
+    "meaning": "the noise bothered her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0343.mp3"
+  },
+  {
+    "id": "es-02-0344",
+    "sentence": "Después del viaje, nos gustaron mucho las fotos de Ana.",
+    "cloze": "nos gustaron mucho",
+    "answer": "nos gustaron mucho",
+    "lemma": "gustarle algo a alguien",
+    "meaning": "we liked them a lot",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0344.mp3"
+  },
+  {
+    "id": "es-02-0345",
+    "sentence": "A mis compañeros les interesó el curso de capacitación del sábado.",
+    "cloze": "les interesó el curso",
+    "answer": "les interesó el curso",
+    "lemma": "interesarle algo a alguien",
+    "meaning": "the course interested them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0345.mp3"
+  },
+  {
+    "id": "es-02-0346",
+    "sentence": "Como mi cita era a las ocho, me preocupó el retraso del autobús.",
+    "cloze": "me preocupó el retraso",
+    "answer": "me preocupó el retraso",
+    "lemma": "preocuparle algo a alguien",
+    "meaning": "the delay worried me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0346.mp3"
+  },
+  {
+    "id": "es-02-0347",
+    "sentence": "Después de la explicación, ¿te quedó claro el cambio de horario?",
+    "cloze": "te quedó claro",
+    "answer": "te quedó claro",
+    "lemma": "quedarle claro a alguien",
+    "meaning": "was it clear to you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0347.mp3"
+  },
+  {
+    "id": "es-02-0348",
+    "sentence": "A mi hijo le dio miedo el ruido fuerte del elevador.",
+    "cloze": "le dio miedo",
+    "answer": "le dio miedo",
+    "lemma": "darle miedo a alguien",
+    "meaning": "it scared him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0348.mp3"
+  },
+  {
+    "id": "es-02-0349",
+    "sentence": "Para completar el registro, nos faltó una copia de la identificación.",
+    "cloze": "nos faltó una copia",
+    "answer": "nos faltó una copia",
+    "lemma": "faltarle algo a alguien",
+    "meaning": "we were missing a copy",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0349.mp3"
+  },
+  {
+    "id": "es-02-0350",
+    "sentence": "Durante el viaje, a los niños les dolía la cabeza por el calor.",
+    "cloze": "les dolía la cabeza",
+    "answer": "les dolía la cabeza",
+    "lemma": "dolerle algo a alguien",
+    "meaning": "their heads hurt",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0350.mp3"
+  },
+  {
+    "id": "es-02-0351",
+    "sentence": "Como la primera estaba dañada, en el hotel me cambiaron la habitación.",
+    "cloze": "me cambiaron la habitación",
+    "answer": "me cambiaron la habitación",
+    "lemma": "cambiarle algo a alguien",
+    "meaning": "they changed my room for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0351.mp3"
+  },
+  {
+    "id": "es-02-0352",
+    "sentence": "Antes de la junta, al director le repararon la computadora en la oficina.",
+    "cloze": "le repararon la computadora",
+    "answer": "le repararon la computadora",
+    "lemma": "repararle algo a alguien",
+    "meaning": "they repaired his computer",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0352.mp3"
+  },
+  {
+    "id": "es-02-0353",
+    "sentence": "Esta mañana nos confirmaron la hora de la cita por teléfono.",
+    "cloze": "nos confirmaron la hora",
+    "answer": "nos confirmaron la hora",
+    "lemma": "confirmar algo a alguien",
+    "meaning": "they confirmed the appointment time with us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0353.mp3"
+  },
+  {
+    "id": "es-02-0354",
+    "sentence": "Como esperaban desde las siete, les ofrecieron café a los huéspedes.",
+    "cloze": "les ofrecieron café",
+    "answer": "les ofrecieron café",
+    "lemma": "ofrecer algo a alguien",
+    "meaning": "they offered them coffee",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0354.mp3"
+  },
+  {
+    "id": "es-02-0355",
+    "sentence": "Después de revisar la compra, te devolvieron el dinero en la caja.",
+    "cloze": "te devolvieron el dinero",
+    "answer": "te devolvieron el dinero",
+    "lemma": "devolver algo a alguien",
+    "meaning": "they gave you your money back",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0355.mp3"
+  },
+  {
+    "id": "es-02-0356",
+    "sentence": "Como salía tarde de la oficina, le consiguieron un taxi a Mariana.",
+    "cloze": "le consiguieron un taxi",
+    "answer": "le consiguieron un taxi",
+    "lemma": "conseguir algo a alguien",
+    "meaning": "they got her a taxi",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0356.mp3"
+  },
+  {
+    "id": "es-02-0357",
+    "sentence": "Antes del curso, nos enviaron las instrucciones por correo.",
+    "cloze": "nos enviaron las instrucciones",
+    "answer": "nos enviaron las instrucciones",
+    "lemma": "enviar algo a alguien",
+    "meaning": "they sent us the instructions",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0357.mp3"
+  },
+  {
+    "id": "es-02-0358",
+    "sentence": "En la entrada, les dieron un gafete a todos los participantes.",
+    "cloze": "les dieron un gafete",
+    "answer": "les dieron un gafete",
+    "lemma": "dar algo a alguien",
+    "meaning": "they gave each participant a badge",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0358.mp3"
+  },
+  {
+    "id": "es-02-0359",
+    "sentence": "Como yo seguía en la junta, mi hermana me recogió el paquete.",
+    "cloze": "me recogió el paquete",
+    "answer": "me recogió el paquete",
+    "lemma": "recogerle algo a alguien",
+    "meaning": "she picked up the package for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0359.mp3"
+  },
+  {
+    "id": "es-02-0360",
+    "sentence": "Participantes, a ustedes les toca la mesa del fondo.",
+    "cloze": "les toca la mesa del fondo",
+    "answer": "les toca la mesa del fondo",
+    "lemma": "tocarle algo a alguien",
+    "meaning": "the table at the back is assigned to you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0360.mp3"
+  },
+  {
+    "id": "es-02-0361",
+    "sentence": "El contador necesitaba el recibo original y ayer se lo entregué en su oficina.",
+    "cloze": "se lo entregué",
+    "answer": "se lo entregué",
+    "lemma": "entregárselo",
+    "meaning": "I handed it to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0361.mp3"
+  },
+  {
+    "id": "es-02-0362",
+    "sentence": "La encargada pidió el formulario con firma; se lo reenvié por correo esta mañana.",
+    "cloze": "se lo reenvié",
+    "answer": "se lo reenvié",
+    "lemma": "reenviárselo",
+    "meaning": "I forwarded it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0362.mp3"
+  },
+  {
+    "id": "es-02-0363",
+    "sentence": "El técnico iba a revisar la puerta, así que se la dejé en recepción.",
+    "cloze": "se la dejé",
+    "answer": "se la dejé",
+    "lemma": "dejársela",
+    "meaning": "I left it for him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0363.mp3"
+  },
+  {
+    "id": "es-02-0364",
+    "sentence": "Los huéspedes ya estaban en el mostrador cuando se los di.",
+    "cloze": "se los di",
+    "answer": "se los di",
+    "lemma": "dárselos",
+    "meaning": "I gave the tickets to them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0364.mp3"
+  },
+  {
+    "id": "es-02-0365",
+    "sentence": "Mi mamá quería ver las fotos de la celebración y se las enseñé en mi celular.",
+    "cloze": "se las enseñé",
+    "answer": "se las enseñé",
+    "lemma": "enseñárselas",
+    "meaning": "I showed them to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0365.mp3"
+  },
+  {
+    "id": "es-02-0366",
+    "sentence": "El cliente no entendía las instrucciones, así que se las expliqué paso a paso.",
+    "cloze": "se las expliqué",
+    "answer": "se las expliqué",
+    "lemma": "explicárselas",
+    "meaning": "I explained them to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0366.mp3"
+  },
+  {
+    "id": "es-02-0367",
+    "sentence": "El director pidió el archivo final y se lo envié antes de la junta.",
+    "cloze": "se lo envié",
+    "answer": "se lo envié",
+    "lemma": "enviárselo",
+    "meaning": "I sent it to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0367.mp3"
+  },
+  {
+    "id": "es-02-0368",
+    "sentence": "El cliente esperaba el recibo corregido; en caja se lo devolvieron después de revisarlo.",
+    "cloze": "se lo devolvieron",
+    "answer": "se lo devolvieron",
+    "lemma": "devolvérselo",
+    "meaning": "they returned it to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0368.mp3"
+  },
+  {
+    "id": "es-02-0369",
+    "sentence": "La señora Núñez no estaba en casa, pero el repartidor se lo dejó con el portero.",
+    "cloze": "se lo dejó",
+    "answer": "se lo dejó",
+    "lemma": "dejárselo",
+    "meaning": "he left the package for her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0369.mp3"
+  },
+  {
+    "id": "es-02-0370",
+    "sentence": "Los estudiantes necesitaban los formularios; la asistente se los repartió antes de la sesión.",
+    "cloze": "se los repartió",
+    "answer": "se los repartió",
+    "lemma": "repartírselos",
+    "meaning": "she handed them out to them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0370.mp3"
+  },
+  {
+    "id": "es-02-0371",
+    "sentence": "La recepcionista pidió la llave de la habitación y se la regresé en el mostrador.",
+    "cloze": "se la regresé",
+    "answer": "se la regresé",
+    "lemma": "regresársela",
+    "meaning": "I returned it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0371.mp3"
+  },
+  {
+    "id": "es-02-0372",
+    "sentence": "La gerente del hotel quería ver la foto del daño; se la mostré antes de cambiar de habitación.",
+    "cloze": "se la mostré",
+    "answer": "se la mostré",
+    "lemma": "mostrársela",
+    "meaning": "I showed it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0372.mp3"
+  },
+  {
+    "id": "es-02-0373",
+    "sentence": "Mi hermana no podía comprar los boletos en línea, así que se los compré esta mañana.",
+    "cloze": "se los compré",
+    "answer": "se los compré",
+    "lemma": "comprárselos",
+    "meaning": "I bought them for her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0373.mp3"
+  },
+  {
+    "id": "es-02-0374",
+    "sentence": "El equipo necesitaba los archivos para la junta y se los mandé en una sola carpeta.",
+    "cloze": "se los mandé",
+    "answer": "se los mandé",
+    "lemma": "mandárselos",
+    "meaning": "I sent them to the team",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0374.mp3"
+  },
+  {
+    "id": "es-02-0375",
+    "sentence": "El cliente preguntó por el cargo extra y se lo aclaré con calma en el mostrador.",
+    "cloze": "se lo aclaré",
+    "answer": "se lo aclaré",
+    "lemma": "aclarárselo",
+    "meaning": "I clarified it for him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0375.mp3"
+  },
+  {
+    "id": "es-02-0376",
+    "sentence": "La mensajera dudaba de la dirección de entrega, así que se la confirmé por teléfono.",
+    "cloze": "se la confirmé",
+    "answer": "se la confirmé",
+    "lemma": "confirmársela",
+    "meaning": "I confirmed it for her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0376.mp3"
+  },
+  {
+    "id": "es-02-0377",
+    "sentence": "La nueva inquilina firmó el contrato y se las entregué en la entrada.",
+    "cloze": "se las entregué",
+    "answer": "se las entregué",
+    "lemma": "entregárselas",
+    "meaning": "I handed the keys to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0377.mp3"
+  },
+  {
+    "id": "es-02-0378",
+    "sentence": "El empleado nuevo no oyó bien las instrucciones; se las repetí más despacio.",
+    "cloze": "se las repetí",
+    "answer": "se las repetí",
+    "lemma": "repetírselas",
+    "meaning": "I repeated them to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0378.mp3"
+  },
+  {
+    "id": "es-02-0379",
+    "sentence": "La aseguradora pidió la foto de la caja dañada y se la adjunté al correo.",
+    "cloze": "se la adjunté",
+    "answer": "se la adjunté",
+    "lemma": "adjuntársela",
+    "meaning": "I attached it for them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0379.mp3"
+  },
+  {
+    "id": "es-02-0380",
+    "sentence": "La abogada necesitaba los documentos originales y se los llevé a su oficina.",
+    "cloze": "se los llevé",
+    "answer": "se los llevé",
+    "lemma": "llevárselos",
+    "meaning": "I took them to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0380.mp3"
+  },
+  {
+    "id": "es-02-0381",
+    "sentence": "La credencial es del visitante; devuélvasela ahora, por favor.",
+    "cloze": "devuélvasela",
+    "answer": "devuélvasela",
+    "lemma": "devolvérsela",
+    "meaning": "return it to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0381.mp3"
+  },
+  {
+    "id": "es-02-0382",
+    "sentence": "Los pases son para los invitados; entrégueselos en la entrada, por favor.",
+    "cloze": "entrégueselos",
+    "answer": "entrégueselos",
+    "lemma": "entregárselos",
+    "meaning": "hand them to the guests",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0382.mp3"
+  },
+  {
+    "id": "es-02-0383",
+    "sentence": "La contadora necesita la factura; se la puede mandar hoy por correo.",
+    "cloze": "se la puede mandar",
+    "answer": "se la puede mandar",
+    "lemma": "poder mandársela",
+    "meaning": "you can send it to her",
+    "accepted_answers": [
+      "puede mandársela"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0383.mp3"
+  },
+  {
+    "id": "es-02-0384",
+    "sentence": "El banco pidió las copias firmadas y se las voy a llevar esta tarde.",
+    "cloze": "se las voy a llevar",
+    "answer": "se las voy a llevar",
+    "lemma": "ir a llevárselas",
+    "meaning": "I am going to take them to the bank",
+    "accepted_answers": [
+      "voy a llevárselas"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0384.mp3"
+  },
+  {
+    "id": "es-02-0385",
+    "sentence": "Sonia necesita el archivo para la reunión; ¿ya se lo mandaste por correo?",
+    "cloze": "se lo mandaste",
+    "answer": "se lo mandaste",
+    "lemma": "mandárselo",
+    "meaning": "did you send it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0385.mp3"
+  },
+  {
+    "id": "es-02-0386",
+    "sentence": "Tus papás quieren ver las fotos del viaje; ¿ya se las enseñaste?",
+    "cloze": "se las enseñaste",
+    "answer": "se las enseñaste",
+    "lemma": "enseñárselas",
+    "meaning": "did you show them to your parents",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0386.mp3"
+  },
+  {
+    "id": "es-02-0387",
+    "sentence": "El técnico pidió los datos del envío y ayer se los confirmé por teléfono.",
+    "cloze": "se los confirmé",
+    "answer": "se los confirmé",
+    "lemma": "confirmárselos",
+    "meaning": "I confirmed them for him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0387.mp3"
+  },
+  {
+    "id": "es-02-0388",
+    "sentence": "La mensajera necesitaba la dirección completa; se la anoté en una hoja para evitar errores.",
+    "cloze": "se la anoté",
+    "answer": "se la anoté",
+    "lemma": "anotársela",
+    "meaning": "I wrote it down for her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0388.mp3"
+  },
+  {
+    "id": "es-02-0389",
+    "sentence": "Usted necesita el comprobante impreso; ahora mismo se lo imprimo en esta ventanilla.",
+    "cloze": "se lo imprimo",
+    "answer": "se lo imprimo",
+    "lemma": "imprimírselo",
+    "meaning": "I will print it for you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0389.mp3"
+  },
+  {
+    "id": "es-02-0390",
+    "sentence": "La clienta pidió dos etiquetas nuevas; se las preparo en un momento.",
+    "cloze": "se las preparo",
+    "answer": "se las preparo",
+    "lemma": "preparárselas",
+    "meaning": "I will prepare them for her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0390.mp3"
+  },
+  {
+    "id": "es-02-0391",
+    "sentence": "El procedimiento era nuevo para los empleados; la coordinadora se lo explicó durante la capacitación.",
+    "cloze": "se lo explicó",
+    "answer": "se lo explicó",
+    "lemma": "explicárselo",
+    "meaning": "she explained it to them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0391.mp3"
+  },
+  {
+    "id": "es-02-0392",
+    "sentence": "Los visitantes olvidaron las instrucciones de entrada; la guía se las recordó antes de pasar.",
+    "cloze": "se las recordó",
+    "answer": "se las recordó",
+    "lemma": "recordárselas",
+    "meaning": "she reminded them of the instructions",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0392.mp3"
+  },
+  {
+    "id": "es-02-0393",
+    "sentence": "Los clientes pidieron sus recibos y la cajera se los entregó dentro de la bolsa.",
+    "cloze": "se los entregó",
+    "answer": "se los entregó",
+    "lemma": "entregárselos",
+    "meaning": "she handed the receipts to them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0393.mp3"
+  },
+  {
+    "id": "es-02-0394",
+    "sentence": "El recepcionista encontró la llave de la huésped y se la dio junto con la tarjeta del cuarto.",
+    "cloze": "se la dio",
+    "answer": "se la dio",
+    "lemma": "dársela",
+    "meaning": "he gave it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0394.mp3"
+  },
+  {
+    "id": "es-02-0395",
+    "sentence": "La doctora quiere revisar el formulario completo; se lo muestro ahora en la pantalla.",
+    "cloze": "se lo muestro",
+    "answer": "se lo muestro",
+    "lemma": "mostrárselo",
+    "meaning": "I am showing it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0395.mp3"
+  },
+  {
+    "id": "es-02-0396",
+    "sentence": "Ustedes pidieron dos reservaciones para el sábado; ya se las confirmé por teléfono.",
+    "cloze": "se las confirmé",
+    "answer": "se las confirmé",
+    "lemma": "confirmárselas",
+    "meaning": "I confirmed them for you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0396.mp3"
+  },
+  {
+    "id": "es-02-0397",
+    "sentence": "El equipo necesita los archivos hoy; se los mando en una carpeta comprimida.",
+    "cloze": "se los mando",
+    "answer": "se los mando",
+    "lemma": "mandárselos",
+    "meaning": "I am sending them to the team",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0397.mp3"
+  },
+  {
+    "id": "es-02-0398",
+    "sentence": "La compradora esperó mientras saqué una copia de la factura original; después se la devolví.",
+    "cloze": "se la devolví",
+    "answer": "se la devolví",
+    "lemma": "devolvérsela",
+    "meaning": "I returned it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0398.mp3"
+  },
+  {
+    "id": "es-02-0399",
+    "sentence": "El doctor pidió los resultados apenas estuvieron listos y se los mostré en la computadora.",
+    "cloze": "se los mostré",
+    "answer": "se los mostré",
+    "lemma": "mostrárselos",
+    "meaning": "I showed them to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0399.mp3"
+  },
+  {
+    "id": "es-02-0400",
+    "sentence": "Cuando llegaron los huéspedes, las llaves ya estaban listas y en recepción se las dieron.",
+    "cloze": "se las dieron",
+    "answer": "se las dieron",
+    "lemma": "dárselas",
+    "meaning": "they gave the keys to the guests",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0400.mp3"
   }
 ]
