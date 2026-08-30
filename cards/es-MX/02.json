@@ -246,7 +246,9 @@
     "answer": "fue",
     "lemma": "ser",
     "meaning": "was",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "estuvo"
+    ],
     "audio": "work/audio/es-MX/02/es-02-0025.mp3"
   },
   {
@@ -2274,7 +2276,7 @@
     "sentence": "La reunión terminó mientras todavía llovía afuera del edificio.",
     "cloze": "todavía llovía",
     "answer": "todavía llovía",
-    "lemma": "seguir lloviendo",
+    "lemma": "llover",
     "meaning": "it was still raining",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0228.mp3"
@@ -2351,7 +2353,7 @@
   },
   {
     "id": "es-02-0236",
-    "sentence": "Quise llamar al hotel mientras esperaba el tren en la terminal.",
+    "sentence": "Quise llamar al hotel mientras esperaba el tren, pero no tuve señal.",
     "cloze": "Quise",
     "answer": "Quise",
     "lemma": "querer",
@@ -3220,7 +3222,9 @@
     "answer": "prefiero comerlas",
     "lemma": "comer algo",
     "meaning": "I prefer to eat them",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "las prefiero comer"
+    ],
     "audio": "work/audio/es-MX/02/es-02-0319.mp3"
   },
   {
@@ -3657,7 +3661,7 @@
   },
   {
     "id": "es-02-0363",
-    "sentence": "El técnico iba a revisar la puerta, así que se la dejé en recepción.",
+    "sentence": "El técnico necesitaba la llave de la puerta, así que se la dejé en recepción.",
     "cloze": "se la dejé",
     "answer": "se la dejé",
     "lemma": "dejársela",
@@ -3667,7 +3671,7 @@
   },
   {
     "id": "es-02-0364",
-    "sentence": "Los huéspedes ya estaban en el mostrador cuando se los di.",
+    "sentence": "Los boletos eran para los huéspedes; se los di cuando llegaron al mostrador.",
     "cloze": "se los di",
     "answer": "se los di",
     "lemma": "dárselos",
@@ -3717,7 +3721,7 @@
   },
   {
     "id": "es-02-0369",
-    "sentence": "La señora Núñez no estaba en casa, pero el repartidor se lo dejó con el portero.",
+    "sentence": "El paquete era para la señora Núñez, pero el repartidor se lo dejó con el portero porque ella no estaba en casa.",
     "cloze": "se lo dejó",
     "answer": "se lo dejó",
     "lemma": "dejárselo",
@@ -3797,7 +3801,7 @@
   },
   {
     "id": "es-02-0377",
-    "sentence": "La nueva inquilina firmó el contrato y se las entregué en la entrada.",
+    "sentence": "La nueva inquilina firmó el contrato y me pidió las llaves; se las entregué en la entrada.",
     "cloze": "se las entregué",
     "answer": "se las entregué",
     "lemma": "entregárselas",
@@ -5141,7 +5145,7 @@
   },
   {
     "id": "es-02-0511",
-    "sentence": "Hermana, todavía guardo las llaves; espérame junto al elevador.",
+    "sentence": "Hermana, todavía tengo que guardar las llaves; espérame junto al elevador.",
     "cloze": "espérame",
     "answer": "espérame",
     "lemma": "esperar",
@@ -5671,7 +5675,7 @@
   },
   {
     "id": "es-02-0564",
-    "sentence": "Los empleados están cargando las últimas maletas, por eso el autobús todavía no sale.",
+    "sentence": "Los empleados están cargando las últimas maletas; por eso, el autobús todavía no sale.",
     "cloze": "están cargando",
     "answer": "están cargando",
     "lemma": "estar cargando",
@@ -6501,11 +6505,11 @@
   },
   {
     "id": "es-02-0645",
-    "sentence": "Todavía hay habitaciones disponibles y vas a reservar una esta noche.",
+    "sentence": "Todavía hay habitaciones disponibles; ¿vas a reservar una esta noche?",
     "cloze": "vas a reservar una",
     "answer": "vas a reservar una",
     "lemma": "ir a reservar",
-    "meaning": "you are going to reserve one",
+    "meaning": "are you going to reserve one",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0645.mp3"
   },
@@ -6641,7 +6645,7 @@
   },
   {
     "id": "es-02-0659",
-    "sentence": "La tienda dará una respuesta al final del día y les avisaré esta noche.",
+    "sentence": "Mis compañeros esperan la respuesta de la tienda y les avisaré esta noche.",
     "cloze": "les avisaré esta noche",
     "answer": "les avisaré esta noche",
     "lemma": "avisar",
@@ -7201,7 +7205,7 @@
   },
   {
     "id": "es-02-0715",
-    "sentence": "El curso de conversación se reúne dos veces por semana.",
+    "sentence": "El grupo del curso de conversación se reúne dos veces por semana.",
     "cloze": "dos veces por semana",
     "answer": "dos veces por semana",
     "lemma": "por",
@@ -7211,11 +7215,11 @@
   },
   {
     "id": "es-02-0716",
-    "sentence": "La visita fue organizada por el equipo del museo.",
-    "cloze": "por el equipo del museo",
-    "answer": "por el equipo del museo",
+    "sentence": "Para terminar la sopa, cocínala a fuego bajo por veinte minutos.",
+    "cloze": "por veinte minutos",
+    "answer": "por veinte minutos",
     "lemma": "por",
-    "meaning": "by the museum team",
+    "meaning": "for twenty minutes",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0716.mp3"
   },
@@ -7351,11 +7355,11 @@
   },
   {
     "id": "es-02-0730",
-    "sentence": "La convocatoria es del turno nocturno; esta beca es para sus estudiantes.",
-    "cloze": "para sus estudiantes",
-    "answer": "para sus estudiantes",
+    "sentence": "La convocatoria es del turno nocturno; esta beca es para los estudiantes de ese turno.",
+    "cloze": "para los estudiantes de ese turno",
+    "answer": "para los estudiantes de ese turno",
     "lemma": "para",
-    "meaning": "for its students",
+    "meaning": "for the students in that shift",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0730.mp3"
   },
@@ -7364,7 +7368,7 @@
     "sentence": "La aerolínea no encuentra mi equipaje; vine a recepción para reportar una maleta perdida.",
     "cloze": "para reportar una maleta perdida",
     "answer": "para reportar una maleta perdida",
-    "lemma": "para + infinitive",
+    "lemma": "para + infinitivo",
     "meaning": "to report a lost suitcase",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0731.mp3"
@@ -7374,7 +7378,7 @@
     "sentence": "El trámite tiene seguimiento en línea; guarda el folio para revisar el avance.",
     "cloze": "para revisar el avance",
     "answer": "para revisar el avance",
-    "lemma": "para + infinitive",
+    "lemma": "para + infinitivo",
     "meaning": "to check the progress",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0732.mp3"
@@ -7384,7 +7388,7 @@
     "sentence": "El técnico necesita ver la fuga; tomamos una foto del medidor para mostrarle el problema.",
     "cloze": "para mostrarle el problema",
     "answer": "para mostrarle el problema",
-    "lemma": "para + infinitive",
+    "lemma": "para + infinitivo",
     "meaning": "to show him the problem",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0733.mp3"
@@ -7394,7 +7398,7 @@
     "sentence": "Mi cita es a las nueve y salí con tiempo para no perderla.",
     "cloze": "para no perderla",
     "answer": "para no perderla",
-    "lemma": "para + infinitive",
+    "lemma": "para + infinitivo",
     "meaning": "so as not to miss it",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0734.mp3"
@@ -7404,7 +7408,7 @@
     "sentence": "La cuenta incluye un cobro duplicado; pedí hablar con la gerente para aclararlo.",
     "cloze": "para aclararlo",
     "answer": "para aclararlo",
-    "lemma": "para + infinitive",
+    "lemma": "para + infinitivo",
     "meaning": "to clear it up",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0735.mp3"
@@ -7414,7 +7418,7 @@
     "sentence": "Descargué la zona del mapa para usarla sin conexión durante el viaje.",
     "cloze": "para usarla sin conexión",
     "answer": "para usarla sin conexión",
-    "lemma": "para + infinitive",
+    "lemma": "para + infinitivo",
     "meaning": "to use it offline",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0736.mp3"
@@ -7424,7 +7428,7 @@
     "sentence": "El horario cambió; dejamos una nota para avisar al equipo.",
     "cloze": "para avisar al equipo",
     "answer": "para avisar al equipo",
-    "lemma": "para + infinitive",
+    "lemma": "para + infinitivo",
     "meaning": "to notify the team",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0737.mp3"
@@ -7434,7 +7438,7 @@
     "sentence": "El nombre y la fecha deben coincidir; la recepcionista pidió mi identificación para comprobar los datos.",
     "cloze": "para comprobar los datos",
     "answer": "para comprobar los datos",
-    "lemma": "para + infinitive",
+    "lemma": "para + infinitivo",
     "meaning": "to verify the information",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0738.mp3"
@@ -7444,7 +7448,7 @@
     "sentence": "La jefa revisará la cotización el sábado; debe estar firmada para el viernes.",
     "cloze": "para el viernes",
     "answer": "para el viernes",
-    "lemma": "para + deadline",
+    "lemma": "para + fecha límite",
     "meaning": "by Friday",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0739.mp3"
@@ -7454,7 +7458,7 @@
     "sentence": "Los huéspedes llegan a las dos; ¿puede dejar la habitación lista para esa hora?",
     "cloze": "para esa hora",
     "answer": "para esa hora",
-    "lemma": "para + deadline",
+    "lemma": "para + fecha límite",
     "meaning": "by that time",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0740.mp3"
@@ -7464,7 +7468,7 @@
     "sentence": "El plazo vence esta noche; necesitamos una respuesta para hoy.",
     "cloze": "para hoy",
     "answer": "para hoy",
-    "lemma": "para + deadline",
+    "lemma": "para + fecha límite",
     "meaning": "by today",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0741.mp3"
@@ -7474,7 +7478,7 @@
     "sentence": "El mensajero pasará mañana a las cuatro; la entrega debe estar preparada para mañana por la tarde.",
     "cloze": "para mañana por la tarde",
     "answer": "para mañana por la tarde",
-    "lemma": "para + deadline",
+    "lemma": "para + fecha límite",
     "meaning": "by tomorrow afternoon",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0742.mp3"
@@ -7544,7 +7548,7 @@
     "sentence": "No uses ese jabón en la ropa; es para lavar los platos.",
     "cloze": "para lavar los platos",
     "answer": "para lavar los platos",
-    "lemma": "para + infinitive",
+    "lemma": "para + infinitivo",
     "meaning": "for washing dishes",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0749.mp3"
@@ -7661,7 +7665,7 @@
   },
   {
     "id": "es-02-0761",
-    "sentence": "Para llevarla al viaje, la computadora gris es más ligera que la negra.",
+    "sentence": "Para llevarla de viaje, la computadora gris es más ligera que la negra.",
     "cloze": "más ligera que",
     "answer": "más ligera que",
     "lemma": "más ligero que",
@@ -7991,7 +7995,7 @@
   },
   {
     "id": "es-02-0794",
-    "sentence": "En hora pico, ir por esa avenida es peor que usar el periférico.",
+    "sentence": "En hora pico, ir por esa avenida es peor que usar el Periférico.",
     "cloze": "es peor que",
     "answer": "es peor que",
     "lemma": "ser peor que",
@@ -8561,10 +8565,10 @@
   },
   {
     "id": "es-02-0851",
-    "sentence": "La oficina ya cerró, por lo que decidimos llamar mañana a primera hora.",
-    "cloze": "por lo que decidimos",
-    "answer": "por lo que decidimos",
-    "lemma": "por lo que",
+    "sentence": "La oficina ya cerró, así que decidimos llamar mañana a primera hora.",
+    "cloze": "así que decidimos",
+    "answer": "así que decidimos",
+    "lemma": "así que",
     "meaning": "so we decided to",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0851.mp3"
@@ -8761,21 +8765,21 @@
   },
   {
     "id": "es-02-0871",
-    "sentence": "Aunque complicada al principio, la reparación terminó ese mismo día.",
-    "cloze": "Aunque complicada",
-    "answer": "Aunque complicada",
+    "sentence": "Aunque fue complicada al principio, la reparación terminó ese mismo día.",
+    "cloze": "Aunque fue complicada",
+    "answer": "Aunque fue complicada",
     "lemma": "aunque",
-    "meaning": "although complicated",
+    "meaning": "although it was complicated",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0871.mp3"
   },
   {
     "id": "es-02-0872",
-    "sentence": "Elegí la tarifa flexible, si bien cuesta un poco más que la básica.",
-    "cloze": "si bien",
-    "answer": "si bien",
-    "lemma": "si bien",
-    "meaning": "although",
+    "sentence": "Aunque cuesta un poco más que la básica, elegí la tarifa flexible.",
+    "cloze": "Aunque cuesta un poco más",
+    "answer": "Aunque cuesta un poco más",
+    "lemma": "aunque",
+    "meaning": "although it costs a little more",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0872.mp3"
   },
@@ -8791,11 +8795,11 @@
   },
   {
     "id": "es-02-0874",
-    "sentence": "El tren de las seis nos conviene, siempre que salga a tiempo; así llegaremos antes de las ocho.",
-    "cloze": "siempre que salga",
-    "answer": "siempre que salga",
-    "lemma": "siempre que",
-    "meaning": "provided that it leaves",
+    "sentence": "El tren de las seis nos conviene si sale a tiempo; así llegaremos antes de las ocho.",
+    "cloze": "si sale a tiempo",
+    "answer": "si sale a tiempo",
+    "lemma": "si",
+    "meaning": "if it leaves on time",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0874.mp3"
   },
@@ -8821,21 +8825,21 @@
   },
   {
     "id": "es-02-0877",
-    "sentence": "Mientras conserves el folio, podrás revisar el trámite en línea.",
-    "cloze": "Mientras conserves",
-    "answer": "Mientras conserves",
-    "lemma": "mientras",
-    "meaning": "as long as you keep",
+    "sentence": "Si conservas el folio, podrás revisar el trámite en línea.",
+    "cloze": "Si conservas",
+    "answer": "Si conservas",
+    "lemma": "si",
+    "meaning": "if you keep",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0877.mp3"
   },
   {
     "id": "es-02-0878",
-    "sentence": "De haber lugar en el hotel, nos quedaremos cerca de la terminal.",
-    "cloze": "De haber lugar",
-    "answer": "De haber lugar",
-    "lemma": "de haber",
-    "meaning": "should there be space",
+    "sentence": "Si hay lugar en el hotel, nos quedaremos cerca de la terminal.",
+    "cloze": "Si hay lugar",
+    "answer": "Si hay lugar",
+    "lemma": "si",
+    "meaning": "if there is room",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0878.mp3"
   },
@@ -9191,7 +9195,7 @@
   },
   {
     "id": "es-02-0914",
-    "sentence": "¿Me confirma por favor si el teléfono del taller termina en treinta y ocho, cero seis?",
+    "sentence": "¿Me confirma, por favor, si el teléfono del taller termina en treinta y ocho, cero seis?",
     "cloze": "termina en treinta y ocho, cero seis",
     "answer": "termina en treinta y ocho, cero seis",
     "lemma": "terminar en",
@@ -9334,7 +9338,7 @@
     "sentence": "Por las obras, en la terminal se ofrece un servicio de transporte alterno.",
     "cloze": "se ofrece",
     "answer": "se ofrece",
-    "lemma": "ofrecerse",
+    "lemma": "ofrecer",
     "meaning": "is offered",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0928.mp3"
@@ -9472,10 +9476,10 @@
   {
     "id": "es-02-0942",
     "sentence": "En la habitación, el agua de la regadera sale fría y necesito ayuda.",
-    "cloze": "el agua de la regadera sale fría",
-    "answer": "el agua de la regadera sale fría",
-    "lemma": "salir fría el agua",
-    "meaning": "the shower water runs cold",
+    "cloze": "sale fría",
+    "answer": "sale fría",
+    "lemma": "salir frío",
+    "meaning": "runs cold",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0942.mp3"
   },
@@ -9524,7 +9528,7 @@
     "sentence": "En este edificio, las fallas se reportan en recepción.",
     "cloze": "se reportan en recepción",
     "answer": "se reportan en recepción",
-    "lemma": "reportarse en recepción",
+    "lemma": "reportar",
     "meaning": "are reported at reception",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0947.mp3"
@@ -9741,9 +9745,9 @@
   },
   {
     "id": "es-02-0969",
-    "sentence": "Después del taller, Ana y Leo se recomendaron dos podcasts sobre cine.",
-    "cloze": "se recomendaron dos podcasts",
-    "answer": "se recomendaron dos podcasts",
+    "sentence": "Después del taller, Ana y Leo se recomendaron dos pódcast sobre cine.",
+    "cloze": "se recomendaron dos pódcast",
+    "answer": "se recomendaron dos pódcast",
     "lemma": "recomendarse algo",
     "meaning": "they recommended two podcasts to each other",
     "accepted_answers": [],
@@ -9752,10 +9756,10 @@
   {
     "id": "es-02-0970",
     "sentence": "Con este enlace se recuperan las cuentas bloqueadas en pocos minutos.",
-    "cloze": "se recuperan las cuentas bloqueadas",
-    "answer": "se recuperan las cuentas bloqueadas",
+    "cloze": "se recuperan",
+    "answer": "se recuperan",
     "lemma": "recuperar",
-    "meaning": "blocked accounts are recovered",
+    "meaning": "are recovered",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0970.mp3"
   },
@@ -9872,9 +9876,9 @@
   {
     "id": "es-02-0982",
     "sentence": "Este adaptador es para conectar la laptop al proyector.",
-    "cloze": "conectar la laptop",
-    "answer": "conectar la laptop",
-    "lemma": "conectar algo",
+    "cloze": "para conectar la laptop",
+    "answer": "para conectar la laptop",
+    "lemma": "para + infinitivo",
     "meaning": "to connect the laptop",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0982.mp3"
@@ -9922,20 +9926,20 @@
   {
     "id": "es-02-0987",
     "sentence": "Durante la junta, nadie pudo abrir el enlace de la presentación.",
-    "cloze": "nadie pudo abrir el enlace",
-    "answer": "nadie pudo abrir el enlace",
+    "cloze": "nadie pudo abrir",
+    "answer": "nadie pudo abrir",
     "lemma": "nadie",
-    "meaning": "nobody could open the link",
+    "meaning": "nobody could open",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0987.mp3"
   },
   {
     "id": "es-02-0988",
-    "sentence": "El instructor se enfermó; por eso pospusimos la capacitación hasta el viernes.",
-    "cloze": "por eso pospusimos la capacitación",
-    "answer": "por eso pospusimos la capacitación",
-    "lemma": "por eso",
-    "meaning": "so we postponed the training",
+    "sentence": "El instructor se enfermó; por lo tanto, pospusimos la capacitación hasta el viernes.",
+    "cloze": "por lo tanto",
+    "answer": "por lo tanto",
+    "lemma": "por lo tanto",
+    "meaning": "therefore",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0988.mp3"
   },
@@ -9952,10 +9956,10 @@
   {
     "id": "es-02-0990",
     "sentence": "Si vuelve a fallar la cuenta, avísame antes de la reunión.",
-    "cloze": "Si vuelve a fallar la cuenta",
-    "answer": "Si vuelve a fallar la cuenta",
+    "cloze": "Si vuelve a fallar",
+    "answer": "Si vuelve a fallar",
     "lemma": "si",
-    "meaning": "if the account fails again",
+    "meaning": "if it fails again",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0990.mp3"
   },
@@ -9982,10 +9986,10 @@
   {
     "id": "es-02-0993",
     "sentence": "Perdón, no podremos ir a la función porque cambiaron nuestro turno.",
-    "cloze": "no podremos ir a la función",
-    "answer": "no podremos ir a la función",
+    "cloze": "no podremos ir",
+    "answer": "no podremos ir",
     "lemma": "no poder ir",
-    "meaning": "we will not be able to go to the show",
+    "meaning": "we will not be able to go",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0993.mp3"
   },
@@ -10051,7 +10055,7 @@
   },
   {
     "id": "es-02-1000",
-    "sentence": "Primero corregí la fecha y luego se lo mandé a la coordinadora.",
+    "sentence": "Primero corregí la fecha del archivo y luego se lo mandé a la coordinadora.",
     "cloze": "se lo mandé a la coordinadora",
     "answer": "se lo mandé a la coordinadora",
     "lemma": "mandar algo a alguien",
