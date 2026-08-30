@@ -443,7 +443,7 @@
   },
   {
     "id": "es-02-0045",
-    "sentence": "En la entrada del andén, di mi boleto para la revisión.",
+    "sentence": "En la entrada del andén, di mi boleto al empleado.",
     "cloze": "di mi boleto",
     "answer": "di mi boleto",
     "lemma": "dar",
@@ -1723,7 +1723,7 @@
   },
   {
     "id": "es-02-0173",
-    "sentence": "Durante las vacaciones, nosotros cerrábamos al mediodía la tienda familiar.",
+    "sentence": "Durante las vacaciones, nosotros cerrábamos al mediodía y abríamos de nuevo a las cuatro.",
     "cloze": "cerrábamos al mediodía",
     "answer": "cerrábamos al mediodía",
     "lemma": "cerrar",
@@ -2343,11 +2343,11 @@
   },
   {
     "id": "es-02-0235",
-    "sentence": "Supe la respuesta mientras la maestra explicaba el último ejercicio.",
+    "sentence": "Supe cuál era la respuesta cuando la maestra mostró el último ejemplo.",
     "cloze": "Supe",
     "answer": "Supe",
     "lemma": "saber",
-    "meaning": "I realized",
+    "meaning": "I found out",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0235.mp3"
   },
@@ -4015,7 +4015,7 @@
   },
   {
     "id": "es-02-0398",
-    "sentence": "La compradora esperó mientras saqué una copia de la factura original; después se la devolví.",
+    "sentence": "La compradora esperó mientras yo sacaba una copia de la factura original; después se la devolví.",
     "cloze": "se la devolví",
     "answer": "se la devolví",
     "lemma": "devolvérsela",
@@ -4925,7 +4925,7 @@
   },
   {
     "id": "es-02-0489",
-    "sentence": "Amiga, la recepcionista está llenando la ficha; di tu nombre completo.",
+    "sentence": "Amiga, la recepcionista necesita completar la ficha; di tu nombre completo.",
     "cloze": "di tu nombre completo",
     "answer": "di tu nombre completo",
     "lemma": "decir",
@@ -4945,11 +4945,11 @@
   },
   {
     "id": "es-02-0491",
-    "sentence": "Prima, estoy poniendo la mesa; pásame los vasos, por favor.",
-    "cloze": "pásame los vasos",
-    "answer": "pásame los vasos",
+    "sentence": "Prima, necesitamos cuatro vasos en la mesa; pásamelos, por favor.",
+    "cloze": "pásamelos",
+    "answer": "pásamelos",
     "lemma": "pasar",
-    "meaning": "pass me the glasses",
+    "meaning": "pass them to me",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0491.mp3"
   },
@@ -4975,7 +4975,7 @@
   },
   {
     "id": "es-02-0494",
-    "sentence": "Amiga, toma una foto del horario y mándamela por mensaje.",
+    "sentence": "Amiga, ya tienes una foto del horario; mándamela, por favor.",
     "cloze": "mándamela",
     "answer": "mándamela",
     "lemma": "mandar",
@@ -5265,7 +5265,7 @@
   },
   {
     "id": "es-02-0523",
-    "sentence": "Compañero, todavía estoy corrigiendo el reporte; no me envíes el archivo aún.",
+    "sentence": "Compañero, el reporte todavía tiene errores; no me envíes el archivo aún.",
     "cloze": "no me envíes",
     "answer": "no me envíes",
     "lemma": "no enviar",
@@ -5315,7 +5315,7 @@
   },
   {
     "id": "es-02-0528",
-    "sentence": "Carla, alguien puede tirar los vasos; no los pongas al borde.",
+    "sentence": "Carla, los vasos pueden caer; no los pongas al borde.",
     "cloze": "no los pongas",
     "answer": "no los pongas",
     "lemma": "no poner",
@@ -5325,7 +5325,7 @@
   },
   {
     "id": "es-02-0529",
-    "sentence": "Sofía, está lloviendo muy fuerte; no salgas sin paraguas.",
+    "sentence": "Sofía, llueve muy fuerte; no salgas sin paraguas.",
     "cloze": "no salgas",
     "answer": "no salgas",
     "lemma": "no salir",
@@ -5365,7 +5365,7 @@
   },
   {
     "id": "es-02-0533",
-    "sentence": "Señora, todavía están atendiendo a otra persona; tome asiento junto a la ventana.",
+    "sentence": "Señora, la recepcionista todavía atiende a otra persona; tome asiento junto a la ventana.",
     "cloze": "tome asiento",
     "answer": "tome asiento",
     "lemma": "tomar asiento",
@@ -6145,7 +6145,7 @@
   },
   {
     "id": "es-02-0609",
-    "sentence": "Ya quitaron las obras y el camión vuelve a pasar por la avenida.",
+    "sentence": "Ya terminaron las obras y el camión vuelve a pasar por la avenida.",
     "cloze": "vuelve a pasar",
     "answer": "vuelve a pasar",
     "lemma": "volver a + infinitivo",
@@ -6555,7 +6555,7 @@
   },
   {
     "id": "es-02-0650",
-    "sentence": "Nadie puede ir a la oficina, pero podemos reunirnos en línea.",
+    "sentence": "Hoy trabajamos desde casa, pero podemos reunirnos en línea.",
     "cloze": "podemos reunirnos en línea",
     "answer": "podemos reunirnos en línea",
     "lemma": "poder reunirse",
@@ -6595,11 +6595,11 @@
   },
   {
     "id": "es-02-0654",
-    "sentence": "Mi turno termina temprano, así que podré acompañarlos mañana.",
+    "sentence": "Mis compañeros tienen boletos para el museo y mi turno termina temprano, así que podré acompañarlos mañana.",
     "cloze": "podré acompañarlos mañana",
     "answer": "podré acompañarlos mañana",
     "lemma": "poder acompañar",
-    "meaning": "I will be able to join you tomorrow",
+    "meaning": "I will be able to go with them tomorrow",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0654.mp3"
   },
@@ -6825,7 +6825,7 @@
   },
   {
     "id": "es-02-0677",
-    "sentence": "El número de guía ya aparece, pero nadie sabe cuándo llegará el pedido.",
+    "sentence": "El número de guía ya aparece, pero todavía no sabemos cuándo llegará el pedido.",
     "cloze": "cuándo llegará",
     "answer": "cuándo llegará",
     "lemma": "llegar",
@@ -6845,12 +6845,14 @@
   },
   {
     "id": "es-02-0679",
-    "sentence": "En la clínica tal vez habrá otra fecha disponible esta semana.",
-    "cloze": "tal vez habrá",
-    "answer": "tal vez habrá",
-    "lemma": "haber",
-    "meaning": "perhaps there will be",
-    "accepted_answers": [],
+    "sentence": "Disculpe, necesito cambiar la cita; ¿podría ayudarme a buscar otra fecha?",
+    "cloze": "podría ayudarme",
+    "answer": "podría ayudarme",
+    "lemma": "poder ayudar",
+    "meaning": "could you help me",
+    "accepted_answers": [
+      "me podría ayudar"
+    ],
     "audio": "work/audio/es-MX/02/es-02-0679.mp3"
   },
   {
@@ -6945,11 +6947,11 @@
   },
   {
     "id": "es-02-0689",
-    "sentence": "La tienda me cambió la chamarra de talla chica por una más grande.",
-    "cloze": "por una más grande",
-    "answer": "por una más grande",
+    "sentence": "La tienda me cambió la chamarra de talla chica por una de talla grande.",
+    "cloze": "por una de talla grande",
+    "answer": "por una de talla grande",
     "lemma": "por",
-    "meaning": "for a larger one",
+    "meaning": "for one in a large size",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0689.mp3"
   },
@@ -7315,7 +7317,7 @@
   },
   {
     "id": "es-02-0726",
-    "sentence": "La nueva inquilina llega esta noche; dejé esta llave para la nueva inquilina en recepción.",
+    "sentence": "Dejé esta llave en recepción para la nueva inquilina; ella llega esta noche.",
     "cloze": "para la nueva inquilina",
     "answer": "para la nueva inquilina",
     "lemma": "para",
@@ -7335,7 +7337,7 @@
   },
   {
     "id": "es-02-0728",
-    "sentence": "Cada integrante necesita revisar el programa; traje una copia impresa para cada integrante del equipo.",
+    "sentence": "Traje una copia impresa para cada integrante del equipo; todos necesitan revisar el programa.",
     "cloze": "para cada integrante del equipo",
     "answer": "para cada integrante del equipo",
     "lemma": "para",
@@ -7345,7 +7347,7 @@
   },
   {
     "id": "es-02-0729",
-    "sentence": "Tu abuela todavía no cena; guarda esta porción para tu abuela.",
+    "sentence": "Guarda esta porción para tu abuela; ella todavía no cena.",
     "cloze": "para tu abuela",
     "answer": "para tu abuela",
     "lemma": "para",
