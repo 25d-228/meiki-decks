@@ -4038,5 +4038,2025 @@
     "meaning": "they gave the keys to the guests",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0400.mp3"
+  },
+  {
+    "id": "es-02-0401",
+    "sentence": "Entre semana, me levanto a las seis para llegar a tiempo al trabajo.",
+    "cloze": "me levanto",
+    "answer": "me levanto",
+    "lemma": "levantarse",
+    "meaning": "I get up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0401.mp3"
+  },
+  {
+    "id": "es-02-0402",
+    "sentence": "Antes de la reunión, Clara se prepara en su oficina y revisa sus notas.",
+    "cloze": "se prepara",
+    "answer": "se prepara",
+    "lemma": "prepararse",
+    "meaning": "she gets ready",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0402.mp3"
+  },
+  {
+    "id": "es-02-0403",
+    "sentence": "Como la cena es formal, nos vestimos con ropa elegante.",
+    "cloze": "nos vestimos",
+    "answer": "nos vestimos",
+    "lemma": "vestirse",
+    "meaning": "we get dressed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0403.mp3"
+  },
+  {
+    "id": "es-02-0404",
+    "sentence": "Al llegar a casa, te lavas las manos antes de preparar la cena.",
+    "cloze": "te lavas las manos",
+    "answer": "te lavas las manos",
+    "lemma": "lavarse las manos",
+    "meaning": "you wash your hands",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0404.mp3"
+  },
+  {
+    "id": "es-02-0405",
+    "sentence": "Después del desayuno, me cepillo los dientes antes de salir.",
+    "cloze": "me cepillo los dientes",
+    "answer": "me cepillo los dientes",
+    "lemma": "cepillarse los dientes",
+    "meaning": "I brush my teeth",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0405.mp3"
+  },
+  {
+    "id": "es-02-0406",
+    "sentence": "Para la foto familiar, mi hija se peina frente al espejo.",
+    "cloze": "se peina",
+    "answer": "se peina",
+    "lemma": "peinarse",
+    "meaning": "she does her hair",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0406.mp3"
+  },
+  {
+    "id": "es-02-0407",
+    "sentence": "Como la mañana está fría, me pongo una chamarra antes de salir.",
+    "cloze": "me pongo una chamarra",
+    "answer": "me pongo una chamarra",
+    "lemma": "ponerse",
+    "meaning": "I put on a jacket",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0407.mp3"
+  },
+  {
+    "id": "es-02-0408",
+    "sentence": "Antes de la celebración, nos arreglamos en casa y salimos juntos.",
+    "cloze": "nos arreglamos",
+    "answer": "nos arreglamos",
+    "lemma": "arreglarse",
+    "meaning": "we get ready",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0408.mp3"
+  },
+  {
+    "id": "es-02-0409",
+    "sentence": "En la sala de espera, el señor se sienta junto a la ventana.",
+    "cloze": "se sienta",
+    "answer": "se sienta",
+    "lemma": "sentarse",
+    "meaning": "he sits down",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0409.mp3"
+  },
+  {
+    "id": "es-02-0410",
+    "sentence": "En el autobús, me acomodo junto a la ventana para descansar.",
+    "cloze": "me acomodo",
+    "answer": "me acomodo",
+    "lemma": "acomodarse",
+    "meaning": "I get comfortable",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0410.mp3"
+  },
+  {
+    "id": "es-02-0411",
+    "sentence": "A las diez, los últimos clientes se van del restaurante.",
+    "cloze": "se van",
+    "answer": "se van",
+    "lemma": "irse",
+    "meaning": "they leave",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0411.mp3"
+  },
+  {
+    "id": "es-02-0412",
+    "sentence": "El último metro sale pronto y tengo que irme ahora.",
+    "cloze": "tengo que irme",
+    "answer": "tengo que irme",
+    "lemma": "irse",
+    "meaning": "I have to leave",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0412.mp3"
+  },
+  {
+    "id": "es-02-0413",
+    "sentence": "El hotel está cerca de la terminal, así que vamos a quedarnos ahí dos noches.",
+    "cloze": "vamos a quedarnos",
+    "answer": "vamos a quedarnos",
+    "lemma": "quedarse",
+    "meaning": "we are going to stay",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0413.mp3"
+  },
+  {
+    "id": "es-02-0414",
+    "sentence": "Cuando oyó su nombre, la señora se acercó a la ventanilla.",
+    "cloze": "se acercó",
+    "answer": "se acercó",
+    "lemma": "acercarse",
+    "meaning": "she approached",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0414.mp3"
+  },
+  {
+    "id": "es-02-0415",
+    "sentence": "Para llegar al museo, me bajo del metro en Coyoacán.",
+    "cloze": "me bajo del metro",
+    "answer": "me bajo del metro",
+    "lemma": "bajarse",
+    "meaning": "I get off the metro",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0415.mp3"
+  },
+  {
+    "id": "es-02-0416",
+    "sentence": "En la terminal, los pasajeros se subieron al autobús con sus maletas.",
+    "cloze": "se subieron al autobús",
+    "answer": "se subieron al autobús",
+    "lemma": "subirse",
+    "meaning": "they got on the bus",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0416.mp3"
+  },
+  {
+    "id": "es-02-0417",
+    "sentence": "La reunión terminó tarde, así que Julia se quedó en la oficina hasta las ocho.",
+    "cloze": "se quedó",
+    "answer": "se quedó",
+    "lemma": "quedarse",
+    "meaning": "she stayed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0417.mp3"
+  },
+  {
+    "id": "es-02-0418",
+    "sentence": "Después de la celebración, nos fuimos a casa en taxi.",
+    "cloze": "nos fuimos",
+    "answer": "nos fuimos",
+    "lemma": "irse",
+    "meaning": "we left",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0418.mp3"
+  },
+  {
+    "id": "es-02-0419",
+    "sentence": "El vuelo sale temprano, así que necesito despertarme a las cinco.",
+    "cloze": "necesito despertarme",
+    "answer": "necesito despertarme",
+    "lemma": "despertarse",
+    "meaning": "I need to wake up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0419.mp3"
+  },
+  {
+    "id": "es-02-0420",
+    "sentence": "Después de terminar el reporte, quiero acostarme temprano.",
+    "cloze": "quiero acostarme",
+    "answer": "quiero acostarme",
+    "lemma": "acostarse",
+    "meaning": "I want to go to bed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0420.mp3"
+  },
+  {
+    "id": "es-02-0421",
+    "sentence": "El niño estaba cansado y se durmió durante el viaje.",
+    "cloze": "se durmió",
+    "answer": "se durmió",
+    "lemma": "dormirse",
+    "meaning": "he fell asleep",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0421.mp3"
+  },
+  {
+    "id": "es-02-0422",
+    "sentence": "Después de cerrar la ventana, pude dormirme sin problema.",
+    "cloze": "pude dormirme",
+    "answer": "pude dormirme",
+    "lemma": "dormirse",
+    "meaning": "I was able to fall asleep",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0422.mp3"
+  },
+  {
+    "id": "es-02-0423",
+    "sentence": "Antes de salir al aeropuerto, voy a bañarme y preparar la maleta.",
+    "cloze": "voy a bañarme",
+    "answer": "voy a bañarme",
+    "lemma": "bañarse",
+    "meaning": "I am going to take a shower",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0423.mp3"
+  },
+  {
+    "id": "es-02-0424",
+    "sentence": "Estas sillas están libres, señores; pueden sentarse aquí mientras esperan.",
+    "cloze": "pueden sentarse",
+    "answer": "pueden sentarse",
+    "lemma": "sentarse",
+    "meaning": "you may sit down",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0424.mp3"
+  },
+  {
+    "id": "es-02-0425",
+    "sentence": "Ana, después de nadar tienes que cambiarte antes de salir.",
+    "cloze": "tienes que cambiarte",
+    "answer": "tienes que cambiarte",
+    "lemma": "cambiarse",
+    "meaning": "you have to change clothes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0425.mp3"
+  },
+  {
+    "id": "es-02-0426",
+    "sentence": "Cuando entró la directora, todos se pusieron de pie.",
+    "cloze": "se pusieron de pie",
+    "answer": "se pusieron de pie",
+    "lemma": "ponerse de pie",
+    "meaning": "they stood up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0426.mp3"
+  },
+  {
+    "id": "es-02-0427",
+    "sentence": "Cuando empezó la entrevista, me puse nerviosa por un momento.",
+    "cloze": "me puse nerviosa",
+    "answer": "me puse nerviosa",
+    "lemma": "ponerse nervioso",
+    "meaning": "I became nervous",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0427.mp3"
+  },
+  {
+    "id": "es-02-0428",
+    "sentence": "Al ver a su familia en la terminal, Carlos se alegró mucho.",
+    "cloze": "se alegró",
+    "answer": "se alegró",
+    "lemma": "alegrarse",
+    "meaning": "he became happy",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0428.mp3"
+  },
+  {
+    "id": "es-02-0429",
+    "sentence": "Después de caminar todo el día, nos cansamos mucho.",
+    "cloze": "nos cansamos",
+    "answer": "nos cansamos",
+    "lemma": "cansarse",
+    "meaning": "we got tired",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0429.mp3"
+  },
+  {
+    "id": "es-02-0430",
+    "sentence": "Cuando terminó la llamada, la clienta se calmó poco a poco.",
+    "cloze": "se calmó",
+    "answer": "se calmó",
+    "lemma": "calmarse",
+    "meaning": "she calmed down",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0430.mp3"
+  },
+  {
+    "id": "es-02-0431",
+    "sentence": "Mi hijo se enojó porque la computadora no funcionó durante su clase.",
+    "cloze": "se enojó",
+    "answer": "se enojó",
+    "lemma": "enojarse",
+    "meaning": "he got angry",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0431.mp3"
+  },
+  {
+    "id": "es-02-0432",
+    "sentence": "Con una taza de café, me siento mejor después del viaje.",
+    "cloze": "me siento mejor",
+    "answer": "me siento mejor",
+    "lemma": "sentirse",
+    "meaning": "I feel better",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0432.mp3"
+  },
+  {
+    "id": "es-02-0433",
+    "sentence": "Después de llegar al hotel, los viajeros se relajaron en el patio.",
+    "cloze": "se relajaron",
+    "answer": "se relajaron",
+    "lemma": "relajarse",
+    "meaning": "they relaxed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0433.mp3"
+  },
+  {
+    "id": "es-02-0434",
+    "sentence": "Después de recoger las llaves, nos instalamos en el departamento nuevo.",
+    "cloze": "nos instalamos",
+    "answer": "nos instalamos",
+    "lemma": "instalarse",
+    "meaning": "we settled in",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0434.mp3"
+  },
+  {
+    "id": "es-02-0435",
+    "sentence": "Antes de la celebración, Marta quiere arreglarse en casa de su hermana.",
+    "cloze": "quiere arreglarse",
+    "answer": "quiere arreglarse",
+    "lemma": "arreglarse",
+    "meaning": "she wants to get ready",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0435.mp3"
+  },
+  {
+    "id": "es-02-0436",
+    "sentence": "Los huéspedes prefieren alojarse cerca del aeropuerto esta noche.",
+    "cloze": "prefieren alojarse",
+    "answer": "prefieren alojarse",
+    "lemma": "alojarse",
+    "meaning": "they prefer to stay",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0436.mp3"
+  },
+  {
+    "id": "es-02-0437",
+    "sentence": "La señora prefiere prepararse en este cuarto antes de la celebración.",
+    "cloze": "prefiere prepararse",
+    "answer": "prefiere prepararse",
+    "lemma": "prepararse",
+    "meaning": "she prefers to get ready",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0437.mp3"
+  },
+  {
+    "id": "es-02-0438",
+    "sentence": "Después del ejercicio, preferimos estirarnos antes de descansar.",
+    "cloze": "preferimos estirarnos",
+    "answer": "preferimos estirarnos",
+    "lemma": "estirarse",
+    "meaning": "we prefer to stretch",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0438.mp3"
+  },
+  {
+    "id": "es-02-0439",
+    "sentence": "Antes de bajar del autobús, debes llevarte tu mochila.",
+    "cloze": "debes llevarte",
+    "answer": "debes llevarte",
+    "lemma": "llevarse",
+    "meaning": "you must take with you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0439.mp3"
+  },
+  {
+    "id": "es-02-0440",
+    "sentence": "Antes de entrar al museo, la guía se detuvo junto a la taquilla para revisar los boletos.",
+    "cloze": "se detuvo",
+    "answer": "se detuvo",
+    "lemma": "detenerse",
+    "meaning": "she stopped",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0440.mp3"
+  },
+  {
+    "id": "es-02-0441",
+    "sentence": "En el equipo, Laura y Mario se ayudan con los reportes cuando hay mucho trabajo.",
+    "cloze": "se ayudan",
+    "answer": "se ayudan",
+    "lemma": "ayudarse",
+    "meaning": "they help each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0441.mp3"
+  },
+  {
+    "id": "es-02-0442",
+    "sentence": "Los vecinos del tercer piso se saludan al llegar cada mañana.",
+    "cloze": "se saludan",
+    "answer": "se saludan",
+    "lemma": "saludarse",
+    "meaning": "they greet each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0442.mp3"
+  },
+  {
+    "id": "es-02-0443",
+    "sentence": "Después de clase, Ana y Julia se escriben para comparar sus apuntes.",
+    "cloze": "se escriben",
+    "answer": "se escriben",
+    "lemma": "escribirse",
+    "meaning": "they write to each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0443.mp3"
+  },
+  {
+    "id": "es-02-0444",
+    "sentence": "Aunque viven en ciudades distintas, los hermanos se llaman cada viernes.",
+    "cloze": "se llaman",
+    "answer": "se llaman",
+    "lemma": "llamarse",
+    "meaning": "they call each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0444.mp3"
+  },
+  {
+    "id": "es-02-0445",
+    "sentence": "Antes del examen, los dos compañeros se prestan sus apuntes para estudiar.",
+    "cloze": "se prestan sus apuntes",
+    "answer": "se prestan sus apuntes",
+    "lemma": "prestarse",
+    "meaning": "they lend each other their notes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0445.mp3"
+  },
+  {
+    "id": "es-02-0446",
+    "sentence": "Después del viaje, mis primas se mandaron las fotos por mensaje.",
+    "cloze": "se mandaron las fotos",
+    "answer": "se mandaron las fotos",
+    "lemma": "mandarse",
+    "meaning": "they sent each other the photos",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0446.mp3"
+  },
+  {
+    "id": "es-02-0447",
+    "sentence": "Clara y Elena se conocieron en un curso de capacitación el año pasado.",
+    "cloze": "se conocieron",
+    "answer": "se conocieron",
+    "lemma": "conocerse",
+    "meaning": "they met each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0447.mp3"
+  },
+  {
+    "id": "es-02-0448",
+    "sentence": "Como sus trenes llegaron a la misma hora, los amigos se encontraron en la estación.",
+    "cloze": "se encontraron",
+    "answer": "se encontraron",
+    "lemma": "encontrarse",
+    "meaning": "they met each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0448.mp3"
+  },
+  {
+    "id": "es-02-0449",
+    "sentence": "Al final de la celebración, los hermanos se abrazaron con mucha alegría.",
+    "cloze": "se abrazaron",
+    "answer": "se abrazaron",
+    "lemma": "abrazarse",
+    "meaning": "they hugged each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0449.mp3"
+  },
+  {
+    "id": "es-02-0450",
+    "sentence": "Durante la junta, los dos colegas se escuchan con atención antes de responder.",
+    "cloze": "se escuchan con atención",
+    "answer": "se escuchan con atención",
+    "lemma": "escucharse",
+    "meaning": "they listen to each other carefully",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0450.mp3"
+  },
+  {
+    "id": "es-02-0451",
+    "sentence": "Cuando tienen un problema, Marta y su vecina se dan consejos prácticos.",
+    "cloze": "se dan consejos prácticos",
+    "answer": "se dan consejos prácticos",
+    "lemma": "darse consejos",
+    "meaning": "they give each other practical advice",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0451.mp3"
+  },
+  {
+    "id": "es-02-0452",
+    "sentence": "En la oficina, los empleados nuevos se explican las tareas entre ellos.",
+    "cloze": "se explican las tareas",
+    "answer": "se explican las tareas",
+    "lemma": "explicarse",
+    "meaning": "they explain the tasks to each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0452.mp3"
+  },
+  {
+    "id": "es-02-0453",
+    "sentence": "Al preparar la mudanza, mis vecinos y nosotros nos ayudamos con las cajas.",
+    "cloze": "nos ayudamos",
+    "answer": "nos ayudamos",
+    "lemma": "ayudarse",
+    "meaning": "we help each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0453.mp3"
+  },
+  {
+    "id": "es-02-0454",
+    "sentence": "Aunque viven en colonias distintas, las dos familias se visitan los domingos.",
+    "cloze": "se visitan",
+    "answer": "se visitan",
+    "lemma": "visitarse",
+    "meaning": "they visit each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0454.mp3"
+  },
+  {
+    "id": "es-02-0455",
+    "sentence": "Al terminar el proyecto, Ana y Luis se felicitaron por el buen trabajo de ambos.",
+    "cloze": "se felicitaron",
+    "answer": "se felicitaron",
+    "lemma": "felicitarse",
+    "meaning": "they congratulated each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0455.mp3"
+  },
+  {
+    "id": "es-02-0456",
+    "sentence": "En esta papelería se hacen copias a color hasta las seis.",
+    "cloze": "se hacen copias a color",
+    "answer": "se hacen copias a color",
+    "lemma": "hacer copias",
+    "meaning": "color copies are made",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0456.mp3"
+  },
+  {
+    "id": "es-02-0457",
+    "sentence": "En la taquilla del museo se venden entradas para la visita de la tarde.",
+    "cloze": "se venden entradas",
+    "answer": "se venden entradas",
+    "lemma": "vender entradas",
+    "meaning": "tickets are sold",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0457.mp3"
+  },
+  {
+    "id": "es-02-0458",
+    "sentence": "En la recepción del edificio se reciben paquetes de lunes a viernes.",
+    "cloze": "se reciben paquetes",
+    "answer": "se reciben paquetes",
+    "lemma": "recibir paquetes",
+    "meaning": "packages are accepted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0458.mp3"
+  },
+  {
+    "id": "es-02-0459",
+    "sentence": "En esta colonia se rentan departamentos amueblados por mes.",
+    "cloze": "se rentan",
+    "answer": "se rentan",
+    "lemma": "rentar",
+    "meaning": "are rented",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0459.mp3"
+  },
+  {
+    "id": "es-02-0460",
+    "sentence": "Para el turno de la tarde se buscan dos asistentes con experiencia.",
+    "cloze": "se buscan dos asistentes",
+    "answer": "se buscan dos asistentes",
+    "lemma": "buscar asistentes",
+    "meaning": "two assistants are wanted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0460.mp3"
+  },
+  {
+    "id": "es-02-0461",
+    "sentence": "En esta tienda se aceptan cambios con el recibo original.",
+    "cloze": "se aceptan cambios",
+    "answer": "se aceptan cambios",
+    "lemma": "aceptar cambios",
+    "meaning": "exchanges are accepted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0461.mp3"
+  },
+  {
+    "id": "es-02-0462",
+    "sentence": "En esta caja se entrega una copia del comprobante después del pago.",
+    "cloze": "se entrega una copia",
+    "answer": "se entrega una copia",
+    "lemma": "entregar una copia",
+    "meaning": "a copy is provided",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0462.mp3"
+  },
+  {
+    "id": "es-02-0463",
+    "sentence": "Antes de entrar, se revisan las identificaciones de todos los visitantes.",
+    "cloze": "se revisan las identificaciones",
+    "answer": "se revisan las identificaciones",
+    "lemma": "revisar identificaciones",
+    "meaning": "identification documents are checked",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0463.mp3"
+  },
+  {
+    "id": "es-02-0464",
+    "sentence": "En este taller se reparan celulares y computadoras de lunes a sábado.",
+    "cloze": "se reparan celulares y computadoras",
+    "answer": "se reparan celulares y computadoras",
+    "lemma": "reparar",
+    "meaning": "phones and computers are repaired",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0464.mp3"
+  },
+  {
+    "id": "es-02-0465",
+    "sentence": "En el restaurante del hotel se sirven desayunos hasta el mediodía.",
+    "cloze": "se sirven desayunos",
+    "answer": "se sirven desayunos",
+    "lemma": "servir desayunos",
+    "meaning": "breakfasts are served",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0465.mp3"
+  },
+  {
+    "id": "es-02-0466",
+    "sentence": "Las reservaciones para grupos se confirman por teléfono un día antes.",
+    "cloze": "se confirman por teléfono",
+    "answer": "se confirman por teléfono",
+    "lemma": "confirmar",
+    "meaning": "they are confirmed by phone",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0466.mp3"
+  },
+  {
+    "id": "es-02-0467",
+    "sentence": "En este autobús, el equipaje grande se guarda en el compartimento de abajo.",
+    "cloze": "se guarda en el compartimento de abajo",
+    "answer": "se guarda en el compartimento de abajo",
+    "lemma": "guardar",
+    "meaning": "it is stored in the lower compartment",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0467.mp3"
+  },
+  {
+    "id": "es-02-0468",
+    "sentence": "En esta línea del metro no se permite llevar bicicletas durante la mañana.",
+    "cloze": "no se permite",
+    "answer": "no se permite",
+    "lemma": "permitir",
+    "meaning": "it is not allowed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0468.mp3"
+  },
+  {
+    "id": "es-02-0469",
+    "sentence": "Dentro del hospital se habla en voz baja para no molestar.",
+    "cloze": "se habla en voz baja",
+    "answer": "se habla en voz baja",
+    "lemma": "hablar",
+    "meaning": "people speak quietly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0469.mp3"
+  },
+  {
+    "id": "es-02-0470",
+    "sentence": "En este módulo se atiende por orden de llegada durante la mañana.",
+    "cloze": "se atiende por orden de llegada",
+    "answer": "se atiende por orden de llegada",
+    "lemma": "atender",
+    "meaning": "people are served in order of arrival",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0470.mp3"
+  },
+  {
+    "id": "es-02-0471",
+    "sentence": "Para entrar al curso se necesita una identificación vigente.",
+    "cloze": "se necesita una identificación",
+    "answer": "se necesita una identificación",
+    "lemma": "necesitar",
+    "meaning": "identification is required",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0471.mp3"
+  },
+  {
+    "id": "es-02-0472",
+    "sentence": "En esta caja se puede pagar en efectivo o con tarjeta.",
+    "cloze": "se puede pagar",
+    "answer": "se puede pagar",
+    "lemma": "poder pagar",
+    "meaning": "payment can be made",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0472.mp3"
+  },
+  {
+    "id": "es-02-0473",
+    "sentence": "Para recoger el paquete se debe mostrar el número de guía.",
+    "cloze": "se debe mostrar",
+    "answer": "se debe mostrar",
+    "lemma": "deber mostrar",
+    "meaning": "it must be shown",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0473.mp3"
+  },
+  {
+    "id": "es-02-0474",
+    "sentence": "Al museo se entra por la puerta de la avenida.",
+    "cloze": "se entra",
+    "answer": "se entra",
+    "lemma": "entrar",
+    "meaning": "people enter",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0474.mp3"
+  },
+  {
+    "id": "es-02-0475",
+    "sentence": "Después de las diez se sale de la estación por el acceso norte.",
+    "cloze": "se sale de la estación",
+    "answer": "se sale de la estación",
+    "lemma": "salir",
+    "meaning": "people leave the station",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0475.mp3"
+  },
+  {
+    "id": "es-02-0476",
+    "sentence": "En la recepción del hotel se pueden guardar las maletas hasta la tarde.",
+    "cloze": "se pueden guardar",
+    "answer": "se pueden guardar",
+    "lemma": "poder guardar",
+    "meaning": "they can be stored",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0476.mp3"
+  },
+  {
+    "id": "es-02-0477",
+    "sentence": "Para estos trámites se usan formatos distintos en cada oficina.",
+    "cloze": "se usan",
+    "answer": "se usan",
+    "lemma": "usar",
+    "meaning": "they are used",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0477.mp3"
+  },
+  {
+    "id": "es-02-0478",
+    "sentence": "En el aviso se explica cómo cambiar la fecha de la reservación.",
+    "cloze": "se explica",
+    "answer": "se explica",
+    "lemma": "explicar",
+    "meaning": "it is explained",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0478.mp3"
+  },
+  {
+    "id": "es-02-0479",
+    "sentence": "En esta colonia, el correo se entrega por la mañana.",
+    "cloze": "se entrega",
+    "answer": "se entrega",
+    "lemma": "entregar",
+    "meaning": "it is delivered",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0479.mp3"
+  },
+  {
+    "id": "es-02-0480",
+    "sentence": "Durante la capacitación se trabaja en parejas para practicar cada tarea.",
+    "cloze": "se trabaja en parejas",
+    "answer": "se trabaja en parejas",
+    "lemma": "trabajar",
+    "meaning": "people work in pairs",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0480.mp3"
+  },
+  {
+    "id": "es-02-0481",
+    "sentence": "Amiga, ya llegué a tu edificio; ven acá un momento.",
+    "cloze": "ven acá",
+    "answer": "ven acá",
+    "lemma": "venir acá",
+    "meaning": "come here",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0481.mp3"
+  },
+  {
+    "id": "es-02-0482",
+    "sentence": "Hermano, el taxi ya está afuera; sal de casa con tu maleta.",
+    "cloze": "sal de casa",
+    "answer": "sal de casa",
+    "lemma": "salir de casa",
+    "meaning": "leave the house",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0482.mp3"
+  },
+  {
+    "id": "es-02-0483",
+    "sentence": "Hija, la sopa ya está lista; ve a la cocina por los platos.",
+    "cloze": "ve a la cocina",
+    "answer": "ve a la cocina",
+    "lemma": "ir a la cocina",
+    "meaning": "go to the kitchen",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0483.mp3"
+  },
+  {
+    "id": "es-02-0484",
+    "sentence": "Amigo, el piso está mojado; ten cuidado al entrar.",
+    "cloze": "ten cuidado",
+    "answer": "ten cuidado",
+    "lemma": "tener cuidado",
+    "meaning": "be careful",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0484.mp3"
+  },
+  {
+    "id": "es-02-0485",
+    "sentence": "Compañera, para abrir el mapa, haz clic en el enlace azul.",
+    "cloze": "haz clic",
+    "answer": "haz clic",
+    "lemma": "hacer clic",
+    "meaning": "click",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0485.mp3"
+  },
+  {
+    "id": "es-02-0486",
+    "sentence": "Papá, el cargador está sobre la mesa; ponlo junto a mi celular.",
+    "cloze": "ponlo",
+    "answer": "ponlo",
+    "lemma": "poner",
+    "meaning": "put it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0486.mp3"
+  },
+  {
+    "id": "es-02-0487",
+    "sentence": "Hijo, todavía falta una persona; sé paciente unos minutos.",
+    "cloze": "sé paciente",
+    "answer": "sé paciente",
+    "lemma": "ser paciente",
+    "meaning": "be patient",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0487.mp3"
+  },
+  {
+    "id": "es-02-0488",
+    "sentence": "Hermana, ya revisaste el mensaje; dime la nueva hora.",
+    "cloze": "dime la nueva hora",
+    "answer": "dime la nueva hora",
+    "lemma": "decir",
+    "meaning": "tell me the new time",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0488.mp3"
+  },
+  {
+    "id": "es-02-0489",
+    "sentence": "Amiga, la recepcionista está llenando la ficha; di tu nombre completo.",
+    "cloze": "di tu nombre completo",
+    "answer": "di tu nombre completo",
+    "lemma": "decir",
+    "meaning": "say your full name",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0489.mp3"
+  },
+  {
+    "id": "es-02-0490",
+    "sentence": "Amor, el paraguas está junto a la puerta; tráelo antes de salir.",
+    "cloze": "tráelo",
+    "answer": "tráelo",
+    "lemma": "traer",
+    "meaning": "bring it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0490.mp3"
+  },
+  {
+    "id": "es-02-0491",
+    "sentence": "Prima, estoy poniendo la mesa; pásame los vasos, por favor.",
+    "cloze": "pásame los vasos",
+    "answer": "pásame los vasos",
+    "lemma": "pasar",
+    "meaning": "pass me the glasses",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0491.mp3"
+  },
+  {
+    "id": "es-02-0492",
+    "sentence": "Hijo, este recibo es importante; guárdalo con la garantía.",
+    "cloze": "guárdalo",
+    "answer": "guárdalo",
+    "lemma": "guardar",
+    "meaning": "keep it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0492.mp3"
+  },
+  {
+    "id": "es-02-0493",
+    "sentence": "Hermano, esta caja va a la entrada; llévala con cuidado.",
+    "cloze": "llévala con cuidado",
+    "answer": "llévala con cuidado",
+    "lemma": "llevar",
+    "meaning": "carry it carefully",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0493.mp3"
+  },
+  {
+    "id": "es-02-0494",
+    "sentence": "Amiga, toma una foto del horario y mándamela por mensaje.",
+    "cloze": "mándamela",
+    "answer": "mándamela",
+    "lemma": "mandar",
+    "meaning": "send it to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0494.mp3"
+  },
+  {
+    "id": "es-02-0495",
+    "sentence": "Compañero, al llegar al hotel, escríbeme para confirmar que todo está bien.",
+    "cloze": "escríbeme",
+    "answer": "escríbeme",
+    "lemma": "escribir",
+    "meaning": "write to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0495.mp3"
+  },
+  {
+    "id": "es-02-0496",
+    "sentence": "Hermana, tengo una cita a las ocho; llámame al terminar tu clase.",
+    "cloze": "llámame",
+    "answer": "llámame",
+    "lemma": "llamar",
+    "meaning": "call me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0496.mp3"
+  },
+  {
+    "id": "es-02-0497",
+    "sentence": "Amigo, mañana cambia el horario; recuérdamelo antes de la junta.",
+    "cloze": "recuérdamelo",
+    "answer": "recuérdamelo",
+    "lemma": "recordar",
+    "meaning": "remind me of it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0497.mp3"
+  },
+  {
+    "id": "es-02-0498",
+    "sentence": "Compañera, no entiendo este paso; explícamelo con un ejemplo sencillo.",
+    "cloze": "explícamelo",
+    "answer": "explícamelo",
+    "lemma": "explicar",
+    "meaning": "explain it to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0498.mp3"
+  },
+  {
+    "id": "es-02-0499",
+    "sentence": "Mamá, quiero ver la foto de la nueva casa; enséñamela en tu celular.",
+    "cloze": "enséñamela",
+    "answer": "enséñamela",
+    "lemma": "enseñar",
+    "meaning": "show it to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0499.mp3"
+  },
+  {
+    "id": "es-02-0500",
+    "sentence": "Hermano, este libro es de Ana; devuélveselo mañana.",
+    "cloze": "devuélveselo",
+    "answer": "devuélveselo",
+    "lemma": "devolver",
+    "meaning": "return it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0500.mp3"
+  },
+  {
+    "id": "es-02-0501",
+    "sentence": "Hija, el paquete acaba de llegar; ábrelo sobre la mesa.",
+    "cloze": "ábrelo",
+    "answer": "ábrelo",
+    "lemma": "abrir",
+    "meaning": "open it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0501.mp3"
+  },
+  {
+    "id": "es-02-0502",
+    "sentence": "Amor, la ventana sigue abierta y ya entró el gato; ciérrala, por favor.",
+    "cloze": "ciérrala",
+    "answer": "ciérrala",
+    "lemma": "cerrar",
+    "meaning": "close it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0502.mp3"
+  },
+  {
+    "id": "es-02-0503",
+    "sentence": "Compañero, el archivo está en tu computadora; súbelo a la carpeta del equipo.",
+    "cloze": "súbelo",
+    "answer": "súbelo",
+    "lemma": "subir",
+    "meaning": "upload it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0503.mp3"
+  },
+  {
+    "id": "es-02-0504",
+    "sentence": "Hijo, la mochila está en la repisa alta; bájala con las dos manos.",
+    "cloze": "bájala",
+    "answer": "bájala",
+    "lemma": "bajar",
+    "meaning": "bring it down",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0504.mp3"
+  },
+  {
+    "id": "es-02-0505",
+    "sentence": "Amiga, mi celular está apagado; préndelo para revisar el mensaje.",
+    "cloze": "préndelo",
+    "answer": "préndelo",
+    "lemma": "prender",
+    "meaning": "turn it on",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0505.mp3"
+  },
+  {
+    "id": "es-02-0506",
+    "sentence": "Hermano, la lámpara sigue encendida; apágala antes de salir.",
+    "cloze": "apágala",
+    "answer": "apágala",
+    "lemma": "apagar",
+    "meaning": "turn it off",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0506.mp3"
+  },
+  {
+    "id": "es-02-0507",
+    "sentence": "Compañera, el aviso tiene la dirección correcta; léelo en voz alta.",
+    "cloze": "léelo",
+    "answer": "léelo",
+    "lemma": "leer",
+    "meaning": "read it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0507.mp3"
+  },
+  {
+    "id": "es-02-0508",
+    "sentence": "Papá, el formato ya está completo; fírmalo en la última línea.",
+    "cloze": "fírmalo",
+    "answer": "fírmalo",
+    "lemma": "firmar",
+    "meaning": "sign it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0508.mp3"
+  },
+  {
+    "id": "es-02-0509",
+    "sentence": "Amiga, este mapa nos sirve a todos; compártelo en el grupo.",
+    "cloze": "compártelo",
+    "answer": "compártelo",
+    "lemma": "compartir",
+    "meaning": "share it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0509.mp3"
+  },
+  {
+    "id": "es-02-0510",
+    "sentence": "Hijo, la entrada está por este pasillo; sígueme hasta la puerta.",
+    "cloze": "sígueme",
+    "answer": "sígueme",
+    "lemma": "seguir",
+    "meaning": "follow me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0510.mp3"
+  },
+  {
+    "id": "es-02-0511",
+    "sentence": "Hermana, todavía guardo las llaves; espérame junto al elevador.",
+    "cloze": "espérame",
+    "answer": "espérame",
+    "lemma": "esperar",
+    "meaning": "wait for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0511.mp3"
+  },
+  {
+    "id": "es-02-0512",
+    "sentence": "Amigo, esta maleta pesa mucho; ayúdame a subirla al taxi.",
+    "cloze": "ayúdame a subirla",
+    "answer": "ayúdame a subirla",
+    "lemma": "ayudar",
+    "meaning": "help me lift it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0512.mp3"
+  },
+  {
+    "id": "es-02-0513",
+    "sentence": "Prima, no conozco esta estación; acompáñame hasta la salida.",
+    "cloze": "acompáñame",
+    "answer": "acompáñame",
+    "lemma": "acompañar",
+    "meaning": "come with me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0513.mp3"
+  },
+  {
+    "id": "es-02-0514",
+    "sentence": "Hija, esta silla está libre; siéntate junto a tu abuela.",
+    "cloze": "siéntate",
+    "answer": "siéntate",
+    "lemma": "sentarse",
+    "meaning": "sit down",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0514.mp3"
+  },
+  {
+    "id": "es-02-0515",
+    "sentence": "Amigo, el taxi llega en diez minutos; prepárate para salir.",
+    "cloze": "prepárate",
+    "answer": "prepárate",
+    "lemma": "prepararse",
+    "meaning": "get ready",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0515.mp3"
+  },
+  {
+    "id": "es-02-0516",
+    "sentence": "Hijo, tu camisa está mojada; cámbiate antes de la cena.",
+    "cloze": "cámbiate",
+    "answer": "cámbiate",
+    "lemma": "cambiarse",
+    "meaning": "change your clothes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0516.mp3"
+  },
+  {
+    "id": "es-02-0517",
+    "sentence": "Hermano, el repartidor está en la puerta; levántate para recibirlo.",
+    "cloze": "levántate",
+    "answer": "levántate",
+    "lemma": "levantarse",
+    "meaning": "get up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0517.mp3"
+  },
+  {
+    "id": "es-02-0518",
+    "sentence": "Amor, hace frío afuera; ponte la chamarra azul.",
+    "cloze": "ponte la chamarra azul",
+    "answer": "ponte la chamarra azul",
+    "lemma": "ponerse",
+    "meaning": "put on the blue jacket",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0518.mp3"
+  },
+  {
+    "id": "es-02-0519",
+    "sentence": "Amiga, esta quesadilla es para ti; cómela mientras está caliente.",
+    "cloze": "cómela",
+    "answer": "cómela",
+    "lemma": "comer",
+    "meaning": "eat it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0519.mp3"
+  },
+  {
+    "id": "es-02-0520",
+    "sentence": "Hijo, tu abuela necesita el recibo; dáselo al llegar a su casa.",
+    "cloze": "dáselo",
+    "answer": "dáselo",
+    "lemma": "dar",
+    "meaning": "give it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0520.mp3"
+  },
+  {
+    "id": "es-02-0521",
+    "sentence": "Diego, viene un coche; no cruces la avenida todavía.",
+    "cloze": "no cruces",
+    "answer": "no cruces",
+    "lemma": "no cruzar",
+    "meaning": "don't cross",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0521.mp3"
+  },
+  {
+    "id": "es-02-0522",
+    "sentence": "Ana, aquí pasa mucha gente; no dejes la mochila sola.",
+    "cloze": "no dejes",
+    "answer": "no dejes",
+    "lemma": "no dejar",
+    "meaning": "don't leave",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0522.mp3"
+  },
+  {
+    "id": "es-02-0523",
+    "sentence": "Compañero, todavía estoy corrigiendo el reporte; no me envíes el archivo aún.",
+    "cloze": "no me envíes",
+    "answer": "no me envíes",
+    "lemma": "no enviar",
+    "meaning": "don't send me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0523.mp3"
+  },
+  {
+    "id": "es-02-0524",
+    "sentence": "Hija, el paquete tiene algo frágil; no lo abras con tijeras.",
+    "cloze": "no lo abras",
+    "answer": "no lo abras",
+    "lemma": "no abrir",
+    "meaning": "don't open it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0524.mp3"
+  },
+  {
+    "id": "es-02-0525",
+    "sentence": "Luis, esta no es nuestra parada; no te bajes aquí.",
+    "cloze": "no te bajes",
+    "answer": "no te bajes",
+    "lemma": "no bajarse",
+    "meaning": "don't get off",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0525.mp3"
+  },
+  {
+    "id": "es-02-0526",
+    "sentence": "Marta, mañana salimos temprano; no olvides cargar tu celular.",
+    "cloze": "no olvides",
+    "answer": "no olvides",
+    "lemma": "no olvidar",
+    "meaning": "don't forget",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0526.mp3"
+  },
+  {
+    "id": "es-02-0527",
+    "sentence": "Pablo, el piso del pasillo está mojado; no corras por aquí.",
+    "cloze": "no corras",
+    "answer": "no corras",
+    "lemma": "no correr",
+    "meaning": "don't run",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0527.mp3"
+  },
+  {
+    "id": "es-02-0528",
+    "sentence": "Carla, alguien puede tirar los vasos; no los pongas al borde.",
+    "cloze": "no los pongas",
+    "answer": "no los pongas",
+    "lemma": "no poner",
+    "meaning": "don't put them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0528.mp3"
+  },
+  {
+    "id": "es-02-0529",
+    "sentence": "Sofía, está lloviendo muy fuerte; no salgas sin paraguas.",
+    "cloze": "no salgas",
+    "answer": "no salgas",
+    "lemma": "no salir",
+    "meaning": "don't go out",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0529.mp3"
+  },
+  {
+    "id": "es-02-0530",
+    "sentence": "Raúl, la actualización todavía no termina; no apagues la computadora.",
+    "cloze": "no apagues",
+    "answer": "no apagues",
+    "lemma": "no apagar",
+    "meaning": "don't turn off",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0530.mp3"
+  },
+  {
+    "id": "es-02-0531",
+    "sentence": "Señora, la entrada principal está cerrada; pase por la puerta de la derecha.",
+    "cloze": "pase",
+    "answer": "pase",
+    "lemma": "pasar",
+    "meaning": "go through",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0531.mp3"
+  },
+  {
+    "id": "es-02-0532",
+    "sentence": "Señor, el tren está por llegar; espere detrás de la línea amarilla.",
+    "cloze": "espere",
+    "answer": "espere",
+    "lemma": "esperar",
+    "meaning": "wait",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0532.mp3"
+  },
+  {
+    "id": "es-02-0533",
+    "sentence": "Señora, todavía están atendiendo a otra persona; tome asiento junto a la ventana.",
+    "cloze": "tome asiento",
+    "answer": "tome asiento",
+    "lemma": "tomar asiento",
+    "meaning": "have a seat",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0533.mp3"
+  },
+  {
+    "id": "es-02-0534",
+    "sentence": "Señor, para evitar errores, revise sus datos antes de firmar, por favor.",
+    "cloze": "revise",
+    "answer": "revise",
+    "lemma": "revisar",
+    "meaning": "check",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0534.mp3"
+  },
+  {
+    "id": "es-02-0535",
+    "sentence": "Señora, su solicitud ya está completa; firme en la línea azul.",
+    "cloze": "firme",
+    "answer": "firme",
+    "lemma": "firmar",
+    "meaning": "sign",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0535.mp3"
+  },
+  {
+    "id": "es-02-0536",
+    "sentence": "Señor, el módulo queda al final del pasillo; siga las flechas verdes.",
+    "cloze": "siga",
+    "answer": "siga",
+    "lemma": "seguir",
+    "meaning": "follow",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0536.mp3"
+  },
+  {
+    "id": "es-02-0537",
+    "sentence": "Señora, voy a buscar su habitación; dígame su número de reservación.",
+    "cloze": "dígame",
+    "answer": "dígame",
+    "lemma": "decir",
+    "meaning": "tell me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0537.mp3"
+  },
+  {
+    "id": "es-02-0538",
+    "sentence": "Señor, puedo hacer el cambio en esta caja; muéstreme el recibo original, por favor.",
+    "cloze": "muéstreme",
+    "answer": "muéstreme",
+    "lemma": "mostrar",
+    "meaning": "show me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0538.mp3"
+  },
+  {
+    "id": "es-02-0539",
+    "sentence": "Señora, el acceso principal está en reparación; entre por el acceso norte.",
+    "cloze": "entre",
+    "answer": "entre",
+    "lemma": "entrar",
+    "meaning": "enter",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0539.mp3"
+  },
+  {
+    "id": "es-02-0540",
+    "sentence": "Señor, por seguridad, mantenga libre esta salida, por favor.",
+    "cloze": "mantenga",
+    "answer": "mantenga",
+    "lemma": "mantener",
+    "meaning": "keep",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0540.mp3"
+  },
+  {
+    "id": "es-02-0541",
+    "sentence": "Señor, el equipo está en revisión; por favor, no lo mueva.",
+    "cloze": "no lo mueva",
+    "answer": "no lo mueva",
+    "lemma": "no mover",
+    "meaning": "don't move it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0541.mp3"
+  },
+  {
+    "id": "es-02-0542",
+    "sentence": "Señora, su reservación sí aparece en el sistema; no se preocupe.",
+    "cloze": "no se preocupe",
+    "answer": "no se preocupe",
+    "lemma": "no preocuparse",
+    "meaning": "don't worry",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0542.mp3"
+  },
+  {
+    "id": "es-02-0543",
+    "sentence": "Señor, la máquina todavía no está lista; no toque la pantalla.",
+    "cloze": "no toque",
+    "answer": "no toque",
+    "lemma": "no tocar",
+    "meaning": "don't touch",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0543.mp3"
+  },
+  {
+    "id": "es-02-0544",
+    "sentence": "Señora, este elevador está fuera de servicio; no lo use por ahora.",
+    "cloze": "no lo use",
+    "answer": "no lo use",
+    "lemma": "no usar",
+    "meaning": "don't use it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0544.mp3"
+  },
+  {
+    "id": "es-02-0545",
+    "sentence": "Señor, antes de salir, no deje su tarjeta en la terminal.",
+    "cloze": "no deje",
+    "answer": "no deje",
+    "lemma": "no dejar",
+    "meaning": "don't leave",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0545.mp3"
+  },
+  {
+    "id": "es-02-0546",
+    "sentence": "Señora, el técnico necesita revisar esta puerta; no la cierre con llave.",
+    "cloze": "no la cierre",
+    "answer": "no la cierre",
+    "lemma": "no cerrar",
+    "meaning": "don't lock it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0546.mp3"
+  },
+  {
+    "id": "es-02-0547",
+    "sentence": "Señor, todavía falta revisar una página; no me dé la copia aún.",
+    "cloze": "no me dé",
+    "answer": "no me dé",
+    "lemma": "no dar",
+    "meaning": "don't give me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0547.mp3"
+  },
+  {
+    "id": "es-02-0548",
+    "sentence": "Señora, hay una zona cerrada en el segundo piso; no suba por esas escaleras.",
+    "cloze": "no suba",
+    "answer": "no suba",
+    "lemma": "no subir",
+    "meaning": "don't go up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0548.mp3"
+  },
+  {
+    "id": "es-02-0549",
+    "sentence": "Señor, antes de retirarse, no olvide recoger su identificación.",
+    "cloze": "no olvide",
+    "answer": "no olvide",
+    "lemma": "no olvidar",
+    "meaning": "don't forget",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0549.mp3"
+  },
+  {
+    "id": "es-02-0550",
+    "sentence": "Señora, esa silla tiene una pata floja; no se siente ahí.",
+    "cloze": "no se siente",
+    "answer": "no se siente",
+    "lemma": "no sentarse",
+    "meaning": "don't sit",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0550.mp3"
+  },
+  {
+    "id": "es-02-0551",
+    "sentence": "Participantes, la sesión va a comenzar; pasen al salón de la derecha.",
+    "cloze": "pasen",
+    "answer": "pasen",
+    "lemma": "pasar",
+    "meaning": "go in",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0551.mp3"
+  },
+  {
+    "id": "es-02-0552",
+    "sentence": "Visitantes, la guía llega en unos minutos; esperen junto al módulo de información.",
+    "cloze": "esperen",
+    "answer": "esperen",
+    "lemma": "esperar",
+    "meaning": "wait",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0552.mp3"
+  },
+  {
+    "id": "es-02-0553",
+    "sentence": "Señoras y señores, para entrar más rápido, formen una sola fila.",
+    "cloze": "formen",
+    "answer": "formen",
+    "lemma": "formar",
+    "meaning": "form",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0553.mp3"
+  },
+  {
+    "id": "es-02-0554",
+    "sentence": "Pasajeros, ya casi van a abordar; mantengan sus boletos a la mano.",
+    "cloze": "mantengan",
+    "answer": "mantengan",
+    "lemma": "mantener",
+    "meaning": "keep",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0554.mp3"
+  },
+  {
+    "id": "es-02-0555",
+    "sentence": "Alumnos, ahora van a escuchar las instrucciones del examen; guarden silencio durante el anuncio.",
+    "cloze": "guarden silencio",
+    "answer": "guarden silencio",
+    "lemma": "guardar silencio",
+    "meaning": "remain quiet",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0555.mp3"
+  },
+  {
+    "id": "es-02-0556",
+    "sentence": "Huéspedes, ya encontramos otra habitación para ustedes; no se preocupen.",
+    "cloze": "no se preocupen",
+    "answer": "no se preocupen",
+    "lemma": "no preocuparse",
+    "meaning": "don't worry",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0556.mp3"
+  },
+  {
+    "id": "es-02-0557",
+    "sentence": "Compañeros, necesitamos usar esta salida; no bloqueen la puerta principal, por favor.",
+    "cloze": "no bloqueen",
+    "answer": "no bloqueen",
+    "lemma": "no bloquear",
+    "meaning": "don't block",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0557.mp3"
+  },
+  {
+    "id": "es-02-0558",
+    "sentence": "Pasajeros, sus documentos son importantes; no los dejen sobre los asientos.",
+    "cloze": "no los dejen",
+    "answer": "no los dejen",
+    "lemma": "no dejar",
+    "meaning": "don't leave them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0558.mp3"
+  },
+  {
+    "id": "es-02-0559",
+    "sentence": "Visitantes, el museo tiene varias salidas; por favor, no se separen del grupo.",
+    "cloze": "no se separen",
+    "answer": "no se separen",
+    "lemma": "no separarse",
+    "meaning": "don't separate",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0559.mp3"
+  },
+  {
+    "id": "es-02-0560",
+    "sentence": "Señoras y señores, esta puerta es solo para salir; no entren por aquí.",
+    "cloze": "no entren",
+    "answer": "no entren",
+    "lemma": "no entrar",
+    "meaning": "don't enter",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0560.mp3"
+  },
+  {
+    "id": "es-02-0561",
+    "sentence": "No puedo contestar el mensaje porque estoy hablando con una clienta ahora mismo.",
+    "cloze": "estoy hablando",
+    "answer": "estoy hablando",
+    "lemma": "estar hablando",
+    "meaning": "to be speaking",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0561.mp3"
+  },
+  {
+    "id": "es-02-0562",
+    "sentence": "La comida todavía no está lista; ¿qué estás preparando ahora mismo para la cena?",
+    "cloze": "estás preparando",
+    "answer": "estás preparando",
+    "lemma": "estar preparando",
+    "meaning": "to be preparing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0562.mp3"
+  },
+  {
+    "id": "es-02-0563",
+    "sentence": "No podemos usar el elevador porque el técnico está revisando la puerta.",
+    "cloze": "está revisando",
+    "answer": "está revisando",
+    "lemma": "estar revisando",
+    "meaning": "to be checking",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0563.mp3"
+  },
+  {
+    "id": "es-02-0564",
+    "sentence": "Los empleados están cargando las últimas maletas, por eso el autobús todavía no sale.",
+    "cloze": "están cargando",
+    "answer": "están cargando",
+    "lemma": "estar cargando",
+    "meaning": "to be loading",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0564.mp3"
+  },
+  {
+    "id": "es-02-0565",
+    "sentence": "El metro viene con retraso y estoy esperando en el andén.",
+    "cloze": "estoy esperando",
+    "answer": "estoy esperando",
+    "lemma": "estar esperando",
+    "meaning": "to be waiting",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0565.mp3"
+  },
+  {
+    "id": "es-02-0566",
+    "sentence": "Un momento, por favor; la recepcionista está confirmando mi reservación.",
+    "cloze": "está confirmando",
+    "answer": "está confirmando",
+    "lemma": "estar confirmando",
+    "meaning": "to be confirming",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0566.mp3"
+  },
+  {
+    "id": "es-02-0567",
+    "sentence": "Revisa tu celular: te estoy mandando la dirección del hotel.",
+    "cloze": "te estoy mandando",
+    "answer": "te estoy mandando",
+    "lemma": "estar mandando",
+    "meaning": "to be sending you",
+    "accepted_answers": [
+      "estoy mandándote"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0567.mp3"
+  },
+  {
+    "id": "es-02-0568",
+    "sentence": "No apagues la computadora porque se está actualizando en este momento.",
+    "cloze": "se está actualizando",
+    "answer": "se está actualizando",
+    "lemma": "estar actualizándose",
+    "meaning": "to be updating",
+    "accepted_answers": [
+      "está actualizándose"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0568.mp3"
+  },
+  {
+    "id": "es-02-0569",
+    "sentence": "El recibo no está en la cartera, pero lo estoy buscando en mi mochila.",
+    "cloze": "lo estoy buscando",
+    "answer": "lo estoy buscando",
+    "lemma": "estar buscando",
+    "meaning": "to be looking for it",
+    "accepted_answers": [
+      "estoy buscándolo"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0569.mp3"
+  },
+  {
+    "id": "es-02-0570",
+    "sentence": "El archivo ya está abierto y estoy agregando los últimos datos ahora mismo.",
+    "cloze": "estoy agregando",
+    "answer": "estoy agregando",
+    "lemma": "estar agregando",
+    "meaning": "to be adding",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0570.mp3"
+  },
+  {
+    "id": "es-02-0571",
+    "sentence": "La maleta está en la báscula y la empleada está anotando el peso.",
+    "cloze": "está anotando",
+    "answer": "está anotando",
+    "lemma": "estar anotando",
+    "meaning": "to be writing down",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0571.mp3"
+  },
+  {
+    "id": "es-02-0572",
+    "sentence": "Veo que escribes un mensaje; ¿a quién le estás escribiendo?",
+    "cloze": "le estás escribiendo",
+    "answer": "le estás escribiendo",
+    "lemma": "estar escribiendo",
+    "meaning": "to be writing to someone",
+    "accepted_answers": [
+      "estás escribiéndole"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0572.mp3"
+  },
+  {
+    "id": "es-02-0573",
+    "sentence": "Esperamos en la recepción porque están preparando nuestra habitación.",
+    "cloze": "están preparando",
+    "answer": "están preparando",
+    "lemma": "estar preparando",
+    "meaning": "to be preparing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0573.mp3"
+  },
+  {
+    "id": "es-02-0574",
+    "sentence": "Todavía no podemos comer porque el mesero está trayendo los platos.",
+    "cloze": "está trayendo",
+    "answer": "está trayendo",
+    "lemma": "estar trayendo",
+    "meaning": "to be bringing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0574.mp3"
+  },
+  {
+    "id": "es-02-0575",
+    "sentence": "La cajera se lo está explicando al cliente porque no entiende el cargo.",
+    "cloze": "se lo está explicando",
+    "answer": "se lo está explicando",
+    "lemma": "estar explicando",
+    "meaning": "to be explaining it to someone",
+    "accepted_answers": [
+      "está explicándoselo"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0575.mp3"
+  },
+  {
+    "id": "es-02-0576",
+    "sentence": "Ya abrí tu mensaje y estoy leyendo las instrucciones ahora mismo.",
+    "cloze": "estoy leyendo",
+    "answer": "estoy leyendo",
+    "lemma": "estar leyendo",
+    "meaning": "to be reading",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0576.mp3"
+  },
+  {
+    "id": "es-02-0577",
+    "sentence": "No estamos perdidos; estamos siguiendo a la guía hasta la salida.",
+    "cloze": "estamos siguiendo",
+    "answer": "estamos siguiendo",
+    "lemma": "estar siguiendo",
+    "meaning": "to be following",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0577.mp3"
+  },
+  {
+    "id": "es-02-0578",
+    "sentence": "Ya estoy afuera de la estación y te estoy esperando junto a la entrada.",
+    "cloze": "te estoy esperando",
+    "answer": "te estoy esperando",
+    "lemma": "estar esperando",
+    "meaning": "to be waiting for you",
+    "accepted_answers": [
+      "estoy esperándote"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0578.mp3"
+  },
+  {
+    "id": "es-02-0579",
+    "sentence": "No puedo hablar mucho porque me están atendiendo en la ventanilla.",
+    "cloze": "me están atendiendo",
+    "answer": "me están atendiendo",
+    "lemma": "estar atendiendo",
+    "meaning": "to be helping me",
+    "accepted_answers": [
+      "están atendiéndome"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0579.mp3"
+  },
+  {
+    "id": "es-02-0580",
+    "sentence": "La llamada se corta; ¿me estás escuchando bien?",
+    "cloze": "me estás escuchando",
+    "answer": "me estás escuchando",
+    "lemma": "estar escuchando",
+    "meaning": "to be listening to me",
+    "accepted_answers": [
+      "estás escuchándome"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0580.mp3"
+  },
+  {
+    "id": "es-02-0581",
+    "sentence": "Mis papás están hablando con mi hermana por videollamada en este momento.",
+    "cloze": "están hablando",
+    "answer": "están hablando",
+    "lemma": "estar hablando",
+    "meaning": "to be talking",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0581.mp3"
+  },
+  {
+    "id": "es-02-0582",
+    "sentence": "Los niños no pueden salir ahora porque están haciendo la tarea.",
+    "cloze": "están haciendo",
+    "answer": "están haciendo",
+    "lemma": "estar haciendo",
+    "meaning": "to be doing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0582.mp3"
+  },
+  {
+    "id": "es-02-0583",
+    "sentence": "Todavía no enviamos el reporte porque estamos revisando la última página.",
+    "cloze": "estamos revisando",
+    "answer": "estamos revisando",
+    "lemma": "estar revisando",
+    "meaning": "to be reviewing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0583.mp3"
+  },
+  {
+    "id": "es-02-0584",
+    "sentence": "Guarden silencio: la maestra está explicando el último ejercicio.",
+    "cloze": "está explicando",
+    "answer": "está explicando",
+    "lemma": "estar explicando",
+    "meaning": "to be explaining",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0584.mp3"
+  },
+  {
+    "id": "es-02-0585",
+    "sentence": "El repartidor está entregando mi paquete en recepción en este momento.",
+    "cloze": "está entregando",
+    "answer": "está entregando",
+    "lemma": "estar entregando",
+    "meaning": "to be delivering",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0585.mp3"
+  },
+  {
+    "id": "es-02-0586",
+    "sentence": "Mira por la ventana: el tren está entrando a la estación.",
+    "cloze": "está entrando",
+    "answer": "está entrando",
+    "lemma": "estar entrando",
+    "meaning": "to be entering",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0586.mp3"
+  },
+  {
+    "id": "es-02-0587",
+    "sentence": "No salgas sin paraguas; está lloviendo muy fuerte ahora.",
+    "cloze": "está lloviendo",
+    "answer": "está lloviendo",
+    "lemma": "estar lloviendo",
+    "meaning": "to be raining",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0587.mp3"
+  },
+  {
+    "id": "es-02-0588",
+    "sentence": "Voy a llegar tarde porque el autobús está avanzando muy despacio.",
+    "cloze": "está avanzando",
+    "answer": "está avanzando",
+    "lemma": "estar avanzando",
+    "meaning": "to be moving forward",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0588.mp3"
+  },
+  {
+    "id": "es-02-0589",
+    "sentence": "Mira por la ventana: el autobús está saliendo de la terminal.",
+    "cloze": "está saliendo",
+    "answer": "está saliendo",
+    "lemma": "estar saliendo",
+    "meaning": "to be leaving",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0589.mp3"
+  },
+  {
+    "id": "es-02-0590",
+    "sentence": "Tenemos que usar otra entrada porque la empleada está cerrando la puerta principal.",
+    "cloze": "está cerrando",
+    "answer": "está cerrando",
+    "lemma": "estar cerrando",
+    "meaning": "to be closing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0590.mp3"
+  },
+  {
+    "id": "es-02-0591",
+    "sentence": "El salón ya estaba listo, pero el personal está cambiando las mesas de lugar ahora.",
+    "cloze": "está cambiando",
+    "answer": "está cambiando",
+    "lemma": "estar cambiando",
+    "meaning": "to be moving",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0591.mp3"
+  },
+  {
+    "id": "es-02-0592",
+    "sentence": "No puedo salir a cenar; estoy estudiando para el examen de mañana.",
+    "cloze": "estoy estudiando",
+    "answer": "estoy estudiando",
+    "lemma": "estar estudiando",
+    "meaning": "to be studying",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0592.mp3"
+  },
+  {
+    "id": "es-02-0593",
+    "sentence": "Todavía no puedo abrir el archivo porque el navegador está descargando una copia.",
+    "cloze": "está descargando",
+    "answer": "está descargando",
+    "lemma": "estar descargando",
+    "meaning": "to be downloading",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0593.mp3"
+  },
+  {
+    "id": "es-02-0594",
+    "sentence": "La impresora está ocupada porque la recepcionista está imprimiendo los gafetes.",
+    "cloze": "está imprimiendo",
+    "answer": "está imprimiendo",
+    "lemma": "estar imprimiendo",
+    "meaning": "to be printing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0594.mp3"
+  },
+  {
+    "id": "es-02-0595",
+    "sentence": "Ya podemos pasar al comedor; están sirviendo el desayuno.",
+    "cloze": "están sirviendo",
+    "answer": "están sirviendo",
+    "lemma": "estar sirviendo",
+    "meaning": "to be serving",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0595.mp3"
+  },
+  {
+    "id": "es-02-0596",
+    "sentence": "Hace frío afuera, así que me estoy poniendo la chamarra.",
+    "cloze": "me estoy poniendo",
+    "answer": "me estoy poniendo",
+    "lemma": "estar poniéndose",
+    "meaning": "to be putting on",
+    "accepted_answers": [
+      "estoy poniéndome"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0596.mp3"
+  },
+  {
+    "id": "es-02-0597",
+    "sentence": "Su turno se acerca y la señora está tomando asiento junto a la ventana.",
+    "cloze": "está tomando asiento",
+    "answer": "está tomando asiento",
+    "lemma": "estar tomando asiento",
+    "meaning": "to be taking a seat",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0597.mp3"
+  },
+  {
+    "id": "es-02-0598",
+    "sentence": "El chofer ya redujo la velocidad porque estamos llegando a la terminal.",
+    "cloze": "estamos llegando",
+    "answer": "estamos llegando",
+    "lemma": "estar llegando",
+    "meaning": "to be arriving",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0598.mp3"
+  },
+  {
+    "id": "es-02-0599",
+    "sentence": "Mira a Ana y Julia: están comparando sus horarios en la entrada del curso.",
+    "cloze": "están comparando",
+    "answer": "están comparando",
+    "lemma": "estar comparando",
+    "meaning": "to be comparing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/02/es-02-0599.mp3"
+  },
+  {
+    "id": "es-02-0600",
+    "sentence": "La dirección tiene un error y estoy corrigiéndola antes de imprimir la etiqueta.",
+    "cloze": "estoy corrigiéndola",
+    "answer": "estoy corrigiéndola",
+    "lemma": "estar corrigiendo",
+    "meaning": "to be correcting it",
+    "accepted_answers": [
+      "la estoy corrigiendo"
+    ],
+    "audio": "work/audio/es-MX/02/es-02-0600.mp3"
   }
 ]
