@@ -2651,7 +2651,7 @@
   },
   {
     "id": "es-02-0266",
-    "sentence": "Hoy el gerente avisó por teléfono que habría un retraso.",
+    "sentence": "Hoy el gerente avisó por teléfono del retraso en la entrega.",
     "cloze": "avisó",
     "answer": "avisó",
     "lemma": "avisar",
@@ -2694,7 +2694,7 @@
     "sentence": "Antes de entregar la solicitud, saqué una copia para mis archivos.",
     "cloze": "Antes de entregar",
     "answer": "Antes de entregar",
-    "lemma": "antes de + infinitive",
+    "lemma": "antes de + infinitivo",
     "meaning": "before submitting",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0270.mp3"
@@ -2704,7 +2704,7 @@
     "sentence": "Después de hablar con la directora, cambiamos la fecha de la reunión.",
     "cloze": "Después de hablar",
     "answer": "Después de hablar",
-    "lemma": "después de + infinitive",
+    "lemma": "después de + infinitivo",
     "meaning": "after speaking",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0271.mp3"
@@ -2714,7 +2714,7 @@
     "sentence": "Mientras esperaba mi turno, revisé los datos del formato.",
     "cloze": "Mientras esperaba",
     "answer": "Mientras esperaba",
-    "lemma": "mientras + imperfect",
+    "lemma": "mientras + imperfecto",
     "meaning": "while I was waiting",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0272.mp3"
@@ -2774,7 +2774,7 @@
     "sentence": "Al llegar a la terminal, vimos el aviso del nuevo horario.",
     "cloze": "Al llegar",
     "answer": "Al llegar",
-    "lemma": "al + infinitive",
+    "lemma": "al + infinitivo",
     "meaning": "upon arriving",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0278.mp3"
@@ -2784,7 +2784,7 @@
     "sentence": "Antes de tomar el autobús, guardé el boleto en la cartera.",
     "cloze": "Antes de tomar",
     "answer": "Antes de tomar",
-    "lemma": "antes de + infinitive",
+    "lemma": "antes de + infinitivo",
     "meaning": "before taking",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0279.mp3"
@@ -2794,7 +2794,7 @@
     "sentence": "Después de recoger las llaves, entramos al departamento.",
     "cloze": "Después de recoger",
     "answer": "Después de recoger",
-    "lemma": "después de + infinitive",
+    "lemma": "después de + infinitivo",
     "meaning": "after picking up",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0280.mp3"
@@ -3681,11 +3681,11 @@
   },
   {
     "id": "es-02-0369",
-    "sentence": "Como la señora Núñez no estaba, el repartidor se lo dejó al portero para que se lo diera después.",
+    "sentence": "El paquete era para la señora Núñez, pero ella no estaba; el repartidor se lo dejó al portero y ella pasó a recogerlo después.",
     "cloze": "se lo dejó",
     "answer": "se lo dejó",
     "lemma": "dejárselo",
-    "meaning": "he left the package with him",
+    "meaning": "he left it with the doorman",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0369.mp3"
   },
@@ -6765,11 +6765,11 @@
   },
   {
     "id": "es-02-0675",
-    "sentence": "El cielo está muy oscuro y probablemente lloverá durante el viaje.",
-    "cloze": "probablemente lloverá",
-    "answer": "probablemente lloverá",
-    "lemma": "llover",
-    "meaning": "it will probably rain",
+    "sentence": "El cielo está muy oscuro y la lluvia probablemente empezará durante el viaje.",
+    "cloze": "empezará",
+    "answer": "empezará",
+    "lemma": "empezar",
+    "meaning": "will start",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0675.mp3"
   },
@@ -6867,7 +6867,7 @@
   },
   {
     "id": "es-02-0685",
-    "sentence": "Para que quede constancia, envíe la solicitud por escrito antes del viernes.",
+    "sentence": "Para dejar constancia, envíe la solicitud por escrito antes del viernes.",
     "cloze": "por escrito",
     "answer": "por escrito",
     "lemma": "por escrito",
@@ -7501,7 +7501,7 @@
     "cloze": "para antes de",
     "answer": "para antes de",
     "lemma": "para antes de",
-    "meaning": "by before",
+    "meaning": "before",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0748.mp3"
   },
@@ -8238,10 +8238,10 @@
   {
     "id": "es-02-0822",
     "sentence": "La secadora hace un ruido extraño; algo anda mal por dentro.",
-    "cloze": "algo anda mal",
-    "answer": "algo anda mal",
-    "lemma": "algo andar mal",
-    "meaning": "something is wrong",
+    "cloze": "algo",
+    "answer": "algo",
+    "lemma": "algo",
+    "meaning": "something",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0822.mp3"
   },
@@ -8268,20 +8268,20 @@
   {
     "id": "es-02-0825",
     "sentence": "La etiqueta está borrosa y nadie sabe a quién pertenece la maleta.",
-    "cloze": "nadie sabe",
-    "answer": "nadie sabe",
+    "cloze": "nadie",
+    "answer": "nadie",
     "lemma": "nadie",
-    "meaning": "no one knows",
+    "meaning": "no one",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0825.mp3"
   },
   {
     "id": "es-02-0826",
-    "sentence": "Llegué a las ocho, pero no había nadie en el módulo.",
-    "cloze": "no había nadie",
-    "answer": "no había nadie",
-    "lemma": "nadie",
-    "meaning": "there was no one",
+    "sentence": "Llegué a las ocho, pero no encontré a ninguna persona en el módulo.",
+    "cloze": "a ninguna persona",
+    "answer": "a ninguna persona",
+    "lemma": "ninguna persona",
+    "meaning": "anyone",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0826.mp3"
   },
@@ -8388,10 +8388,10 @@
   {
     "id": "es-02-0837",
     "sentence": "En esa talla ya no queda nada disponible.",
-    "cloze": "no queda nada",
-    "answer": "no queda nada",
+    "cloze": "nada disponible",
+    "answer": "nada disponible",
     "lemma": "nada",
-    "meaning": "nothing remains",
+    "meaning": "nothing available",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0837.mp3"
   },
@@ -8747,11 +8747,11 @@
   },
   {
     "id": "es-02-0873",
-    "sentence": "Si todo sale bien, reservaré la habitación esta noche.",
-    "cloze": "Si todo sale bien",
-    "answer": "Si todo sale bien",
-    "lemma": "si todo sale bien",
-    "meaning": "if all goes well",
+    "sentence": "La habitación está libre ahora; la reservaré esta noche si sigue disponible.",
+    "cloze": "si sigue",
+    "answer": "si sigue",
+    "lemma": "si sigue",
+    "meaning": "if it remains",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0873.mp3"
   },
@@ -8787,7 +8787,7 @@
   },
   {
     "id": "es-02-0877",
-    "sentence": "Si hace falta, podrás corregir los datos en línea.",
+    "sentence": "Si hace falta corregir algo, podrás cambiar los datos en línea.",
     "cloze": "Si hace falta",
     "answer": "Si hace falta",
     "lemma": "si hace falta",
@@ -8810,7 +8810,7 @@
     "sentence": "Si falla la aplicación, compraremos los boletos en la taquilla.",
     "cloze": "Si falla",
     "answer": "Si falla",
-    "lemma": "si fallar",
+    "lemma": "si falla",
     "meaning": "if it fails",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0879.mp3"
@@ -8820,7 +8820,7 @@
     "sentence": "Si logramos terminar antes, pasaremos por el paquete camino a casa.",
     "cloze": "Si logramos",
     "answer": "Si logramos",
-    "lemma": "si lograr",
+    "lemma": "si logramos",
     "meaning": "if we manage to",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0880.mp3"
@@ -9519,11 +9519,11 @@
   },
   {
     "id": "es-02-0950",
-    "sentence": "La clienta preguntó cuándo llegaría el paquete y le confirmé la nueva fecha por mensaje.",
+    "sentence": "La clienta preguntó por la entrega y le confirmé la nueva fecha por mensaje.",
     "cloze": "le confirmé",
     "answer": "le confirmé",
-    "lemma": "confirmarle a alguien",
-    "meaning": "I confirmed for her",
+    "lemma": "confirmarle algo a alguien",
+    "meaning": "I confirmed it for her",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0950.mp3"
   },
@@ -9682,8 +9682,8 @@
     "sentence": "Como Marta faltó al curso, le guardé los materiales impresos.",
     "cloze": "le guardé",
     "answer": "le guardé",
-    "lemma": "guardar algo a alguien",
-    "meaning": "I saved for her",
+    "lemma": "guardarle algo a alguien",
+    "meaning": "I saved them for her",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0966.mp3"
   },
@@ -9812,8 +9812,8 @@
     "sentence": "No tengo una respuesta todavía, pero te confirmaré el lugar esta noche.",
     "cloze": "te confirmaré",
     "answer": "te confirmaré",
-    "lemma": "confirmar algo a alguien",
-    "meaning": "I will confirm for you",
+    "lemma": "confirmarle algo a alguien",
+    "meaning": "I will confirm it for you",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0979.mp3"
   },
@@ -9822,8 +9822,8 @@
     "sentence": "Disculpe, ¿podría repetirme el nombre de usuario?",
     "cloze": "podría repetirme",
     "answer": "podría repetirme",
-    "lemma": "poder repetir",
-    "meaning": "could you repeat to me",
+    "lemma": "poder repetirle algo a alguien",
+    "meaning": "could you repeat it for me",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0980.mp3"
   },
@@ -9889,11 +9889,11 @@
   },
   {
     "id": "es-02-0987",
-    "sentence": "Durante la junta, nadie pudo abrir el enlace de la presentación.",
-    "cloze": "nadie pudo",
-    "answer": "nadie pudo",
-    "lemma": "nadie poder",
-    "meaning": "nobody could",
+    "sentence": "Durante la junta, ninguno de nosotros pudo abrir el enlace de la presentación.",
+    "cloze": "ninguno de nosotros",
+    "answer": "ninguno de nosotros",
+    "lemma": "ninguno de nosotros",
+    "meaning": "none of us",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0987.mp3"
   },
