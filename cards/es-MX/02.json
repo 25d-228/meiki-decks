@@ -1231,11 +1231,11 @@
   },
   {
     "id": "es-02-0124",
-    "sentence": "Cuando llegamos a la estación, llovía, así que usamos botas.",
-    "cloze": "llovía",
-    "answer": "llovía",
-    "lemma": "llover",
-    "meaning": "it was raining",
+    "sentence": "Cuando llegamos a la estación, la lluvia caía con fuerza, así que usamos botas.",
+    "cloze": "caía con fuerza",
+    "answer": "caía con fuerza",
+    "lemma": "caer con fuerza",
+    "meaning": "was falling hard",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0124.mp3"
   },
@@ -1675,7 +1675,7 @@
     "cloze": "atendía",
     "answer": "atendía",
     "lemma": "atender",
-    "meaning": "used to attend to",
+    "meaning": "used to run the shop",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0168.mp3"
   },
@@ -2122,10 +2122,10 @@
   {
     "id": "es-02-0213",
     "sentence": "Iba al trabajo cuando empezó a llover, así que tomé el metro.",
-    "cloze": "empezó a llover",
-    "answer": "empezó a llover",
-    "lemma": "empezar a llover",
-    "meaning": "it started to rain",
+    "cloze": "empezó a",
+    "answer": "empezó a",
+    "lemma": "empezar a",
+    "meaning": "it started to",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0213.mp3"
   },
@@ -2335,7 +2335,7 @@
     "cloze": "le indiqué",
     "answer": "le indiqué",
     "lemma": "indicarle algo a alguien",
-    "meaning": "I gave him",
+    "meaning": "I gave him the correct address",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0234.mp3"
   },
@@ -3245,7 +3245,7 @@
     "cloze": "les llevé",
     "answer": "les llevé",
     "lemma": "llevarle algo a alguien",
-    "meaning": "I took them",
+    "meaning": "I took the documents to them",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0325.mp3"
   },
@@ -3265,7 +3265,7 @@
     "cloze": "les mandé",
     "answer": "les mandé",
     "lemma": "mandarle algo a alguien",
-    "meaning": "I sent them",
+    "meaning": "I sent them the photos",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0327.mp3"
   },
@@ -3275,7 +3275,7 @@
     "cloze": "te preparé",
     "answer": "te preparé",
     "lemma": "prepararle algo a alguien",
-    "meaning": "I prepared for you",
+    "meaning": "I made you a coffee",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0328.mp3"
   },
@@ -3295,7 +3295,7 @@
     "cloze": "nos trajo",
     "answer": "nos trajo",
     "lemma": "traerle algo a alguien",
-    "meaning": "he brought us",
+    "meaning": "he brought us the order",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0330.mp3"
   },
@@ -3305,7 +3305,7 @@
     "cloze": "le compré",
     "answer": "le compré",
     "lemma": "comprarle algo a alguien",
-    "meaning": "I bought her",
+    "meaning": "I bought her a book",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0331.mp3"
   },
@@ -3335,7 +3335,7 @@
     "cloze": "te guardé",
     "answer": "te guardé",
     "lemma": "guardarle algo a alguien",
-    "meaning": "I saved you",
+    "meaning": "I saved you a chair",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0334.mp3"
   },
@@ -3355,7 +3355,7 @@
     "cloze": "nos dejaron",
     "answer": "nos dejaron",
     "lemma": "dejarle algo a alguien",
-    "meaning": "they left us",
+    "meaning": "they left us a message",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0336.mp3"
   },
@@ -3365,7 +3365,7 @@
     "cloze": "le pedí",
     "answer": "le pedí",
     "lemma": "pedirle algo a alguien",
-    "meaning": "I asked her for",
+    "meaning": "I asked her for help",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0337.mp3"
   },
@@ -3375,7 +3375,7 @@
     "cloze": "te conseguí",
     "answer": "te conseguí",
     "lemma": "conseguirle algo a alguien",
-    "meaning": "I got you",
+    "meaning": "I got you a legible copy",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0338.mp3"
   },
@@ -3505,7 +3505,7 @@
     "cloze": "me cambiaron",
     "answer": "me cambiaron",
     "lemma": "cambiarle algo a alguien",
-    "meaning": "they changed for me",
+    "meaning": "they changed my room for me",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0351.mp3"
   },
@@ -3515,7 +3515,7 @@
     "cloze": "le repararon",
     "answer": "le repararon",
     "lemma": "repararle algo a alguien",
-    "meaning": "they repaired for him",
+    "meaning": "they repaired his computer",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0352.mp3"
   },
@@ -3525,7 +3525,7 @@
     "cloze": "nos confirmaron",
     "answer": "nos confirmaron",
     "lemma": "confirmarle algo a alguien",
-    "meaning": "they confirmed to us",
+    "meaning": "they confirmed the appointment time for us",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0353.mp3"
   },
@@ -3545,7 +3545,7 @@
     "cloze": "te devolvieron",
     "answer": "te devolvieron",
     "lemma": "devolverle algo a alguien",
-    "meaning": "they returned to you",
+    "meaning": "they gave you your money back",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0355.mp3"
   },
@@ -3555,7 +3555,7 @@
     "cloze": "le consiguieron",
     "answer": "le consiguieron",
     "lemma": "conseguirle algo a alguien",
-    "meaning": "they got her",
+    "meaning": "they got her a taxi",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0356.mp3"
   },
@@ -3575,7 +3575,7 @@
     "cloze": "les entregaron",
     "answer": "les entregaron",
     "lemma": "entregarle algo a alguien",
-    "meaning": "they handed them",
+    "meaning": "they handed each participant a badge",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0358.mp3"
   },
@@ -3585,7 +3585,7 @@
     "cloze": "me recogió",
     "answer": "me recogió",
     "lemma": "recogerle algo a alguien",
-    "meaning": "she picked up for me",
+    "meaning": "she picked up the package for me",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0359.mp3"
   },
@@ -4449,7 +4449,7 @@
     "cloze": "se prestan",
     "answer": "se prestan",
     "lemma": "prestarse",
-    "meaning": "they lend each other",
+    "meaning": "they lend each other their notes",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0445.mp3"
   },
@@ -4459,7 +4459,7 @@
     "cloze": "se mandaron",
     "answer": "se mandaron",
     "lemma": "mandarse",
-    "meaning": "they sent each other",
+    "meaning": "they sent each other the photos",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0446.mp3"
   },
@@ -4509,7 +4509,7 @@
     "cloze": "se dan",
     "answer": "se dan",
     "lemma": "darse",
-    "meaning": "they give each other",
+    "meaning": "they give each other practical advice",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0451.mp3"
   },
@@ -4519,7 +4519,7 @@
     "cloze": "se explican",
     "answer": "se explican",
     "lemma": "explicarse",
-    "meaning": "they explain to each other",
+    "meaning": "they explain the tasks to each other",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0452.mp3"
   },
@@ -5881,11 +5881,11 @@
   },
   {
     "id": "es-02-0587",
-    "sentence": "No salgas sin paraguas; está lloviendo muy fuerte ahora.",
-    "cloze": "está lloviendo",
-    "answer": "está lloviendo",
-    "lemma": "estar lloviendo",
-    "meaning": "to be raining",
+    "sentence": "No salgas sin paraguas; la lluvia está cayendo con mucha fuerza.",
+    "cloze": "está cayendo",
+    "answer": "está cayendo",
+    "lemma": "estar cayendo",
+    "meaning": "to be falling",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0587.mp3"
   },
@@ -6069,7 +6069,7 @@
     "cloze": "acabo de hacer",
     "answer": "acabo de hacer",
     "lemma": "acabar de + infinitivo",
-    "meaning": "I have just done",
+    "meaning": "I have just done it",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0605.mp3"
   },
@@ -6686,20 +6686,20 @@
   {
     "id": "es-02-0667",
     "sentence": "Lleva una chamarra porque hará frío mañana.",
-    "cloze": "hará frío",
-    "answer": "hará frío",
-    "lemma": "hacer frío",
-    "meaning": "it will be cold",
+    "cloze": "hará",
+    "answer": "hará",
+    "lemma": "hacer",
+    "meaning": "it will be",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0667.mp3"
   },
   {
     "id": "es-02-0668",
-    "sentence": "El pronóstico dice que lloverá esta tarde.",
-    "cloze": "lloverá",
-    "answer": "lloverá",
-    "lemma": "llover",
-    "meaning": "it will rain",
+    "sentence": "El pronóstico anuncia lluvia para esta tarde, así que llevaremos paraguas.",
+    "cloze": "llevaremos",
+    "answer": "llevaremos",
+    "lemma": "llevar",
+    "meaning": "we will bring",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0668.mp3"
   },
@@ -7791,7 +7791,7 @@
     "cloze": "menos batería que",
     "answer": "menos batería que",
     "lemma": "menos batería que",
-    "meaning": "less battery than",
+    "meaning": "less battery power than",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0777.mp3"
   },
@@ -8537,11 +8537,11 @@
   },
   {
     "id": "es-02-0852",
-    "sentence": "El cable nuevo no solo es compatible con la computadora, sino que también la carga más rápido.",
-    "cloze": "sino que también",
-    "answer": "sino que también",
-    "lemma": "sino que también",
-    "meaning": "but it also",
+    "sentence": "El cable nuevo es compatible con la computadora y también la carga más rápido.",
+    "cloze": "y también",
+    "answer": "y también",
+    "lemma": "y también",
+    "meaning": "and it also",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0852.mp3"
   },
@@ -9252,7 +9252,7 @@
     "sentence": "El siguiente tren todavía tenía lugares, así que pudimos tomarlo sin pagar otra vez.",
     "cloze": "pudimos tomarlo",
     "answer": "pudimos tomarlo",
-    "lemma": "poder tomarlo",
+    "lemma": "poder tomar algo",
     "meaning": "we were able to take it",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0923.mp3"
@@ -9322,7 +9322,7 @@
     "sentence": "Mi maleta no llegó con el vuelo y la reporté como perdida en el módulo.",
     "cloze": "la reporté",
     "answer": "la reporté",
-    "lemma": "reportarla",
+    "lemma": "reportar algo",
     "meaning": "I reported it",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0930.mp3"
@@ -9352,7 +9352,7 @@
     "sentence": "La reservación era para dos noches, pero la cambié a tres porque nuestro vuelo salió tarde.",
     "cloze": "la cambié",
     "answer": "la cambié",
-    "lemma": "cambiarla",
+    "lemma": "cambiar algo",
     "meaning": "I changed it",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0933.mp3"
@@ -9382,7 +9382,7 @@
     "sentence": "Señora, la llave ya está lista; recójala en recepción, por favor.",
     "cloze": "recójala",
     "answer": "recójala",
-    "lemma": "recogerla",
+    "lemma": "recoger algo",
     "meaning": "pick it up",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0936.mp3"
@@ -9392,7 +9392,7 @@
     "sentence": "Señor, hay una fuga junto a su maleta; no la deje ahí.",
     "cloze": "no la deje",
     "answer": "no la deje",
-    "lemma": "no dejarla",
+    "lemma": "no dejar algo",
     "meaning": "do not leave it",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0937.mp3"
@@ -9402,7 +9402,7 @@
     "sentence": "El aire acondicionado no funciona, pero el técnico lo reparará esta tarde.",
     "cloze": "lo reparará",
     "answer": "lo reparará",
-    "lemma": "repararlo",
+    "lemma": "reparar algo",
     "meaning": "he will repair it",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0938.mp3"
@@ -9442,7 +9442,7 @@
     "sentence": "En la habitación, el agua de la regadera sale fría y necesito ayuda.",
     "cloze": "sale fría",
     "answer": "sale fría",
-    "lemma": "salir fría",
+    "lemma": "salir frío",
     "meaning": "runs cold",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0942.mp3"
@@ -9482,7 +9482,7 @@
     "sentence": "Señor, el cable está mojado; no lo conecte todavía.",
     "cloze": "no lo conecte",
     "answer": "no lo conecte",
-    "lemma": "no conectarlo",
+    "lemma": "no conectar algo",
     "meaning": "do not plug it in",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0946.mp3"
@@ -9512,7 +9512,7 @@
     "sentence": "El repartidor dejó la caja en otro edificio, pero la recuperó esta mañana.",
     "cloze": "la recuperó",
     "answer": "la recuperó",
-    "lemma": "recuperarla",
+    "lemma": "recuperar algo",
     "meaning": "he recovered it",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0949.mp3"
@@ -9713,7 +9713,7 @@
     "cloze": "se recomendaron",
     "answer": "se recomendaron",
     "lemma": "recomendarse algo",
-    "meaning": "recommended to each other",
+    "meaning": "they recommended podcasts to each other",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0969.mp3"
   },
@@ -9852,7 +9852,7 @@
     "sentence": "Para las videollamadas, la conexión por cable es más estable que el wifi.",
     "cloze": "más estable que",
     "answer": "más estable que",
-    "lemma": "más que",
+    "lemma": "más estable que",
     "meaning": "more stable than",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0983.mp3"
@@ -9862,7 +9862,7 @@
     "sentence": "De las tres suscripciones, elegí la menos costosa.",
     "cloze": "la menos costosa",
     "answer": "la menos costosa",
-    "lemma": "menos costoso",
+    "lemma": "el menos costoso",
     "meaning": "the least expensive one",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/02/es-02-0984.mp3"
