@@ -11998,5 +11998,2005 @@
     "meaning": "is motivated by",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/03/es-03-1200.mp3"
+  },
+  {
+    "id": "es-03-1201",
+    "sentence": "La renta no solo cabe en nuestro presupuesto, sino que el contrato incluye el mantenimiento.",
+    "cloze": "no solo cabe en nuestro presupuesto",
+    "answer": "no solo cabe en nuestro presupuesto",
+    "lemma": "no solo...sino que",
+    "meaning": "not only fits within our budget",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1201.mp3"
+  },
+  {
+    "id": "es-03-1202",
+    "sentence": "No buscamos un lugar lujoso, sino uno bien conectado.",
+    "cloze": "sino uno bien conectado",
+    "answer": "sino uno bien conectado",
+    "lemma": "no...sino",
+    "meaning": "but rather one with good connections",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1202.mp3"
+  },
+  {
+    "id": "es-03-1203",
+    "sentence": "Mientras que la ruta del centro requiere dos transbordos, la del parque va directo.",
+    "cloze": "Mientras que",
+    "answer": "Mientras que",
+    "lemma": "mientras que",
+    "meaning": "whereas",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1203.mp3"
+  },
+  {
+    "id": "es-03-1204",
+    "sentence": "A diferencia del turno matutino, el vespertino incluye práctica en el laboratorio.",
+    "cloze": "A diferencia del turno matutino",
+    "answer": "A diferencia del turno matutino",
+    "lemma": "a diferencia de",
+    "meaning": "unlike the morning shift",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1204.mp3"
+  },
+  {
+    "id": "es-03-1205",
+    "sentence": "Creíamos que faltaban piezas; por el contrario, sobraron dos al terminar el inventario.",
+    "cloze": "por el contrario",
+    "answer": "por el contrario",
+    "lemma": "por el contrario",
+    "meaning": "on the contrary",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1205.mp3"
+  },
+  {
+    "id": "es-03-1206",
+    "sentence": "No necesitamos otra reunión; más bien, hace falta repartir las tareas pendientes.",
+    "cloze": "más bien",
+    "answer": "más bien",
+    "lemma": "más bien",
+    "meaning": "rather",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1206.mp3"
+  },
+  {
+    "id": "es-03-1207",
+    "sentence": "Después de comparar ambas propuestas, elegimos la segunda no por el precio, sino por el plazo de entrega.",
+    "cloze": "no por el precio, sino por el plazo",
+    "answer": "no por el precio, sino por el plazo",
+    "lemma": "no por...sino por",
+    "meaning": "not because of the price, but because of the deadline",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1207.mp3"
+  },
+  {
+    "id": "es-03-1208",
+    "sentence": "En vez de cancelar la visita, la reprogramamos para el sábado por la mañana.",
+    "cloze": "En vez de cancelar la visita",
+    "answer": "En vez de cancelar la visita",
+    "lemma": "en vez de",
+    "meaning": "instead of canceling the visit",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1208.mp3"
+  },
+  {
+    "id": "es-03-1209",
+    "sentence": "El departamento tiene buena luz, solo que el edificio no cuenta con elevador.",
+    "cloze": "solo que",
+    "answer": "solo que",
+    "lemma": "solo que",
+    "meaning": "except that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1209.mp3"
+  },
+  {
+    "id": "es-03-1210",
+    "sentence": "El plan anterior reducía costos; el nuevo, por su parte, prioriza el mantenimiento preventivo.",
+    "cloze": "por su parte",
+    "answer": "por su parte",
+    "lemma": "por su parte",
+    "meaning": "for its part",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1210.mp3"
+  },
+  {
+    "id": "es-03-1211",
+    "sentence": "En comparación con la versión anterior, la nueva aplicación consume menos batería.",
+    "cloze": "En comparación con la versión anterior",
+    "answer": "En comparación con la versión anterior",
+    "lemma": "en comparación con",
+    "meaning": "compared with the previous version",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1211.mp3"
+  },
+  {
+    "id": "es-03-1212",
+    "sentence": "Al contrario de lo esperado, el transbordo nos ahorró casi quince minutos.",
+    "cloze": "Al contrario de lo esperado",
+    "answer": "Al contrario de lo esperado",
+    "lemma": "al contrario de",
+    "meaning": "contrary to what was expected",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1212.mp3"
+  },
+  {
+    "id": "es-03-1213",
+    "sentence": "La película dura casi tres horas, pero aun así mantiene la atención hasta el final.",
+    "cloze": "pero aun así",
+    "answer": "pero aun así",
+    "lemma": "pero aun así",
+    "meaning": "but even so",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1213.mp3"
+  },
+  {
+    "id": "es-03-1214",
+    "sentence": "De los dos presupuestos, uno incluye la instalación y el otro cubre las refacciones.",
+    "cloze": "el otro",
+    "answer": "el otro",
+    "lemma": "uno...el otro",
+    "meaning": "the other one",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1214.mp3"
+  },
+  {
+    "id": "es-03-1215",
+    "sentence": "La propuesta reduce gastos; por otro lado, exige más tiempo de coordinación.",
+    "cloze": "por otro lado",
+    "answer": "por otro lado",
+    "lemma": "por otro lado",
+    "meaning": "on the other hand",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1215.mp3"
+  },
+  {
+    "id": "es-03-1216",
+    "sentence": "Aun con el cambio de horario, el equipo cubrió todos los turnos.",
+    "cloze": "Aun con el cambio de horario",
+    "answer": "Aun con el cambio de horario",
+    "lemma": "aun con",
+    "meaning": "even with the schedule change",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1216.mp3"
+  },
+  {
+    "id": "es-03-1217",
+    "sentence": "Pese a que el autobús salió tarde, llegamos antes del cierre.",
+    "cloze": "Pese a que",
+    "answer": "Pese a que",
+    "lemma": "pese a que",
+    "meaning": "although",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1217.mp3"
+  },
+  {
+    "id": "es-03-1218",
+    "sentence": "Si bien la mochila es ligera, protege bien la computadora cuando llueve.",
+    "cloze": "Si bien",
+    "answer": "Si bien",
+    "lemma": "si bien",
+    "meaning": "although",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1218.mp3"
+  },
+  {
+    "id": "es-03-1219",
+    "sentence": "Por mucho que comparemos opciones, ninguna ofrece todos los servicios que necesitamos.",
+    "cloze": "Por mucho que comparemos",
+    "answer": "Por mucho que comparemos",
+    "lemma": "por mucho que",
+    "meaning": "no matter how much we compare",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1219.mp3"
+  },
+  {
+    "id": "es-03-1220",
+    "sentence": "Incluso si llueve por la tarde, la feria continuará en el patio techado.",
+    "cloze": "Incluso si",
+    "answer": "Incluso si",
+    "lemma": "incluso si",
+    "meaning": "even if",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1220.mp3"
+  },
+  {
+    "id": "es-03-1221",
+    "sentence": "Con todo y la lluvia, la cuadrilla terminó la reparación esa misma tarde.",
+    "cloze": "Con todo y la lluvia",
+    "answer": "Con todo y la lluvia",
+    "lemma": "con todo y",
+    "meaning": "despite the rain",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1221.mp3"
+  },
+  {
+    "id": "es-03-1222",
+    "sentence": "Aun sin tener experiencia previa, Julia completó la práctica sin ayuda.",
+    "cloze": "Aun sin tener experiencia previa",
+    "answer": "Aun sin tener experiencia previa",
+    "lemma": "aun sin",
+    "meaning": "even without prior experience",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1222.mp3"
+  },
+  {
+    "id": "es-03-1223",
+    "sentence": "Pese al poco tiempo disponible, revisamos cada cargo antes de pagar.",
+    "cloze": "Pese al poco tiempo disponible",
+    "answer": "Pese al poco tiempo disponible",
+    "lemma": "pese a",
+    "meaning": "despite the limited time available",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1223.mp3"
+  },
+  {
+    "id": "es-03-1224",
+    "sentence": "Por más difícil que parezca, el formulario se completa en menos de diez minutos.",
+    "cloze": "Por más difícil que",
+    "answer": "Por más difícil que",
+    "lemma": "por más...que",
+    "meaning": "no matter how difficult",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1224.mp3"
+  },
+  {
+    "id": "es-03-1225",
+    "sentence": "A pesar de haber perdido el comprobante impreso, la tienda encontró la compra en mi cuenta.",
+    "cloze": "A pesar de haber",
+    "answer": "A pesar de haber",
+    "lemma": "a pesar de haber",
+    "meaning": "despite having",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1225.mp3"
+  },
+  {
+    "id": "es-03-1226",
+    "sentence": "El contrato permite usar la azotea; eso sí, debemos reservarla con anticipación.",
+    "cloze": "eso sí",
+    "answer": "eso sí",
+    "lemma": "eso sí",
+    "meaning": "mind you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1226.mp3"
+  },
+  {
+    "id": "es-03-1227",
+    "sentence": "La caja llegó maltratada y, pese a eso, el aparato funcionaba correctamente.",
+    "cloze": "pese a eso",
+    "answer": "pese a eso",
+    "lemma": "pese a eso",
+    "meaning": "despite that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1227.mp3"
+  },
+  {
+    "id": "es-03-1228",
+    "sentence": "Por muy tarde que terminemos, enviaremos el informe antes de irnos.",
+    "cloze": "Por muy tarde que",
+    "answer": "Por muy tarde que",
+    "lemma": "por muy...que",
+    "meaning": "no matter how late",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1228.mp3"
+  },
+  {
+    "id": "es-03-1229",
+    "sentence": "Sea como sea, necesitamos resolver la fuga hoy mismo.",
+    "cloze": "Sea como sea",
+    "answer": "Sea como sea",
+    "lemma": "sea como sea",
+    "meaning": "be that as it may",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1229.mp3"
+  },
+  {
+    "id": "es-03-1230",
+    "sentence": "Llueva o no, la actividad comunitaria se realizará en el patio techado.",
+    "cloze": "Llueva o no",
+    "answer": "Llueva o no",
+    "lemma": "llueva o no",
+    "meaning": "whether it rains or not",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1230.mp3"
+  },
+  {
+    "id": "es-03-1231",
+    "sentence": "Además de explicar la historia del barrio, la exposición reúne grabaciones de sus primeros habitantes.",
+    "cloze": "Además de explicar",
+    "answer": "Además de explicar",
+    "lemma": "además de",
+    "meaning": "in addition to explaining",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1231.mp3"
+  },
+  {
+    "id": "es-03-1232",
+    "sentence": "Aparte de la garantía, la tienda incluyó la instalación sin costo.",
+    "cloze": "Aparte de la garantía",
+    "answer": "Aparte de la garantía",
+    "lemma": "aparte de",
+    "meaning": "in addition to the warranty",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1232.mp3"
+  },
+  {
+    "id": "es-03-1233",
+    "sentence": "Junto con el recibo, me entregaron una guía para cuidar el aparato.",
+    "cloze": "Junto con el recibo",
+    "answer": "Junto con el recibo",
+    "lemma": "junto con",
+    "meaning": "along with the receipt",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1233.mp3"
+  },
+  {
+    "id": "es-03-1234",
+    "sentence": "La cuota mensual cubre tanto el agua como el mantenimiento del edificio.",
+    "cloze": "tanto el agua como el mantenimiento",
+    "answer": "tanto el agua como el mantenimiento",
+    "lemma": "tanto...como",
+    "meaning": "both water and maintenance",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1234.mp3"
+  },
+  {
+    "id": "es-03-1235",
+    "sentence": "La exposición reúne fotografías, grabaciones e incluso mapas antiguos del barrio.",
+    "cloze": "e incluso mapas antiguos",
+    "answer": "e incluso mapas antiguos",
+    "lemma": "incluso",
+    "meaning": "and even old maps",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1235.mp3"
+  },
+  {
+    "id": "es-03-1236",
+    "sentence": "El cambio redujo el tiempo de espera; es más, también bajó los costos de operación.",
+    "cloze": "es más",
+    "answer": "es más",
+    "lemma": "es más",
+    "meaning": "what is more",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1236.mp3"
+  },
+  {
+    "id": "es-03-1237",
+    "sentence": "La entrega llegó tarde y, para colmo, una de las cajas venía abierta.",
+    "cloze": "para colmo",
+    "answer": "para colmo",
+    "lemma": "para colmo",
+    "meaning": "to make matters worse",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1237.mp3"
+  },
+  {
+    "id": "es-03-1238",
+    "sentence": "Fuimos al centro de acopio y, de paso, preguntamos cómo separar el vidrio.",
+    "cloze": "de paso",
+    "answer": "de paso",
+    "lemma": "de paso",
+    "meaning": "while we were at it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1238.mp3"
+  },
+  {
+    "id": "es-03-1239",
+    "sentence": "La actualización corrige el error y, al mismo tiempo, reduce el consumo de batería.",
+    "cloze": "al mismo tiempo",
+    "answer": "al mismo tiempo",
+    "lemma": "al mismo tiempo",
+    "meaning": "at the same time",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1239.mp3"
+  },
+  {
+    "id": "es-03-1240",
+    "sentence": "La garantía cubrió la reparación y ni siquiera tuvimos que pagar el envío.",
+    "cloze": "ni siquiera",
+    "answer": "ni siquiera",
+    "lemma": "ni siquiera",
+    "meaning": "not even",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1240.mp3"
+  },
+  {
+    "id": "es-03-1241",
+    "sentence": "Podemos reducir gastos; por ejemplo, podríamos compartir el traslado al aeropuerto.",
+    "cloze": "por ejemplo",
+    "answer": "por ejemplo",
+    "lemma": "por ejemplo",
+    "meaning": "for example",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1241.mp3"
+  },
+  {
+    "id": "es-03-1242",
+    "sentence": "Hay varias formas de ahorrar agua; a modo de ejemplo, podemos reutilizar la que sobra al lavar verduras.",
+    "cloze": "a modo de ejemplo",
+    "answer": "a modo de ejemplo",
+    "lemma": "a modo de ejemplo",
+    "meaning": "by way of example",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1242.mp3"
+  },
+  {
+    "id": "es-03-1243",
+    "sentence": "El centro ofrece varios talleres; en particular, me interesa el de reparación de bicicletas.",
+    "cloze": "en particular",
+    "answer": "en particular",
+    "lemma": "en particular",
+    "meaning": "in particular",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1243.mp3"
+  },
+  {
+    "id": "es-03-1244",
+    "sentence": "La aplicación funciona bien para enviar mensajes, especialmente cuando la conexión es inestable.",
+    "cloze": "especialmente",
+    "answer": "especialmente",
+    "lemma": "especialmente",
+    "meaning": "especially",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1244.mp3"
+  },
+  {
+    "id": "es-03-1245",
+    "sentence": "La queja menciona varios cobros, concretamente el cargo duplicado del mes pasado.",
+    "cloze": "concretamente",
+    "answer": "concretamente",
+    "lemma": "concretamente",
+    "meaning": "specifically",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1245.mp3"
+  },
+  {
+    "id": "es-03-1246",
+    "sentence": "Durante el curso aprendimos, entre otras cosas, a organizar archivos compartidos.",
+    "cloze": "entre otras cosas",
+    "answer": "entre otras cosas",
+    "lemma": "entre otras cosas",
+    "meaning": "among other things",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1246.mp3"
+  },
+  {
+    "id": "es-03-1247",
+    "sentence": "Sin ir más lejos, ayer resolvimos una falla parecida en menos de una hora.",
+    "cloze": "Sin ir más lejos",
+    "answer": "Sin ir más lejos",
+    "lemma": "sin ir más lejos",
+    "meaning": "to give a nearby example",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1247.mp3"
+  },
+  {
+    "id": "es-03-1248",
+    "sentence": "Por citar un caso, la tienda del centro redujo a la mitad el uso de bolsas desechables.",
+    "cloze": "Por citar un caso",
+    "answer": "Por citar un caso",
+    "lemma": "por citar un caso",
+    "meaning": "to cite one example",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1248.mp3"
+  },
+  {
+    "id": "es-03-1249",
+    "sentence": "Un caso concreto es el comedor comunitario, que redujo sus desperdicios a la mitad.",
+    "cloze": "Un caso concreto",
+    "answer": "Un caso concreto",
+    "lemma": "un caso concreto",
+    "meaning": "one concrete example",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1249.mp3"
+  },
+  {
+    "id": "es-03-1250",
+    "sentence": "Sobre todo, necesitamos confirmar que el salón tenga acceso para sillas de ruedas.",
+    "cloze": "Sobre todo",
+    "answer": "Sobre todo",
+    "lemma": "sobre todo",
+    "meaning": "above all",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1250.mp3"
+  },
+  {
+    "id": "es-03-1251",
+    "sentence": "El respaldo no se completó; dicho de otra manera, tus cambios todavía no están protegidos.",
+    "cloze": "dicho de otra manera",
+    "answer": "dicho de otra manera",
+    "lemma": "dicho de otra manera",
+    "meaning": "put another way",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1251.mp3"
+  },
+  {
+    "id": "es-03-1252",
+    "sentence": "El hotel no permite cancelar el mismo día; en otras palabras, hoy ya no habrá reembolso.",
+    "cloze": "en otras palabras",
+    "answer": "en otras palabras",
+    "lemma": "en otras palabras",
+    "meaning": "in other words",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1252.mp3"
+  },
+  {
+    "id": "es-03-1253",
+    "sentence": "El nuevo recorrido evita dos transbordos; para decirlo de otro modo, ahorraremos casi cuarenta minutos.",
+    "cloze": "para decirlo de otro modo",
+    "answer": "para decirlo de otro modo",
+    "lemma": "para decirlo de otro modo",
+    "meaning": "to put it another way",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1253.mp3"
+  },
+  {
+    "id": "es-03-1254",
+    "sentence": "Para decirlo con claridad, no aceptaré ningún cargo que no aparezca en el contrato.",
+    "cloze": "Para decirlo con claridad",
+    "answer": "Para decirlo con claridad",
+    "lemma": "para decirlo con claridad",
+    "meaning": "to put it clearly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1254.mp3"
+  },
+  {
+    "id": "es-03-1255",
+    "sentence": "La reunión será por la tarde; más exactamente, comenzará a las cuatro.",
+    "cloze": "más exactamente",
+    "answer": "más exactamente",
+    "lemma": "más exactamente",
+    "meaning": "more precisely",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1255.mp3"
+  },
+  {
+    "id": "es-03-1256",
+    "sentence": "El paquete llegará después del fin de semana; para ser más precisos, lo entregarán el lunes siguiente.",
+    "cloze": "para ser más precisos",
+    "answer": "para ser más precisos",
+    "lemma": "para ser más precisos",
+    "meaning": "to be more precise",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1256.mp3"
+  },
+  {
+    "id": "es-03-1257",
+    "sentence": "En términos sencillos, la garantía cubre las fallas del aparato, pero no los golpes.",
+    "cloze": "En términos sencillos",
+    "answer": "En términos sencillos",
+    "lemma": "en términos sencillos",
+    "meaning": "in simple terms",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1257.mp3"
+  },
+  {
+    "id": "es-03-1258",
+    "sentence": "En términos prácticos, el cambio nos dará media hora más para preparar la presentación.",
+    "cloze": "En términos prácticos",
+    "answer": "En términos prácticos",
+    "lemma": "en términos prácticos",
+    "meaning": "in practical terms",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1258.mp3"
+  },
+  {
+    "id": "es-03-1259",
+    "sentence": "Necesito una respuesta concreta; en concreto, quiero saber cuándo devolverán el depósito.",
+    "cloze": "en concreto",
+    "answer": "en concreto",
+    "lemma": "en concreto",
+    "meaning": "specifically",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1259.mp3"
+  },
+  {
+    "id": "es-03-1260",
+    "sentence": "En sentido estricto, la terraza no forma parte del departamento rentado.",
+    "cloze": "En sentido estricto",
+    "answer": "En sentido estricto",
+    "lemma": "en sentido estricto",
+    "meaning": "strictly speaking",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1260.mp3"
+  },
+  {
+    "id": "es-03-1261",
+    "sentence": "En primer lugar, revisaremos los datos de la reservación; después compararemos las opciones de traslado.",
+    "cloze": "En primer lugar",
+    "answer": "En primer lugar",
+    "lemma": "en primer lugar",
+    "meaning": "first of all",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1261.mp3"
+  },
+  {
+    "id": "es-03-1262",
+    "sentence": "Primero revisaremos el costo del traslado; en segundo lugar, calcularemos cuánto tiempo tomará.",
+    "cloze": "en segundo lugar",
+    "answer": "en segundo lugar",
+    "lemma": "en segundo lugar",
+    "meaning": "secondly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1262.mp3"
+  },
+  {
+    "id": "es-03-1263",
+    "sentence": "Por una parte, el turno nocturno paga mejor; por otra, termina demasiado tarde.",
+    "cloze": "Por una parte",
+    "answer": "Por una parte",
+    "lemma": "por una parte",
+    "meaning": "on the one hand",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1263.mp3"
+  },
+  {
+    "id": "es-03-1264",
+    "sentence": "Por una parte, el curso exige bastante tiempo; por otra parte, ofrece prácticas muy útiles.",
+    "cloze": "por otra parte",
+    "answer": "por otra parte",
+    "lemma": "por otra parte",
+    "meaning": "on the other hand",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1264.mp3"
+  },
+  {
+    "id": "es-03-1265",
+    "sentence": "Para empezar, convendría escuchar las necesidades de quienes usan el parque diariamente.",
+    "cloze": "Para empezar",
+    "answer": "Para empezar",
+    "lemma": "para empezar",
+    "meaning": "to begin with",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1265.mp3"
+  },
+  {
+    "id": "es-03-1266",
+    "sentence": "A partir de ahí, cada equipo podrá organizar sus tareas de manera independiente.",
+    "cloze": "A partir de ahí",
+    "answer": "A partir de ahí",
+    "lemma": "a partir de ahí",
+    "meaning": "from that point on",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1266.mp3"
+  },
+  {
+    "id": "es-03-1267",
+    "sentence": "El siguiente paso es solicitar una cotización que incluya la instalación.",
+    "cloze": "El siguiente paso es",
+    "answer": "El siguiente paso es",
+    "lemma": "el siguiente paso es",
+    "meaning": "the next step is",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1267.mp3"
+  },
+  {
+    "id": "es-03-1268",
+    "sentence": "Por último, asegúrense de que las ventanas queden cerradas antes de salir.",
+    "cloze": "Por último",
+    "answer": "Por último",
+    "lemma": "por último",
+    "meaning": "lastly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1268.mp3"
+  },
+  {
+    "id": "es-03-1269",
+    "sentence": "Para terminar, responderé las preguntas que anotaron durante la explicación.",
+    "cloze": "Para terminar",
+    "answer": "Para terminar",
+    "lemma": "para terminar",
+    "meaning": "to finish",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1269.mp3"
+  },
+  {
+    "id": "es-03-1270",
+    "sentence": "Finalmente, acordamos conservar la fecha original y reducir el número de actividades.",
+    "cloze": "Finalmente",
+    "answer": "Finalmente",
+    "lemma": "finalmente",
+    "meaning": "finally",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1270.mp3"
+  },
+  {
+    "id": "es-03-1271",
+    "sentence": "En resumen, el viaje fue más largo de lo previsto, pero resolvimos todos los contratiempos.",
+    "cloze": "En resumen",
+    "answer": "En resumen",
+    "lemma": "en resumen",
+    "meaning": "in summary",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1271.mp3"
+  },
+  {
+    "id": "es-03-1272",
+    "sentence": "En pocas palabras, necesitamos gastar menos sin reducir la calidad del servicio.",
+    "cloze": "En pocas palabras",
+    "answer": "En pocas palabras",
+    "lemma": "en pocas palabras",
+    "meaning": "in a few words",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1272.mp3"
+  },
+  {
+    "id": "es-03-1273",
+    "sentence": "En conclusión, la opción del tren ofrece el mejor equilibrio entre precio y tiempo.",
+    "cloze": "En conclusión",
+    "answer": "En conclusión",
+    "lemma": "en conclusión",
+    "meaning": "in conclusion",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1273.mp3"
+  },
+  {
+    "id": "es-03-1274",
+    "sentence": "En definitiva, será mejor reparar el equipo que comprar uno nuevo este año.",
+    "cloze": "En definitiva",
+    "answer": "En definitiva",
+    "lemma": "en definitiva",
+    "meaning": "ultimately",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1274.mp3"
+  },
+  {
+    "id": "es-03-1275",
+    "sentence": "En suma, las nuevas medidas redujeron la espera y mejoraron la atención al público.",
+    "cloze": "En suma",
+    "answer": "En suma",
+    "lemma": "en suma",
+    "meaning": "all in all",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1275.mp3"
+  },
+  {
+    "id": "es-03-1276",
+    "sentence": "A fin de cuentas, elegimos esa casa porque nos permitía vivir cerca del trabajo.",
+    "cloze": "A fin de cuentas",
+    "answer": "A fin de cuentas",
+    "lemma": "a fin de cuentas",
+    "meaning": "when all is said and done",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1276.mp3"
+  },
+  {
+    "id": "es-03-1277",
+    "sentence": "En general, los vecinos apoyan el proyecto, aunque algunos piden más información.",
+    "cloze": "En general",
+    "answer": "En general",
+    "lemma": "en general",
+    "meaning": "in general",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1277.mp3"
+  },
+  {
+    "id": "es-03-1278",
+    "sentence": "Hasta cierto punto, entiendo la demora porque la refacción viene de otra ciudad.",
+    "cloze": "Hasta cierto punto",
+    "answer": "Hasta cierto punto",
+    "lemma": "hasta cierto punto",
+    "meaning": "to a certain extent",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1278.mp3"
+  },
+  {
+    "id": "es-03-1279",
+    "sentence": "En todo caso, confirmaré el horario antes de pedirle al equipo que se traslade.",
+    "cloze": "En todo caso",
+    "answer": "En todo caso",
+    "lemma": "en todo caso",
+    "meaning": "in any case",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1279.mp3"
+  },
+  {
+    "id": "es-03-1280",
+    "sentence": "En conjunto, las propuestas permitirían ahorrar agua sin afectar las actividades del centro.",
+    "cloze": "En conjunto",
+    "answer": "En conjunto",
+    "lemma": "en conjunto",
+    "meaning": "taken together",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1280.mp3"
+  },
+  {
+    "id": "es-03-1281",
+    "sentence": "En mi opinión, conviene dedicar más tiempo a practicar con casos reales.",
+    "cloze": "En mi opinión",
+    "answer": "En mi opinión",
+    "lemma": "en mi opinión",
+    "meaning": "in my opinion",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1281.mp3"
+  },
+  {
+    "id": "es-03-1282",
+    "sentence": "A juzgar por los resultados, el horario escalonado ha reducido las filas.",
+    "cloze": "A juzgar por los resultados",
+    "answer": "A juzgar por los resultados",
+    "lemma": "a juzgar por",
+    "meaning": "judging by the results",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1282.mp3"
+  },
+  {
+    "id": "es-03-1283",
+    "sentence": "Después de comparar ambos presupuestos, considero que el segundo ofrece mayor seguridad.",
+    "cloze": "considero que",
+    "answer": "considero que",
+    "lemma": "considerar que",
+    "meaning": "I consider that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1283.mp3"
+  },
+  {
+    "id": "es-03-1284",
+    "sentence": "Con las cifras que presentamos, no cabe duda de que el proyecto es viable.",
+    "cloze": "no cabe duda de que",
+    "answer": "no cabe duda de que",
+    "lemma": "no cabe duda de que",
+    "meaning": "there is no doubt that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1284.mp3"
+  },
+  {
+    "id": "es-03-1285",
+    "sentence": "Estoy de acuerdo contigo en que debemos reservar un día para hacer ajustes.",
+    "cloze": "Estoy de acuerdo contigo en que",
+    "answer": "Estoy de acuerdo contigo en que",
+    "lemma": "estar de acuerdo con alguien en que",
+    "meaning": "I agree with you that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1285.mp3"
+  },
+  {
+    "id": "es-03-1286",
+    "sentence": "Tienes razón en que necesitamos más práctica antes de atender casos reales.",
+    "cloze": "Tienes razón en que",
+    "answer": "Tienes razón en que",
+    "lemma": "tener razón en que",
+    "meaning": "you are right that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1286.mp3"
+  },
+  {
+    "id": "es-03-1287",
+    "sentence": "No comparto la idea de que debamos cambiar la sede por una sola queja.",
+    "cloze": "No comparto la idea de que debamos",
+    "answer": "No comparto la idea de que debamos",
+    "lemma": "no compartir la idea de que",
+    "meaning": "I do not agree that we should",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1287.mp3"
+  },
+  {
+    "id": "es-03-1288",
+    "sentence": "Entiendo tu preocupación, pero cancelar ahora causaría más problemas a los participantes.",
+    "cloze": "Entiendo tu preocupación, pero",
+    "answer": "Entiendo tu preocupación, pero",
+    "lemma": "entender una preocupación, pero",
+    "meaning": "I understand your concern, but",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1288.mp3"
+  },
+  {
+    "id": "es-03-1289",
+    "sentence": "No necesariamente tenemos que cancelar la actividad porque cambió el pronóstico.",
+    "cloze": "No necesariamente",
+    "answer": "No necesariamente",
+    "lemma": "no necesariamente",
+    "meaning": "not necessarily",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1289.mp3"
+  },
+  {
+    "id": "es-03-1290",
+    "sentence": "Todo depende de si el proveedor mantiene el precio durante el próximo año.",
+    "cloze": "Todo depende de si",
+    "answer": "Todo depende de si",
+    "lemma": "depender de si",
+    "meaning": "it all depends on whether",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1290.mp3"
+  },
+  {
+    "id": "es-03-1291",
+    "sentence": "La razón principal es que este sistema permite corregir errores antes del envío.",
+    "cloze": "La razón principal es que",
+    "answer": "La razón principal es que",
+    "lemma": "la razón principal es que",
+    "meaning": "the main reason is that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1291.mp3"
+  },
+  {
+    "id": "es-03-1292",
+    "sentence": "Un punto a favor es que las refacciones se consiguen fácilmente en México.",
+    "cloze": "Un punto a favor es que",
+    "answer": "Un punto a favor es que",
+    "lemma": "un punto a favor es que",
+    "meaning": "one advantage is that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1292.mp3"
+  },
+  {
+    "id": "es-03-1293",
+    "sentence": "El plan mensual tiene la desventaja de que solo ofrece atención entre semana.",
+    "cloze": "tiene la desventaja de que",
+    "answer": "tiene la desventaja de que",
+    "lemma": "tener la desventaja de que",
+    "meaning": "has the disadvantage that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1293.mp3"
+  },
+  {
+    "id": "es-03-1294",
+    "sentence": "Antes de elegir el equipo, vale la pena tomar en cuenta el costo de mantenimiento.",
+    "cloze": "vale la pena tomar en cuenta",
+    "answer": "vale la pena tomar en cuenta",
+    "lemma": "valer la pena tomar en cuenta",
+    "meaning": "it is worth taking into account",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1294.mp3"
+  },
+  {
+    "id": "es-03-1295",
+    "sentence": "Para evitar cargos adicionales, te sugiero que revises las condiciones antes de reservar.",
+    "cloze": "te sugiero que revises",
+    "answer": "te sugiero que revises",
+    "lemma": "sugerir que + subjuntivo",
+    "meaning": "I suggest that you review",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1295.mp3"
+  },
+  {
+    "id": "es-03-1296",
+    "sentence": "Mientras confirman el presupuesto, me parece más prudente mantener las fechas actuales.",
+    "cloze": "me parece más prudente mantener",
+    "answer": "me parece más prudente mantener",
+    "lemma": "parecer prudente + infinitivo",
+    "meaning": "it seems wiser to me to keep",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1296.mp3"
+  },
+  {
+    "id": "es-03-1297",
+    "sentence": "Antes de firmar el contrato, lo más sensato sería comparar las dos garantías.",
+    "cloze": "lo más sensato sería comparar",
+    "answer": "lo más sensato sería comparar",
+    "lemma": "lo más sensato sería + infinitivo",
+    "meaning": "the most sensible thing would be to compare",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1297.mp3"
+  },
+  {
+    "id": "es-03-1298",
+    "sentence": "Para decidir sin prisa, ¿qué te parece si probamos el nuevo horario durante una semana?",
+    "cloze": "qué te parece si probamos",
+    "answer": "qué te parece si probamos",
+    "lemma": "qué te parece si",
+    "meaning": "how about we try",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1298.mp3"
+  },
+  {
+    "id": "es-03-1299",
+    "sentence": "Podríamos llegar a un acuerdo si cada área cubre una parte del gasto.",
+    "cloze": "Podríamos llegar a un acuerdo si",
+    "answer": "Podríamos llegar a un acuerdo si",
+    "lemma": "poder llegar a un acuerdo si",
+    "meaning": "we could reach an agreement if",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1299.mp3"
+  },
+  {
+    "id": "es-03-1300",
+    "sentence": "Para que la propuesta funcione, necesitamos avisarles hoy a todos los participantes.",
+    "cloze": "Para que la propuesta funcione",
+    "answer": "Para que la propuesta funcione",
+    "lemma": "para que + subjuntivo",
+    "meaning": "for the proposal to work",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1300.mp3"
+  },
+  {
+    "id": "es-03-1301",
+    "sentence": "Sin intención de presionarte, quiero mostrarte cuánto ahorrarías con este plan.",
+    "cloze": "Sin intención de presionarte",
+    "answer": "Sin intención de presionarte",
+    "lemma": "sin intención de + infinitivo",
+    "meaning": "without intending to pressure you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1301.mp3"
+  },
+  {
+    "id": "es-03-1302",
+    "sentence": "Permíteme hacerte una sugerencia: revisa también los gastos que no aparecen en el anuncio.",
+    "cloze": "Permíteme hacerte una sugerencia",
+    "answer": "Permíteme hacerte una sugerencia",
+    "lemma": "permíteme hacerte una sugerencia",
+    "meaning": "let me make a suggestion",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1302.mp3"
+  },
+  {
+    "id": "es-03-1303",
+    "sentence": "Míralo de esta manera: una inversión mayor ahora puede reducir los gastos mensuales.",
+    "cloze": "Míralo de esta manera",
+    "answer": "Míralo de esta manera",
+    "lemma": "mirarlo de esta manera",
+    "meaning": "look at it this way",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1303.mp3"
+  },
+  {
+    "id": "es-03-1304",
+    "sentence": "Después de comparar los servicios, me inclino por el que atiende durante todo el fin de semana.",
+    "cloze": "me inclino por",
+    "answer": "me inclino por",
+    "lemma": "inclinarse por",
+    "meaning": "I lean toward",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1304.mp3"
+  },
+  {
+    "id": "es-03-1305",
+    "sentence": "Por motivos de accesibilidad, estoy en contra de trasladar el evento a un edificio sin elevador.",
+    "cloze": "estoy en contra de",
+    "answer": "estoy en contra de",
+    "lemma": "estar en contra de",
+    "meaning": "I am against",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1305.mp3"
+  },
+  {
+    "id": "es-03-1306",
+    "sentence": "Al evaluar las propuestas, conviene distinguir entre el costo inicial y el gasto mensual.",
+    "cloze": "conviene distinguir entre",
+    "answer": "conviene distinguir entre",
+    "lemma": "convenir distinguir entre",
+    "meaning": "it is advisable to distinguish between",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1306.mp3"
+  },
+  {
+    "id": "es-03-1307",
+    "sentence": "No perdamos de vista que varias familias dependen de este servicio los sábados.",
+    "cloze": "No perdamos de vista que",
+    "answer": "No perdamos de vista que",
+    "lemma": "no perder de vista que",
+    "meaning": "let us not lose sight of the fact that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1307.mp3"
+  },
+  {
+    "id": "es-03-1308",
+    "sentence": "Los datos indican que repartir las citas reduce el tiempo de espera.",
+    "cloze": "Los datos indican que",
+    "answer": "Los datos indican que",
+    "lemma": "indicar que",
+    "meaning": "the data indicate that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1308.mp3"
+  },
+  {
+    "id": "es-03-1309",
+    "sentence": "Esto se explica porque muchos usuarios llegan antes de que abra la oficina.",
+    "cloze": "Esto se explica porque",
+    "answer": "Esto se explica porque",
+    "lemma": "explicarse porque",
+    "meaning": "this is explained by the fact that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1309.mp3"
+  },
+  {
+    "id": "es-03-1310",
+    "sentence": "Aun reconociendo que la renta es alta, creo que la ubicación justifica el gasto.",
+    "cloze": "Aun reconociendo que",
+    "answer": "Aun reconociendo que",
+    "lemma": "aun reconociendo que",
+    "meaning": "even acknowledging that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1310.mp3"
+  },
+  {
+    "id": "es-03-1311",
+    "sentence": "Al comparar los equipos, no se trata de elegir lo más barato, sino de asegurar el soporte.",
+    "cloze": "no se trata de elegir lo más barato",
+    "answer": "no se trata de elegir lo más barato",
+    "lemma": "no se trata de ..., sino de ...",
+    "meaning": "it is not about choosing the cheapest option",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1311.mp3"
+  },
+  {
+    "id": "es-03-1312",
+    "sentence": "Esta opción me convence más porque permite cambiar la fecha sin pagar cargos.",
+    "cloze": "me convence más porque",
+    "answer": "me convence más porque",
+    "lemma": "convencer más porque",
+    "meaning": "appeals to me more because",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1312.mp3"
+  },
+  {
+    "id": "es-03-1313",
+    "sentence": "Me preocupa que el cambio aumente los tiempos de espera en las horas de mayor demanda.",
+    "cloze": "Me preocupa que el cambio aumente",
+    "answer": "Me preocupa que el cambio aumente",
+    "lemma": "preocupar que + subjuntivo",
+    "meaning": "I am concerned that the change may increase",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1313.mp3"
+  },
+  {
+    "id": "es-03-1314",
+    "sentence": "Ante una sola queja, dudo que convenga cambiar toda la sede.",
+    "cloze": "dudo que convenga",
+    "answer": "dudo que convenga",
+    "lemma": "dudar que + subjuntivo",
+    "meaning": "I doubt that it is advisable",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1314.mp3"
+  },
+  {
+    "id": "es-03-1315",
+    "sentence": "Para repartir el trabajo de manera equitativa, es fundamental que todos participen en la planeación.",
+    "cloze": "es fundamental que todos participen",
+    "answer": "es fundamental que todos participen",
+    "lemma": "ser fundamental que + subjuntivo",
+    "meaning": "it is essential that everyone participate",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1315.mp3"
+  },
+  {
+    "id": "es-03-1316",
+    "sentence": "Como el beneficio será para todos, es más justo que cada área cubra una parte del gasto.",
+    "cloze": "es más justo que cada área cubra",
+    "answer": "es más justo que cada área cubra",
+    "lemma": "ser más justo que + subjuntivo",
+    "meaning": "it is fairer for each department to cover",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1316.mp3"
+  },
+  {
+    "id": "es-03-1317",
+    "sentence": "Para no perder las reservaciones confirmadas, propongo que mantengamos las fechas actuales.",
+    "cloze": "propongo que mantengamos",
+    "answer": "propongo que mantengamos",
+    "lemma": "proponer que + subjuntivo",
+    "meaning": "I propose that we keep",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1317.mp3"
+  },
+  {
+    "id": "es-03-1318",
+    "sentence": "Antes de decidir, te invito a considerar el costo de mantenimiento durante el primer año.",
+    "cloze": "te invito a considerar",
+    "answer": "te invito a considerar",
+    "lemma": "invitar a considerar",
+    "meaning": "I invite you to consider",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1318.mp3"
+  },
+  {
+    "id": "es-03-1319",
+    "sentence": "Si queremos evitar otro retraso, tendremos que confirmar hoy la disponibilidad del salón.",
+    "cloze": "tendremos que confirmar hoy",
+    "answer": "tendremos que confirmar hoy",
+    "lemma": "tener que + infinitivo",
+    "meaning": "we will have to confirm today",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1319.mp3"
+  },
+  {
+    "id": "es-03-1320",
+    "sentence": "Para cerrar el trato hoy, ¿estarías dispuesto a aceptar el pago en dos partes?",
+    "cloze": "estarías dispuesto a aceptar",
+    "answer": "estarías dispuesto a aceptar",
+    "lemma": "estar dispuesto a + infinitivo",
+    "meaning": "would you be willing to accept",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1320.mp3"
+  },
+  {
+    "id": "es-03-1321",
+    "sentence": "Antes de enviar el resumen, quiero comprobar algo: si entendí bien, la reunión será híbrida.",
+    "cloze": "si entendí bien",
+    "answer": "si entendí bien",
+    "lemma": "entender bien",
+    "meaning": "if I understood correctly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1321.mp3"
+  },
+  {
+    "id": "es-03-1322",
+    "sentence": "Cuando dices «la última versión», ¿te refieres a la que corrigieron hoy?",
+    "cloze": "te refieres a",
+    "answer": "te refieres a",
+    "lemma": "referirse a",
+    "meaning": "are you referring to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1322.mp3"
+  },
+  {
+    "id": "es-03-1323",
+    "sentence": "Antes de cerrar el reporte, ¿me confirmas si los datos ya son definitivos, por favor?",
+    "cloze": "me confirmas si",
+    "answer": "me confirmas si",
+    "lemma": "confirmar si",
+    "meaning": "can you confirm whether",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1323.mp3"
+  },
+  {
+    "id": "es-03-1324",
+    "sentence": "Perdón, lo expresé mal: no necesitamos cancelar la cita, sino cambiar la hora.",
+    "cloze": "lo expresé mal",
+    "answer": "lo expresé mal",
+    "lemma": "expresar algo mal",
+    "meaning": "I phrased that badly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1324.mp3"
+  },
+  {
+    "id": "es-03-1325",
+    "sentence": "Dije que el depósito vencía el jueves, pero me corrijo: vence el viernes.",
+    "cloze": "me corrijo",
+    "answer": "me corrijo",
+    "lemma": "corregirse",
+    "meaning": "let me correct myself",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1325.mp3"
+  },
+  {
+    "id": "es-03-1326",
+    "sentence": "Perdón, dije que el desayuno no estaba incluido; quise decir lo contrario: sí está incluido.",
+    "cloze": "quise decir lo contrario",
+    "answer": "quise decir lo contrario",
+    "lemma": "querer decir lo contrario",
+    "meaning": "I meant the opposite",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1326.mp3"
+  },
+  {
+    "id": "es-03-1327",
+    "sentence": "Para evitar malentendidos, aclaro que cada área enviará un solo reporte.",
+    "cloze": "Para evitar malentendidos",
+    "answer": "Para evitar malentendidos",
+    "lemma": "evitar malentendidos",
+    "meaning": "to avoid misunderstandings",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1327.mp3"
+  },
+  {
+    "id": "es-03-1328",
+    "sentence": "Cuando dices que la instalación está incluida, ¿eso significa que no habrá cargos extra?",
+    "cloze": "eso significa que",
+    "answer": "eso significa que",
+    "lemma": "significar que",
+    "meaning": "does that mean that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1328.mp3"
+  },
+  {
+    "id": "es-03-1329",
+    "sentence": "A ver si capté la idea: ustedes entregan el equipo y nosotros lo instalamos.",
+    "cloze": "A ver si capté la idea",
+    "answer": "A ver si capté la idea",
+    "lemma": "captar la idea",
+    "meaning": "let me see if I got the idea",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1329.mp3"
+  },
+  {
+    "id": "es-03-1330",
+    "sentence": "Corrígeme si me equivoco, pero el reembolso puede tardar hasta cinco días hábiles.",
+    "cloze": "Corrígeme si me equivoco",
+    "answer": "Corrígeme si me equivoco",
+    "lemma": "corregir si alguien se equivoca",
+    "meaning": "correct me if I am wrong",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1330.mp3"
+  },
+  {
+    "id": "es-03-1331",
+    "sentence": "En tu mensaje mencionas una excepción; ¿a qué te refieres exactamente con esa palabra?",
+    "cloze": "a qué te refieres exactamente",
+    "answer": "a qué te refieres exactamente",
+    "lemma": "referirse exactamente a",
+    "meaning": "what exactly do you mean",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1331.mp3"
+  },
+  {
+    "id": "es-03-1332",
+    "sentence": "No me quedó claro si debemos conservar ambos comprobantes o solamente el original.",
+    "cloze": "No me quedó claro",
+    "answer": "No me quedó claro",
+    "lemma": "no quedar claro",
+    "meaning": "it was not clear to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1332.mp3"
+  },
+  {
+    "id": "es-03-1333",
+    "sentence": "Mencionaste que cambiará el acceso; ¿debo entender que tendremos una contraseña nueva a partir del lunes?",
+    "cloze": "debo entender que",
+    "answer": "debo entender que",
+    "lemma": "entender que",
+    "meaning": "should I understand that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1333.mp3"
+  },
+  {
+    "id": "es-03-1334",
+    "sentence": "Para quienes no conocen el proceso, ¿me das un ejemplo de cómo se solicita el reembolso?",
+    "cloze": "me das un ejemplo",
+    "answer": "me das un ejemplo",
+    "lemma": "dar un ejemplo",
+    "meaning": "can you give me an example",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1334.mp3"
+  },
+  {
+    "id": "es-03-1335",
+    "sentence": "Para quienes no conocen el sistema, ¿puedes decirlo de forma más sencilla?",
+    "cloze": "puedes decirlo de forma más sencilla",
+    "answer": "puedes decirlo de forma más sencilla",
+    "lemma": "decir algo de forma sencilla",
+    "meaning": "can you say it more simply",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1335.mp3"
+  },
+  {
+    "id": "es-03-1336",
+    "sentence": "Entiendo ambas opciones, pero ¿cuál es la diferencia entre aplazar y cancelar?",
+    "cloze": "cuál es la diferencia entre",
+    "answer": "cuál es la diferencia entre",
+    "lemma": "diferencia entre",
+    "meaning": "what is the difference between",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1336.mp3"
+  },
+  {
+    "id": "es-03-1337",
+    "sentence": "En la llamada mencionaste dos plazos; ¿cuál de los dos se aplica a nuestro caso?",
+    "cloze": "cuál de los dos se aplica",
+    "answer": "cuál de los dos se aplica",
+    "lemma": "aplicarse",
+    "meaning": "which of the two applies",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1337.mp3"
+  },
+  {
+    "id": "es-03-1338",
+    "sentence": "Cuando hablaste de «acceso limitado», ¿hablabas únicamente de los archivos compartidos durante la capacitación?",
+    "cloze": "hablabas únicamente de",
+    "answer": "hablabas únicamente de",
+    "lemma": "hablar únicamente de",
+    "meaning": "were you referring only to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1338.mp3"
+  },
+  {
+    "id": "es-03-1339",
+    "sentence": "La devolución es presencial, ¿verdad, o lo entendí al revés?",
+    "cloze": "lo entendí al revés",
+    "answer": "lo entendí al revés",
+    "lemma": "entender al revés",
+    "meaning": "did I understand it backward",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1339.mp3"
+  },
+  {
+    "id": "es-03-1340",
+    "sentence": "Solo para confirmar: ¿la capacitación empieza a las nueve en punto?",
+    "cloze": "Solo para confirmar",
+    "answer": "Solo para confirmar",
+    "lemma": "solo para confirmar",
+    "meaning": "just to confirm",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1340.mp3"
+  },
+  {
+    "id": "es-03-1341",
+    "sentence": "Antes de pasar al siguiente tema, quiero comprobarlo con ustedes: ¿hasta aquí vamos bien?",
+    "cloze": "hasta aquí vamos bien",
+    "answer": "hasta aquí vamos bien",
+    "lemma": "ir bien hasta aquí",
+    "meaning": "are we all following so far",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1341.mp3"
+  },
+  {
+    "id": "es-03-1342",
+    "sentence": "Respecto al presupuesto, ¿coincidimos en que debemos comparar las tres opciones antes de votar?",
+    "cloze": "coincidimos en que",
+    "answer": "coincidimos en que",
+    "lemma": "coincidir en que",
+    "meaning": "do we agree that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1342.mp3"
+  },
+  {
+    "id": "es-03-1343",
+    "sentence": "Después de esta explicación, ¿quedó claro por qué cambiamos el plano o revisamos el motivo otra vez?",
+    "cloze": "quedó claro por qué",
+    "answer": "quedó claro por qué",
+    "lemma": "quedar claro por qué",
+    "meaning": "was it clear why",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1343.mp3"
+  },
+  {
+    "id": "es-03-1344",
+    "sentence": "Para asegurarme de haber anotado bien, ¿el técnico vendrá entre las diez y las doce?",
+    "cloze": "Para asegurarme de haber anotado bien",
+    "answer": "Para asegurarme de haber anotado bien",
+    "lemma": "asegurarse de haber anotado bien",
+    "meaning": "to make sure I wrote it down correctly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1344.mp3"
+  },
+  {
+    "id": "es-03-1345",
+    "sentence": "La señal falló al final; ¿me repites lo último que dijiste sobre la garantía?",
+    "cloze": "me repites lo último que dijiste",
+    "answer": "me repites lo último que dijiste",
+    "lemma": "repetir lo último",
+    "meaning": "can you repeat the last thing you said",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1345.mp3"
+  },
+  {
+    "id": "es-03-1346",
+    "sentence": "Hay mucho ruido en esta sala; ¿podrías hablar un poco más despacio, por favor?",
+    "cloze": "podrías hablar un poco más despacio",
+    "answer": "podrías hablar un poco más despacio",
+    "lemma": "hablar más despacio",
+    "meaning": "could you speak a little more slowly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1346.mp3"
+  },
+  {
+    "id": "es-03-1347",
+    "sentence": "La llamada se entrecortó cuando mencionaste la garantía; ¿qué dijiste justo después?",
+    "cloze": "qué dijiste justo después",
+    "answer": "qué dijiste justo después",
+    "lemma": "preguntar qué se dijo después",
+    "meaning": "what did you say right afterward",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1347.mp3"
+  },
+  {
+    "id": "es-03-1348",
+    "sentence": "No distinguí bien el verbo; ¿dijiste «renovar» o «revocar» el permiso?",
+    "cloze": "dijiste «renovar» o «revocar»",
+    "answer": "dijiste «renovar» o «revocar»",
+    "lemma": "preguntar qué se dijo",
+    "meaning": "did you say renew or revoke",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1348.mp3"
+  },
+  {
+    "id": "es-03-1349",
+    "sentence": "En la llamada mencionaste una prórroga para entregar los documentos; ¿hasta cuándo dijiste que estaría vigente?",
+    "cloze": "hasta cuándo dijiste que estaría vigente",
+    "answer": "hasta cuándo dijiste que estaría vigente",
+    "lemma": "preguntar hasta cuándo",
+    "meaning": "until when did you say it would remain valid",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1349.mp3"
+  },
+  {
+    "id": "es-03-1350",
+    "sentence": "Hay dos personas encargadas de autorizar el pago; ¿de cuál de las dos hablas?",
+    "cloze": "de cuál de las dos hablas",
+    "answer": "de cuál de las dos hablas",
+    "lemma": "preguntar de cuál se habla",
+    "meaning": "which of the two are you talking about",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1350.mp3"
+  },
+  {
+    "id": "es-03-1351",
+    "sentence": "El archivo aparece como «liberado»; ¿qué significa eso en este contexto?",
+    "cloze": "qué significa eso en este contexto",
+    "answer": "qué significa eso en este contexto",
+    "lemma": "significar en este contexto",
+    "meaning": "what does that mean in this context",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1351.mp3"
+  },
+  {
+    "id": "es-03-1352",
+    "sentence": "Comprendo el resultado, pero ¿en qué sentido lo dices cuando lo llamas provisional?",
+    "cloze": "en qué sentido lo dices",
+    "answer": "en qué sentido lo dices",
+    "lemma": "decir en qué sentido",
+    "meaning": "in what sense do you mean it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1352.mp3"
+  },
+  {
+    "id": "es-03-1353",
+    "sentence": "Antes de responderle al proveedor, ¿estás diciendo que aceptaremos la fecha solo si mantiene el precio?",
+    "cloze": "estás diciendo que",
+    "answer": "estás diciendo que",
+    "lemma": "estar diciendo que",
+    "meaning": "are you saying that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1353.mp3"
+  },
+  {
+    "id": "es-03-1354",
+    "sentence": "Según tu explicación, ¿entendí bien que el respaldo se genera automáticamente?",
+    "cloze": "entendí bien que",
+    "answer": "entendí bien que",
+    "lemma": "entender bien que",
+    "meaning": "did I understand correctly that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1354.mp3"
+  },
+  {
+    "id": "es-03-1355",
+    "sentence": "Para confirmar tu propuesta, ¿sugieres que probemos primero con un grupo pequeño?",
+    "cloze": "sugieres que probemos",
+    "answer": "sugieres que probemos",
+    "lemma": "sugerir que se pruebe",
+    "meaning": "are you suggesting that we try",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1355.mp3"
+  },
+  {
+    "id": "es-03-1356",
+    "sentence": "Según recuerdo, quedamos en revisar los resultados antes de renovar el contrato, ¿verdad?",
+    "cloze": "Según recuerdo",
+    "answer": "Según recuerdo",
+    "lemma": "según recuerdo",
+    "meaning": "as I recall",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1356.mp3"
+  },
+  {
+    "id": "es-03-1357",
+    "sentence": "Déjame resumirlo para comprobar que coincidimos: hoy revisamos los datos y mañana enviamos la versión final.",
+    "cloze": "Déjame resumirlo",
+    "answer": "Déjame resumirlo",
+    "lemma": "resumir para comprobar",
+    "meaning": "let me summarize it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1357.mp3"
+  },
+  {
+    "id": "es-03-1358",
+    "sentence": "Para comprobarlo, ¿sería correcto resumirlo así: el cambio solo afecta a quienes trabajan a distancia?",
+    "cloze": "sería correcto resumirlo así",
+    "answer": "sería correcto resumirlo así",
+    "lemma": "resumir correctamente",
+    "meaning": "would it be correct to summarize it this way",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1358.mp3"
+  },
+  {
+    "id": "es-03-1359",
+    "sentence": "Antes de autorizar el pago, ya revisé los tres cargos de la factura; ¿mi interpretación es correcta?",
+    "cloze": "mi interpretación es correcta",
+    "answer": "mi interpretación es correcta",
+    "lemma": "ser correcta una interpretación",
+    "meaning": "is my interpretation correct",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1359.mp3"
+  },
+  {
+    "id": "es-03-1360",
+    "sentence": "Al final de la reunión, compararé mi resumen con lo acordado; avísame si detectas alguna diferencia.",
+    "cloze": "avísame si detectas alguna diferencia",
+    "answer": "avísame si detectas alguna diferencia",
+    "lemma": "detectar una diferencia",
+    "meaning": "let me know if you notice any difference",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1360.mp3"
+  },
+  {
+    "id": "es-03-1361",
+    "sentence": "Respecto a la nueva fecha, ¿podrías aclararme qué cambió exactamente desde ayer?",
+    "cloze": "podrías aclararme qué",
+    "answer": "podrías aclararme qué",
+    "lemma": "poder aclarar qué",
+    "meaning": "could you clarify what",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1361.mp3"
+  },
+  {
+    "id": "es-03-1362",
+    "sentence": "Por lo que entendí, el anticipo sí se descuenta del total acordado.",
+    "cloze": "Por lo que entendí",
+    "answer": "Por lo que entendí",
+    "lemma": "por lo que entendí",
+    "meaning": "from what I understood",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1362.mp3"
+  },
+  {
+    "id": "es-03-1363",
+    "sentence": "Entonces, ¿me confirmas que el taller sigue programado para este sábado?",
+    "cloze": "me confirmas que",
+    "answer": "me confirmas que",
+    "lemma": "confirmar que",
+    "meaning": "can you confirm that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1363.mp3"
+  },
+  {
+    "id": "es-03-1364",
+    "sentence": "Al revisar el correo, noté una confusión entre el número de pedido y el de seguimiento.",
+    "cloze": "noté una confusión",
+    "answer": "noté una confusión",
+    "lemma": "notar una confusión",
+    "meaning": "I noticed a mix-up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1364.mp3"
+  },
+  {
+    "id": "es-03-1365",
+    "sentence": "Para precisar mi solicitud, no pido que cancelen la visita, sino que la recorran una semana.",
+    "cloze": "que la recorran",
+    "answer": "que la recorran",
+    "lemma": "recorrer una fecha",
+    "meaning": "that they move it back",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1365.mp3"
+  },
+  {
+    "id": "es-03-1366",
+    "sentence": "Antes de responder al proveedor, déjame comprobar si entendí bien la propuesta.",
+    "cloze": "comprobar si",
+    "answer": "comprobar si",
+    "lemma": "comprobar si",
+    "meaning": "check whether",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1366.mp3"
+  },
+  {
+    "id": "es-03-1367",
+    "sentence": "O sea, lo que propones es mantener el precio y acortar el plazo de entrega.",
+    "cloze": "lo que propones es",
+    "answer": "lo que propones es",
+    "lemma": "lo que propones es",
+    "meaning": "what you are proposing is",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1367.mp3"
+  },
+  {
+    "id": "es-03-1368",
+    "sentence": "Sobre el cobro extra, ¿podrías precisar a cuál factura te refieres?",
+    "cloze": "podrías precisar a cuál",
+    "answer": "podrías precisar a cuál",
+    "lemma": "poder precisar a cuál",
+    "meaning": "could you specify which one",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1368.mp3"
+  },
+  {
+    "id": "es-03-1369",
+    "sentence": "Cuando dije «saldo», quería decir dinero disponible, no límite de crédito.",
+    "cloze": "quería decir",
+    "answer": "quería decir",
+    "lemma": "querer decir",
+    "meaning": "I meant",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1369.mp3"
+  },
+  {
+    "id": "es-03-1370",
+    "sentence": "Para que quede claro el calendario, la entrega se adelantó al martes en vez de posponerse hasta el jueves.",
+    "cloze": "en vez de",
+    "answer": "en vez de",
+    "lemma": "en vez de",
+    "meaning": "instead of",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1370.mp3"
+  },
+  {
+    "id": "es-03-1371",
+    "sentence": "Disculpa la interrupción, pero necesito que repitas el último paso con calma.",
+    "cloze": "necesito que repitas",
+    "answer": "necesito que repitas",
+    "lemma": "necesitar que alguien repita",
+    "meaning": "I need you to repeat",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1371.mp3"
+  },
+  {
+    "id": "es-03-1372",
+    "sentence": "Antes de pagar, ¿me puedes confirmar si ya quedó registrado el descuento?",
+    "cloze": "me puedes confirmar si",
+    "answer": "me puedes confirmar si",
+    "lemma": "poder confirmar si",
+    "meaning": "can you confirm whether",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1372.mp3"
+  },
+  {
+    "id": "es-03-1373",
+    "sentence": "Según tus indicaciones, primero entregamos el formato y después hacemos el pago.",
+    "cloze": "primero entregamos",
+    "answer": "primero entregamos",
+    "lemma": "primero entregar",
+    "meaning": "first we submit",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1373.mp3"
+  },
+  {
+    "id": "es-03-1374",
+    "sentence": "A ver, entonces tú llevas las copias y yo presento los originales en la ventanilla.",
+    "cloze": "A ver, entonces",
+    "answer": "A ver, entonces",
+    "lemma": "a ver, entonces",
+    "meaning": "let me see, so",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1374.mp3"
+  },
+  {
+    "id": "es-03-1375",
+    "sentence": "Corrijo lo que dije sobre el permiso: no vence en mayo, sino en junio.",
+    "cloze": "Corrijo lo que dije",
+    "answer": "Corrijo lo que dije",
+    "lemma": "corregir lo dicho",
+    "meaning": "I am correcting what I said",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1375.mp3"
+  },
+  {
+    "id": "es-03-1376",
+    "sentence": "Una disculpa por la confusión con el archivo: te envié por error la versión anterior.",
+    "cloze": "por error",
+    "answer": "por error",
+    "lemma": "por error",
+    "meaning": "by mistake",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1376.mp3"
+  },
+  {
+    "id": "es-03-1377",
+    "sentence": "Gracias por señalar la diferencia; ahora entiendo por qué no coincidían los totales de las dos facturas.",
+    "cloze": "ahora entiendo por qué",
+    "answer": "ahora entiendo por qué",
+    "lemma": "entender por qué",
+    "meaning": "now I understand why",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1377.mp3"
+  },
+  {
+    "id": "es-03-1378",
+    "sentence": "Para identificar el problema, ¿a cuál te refieres: al archivo adjunto o al que está guardado en la carpeta?",
+    "cloze": "a cuál te refieres",
+    "answer": "a cuál te refieres",
+    "lemma": "referirse a cuál",
+    "meaning": "which one are you referring to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1378.mp3"
+  },
+  {
+    "id": "es-03-1379",
+    "sentence": "Para asegurarme de que hablamos de lo mismo, ¿el paquete incluye también el costo de la instalación?",
+    "cloze": "Para asegurarme de que",
+    "answer": "Para asegurarme de que",
+    "lemma": "para asegurarse de que",
+    "meaning": "to make sure that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1379.mp3"
+  },
+  {
+    "id": "es-03-1380",
+    "sentence": "Antes de cerrar el tema, dime si lo estoy resumiendo correctamente hasta este punto.",
+    "cloze": "resumiendo correctamente",
+    "answer": "resumiendo correctamente",
+    "lemma": "resumir correctamente",
+    "meaning": "summarizing correctly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1380.mp3"
+  },
+  {
+    "id": "es-03-1381",
+    "sentence": "Si no entendí mal, ustedes enviarán la factura después de recibir la mercancía.",
+    "cloze": "Si no entendí mal",
+    "answer": "Si no entendí mal",
+    "lemma": "si no entender mal",
+    "meaning": "if I understood correctly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1381.mp3"
+  },
+  {
+    "id": "es-03-1382",
+    "sentence": "Según la lista actualizada, lo único pendiente es la firma de la supervisora.",
+    "cloze": "lo único pendiente",
+    "answer": "lo único pendiente",
+    "lemma": "lo único pendiente",
+    "meaning": "the only outstanding item",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1382.mp3"
+  },
+  {
+    "id": "es-03-1383",
+    "sentence": "Sobre ese requisito nuevo, ¿podrías darme un ejemplo concreto para entenderlo mejor?",
+    "cloze": "darme un ejemplo",
+    "answer": "darme un ejemplo",
+    "lemma": "dar un ejemplo",
+    "meaning": "give me an example",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1383.mp3"
+  },
+  {
+    "id": "es-03-1384",
+    "sentence": "No alcancé a oír el último número; ¿lo puedes repetir más despacio, por favor?",
+    "cloze": "repetir más despacio",
+    "answer": "repetir más despacio",
+    "lemma": "repetir más despacio",
+    "meaning": "repeat more slowly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1384.mp3"
+  },
+  {
+    "id": "es-03-1385",
+    "sentence": "Para confirmar el cambio de terminal, ¿dijiste que el vuelo saldrá de la terminal tres?",
+    "cloze": "dijiste que",
+    "answer": "dijiste que",
+    "lemma": "decir que",
+    "meaning": "did you say that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1385.mp3"
+  },
+  {
+    "id": "es-03-1386",
+    "sentence": "Perdón, hablé demasiado rápido; ahora te lo explico de nuevo con más calma.",
+    "cloze": "te lo explico",
+    "answer": "te lo explico",
+    "lemma": "explicarle algo a alguien",
+    "meaning": "I will explain it to you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1386.mp3"
+  },
+  {
+    "id": "es-03-1387",
+    "sentence": "Corrijo el horario de mi mensaje anterior: la sesión empieza a las once, no a las diez.",
+    "cloze": "Corrijo el horario",
+    "answer": "Corrijo el horario",
+    "lemma": "corregir el horario",
+    "meaning": "I am correcting the schedule",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1387.mp3"
+  },
+  {
+    "id": "es-03-1388",
+    "sentence": "Sobre la condición de pago, no estoy seguro de haberla entendido correctamente.",
+    "cloze": "de haberla entendido",
+    "answer": "de haberla entendido",
+    "lemma": "haber entendido algo",
+    "meaning": "of having understood it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1388.mp3"
+  },
+  {
+    "id": "es-03-1389",
+    "sentence": "Al comparar estas dos tarifas, ¿podrías explicarme en qué consiste la diferencia de cobertura?",
+    "cloze": "en qué consiste",
+    "answer": "en qué consiste",
+    "lemma": "en qué consistir",
+    "meaning": "what it consists of",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1389.mp3"
+  },
+  {
+    "id": "es-03-1390",
+    "sentence": "Después de revisar los cambios, estamos de acuerdo en que el nuevo plazo es razonable para ambas partes.",
+    "cloze": "de acuerdo en que",
+    "answer": "de acuerdo en que",
+    "lemma": "estar de acuerdo en que",
+    "meaning": "in agreement that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1390.mp3"
+  },
+  {
+    "id": "es-03-1391",
+    "sentence": "Antes de enviar el contrato definitivo, falta confirmar quién lo firmará por la empresa.",
+    "cloze": "confirmar quién",
+    "answer": "confirmar quién",
+    "lemma": "confirmar quién",
+    "meaning": "confirm who",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1391.mp3"
+  },
+  {
+    "id": "es-03-1392",
+    "sentence": "Después de la explicación, quedamos en pagar hoy y recoger el equipo mañana sin cambiar las demás condiciones.",
+    "cloze": "quedamos en pagar",
+    "answer": "quedamos en pagar",
+    "lemma": "quedar en pagar",
+    "meaning": "we agreed to pay",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1392.mp3"
+  },
+  {
+    "id": "es-03-1393",
+    "sentence": "Antes de guardarlo en el sistema, ¿así está bien escrito el domicilio de entrega?",
+    "cloze": "así está bien escrito",
+    "answer": "así está bien escrito",
+    "lemma": "estar bien escrito así",
+    "meaning": "is written correctly this way",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1393.mp3"
+  },
+  {
+    "id": "es-03-1394",
+    "sentence": "Con respecto al horario de atención, quiero comprobar que sigue igual desde la semana pasada.",
+    "cloze": "quiero comprobar que",
+    "answer": "quiero comprobar que",
+    "lemma": "querer comprobar que",
+    "meaning": "I want to check that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1394.mp3"
+  },
+  {
+    "id": "es-03-1395",
+    "sentence": "Perdón, lo dije al revés: la copia se queda aquí y tú te llevas el original.",
+    "cloze": "al revés",
+    "answer": "al revés",
+    "lemma": "al revés",
+    "meaning": "the wrong way around",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1395.mp3"
+  },
+  {
+    "id": "es-03-1396",
+    "sentence": "Gracias por corregirme durante la revisión de hoy; ya anoté el dato correcto en el formato.",
+    "cloze": "ya anoté",
+    "answer": "ya anoté",
+    "lemma": "anotar",
+    "meaning": "I have now written down",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1396.mp3"
+  },
+  {
+    "id": "es-03-1397",
+    "sentence": "Si alguna instrucción no quedó clara, pregúntame antes de enviar el formulario definitivo.",
+    "cloze": "pregúntame antes de",
+    "answer": "pregúntame antes de",
+    "lemma": "preguntar antes de",
+    "meaning": "ask me before",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1397.mp3"
+  },
+  {
+    "id": "es-03-1398",
+    "sentence": "La última parte quedó muy técnica; ¿podrías reformularla con palabras más sencillas para el público?",
+    "cloze": "con palabras más sencillas",
+    "answer": "con palabras más sencillas",
+    "lemma": "con palabras más sencillas",
+    "meaning": "in simpler words",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1398.mp3"
+  },
+  {
+    "id": "es-03-1399",
+    "sentence": "Después de revisar las opciones, la decisión final es mantener la fecha y cambiar únicamente el lugar.",
+    "cloze": "la decisión final es",
+    "answer": "la decisión final es",
+    "lemma": "la decisión final es",
+    "meaning": "the final decision is",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1399.mp3"
+  },
+  {
+    "id": "es-03-1400",
+    "sentence": "Antes de despedirnos, ¿quedamos en enviarnos los cambios antes del viernes por la tarde?",
+    "cloze": "quedamos en enviarnos",
+    "answer": "quedamos en enviarnos",
+    "lemma": "quedar en enviarse algo",
+    "meaning": "did we agree to send each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1400.mp3"
   }
 ]
