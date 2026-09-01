@@ -7998,5 +7998,2005 @@
     "meaning": "if the supplier keeps",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/03/es-03-0800.mp3"
+  },
+  {
+    "id": "es-03-0801",
+    "sentence": "Como ya aprobaste la versión final, te la mandaré por correo antes de la junta.",
+    "cloze": "te la mandaré",
+    "answer": "te la mandaré",
+    "lemma": "mandar algo a alguien",
+    "meaning": "I will send it to you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0801.mp3"
+  },
+  {
+    "id": "es-03-0802",
+    "sentence": "La clienta pidió el recibo original, así que voy a entregárselo cuando vuelva.",
+    "cloze": "voy a entregárselo",
+    "answer": "voy a entregárselo",
+    "lemma": "ir a entregar algo a alguien",
+    "meaning": "I am going to give it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0802.mp3"
+  },
+  {
+    "id": "es-03-0803",
+    "sentence": "Encontré las llaves de Julia debajo del sofá y pienso devolvérselas esta tarde.",
+    "cloze": "pienso devolvérselas",
+    "answer": "pienso devolvérselas",
+    "lemma": "pensar devolver algo a alguien",
+    "meaning": "I plan to return them to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0803.mp3"
+  },
+  {
+    "id": "es-03-0804",
+    "sentence": "Como usarás este formato por primera vez, estoy explicándotelo paso a paso.",
+    "cloze": "estoy explicándotelo",
+    "answer": "estoy explicándotelo",
+    "lemma": "estar explicando algo a alguien",
+    "meaning": "I am explaining it to you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0804.mp3"
+  },
+  {
+    "id": "es-03-0805",
+    "sentence": "Todavía quedan varios mensajes de los clientes y continúo respondiéndolos por orden de llegada.",
+    "cloze": "continúo respondiéndolos",
+    "answer": "continúo respondiéndolos",
+    "lemma": "continuar respondiendo algo",
+    "meaning": "I am continuing to answer them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0805.mp3"
+  },
+  {
+    "id": "es-03-0806",
+    "sentence": "La contadora recibió la factura esta mañana y la está revisando antes de autorizar el pago.",
+    "cloze": "la está revisando",
+    "answer": "la está revisando",
+    "lemma": "estar revisando algo",
+    "meaning": "she is reviewing it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0806.mp3"
+  },
+  {
+    "id": "es-03-0807",
+    "sentence": "Los asistentes entregaron sus datos completos y les estamos preparando una constancia a cada uno.",
+    "cloze": "les estamos preparando una constancia",
+    "answer": "les estamos preparando una constancia",
+    "lemma": "preparar algo a alguien",
+    "meaning": "we are preparing a certificate for each of them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0807.mp3"
+  },
+  {
+    "id": "es-03-0808",
+    "sentence": "La dirección ya está confirmada; mándasela al chofer antes de que salga.",
+    "cloze": "mándasela",
+    "answer": "mándasela",
+    "lemma": "mandar algo a alguien",
+    "meaning": "send it to the driver",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0808.mp3"
+  },
+  {
+    "id": "es-03-0809",
+    "sentence": "Señora Ortiz, estas llaves son para las nuevas inquilinas; entrégueselas cuando lleguen.",
+    "cloze": "entrégueselas",
+    "answer": "entrégueselas",
+    "lemma": "entregar algo a alguien",
+    "meaning": "give them to the new tenants",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0809.mp3"
+  },
+  {
+    "id": "es-03-0810",
+    "sentence": "Ya terminaste de usar el adaptador que te presté; devuélvemelo antes de irte.",
+    "cloze": "devuélvemelo",
+    "answer": "devuélvemelo",
+    "lemma": "devolver algo a alguien",
+    "meaning": "give it back to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0810.mp3"
+  },
+  {
+    "id": "es-03-0811",
+    "sentence": "La clienta pidió la garantía por escrito y le dejaremos una copia en recepción.",
+    "cloze": "le dejaremos una copia",
+    "answer": "le dejaremos una copia",
+    "lemma": "dejar algo a alguien",
+    "meaning": "we will leave a copy for her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0811.mp3"
+  },
+  {
+    "id": "es-03-0812",
+    "sentence": "No reconozco los tres cargos de ayer; ¿me los puedes mostrar en la aplicación?",
+    "cloze": "me los puedes mostrar",
+    "answer": "me los puedes mostrar",
+    "lemma": "poder mostrar algo a alguien",
+    "meaning": "can you show them to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0812.mp3"
+  },
+  {
+    "id": "es-03-0813",
+    "sentence": "Señorita, necesito la factura de abril; ¿puede enviármela en formato PDF?",
+    "cloze": "puede enviármela",
+    "answer": "puede enviármela",
+    "lemma": "poder enviar algo a alguien",
+    "meaning": "could you send it to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0813.mp3"
+  },
+  {
+    "id": "es-03-0814",
+    "sentence": "El cambio de horario afecta a todo el equipo y queremos explicarle la razón antes de publicarlo.",
+    "cloze": "queremos explicarle la razón",
+    "answer": "queremos explicarle la razón",
+    "lemma": "querer explicar algo a alguien",
+    "meaning": "we want to explain the reason to the team",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0814.mp3"
+  },
+  {
+    "id": "es-03-0815",
+    "sentence": "Tus constancias ya llegaron y te estoy guardando los originales en la carpeta azul.",
+    "cloze": "te estoy guardando los originales",
+    "answer": "te estoy guardando los originales",
+    "lemma": "guardar algo a alguien",
+    "meaning": "I am keeping the originals for you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0815.mp3"
+  },
+  {
+    "id": "es-03-0816",
+    "sentence": "El servicio de Daniela ya está cancelado, pero se lo siguen cobrando cada mes.",
+    "cloze": "se lo siguen cobrando",
+    "answer": "se lo siguen cobrando",
+    "lemma": "seguir cobrando algo a alguien",
+    "meaning": "they keep charging her for it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0816.mp3"
+  },
+  {
+    "id": "es-03-0817",
+    "sentence": "La confirmación de la reservación nos la mandaron por mensaje esta mañana.",
+    "cloze": "nos la mandaron",
+    "answer": "nos la mandaron",
+    "lemma": "mandar algo a alguien",
+    "meaning": "they sent it to us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0817.mp3"
+  },
+  {
+    "id": "es-03-0818",
+    "sentence": "Ya separé las piezas defectuosas y se las devolveré al proveedor mañana.",
+    "cloze": "se las devolveré",
+    "answer": "se las devolveré",
+    "lemma": "devolver algo a alguien",
+    "meaning": "I will return them to the supplier",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0818.mp3"
+  },
+  {
+    "id": "es-03-0819",
+    "sentence": "El cobro incluía una comisión adicional, pero no me lo habían explicado al contratar el servicio.",
+    "cloze": "no me lo habían explicado",
+    "answer": "no me lo habían explicado",
+    "lemma": "haber explicado algo a alguien",
+    "meaning": "they had not explained it to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0819.mp3"
+  },
+  {
+    "id": "es-03-0820",
+    "sentence": "La versión corregida ya está lista y te la acabo de adjuntar en el correo.",
+    "cloze": "te la acabo de adjuntar",
+    "answer": "te la acabo de adjuntar",
+    "lemma": "acabar de adjuntar algo a alguien",
+    "meaning": "I just attached it for you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0820.mp3"
+  },
+  {
+    "id": "es-03-0821",
+    "sentence": "El técnico vendrá mañana, pero debo renovarle el permiso antes de la visita.",
+    "cloze": "debo renovarle el permiso",
+    "answer": "debo renovarle el permiso",
+    "lemma": "deber renovar algo a alguien",
+    "meaning": "I must renew his permit",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0821.mp3"
+  },
+  {
+    "id": "es-03-0822",
+    "sentence": "Quedan dos lugares juntos para el concierto y puedo apartarlos para ti hasta mañana.",
+    "cloze": "puedo apartarlos",
+    "answer": "puedo apartarlos",
+    "lemma": "poder apartar algo",
+    "meaning": "I can reserve them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0822.mp3"
+  },
+  {
+    "id": "es-03-0823",
+    "sentence": "La nueva hora de entrega ya está confirmada y necesitamos comunicársela a los proveedores hoy.",
+    "cloze": "necesitamos comunicársela",
+    "answer": "necesitamos comunicársela",
+    "lemma": "necesitar comunicar algo a alguien",
+    "meaning": "we need to communicate it to them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0823.mp3"
+  },
+  {
+    "id": "es-03-0824",
+    "sentence": "Como el proceso todavía no queda claro, vuelvo a explicártelo con un ejemplo sencillo.",
+    "cloze": "vuelvo a explicártelo",
+    "answer": "vuelvo a explicártelo",
+    "lemma": "volver a explicar algo a alguien",
+    "meaning": "I am explaining it to you again",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0824.mp3"
+  },
+  {
+    "id": "es-03-0825",
+    "sentence": "El contrato tenía letra muy pequeña, así que Laura terminó de leérmelo en voz alta.",
+    "cloze": "terminó de leérmelo",
+    "answer": "terminó de leérmelo",
+    "lemma": "terminar de leer algo a alguien",
+    "meaning": "she finished reading it aloud to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0825.mp3"
+  },
+  {
+    "id": "es-03-0826",
+    "sentence": "Faltan las llaves del almacén y Mauricio sigue buscándolas cerca de la recepción.",
+    "cloze": "sigue buscándolas",
+    "answer": "sigue buscándolas",
+    "lemma": "seguir buscando algo",
+    "meaning": "he is still looking for them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0826.mp3"
+  },
+  {
+    "id": "es-03-0827",
+    "sentence": "El técnico recuperó mis archivos y me está haciendo una copia en una memoria nueva.",
+    "cloze": "me está haciendo una copia",
+    "answer": "me está haciendo una copia",
+    "lemma": "hacer algo a alguien",
+    "meaning": "he is making a copy for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0827.mp3"
+  },
+  {
+    "id": "es-03-0828",
+    "sentence": "El proveedor recibió nuestras observaciones y está incorporándolas en la propuesta final.",
+    "cloze": "está incorporándolas",
+    "answer": "está incorporándolas",
+    "lemma": "estar incorporando algo",
+    "meaning": "he is incorporating them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0828.mp3"
+  },
+  {
+    "id": "es-03-0829",
+    "sentence": "Las copias del contrato deben quedarse en mi escritorio; guárdamelas en el cajón de arriba.",
+    "cloze": "guárdamelas",
+    "answer": "guárdamelas",
+    "lemma": "guardar algo a alguien",
+    "meaning": "keep them for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0829.mp3"
+  },
+  {
+    "id": "es-03-0830",
+    "sentence": "El señor Vélez espera este paquete en su oficina; lléveselo cuando termine la junta.",
+    "cloze": "lléveselo",
+    "answer": "lléveselo",
+    "lemma": "llevar algo a alguien",
+    "meaning": "take it to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0830.mp3"
+  },
+  {
+    "id": "es-03-0831",
+    "sentence": "La hoja corregida debe llegar a todas las sucursales; reenvíensela hoy a las encargadas.",
+    "cloze": "reenvíensela",
+    "answer": "reenvíensela",
+    "lemma": "reenviar algo a alguien",
+    "meaning": "forward it to the managers",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0831.mp3"
+  },
+  {
+    "id": "es-03-0832",
+    "sentence": "Necesito comparar las dos cotizaciones antes de decidir; muéstralas en la pantalla grande.",
+    "cloze": "muéstralas",
+    "answer": "muéstralas",
+    "lemma": "mostrar algo",
+    "meaning": "show them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0832.mp3"
+  },
+  {
+    "id": "es-03-0833",
+    "sentence": "Mi esposo y yo vemos el mismo cargo dos veces; explíquenoslo antes de cerrar la cuenta.",
+    "cloze": "explíquenoslo",
+    "answer": "explíquenoslo",
+    "lemma": "explicar algo a alguien",
+    "meaning": "explain it to us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0833.mp3"
+  },
+  {
+    "id": "es-03-0834",
+    "sentence": "El señor Ruiz no alcanza a leer el aviso de mantenimiento; léaselo con calma, por favor.",
+    "cloze": "léaselo",
+    "answer": "léaselo",
+    "lemma": "leer algo a alguien",
+    "meaning": "read it to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0834.mp3"
+  },
+  {
+    "id": "es-03-0835",
+    "sentence": "Los comprobantes están guardados en esa carpeta; imprímelos antes de la reunión.",
+    "cloze": "imprímelos",
+    "answer": "imprímelos",
+    "lemma": "imprimir algo",
+    "meaning": "print them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0835.mp3"
+  },
+  {
+    "id": "es-03-0836",
+    "sentence": "Equipo, las cajas de formularios siguen en la bodega; tráiganlas después del descanso.",
+    "cloze": "tráiganlas",
+    "answer": "tráiganlas",
+    "lemma": "traer algo",
+    "meaning": "bring them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0836.mp3"
+  },
+  {
+    "id": "es-03-0837",
+    "sentence": "El sistema muestra que la entrega será el jueves; confírmame la fecha antes de avisarle al cliente.",
+    "cloze": "confírmame la fecha",
+    "answer": "confírmame la fecha",
+    "lemma": "confirmar algo a alguien",
+    "meaning": "confirm the date for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0837.mp3"
+  },
+  {
+    "id": "es-03-0838",
+    "sentence": "Estas etiquetas corresponden a los paquetes pequeños; pégalas antes de llevarlos al mostrador.",
+    "cloze": "pégalas",
+    "answer": "pégalas",
+    "lemma": "pegar algo",
+    "meaning": "stick them on",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0838.mp3"
+  },
+  {
+    "id": "es-03-0839",
+    "sentence": "Ya tomé las fotos del medidor y se las envié al administrador para que compruebe la lectura.",
+    "cloze": "se las envié",
+    "answer": "se las envié",
+    "lemma": "enviar algo a alguien",
+    "meaning": "I sent them to the administrator",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0839.mp3"
+  },
+  {
+    "id": "es-03-0840",
+    "sentence": "Aunque la nueva ruta es confusa, el chofer va explicándosela a los pasajeros durante el recorrido.",
+    "cloze": "va explicándosela",
+    "answer": "va explicándosela",
+    "lemma": "ir explicando algo a alguien",
+    "meaning": "he is explaining it to them along the way",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0840.mp3"
+  },
+  {
+    "id": "es-03-0841",
+    "sentence": "Los recibos, se los pasé a la contadora antes de cerrar la oficina.",
+    "cloze": "se los pasé",
+    "answer": "se los pasé",
+    "lemma": "pasarle algo a alguien",
+    "meaning": "I passed them on to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0841.mp3"
+  },
+  {
+    "id": "es-03-0842",
+    "sentence": "La factura corregida, ya la subió el proveedor al sistema; falta revisar el total.",
+    "cloze": "ya la subió",
+    "answer": "ya la subió",
+    "lemma": "subir algo",
+    "meaning": "the supplier already uploaded it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0842.mp3"
+  },
+  {
+    "id": "es-03-0843",
+    "sentence": "Estos paquetes, déjenselos al personal de recepción antes del cambio de turno.",
+    "cloze": "déjenselos al personal de recepción",
+    "answer": "déjenselos al personal de recepción",
+    "lemma": "dejarle algo a alguien",
+    "meaning": "leave them with the reception staff",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0843.mp3"
+  },
+  {
+    "id": "es-03-0844",
+    "sentence": "A la coordinadora le asignaron el cierre del evento; nosotros recogeremos el material.",
+    "cloze": "le asignaron el cierre",
+    "answer": "le asignaron el cierre",
+    "lemma": "asignarle algo a alguien",
+    "meaning": "they assigned her the closing duties",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0844.mp3"
+  },
+  {
+    "id": "es-03-0845",
+    "sentence": "El anticipo, se lo transferimos ayer al salón; el resto vence el viernes.",
+    "cloze": "se lo transferimos",
+    "answer": "se lo transferimos",
+    "lemma": "transferirle algo a alguien",
+    "meaning": "we transferred it to them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0845.mp3"
+  },
+  {
+    "id": "es-03-0846",
+    "sentence": "A mis papás los sentamos junto a nosotros en la comida; mis tíos prefieren la mesa del patio.",
+    "cloze": "los sentamos junto a nosotros",
+    "answer": "los sentamos junto a nosotros",
+    "lemma": "sentar a alguien",
+    "meaning": "we seat them next to us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0846.mp3"
+  },
+  {
+    "id": "es-03-0847",
+    "sentence": "A la clienta le reemplazaron la pieza, pero el técnico conservó la dañada para revisarla.",
+    "cloze": "le reemplazaron la pieza",
+    "answer": "le reemplazaron la pieza",
+    "lemma": "reemplazarle algo a alguien",
+    "meaning": "they replaced the part for her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0847.mp3"
+  },
+  {
+    "id": "es-03-0848",
+    "sentence": "La entrega de hoy, la recibirá el personal de la tarde porque el almacén abre después de las cuatro.",
+    "cloze": "la recibirá el personal de la tarde",
+    "answer": "la recibirá el personal de la tarde",
+    "lemma": "recibir algo",
+    "meaning": "the afternoon staff will receive it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0848.mp3"
+  },
+  {
+    "id": "es-03-0849",
+    "sentence": "A ustedes les dejamos la lista final; el resto del equipo recibirá una copia por correo.",
+    "cloze": "les dejamos la lista final",
+    "answer": "les dejamos la lista final",
+    "lemma": "dejarle algo a alguien",
+    "meaning": "we left the final list with you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0849.mp3"
+  },
+  {
+    "id": "es-03-0850",
+    "sentence": "Ese pedido, no lo cerré yo; el sistema lo canceló cuando venció el plazo.",
+    "cloze": "no lo cerré yo",
+    "answer": "no lo cerré yo",
+    "lemma": "cerrar algo",
+    "meaning": "I was not the one who closed it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0850.mp3"
+  },
+  {
+    "id": "es-03-0851",
+    "sentence": "La reservación, sí la confirmó el hotel; lo pendiente es el número de habitación.",
+    "cloze": "sí la confirmó el hotel",
+    "answer": "sí la confirmó el hotel",
+    "lemma": "confirmar algo",
+    "meaning": "the hotel did confirm it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0851.mp3"
+  },
+  {
+    "id": "es-03-0852",
+    "sentence": "Al técnico le reportamos la fuga; al administrador solo le pedimos acceso al edificio.",
+    "cloze": "le reportamos la fuga",
+    "answer": "le reportamos la fuga",
+    "lemma": "reportarle algo a alguien",
+    "meaning": "we reported the leak to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0852.mp3"
+  },
+  {
+    "id": "es-03-0853",
+    "sentence": "Ya se la di a la encargada, la copia firmada; el original se queda en el expediente.",
+    "cloze": "se la di a la encargada",
+    "answer": "se la di a la encargada",
+    "lemma": "darle algo a alguien",
+    "meaning": "I gave it to the person in charge",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0853.mp3"
+  },
+  {
+    "id": "es-03-0854",
+    "sentence": "El pastel, lo llevará mi hermana; yo pasaré por las bebidas.",
+    "cloze": "lo llevará mi hermana",
+    "answer": "lo llevará mi hermana",
+    "lemma": "llevar algo",
+    "meaning": "my sister will bring it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0854.mp3"
+  },
+  {
+    "id": "es-03-0855",
+    "sentence": "Al administrador le devolví las llaves antes de mudarme y pedí un recibo firmado.",
+    "cloze": "le devolví las llaves",
+    "answer": "le devolví las llaves",
+    "lemma": "devolverle algo a alguien",
+    "meaning": "I returned the keys to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0855.mp3"
+  },
+  {
+    "id": "es-03-0856",
+    "sentence": "El reembolso, se lo depositaron a mi pareja porque ella había pagado con su tarjeta.",
+    "cloze": "se lo depositaron a mi pareja",
+    "answer": "se lo depositaron a mi pareja",
+    "lemma": "depositarle algo a alguien",
+    "meaning": "they deposited it for my partner",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0856.mp3"
+  },
+  {
+    "id": "es-03-0857",
+    "sentence": "La queja de la mesa seis, ya la atendió la supervisora; solo falta ofrecer una disculpa.",
+    "cloze": "ya la atendió la supervisora",
+    "answer": "ya la atendió la supervisora",
+    "lemma": "atender algo",
+    "meaning": "the supervisor already handled it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0857.mp3"
+  },
+  {
+    "id": "es-03-0858",
+    "sentence": "Ese cambio de horario me lo solicitó el cliente, no la jefa, así que lo anoté en la orden.",
+    "cloze": "me lo solicitó el cliente",
+    "answer": "me lo solicitó el cliente",
+    "lemma": "solicitarle algo a alguien",
+    "meaning": "the client requested it from me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0858.mp3"
+  },
+  {
+    "id": "es-03-0859",
+    "sentence": "A los vecinos los invitamos a la reunión porque la obra también afectará su entrada.",
+    "cloze": "los invitamos a la reunión",
+    "answer": "los invitamos a la reunión",
+    "lemma": "invitar a alguien",
+    "meaning": "we invited them to the meeting",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0859.mp3"
+  },
+  {
+    "id": "es-03-0860",
+    "sentence": "Las cajas grandes, súbanlas al camión de la mudanza; las pequeñas se quedan en la sala.",
+    "cloze": "súbanlas al camión",
+    "answer": "súbanlas al camión",
+    "lemma": "subir algo",
+    "meaning": "load them onto the truck",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0860.mp3"
+  },
+  {
+    "id": "es-03-0861",
+    "sentence": "A nuestra hija menor le guardamos el boleto junto a su identificación; la mayor ya trae el suyo.",
+    "cloze": "le guardamos el boleto",
+    "answer": "le guardamos el boleto",
+    "lemma": "guardarle algo a alguien",
+    "meaning": "we kept the ticket for her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0861.mp3"
+  },
+  {
+    "id": "es-03-0862",
+    "sentence": "Ese turno, me lo reprogramó la encargada para el viernes, así que sí podré asistir al curso.",
+    "cloze": "me lo reprogramó",
+    "answer": "me lo reprogramó",
+    "lemma": "reprogramarle algo a alguien",
+    "meaning": "she rescheduled it for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0862.mp3"
+  },
+  {
+    "id": "es-03-0863",
+    "sentence": "La nueva fecha, sí se la confirmamos al proveedor; el transportista todavía no responde.",
+    "cloze": "sí se la confirmamos",
+    "answer": "sí se la confirmamos",
+    "lemma": "confirmarle algo a alguien",
+    "meaning": "we did confirm it to them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0863.mp3"
+  },
+  {
+    "id": "es-03-0864",
+    "sentence": "Los datos de pago, no se los reveles a nadie aunque el mensaje parezca oficial.",
+    "cloze": "no se los reveles",
+    "answer": "no se los reveles",
+    "lemma": "revelarle algo a alguien",
+    "meaning": "do not reveal them to anyone",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0864.mp3"
+  },
+  {
+    "id": "es-03-0865",
+    "sentence": "La mesa grande, vamos a apartarla para la cena familiar porque ahí cabemos todos.",
+    "cloze": "vamos a apartarla",
+    "answer": "vamos a apartarla",
+    "lemma": "apartar algo",
+    "meaning": "we are going to reserve it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0865.mp3"
+  },
+  {
+    "id": "es-03-0866",
+    "sentence": "Las invitaciones, se las estamos mandando a cada familia por correo para confirmar la asistencia.",
+    "cloze": "se las estamos mandando",
+    "answer": "se las estamos mandando",
+    "lemma": "mandarle algo a alguien",
+    "meaning": "we are sending them out",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0866.mp3"
+  },
+  {
+    "id": "es-03-0867",
+    "sentence": "A la abuela le apartaron una habitación tranquila en la planta baja para el viaje familiar.",
+    "cloze": "le apartaron una habitación tranquila",
+    "answer": "le apartaron una habitación tranquila",
+    "lemma": "apartarle algo a alguien",
+    "meaning": "they reserved a quiet room for her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0867.mp3"
+  },
+  {
+    "id": "es-03-0868",
+    "sentence": "El paquete equivocado, se lo devolvimos al proveedor; el correcto llegará mañana.",
+    "cloze": "se lo devolvimos al proveedor",
+    "answer": "se lo devolvimos al proveedor",
+    "lemma": "devolverle algo a alguien",
+    "meaning": "we returned it to the supplier",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0868.mp3"
+  },
+  {
+    "id": "es-03-0869",
+    "sentence": "A la encargada le dejamos el duplicado firmado para que lo agregara al expediente de mantenimiento.",
+    "cloze": "le dejamos el duplicado firmado",
+    "answer": "le dejamos el duplicado firmado",
+    "lemma": "dejarle algo a alguien",
+    "meaning": "we left the signed duplicate with her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0869.mp3"
+  },
+  {
+    "id": "es-03-0870",
+    "sentence": "El saldo pendiente me lo van a cobrar a mí, no a mi compañero, porque la cuenta está a mi nombre.",
+    "cloze": "me lo van a cobrar a mí",
+    "answer": "me lo van a cobrar a mí",
+    "lemma": "cobrarle algo a alguien",
+    "meaning": "they are going to charge it to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0870.mp3"
+  },
+  {
+    "id": "es-03-0871",
+    "sentence": "La dirección nueva se la repetí al mensajero para evitar otra entrega en el edificio equivocado.",
+    "cloze": "se la repetí al mensajero",
+    "answer": "se la repetí al mensajero",
+    "lemma": "repetirle algo a alguien",
+    "meaning": "I repeated it to the courier",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0871.mp3"
+  },
+  {
+    "id": "es-03-0872",
+    "sentence": "Al área de compras le encargaron la autorización del gasto; nosotros solo reunimos los comprobantes.",
+    "cloze": "le encargaron la autorización del gasto",
+    "answer": "le encargaron la autorización del gasto",
+    "lemma": "encargarle algo a alguien",
+    "meaning": "they put it in charge of authorizing the expense",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0872.mp3"
+  },
+  {
+    "id": "es-03-0873",
+    "sentence": "Ese cambio, no lo aprobé yo; la decisión vino de la oficina central.",
+    "cloze": "no lo aprobé yo",
+    "answer": "no lo aprobé yo",
+    "lemma": "aprobar algo",
+    "meaning": "I was not the one who approved it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0873.mp3"
+  },
+  {
+    "id": "es-03-0874",
+    "sentence": "A mi tía le pedimos prestadas las sillas porque vive junto al salón donde será la comida.",
+    "cloze": "le pedimos prestadas las sillas",
+    "answer": "le pedimos prestadas las sillas",
+    "lemma": "pedirle algo prestado a alguien",
+    "meaning": "we borrowed the chairs from her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0874.mp3"
+  },
+  {
+    "id": "es-03-0875",
+    "sentence": "Los boletos, se los quedará mi hermano hasta que confirmemos quiénes asistirán.",
+    "cloze": "se los quedará mi hermano",
+    "answer": "se los quedará mi hermano",
+    "lemma": "quedarse con algo",
+    "meaning": "my brother will keep them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0875.mp3"
+  },
+  {
+    "id": "es-03-0876",
+    "sentence": "Ya la actualicé en el sistema, la dirección de entrega; ahora falta verificar el código postal.",
+    "cloze": "Ya la actualicé en el sistema",
+    "answer": "Ya la actualicé en el sistema",
+    "lemma": "actualizar algo",
+    "meaning": "I already updated it in the system",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0876.mp3"
+  },
+  {
+    "id": "es-03-0877",
+    "sentence": "A la arrendadora sí le llegó el depósito; el banco confirmó el movimiento esta mañana.",
+    "cloze": "sí le llegó el depósito",
+    "answer": "sí le llegó el depósito",
+    "lemma": "llegarle algo a alguien",
+    "meaning": "the deposit did reach her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0877.mp3"
+  },
+  {
+    "id": "es-03-0878",
+    "sentence": "A la persona de recepción entrégale el paquete, no al guardia de la entrada; ahí registran cada entrega.",
+    "cloze": "entrégale el paquete",
+    "answer": "entrégale el paquete",
+    "lemma": "entregarle algo a alguien",
+    "meaning": "give the package to them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0878.mp3"
+  },
+  {
+    "id": "es-03-0879",
+    "sentence": "El mensaje para los invitados, revísalo tú antes de enviarlo para que quede claro el cambio de hora.",
+    "cloze": "revísalo tú",
+    "answer": "revísalo tú",
+    "lemma": "revisar algo",
+    "meaning": "you review it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0879.mp3"
+  },
+  {
+    "id": "es-03-0880",
+    "sentence": "—¿La copia se queda aquí? —No, a la clienta se la entregas; aquí guardamos el original.",
+    "cloze": "se la entregas",
+    "answer": "se la entregas",
+    "lemma": "entregarle algo a alguien",
+    "meaning": "you give it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0880.mp3"
+  },
+  {
+    "id": "es-03-0881",
+    "sentence": "Al bajar del taxi, el celular se me cayó entre los asientos; por suerte, el chofer lo encontró.",
+    "cloze": "se me cayó",
+    "answer": "se me cayó",
+    "lemma": "caérsele algo a alguien",
+    "meaning": "I accidentally dropped it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0881.mp3"
+  },
+  {
+    "id": "es-03-0882",
+    "sentence": "Las llaves se nos olvidaron en casa, así que regresamos por ellas antes de salir a la carretera.",
+    "cloze": "se nos olvidaron",
+    "answer": "se nos olvidaron",
+    "lemma": "olvidársele algo a alguien",
+    "meaning": "we accidentally forgot them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0882.mp3"
+  },
+  {
+    "id": "es-03-0883",
+    "sentence": "El archivo de la propuesta se me borró al cerrar el programa, pero lo recuperaré del respaldo.",
+    "cloze": "se me borró",
+    "answer": "se me borró",
+    "lemma": "borrársele algo a alguien",
+    "meaning": "my file was accidentally erased",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0883.mp3"
+  },
+  {
+    "id": "es-03-0884",
+    "sentence": "Entiendo que se le pasó la cita de hoy; puedo ofrecerle otro horario mañana.",
+    "cloze": "se le pasó",
+    "answer": "se le pasó",
+    "lemma": "pasársele algo a alguien",
+    "meaning": "you unintentionally missed it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0884.mp3"
+  },
+  {
+    "id": "es-03-0885",
+    "sentence": "El café se te derramó sobre la mesa; yo traigo una servilleta mientras limpias.",
+    "cloze": "se te derramó",
+    "answer": "se te derramó",
+    "lemma": "derramársele algo a alguien",
+    "meaning": "you accidentally spilled it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0885.mp3"
+  },
+  {
+    "id": "es-03-0886",
+    "sentence": "Tu vaso se me rompió mientras lo lavaba; disculpa, voy a reponerlo.",
+    "cloze": "se me rompió",
+    "answer": "se me rompió",
+    "lemma": "rompérsele algo a alguien",
+    "meaning": "I accidentally broke it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0886.mp3"
+  },
+  {
+    "id": "es-03-0887",
+    "sentence": "La etiqueta del paquete se nos despegó durante el traslado, así que imprimiremos otra.",
+    "cloze": "se nos despegó",
+    "answer": "se nos despegó",
+    "lemma": "despegársele algo a alguien",
+    "meaning": "our label accidentally came off",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0887.mp3"
+  },
+  {
+    "id": "es-03-0888",
+    "sentence": "Al cliente se le perdió el recibo, pero encontré la compra en el sistema.",
+    "cloze": "se le perdió",
+    "answer": "se le perdió",
+    "lemma": "perdérsele algo a alguien",
+    "meaning": "he accidentally lost it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0888.mp3"
+  },
+  {
+    "id": "es-03-0889",
+    "sentence": "La cuenta se me bloqueó al escribir mal la contraseña; ya pedí acceso temporal.",
+    "cloze": "se me bloqueó",
+    "answer": "se me bloqueó",
+    "lemma": "bloqueársele algo a alguien",
+    "meaning": "my account was accidentally locked",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0889.mp3"
+  },
+  {
+    "id": "es-03-0890",
+    "sentence": "Al mover la charola, la leche se nos tiró; una disculpa, enseguida le traemos otra jarra.",
+    "cloze": "se nos tiró",
+    "answer": "se nos tiró",
+    "lemma": "tirársele algo a alguien",
+    "meaning": "we accidentally spilled it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0890.mp3"
+  },
+  {
+    "id": "es-03-0891",
+    "sentence": "El plato se te resbaló de las manos, pero nadie se lastimó.",
+    "cloze": "se te resbaló",
+    "answer": "se te resbaló",
+    "lemma": "resbalársele algo a alguien",
+    "meaning": "it accidentally slipped from your hands",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0891.mp3"
+  },
+  {
+    "id": "es-03-0892",
+    "sentence": "Durante el cobro, al mensajero se le trabó la aplicación; ya reinició el proceso.",
+    "cloze": "se le trabó",
+    "answer": "se le trabó",
+    "lemma": "trabársele algo a alguien",
+    "meaning": "his application unexpectedly froze",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0892.mp3"
+  },
+  {
+    "id": "es-03-0893",
+    "sentence": "El plazo de devolución se nos venció ayer, así que preguntaremos si hay otra solución.",
+    "cloze": "se nos venció",
+    "answer": "se nos venció",
+    "lemma": "vencérsele algo a alguien",
+    "meaning": "our deadline unintentionally expired",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0893.mp3"
+  },
+  {
+    "id": "es-03-0894",
+    "sentence": "Al completar la solicitud, se les escapó un dato de contacto; pueden agregarlo antes de enviarla.",
+    "cloze": "se les escapó",
+    "answer": "se les escapó",
+    "lemma": "escapársele algo a alguien",
+    "meaning": "they accidentally overlooked it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0894.mp3"
+  },
+  {
+    "id": "es-03-0895",
+    "sentence": "Al técnico se le quedó una herramienta en la cocina; vendrá esta tarde por ella.",
+    "cloze": "se le quedó",
+    "answer": "se le quedó",
+    "lemma": "quedársele algo a alguien",
+    "meaning": "he accidentally left it behind",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0895.mp3"
+  },
+  {
+    "id": "es-03-0896",
+    "sentence": "Las tortillas se me quemaron por distraerme con la llamada; perdón, voy a calentar otras.",
+    "cloze": "se me quemaron",
+    "answer": "se me quemaron",
+    "lemma": "quemársele algo a alguien",
+    "meaning": "I accidentally burned them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0896.mp3"
+  },
+  {
+    "id": "es-03-0897",
+    "sentence": "Tus documentos se te mojaron con el agua de la botella; voy a ayudarte a secarlos.",
+    "cloze": "se te mojaron",
+    "answer": "se te mojaron",
+    "lemma": "mojársele algo a alguien",
+    "meaning": "your documents accidentally got wet",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0897.mp3"
+  },
+  {
+    "id": "es-03-0898",
+    "sentence": "Su reservación se nos duplicó en el sistema; una disculpa, ya cancelamos el registro extra.",
+    "cloze": "se nos duplicó",
+    "answer": "se nos duplicó",
+    "lemma": "duplicársele algo a alguien",
+    "meaning": "we accidentally duplicated it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0898.mp3"
+  },
+  {
+    "id": "es-03-0899",
+    "sentence": "Durante la mudanza, el perro se les salió de la casa; los vecinos ya están ayudando a buscarlo.",
+    "cloze": "se les salió",
+    "answer": "se les salió",
+    "lemma": "salírsele algo a alguien",
+    "meaning": "their dog accidentally got out",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0899.mp3"
+  },
+  {
+    "id": "es-03-0900",
+    "sentence": "A la clienta se le desprendió un botón del saco; le ofrecimos cambiar la prenda.",
+    "cloze": "se le desprendió",
+    "answer": "se le desprendió",
+    "lemma": "desprendérsele algo a alguien",
+    "meaning": "her button unexpectedly came off",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0900.mp3"
+  },
+  {
+    "id": "es-03-0901",
+    "sentence": "La puerta se me cerró con las llaves adentro, así que avisé al encargado del edificio.",
+    "cloze": "se me cerró",
+    "answer": "se me cerró",
+    "lemma": "cerrársele algo a alguien",
+    "meaning": "the door accidentally closed on me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0901.mp3"
+  },
+  {
+    "id": "es-03-0902",
+    "sentence": "La luz se nos fue en plena videollamada, pero avisamos al equipo desde el celular.",
+    "cloze": "se nos fue",
+    "answer": "se nos fue",
+    "lemma": "írsele algo a alguien",
+    "meaning": "our power unexpectedly went out",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0902.mp3"
+  },
+  {
+    "id": "es-03-0903",
+    "sentence": "La batería se te descargó antes de mostrar el boleto; puedes usar mi cargador.",
+    "cloze": "se te descargó",
+    "answer": "se te descargó",
+    "lemma": "descargársele algo a alguien",
+    "meaning": "your battery unexpectedly ran out",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0903.mp3"
+  },
+  {
+    "id": "es-03-0904",
+    "sentence": "A la cajera se le apagó el lector durante mi pago, así que probó con otra terminal.",
+    "cloze": "se le apagó",
+    "answer": "se le apagó",
+    "lemma": "apagársele algo a alguien",
+    "meaning": "her reader unexpectedly shut off",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0904.mp3"
+  },
+  {
+    "id": "es-03-0905",
+    "sentence": "La pantalla se me congeló antes de guardar el formulario, pero soporte recuperó los datos.",
+    "cloze": "se me congeló",
+    "answer": "se me congeló",
+    "lemma": "congelársele algo a alguien",
+    "meaning": "my screen unexpectedly froze",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0905.mp3"
+  },
+  {
+    "id": "es-03-0906",
+    "sentence": "Una maleta se nos extravió durante la conexión; ya levantamos el reporte con la aerolínea.",
+    "cloze": "se nos extravió",
+    "answer": "se nos extravió",
+    "lemma": "extraviársele algo a alguien",
+    "meaning": "one of our bags was accidentally lost",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0906.mp3"
+  },
+  {
+    "id": "es-03-0907",
+    "sentence": "En la cocina se les mezclaron dos pedidos; ofrecieron prepararlos de nuevo.",
+    "cloze": "se les mezclaron",
+    "answer": "se les mezclaron",
+    "lemma": "mezclársele algo a alguien",
+    "meaning": "they accidentally mixed them up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0907.mp3"
+  },
+  {
+    "id": "es-03-0908",
+    "sentence": "Al ordenar la hoja de cálculo, se me recorrió una fila y los datos quedaron desalineados; una disculpa, ya los corregí.",
+    "cloze": "se me recorrió",
+    "answer": "se me recorrió",
+    "lemma": "recorrérsele algo a alguien",
+    "meaning": "I accidentally shifted it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0908.mp3"
+  },
+  {
+    "id": "es-03-0909",
+    "sentence": "Los manteles se nos mancharon con pintura durante el traslado; los mandaremos a lavar antes del evento.",
+    "cloze": "se nos mancharon",
+    "answer": "se nos mancharon",
+    "lemma": "manchársele algo a alguien",
+    "meaning": "our tablecloths accidentally got stained",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0909.mp3"
+  },
+  {
+    "id": "es-03-0910",
+    "sentence": "La correa de la mochila se te zafó durante el viaje; te ayudaré a sujetarla antes de regresar.",
+    "cloze": "se te zafó",
+    "answer": "se te zafó",
+    "lemma": "zafársele algo a alguien",
+    "meaning": "your backpack strap unexpectedly came loose",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0910.mp3"
+  },
+  {
+    "id": "es-03-0911",
+    "sentence": "Durante el mantenimiento, al pintor se le volcó la cubeta de pintura en el pasillo; ya limpió la zona.",
+    "cloze": "se le volcó",
+    "answer": "se le volcó",
+    "lemma": "volcársele algo a alguien",
+    "meaning": "he accidentally tipped it over",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0911.mp3"
+  },
+  {
+    "id": "es-03-0912",
+    "sentence": "Una llanta se me ponchó camino al aeropuerto; ya pedí ayuda para cambiarla.",
+    "cloze": "se me ponchó",
+    "answer": "se me ponchó",
+    "lemma": "ponchársele algo a alguien",
+    "meaning": "I unexpectedly got a flat tire",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0912.mp3"
+  },
+  {
+    "id": "es-03-0913",
+    "sentence": "Dos cajas se les abrieron al bajarlas del camión; revisaron el contenido y avisaron del daño.",
+    "cloze": "se les abrieron",
+    "answer": "se les abrieron",
+    "lemma": "abrírsele algo a alguien",
+    "meaning": "two boxes accidentally opened on them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0913.mp3"
+  },
+  {
+    "id": "es-03-0914",
+    "sentence": "Al perder la conexión, no se nos guardaron los cambios del documento; una disculpa, volveremos a hacerlos.",
+    "cloze": "no se nos guardaron",
+    "answer": "no se nos guardaron",
+    "lemma": "guardársele algo a alguien",
+    "meaning": "our changes accidentally did not save",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0914.mp3"
+  },
+  {
+    "id": "es-03-0915",
+    "sentence": "El comprobante se te arrugó dentro de la mochila, pero la tienda todavía puede escanearlo.",
+    "cloze": "se te arrugó",
+    "answer": "se te arrugó",
+    "lemma": "arrugársele algo a alguien",
+    "meaning": "your receipt accidentally got wrinkled",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0915.mp3"
+  },
+  {
+    "id": "es-03-0916",
+    "sentence": "Al nuevo inquilino se le atoró la llave en la cerradura; el encargado ya viene a ayudarlo.",
+    "cloze": "se le atoró",
+    "answer": "se le atoró",
+    "lemma": "atorársele algo a alguien",
+    "meaning": "his key unexpectedly got stuck",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0916.mp3"
+  },
+  {
+    "id": "es-03-0917",
+    "sentence": "Tu taza favorita se me quebró al mover la caja; lo siento, voy a reponerla.",
+    "cloze": "se me quebró",
+    "answer": "se me quebró",
+    "lemma": "quebrársele algo a alguien",
+    "meaning": "I accidentally broke it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0917.mp3"
+  },
+  {
+    "id": "es-03-0918",
+    "sentence": "El refrigerador se nos descompuso anoche; ya hicimos una cita para que lo revisen.",
+    "cloze": "se nos descompuso",
+    "answer": "se nos descompuso",
+    "lemma": "descomponérsele algo a alguien",
+    "meaning": "our refrigerator unexpectedly broke down",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0918.mp3"
+  },
+  {
+    "id": "es-03-0919",
+    "sentence": "Durante la lluvia, se les inundó el patio porque la coladera estaba tapada; ya la destapamos y sacamos el agua.",
+    "cloze": "se les inundó",
+    "answer": "se les inundó",
+    "lemma": "inundársele algo a alguien",
+    "meaning": "their patio unexpectedly flooded",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0919.mp3"
+  },
+  {
+    "id": "es-03-0920",
+    "sentence": "La factura se me traspapeló entre los recibos; disculpa, hoy mismo te mando otra copia.",
+    "cloze": "se me traspapeló",
+    "answer": "se me traspapeló",
+    "lemma": "traspapelársele algo a alguien",
+    "meaning": "I accidentally misplaced it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0920.mp3"
+  },
+  {
+    "id": "es-03-0921",
+    "sentence": "Las credenciales para visitantes se tramitan en el módulo junto a la entrada.",
+    "cloze": "se tramitan",
+    "answer": "se tramitan",
+    "lemma": "tramitar",
+    "meaning": "are processed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0921.mp3"
+  },
+  {
+    "id": "es-03-0922",
+    "sentence": "En recepción se da prioridad a quienes hicieron cita por internet.",
+    "cloze": "se da prioridad",
+    "answer": "se da prioridad",
+    "lemma": "dar prioridad",
+    "meaning": "priority is given",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0922.mp3"
+  },
+  {
+    "id": "es-03-0923",
+    "sentence": "Para comprobar ingresos, los estados de cuenta recientes se consideran válidos.",
+    "cloze": "se consideran válidos",
+    "answer": "se consideran válidos",
+    "lemma": "considerar válido",
+    "meaning": "are considered valid",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0923.mp3"
+  },
+  {
+    "id": "es-03-0924",
+    "sentence": "El cargo por servicio se muestra antes de confirmar el pago.",
+    "cloze": "se muestra",
+    "answer": "se muestra",
+    "lemma": "mostrar",
+    "meaning": "is shown",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0924.mp3"
+  },
+  {
+    "id": "es-03-0925",
+    "sentence": "Después de registrar el pago, se genera automáticamente un comprobante con el folio.",
+    "cloze": "se genera automáticamente",
+    "answer": "se genera automáticamente",
+    "lemma": "generar automáticamente",
+    "meaning": "is generated automatically",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0925.mp3"
+  },
+  {
+    "id": "es-03-0926",
+    "sentence": "Las tarjetas de transporte se recargan en estas máquinas a cualquier hora.",
+    "cloze": "se recargan",
+    "answer": "se recargan",
+    "lemma": "recargar",
+    "meaning": "are topped up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0926.mp3"
+  },
+  {
+    "id": "es-03-0927",
+    "sentence": "En los talleres comunitarios se cobra una cuota de recuperación al confirmar la inscripción.",
+    "cloze": "se cobra",
+    "answer": "se cobra",
+    "lemma": "cobrar",
+    "meaning": "a fee is charged",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0927.mp3"
+  },
+  {
+    "id": "es-03-0928",
+    "sentence": "Cuando falla el elevador, se levanta un reporte para que mantenimiento pueda revisarlo.",
+    "cloze": "se levanta",
+    "answer": "se levanta",
+    "lemma": "levantar un reporte",
+    "meaning": "a report is filed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0928.mp3"
+  },
+  {
+    "id": "es-03-0929",
+    "sentence": "Antes de emitir el recibo, se compara la lectura actual con la del mes anterior.",
+    "cloze": "se compara",
+    "answer": "se compara",
+    "lemma": "comparar",
+    "meaning": "is compared",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0929.mp3"
+  },
+  {
+    "id": "es-03-0930",
+    "sentence": "Cuando cambia una ruta, se avisa en las paradas y en la aplicación.",
+    "cloze": "se avisa",
+    "answer": "se avisa",
+    "lemma": "avisar",
+    "meaning": "an announcement is made",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0930.mp3"
+  },
+  {
+    "id": "es-03-0931",
+    "sentence": "Los domingos, el traslado gratuito al parque se mantiene disponible hasta las cinco.",
+    "cloze": "se mantiene disponible",
+    "answer": "se mantiene disponible",
+    "lemma": "mantener disponible",
+    "meaning": "remains available",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0931.mp3"
+  },
+  {
+    "id": "es-03-0932",
+    "sentence": "Por seguridad, se impide el acceso al auditorio con envases de vidrio.",
+    "cloze": "se impide",
+    "answer": "se impide",
+    "lemma": "impedir",
+    "meaning": "is prevented",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0932.mp3"
+  },
+  {
+    "id": "es-03-0933",
+    "sentence": "En los días más concurridos, se aconseja llegar con anticipación para evitar las filas.",
+    "cloze": "se aconseja",
+    "answer": "se aconseja",
+    "lemma": "aconsejar",
+    "meaning": "people are advised",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0933.mp3"
+  },
+  {
+    "id": "es-03-0934",
+    "sentence": "Antes de pasar a la sala, se les pide a los usuarios que silencien el celular.",
+    "cloze": "se les pide",
+    "answer": "se les pide",
+    "lemma": "pedir",
+    "meaning": "users are asked",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0934.mp3"
+  },
+  {
+    "id": "es-03-0935",
+    "sentence": "La taquilla cierra temprano, pero los boletos también se compran por internet.",
+    "cloze": "se compran",
+    "answer": "se compran",
+    "lemma": "comprar",
+    "meaning": "are purchased",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0935.mp3"
+  },
+  {
+    "id": "es-03-0936",
+    "sentence": "Las salas de estudio se apartan desde la página de la biblioteca con un día de anticipación.",
+    "cloze": "se apartan",
+    "answer": "se apartan",
+    "lemma": "apartar",
+    "meaning": "are reserved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0936.mp3"
+  },
+  {
+    "id": "es-03-0937",
+    "sentence": "El horario actualizado se publica los viernes, así que conviene revisarlo antes de asistir.",
+    "cloze": "se publica",
+    "answer": "se publica",
+    "lemma": "publicar",
+    "meaning": "is published",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0937.mp3"
+  },
+  {
+    "id": "es-03-0938",
+    "sentence": "Quienes viven lejos pueden seguir las sesiones informativas, pues se transmiten en vivo por internet.",
+    "cloze": "se transmiten",
+    "answer": "se transmiten",
+    "lemma": "transmitir",
+    "meaning": "are broadcast",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0938.mp3"
+  },
+  {
+    "id": "es-03-0939",
+    "sentence": "El aceite de cocina usado se recibe los sábados en el mercado de la colonia.",
+    "cloze": "se recibe",
+    "answer": "se recibe",
+    "lemma": "recibir",
+    "meaning": "is collected",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0939.mp3"
+  },
+  {
+    "id": "es-03-0940",
+    "sentence": "La basura reciclable se separa por tipo de material antes de entregarla al camión.",
+    "cloze": "se separa",
+    "answer": "se separa",
+    "lemma": "separar",
+    "meaning": "is separated",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0940.mp3"
+  },
+  {
+    "id": "es-03-0941",
+    "sentence": "Los paquetes que llegan antes de las seis se resguardan en la administración del edificio.",
+    "cloze": "se resguardan",
+    "answer": "se resguardan",
+    "lemma": "resguardar",
+    "meaning": "are kept securely",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0941.mp3"
+  },
+  {
+    "id": "es-03-0942",
+    "sentence": "Cada mes se programan actividades gratuitas para las familias de la comunidad.",
+    "cloze": "se programan",
+    "answer": "se programan",
+    "lemma": "programar",
+    "meaning": "are scheduled",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0942.mp3"
+  },
+  {
+    "id": "es-03-0943",
+    "sentence": "En recepción se verifica la identidad de cada visitante antes de permitirle el acceso.",
+    "cloze": "se verifica",
+    "answer": "se verifica",
+    "lemma": "verificar",
+    "meaning": "is verified",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0943.mp3"
+  },
+  {
+    "id": "es-03-0944",
+    "sentence": "Si el auto sale después de las seis, se aplica un cargo adicional por el estacionamiento.",
+    "cloze": "se aplica",
+    "answer": "se aplica",
+    "lemma": "aplicar",
+    "meaning": "is applied",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0944.mp3"
+  },
+  {
+    "id": "es-03-0945",
+    "sentence": "El reglamento está en línea y se consulta sin iniciar sesión en la página del centro.",
+    "cloze": "se consulta",
+    "answer": "se consulta",
+    "lemma": "consultar",
+    "meaning": "can be consulted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0945.mp3"
+  },
+  {
+    "id": "es-03-0946",
+    "sentence": "Al completar el registro, se asigna a cada persona un turno y un módulo de atención.",
+    "cloze": "se asigna",
+    "answer": "se asigna",
+    "lemma": "asignar",
+    "meaning": "is assigned",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0946.mp3"
+  },
+  {
+    "id": "es-03-0947",
+    "sentence": "Si cambia la puerta de embarque, se anuncia el número nuevo antes de abordar.",
+    "cloze": "se anuncia",
+    "answer": "se anuncia",
+    "lemma": "anunciar",
+    "meaning": "is announced",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0947.mp3"
+  },
+  {
+    "id": "es-03-0948",
+    "sentence": "Fuera del horario de atención, se graba un recado en el buzón de voz y el personal responde al día siguiente.",
+    "cloze": "se graba",
+    "answer": "se graba",
+    "lemma": "grabar",
+    "meaning": "a message is recorded",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0948.mp3"
+  },
+  {
+    "id": "es-03-0949",
+    "sentence": "La asistencia se valida con el código que cada participante recibe por correo.",
+    "cloze": "se valida",
+    "answer": "se valida",
+    "lemma": "validar",
+    "meaning": "is validated",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0949.mp3"
+  },
+  {
+    "id": "es-03-0950",
+    "sentence": "Al comenzar cada turno, se entregan las llaves del salón al personal responsable.",
+    "cloze": "se entregan",
+    "answer": "se entregan",
+    "lemma": "entregar",
+    "meaning": "are handed over",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0950.mp3"
+  },
+  {
+    "id": "es-03-0951",
+    "sentence": "Durante el recorrido, las bicicletas se dejan bajo techo en el área de vigilancia.",
+    "cloze": "se dejan",
+    "answer": "se dejan",
+    "lemma": "dejar",
+    "meaning": "are left",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0951.mp3"
+  },
+  {
+    "id": "es-03-0952",
+    "sentence": "Las renovaciones llevan otro formato; para este trámite se llena la hoja azul.",
+    "cloze": "se llena",
+    "answer": "se llena",
+    "lemma": "llenar",
+    "meaning": "is filled out",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0952.mp3"
+  },
+  {
+    "id": "es-03-0953",
+    "sentence": "Cuando hay mucha demanda, se espera afuera y el personal llama a la siguiente persona.",
+    "cloze": "se espera",
+    "answer": "se espera",
+    "lemma": "esperar",
+    "meaning": "people wait",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0953.mp3"
+  },
+  {
+    "id": "es-03-0954",
+    "sentence": "Las tarjetas dañadas se cambian sin cargo si todavía tienen saldo vigente.",
+    "cloze": "se cambian",
+    "answer": "se cambian",
+    "lemma": "cambiar",
+    "meaning": "are replaced",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0954.mp3"
+  },
+  {
+    "id": "es-03-0955",
+    "sentence": "En cada visita se anota la lectura del medidor para calcular el consumo del mes.",
+    "cloze": "se anota",
+    "answer": "se anota",
+    "lemma": "anotar",
+    "meaning": "is recorded",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0955.mp3"
+  },
+  {
+    "id": "es-03-0956",
+    "sentence": "Para evitar confusiones, las opciones sin carne se colocan en una mesa aparte durante la convivencia.",
+    "cloze": "se colocan",
+    "answer": "se colocan",
+    "lemma": "colocar",
+    "meaning": "are placed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0956.mp3"
+  },
+  {
+    "id": "es-03-0957",
+    "sentence": "La mañana del evento se manda el enlace de acceso al correo de cada participante.",
+    "cloze": "se manda",
+    "answer": "se manda",
+    "lemma": "mandar",
+    "meaning": "is sent",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0957.mp3"
+  },
+  {
+    "id": "es-03-0958",
+    "sentence": "Desde la estación se camina unos diez minutos por la avenida hasta el centro cultural.",
+    "cloze": "se camina",
+    "answer": "se camina",
+    "lemma": "caminar",
+    "meaning": "one walks",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0958.mp3"
+  },
+  {
+    "id": "es-03-0959",
+    "sentence": "Para apartar el salón, se deja un depósito que cuenta como parte del pago final.",
+    "cloze": "se deja",
+    "answer": "se deja",
+    "lemma": "dejar un depósito",
+    "meaning": "a deposit is paid",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0959.mp3"
+  },
+  {
+    "id": "es-03-0960",
+    "sentence": "Si hay tormenta, se cancelan los recorridos y las entradas conservan su validez.",
+    "cloze": "se cancelan",
+    "answer": "se cancelan",
+    "lemma": "cancelar",
+    "meaning": "are canceled",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0960.mp3"
+  },
+  {
+    "id": "es-03-0961",
+    "sentence": "Al comparar el recibo con el estado de cuenta, me di cuenta del cobro doble.",
+    "cloze": "me di cuenta del cobro doble",
+    "answer": "me di cuenta del cobro doble",
+    "lemma": "darse cuenta de",
+    "meaning": "I noticed the double charge",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0961.mp3"
+  },
+  {
+    "id": "es-03-0962",
+    "sentence": "Ya íbamos hacia la estación cuando me acordé de los boletos.",
+    "cloze": "me acordé de los boletos",
+    "answer": "me acordé de los boletos",
+    "lemma": "acordarse de",
+    "meaning": "I remembered the tickets",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0962.mp3"
+  },
+  {
+    "id": "es-03-0963",
+    "sentence": "Al escuchar que adelantarían su presentación, Clara se puso nerviosa.",
+    "cloze": "se puso nerviosa",
+    "answer": "se puso nerviosa",
+    "lemma": "ponerse nervioso",
+    "meaning": "she became nervous",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0963.mp3"
+  },
+  {
+    "id": "es-03-0964",
+    "sentence": "Mientras esperaba para abordar, me enteré del cambio de puerta por un mensaje.",
+    "cloze": "me enteré del cambio de puerta",
+    "answer": "me enteré del cambio de puerta",
+    "lemma": "enterarse de",
+    "meaning": "I learned about the gate change",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0964.mp3"
+  },
+  {
+    "id": "es-03-0965",
+    "sentence": "Como ya no pasaban autobuses, nos quedamos en la terminal esa noche.",
+    "cloze": "nos quedamos en la terminal",
+    "answer": "nos quedamos en la terminal",
+    "lemma": "quedarse en",
+    "meaning": "we stayed at the terminal",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0965.mp3"
+  },
+  {
+    "id": "es-03-0966",
+    "sentence": "Por salir con tanta prisa, Iván se olvidó del cargador en la oficina.",
+    "cloze": "se olvidó del cargador",
+    "answer": "se olvidó del cargador",
+    "lemma": "olvidarse de",
+    "meaning": "he forgot the charger",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0966.mp3"
+  },
+  {
+    "id": "es-03-0967",
+    "sentence": "Desde que trabajamos juntos en aquel proyecto, Paula y yo nos llevamos mucho mejor.",
+    "cloze": "nos llevamos mucho mejor",
+    "answer": "nos llevamos mucho mejor",
+    "lemma": "llevarse bien",
+    "meaning": "we get along much better",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0967.mp3"
+  },
+  {
+    "id": "es-03-0968",
+    "sentence": "Al principio el turno nocturno le pesaba, pero Marta se acostumbró al nuevo horario en pocas semanas.",
+    "cloze": "se acostumbró al nuevo horario",
+    "answer": "se acostumbró al nuevo horario",
+    "lemma": "acostumbrarse a",
+    "meaning": "she got used to the new schedule",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0968.mp3"
+  },
+  {
+    "id": "es-03-0969",
+    "sentence": "Después de pagar la reparación, Andrés se quedó sin dinero para el taxi.",
+    "cloze": "se quedó sin dinero",
+    "answer": "se quedó sin dinero",
+    "lemma": "quedarse sin",
+    "meaning": "he ran out of money",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0969.mp3"
+  },
+  {
+    "id": "es-03-0970",
+    "sentence": "Durante el curso de verano, Lucía se hizo amiga de dos compañeras que vivían cerca.",
+    "cloze": "se hizo amiga de dos compañeras",
+    "answer": "se hizo amiga de dos compañeras",
+    "lemma": "hacerse amigo de",
+    "meaning": "she became friends with two classmates",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0970.mp3"
+  },
+  {
+    "id": "es-03-0971",
+    "sentence": "Al reservar por teléfono, el asistente se equivocó de fecha y anotó la visita para el martes.",
+    "cloze": "se equivocó de fecha",
+    "answer": "se equivocó de fecha",
+    "lemma": "equivocarse de",
+    "meaning": "he got the date wrong",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0971.mp3"
+  },
+  {
+    "id": "es-03-0972",
+    "sentence": "Después de revisar cada pendiente, por fin nos pusimos de acuerdo sobre las prioridades.",
+    "cloze": "nos pusimos de acuerdo sobre las prioridades",
+    "answer": "nos pusimos de acuerdo sobre las prioridades",
+    "lemma": "ponerse de acuerdo",
+    "meaning": "we agreed on the priorities",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0972.mp3"
+  },
+  {
+    "id": "es-03-0973",
+    "sentence": "Después de resolver sola el problema, Elena se enorgulleció del resultado que presentó.",
+    "cloze": "se enorgulleció del resultado",
+    "answer": "se enorgulleció del resultado",
+    "lemma": "enorgullecerse de",
+    "meaning": "she took pride in the result",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0973.mp3"
+  },
+  {
+    "id": "es-03-0974",
+    "sentence": "Con el ruido de la obra, varios vecinos se quejaron del horario ante la administración.",
+    "cloze": "se quejaron del horario",
+    "answer": "se quejaron del horario",
+    "lemma": "quejarse de",
+    "meaning": "they complained about the schedule",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0974.mp3"
+  },
+  {
+    "id": "es-03-0975",
+    "sentence": "Aunque le daba pena hablar en público, Diego se animó a presentar la propuesta.",
+    "cloze": "se animó a presentar la propuesta",
+    "answer": "se animó a presentar la propuesta",
+    "lemma": "animarse a",
+    "meaning": "he worked up the courage to present the proposal",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0975.mp3"
+  },
+  {
+    "id": "es-03-0976",
+    "sentence": "Después de comparar las rutas sin escalas, por fin nos decidimos por el vuelo de la mañana.",
+    "cloze": "nos decidimos por el vuelo de la mañana",
+    "answer": "nos decidimos por el vuelo de la mañana",
+    "lemma": "decidirse por",
+    "meaning": "we settled on the morning flight",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0976.mp3"
+  },
+  {
+    "id": "es-03-0977",
+    "sentence": "Cuando vio a sus antiguos alumnos, la maestra se emocionó al escuchar sus historias.",
+    "cloze": "se emocionó al escuchar sus historias",
+    "answer": "se emocionó al escuchar sus historias",
+    "lemma": "emocionarse",
+    "meaning": "she became emotional hearing their stories",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0977.mp3"
+  },
+  {
+    "id": "es-03-0978",
+    "sentence": "Al saber que el paquete no aparecía, Julia se preocupó por los documentos originales.",
+    "cloze": "se preocupó por los documentos originales",
+    "answer": "se preocupó por los documentos originales",
+    "lemma": "preocuparse por",
+    "meaning": "she worried about the original documents",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0978.mp3"
+  },
+  {
+    "id": "es-03-0979",
+    "sentence": "Después de hablar con la encargada, ambos se tranquilizaron al saber que conservarían la reservación.",
+    "cloze": "se tranquilizaron al saber",
+    "answer": "se tranquilizaron al saber",
+    "lemma": "tranquilizarse",
+    "meaning": "they felt reassured upon learning",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0979.mp3"
+  },
+  {
+    "id": "es-03-0980",
+    "sentence": "Cuando cambiaron el acuerdo sin consultarla, Patricia se molestó con el proveedor.",
+    "cloze": "se molestó con el proveedor",
+    "answer": "se molestó con el proveedor",
+    "lemma": "molestarse con",
+    "meaning": "she became upset with the supplier",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0980.mp3"
+  },
+  {
+    "id": "es-03-0981",
+    "sentence": "Durante su primera semana, la nueva empleada se integró al equipo con mucha facilidad.",
+    "cloze": "se integró al equipo",
+    "answer": "se integró al equipo",
+    "lemma": "integrarse a",
+    "meaning": "she became part of the team",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0981.mp3"
+  },
+  {
+    "id": "es-03-0982",
+    "sentence": "Después de un mes en Puebla, Omar se adaptó al ritmo de la ciudad.",
+    "cloze": "se adaptó al ritmo de la ciudad",
+    "answer": "se adaptó al ritmo de la ciudad",
+    "lemma": "adaptarse a",
+    "meaning": "he adapted to the pace of the city",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0982.mp3"
+  },
+  {
+    "id": "es-03-0983",
+    "sentence": "Durante la explicación del taller, me confundí con los nombres de las dos plataformas y pedí una aclaración.",
+    "cloze": "me confundí con los nombres de las dos plataformas",
+    "answer": "me confundí con los nombres de las dos plataformas",
+    "lemma": "confundirse con",
+    "meaning": "I got the names of the two platforms mixed up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0983.mp3"
+  },
+  {
+    "id": "es-03-0984",
+    "sentence": "Tras una semana fuera, me puse al corriente con los pendientes del curso.",
+    "cloze": "me puse al corriente",
+    "answer": "me puse al corriente",
+    "lemma": "ponerse al corriente",
+    "meaning": "I caught up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0984.mp3"
+  },
+  {
+    "id": "es-03-0985",
+    "sentence": "Aunque había música en el pasillo, los estudiantes se concentraron en terminar el ejercicio.",
+    "cloze": "se concentraron en terminar el ejercicio",
+    "answer": "se concentraron en terminar el ejercicio",
+    "lemma": "concentrarse en",
+    "meaning": "they focused on finishing the exercise",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0985.mp3"
+  },
+  {
+    "id": "es-03-0986",
+    "sentence": "Para entregar el proyecto a tiempo, todo el equipo se esforzó por corregir los últimos detalles.",
+    "cloze": "se esforzó por corregir los últimos detalles",
+    "answer": "se esforzó por corregir los últimos detalles",
+    "lemma": "esforzarse por",
+    "meaning": "the whole team worked hard to correct the final details",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0986.mp3"
+  },
+  {
+    "id": "es-03-0987",
+    "sentence": "Tras revisar el calendario, Marta se comprometió a enviar el informe antes del viernes.",
+    "cloze": "se comprometió a enviar el informe",
+    "answer": "se comprometió a enviar el informe",
+    "lemma": "comprometerse a",
+    "meaning": "she committed to sending the report",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0987.mp3"
+  },
+  {
+    "id": "es-03-0988",
+    "sentence": "Como llegarían invitados de otras ciudades, los anfitriones se organizaron para repartir las habitaciones.",
+    "cloze": "se organizaron para repartir las habitaciones",
+    "answer": "se organizaron para repartir las habitaciones",
+    "lemma": "organizarse para",
+    "meaning": "they organized themselves to divide up the rooms",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0988.mp3"
+  },
+  {
+    "id": "es-03-0989",
+    "sentence": "Antes de moderar su primera junta, Rodrigo se familiarizó con el orden del día.",
+    "cloze": "se familiarizó con el orden del día",
+    "answer": "se familiarizó con el orden del día",
+    "lemma": "familiarizarse con",
+    "meaning": "he familiarized himself with the agenda",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0989.mp3"
+  },
+  {
+    "id": "es-03-0990",
+    "sentence": "Al terminar la celebración, Ana se despidió de sus tíos antes de tomar el taxi.",
+    "cloze": "se despidió de sus tíos",
+    "answer": "se despidió de sus tíos",
+    "lemma": "despedirse de",
+    "meaning": "she said goodbye to her aunt and uncle",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0990.mp3"
+  },
+  {
+    "id": "es-03-0991",
+    "sentence": "De las tres propuestas, el comité se quedó con la menos costosa.",
+    "cloze": "se quedó con la menos costosa",
+    "answer": "se quedó con la menos costosa",
+    "lemma": "quedarse con",
+    "meaning": "it chose the least expensive one",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0991.mp3"
+  },
+  {
+    "id": "es-03-0992",
+    "sentence": "Después de conseguir un empleo estable, Irene se independizó y rentó un departamento pequeño.",
+    "cloze": "se independizó",
+    "answer": "se independizó",
+    "lemma": "independizarse",
+    "meaning": "she became independent",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0992.mp3"
+  },
+  {
+    "id": "es-03-0993",
+    "sentence": "Con las aportaciones de los vecinos, el terreno abandonado se convirtió en un pequeño huerto comunitario.",
+    "cloze": "se convirtió en un pequeño huerto comunitario",
+    "answer": "se convirtió en un pequeño huerto comunitario",
+    "lemma": "convertirse en",
+    "meaning": "it became a small community garden",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0993.mp3"
+  },
+  {
+    "id": "es-03-0994",
+    "sentence": "Después de varios meses sin mantenimiento, la relación entre los vecinos se deterioró rápidamente.",
+    "cloze": "se deterioró rápidamente",
+    "answer": "se deterioró rápidamente",
+    "lemma": "deteriorarse",
+    "meaning": "it deteriorated quickly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0994.mp3"
+  },
+  {
+    "id": "es-03-0995",
+    "sentence": "Después de reiniciar el módem, la conexión se estabilizó y pudimos terminar la videollamada.",
+    "cloze": "se estabilizó",
+    "answer": "se estabilizó",
+    "lemma": "estabilizarse",
+    "meaning": "it became stable",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0995.mp3"
+  },
+  {
+    "id": "es-03-0996",
+    "sentence": "Tras recibir tres rechazos, Laura se desanimó, pero volvió a solicitar la beca.",
+    "cloze": "se desanimó",
+    "answer": "se desanimó",
+    "lemma": "desanimarse",
+    "meaning": "she became discouraged",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0996.mp3"
+  },
+  {
+    "id": "es-03-0997",
+    "sentence": "Si el vuelo vuelve a retrasarse, la aerolínea se pondrá en contacto con ustedes.",
+    "cloze": "se pondrá en contacto con ustedes",
+    "answer": "se pondrá en contacto con ustedes",
+    "lemma": "ponerse en contacto con",
+    "meaning": "it will contact you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0997.mp3"
+  },
+  {
+    "id": "es-03-0998",
+    "sentence": "Como la película avanzaba muy despacio, los niños se aburrieron antes del final.",
+    "cloze": "se aburrieron",
+    "answer": "se aburrieron",
+    "lemma": "aburrirse",
+    "meaning": "they became bored",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0998.mp3"
+  },
+  {
+    "id": "es-03-0999",
+    "sentence": "Al escuchar pasos en el pasillo vacío, los huéspedes se asustaron y llamaron a recepción.",
+    "cloze": "se asustaron",
+    "answer": "se asustaron",
+    "lemma": "asustarse",
+    "meaning": "they became frightened",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0999.mp3"
+  },
+  {
+    "id": "es-03-1000",
+    "sentence": "Después de años sin hablar, los dos hermanos se reconciliaron durante la boda de su prima.",
+    "cloze": "se reconciliaron",
+    "answer": "se reconciliaron",
+    "lemma": "reconciliarse",
+    "meaning": "they reconciled",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-1000.mp3"
   }
 ]
