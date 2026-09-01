@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "es-03-0001",
+    "sentence": "En la terminal, todavía esperábamos el autobús cuando llegó el mensaje de la empresa.",
+    "cloze": "llegó",
+    "answer": "llegó",
+    "lemma": "llegar",
+    "meaning": "arrived",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0001.mp3"
+  },
+  {
+    "id": "es-03-0002",
+    "sentence": "Cuando amaneció, todavía hacía frío en el pueblo y las calles estaban vacías.",
+    "cloze": "amaneció",
+    "answer": "amaneció",
+    "lemma": "amanecer",
+    "meaning": "dawned",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0002.mp3"
+  },
+  {
+    "id": "es-03-0003",
+    "sentence": "Durante la visita, buscábamos la entrada cuando encontramos una puerta abierta junto al estacionamiento.",
+    "cloze": "buscábamos",
+    "answer": "buscábamos",
+    "lemma": "buscar",
+    "meaning": "were looking for",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0003.mp3"
+  },
+  {
+    "id": "es-03-0004",
+    "sentence": "En el camino de regreso, casi todos dormitaban cuando se detuvo el autobús cerca de una gasolinera.",
+    "cloze": "dormitaban",
+    "answer": "dormitaban",
+    "lemma": "dormitar",
+    "meaning": "were dozing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0004.mp3"
+  },
+  {
+    "id": "es-03-0005",
+    "sentence": "Esa tarde lloviznaba, así que decidimos comer cerca del museo.",
+    "cloze": "lloviznaba",
+    "answer": "lloviznaba",
+    "lemma": "lloviznar",
+    "meaning": "it was drizzling",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0005.mp3"
+  },
+  {
+    "id": "es-03-0006",
+    "sentence": "Mientras yo llevaba la maleta, se rompió una rueda en la estación.",
+    "cloze": "se rompió",
+    "answer": "se rompió",
+    "lemma": "romperse",
+    "meaning": "broke",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0006.mp3"
+  },
+  {
+    "id": "es-03-0007",
+    "sentence": "La sala estaba casi vacía cuando anunciaron el cambio de andén.",
+    "cloze": "anunciaron",
+    "answer": "anunciaron",
+    "lemma": "anunciar",
+    "meaning": "announced",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0007.mp3"
+  },
+  {
+    "id": "es-03-0008",
+    "sentence": "Avanzábamos hacia el centro cuando vimos que la calle estaba cerrada.",
+    "cloze": "Avanzábamos",
+    "answer": "Avanzábamos",
+    "lemma": "avanzar",
+    "meaning": "were making our way",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0008.mp3"
+  },
+  {
+    "id": "es-03-0009",
+    "sentence": "En la oficina, yo redactaba un correo cuando entró mi jefa con una pregunta.",
+    "cloze": "redactaba",
+    "answer": "redactaba",
+    "lemma": "redactar",
+    "meaning": "was drafting",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0009.mp3"
+  },
+  {
+    "id": "es-03-0010",
+    "sentence": "Todavía revisábamos el informe cuando falló la computadora de la sala.",
+    "cloze": "falló",
+    "answer": "falló",
+    "lemma": "fallar",
+    "meaning": "stopped working",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0010.mp3"
+  },
+  {
+    "id": "es-03-0011",
+    "sentence": "La recepcionista atendía a otra persona cuando el nuevo compañero pidió ayuda.",
+    "cloze": "pidió",
+    "answer": "pidió",
+    "lemma": "pedir",
+    "meaning": "asked for",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0011.mp3"
+  },
+  {
+    "id": "es-03-0012",
+    "sentence": "Ya cerrábamos la tienda cuando sonó el teléfono del mostrador.",
+    "cloze": "sonó",
+    "answer": "sonó",
+    "lemma": "sonar",
+    "meaning": "rang",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0012.mp3"
+  },
+  {
+    "id": "es-03-0013",
+    "sentence": "El instructor explicaba el ejercicio cuando se fue la luz en todo el edificio.",
+    "cloze": "explicaba",
+    "answer": "explicaba",
+    "lemma": "explicar",
+    "meaning": "was explaining",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0013.mp3"
+  },
+  {
+    "id": "es-03-0014",
+    "sentence": "Mientras organizábamos los archivos, avisaron del cambio de horario.",
+    "cloze": "avisaron",
+    "answer": "avisaron",
+    "lemma": "avisar",
+    "meaning": "announced",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0014.mp3"
+  },
+  {
+    "id": "es-03-0015",
+    "sentence": "Aunque el equipo tenía poco tiempo, alcanzó a terminar la presentación antes de la reunión.",
+    "cloze": "alcanzó",
+    "answer": "alcanzó",
+    "lemma": "alcanzar a",
+    "meaning": "managed to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0015.mp3"
+  },
+  {
+    "id": "es-03-0016",
+    "sentence": "Yo anotaba los acuerdos cuando recibí una llamada de la escuela.",
+    "cloze": "anotaba",
+    "answer": "anotaba",
+    "lemma": "anotar",
+    "meaning": "was writing down",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0016.mp3"
+  },
+  {
+    "id": "es-03-0017",
+    "sentence": "En la biblioteca, estudiábamos para el examen cuando comenzó una reparación ruidosa en el piso de arriba.",
+    "cloze": "comenzó",
+    "answer": "comenzó",
+    "lemma": "comenzar",
+    "meaning": "began",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0017.mp3"
+  },
+  {
+    "id": "es-03-0018",
+    "sentence": "Mientras practicaba la presentación, mi compañera detectó un dato incorrecto en la última página.",
+    "cloze": "detectó",
+    "answer": "detectó",
+    "lemma": "detectar",
+    "meaning": "noticed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0018.mp3"
+  },
+  {
+    "id": "es-03-0019",
+    "sentence": "Mis dudas persistían hasta que la maestra explicó el primer ejemplo con más calma.",
+    "cloze": "persistían",
+    "answer": "persistían",
+    "lemma": "persistir",
+    "meaning": "persisted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0019.mp3"
+  },
+  {
+    "id": "es-03-0020",
+    "sentence": "Preparábamos las bebidas cuando se terminó el hielo antes de la comida.",
+    "cloze": "se terminó",
+    "answer": "se terminó",
+    "lemma": "terminarse",
+    "meaning": "ran out",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0020.mp3"
+  },
+  {
+    "id": "es-03-0021",
+    "sentence": "En casa celebrábamos el cumpleaños cuando llegaron dos amigos del trabajo.",
+    "cloze": "celebrábamos",
+    "answer": "celebrábamos",
+    "lemma": "celebrar",
+    "meaning": "were celebrating",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0021.mp3"
+  },
+  {
+    "id": "es-03-0022",
+    "sentence": "En la fiesta, todos bailaban cuando apagaron la música por un problema con el sonido.",
+    "cloze": "apagaron",
+    "answer": "apagaron",
+    "lemma": "apagar",
+    "meaning": "turned off",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0022.mp3"
+  },
+  {
+    "id": "es-03-0023",
+    "sentence": "En el patio, platicábamos cuando empezó a llover y tuvimos que entrar.",
+    "cloze": "platicábamos",
+    "answer": "platicábamos",
+    "lemma": "platicar",
+    "meaning": "were chatting",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0023.mp3"
+  },
+  {
+    "id": "es-03-0024",
+    "sentence": "Mi hermana servía la cena cuando llegaron los últimos invitados.",
+    "cloze": "servía",
+    "answer": "servía",
+    "lemma": "servir",
+    "meaning": "was serving",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0024.mp3"
+  },
+  {
+    "id": "es-03-0025",
+    "sentence": "La festejada quería acostarse cuando sus amigos tocaron el timbre con una sorpresa.",
+    "cloze": "tocaron",
+    "answer": "tocaron",
+    "lemma": "tocar",
+    "meaning": "rang",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0025.mp3"
+  },
+  {
+    "id": "es-03-0026",
+    "sentence": "Yo escogía la fruta cuando cerraron esa sección del mercado.",
+    "cloze": "escogía",
+    "answer": "escogía",
+    "lemma": "escoger",
+    "meaning": "was choosing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0026.mp3"
+  },
+  {
+    "id": "es-03-0027",
+    "sentence": "En la papelería hacíamos fila cuando habilitaron una segunda caja.",
+    "cloze": "habilitaron",
+    "answer": "habilitaron",
+    "lemma": "habilitar",
+    "meaning": "opened for use",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0027.mp3"
+  },
+  {
+    "id": "es-03-0028",
+    "sentence": "Yo pagaba la compra cuando la terminal rechazó mi tarjeta por segunda vez.",
+    "cloze": "rechazó",
+    "answer": "rechazó",
+    "lemma": "rechazar",
+    "meaning": "declined",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0028.mp3"
+  },
+  {
+    "id": "es-03-0029",
+    "sentence": "Mientras buscaba mis llaves, el repartidor llamó desde la entrada.",
+    "cloze": "buscaba",
+    "answer": "buscaba",
+    "lemma": "buscar",
+    "meaning": "was looking for",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0029.mp3"
+  },
+  {
+    "id": "es-03-0030",
+    "sentence": "Cuando regresábamos de hacer un mandado, se soltó un aguacero.",
+    "cloze": "se soltó",
+    "answer": "se soltó",
+    "lemma": "soltarse",
+    "meaning": "suddenly began",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0030.mp3"
+  },
+  {
+    "id": "es-03-0031",
+    "sentence": "A mediodía hacía mucho calor, pero refrescó poco antes de salir.",
+    "cloze": "refrescó",
+    "answer": "refrescó",
+    "lemma": "refrescar",
+    "meaning": "cooled down",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0031.mp3"
+  },
+  {
+    "id": "es-03-0032",
+    "sentence": "La mañana estaba nublada, pero el cielo se despejó antes del paseo.",
+    "cloze": "se despejó",
+    "answer": "se despejó",
+    "lemma": "despejarse",
+    "meaning": "cleared up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0032.mp3"
+  },
+  {
+    "id": "es-03-0033",
+    "sentence": "En la esquina soplaba mucho viento cuando se cayó un letrero pequeño.",
+    "cloze": "soplaba",
+    "answer": "soplaba",
+    "lemma": "soplar",
+    "meaning": "was blowing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0033.mp3"
+  },
+  {
+    "id": "es-03-0034",
+    "sentence": "Desde la ventana observábamos la lluvia cuando se fue la luz del edificio.",
+    "cloze": "observábamos",
+    "answer": "observábamos",
+    "lemma": "observar",
+    "meaning": "were watching",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0034.mp3"
+  },
+  {
+    "id": "es-03-0035",
+    "sentence": "Ellos vivían en el mismo edificio cuando coincidieron en una reunión de vecinos.",
+    "cloze": "coincidieron",
+    "answer": "coincidieron",
+    "lemma": "coincidir",
+    "meaning": "met by chance",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0035.mp3"
+  },
+  {
+    "id": "es-03-0036",
+    "sentence": "Mi pareja y yo discutíamos el plan cuando ella propuso salir más temprano.",
+    "cloze": "propuso",
+    "answer": "propuso",
+    "lemma": "proponer",
+    "meaning": "suggested",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0036.mp3"
+  },
+  {
+    "id": "es-03-0037",
+    "sentence": "Durante la comida, Ana estaba molesta, pero respondió con calma para evitar otra discusión.",
+    "cloze": "respondió",
+    "answer": "respondió",
+    "lemma": "responder",
+    "meaning": "responded",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0037.mp3"
+  },
+  {
+    "id": "es-03-0038",
+    "sentence": "Mi amigo esperaba mi respuesta cuando recibió el mensaje de confirmación.",
+    "cloze": "recibió",
+    "answer": "recibió",
+    "lemma": "recibir",
+    "meaning": "received",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0038.mp3"
+  },
+  {
+    "id": "es-03-0039",
+    "sentence": "Al principio todos querían salir temprano, pero cambiaron de opinión después de cenar.",
+    "cloze": "querían",
+    "answer": "querían",
+    "lemma": "querer",
+    "meaning": "wanted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0039.mp3"
+  },
+  {
+    "id": "es-03-0040",
+    "sentence": "Creíamos que la falla era grave hasta que los técnicos descartaron un daño mayor.",
+    "cloze": "descartaron",
+    "answer": "descartaron",
+    "lemma": "descartar",
+    "meaning": "ruled out",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0040.mp3"
+  },
+  {
+    "id": "es-03-0041",
+    "sentence": "La recepcionista revisaba mi reservación cuando se apagó la computadora.",
+    "cloze": "cuando se apagó",
+    "answer": "cuando se apagó",
+    "lemma": "cuando + pretérito",
+    "meaning": "when the computer shut off",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0041.mp3"
+  },
+  {
+    "id": "es-03-0042",
+    "sentence": "Ya íbamos hacia la terminal cuando nos avisaron del cambio de andén.",
+    "cloze": "cuando nos avisaron",
+    "answer": "cuando nos avisaron",
+    "lemma": "cuando + pretérito",
+    "meaning": "when they notified us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0042.mp3"
+  },
+  {
+    "id": "es-03-0043",
+    "sentence": "El plomero revisaba la tubería cuando volvió a salir agua debajo de la tarja.",
+    "cloze": "cuando volvió a salir",
+    "answer": "cuando volvió a salir",
+    "lemma": "cuando + pretérito",
+    "meaning": "when water started coming out again",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0043.mp3"
+  },
+  {
+    "id": "es-03-0044",
+    "sentence": "Yo anotaba la nueva dirección cuando llegó el repartidor.",
+    "cloze": "cuando llegó",
+    "answer": "cuando llegó",
+    "lemma": "cuando + pretérito",
+    "meaning": "when the delivery person arrived",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0044.mp3"
+  },
+  {
+    "id": "es-03-0045",
+    "sentence": "Todos platicábamos en la sala cuando sonó el teléfono de la oficina.",
+    "cloze": "cuando sonó",
+    "answer": "cuando sonó",
+    "lemma": "cuando + pretérito",
+    "meaning": "when the office phone rang",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0045.mp3"
+  },
+  {
+    "id": "es-03-0046",
+    "sentence": "Esperaba afuera de la sala cuando me llamó el cliente.",
+    "cloze": "cuando me llamó",
+    "answer": "cuando me llamó",
+    "lemma": "cuando + pretérito",
+    "meaning": "when the client called me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0046.mp3"
+  },
+  {
+    "id": "es-03-0047",
+    "sentence": "Mientras esperábamos el autobús, revisé la ruta en mi celular.",
+    "cloze": "Mientras esperábamos",
+    "answer": "Mientras esperábamos",
+    "lemma": "mientras + imperfecto",
+    "meaning": "while we were waiting",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0047.mp3"
+  },
+  {
+    "id": "es-03-0048",
+    "sentence": "El técnico explicó el problema mientras yo tomaba notas.",
+    "cloze": "mientras yo tomaba",
+    "answer": "mientras yo tomaba",
+    "lemma": "mientras + imperfecto",
+    "meaning": "while I was taking notes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0048.mp3"
+  },
+  {
+    "id": "es-03-0049",
+    "sentence": "Mientras reparaban la puerta del edificio, trabajamos desde casa.",
+    "cloze": "Mientras reparaban",
+    "answer": "Mientras reparaban",
+    "lemma": "mientras + imperfecto",
+    "meaning": "while they were repairing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0049.mp3"
+  },
+  {
+    "id": "es-03-0050",
+    "sentence": "La recepcionista atendió otras llamadas mientras buscaba mi reservación.",
+    "cloze": "mientras buscaba",
+    "answer": "mientras buscaba",
+    "lemma": "mientras + imperfecto",
+    "meaning": "while she was looking for",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0050.mp3"
+  },
+  {
+    "id": "es-03-0051",
+    "sentence": "Dejé las cajas en la entrada mientras subíamos los muebles.",
+    "cloze": "mientras subíamos",
+    "answer": "mientras subíamos",
+    "lemma": "mientras + imperfecto",
+    "meaning": "while we were carrying up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0051.mp3"
+  },
+  {
+    "id": "es-03-0052",
+    "sentence": "El tráfico avanzaba lentamente mientras caía una lluvia intensa sobre la ciudad.",
+    "cloze": "mientras caía",
+    "answer": "mientras caía",
+    "lemma": "mientras + imperfecto",
+    "meaning": "while heavy rain was falling",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0052.mp3"
+  },
+  {
+    "id": "es-03-0053",
+    "sentence": "El repartidor explicó el retraso mientras yo firmaba el recibo.",
+    "cloze": "mientras yo firmaba",
+    "answer": "mientras yo firmaba",
+    "lemma": "mientras + imperfecto",
+    "meaning": "while I was signing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0053.mp3"
+  },
+  {
+    "id": "es-03-0054",
+    "sentence": "Al bajar del autobús, vi un mensaje sobre el cambio de ruta.",
+    "cloze": "Al bajar",
+    "answer": "Al bajar",
+    "lemma": "al + infinitivo",
+    "meaning": "upon getting off",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0054.mp3"
+  },
+  {
+    "id": "es-03-0055",
+    "sentence": "Al entrar al departamento, vi agua junto a la puerta.",
+    "cloze": "Al entrar",
+    "answer": "Al entrar",
+    "lemma": "al + infinitivo",
+    "meaning": "upon entering",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0055.mp3"
+  },
+  {
+    "id": "es-03-0056",
+    "sentence": "Al terminar la reunión, llamamos al repartidor para confirmar la entrega.",
+    "cloze": "Al terminar",
+    "answer": "Al terminar",
+    "lemma": "al + infinitivo",
+    "meaning": "upon finishing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0056.mp3"
+  },
+  {
+    "id": "es-03-0057",
+    "sentence": "Al revisar el recibo, encontré un cobro de más.",
+    "cloze": "Al revisar",
+    "answer": "Al revisar",
+    "lemma": "al + infinitivo",
+    "meaning": "upon checking",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0057.mp3"
+  },
+  {
+    "id": "es-03-0058",
+    "sentence": "Al salir de la oficina, empezó a llover.",
+    "cloze": "Al salir",
+    "answer": "Al salir",
+    "lemma": "al + infinitivo",
+    "meaning": "upon leaving",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0058.mp3"
+  },
+  {
+    "id": "es-03-0059",
+    "sentence": "Al abrir la puerta, el técnico vio la fuga debajo de la tarja.",
+    "cloze": "Al abrir",
+    "answer": "Al abrir",
+    "lemma": "al + infinitivo",
+    "meaning": "upon opening",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0059.mp3"
+  },
+  {
+    "id": "es-03-0060",
+    "sentence": "Al cambiar de ruta, llegamos a tiempo a la terminal.",
+    "cloze": "Al cambiar",
+    "answer": "Al cambiar",
+    "lemma": "al + infinitivo",
+    "meaning": "upon changing routes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0060.mp3"
+  },
+  {
+    "id": "es-03-0061",
+    "sentence": "Antes de ir al aeropuerto, confirmé el número de la terminal.",
+    "cloze": "Antes de ir",
+    "answer": "Antes de ir",
+    "lemma": "antes de + infinitivo",
+    "meaning": "before going",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0061.mp3"
+  },
+  {
+    "id": "es-03-0062",
+    "sentence": "Guardé el contrato antes de cerrar la oficina.",
+    "cloze": "antes de cerrar",
+    "answer": "antes de cerrar",
+    "lemma": "antes de + infinitivo",
+    "meaning": "before closing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0062.mp3"
+  },
+  {
+    "id": "es-03-0063",
+    "sentence": "El técnico tomó varias fotos antes de comenzar la reparación.",
+    "cloze": "antes de comenzar",
+    "answer": "antes de comenzar",
+    "lemma": "antes de + infinitivo",
+    "meaning": "before beginning",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0063.mp3"
+  },
+  {
+    "id": "es-03-0064",
+    "sentence": "Revisamos el andén antes de subir al autobús.",
+    "cloze": "antes de subir",
+    "answer": "antes de subir",
+    "lemma": "antes de + infinitivo",
+    "meaning": "before boarding",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0064.mp3"
+  },
+  {
+    "id": "es-03-0065",
+    "sentence": "Te mandé la dirección antes de entrar a la reunión.",
+    "cloze": "antes de entrar",
+    "answer": "antes de entrar",
+    "lemma": "antes de + infinitivo",
+    "meaning": "before entering",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0065.mp3"
+  },
+  {
+    "id": "es-03-0066",
+    "sentence": "Pagamos el depósito antes de recibir las llaves.",
+    "cloze": "antes de recibir",
+    "answer": "antes de recibir",
+    "lemma": "antes de + infinitivo",
+    "meaning": "before receiving",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0066.mp3"
+  },
+  {
+    "id": "es-03-0067",
+    "sentence": "Después de bajar del avión, fui a recoger mi equipaje.",
+    "cloze": "Después de bajar",
+    "answer": "Después de bajar",
+    "lemma": "después de + infinitivo",
+    "meaning": "after getting off",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0067.mp3"
+  },
+  {
+    "id": "es-03-0068",
+    "sentence": "Llamé al propietario después de encontrar humedad en la recámara.",
+    "cloze": "después de encontrar",
+    "answer": "después de encontrar",
+    "lemma": "después de + infinitivo",
+    "meaning": "after finding",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0068.mp3"
+  },
+  {
+    "id": "es-03-0069",
+    "sentence": "Después de terminar la reunión, confirmamos la hora de entrega.",
+    "cloze": "Después de terminar",
+    "answer": "Después de terminar",
+    "lemma": "después de + infinitivo",
+    "meaning": "after finishing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0069.mp3"
+  },
+  {
+    "id": "es-03-0070",
+    "sentence": "Revisé el contenido después de abrir el paquete.",
+    "cloze": "después de abrir",
+    "answer": "después de abrir",
+    "lemma": "después de + infinitivo",
+    "meaning": "after opening",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0070.mp3"
+  },
+  {
+    "id": "es-03-0071",
+    "sentence": "Después de cambiar de ruta, pudimos evitar el tráfico del centro.",
+    "cloze": "Después de cambiar",
+    "answer": "Después de cambiar",
+    "lemma": "después de + infinitivo",
+    "meaning": "after changing routes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0071.mp3"
+  },
+  {
+    "id": "es-03-0072",
+    "sentence": "Pusimos los muebles en la sala después de limpiar el piso.",
+    "cloze": "después de limpiar",
+    "answer": "después de limpiar",
+    "lemma": "después de + infinitivo",
+    "meaning": "after cleaning",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0072.mp3"
+  },
+  {
+    "id": "es-03-0073",
+    "sentence": "Esperamos en la recepción hasta que llegó el técnico.",
+    "cloze": "hasta que llegó",
+    "answer": "hasta que llegó",
+    "lemma": "hasta que + pretérito",
+    "meaning": "until the technician arrived",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0073.mp3"
+  },
+  {
+    "id": "es-03-0074",
+    "sentence": "No salimos de la oficina hasta que dejó de llover.",
+    "cloze": "hasta que dejó de",
+    "answer": "hasta que dejó de",
+    "lemma": "hasta que + pretérito",
+    "meaning": "until it stopped",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0074.mp3"
+  },
+  {
+    "id": "es-03-0075",
+    "sentence": "El autobús no avanzó hasta que retiraron el auto de la calle.",
+    "cloze": "hasta que retiraron",
+    "answer": "hasta que retiraron",
+    "lemma": "hasta que + pretérito",
+    "meaning": "until they removed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0075.mp3"
+  },
+  {
+    "id": "es-03-0076",
+    "sentence": "Me quedé junto a la entrada hasta que abrieron la puerta principal.",
+    "cloze": "hasta que abrieron",
+    "answer": "hasta que abrieron",
+    "lemma": "hasta que + pretérito",
+    "meaning": "until they opened",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0076.mp3"
+  },
+  {
+    "id": "es-03-0077",
+    "sentence": "En cuanto terminó la llamada, envié la dirección al repartidor.",
+    "cloze": "En cuanto terminó",
+    "answer": "En cuanto terminó",
+    "lemma": "en cuanto + pretérito",
+    "meaning": "as soon as the call ended",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0077.mp3"
+  },
+  {
+    "id": "es-03-0078",
+    "sentence": "En cuanto llegó el paquete, revisamos la caja por fuera.",
+    "cloze": "En cuanto llegó",
+    "answer": "En cuanto llegó",
+    "lemma": "en cuanto + pretérito",
+    "meaning": "as soon as the package arrived",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0078.mp3"
+  },
+  {
+    "id": "es-03-0079",
+    "sentence": "En cuanto repararon la tubería, el agua volvió a salir con buena presión.",
+    "cloze": "En cuanto repararon",
+    "answer": "En cuanto repararon",
+    "lemma": "en cuanto + pretérito",
+    "meaning": "as soon as they repaired",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0079.mp3"
+  },
+  {
+    "id": "es-03-0080",
+    "sentence": "En cuanto salimos de la reunión, llamé para confirmar el nuevo horario.",
+    "cloze": "En cuanto salimos",
+    "answer": "En cuanto salimos",
+    "lemma": "en cuanto + pretérito",
+    "meaning": "as soon as we left",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0080.mp3"
+  },
+  {
+    "id": "es-03-0081",
+    "sentence": "Al comunicarme con el hotel, supe que ya habían cancelado mi reservación.",
+    "cloze": "ya habían cancelado",
+    "answer": "ya habían cancelado",
+    "lemma": "haber cancelado",
+    "meaning": "they had already canceled",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0081.mp3"
+  },
+  {
+    "id": "es-03-0082",
+    "sentence": "Llegamos a la terminal a las ocho, pero el autobús ya había salido.",
+    "cloze": "ya había salido",
+    "answer": "ya había salido",
+    "lemma": "haber salido",
+    "meaning": "had already left",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0082.mp3"
+  },
+  {
+    "id": "es-03-0083",
+    "sentence": "En recepción buscaron mi registro, pero todavía no habían recibido mi confirmación.",
+    "cloze": "todavía no habían recibido",
+    "answer": "todavía no habían recibido",
+    "lemma": "haber recibido",
+    "meaning": "they still had not received",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0083.mp3"
+  },
+  {
+    "id": "es-03-0084",
+    "sentence": "En la sala de abordar descubrí que había dejado mi identificación en el taxi.",
+    "cloze": "había dejado",
+    "answer": "había dejado",
+    "lemma": "haber dejado",
+    "meaning": "I had left",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0084.mp3"
+  },
+  {
+    "id": "es-03-0085",
+    "sentence": "Tuvimos que cancelar la cena porque Ana ya había hecho otros planes.",
+    "cloze": "ya había hecho",
+    "answer": "ya había hecho",
+    "lemma": "haber hecho",
+    "meaning": "had already made",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0085.mp3"
+  },
+  {
+    "id": "es-03-0086",
+    "sentence": "Al revisar mi entrega, la coordinadora notó que había adjuntado el archivo equivocado.",
+    "cloze": "había adjuntado",
+    "answer": "había adjuntado",
+    "lemma": "haber adjuntado",
+    "meaning": "I had attached",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0086.mp3"
+  },
+  {
+    "id": "es-03-0087",
+    "sentence": "El equipo perdió una hora porque nadie había guardado los cambios.",
+    "cloze": "había guardado",
+    "answer": "había guardado",
+    "lemma": "haber guardado",
+    "meaning": "had saved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0087.mp3"
+  },
+  {
+    "id": "es-03-0088",
+    "sentence": "La junta te tomó por sorpresa porque todavía no habías leído el mensaje del director.",
+    "cloze": "todavía no habías leído",
+    "answer": "todavía no habías leído",
+    "lemma": "haber leído",
+    "meaning": "you still had not read",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0088.mp3"
+  },
+  {
+    "id": "es-03-0089",
+    "sentence": "El mensajero tuvo que volver porque yo había escrito mal el número exterior.",
+    "cloze": "había escrito mal",
+    "answer": "había escrito mal",
+    "lemma": "haber escrito",
+    "meaning": "I had written incorrectly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0089.mp3"
+  },
+  {
+    "id": "es-03-0090",
+    "sentence": "En la tienda confirmaron que nos habían enviado la talla equivocada.",
+    "cloze": "nos habían enviado",
+    "answer": "nos habían enviado",
+    "lemma": "haber enviado",
+    "meaning": "they had sent us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0090.mp3"
+  },
+  {
+    "id": "es-03-0091",
+    "sentence": "Mi jefa pidió el reporte, pero yo todavía no lo había terminado.",
+    "cloze": "todavía no lo había terminado",
+    "answer": "todavía no lo había terminado",
+    "lemma": "haber terminado",
+    "meaning": "I still had not finished it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0091.mp3"
+  },
+  {
+    "id": "es-03-0092",
+    "sentence": "El guardia cerró la oficina porque todo el personal había salido.",
+    "cloze": "había salido",
+    "answer": "había salido",
+    "lemma": "haber salido",
+    "meaning": "had left",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0092.mp3"
+  },
+  {
+    "id": "es-03-0093",
+    "sentence": "Fui por el pedido y el restaurante ya lo había preparado.",
+    "cloze": "ya lo había preparado",
+    "answer": "ya lo había preparado",
+    "lemma": "haber preparado",
+    "meaning": "had already prepared it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0093.mp3"
+  },
+  {
+    "id": "es-03-0094",
+    "sentence": "La impresión falló porque alguien había desconectado la impresora.",
+    "cloze": "había desconectado",
+    "answer": "había desconectado",
+    "lemma": "haber desconectado",
+    "meaning": "had disconnected",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0094.mp3"
+  },
+  {
+    "id": "es-03-0095",
+    "sentence": "Encontré las llaves en el cajón donde las había puesto la noche anterior.",
+    "cloze": "las había puesto",
+    "answer": "las había puesto",
+    "lemma": "haber puesto",
+    "meaning": "I had put them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0095.mp3"
+  },
+  {
+    "id": "es-03-0096",
+    "sentence": "En la capacitación tardé en usar la aplicación porque nunca la había usado.",
+    "cloze": "nunca la había usado",
+    "answer": "nunca la había usado",
+    "lemma": "haber usado",
+    "meaning": "I had never used it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0096.mp3"
+  },
+  {
+    "id": "es-03-0097",
+    "sentence": "Cuando nos dieron la habitación, el personal ya había limpiado el baño.",
+    "cloze": "ya había limpiado",
+    "answer": "ya había limpiado",
+    "lemma": "haber limpiado",
+    "meaning": "had already cleaned",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0097.mp3"
+  },
+  {
+    "id": "es-03-0098",
+    "sentence": "El cliente pidió hablar con el supervisor porque todavía no habíamos resuelto su problema.",
+    "cloze": "todavía no habíamos resuelto",
+    "answer": "todavía no habíamos resuelto",
+    "lemma": "haber resuelto",
+    "meaning": "we still had not resolved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0098.mp3"
+  },
+  {
+    "id": "es-03-0099",
+    "sentence": "La coordinadora devolvió el documento porque yo no lo había firmado.",
+    "cloze": "no lo había firmado",
+    "answer": "no lo había firmado",
+    "lemma": "haber firmado",
+    "meaning": "I had not signed it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0099.mp3"
+  },
+  {
+    "id": "es-03-0100",
+    "sentence": "Nos cambiaron de salón porque ya habían reservado el nuestro para otro grupo.",
+    "cloze": "ya habían reservado",
+    "answer": "ya habían reservado",
+    "lemma": "haber reservado",
+    "meaning": "they had already reserved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0100.mp3"
+  },
+  {
+    "id": "es-03-0101",
+    "sentence": "Cuando revisé mi correo, Laura ya me había respondido.",
+    "cloze": "ya me había respondido",
+    "answer": "ya me había respondido",
+    "lemma": "haber respondido",
+    "meaning": "had already replied to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0101.mp3"
+  },
+  {
+    "id": "es-03-0102",
+    "sentence": "Durante la visita, el técnico encontró una falla que nosotros no habíamos visto.",
+    "cloze": "no habíamos visto",
+    "answer": "no habíamos visto",
+    "lemma": "haber visto",
+    "meaning": "we had not seen",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0102.mp3"
+  },
+  {
+    "id": "es-03-0103",
+    "sentence": "Pude entrar a mi cuenta porque ya había recuperado mi contraseña.",
+    "cloze": "ya había recuperado",
+    "answer": "ya había recuperado",
+    "lemma": "haber recuperado",
+    "meaning": "I had already recovered",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0103.mp3"
+  },
+  {
+    "id": "es-03-0104",
+    "sentence": "Regresé a la tintorería al notar que me habían devuelto el saco con una mancha.",
+    "cloze": "me habían devuelto",
+    "answer": "me habían devuelto",
+    "lemma": "haber devuelto",
+    "meaning": "they had returned to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0104.mp3"
+  },
+  {
+    "id": "es-03-0105",
+    "sentence": "Reclamé el cargo porque me habían cobrado dos veces.",
+    "cloze": "me habían cobrado",
+    "answer": "me habían cobrado",
+    "lemma": "haber cobrado",
+    "meaning": "they had charged me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0105.mp3"
+  },
+  {
+    "id": "es-03-0106",
+    "sentence": "Cuando llegué al taller, el técnico ya había abierto el gabinete de mi computadora.",
+    "cloze": "ya había abierto",
+    "answer": "ya había abierto",
+    "lemma": "haber abierto",
+    "meaning": "had already opened",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0106.mp3"
+  },
+  {
+    "id": "es-03-0107",
+    "sentence": "Encontré el aviso detrás de la puerta, donde lo habían pegado esa mañana.",
+    "cloze": "habían pegado",
+    "answer": "habían pegado",
+    "lemma": "haber pegado",
+    "meaning": "they had posted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0107.mp3"
+  },
+  {
+    "id": "es-03-0108",
+    "sentence": "La entrega se retrasó porque el proveedor no había enviado la factura.",
+    "cloze": "no había enviado",
+    "answer": "no había enviado",
+    "lemma": "haber enviado",
+    "meaning": "had not sent",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0108.mp3"
+  },
+  {
+    "id": "es-03-0109",
+    "sentence": "Cuando llamaste, yo ya había preparado todo para la reunión.",
+    "cloze": "ya había preparado",
+    "answer": "ya había preparado",
+    "lemma": "haber preparado",
+    "meaning": "I had already prepared",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0109.mp3"
+  },
+  {
+    "id": "es-03-0110",
+    "sentence": "Después de la tercera queja, la familia cambió de hotel porque nunca había tenido tantos problemas con una reservación.",
+    "cloze": "nunca había tenido",
+    "answer": "nunca había tenido",
+    "lemma": "haber tenido",
+    "meaning": "had never had",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0110.mp3"
+  },
+  {
+    "id": "es-03-0111",
+    "sentence": "En recepción reconocieron mi nombre porque yo ya había hablado con la gerente.",
+    "cloze": "ya había hablado",
+    "answer": "ya había hablado",
+    "lemma": "haber hablado",
+    "meaning": "I had already spoken",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0111.mp3"
+  },
+  {
+    "id": "es-03-0112",
+    "sentence": "Al volver al auto, vimos que alguien había roto una ventana.",
+    "cloze": "había roto",
+    "answer": "había roto",
+    "lemma": "haber roto",
+    "meaning": "had broken",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0112.mp3"
+  },
+  {
+    "id": "es-03-0113",
+    "sentence": "El encargado encontró el piso mojado porque se había roto una tubería.",
+    "cloze": "se había roto",
+    "answer": "se había roto",
+    "lemma": "haberse roto",
+    "meaning": "had broken",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0113.mp3"
+  },
+  {
+    "id": "es-03-0114",
+    "sentence": "Cancelé la visita porque me habían dicho que el museo estaba cerrado.",
+    "cloze": "me habían dicho",
+    "answer": "me habían dicho",
+    "lemma": "haber dicho",
+    "meaning": "they had told me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0114.mp3"
+  },
+  {
+    "id": "es-03-0115",
+    "sentence": "Cuando entramos al salón, el personal ya había cubierto las mesas con manteles.",
+    "cloze": "ya había cubierto",
+    "answer": "ya había cubierto",
+    "lemma": "haber cubierto",
+    "meaning": "had already covered",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0115.mp3"
+  },
+  {
+    "id": "es-03-0116",
+    "sentence": "El paquete llegó después de que yo ya había pedido un reembolso.",
+    "cloze": "ya había pedido",
+    "answer": "ya había pedido",
+    "lemma": "haber pedido",
+    "meaning": "I had already requested",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0116.mp3"
+  },
+  {
+    "id": "es-03-0117",
+    "sentence": "El supervisor reabrió el caso porque todavía no habíamos recibido una respuesta.",
+    "cloze": "todavía no habíamos recibido",
+    "answer": "todavía no habíamos recibido",
+    "lemma": "haber recibido",
+    "meaning": "we still had not received",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0117.mp3"
+  },
+  {
+    "id": "es-03-0118",
+    "sentence": "Cuando llegamos al restaurante, ya habían asignado nuestra mesa a otro grupo.",
+    "cloze": "ya habían asignado",
+    "answer": "ya habían asignado",
+    "lemma": "haber asignado",
+    "meaning": "they had already assigned",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0118.mp3"
+  },
+  {
+    "id": "es-03-0119",
+    "sentence": "Intenté pagar después del concierto, pero ya habían cerrado la caja.",
+    "cloze": "ya habían cerrado",
+    "answer": "ya habían cerrado",
+    "lemma": "haber cerrado",
+    "meaning": "they had already closed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0119.mp3"
+  },
+  {
+    "id": "es-03-0120",
+    "sentence": "Me sorprendió encontrar el local vacío porque nunca lo había visto así.",
+    "cloze": "nunca lo había visto",
+    "answer": "nunca lo había visto",
+    "lemma": "haber visto",
+    "meaning": "I had never seen it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0120.mp3"
+  },
+  {
+    "id": "es-03-0121",
+    "sentence": "Esta semana he terminado los tres informes, así que ya puedo empezar el nuevo proyecto.",
+    "cloze": "he terminado",
+    "answer": "he terminado",
+    "lemma": "haber terminado",
+    "meaning": "I have finished",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0121.mp3"
+  },
+  {
+    "id": "es-03-0122",
+    "sentence": "Hasta ahora hemos avanzado sin retrasos en el proyecto, pero falta revisar el presupuesto.",
+    "cloze": "hemos avanzado",
+    "answer": "hemos avanzado",
+    "lemma": "haber avanzado",
+    "meaning": "we have made progress",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0122.mp3"
+  },
+  {
+    "id": "es-03-0123",
+    "sentence": "Ayer envié el borrador; en lo que va de esta semana, he enviado dos correcciones más.",
+    "cloze": "he enviado",
+    "answer": "he enviado",
+    "lemma": "haber enviado",
+    "meaning": "I have sent",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0123.mp3"
+  },
+  {
+    "id": "es-03-0124",
+    "sentence": "La oficina mandó la factura el lunes, pero todavía no la he recibido en mi correo.",
+    "cloze": "no la he recibido",
+    "answer": "no la he recibido",
+    "lemma": "haber recibido",
+    "meaning": "I haven't received it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0124.mp3"
+  },
+  {
+    "id": "es-03-0125",
+    "sentence": "¿Has tomado algún curso en línea este año o prefieres estudiar en persona?",
+    "cloze": "Has tomado",
+    "answer": "Has tomado",
+    "lemma": "haber tomado",
+    "meaning": "have you taken",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0125.mp3"
+  },
+  {
+    "id": "es-03-0126",
+    "sentence": "Desde la última revisión, la calidad del informe ha mejorado mucho.",
+    "cloze": "ha mejorado",
+    "answer": "ha mejorado",
+    "lemma": "haber mejorado",
+    "meaning": "has improved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0126.mp3"
+  },
+  {
+    "id": "es-03-0127",
+    "sentence": "Esta semana hemos tenido dos reuniones con el nuevo equipo y ya están claros los horarios.",
+    "cloze": "hemos tenido",
+    "answer": "hemos tenido",
+    "lemma": "haber tenido",
+    "meaning": "we have had",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0127.mp3"
+  },
+  {
+    "id": "es-03-0128",
+    "sentence": "En los últimos días, los técnicos han instalado tres actualizaciones y el sistema sigue estable.",
+    "cloze": "han instalado",
+    "answer": "han instalado",
+    "lemma": "haber instalado",
+    "meaning": "they have installed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0128.mp3"
+  },
+  {
+    "id": "es-03-0129",
+    "sentence": "Este mes he cambiado mi contraseña dos veces por seguridad.",
+    "cloze": "he cambiado",
+    "answer": "he cambiado",
+    "lemma": "haber cambiado",
+    "meaning": "I have changed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0129.mp3"
+  },
+  {
+    "id": "es-03-0130",
+    "sentence": "Hasta ahora no hemos encontrado la causa del error, así que seguimos revisando el equipo.",
+    "cloze": "no hemos encontrado",
+    "answer": "no hemos encontrado",
+    "lemma": "haber encontrado",
+    "meaning": "we haven't found",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0130.mp3"
+  },
+  {
+    "id": "es-03-0131",
+    "sentence": "Con las últimas actualizaciones, la conexión se ha vuelto más estable.",
+    "cloze": "se ha vuelto",
+    "answer": "se ha vuelto",
+    "lemma": "haberse vuelto",
+    "meaning": "has become",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0131.mp3"
+  },
+  {
+    "id": "es-03-0132",
+    "sentence": "Ya conozco bien esa ruta porque he viajado por ella varias veces; por eso la prefiero para el próximo viaje.",
+    "cloze": "he viajado",
+    "answer": "he viajado",
+    "lemma": "haber viajado",
+    "meaning": "I have traveled",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0132.mp3"
+  },
+  {
+    "id": "es-03-0133",
+    "sentence": "Nunca he rentado un auto en otro país, así que necesito comparar las opciones.",
+    "cloze": "Nunca he rentado",
+    "answer": "Nunca he rentado",
+    "lemma": "haber rentado",
+    "meaning": "I have never rented",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0133.mp3"
+  },
+  {
+    "id": "es-03-0134",
+    "sentence": "¿Has estado en Oaxaca o sería tu primera visita?",
+    "cloze": "Has estado",
+    "answer": "Has estado",
+    "lemma": "haber estado",
+    "meaning": "have you been",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0134.mp3"
+  },
+  {
+    "id": "es-03-0135",
+    "sentence": "Seguimos de viaje y ya hemos probado varias rutas; esta es la más rápida.",
+    "cloze": "hemos probado",
+    "answer": "hemos probado",
+    "lemma": "haber probado",
+    "meaning": "we have tried",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0135.mp3"
+  },
+  {
+    "id": "es-03-0136",
+    "sentence": "En lo que va del mes, el número de pedidos ha aumentado bastante.",
+    "cloze": "ha aumentado",
+    "answer": "ha aumentado",
+    "lemma": "haber aumentado",
+    "meaning": "has increased",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0136.mp3"
+  },
+  {
+    "id": "es-03-0137",
+    "sentence": "Últimamente, las videollamadas se han cortado al compartir la pantalla, así que hoy probaremos otra aplicación.",
+    "cloze": "se han cortado",
+    "answer": "se han cortado",
+    "lemma": "haberse cortado",
+    "meaning": "have been cutting out",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0137.mp3"
+  },
+  {
+    "id": "es-03-0138",
+    "sentence": "Este año he ahorrado lo suficiente para hacer un viaje corto.",
+    "cloze": "he ahorrado",
+    "answer": "he ahorrado",
+    "lemma": "haber ahorrado",
+    "meaning": "I have saved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0138.mp3"
+  },
+  {
+    "id": "es-03-0139",
+    "sentence": "Hasta ahora no he faltado a ninguna clase este semestre.",
+    "cloze": "no he faltado",
+    "answer": "no he faltado",
+    "lemma": "haber faltado",
+    "meaning": "I haven't missed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0139.mp3"
+  },
+  {
+    "id": "es-03-0140",
+    "sentence": "Esta semana he dormido mejor y tengo más energía por las mañanas.",
+    "cloze": "he dormido",
+    "answer": "he dormido",
+    "lemma": "haber dormido",
+    "meaning": "I have slept",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0140.mp3"
+  },
+  {
+    "id": "es-03-0141",
+    "sentence": "Desde enero no he comprado café entre semana y ahora gasto menos.",
+    "cloze": "no he comprado",
+    "answer": "no he comprado",
+    "lemma": "haber comprado",
+    "meaning": "I haven't bought",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0141.mp3"
+  },
+  {
+    "id": "es-03-0142",
+    "sentence": "Esta semana hemos hecho ejercicio tres veces y queremos salir a caminar mañana.",
+    "cloze": "hemos hecho",
+    "answer": "hemos hecho",
+    "lemma": "haber hecho",
+    "meaning": "we have exercised",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0142.mp3"
+  },
+  {
+    "id": "es-03-0143",
+    "sentence": "El mes sigue en curso y todavía no has alcanzado tu meta de ahorro.",
+    "cloze": "todavía no has alcanzado",
+    "answer": "todavía no has alcanzado",
+    "lemma": "haber alcanzado",
+    "meaning": "you still haven't reached",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0143.mp3"
+  },
+  {
+    "id": "es-03-0144",
+    "sentence": "¿Cuántos artículos has leído este semestre para tu proyecto?",
+    "cloze": "has leído",
+    "answer": "has leído",
+    "lemma": "haber leído",
+    "meaning": "have you read",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0144.mp3"
+  },
+  {
+    "id": "es-03-0145",
+    "sentence": "¿Has presentado un informe frente a un grupo o necesitas practicar primero?",
+    "cloze": "Has presentado",
+    "answer": "Has presentado",
+    "lemma": "haber presentado",
+    "meaning": "have you presented",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0145.mp3"
+  },
+  {
+    "id": "es-03-0146",
+    "sentence": "Nunca hemos trabajado desde otro país, así que antes de viajar queremos confirmar el horario.",
+    "cloze": "Nunca hemos trabajado",
+    "answer": "Nunca hemos trabajado",
+    "lemma": "haber trabajado",
+    "meaning": "we have never worked",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0146.mp3"
+  },
+  {
+    "id": "es-03-0147",
+    "sentence": "¿Ha usado usted esta plataforma antes o quiere una explicación breve?",
+    "cloze": "Ha usado",
+    "answer": "Ha usado",
+    "lemma": "haber usado",
+    "meaning": "have you used",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0147.mp3"
+  },
+  {
+    "id": "es-03-0148",
+    "sentence": "Hasta ahora, el equipo ha cumplido con todas las fechas de entrega del proyecto.",
+    "cloze": "ha cumplido",
+    "answer": "ha cumplido",
+    "lemma": "haber cumplido",
+    "meaning": "has met",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0148.mp3"
+  },
+  {
+    "id": "es-03-0149",
+    "sentence": "En lo que va de la mañana, la aplicación se ha cerrado dos veces mientras guardaba el archivo.",
+    "cloze": "se ha cerrado",
+    "answer": "se ha cerrado",
+    "lemma": "haberse cerrado",
+    "meaning": "has closed unexpectedly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0149.mp3"
+  },
+  {
+    "id": "es-03-0150",
+    "sentence": "Desde enero he mantenido un horario fijo de estudio y ya me concentro mejor.",
+    "cloze": "he mantenido",
+    "answer": "he mantenido",
+    "lemma": "haber mantenido",
+    "meaning": "I have maintained",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0150.mp3"
+  },
+  {
+    "id": "es-03-0151",
+    "sentence": "Este semestre hemos entregado todos los trabajos a tiempo y no tenemos pendientes.",
+    "cloze": "hemos entregado",
+    "answer": "hemos entregado",
+    "lemma": "haber entregado",
+    "meaning": "we have submitted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0151.mp3"
+  },
+  {
+    "id": "es-03-0152",
+    "sentence": "En lo que va del mes, no han cancelado ningún vuelo de esta ruta.",
+    "cloze": "no han cancelado",
+    "answer": "no han cancelado",
+    "lemma": "haber cancelado",
+    "meaning": "they haven't canceled",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0152.mp3"
+  },
+  {
+    "id": "es-03-0153",
+    "sentence": "En los últimos días, me han llegado varios mensajes sobre la reservación.",
+    "cloze": "me han llegado",
+    "answer": "me han llegado",
+    "lemma": "haber llegado",
+    "meaning": "I have received",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0153.mp3"
+  },
+  {
+    "id": "es-03-0154",
+    "sentence": "Este mes hemos gastado menos en comida porque cocinamos en casa.",
+    "cloze": "hemos gastado",
+    "answer": "hemos gastado",
+    "lemma": "haber gastado",
+    "meaning": "we have spent",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0154.mp3"
+  },
+  {
+    "id": "es-03-0155",
+    "sentence": "Hasta hoy no me he atrasado con ningún pago del departamento.",
+    "cloze": "no me he atrasado",
+    "answer": "no me he atrasado",
+    "lemma": "haberse atrasado",
+    "meaning": "I haven't fallen behind",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0155.mp3"
+  },
+  {
+    "id": "es-03-0156",
+    "sentence": "Ayer compré la impresora, pero todavía no la he instalado porque me falta el cable.",
+    "cloze": "todavía no la he instalado",
+    "answer": "todavía no la he instalado",
+    "lemma": "haber instalado",
+    "meaning": "I still haven't installed it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0156.mp3"
+  },
+  {
+    "id": "es-03-0157",
+    "sentence": "El año pasado fui a Puebla por trabajo y este año he regresado; ahora estoy aquí de vacaciones.",
+    "cloze": "he regresado",
+    "answer": "he regresado",
+    "lemma": "haber regresado",
+    "meaning": "I have returned",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0157.mp3"
+  },
+  {
+    "id": "es-03-0158",
+    "sentence": "Anoche perdí la cartera y desde entonces la he buscado en toda la casa.",
+    "cloze": "la he buscado",
+    "answer": "la he buscado",
+    "lemma": "haber buscado",
+    "meaning": "I have looked for it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0158.mp3"
+  },
+  {
+    "id": "es-03-0159",
+    "sentence": "La semana pasada tuvimos varias fallas; esta semana el sistema ha funcionado sin problemas.",
+    "cloze": "ha funcionado",
+    "answer": "ha funcionado",
+    "lemma": "haber funcionado",
+    "meaning": "has worked",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0159.mp3"
+  },
+  {
+    "id": "es-03-0160",
+    "sentence": "¿Qué cambios has notado últimamente en tus hábitos de estudio?",
+    "cloze": "has notado",
+    "answer": "has notado",
+    "lemma": "haber notado",
+    "meaning": "have you noticed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0160.mp3"
+  },
+  {
+    "id": "es-03-0161",
+    "sentence": "Para saber si el plan funciona, llevo dos meses registrando cada gasto en una hoja.",
+    "cloze": "llevo dos meses registrando",
+    "answer": "llevo dos meses registrando",
+    "lemma": "llevar + gerundio",
+    "meaning": "to have been recording for two months",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0161.mp3"
+  },
+  {
+    "id": "es-03-0162",
+    "sentence": "Después del ajuste, la máquina por fin dejó de desperdiciar material en cada pieza.",
+    "cloze": "por fin dejó de desperdiciar",
+    "answer": "por fin dejó de desperdiciar",
+    "lemma": "dejar de + infinitivo",
+    "meaning": "to finally stop wasting",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0162.mp3"
+  },
+  {
+    "id": "es-03-0163",
+    "sentence": "Estaba a punto de presentar el proyecto cuando la plataforma cerró mi sesión.",
+    "cloze": "Estaba a punto de presentar",
+    "answer": "Estaba a punto de presentar",
+    "lemma": "estar a punto de + infinitivo",
+    "meaning": "to have been about to present",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0163.mp3"
+  },
+  {
+    "id": "es-03-0164",
+    "sentence": "Como el paquete regresó dañado, la tienda volvió a enviarlo por mensajería urgente.",
+    "cloze": "volvió a enviarlo",
+    "answer": "volvió a enviarlo",
+    "lemma": "volver a + infinitivo",
+    "meaning": "to send it again",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0164.mp3"
+  },
+  {
+    "id": "es-03-0165",
+    "sentence": "Ya resolvimos lo más difícil, pero seguimos documentando las decisiones antes de cerrar el proyecto.",
+    "cloze": "seguimos documentando las decisiones",
+    "answer": "seguimos documentando las decisiones",
+    "lemma": "seguir + gerundio",
+    "meaning": "to continue documenting the decisions",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0165.mp3"
+  },
+  {
+    "id": "es-03-0166",
+    "sentence": "Ahora descanso mejor desde que dejé de revisar el correo antes de dormir.",
+    "cloze": "desde que dejé de revisar",
+    "answer": "desde que dejé de revisar",
+    "lemma": "desde que + dejar de",
+    "meaning": "since I stopped checking",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0166.mp3"
+  },
+  {
+    "id": "es-03-0167",
+    "sentence": "No busques más el contrato: acabo de guardarlo en la carpeta compartida.",
+    "cloze": "acabo de guardarlo",
+    "answer": "acabo de guardarlo",
+    "lemma": "acabar de + infinitivo",
+    "meaning": "to have just saved it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0167.mp3"
+  },
+  {
+    "id": "es-03-0168",
+    "sentence": "Para llegar con resistencia a la carrera, Paula lleva entrenando desde abril tres veces por semana.",
+    "cloze": "lleva entrenando desde abril",
+    "answer": "lleva entrenando desde abril",
+    "lemma": "llevar + gerundio",
+    "meaning": "to have been training since April",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0168.mp3"
+  },
+  {
+    "id": "es-03-0169",
+    "sentence": "La aplicación empezó a responder mejor después de que liberamos espacio en el teléfono.",
+    "cloze": "empezó a responder mejor",
+    "answer": "empezó a responder mejor",
+    "lemma": "empezar a + infinitivo",
+    "meaning": "to start responding better",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0169.mp3"
+  },
+  {
+    "id": "es-03-0170",
+    "sentence": "Conéctalo ahora, porque el reloj está a punto de apagarse durante el entrenamiento.",
+    "cloze": "está a punto de apagarse",
+    "answer": "está a punto de apagarse",
+    "lemma": "estar a punto de + infinitivo",
+    "meaning": "to be about to turn off",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0170.mp3"
+  },
+  {
+    "id": "es-03-0171",
+    "sentence": "El código volvió a fallar justo cuando íbamos a mostrar la versión al cliente.",
+    "cloze": "volvió a fallar",
+    "answer": "volvió a fallar",
+    "lemma": "volver a + infinitivo",
+    "meaning": "to fail again",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0171.mp3"
+  },
+  {
+    "id": "es-03-0172",
+    "sentence": "Aunque faltan dos pruebas, seguimos revisando las conexiones antes de cerrar el reporte.",
+    "cloze": "seguimos revisando las conexiones",
+    "answer": "seguimos revisando las conexiones",
+    "lemma": "seguir + gerundio",
+    "meaning": "to continue checking the connections",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0172.mp3"
+  },
+  {
+    "id": "es-03-0173",
+    "sentence": "Para dormir sin interrupciones, dejé de contestar mensajes después de las diez.",
+    "cloze": "dejé de contestar mensajes",
+    "answer": "dejé de contestar mensajes",
+    "lemma": "dejar de + infinitivo",
+    "meaning": "to stop answering messages",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0173.mp3"
+  },
+  {
+    "id": "es-03-0174",
+    "sentence": "Cometemos menos errores desde que anotamos cada pendiente al final de la junta.",
+    "cloze": "desde que anotamos cada pendiente",
+    "answer": "desde que anotamos cada pendiente",
+    "lemma": "desde que",
+    "meaning": "since we started recording every pending task",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0174.mp3"
+  },
+  {
+    "id": "es-03-0175",
+    "sentence": "Cuando se fue la luz, llevábamos casi dos horas editando el video de capacitación.",
+    "cloze": "llevábamos casi dos horas editando",
+    "answer": "llevábamos casi dos horas editando",
+    "lemma": "llevar + gerundio",
+    "meaning": "to have been editing for almost two hours",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0175.mp3"
+  },
+  {
+    "id": "es-03-0176",
+    "sentence": "Puede recoger su equipo; acabamos de recibir la refacción que faltaba.",
+    "cloze": "acabamos de recibir la refacción",
+    "answer": "acabamos de recibir la refacción",
+    "lemma": "acabar de + infinitivo",
+    "meaning": "to have just received the replacement part",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0176.mp3"
+  },
+  {
+    "id": "es-03-0177",
+    "sentence": "Ya reinicié la tableta dos veces, pero la pantalla sigue congelándose al abrir el plano.",
+    "cloze": "sigue congelándose",
+    "answer": "sigue congelándose",
+    "lemma": "seguir + gerundio",
+    "meaning": "to keep freezing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0177.mp3"
+  },
+  {
+    "id": "es-03-0178",
+    "sentence": "Guarden sus cosas, porque el autobús está a punto de salir del taller.",
+    "cloze": "está a punto de salir",
+    "answer": "está a punto de salir",
+    "lemma": "estar a punto de + infinitivo",
+    "meaning": "to be about to leave",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0178.mp3"
+  },
+  {
+    "id": "es-03-0179",
+    "sentence": "Después de la lesión, tardé varias semanas en volver a correr con confianza.",
+    "cloze": "volver a correr",
+    "answer": "volver a correr",
+    "lemma": "volver a + infinitivo",
+    "meaning": "to start running again",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0179.mp3"
+  },
+  {
+    "id": "es-03-0180",
+    "sentence": "En cuanto cambiamos el empaque, la llave dejó de gotear durante la noche.",
+    "cloze": "dejó de gotear",
+    "answer": "dejó de gotear",
+    "lemma": "dejar de + infinitivo",
+    "meaning": "to stop dripping",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0180.mp3"
+  },
+  {
+    "id": "es-03-0181",
+    "sentence": "El técnico lleva desde las ocho revisando el calentador y todavía no localiza la falla.",
+    "cloze": "lleva desde las ocho revisando",
+    "answer": "lleva desde las ocho revisando",
+    "lemma": "llevar + gerundio",
+    "meaning": "to have been checking since eight",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0181.mp3"
+  },
+  {
+    "id": "es-03-0182",
+    "sentence": "Ahora todos llegan puntuales desde que adelantaron la sesión media hora.",
+    "cloze": "desde que adelantaron la sesión",
+    "answer": "desde que adelantaron la sesión",
+    "lemma": "desde que",
+    "meaning": "since they moved the session earlier",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0182.mp3"
+  },
+  {
+    "id": "es-03-0183",
+    "sentence": "El respaldo acaba de completarse, así que ya puedes apagar la computadora.",
+    "cloze": "acaba de completarse",
+    "answer": "acaba de completarse",
+    "lemma": "acabar de + infinitivo",
+    "meaning": "to have just completed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0183.mp3"
+  },
+  {
+    "id": "es-03-0184",
+    "sentence": "El cliente aprobó la propuesta, pero seguimos afinando los detalles del calendario.",
+    "cloze": "seguimos afinando los detalles",
+    "answer": "seguimos afinando los detalles",
+    "lemma": "seguir + gerundio",
+    "meaning": "to continue refining the details",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0184.mp3"
+  },
+  {
+    "id": "es-03-0185",
+    "sentence": "Con el depósito de hoy, estamos por alcanzar la cantidad necesaria para la reparación.",
+    "cloze": "estamos por alcanzar",
+    "answer": "estamos por alcanzar",
+    "lemma": "estar por + infinitivo",
+    "meaning": "to be close to reaching",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0185.mp3"
+  },
+  {
+    "id": "es-03-0186",
+    "sentence": "Como el formulario no se guardó, tuve que volver a llenarlo desde el principio.",
+    "cloze": "tuve que volver a llenarlo",
+    "answer": "tuve que volver a llenarlo",
+    "lemma": "volver a + infinitivo",
+    "meaning": "to have to fill it out again",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0186.mp3"
+  },
+  {
+    "id": "es-03-0187",
+    "sentence": "Al cambiar al turno matutino, Marta dejó de entrenar por las noches.",
+    "cloze": "dejó de entrenar",
+    "answer": "dejó de entrenar",
+    "lemma": "dejar de + infinitivo",
+    "meaning": "to stop training",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0187.mp3"
+  },
+  {
+    "id": "es-03-0188",
+    "sentence": "Aunque soporte ya verificó nuestros datos, llevamos una semana tratando de recuperar la cuenta.",
+    "cloze": "llevamos una semana tratando de recuperar",
+    "answer": "llevamos una semana tratando de recuperar",
+    "lemma": "llevar + gerundio",
+    "meaning": "to have been trying to recover for a week",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0188.mp3"
+  },
+  {
+    "id": "es-03-0189",
+    "sentence": "El horario impreso ya no sirve; lo acaban de cambiar en recepción.",
+    "cloze": "lo acaban de cambiar",
+    "answer": "lo acaban de cambiar",
+    "lemma": "acabar de + infinitivo",
+    "meaning": "to have just changed it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0189.mp3"
+  },
+  {
+    "id": "es-03-0190",
+    "sentence": "Aunque hoy liberamos la versión básica, el equipo seguirá corrigiendo errores durante la prueba.",
+    "cloze": "seguirá corrigiendo errores",
+    "answer": "seguirá corrigiendo errores",
+    "lemma": "seguir + gerundio",
+    "meaning": "to continue correcting errors",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0190.mp3"
+  },
+  {
+    "id": "es-03-0191",
+    "sentence": "La clase estaba a punto de empezar cuando se cortó la conexión del instructor.",
+    "cloze": "estaba a punto de empezar",
+    "answer": "estaba a punto de empezar",
+    "lemma": "estar a punto de + infinitivo",
+    "meaning": "to have been about to start",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0191.mp3"
+  },
+  {
+    "id": "es-03-0192",
+    "sentence": "El ahorro mensual aumentó desde que cancelamos dos suscripciones que casi no usábamos.",
+    "cloze": "desde que cancelamos dos suscripciones",
+    "answer": "desde que cancelamos dos suscripciones",
+    "lemma": "desde que",
+    "meaning": "since we canceled two subscriptions",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0192.mp3"
+  },
+  {
+    "id": "es-03-0193",
+    "sentence": "¿Dejaste de usar el recordatorio o cambiaste la hora de la alarma?",
+    "cloze": "Dejaste de usar el recordatorio",
+    "answer": "Dejaste de usar el recordatorio",
+    "lemma": "dejar de + infinitivo",
+    "meaning": "to stop using the reminder",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0193.mp3"
+  },
+  {
+    "id": "es-03-0194",
+    "sentence": "La primera reparación no duró, así que volvieron a desmontar el motor esta mañana.",
+    "cloze": "volvieron a desmontar el motor",
+    "answer": "volvieron a desmontar el motor",
+    "lemma": "volver a + infinitivo",
+    "meaning": "to take the motor apart again",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0194.mp3"
+  },
+  {
+    "id": "es-03-0195",
+    "sentence": "Son las seis y el sistema lleva funcionando sin interrupciones desde el mediodía.",
+    "cloze": "lleva funcionando sin interrupciones",
+    "answer": "lleva funcionando sin interrupciones",
+    "lemma": "llevar + gerundio",
+    "meaning": "to have been running without interruptions",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0195.mp3"
+  },
+  {
+    "id": "es-03-0196",
+    "sentence": "Aun después de la actualización, las notificaciones siguen llegando con retraso.",
+    "cloze": "siguen llegando con retraso",
+    "answer": "siguen llegando con retraso",
+    "lemma": "seguir + gerundio",
+    "meaning": "to keep arriving late",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0196.mp3"
+  },
+  {
+    "id": "es-03-0197",
+    "sentence": "Ya puedes entrar al tablero; te acabo de dar acceso con tu cuenta institucional.",
+    "cloze": "te acabo de dar acceso",
+    "answer": "te acabo de dar acceso",
+    "lemma": "acabar de + infinitivo",
+    "meaning": "to have just given you access",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0197.mp3"
+  },
+  {
+    "id": "es-03-0198",
+    "sentence": "No compartan el borrador: estamos a punto de publicar el nuevo horario.",
+    "cloze": "estamos a punto de publicar",
+    "answer": "estamos a punto de publicar",
+    "lemma": "estar a punto de + infinitivo",
+    "meaning": "to be about to publish",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0198.mp3"
+  },
+  {
+    "id": "es-03-0199",
+    "sentence": "Desde que cambié de método, recuerdo mejor el vocabulario de cada lección.",
+    "cloze": "Desde que cambié de método",
+    "answer": "Desde que cambié de método",
+    "lemma": "desde que",
+    "meaning": "since I changed methods",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0199.mp3"
+  },
+  {
+    "id": "es-03-0200",
+    "sentence": "Después de tres reinicios, el teléfono por fin terminó de sincronizarse con la nube.",
+    "cloze": "por fin terminó de sincronizarse",
+    "answer": "por fin terminó de sincronizarse",
+    "lemma": "terminar de + infinitivo",
+    "meaning": "to finally finish synchronizing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0200.mp3"
+  }
+]
