@@ -5998,5 +5998,2005 @@
     "meaning": "reschedule the demonstration",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/03/es-03-0600.mp3"
+  },
+  {
+    "id": "es-03-0601",
+    "sentence": "Según el pronóstico local, mañana lloverá en gran parte de la ciudad.",
+    "cloze": "lloverá",
+    "answer": "lloverá",
+    "lemma": "llover",
+    "meaning": "it will rain",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0601.mp3"
+  },
+  {
+    "id": "es-03-0602",
+    "sentence": "Después del frente frío, la temperatura bajará durante la noche.",
+    "cloze": "bajará",
+    "answer": "bajará",
+    "lemma": "bajar",
+    "meaning": "will drop",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0602.mp3"
+  },
+  {
+    "id": "es-03-0603",
+    "sentence": "El pronóstico indica cielo despejado, así que tendremos una mañana soleada.",
+    "cloze": "tendremos",
+    "answer": "tendremos",
+    "lemma": "tener",
+    "meaning": "we will have",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0603.mp3"
+  },
+  {
+    "id": "es-03-0604",
+    "sentence": "El aviso meteorológico señala que soplarán ráfagas fuertes en las zonas altas.",
+    "cloze": "soplarán",
+    "answer": "soplarán",
+    "lemma": "soplar",
+    "meaning": "strong gusts will blow",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0604.mp3"
+  },
+  {
+    "id": "es-03-0605",
+    "sentence": "Si sigue aumentando la humedad, se formarán tormentas antes del anochecer.",
+    "cloze": "se formarán",
+    "answer": "se formarán",
+    "lemma": "formarse",
+    "meaning": "storms will form",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0605.mp3"
+  },
+  {
+    "id": "es-03-0606",
+    "sentence": "Según el tablero de salidas, el tren partirá del andén cuatro a las siete.",
+    "cloze": "partirá",
+    "answer": "partirá",
+    "lemma": "partir",
+    "meaning": "will depart",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0606.mp3"
+  },
+  {
+    "id": "es-03-0607",
+    "sentence": "El hotel ya confirmó el traslado: una camioneta pasará por ustedes a las seis y media.",
+    "cloze": "pasará por ustedes",
+    "answer": "pasará por ustedes",
+    "lemma": "pasar por",
+    "meaning": "will pick you up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0607.mp3"
+  },
+  {
+    "id": "es-03-0608",
+    "sentence": "El itinerario deja veinte minutos entre vuelos, así que lograremos hacer la conexión.",
+    "cloze": "lograremos hacer la conexión",
+    "answer": "lograremos hacer la conexión",
+    "lemma": "lograr",
+    "meaning": "we will manage to make the connection",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0608.mp3"
+  },
+  {
+    "id": "es-03-0609",
+    "sentence": "A partir del lunes, el autobús exprés recorrerá la ruta nueva.",
+    "cloze": "recorrerá",
+    "answer": "recorrerá",
+    "lemma": "recorrer",
+    "meaning": "will travel along",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0609.mp3"
+  },
+  {
+    "id": "es-03-0610",
+    "sentence": "Durante las obras, la Línea 1 operará con un horario reducido.",
+    "cloze": "operará",
+    "answer": "operará",
+    "lemma": "operar",
+    "meaning": "will operate",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0610.mp3"
+  },
+  {
+    "id": "es-03-0611",
+    "sentence": "La propuesta ya está lista; el viernes la presentaremos ante el equipo.",
+    "cloze": "la presentaremos",
+    "answer": "la presentaremos",
+    "lemma": "presentar",
+    "meaning": "we will present it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0611.mp3"
+  },
+  {
+    "id": "es-03-0612",
+    "sentence": "En cuanto reciba la respuesta, te mandaré el folio por correo.",
+    "cloze": "te mandaré",
+    "answer": "te mandaré",
+    "lemma": "mandar",
+    "meaning": "I will send you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0612.mp3"
+  },
+  {
+    "id": "es-03-0613",
+    "sentence": "La agenda reserva media hora para tu propuesta; mañana la gerente la revisará.",
+    "cloze": "la revisará",
+    "answer": "la revisará",
+    "lemma": "revisar",
+    "meaning": "will review it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0613.mp3"
+  },
+  {
+    "id": "es-03-0614",
+    "sentence": "Si terminamos el informe hoy, el lunes iniciaremos las pruebas.",
+    "cloze": "iniciaremos",
+    "answer": "iniciaremos",
+    "lemma": "iniciar",
+    "meaning": "we will begin",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0614.mp3"
+  },
+  {
+    "id": "es-03-0615",
+    "sentence": "El calendario marca la entrega final para octubre; para entonces concluiremos el proyecto.",
+    "cloze": "concluiremos",
+    "answer": "concluiremos",
+    "lemma": "concluir",
+    "meaning": "we will complete",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0615.mp3"
+  },
+  {
+    "id": "es-03-0616",
+    "sentence": "Mientras Ana está en capacitación, Miguel cubrirá el turno de recepción.",
+    "cloze": "cubrirá",
+    "answer": "cubrirá",
+    "lemma": "cubrir",
+    "meaning": "will cover",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0616.mp3"
+  },
+  {
+    "id": "es-03-0617",
+    "sentence": "No te preocupes por las copias; yo me encargaré de imprimirlas antes de la junta.",
+    "cloze": "me encargaré de imprimirlas",
+    "answer": "me encargaré de imprimirlas",
+    "lemma": "encargarse de",
+    "meaning": "I will take care of printing them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0617.mp3"
+  },
+  {
+    "id": "es-03-0618",
+    "sentence": "Por el simulacro, la oficina permanecerá cerrada de once a doce.",
+    "cloze": "permanecerá cerrada",
+    "answer": "permanecerá cerrada",
+    "lemma": "permanecer",
+    "meaning": "will remain closed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0618.mp3"
+  },
+  {
+    "id": "es-03-0619",
+    "sentence": "Estos errores se repiten en todos los ejercicios; con más práctica, podrás reconocerlos rápidamente.",
+    "cloze": "podrás reconocerlos",
+    "answer": "podrás reconocerlos",
+    "lemma": "poder",
+    "meaning": "you will be able to recognize them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0619.mp3"
+  },
+  {
+    "id": "es-03-0620",
+    "sentence": "La plataforma ya muestra la fecha: la profesora publicará las calificaciones el miércoles.",
+    "cloze": "publicará",
+    "answer": "publicará",
+    "lemma": "publicar",
+    "meaning": "will post",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0620.mp3"
+  },
+  {
+    "id": "es-03-0621",
+    "sentence": "Para el examen del viernes, esta noche repasaré los capítulos que vimos en clase.",
+    "cloze": "repasaré",
+    "answer": "repasaré",
+    "lemma": "repasar",
+    "meaning": "I will review",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0621.mp3"
+  },
+  {
+    "id": "es-03-0622",
+    "sentence": "Según el calendario académico, el próximo módulo comenzará después de las vacaciones.",
+    "cloze": "comenzará",
+    "answer": "comenzará",
+    "lemma": "comenzar",
+    "meaning": "will begin",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0622.mp3"
+  },
+  {
+    "id": "es-03-0623",
+    "sentence": "Trae tus dudas a la asesoría y al final te explicaré el formato de las referencias.",
+    "cloze": "te explicaré",
+    "answer": "te explicaré",
+    "lemma": "explicar",
+    "meaning": "I will explain to you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0623.mp3"
+  },
+  {
+    "id": "es-03-0624",
+    "sentence": "Con otra semana de práctica, entenderás mejor las instrucciones del laboratorio.",
+    "cloze": "entenderás",
+    "answer": "entenderás",
+    "lemma": "entender",
+    "meaning": "you will understand",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0624.mp3"
+  },
+  {
+    "id": "es-03-0625",
+    "sentence": "El rastreo ya marca la ruta local; el paquete nos llegará antes del mediodía.",
+    "cloze": "nos llegará",
+    "answer": "nos llegará",
+    "lemma": "llegar",
+    "meaning": "will reach us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0625.mp3"
+  },
+  {
+    "id": "es-03-0626",
+    "sentence": "La cita quedó confirmada: el técnico vendrá a recoger el equipo mañana temprano.",
+    "cloze": "vendrá a recoger",
+    "answer": "vendrá a recoger",
+    "lemma": "venir a recoger",
+    "meaning": "will come to collect",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0626.mp3"
+  },
+  {
+    "id": "es-03-0627",
+    "sentence": "Por el cierre de la calle, la entrega se demorará un día.",
+    "cloze": "se demorará",
+    "answer": "se demorará",
+    "lemma": "demorarse",
+    "meaning": "will be delayed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0627.mp3"
+  },
+  {
+    "id": "es-03-0628",
+    "sentence": "Los proveedores esperan la pieza hoy; cuando la reciban, nos la mandarán a la sucursal.",
+    "cloze": "nos la mandarán",
+    "answer": "nos la mandarán",
+    "lemma": "mandar",
+    "meaning": "they will send it to us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0628.mp3"
+  },
+  {
+    "id": "es-03-0629",
+    "sentence": "Si el pedido llega incompleto, te reembolsaremos el costo del envío.",
+    "cloze": "te reembolsaremos",
+    "answer": "te reembolsaremos",
+    "lemma": "reembolsar",
+    "meaning": "we will refund you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0629.mp3"
+  },
+  {
+    "id": "es-03-0630",
+    "sentence": "Según el programa oficial, la ceremonia dará inicio a las cinco.",
+    "cloze": "dará inicio",
+    "answer": "dará inicio",
+    "lemma": "dar inicio",
+    "meaning": "will begin",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0630.mp3"
+  },
+  {
+    "id": "es-03-0631",
+    "sentence": "Ya confirmaron treinta puestos, así que la feria reunirá a productores de toda la región.",
+    "cloze": "reunirá",
+    "answer": "reunirá",
+    "lemma": "reunir",
+    "meaning": "will bring together",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0631.mp3"
+  },
+  {
+    "id": "es-03-0632",
+    "sentence": "Aunque no puedas verla en vivo, la transmisión quedará disponible después del evento.",
+    "cloze": "quedará disponible",
+    "answer": "quedará disponible",
+    "lemma": "quedar",
+    "meaning": "will remain available",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0632.mp3"
+  },
+  {
+    "id": "es-03-0633",
+    "sentence": "Para la comida del domingo, prepararé una opción sin carne.",
+    "cloze": "prepararé",
+    "answer": "prepararé",
+    "lemma": "preparar",
+    "meaning": "I will prepare",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0633.mp3"
+  },
+  {
+    "id": "es-03-0634",
+    "sentence": "El sistema tiene programada una actualización; esta noche la instalará automáticamente.",
+    "cloze": "la instalará",
+    "answer": "la instalará",
+    "lemma": "instalar",
+    "meaning": "will install it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0634.mp3"
+  },
+  {
+    "id": "es-03-0635",
+    "sentence": "Las pruebas ya no detectan errores; después del reinicio, la aplicación funcionará con mayor estabilidad.",
+    "cloze": "funcionará",
+    "answer": "funcionará",
+    "lemma": "funcionar",
+    "meaning": "will work",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0635.mp3"
+  },
+  {
+    "id": "es-03-0636",
+    "sentence": "Cuando confirmes tu identidad, recuperarás el acceso a la cuenta.",
+    "cloze": "recuperarás",
+    "answer": "recuperarás",
+    "lemma": "recuperar",
+    "meaning": "you will regain",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0636.mp3"
+  },
+  {
+    "id": "es-03-0637",
+    "sentence": "Solo quedan doscientos megabytes libres; si guardas más fotos, la memoria se llenará pronto.",
+    "cloze": "se llenará",
+    "answer": "se llenará",
+    "lemma": "llenarse",
+    "meaning": "will fill up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0637.mp3"
+  },
+  {
+    "id": "es-03-0638",
+    "sentence": "Estoy revisando la compatibilidad del equipo; mañana te diré si funciona con esta red.",
+    "cloze": "te diré",
+    "answer": "te diré",
+    "lemma": "decir",
+    "meaning": "I will tell you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0638.mp3"
+  },
+  {
+    "id": "es-03-0639",
+    "sentence": "El contrato nuevo incluye atención sabatina; desde octubre contaremos con soporte los fines de semana.",
+    "cloze": "contaremos con soporte",
+    "answer": "contaremos con soporte",
+    "lemma": "contar con",
+    "meaning": "we will have support",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0639.mp3"
+  },
+  {
+    "id": "es-03-0640",
+    "sentence": "La biblioteca ya aprobó el cambio; la próxima semana extenderá su horario hasta las nueve.",
+    "cloze": "extenderá",
+    "answer": "extenderá",
+    "lemma": "extender",
+    "meaning": "will extend",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0640.mp3"
+  },
+  {
+    "id": "es-03-0641",
+    "sentence": "Ana dejó marcado ese horario como ocupado, así que estará en una junta con el equipo.",
+    "cloze": "estará en una junta",
+    "answer": "estará en una junta",
+    "lemma": "estar",
+    "meaning": "is probably in a meeting",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0641.mp3"
+  },
+  {
+    "id": "es-03-0642",
+    "sentence": "Las llamadas de Luis van directo al buzón; tendrá el celular en silencio durante la capacitación.",
+    "cloze": "tendrá el celular en silencio",
+    "answer": "tendrá el celular en silencio",
+    "lemma": "tener",
+    "meaning": "probably has his phone on silent",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0642.mp3"
+  },
+  {
+    "id": "es-03-0643",
+    "sentence": "¿Dónde estará el mensajero si su moto ya está estacionada frente al edificio?",
+    "cloze": "Dónde estará el mensajero",
+    "answer": "Dónde estará el mensajero",
+    "lemma": "estar",
+    "meaning": "where might the courier be",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0643.mp3"
+  },
+  {
+    "id": "es-03-0644",
+    "sentence": "Las barras de cobertura desaparecen dentro de la oficina; será un problema de señal y no del celular.",
+    "cloze": "será un problema de señal",
+    "answer": "será un problema de señal",
+    "lemma": "ser",
+    "meaning": "is probably a signal problem",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0644.mp3"
+  },
+  {
+    "id": "es-03-0645",
+    "sentence": "Marta no está en su escritorio y tenía una cita en recepción; estará revisando el horario.",
+    "cloze": "estará revisando el horario",
+    "answer": "estará revisando el horario",
+    "lemma": "estar + gerundio",
+    "meaning": "is probably reviewing the schedule",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0645.mp3"
+  },
+  {
+    "id": "es-03-0646",
+    "sentence": "El dispositivo funciona conectado, pero se apaga al quitarle el cable; tendrá la batería descargada.",
+    "cloze": "tendrá la batería descargada",
+    "answer": "tendrá la batería descargada",
+    "lemma": "tener",
+    "meaning": "probably has a dead battery",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0646.mp3"
+  },
+  {
+    "id": "es-03-0647",
+    "sentence": "Raúl ya salió hacia acá y no responde el celular; vendrá manejando.",
+    "cloze": "vendrá manejando",
+    "answer": "vendrá manejando",
+    "lemma": "venir + gerundio",
+    "meaning": "is probably driving",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0647.mp3"
+  },
+  {
+    "id": "es-03-0648",
+    "sentence": "La encargada no volvió a su oficina; seguirá en recepción con la clienta.",
+    "cloze": "seguirá en recepción",
+    "answer": "seguirá en recepción",
+    "lemma": "seguir",
+    "meaning": "is probably still at reception",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0648.mp3"
+  },
+  {
+    "id": "es-03-0649",
+    "sentence": "Por el uniforme y el paquete que trae, ese señor será el mensajero que esperamos.",
+    "cloze": "será el mensajero",
+    "answer": "será el mensajero",
+    "lemma": "ser",
+    "meaning": "is probably the courier",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0649.mp3"
+  },
+  {
+    "id": "es-03-0650",
+    "sentence": "Nuestra dirección aparece al final de la lista; el repartidor tendrá otra entrega pendiente.",
+    "cloze": "tendrá otra entrega pendiente",
+    "answer": "tendrá otra entrega pendiente",
+    "lemma": "tener",
+    "meaning": "probably has another delivery pending",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0650.mp3"
+  },
+  {
+    "id": "es-03-0651",
+    "sentence": "Mis compañeros no aparecen en este andén; estarán esperando en otra terminal por la indicación anterior.",
+    "cloze": "estarán esperando en otra terminal",
+    "answer": "estarán esperando en otra terminal",
+    "lemma": "estar + gerundio",
+    "meaning": "are probably waiting at another terminal",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0651.mp3"
+  },
+  {
+    "id": "es-03-0652",
+    "sentence": "¿Cuánto faltará para que llegue la camioneta si ya entró a la colonia?",
+    "cloze": "Cuánto faltará",
+    "answer": "Cuánto faltará",
+    "lemma": "faltar",
+    "meaning": "how much longer might it be",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0652.mp3"
+  },
+  {
+    "id": "es-03-0653",
+    "sentence": "La autopista aparece cerrada en el mapa, así que la demora será por el tráfico.",
+    "cloze": "será por el tráfico",
+    "answer": "será por el tráfico",
+    "lemma": "ser por",
+    "meaning": "is probably because of traffic",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0653.mp3"
+  },
+  {
+    "id": "es-03-0654",
+    "sentence": "Jorge ya entró al estacionamiento, pero todavía no sube; estará buscando un lugar.",
+    "cloze": "estará buscando un lugar",
+    "answer": "estará buscando un lugar",
+    "lemma": "estar + gerundio",
+    "meaning": "is probably looking for a parking space",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0654.mp3"
+  },
+  {
+    "id": "es-03-0655",
+    "sentence": "La puerta de embarque desapareció de la pantalla; habrá algún cambio que todavía no anuncian.",
+    "cloze": "habrá algún cambio",
+    "answer": "habrá algún cambio",
+    "lemma": "haber",
+    "meaning": "there is probably some change",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0655.mp3"
+  },
+  {
+    "id": "es-03-0656",
+    "sentence": "¿Qué querrá decir este aviso si no aparece ninguna explicación en la pantalla?",
+    "cloze": "querrá decir este aviso",
+    "answer": "querrá decir este aviso",
+    "lemma": "querer decir",
+    "meaning": "what might this notice mean",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0656.mp3"
+  },
+  {
+    "id": "es-03-0657",
+    "sentence": "El aviso menciona mantenimiento y el portal responde muy lento; los técnicos estarán actualizando el sistema.",
+    "cloze": "estarán actualizando el sistema",
+    "answer": "estarán actualizando el sistema",
+    "lemma": "estar + gerundio",
+    "meaning": "are probably updating the system",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0657.mp3"
+  },
+  {
+    "id": "es-03-0658",
+    "sentence": "Como el usuario sí aparece registrado, la causa será una contraseña incorrecta.",
+    "cloze": "será una contraseña incorrecta",
+    "answer": "será una contraseña incorrecta",
+    "lemma": "ser",
+    "meaning": "is probably an incorrect password",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0658.mp3"
+  },
+  {
+    "id": "es-03-0659",
+    "sentence": "Después de varios intentos fallidos, el acceso estará bloqueado por seguridad en este momento.",
+    "cloze": "estará bloqueado",
+    "answer": "estará bloqueado",
+    "lemma": "estar + participio",
+    "meaning": "is probably blocked",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0659.mp3"
+  },
+  {
+    "id": "es-03-0660",
+    "sentence": "La aplicación usó la carpeta predeterminada, así que el archivo estará guardado en Descargas.",
+    "cloze": "estará guardado en Descargas",
+    "answer": "estará guardado en Descargas",
+    "lemma": "estar + participio",
+    "meaning": "is probably saved in Downloads",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0660.mp3"
+  },
+  {
+    "id": "es-03-0661",
+    "sentence": "Las personas junto al módem traen gafetes de la empresa; serán del equipo de soporte.",
+    "cloze": "serán del equipo de soporte",
+    "answer": "serán del equipo de soporte",
+    "lemma": "ser",
+    "meaning": "are probably from the support team",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0661.mp3"
+  },
+  {
+    "id": "es-03-0662",
+    "sentence": "El panel indica que ya no queda capacidad; el servidor estará saturado por tantas conexiones.",
+    "cloze": "estará saturado",
+    "answer": "estará saturado",
+    "lemma": "estar",
+    "meaning": "is probably overloaded",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0662.mp3"
+  },
+  {
+    "id": "es-03-0663",
+    "sentence": "Pablo nunca oye los mensajes nuevos; tendrá desactivadas las notificaciones en el celular.",
+    "cloze": "tendrá desactivadas las notificaciones",
+    "answer": "tendrá desactivadas las notificaciones",
+    "lemma": "tener + participio",
+    "meaning": "probably has notifications turned off",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0663.mp3"
+  },
+  {
+    "id": "es-03-0664",
+    "sentence": "La página salió casi en blanco, así que la impresora tendrá poca tinta.",
+    "cloze": "tendrá poca tinta",
+    "answer": "tendrá poca tinta",
+    "lemma": "tener",
+    "meaning": "probably has little ink",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0664.mp3"
+  },
+  {
+    "id": "es-03-0665",
+    "sentence": "En la foto del grupo se alcanza a ver el letrero de abordaje; estará cerca de la puerta.",
+    "cloze": "estará cerca de la puerta",
+    "answer": "estará cerca de la puerta",
+    "lemma": "estar",
+    "meaning": "is probably near the gate",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0665.mp3"
+  },
+  {
+    "id": "es-03-0666",
+    "sentence": "El guardia abrió el acceso de proveedores y no vemos el vehículo al frente; la camioneta estará junto a la entrada trasera.",
+    "cloze": "estará junto a la entrada trasera",
+    "answer": "estará junto a la entrada trasera",
+    "lemma": "estar",
+    "meaning": "is probably by the rear entrance",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0666.mp3"
+  },
+  {
+    "id": "es-03-0667",
+    "sentence": "¿Cabrán todas las cajas en la cajuela si quitamos la cubierta y acomodamos primero las grandes?",
+    "cloze": "Cabrán todas las cajas",
+    "answer": "Cabrán todas las cajas",
+    "lemma": "caber",
+    "meaning": "will all the boxes fit",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0667.mp3"
+  },
+  {
+    "id": "es-03-0668",
+    "sentence": "El taxi dejó la avenida con tráfico; irá por la ruta corta que atraviesa la colonia.",
+    "cloze": "irá por la ruta corta",
+    "answer": "irá por la ruta corta",
+    "lemma": "ir",
+    "meaning": "is probably taking the short route",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0668.mp3"
+  },
+  {
+    "id": "es-03-0669",
+    "sentence": "Todos oímos el aviso aunque nadie trae audífonos; ese sonido vendrá del altavoz del pasillo.",
+    "cloze": "vendrá del altavoz",
+    "answer": "vendrá del altavoz",
+    "lemma": "venir de",
+    "meaning": "is probably coming from the speaker",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0669.mp3"
+  },
+  {
+    "id": "es-03-0670",
+    "sentence": "Según el manual, ¿la luz roja indicará una falla aunque el dispositivo todavía responde?",
+    "cloze": "indicará una falla",
+    "answer": "indicará una falla",
+    "lemma": "indicar",
+    "meaning": "might indicate a fault",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0670.mp3"
+  },
+  {
+    "id": "es-03-0671",
+    "sentence": "Si encontramos una tarifa flexible, pensamos cambiar la reservación, pero aún no tomamos la decisión.",
+    "cloze": "pensamos cambiar la reservación",
+    "answer": "pensamos cambiar la reservación",
+    "lemma": "pensar + infinitivo",
+    "meaning": "we are thinking of changing the reservation",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0671.mp3"
+  },
+  {
+    "id": "es-03-0672",
+    "sentence": "Marta y yo tenemos pensado salir después del desayuno, aunque falta confirmar el transporte.",
+    "cloze": "tenemos pensado salir",
+    "answer": "tenemos pensado salir",
+    "lemma": "tener pensado + infinitivo",
+    "meaning": "we are planning to leave",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0672.mp3"
+  },
+  {
+    "id": "es-03-0673",
+    "sentence": "Antes de comprar los boletos, quedamos en revisar la ruta y comparar las escalas.",
+    "cloze": "quedamos en revisar la ruta",
+    "answer": "quedamos en revisar la ruta",
+    "lemma": "quedar en + infinitivo",
+    "meaning": "we agreed to review the route",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0673.mp3"
+  },
+  {
+    "id": "es-03-0674",
+    "sentence": "Si el precio no sube, probablemente reservaremos el vuelo directo, aunque aún comparamos opciones.",
+    "cloze": "probablemente reservaremos el vuelo directo",
+    "answer": "probablemente reservaremos el vuelo directo",
+    "lemma": "reservar",
+    "meaning": "we will probably book the direct flight",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0674.mp3"
+  },
+  {
+    "id": "es-03-0675",
+    "sentence": "Si la sucursal confirma que abre temprano, recogeremos ahí el paquete en lugar de esperar el envío.",
+    "cloze": "recogeremos ahí el paquete",
+    "answer": "recogeremos ahí el paquete",
+    "lemma": "recoger",
+    "meaning": "we will pick up the package there",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0675.mp3"
+  },
+  {
+    "id": "es-03-0676",
+    "sentence": "Como la computadora se queda en la oficina, planeo llevar la tableta por si necesito conectarme.",
+    "cloze": "planeo llevar la tableta",
+    "answer": "planeo llevar la tableta",
+    "lemma": "planear + infinitivo",
+    "meaning": "I plan to bring the tablet",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0676.mp3"
+  },
+  {
+    "id": "es-03-0677",
+    "sentence": "Estoy pensando en pedir otro horario, pero primero quiero escuchar la opinión del equipo.",
+    "cloze": "Estoy pensando en pedir otro horario",
+    "answer": "Estoy pensando en pedir otro horario",
+    "lemma": "estar pensando en + infinitivo",
+    "meaning": "I am thinking about requesting another schedule",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0677.mp3"
+  },
+  {
+    "id": "es-03-0678",
+    "sentence": "Todavía no sé si cambiaré la fecha de entrega, porque depende de la respuesta del cliente.",
+    "cloze": "cambiaré la fecha de entrega",
+    "answer": "cambiaré la fecha de entrega",
+    "lemma": "cambiar",
+    "meaning": "I may change the delivery date",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0678.mp3"
+  },
+  {
+    "id": "es-03-0679",
+    "sentence": "Si todos pueden el viernes, intentaremos reunirnos en persona antes de confirmar el viaje.",
+    "cloze": "intentaremos reunirnos en persona",
+    "answer": "intentaremos reunirnos en persona",
+    "lemma": "intentar + infinitivo",
+    "meaning": "we will try to meet in person",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0679.mp3"
+  },
+  {
+    "id": "es-03-0680",
+    "sentence": "No te lo aseguro, pero podré acompañarte a la terminal si termino temprano.",
+    "cloze": "podré acompañarte",
+    "answer": "podré acompañarte",
+    "lemma": "poder",
+    "meaning": "I may be able to go with you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0680.mp3"
+  },
+  {
+    "id": "es-03-0681",
+    "sentence": "Disculpe, ¿podría revisar si hay un vuelo más temprano?",
+    "cloze": "podría revisar",
+    "answer": "podría revisar",
+    "lemma": "poder revisar",
+    "meaning": "could you check",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0681.mp3"
+  },
+  {
+    "id": "es-03-0682",
+    "sentence": "Nuestro vuelo sale al amanecer; ¿sería posible dejar las maletas en recepción esta noche?",
+    "cloze": "sería posible",
+    "answer": "sería posible",
+    "lemma": "ser posible",
+    "meaning": "would it be possible",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0682.mp3"
+  },
+  {
+    "id": "es-03-0683",
+    "sentence": "Disculpe, ¿tendría un momento para explicarme este cargo de mantenimiento?",
+    "cloze": "tendría un momento",
+    "answer": "tendría un momento",
+    "lemma": "tener un momento",
+    "meaning": "would you have a moment",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0683.mp3"
+  },
+  {
+    "id": "es-03-0684",
+    "sentence": "Para completar la devolución, le agradecería una copia legible del recibo.",
+    "cloze": "le agradecería una copia",
+    "answer": "le agradecería una copia",
+    "lemma": "agradecer",
+    "meaning": "I would appreciate a copy",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0684.mp3"
+  },
+  {
+    "id": "es-03-0685",
+    "sentence": "La caja pesa demasiado; ¿me ayudaría a subirla al elevador, por favor?",
+    "cloze": "me ayudaría",
+    "answer": "me ayudaría",
+    "lemma": "ayudar",
+    "meaning": "would you help me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0685.mp3"
+  },
+  {
+    "id": "es-03-0686",
+    "sentence": "Si todavía queda una, ¿podría apartarme la chamarra gris hasta esta tarde?",
+    "cloze": "podría apartarme",
+    "answer": "podría apartarme",
+    "lemma": "poder apartar",
+    "meaning": "could you set aside for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0686.mp3"
+  },
+  {
+    "id": "es-03-0687",
+    "sentence": "Disculpe, ¿habría forma de cambiar la fecha sin perder el depósito?",
+    "cloze": "habría forma de cambiar",
+    "answer": "habría forma de cambiar",
+    "lemma": "haber forma de",
+    "meaning": "would there be a way to change",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0687.mp3"
+  },
+  {
+    "id": "es-03-0688",
+    "sentence": "Antes de comprar esa laptop, yo compararía los precios de varias tiendas.",
+    "cloze": "compararía",
+    "answer": "compararía",
+    "lemma": "comparar",
+    "meaning": "I would compare",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0688.mp3"
+  },
+  {
+    "id": "es-03-0689",
+    "sentence": "Como el paquete llegó abierto, yo pediría un cambio en lugar de una reparación.",
+    "cloze": "pediría",
+    "answer": "pediría",
+    "lemma": "pedir",
+    "meaning": "I would request",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0689.mp3"
+  },
+  {
+    "id": "es-03-0690",
+    "sentence": "Para evitar sorpresas con la compra, revisaría la garantía antes de pagar.",
+    "cloze": "revisaría",
+    "answer": "revisaría",
+    "lemma": "revisar",
+    "meaning": "I would check",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0690.mp3"
+  },
+  {
+    "id": "es-03-0691",
+    "sentence": "Esa aplicación pide demasiados permisos; yo no la instalaría en mi celular.",
+    "cloze": "no la instalaría",
+    "answer": "no la instalaría",
+    "lemma": "instalar",
+    "meaning": "I would not install it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0691.mp3"
+  },
+  {
+    "id": "es-03-0692",
+    "sentence": "Antes de actualizar el sistema, guardaría una copia de los archivos importantes.",
+    "cloze": "guardaría",
+    "answer": "guardaría",
+    "lemma": "guardar",
+    "meaning": "I would save",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0692.mp3"
+  },
+  {
+    "id": "es-03-0693",
+    "sentence": "Si vas a estudiar por tu cuenta, te convendría establecer un horario realista.",
+    "cloze": "te convendría",
+    "answer": "te convendría",
+    "lemma": "convenir",
+    "meaning": "it would be advisable for you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0693.mp3"
+  },
+  {
+    "id": "es-03-0694",
+    "sentence": "Para mejorar tu pronunciación, deberías practicar con grabaciones cortas todos los días.",
+    "cloze": "deberías practicar",
+    "answer": "deberías practicar",
+    "lemma": "deber practicar",
+    "meaning": "you should practice",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0694.mp3"
+  },
+  {
+    "id": "es-03-0695",
+    "sentence": "Aunque el departamento parezca tranquilo, yo no firmaría el contrato sin revisarlo.",
+    "cloze": "yo no firmaría",
+    "answer": "yo no firmaría",
+    "lemma": "firmar",
+    "meaning": "I would not sign",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0695.mp3"
+  },
+  {
+    "id": "es-03-0696",
+    "sentence": "Para trabajar desde casa, buscaría una recámara alejada del ruido de la calle.",
+    "cloze": "buscaría",
+    "answer": "buscaría",
+    "lemma": "buscar",
+    "meaning": "I would look for",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0696.mp3"
+  },
+  {
+    "id": "es-03-0697",
+    "sentence": "Los dos equipos tienen libre el jueves; podríamos pasar la reunión a esa tarde.",
+    "cloze": "podríamos pasar",
+    "answer": "podríamos pasar",
+    "lemma": "poder pasar",
+    "meaning": "we could move",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0697.mp3"
+  },
+  {
+    "id": "es-03-0698",
+    "sentence": "Antes de reservar el hotel, convendría confirmar si el desayuno está incluido.",
+    "cloze": "convendría confirmar",
+    "answer": "convendría confirmar",
+    "lemma": "convenir confirmar",
+    "meaning": "it would be advisable to confirm",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0698.mp3"
+  },
+  {
+    "id": "es-03-0699",
+    "sentence": "Si el viernes se complica, ¿qué te parecería reunirnos el lunes por la mañana?",
+    "cloze": "te parecería",
+    "answer": "te parecería",
+    "lemma": "parecer",
+    "meaning": "how would you feel about",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0699.mp3"
+  },
+  {
+    "id": "es-03-0700",
+    "sentence": "Para que el proyecto avance, propondría entregar primero la parte ya terminada.",
+    "cloze": "propondría",
+    "answer": "propondría",
+    "lemma": "proponer",
+    "meaning": "I would propose",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0700.mp3"
+  },
+  {
+    "id": "es-03-0701",
+    "sentence": "Todos saldremos desde la oficina; una alternativa sería compartir un taxi.",
+    "cloze": "una alternativa sería",
+    "answer": "una alternativa sería",
+    "lemma": "ser una alternativa",
+    "meaning": "one alternative would be",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0701.mp3"
+  },
+  {
+    "id": "es-03-0702",
+    "sentence": "Antes de comprar otro módem, valdría la pena probar con un cable distinto.",
+    "cloze": "valdría la pena",
+    "answer": "valdría la pena",
+    "lemma": "valer la pena",
+    "meaning": "it would be worthwhile",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0702.mp3"
+  },
+  {
+    "id": "es-03-0703",
+    "sentence": "Hay muchos archivos sueltos; sería buena idea organizarlos por fecha.",
+    "cloze": "sería buena idea",
+    "answer": "sería buena idea",
+    "lemma": "ser buena idea",
+    "meaning": "it would be a good idea",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0703.mp3"
+  },
+  {
+    "id": "es-03-0704",
+    "sentence": "La terraza sigue disponible; quizá podríamos hacer ahí la comida del equipo.",
+    "cloze": "quizá podríamos",
+    "answer": "quizá podríamos",
+    "lemma": "quizá poder",
+    "meaning": "perhaps we could",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0704.mp3"
+  },
+  {
+    "id": "es-03-0705",
+    "sentence": "Para el vuelo de regreso, preferiría un asiento del lado del pasillo.",
+    "cloze": "preferiría",
+    "answer": "preferiría",
+    "lemma": "preferir",
+    "meaning": "I would prefer",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0705.mp3"
+  },
+  {
+    "id": "es-03-0706",
+    "sentence": "En la recámara que da a la calle, me gustaría instalar cortinas más gruesas.",
+    "cloze": "me gustaría instalar",
+    "answer": "me gustaría instalar",
+    "lemma": "gustar instalar",
+    "meaning": "I would like to install",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0706.mp3"
+  },
+  {
+    "id": "es-03-0707",
+    "sentence": "Entre estos dos modelos, escogería el que permite reemplazar la batería.",
+    "cloze": "escogería",
+    "answer": "escogería",
+    "lemma": "escoger",
+    "meaning": "I would choose",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0707.mp3"
+  },
+  {
+    "id": "es-03-0708",
+    "sentence": "Para una estancia corta, me quedaría con el hotel cercano al metro.",
+    "cloze": "me quedaría con",
+    "answer": "me quedaría con",
+    "lemma": "quedarse con",
+    "meaning": "I would go with",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0708.mp3"
+  },
+  {
+    "id": "es-03-0709",
+    "sentence": "Solo puedo tomar una materia; optaría por la que incluye sesiones prácticas.",
+    "cloze": "optaría por",
+    "answer": "optaría por",
+    "lemma": "optar por",
+    "meaning": "I would opt for",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0709.mp3"
+  },
+  {
+    "id": "es-03-0710",
+    "sentence": "Por ese precio, no elegiría un equipo que carezca de soporte local.",
+    "cloze": "no elegiría",
+    "answer": "no elegiría",
+    "lemma": "elegir",
+    "meaning": "I would not choose",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0710.mp3"
+  },
+  {
+    "id": "es-03-0711",
+    "sentence": "Oye, ¿me echarías la mano con estas cajas antes de la junta?",
+    "cloze": "me echarías la mano",
+    "answer": "me echarías la mano",
+    "lemma": "echar la mano",
+    "meaning": "would you give me a hand",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0711.mp3"
+  },
+  {
+    "id": "es-03-0712",
+    "sentence": "Si termino tu reporte hoy, ¿podrías cubrir mi turno del martes?",
+    "cloze": "podrías cubrir",
+    "answer": "podrías cubrir",
+    "lemma": "poder cubrir",
+    "meaning": "could you cover",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0712.mp3"
+  },
+  {
+    "id": "es-03-0713",
+    "sentence": "Para que no se nos pase ningún acuerdo, ¿te encargarías de anotarlos durante la junta?",
+    "cloze": "te encargarías de anotarlos",
+    "answer": "te encargarías de anotarlos",
+    "lemma": "encargarse de anotar",
+    "meaning": "would you take care of writing them down",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0713.mp3"
+  },
+  {
+    "id": "es-03-0714",
+    "sentence": "Un calendario compartido nos facilitaría coordinar las entregas de todo el mes.",
+    "cloze": "nos facilitaría",
+    "answer": "nos facilitaría",
+    "lemma": "facilitar",
+    "meaning": "would make it easier for us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0714.mp3"
+  },
+  {
+    "id": "es-03-0715",
+    "sentence": "De todas las tareas pendientes, daría prioridad a reparar la fuga del techo.",
+    "cloze": "daría prioridad",
+    "answer": "daría prioridad",
+    "lemma": "dar prioridad",
+    "meaning": "I would prioritize",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0715.mp3"
+  },
+  {
+    "id": "es-03-0716",
+    "sentence": "Antes de ampliar el horario, convendría analizar cuántas personas usan el servicio.",
+    "cloze": "convendría analizar",
+    "answer": "convendría analizar",
+    "lemma": "convenir analizar",
+    "meaning": "it would be advisable to analyze",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0716.mp3"
+  },
+  {
+    "id": "es-03-0717",
+    "sentence": "Para no perder cambios, evitaría editar el mismo archivo desde dos dispositivos.",
+    "cloze": "evitaría editar",
+    "answer": "evitaría editar",
+    "lemma": "evitar editar",
+    "meaning": "I would avoid editing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0717.mp3"
+  },
+  {
+    "id": "es-03-0718",
+    "sentence": "Para coordinar la reparación, ¿estaría de acuerdo en recibir al técnico el sábado?",
+    "cloze": "estaría de acuerdo",
+    "answer": "estaría de acuerdo",
+    "lemma": "estar de acuerdo",
+    "meaning": "would you agree",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0718.mp3"
+  },
+  {
+    "id": "es-03-0719",
+    "sentence": "Antes de mudarme, negociaría con el casero una fecha conveniente para entregar el departamento.",
+    "cloze": "negociaría con el casero",
+    "answer": "negociaría con el casero",
+    "lemma": "negociar con",
+    "meaning": "I would negotiate with the landlord",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0719.mp3"
+  },
+  {
+    "id": "es-03-0720",
+    "sentence": "Como llevaremos varias maletas, resultaría más práctico tomar un taxi directo.",
+    "cloze": "resultaría más práctico",
+    "answer": "resultaría más práctico",
+    "lemma": "resultar práctico",
+    "meaning": "it would be more practical",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0720.mp3"
+  },
+  {
+    "id": "es-03-0721",
+    "sentence": "El plomero revisó su agenda y dijo que vendría el martes por la mañana.",
+    "cloze": "vendría el martes",
+    "answer": "vendría el martes",
+    "lemma": "venir",
+    "meaning": "would come on Tuesday",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0721.mp3"
+  },
+  {
+    "id": "es-03-0722",
+    "sentence": "Según el itinerario que nos dieron, el autobús saldría de Puebla a las seis.",
+    "cloze": "saldría de Puebla",
+    "answer": "saldría de Puebla",
+    "lemma": "salir",
+    "meaning": "would leave Puebla",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0722.mp3"
+  },
+  {
+    "id": "es-03-0723",
+    "sentence": "La tienda prometió por correo que nos entregaría el refrigerador antes del mediodía.",
+    "cloze": "nos entregaría",
+    "answer": "nos entregaría",
+    "lemma": "entregar",
+    "meaning": "would deliver to us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0723.mp3"
+  },
+  {
+    "id": "es-03-0724",
+    "sentence": "Al inscribirme, la coordinadora explicó que abrirían otro grupo en junio.",
+    "cloze": "abrirían otro grupo",
+    "answer": "abrirían otro grupo",
+    "lemma": "abrir",
+    "meaning": "would open another group",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0724.mp3"
+  },
+  {
+    "id": "es-03-0725",
+    "sentence": "Al firmar el contrato, Laura explicó que se mudaría al terminar el mes.",
+    "cloze": "se mudaría",
+    "answer": "se mudaría",
+    "lemma": "mudarse",
+    "meaning": "would move",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0725.mp3"
+  },
+  {
+    "id": "es-03-0726",
+    "sentence": "Antes del vuelo, Andrés prometió que nos llamaría al aterrizar para confirmar el traslado.",
+    "cloze": "nos llamaría",
+    "answer": "nos llamaría",
+    "lemma": "llamar",
+    "meaning": "would call us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0726.mp3"
+  },
+  {
+    "id": "es-03-0727",
+    "sentence": "El técnico calculó que la reparación quedaría lista para el viernes.",
+    "cloze": "quedaría lista",
+    "answer": "quedaría lista",
+    "lemma": "quedar listo",
+    "meaning": "would be ready",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0727.mp3"
+  },
+  {
+    "id": "es-03-0728",
+    "sentence": "En la junta se acordó que cambiaríamos la sede por las obras.",
+    "cloze": "cambiaríamos la sede",
+    "answer": "cambiaríamos la sede",
+    "lemma": "cambiar",
+    "meaning": "we would change the venue",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0728.mp3"
+  },
+  {
+    "id": "es-03-0729",
+    "sentence": "Al revisar las inscripciones, Marta pensó que habría cupo para todos.",
+    "cloze": "habría cupo",
+    "answer": "habría cupo",
+    "lemma": "haber",
+    "meaning": "there would be room",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0729.mp3"
+  },
+  {
+    "id": "es-03-0730",
+    "sentence": "Cuando renovamos el contrato, el casero aseguró que la renta no aumentaría ese año.",
+    "cloze": "no aumentaría",
+    "answer": "no aumentaría",
+    "lemma": "aumentar",
+    "meaning": "would not increase",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0730.mp3"
+  },
+  {
+    "id": "es-03-0731",
+    "sentence": "El proveedor aclaró desde el inicio que solo aceptaría transferencias durante la feria.",
+    "cloze": "solo aceptaría",
+    "answer": "solo aceptaría",
+    "lemma": "aceptar",
+    "meaning": "would accept only",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0731.mp3"
+  },
+  {
+    "id": "es-03-0732",
+    "sentence": "Después de revisar el respaldo, la asesora creyó que podría recuperar las fotos.",
+    "cloze": "podría recuperar",
+    "answer": "podría recuperar",
+    "lemma": "poder recuperar",
+    "meaning": "could recover",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0732.mp3"
+  },
+  {
+    "id": "es-03-0733",
+    "sentence": "El instructor avisó que la práctica comenzaría después del descanso.",
+    "cloze": "comenzaría",
+    "answer": "comenzaría",
+    "lemma": "comenzar",
+    "meaning": "would begin",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0733.mp3"
+  },
+  {
+    "id": "es-03-0734",
+    "sentence": "Al recoger los gafetes, el supervisor explicó que tendríamos acceso al almacén durante la visita.",
+    "cloze": "tendríamos acceso",
+    "answer": "tendríamos acceso",
+    "lemma": "tener acceso",
+    "meaning": "we would have access",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0734.mp3"
+  },
+  {
+    "id": "es-03-0735",
+    "sentence": "La agencia confirmó que una camioneta pasaría por nosotros a las cinco.",
+    "cloze": "pasaría por nosotros",
+    "answer": "pasaría por nosotros",
+    "lemma": "pasar por",
+    "meaning": "would pick us up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0735.mp3"
+  },
+  {
+    "id": "es-03-0736",
+    "sentence": "Después del cambio de horario, la anfitriona avisó que conservaría nuestra mesa hasta las ocho.",
+    "cloze": "conservaría nuestra mesa",
+    "answer": "conservaría nuestra mesa",
+    "lemma": "conservar",
+    "meaning": "would hold our table",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0736.mp3"
+  },
+  {
+    "id": "es-03-0737",
+    "sentence": "Cuando recibió el borrador, la maestra comentó que agregaría sus observaciones esa tarde.",
+    "cloze": "agregaría sus observaciones",
+    "answer": "agregaría sus observaciones",
+    "lemma": "agregar",
+    "meaning": "would add her comments",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0737.mp3"
+  },
+  {
+    "id": "es-03-0738",
+    "sentence": "Después de cambiar el sensor, el técnico aseguró que el elevador volvería a operar esa noche.",
+    "cloze": "volvería a operar",
+    "answer": "volvería a operar",
+    "lemma": "volver a operar",
+    "meaning": "would operate again",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0738.mp3"
+  },
+  {
+    "id": "es-03-0739",
+    "sentence": "Cuando reservamos, la recepcionista explicó que el desayuno estaría incluido en la tarifa.",
+    "cloze": "estaría incluido",
+    "answer": "estaría incluido",
+    "lemma": "estar incluido",
+    "meaning": "would be included",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0739.mp3"
+  },
+  {
+    "id": "es-03-0740",
+    "sentence": "Antes del recorrido, el jefe indicó que los proveedores se reunirían en recepción.",
+    "cloze": "se reunirían",
+    "answer": "se reunirían",
+    "lemma": "reunirse",
+    "meaning": "would meet",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0740.mp3"
+  },
+  {
+    "id": "es-03-0741",
+    "sentence": "Si nos dan media hora más, podríamos preparar una ruta sin transbordos para el grupo.",
+    "cloze": "podríamos preparar",
+    "answer": "podríamos preparar",
+    "lemma": "poder preparar",
+    "meaning": "we could prepare",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0741.mp3"
+  },
+  {
+    "id": "es-03-0742",
+    "sentence": "Si rentamos una camioneta más grande, cabrían todas las cajas en un solo viaje.",
+    "cloze": "cabrían todas",
+    "answer": "cabrían todas",
+    "lemma": "caber",
+    "meaning": "all would fit",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0742.mp3"
+  },
+  {
+    "id": "es-03-0743",
+    "sentence": "Abrir otra caja mañana reduciría la espera de los clientes.",
+    "cloze": "reduciría la espera",
+    "answer": "reduciría la espera",
+    "lemma": "reducir",
+    "meaning": "would reduce the wait",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0743.mp3"
+  },
+  {
+    "id": "es-03-0744",
+    "sentence": "Según la encargada, presentar el recibo original permitiría cambiar el producto sin costo.",
+    "cloze": "permitiría cambiar",
+    "answer": "permitiría cambiar",
+    "lemma": "permitir cambiar",
+    "meaning": "would allow an exchange",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0744.mp3"
+  },
+  {
+    "id": "es-03-0745",
+    "sentence": "Con una conexión estable, la imagen se vería mucho más clara durante la videollamada.",
+    "cloze": "se vería mucho más clara",
+    "answer": "se vería mucho más clara",
+    "lemma": "verse",
+    "meaning": "would look much clearer",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0745.mp3"
+  },
+  {
+    "id": "es-03-0746",
+    "sentence": "Con un depósito menor, la renta quedaría dentro de nuestro presupuesto.",
+    "cloze": "quedaría dentro de nuestro presupuesto",
+    "answer": "quedaría dentro de nuestro presupuesto",
+    "lemma": "quedar dentro",
+    "meaning": "would stay within our budget",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0746.mp3"
+  },
+  {
+    "id": "es-03-0747",
+    "sentence": "Si salimos después de la hora pico, podríamos llegar antes del cierre del módulo.",
+    "cloze": "podríamos llegar",
+    "answer": "podríamos llegar",
+    "lemma": "poder llegar",
+    "meaning": "we could arrive",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0747.mp3"
+  },
+  {
+    "id": "es-03-0748",
+    "sentence": "Agregar dos sesiones al programa extendería el curso una semana.",
+    "cloze": "extendería el curso",
+    "answer": "extendería el curso",
+    "lemma": "extender",
+    "meaning": "would extend the course",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0748.mp3"
+  },
+  {
+    "id": "es-03-0749",
+    "sentence": "Usar etiquetas de colores ayudaría a identificar las cajas sin abrirlas.",
+    "cloze": "ayudaría a identificar",
+    "answer": "ayudaría a identificar",
+    "lemma": "ayudar a identificar",
+    "meaning": "would help identify",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0749.mp3"
+  },
+  {
+    "id": "es-03-0750",
+    "sentence": "Mover el evento a un auditorio cerca del metro atraería a más asistentes.",
+    "cloze": "atraería a más asistentes",
+    "answer": "atraería a más asistentes",
+    "lemma": "atraer",
+    "meaning": "would attract more attendees",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0750.mp3"
+  },
+  {
+    "id": "es-03-0751",
+    "sentence": "Si imprimimos veinte copias más, cada participante recibiría una guía.",
+    "cloze": "recibiría una guía",
+    "answer": "recibiría una guía",
+    "lemma": "recibir",
+    "meaning": "would receive a guide",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0751.mp3"
+  },
+  {
+    "id": "es-03-0752",
+    "sentence": "En un salón menos ruidoso, se entenderían mejor las instrucciones del taller.",
+    "cloze": "se entenderían mejor",
+    "answer": "se entenderían mejor",
+    "lemma": "entenderse",
+    "meaning": "would be easier to understand",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0752.mp3"
+  },
+  {
+    "id": "es-03-0753",
+    "sentence": "Dejar una llave de repuesto permitiría al personal entrar sin despertarnos.",
+    "cloze": "permitiría al personal entrar",
+    "answer": "permitiría al personal entrar",
+    "lemma": "permitir entrar",
+    "meaning": "would allow the staff to enter",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0753.mp3"
+  },
+  {
+    "id": "es-03-0754",
+    "sentence": "Dividir el costo en mensualidades haría más manejable la compra para la familia.",
+    "cloze": "haría más manejable",
+    "answer": "haría más manejable",
+    "lemma": "hacer manejable",
+    "meaning": "would make more manageable",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0754.mp3"
+  },
+  {
+    "id": "es-03-0755",
+    "sentence": "En un patio techado, la feria continuaría a pesar de la lluvia.",
+    "cloze": "continuaría",
+    "answer": "continuaría",
+    "lemma": "continuar",
+    "meaning": "would continue",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0755.mp3"
+  },
+  {
+    "id": "es-03-0756",
+    "sentence": "Con una entrega nocturna, nadie tendría que faltar al trabajo para recibir el paquete.",
+    "cloze": "tendría que faltar",
+    "answer": "tendría que faltar",
+    "lemma": "tener que faltar",
+    "meaning": "would have to miss",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0756.mp3"
+  },
+  {
+    "id": "es-03-0757",
+    "sentence": "Con un mapa actualizado, los visitantes encontrarían la entrada sin pedir indicaciones.",
+    "cloze": "encontrarían la entrada",
+    "answer": "encontrarían la entrada",
+    "lemma": "encontrar",
+    "meaning": "would find the entrance",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0757.mp3"
+  },
+  {
+    "id": "es-03-0758",
+    "sentence": "Instalar un multicontacto adicional bastaría para cargar todos los equipos antes de la junta.",
+    "cloze": "bastaría para cargar",
+    "answer": "bastaría para cargar",
+    "lemma": "bastar para",
+    "meaning": "would be enough to charge",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0758.mp3"
+  },
+  {
+    "id": "es-03-0759",
+    "sentence": "Pedir la confirmación por escrito facilitaría el seguimiento de la queja.",
+    "cloze": "facilitaría el seguimiento",
+    "answer": "facilitaría el seguimiento",
+    "lemma": "facilitar",
+    "meaning": "would facilitate the follow-up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0759.mp3"
+  },
+  {
+    "id": "es-03-0760",
+    "sentence": "Con un ensayo semanal, la presentación sonaría más natural el día del evento.",
+    "cloze": "sonaría más natural",
+    "answer": "sonaría más natural",
+    "lemma": "sonar",
+    "meaning": "would sound more natural",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0760.mp3"
+  },
+  {
+    "id": "es-03-0761",
+    "sentence": "Tomaré el metro si el camión se retrasa más de diez minutos.",
+    "cloze": "si el camión se retrasa",
+    "answer": "si el camión se retrasa",
+    "lemma": "si + presente",
+    "meaning": "if the bus is delayed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0761.mp3"
+  },
+  {
+    "id": "es-03-0762",
+    "sentence": "Reservaremos dos asientos en el mismo pasillo si los lugares disponibles no están juntos.",
+    "cloze": "si los lugares disponibles no están",
+    "answer": "si los lugares disponibles no están",
+    "lemma": "si + presente",
+    "meaning": "if the available seats are not",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0762.mp3"
+  },
+  {
+    "id": "es-03-0763",
+    "sentence": "Lo revisaremos hoy mismo si alcanzas a terminar el informe antes de las doce.",
+    "cloze": "si alcanzas a terminar",
+    "answer": "si alcanzas a terminar",
+    "lemma": "si + presente",
+    "meaning": "if you manage to finish",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0763.mp3"
+  },
+  {
+    "id": "es-03-0764",
+    "sentence": "Márcame si no entiendes el último ejercicio y lo resolvemos juntos.",
+    "cloze": "si no entiendes",
+    "answer": "si no entiendes",
+    "lemma": "si + presente",
+    "meaning": "if you do not understand",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0764.mp3"
+  },
+  {
+    "id": "es-03-0765",
+    "sentence": "Moveremos el concierto al auditorio si empieza a llover durante la prueba de sonido.",
+    "cloze": "si empieza a llover",
+    "answer": "si empieza a llover",
+    "lemma": "si + presente",
+    "meaning": "if it starts to rain",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0765.mp3"
+  },
+  {
+    "id": "es-03-0766",
+    "sentence": "Llamaré a la tienda con el número de folio si el depósito sigue sin aparecer mañana.",
+    "cloze": "si el depósito sigue sin aparecer",
+    "answer": "si el depósito sigue sin aparecer",
+    "lemma": "si + presente",
+    "meaning": "if the deposit still does not appear",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0766.mp3"
+  },
+  {
+    "id": "es-03-0767",
+    "sentence": "Cierre la llave de paso y llame a mantenimiento si la llave sigue goteando después del ajuste.",
+    "cloze": "si la llave sigue goteando",
+    "answer": "si la llave sigue goteando",
+    "lemma": "si + presente",
+    "meaning": "if the faucet keeps leaking",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0767.mp3"
+  },
+  {
+    "id": "es-03-0768",
+    "sentence": "Mi vecino recibirá el paquete por mí si el mensajero llega después de las seis.",
+    "cloze": "si el mensajero llega",
+    "answer": "si el mensajero llega",
+    "lemma": "si + presente",
+    "meaning": "if the courier arrives",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0768.mp3"
+  },
+  {
+    "id": "es-03-0769",
+    "sentence": "Pediré que nos den otro precio si la tarifa no incluye el desayuno.",
+    "cloze": "si la tarifa no incluye",
+    "answer": "si la tarifa no incluye",
+    "lemma": "si + presente",
+    "meaning": "if the rate does not include",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0769.mp3"
+  },
+  {
+    "id": "es-03-0770",
+    "sentence": "Yo tomaré tu turno del lunes si puedes cubrirme el viernes.",
+    "cloze": "si puedes cubrirme",
+    "answer": "si puedes cubrirme",
+    "lemma": "si + presente",
+    "meaning": "if you can cover for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0770.mp3"
+  },
+  {
+    "id": "es-03-0771",
+    "sentence": "Prueba el adaptador del cajón si el proyector no reconoce tu computadora.",
+    "cloze": "si el proyector no reconoce",
+    "answer": "si el proyector no reconoce",
+    "lemma": "si + presente",
+    "meaning": "if the projector does not recognize",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0771.mp3"
+  },
+  {
+    "id": "es-03-0772",
+    "sentence": "Guarda una copia local si la aplicación se cierra al adjuntar el archivo.",
+    "cloze": "si la aplicación se cierra",
+    "answer": "si la aplicación se cierra",
+    "lemma": "si + presente",
+    "meaning": "if the application closes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0772.mp3"
+  },
+  {
+    "id": "es-03-0773",
+    "sentence": "Dile que el martes ya no nos sirve si el proveedor pide aplazar la entrega.",
+    "cloze": "si el proveedor pide aplazar",
+    "answer": "si el proveedor pide aplazar",
+    "lemma": "si + presente",
+    "meaning": "if the supplier asks to postpone",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0773.mp3"
+  },
+  {
+    "id": "es-03-0774",
+    "sentence": "El técnico podrá terminar la reparación el viernes si la refacción nos llega esta semana.",
+    "cloze": "si la refacción nos llega",
+    "answer": "si la refacción nos llega",
+    "lemma": "si + presente",
+    "meaning": "if the replacement part reaches us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0774.mp3"
+  },
+  {
+    "id": "es-03-0775",
+    "sentence": "Hacemos ahí la capacitación si el salón se desocupa a las tres.",
+    "cloze": "si el salón se desocupa",
+    "answer": "si el salón se desocupa",
+    "lemma": "si + presente",
+    "meaning": "if the room becomes available",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0775.mp3"
+  },
+  {
+    "id": "es-03-0776",
+    "sentence": "Dejamos la cita a las tres si te conviene después de comer.",
+    "cloze": "si te conviene",
+    "answer": "si te conviene",
+    "lemma": "si + presente",
+    "meaning": "if that works for you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0776.mp3"
+  },
+  {
+    "id": "es-03-0777",
+    "sentence": "Confirmaremos la cena ahí si el restaurante puede preparar un menú sin lácteos.",
+    "cloze": "si el restaurante puede preparar",
+    "answer": "si el restaurante puede preparar",
+    "lemma": "si + presente",
+    "meaning": "if the restaurant can prepare",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0777.mp3"
+  },
+  {
+    "id": "es-03-0778",
+    "sentence": "Nos iremos en el tren de las nueve si no alcanzamos a tomar el de las ocho.",
+    "cloze": "si no alcanzamos a tomar",
+    "answer": "si no alcanzamos a tomar",
+    "lemma": "si + presente",
+    "meaning": "if we do not manage to catch",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0778.mp3"
+  },
+  {
+    "id": "es-03-0779",
+    "sentence": "Pagamos por transferencia si la terminal rechaza otra vez la tarjeta.",
+    "cloze": "si la terminal rechaza",
+    "answer": "si la terminal rechaza",
+    "lemma": "si + presente",
+    "meaning": "if the terminal rejects",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0779.mp3"
+  },
+  {
+    "id": "es-03-0780",
+    "sentence": "Inscribe también a Daniela si dos lugares siguen disponibles para el taller.",
+    "cloze": "si dos lugares siguen disponibles",
+    "answer": "si dos lugares siguen disponibles",
+    "lemma": "si + presente",
+    "meaning": "if two spots remain available",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0780.mp3"
+  },
+  {
+    "id": "es-03-0781",
+    "sentence": "Para evitar el tráfico, pensamos salir en cuanto termine la junta.",
+    "cloze": "pensamos salir",
+    "answer": "pensamos salir",
+    "lemma": "pensar + infinitivo",
+    "meaning": "we plan to leave",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0781.mp3"
+  },
+  {
+    "id": "es-03-0782",
+    "sentence": "Antes de pagar el anticipo, tengo pensado pedir una cotización actualizada.",
+    "cloze": "tengo pensado pedir",
+    "answer": "tengo pensado pedir",
+    "lemma": "tener pensado + infinitivo",
+    "meaning": "I plan to request",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0782.mp3"
+  },
+  {
+    "id": "es-03-0783",
+    "sentence": "Para el viaje, quedamos en comparar las rutas antes de comprar los boletos.",
+    "cloze": "quedamos en comparar",
+    "answer": "quedamos en comparar",
+    "lemma": "quedar en + infinitivo",
+    "meaning": "we agreed to compare",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0783.mp3"
+  },
+  {
+    "id": "es-03-0784",
+    "sentence": "El comité está por cerrar el programa de actividades esta tarde.",
+    "cloze": "está por cerrar",
+    "answer": "está por cerrar",
+    "lemma": "estar por + infinitivo",
+    "meaning": "is about to finalize",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0784.mp3"
+  },
+  {
+    "id": "es-03-0785",
+    "sentence": "Como el último camión sale temprano, pienso cambiarme al grupo de la mañana.",
+    "cloze": "pienso cambiarme",
+    "answer": "pienso cambiarme",
+    "lemma": "pensar + infinitivo",
+    "meaning": "I plan to switch",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0785.mp3"
+  },
+  {
+    "id": "es-03-0786",
+    "sentence": "Para el convivio, tenemos pensado rentar las mesas y pedir prestadas las sillas.",
+    "cloze": "tenemos pensado rentar",
+    "answer": "tenemos pensado rentar",
+    "lemma": "tener pensado + infinitivo",
+    "meaning": "we plan to rent",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0786.mp3"
+  },
+  {
+    "id": "es-03-0787",
+    "sentence": "La administradora quedó en enviarnos el presupuesto actualizado hoy.",
+    "cloze": "quedó en enviarnos",
+    "answer": "quedó en enviarnos",
+    "lemma": "quedar en + infinitivo",
+    "meaning": "agreed to send us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0787.mp3"
+  },
+  {
+    "id": "es-03-0788",
+    "sentence": "Mantendremos la asesoría el martes si la maestra conserva la misma hora.",
+    "cloze": "si la maestra conserva",
+    "answer": "si la maestra conserva",
+    "lemma": "si + presente",
+    "meaning": "if the teacher keeps",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0788.mp3"
+  },
+  {
+    "id": "es-03-0789",
+    "sentence": "Cambio la visita de mantenimiento al martes si te funciona mejor por la tarde.",
+    "cloze": "si te funciona mejor",
+    "answer": "si te funciona mejor",
+    "lemma": "si + presente",
+    "meaning": "if that works better for you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0789.mp3"
+  },
+  {
+    "id": "es-03-0790",
+    "sentence": "Puedo mover la cita a las cinco si usted prefiere recibir al técnico por la tarde.",
+    "cloze": "si usted prefiere",
+    "answer": "si usted prefiere",
+    "lemma": "si + presente",
+    "meaning": "if you prefer",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0790.mp3"
+  },
+  {
+    "id": "es-03-0791",
+    "sentence": "Pediremos otra cotización si el primer presupuesto rebasa ocho mil pesos.",
+    "cloze": "si el primer presupuesto rebasa",
+    "answer": "si el primer presupuesto rebasa",
+    "lemma": "si + presente",
+    "meaning": "if the first estimate exceeds",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0791.mp3"
+  },
+  {
+    "id": "es-03-0792",
+    "sentence": "Autorizamos hoy la reparación si la garantía incluye la mano de obra.",
+    "cloze": "si la garantía incluye",
+    "answer": "si la garantía incluye",
+    "lemma": "si + presente",
+    "meaning": "if the warranty includes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0792.mp3"
+  },
+  {
+    "id": "es-03-0793",
+    "sentence": "Mantenemos el evento en el patio si el comité consigue veinte sillas antes del jueves.",
+    "cloze": "si el comité consigue",
+    "answer": "si el comité consigue",
+    "lemma": "si + presente",
+    "meaning": "if the committee obtains",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0793.mp3"
+  },
+  {
+    "id": "es-03-0794",
+    "sentence": "Trabajaremos desde la biblioteca del barrio si seguimos sin internet en la oficina mañana.",
+    "cloze": "si seguimos sin internet",
+    "answer": "si seguimos sin internet",
+    "lemma": "si + presente",
+    "meaning": "if we still have no internet",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0794.mp3"
+  },
+  {
+    "id": "es-03-0795",
+    "sentence": "Después de clase, pensamos reunirnos para repartir las tareas del proyecto.",
+    "cloze": "pensamos reunirnos",
+    "answer": "pensamos reunirnos",
+    "lemma": "pensar + infinitivo",
+    "meaning": "we plan to meet",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0795.mp3"
+  },
+  {
+    "id": "es-03-0796",
+    "sentence": "Para evitar la escala nocturna, tenemos pensado cambiar el vuelo al domingo.",
+    "cloze": "tenemos pensado cambiar",
+    "answer": "tenemos pensado cambiar",
+    "lemma": "tener pensado + infinitivo",
+    "meaning": "we plan to change",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0796.mp3"
+  },
+  {
+    "id": "es-03-0797",
+    "sentence": "En la junta, quedamos en solicitar dos cotizaciones antes de escoger al proveedor.",
+    "cloze": "quedamos en solicitar",
+    "answer": "quedamos en solicitar",
+    "lemma": "quedar en + infinitivo",
+    "meaning": "we agreed to request",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0797.mp3"
+  },
+  {
+    "id": "es-03-0798",
+    "sentence": "La encargada está por confirmar el horario con el equipo de soporte.",
+    "cloze": "está por confirmar",
+    "answer": "está por confirmar",
+    "lemma": "estar por + infinitivo",
+    "meaning": "is about to confirm",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0798.mp3"
+  },
+  {
+    "id": "es-03-0799",
+    "sentence": "Pienso apartar el salón esta tarde si la fecha les funciona a todos.",
+    "cloze": "si la fecha les funciona",
+    "answer": "si la fecha les funciona",
+    "lemma": "si + presente",
+    "meaning": "if the date works for them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0799.mp3"
+  },
+  {
+    "id": "es-03-0800",
+    "sentence": "Firmamos el martes y programamos la instalación si el proveedor mantiene el precio acordado.",
+    "cloze": "si el proveedor mantiene",
+    "answer": "si el proveedor mantiene",
+    "lemma": "si + presente",
+    "meaning": "if the supplier keeps",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0800.mp3"
   }
 ]
