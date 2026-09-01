@@ -1998,5 +1998,2005 @@
     "meaning": "to finally finish synchronizing",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/03/es-03-0200.mp3"
+  },
+  {
+    "id": "es-03-0201",
+    "sentence": "Hay un atraso en el proyecto; te pido que me avises de inmediato.",
+    "cloze": "me avises de inmediato",
+    "answer": "me avises de inmediato",
+    "lemma": "avisar",
+    "meaning": "notify me immediately",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0201.mp3"
+  },
+  {
+    "id": "es-03-0202",
+    "sentence": "¿Les parece bien el plan o prefieren que lo ajustemos entre todos?",
+    "cloze": "lo ajustemos entre todos",
+    "answer": "lo ajustemos entre todos",
+    "lemma": "ajustar",
+    "meaning": "adjust it together",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0202.mp3"
+  },
+  {
+    "id": "es-03-0203",
+    "sentence": "Señora, necesito que me confirme si requiere acceso al estacionamiento.",
+    "cloze": "me confirme",
+    "answer": "me confirme",
+    "lemma": "confirmar",
+    "meaning": "confirm for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0203.mp3"
+  },
+  {
+    "id": "es-03-0204",
+    "sentence": "No quiero que trabajes solo con una copia; guarda también el original.",
+    "cloze": "trabajes solo",
+    "answer": "trabajes solo",
+    "lemma": "trabajar",
+    "meaning": "work alone",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0204.mp3"
+  },
+  {
+    "id": "es-03-0205",
+    "sentence": "Como llegan de noche, les recomiendo que se hospeden cerca de la terminal.",
+    "cloze": "se hospeden cerca",
+    "answer": "se hospeden cerca",
+    "lemma": "hospedarse",
+    "meaning": "stay nearby",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0205.mp3"
+  },
+  {
+    "id": "es-03-0206",
+    "sentence": "Como usted conoce el trámite, le pido que nos oriente durante el registro.",
+    "cloze": "nos oriente",
+    "answer": "nos oriente",
+    "lemma": "orientar",
+    "meaning": "guide us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0206.mp3"
+  },
+  {
+    "id": "es-03-0207",
+    "sentence": "La coordinadora prefiere que participemos por turnos, así todos pueden hablar.",
+    "cloze": "participemos por turnos",
+    "answer": "participemos por turnos",
+    "lemma": "participar",
+    "meaning": "take turns participating",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0207.mp3"
+  },
+  {
+    "id": "es-03-0208",
+    "sentence": "El mensaje parece sospechoso; te aconsejo que no compartas nada todavía.",
+    "cloze": "no compartas nada",
+    "answer": "no compartas nada",
+    "lemma": "compartir",
+    "meaning": "share nothing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0208.mp3"
+  },
+  {
+    "id": "es-03-0209",
+    "sentence": "¿Desea que la acompañemos o prefiere entrar por su cuenta?",
+    "cloze": "la acompañemos",
+    "answer": "la acompañemos",
+    "lemma": "acompañar",
+    "meaning": "accompany you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0209.mp3"
+  },
+  {
+    "id": "es-03-0210",
+    "sentence": "Hay mucha gente, pero el reglamento exige que respeten el turno.",
+    "cloze": "respeten el turno",
+    "answer": "respeten el turno",
+    "lemma": "respetar",
+    "meaning": "respect the order",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0210.mp3"
+  },
+  {
+    "id": "es-03-0211",
+    "sentence": "Quiero entender tu punto de vista, así que necesito que lo describas con tus palabras.",
+    "cloze": "lo describas con tus palabras",
+    "answer": "lo describas con tus palabras",
+    "lemma": "describir",
+    "meaning": "describe it in your own words",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0211.mp3"
+  },
+  {
+    "id": "es-03-0212",
+    "sentence": "La pintura aún está fresca; el técnico recomienda que la dejemos secar.",
+    "cloze": "la dejemos secar",
+    "answer": "la dejemos secar",
+    "lemma": "dejar secar",
+    "meaning": "let it dry",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0212.mp3"
+  },
+  {
+    "id": "es-03-0213",
+    "sentence": "Si cambia la reservación, en el hotel solicitan que les informemos de inmediato.",
+    "cloze": "les informemos de inmediato",
+    "answer": "les informemos de inmediato",
+    "lemma": "informar",
+    "meaning": "inform them immediately",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0213.mp3"
+  },
+  {
+    "id": "es-03-0214",
+    "sentence": "La mochila grande será incómoda durante el recorrido; te recomiendo que viajes ligero.",
+    "cloze": "viajes ligero",
+    "answer": "viajes ligero",
+    "lemma": "viajar ligero",
+    "meaning": "travel light",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0214.mp3"
+  },
+  {
+    "id": "es-03-0215",
+    "sentence": "Como el evento termina tarde, los anfitriones prefieren que cenemos antes.",
+    "cloze": "cenemos antes",
+    "answer": "cenemos antes",
+    "lemma": "cenar",
+    "meaning": "eat beforehand",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0215.mp3"
+  },
+  {
+    "id": "es-03-0216",
+    "sentence": "Puedes consultar tus apuntes durante la exposición; no hace falta que aprendas todo de memoria.",
+    "cloze": "aprendas todo de memoria",
+    "answer": "aprendas todo de memoria",
+    "lemma": "aprender de memoria",
+    "meaning": "learn everything by heart",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0216.mp3"
+  },
+  {
+    "id": "es-03-0217",
+    "sentence": "La exposición es tuya; prefiero que hables con tus propias palabras.",
+    "cloze": "hables con tus propias palabras",
+    "answer": "hables con tus propias palabras",
+    "lemma": "hablar",
+    "meaning": "speak in your own words",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0217.mp3"
+  },
+  {
+    "id": "es-03-0218",
+    "sentence": "Las decisiones importantes no deben quedarse en el chat; la jefa insiste en que las documentemos.",
+    "cloze": "las documentemos",
+    "answer": "las documentemos",
+    "lemma": "documentar",
+    "meaning": "document them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0218.mp3"
+  },
+  {
+    "id": "es-03-0219",
+    "sentence": "Para no interrumpir la sesión, te pido que me escribas por el chat.",
+    "cloze": "me escribas por el chat",
+    "answer": "me escribas por el chat",
+    "lemma": "escribir",
+    "meaning": "write to me via chat",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0219.mp3"
+  },
+  {
+    "id": "es-03-0220",
+    "sentence": "Ya tienes dos propuestas; tu tutor aconseja que las compares antes de elegir.",
+    "cloze": "las compares",
+    "answer": "las compares",
+    "lemma": "comparar",
+    "meaning": "compare them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0220.mp3"
+  },
+  {
+    "id": "es-03-0221",
+    "sentence": "Si detecta un conflicto de interés, la empresa requiere que lo declare por escrito.",
+    "cloze": "lo declare por escrito",
+    "answer": "lo declare por escrito",
+    "lemma": "declarar",
+    "meaning": "declare it in writing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0221.mp3"
+  },
+  {
+    "id": "es-03-0222",
+    "sentence": "No quiero que te quedes sin saldo durante el viaje; haz una recarga antes de salir.",
+    "cloze": "te quedes sin saldo",
+    "answer": "te quedes sin saldo",
+    "lemma": "quedarse sin saldo",
+    "meaning": "run out of credit",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0222.mp3"
+  },
+  {
+    "id": "es-03-0223",
+    "sentence": "En vez de asignar una cuota fija, la anfitriona prefiere que cada quien coopere.",
+    "cloze": "cada quien coopere",
+    "answer": "cada quien coopere",
+    "lemma": "cooperar",
+    "meaning": "each person contributes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0223.mp3"
+  },
+  {
+    "id": "es-03-0224",
+    "sentence": "Para detectar más errores, la supervisora recomienda que revisemos por parejas.",
+    "cloze": "revisemos por parejas",
+    "answer": "revisemos por parejas",
+    "lemma": "revisar",
+    "meaning": "review in pairs",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0224.mp3"
+  },
+  {
+    "id": "es-03-0225",
+    "sentence": "No te estoy pidiendo que aceptes sin preguntar; puedes tomarte un día para decidir.",
+    "cloze": "aceptes sin preguntar",
+    "answer": "aceptes sin preguntar",
+    "lemma": "aceptar",
+    "meaning": "accept without asking questions",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0225.mp3"
+  },
+  {
+    "id": "es-03-0226",
+    "sentence": "—Profesora, ¿el proyecto es individual? —No, prefiero que lo entreguen juntos.",
+    "cloze": "lo entreguen juntos",
+    "answer": "lo entreguen juntos",
+    "lemma": "entregar",
+    "meaning": "submit it together",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0226.mp3"
+  },
+  {
+    "id": "es-03-0227",
+    "sentence": "Ustedes estarán en la entrada; el organizador quiere que se registren al llegar.",
+    "cloze": "se registren al llegar",
+    "answer": "se registren al llegar",
+    "lemma": "registrarse",
+    "meaning": "register upon arrival",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0227.mp3"
+  },
+  {
+    "id": "es-03-0228",
+    "sentence": "La administración exige que responda la persona encargada, no un asistente.",
+    "cloze": "responda la persona encargada",
+    "answer": "responda la persona encargada",
+    "lemma": "responder",
+    "meaning": "have the person in charge respond",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0228.mp3"
+  },
+  {
+    "id": "es-03-0229",
+    "sentence": "Sus datos personales no hacen falta para inscribirse; les recomiendo que no los revelen.",
+    "cloze": "no los revelen",
+    "answer": "no los revelen",
+    "lemma": "revelar",
+    "meaning": "not disclose them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0229.mp3"
+  },
+  {
+    "id": "es-03-0230",
+    "sentence": "La reservación está a su nombre; el hotel requiere que se presente personalmente.",
+    "cloze": "se presente personalmente",
+    "answer": "se presente personalmente",
+    "lemma": "presentarse",
+    "meaning": "appear in person",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0230.mp3"
+  },
+  {
+    "id": "es-03-0231",
+    "sentence": "Antes de modificar el programa, preferimos que nos consulten.",
+    "cloze": "nos consulten",
+    "answer": "nos consulten",
+    "lemma": "consultar",
+    "meaning": "consult us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0231.mp3"
+  },
+  {
+    "id": "es-03-0232",
+    "sentence": "Ese vuelo suele llenarse; te recomiendo que lo apartes con tiempo.",
+    "cloze": "lo apartes con tiempo",
+    "answer": "lo apartes con tiempo",
+    "lemma": "apartar",
+    "meaning": "book it early",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0232.mp3"
+  },
+  {
+    "id": "es-03-0233",
+    "sentence": "No puedo cubrir tu parte mañana; quiero que te prepares para dirigirla.",
+    "cloze": "te prepares para dirigirla",
+    "answer": "te prepares para dirigirla",
+    "lemma": "prepararse",
+    "meaning": "prepare to lead it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0233.mp3"
+  },
+  {
+    "id": "es-03-0234",
+    "sentence": "La mudanza debe terminar hoy, así que es necesario que todos colaboren.",
+    "cloze": "todos colaboren",
+    "answer": "todos colaboren",
+    "lemma": "colaborar",
+    "meaning": "everyone collaborates",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0234.mp3"
+  },
+  {
+    "id": "es-03-0235",
+    "sentence": "Para mejorar la pronunciación, la maestra propone que repasemos en voz alta.",
+    "cloze": "repasemos en voz alta",
+    "answer": "repasemos en voz alta",
+    "lemma": "repasar",
+    "meaning": "review aloud",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0235.mp3"
+  },
+  {
+    "id": "es-03-0236",
+    "sentence": "El cliente acepta el presupuesto, pero no quiere que cobremos por adelantado.",
+    "cloze": "cobremos por adelantado",
+    "answer": "cobremos por adelantado",
+    "lemma": "cobrar",
+    "meaning": "charge in advance",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0236.mp3"
+  },
+  {
+    "id": "es-03-0237",
+    "sentence": "En esta ocasión, mi mamá prefiere que cocines tú; yo me encargo de servir.",
+    "cloze": "cocines tú",
+    "answer": "cocines tú",
+    "lemma": "cocinar",
+    "meaning": "you do the cooking",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0237.mp3"
+  },
+  {
+    "id": "es-03-0238",
+    "sentence": "Cualquier fuga debe quedar registrada; el arrendador solicita que se la reportemos.",
+    "cloze": "se la reportemos",
+    "answer": "se la reportemos",
+    "lemma": "reportar",
+    "meaning": "report it to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0238.mp3"
+  },
+  {
+    "id": "es-03-0239",
+    "sentence": "Esta colecta no recibe dinero; la organización pide que donen en especie.",
+    "cloze": "donen en especie",
+    "answer": "donen en especie",
+    "lemma": "donar",
+    "meaning": "donate in kind",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0239.mp3"
+  },
+  {
+    "id": "es-03-0240",
+    "sentence": "Para repartir el gasto de forma justa, preferimos que cada familia aporte lo mismo.",
+    "cloze": "cada familia aporte lo mismo",
+    "answer": "cada familia aporte lo mismo",
+    "lemma": "aportar",
+    "meaning": "each family contributes equally",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0240.mp3"
+  },
+  {
+    "id": "es-03-0241",
+    "sentence": "Para que nadie se confunda con los cambios, conviene que la versión final sea fácil de consultar.",
+    "cloze": "sea fácil de consultar",
+    "answer": "sea fácil de consultar",
+    "lemma": "ser",
+    "meaning": "be easy to consult",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0241.mp3"
+  },
+  {
+    "id": "es-03-0242",
+    "sentence": "El vuelo puede demorarse, así que prefiero que el transporte esté disponible hasta que aterricemos.",
+    "cloze": "esté disponible",
+    "answer": "esté disponible",
+    "lemma": "estar",
+    "meaning": "be available",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0242.mp3"
+  },
+  {
+    "id": "es-03-0243",
+    "sentence": "Si van a entregar credenciales, la coordinadora necesita que vayas primero a la mesa de registro.",
+    "cloze": "vayas primero a la mesa de registro",
+    "answer": "vayas primero a la mesa de registro",
+    "lemma": "ir",
+    "meaning": "go to the registration desk first",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0243.mp3"
+  },
+  {
+    "id": "es-03-0244",
+    "sentence": "Para atender dudas sin retrasar el curso, hace falta que haya otra persona en recepción.",
+    "cloze": "haya otra persona en recepción",
+    "answer": "haya otra persona en recepción",
+    "lemma": "haber",
+    "meaning": "there be another person at reception",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0244.mp3"
+  },
+  {
+    "id": "es-03-0245",
+    "sentence": "Antes de cubrir el turno de la tarde, necesito que sepas dónde están las llaves del archivo.",
+    "cloze": "sepas dónde están las llaves",
+    "answer": "sepas dónde están las llaves",
+    "lemma": "saber",
+    "meaning": "know where the keys are",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0245.mp3"
+  },
+  {
+    "id": "es-03-0246",
+    "sentence": "La cuenta todavía está bloqueada; le pido que me dé acceso temporal mientras revisan mis datos.",
+    "cloze": "me dé acceso temporal",
+    "answer": "me dé acceso temporal",
+    "lemma": "dar",
+    "meaning": "give me temporary access",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0246.mp3"
+  },
+  {
+    "id": "es-03-0247",
+    "sentence": "Si cambia la hora de salida, prefiero que me lo digas por mensaje para reorganizar el traslado.",
+    "cloze": "me lo digas por mensaje",
+    "answer": "me lo digas por mensaje",
+    "lemma": "decir",
+    "meaning": "tell me by message",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0247.mp3"
+  },
+  {
+    "id": "es-03-0248",
+    "sentence": "El informe debe quedar listo hoy, así que la jefa quiere que usted haga la última revisión.",
+    "cloze": "haga la última revisión",
+    "answer": "haga la última revisión",
+    "lemma": "hacer",
+    "meaning": "do the final review",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0248.mp3"
+  },
+  {
+    "id": "es-03-0249",
+    "sentence": "Para que podamos comparar los gastos, necesito que pongas cada recibo en esta carpeta.",
+    "cloze": "pongas cada recibo en esta carpeta",
+    "answer": "pongas cada recibo en esta carpeta",
+    "lemma": "poner",
+    "meaning": "put each receipt in this folder",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0249.mp3"
+  },
+  {
+    "id": "es-03-0250",
+    "sentence": "El trámite suele tardar, por eso conviene que salga de casa con tiempo para su cita.",
+    "cloze": "salga de casa con tiempo",
+    "answer": "salga de casa con tiempo",
+    "lemma": "salir",
+    "meaning": "leave home with plenty of time",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0250.mp3"
+  },
+  {
+    "id": "es-03-0251",
+    "sentence": "La asesora puede resolverlo hoy, pero necesita que usted venga con su número de folio.",
+    "cloze": "venga con su número de folio",
+    "answer": "venga con su número de folio",
+    "lemma": "venir",
+    "meaning": "come with your reference number",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0251.mp3"
+  },
+  {
+    "id": "es-03-0252",
+    "sentence": "Antes de cambiar la reservación, le ruego que oiga la explicación completa del agente.",
+    "cloze": "oiga la explicación completa",
+    "answer": "oiga la explicación completa",
+    "lemma": "oír",
+    "meaning": "listen to the complete explanation",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0252.mp3"
+  },
+  {
+    "id": "es-03-0253",
+    "sentence": "Para terminar la instalación hoy, el técnico solicita que usted traiga el adaptador que recibió.",
+    "cloze": "traiga el adaptador que recibió",
+    "answer": "traiga el adaptador que recibió",
+    "lemma": "traer",
+    "meaning": "bring the adapter you received",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0253.mp3"
+  },
+  {
+    "id": "es-03-0254",
+    "sentence": "Antes de autorizar el cobro, hace falta que usted vea el monto final en la pantalla.",
+    "cloze": "vea el monto final",
+    "answer": "vea el monto final",
+    "lemma": "ver",
+    "meaning": "see the final amount",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0254.mp3"
+  },
+  {
+    "id": "es-03-0255",
+    "sentence": "El grupo es pequeño, así que conviene que todo el material quepa en una sola mesa.",
+    "cloze": "quepa en una sola mesa",
+    "answer": "quepa en una sola mesa",
+    "lemma": "caber",
+    "meaning": "fit on a single table",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0255.mp3"
+  },
+  {
+    "id": "es-03-0256",
+    "sentence": "La caja está mal acomodada; te pido que evites que caiga al abrir la puerta.",
+    "cloze": "caiga al abrir la puerta",
+    "answer": "caiga al abrir la puerta",
+    "lemma": "caer",
+    "meaning": "fall when the door is opened",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0256.mp3"
+  },
+  {
+    "id": "es-03-0257",
+    "sentence": "Antes de comprar el pase, necesito que valga también para el autobús nocturno.",
+    "cloze": "valga también para el autobús nocturno",
+    "answer": "valga también para el autobús nocturno",
+    "lemma": "valer",
+    "meaning": "also be valid for the night bus",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0257.mp3"
+  },
+  {
+    "id": "es-03-0258",
+    "sentence": "La capacitación será breve, pero quiero que cada participante conozca el procedimiento para reportar fallas.",
+    "cloze": "conozca el procedimiento para reportar fallas",
+    "answer": "conozca el procedimiento para reportar fallas",
+    "lemma": "conocer",
+    "meaning": "know the procedure for reporting problems",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0258.mp3"
+  },
+  {
+    "id": "es-03-0259",
+    "sentence": "Para trasladar al equipo, la empresa exige que alguien con licencia vigente conduzca la camioneta.",
+    "cloze": "conduzca la camioneta",
+    "answer": "conduzca la camioneta",
+    "lemma": "conducir",
+    "meaning": "drive the van",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0259.mp3"
+  },
+  {
+    "id": "es-03-0260",
+    "sentence": "Hay dos horarios disponibles, pero dudo que el de las siete parezca conveniente para todos.",
+    "cloze": "parezca conveniente para todos",
+    "answer": "parezca conveniente para todos",
+    "lemma": "parecer",
+    "meaning": "seem convenient for everyone",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0260.mp3"
+  },
+  {
+    "id": "es-03-0261",
+    "sentence": "El cliente necesita una solución hoy, así que conviene que usted le ofrezca una alternativa por escrito.",
+    "cloze": "le ofrezca una alternativa por escrito",
+    "answer": "le ofrezca una alternativa por escrito",
+    "lemma": "ofrecer",
+    "meaning": "offer them an alternative in writing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0261.mp3"
+  },
+  {
+    "id": "es-03-0262",
+    "sentence": "La visita empieza a las nueve; la directora insiste en que estemos listos junto a la entrada.",
+    "cloze": "estemos listos junto a la entrada",
+    "answer": "estemos listos junto a la entrada",
+    "lemma": "estar",
+    "meaning": "be ready by the entrance",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0262.mp3"
+  },
+  {
+    "id": "es-03-0263",
+    "sentence": "El aviso afecta a varios departamentos, por eso es importante que todos sepan cuál será el nuevo horario.",
+    "cloze": "sepan cuál será el nuevo horario",
+    "answer": "sepan cuál será el nuevo horario",
+    "lemma": "saber",
+    "meaning": "know what the new schedule will be",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0263.mp3"
+  },
+  {
+    "id": "es-03-0264",
+    "sentence": "Todavía faltan dos acuerdos; propongo que hagamos una pausa y retomemos la reunión después de comer.",
+    "cloze": "hagamos una pausa",
+    "answer": "hagamos una pausa",
+    "lemma": "hacer",
+    "meaning": "take a break",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0264.mp3"
+  },
+  {
+    "id": "es-03-0265",
+    "sentence": "El módulo cierra temprano, así que la instructora recomienda que vayamos durante el primer descanso.",
+    "cloze": "vayamos durante el primer descanso",
+    "answer": "vayamos durante el primer descanso",
+    "lemma": "ir",
+    "meaning": "go during the first break",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0265.mp3"
+  },
+  {
+    "id": "es-03-0266",
+    "sentence": "La información es confidencial; necesito que ustedes le digan al proveedor solo lo necesario.",
+    "cloze": "le digan al proveedor solo lo necesario",
+    "answer": "le digan al proveedor solo lo necesario",
+    "lemma": "decir",
+    "meaning": "tell the supplier only what is necessary",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0266.mp3"
+  },
+  {
+    "id": "es-03-0267",
+    "sentence": "Para evitar entregas incompletas, la supervisora exige que pongan su nombre en cada hoja.",
+    "cloze": "pongan su nombre en cada hoja",
+    "answer": "pongan su nombre en cada hoja",
+    "lemma": "poner",
+    "meaning": "put your name on every sheet",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0267.mp3"
+  },
+  {
+    "id": "es-03-0268",
+    "sentence": "Las instrucciones van dirigidas a todo el personal, pero conviene que sean breves y fáciles de aplicar.",
+    "cloze": "sean breves y fáciles de aplicar",
+    "answer": "sean breves y fáciles de aplicar",
+    "lemma": "ser",
+    "meaning": "be brief and easy to apply",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0268.mp3"
+  },
+  {
+    "id": "es-03-0269",
+    "sentence": "La sala no tiene proyector, así que propongo que traigamos uno del área de capacitación.",
+    "cloze": "traigamos uno del área de capacitación",
+    "answer": "traigamos uno del área de capacitación",
+    "lemma": "traer",
+    "meaning": "bring one from the training area",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0269.mp3"
+  },
+  {
+    "id": "es-03-0270",
+    "sentence": "El servicio recibe muchas llamadas; es indispensable que haya una opción para dejar mensaje.",
+    "cloze": "haya una opción para dejar mensaje",
+    "answer": "haya una opción para dejar mensaje",
+    "lemma": "haber",
+    "meaning": "there be an option to leave a message",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0270.mp3"
+  },
+  {
+    "id": "es-03-0271",
+    "sentence": "El autobús pasa a las seis; mi hermana prefiere que salgamos juntos desde la oficina.",
+    "cloze": "salgamos juntos desde la oficina",
+    "answer": "salgamos juntos desde la oficina",
+    "lemma": "salir",
+    "meaning": "leave the office together",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0271.mp3"
+  },
+  {
+    "id": "es-03-0272",
+    "sentence": "Antes de aceptar la nueva fecha, la coordinadora sugiere que veamos si todos están disponibles.",
+    "cloze": "veamos si todos están disponibles",
+    "answer": "veamos si todos están disponibles",
+    "lemma": "ver",
+    "meaning": "check whether everyone is available",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0272.mp3"
+  },
+  {
+    "id": "es-03-0273",
+    "sentence": "El presupuesto es limitado, por eso la directora pide que demos prioridad a las reparaciones urgentes.",
+    "cloze": "demos prioridad a las reparaciones urgentes",
+    "answer": "demos prioridad a las reparaciones urgentes",
+    "lemma": "dar",
+    "meaning": "give priority to urgent repairs",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0273.mp3"
+  },
+  {
+    "id": "es-03-0274",
+    "sentence": "La sesión será presencial; el instructor prefiere que vengamos con las preguntas ya anotadas.",
+    "cloze": "vengamos con las preguntas ya anotadas",
+    "answer": "vengamos con las preguntas ya anotadas",
+    "lemma": "venir",
+    "meaning": "come with the questions already written down",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0274.mp3"
+  },
+  {
+    "id": "es-03-0275",
+    "sentence": "El elevador tiene poca capacidad, así que es importante que las cajas quepan sin bloquear la puerta.",
+    "cloze": "quepan sin bloquear la puerta",
+    "answer": "quepan sin bloquear la puerta",
+    "lemma": "caber",
+    "meaning": "fit without blocking the door",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0275.mp3"
+  },
+  {
+    "id": "es-03-0276",
+    "sentence": "Antes de votar, la moderadora propone que oigamos primero a los usuarios frecuentes.",
+    "cloze": "oigamos primero a los usuarios frecuentes",
+    "answer": "oigamos primero a los usuarios frecuentes",
+    "lemma": "oír",
+    "meaning": "hear from frequent users first",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0276.mp3"
+  },
+  {
+    "id": "es-03-0277",
+    "sentence": "La plataforma cambia mañana; el responsable quiere que conozcamos las funciones básicas antes de la capacitación.",
+    "cloze": "conozcamos las funciones básicas",
+    "answer": "conozcamos las funciones básicas",
+    "lemma": "conocer",
+    "meaning": "know the basic features",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0277.mp3"
+  },
+  {
+    "id": "es-03-0278",
+    "sentence": "Los gafetes incluyen datos personales, así que la oficina exige que no caigan en manos equivocadas.",
+    "cloze": "no caigan en manos equivocadas",
+    "answer": "no caigan en manos equivocadas",
+    "lemma": "caer",
+    "meaning": "not fall into the wrong hands",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0278.mp3"
+  },
+  {
+    "id": "es-03-0279",
+    "sentence": "El camino estará cerrado de noche; la agencia recomienda que conduzcamos por la ruta señalada.",
+    "cloze": "conduzcamos por la ruta señalada",
+    "answer": "conduzcamos por la ruta señalada",
+    "lemma": "conducir",
+    "meaning": "drive along the marked route",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0279.mp3"
+  },
+  {
+    "id": "es-03-0280",
+    "sentence": "Antes de repartir los cupones, hace falta que valgan en todas las sucursales participantes.",
+    "cloze": "valgan en todas las sucursales participantes",
+    "answer": "valgan en todas las sucursales participantes",
+    "lemma": "valer",
+    "meaning": "be valid at all participating branches",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0280.mp3"
+  },
+  {
+    "id": "es-03-0281",
+    "sentence": "Para abordar un vuelo internacional, la aerolínea exige que tenga su pasaporte vigente.",
+    "cloze": "tenga su pasaporte vigente",
+    "answer": "tenga su pasaporte vigente",
+    "lemma": "tener",
+    "meaning": "have a valid passport",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0281.mp3"
+  },
+  {
+    "id": "es-03-0282",
+    "sentence": "Recursos Humanos autoriza que el personal temporal pueda entrar al archivo solo con supervisión.",
+    "cloze": "pueda entrar",
+    "answer": "pueda entrar",
+    "lemma": "poder",
+    "meaning": "be allowed to enter",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0282.mp3"
+  },
+  {
+    "id": "es-03-0283",
+    "sentence": "En el consulado le recomiendan que pida el comprobante antes de retirarse.",
+    "cloze": "pida el comprobante",
+    "answer": "pida el comprobante",
+    "lemma": "pedir",
+    "meaning": "request the receipt",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0283.mp3"
+  },
+  {
+    "id": "es-03-0284",
+    "sentence": "Como el museo se llena al mediodía, preferimos que empiece el recorrido a primera hora.",
+    "cloze": "empiece el recorrido",
+    "answer": "empiece el recorrido",
+    "lemma": "empezar",
+    "meaning": "start the tour",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0284.mp3"
+  },
+  {
+    "id": "es-03-0285",
+    "sentence": "Los organizadores solicitan que llegue con anticipación para registrar su entrada.",
+    "cloze": "llegue con anticipación",
+    "answer": "llegue con anticipación",
+    "lemma": "llegar",
+    "meaning": "arrive early",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0285.mp3"
+  },
+  {
+    "id": "es-03-0286",
+    "sentence": "Si no reconoce la fila, le sugiero que busque el módulo de migración junto a las escaleras.",
+    "cloze": "busque el módulo de migración",
+    "answer": "busque el módulo de migración",
+    "lemma": "buscar",
+    "meaning": "look for the immigration desk",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0286.mp3"
+  },
+  {
+    "id": "es-03-0287",
+    "sentence": "Durante el traslado, el guía pide que siga las indicaciones del personal por seguridad.",
+    "cloze": "siga las indicaciones",
+    "answer": "siga las indicaciones",
+    "lemma": "seguir",
+    "meaning": "follow the instructions",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0287.mp3"
+  },
+  {
+    "id": "es-03-0288",
+    "sentence": "Antes de reenviar el mensaje, quiero que encuentre el archivo adjunto marcado en la captura.",
+    "cloze": "encuentre el archivo adjunto",
+    "answer": "encuentre el archivo adjunto",
+    "lemma": "encontrar",
+    "meaning": "find the attached file",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0288.mp3"
+  },
+  {
+    "id": "es-03-0289",
+    "sentence": "Después de borrar la memoria caché, el área de soporte recomienda que vuelva a iniciar sesión.",
+    "cloze": "vuelva a iniciar sesión",
+    "answer": "vuelva a iniciar sesión",
+    "lemma": "volver",
+    "meaning": "log in again",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0289.mp3"
+  },
+  {
+    "id": "es-03-0290",
+    "sentence": "La administradora insiste en que recuerde cerrar la ventana antes de salir del departamento.",
+    "cloze": "recuerde cerrar la ventana",
+    "answer": "recuerde cerrar la ventana",
+    "lemma": "recordar",
+    "meaning": "remember to close the window",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0290.mp3"
+  },
+  {
+    "id": "es-03-0291",
+    "sentence": "Al reservar el hotel, prefiero que mi hija duerma lejos del elevador.",
+    "cloze": "duerma lejos del elevador",
+    "answer": "duerma lejos del elevador",
+    "lemma": "dormir",
+    "meaning": "sleep away from the elevator",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0291.mp3"
+  },
+  {
+    "id": "es-03-0292",
+    "sentence": "Antes de usar el laboratorio, la empresa exige que consiga la autorización de su jefa.",
+    "cloze": "consiga la autorización",
+    "answer": "consiga la autorización",
+    "lemma": "conseguir",
+    "meaning": "obtain authorization",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0292.mp3"
+  },
+  {
+    "id": "es-03-0293",
+    "sentence": "Para evitar retrasos, la empresa procura que cada consultor cuente con acceso al servidor desde el primer día.",
+    "cloze": "cuente con acceso",
+    "answer": "cuente con acceso",
+    "lemma": "contar con",
+    "meaning": "have access",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0293.mp3"
+  },
+  {
+    "id": "es-03-0294",
+    "sentence": "La recepción solicita que entregue la credencial temporal al terminar su visita.",
+    "cloze": "entregue la credencial temporal",
+    "answer": "entregue la credencial temporal",
+    "lemma": "entregar",
+    "meaning": "return the temporary badge",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0294.mp3"
+  },
+  {
+    "id": "es-03-0295",
+    "sentence": "Durante la conferencia, los ponentes piden que apague el micrófono mientras escucha.",
+    "cloze": "apague el micrófono",
+    "answer": "apague el micrófono",
+    "lemma": "apagar",
+    "meaning": "turn off the microphone",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0295.mp3"
+  },
+  {
+    "id": "es-03-0296",
+    "sentence": "Para la videollamada de mañana, necesito que cargue por completo la batería de la tableta.",
+    "cloze": "cargue por completo la batería",
+    "answer": "cargue por completo la batería",
+    "lemma": "cargar",
+    "meaning": "fully charge the battery",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0296.mp3"
+  },
+  {
+    "id": "es-03-0297",
+    "sentence": "Antes de darle acceso al sistema, el técnico pide que verifique la dirección de correo electrónico.",
+    "cloze": "verifique la dirección de correo electrónico",
+    "answer": "verifique la dirección de correo electrónico",
+    "lemma": "verificar",
+    "meaning": "verify the email address",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0297.mp3"
+  },
+  {
+    "id": "es-03-0298",
+    "sentence": "El editor solicita que corrija el nombre del archivo antes de compartirlo con el equipo.",
+    "cloze": "corrija el nombre del archivo",
+    "answer": "corrija el nombre del archivo",
+    "lemma": "corregir",
+    "meaning": "correct the file name",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0298.mp3"
+  },
+  {
+    "id": "es-03-0299",
+    "sentence": "Para proteger la cuenta, el portal exige que escoja una contraseña distinta de las anteriores.",
+    "cloze": "escoja una contraseña distinta",
+    "answer": "escoja una contraseña distinta",
+    "lemma": "escoger",
+    "meaning": "choose a different password",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0299.mp3"
+  },
+  {
+    "id": "es-03-0300",
+    "sentence": "Antes del evento, el proveedor recomienda que pruebe la conexión desde la sala.",
+    "cloze": "pruebe la conexión",
+    "answer": "pruebe la conexión",
+    "lemma": "probar",
+    "meaning": "test the connection",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0300.mp3"
+  },
+  {
+    "id": "es-03-0301",
+    "sentence": "Al configurar la privacidad, quiero que mi perfil muestre solo mi primer apellido.",
+    "cloze": "muestre solo mi primer apellido",
+    "answer": "muestre solo mi primer apellido",
+    "lemma": "mostrar",
+    "meaning": "show only my first surname",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0301.mp3"
+  },
+  {
+    "id": "es-03-0302",
+    "sentence": "Antes de ausentarse, el propietario pide que cierre bien la llave de paso del patio.",
+    "cloze": "cierre bien la llave de paso",
+    "answer": "cierre bien la llave de paso",
+    "lemma": "cerrar",
+    "meaning": "close the shutoff valve properly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0302.mp3"
+  },
+  {
+    "id": "es-03-0303",
+    "sentence": "Durante mis vacaciones, le pido que riegue las plantas del balcón cada tercer día.",
+    "cloze": "riegue las plantas",
+    "answer": "riegue las plantas",
+    "lemma": "regar",
+    "meaning": "water the plants",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0303.mp3"
+  },
+  {
+    "id": "es-03-0304",
+    "sentence": "La administradora le pide que saque la basura solo en el horario indicado por el edificio.",
+    "cloze": "saque la basura",
+    "answer": "saque la basura",
+    "lemma": "sacar",
+    "meaning": "take out the trash",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0304.mp3"
+  },
+  {
+    "id": "es-03-0305",
+    "sentence": "Para evitar recargos, el arrendador pide que pague por transferencia antes del viernes.",
+    "cloze": "pague por transferencia",
+    "answer": "pague por transferencia",
+    "lemma": "pagar",
+    "meaning": "pay by bank transfer",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0305.mp3"
+  },
+  {
+    "id": "es-03-0306",
+    "sentence": "Si el horario no le funciona, la encargada permite que proponga otra fecha para la inspección.",
+    "cloze": "proponga otra fecha",
+    "answer": "proponga otra fecha",
+    "lemma": "proponer",
+    "meaning": "propose another date",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0306.mp3"
+  },
+  {
+    "id": "es-03-0307",
+    "sentence": "La gerencia pide que mantenga el horario acordado para no retrasar la capacitación.",
+    "cloze": "mantenga el horario acordado",
+    "answer": "mantenga el horario acordado",
+    "lemma": "mantener",
+    "meaning": "keep the agreed schedule",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0307.mp3"
+  },
+  {
+    "id": "es-03-0308",
+    "sentence": "El organizador permite que venga después de comer si muestra su gafete.",
+    "cloze": "venga después de comer",
+    "answer": "venga después de comer",
+    "lemma": "venir",
+    "meaning": "come after lunch",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0308.mp3"
+  },
+  {
+    "id": "es-03-0309",
+    "sentence": "La instructora recomienda que almuerce antes del taller porque no habrá descanso.",
+    "cloze": "almuerce antes del taller",
+    "answer": "almuerce antes del taller",
+    "lemma": "almorzar",
+    "meaning": "have lunch before the workshop",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0309.mp3"
+  },
+  {
+    "id": "es-03-0310",
+    "sentence": "El productor quiere que comience la transmisión con el aviso de privacidad.",
+    "cloze": "comience la transmisión",
+    "answer": "comience la transmisión",
+    "lemma": "comenzar",
+    "meaning": "begin the broadcast",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0310.mp3"
+  },
+  {
+    "id": "es-03-0311",
+    "sentence": "El comité permite que cuelgue los avisos en el tablero junto a la entrada.",
+    "cloze": "cuelgue los avisos",
+    "answer": "cuelgue los avisos",
+    "lemma": "colgar",
+    "meaning": "hang the notices",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0311.mp3"
+  },
+  {
+    "id": "es-03-0312",
+    "sentence": "Por seguridad, la coordinadora prefiere que el grupo juegue en el patio techado.",
+    "cloze": "juegue en el patio techado",
+    "answer": "juegue en el patio techado",
+    "lemma": "jugar",
+    "meaning": "play in the covered courtyard",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0312.mp3"
+  },
+  {
+    "id": "es-03-0313",
+    "sentence": "Atención a clientes solicita que devuelva el equipo con todos sus accesorios.",
+    "cloze": "devuelva el equipo",
+    "answer": "devuelva el equipo",
+    "lemma": "devolver",
+    "meaning": "return the equipment",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0313.mp3"
+  },
+  {
+    "id": "es-03-0314",
+    "sentence": "Para cerrar el reporte hoy, necesito que resuelva el caso antes del cambio de turno.",
+    "cloze": "resuelva el caso",
+    "answer": "resuelva el caso",
+    "lemma": "resolver",
+    "meaning": "resolve the case",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0314.mp3"
+  },
+  {
+    "id": "es-03-0315",
+    "sentence": "La supervisora pide que atienda primero a esta clienta porque lleva media hora esperando.",
+    "cloze": "atienda primero a esta clienta",
+    "answer": "atienda primero a esta clienta",
+    "lemma": "atender",
+    "meaning": "assist this customer first",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0315.mp3"
+  },
+  {
+    "id": "es-03-0316",
+    "sentence": "El área de garantías autoriza que el taller reponga la pieza dañada sin costo adicional.",
+    "cloze": "reponga la pieza dañada",
+    "answer": "reponga la pieza dañada",
+    "lemma": "reponer",
+    "meaning": "replace the damaged part",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0316.mp3"
+  },
+  {
+    "id": "es-03-0317",
+    "sentence": "El protocolo exige que el agente obtenga un folio nuevo si el sistema rechaza la solicitud.",
+    "cloze": "obtenga un folio nuevo",
+    "answer": "obtenga un folio nuevo",
+    "lemma": "obtener",
+    "meaning": "obtain a new reference number",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0317.mp3"
+  },
+  {
+    "id": "es-03-0318",
+    "sentence": "El banco recomienda que proteja sus datos personales al usar la aplicación en lugares públicos.",
+    "cloze": "proteja sus datos personales",
+    "answer": "proteja sus datos personales",
+    "lemma": "proteger",
+    "meaning": "protect your personal data",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0318.mp3"
+  },
+  {
+    "id": "es-03-0319",
+    "sentence": "La política de la empresa exige que el sistema niegue el acceso después de varios intentos fallidos.",
+    "cloze": "niegue el acceso",
+    "answer": "niegue el acceso",
+    "lemma": "negar",
+    "meaning": "deny access",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0319.mp3"
+  },
+  {
+    "id": "es-03-0320",
+    "sentence": "Si la terminal vuelve a rechazar la tarjeta, el cajero sugiere que elija otra forma de pago.",
+    "cloze": "elija otra forma de pago",
+    "answer": "elija otra forma de pago",
+    "lemma": "elegir",
+    "meaning": "choose another payment method",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0320.mp3"
+  },
+  {
+    "id": "es-03-0321",
+    "sentence": "Me alegra que tu nuevo horario te deje cenar con tus hijos.",
+    "cloze": "te deje cenar",
+    "answer": "te deje cenar",
+    "lemma": "dejar cenar",
+    "meaning": "lets you have dinner",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0321.mp3"
+  },
+  {
+    "id": "es-03-0322",
+    "sentence": "¡Qué bueno que la administradora ya tenga lista la llave de repuesto!",
+    "cloze": "tenga lista",
+    "answer": "tenga lista",
+    "lemma": "tener listo",
+    "meaning": "has the spare key ready",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0322.mp3"
+  },
+  {
+    "id": "es-03-0323",
+    "sentence": "A mis papás les da gusto que ustedes puedan acompañarnos al aeropuerto mañana.",
+    "cloze": "puedan acompañarnos",
+    "answer": "puedan acompañarnos",
+    "lemma": "poder acompañar",
+    "meaning": "can accompany us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0323.mp3"
+  },
+  {
+    "id": "es-03-0324",
+    "sentence": "Después de tantos mensajes, me tranquiliza que el técnico por fin revise la instalación.",
+    "cloze": "revise la instalación",
+    "answer": "revise la instalación",
+    "lemma": "revisar la instalación",
+    "meaning": "checks the installation",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0324.mp3"
+  },
+  {
+    "id": "es-03-0325",
+    "sentence": "Es un alivio que la aerolínea nos ofrezca otro vuelo sin costo.",
+    "cloze": "nos ofrezca otro vuelo",
+    "answer": "nos ofrezca otro vuelo",
+    "lemma": "ofrecer otro vuelo",
+    "meaning": "offers us another flight",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0325.mp3"
+  },
+  {
+    "id": "es-03-0326",
+    "sentence": "Me encanta que mi hermana cocine opciones sin carne para la reunión.",
+    "cloze": "cocine opciones sin carne",
+    "answer": "cocine opciones sin carne",
+    "lemma": "cocinar opciones sin carne",
+    "meaning": "cooks meat-free options",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0326.mp3"
+  },
+  {
+    "id": "es-03-0327",
+    "sentence": "Al equipo le entusiasma que la nueva coordinadora proponga mejoras concretas para el curso.",
+    "cloze": "proponga mejoras concretas",
+    "answer": "proponga mejoras concretas",
+    "lemma": "proponer mejoras",
+    "meaning": "proposes concrete improvements",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0327.mp3"
+  },
+  {
+    "id": "es-03-0328",
+    "sentence": "Aprecio que usted responda a mis comentarios con ejemplos concretos.",
+    "cloze": "responda a mis comentarios",
+    "answer": "responda a mis comentarios",
+    "lemma": "responder a comentarios",
+    "meaning": "responds to my comments",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0328.mp3"
+  },
+  {
+    "id": "es-03-0329",
+    "sentence": "Nos da gusto que el proveedor cumpla el plazo acordado.",
+    "cloze": "cumpla el plazo acordado",
+    "answer": "cumpla el plazo acordado",
+    "lemma": "cumplir un plazo",
+    "meaning": "meets the agreed deadline",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0329.mp3"
+  },
+  {
+    "id": "es-03-0330",
+    "sentence": "Aunque está lloviendo mucho, me sorprende que este autobús salga puntual.",
+    "cloze": "salga puntual",
+    "answer": "salga puntual",
+    "lemma": "salir puntual",
+    "meaning": "leaves on time",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0330.mp3"
+  },
+  {
+    "id": "es-03-0331",
+    "sentence": "A la recepcionista le sorprende que la aplicación reconozca mi pasaporte con tan poca luz.",
+    "cloze": "reconozca mi pasaporte",
+    "answer": "reconozca mi pasaporte",
+    "lemma": "reconocer un pasaporte",
+    "meaning": "recognizes my passport",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0331.mp3"
+  },
+  {
+    "id": "es-03-0332",
+    "sentence": "Es admirable que los vecinos organicen la colecta en tan poco tiempo.",
+    "cloze": "organicen la colecta",
+    "answer": "organicen la colecta",
+    "lemma": "organizar una colecta",
+    "meaning": "organize the fundraiser",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0332.mp3"
+  },
+  {
+    "id": "es-03-0333",
+    "sentence": "Después de una semana, me preocupa que el casero todavía no repare la fuga.",
+    "cloze": "todavía no repare",
+    "answer": "todavía no repare",
+    "lemma": "no reparar",
+    "meaning": "still does not repair",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0333.mp3"
+  },
+  {
+    "id": "es-03-0334",
+    "sentence": "Me inquieta que la reserva aparezca con otra fecha en el correo.",
+    "cloze": "aparezca con otra fecha",
+    "answer": "aparezca con otra fecha",
+    "lemma": "aparecer con otra fecha",
+    "meaning": "shows a different date",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0334.mp3"
+  },
+  {
+    "id": "es-03-0335",
+    "sentence": "Durante la presentación, nos pone nerviosos que la pantalla se apague de repente.",
+    "cloze": "se apague de repente",
+    "answer": "se apague de repente",
+    "lemma": "apagarse de repente",
+    "meaning": "turns off suddenly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0335.mp3"
+  },
+  {
+    "id": "es-03-0336",
+    "sentence": "A mi pareja le preocupa que nuestro vuelo llegue demasiado tarde para la conexión.",
+    "cloze": "llegue demasiado tarde",
+    "answer": "llegue demasiado tarde",
+    "lemma": "llegar tarde",
+    "meaning": "arrives far too late",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0336.mp3"
+  },
+  {
+    "id": "es-03-0337",
+    "sentence": "Me da miedo que mi hijo cruce solo esa avenida tan transitada.",
+    "cloze": "cruce solo",
+    "answer": "cruce solo",
+    "lemma": "cruzar solo",
+    "meaning": "crosses alone",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0337.mp3"
+  },
+  {
+    "id": "es-03-0338",
+    "sentence": "Nos molesta que algunos inquilinos dejen sucios los espacios comunes.",
+    "cloze": "dejen sucios",
+    "answer": "dejen sucios",
+    "lemma": "dejar sucio",
+    "meaning": "leave the shared spaces dirty",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0338.mp3"
+  },
+  {
+    "id": "es-03-0339",
+    "sentence": "Me incomoda que el asesor comparta mi número sin preguntarme.",
+    "cloze": "comparta mi número",
+    "answer": "comparta mi número",
+    "lemma": "compartir un número",
+    "meaning": "shares my number",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0339.mp3"
+  },
+  {
+    "id": "es-03-0340",
+    "sentence": "A todos nos frustra que la impresora rechace archivos de este tamaño.",
+    "cloze": "rechace archivos",
+    "answer": "rechace archivos",
+    "lemma": "rechazar archivos",
+    "meaning": "rejects files",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0340.mp3"
+  },
+  {
+    "id": "es-03-0341",
+    "sentence": "Me decepciona que la empresa niegue el error sin revisar los datos.",
+    "cloze": "niegue el error",
+    "answer": "niegue el error",
+    "lemma": "negar un error",
+    "meaning": "denies the error",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0341.mp3"
+  },
+  {
+    "id": "es-03-0342",
+    "sentence": "Lamento que la coordinadora no incluya tus observaciones en el informe.",
+    "cloze": "no incluya tus observaciones",
+    "answer": "no incluya tus observaciones",
+    "lemma": "no incluir observaciones",
+    "meaning": "does not include your comments",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0342.mp3"
+  },
+  {
+    "id": "es-03-0343",
+    "sentence": "Me da tristeza que nuestros amigos se muden tan lejos del barrio.",
+    "cloze": "se muden tan lejos",
+    "answer": "se muden tan lejos",
+    "lemma": "mudarse lejos",
+    "meaning": "move so far away",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0343.mp3"
+  },
+  {
+    "id": "es-03-0344",
+    "sentence": "¡Qué lástima que el museo permanezca cerrado justo durante su visita!",
+    "cloze": "permanezca cerrado",
+    "answer": "permanezca cerrado",
+    "lemma": "permanecer cerrado",
+    "meaning": "remains closed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0344.mp3"
+  },
+  {
+    "id": "es-03-0345",
+    "sentence": "No me gusta que mis turnos te obliguen a cambiar tus planes.",
+    "cloze": "te obliguen a cambiar",
+    "answer": "te obliguen a cambiar",
+    "lemma": "obligar a cambiar",
+    "meaning": "force you to change",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0345.mp3"
+  },
+  {
+    "id": "es-03-0346",
+    "sentence": "A los residentes les enoja que la administración cobre dos veces la cuota de mantenimiento.",
+    "cloze": "cobre dos veces",
+    "answer": "cobre dos veces",
+    "lemma": "cobrar dos veces",
+    "meaning": "charges the fee twice",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0346.mp3"
+  },
+  {
+    "id": "es-03-0347",
+    "sentence": "¡Qué molesto que la alarma suene sin motivo a medianoche!",
+    "cloze": "suene sin motivo",
+    "answer": "suene sin motivo",
+    "lemma": "sonar sin motivo",
+    "meaning": "goes off for no reason",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0347.mp3"
+  },
+  {
+    "id": "es-03-0348",
+    "sentence": "Nos parece mal que la recepción ignore el orden de llegada.",
+    "cloze": "ignore el orden de llegada",
+    "answer": "ignore el orden de llegada",
+    "lemma": "ignorar el orden de llegada",
+    "meaning": "ignores the arrival order",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0348.mp3"
+  },
+  {
+    "id": "es-03-0349",
+    "sentence": "La supervisora considera injusto que los becarios paguen de su bolsillo los materiales.",
+    "cloze": "paguen de su bolsillo",
+    "answer": "paguen de su bolsillo",
+    "lemma": "pagar de su bolsillo",
+    "meaning": "pay out of pocket",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0349.mp3"
+  },
+  {
+    "id": "es-03-0350",
+    "sentence": "Me parece muy mal que tus compañeros hagan bromas sobre tu acento.",
+    "cloze": "hagan bromas",
+    "answer": "hagan bromas",
+    "lemma": "hacer bromas",
+    "meaning": "make jokes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0350.mp3"
+  },
+  {
+    "id": "es-03-0351",
+    "sentence": "Para evitar versiones distintas, considero importante que cada área guarde una copia del acuerdo final.",
+    "cloze": "guarde una copia",
+    "answer": "guarde una copia",
+    "lemma": "guardar una copia",
+    "meaning": "keeps a copy",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0351.mp3"
+  },
+  {
+    "id": "es-03-0352",
+    "sentence": "Como la prueba lleva tiempo, conviene que ustedes lleguen antes para probar el proyector.",
+    "cloze": "lleguen antes",
+    "answer": "lleguen antes",
+    "lemma": "llegar antes",
+    "meaning": "arrive early",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0352.mp3"
+  },
+  {
+    "id": "es-03-0353",
+    "sentence": "Al contador le resulta útil que la factura muestre cada cargo por separado.",
+    "cloze": "muestre cada cargo",
+    "answer": "muestre cada cargo",
+    "lemma": "mostrar cada cargo",
+    "meaning": "shows each charge",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0353.mp3"
+  },
+  {
+    "id": "es-03-0354",
+    "sentence": "Para evitar el tráfico, lo mejor es que nosotros tomemos el tren de las siete.",
+    "cloze": "tomemos el tren",
+    "answer": "tomemos el tren",
+    "lemma": "tomar el tren",
+    "meaning": "take the train",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0354.mp3"
+  },
+  {
+    "id": "es-03-0355",
+    "sentence": "A mi vecina le da tranquilidad que el paquete llegue bien sellado.",
+    "cloze": "llegue bien sellado",
+    "answer": "llegue bien sellado",
+    "lemma": "llegar bien sellado",
+    "meaning": "arrives properly sealed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0355.mp3"
+  },
+  {
+    "id": "es-03-0356",
+    "sentence": "Los vecinos ven con buenos ojos que el municipio recupere el parque para las familias.",
+    "cloze": "recupere el parque",
+    "answer": "recupere el parque",
+    "lemma": "recuperar el parque",
+    "meaning": "restores the park",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0356.mp3"
+  },
+  {
+    "id": "es-03-0357",
+    "sentence": "La coordinadora considera fundamental que el personal sepa dónde está la salida de emergencia.",
+    "cloze": "sepa dónde está",
+    "answer": "sepa dónde está",
+    "lemma": "saber dónde está",
+    "meaning": "knows where it is",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0357.mp3"
+  },
+  {
+    "id": "es-03-0358",
+    "sentence": "Después de tanta demora, no me sorprende que la clienta pida una explicación.",
+    "cloze": "pida una explicación",
+    "answer": "pida una explicación",
+    "lemma": "pedir una explicación",
+    "meaning": "asks for an explanation",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0358.mp3"
+  },
+  {
+    "id": "es-03-0359",
+    "sentence": "A nadie le extraña que tu mamá prefiera esperar una respuesta por escrito.",
+    "cloze": "prefiera esperar",
+    "answer": "prefiera esperar",
+    "lemma": "preferir esperar",
+    "meaning": "prefers to wait",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0359.mp3"
+  },
+  {
+    "id": "es-03-0360",
+    "sentence": "Los vecinos agradecen que el comité escuche sus propuestas antes de decidir.",
+    "cloze": "escuche sus propuestas",
+    "answer": "escuche sus propuestas",
+    "lemma": "escuchar propuestas",
+    "meaning": "listens to their proposals",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0360.mp3"
+  },
+  {
+    "id": "es-03-0361",
+    "sentence": "Dudo que la junta empiece a tiempo, porque dos áreas siguen preparando sus reportes.",
+    "cloze": "empiece a tiempo",
+    "answer": "empiece a tiempo",
+    "lemma": "empezar a tiempo",
+    "meaning": "to start on time",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0361.mp3"
+  },
+  {
+    "id": "es-03-0362",
+    "sentence": "No creo que el archivo venga adjunto en ese correo; la vista previa solo muestra texto.",
+    "cloze": "venga adjunto en ese correo",
+    "answer": "venga adjunto en ese correo",
+    "lemma": "venir adjunto",
+    "meaning": "to be attached to that email",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0362.mp3"
+  },
+  {
+    "id": "es-03-0363",
+    "sentence": "Es posible que el servicio se restablezca antes del mediodía, según el aviso de soporte.",
+    "cloze": "se restablezca antes del mediodía",
+    "answer": "se restablezca antes del mediodía",
+    "lemma": "restablecerse",
+    "meaning": "to be restored before noon",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0363.mp3"
+  },
+  {
+    "id": "es-03-0364",
+    "sentence": "No es seguro que el autobús haga parada en este pueblo durante la temporada baja.",
+    "cloze": "haga parada en este pueblo",
+    "answer": "haga parada en este pueblo",
+    "lemma": "hacer parada",
+    "meaning": "to stop in this town",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0364.mp3"
+  },
+  {
+    "id": "es-03-0365",
+    "sentence": "No estoy convencida de que la reservación incluya el desayuno; la confirmación no lo menciona.",
+    "cloze": "incluya el desayuno",
+    "answer": "incluya el desayuno",
+    "lemma": "incluir el desayuno",
+    "meaning": "to include breakfast",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0365.mp3"
+  },
+  {
+    "id": "es-03-0366",
+    "sentence": "Puede que la aplicación funcione en teléfonos antiguos después de la próxima actualización.",
+    "cloze": "funcione en teléfonos antiguos",
+    "answer": "funcione en teléfonos antiguos",
+    "lemma": "funcionar en teléfonos antiguos",
+    "meaning": "to work on older phones",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0366.mp3"
+  },
+  {
+    "id": "es-03-0367",
+    "sentence": "No es seguro que el aviso llegue a todos los vecinos antes de la reunión.",
+    "cloze": "llegue a todos los vecinos",
+    "answer": "llegue a todos los vecinos",
+    "lemma": "llegar a todos",
+    "meaning": "to reach all the neighbors",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0367.mp3"
+  },
+  {
+    "id": "es-03-0368",
+    "sentence": "Es posible que el mal tiempo obligue a mover la feria al salón comunitario este sábado.",
+    "cloze": "obligue a mover la feria",
+    "answer": "obligue a mover la feria",
+    "lemma": "obligar a mover",
+    "meaning": "to force the fair to be moved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0368.mp3"
+  },
+  {
+    "id": "es-03-0369",
+    "sentence": "No es cierto que el vuelo salga de la terminal dos; el pase indica la terminal uno.",
+    "cloze": "salga de la terminal dos",
+    "answer": "salga de la terminal dos",
+    "lemma": "salir de la terminal",
+    "meaning": "to depart from Terminal 2",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0369.mp3"
+  },
+  {
+    "id": "es-03-0370",
+    "sentence": "Dudo que el paquete llegue el viernes, pues todavía no sale del almacén.",
+    "cloze": "llegue el viernes",
+    "answer": "llegue el viernes",
+    "lemma": "llegar el viernes",
+    "meaning": "to arrive on Friday",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0370.mp3"
+  },
+  {
+    "id": "es-03-0371",
+    "sentence": "No está confirmado que la clase cambie de salón mañana; el correo oficial aún no dice nada.",
+    "cloze": "cambie de salón mañana",
+    "answer": "cambie de salón mañana",
+    "lemma": "cambiar de salón",
+    "meaning": "to move to another classroom tomorrow",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0371.mp3"
+  },
+  {
+    "id": "es-03-0372",
+    "sentence": "Es posible que la transferencia se refleje hoy por la tarde, aunque el banco no dio una hora.",
+    "cloze": "se refleje hoy por la tarde",
+    "answer": "se refleje hoy por la tarde",
+    "lemma": "reflejarse",
+    "meaning": "to appear this afternoon",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0372.mp3"
+  },
+  {
+    "id": "es-03-0373",
+    "sentence": "Dudo que la clínica mande otro recordatorio, porque ya confirmó la cita por teléfono.",
+    "cloze": "mande otro recordatorio",
+    "answer": "mande otro recordatorio",
+    "lemma": "mandar un recordatorio",
+    "meaning": "to send another reminder",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0373.mp3"
+  },
+  {
+    "id": "es-03-0374",
+    "sentence": "Es posible que Protección Civil retire el cierre de la carretera este fin de semana.",
+    "cloze": "retire el cierre de la carretera",
+    "answer": "retire el cierre de la carretera",
+    "lemma": "retirar el cierre",
+    "meaning": "to lift the road closure",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0374.mp3"
+  },
+  {
+    "id": "es-03-0375",
+    "sentence": "No creo que este cargador sea compatible con la tableta de la oficina.",
+    "cloze": "sea compatible con la tableta",
+    "answer": "sea compatible con la tableta",
+    "lemma": "ser compatible",
+    "meaning": "to be compatible with the tablet",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0375.mp3"
+  },
+  {
+    "id": "es-03-0376",
+    "sentence": "No estamos seguros de que el mapa muestre los cierres más recientes de la zona.",
+    "cloze": "muestre los cierres más recientes",
+    "answer": "muestre los cierres más recientes",
+    "lemma": "mostrar los cierres",
+    "meaning": "to show the latest closures",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0376.mp3"
+  },
+  {
+    "id": "es-03-0377",
+    "sentence": "No creo que la biblioteca amplíe su horario durante las vacaciones.",
+    "cloze": "amplíe su horario",
+    "answer": "amplíe su horario",
+    "lemma": "ampliar el horario",
+    "meaning": "to extend its hours",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0377.mp3"
+  },
+  {
+    "id": "es-03-0378",
+    "sentence": "No hay garantía de que el plomero termine la reparación hoy, porque todavía busca la refacción.",
+    "cloze": "termine la reparación hoy",
+    "answer": "termine la reparación hoy",
+    "lemma": "terminar la reparación",
+    "meaning": "to finish the repair today",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0378.mp3"
+  },
+  {
+    "id": "es-03-0379",
+    "sentence": "Dudo que la entrada norte del metro permanezca abierta durante las obras.",
+    "cloze": "permanezca abierta durante las obras",
+    "answer": "permanezca abierta durante las obras",
+    "lemma": "permanecer abierta",
+    "meaning": "to remain open during the work",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0379.mp3"
+  },
+  {
+    "id": "es-03-0380",
+    "sentence": "Dudo que el restaurante nos guarde la mesa después de media hora de retraso.",
+    "cloze": "nos guarde la mesa",
+    "answer": "nos guarde la mesa",
+    "lemma": "guardar la mesa",
+    "meaning": "to hold our table for us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0380.mp3"
+  },
+  {
+    "id": "es-03-0381",
+    "sentence": "No está claro que el foro permita subir archivos desde una cuenta nueva.",
+    "cloze": "permita subir archivos",
+    "answer": "permita subir archivos",
+    "lemma": "permitir subir archivos",
+    "meaning": "to allow file uploads",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0381.mp3"
+  },
+  {
+    "id": "es-03-0382",
+    "sentence": "Puede que el camión de reciclaje pase más tarde por la colonia debido al tráfico.",
+    "cloze": "pase más tarde por la colonia",
+    "answer": "pase más tarde por la colonia",
+    "lemma": "pasar por la colonia",
+    "meaning": "to come through the neighborhood later",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0382.mp3"
+  },
+  {
+    "id": "es-03-0383",
+    "sentence": "No creo que la ruta siga operando mientras reparan el puente.",
+    "cloze": "siga operando",
+    "answer": "siga operando",
+    "lemma": "seguir operando",
+    "meaning": "to remain in service",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0383.mp3"
+  },
+  {
+    "id": "es-03-0384",
+    "sentence": "Puede que la lluvia retrase el concierto comunitario de esta noche.",
+    "cloze": "retrase el concierto comunitario",
+    "answer": "retrase el concierto comunitario",
+    "lemma": "retrasar el concierto",
+    "meaning": "to delay the community concert",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0384.mp3"
+  },
+  {
+    "id": "es-03-0385",
+    "sentence": "Dudo que la plataforma de videollamadas acepte a cincuenta participantes con el plan actual.",
+    "cloze": "acepte a cincuenta participantes",
+    "answer": "acepte a cincuenta participantes",
+    "lemma": "aceptar participantes",
+    "meaning": "to support fifty participants",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0385.mp3"
+  },
+  {
+    "id": "es-03-0386",
+    "sentence": "No es seguro que la administración apruebe la fecha propuesta para reparar el elevador.",
+    "cloze": "apruebe la fecha propuesta",
+    "answer": "apruebe la fecha propuesta",
+    "lemma": "aprobar la fecha",
+    "meaning": "to approve the proposed date",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0386.mp3"
+  },
+  {
+    "id": "es-03-0387",
+    "sentence": "El ayuntamiento niega que esa alerta de evacuación sea auténtica; no aparece en su portal oficial.",
+    "cloze": "sea auténtica",
+    "answer": "sea auténtica",
+    "lemma": "ser auténtico",
+    "meaning": "to be genuine",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0387.mp3"
+  },
+  {
+    "id": "es-03-0388",
+    "sentence": "No hay certeza de que el boleto pueda cambiarse sin cargo después de hoy.",
+    "cloze": "pueda cambiarse sin cargo",
+    "answer": "pueda cambiarse sin cargo",
+    "lemma": "poder cambiarse",
+    "meaning": "to be changeable without a fee",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0388.mp3"
+  },
+  {
+    "id": "es-03-0389",
+    "sentence": "Dudo que el taller tenga cupo para el curso del lunes; el registro ya muestra una lista de espera.",
+    "cloze": "tenga cupo para el curso",
+    "answer": "tenga cupo para el curso",
+    "lemma": "tener cupo",
+    "meaning": "to have space for the course",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0389.mp3"
+  },
+  {
+    "id": "es-03-0390",
+    "sentence": "No creo que la tienda cuente con otra pieza para reemplazar la dañada.",
+    "cloze": "cuente con otra pieza",
+    "answer": "cuente con otra pieza",
+    "lemma": "contar con otra pieza",
+    "meaning": "to have another part available",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0390.mp3"
+  },
+  {
+    "id": "es-03-0391",
+    "sentence": "No estoy segura de que la conexión nos dé tiempo suficiente para abordar el segundo tren.",
+    "cloze": "nos dé tiempo suficiente",
+    "answer": "nos dé tiempo suficiente",
+    "lemma": "dar tiempo suficiente",
+    "meaning": "to give us enough time",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0391.mp3"
+  },
+  {
+    "id": "es-03-0392",
+    "sentence": "Es posible que el aviso esté en el grupo equivocado, porque nadie del equipo lo vio.",
+    "cloze": "esté en el grupo equivocado",
+    "answer": "esté en el grupo equivocado",
+    "lemma": "estar en el grupo equivocado",
+    "meaning": "to be in the wrong group",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0392.mp3"
+  },
+  {
+    "id": "es-03-0393",
+    "sentence": "Es poco probable que el apagón dure toda la tarde, de acuerdo con el reporte técnico.",
+    "cloze": "dure toda la tarde",
+    "answer": "dure toda la tarde",
+    "lemma": "durar toda la tarde",
+    "meaning": "to last all afternoon",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0393.mp3"
+  },
+  {
+    "id": "es-03-0394",
+    "sentence": "Puede que la kermés recaude suficiente dinero para reparar los juegos del parque.",
+    "cloze": "recaude suficiente dinero",
+    "answer": "recaude suficiente dinero",
+    "lemma": "recaudar dinero",
+    "meaning": "to raise enough money",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0394.mp3"
+  },
+  {
+    "id": "es-03-0395",
+    "sentence": "Dudo que el GPS reconozca esta dirección nueva sin una actualización.",
+    "cloze": "reconozca esta dirección nueva",
+    "answer": "reconozca esta dirección nueva",
+    "lemma": "reconocer una dirección",
+    "meaning": "to recognize this new address",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0395.mp3"
+  },
+  {
+    "id": "es-03-0396",
+    "sentence": "No está confirmado que el respaldo contenga la versión más reciente del documento.",
+    "cloze": "contenga la versión más reciente",
+    "answer": "contenga la versión más reciente",
+    "lemma": "contener la versión reciente",
+    "meaning": "to contain the latest version",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0396.mp3"
+  },
+  {
+    "id": "es-03-0397",
+    "sentence": "No creemos que el nuevo horario se publique mañana; recursos humanos aún lo está revisando.",
+    "cloze": "se publique mañana",
+    "answer": "se publique mañana",
+    "lemma": "publicarse",
+    "meaning": "to be posted tomorrow",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0397.mp3"
+  },
+  {
+    "id": "es-03-0398",
+    "sentence": "Es posible que la camioneta del hotel salga con tiempo para el primer vuelo, pero aún no confirman al chofer.",
+    "cloze": "salga con tiempo para el primer vuelo",
+    "answer": "salga con tiempo para el primer vuelo",
+    "lemma": "salir con tiempo",
+    "meaning": "to leave in time for the first flight",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0398.mp3"
+  },
+  {
+    "id": "es-03-0399",
+    "sentence": "No hay garantía de que el portal acepte el PDF si pesa más de diez megabytes.",
+    "cloze": "acepte el PDF",
+    "answer": "acepte el PDF",
+    "lemma": "aceptar el PDF",
+    "meaning": "to accept the PDF",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0399.mp3"
+  },
+  {
+    "id": "es-03-0400",
+    "sentence": "Es posible que el centro comunitario reabra mañana después de la inspección por la tormenta.",
+    "cloze": "reabra mañana",
+    "answer": "reabra mañana",
+    "lemma": "reabrir",
+    "meaning": "to reopen tomorrow",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/03/es-03-0400.mp3"
   }
 ]
