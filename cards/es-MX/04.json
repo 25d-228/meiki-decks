@@ -17741,5 +17741,405 @@
     "meaning": "I suggest",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1760.mp3"
+  },
+  {
+    "id": "es-04-1761",
+    "sentence": "La propuesta tiene como objetivo reducir el tiempo de espera sin eliminar la revisión final.",
+    "cloze": "tiene como objetivo reducir",
+    "answer": "tiene como objetivo reducir",
+    "lemma": "tener como objetivo",
+    "meaning": "aims to reduce",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1761.mp3"
+  },
+  {
+    "id": "es-04-1762",
+    "sentence": "Propongo que concentremos las preguntas al final para no interrumpir cada sección.",
+    "cloze": "concentremos",
+    "answer": "concentremos",
+    "lemma": "concentrar",
+    "meaning": "we consolidate",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1762.mp3"
+  },
+  {
+    "id": "es-04-1763",
+    "sentence": "Presento este esquema para que el equipo reduzca los cambios de última hora.",
+    "cloze": "Presento",
+    "answer": "Presento",
+    "lemma": "presentar",
+    "meaning": "I present",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1763.mp3"
+  },
+  {
+    "id": "es-04-1764",
+    "sentence": "Propongo una sola plantilla; así, agilizaremos la preparación y evitaremos versiones distintas.",
+    "cloze": "Propongo",
+    "answer": "Propongo",
+    "lemma": "proponer",
+    "meaning": "I propose",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1764.mp3"
+  },
+  {
+    "id": "es-04-1765",
+    "sentence": "La propuesta destina un espacio para que quienes se conectan a distancia intervengan en la discusión.",
+    "cloze": "destina",
+    "answer": "destina",
+    "lemma": "destinar",
+    "meaning": "allocates",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1765.mp3"
+  },
+  {
+    "id": "es-04-1766",
+    "sentence": "Con este formato, cada comentario quedará vinculado con la parte correspondiente de la propuesta.",
+    "cloze": "quedará vinculado",
+    "answer": "quedará vinculado",
+    "lemma": "quedar vinculado",
+    "meaning": "will be linked",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1766.mp3"
+  },
+  {
+    "id": "es-04-1767",
+    "sentence": "La propuesta organiza la presentación en dos partes para que la recomendación quede clara.",
+    "cloze": "organiza",
+    "answer": "organiza",
+    "lemma": "organizar",
+    "meaning": "organizes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1767.mp3"
+  },
+  {
+    "id": "es-04-1768",
+    "sentence": "Separar los resultados de las recomendaciones haría más clara la presentación para el comité.",
+    "cloze": "haría más clara",
+    "answer": "haría más clara",
+    "lemma": "hacer más claro",
+    "meaning": "would make clearer",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1768.mp3"
+  },
+  {
+    "id": "es-04-1769",
+    "sentence": "Estoy a favor de probar el nuevo formato, siempre que evaluemos los resultados después de dos sesiones.",
+    "cloze": "Estoy a favor de probar",
+    "answer": "Estoy a favor de probar",
+    "lemma": "estar a favor de",
+    "meaning": "I support trying",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1769.mp3"
+  },
+  {
+    "id": "es-04-1770",
+    "sentence": "No me opongo a adelantar la reunión, pero necesitamos confirmar que el salón esté disponible.",
+    "cloze": "No me opongo a adelantar",
+    "answer": "No me opongo a adelantar",
+    "lemma": "oponerse a",
+    "meaning": "I do not object to moving earlier",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1770.mp3"
+  },
+  {
+    "id": "es-04-1771",
+    "sentence": "Mi principal objeción es que el plazo deja muy poco margen para corregir la presentación.",
+    "cloze": "objeción",
+    "answer": "objeción",
+    "lemma": "objeción",
+    "meaning": "objection",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1771.mp3"
+  },
+  {
+    "id": "es-04-1772",
+    "sentence": "Desde el punto de vista del equipo de soporte, conviene mantener una sesión breve de preguntas.",
+    "cloze": "conviene mantener",
+    "answer": "conviene mantener",
+    "lemma": "convenir",
+    "meaning": "it is advisable to keep",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1772.mp3"
+  },
+  {
+    "id": "es-04-1773",
+    "sentence": "Por mi parte, el calendario escalonado cuenta con mi respaldo porque reparte mejor las revisiones.",
+    "cloze": "cuenta con mi respaldo",
+    "answer": "cuenta con mi respaldo",
+    "lemma": "contar con el respaldo",
+    "meaning": "has my support",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1773.mp3"
+  },
+  {
+    "id": "es-04-1774",
+    "sentence": "La opción de ensayar el viernes tiene un costo razonable, así que la veo viable.",
+    "cloze": "la veo viable",
+    "answer": "la veo viable",
+    "lemma": "ver viable",
+    "meaning": "I consider it viable",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1774.mp3"
+  },
+  {
+    "id": "es-04-1775",
+    "sentence": "No apoyaría una propuesta que eliminara la revisión entre pares.",
+    "cloze": "No apoyaría",
+    "answer": "No apoyaría",
+    "lemma": "apoyar",
+    "meaning": "I would not support",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1775.mp3"
+  },
+  {
+    "id": "es-04-1776",
+    "sentence": "Si hay que escoger un indicador, preferiría medir el avance del grupo y no solo la asistencia.",
+    "cloze": "preferiría medir",
+    "answer": "preferiría medir",
+    "lemma": "preferir",
+    "meaning": "I would prefer to measure",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1776.mp3"
+  },
+  {
+    "id": "es-04-1777",
+    "sentence": "La coordinadora puntualizó que la fecha seguía sujeta a la aprobación del comité.",
+    "cloze": "puntualizó",
+    "answer": "puntualizó",
+    "lemma": "puntualizar",
+    "meaning": "clarified",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1777.mp3"
+  },
+  {
+    "id": "es-04-1778",
+    "sentence": "El instructor hizo énfasis en que cada ejemplo debía apoyar la idea principal.",
+    "cloze": "hizo énfasis",
+    "answer": "hizo énfasis",
+    "lemma": "hacer énfasis",
+    "meaning": "emphasized",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1778.mp3"
+  },
+  {
+    "id": "es-04-1779",
+    "sentence": "Al cerrar la reunión, el relator condensó las tres propuestas en una sola recomendación.",
+    "cloze": "condensó",
+    "answer": "condensó",
+    "lemma": "condensar",
+    "meaning": "condensed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1779.mp3"
+  },
+  {
+    "id": "es-04-1780",
+    "sentence": "Una participante puso sobre la mesa el costo de capacitar a todo el personal.",
+    "cloze": "puso sobre la mesa",
+    "answer": "puso sobre la mesa",
+    "lemma": "poner sobre la mesa",
+    "meaning": "raised for discussion",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1780.mp3"
+  },
+  {
+    "id": "es-04-1781",
+    "sentence": "El responsable de datos precisó que el cálculo ya incluía las licencias.",
+    "cloze": "precisó",
+    "answer": "precisó",
+    "lemma": "precisar",
+    "meaning": "specified",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1781.mp3"
+  },
+  {
+    "id": "es-04-1782",
+    "sentence": "La tesorera volvió sobre la pregunta del presupuesto y explicó de dónde saldrían los recursos.",
+    "cloze": "volvió sobre",
+    "answer": "volvió sobre",
+    "lemma": "volver sobre",
+    "meaning": "returned to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1782.mp3"
+  },
+  {
+    "id": "es-04-1783",
+    "sentence": "El secretario dejó constancia de que dos áreas no habían enviado sus comentarios.",
+    "cloze": "dejó constancia",
+    "answer": "dejó constancia",
+    "lemma": "dejar constancia",
+    "meaning": "put on record",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1783.mp3"
+  },
+  {
+    "id": "es-04-1784",
+    "sentence": "La moderadora cerró su intervención con tres acuerdos y una tarea pendiente.",
+    "cloze": "cerró",
+    "answer": "cerró",
+    "lemma": "cerrar",
+    "meaning": "closed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1784.mp3"
+  },
+  {
+    "id": "es-04-1785",
+    "sentence": "Tu explicación se entiende bien; solo convendría adelantar el ejemplo para aclarar la propuesta desde el inicio.",
+    "cloze": "convendría adelantar",
+    "answer": "convendría adelantar",
+    "lemma": "convenir",
+    "meaning": "it would be advisable to move earlier",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1785.mp3"
+  },
+  {
+    "id": "es-04-1786",
+    "sentence": "La comparación es útil, aunque podrías precisar qué criterio usaste para descartar la primera opción.",
+    "cloze": "podrías precisar",
+    "answer": "podrías precisar",
+    "lemma": "poder precisar",
+    "meaning": "you could clarify",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1786.mp3"
+  },
+  {
+    "id": "es-04-1787",
+    "sentence": "El cierre ganaría claridad si retomaras la pregunta que abrió la presentación.",
+    "cloze": "ganaría claridad",
+    "answer": "ganaría claridad",
+    "lemma": "ganar claridad",
+    "meaning": "would become clearer",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1787.mp3"
+  },
+  {
+    "id": "es-04-1788",
+    "sentence": "La presentación va bien encaminada; únicamente falta conectar los datos con la recomendación.",
+    "cloze": "va bien encaminada",
+    "answer": "va bien encaminada",
+    "lemma": "ir bien encaminado",
+    "meaning": "is on the right track",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1788.mp3"
+  },
+  {
+    "id": "es-04-1789",
+    "sentence": "A partir de sus comentarios, distinguí mejor el beneficio principal de la propuesta.",
+    "cloze": "A partir de sus comentarios",
+    "answer": "A partir de sus comentarios",
+    "lemma": "a partir de",
+    "meaning": "Based on your feedback",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1789.mp3"
+  },
+  {
+    "id": "es-04-1790",
+    "sentence": "El argumento está bien sustentado, pero conviene explicar por qué ese plazo es realista.",
+    "cloze": "está bien sustentado",
+    "answer": "está bien sustentado",
+    "lemma": "estar bien sustentado",
+    "meaning": "is well supported",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1790.mp3"
+  },
+  {
+    "id": "es-04-1791",
+    "sentence": "A la diapositiva de costos le vendría bien una comparación con la versión anterior.",
+    "cloze": "le vendría bien",
+    "answer": "le vendría bien",
+    "lemma": "venir bien",
+    "meaning": "would benefit from",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1791.mp3"
+  },
+  {
+    "id": "es-04-1792",
+    "sentence": "Aprecio que señales el riesgo sin descalificar la propuesta.",
+    "cloze": "señales",
+    "answer": "señales",
+    "lemma": "señalar",
+    "meaning": "you point out",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1792.mp3"
+  },
+  {
+    "id": "es-04-1793",
+    "sentence": "Si el comité aprueba el cambio, redistribuiremos las tareas para equilibrar la carga.",
+    "cloze": "redistribuiremos",
+    "answer": "redistribuiremos",
+    "lemma": "redistribuir",
+    "meaning": "we will redistribute",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1793.mp3"
+  },
+  {
+    "id": "es-04-1794",
+    "sentence": "De no recibir observaciones hoy, mañana circularemos la versión revisada entre los responsables.",
+    "cloze": "circularemos",
+    "answer": "circularemos",
+    "lemma": "circular",
+    "meaning": "we will circulate",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1794.mp3"
+  },
+  {
+    "id": "es-04-1795",
+    "sentence": "Con una semana adicional, incorporaríamos las dos pruebas que pidió el equipo de calidad.",
+    "cloze": "incorporaríamos",
+    "answer": "incorporaríamos",
+    "lemma": "incorporar",
+    "meaning": "we would incorporate",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1795.mp3"
+  },
+  {
+    "id": "es-04-1796",
+    "sentence": "En caso de que falte alguien, grabaremos la presentación y compartiremos un resumen.",
+    "cloze": "grabaremos",
+    "answer": "grabaremos",
+    "lemma": "grabar",
+    "meaning": "we will record",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1796.mp3"
+  },
+  {
+    "id": "es-04-1797",
+    "sentence": "Si la prueba revelara confusión, volveríamos a separar los resultados de las recomendaciones.",
+    "cloze": "volveríamos a separar",
+    "answer": "volveríamos a separar",
+    "lemma": "volver a separar",
+    "meaning": "we would separate again",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1797.mp3"
+  },
+  {
+    "id": "es-04-1798",
+    "sentence": "Una vez que tengamos el visto bueno, asignaremos a cada área una fecha de entrega.",
+    "cloze": "asignaremos",
+    "answer": "asignaremos",
+    "lemma": "asignar",
+    "meaning": "we will assign",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1798.mp3"
+  },
+  {
+    "id": "es-04-1799",
+    "sentence": "Si el grupo prefiriera dos sesiones, ajustaríamos el temario para no repetir contenidos.",
+    "cloze": "ajustaríamos",
+    "answer": "ajustaríamos",
+    "lemma": "ajustar",
+    "meaning": "we would adjust",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1799.mp3"
+  },
+  {
+    "id": "es-04-1800",
+    "sentence": "La versión revisada incluirá el ejemplo que solicitaron y mantendrá el cierre original.",
+    "cloze": "incluirá",
+    "answer": "incluirá",
+    "lemma": "incluir",
+    "meaning": "will include",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1800.mp3"
   }
 ]
