@@ -1998,5 +1998,2005 @@
     "meaning": "will exceed",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-0200.mp3"
+  },
+{
+    "id": "es-04-0201",
+    "sentence": "Cuando empiece la junta de las nueve, el comité ya habrá definido qué gastos pueden recortarse.",
+    "cloze": "habrá definido",
+    "answer": "habrá definido",
+    "lemma": "definir",
+    "meaning": "will have defined",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0201.mp3"
+  },
+  {
+    "id": "es-04-0202",
+    "sentence": "Para cuando regreses de comer, habré incorporado tus cambios al calendario de visitas.",
+    "cloze": "habré incorporado",
+    "answer": "habré incorporado",
+    "lemma": "incorporar",
+    "meaning": "will have incorporated",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0202.mp3"
+  },
+  {
+    "id": "es-04-0203",
+    "sentence": "Antes de que termine el módulo, los participantes habrán realizado las cuatro prácticas obligatorias.",
+    "cloze": "habrán realizado",
+    "answer": "habrán realizado",
+    "lemma": "realizar",
+    "meaning": "will have completed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0203.mp3"
+  },
+  {
+    "id": "es-04-0204",
+    "sentence": "Cuando vuelvan a colocar los muebles, la pintura ya se habrá secado por completo.",
+    "cloze": "se habrá secado",
+    "answer": "se habrá secado",
+    "lemma": "secarse",
+    "meaning": "will have dried",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0204.mp3"
+  },
+  {
+    "id": "es-04-0205",
+    "sentence": "Para mediados de noviembre, Lucía habrá ahorrado la mitad del enganche de su departamento.",
+    "cloze": "habrá ahorrado",
+    "answer": "habrá ahorrado",
+    "lemma": "ahorrar",
+    "meaning": "will have saved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0205.mp3"
+  },
+  {
+    "id": "es-04-0206",
+    "sentence": "Cuando llegue el camión, el personal de la bodega ya habrá despejado el área de descarga.",
+    "cloze": "habrá despejado",
+    "answer": "habrá despejado",
+    "lemma": "despejar",
+    "meaning": "will have cleared",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0206.mp3"
+  },
+  {
+    "id": "es-04-0207",
+    "sentence": "A la hora de la demostración, ya habremos instalado la actualización en las seis tabletas.",
+    "cloze": "habremos instalado",
+    "answer": "habremos instalado",
+    "lemma": "instalar",
+    "meaning": "will have installed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0207.mp3"
+  },
+  {
+    "id": "es-04-0208",
+    "sentence": "Para el último módulo, habrás adquirido la práctica necesaria para trabajar sin guía.",
+    "cloze": "habrás adquirido",
+    "answer": "habrás adquirido",
+    "lemma": "adquirir",
+    "meaning": "will have gained",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0208.mp3"
+  },
+  {
+    "id": "es-04-0209",
+    "sentence": "Para cuando reabra el mercado, las cuadrillas ya habrán reforzado la entrada norte.",
+    "cloze": "habrán reforzado",
+    "answer": "habrán reforzado",
+    "lemma": "reforzar",
+    "meaning": "will have reinforced",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0209.mp3"
+  },
+  {
+    "id": "es-04-0210",
+    "sentence": "Antes de la inspección del jueves, el electricista habrá sustituido el cable dañado.",
+    "cloze": "habrá sustituido",
+    "answer": "habrá sustituido",
+    "lemma": "sustituir",
+    "meaning": "will have replaced",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0210.mp3"
+  },
+  {
+    "id": "es-04-0211",
+    "sentence": "Cuando venza su garantía el próximo mes, usted ya habrá recibido la pieza de reemplazo.",
+    "cloze": "habrá recibido",
+    "answer": "habrá recibido",
+    "lemma": "recibir",
+    "meaning": "will have received",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0211.mp3"
+  },
+  {
+    "id": "es-04-0212",
+    "sentence": "Para el cierre del trimestre, el equipo habrá reducido a la mitad el tiempo de respuesta.",
+    "cloze": "habrá reducido",
+    "answer": "habrá reducido",
+    "lemma": "reducir",
+    "meaning": "will have reduced",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0212.mp3"
+  },
+  {
+    "id": "es-04-0213",
+    "sentence": "Al iniciar el festival, el personal de la biblioteca habrá habilitado una sala tranquila para las familias.",
+    "cloze": "habrá habilitado",
+    "answer": "habrá habilitado",
+    "lemma": "habilitar",
+    "meaning": "will have set up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0213.mp3"
+  },
+  {
+    "id": "es-04-0214",
+    "sentence": "A tu regreso del viaje, ya habremos apartado el salón para la fiesta de graduación.",
+    "cloze": "habremos apartado",
+    "answer": "habremos apartado",
+    "lemma": "apartar",
+    "meaning": "will have reserved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0214.mp3"
+  },
+  {
+    "id": "es-04-0215",
+    "sentence": "Para el domingo, mis vecinos habrán impermeabilizado la azotea del edificio.",
+    "cloze": "habrán impermeabilizado",
+    "answer": "habrán impermeabilizado",
+    "lemma": "impermeabilizar",
+    "meaning": "will have waterproofed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0215.mp3"
+  },
+  {
+    "id": "es-04-0216",
+    "sentence": "Cuando llegue la segunda entrega, ya habremos distribuido las primeras sillas entre los salones.",
+    "cloze": "habremos distribuido",
+    "answer": "habremos distribuido",
+    "lemma": "distribuir",
+    "meaning": "will have distributed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0216.mp3"
+  },
+  {
+    "id": "es-04-0217",
+    "sentence": "Al iniciar el siguiente semestre, Daniela habrá cubierto todos los créditos optativos de la carrera.",
+    "cloze": "habrá cubierto",
+    "answer": "habrá cubierto",
+    "lemma": "cubrir",
+    "meaning": "will have completed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0217.mp3"
+  },
+  {
+    "id": "es-04-0218",
+    "sentence": "Para cuando nazca su hija, Marisol y Ana habrán adaptado el estudio como recámara.",
+    "cloze": "habrán adaptado",
+    "answer": "habrán adaptado",
+    "lemma": "adaptar",
+    "meaning": "will have converted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0218.mp3"
+  },
+  {
+    "id": "es-04-0219",
+    "sentence": "Antes de nuestra cita del lunes, habré revisado cada cargo del estado de cuenta.",
+    "cloze": "habré revisado",
+    "answer": "habré revisado",
+    "lemma": "revisar",
+    "meaning": "will have reviewed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0219.mp3"
+  },
+  {
+    "id": "es-04-0220",
+    "sentence": "Cuando abra la sucursal mañana, el proveedor ya habrá surtido las refacciones pendientes.",
+    "cloze": "habrá surtido",
+    "answer": "habrá surtido",
+    "lemma": "surtir",
+    "meaning": "will have supplied",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0220.mp3"
+  },
+  {
+    "id": "es-04-0221",
+    "sentence": "Las persianas están abajo y ya no se oye a nadie; el personal habrá cerrado antes por la lluvia.",
+    "cloze": "habrá cerrado",
+    "answer": "habrá cerrado",
+    "lemma": "cerrar",
+    "meaning": "must have closed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0221.mp3"
+  },
+  {
+    "id": "es-04-0222",
+    "sentence": "El recibo ya aparece como pagado; seguramente tesorería habrá aplicado el depósito esta mañana.",
+    "cloze": "habrá aplicado",
+    "answer": "habrá aplicado",
+    "lemma": "aplicar",
+    "meaning": "must have applied",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0222.mp3"
+  },
+  {
+    "id": "es-04-0223",
+    "sentence": "Karla aún no llega; ¿habrá tomado el autobús equivocado?",
+    "cloze": "habrá tomado",
+    "answer": "habrá tomado",
+    "lemma": "tomar",
+    "meaning": "could she have taken",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0223.mp3"
+  },
+  {
+    "id": "es-04-0224",
+    "sentence": "Con la tormenta de anoche, habrá entrado agua por la ventana de la cocina.",
+    "cloze": "habrá entrado",
+    "answer": "habrá entrado",
+    "lemma": "entrar",
+    "meaning": "must have come in",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0224.mp3"
+  },
+  {
+    "id": "es-04-0225",
+    "sentence": "La copia firmada ya no está en recepción; alguien la habrá retirado esta mañana.",
+    "cloze": "habrá retirado",
+    "answer": "habrá retirado",
+    "lemma": "retirar",
+    "meaning": "must have removed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0225.mp3"
+  },
+  {
+    "id": "es-04-0226",
+    "sentence": "La aplicación me pidió iniciar sesión otra vez; mi acceso habrá caducado mientras estaba en el metro.",
+    "cloze": "habrá caducado",
+    "answer": "habrá caducado",
+    "lemma": "caducar",
+    "meaning": "must have expired",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0226.mp3"
+  },
+  {
+    "id": "es-04-0227",
+    "sentence": "El pedido volvió a aparecer en ruta; la paquetería habrá resuelto el error de dirección.",
+    "cloze": "habrá resuelto",
+    "answer": "habrá resuelto",
+    "lemma": "resolver",
+    "meaning": "must have resolved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0227.mp3"
+  },
+  {
+    "id": "es-04-0228",
+    "sentence": "Hay harina en la mesa y el horno sigue tibio; mis sobrinos habrán usado la cocina.",
+    "cloze": "habrán usado",
+    "answer": "habrán usado",
+    "lemma": "usar",
+    "meaning": "must have used",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0228.mp3"
+  },
+  {
+    "id": "es-04-0229",
+    "sentence": "La tarea ya tiene una calificación y comentarios en el portal; la profesora habrá evaluado mi entrega esta mañana.",
+    "cloze": "habrá evaluado",
+    "answer": "habrá evaluado",
+    "lemma": "evaluar",
+    "meaning": "must have evaluated",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0229.mp3"
+  },
+  {
+    "id": "es-04-0230",
+    "sentence": "La página ya no muestra boletos para el sábado; ¿se habrán agotado esta mañana?",
+    "cloze": "se habrán agotado",
+    "answer": "se habrán agotado",
+    "lemma": "agotarse",
+    "meaning": "could they have sold out",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0230.mp3"
+  },
+  {
+    "id": "es-04-0231",
+    "sentence": "Mañana la coordinadora presentará el presupuesto; para entonces, nosotros habremos verificado cada cifra.",
+    "cloze": "habremos verificado",
+    "answer": "habremos verificado",
+    "lemma": "verificar",
+    "meaning": "will have verified",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0231.mp3"
+  },
+  {
+    "id": "es-04-0232",
+    "sentence": "El museo abrirá la nueva sala el sábado; para ese momento, los montajistas habrán colocado todas las piezas.",
+    "cloze": "habrán colocado",
+    "answer": "habrán colocado",
+    "lemma": "colocar",
+    "meaning": "will have placed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0232.mp3"
+  },
+  {
+    "id": "es-04-0233",
+    "sentence": "El equipo de soporte habrá corregido el acceso antes del mediodía y después recibirás una notificación.",
+    "cloze": "habrá corregido",
+    "answer": "habrá corregido",
+    "lemma": "corregir",
+    "meaning": "will have fixed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0233.mp3"
+  },
+  {
+    "id": "es-04-0234",
+    "sentence": "Nos mudaremos el día quince; para entonces, el contratista habrá entregado el departamento sin escombros.",
+    "cloze": "habrá entregado",
+    "answer": "habrá entregado",
+    "lemma": "entregar",
+    "meaning": "will have handed over",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0234.mp3"
+  },
+  {
+    "id": "es-04-0235",
+    "sentence": "El grupo expondrá sus conclusiones el viernes; para entonces, cada equipo habrá preparado las gráficas que respaldan sus datos.",
+    "cloze": "habrá preparado",
+    "answer": "habrá preparado",
+    "lemma": "preparar",
+    "meaning": "will have prepared",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0235.mp3"
+  },
+  {
+    "id": "es-04-0236",
+    "sentence": "La nueva ruta entrará en servicio en junio; para esa fecha, los choferes habrán concluido la capacitación.",
+    "cloze": "habrán concluido",
+    "answer": "habrán concluido",
+    "lemma": "concluir",
+    "meaning": "will have completed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0236.mp3"
+  },
+  {
+    "id": "es-04-0237",
+    "sentence": "Me comprometí a remitir el acta esta semana; a más tardar el miércoles, la habré enviado al comité.",
+    "cloze": "habré enviado",
+    "answer": "habré enviado",
+    "lemma": "enviar",
+    "meaning": "will have sent",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0237.mp3"
+  },
+  {
+    "id": "es-04-0238",
+    "sentence": "La convocatoria cierra mañana a las seis; antes de esa hora, cada aspirante habrá adjuntado sus documentos a la solicitud.",
+    "cloze": "habrá adjuntado",
+    "answer": "habrá adjuntado",
+    "lemma": "adjuntar",
+    "meaning": "will have attached",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0238.mp3"
+  },
+  {
+    "id": "es-04-0239",
+    "sentence": "El plazo para cubrir el anticipo vence el lunes; al llegar esa fecha, habremos liquidado la cantidad acordada.",
+    "cloze": "habremos liquidado",
+    "answer": "habremos liquidado",
+    "lemma": "liquidar",
+    "meaning": "will have paid",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0239.mp3"
+  },
+  {
+    "id": "es-04-0240",
+    "sentence": "El administrador fijó el viernes como fecha límite; para ese día, los técnicos habrán documentado todas las reparaciones.",
+    "cloze": "habrán documentado",
+    "answer": "habrán documentado",
+    "lemma": "documentar",
+    "meaning": "will have documented",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0240.mp3"
+  },
+{
+    "id": "es-04-0241",
+    "sentence": "Durante la entrevista, la directora explicó que contrataría a dos asistentes tras la aprobación del presupuesto.",
+    "cloze": "contrataría",
+    "answer": "contrataría",
+    "lemma": "contratar",
+    "meaning": "would hire",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0241.mp3"
+  },
+  {
+    "id": "es-04-0242",
+    "sentence": "Cuando aceptamos la reservación, el hotel aseguró que habilitarían una habitación contigua para los niños.",
+    "cloze": "habilitarían",
+    "answer": "habilitarían",
+    "lemma": "habilitar",
+    "meaning": "would make available",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0242.mp3"
+  },
+  {
+    "id": "es-04-0243",
+    "sentence": "El programa preliminar indicaba que el segundo módulo abarcaría la atención de quejas y devoluciones.",
+    "cloze": "abarcaría",
+    "answer": "abarcaría",
+    "lemma": "abarcar",
+    "meaning": "would cover",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0243.mp3"
+  },
+  {
+    "id": "es-04-0244",
+    "sentence": "Nadie sabía con certeza cuándo llegaría la refacción, pero el vendedor prometió entregarla antes de nuestro viaje.",
+    "cloze": "llegaría",
+    "answer": "llegaría",
+    "lemma": "llegar",
+    "meaning": "would arrive",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0244.mp3"
+  },
+  {
+    "id": "es-04-0245",
+    "sentence": "El itinerario original preveía que las puertas se abrirían después del ensayo general.",
+    "cloze": "se abrirían",
+    "answer": "se abrirían",
+    "lemma": "abrirse",
+    "meaning": "would open",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0245.mp3"
+  },
+  {
+    "id": "es-04-0246",
+    "sentence": "Recursos Humanos informó que la nueva supervisora empezaría a trabajar el lunes siguiente.",
+    "cloze": "empezaría",
+    "answer": "empezaría",
+    "lemma": "empezar",
+    "meaning": "would start",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0246.mp3"
+  },
+  {
+    "id": "es-04-0247",
+    "sentence": "Cuando reporté el cargo, el banco confirmó que el reembolso aparecería en el siguiente estado de cuenta.",
+    "cloze": "aparecería",
+    "answer": "aparecería",
+    "lemma": "aparecer",
+    "meaning": "would appear",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0247.mp3"
+  },
+  {
+    "id": "es-04-0248",
+    "sentence": "El coordinador advirtió que el equipo necesitaría apoyo para trasladar el archivo durante la mudanza.",
+    "cloze": "necesitaría",
+    "answer": "necesitaría",
+    "lemma": "necesitar",
+    "meaning": "would need",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0248.mp3"
+  },
+  {
+    "id": "es-04-0249",
+    "sentence": "El servicio de banquetes avisó esa mañana que servirían la cena después de la ceremonia.",
+    "cloze": "servirían",
+    "answer": "servirían",
+    "lemma": "servir",
+    "meaning": "would serve",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0249.mp3"
+  },
+  {
+    "id": "es-04-0250",
+    "sentence": "En el correo de confirmación, la empresa de mantenimiento señaló que un técnico acudiría esa misma tarde.",
+    "cloze": "acudiría",
+    "answer": "acudiría",
+    "lemma": "acudir",
+    "meaning": "would come",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0250.mp3"
+  },
+  {
+    "id": "es-04-0251",
+    "sentence": "Al cerrar el curso, la instructora recordó que entregarían las constancias una semana después.",
+    "cloze": "entregarían",
+    "answer": "entregarían",
+    "lemma": "entregar",
+    "meaning": "would hand out",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0251.mp3"
+  },
+  {
+    "id": "es-04-0252",
+    "sentence": "La coordinadora del museo anunció que la exposición permanecería abierta durante las vacaciones.",
+    "cloze": "permanecería",
+    "answer": "permanecería",
+    "lemma": "permanecer",
+    "meaning": "would remain",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0252.mp3"
+  },
+  {
+    "id": "es-04-0253",
+    "sentence": "Cuando salimos del auditorio, serían poco más de las nueve.",
+    "cloze": "serían",
+    "answer": "serían",
+    "lemma": "ser",
+    "meaning": "it was probably",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0253.mp3"
+  },
+  {
+    "id": "es-04-0254",
+    "sentence": "Por el peso y el sonido, el paquete contendría piezas metálicas, aunque no lo abrimos.",
+    "cloze": "contendría",
+    "answer": "contendría",
+    "lemma": "contener",
+    "meaning": "probably contained",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0254.mp3"
+  },
+  {
+    "id": "es-04-0255",
+    "sentence": "El ruido cesó al detener el elevador; procedería del motor, aunque el técnico no pudo confirmarlo.",
+    "cloze": "procedería",
+    "answer": "procedería",
+    "lemma": "proceder",
+    "meaning": "probably came from",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0255.mp3"
+  },
+  {
+    "id": "es-04-0256",
+    "sentence": "Como dejó la bicicleta en el pasillo, el huésped desconocería la regla del edificio.",
+    "cloze": "desconocería",
+    "answer": "desconocería",
+    "lemma": "desconocer",
+    "meaning": "probably did not know",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0256.mp3"
+  },
+  {
+    "id": "es-04-0257",
+    "sentence": "La mancha venía del techo, así que la humedad se debería a una fuga antigua.",
+    "cloze": "se debería",
+    "answer": "se debería",
+    "lemma": "deberse",
+    "meaning": "was probably due",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0257.mp3"
+  },
+  {
+    "id": "es-04-0258",
+    "sentence": "El sobre quedó en recepción y, por el logotipo, pertenecería a la empresa de mensajería.",
+    "cloze": "pertenecería",
+    "answer": "pertenecería",
+    "lemma": "pertenecer",
+    "meaning": "probably belonged",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0258.mp3"
+  },
+  {
+    "id": "es-04-0259",
+    "sentence": "El monto coincidía con la tarifa publicada, de modo que el cargo correspondería al envío exprés.",
+    "cloze": "correspondería",
+    "answer": "correspondería",
+    "lemma": "corresponder",
+    "meaning": "probably corresponded",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0259.mp3"
+  },
+  {
+    "id": "es-04-0260",
+    "sentence": "La nota mencionaba tallas y colores; se referiría al uniforme, aunque no estaba firmada.",
+    "cloze": "se referiría",
+    "answer": "se referiría",
+    "lemma": "referirse",
+    "meaning": "probably referred",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0260.mp3"
+  },
+  {
+    "id": "es-04-0261",
+    "sentence": "Las marcas junto a la cerradura indicarían un intento de forzarla, aunque el administrador no pudo confirmarlo.",
+    "cloze": "indicarían",
+    "answer": "indicarían",
+    "lemma": "indicar",
+    "meaning": "probably indicated",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0261.mp3"
+  },
+  {
+    "id": "es-04-0262",
+    "sentence": "La contadora encontró bien los subtotales; el error radicaría en el cálculo de los impuestos.",
+    "cloze": "radicaría",
+    "answer": "radicaría",
+    "lemma": "radicar",
+    "meaning": "probably lay",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0262.mp3"
+  },
+  {
+    "id": "es-04-0263",
+    "sentence": "Antes de pagar, sería conveniente confirmar por escrito que el equipo está disponible.",
+    "cloze": "sería conveniente",
+    "answer": "sería conveniente",
+    "lemma": "ser conveniente",
+    "meaning": "it would be advisable",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0263.mp3"
+  },
+  {
+    "id": "es-04-0264",
+    "sentence": "Si para usted es importante el silencio, le recomendaría pedir una habitación interior.",
+    "cloze": "recomendaría",
+    "answer": "recomendaría",
+    "lemma": "recomendar",
+    "meaning": "I would recommend",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0264.mp3"
+  },
+  {
+    "id": "es-04-0265",
+    "sentence": "Con el presupuesto actual, yo cambiaría primero el proyector; las bocinas todavía funcionan bien.",
+    "cloze": "cambiaría",
+    "answer": "cambiaría",
+    "lemma": "cambiar",
+    "meaning": "I would replace",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0265.mp3"
+  },
+  {
+    "id": "es-04-0266",
+    "sentence": "No sugeriría aceptar la entrega sin comparar el número de serie con la factura.",
+    "cloze": "sugeriría",
+    "answer": "sugeriría",
+    "lemma": "sugerir",
+    "meaning": "would suggest",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0266.mp3"
+  },
+  {
+    "id": "es-04-0267",
+    "sentence": "Como solo disponemos de una hora, consideraría una sesión breve con espacio para preguntas.",
+    "cloze": "consideraría",
+    "answer": "consideraría",
+    "lemma": "considerar",
+    "meaning": "I would consider",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0267.mp3"
+  },
+  {
+    "id": "es-04-0268",
+    "sentence": "Para un evento al aire libre, priorizaría la sombra y el acceso al transporte sobre la vista.",
+    "cloze": "priorizaría",
+    "answer": "priorizaría",
+    "lemma": "priorizar",
+    "meaning": "I would prioritize",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0268.mp3"
+  },
+  {
+    "id": "es-04-0269",
+    "sentence": "Ante tres quejas sin resolver, reevaluaría al proveedor antes de renovarle el contrato.",
+    "cloze": "reevaluaría",
+    "answer": "reevaluaría",
+    "lemma": "reevaluar",
+    "meaning": "I would reevaluate",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0269.mp3"
+  },
+  {
+    "id": "es-04-0270",
+    "sentence": "La fecha aún no es definitiva, pero reservaría el salón de manera provisional.",
+    "cloze": "reservaría",
+    "answer": "reservaría",
+    "lemma": "reservar",
+    "meaning": "I would reserve",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0270.mp3"
+  },
+  {
+    "id": "es-04-0271",
+    "sentence": "El ahorro no queda claro en el borrador; añadiría un ejemplo con cifras sencillas.",
+    "cloze": "añadiría",
+    "answer": "añadiría",
+    "lemma": "añadir",
+    "meaning": "I would add",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0271.mp3"
+  },
+  {
+    "id": "es-04-0272",
+    "sentence": "Sin una garantía por escrito, me parecería arriesgado comprar ese equipo usado.",
+    "cloze": "parecería",
+    "answer": "parecería",
+    "lemma": "parecer",
+    "meaning": "would seem",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0272.mp3"
+  },
+  {
+    "id": "es-04-0273",
+    "sentence": "A partir de la asistencia de otros años, los organizadores calculaban que asistirían entre ochenta y cien personas.",
+    "cloze": "asistirían",
+    "answer": "asistirían",
+    "lemma": "asistir",
+    "meaning": "would attend",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0273.mp3"
+  },
+  {
+    "id": "es-04-0274",
+    "sentence": "Según la aplicación, el traslado tardaría entre treinta y cuarenta minutos sin tráfico.",
+    "cloze": "tardaría",
+    "answer": "tardaría",
+    "lemma": "tardar",
+    "meaning": "would take",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0274.mp3"
+  },
+  {
+    "id": "es-04-0275",
+    "sentence": "Con los precios de agosto, el costo rondaría los ocho mil pesos, sin incluir el envío.",
+    "cloze": "rondaría",
+    "answer": "rondaría",
+    "lemma": "rondar",
+    "meaning": "would be around",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0275.mp3"
+  },
+  {
+    "id": "es-04-0276",
+    "sentence": "Al ritmo de esta semana, la instalación alcanzaría cerca del ochenta por ciento para el viernes.",
+    "cloze": "alcanzaría",
+    "answer": "alcanzaría",
+    "lemma": "alcanzar",
+    "meaning": "would reach",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0276.mp3"
+  },
+  {
+    "id": "es-04-0277",
+    "sentence": "Por sus medidas, el mueble ocuparía poco menos de tres metros de pared.",
+    "cloze": "ocuparía",
+    "answer": "ocuparía",
+    "lemma": "ocupar",
+    "meaning": "would occupy",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0277.mp3"
+  },
+  {
+    "id": "es-04-0278",
+    "sentence": "Por el ritmo de la sesión piloto, bastaría una mañana para cubrir los temas esenciales.",
+    "cloze": "bastaría",
+    "answer": "bastaría",
+    "lemma": "bastar",
+    "meaning": "would be enough",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0278.mp3"
+  },
+  {
+    "id": "es-04-0279",
+    "sentence": "El plano fija un aforo máximo de ochenta, pero el salón alojaría cómodamente a unas sesenta personas.",
+    "cloze": "alojaría",
+    "answer": "alojaría",
+    "lemma": "alojar",
+    "meaning": "would accommodate",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0279.mp3"
+  },
+  {
+    "id": "es-04-0280",
+    "sentence": "En principio, la comisión representaría entre el cuatro y el cinco por ciento del total.",
+    "cloze": "representaría",
+    "answer": "representaría",
+    "lemma": "representar",
+    "meaning": "would represent",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0280.mp3"
+  },
+{
+    "id": "es-04-0281",
+    "sentence": "El equipo entregó un borrador porque el plazo venció el viernes; con una semana más, habría presentado una propuesta completa.",
+    "cloze": "habría presentado",
+    "answer": "habría presentado",
+    "lemma": "presentar",
+    "meaning": "would have presented",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0281.mp3"
+  },
+  {
+    "id": "es-04-0282",
+    "sentence": "Sin la cancelación del vuelo, habríamos alcanzado la conexión de la tarde; en cambio, pasamos la noche en Monterrey.",
+    "cloze": "habríamos alcanzado",
+    "answer": "habríamos alcanzado",
+    "lemma": "alcanzar",
+    "meaning": "would have made",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0282.mp3"
+  },
+  {
+    "id": "es-04-0283",
+    "sentence": "El respaldo automático estaba desactivado; de otro modo, los cambios no se habrían perdido al apagarse la computadora.",
+    "cloze": "se habrían perdido",
+    "answer": "se habrían perdido",
+    "lemma": "perderse",
+    "meaning": "would have been lost",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0283.mp3"
+  },
+  {
+    "id": "es-04-0284",
+    "sentence": "De haberlo sabido, me habría inscrito antes del cierre, pero vi la convocatoria al día siguiente.",
+    "cloze": "me habría inscrito",
+    "answer": "me habría inscrito",
+    "lemma": "inscribirse",
+    "meaning": "would have registered",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0284.mp3"
+  },
+  {
+    "id": "es-04-0285",
+    "sentence": "La refacción que llevó no era la correcta; con la pieza adecuada, el técnico habría reparado la lavadora en esa visita.",
+    "cloze": "habría reparado",
+    "answer": "habría reparado",
+    "lemma": "reparar",
+    "meaning": "would have repaired",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0285.mp3"
+  },
+  {
+    "id": "es-04-0286",
+    "sentence": "Ustedes habrían asistido al taller completo, pero el cambio de fecha les impidió llegar a la primera sesión.",
+    "cloze": "habrían asistido",
+    "answer": "habrían asistido",
+    "lemma": "asistir",
+    "meaning": "would have attended",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0286.mp3"
+  },
+  {
+    "id": "es-04-0287",
+    "sentence": "El anticipo agotó mis ahorros; con un pago inicial menor, habría conservado suficiente dinero para la mudanza.",
+    "cloze": "habría conservado",
+    "answer": "habría conservado",
+    "lemma": "conservar",
+    "meaning": "would have kept",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0287.mp3"
+  },
+  {
+    "id": "es-04-0288",
+    "sentence": "Al reservar directamente, habrías obtenido una tarifa más baja, pero usaste un sitio que cobraba comisión.",
+    "cloze": "habrías obtenido",
+    "answer": "habrías obtenido",
+    "lemma": "obtener",
+    "meaning": "would have gotten",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0288.mp3"
+  },
+  {
+    "id": "es-04-0289",
+    "sentence": "El paquete nos habría llegado el viernes, pero lo devolvieron porque faltaba el número interior en la dirección.",
+    "cloze": "nos habría llegado",
+    "answer": "nos habría llegado",
+    "lemma": "llegar",
+    "meaning": "would have reached us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0289.mp3"
+  },
+  {
+    "id": "es-04-0290",
+    "sentence": "La humedad obligó a pintar de nuevo en mayo; sin aquella filtración, el acabado habría resistido varios años más.",
+    "cloze": "habría resistido",
+    "answer": "habría resistido",
+    "lemma": "resistir",
+    "meaning": "would have lasted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0290.mp3"
+  },
+  {
+    "id": "es-04-0291",
+    "sentence": "Con una llamada a tiempo, te habrías enterado del cambio antes de salir; nadie llamó y el aviso llegó cuando ya ibas en camino.",
+    "cloze": "te habrías enterado",
+    "answer": "te habrías enterado",
+    "lemma": "enterarse",
+    "meaning": "would have found out",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0291.mp3"
+  },
+  {
+    "id": "es-04-0292",
+    "sentence": "Elegimos mensualidades y terminamos pagando más; con el pago anual, la membresía habría costado menos.",
+    "cloze": "habría costado",
+    "answer": "habría costado",
+    "lemma": "costar",
+    "meaning": "would have cost",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0292.mp3"
+  },
+  {
+    "id": "es-04-0293",
+    "sentence": "La firma del director llegó un día tarde; con ella, habríamos cumplido el plazo original.",
+    "cloze": "habríamos cumplido",
+    "answer": "habríamos cumplido",
+    "lemma": "cumplir",
+    "meaning": "would have met",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0293.mp3"
+  },
+  {
+    "id": "es-04-0294",
+    "sentence": "Llevamos la tableta sin estuche; una funda rígida habría evitado el golpe en una esquina.",
+    "cloze": "habría evitado",
+    "answer": "habría evitado",
+    "lemma": "evitar",
+    "meaning": "would have prevented",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0294.mp3"
+  },
+  {
+    "id": "es-04-0295",
+    "sentence": "Al precio final quedaron varias entradas; con el descuento inicial, se habrían vendido en unas horas.",
+    "cloze": "se habrían vendido",
+    "answer": "se habrían vendido",
+    "lemma": "venderse",
+    "meaning": "would have sold",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0295.mp3"
+  },
+  {
+    "id": "es-04-0296",
+    "sentence": "Éramos solo tres y terminamos al día siguiente; dos personas más nos habrían permitido montar la exposición esa misma tarde.",
+    "cloze": "nos habrían permitido",
+    "answer": "nos habrían permitido",
+    "lemma": "permitir",
+    "meaning": "would have allowed us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0296.mp3"
+  },
+  {
+    "id": "es-04-0297",
+    "sentence": "El programa habría seguido otro semestre, pero el recorte de presupuesto obligó a cerrarlo en junio.",
+    "cloze": "habría seguido",
+    "answer": "habría seguido",
+    "lemma": "seguir",
+    "meaning": "would have continued",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0297.mp3"
+  },
+  {
+    "id": "es-04-0298",
+    "sentence": "Dejamos pasar la convocatoria porque para completar la solicitud nos habría hecho falta una constancia que aún no teníamos.",
+    "cloze": "nos habría hecho falta",
+    "answer": "nos habría hecho falta",
+    "lemma": "hacer falta",
+    "meaning": "we would have needed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0298.mp3"
+  },
+  {
+    "id": "es-04-0299",
+    "sentence": "En retrospectiva, habría sido mejor comparar las garantías antes de comprar la computadora.",
+    "cloze": "habría sido mejor",
+    "answer": "habría sido mejor",
+    "lemma": "ser mejor",
+    "meaning": "would have been better",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0299.mp3"
+  },
+  {
+    "id": "es-04-0300",
+    "sentence": "Ante el retraso, habría convenido avisar a los clientes desde la mañana.",
+    "cloze": "habría convenido",
+    "answer": "habría convenido",
+    "lemma": "convenir",
+    "meaning": "would have been advisable",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0300.mp3"
+  },
+  {
+    "id": "es-04-0301",
+    "sentence": "Ahora veo que habríamos debido reservar parte del fondo para las reparaciones.",
+    "cloze": "habríamos debido",
+    "answer": "habríamos debido",
+    "lemma": "deber",
+    "meaning": "should have",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0301.mp3"
+  },
+  {
+    "id": "es-04-0302",
+    "sentence": "En retrospectiva, no habría valido la pena extender la reunión por un detalle menor.",
+    "cloze": "habría valido",
+    "answer": "habría valido",
+    "lemma": "valer la pena",
+    "meaning": "would have been worth it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0302.mp3"
+  },
+  {
+    "id": "es-04-0303",
+    "sentence": "Visto el costo final, habría resultado más prudente reparar el equipo anterior.",
+    "cloze": "habría resultado",
+    "answer": "habría resultado",
+    "lemma": "resultar",
+    "meaning": "would have proved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0303.mp3"
+  },
+  {
+    "id": "es-04-0304",
+    "sentence": "Con la información que teníamos, habríamos acertado al pedir una segunda cotización.",
+    "cloze": "habríamos acertado",
+    "answer": "habríamos acertado",
+    "lemma": "acertar",
+    "meaning": "would have been right",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0304.mp3"
+  },
+  {
+    "id": "es-04-0305",
+    "sentence": "La falla inicial habría ameritado una revisión más cuidadosa antes de autorizar la compra.",
+    "cloze": "habría ameritado",
+    "answer": "habría ameritado",
+    "lemma": "ameritar",
+    "meaning": "would have warranted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0305.mp3"
+  },
+  {
+    "id": "es-04-0306",
+    "sentence": "Ahora veo que habría bastado una prueba breve para detectar el error.",
+    "cloze": "habría bastado",
+    "answer": "habría bastado",
+    "lemma": "bastar",
+    "meaning": "would have been enough",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0306.mp3"
+  },
+  {
+    "id": "es-04-0307",
+    "sentence": "Viéndolo ahora, habría hecho bien en guardar una copia del contrato antes de enviarlo.",
+    "cloze": "habría hecho",
+    "answer": "habría hecho",
+    "lemma": "hacer bien",
+    "meaning": "would have done well",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0307.mp3"
+  },
+  {
+    "id": "es-04-0308",
+    "sentence": "Al final, habría tenido más sentido renovar solo los equipos más antiguos.",
+    "cloze": "habría tenido",
+    "answer": "habría tenido",
+    "lemma": "tener sentido",
+    "meaning": "would have made more sense",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0308.mp3"
+  },
+  {
+    "id": "es-04-0309",
+    "sentence": "El registro está incompleto, pero el cobro se habría generado durante la interrupción del sistema.",
+    "cloze": "se habría generado",
+    "answer": "se habría generado",
+    "lemma": "generarse",
+    "meaning": "was apparently generated",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0309.mp3"
+  },
+  {
+    "id": "es-04-0310",
+    "sentence": "Las marcas del empaque sugieren, sin confirmarlo, que el paquete habría rozado una superficie áspera durante el traslado.",
+    "cloze": "habría rozado",
+    "answer": "habría rozado",
+    "lemma": "rozar",
+    "meaning": "apparently scraped",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0310.mp3"
+  },
+  {
+    "id": "es-04-0311",
+    "sentence": "Por la hora del correo, aunque faltan datos, la solicitud habría salido antes del mediodía.",
+    "cloze": "habría salido",
+    "answer": "habría salido",
+    "lemma": "salir",
+    "meaning": "apparently left",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0311.mp3"
+  },
+  {
+    "id": "es-04-0312",
+    "sentence": "Las fotos no muestran toda la unión, pero el agua se habría filtrado por la parte inferior de la ventana.",
+    "cloze": "se habría filtrado",
+    "answer": "se habría filtrado",
+    "lemma": "filtrarse",
+    "meaning": "apparently seeped",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0312.mp3"
+  },
+  {
+    "id": "es-04-0313",
+    "sentence": "Según un cálculo preliminar, la obra habría consumido cerca de la mitad del fondo en materiales.",
+    "cloze": "habría consumido",
+    "answer": "habría consumido",
+    "lemma": "consumir",
+    "meaning": "apparently used",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0313.mp3"
+  },
+  {
+    "id": "es-04-0314",
+    "sentence": "El recibo no desglosa los cargos; por la cifra total, el proveedor habría cobrado el envío por separado.",
+    "cloze": "habría cobrado",
+    "answer": "habría cobrado",
+    "lemma": "cobrar",
+    "meaning": "apparently charged",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0314.mp3"
+  },
+  {
+    "id": "es-04-0315",
+    "sentence": "Con los pocos datos disponibles, el cambio habría afectado sobre todo las entregas nocturnas.",
+    "cloze": "habría afectado",
+    "answer": "habría afectado",
+    "lemma": "afectar",
+    "meaning": "apparently affected",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0315.mp3"
+  },
+  {
+    "id": "es-04-0316",
+    "sentence": "Según una versión aún no confirmada, la empresa habría retirado su propuesta el martes.",
+    "cloze": "habría retirado",
+    "answer": "habría retirado",
+    "lemma": "retirar",
+    "meaning": "reportedly withdrew",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0316.mp3"
+  },
+  {
+    "id": "es-04-0317",
+    "sentence": "El lunes nos aseguraron que para hoy habrían terminado la reparación.",
+    "cloze": "habrían terminado",
+    "answer": "habrían terminado",
+    "lemma": "terminar",
+    "meaning": "would have finished",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0317.mp3"
+  },
+  {
+    "id": "es-04-0318",
+    "sentence": "La coordinadora calculó que para el viernes siguiente ya habríamos recibido todas las constancias.",
+    "cloze": "habríamos recibido",
+    "answer": "habríamos recibido",
+    "lemma": "recibir",
+    "meaning": "would have received",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0318.mp3"
+  },
+  {
+    "id": "es-04-0319",
+    "sentence": "El pronóstico indicaba que antes del amanecer la tormenta habría dejado la zona.",
+    "cloze": "habría dejado",
+    "answer": "habría dejado",
+    "lemma": "dejar",
+    "meaning": "would have left",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0319.mp3"
+  },
+  {
+    "id": "es-04-0320",
+    "sentence": "El plan original suponía que para el cierre ya habrías completado la capacitación.",
+    "cloze": "habrías completado",
+    "answer": "habrías completado",
+    "lemma": "completar",
+    "meaning": "would have completed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0320.mp3"
+  },
+{
+    "id": "es-04-0321",
+    "sentence": "Antes de enviar la cotización, la coordinadora me pidió que adjuntara el comprobante al correo.",
+    "cloze": "adjuntara",
+    "answer": "adjuntara",
+    "lemma": "adjuntar",
+    "meaning": "attach",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0321.mp3"
+  },
+  {
+    "id": "es-04-0322",
+    "sentence": "Como el proyecto era conjunto, el profesor pidió que cada equipo entregara una sola versión.",
+    "cloze": "entregara",
+    "answer": "entregara",
+    "lemma": "entregar",
+    "meaning": "submit",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0322.mp3"
+  },
+  {
+    "id": "es-04-0323",
+    "sentence": "Para mantener la reservación, la recepcionista le solicitó que confirmara el número de huéspedes.",
+    "cloze": "confirmara",
+    "answer": "confirmara",
+    "lemma": "confirmar",
+    "meaning": "confirm",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0323.mp3"
+  },
+  {
+    "id": "es-04-0324",
+    "sentence": "Mi hermana nos pidió que ordenáramos la sala antes de la visita de sus amigos.",
+    "cloze": "ordenáramos",
+    "answer": "ordenáramos",
+    "lemma": "ordenar",
+    "meaning": "tidy up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0324.mp3"
+  },
+  {
+    "id": "es-04-0325",
+    "sentence": "El supervisor exigió que el proveedor corrigiera el total de la factura.",
+    "cloze": "corrigiera",
+    "answer": "corrigiera",
+    "lemma": "corregir",
+    "meaning": "correct",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0325.mp3"
+  },
+  {
+    "id": "es-04-0326",
+    "sentence": "Al terminar la práctica, la encargada nos indicó que cada quien guardara sus cosas en un casillero.",
+    "cloze": "guardara",
+    "answer": "guardara",
+    "lemma": "guardar",
+    "meaning": "put away",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0326.mp3"
+  },
+  {
+    "id": "es-04-0327",
+    "sentence": "Como faltaban asientos, mi papá me encargó que llevara las sillas plegables al patio.",
+    "cloze": "llevara",
+    "answer": "llevara",
+    "lemma": "llevar",
+    "meaning": "take",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0327.mp3"
+  },
+  {
+    "id": "es-04-0328",
+    "sentence": "La clienta solicitó que le devolvieran el depósito a la misma tarjeta con la que pagó.",
+    "cloze": "devolvieran",
+    "answer": "devolvieran",
+    "lemma": "devolver",
+    "meaning": "refund",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0328.mp3"
+  },
+  {
+    "id": "es-04-0329",
+    "sentence": "Para no perder ningún detalle, el instructor pidió que una persona anotara los acuerdos en el pizarrón.",
+    "cloze": "anotara",
+    "answer": "anotara",
+    "lemma": "anotar",
+    "meaning": "write down",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0329.mp3"
+  },
+  {
+    "id": "es-04-0330",
+    "sentence": "Al terminar la reunión, la jefa nos pidió que enviáramos un resumen al resto del equipo.",
+    "cloze": "enviáramos",
+    "answer": "enviáramos",
+    "lemma": "enviar",
+    "meaning": "send",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0330.mp3"
+  },
+  {
+    "id": "es-04-0331",
+    "sentence": "El huésped solicitó que el hotel le apartara un cajón de estacionamiento.",
+    "cloze": "apartara",
+    "answer": "apartara",
+    "lemma": "apartar",
+    "meaning": "reserve",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0331.mp3"
+  },
+  {
+    "id": "es-04-0332",
+    "sentence": "Como ella iba a llegar tarde, la vecina me pidió que recogiera el paquete en la recepción.",
+    "cloze": "recogiera",
+    "answer": "recogiera",
+    "lemma": "recoger",
+    "meaning": "pick up",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0332.mp3"
+  },
+  {
+    "id": "es-04-0333",
+    "sentence": "Antes del taller, el encargado indicó que los voluntarios acomodaran las mesas junto a la pared.",
+    "cloze": "acomodaran",
+    "answer": "acomodaran",
+    "lemma": "acomodar",
+    "meaning": "arrange",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0333.mp3"
+  },
+  {
+    "id": "es-04-0334",
+    "sentence": "La asesora me pidió que redactara una respuesta breve y cordial para el cliente.",
+    "cloze": "redactara",
+    "answer": "redactara",
+    "lemma": "redactar",
+    "meaning": "draft",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0334.mp3"
+  },
+  {
+    "id": "es-04-0335",
+    "sentence": "Para ahorrar papel, la maestra le indicó al representante del grupo que imprimiera el formato por ambos lados.",
+    "cloze": "imprimiera",
+    "answer": "imprimiera",
+    "lemma": "imprimir",
+    "meaning": "print",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0335.mp3"
+  },
+  {
+    "id": "es-04-0336",
+    "sentence": "Antes de cerrar la bodega, el encargado me pidió que le avisara si veía una caja sin etiqueta.",
+    "cloze": "avisara",
+    "answer": "avisara",
+    "lemma": "avisar",
+    "meaning": "notify",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0336.mp3"
+  },
+  {
+    "id": "es-04-0337",
+    "sentence": "Como el plazo se redujo, el coordinador quería que termináramos primero la parte urgente.",
+    "cloze": "termináramos",
+    "answer": "termináramos",
+    "lemma": "terminar",
+    "meaning": "finish",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0337.mp3"
+  },
+  {
+    "id": "es-04-0338",
+    "sentence": "Durante el debate, la profesora procuró que cada estudiante participara al menos una vez.",
+    "cloze": "participara",
+    "answer": "participara",
+    "lemma": "participar",
+    "meaning": "participate",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0338.mp3"
+  },
+  {
+    "id": "es-04-0339",
+    "sentence": "El dueño permitió que los inquilinos usaran la terraza hasta las diez.",
+    "cloze": "usaran",
+    "answer": "usaran",
+    "lemma": "usar",
+    "meaning": "use",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0339.mp3"
+  },
+  {
+    "id": "es-04-0340",
+    "sentence": "Mi tía dejó que mi prima se quedara en casa mientras el resto iba a la excursión.",
+    "cloze": "se quedara",
+    "answer": "se quedara",
+    "lemma": "quedarse",
+    "meaning": "stay",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0340.mp3"
+  },
+  {
+    "id": "es-04-0341",
+    "sentence": "Para facilitar la descarga, la supervisora autorizó que los mensajeros entraran por la puerta lateral.",
+    "cloze": "entraran",
+    "answer": "entraran",
+    "lemma": "entrar",
+    "meaning": "enter",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0341.mp3"
+  },
+  {
+    "id": "es-04-0342",
+    "sentence": "El cliente prefería que la diseñadora cambiara el color del encabezado porque no se distinguía bien.",
+    "cloze": "cambiara",
+    "answer": "cambiara",
+    "lemma": "cambiar",
+    "meaning": "change",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0342.mp3"
+  },
+  {
+    "id": "es-04-0343",
+    "sentence": "El director logró que trabajáramos con un solo calendario y dejamos de duplicar citas.",
+    "cloze": "trabajáramos",
+    "answer": "trabajáramos",
+    "lemma": "trabajar",
+    "meaning": "work",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0343.mp3"
+  },
+  {
+    "id": "es-04-0344",
+    "sentence": "La mamá insistió en que la cuidadora asistiera a la reunión escolar.",
+    "cloze": "asistiera",
+    "answer": "asistiera",
+    "lemma": "asistir",
+    "meaning": "attend",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0344.mp3"
+  },
+  {
+    "id": "es-04-0345",
+    "sentence": "Después del viaje, el entrenador quería que los jugadores descansaran antes de volver a practicar.",
+    "cloze": "descansaran",
+    "answer": "descansaran",
+    "lemma": "descansar",
+    "meaning": "rest",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0345.mp3"
+  },
+  {
+    "id": "es-04-0346",
+    "sentence": "La administradora permitió que el técnico llegara una hora antes para revisar el sistema.",
+    "cloze": "llegara",
+    "answer": "llegara",
+    "lemma": "llegar",
+    "meaning": "arrive",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0346.mp3"
+  },
+  {
+    "id": "es-04-0347",
+    "sentence": "Mi compañera prefirió que eligieras la música porque conocías mejor al grupo.",
+    "cloze": "eligieras",
+    "answer": "eligieras",
+    "lemma": "elegir",
+    "meaning": "choose",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0347.mp3"
+  },
+  {
+    "id": "es-04-0348",
+    "sentence": "La moderadora dejó que otro vecino propusiera una alternativa cuando se estancó la discusión.",
+    "cloze": "propusiera",
+    "answer": "propusiera",
+    "lemma": "proponer",
+    "meaning": "propose",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0348.mp3"
+  },
+  {
+    "id": "es-04-0349",
+    "sentence": "Antes de contratar un plan, el asesor me recomendó que comparara las cuotas y las condiciones.",
+    "cloze": "comparara",
+    "answer": "comparara",
+    "lemma": "comparar",
+    "meaning": "compare",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0349.mp3"
+  },
+  {
+    "id": "es-04-0350",
+    "sentence": "La tutora nos sugirió que revisáramos la conclusión antes de entregar el ensayo.",
+    "cloze": "revisáramos",
+    "answer": "revisáramos",
+    "lemma": "revisar",
+    "meaning": "review",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0350.mp3"
+  },
+  {
+    "id": "es-04-0351",
+    "sentence": "La encargada recomendó que la oficina redujera el uso de papel en los trámites internos.",
+    "cloze": "redujera",
+    "answer": "redujera",
+    "lemma": "reducir",
+    "meaning": "reduce",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0351.mp3"
+  },
+  {
+    "id": "es-04-0352",
+    "sentence": "Antes de la evaluación, la maestra aconsejó que cada alumno practicara la exposición en voz alta.",
+    "cloze": "practicara",
+    "answer": "practicara",
+    "lemma": "practicar",
+    "meaning": "practice",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0352.mp3"
+  },
+  {
+    "id": "es-04-0353",
+    "sentence": "El orientador le sugirió que consultara el calendario antes de inscribirse al curso.",
+    "cloze": "consultara",
+    "answer": "consultara",
+    "lemma": "consultar",
+    "meaning": "check",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0353.mp3"
+  },
+  {
+    "id": "es-04-0354",
+    "sentence": "Mi editora me recomendó que leyera el texto completo antes de cambiarle el título.",
+    "cloze": "leyera",
+    "answer": "leyera",
+    "lemma": "leer",
+    "meaning": "read",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0354.mp3"
+  },
+  {
+    "id": "es-04-0355",
+    "sentence": "Cuando la computadora dejó de cargar, el técnico nos aconsejó que probáramos el cargador en otro contacto.",
+    "cloze": "probáramos",
+    "answer": "probáramos",
+    "lemma": "probar",
+    "meaning": "test",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0355.mp3"
+  },
+  {
+    "id": "es-04-0356",
+    "sentence": "Como había poco tiempo, la coordinadora propuso que los equipos dividieran las tareas según su experiencia.",
+    "cloze": "dividieran",
+    "answer": "dividieran",
+    "lemma": "dividir",
+    "meaning": "divide",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0356.mp3"
+  },
+  {
+    "id": "es-04-0357",
+    "sentence": "Al crearle la cuenta, la administradora le pidió a la nueva usuaria que no compartiera la contraseña con nadie.",
+    "cloze": "compartiera",
+    "answer": "compartiera",
+    "lemma": "compartir",
+    "meaning": "share",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0357.mp3"
+  },
+  {
+    "id": "es-04-0358",
+    "sentence": "Antes del recreo, la maestra les indicó a sus alumnos que no borraran las notas del pizarrón.",
+    "cloze": "borraran",
+    "answer": "borraran",
+    "lemma": "borrar",
+    "meaning": "erase",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0358.mp3"
+  },
+  {
+    "id": "es-04-0359",
+    "sentence": "Te pedí que no abrieras la caja hasta mi regreso.",
+    "cloze": "abrieras",
+    "answer": "abrieras",
+    "lemma": "abrir",
+    "meaning": "open",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0359.mp3"
+  },
+  {
+    "id": "es-04-0360",
+    "sentence": "Durante el recorrido, el guía nos advirtió que no saliéramos del sendero marcado.",
+    "cloze": "saliéramos",
+    "answer": "saliéramos",
+    "lemma": "salir",
+    "meaning": "leave",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0360.mp3"
+  },
+{
+    "id": "es-04-0361",
+    "sentence": "Al apagarse las luces durante el concierto, me sorprendió que el público reaccionara con tanta calma.",
+    "cloze": "reaccionara",
+    "answer": "reaccionara",
+    "lemma": "reaccionar",
+    "meaning": "react",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0361.mp3"
+  },
+  {
+    "id": "es-04-0362",
+    "sentence": "A la directora le alegró que los asistentes reconocieran el trabajo de los voluntarios al final del festival.",
+    "cloze": "reconocieran",
+    "answer": "reconocieran",
+    "lemma": "reconocer",
+    "meaning": "acknowledge",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0362.mp3"
+  },
+  {
+    "id": "es-04-0363",
+    "sentence": "Sentí mucho que no volvieras para la última función; tu asiento se quedó vacío.",
+    "cloze": "volvieras",
+    "answer": "volvieras",
+    "lemma": "volver",
+    "meaning": "return",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0363.mp3"
+  },
+  {
+    "id": "es-04-0364",
+    "sentence": "A mis papás les dolió que algunos parientes rechazaran la invitación sin explicar el motivo.",
+    "cloze": "rechazaran",
+    "answer": "rechazaran",
+    "lemma": "rechazar",
+    "meaning": "decline",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0364.mp3"
+  },
+  {
+    "id": "es-04-0365",
+    "sentence": "A los vecinos les preocupaba que el mural desapareciera durante la remodelación del mercado.",
+    "cloze": "desapareciera",
+    "answer": "desapareciera",
+    "lemma": "desaparecer",
+    "meaning": "disappear",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0365.mp3"
+  },
+  {
+    "id": "es-04-0366",
+    "sentence": "Me dio gusto que apoyaras la propuesta después de comparar sus costos.",
+    "cloze": "apoyaras",
+    "answer": "apoyaras",
+    "lemma": "apoyar",
+    "meaning": "support",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0366.mp3"
+  },
+  {
+    "id": "es-04-0367",
+    "sentence": "A la coordinadora le entusiasmó que las familias incluyeran sus recuerdos en la exposición del barrio.",
+    "cloze": "incluyeran",
+    "answer": "incluyeran",
+    "lemma": "incluir",
+    "meaning": "include",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0367.mp3"
+  },
+  {
+    "id": "es-04-0368",
+    "sentence": "Nos molestó que cancelaran el taller cuando ya estábamos en el centro cultural.",
+    "cloze": "cancelaran",
+    "answer": "cancelaran",
+    "lemma": "cancelar",
+    "meaning": "cancel",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0368.mp3"
+  },
+  {
+    "id": "es-04-0369",
+    "sentence": "Me tranquilizó que el equipo resolviera el error antes de la presentación.",
+    "cloze": "resolviera",
+    "answer": "resolviera",
+    "lemma": "resolver",
+    "meaning": "resolve",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0369.mp3"
+  },
+  {
+    "id": "es-04-0370",
+    "sentence": "Me apenó que te sintieras fuera de lugar durante la conversación familiar.",
+    "cloze": "te sintieras",
+    "answer": "te sintieras",
+    "lemma": "sentirse",
+    "meaning": "feel",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0370.mp3"
+  },
+  {
+    "id": "es-04-0371",
+    "sentence": "Nos emocionó que el documental obtuviera una respuesta tan cálida del público.",
+    "cloze": "obtuviera",
+    "answer": "obtuviera",
+    "lemma": "obtener",
+    "meaning": "receive",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0371.mp3"
+  },
+  {
+    "id": "es-04-0372",
+    "sentence": "Los organizadores temían que la noticia dividiera a la comunidad, pero el diálogo siguió siendo respetuoso.",
+    "cloze": "dividiera",
+    "answer": "dividiera",
+    "lemma": "dividir",
+    "meaning": "divide",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0372.mp3"
+  },
+  {
+    "id": "es-04-0373",
+    "sentence": "Era importante que la reseña distinguiera con claridad los hechos de la opinión de la autora.",
+    "cloze": "distinguiera",
+    "answer": "distinguiera",
+    "lemma": "distinguir",
+    "meaning": "distinguish",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0373.mp3"
+  },
+  {
+    "id": "es-04-0374",
+    "sentence": "Después de las quejas, fue indispensable que la oficina aclarara quién podía participar en el programa.",
+    "cloze": "aclarara",
+    "answer": "aclarara",
+    "lemma": "aclarar",
+    "meaning": "clarify",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0374.mp3"
+  },
+  {
+    "id": "es-04-0375",
+    "sentence": "Para recibir a más lectores, parecía conveniente que la biblioteca ampliara su horario de los sábados.",
+    "cloze": "ampliara",
+    "answer": "ampliara",
+    "lemma": "ampliar",
+    "meaning": "extend",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0375.mp3"
+  },
+  {
+    "id": "es-04-0376",
+    "sentence": "Antes de grabar la entrevista, resultó útil que el equipo ensayara las preguntas en voz alta.",
+    "cloze": "ensayara",
+    "answer": "ensayara",
+    "lemma": "ensayar",
+    "meaning": "rehearse",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0376.mp3"
+  },
+  {
+    "id": "es-04-0377",
+    "sentence": "Durante la mudanza, era fundamental que el museo protegiera las piezas prestadas.",
+    "cloze": "protegiera",
+    "answer": "protegiera",
+    "lemma": "proteger",
+    "meaning": "protect",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0377.mp3"
+  },
+  {
+    "id": "es-04-0378",
+    "sentence": "Para evaluar la propuesta, era necesario que el informe aportara datos de varios meses.",
+    "cloze": "aportara",
+    "answer": "aportara",
+    "lemma": "aportar",
+    "meaning": "provide",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0378.mp3"
+  },
+  {
+    "id": "es-04-0379",
+    "sentence": "Dada la confusión inicial, fue acertado que las gráficas mostraran cada categoría por separado.",
+    "cloze": "mostraran",
+    "answer": "mostraran",
+    "lemma": "mostrar",
+    "meaning": "show",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0379.mp3"
+  },
+  {
+    "id": "es-04-0380",
+    "sentence": "Aunque cambió la sede, era preferible que la función mantuviera la fecha original.",
+    "cloze": "mantuviera",
+    "answer": "mantuviera",
+    "lemma": "mantener",
+    "meaning": "keep",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0380.mp3"
+  },
+  {
+    "id": "es-04-0381",
+    "sentence": "Para quienes no podían asistir en persona, fue práctico que el centro ofreciera la charla en línea.",
+    "cloze": "ofreciera",
+    "answer": "ofreciera",
+    "lemma": "ofrecer",
+    "meaning": "offer",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0381.mp3"
+  },
+  {
+    "id": "es-04-0382",
+    "sentence": "Dado el tamaño del público, era razonable que las actividades se distribuyeran entre dos salas.",
+    "cloze": "se distribuyeran",
+    "answer": "se distribuyeran",
+    "lemma": "distribuir",
+    "meaning": "be distributed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0382.mp3"
+  },
+  {
+    "id": "es-04-0383",
+    "sentence": "Para conservar el apoyo, era esencial que el programa cumpliera los compromisos anunciados.",
+    "cloze": "cumpliera",
+    "answer": "cumpliera",
+    "lemma": "cumplir",
+    "meaning": "fulfill",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0383.mp3"
+  },
+  {
+    "id": "es-04-0384",
+    "sentence": "Según la encuesta local, parecía justo que el presupuesto reflejara las prioridades de los residentes.",
+    "cloze": "reflejara",
+    "answer": "reflejara",
+    "lemma": "reflejar",
+    "meaning": "reflect",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0384.mp3"
+  },
+  {
+    "id": "es-04-0385",
+    "sentence": "Tras leer dos críticas opuestas, dudé que la película mereciera el premio principal.",
+    "cloze": "mereciera",
+    "answer": "mereciera",
+    "lemma": "merecer",
+    "meaning": "deserve",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0385.mp3"
+  },
+  {
+    "id": "es-04-0386",
+    "sentence": "La coordinadora descartó que el ponente conociera de antemano las preguntas del público.",
+    "cloze": "conociera",
+    "answer": "conociera",
+    "lemma": "conocer",
+    "meaning": "know",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0386.mp3"
+  },
+  {
+    "id": "es-04-0387",
+    "sentence": "Con las vitrinas todavía vacías, no parecía que el museo tuviera lista la exposición.",
+    "cloze": "tuviera",
+    "answer": "tuviera",
+    "lemma": "tener",
+    "meaning": "have",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0387.mp3"
+  },
+  {
+    "id": "es-04-0388",
+    "sentence": "Al ver que casi nadie se había enterado, dudábamos que el programa beneficiara a todo el barrio.",
+    "cloze": "beneficiara",
+    "answer": "beneficiara",
+    "lemma": "beneficiar",
+    "meaning": "benefit",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0388.mp3"
+  },
+  {
+    "id": "es-04-0389",
+    "sentence": "La editora cuestionó que la reseña describiera con precisión el ambiente del concierto.",
+    "cloze": "describiera",
+    "answer": "describiera",
+    "lemma": "describir",
+    "meaning": "describe",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0389.mp3"
+  },
+  {
+    "id": "es-04-0390",
+    "sentence": "Por su alcance limitado, no creíamos que aquella encuesta representara la opinión de toda la comunidad.",
+    "cloze": "representara",
+    "answer": "representara",
+    "lemma": "representar",
+    "meaning": "represent",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0390.mp3"
+  },
+  {
+    "id": "es-04-0391",
+    "sentence": "Como apenas habían anunciado el festival, no pensábamos que atrajera visitantes de otros estados.",
+    "cloze": "atrajera",
+    "answer": "atrajera",
+    "lemma": "atraer",
+    "meaning": "attract",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0391.mp3"
+  },
+  {
+    "id": "es-04-0392",
+    "sentence": "La vocera negó que la asociación ocultara los resultados de la consulta.",
+    "cloze": "ocultara",
+    "answer": "ocultara",
+    "lemma": "ocultar",
+    "meaning": "conceal",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0392.mp3"
+  },
+  {
+    "id": "es-04-0393",
+    "sentence": "Los organizadores desmintieron que se cobrara una cuota adicional por entrar al festival.",
+    "cloze": "cobrara",
+    "answer": "cobrara",
+    "lemma": "cobrar",
+    "meaning": "be charged",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0393.mp3"
+  },
+  {
+    "id": "es-04-0394",
+    "sentence": "Aunque el ensayo había mejorado, la maestra dudaba que respondiera a todas las observaciones.",
+    "cloze": "respondiera",
+    "answer": "respondiera",
+    "lemma": "responder",
+    "meaning": "address",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0394.mp3"
+  },
+  {
+    "id": "es-04-0395",
+    "sentence": "Tras revisar los depósitos, la tesorera no dudó de que el fondo contaba con recursos suficientes.",
+    "cloze": "contaba",
+    "answer": "contaba",
+    "lemma": "contar con",
+    "meaning": "have",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0395.mp3"
+  },
+  {
+    "id": "es-04-0396",
+    "sentence": "El sello del archivo coincidía con el acta, así que estaba claro que el documento pertenecía al comité.",
+    "cloze": "pertenecía",
+    "answer": "pertenecía",
+    "lemma": "pertenecer",
+    "meaning": "belong",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0396.mp3"
+  },
+  {
+    "id": "es-04-0397",
+    "sentence": "La taquilla acababa de actualizar el registro; era evidente que aún sobraban lugares para la función.",
+    "cloze": "sobraban",
+    "answer": "sobraban",
+    "lemma": "sobrar",
+    "meaning": "remain",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0397.mp3"
+  },
+  {
+    "id": "es-04-0398",
+    "sentence": "Solo circulaba un rumor y no era seguro que la muestra regresara al museo ese año.",
+    "cloze": "regresara",
+    "answer": "regresara",
+    "lemma": "regresar",
+    "meaning": "return",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0398.mp3"
+  },
+  {
+    "id": "es-04-0399",
+    "sentence": "El informe omitía varias comunidades, por lo que era dudoso que los resultados fueran representativos de toda la población.",
+    "cloze": "fueran",
+    "answer": "fueran",
+    "lemma": "ser",
+    "meaning": "be",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0399.mp3"
+  },
+  {
+    "id": "es-04-0400",
+    "sentence": "La campaña apenas empezaba y no estaba claro que funcionara igual en otros municipios.",
+    "cloze": "funcionara",
+    "answer": "funcionara",
+    "lemma": "funcionar",
+    "meaning": "work",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0400.mp3"
   }
 ]
