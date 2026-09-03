@@ -7998,5 +7998,2005 @@
     "meaning": "fits",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-0800.mp3"
+  },
+  {
+    "id": "es-04-0801",
+    "sentence": "La exposición itinerante fue inaugurada ayer, después de dos meses de montaje.",
+    "cloze": "fue inaugurada",
+    "answer": "fue inaugurada",
+    "lemma": "inaugurar",
+    "meaning": "was inaugurated",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0801.mp3"
+  },
+  {
+    "id": "es-04-0802",
+    "sentence": "Tras la revisión de seguridad, los elevadores fueron inspeccionados antes de reabrir las oficinas.",
+    "cloze": "fueron inspeccionados",
+    "answer": "fueron inspeccionados",
+    "lemma": "inspeccionar",
+    "meaning": "were inspected",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0802.mp3"
+  },
+  {
+    "id": "es-04-0803",
+    "sentence": "El paquete extraviado fue localizado esta mañana en la bodega regional.",
+    "cloze": "fue localizado",
+    "answer": "fue localizado",
+    "lemma": "localizar",
+    "meaning": "was found",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0803.mp3"
+  },
+  {
+    "id": "es-04-0804",
+    "sentence": "Las becas fueron asignadas después de revisar todas las solicitudes.",
+    "cloze": "fueron asignadas",
+    "answer": "fueron asignadas",
+    "lemma": "asignar",
+    "meaning": "were awarded",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0804.mp3"
+  },
+  {
+    "id": "es-04-0805",
+    "sentence": "El puente peatonal fue cerrado durante dos horas por una revisión urgente.",
+    "cloze": "fue cerrado",
+    "answer": "fue cerrado",
+    "lemma": "cerrar",
+    "meaning": "was closed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0805.mp3"
+  },
+  {
+    "id": "es-04-0806",
+    "sentence": "Cada solicitud es evaluada por separado antes de la entrevista.",
+    "cloze": "es evaluada",
+    "answer": "es evaluada",
+    "lemma": "evaluar",
+    "meaning": "is evaluated",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0806.mp3"
+  },
+  {
+    "id": "es-04-0807",
+    "sentence": "Al final de cada taller, los bocetos son digitalizados para conservar un respaldo.",
+    "cloze": "son digitalizados",
+    "answer": "son digitalizados",
+    "lemma": "digitalizar",
+    "meaning": "are digitized",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0807.mp3"
+  },
+  {
+    "id": "es-04-0808",
+    "sentence": "La función fue suspendida cuando una fuga de agua alcanzó el escenario.",
+    "cloze": "fue suspendida",
+    "answer": "fue suspendida",
+    "lemma": "suspender",
+    "meaning": "was suspended",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0808.mp3"
+  },
+  {
+    "id": "es-04-0809",
+    "sentence": "Para evitar más daños, las muestras fueron trasladadas a una sala seca.",
+    "cloze": "fueron trasladadas",
+    "answer": "fueron trasladadas",
+    "lemma": "trasladar",
+    "meaning": "were moved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0809.mp3"
+  },
+  {
+    "id": "es-04-0810",
+    "sentence": "Al ingresar al laboratorio, la identidad de cada visitante es verificada en recepción.",
+    "cloze": "es verificada",
+    "answer": "es verificada",
+    "lemma": "verificar",
+    "meaning": "is verified",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0810.mp3"
+  },
+  {
+    "id": "es-04-0811",
+    "sentence": "El auditorio fue adaptado para recibir a personas con movilidad reducida.",
+    "cloze": "fue adaptado",
+    "answer": "fue adaptado",
+    "lemma": "adaptar",
+    "meaning": "was adapted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0811.mp3"
+  },
+  {
+    "id": "es-04-0812",
+    "sentence": "Durante las obras, las rutas provisionales fueron señaladas con flechas amarillas.",
+    "cloze": "fueron señaladas",
+    "answer": "fueron señaladas",
+    "lemma": "señalar",
+    "meaning": "were marked",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0812.mp3"
+  },
+  {
+    "id": "es-04-0813",
+    "sentence": "Para evitar otro retraso, el pedido fue dividido en dos entregas.",
+    "cloze": "fue dividido",
+    "answer": "fue dividido",
+    "lemma": "dividir",
+    "meaning": "was split",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0813.mp3"
+  },
+  {
+    "id": "es-04-0814",
+    "sentence": "Una vez que concluye la convocatoria, los resultados son publicados en el portal.",
+    "cloze": "son publicados",
+    "answer": "son publicados",
+    "lemma": "publicar",
+    "meaning": "are published",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0814.mp3"
+  },
+  {
+    "id": "es-04-0815",
+    "sentence": "La propuesta fue rechazada porque superaba el presupuesto disponible.",
+    "cloze": "fue rechazada",
+    "answer": "fue rechazada",
+    "lemma": "rechazar",
+    "meaning": "was rejected",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0815.mp3"
+  },
+  {
+    "id": "es-04-0816",
+    "sentence": "Ante el pronóstico de granizo, las ventanas fueron protegidas con paneles de madera.",
+    "cloze": "fueron protegidas",
+    "answer": "fueron protegidas",
+    "lemma": "proteger",
+    "meaning": "were protected",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0816.mp3"
+  },
+  {
+    "id": "es-04-0817",
+    "sentence": "El informe final será enviado a cada participante el viernes por la mañana.",
+    "cloze": "será enviado",
+    "answer": "será enviado",
+    "lemma": "enviar",
+    "meaning": "will be sent",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0817.mp3"
+  },
+  {
+    "id": "es-04-0818",
+    "sentence": "Durante septiembre, las fotografías ganadoras serán exhibidas en el vestíbulo.",
+    "cloze": "serán exhibidas",
+    "answer": "serán exhibidas",
+    "lemma": "exhibir",
+    "meaning": "will be displayed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0818.mp3"
+  },
+  {
+    "id": "es-04-0819",
+    "sentence": "El acceso norte será reparado durante el cierre del fin de semana.",
+    "cloze": "será reparado",
+    "answer": "será reparado",
+    "lemma": "reparar",
+    "meaning": "will be repaired",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0819.mp3"
+  },
+  {
+    "id": "es-04-0820",
+    "sentence": "Las inscripciones al diplomado serán confirmadas por correo mañana.",
+    "cloze": "serán confirmadas",
+    "answer": "serán confirmadas",
+    "lemma": "confirmar",
+    "meaning": "will be confirmed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0820.mp3"
+  },
+  {
+    "id": "es-04-0821",
+    "sentence": "Cuando abra la nueva sucursal, la instalación eléctrica ya habrá sido certificada.",
+    "cloze": "habrá sido certificada",
+    "answer": "habrá sido certificada",
+    "lemma": "certificar",
+    "meaning": "will have been certified",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0821.mp3"
+  },
+  {
+    "id": "es-04-0822",
+    "sentence": "Para el lunes, todas las luminarias habrán sido sustituidas en la avenida.",
+    "cloze": "habrán sido sustituidas",
+    "answer": "habrán sido sustituidas",
+    "lemma": "sustituir",
+    "meaning": "will have been replaced",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0822.mp3"
+  },
+  {
+    "id": "es-04-0823",
+    "sentence": "Tu solicitud ha sido aprobada, así que el lugar seguirá reservado hasta el viernes.",
+    "cloze": "ha sido aprobada",
+    "answer": "ha sido aprobada",
+    "lemma": "aprobar",
+    "meaning": "has been approved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0823.mp3"
+  },
+  {
+    "id": "es-04-0824",
+    "sentence": "Los planos han sido actualizados con las medidas de esta mañana.",
+    "cloze": "han sido actualizados",
+    "answer": "han sido actualizados",
+    "lemma": "actualizar",
+    "meaning": "have been updated",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0824.mp3"
+  },
+  {
+    "id": "es-04-0825",
+    "sentence": "La función de esta noche ha sido cancelada debido a una falla eléctrica.",
+    "cloze": "ha sido cancelada",
+    "answer": "ha sido cancelada",
+    "lemma": "cancelar",
+    "meaning": "has been canceled",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0825.mp3"
+  },
+  {
+    "id": "es-04-0826",
+    "sentence": "Las cajas ya habían sido etiquetadas cuando llegó el camión, así que la carga empezó de inmediato.",
+    "cloze": "habían sido etiquetadas",
+    "answer": "habían sido etiquetadas",
+    "lemma": "etiquetar",
+    "meaning": "had been labeled",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0826.mp3"
+  },
+  {
+    "id": "es-04-0827",
+    "sentence": "El catálogo fue diseñado por el mismo estudio que creó la señalización del museo.",
+    "cloze": "fue diseñado",
+    "answer": "fue diseñado",
+    "lemma": "diseñar",
+    "meaning": "was designed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0827.mp3"
+  },
+  {
+    "id": "es-04-0828",
+    "sentence": "Por tratarse de una falla estructural, la reparación fue supervisada por una ingeniera especializada.",
+    "cloze": "fue supervisada",
+    "answer": "fue supervisada",
+    "lemma": "supervisar",
+    "meaning": "was supervised",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0828.mp3"
+  },
+  {
+    "id": "es-04-0829",
+    "sentence": "Las obras de la avenida son coordinadas por el municipio y no por la empresa de agua.",
+    "cloze": "son coordinadas",
+    "answer": "son coordinadas",
+    "lemma": "coordinar",
+    "meaning": "are coordinated",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0829.mp3"
+  },
+  {
+    "id": "es-04-0830",
+    "sentence": "La novela fue elegida por un jurado de lectores, no por la editorial.",
+    "cloze": "fue elegida",
+    "answer": "fue elegida",
+    "lemma": "elegir",
+    "meaning": "was chosen",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0830.mp3"
+  },
+  {
+    "id": "es-04-0831",
+    "sentence": "Los paquetes urgentes son recibidos por el personal de guardia, incluso de madrugada.",
+    "cloze": "son recibidos",
+    "answer": "son recibidos",
+    "lemma": "recibir",
+    "meaning": "are received",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0831.mp3"
+  },
+  {
+    "id": "es-04-0832",
+    "sentence": "Para evitar conflictos de interés, los aspirantes fueron entrevistados por docentes de otra facultad.",
+    "cloze": "fueron entrevistados",
+    "answer": "fueron entrevistados",
+    "lemma": "entrevistar",
+    "meaning": "were interviewed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0832.mp3"
+  },
+  {
+    "id": "es-04-0833",
+    "sentence": "La instalación solar será operada por una cooperativa local durante sus primeros cinco años.",
+    "cloze": "será operada",
+    "answer": "será operada",
+    "lemma": "operar",
+    "meaning": "will be operated",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0833.mp3"
+  },
+  {
+    "id": "es-04-0834",
+    "sentence": "La pieza central ha sido prestada por la familia de la artista exclusivamente para esta muestra.",
+    "cloze": "ha sido prestada",
+    "answer": "ha sido prestada",
+    "lemma": "prestar",
+    "meaning": "has been loaned",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0834.mp3"
+  },
+  {
+    "id": "es-04-0835",
+    "sentence": "—¿Quién revisó el contrato? —La abogada. —¿Y cuándo fue revisado? —Ayer por la tarde.",
+    "cloze": "fue revisado",
+    "answer": "fue revisado",
+    "lemma": "revisar",
+    "meaning": "was reviewed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0835.mp3"
+  },
+  {
+    "id": "es-04-0836",
+    "sentence": "El archivo municipal cedió veinte fotografías; las grabaciones fueron cedidas únicamente para la exposición.",
+    "cloze": "fueron cedidas",
+    "answer": "fueron cedidas",
+    "lemma": "ceder",
+    "meaning": "were loaned",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0836.mp3"
+  },
+  {
+    "id": "es-04-0837",
+    "sentence": "La coordinadora anunció a los ponentes en vivo; las finalistas, en cambio, fueron anunciadas por correo.",
+    "cloze": "fueron anunciadas",
+    "answer": "fueron anunciadas",
+    "lemma": "anunciar",
+    "meaning": "were announced",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0837.mp3"
+  },
+  {
+    "id": "es-04-0838",
+    "sentence": "El técnico recuperó la base de datos, pero los archivos adjuntos no fueron recuperados hasta el día siguiente.",
+    "cloze": "fueron recuperados",
+    "answer": "fueron recuperados",
+    "lemma": "recuperar",
+    "meaning": "were recovered",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0838.mp3"
+  },
+  {
+    "id": "es-04-0839",
+    "sentence": "La empresa entregó los monitores en persona; los cables serán entregados mañana por paquetería.",
+    "cloze": "serán entregados",
+    "answer": "serán entregados",
+    "lemma": "entregar",
+    "meaning": "will be delivered",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0839.mp3"
+  },
+  {
+    "id": "es-04-0840",
+    "sentence": "El municipio rehabilitó la cancha el año pasado; el jardín ya había sido rehabilitado con aportaciones vecinales.",
+    "cloze": "había sido rehabilitado",
+    "answer": "había sido rehabilitado",
+    "lemma": "rehabilitar",
+    "meaning": "had been rehabilitated",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0840.mp3"
+  },
+  {
+    "id": "es-04-0841",
+    "sentence": "Los cambios de horario se publican tanto en la entrada como en el sitio del centro.",
+    "cloze": "se publican",
+    "answer": "se publican",
+    "lemma": "publicar",
+    "meaning": "are posted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0841.mp3"
+  },
+  {
+    "id": "es-04-0842",
+    "sentence": "Los lugares accesibles se asignarán después de confirmar la inscripción de cada asistente.",
+    "cloze": "se asignarán",
+    "answer": "se asignarán",
+    "lemma": "asignar",
+    "meaning": "will be assigned",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0842.mp3"
+  },
+  {
+    "id": "es-04-0843",
+    "sentence": "Las dos salas del taller se reservaron juntas para evitar cambios de piso.",
+    "cloze": "se reservaron",
+    "answer": "se reservaron",
+    "lemma": "reservar",
+    "meaning": "were reserved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0843.mp3"
+  },
+  {
+    "id": "es-04-0844",
+    "sentence": "Los pases que dejaron de funcionar ya se han repuesto, así que sus titulares pueden entrar con normalidad.",
+    "cloze": "se han repuesto",
+    "answer": "se han repuesto",
+    "lemma": "reponer",
+    "meaning": "have been replaced",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0844.mp3"
+  },
+  {
+    "id": "es-04-0845",
+    "sentence": "Antes de autorizar cada reembolso, los datos de la compra se registran en un expediente separado.",
+    "cloze": "se registran",
+    "answer": "se registran",
+    "lemma": "registrar",
+    "meaning": "are recorded",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0845.mp3"
+  },
+  {
+    "id": "es-04-0846",
+    "sentence": "Con un contrato más breve, las tarifas del salón se actualizarían sin afectar las reservaciones ya pagadas.",
+    "cloze": "se actualizarían",
+    "answer": "se actualizarían",
+    "lemma": "actualizar",
+    "meaning": "would be updated",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0846.mp3"
+  },
+  {
+    "id": "es-04-0847",
+    "sentence": "Durante la remodelación se instalaron rampas temporales para mantener abierto el acceso principal.",
+    "cloze": "se instalaron",
+    "answer": "se instalaron",
+    "lemma": "instalar",
+    "meaning": "were installed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0847.mp3"
+  },
+  {
+    "id": "es-04-0848",
+    "sentence": "Cuando comenzó el festival, ya se habían habilitado dos entradas laterales para evitar aglomeraciones.",
+    "cloze": "se habían habilitado",
+    "answer": "se habían habilitado",
+    "lemma": "habilitar",
+    "meaning": "had been opened for use",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0848.mp3"
+  },
+  {
+    "id": "es-04-0849",
+    "sentence": "Las opiniones de los asistentes se recopilaron al final de cada función y sirvieron para ajustar el programa.",
+    "cloze": "se recopilaron",
+    "answer": "se recopilaron",
+    "lemma": "recopilar",
+    "meaning": "were collected",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0849.mp3"
+  },
+  {
+    "id": "es-04-0850",
+    "sentence": "Este mes se exhiben piezas de artistas locales junto con una explicación breve de cada proyecto.",
+    "cloze": "se exhiben",
+    "answer": "se exhiben",
+    "lemma": "exhibir",
+    "meaning": "are displayed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0850.mp3"
+  },
+  {
+    "id": "es-04-0851",
+    "sentence": "Las decisiones se notificarán por correo una vez que concluya la revisión de todas las solicitudes.",
+    "cloze": "se notificarán",
+    "answer": "se notificarán",
+    "lemma": "notificar",
+    "meaning": "will be communicated",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0851.mp3"
+  },
+  {
+    "id": "es-04-0852",
+    "sentence": "Los reembolsos aprobados se procesan cuando el artículo llega a la bodega del comercio.",
+    "cloze": "se procesan",
+    "answer": "se procesan",
+    "lemma": "procesar",
+    "meaning": "are processed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0852.mp3"
+  },
+  {
+    "id": "es-04-0853",
+    "sentence": "El importe de las sesiones canceladas se abonará a la cuenta el próximo mes, no a la tarjeta original.",
+    "cloze": "se abonará",
+    "answer": "se abonará",
+    "lemma": "abonar",
+    "meaning": "will be credited",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0853.mp3"
+  },
+  {
+    "id": "es-04-0854",
+    "sentence": "Las guías impresas se distribuirán al abrir las puertas del auditorio.",
+    "cloze": "se distribuirán",
+    "answer": "se distribuirán",
+    "lemma": "distribuir",
+    "meaning": "will be distributed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0854.mp3"
+  },
+  {
+    "id": "es-04-0855",
+    "sentence": "Durante la reunión se aclararon las dudas sobre el nuevo procedimiento antes de repartir las tareas.",
+    "cloze": "se aclararon",
+    "answer": "se aclararon",
+    "lemma": "aclarar",
+    "meaning": "were clarified",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0855.mp3"
+  },
+  {
+    "id": "es-04-0856",
+    "sentence": "Los paquetes sin reclamar se almacenan por separado hasta el final del plazo de devolución.",
+    "cloze": "se almacenan",
+    "answer": "se almacenan",
+    "lemma": "almacenar",
+    "meaning": "are stored",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0856.mp3"
+  },
+  {
+    "id": "es-04-0857",
+    "sentence": "Durante la visita se solicita a cada grupo que mantenga despejado el pasillo central.",
+    "cloze": "se solicita",
+    "answer": "se solicita",
+    "lemma": "solicitar",
+    "meaning": "each group is asked",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0857.mp3"
+  },
+  {
+    "id": "es-04-0858",
+    "sentence": "Al salón del segundo piso se accede únicamente por el elevador del patio.",
+    "cloze": "se accede",
+    "answer": "se accede",
+    "lemma": "acceder",
+    "meaning": "one gains access",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0858.mp3"
+  },
+  {
+    "id": "es-04-0859",
+    "sentence": "En este recinto se permite entrar a todas las áreas abiertas al público con perros de asistencia.",
+    "cloze": "se permite",
+    "answer": "se permite",
+    "lemma": "permitir",
+    "meaning": "one is allowed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0859.mp3"
+  },
+  {
+    "id": "es-04-0860",
+    "sentence": "En la primera reunión se conversa con cada familia sobre sus necesidades antes de repartir tareas.",
+    "cloze": "se conversa",
+    "answer": "se conversa",
+    "lemma": "conversar",
+    "meaning": "people discuss",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0860.mp3"
+  },
+  {
+    "id": "es-04-0861",
+    "sentence": "Para reducir el desperdicio, se colabora con comercios de la zona y con el banco de alimentos.",
+    "cloze": "se colabora",
+    "answer": "se colabora",
+    "lemma": "colaborar",
+    "meaning": "people collaborate",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0861.mp3"
+  },
+  {
+    "id": "es-04-0862",
+    "sentence": "Al terminar cada jornada se informa a las familias de cualquier cambio en las actividades del día siguiente.",
+    "cloze": "se informa",
+    "answer": "se informa",
+    "lemma": "informar",
+    "meaning": "families are informed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0862.mp3"
+  },
+  {
+    "id": "es-04-0863",
+    "sentence": "Antes de ampliar el horario se consultó a quienes viven cerca del centro comunitario.",
+    "cloze": "se consultó",
+    "answer": "se consultó",
+    "lemma": "consultar",
+    "meaning": "residents were consulted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0863.mp3"
+  },
+  {
+    "id": "es-04-0864",
+    "sentence": "A las personas inscritas se les avisó del cambio de entrada con suficiente anticipación.",
+    "cloze": "se les avisó",
+    "answer": "se les avisó",
+    "lemma": "avisar",
+    "meaning": "they were notified",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0864.mp3"
+  },
+  {
+    "id": "es-04-0865",
+    "sentence": "Durante la reparación de la oficina, los viernes se trabajará desde casa.",
+    "cloze": "se trabajará",
+    "answer": "se trabajará",
+    "lemma": "trabajar",
+    "meaning": "people will work",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0865.mp3"
+  },
+  {
+    "id": "es-04-0866",
+    "sentence": "El sábado se atendió primero a quienes solicitaron orientación sobre opciones de vivienda.",
+    "cloze": "se atendió",
+    "answer": "se atendió",
+    "lemma": "atender",
+    "meaning": "people were assisted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0866.mp3"
+  },
+  {
+    "id": "es-04-0867",
+    "sentence": "Con una credencial vigente se puede ingresar al archivo durante el horario de consulta.",
+    "cloze": "se puede",
+    "answer": "se puede",
+    "lemma": "poder",
+    "meaning": "one can",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0867.mp3"
+  },
+  {
+    "id": "es-04-0868",
+    "sentence": "Para recoger un objeto perdido se debe acudir al módulo que está junto a la salida.",
+    "cloze": "se debe",
+    "answer": "se debe",
+    "lemma": "deber",
+    "meaning": "one must",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0868.mp3"
+  },
+  {
+    "id": "es-04-0869",
+    "sentence": "En las reuniones se insiste en documentar cada acuerdo antes de pasar al siguiente tema.",
+    "cloze": "se insiste",
+    "answer": "se insiste",
+    "lemma": "insistir",
+    "meaning": "people insist",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0869.mp3"
+  },
+  {
+    "id": "es-04-0870",
+    "sentence": "Ante la falta de espacio se optó por transmitir la charla también por internet.",
+    "cloze": "se optó",
+    "answer": "se optó",
+    "lemma": "optar por",
+    "meaning": "it was decided",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0870.mp3"
+  },
+  {
+    "id": "es-04-0871",
+    "sentence": "Por la falla eléctrica, cancelaron la función de la noche; el público pudo cambiar sus boletos sin costo.",
+    "cloze": "cancelaron",
+    "answer": "cancelaron",
+    "lemma": "cancelar",
+    "meaning": "they canceled",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0871.mp3"
+  },
+  {
+    "id": "es-04-0872",
+    "sentence": "Después de revisar las fotos del paquete dañado, aprobaron la devolución sin solicitar otra prueba.",
+    "cloze": "aprobaron",
+    "answer": "aprobaron",
+    "lemma": "aprobar",
+    "meaning": "they approved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0872.mp3"
+  },
+  {
+    "id": "es-04-0873",
+    "sentence": "Llamé al centro y me confirmaron que el taller sigue programado a las seis.",
+    "cloze": "me confirmaron",
+    "answer": "me confirmaron",
+    "lemma": "confirmar",
+    "meaning": "they confirmed to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0873.mp3"
+  },
+  {
+    "id": "es-04-0874",
+    "sentence": "Al revisar el inventario, detectaron una diferencia entre el registro y las cajas recibidas.",
+    "cloze": "detectaron",
+    "answer": "detectaron",
+    "lemma": "detectar",
+    "meaning": "they found",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0874.mp3"
+  },
+  {
+    "id": "es-04-0875",
+    "sentence": "Por el cierre de la bodega, reprogramarán las entregas pendientes para la próxima semana.",
+    "cloze": "reprogramarán",
+    "answer": "reprogramarán",
+    "lemma": "reprogramar",
+    "meaning": "they will reschedule",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0875.mp3"
+  },
+  {
+    "id": "es-04-0876",
+    "sentence": "Tras comparar el recibo con el pago, devolvieron a la misma tarjeta el importe del cargo duplicado.",
+    "cloze": "devolvieron",
+    "answer": "devolvieron",
+    "lemma": "devolver",
+    "meaning": "they refunded",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0876.mp3"
+  },
+  {
+    "id": "es-04-0877",
+    "sentence": "En recepción se comprueban los datos de cada reservación, pero se ingresa por turno al área de atención.",
+    "cloze": "se comprueban",
+    "answer": "se comprueban",
+    "lemma": "comprobar",
+    "meaning": "are checked",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0877.mp3"
+  },
+  {
+    "id": "es-04-0878",
+    "sentence": "En la entrada se imprimen los gafetes; en cambio, se orienta primero a quienes no conocen el recinto.",
+    "cloze": "se orienta",
+    "answer": "se orienta",
+    "lemma": "orientar",
+    "meaning": "people are guided",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0878.mp3"
+  },
+  {
+    "id": "es-04-0879",
+    "sentence": "En la oficina se atiende a las personas sin cita, mientras que las constancias se expiden únicamente después de validar los datos.",
+    "cloze": "se expiden",
+    "answer": "se expiden",
+    "lemma": "expedir",
+    "meaning": "are issued",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0879.mp3"
+  },
+  {
+    "id": "es-04-0880",
+    "sentence": "Las candidaturas se revisan por área; después se entrevista por separado a cada aspirante.",
+    "cloze": "se entrevista",
+    "answer": "se entrevista",
+    "lemma": "entrevistar",
+    "meaning": "each applicant is interviewed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0880.mp3"
+  },
+  {
+    "id": "es-04-0881",
+    "sentence": "La administradora llamó al cerrajero e hizo revisar las cerraduras antes de entregar las llaves.",
+    "cloze": "hizo revisar",
+    "answer": "hizo revisar",
+    "lemma": "hacer revisar",
+    "meaning": "had the locks checked",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0881.mp3"
+  },
+  {
+    "id": "es-04-0882",
+    "sentence": "El guardia dejó pasar a los proveedores cuando confirmó sus nombres en la lista.",
+    "cloze": "dejó pasar",
+    "answer": "dejó pasar",
+    "lemma": "dejar pasar",
+    "meaning": "let the suppliers through",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0882.mp3"
+  },
+  {
+    "id": "es-04-0883",
+    "sentence": "Marta mandó a reparar la cafetera del salón cuando empezó a tirar agua.",
+    "cloze": "mandó a reparar",
+    "answer": "mandó a reparar",
+    "lemma": "mandar a reparar",
+    "meaning": "sent the coffee maker out for repair",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0883.mp3"
+  },
+  {
+    "id": "es-04-0884",
+    "sentence": "El museo hará instalar una rampa temporal para facilitar el acceso al auditorio.",
+    "cloze": "hará instalar",
+    "answer": "hará instalar",
+    "lemma": "hacer instalar",
+    "meaning": "will have a temporary ramp installed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0884.mp3"
+  },
+  {
+    "id": "es-04-0885",
+    "sentence": "La falla detectada durante la prueba me hizo replantear el orden de las tareas.",
+    "cloze": "me hizo replantear",
+    "answer": "me hizo replantear",
+    "lemma": "hacer replantear",
+    "meaning": "made me rethink",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0885.mp3"
+  },
+  {
+    "id": "es-04-0886",
+    "sentence": "La nueva distribución deja trabajar al personal sin bloquear el acceso a los estantes.",
+    "cloze": "deja trabajar",
+    "answer": "deja trabajar",
+    "lemma": "dejar trabajar",
+    "meaning": "allows the staff to work",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0886.mp3"
+  },
+  {
+    "id": "es-04-0887",
+    "sentence": "Cuando llegaron las pruebas de imprenta, la editora ya había hecho corregir la bibliografía.",
+    "cloze": "hecho corregir",
+    "answer": "hecho corregir",
+    "lemma": "hacer corregir",
+    "meaning": "had the bibliography corrected",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0887.mp3"
+  },
+  {
+    "id": "es-04-0888",
+    "sentence": "Los responsables del taller mandaron a encuadernar los manuales para protegerlos del uso diario.",
+    "cloze": "mandaron a encuadernar",
+    "answer": "mandaron a encuadernar",
+    "lemma": "mandar a encuadernar",
+    "meaning": "sent the manuals out for binding",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0888.mp3"
+  },
+  {
+    "id": "es-04-0889",
+    "sentence": "Al liberar la sala contigua, hicimos reorganizar el montaje para abrir las dos áreas al mismo tiempo.",
+    "cloze": "hicimos reorganizar",
+    "answer": "hicimos reorganizar",
+    "lemma": "hacer reorganizar",
+    "meaning": "we had the setup rearranged",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0889.mp3"
+  },
+  {
+    "id": "es-04-0890",
+    "sentence": "La encargada dejó entrar a las familias diez minutos antes porque el vestíbulo ya estaba listo.",
+    "cloze": "dejó entrar",
+    "answer": "dejó entrar",
+    "lemma": "dejar entrar",
+    "meaning": "let the families enter",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0890.mp3"
+  },
+  {
+    "id": "es-04-0891",
+    "sentence": "El nuevo toldo ha hecho bajar la temperatura del salón durante las reuniones de esta semana.",
+    "cloze": "hecho bajar",
+    "answer": "hecho bajar",
+    "lemma": "hacer bajar",
+    "meaning": "made the temperature drop",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0891.mp3"
+  },
+  {
+    "id": "es-04-0892",
+    "sentence": "La entrega incompleta nos hizo posponer el montaje hasta que llegaran las piezas restantes.",
+    "cloze": "nos hizo posponer",
+    "answer": "nos hizo posponer",
+    "lemma": "hacer posponer",
+    "meaning": "made us postpone",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0892.mp3"
+  },
+  {
+    "id": "es-04-0893",
+    "sentence": "Antes de la conferencia, mandaremos a calibrar el proyector que altera los tonos oscuros.",
+    "cloze": "mandaremos a calibrar",
+    "answer": "mandaremos a calibrar",
+    "lemma": "mandar a calibrar",
+    "meaning": "we will send the projector out for calibration",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0893.mp3"
+  },
+  {
+    "id": "es-04-0894",
+    "sentence": "La coordinadora dejará elegir a cada participante entre el horario matutino y el vespertino.",
+    "cloze": "dejará elegir",
+    "answer": "dejará elegir",
+    "lemma": "dejar elegir",
+    "meaning": "will let each participant choose",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0894.mp3"
+  },
+  {
+    "id": "es-04-0895",
+    "sentence": "La vibración del refrigerador hace chocar las botellas contra la puerta por las noches.",
+    "cloze": "hace chocar",
+    "answer": "hace chocar",
+    "lemma": "hacer chocar",
+    "meaning": "makes the bottles knock against the door",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0895.mp3"
+  },
+  {
+    "id": "es-04-0896",
+    "sentence": "El sistema anterior dejaba guardar un borrador antes de completar todos los campos.",
+    "cloze": "dejaba guardar",
+    "answer": "dejaba guardar",
+    "lemma": "dejar guardar",
+    "meaning": "allowed a draft to be saved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0896.mp3"
+  },
+  {
+    "id": "es-04-0897",
+    "sentence": "El comité hizo imprimir una versión con letra grande para la sesión de mañana.",
+    "cloze": "hizo imprimir",
+    "answer": "hizo imprimir",
+    "lemma": "hacer imprimir",
+    "meaning": "had a large-print version printed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0897.mp3"
+  },
+  {
+    "id": "es-04-0898",
+    "sentence": "Cuando anunciaron la visita, el administrador ya había mandado a limpiar las cortinas.",
+    "cloze": "mandado a limpiar",
+    "answer": "mandado a limpiar",
+    "lemma": "mandar a limpiar",
+    "meaning": "sent the curtains out for cleaning",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0898.mp3"
+  },
+  {
+    "id": "es-04-0899",
+    "sentence": "Antes de inaugurar la muestra, el museo hará reforzar los soportes de las piezas más pesadas.",
+    "cloze": "hará reforzar",
+    "answer": "hará reforzar",
+    "lemma": "hacer reforzar",
+    "meaning": "will have the supports reinforced",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0899.mp3"
+  },
+  {
+    "id": "es-04-0900",
+    "sentence": "Con esa autorización, la directora dejaría entrar al personal al depósito para consultar los expedientes.",
+    "cloze": "dejaría entrar",
+    "answer": "dejaría entrar",
+    "lemma": "dejar entrar",
+    "meaning": "would let the staff enter",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0900.mp3"
+  },
+  {
+    "id": "es-04-0901",
+    "sentence": "Tomás olvidó su gafete, así que la supervisora lo hizo volver a recepción por uno provisional.",
+    "cloze": "lo hizo volver",
+    "answer": "lo hizo volver",
+    "lemma": "hacer volver",
+    "meaning": "made him go back",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0901.mp3"
+  },
+  {
+    "id": "es-04-0902",
+    "sentence": "Tras la mudanza, los dueños hicieron cambiar las chapas de la entrada principal.",
+    "cloze": "hicieron cambiar",
+    "answer": "hicieron cambiar",
+    "lemma": "hacer cambiar",
+    "meaning": "had the locks changed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0902.mp3"
+  },
+  {
+    "id": "es-04-0903",
+    "sentence": "El espacio adicional ha dejado avanzar el montaje sin mover las piezas ya colocadas.",
+    "cloze": "ha dejado avanzar",
+    "answer": "ha dejado avanzar",
+    "lemma": "dejar avanzar",
+    "meaning": "has allowed the setup to progress",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0903.mp3"
+  },
+  {
+    "id": "es-04-0904",
+    "sentence": "Tras reemplazar el cable, el técnico puso a funcionar el monitor sin borrar la configuración guardada.",
+    "cloze": "puso a funcionar",
+    "answer": "puso a funcionar",
+    "lemma": "poner a funcionar",
+    "meaning": "got the monitor working",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0904.mp3"
+  },
+  {
+    "id": "es-04-0905",
+    "sentence": "Un contacto suelto hizo sonar la alarma aunque no había humo en el salón.",
+    "cloze": "hizo sonar",
+    "answer": "hizo sonar",
+    "lemma": "hacer sonar",
+    "meaning": "made the alarm sound",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0905.mp3"
+  },
+  {
+    "id": "es-04-0906",
+    "sentence": "Después de revisar el plano con el equipo técnico, los organizadores dejaron colocar las bocinas junto al escenario.",
+    "cloze": "dejaron colocar",
+    "answer": "dejaron colocar",
+    "lemma": "dejar colocar",
+    "meaning": "allowed the speakers to be placed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0906.mp3"
+  },
+  {
+    "id": "es-04-0907",
+    "sentence": "El centro hará trasladar los archivos a una sala con mejor ventilación durante la remodelación.",
+    "cloze": "hará trasladar",
+    "answer": "hará trasladar",
+    "lemma": "hacer trasladar",
+    "meaning": "will have the files moved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0907.mp3"
+  },
+  {
+    "id": "es-04-0908",
+    "sentence": "La supervisora dejará salir al equipo en cuanto termine el inventario.",
+    "cloze": "dejará salir",
+    "answer": "dejará salir",
+    "lemma": "dejar salir",
+    "meaning": "will let the team leave",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0908.mp3"
+  },
+  {
+    "id": "es-04-0909",
+    "sentence": "El personal puso a secar los paneles en un patio cubierto después de limpiarlos.",
+    "cloze": "puso a secar",
+    "answer": "puso a secar",
+    "lemma": "poner a secar",
+    "meaning": "set the panels out to dry",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0909.mp3"
+  },
+  {
+    "id": "es-04-0910",
+    "sentence": "Para conservar la fachada original, hicimos restaurar las puertas en lugar de reemplazarlas.",
+    "cloze": "hicimos restaurar",
+    "answer": "hicimos restaurar",
+    "lemma": "hacer restaurar",
+    "meaning": "we had the doors restored",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0910.mp3"
+  },
+  {
+    "id": "es-04-0911",
+    "sentence": "Dos asistentes omitieron partidas ya aprobadas, así que la supervisora les hizo rehacer el cuadro de costos.",
+    "cloze": "les hizo rehacer",
+    "answer": "les hizo rehacer",
+    "lemma": "hacer rehacer",
+    "meaning": "made them redo",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0911.mp3"
+  },
+  {
+    "id": "es-04-0912",
+    "sentence": "La coordinadora dejó terminar la grabación antes de pedir una toma más breve.",
+    "cloze": "dejó terminar",
+    "answer": "dejó terminar",
+    "lemma": "dejar terminar",
+    "meaning": "let the recording finish",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0912.mp3"
+  },
+  {
+    "id": "es-04-0913",
+    "sentence": "La coordinadora hizo actualizar la lista después de recibir tres cancelaciones.",
+    "cloze": "hizo actualizar",
+    "answer": "hizo actualizar",
+    "lemma": "hacer actualizar",
+    "meaning": "had the list updated",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0913.mp3"
+  },
+  {
+    "id": "es-04-0914",
+    "sentence": "La coordinadora pondrá a trabajar a dos asistentes en el registro mientras el resto prepara la sala.",
+    "cloze": "pondrá a trabajar",
+    "answer": "pondrá a trabajar",
+    "lemma": "poner a trabajar",
+    "meaning": "will put two assistants to work",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0914.mp3"
+  },
+  {
+    "id": "es-04-0915",
+    "sentence": "El proveedor hará medir el espacio antes de fabricar el mostrador.",
+    "cloze": "hará medir",
+    "answer": "hará medir",
+    "lemma": "hacer medir",
+    "meaning": "will have the space measured",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0915.mp3"
+  },
+  {
+    "id": "es-04-0916",
+    "sentence": "El editor trabaja con una versión de prueba que deja decidir el orden de las secciones antes de publicar.",
+    "cloze": "deja decidir",
+    "answer": "deja decidir",
+    "lemma": "dejar decidir",
+    "meaning": "allows the order to be chosen",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0916.mp3"
+  },
+  {
+    "id": "es-04-0917",
+    "sentence": "El encargado puso a cargar las baterías en cuanto recibió el equipo audiovisual.",
+    "cloze": "puso a cargar",
+    "answer": "puso a cargar",
+    "lemma": "poner a cargar",
+    "meaning": "put the batteries on to charge",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0917.mp3"
+  },
+  {
+    "id": "es-04-0918",
+    "sentence": "El volumen excesivo hizo vibrar las ventanas del auditorio durante la prueba de sonido.",
+    "cloze": "hizo vibrar",
+    "answer": "hizo vibrar",
+    "lemma": "hacer vibrar",
+    "meaning": "made the windows vibrate",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0918.mp3"
+  },
+  {
+    "id": "es-04-0919",
+    "sentence": "Los organizadores dejaron circular a los asistentes por el jardín mientras preparaban el salón.",
+    "cloze": "dejaron circular",
+    "answer": "dejaron circular",
+    "lemma": "dejar circular",
+    "meaning": "allowed the attendees to move around",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0919.mp3"
+  },
+  {
+    "id": "es-04-0920",
+    "sentence": "El olor a quemado hizo salir al personal del taller mientras revisaban la instalación.",
+    "cloze": "hizo salir",
+    "answer": "hizo salir",
+    "lemma": "hacer salir",
+    "meaning": "made the workshop staff leave",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0920.mp3"
+  },
+  {
+    "id": "es-04-0921",
+    "sentence": "El recibo llegó borroso, pero lo escaneé de nuevo antes de adjuntarlo al reclamo.",
+    "cloze": "lo escaneé",
+    "answer": "lo escaneé",
+    "lemma": "escanearlo",
+    "meaning": "I scanned it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0921.mp3"
+  },
+  {
+    "id": "es-04-0922",
+    "sentence": "Marina no encontraba el enlace de acceso, así que le reenvié uno nuevo por mensaje.",
+    "cloze": "le reenvié",
+    "answer": "le reenvié",
+    "lemma": "reenviarle",
+    "meaning": "I forwarded it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0922.mp3"
+  },
+  {
+    "id": "es-04-0923",
+    "sentence": "A los vecinos del edificio les avisaremos cuando vuelva a funcionar el elevador.",
+    "cloze": "les avisaremos",
+    "answer": "les avisaremos",
+    "lemma": "avisarles",
+    "meaning": "we will let them know",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0923.mp3"
+  },
+  {
+    "id": "es-04-0924",
+    "sentence": "Las fotos quedaron oscuras; por eso las repetiré mañana con luz natural.",
+    "cloze": "las repetiré",
+    "answer": "las repetiré",
+    "lemma": "repetirlas",
+    "meaning": "I will retake them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0924.mp3"
+  },
+  {
+    "id": "es-04-0925",
+    "sentence": "El técnico pidió el número de serie y le dicté los datos despacio.",
+    "cloze": "le dicté",
+    "answer": "le dicté",
+    "lemma": "dictarle",
+    "meaning": "I dictated the details to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0925.mp3"
+  },
+  {
+    "id": "es-04-0926",
+    "sentence": "Ese comprobante sí lo conservo, pero los recibos pequeños ya fueron desechados.",
+    "cloze": "lo conservo",
+    "answer": "lo conservo",
+    "lemma": "conservarlo",
+    "meaning": "I keep it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0926.mp3"
+  },
+  {
+    "id": "es-04-0927",
+    "sentence": "La cafetera dejó de calentar y la llevamos al taller antes de que venciera la garantía.",
+    "cloze": "la llevamos",
+    "answer": "la llevamos",
+    "lemma": "llevarla",
+    "meaning": "we took it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0927.mp3"
+  },
+  {
+    "id": "es-04-0928",
+    "sentence": "El huésped pidió una factura corregida y, cuando bajó a recepción, ya le habían emitido otra.",
+    "cloze": "le habían emitido",
+    "answer": "le habían emitido",
+    "lemma": "emitirle",
+    "meaning": "they had issued another one for him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0928.mp3"
+  },
+  {
+    "id": "es-04-0929",
+    "sentence": "A mi compañera le prestaría la tableta si la necesitara para su presentación.",
+    "cloze": "le prestaría",
+    "answer": "le prestaría",
+    "lemma": "prestarle",
+    "meaning": "I would lend it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0929.mp3"
+  },
+  {
+    "id": "es-04-0930",
+    "sentence": "El archivo pesaba demasiado, así que lo comprimimos antes del envío por correo.",
+    "cloze": "lo comprimimos",
+    "answer": "lo comprimimos",
+    "lemma": "comprimirlo",
+    "meaning": "we compressed it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0930.mp3"
+  },
+  {
+    "id": "es-04-0931",
+    "sentence": "Seguimos atendiendo el caso de la clienta y ya le hemos ofrecido una solución sin costo.",
+    "cloze": "le hemos ofrecido",
+    "answer": "le hemos ofrecido",
+    "lemma": "ofrecerle",
+    "meaning": "we have offered her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0931.mp3"
+  },
+  {
+    "id": "es-04-0932",
+    "sentence": "La propuesta incluía costos sin justificar, de modo que la rechazaron en la junta.",
+    "cloze": "la rechazaron",
+    "answer": "la rechazaron",
+    "lemma": "rechazarla",
+    "meaning": "they rejected it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0932.mp3"
+  },
+  {
+    "id": "es-04-0933",
+    "sentence": "Tomás olvidó su paraguas en la oficina y mañana le llevaré uno a la cafetería.",
+    "cloze": "le llevaré",
+    "answer": "le llevaré",
+    "lemma": "llevarle",
+    "meaning": "I will bring him one",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0933.mp3"
+  },
+  {
+    "id": "es-04-0934",
+    "sentence": "Al proveedor nuevo le explicamos por qué cambiaron las fechas de entrega.",
+    "cloze": "le explicamos",
+    "answer": "le explicamos",
+    "lemma": "explicarle",
+    "meaning": "we explained to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0934.mp3"
+  },
+  {
+    "id": "es-04-0935",
+    "sentence": "Cuando pidieron la póliza, por suerte ya la había localizado entre los documentos del coche.",
+    "cloze": "la había localizado",
+    "answer": "la había localizado",
+    "lemma": "localizarla",
+    "meaning": "I had located it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0935.mp3"
+  },
+  {
+    "id": "es-04-0936",
+    "sentence": "La coordinadora todavía no conoce el cambio, así que le confirmaré el horario por teléfono.",
+    "cloze": "le confirmaré",
+    "answer": "le confirmaré",
+    "lemma": "confirmarle",
+    "meaning": "I will confirm it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0936.mp3"
+  },
+  {
+    "id": "es-04-0937",
+    "sentence": "La reservación del hotel no la cancelo; solo quiero cambiar la fecha de llegada.",
+    "cloze": "la cancelo",
+    "answer": "la cancelo",
+    "lemma": "cancelarla",
+    "meaning": "I am canceling it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0937.mp3"
+  },
+  {
+    "id": "es-04-0938",
+    "sentence": "El paquete tenía una esquina rota, pero lo acepté porque el contenido estaba intacto.",
+    "cloze": "lo acepté",
+    "answer": "lo acepté",
+    "lemma": "aceptarlo",
+    "meaning": "I accepted it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0938.mp3"
+  },
+  {
+    "id": "es-04-0939",
+    "sentence": "Elena quería comparar los dos planes y le mostré una tabla con los costos mensuales.",
+    "cloze": "le mostré",
+    "answer": "le mostré",
+    "lemma": "mostrarle",
+    "meaning": "I showed her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0939.mp3"
+  },
+  {
+    "id": "es-04-0940",
+    "sentence": "A los participantes les proporcionan una hoja con los acuerdos al finalizar cada sesión.",
+    "cloze": "les proporcionan",
+    "answer": "les proporcionan",
+    "lemma": "proporcionarles",
+    "meaning": "they provide them with",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0940.mp3"
+  },
+  {
+    "id": "es-04-0941",
+    "sentence": "La licencia del programa vence hoy; la renovaré en cuanto tenga acceso al portal.",
+    "cloze": "la renovaré",
+    "answer": "la renovaré",
+    "lemma": "renovarla",
+    "meaning": "I will renew it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0941.mp3"
+  },
+  {
+    "id": "es-04-0942",
+    "sentence": "El mensajero no ubicaba la entrada de servicio, así que le describí el camino desde la avenida.",
+    "cloze": "le describí",
+    "answer": "le describí",
+    "lemma": "describirle",
+    "meaning": "I described the way to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0942.mp3"
+  },
+  {
+    "id": "es-04-0943",
+    "sentence": "Los boletos tenían la fecha equivocada y los cambiamos antes de salir de la taquilla.",
+    "cloze": "los cambiamos",
+    "answer": "los cambiamos",
+    "lemma": "cambiarlos",
+    "meaning": "we exchanged them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0943.mp3"
+  },
+  {
+    "id": "es-04-0944",
+    "sentence": "Nuestro vecino cuidó al perro durante el viaje y le trajimos un detalle de Oaxaca.",
+    "cloze": "le trajimos",
+    "answer": "le trajimos",
+    "lemma": "traerle",
+    "meaning": "we brought him a small gift",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0944.mp3"
+  },
+  {
+    "id": "es-04-0945",
+    "sentence": "Aunque cambió la tarifa, a la usuaria le habían respetado el precio mostrado al confirmar la compra.",
+    "cloze": "le habían respetado",
+    "answer": "le habían respetado",
+    "lemma": "respetarle",
+    "meaning": "they had honored the price for her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0945.mp3"
+  },
+  {
+    "id": "es-04-0946",
+    "sentence": "La silla se movía demasiado, así que la ajusté antes de que empezara la entrevista.",
+    "cloze": "la ajusté",
+    "answer": "la ajusté",
+    "lemma": "ajustarla",
+    "meaning": "I adjusted it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0946.mp3"
+  },
+  {
+    "id": "es-04-0947",
+    "sentence": "La editora pidió una versión más breve y le enviaré el resumen antes del mediodía.",
+    "cloze": "le enviaré",
+    "answer": "le enviaré",
+    "lemma": "enviarle",
+    "meaning": "I will send her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0947.mp3"
+  },
+  {
+    "id": "es-04-0948",
+    "sentence": "Esas cajas no las abriremos hasta que llegue la encargada del inventario.",
+    "cloze": "las abriremos",
+    "answer": "las abriremos",
+    "lemma": "abrirlas",
+    "meaning": "we will open them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0948.mp3"
+  },
+  {
+    "id": "es-04-0949",
+    "sentence": "La dirección estaba escrita a mano, así que la verifiqué antes de programar la entrega.",
+    "cloze": "la verifiqué",
+    "answer": "la verifiqué",
+    "lemma": "verificarla",
+    "meaning": "I verified it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0949.mp3"
+  },
+  {
+    "id": "es-04-0950",
+    "sentence": "Sergio se quedó sin monitor y le conseguimos uno prestado para terminar el reporte.",
+    "cloze": "le conseguimos",
+    "answer": "le conseguimos",
+    "lemma": "conseguirle",
+    "meaning": "we got him one",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0950.mp3"
+  },
+  {
+    "id": "es-04-0951",
+    "sentence": "A cada visitante le asignaremos un casillero para guardar sus pertenencias.",
+    "cloze": "le asignaremos",
+    "answer": "le asignaremos",
+    "lemma": "asignarle",
+    "meaning": "we will assign each visitor",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0951.mp3"
+  },
+  {
+    "id": "es-04-0952",
+    "sentence": "La mesa tenía una pata floja, pero la repararon antes de abrir el comedor.",
+    "cloze": "la repararon",
+    "answer": "la repararon",
+    "lemma": "repararla",
+    "meaning": "they repaired it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0952.mp3"
+  },
+  {
+    "id": "es-04-0953",
+    "sentence": "La profesora pidió ejemplos más claros y le preparé tres para la siguiente clase.",
+    "cloze": "le preparé",
+    "answer": "le preparé",
+    "lemma": "prepararle",
+    "meaning": "I prepared three for her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0953.mp3"
+  },
+  {
+    "id": "es-04-0954",
+    "sentence": "Los datos del formulario no coincidían, por lo que los confirmamos directamente con el solicitante.",
+    "cloze": "los confirmamos",
+    "answer": "los confirmamos",
+    "lemma": "confirmarlos",
+    "meaning": "we confirmed them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0954.mp3"
+  },
+  {
+    "id": "es-04-0955",
+    "sentence": "El dueño aceptó reparar la fuga y le pediremos una fecha por escrito.",
+    "cloze": "le pediremos",
+    "answer": "le pediremos",
+    "lemma": "pedirle",
+    "meaning": "we will ask him for",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0955.mp3"
+  },
+  {
+    "id": "es-04-0956",
+    "sentence": "A mis primas les habíamos guardado dos lugares juntos cerca del escenario.",
+    "cloze": "les habíamos guardado",
+    "answer": "les habíamos guardado",
+    "lemma": "guardarles",
+    "meaning": "we had saved them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0956.mp3"
+  },
+  {
+    "id": "es-04-0957",
+    "sentence": "El abrigo es demasiado grande; lo devolvería si no encontrara mi talla en otra sucursal.",
+    "cloze": "lo devolvería",
+    "answer": "lo devolvería",
+    "lemma": "devolverlo",
+    "meaning": "I would return it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0957.mp3"
+  },
+  {
+    "id": "es-04-0958",
+    "sentence": "La encargada resolvió todas nuestras dudas y le agradecimos su paciencia al despedirnos.",
+    "cloze": "le agradecimos",
+    "answer": "le agradecimos",
+    "lemma": "agradecerle",
+    "meaning": "we thanked her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0958.mp3"
+  },
+  {
+    "id": "es-04-0959",
+    "sentence": "A la asociación local le donaron varias computadoras que todavía funcionaban bien.",
+    "cloze": "le donaron",
+    "answer": "le donaron",
+    "lemma": "donarle",
+    "meaning": "they donated to it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0959.mp3"
+  },
+  {
+    "id": "es-04-0960",
+    "sentence": "El mensaje de voz sí lo escuché; el correo todavía está pendiente.",
+    "cloze": "lo escuché",
+    "answer": "lo escuché",
+    "lemma": "escucharlo",
+    "meaning": "I listened to it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0960.mp3"
+  },
+  {
+    "id": "es-04-0961",
+    "sentence": "El informe tenía un error, así que se lo regresé a Daniela.",
+    "cloze": "se lo regresé",
+    "answer": "se lo regresé",
+    "lemma": "regresar algo a alguien",
+    "meaning": "I returned it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0961.mp3"
+  },
+  {
+    "id": "es-04-0962",
+    "sentence": "Me sobraron dos pases para la exposición y te los aparté.",
+    "cloze": "te los aparté",
+    "answer": "te los aparté",
+    "lemma": "apartar algo para alguien",
+    "meaning": "I saved them for you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0962.mp3"
+  },
+  {
+    "id": "es-04-0963",
+    "sentence": "El taller cobró de más; reclamamos el excedente y nos lo reembolsaron el lunes.",
+    "cloze": "nos lo reembolsaron",
+    "answer": "nos lo reembolsaron",
+    "lemma": "reembolsar algo a alguien",
+    "meaning": "they refunded it to us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0963.mp3"
+  },
+  {
+    "id": "es-04-0964",
+    "sentence": "El comité pidió copias impresas y se las proporcionaremos al comenzar la sesión.",
+    "cloze": "se las proporcionaremos",
+    "answer": "se las proporcionaremos",
+    "lemma": "proporcionar algo a alguien",
+    "meaning": "we will provide them to the committee",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0964.mp3"
+  },
+  {
+    "id": "es-04-0965",
+    "sentence": "No entendía el cambio de andén, pero la empleada me lo explicó con calma.",
+    "cloze": "me lo explicó",
+    "answer": "me lo explicó",
+    "lemma": "explicar algo a alguien",
+    "meaning": "she explained it to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0965.mp3"
+  },
+  {
+    "id": "es-04-0966",
+    "sentence": "El cliente preguntó por las condiciones de la garantía y la asesora se las detalló sin tecnicismos.",
+    "cloze": "se las detalló",
+    "answer": "se las detalló",
+    "lemma": "detallar algo a alguien",
+    "meaning": "she explained them to him in detail",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0966.mp3"
+  },
+  {
+    "id": "es-04-0967",
+    "sentence": "Mario necesitaba un adaptador para la presentación, así que se lo presté.",
+    "cloze": "se lo presté",
+    "answer": "se lo presté",
+    "lemma": "prestar algo a alguien",
+    "meaning": "I lent it to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0967.mp3"
+  },
+  {
+    "id": "es-04-0968",
+    "sentence": "Estos gráficos resumen el sondeo y se los presentaremos a la directora en la reunión.",
+    "cloze": "se los presentaremos",
+    "answer": "se los presentaremos",
+    "lemma": "presentar algo a alguien",
+    "meaning": "we will present them to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0968.mp3"
+  },
+  {
+    "id": "es-04-0969",
+    "sentence": "—¿La arrendadora ya sabe que saldremos el viernes? —Sí, se lo confirmé ayer.",
+    "cloze": "se lo confirmé",
+    "answer": "se lo confirmé",
+    "lemma": "confirmar algo a alguien",
+    "meaning": "I confirmed it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0969.mp3"
+  },
+  {
+    "id": "es-04-0970",
+    "sentence": "No encontraba una extensión compatible, pero Laura me la consiguió en otra oficina.",
+    "cloze": "me la consiguió",
+    "answer": "me la consiguió",
+    "lemma": "conseguir algo para alguien",
+    "meaning": "she got it for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0970.mp3"
+  },
+  {
+    "id": "es-04-0971",
+    "sentence": "Necesitábamos dos copias selladas y la recepcionista nos las preparó en ese momento.",
+    "cloze": "nos las preparó",
+    "answer": "nos las preparó",
+    "lemma": "preparar algo para alguien",
+    "meaning": "she prepared them for us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0971.mp3"
+  },
+  {
+    "id": "es-04-0972",
+    "sentence": "A ustedes les faltaban las constancias, así que se las tramitamos esta mañana.",
+    "cloze": "se las tramitamos",
+    "answer": "se las tramitamos",
+    "lemma": "tramitar algo para alguien",
+    "meaning": "we processed them for you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0972.mp3"
+  },
+  {
+    "id": "es-04-0973",
+    "sentence": "La versión final ya está lista y pienso mandártela hoy por la tarde.",
+    "cloze": "mandártela",
+    "answer": "mandártela",
+    "lemma": "mandar algo a alguien",
+    "meaning": "send it to you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0973.mp3"
+  },
+  {
+    "id": "es-04-0974",
+    "sentence": "No tengo dónde dejar estas cajas; ¿podrías guardármelas hasta el domingo?",
+    "cloze": "guardármelas",
+    "answer": "guardármelas",
+    "lemma": "guardar algo para alguien",
+    "meaning": "keep them for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0974.mp3"
+  },
+  {
+    "id": "es-04-0975",
+    "sentence": "El huésped espera el comprobante y necesito entregárselo antes del mediodía.",
+    "cloze": "entregárselo",
+    "answer": "entregárselo",
+    "lemma": "entregar algo a alguien",
+    "meaning": "give it to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0975.mp3"
+  },
+  {
+    "id": "es-04-0976",
+    "sentence": "Los cambios afectan al cliente, así que conviene explicárselos antes de que firme.",
+    "cloze": "explicárselos",
+    "answer": "explicárselos",
+    "lemma": "explicar algo a alguien",
+    "meaning": "explain them to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0976.mp3"
+  },
+  {
+    "id": "es-04-0977",
+    "sentence": "No ubico nuestro edificio en el plano; ¿puedes marcármelo?",
+    "cloze": "marcármelo",
+    "answer": "marcármelo",
+    "lemma": "marcar algo a alguien",
+    "meaning": "mark it for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0977.mp3"
+  },
+  {
+    "id": "es-04-0978",
+    "sentence": "Las instrucciones son breves; permítame leérselas en voz alta.",
+    "cloze": "leérselas",
+    "answer": "leérselas",
+    "lemma": "leer algo a alguien",
+    "meaning": "read them to you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0978.mp3"
+  },
+  {
+    "id": "es-04-0979",
+    "sentence": "Tus documentos ya están impresos; paso a dejártelos en recepción.",
+    "cloze": "dejártelos",
+    "answer": "dejártelos",
+    "lemma": "dejar algo para alguien",
+    "meaning": "drop them off for you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0979.mp3"
+  },
+  {
+    "id": "es-04-0980",
+    "sentence": "Esta chamarra es de Paula y mañana espero devolvérsela.",
+    "cloze": "devolvérsela",
+    "answer": "devolvérsela",
+    "lemma": "devolver algo a alguien",
+    "meaning": "return it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0980.mp3"
+  },
+  {
+    "id": "es-04-0981",
+    "sentence": "Necesitamos las medidas exactas y voy a pedírselas al proveedor.",
+    "cloze": "pedírselas",
+    "answer": "pedírselas",
+    "lemma": "pedir algo a alguien",
+    "meaning": "ask him for them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0981.mp3"
+  },
+  {
+    "id": "es-04-0982",
+    "sentence": "Si no recuerdas la dirección del taller, puedo repetírtela.",
+    "cloze": "repetírtela",
+    "answer": "repetírtela",
+    "lemma": "repetir algo a alguien",
+    "meaning": "repeat it to you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0982.mp3"
+  },
+  {
+    "id": "es-04-0983",
+    "sentence": "Lucía no veía las tres correcciones, así que fui señalándoselas en la pantalla.",
+    "cloze": "señalándoselas",
+    "answer": "señalándoselas",
+    "lemma": "señalar algo a alguien",
+    "meaning": "pointing them out to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0983.mp3"
+  },
+  {
+    "id": "es-04-0984",
+    "sentence": "El cliente planteó varias preguntas y la asesora sigue respondiéndoselas por correo.",
+    "cloze": "respondiéndoselas",
+    "answer": "respondiéndoselas",
+    "lemma": "responder algo a alguien",
+    "meaning": "answering them for the client",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0984.mp3"
+  },
+  {
+    "id": "es-04-0985",
+    "sentence": "El procedimiento me parecía confuso, pero Diego estaba aclarándomelo con un ejemplo.",
+    "cloze": "aclarándomelo",
+    "answer": "aclarándomelo",
+    "lemma": "aclarar algo a alguien",
+    "meaning": "clarifying it for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0985.mp3"
+  },
+  {
+    "id": "es-04-0986",
+    "sentence": "Los folletos están en la mesa y la coordinadora va repartiéndoselos a los asistentes.",
+    "cloze": "repartiéndoselos",
+    "answer": "repartiéndoselos",
+    "lemma": "repartir algo a alguien",
+    "meaning": "handing them out to the attendees",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0986.mp3"
+  },
+  {
+    "id": "es-04-0987",
+    "sentence": "La aplicación muestra los desvíos y yo voy indicándotelos mientras caminamos.",
+    "cloze": "indicándotelos",
+    "answer": "indicándotelos",
+    "lemma": "indicar algo a alguien",
+    "meaning": "pointing them out to you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0987.mp3"
+  },
+  {
+    "id": "es-04-0988",
+    "sentence": "El catálogo incluye varios planes y la asesora está resumiéndomelos por teléfono.",
+    "cloze": "resumiéndomelos",
+    "answer": "resumiéndomelos",
+    "lemma": "resumir algo a alguien",
+    "meaning": "summarizing them for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0988.mp3"
+  },
+  {
+    "id": "es-04-0989",
+    "sentence": "Todavía faltan varias fotos y el fotógrafo sigue enviándonoslas por tandas.",
+    "cloze": "enviándonoslas",
+    "answer": "enviándonoslas",
+    "lemma": "enviar algo a alguien",
+    "meaning": "sending them to us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0989.mp3"
+  },
+  {
+    "id": "es-04-0990",
+    "sentence": "Elena no alcanzó a copiar las referencias, así que yo estaba dictándoselas cuando se cortó la llamada.",
+    "cloze": "dictándoselas",
+    "answer": "dictándoselas",
+    "lemma": "dictar algo a alguien",
+    "meaning": "dictating them to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0990.mp3"
+  },
+  {
+    "id": "es-04-0991",
+    "sentence": "Cuando termines el resumen, compártemelo para revisarlo.",
+    "cloze": "compártemelo",
+    "answer": "compártemelo",
+    "lemma": "compartir algo con alguien",
+    "meaning": "share it with me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0991.mp3"
+  },
+  {
+    "id": "es-04-0992",
+    "sentence": "Aquí está mi identificación; démela en cuanto capture los datos.",
+    "cloze": "démela",
+    "answer": "démela",
+    "lemma": "dar algo a alguien",
+    "meaning": "give it to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0992.mp3"
+  },
+  {
+    "id": "es-04-0993",
+    "sentence": "El supervisor no conoce el cambio de horario; comuníquenselo antes de la junta.",
+    "cloze": "comuníquenselo",
+    "answer": "comuníquenselo",
+    "lemma": "comunicar algo a alguien",
+    "meaning": "inform him of it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0993.mp3"
+  },
+  {
+    "id": "es-04-0994",
+    "sentence": "Estas llaves son de Omar; dáselas cuando pase por ellas.",
+    "cloze": "dáselas",
+    "answer": "dáselas",
+    "lemma": "dar algo a alguien",
+    "meaning": "give them to him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0994.mp3"
+  },
+  {
+    "id": "es-04-0995",
+    "sentence": "El número de seguimiento no aparece en mi recibo; anótemelo aquí, por favor.",
+    "cloze": "anótemelo",
+    "answer": "anótemelo",
+    "lemma": "anotar algo para alguien",
+    "meaning": "write it down for me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0995.mp3"
+  },
+  {
+    "id": "es-04-0996",
+    "sentence": "Ya tienen sus boletos; muéstrenselos a la guía antes de subir al autobús.",
+    "cloze": "muéstrenselos",
+    "answer": "muéstrenselos",
+    "lemma": "mostrar algo a alguien",
+    "meaning": "show them to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0996.mp3"
+  },
+  {
+    "id": "es-04-0997",
+    "sentence": "El archivo contiene datos personales; no se lo reenvíe a nadie.",
+    "cloze": "se lo reenvíe",
+    "answer": "se lo reenvíe",
+    "lemma": "reenviar algo a alguien",
+    "meaning": "forward it to anyone",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0997.mp3"
+  },
+  {
+    "id": "es-04-0998",
+    "sentence": "Estas fotos son provisionales; no se las enseñes al cliente todavía.",
+    "cloze": "se las enseñes",
+    "answer": "se las enseñes",
+    "lemma": "enseñar algo a alguien",
+    "meaning": "show them to the client",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0998.mp3"
+  },
+  {
+    "id": "es-04-0999",
+    "sentence": "Los paquetes todavía no están registrados; no se los den al mensajero.",
+    "cloze": "se los den",
+    "answer": "se los den",
+    "lemma": "dar algo a alguien",
+    "meaning": "give them to the courier",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-0999.mp3"
+  },
+  {
+    "id": "es-04-1000",
+    "sentence": "Si la clienta no reconoce el cargo, no se lo cobres hasta aclararlo.",
+    "cloze": "se lo cobres",
+    "answer": "se lo cobres",
+    "lemma": "cobrar algo a alguien",
+    "meaning": "charge her for it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1000.mp3"
   }
 ]
