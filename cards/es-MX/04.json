@@ -16141,5 +16141,1605 @@
     "meaning": "it may be",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1600.mp3"
+  },
+  {
+    "id": "es-04-1601",
+    "sentence": "Cuando dijiste «la última versión», ¿te referías al archivo corregido?",
+    "cloze": "te referías",
+    "answer": "te referías",
+    "lemma": "referirse",
+    "meaning": "were you referring",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1601.mp3"
+  },
+  {
+    "id": "es-04-1602",
+    "sentence": "El aviso menciona un «ajuste operativo»; ¿podría explicar a qué se refiere?",
+    "cloze": "a qué se refiere",
+    "answer": "a qué se refiere",
+    "lemma": "referirse",
+    "meaning": "what that refers to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1602.mp3"
+  },
+  {
+    "id": "es-04-1603",
+    "sentence": "La llamada se cortó justo cuando dio el total; ¿me repite cuánto debemos depositar?",
+    "cloze": "me repite",
+    "answer": "me repite",
+    "lemma": "repetir",
+    "meaning": "could you repeat",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1603.mp3"
+  },
+  {
+    "id": "es-04-1604",
+    "sentence": "Mencionó dos alternativas; ¿cuál tiene en mente para reducir el tiempo de espera?",
+    "cloze": "cuál tiene en mente",
+    "answer": "cuál tiene en mente",
+    "lemma": "tener en mente",
+    "meaning": "which one do you have in mind",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1604.mp3"
+  },
+  {
+    "id": "es-04-1605",
+    "sentence": "No alcancé a oír el porcentaje; ¿habló de quince o de cincuenta?",
+    "cloze": "habló de",
+    "answer": "habló de",
+    "lemma": "hablar de",
+    "meaning": "were you talking about",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1605.mp3"
+  },
+  {
+    "id": "es-04-1606",
+    "sentence": "La propuesta ofrece apoyo durante el montaje; ¿quieres decir que habrá personal disponible todo el día?",
+    "cloze": "quieres decir que",
+    "answer": "quieres decir que",
+    "lemma": "querer decir",
+    "meaning": "do you mean that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1606.mp3"
+  },
+  {
+    "id": "es-04-1607",
+    "sentence": "La asesoría adicional no está descrita; ¿en qué consistiría durante la primera semana?",
+    "cloze": "en qué consistiría",
+    "answer": "en qué consistiría",
+    "lemma": "consistir",
+    "meaning": "what would it consist of",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1607.mp3"
+  },
+  {
+    "id": "es-04-1608",
+    "sentence": "Dijiste que la opción es poco práctica; ¿lo dices por el costo o por el tiempo de instalación?",
+    "cloze": "lo dices por",
+    "answer": "lo dices por",
+    "lemma": "decir algo por",
+    "meaning": "are you saying that because of",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1608.mp3"
+  },
+  {
+    "id": "es-04-1609",
+    "sentence": "Entonces, ¿quedamos en que yo preparo la minuta y tú avisas al cliente?",
+    "cloze": "quedamos en que",
+    "answer": "quedamos en que",
+    "lemma": "quedar en que",
+    "meaning": "are we agreed that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1609.mp3"
+  },
+  {
+    "id": "es-04-1610",
+    "sentence": "Antes de terminar la llamada, ¿me confirma que la visita sigue programada para mañana?",
+    "cloze": "me confirma que",
+    "answer": "me confirma que",
+    "lemma": "confirmar",
+    "meaning": "can you confirm that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1610.mp3"
+  },
+  {
+    "id": "es-04-1611",
+    "sentence": "A ver si lo comprendí: el acceso se habilita hasta que se registre el pago.",
+    "cloze": "lo comprendí",
+    "answer": "lo comprendí",
+    "lemma": "comprender",
+    "meaning": "I understood it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1611.mp3"
+  },
+  {
+    "id": "es-04-1612",
+    "sentence": "La capacitación sigue en pie para el viernes, ¿verdad?",
+    "cloze": "sigue en pie",
+    "answer": "sigue en pie",
+    "lemma": "seguir en pie",
+    "meaning": "is still on",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1612.mp3"
+  },
+  {
+    "id": "es-04-1613",
+    "sentence": "Ya recibimos el comprobante; ¿damos por confirmado el anticipo?",
+    "cloze": "damos por confirmado",
+    "answer": "damos por confirmado",
+    "lemma": "dar por confirmado",
+    "meaning": "are we treating as confirmed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1613.mp3"
+  },
+  {
+    "id": "es-04-1614",
+    "sentence": "¿Entiendo bien que ustedes llevan el mobiliario y nosotros lo instalamos?",
+    "cloze": "Entiendo bien",
+    "answer": "Entiendo bien",
+    "lemma": "entender",
+    "meaning": "do I understand correctly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1614.mp3"
+  },
+  {
+    "id": "es-04-1615",
+    "sentence": "Antes de pagar, quisiera confirmar si el precio ya incluye los impuestos.",
+    "cloze": "quisiera confirmar",
+    "answer": "quisiera confirmar",
+    "lemma": "confirmar",
+    "meaning": "I would like to confirm",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1615.mp3"
+  },
+  {
+    "id": "es-04-1616",
+    "sentence": "Con estas dos correcciones, ¿podemos dar por buena la versión que se enviará?",
+    "cloze": "dar por buena",
+    "answer": "dar por buena",
+    "lemma": "dar por bueno",
+    "meaning": "regard as acceptable",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1616.mp3"
+  },
+  {
+    "id": "es-04-1617",
+    "sentence": "Me expliqué mal: la entrega es en recepción, no en la bodega.",
+    "cloze": "Me expliqué mal",
+    "answer": "Me expliqué mal",
+    "lemma": "explicarse mal",
+    "meaning": "I explained myself badly",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1617.mp3"
+  },
+  {
+    "id": "es-04-1618",
+    "sentence": "No quería decir que redujéramos el plazo, sino que repartiéramos mejor las tareas.",
+    "cloze": "No quería decir",
+    "answer": "No quería decir",
+    "lemma": "querer decir",
+    "meaning": "I did not mean",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1618.mp3"
+  },
+  {
+    "id": "es-04-1619",
+    "sentence": "Donde dije «junio», debí haber dicho «julio».",
+    "cloze": "debí haber dicho",
+    "answer": "debí haber dicho",
+    "lemma": "deber haber dicho",
+    "meaning": "I should have said",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1619.mp3"
+  },
+  {
+    "id": "es-04-1620",
+    "sentence": "Corrijo la cifra: el descuento es del doce por ciento, no del veinte.",
+    "cloze": "Corrijo la cifra",
+    "answer": "Corrijo la cifra",
+    "lemma": "corregir la cifra",
+    "meaning": "let me correct the figure",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1620.mp3"
+  },
+  {
+    "id": "es-04-1621",
+    "sentence": "Rectifico lo anterior: la reunión será híbrida, no completamente presencial.",
+    "cloze": "Rectifico lo anterior",
+    "answer": "Rectifico lo anterior",
+    "lemma": "rectificar lo anterior",
+    "meaning": "let me correct the previous statement",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1621.mp3"
+  },
+  {
+    "id": "es-04-1622",
+    "sentence": "Perdón, intercambié los nombres: Julia presenta el informe y Nora toma notas.",
+    "cloze": "intercambié los nombres",
+    "answer": "intercambié los nombres",
+    "lemma": "intercambiar los nombres",
+    "meaning": "I switched the names",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1622.mp3"
+  },
+  {
+    "id": "es-04-1623",
+    "sentence": "Tienes razón: confundí el orden; primero se valida el registro y después se procesa el pago.",
+    "cloze": "confundí el orden",
+    "answer": "confundí el orden",
+    "lemma": "confundir el orden",
+    "meaning": "I mixed up the order",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1623.mp3"
+  },
+  {
+    "id": "es-04-1624",
+    "sentence": "El aviso tiene un error: donde dice «sala ocho», debería decir «sala seis».",
+    "cloze": "debería decir",
+    "answer": "debería decir",
+    "lemma": "deber decir",
+    "meaning": "should say",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1624.mp3"
+  },
+  {
+    "id": "es-04-1625",
+    "sentence": "Perdón que te interrumpa, pero antes necesitamos saber quién autoriza el gasto.",
+    "cloze": "Perdón que te interrumpa",
+    "answer": "Perdón que te interrumpa",
+    "lemma": "interrumpir",
+    "meaning": "sorry to interrupt you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1625.mp3"
+  },
+  {
+    "id": "es-04-1626",
+    "sentence": "Si me permite intervenir un momento, todavía falta revisar la condición de la garantía.",
+    "cloze": "me permite intervenir",
+    "answer": "me permite intervenir",
+    "lemma": "permitir intervenir",
+    "meaning": "allow me to intervene",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1626.mp3"
+  },
+  {
+    "id": "es-04-1627",
+    "sentence": "Permítanme hacer una pausa: antes de pasar al presupuesto, falta aclarar una cifra.",
+    "cloze": "Permítanme",
+    "answer": "Permítanme",
+    "lemma": "permitir",
+    "meaning": "allow me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1627.mp3"
+  },
+  {
+    "id": "es-04-1628",
+    "sentence": "Antes de cerrar este punto, quisiera retomar la pregunta sobre el plazo de entrega.",
+    "cloze": "quisiera retomar",
+    "answer": "quisiera retomar",
+    "lemma": "retomar",
+    "meaning": "I would like to return to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1628.mp3"
+  },
+  {
+    "id": "es-04-1629",
+    "sentence": "Sigue, por favor; mi comentario puede esperar hasta que termines.",
+    "cloze": "Sigue, por favor",
+    "answer": "Sigue, por favor",
+    "lemma": "seguir",
+    "meaning": "go ahead, please",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1629.mp3"
+  },
+  {
+    "id": "es-04-1630",
+    "sentence": "Termina tu idea y después revisamos mi pregunta.",
+    "cloze": "Termina tu idea",
+    "answer": "Termina tu idea",
+    "lemma": "terminar una idea",
+    "meaning": "finish your thought",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1630.mp3"
+  },
+  {
+    "id": "es-04-1631",
+    "sentence": "Adelante, la escuchamos; dejaremos las preguntas para el final.",
+    "cloze": "la escuchamos",
+    "answer": "la escuchamos",
+    "lemma": "escuchar",
+    "meaning": "we are listening to you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1631.mp3"
+  },
+  {
+    "id": "es-04-1632",
+    "sentence": "Tiene la palabra; nosotros anotaremos las preguntas para comentarlas al final.",
+    "cloze": "Tiene la palabra",
+    "answer": "Tiene la palabra",
+    "lemma": "tener la palabra",
+    "meaning": "you have the floor",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1632.mp3"
+  },
+  {
+    "id": "es-04-1633",
+    "sentence": "Aunque las dos áreas tienen prioridades distintas, coinciden en mantener una revisión final.",
+    "cloze": "coinciden en",
+    "answer": "coinciden en",
+    "lemma": "coincidir en",
+    "meaning": "agree on",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1633.mp3"
+  },
+  {
+    "id": "es-04-1634",
+    "sentence": "Ambas partes comparten la preocupación por evitar retrasos en la entrega.",
+    "cloze": "comparten la preocupación por",
+    "answer": "comparten la preocupación por",
+    "lemma": "compartir la preocupación por",
+    "meaning": "share the concern about",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1634.mp3"
+  },
+  {
+    "id": "es-04-1635",
+    "sentence": "Podríamos tomar como punto de partida el plazo que ninguna parte quiere rebasar.",
+    "cloze": "tomar como punto de partida",
+    "answer": "tomar como punto de partida",
+    "lemma": "tomar como punto de partida",
+    "meaning": "use as a starting point",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1635.mp3"
+  },
+  {
+    "id": "es-04-1636",
+    "sentence": "Para acercar posturas, propongo conservar la fecha y reducir la cantidad inicial.",
+    "cloze": "acercar posturas",
+    "answer": "acercar posturas",
+    "lemma": "acercar posturas",
+    "meaning": "bring positions closer together",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1636.mp3"
+  },
+  {
+    "id": "es-04-1637",
+    "sentence": "Como ambos equipos aceptan ajustar el calendario, hay margen para conciliar sus propuestas.",
+    "cloze": "hay margen para",
+    "answer": "hay margen para",
+    "lemma": "haber margen para",
+    "meaning": "there is room to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1637.mp3"
+  },
+  {
+    "id": "es-04-1638",
+    "sentence": "Esta alternativa recoge ambas posturas: mantiene el precio y amplía el periodo de soporte.",
+    "cloze": "recoge ambas posturas",
+    "answer": "recoge ambas posturas",
+    "lemma": "recoger ambas posturas",
+    "meaning": "incorporates both positions",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1638.mp3"
+  },
+  {
+    "id": "es-04-1639",
+    "sentence": "Para destrabar la conversación, conviene separar los temas: primero el calendario y después el costo.",
+    "cloze": "separar los temas",
+    "answer": "separar los temas",
+    "lemma": "separar los temas",
+    "meaning": "separate the issues",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1639.mp3"
+  },
+  {
+    "id": "es-04-1640",
+    "sentence": "Si una parte ajusta la fecha y la otra el volumen, podemos buscar un punto medio.",
+    "cloze": "buscar un punto medio",
+    "answer": "buscar un punto medio",
+    "lemma": "buscar un punto medio",
+    "meaning": "find a middle ground",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1640.mp3"
+  },
+  {
+    "id": "es-04-1641",
+    "sentence": "En la entrevista, la bibliotecaria sintetizó su propuesta en una idea: ampliar el horario sin reducir el personal.",
+    "cloze": "sintetizó",
+    "answer": "sintetizó",
+    "lemma": "sintetizar",
+    "meaning": "summarized",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1641.mp3"
+  },
+  {
+    "id": "es-04-1642",
+    "sentence": "En pocas palabras, la conferencista explicó que aprender en equipo exige repartir tanto las tareas como las decisiones.",
+    "cloze": "En pocas palabras",
+    "answer": "En pocas palabras",
+    "lemma": "en pocas palabras",
+    "meaning": "in a few words",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1642.mp3"
+  },
+  {
+    "id": "es-04-1643",
+    "sentence": "El promotor cultural se centró en cómo acercar los talleres a colonias con poca oferta, pero admitió que el presupuesto era reducido.",
+    "cloze": "se centró en",
+    "answer": "se centró en",
+    "lemma": "centrarse en",
+    "meaning": "focused on",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1643.mp3"
+  },
+  {
+    "id": "es-04-1644",
+    "sentence": "Durante la charla, la especialista recalcó que acompañar a los alumnos implica orientarlos sin vigilarlos todo el tiempo.",
+    "cloze": "recalcó",
+    "answer": "recalcó",
+    "lemma": "recalcar",
+    "meaning": "emphasized",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1644.mp3"
+  },
+  {
+    "id": "es-04-1645",
+    "sentence": "El voluntario describió su labor y la definió como escuchar primero sin decidir por los demás.",
+    "cloze": "la definió como",
+    "answer": "la definió como",
+    "lemma": "definir como",
+    "meaning": "defined it as",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1645.mp3"
+  },
+  {
+    "id": "es-04-1646",
+    "sentence": "Según la ponente, cuidar un huerto urbano consiste en compartir herramientas y usar el agua con responsabilidad.",
+    "cloze": "consiste en",
+    "answer": "consiste en",
+    "lemma": "consistir en",
+    "meaning": "consists of",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1646.mp3"
+  },
+  {
+    "id": "es-04-1647",
+    "sentence": "Al final de la plática, el especialista concluyó que las pausas breves ayudan a sostener la atención, pero no eliminan la fatiga.",
+    "cloze": "concluyó que",
+    "answer": "concluyó que",
+    "lemma": "concluir que",
+    "meaning": "concluded that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1647.mp3"
+  },
+  {
+    "id": "es-04-1648",
+    "sentence": "Sobre la charla de la guía, la idea principal es que una visita breve también puede ser significativa.",
+    "cloze": "la idea principal es que",
+    "answer": "la idea principal es que",
+    "lemma": "la idea principal es que",
+    "meaning": "the main idea is that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1648.mp3"
+  },
+  {
+    "id": "es-04-1649",
+    "sentence": "El capacitador puso el acento en practicar con casos reales, sin dejar de explicar los principios básicos.",
+    "cloze": "puso el acento en",
+    "answer": "puso el acento en",
+    "lemma": "poner el acento en",
+    "meaning": "emphasized",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1649.mp3"
+  },
+  {
+    "id": "es-04-1650",
+    "sentence": "La conductora de radio cerró con un llamado a verificar los datos antes de compartir una noticia.",
+    "cloze": "un llamado a",
+    "answer": "un llamado a",
+    "lemma": "un llamado a",
+    "meaning": "a call to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1650.mp3"
+  },
+  {
+    "id": "es-04-1651",
+    "sentence": "El artículo registra una reducción de basura y la atribuye a que más vecinos separan sus residuos desde casa.",
+    "cloze": "la atribuye a",
+    "answer": "la atribuye a",
+    "lemma": "atribuir a",
+    "meaning": "attributes it to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1651.mp3"
+  },
+  {
+    "id": "es-04-1652",
+    "sentence": "El aviso público deja claro que la biblioteca seguirá abierta durante las obras, aunque algunas salas cerrarán por turnos.",
+    "cloze": "deja claro que",
+    "answer": "deja claro que",
+    "lemma": "dejar claro que",
+    "meaning": "makes it clear that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1652.mp3"
+  },
+  {
+    "id": "es-04-1653",
+    "sentence": "El texto contrasta el acceso presencial con la atención remota y señala qué trámites todavía requieren cita.",
+    "cloze": "contrasta",
+    "answer": "contrasta",
+    "lemma": "contrastar",
+    "meaning": "contrasts",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1653.mp3"
+  },
+  {
+    "id": "es-04-1654",
+    "sentence": "La ficha informativa resume el cambio en dos tardes adicionales de servicio por semana.",
+    "cloze": "resume",
+    "answer": "resume",
+    "lemma": "resumir",
+    "meaning": "summarizes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1654.mp3"
+  },
+  {
+    "id": "es-04-1655",
+    "sentence": "El texto señala que el análisis se limita a un periodo breve, por lo que el resultado aún es provisional.",
+    "cloze": "se limita a",
+    "answer": "se limita a",
+    "lemma": "limitarse a",
+    "meaning": "is limited to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1655.mp3"
+  },
+  {
+    "id": "es-04-1656",
+    "sentence": "El comunicado no abarca los cierres ocasionados por mantenimiento urgente.",
+    "cloze": "no abarca",
+    "answer": "no abarca",
+    "lemma": "no abarcar",
+    "meaning": "does not cover",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1656.mp3"
+  },
+  {
+    "id": "es-04-1657",
+    "sentence": "La nota califica de gradual la recuperación de las áreas verdes después de la temporada seca.",
+    "cloze": "califica de gradual",
+    "answer": "califica de gradual",
+    "lemma": "calificar de",
+    "meaning": "describes as gradual",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1657.mp3"
+  },
+  {
+    "id": "es-04-1658",
+    "sentence": "La página de información especifica cuáles de los trámites requieren cita y cuáles pueden hacerse en línea.",
+    "cloze": "especifica cuáles",
+    "answer": "especifica cuáles",
+    "lemma": "especificar cuál",
+    "meaning": "specifies which",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1658.mp3"
+  },
+  {
+    "id": "es-04-1659",
+    "sentence": "La reseña reconoce la claridad del recorrido, pero sostiene que la señalización deja mucho que desear.",
+    "cloze": "deja mucho que desear",
+    "answer": "deja mucho que desear",
+    "lemma": "dejar mucho que desear",
+    "meaning": "leaves much to be desired",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1659.mp3"
+  },
+  {
+    "id": "es-04-1660",
+    "sentence": "Según el crítico, la obra sobresale por las actuaciones, aunque su ritmo es irregular.",
+    "cloze": "sobresale por",
+    "answer": "sobresale por",
+    "lemma": "sobresalir por",
+    "meaning": "stands out for",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1660.mp3"
+  },
+  {
+    "id": "es-04-1661",
+    "sentence": "La reseñista celebra que la exposición dé contexto sin saturar de datos cada sala.",
+    "cloze": "dé contexto",
+    "answer": "dé contexto",
+    "lemma": "dar contexto",
+    "meaning": "provides context",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1661.mp3"
+  },
+  {
+    "id": "es-04-1662",
+    "sentence": "El comentario elogia los testimonios variados del documental, pero señala que no profundiza en las causas.",
+    "cloze": "no profundiza en",
+    "answer": "no profundiza en",
+    "lemma": "no profundizar en",
+    "meaning": "does not explore in depth",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1662.mp3"
+  },
+  {
+    "id": "es-04-1663",
+    "sentence": "Según la reseña, el principal acierto de la novela está en la forma en que construye a sus personajes.",
+    "cloze": "el principal acierto",
+    "answer": "el principal acierto",
+    "lemma": "principal acierto",
+    "meaning": "the main strength",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1663.mp3"
+  },
+  {
+    "id": "es-04-1664",
+    "sentence": "De acuerdo con la crítica, la propuesta visual resulta convincente, pero el final es demasiado predecible.",
+    "cloze": "resulta convincente",
+    "answer": "resulta convincente",
+    "lemma": "resultar convincente",
+    "meaning": "is convincing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1664.mp3"
+  },
+  {
+    "id": "es-04-1665",
+    "sentence": "La autora de la reseña lo recomienda por sus ejemplos claros, aunque advierte que exige práctica previa.",
+    "cloze": "lo recomienda por",
+    "answer": "lo recomienda por",
+    "lemma": "recomendar por",
+    "meaning": "recommends it for",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1665.mp3"
+  },
+  {
+    "id": "es-04-1666",
+    "sentence": "La reseña recomienda la serie con reservas porque el cierre deja varios conflictos sin desarrollar.",
+    "cloze": "con reservas",
+    "answer": "con reservas",
+    "lemma": "con reservas",
+    "meaning": "with reservations",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1666.mp3"
+  },
+  {
+    "id": "es-04-1667",
+    "sentence": "En términos prácticos, el reporte indica que la nueva ruta reduce un transbordo, pero no el tiempo total de viaje.",
+    "cloze": "En términos prácticos",
+    "answer": "En términos prácticos",
+    "lemma": "en términos prácticos",
+    "meaning": "in practical terms",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1667.mp3"
+  },
+  {
+    "id": "es-04-1668",
+    "sentence": "Dicho sencillamente, el informe concluye que las solicitudes se atienden ahora en una sola ventanilla.",
+    "cloze": "Dicho sencillamente",
+    "answer": "Dicho sencillamente",
+    "lemma": "dicho sencillamente",
+    "meaning": "put simply",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1668.mp3"
+  },
+  {
+    "id": "es-04-1669",
+    "sentence": "El aumento registrado equivale a treinta lugares adicionales por semana, según el reporte del centro comunitario.",
+    "cloze": "equivale a",
+    "answer": "equivale a",
+    "lemma": "equivaler a",
+    "meaning": "amounts to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1669.mp3"
+  },
+  {
+    "id": "es-04-1670",
+    "sentence": "La reducción de visitas presenciales se traduce en menos traslados, aunque no en menos consultas.",
+    "cloze": "se traduce en",
+    "answer": "se traduce en",
+    "lemma": "traducirse en",
+    "meaning": "translates into",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1670.mp3"
+  },
+  {
+    "id": "es-04-1671",
+    "sentence": "El reporte replantea el cambio como una reorganización de horarios y no como un recorte del servicio.",
+    "cloze": "replantea",
+    "answer": "replantea",
+    "lemma": "replantear",
+    "meaning": "reframes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1671.mp3"
+  },
+  {
+    "id": "es-04-1672",
+    "sentence": "La diferencia observada representa dos horas menos de espera por usuario en promedio.",
+    "cloze": "representa",
+    "answer": "representa",
+    "lemma": "representar",
+    "meaning": "amounts to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1672.mp3"
+  },
+  {
+    "id": "es-04-1673",
+    "sentence": "El hallazgo principal puede resumirse así: más personas terminaron el curso, aunque tardaron más semanas.",
+    "cloze": "puede resumirse así",
+    "answer": "puede resumirse así",
+    "lemma": "poder resumirse así",
+    "meaning": "can be summarized as follows",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1673.mp3"
+  },
+  {
+    "id": "es-04-1674",
+    "sentence": "El reporte no presenta el ahorro como porcentaje, sino que lo expresa en minutos por usuario.",
+    "cloze": "lo expresa en minutos",
+    "answer": "lo expresa en minutos",
+    "lemma": "expresar en minutos",
+    "meaning": "expresses it in minutes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1674.mp3"
+  },
+  {
+    "id": "es-04-1675",
+    "sentence": "El informe confirma una baja en las visitas, pero esto no significa que el nuevo horario sea la causa.",
+    "cloze": "esto no significa que",
+    "answer": "esto no significa que",
+    "lemma": "esto no significa que",
+    "meaning": "this does not mean that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1675.mp3"
+  },
+  {
+    "id": "es-04-1676",
+    "sentence": "La entrevista solo menciona cansancio entre los docentes; yo lo interpreté como rechazo al programa.",
+    "cloze": "lo interpreté como",
+    "answer": "lo interpreté como",
+    "lemma": "interpretar como",
+    "meaning": "interpreted it as",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1676.mp3"
+  },
+  {
+    "id": "es-04-1677",
+    "sentence": "La nota solo habla de una prueba de tres meses; suponer que será permanente es una interpretación personal.",
+    "cloze": "una interpretación personal",
+    "answer": "una interpretación personal",
+    "lemma": "interpretación personal",
+    "meaning": "a personal interpretation",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1677.mp3"
+  },
+  {
+    "id": "es-04-1678",
+    "sentence": "El reporte describe dos hechos consecutivos, pero no demuestra que uno haya causado el otro.",
+    "cloze": "haya causado",
+    "answer": "haya causado",
+    "lemma": "causar",
+    "meaning": "caused",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1678.mp3"
+  },
+  {
+    "id": "es-04-1679",
+    "sentence": "La autora cita una mejora en la asistencia; concluir que el cambio funcionó en todos los grupos es una inferencia mía.",
+    "cloze": "una inferencia mía",
+    "answer": "una inferencia mía",
+    "lemma": "inferencia propia",
+    "meaning": "an inference of my own",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1679.mp3"
+  },
+  {
+    "id": "es-04-1680",
+    "sentence": "El aviso dice que el módulo cambiará de sede, no que vaya a desaparecer.",
+    "cloze": "vaya a desaparecer",
+    "answer": "vaya a desaparecer",
+    "lemma": "ir a desaparecer",
+    "meaning": "is going to disappear",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1680.mp3"
+  },
+  {
+    "id": "es-04-1681",
+    "sentence": "Para descansar, la habitación que da al patio es considerablemente más silenciosa que la que da a la avenida.",
+    "cloze": "considerablemente más silenciosa que",
+    "answer": "considerablemente más silenciosa que",
+    "lemma": "considerablemente más...que",
+    "meaning": "considerably quieter than",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1681.mp3"
+  },
+  {
+    "id": "es-04-1682",
+    "sentence": "Si van cuatro personas, rentar una cabaña no cuesta tanto como reservar dos cuartos.",
+    "cloze": "no cuesta tanto como",
+    "answer": "no cuesta tanto como",
+    "lemma": "no costar tanto como",
+    "meaning": "does not cost as much as",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1682.mp3"
+  },
+  {
+    "id": "es-04-1683",
+    "sentence": "El curso híbrido es casi igual de flexible que el grabado, pero permite hacer preguntas en vivo.",
+    "cloze": "es casi igual de flexible que",
+    "answer": "es casi igual de flexible que",
+    "lemma": "ser casi igual de...que",
+    "meaning": "is almost as flexible as",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1683.mp3"
+  },
+  {
+    "id": "es-04-1684",
+    "sentence": "La principal ventaja del tren frente al autobús es que puedes trabajar durante el trayecto.",
+    "cloze": "La principal ventaja",
+    "answer": "La principal ventaja",
+    "lemma": "la principal ventaja",
+    "meaning": "the main advantage",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1684.mp3"
+  },
+  {
+    "id": "es-04-1685",
+    "sentence": "La tableta pesa menos, aunque la computadora tiene mayor capacidad de almacenamiento.",
+    "cloze": "tiene mayor capacidad de",
+    "answer": "tiene mayor capacidad de",
+    "lemma": "tener mayor capacidad de",
+    "meaning": "has greater capacity for",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1685.mp3"
+  },
+  {
+    "id": "es-04-1686",
+    "sentence": "Para proyectar videos, el auditorio se presta mejor que el salón por la calidad de la pantalla.",
+    "cloze": "se presta mejor que",
+    "answer": "se presta mejor que",
+    "lemma": "prestarse mejor que",
+    "meaning": "is better suited than",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1686.mp3"
+  },
+  {
+    "id": "es-04-1687",
+    "sentence": "Por la noche, el vuelo con escala resulta menos conveniente que el directo, aunque sea más barato.",
+    "cloze": "resulta menos conveniente que",
+    "answer": "resulta menos conveniente que",
+    "lemma": "resultar menos conveniente que",
+    "meaning": "is less convenient than",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1687.mp3"
+  },
+  {
+    "id": "es-04-1688",
+    "sentence": "El teléfono reacondicionado cuesta lo mismo que el modelo nuevo, pero ofrece más almacenamiento y una garantía más corta.",
+    "cloze": "cuesta lo mismo que",
+    "answer": "cuesta lo mismo que",
+    "lemma": "costar lo mismo que",
+    "meaning": "costs the same as",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1688.mp3"
+  },
+  {
+    "id": "es-04-1689",
+    "sentence": "En espacio y equipo, ambos salones están bastante parejos, salvo por el acceso al elevador.",
+    "cloze": "están bastante parejos",
+    "answer": "están bastante parejos",
+    "lemma": "estar bastante parejo",
+    "meaning": "are fairly evenly matched",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1689.mp3"
+  },
+  {
+    "id": "es-04-1690",
+    "sentence": "El taller de seis semanas representa un punto medio entre el curso intensivo y el programa semestral.",
+    "cloze": "representa un punto medio entre",
+    "answer": "representa un punto medio entre",
+    "lemma": "representar un punto medio entre",
+    "meaning": "represents a middle ground between",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1690.mp3"
+  },
+  {
+    "id": "es-04-1691",
+    "sentence": "Si la prioridad es dormir bien, convendría elegir el cuarto interior, aunque no tenga balcón.",
+    "cloze": "convendría elegir",
+    "answer": "convendría elegir",
+    "lemma": "convenir elegir",
+    "meaning": "it would make sense to choose",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1691.mp3"
+  },
+  {
+    "id": "es-04-1692",
+    "sentence": "Para un viaje de solo dos días, te aconsejaría llevar la mochila en lugar de documentar una maleta.",
+    "cloze": "te aconsejaría llevar",
+    "answer": "te aconsejaría llevar",
+    "lemma": "aconsejar llevar",
+    "meaning": "I would advise you to take",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1692.mp3"
+  },
+  {
+    "id": "es-04-1693",
+    "sentence": "Si necesitas hacer preguntas, podrías optar por el taller en vivo, siempre que el horario te funcione.",
+    "cloze": "podrías optar por",
+    "answer": "podrías optar por",
+    "lemma": "poder optar por",
+    "meaning": "you could opt for",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1693.mp3"
+  },
+  {
+    "id": "es-04-1694",
+    "sentence": "Cuando el equipo vaya a crecer, sería preferible contratar el plan que permite agregar usuarios.",
+    "cloze": "sería preferible contratar",
+    "answer": "sería preferible contratar",
+    "lemma": "ser preferible contratar",
+    "meaning": "it would be preferable to purchase",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1694.mp3"
+  },
+  {
+    "id": "es-04-1695",
+    "sentence": "Si todavía no conoces la plataforma, te sugiero comparar primero las versiones gratuitas.",
+    "cloze": "te sugiero comparar",
+    "answer": "te sugiero comparar",
+    "lemma": "sugerir comparar",
+    "meaning": "I suggest comparing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1695.mp3"
+  },
+  {
+    "id": "es-04-1696",
+    "sentence": "Para una presentación breve, consideraría más prudente usar el proyector conocido que estrenar uno ese día.",
+    "cloze": "consideraría más prudente",
+    "answer": "consideraría más prudente",
+    "lemma": "considerar más prudente",
+    "meaning": "I would consider it more prudent",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1696.mp3"
+  },
+  {
+    "id": "es-04-1697",
+    "sentence": "Si vas a usar el transporte diario, te saldría más a cuenta comprar el pase semanal que pagar cada trayecto.",
+    "cloze": "te saldría más a cuenta",
+    "answer": "te saldría más a cuenta",
+    "lemma": "salir más a cuenta",
+    "meaning": "would be better value for you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1697.mp3"
+  },
+  {
+    "id": "es-04-1698",
+    "sentence": "Para evitar cables en el pasillo, sería sensato elegir bocinas inalámbricas, aunque cuestan más.",
+    "cloze": "sería sensato elegir",
+    "answer": "sería sensato elegir",
+    "lemma": "ser sensato elegir",
+    "meaning": "it would be sensible to choose",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1698.mp3"
+  },
+  {
+    "id": "es-04-1699",
+    "sentence": "Si solo editas documentos, tal vez te convenga el modelo básico y no el profesional.",
+    "cloze": "te convenga",
+    "answer": "te convenga",
+    "lemma": "convenir",
+    "meaning": "may suit you better",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1699.mp3"
+  },
+  {
+    "id": "es-04-1700",
+    "sentence": "Para un evento al aire libre, respaldaría esa sede únicamente si cuentan con una alternativa bajo techo.",
+    "cloze": "respaldaría",
+    "answer": "respaldaría",
+    "lemma": "respaldar",
+    "meaning": "I would endorse",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1700.mp3"
+  },
+  {
+    "id": "es-04-1701",
+    "sentence": "Es importante que compares la duración real de ambas baterías, no solo la capacidad anunciada.",
+    "cloze": "compares",
+    "answer": "compares",
+    "lemma": "comparar",
+    "meaning": "you compare",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1701.mp3"
+  },
+  {
+    "id": "es-04-1702",
+    "sentence": "Para elegir alojamiento, conviene que valoremos tanto el tiempo de traslado como el precio.",
+    "cloze": "valoremos",
+    "answer": "valoremos",
+    "lemma": "valorar",
+    "meaning": "we evaluate",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1702.mp3"
+  },
+  {
+    "id": "es-04-1703",
+    "sentence": "Si trabajas desde casa, recomendaría que priorizaras la luz natural sobre una sala más grande.",
+    "cloze": "priorizaras",
+    "answer": "priorizaras",
+    "lemma": "priorizar",
+    "meaning": "you prioritize",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1703.mp3"
+  },
+  {
+    "id": "es-04-1704",
+    "sentence": "Con ese presupuesto, es razonable que descartemos el paquete premium y comparemos los dos restantes.",
+    "cloze": "descartemos",
+    "answer": "descartemos",
+    "lemma": "descartar",
+    "meaning": "we rule out",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1704.mp3"
+  },
+  {
+    "id": "es-04-1705",
+    "sentence": "No aconsejo que sacrifiques la garantía por una diferencia pequeña de precio.",
+    "cloze": "sacrifiques",
+    "answer": "sacrifiques",
+    "lemma": "sacrificar",
+    "meaning": "you sacrifice",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1705.mp3"
+  },
+  {
+    "id": "es-04-1706",
+    "sentence": "Antes de decidir entre los dos teclados, preferiría que probaras cuál te resulta más cómodo.",
+    "cloze": "probaras",
+    "answer": "probaras",
+    "lemma": "probar",
+    "meaning": "you tried",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1706.mp3"
+  },
+  {
+    "id": "es-04-1707",
+    "sentence": "Aunque el salón grande impresione más, te sugiero que no subestimes el costo de acondicionarlo.",
+    "cloze": "no subestimes",
+    "answer": "no subestimes",
+    "lemma": "no subestimar",
+    "meaning": "do not underestimate",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1707.mp3"
+  },
+  {
+    "id": "es-04-1708",
+    "sentence": "Para un grupo con horarios variables, sería bueno que contemplaras también la modalidad grabada.",
+    "cloze": "contemplaras",
+    "answer": "contemplaras",
+    "lemma": "contemplar",
+    "meaning": "you also consider",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1708.mp3"
+  },
+  {
+    "id": "es-04-1709",
+    "sentence": "El autobús nocturno cuesta menos, pero implica el riesgo de llegar después de que cierre la recepción.",
+    "cloze": "implica el riesgo de",
+    "answer": "implica el riesgo de",
+    "lemma": "implicar el riesgo de",
+    "meaning": "entails the risk of",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1709.mp3"
+  },
+  {
+    "id": "es-04-1710",
+    "sentence": "Si compras el equipo sin garantía, corres el riesgo de pagar la reparación completa.",
+    "cloze": "corres el riesgo de",
+    "answer": "corres el riesgo de",
+    "lemma": "correr el riesgo de",
+    "meaning": "you run the risk of",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1710.mp3"
+  },
+  {
+    "id": "es-04-1711",
+    "sentence": "La renta mensual parece barata, aunque podría acabar costando más si agregas el seguro y la limpieza.",
+    "cloze": "podría acabar costando",
+    "answer": "podría acabar costando",
+    "lemma": "poder acabar costando",
+    "meaning": "could end up costing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1711.mp3"
+  },
+  {
+    "id": "es-04-1712",
+    "sentence": "El recinto alejado tiene estacionamiento, pero un cierre en la carretera te dejaría sin una ruta alternativa.",
+    "cloze": "te dejaría sin",
+    "answer": "te dejaría sin",
+    "lemma": "dejar sin",
+    "meaning": "would leave you without",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1712.mp3"
+  },
+  {
+    "id": "es-04-1713",
+    "sentence": "Aunque cueste menos, un vuelo con dos transbordos multiplica el riesgo de perder la conexión.",
+    "cloze": "multiplica el riesgo de",
+    "answer": "multiplica el riesgo de",
+    "lemma": "multiplicar el riesgo de",
+    "meaning": "multiplies the risk of",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1713.mp3"
+  },
+  {
+    "id": "es-04-1714",
+    "sentence": "Ahorrar en memoria puede obligarte a reemplazar todo el equipo más adelante.",
+    "cloze": "puede obligarte a",
+    "answer": "puede obligarte a",
+    "lemma": "poder obligar a",
+    "meaning": "may force you to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1714.mp3"
+  },
+  {
+    "id": "es-04-1715",
+    "sentence": "La terraza recibe más luz, con el inconveniente de que no protege del ruido de la calle.",
+    "cloze": "con el inconveniente de que",
+    "answer": "con el inconveniente de que",
+    "lemma": "con el inconveniente de que",
+    "meaning": "with the drawback that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1715.mp3"
+  },
+  {
+    "id": "es-04-1716",
+    "sentence": "La capacitación intensiva termina antes, pero lo hace a costa de reducir el tiempo de práctica.",
+    "cloze": "a costa de",
+    "answer": "a costa de",
+    "lemma": "a costa de",
+    "meaning": "at the expense of",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1716.mp3"
+  },
+  {
+    "id": "es-04-1717",
+    "sentence": "—El hotel céntrico rebasa nuestro presupuesto. —Tienes razón; reformularía mi recomendación y elegiría el de la estación, siempre que incluya desayuno.",
+    "cloze": "reformularía",
+    "answer": "reformularía",
+    "lemma": "reformular",
+    "meaning": "I would revise",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1717.mp3"
+  },
+  {
+    "id": "es-04-1718",
+    "sentence": "—La ruta corta tiene obras. —Entonces dejaría de recomendarla y tomaría la vía larga, aunque tardemos quince minutos más.",
+    "cloze": "dejaría de recomendarla",
+    "answer": "dejaría de recomendarla",
+    "lemma": "dejar de recomendar",
+    "meaning": "I would stop recommending it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1718.mp3"
+  },
+  {
+    "id": "es-04-1719",
+    "sentence": "—El curso en vivo coincide con mi horario de trabajo. —En ese caso, pasaría a recomendar el grabado, porque puedes avanzar a tu ritmo.",
+    "cloze": "pasaría a recomendar",
+    "answer": "pasaría a recomendar",
+    "lemma": "pasar a recomendar",
+    "meaning": "I would switch to recommending",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1719.mp3"
+  },
+  {
+    "id": "es-04-1720",
+    "sentence": "—El modelo ligero solo dura cuatro horas. —Con ese dato, reconsideraría la opción ligera y elegiría el pesado, salvo que necesites cargarlo todo el día.",
+    "cloze": "reconsideraría",
+    "answer": "reconsideraría",
+    "lemma": "reconsiderar",
+    "meaning": "I would reconsider",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1720.mp3"
+  },
+  {
+    "id": "es-04-1721",
+    "sentence": "Si tú consigues el material, podríamos quedar en armarlo juntos el viernes.",
+    "cloze": "podríamos quedar en",
+    "answer": "podríamos quedar en",
+    "lemma": "poder quedar en",
+    "meaning": "we could agree to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1721.mp3"
+  },
+  {
+    "id": "es-04-1722",
+    "sentence": "Si la pieza tarda en llegar, le sugeriría programar la reparación para el lunes.",
+    "cloze": "le sugeriría",
+    "answer": "le sugeriría",
+    "lemma": "sugerirle",
+    "meaning": "I would suggest",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1722.mp3"
+  },
+  {
+    "id": "es-04-1723",
+    "sentence": "Si el patio está disponible, cabría la posibilidad de montar ahí las mesas.",
+    "cloze": "cabría la posibilidad de",
+    "answer": "cabría la posibilidad de",
+    "lemma": "caber la posibilidad de",
+    "meaning": "there might be a possibility of",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1723.mp3"
+  },
+  {
+    "id": "es-04-1724",
+    "sentence": "Para repartir mejor la carga, estaría bien alternar la coordinación cada semana.",
+    "cloze": "estaría bien",
+    "answer": "estaría bien",
+    "lemma": "estar bien",
+    "meaning": "it would be good to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1724.mp3"
+  },
+  {
+    "id": "es-04-1725",
+    "sentence": "Si reduce el número de invitados, le ofreceríamos conservar el mismo menú.",
+    "cloze": "le ofreceríamos",
+    "answer": "le ofreceríamos",
+    "lemma": "ofrecerle",
+    "meaning": "we would offer you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1725.mp3"
+  },
+  {
+    "id": "es-04-1726",
+    "sentence": "Si todos pueden conectarse temprano, podríamos acordar cerrar la revisión antes del mediodía.",
+    "cloze": "podríamos acordar",
+    "answer": "podríamos acordar",
+    "lemma": "poder acordar",
+    "meaning": "we could agree to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1726.mp3"
+  },
+  {
+    "id": "es-04-1727",
+    "sentence": "Para no cancelar ninguna visita, podrían considerar intercambiar los dos turnos.",
+    "cloze": "podrían considerar",
+    "answer": "podrían considerar",
+    "lemma": "poder considerar",
+    "meaning": "you could consider",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1727.mp3"
+  },
+  {
+    "id": "es-04-1728",
+    "sentence": "Si usted aporta las herramientas, me parecería razonable dividir por igual el costo de la mano de obra.",
+    "cloze": "me parecería",
+    "answer": "me parecería",
+    "lemma": "parecerle",
+    "meaning": "it would seem to me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1728.mp3"
+  },
+  {
+    "id": "es-04-1729",
+    "sentence": "Si yo cubro el traslado, ¿consideraría la opción de compartir el costo de la instalación?",
+    "cloze": "consideraría la opción de",
+    "answer": "consideraría la opción de",
+    "lemma": "considerar la opción de",
+    "meaning": "would you consider the option of",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1729.mp3"
+  },
+  {
+    "id": "es-04-1730",
+    "sentence": "Antes de reducir el alcance, podríamos negociar una fecha de pago distinta.",
+    "cloze": "podríamos negociar",
+    "answer": "podríamos negociar",
+    "lemma": "poder negociar",
+    "meaning": "we could negotiate",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1730.mp3"
+  },
+  {
+    "id": "es-04-1731",
+    "sentence": "Si ustedes pueden recibir el mobiliario el martes, nosotros enviamos el camión esa mañana.",
+    "cloze": "pueden recibir",
+    "answer": "pueden recibir",
+    "lemma": "poder recibir",
+    "meaning": "you can receive",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1731.mp3"
+  },
+  {
+    "id": "es-04-1732",
+    "sentence": "Siempre que nos avise antes de las cinco, le reservamos el equipo hasta mañana.",
+    "cloze": "nos avise",
+    "answer": "nos avise",
+    "lemma": "avisarnos",
+    "meaning": "you let us know",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1732.mp3"
+  },
+  {
+    "id": "es-04-1733",
+    "sentence": "Si contáramos con una camioneta, trasladaríamos las mesas sin contratar el envío.",
+    "cloze": "contáramos con",
+    "answer": "contáramos con",
+    "lemma": "contar con",
+    "meaning": "we had access to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1733.mp3"
+  },
+  {
+    "id": "es-04-1734",
+    "sentence": "Aceptamos el presupuesto a condición de que abarque la instalación completa.",
+    "cloze": "abarque",
+    "answer": "abarque",
+    "lemma": "abarcar",
+    "meaning": "includes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1734.mp3"
+  },
+  {
+    "id": "es-04-1735",
+    "sentence": "Si el anticipo no rebasara la tercera parte del total, firmaríamos hoy.",
+    "cloze": "no rebasara",
+    "answer": "no rebasara",
+    "lemma": "no rebasar",
+    "meaning": "did not exceed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1735.mp3"
+  },
+  {
+    "id": "es-04-1736",
+    "sentence": "Con tal de que todos nos apeguemos al calendario acordado, podemos repartir el trabajo por igual.",
+    "cloze": "nos apeguemos",
+    "answer": "nos apeguemos",
+    "lemma": "apegarse a",
+    "meaning": "we stick to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1736.mp3"
+  },
+  {
+    "id": "es-04-1737",
+    "sentence": "Si ese horario te acomoda, yo tomo la apertura y tú cierras.",
+    "cloze": "te acomoda",
+    "answer": "te acomoda",
+    "lemma": "acomodar",
+    "meaning": "that time works for you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1737.mp3"
+  },
+  {
+    "id": "es-04-1738",
+    "sentence": "En caso de que ocurra algún retraso, recorremos la visita sin cargo.",
+    "cloze": "ocurra",
+    "answer": "ocurra",
+    "lemma": "ocurrir",
+    "meaning": "a delay occurs",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1738.mp3"
+  },
+  {
+    "id": "es-04-1739",
+    "sentence": "De confirmar los horarios, me encargo yo; tú revisa la lista de asistentes.",
+    "cloze": "me encargo yo",
+    "answer": "me encargo yo",
+    "lemma": "encargarse",
+    "meaning": "I will take care of it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1739.mp3"
+  },
+  {
+    "id": "es-04-1740",
+    "sentence": "Los comprobantes se los paso yo a Daniela, y tú verificas los montos.",
+    "cloze": "se los paso yo",
+    "answer": "se los paso yo",
+    "lemma": "pasárselos",
+    "meaning": "I will pass them along myself",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1740.mp3"
+  },
+  {
+    "id": "es-04-1741",
+    "sentence": "La entrega final se la dejamos a ustedes, mientras nosotros atendemos a los proveedores.",
+    "cloze": "se la dejamos",
+    "answer": "se la dejamos",
+    "lemma": "dejársela",
+    "meaning": "we leave it to you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1741.mp3"
+  },
+  {
+    "id": "es-04-1742",
+    "sentence": "Del inventario encárgate tú, que yo voy a recibir el material.",
+    "cloze": "encárgate tú",
+    "answer": "encárgate tú",
+    "lemma": "encargarse",
+    "meaning": "you take charge of it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1742.mp3"
+  },
+  {
+    "id": "es-04-1743",
+    "sentence": "A nosotros nos corresponde coordinar el montaje; ustedes pueden concentrarse en la recepción.",
+    "cloze": "nos corresponde",
+    "answer": "nos corresponde",
+    "lemma": "corresponderle",
+    "meaning": "it is our responsibility",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1743.mp3"
+  },
+  {
+    "id": "es-04-1744",
+    "sentence": "Yo puedo ocuparme de reservar el salón si tú confirmas cuántas personas van.",
+    "cloze": "ocuparme",
+    "answer": "ocuparme",
+    "lemma": "ocuparse",
+    "meaning": "take care of",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1744.mp3"
+  },
+  {
+    "id": "es-04-1745",
+    "sentence": "Esas llaves, déjemelas a mí al terminar la junta; yo las guardo en recepción.",
+    "cloze": "déjemelas",
+    "answer": "déjemelas",
+    "lemma": "dejármelas",
+    "meaning": "leave them with me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1745.mp3"
+  },
+  {
+    "id": "es-04-1746",
+    "sentence": "La supervisión del montaje se la encargo a Paula; yo atiendo cualquier cambio del cliente.",
+    "cloze": "se la encargo",
+    "answer": "se la encargo",
+    "lemma": "encargársela",
+    "meaning": "I assign it to her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1746.mp3"
+  },
+  {
+    "id": "es-04-1747",
+    "sentence": "A cambio de recibir hoy el anticipo, le mantengo la tarifa acordada hasta el viernes.",
+    "cloze": "le mantengo",
+    "answer": "le mantengo",
+    "lemma": "mantenerle",
+    "meaning": "I will keep it for you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1747.mp3"
+  },
+  {
+    "id": "es-04-1748",
+    "sentence": "No podemos reducir la cuota mensual, pero sí ser flexibles con el plazo para liquidarla.",
+    "cloze": "ser flexibles con el plazo",
+    "answer": "ser flexibles con el plazo",
+    "lemma": "ser flexible con el plazo",
+    "meaning": "be flexible about the deadline",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1748.mp3"
+  },
+  {
+    "id": "es-04-1749",
+    "sentence": "Si ustedes recogen el equipo, les descontamos el costo del envío.",
+    "cloze": "les descontamos",
+    "answer": "les descontamos",
+    "lemma": "descontarles",
+    "meaning": "we will deduct it for you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1749.mp3"
+  },
+  {
+    "id": "es-04-1750",
+    "sentence": "Para que el primer pago sea más manejable, podemos dividir el anticipo entre la firma y la entrega.",
+    "cloze": "dividir el anticipo",
+    "answer": "dividir el anticipo",
+    "lemma": "dividir el anticipo",
+    "meaning": "split the deposit",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1750.mp3"
+  },
+  {
+    "id": "es-04-1751",
+    "sentence": "Si hoy firman la orden, podemos ampliarles el plazo hasta el cierre del mes.",
+    "cloze": "ampliarles el plazo",
+    "answer": "ampliarles el plazo",
+    "lemma": "ampliar el plazo",
+    "meaning": "extend your deadline",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1751.mp3"
+  },
+  {
+    "id": "es-04-1752",
+    "sentence": "Si ustedes desmontan las mesas, nosotros podemos absorber el costo del traslado.",
+    "cloze": "absorber el costo",
+    "answer": "absorber el costo",
+    "lemma": "absorber el costo",
+    "meaning": "cover the cost",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1752.mp3"
+  },
+  {
+    "id": "es-04-1753",
+    "sentence": "Si concentramos las visitas el mismo día, ¿podría recorrer la fecha límite al lunes?",
+    "cloze": "recorrer la fecha límite",
+    "answer": "recorrer la fecha límite",
+    "lemma": "recorrer la fecha límite",
+    "meaning": "move back the deadline",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1753.mp3"
+  },
+  {
+    "id": "es-04-1754",
+    "sentence": "Puedo respetarle el precio actual si confirma la cantidad esta semana.",
+    "cloze": "respetarle el precio",
+    "answer": "respetarle el precio",
+    "lemma": "respetar el precio",
+    "meaning": "honor the price for you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1754.mp3"
+  },
+  {
+    "id": "es-04-1755",
+    "sentence": "Entiendo que prefieras conservar las dos sesiones; como punto medio, podríamos acortar cada una.",
+    "cloze": "podríamos acortar",
+    "answer": "podríamos acortar",
+    "lemma": "poder acortar",
+    "meaning": "we could shorten",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1755.mp3"
+  },
+  {
+    "id": "es-04-1756",
+    "sentence": "Reconozco que el lunes se le complica; como alternativa, le propongo reprogramar la visita para el miércoles.",
+    "cloze": "le propongo",
+    "answer": "le propongo",
+    "lemma": "proponerle",
+    "meaning": "I suggest",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1756.mp3"
+  },
+  {
+    "id": "es-04-1757",
+    "sentence": "Tiene razón en pedir una garantía más amplia; si mantenemos la cobertura, podríamos limitarla a las piezas.",
+    "cloze": "podríamos limitarla",
+    "answer": "podríamos limitarla",
+    "lemma": "poder limitarla",
+    "meaning": "we could limit it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1757.mp3"
+  },
+  {
+    "id": "es-04-1758",
+    "sentence": "Coincido en que el anticipo es alto; si conservamos la fecha, aceptaría dividirlo entre esta semana y la entrega.",
+    "cloze": "aceptaría dividirlo",
+    "answer": "aceptaría dividirlo",
+    "lemma": "aceptar dividirlo",
+    "meaning": "I would agree to split it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1758.mp3"
+  },
+  {
+    "id": "es-04-1759",
+    "sentence": "Comprendo que ustedes necesitan todo antes del evento; les planteo enviar primero el equipo indispensable y completar el pedido después.",
+    "cloze": "les planteo",
+    "answer": "les planteo",
+    "lemma": "plantearles",
+    "meaning": "I propose to you",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1759.mp3"
+  },
+  {
+    "id": "es-04-1760",
+    "sentence": "Acepto que el presupuesto no alcanza para todo; por eso, sugiero conservar la reparación y posponer la pintura.",
+    "cloze": "sugiero",
+    "answer": "sugiero",
+    "lemma": "sugerir",
+    "meaning": "I suggest",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1760.mp3"
   }
 ]
