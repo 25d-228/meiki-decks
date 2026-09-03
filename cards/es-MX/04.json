@@ -9551,11 +9551,11 @@
   },
   {
     "id": "es-04-0956",
-    "sentence": "A mis primas les habíamos guardado dos lugares juntos cerca del escenario.",
+    "sentence": "Cuando empezó la función, a mis primas ya les habíamos guardado dos lugares juntos cerca del escenario.",
     "cloze": "les habíamos guardado",
     "answer": "les habíamos guardado",
     "lemma": "guardarles",
-    "meaning": "we had saved them",
+    "meaning": "we had saved seats for them",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-0956.mp3"
   },
@@ -12828,7 +12828,7 @@
   },
   {
     "id": "es-04-1270",
-    "sentence": "El lunes por la mañana, Andrés prometió: «Te llamo esta tarde»; por la noche confirmé que me llamaría esa tarde.",
+    "sentence": "El lunes por la mañana, Andrés prometió: «Te llamo esta tarde»; al mediodía le confirmé a mi hermana que él me llamaría esa tarde.",
     "cloze": "esa tarde",
     "answer": "esa tarde",
     "lemma": "esa tarde",
@@ -15454,7 +15454,7 @@
   },
   {
     "id": "es-04-1532",
-    "sentence": "No contestan en Compras y hoy hacían el cierre de inventario; seguramente estarán revisando las cifras.",
+    "sentence": "No contestan en Compras y hoy hacen el cierre de inventario; seguramente estarán revisando las cifras.",
     "cloze": "estarán revisando",
     "answer": "estarán revisando",
     "lemma": "revisar",
@@ -19752,7 +19752,7 @@
   },
   {
     "id": "es-04-1961",
-    "sentence": "Para entonces, habremos reunido la cantidad necesaria para cubrir ambos pagos sin usar el fondo de emergencia.",
+    "sentence": "Para cuando venza el primero de los dos pagos, habremos reunido la cantidad necesaria para cubrir ambos sin usar el fondo de emergencia.",
     "cloze": "habremos reunido",
     "answer": "habremos reunido",
     "lemma": "reunir",
