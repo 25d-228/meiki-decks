@@ -9998,5 +9998,2140 @@
     "meaning": "charge her for it",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1000.mp3"
+  },
+  {
+    "id": "es-04-1001",
+    "sentence": "Al principio Clara no sabía cómo tratar a los clientes, pero pronto se desenvolvió con seguridad en el nuevo puesto.",
+    "cloze": "se desenvolvió",
+    "answer": "se desenvolvió",
+    "lemma": "desenvolverse",
+    "meaning": "handled herself confidently",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1001.mp3"
+  },
+  {
+    "id": "es-04-1002",
+    "sentence": "Cuando vio que el archivo sí tenía respaldo, Arturo se tranquilizó de inmediato.",
+    "cloze": "se tranquilizó",
+    "answer": "se tranquilizó",
+    "lemma": "tranquilizarse",
+    "meaning": "calmed down",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1002.mp3"
+  },
+  {
+    "id": "es-04-1003",
+    "sentence": "Aunque propusimos varios cambios, al final nos apegamos al presupuesto aprobado.",
+    "cloze": "nos apegamos",
+    "answer": "nos apegamos",
+    "lemma": "apegarse a",
+    "meaning": "we adhered to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1003.mp3"
+  },
+  {
+    "id": "es-04-1004",
+    "sentence": "Al terminar la capacitación, me quedé pensando en una de las preguntas del grupo.",
+    "cloze": "me quedé",
+    "answer": "me quedé",
+    "lemma": "quedarse + gerundio",
+    "meaning": "I kept thinking",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1004.mp3"
+  },
+  {
+    "id": "es-04-1005",
+    "sentence": "Antes de irse, la coordinadora se aseguró de cerrar todas las puertas.",
+    "cloze": "se aseguró",
+    "answer": "se aseguró",
+    "lemma": "asegurarse de",
+    "meaning": "made sure",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1005.mp3"
+  },
+  {
+    "id": "es-04-1006",
+    "sentence": "Con el nuevo horario, ya te acostumbraste a salir de casa más temprano.",
+    "cloze": "te acostumbraste",
+    "answer": "te acostumbraste",
+    "lemma": "acostumbrarse a",
+    "meaning": "you got used to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1006.mp3"
+  },
+  {
+    "id": "es-04-1007",
+    "sentence": "Eduardo se confundió de edificio y entró al de al lado.",
+    "cloze": "se confundió",
+    "answer": "se confundió",
+    "lemma": "confundirse de",
+    "meaning": "went to the wrong one",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1007.mp3"
+  },
+  {
+    "id": "es-04-1008",
+    "sentence": "Después de varios años de sol directo, la cortina se descoloró de un lado.",
+    "cloze": "se descoloró",
+    "answer": "se descoloró",
+    "lemma": "descolorarse",
+    "meaning": "faded",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1008.mp3"
+  },
+  {
+    "id": "es-04-1009",
+    "sentence": "Al escuchar las dos versiones, nos abstuvimos de opinar hasta tener más información.",
+    "cloze": "nos abstuvimos",
+    "answer": "nos abstuvimos",
+    "lemma": "abstenerse de",
+    "meaning": "we refrained from",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1009.mp3"
+  },
+  {
+    "id": "es-04-1010",
+    "sentence": "Después de hablar con su compañera, Julia se retractó de su comentario y ofreció una disculpa.",
+    "cloze": "se retractó",
+    "answer": "se retractó",
+    "lemma": "retractarse de",
+    "meaning": "took back her comment",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1010.mp3"
+  },
+  {
+    "id": "es-04-1011",
+    "sentence": "Después de aclarar el malentendido, los dos vecinos se dieron la mano.",
+    "cloze": "se dieron",
+    "answer": "se dieron",
+    "lemma": "darse la mano",
+    "meaning": "shook hands",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1011.mp3"
+  },
+  {
+    "id": "es-04-1012",
+    "sentence": "Marta y Sofía intercambiaron sus borradores y se hicieron varias sugerencias.",
+    "cloze": "se hicieron",
+    "answer": "se hicieron",
+    "lemma": "hacerse sugerencias",
+    "meaning": "made suggestions to each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1012.mp3"
+  },
+  {
+    "id": "es-04-1013",
+    "sentence": "Aunque viven en ciudades distintas, los hermanos siguen escribiéndose cada semana.",
+    "cloze": "escribiéndose",
+    "answer": "escribiéndose",
+    "lemma": "escribirse",
+    "meaning": "writing to each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1013.mp3"
+  },
+  {
+    "id": "es-04-1014",
+    "sentence": "Antes de modificar el calendario, los dos coordinadores se consultaron para evitar choques de horario.",
+    "cloze": "se consultaron",
+    "answer": "se consultaron",
+    "lemma": "consultarse",
+    "meaning": "consulted each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1014.mp3"
+  },
+  {
+    "id": "es-04-1015",
+    "sentence": "Durante la mesa redonda, las ponentes se escucharon con atención antes de responder.",
+    "cloze": "se escucharon",
+    "answer": "se escucharon",
+    "lemma": "escucharse",
+    "meaning": "listened to each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1015.mp3"
+  },
+  {
+    "id": "es-04-1016",
+    "sentence": "Diego y Laura suelen recomendarse lecturas útiles para sus proyectos.",
+    "cloze": "recomendarse",
+    "answer": "recomendarse",
+    "lemma": "recomendarse algo",
+    "meaning": "recommend things to each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1016.mp3"
+  },
+  {
+    "id": "es-04-1017",
+    "sentence": "Irene y Pablo se turnaron para atender el puesto durante la feria.",
+    "cloze": "se turnaron",
+    "answer": "se turnaron",
+    "lemma": "turnarse",
+    "meaning": "took turns",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1017.mp3"
+  },
+  {
+    "id": "es-04-1018",
+    "sentence": "Tras la discusión, ambos equipos decidieron apoyarse durante la etapa final.",
+    "cloze": "apoyarse",
+    "answer": "apoyarse",
+    "lemma": "apoyarse",
+    "meaning": "support each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1018.mp3"
+  },
+  {
+    "id": "es-04-1019",
+    "sentence": "Cada semana, Ana y Lucía se cuentan cómo les fue.",
+    "cloze": "se cuentan",
+    "answer": "se cuentan",
+    "lemma": "contarse algo",
+    "meaning": "tell each other",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1019.mp3"
+  },
+  {
+    "id": "es-04-1020",
+    "sentence": "Al final del proyecto, los dos responsables se agradecieron el apoyo recibido.",
+    "cloze": "se agradecieron",
+    "answer": "se agradecieron",
+    "lemma": "agradecerse algo",
+    "meaning": "thanked each other for",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1020.mp3"
+  },
+  {
+    "id": "es-04-1021",
+    "sentence": "Por salir con prisa, se me quedó el gafete sobre la mesa.",
+    "cloze": "se me quedó",
+    "answer": "se me quedó",
+    "lemma": "quedársele",
+    "meaning": "was accidentally left behind",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1021.mp3"
+  },
+  {
+    "id": "es-04-1022",
+    "sentence": "Cuando falló el programa, a la diseñadora se le borraron los últimos cambios.",
+    "cloze": "se le borraron",
+    "answer": "se le borraron",
+    "lemma": "borrársele",
+    "meaning": "were accidentally erased",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1022.mp3"
+  },
+  {
+    "id": "es-04-1023",
+    "sentence": "Durante la mudanza, se nos dañaron dos marcos aunque iban bien envueltos.",
+    "cloze": "se nos dañaron",
+    "answer": "se nos dañaron",
+    "lemma": "dañársele",
+    "meaning": "were accidentally damaged",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1023.mp3"
+  },
+  {
+    "id": "es-04-1024",
+    "sentence": "Con tantas llamadas, se te olvidó adjuntar la cotización al correo.",
+    "cloze": "se te olvidó",
+    "answer": "se te olvidó",
+    "lemma": "olvidársele",
+    "meaning": "you accidentally forgot",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1024.mp3"
+  },
+  {
+    "id": "es-04-1025",
+    "sentence": "A los repartidores se les rompió el carrito mientras acomodaban las cajas.",
+    "cloze": "se les rompió",
+    "answer": "se les rompió",
+    "lemma": "rompérsele",
+    "meaning": "accidentally broke on them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1025.mp3"
+  },
+  {
+    "id": "es-04-1026",
+    "sentence": "Por no revisar la fecha, se me venció el cupón antes de hacer la compra.",
+    "cloze": "se me venció",
+    "answer": "se me venció",
+    "lemma": "vencérsele",
+    "meaning": "expired on me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1026.mp3"
+  },
+  {
+    "id": "es-04-1027",
+    "sentence": "Mientras servía la bebida, al mesero se le derramó un poco de café.",
+    "cloze": "se le derramó",
+    "answer": "se le derramó",
+    "lemma": "derramársele",
+    "meaning": "was accidentally spilled",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1027.mp3"
+  },
+  {
+    "id": "es-04-1028",
+    "sentence": "Cuando bajábamos las cajas del camión, se nos cayó una en la banqueta.",
+    "cloze": "se nos cayó",
+    "answer": "se nos cayó",
+    "lemma": "caérsele",
+    "meaning": "we accidentally dropped",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1028.mp3"
+  },
+  {
+    "id": "es-04-1029",
+    "sentence": "Entre tantos documentos, se te traspapelaron los dos recibos originales.",
+    "cloze": "se te traspapelaron",
+    "answer": "se te traspapelaron",
+    "lemma": "traspapelársele",
+    "meaning": "were accidentally mislaid",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1029.mp3"
+  },
+  {
+    "id": "es-04-1030",
+    "sentence": "Cada vez que imprimo a doble cara, se me atoran varias hojas.",
+    "cloze": "se me atoran",
+    "answer": "se me atoran",
+    "lemma": "atorársele",
+    "meaning": "get jammed on me",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1030.mp3"
+  },
+  {
+    "id": "es-04-1031",
+    "sentence": "Después de una actualización, a los expositores se les desconfiguró el proyector justo antes de la presentación.",
+    "cloze": "se les desconfiguró",
+    "answer": "se les desconfiguró",
+    "lemma": "desconfigurársele",
+    "meaning": "lost its settings on them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1031.mp3"
+  },
+  {
+    "id": "es-04-1032",
+    "sentence": "Cada vez que movíamos la caja, se nos desprendía la etiqueta mal pegada.",
+    "cloze": "se nos desprendía",
+    "answer": "se nos desprendía",
+    "lemma": "desprendérsele",
+    "meaning": "kept coming off on us",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1032.mp3"
+  },
+  {
+    "id": "es-04-1033",
+    "sentence": "Ese comprobante, ya lo archivé en la carpeta compartida; la factura sigue pendiente.",
+    "cloze": "lo archivé",
+    "answer": "lo archivé",
+    "lemma": "archivarlo",
+    "meaning": "I filed it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1033.mp3"
+  },
+  {
+    "id": "es-04-1034",
+    "sentence": "A la nueva integrante, le resumí los acuerdos antes de su primer turno.",
+    "cloze": "le resumí",
+    "answer": "le resumí",
+    "lemma": "resumirle",
+    "meaning": "I summarized them for her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1034.mp3"
+  },
+  {
+    "id": "es-04-1035",
+    "sentence": "Las sillas plegables, las guardaremos en la bodega hasta el próximo evento.",
+    "cloze": "las guardaremos",
+    "answer": "las guardaremos",
+    "lemma": "guardarlas",
+    "meaning": "we will store them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1035.mp3"
+  },
+  {
+    "id": "es-04-1036",
+    "sentence": "A los proveedores, les confirmaremos la fecha por correo.",
+    "cloze": "les confirmaremos",
+    "answer": "les confirmaremos",
+    "lemma": "confirmarles",
+    "meaning": "we will confirm it to them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1036.mp3"
+  },
+  {
+    "id": "es-04-1037",
+    "sentence": "Ya le reservé un lugar cerca de la entrada, a la señora que usa bastón.",
+    "cloze": "le reservé",
+    "answer": "le reservé",
+    "lemma": "reservarle",
+    "meaning": "I reserved it for her",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1037.mp3"
+  },
+  {
+    "id": "es-04-1038",
+    "sentence": "No lo detectamos a tiempo, ese cambio de horario.",
+    "cloze": "lo detectamos",
+    "answer": "lo detectamos",
+    "lemma": "detectarlo",
+    "meaning": "we detected it",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1038.mp3"
+  },
+  {
+    "id": "es-04-1039",
+    "sentence": "—¿Y los proveedores? —Ya les avisamos del cambio, a ellos también.",
+    "cloze": "les avisamos",
+    "answer": "les avisamos",
+    "lemma": "avisarles",
+    "meaning": "we notified them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1039.mp3"
+  },
+  {
+    "id": "es-04-1040",
+    "sentence": "Las sugerencias que llegaron por correo, sí las tomamos en cuenta.",
+    "cloze": "las tomamos",
+    "answer": "las tomamos",
+    "lemma": "tomarlas en cuenta",
+    "meaning": "we took them into account",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1040.mp3"
+  },
+  {
+    "id": "es-04-1041",
+    "sentence": "Si necesitas ajustar una visita escolar, habla con la colega que coordina esos recorridos.",
+    "cloze": "que coordina",
+    "answer": "que coordina",
+    "lemma": "que",
+    "meaning": "who coordinates",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1041.mp3"
+  },
+  {
+    "id": "es-04-1042",
+    "sentence": "El departamento que rentamos durante el congreso tenía buena luz y poco ruido.",
+    "cloze": "que rentamos",
+    "answer": "que rentamos",
+    "lemma": "que",
+    "meaning": "that we rented",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1042.mp3"
+  },
+  {
+    "id": "es-04-1043",
+    "sentence": "Antes de cerrar el trámite, descarga el comprobante que solicitaste.",
+    "cloze": "que solicitaste",
+    "answer": "que solicitaste",
+    "lemma": "que",
+    "meaning": "that you requested",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1043.mp3"
+  },
+  {
+    "id": "es-04-1044",
+    "sentence": "Todavía comentamos la película que proyectaron al cierre del festival.",
+    "cloze": "que proyectaron",
+    "answer": "que proyectaron",
+    "lemma": "que",
+    "meaning": "that they screened",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1044.mp3"
+  },
+  {
+    "id": "es-04-1045",
+    "sentence": "Me inscribí en un taller que combina teoría con ejercicios prácticos.",
+    "cloze": "que combina",
+    "answer": "que combina",
+    "lemma": "que",
+    "meaning": "that combines",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1045.mp3"
+  },
+  {
+    "id": "es-04-1046",
+    "sentence": "La cafetera que compramos incluye una garantía de dos años.",
+    "cloze": "que compramos",
+    "answer": "que compramos",
+    "lemma": "que",
+    "meaning": "that we bought",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1046.mp3"
+  },
+  {
+    "id": "es-04-1047",
+    "sentence": "Por fin encontré un curso que se ajusta a mi horario de trabajo.",
+    "cloze": "que se ajusta",
+    "answer": "que se ajusta",
+    "lemma": "que",
+    "meaning": "that fits",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1047.mp3"
+  },
+  {
+    "id": "es-04-1048",
+    "sentence": "El hotel que conserva el patio original queda a dos cuadras del museo.",
+    "cloze": "que conserva",
+    "answer": "que conserva",
+    "lemma": "que",
+    "meaning": "that preserves",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1048.mp3"
+  },
+  {
+    "id": "es-04-1049",
+    "sentence": "La sala que inauguraron este mes tiene mejor acústica que la anterior.",
+    "cloze": "que inauguraron",
+    "answer": "que inauguraron",
+    "lemma": "que",
+    "meaning": "that they opened",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1049.mp3"
+  },
+  {
+    "id": "es-04-1050",
+    "sentence": "La tienda que acepta devoluciones sin recibo queda en la planta baja.",
+    "cloze": "que acepta",
+    "answer": "que acepta",
+    "lemma": "que",
+    "meaning": "that accepts",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1050.mp3"
+  },
+  {
+    "id": "es-04-1051",
+    "sentence": "La investigadora que redactó el informe responderá preguntas después de la charla.",
+    "cloze": "que redactó",
+    "answer": "que redactó",
+    "lemma": "que",
+    "meaning": "who wrote",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1051.mp3"
+  },
+  {
+    "id": "es-04-1052",
+    "sentence": "El comité que organiza el encuentro publicará el programa el lunes.",
+    "cloze": "que organiza",
+    "answer": "que organiza",
+    "lemma": "que",
+    "meaning": "that organizes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1052.mp3"
+  },
+  {
+    "id": "es-04-1053",
+    "sentence": "La mochila que elegiste tiene un compartimento acolchado para la computadora.",
+    "cloze": "que elegiste",
+    "answer": "que elegiste",
+    "lemma": "que",
+    "meaning": "that you chose",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1053.mp3"
+  },
+  {
+    "id": "es-04-1054",
+    "sentence": "Pregunta por el servicio que recoge las maletas directamente en el hotel.",
+    "cloze": "que recoge",
+    "answer": "que recoge",
+    "lemma": "que",
+    "meaning": "that collects",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1054.mp3"
+  },
+  {
+    "id": "es-04-1055",
+    "sentence": "La aplicación que registra los gastos prepara un resumen al final del mes.",
+    "cloze": "que registra",
+    "answer": "que registra",
+    "lemma": "que",
+    "meaning": "that tracks",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1055.mp3"
+  },
+  {
+    "id": "es-04-1056",
+    "sentence": "Busca los acuerdos en el documento que reúne las decisiones de la junta.",
+    "cloze": "que reúne",
+    "answer": "que reúne",
+    "lemma": "que",
+    "meaning": "that brings together",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1056.mp3"
+  },
+  {
+    "id": "es-04-1057",
+    "sentence": "Aunque cuesta un poco más, elegimos la tarifa que permite cambiar la fecha.",
+    "cloze": "que permite",
+    "answer": "que permite",
+    "lemma": "que",
+    "meaning": "that allows",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1057.mp3"
+  },
+  {
+    "id": "es-04-1058",
+    "sentence": "El vuelo que reprogramaron saldrá mañana a las ocho, según el aviso.",
+    "cloze": "que reprogramaron",
+    "answer": "que reprogramaron",
+    "lemma": "que",
+    "meaning": "that they rescheduled",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1058.mp3"
+  },
+  {
+    "id": "es-04-1059",
+    "sentence": "Fue la arquitecta quien dirigió la remodelación, así que ella explicará por qué conservaron la fachada.",
+    "cloze": "quien dirigió",
+    "answer": "quien dirigió",
+    "lemma": "quien",
+    "meaning": "who directed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1059.mp3"
+  },
+  {
+    "id": "es-04-1060",
+    "sentence": "El profesor del diplomado, quien imparte el módulo avanzado, responderá las dudas al final.",
+    "cloze": "quien imparte",
+    "answer": "quien imparte",
+    "lemma": "quien",
+    "meaning": "who teaches",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1060.mp3"
+  },
+  {
+    "id": "es-04-1061",
+    "sentence": "Los dos asesores, quienes revisaron la propuesta completa, sugirieron aclarar el plazo de entrega.",
+    "cloze": "quienes revisaron",
+    "answer": "quienes revisaron",
+    "lemma": "quienes",
+    "meaning": "who reviewed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1061.mp3"
+  },
+  {
+    "id": "es-04-1062",
+    "sentence": "La agente fue quien gestionó el cambio de habitación y también enviará la confirmación.",
+    "cloze": "quien gestionó",
+    "answer": "quien gestionó",
+    "lemma": "quien",
+    "meaning": "who handled",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1062.mp3"
+  },
+  {
+    "id": "es-04-1063",
+    "sentence": "Los técnicos, quienes instalaron el equipo de sonido, volverán antes del ensayo.",
+    "cloze": "quienes instalaron",
+    "answer": "quienes instalaron",
+    "lemma": "quienes",
+    "meaning": "who installed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1063.mp3"
+  },
+  {
+    "id": "es-04-1064",
+    "sentence": "La curadora, quien conoce bien la colección, nos recomendó comenzar por la sala de fotografía.",
+    "cloze": "quien conoce",
+    "answer": "quien conoce",
+    "lemma": "quien",
+    "meaning": "who knows",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1064.mp3"
+  },
+  {
+    "id": "es-04-1065",
+    "sentence": "Mis compañeros, quienes asistieron al curso anterior, me explicaron cómo sería la evaluación.",
+    "cloze": "quienes asistieron",
+    "answer": "quienes asistieron",
+    "lemma": "quienes",
+    "meaning": "who attended",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1065.mp3"
+  },
+  {
+    "id": "es-04-1066",
+    "sentence": "El empleado de la librería, quien apartó el ejemplar para mí, me avisó que la tienda cerraría temprano.",
+    "cloze": "quien apartó",
+    "answer": "quien apartó",
+    "lemma": "quien",
+    "meaning": "who set aside",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1066.mp3"
+  },
+  {
+    "id": "es-04-1067",
+    "sentence": "Comparé los dos diplomados y elegí el que ofrece asesorías semanales.",
+    "cloze": "el que ofrece",
+    "answer": "el que ofrece",
+    "lemma": "el que",
+    "meaning": "the one that offers",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1067.mp3"
+  },
+  {
+    "id": "es-04-1068",
+    "sentence": "Había varias habitaciones libres, pero pedimos la que daba al patio interior.",
+    "cloze": "la que daba",
+    "answer": "la que daba",
+    "lemma": "la que",
+    "meaning": "the one that faced",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1068.mp3"
+  },
+  {
+    "id": "es-04-1069",
+    "sentence": "De los paquetes disponibles, los que incluyen desayuno salen casi al mismo precio.",
+    "cloze": "los que incluyen",
+    "answer": "los que incluyen",
+    "lemma": "los que",
+    "meaning": "the ones that include",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1069.mp3"
+  },
+  {
+    "id": "es-04-1070",
+    "sentence": "Leí cinco reseñas y descarté las que omitían la fecha de la visita.",
+    "cloze": "las que omitían",
+    "answer": "las que omitían",
+    "lemma": "las que",
+    "meaning": "the ones that omitted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1070.mp3"
+  },
+  {
+    "id": "es-04-1071",
+    "sentence": "Entre los proveedores, escogimos el que entrega las piezas ya etiquetadas.",
+    "cloze": "el que entrega",
+    "answer": "el que entrega",
+    "lemma": "el que",
+    "meaning": "the one that delivers",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1071.mp3"
+  },
+  {
+    "id": "es-04-1072",
+    "sentence": "De las rutas propuestas, la que pasa por el jardín botánico requiere menos transbordos.",
+    "cloze": "la que pasa",
+    "answer": "la que pasa",
+    "lemma": "la que",
+    "meaning": "the one that goes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1072.mp3"
+  },
+  {
+    "id": "es-04-1073",
+    "sentence": "Traje varios comprobantes; los que tienen sello deben ir en esta carpeta.",
+    "cloze": "los que tienen",
+    "answer": "los que tienen",
+    "lemma": "los que",
+    "meaning": "the ones that have",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1073.mp3"
+  },
+  {
+    "id": "es-04-1074",
+    "sentence": "Hay cuatro funciones este fin de semana; las que empiezan antes de las ocho todavía tienen lugares.",
+    "cloze": "las que empiezan",
+    "answer": "las que empiezan",
+    "lemma": "las que",
+    "meaning": "the ones that start",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1074.mp3"
+  },
+  {
+    "id": "es-04-1075",
+    "sentence": "Probé dos cámaras y devolví la que perdía el enfoque con poca luz.",
+    "cloze": "la que perdía",
+    "answer": "la que perdía",
+    "lemma": "la que",
+    "meaning": "the one that lost",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1075.mp3"
+  },
+  {
+    "id": "es-04-1076",
+    "sentence": "De todos los seminarios, el que aborda la vivienda urbana es el más pertinente para mi proyecto.",
+    "cloze": "el que aborda",
+    "answer": "el que aborda",
+    "lemma": "el que",
+    "meaning": "the one that addresses",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1076.mp3"
+  },
+  {
+    "id": "es-04-1077",
+    "sentence": "El centro cultural, que reabrió después de la remodelación, ahora ofrece funciones los domingos.",
+    "cloze": "que reabrió",
+    "answer": "que reabrió",
+    "lemma": "que",
+    "meaning": "which reopened",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1077.mp3"
+  },
+  {
+    "id": "es-04-1078",
+    "sentence": "Nuestra reservación, que abarca tres noches, incluye el traslado desde la central de autobuses.",
+    "cloze": "que abarca",
+    "answer": "que abarca",
+    "lemma": "que",
+    "meaning": "which covers",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1078.mp3"
+  },
+  {
+    "id": "es-04-1079",
+    "sentence": "La ponencia de cierre, que generó muchas preguntas, estará disponible en video.",
+    "cloze": "que generó",
+    "answer": "que generó",
+    "lemma": "que",
+    "meaning": "which prompted",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1079.mp3"
+  },
+  {
+    "id": "es-04-1080",
+    "sentence": "El contrato de mantenimiento, que renovamos en junio, conserva el mismo precio.",
+    "cloze": "que renovamos",
+    "answer": "que renovamos",
+    "lemma": "que",
+    "meaning": "which we renewed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1080.mp3"
+  },
+  {
+    "id": "es-04-1081",
+    "sentence": "La plataforma con la que coordinamos las entregas permite actualizar el horario en tiempo real.",
+    "cloze": "con la que",
+    "answer": "con la que",
+    "lemma": "con la que",
+    "meaning": "with which",
+    "accepted_answers": [
+      "con la cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1081.mp3"
+  },
+  {
+    "id": "es-04-1082",
+    "sentence": "El programa para el que pedimos apoyo incluye asesorías sobre búsqueda de empleo.",
+    "cloze": "para el que",
+    "answer": "para el que",
+    "lemma": "para el que",
+    "meaning": "for which",
+    "accepted_answers": [
+      "para el cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1082.mp3"
+  },
+  {
+    "id": "es-04-1083",
+    "sentence": "La propuesta de la que hablamos ayer ya incluye el costo de mantenimiento.",
+    "cloze": "de la que",
+    "answer": "de la que",
+    "lemma": "de la que",
+    "meaning": "about which",
+    "accepted_answers": [
+      "de la cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1083.mp3"
+  },
+  {
+    "id": "es-04-1084",
+    "sentence": "La ventanilla a la que debe acudir para corregir el dato cierra a las dos.",
+    "cloze": "a la que",
+    "answer": "a la que",
+    "lemma": "a la que",
+    "meaning": "to which",
+    "accepted_answers": [
+      "a la cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1084.mp3"
+  },
+  {
+    "id": "es-04-1085",
+    "sentence": "Los proveedores con los que acordamos el cambio conservarán las mismas condiciones.",
+    "cloze": "con los que",
+    "answer": "con los que",
+    "lemma": "con los que",
+    "meaning": "with whom",
+    "accepted_answers": [
+      "con los cuales"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1085.mp3"
+  },
+  {
+    "id": "es-04-1086",
+    "sentence": "Solo quedan dos fechas entre las que podemos elegir para reprogramar el taller.",
+    "cloze": "entre las que",
+    "answer": "entre las que",
+    "lemma": "entre las que",
+    "meaning": "between which",
+    "accepted_answers": [
+      "entre las cuales"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1086.mp3"
+  },
+  {
+    "id": "es-04-1087",
+    "sentence": "La mesa sobre la que instalaron el equipo debe permanecer seca.",
+    "cloze": "sobre la que",
+    "answer": "sobre la que",
+    "lemma": "sobre la que",
+    "meaning": "on which",
+    "accepted_answers": [
+      "sobre la cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1087.mp3"
+  },
+  {
+    "id": "es-04-1088",
+    "sentence": "El enlace desde el que se envían las solicitudes dejó de funcionar esta mañana.",
+    "cloze": "desde el que",
+    "answer": "desde el que",
+    "lemma": "desde el que",
+    "meaning": "from which",
+    "accepted_answers": [
+      "desde el cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1088.mp3"
+  },
+  {
+    "id": "es-04-1089",
+    "sentence": "Las reuniones en las que revisamos avances durarán media hora a partir de este mes.",
+    "cloze": "en las que",
+    "answer": "en las que",
+    "lemma": "en las que",
+    "meaning": "in which",
+    "accepted_answers": [
+      "en las cuales"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1089.mp3"
+  },
+  {
+    "id": "es-04-1090",
+    "sentence": "El informe explica los motivos por los que se retrasó la entrega.",
+    "cloze": "por los que",
+    "answer": "por los que",
+    "lemma": "por los que",
+    "meaning": "why",
+    "accepted_answers": [
+      "por los cuales"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1090.mp3"
+  },
+  {
+    "id": "es-04-1091",
+    "sentence": "El correo distingue las tareas para las que hace falta contratar apoyo externo.",
+    "cloze": "para las que",
+    "answer": "para las que",
+    "lemma": "para las que",
+    "meaning": "for which",
+    "accepted_answers": [
+      "para las cuales"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1091.mp3"
+  },
+  {
+    "id": "es-04-1092",
+    "sentence": "El comité ante el que presentaremos la propuesta pidió un resumen de una página.",
+    "cloze": "ante el que",
+    "answer": "ante el que",
+    "lemma": "ante el que",
+    "meaning": "before which",
+    "accepted_answers": [
+      "ante el cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1092.mp3"
+  },
+  {
+    "id": "es-04-1093",
+    "sentence": "La salida hacia la que nos dirigíamos estaba cerrada por mantenimiento.",
+    "cloze": "hacia la que",
+    "answer": "hacia la que",
+    "lemma": "hacia la que",
+    "meaning": "toward which",
+    "accepted_answers": [
+      "hacia la cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1093.mp3"
+  },
+  {
+    "id": "es-04-1094",
+    "sentence": "La llave sin la que no se puede abrir el almacén quedó bajo resguardo.",
+    "cloze": "sin la que",
+    "answer": "sin la que",
+    "lemma": "sin la que",
+    "meaning": "without which",
+    "accepted_answers": [
+      "sin la cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1094.mp3"
+  },
+  {
+    "id": "es-04-1095",
+    "sentence": "En recepción siempre habrá alguien con quien contar si surge una duda durante el registro.",
+    "cloze": "con quien contar",
+    "answer": "con quien contar",
+    "lemma": "contar con alguien",
+    "meaning": "whom to rely on",
+    "accepted_answers": [
+      "con el que contar"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1095.mp3"
+  },
+  {
+    "id": "es-04-1096",
+    "sentence": "Las instructoras con quienes tomamos el curso siguen respondiendo dudas por correo.",
+    "cloze": "con quienes",
+    "answer": "con quienes",
+    "lemma": "con quienes",
+    "meaning": "with whom",
+    "accepted_answers": [
+      "con las que",
+      "con las cuales"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1096.mp3"
+  },
+  {
+    "id": "es-04-1097",
+    "sentence": "El directorio identifica al técnico a quien consultar cuando falle la plataforma.",
+    "cloze": "a quien consultar",
+    "answer": "a quien consultar",
+    "lemma": "consultar a alguien",
+    "meaning": "whom to consult",
+    "accepted_answers": [
+      "al que consultar",
+      "al cual consultar"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1097.mp3"
+  },
+  {
+    "id": "es-04-1098",
+    "sentence": "Los usuarios a quienes afectó la interrupción recuperaron el acceso esa misma tarde.",
+    "cloze": "a quienes",
+    "answer": "a quienes",
+    "lemma": "a quienes",
+    "meaning": "whom",
+    "accepted_answers": [
+      "a los que",
+      "a los cuales"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1098.mp3"
+  },
+  {
+    "id": "es-04-1099",
+    "sentence": "Buscamos a una persona para quien atender al público resulte natural.",
+    "cloze": "para quien",
+    "answer": "para quien",
+    "lemma": "para quien",
+    "meaning": "for whom",
+    "accepted_answers": [
+      "para la que",
+      "para la cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1099.mp3"
+  },
+  {
+    "id": "es-04-1100",
+    "sentence": "Los especialistas de quienes recibimos la orientación también revisarán el informe.",
+    "cloze": "de quienes",
+    "answer": "de quienes",
+    "lemma": "de quienes",
+    "meaning": "from whom",
+    "accepted_answers": [
+      "de los que",
+      "de los cuales"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1100.mp3"
+  },
+  {
+    "id": "es-04-1101",
+    "sentence": "La compañera por quien nos enteramos de la convocatoria también envió su solicitud.",
+    "cloze": "por quien",
+    "answer": "por quien",
+    "lemma": "por quien",
+    "meaning": "through whom",
+    "accepted_answers": [
+      "por la que",
+      "por la cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1101.mp3"
+  },
+  {
+    "id": "es-04-1102",
+    "sentence": "La mediadora ante quien expusimos el desacuerdo propuso revisar los turnos.",
+    "cloze": "ante quien",
+    "answer": "ante quien",
+    "lemma": "ante quien",
+    "meaning": "before whom",
+    "accepted_answers": [
+      "ante la que",
+      "ante la cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1102.mp3"
+  },
+  {
+    "id": "es-04-1103",
+    "sentence": "Necesitamos localizar a la intérprete sin quien varios asistentes no podrán seguir la reunión.",
+    "cloze": "sin quien",
+    "answer": "sin quien",
+    "lemma": "sin quien",
+    "meaning": "without whom",
+    "accepted_answers": [
+      "sin la que",
+      "sin la cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1103.mp3"
+  },
+  {
+    "id": "es-04-1104",
+    "sentence": "Recepción te pondrá en contacto con la persona a quien le corresponde revisar tu solicitud.",
+    "cloze": "a quien le corresponde",
+    "answer": "a quien le corresponde",
+    "lemma": "corresponderle a alguien",
+    "meaning": "who is responsible for",
+    "accepted_answers": [
+      "a la que le corresponde",
+      "a la cual le corresponde"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1104.mp3"
+  },
+  {
+    "id": "es-04-1105",
+    "sentence": "Te enviarán un código mediante el cual podrás confirmar tu identidad.",
+    "cloze": "mediante el cual",
+    "answer": "mediante el cual",
+    "lemma": "mediante el cual",
+    "meaning": "by means of which",
+    "accepted_answers": [
+      "mediante el que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1105.mp3"
+  },
+  {
+    "id": "es-04-1106",
+    "sentence": "El centro abrió un canal por medio del cual las familias pueden solicitar información.",
+    "cloze": "por medio del cual",
+    "answer": "por medio del cual",
+    "lemma": "por medio del cual",
+    "meaning": "through which",
+    "accepted_answers": [
+      "por medio del que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1106.mp3"
+  },
+  {
+    "id": "es-04-1107",
+    "sentence": "El aviso fija el lunes como el día a partir del cual se recibirán solicitudes.",
+    "cloze": "a partir del cual",
+    "answer": "a partir del cual",
+    "lemma": "a partir del cual",
+    "meaning": "from which point onward",
+    "accepted_answers": [
+      "a partir del que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1107.mp3"
+  },
+  {
+    "id": "es-04-1108",
+    "sentence": "La capacitación incluye una práctica durante la cual cada participante resolverá un caso.",
+    "cloze": "durante la cual",
+    "answer": "durante la cual",
+    "lemma": "durante la cual",
+    "meaning": "during which",
+    "accepted_answers": [
+      "durante la que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1108.mp3"
+  },
+  {
+    "id": "es-04-1109",
+    "sentence": "El edificio frente al cual nos citaron tiene una entrada accesible por la calle lateral.",
+    "cloze": "frente al cual",
+    "answer": "frente al cual",
+    "lemma": "frente al cual",
+    "meaning": "opposite which",
+    "accepted_answers": [
+      "frente al que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1109.mp3"
+  },
+  {
+    "id": "es-04-1110",
+    "sentence": "La plaza alrededor de la cual desviaron el tránsito permanecerá cerrada este fin de semana.",
+    "cloze": "alrededor de la cual",
+    "answer": "alrededor de la cual",
+    "lemma": "alrededor de la cual",
+    "meaning": "around which",
+    "accepted_answers": [
+      "alrededor de la que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1110.mp3"
+  },
+  {
+    "id": "es-04-1111",
+    "sentence": "El respaldo automático gracias al cual recuperamos los archivos seguirá activo.",
+    "cloze": "gracias al cual",
+    "answer": "gracias al cual",
+    "lemma": "gracias al cual",
+    "meaning": "thanks to which",
+    "accepted_answers": [
+      "gracias al que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1111.mp3"
+  },
+  {
+    "id": "es-04-1112",
+    "sentence": "La propuesta respecto de la cual surgieron dudas será revisada el jueves.",
+    "cloze": "respecto de la cual",
+    "answer": "respecto de la cual",
+    "lemma": "respecto de la cual",
+    "meaning": "regarding which",
+    "accepted_answers": [
+      "respecto de la que",
+      "respecto a la cual",
+      "sobre la cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1112.mp3"
+  },
+  {
+    "id": "es-04-1113",
+    "sentence": "El contrato define un plazo dentro del cual se puede cancelar la reservación sin cargo.",
+    "cloze": "dentro del cual",
+    "answer": "dentro del cual",
+    "lemma": "dentro del cual",
+    "meaning": "within which",
+    "accepted_answers": [
+      "dentro del que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1113.mp3"
+  },
+  {
+    "id": "es-04-1114",
+    "sentence": "El procedimiento termina con una revisión tras la cual se envía el resultado por correo.",
+    "cloze": "tras la cual",
+    "answer": "tras la cual",
+    "lemma": "tras la cual",
+    "meaning": "after which",
+    "accepted_answers": [
+      "tras la que",
+      "después de la cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1114.mp3"
+  },
+  {
+    "id": "es-04-1115",
+    "sentence": "El coordinador, con el que ya revisamos el calendario, confirmó la nueva fecha.",
+    "cloze": "con el que",
+    "answer": "con el que",
+    "lemma": "con el que",
+    "meaning": "with whom",
+    "accepted_answers": [
+      "con quien",
+      "con el cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1115.mp3"
+  },
+  {
+    "id": "es-04-1116",
+    "sentence": "La asociación, a la cual donamos el equipo, ofrecerá talleres gratuitos.",
+    "cloze": "a la cual",
+    "answer": "a la cual",
+    "lemma": "a la cual",
+    "meaning": "to which",
+    "accepted_answers": [
+      "a la que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1116.mp3"
+  },
+  {
+    "id": "es-04-1117",
+    "sentence": "Las dos asesoras, entre quienes se repartirán los casos, estarán disponibles por la tarde.",
+    "cloze": "entre quienes",
+    "answer": "entre quienes",
+    "lemma": "entre quienes",
+    "meaning": "between whom",
+    "accepted_answers": [
+      "entre las que",
+      "entre las cuales"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1117.mp3"
+  },
+  {
+    "id": "es-04-1118",
+    "sentence": "Los comprobantes, sin los cuales no podremos autorizar el reembolso, deben enviarse en un solo archivo.",
+    "cloze": "sin los cuales",
+    "answer": "sin los cuales",
+    "lemma": "sin los cuales",
+    "meaning": "without which",
+    "accepted_answers": [
+      "sin los que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1118.mp3"
+  },
+  {
+    "id": "es-04-1119",
+    "sentence": "El foro, para el cual ya se cerró el registro, se transmitirá en línea.",
+    "cloze": "para el cual",
+    "answer": "para el cual",
+    "lemma": "para el cual",
+    "meaning": "for which",
+    "accepted_answers": [
+      "para el que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1119.mp3"
+  },
+  {
+    "id": "es-04-1120",
+    "sentence": "La directora, junto a quien presentaremos el informe, llegará antes de la reunión.",
+    "cloze": "junto a quien",
+    "answer": "junto a quien",
+    "lemma": "junto a quien",
+    "meaning": "alongside whom",
+    "accepted_answers": [
+      "junto a la que",
+      "junto a la cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1120.mp3"
+  },
+  {
+    "id": "es-04-1121",
+    "sentence": "Elegimos la consultoría cuyo enfoque combina experiencia local con métodos fáciles de aplicar.",
+    "cloze": "cuyo enfoque",
+    "answer": "cuyo enfoque",
+    "lemma": "cuyo",
+    "meaning": "whose approach",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1121.mp3"
+  },
+  {
+    "id": "es-04-1122",
+    "sentence": "El acta resume lo que acordaron los dos equipos durante la mediación.",
+    "cloze": "lo que",
+    "answer": "lo que",
+    "lemma": "lo que",
+    "meaning": "what",
+    "accepted_answers": [
+      "qué"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1122.mp3"
+  },
+  {
+    "id": "es-04-1123",
+    "sentence": "El museo amplió el horario de los domingos, lo cual permite visitar la exposición con más calma.",
+    "cloze": "lo cual",
+    "answer": "lo cual",
+    "lemma": "lo cual",
+    "meaning": "which",
+    "accepted_answers": [
+      "lo que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1123.mp3"
+  },
+  {
+    "id": "es-04-1124",
+    "sentence": "La biblioteca, donde también se imparten talleres, reabrirá después de la remodelación.",
+    "cloze": "donde",
+    "answer": "donde",
+    "lemma": "donde",
+    "meaning": "where",
+    "accepted_answers": [
+      "en la que",
+      "en la cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1124.mp3"
+  },
+  {
+    "id": "es-04-1125",
+    "sentence": "La periodista, cuya trayectoria conocimos en el documental, conversará con el público al final.",
+    "cloze": "cuya trayectoria",
+    "answer": "cuya trayectoria",
+    "lemma": "cuyo",
+    "meaning": "whose career",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1125.mp3"
+  },
+  {
+    "id": "es-04-1126",
+    "sentence": "El inventario debe incluir todo lo que llegó en la última entrega.",
+    "cloze": "todo lo que",
+    "answer": "todo lo que",
+    "lemma": "todo lo que",
+    "meaning": "everything that",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1126.mp3"
+  },
+  {
+    "id": "es-04-1127",
+    "sentence": "Terminamos la revisión un día antes, con lo cual pudimos corregir las gráficas sin prisa.",
+    "cloze": "con lo cual",
+    "answer": "con lo cual",
+    "lemma": "con lo cual",
+    "meaning": "thereby",
+    "accepted_answers": [
+      "con lo que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1127.mp3"
+  },
+  {
+    "id": "es-04-1128",
+    "sentence": "El pasillo por donde se llega al auditorio estará señalizado desde la entrada.",
+    "cloze": "por donde",
+    "answer": "por donde",
+    "lemma": "por donde",
+    "meaning": "along which",
+    "accepted_answers": [
+      "por el que",
+      "por el cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1128.mp3"
+  },
+  {
+    "id": "es-04-1129",
+    "sentence": "Primero revisarán los edificios cuyos elevadores llevan más tiempo sin mantenimiento.",
+    "cloze": "cuyos elevadores",
+    "answer": "cuyos elevadores",
+    "lemma": "cuyo",
+    "meaning": "whose elevators",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1129.mp3"
+  },
+  {
+    "id": "es-04-1130",
+    "sentence": "Prepararemos el prototipo con lo que ya tenemos en el taller.",
+    "cloze": "con lo que",
+    "answer": "con lo que",
+    "lemma": "con lo que",
+    "meaning": "with what",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1130.mp3"
+  },
+  {
+    "id": "es-04-1131",
+    "sentence": "El pago apareció dos veces en el estado de cuenta, por lo cual solicitamos que revisaran el cargo.",
+    "cloze": "por lo cual",
+    "answer": "por lo cual",
+    "lemma": "por lo cual",
+    "meaning": "therefore",
+    "accepted_answers": [
+      "por lo que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1131.mp3"
+  },
+  {
+    "id": "es-04-1132",
+    "sentence": "La cabina desde donde se controla el sonido tiene vista directa al escenario.",
+    "cloze": "desde donde",
+    "answer": "desde donde",
+    "lemma": "desde donde",
+    "meaning": "from where",
+    "accepted_answers": [
+      "desde la que",
+      "desde la cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1132.mp3"
+  },
+  {
+    "id": "es-04-1133",
+    "sentence": "El resumen presenta cuatro estudios cuyas conclusiones coinciden en los puntos principales.",
+    "cloze": "cuyas conclusiones",
+    "answer": "cuyas conclusiones",
+    "lemma": "cuyo",
+    "meaning": "whose conclusions",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1133.mp3"
+  },
+  {
+    "id": "es-04-1134",
+    "sentence": "El precio final depende de lo que incluya el servicio de instalación.",
+    "cloze": "de lo que",
+    "answer": "de lo que",
+    "lemma": "de lo que",
+    "meaning": "on what",
+    "accepted_answers": [
+      "de qué"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1134.mp3"
+  },
+  {
+    "id": "es-04-1135",
+    "sentence": "La empresa propuso reducir el apoyo sin ajustar el plazo, ante lo cual el equipo pidió otra opción.",
+    "cloze": "ante lo cual",
+    "answer": "ante lo cual",
+    "lemma": "ante lo cual",
+    "meaning": "in response to which",
+    "accepted_answers": [
+      "ante lo que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1135.mp3"
+  },
+  {
+    "id": "es-04-1136",
+    "sentence": "La ruta accesible continúa hasta donde empieza el corredor cubierto.",
+    "cloze": "hasta donde",
+    "answer": "hasta donde",
+    "lemma": "hasta donde",
+    "meaning": "as far as where",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1136.mp3"
+  },
+  {
+    "id": "es-04-1137",
+    "sentence": "La casona en cuyo patio se ofrecen los conciertos conserva los pisos originales.",
+    "cloze": "en cuyo patio",
+    "answer": "en cuyo patio",
+    "lemma": "cuyo",
+    "meaning": "in whose courtyard",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1137.mp3"
+  },
+  {
+    "id": "es-04-1138",
+    "sentence": "La versión final se acerca mucho a lo que imaginamos durante la primera reunión.",
+    "cloze": "a lo que",
+    "answer": "a lo que",
+    "lemma": "a lo que",
+    "meaning": "to what",
+    "accepted_answers": [
+      "a aquello que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1138.mp3"
+  },
+  {
+    "id": "es-04-1139",
+    "sentence": "Necesitamos confirmar la fecha esta tarde, sin lo cual no podremos reservar el equipo.",
+    "cloze": "sin lo cual",
+    "answer": "sin lo cual",
+    "lemma": "sin lo cual",
+    "meaning": "without which",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1139.mp3"
+  },
+  {
+    "id": "es-04-1140",
+    "sentence": "Después de registrarte, avanza hacia donde están las mesas de orientación.",
+    "cloze": "hacia donde",
+    "answer": "hacia donde",
+    "lemma": "hacia donde",
+    "meaning": "toward where",
+    "accepted_answers": [
+      "adonde",
+      "a donde"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1140.mp3"
+  },
+  {
+    "id": "es-04-1141",
+    "sentence": "La coordinadora, a cuyo cargo quedó la logística, enviará el programa actualizado.",
+    "cloze": "a cuyo cargo",
+    "answer": "a cuyo cargo",
+    "lemma": "cuyo",
+    "meaning": "under whose responsibility",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1141.mp3"
+  },
+  {
+    "id": "es-04-1142",
+    "sentence": "Los dos informes coinciden en lo que debe corregirse antes de publicar los resultados.",
+    "cloze": "en lo que",
+    "answer": "en lo que",
+    "lemma": "en lo que",
+    "meaning": "on what",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1142.mp3"
+  },
+  {
+    "id": "es-04-1143",
+    "sentence": "El cuarto da a una avenida, pese a lo cual casi no se oye ruido con las ventanas cerradas.",
+    "cloze": "pese a lo cual",
+    "answer": "pese a lo cual",
+    "lemma": "pese a lo cual",
+    "meaning": "despite which",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1143.mp3"
+  },
+  {
+    "id": "es-04-1144",
+    "sentence": "Reservamos un hotel cerca de donde se realizará el encuentro.",
+    "cloze": "cerca de donde",
+    "answer": "cerca de donde",
+    "lemma": "cerca de donde",
+    "meaning": "near where",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1144.mp3"
+  },
+  {
+    "id": "es-04-1145",
+    "sentence": "La cooperativa, entre cuyos integrantes hay varias diseñadoras, abrirá una tienda en línea.",
+    "cloze": "entre cuyos integrantes",
+    "answer": "entre cuyos integrantes",
+    "lemma": "cuyo",
+    "meaning": "among whose members",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1145.mp3"
+  },
+  {
+    "id": "es-04-1146",
+    "sentence": "La sala tiene suficientes contactos eléctricos para lo que haremos en la práctica.",
+    "cloze": "para lo que",
+    "answer": "para lo que",
+    "lemma": "para lo que",
+    "meaning": "for what",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1146.mp3"
+  },
+  {
+    "id": "es-04-1147",
+    "sentence": "La ponente resumirá las conclusiones, después de lo cual habrá diez minutos para preguntas.",
+    "cloze": "después de lo cual",
+    "answer": "después de lo cual",
+    "lemma": "después de lo cual",
+    "meaning": "after which",
+    "accepted_answers": [
+      "tras lo cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1147.mp3"
+  },
+  {
+    "id": "es-04-1148",
+    "sentence": "Trasladaron el archivo a un edificio lejos de donde atienden al público.",
+    "cloze": "lejos de donde",
+    "answer": "lejos de donde",
+    "lemma": "lejos de donde",
+    "meaning": "far from where",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1148.mp3"
+  },
+  {
+    "id": "es-04-1149",
+    "sentence": "Visitamos un edificio desde cuya terraza se alcanza a ver todo el centro histórico.",
+    "cloze": "desde cuya terraza",
+    "answer": "desde cuya terraza",
+    "lemma": "cuyo",
+    "meaning": "from whose terrace",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1149.mp3"
+  },
+  {
+    "id": "es-04-1150",
+    "sentence": "La moderadora pidió que cada grupo anotara una duda sobre lo que escuchó en la charla.",
+    "cloze": "sobre lo que",
+    "answer": "sobre lo que",
+    "lemma": "sobre lo que",
+    "meaning": "about what",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1150.mp3"
+  },
+  {
+    "id": "es-04-1151",
+    "sentence": "El proveedor aceptó dividir la entrega en dos fechas, gracias a lo cual evitamos rentar otra bodega.",
+    "cloze": "gracias a lo cual",
+    "answer": "gracias a lo cual",
+    "lemma": "gracias a lo cual",
+    "meaning": "thanks to which",
+    "accepted_answers": [
+      "gracias a lo que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1151.mp3"
+  },
+  {
+    "id": "es-04-1152",
+    "sentence": "El módulo de informes está al lado de donde entregan las acreditaciones.",
+    "cloze": "al lado de donde",
+    "answer": "al lado de donde",
+    "lemma": "al lado de donde",
+    "meaning": "next to where",
+    "accepted_answers": [
+      "junto a donde"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1152.mp3"
+  },
+  {
+    "id": "es-04-1153",
+    "sentence": "El informe examina una falla sobre cuyas causas todavía no hay acuerdo.",
+    "cloze": "sobre cuyas causas",
+    "answer": "sobre cuyas causas",
+    "lemma": "cuyo",
+    "meaning": "about whose causes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1153.mp3"
+  },
+  {
+    "id": "es-04-1154",
+    "sentence": "El trámite tardó más de lo que nos habían indicado por teléfono.",
+    "cloze": "más de lo que",
+    "answer": "más de lo que",
+    "lemma": "más de lo que",
+    "meaning": "longer than expected",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1154.mp3"
+  },
+  {
+    "id": "es-04-1155",
+    "sentence": "La asamblea aprobó un calendario común, a partir de lo cual cada área ajustó sus entregas.",
+    "cloze": "a partir de lo cual",
+    "answer": "a partir de lo cual",
+    "lemma": "a partir de lo cual",
+    "meaning": "from which point onward",
+    "accepted_answers": [
+      "desde entonces"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1155.mp3"
+  },
+  {
+    "id": "es-04-1156",
+    "sentence": "Invitaron a una fotógrafa cuyo trabajo retrata la vida cotidiana de varias colonias.",
+    "cloze": "cuyo trabajo",
+    "answer": "cuyo trabajo",
+    "lemma": "cuyo",
+    "meaning": "whose work",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1156.mp3"
+  },
+  {
+    "id": "es-04-1157",
+    "sentence": "El ajuste costó menos de lo que habíamos presupuestado, así que sobró dinero.",
+    "cloze": "menos de lo que",
+    "answer": "menos de lo que",
+    "lemma": "menos de lo que",
+    "meaning": "less than expected",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1157.mp3"
+  },
+  {
+    "id": "es-04-1158",
+    "sentence": "El contrato no aclara quién cubre el traslado, respecto de lo cual pediremos una respuesta por escrito.",
+    "cloze": "respecto de lo cual",
+    "answer": "respecto de lo cual",
+    "lemma": "respecto de lo cual",
+    "meaning": "regarding which",
+    "accepted_answers": [
+      "sobre lo cual"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1158.mp3"
+  },
+  {
+    "id": "es-04-1159",
+    "sentence": "Según lo que registra la encuesta, la mayoría usa el parque al caer la tarde.",
+    "cloze": "Según lo que",
+    "answer": "Según lo que",
+    "lemma": "según lo que",
+    "meaning": "according to what",
+    "accepted_answers": [
+      "De acuerdo con lo que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1159.mp3"
+  },
+  {
+    "id": "es-04-1160",
+    "sentence": "A juzgar por lo que comentó la encargada, la exposición sí abrirá el sábado.",
+    "cloze": "A juzgar por lo que",
+    "answer": "A juzgar por lo que",
+    "lemma": "a juzgar por lo que",
+    "meaning": "judging by what",
+    "accepted_answers": [
+      "Por lo que"
+    ],
+    "audio": "work/audio/es-MX/04/es-04-1160.mp3"
+  },
+  {
+    "id": "es-04-1161",
+    "sentence": "Al cerrar la sesión, la coordinadora envió los acuerdos a quienes no pudieron asistir.",
+    "cloze": "Al cerrar",
+    "answer": "Al cerrar",
+    "lemma": "al + infinitivo",
+    "meaning": "upon closing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1161.mp3"
+  },
+  {
+    "id": "es-04-1162",
+    "sentence": "Revisamos las constancias antes de enviarlas a quienes tomaron el curso.",
+    "cloze": "antes de enviarlas",
+    "answer": "antes de enviarlas",
+    "lemma": "antes de + infinitivo",
+    "meaning": "before sending them",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1162.mp3"
+  },
+  {
+    "id": "es-04-1163",
+    "sentence": "Luego de evaluar los costos y los horarios, la organizadora recomendó la ruta con un solo transbordo.",
+    "cloze": "Luego de evaluar",
+    "answer": "Luego de evaluar",
+    "lemma": "luego de + infinitivo",
+    "meaning": "after evaluating",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1163.mp3"
+  },
+  {
+    "id": "es-04-1164",
+    "sentence": "El diseñador usó dos colores en el mapa para distinguir la ruta accesible del recorrido con escaleras.",
+    "cloze": "para distinguir",
+    "answer": "para distinguir",
+    "lemma": "para + infinitivo",
+    "meaning": "to distinguish",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1164.mp3"
+  },
+  {
+    "id": "es-04-1165",
+    "sentence": "La moderadora escuchó al ponente hasta el final sin interrumpirlo.",
+    "cloze": "sin interrumpirlo",
+    "answer": "sin interrumpirlo",
+    "lemma": "sin + infinitivo",
+    "meaning": "without interrupting him",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1165.mp3"
+  },
+  {
+    "id": "es-04-1166",
+    "sentence": "En lugar de cancelar el recorrido por la lluvia, el museo trasladó la explicación al patio cubierto.",
+    "cloze": "En lugar de cancelar",
+    "answer": "En lugar de cancelar",
+    "lemma": "en lugar de + infinitivo",
+    "meaning": "instead of canceling",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1166.mp3"
+  },
+  {
+    "id": "es-04-1167",
+    "sentence": "Al recibir la cotización corregida, el administrador notó que aún faltaba el costo de instalación.",
+    "cloze": "Al recibir",
+    "answer": "Al recibir",
+    "lemma": "al + infinitivo",
+    "meaning": "upon receiving",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1167.mp3"
+  },
+  {
+    "id": "es-04-1168",
+    "sentence": "El equipo programó el ensayo por la mañana para aprovechar la luz natural del escenario.",
+    "cloze": "para aprovechar",
+    "answer": "para aprovechar",
+    "lemma": "para + infinitivo",
+    "meaning": "to make use of",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1168.mp3"
+  },
+  {
+    "id": "es-04-1169",
+    "sentence": "Tras detectar dos cargos repetidos, la tesorera pidió al proveedor una factura corregida.",
+    "cloze": "Tras detectar",
+    "answer": "Tras detectar",
+    "lemma": "tras + infinitivo",
+    "meaning": "after detecting",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1169.mp3"
+  },
+  {
+    "id": "es-04-1170",
+    "sentence": "Por no avisar del retraso a tiempo, el proveedor tuvo que cubrir el envío urgente.",
+    "cloze": "Por no avisar",
+    "answer": "Por no avisar",
+    "lemma": "por + infinitivo",
+    "meaning": "because of failing to give notice",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1170.mp3"
+  },
+  {
+    "id": "es-04-1171",
+    "sentence": "La reunión pasará al salón de la planta baja, de ser necesario, para facilitar el acceso.",
+    "cloze": "de ser necesario",
+    "answer": "de ser necesario",
+    "lemma": "de + infinitivo",
+    "meaning": "if necessary",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1171.mp3"
+  },
+  {
+    "id": "es-04-1172",
+    "sentence": "La coordinadora resumió las objeciones sin perder de vista el plazo acordado.",
+    "cloze": "sin perder de vista",
+    "answer": "sin perder de vista",
+    "lemma": "perder de vista",
+    "meaning": "without losing sight of",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1172.mp3"
+  },
+  {
+    "id": "es-04-1173",
+    "sentence": "La moderadora cerró la mesa agradeciendo al público sus preguntas.",
+    "cloze": "agradeciendo",
+    "answer": "agradeciendo",
+    "lemma": "agradecer",
+    "meaning": "thanking",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1173.mp3"
+  },
+  {
+    "id": "es-04-1174",
+    "sentence": "Señalando la entrada lateral en el plano, la guía explicó dónde empezaba la ruta accesible.",
+    "cloze": "Señalando",
+    "answer": "Señalando",
+    "lemma": "señalar",
+    "meaning": "pointing out",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1174.mp3"
+  },
+  {
+    "id": "es-04-1175",
+    "sentence": "Comparando la primera cotización con la versión corregida, el equipo encontró la partida duplicada.",
+    "cloze": "Comparando",
+    "answer": "Comparando",
+    "lemma": "comparar",
+    "meaning": "comparing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1175.mp3"
+  },
+  {
+    "id": "es-04-1176",
+    "sentence": "Durante la charla, la estudiante siguió el argumento central tomando notas sobre cada ejemplo.",
+    "cloze": "tomando notas",
+    "answer": "tomando notas",
+    "lemma": "tomar notas",
+    "meaning": "taking notes",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1176.mp3"
+  },
+  {
+    "id": "es-04-1177",
+    "sentence": "Tomando en cuenta los transbordos del personal, la encargada retrasó media hora el inicio del turno.",
+    "cloze": "Tomando en cuenta",
+    "answer": "Tomando en cuenta",
+    "lemma": "tomar en cuenta",
+    "meaning": "taking into account",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1177.mp3"
+  },
+  {
+    "id": "es-04-1178",
+    "sentence": "Apoyándose en los resultados de la prueba piloto, la investigadora respondió a la crítica.",
+    "cloze": "Apoyándose",
+    "answer": "Apoyándose",
+    "lemma": "apoyarse",
+    "meaning": "relying on",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1178.mp3"
+  },
+  {
+    "id": "es-04-1179",
+    "sentence": "Aunque la entrada principal estaba cerrada, los visitantes llegaron al auditorio siguiendo las flechas azules.",
+    "cloze": "siguiendo",
+    "answer": "siguiendo",
+    "lemma": "seguir",
+    "meaning": "following",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1179.mp3"
+  },
+  {
+    "id": "es-04-1180",
+    "sentence": "Escuchando el motor a distintas velocidades, la técnica localizó la pieza suelta.",
+    "cloze": "Escuchando",
+    "answer": "Escuchando",
+    "lemma": "escuchar",
+    "meaning": "listening to",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1180.mp3"
+  },
+  {
+    "id": "es-04-1181",
+    "sentence": "Dos colegas regresaron a la oficina comentando las ventajas de cada sede.",
+    "cloze": "comentando",
+    "answer": "comentando",
+    "lemma": "comentar",
+    "meaning": "discussing",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1181.mp3"
+  },
+  {
+    "id": "es-04-1182",
+    "sentence": "Respetando las restricciones de horario de cada persona, la encargada logró repartir los turnos.",
+    "cloze": "Respetando",
+    "answer": "Respetando",
+    "lemma": "respetar",
+    "meaning": "respecting",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1182.mp3"
+  },
+  {
+    "id": "es-04-1183",
+    "sentence": "Una vez revisado el presupuesto, el comité autorizó la compra de las bocinas.",
+    "cloze": "Una vez revisado",
+    "answer": "Una vez revisado",
+    "lemma": "una vez + participio",
+    "meaning": "once reviewed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1183.mp3"
+  },
+  {
+    "id": "es-04-1184",
+    "sentence": "Concluida la función, el público pasó al vestíbulo para conversar con el elenco.",
+    "cloze": "Concluida",
+    "answer": "Concluida",
+    "lemma": "concluir",
+    "meaning": "finished",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1184.mp3"
+  },
+  {
+    "id": "es-04-1185",
+    "sentence": "Con la rampa ya instalada, el personal reabrió la entrada lateral.",
+    "cloze": "ya instalada",
+    "answer": "ya instalada",
+    "lemma": "instalar",
+    "meaning": "already installed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1185.mp3"
+  },
+  {
+    "id": "es-04-1186",
+    "sentence": "El público entró al auditorio una vez abiertas las puertas.",
+    "cloze": "una vez abiertas",
+    "answer": "una vez abiertas",
+    "lemma": "una vez + participio",
+    "meaning": "once opened",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1186.mp3"
+  },
+  {
+    "id": "es-04-1187",
+    "sentence": "Agotados los boletos de la tarde, el cine programó una función nocturna.",
+    "cloze": "Agotados",
+    "answer": "Agotados",
+    "lemma": "agotar",
+    "meaning": "sold out",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1187.mp3"
+  },
+  {
+    "id": "es-04-1188",
+    "sentence": "Después del ensayo, el orden de las intervenciones quedó definido.",
+    "cloze": "quedó definido",
+    "answer": "quedó definido",
+    "lemma": "quedar + participio",
+    "meaning": "was settled",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1188.mp3"
+  },
+  {
+    "id": "es-04-1189",
+    "sentence": "La asistente dejó marcadas las cifras pendientes en el borrador.",
+    "cloze": "dejó marcadas",
+    "answer": "dejó marcadas",
+    "lemma": "dejar + participio",
+    "meaning": "left marked",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1189.mp3"
+  },
+  {
+    "id": "es-04-1190",
+    "sentence": "Durante el montaje, la entrada principal permaneció cerrada para evitar interrupciones.",
+    "cloze": "permaneció cerrada",
+    "answer": "permaneció cerrada",
+    "lemma": "permanecer + participio",
+    "meaning": "remained closed",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1190.mp3"
+  },
+  {
+    "id": "es-04-1191",
+    "sentence": "Con el último correo del proveedor, quedaron resueltas las dudas sobre la entrega.",
+    "cloze": "quedaron resueltas",
+    "answer": "quedaron resueltas",
+    "lemma": "quedar + participio",
+    "meaning": "were resolved",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1191.mp3"
+  },
+  {
+    "id": "es-04-1192",
+    "sentence": "El mural, restaurado con aportaciones del barrio, ocupa de nuevo la pared principal de la biblioteca.",
+    "cloze": "restaurado",
+    "answer": "restaurado",
+    "lemma": "restaurar",
+    "meaning": "restored",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1192.mp3"
+  },
+  {
+    "id": "es-04-1193",
+    "sentence": "Mónica Torres, responsable del registro, envió las constancias al grupo por correo.",
+    "cloze": "responsable del registro",
+    "answer": "responsable del registro",
+    "lemma": "aposición",
+    "meaning": "person responsible for registration",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1193.mp3"
+  },
+  {
+    "id": "es-04-1194",
+    "sentence": "La biblioteca central, sede del encuentro, habilitó una entrada lateral que facilita el acceso del público.",
+    "cloze": "sede del encuentro",
+    "answer": "sede del encuentro",
+    "lemma": "aposición",
+    "meaning": "venue for the meeting",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1194.mp3"
+  },
+  {
+    "id": "es-04-1195",
+    "sentence": "El área de vinculación, enlace con el museo, confirmó por correo las salas donde el público puede tomar fotografías.",
+    "cloze": "enlace con el museo",
+    "answer": "enlace con el museo",
+    "lemma": "aposición",
+    "meaning": "liaison with the museum",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1195.mp3"
+  },
+  {
+    "id": "es-04-1196",
+    "sentence": "La sede alterna —un auditorio municipal— ofrece mejor acústica que el patio.",
+    "cloze": "un auditorio municipal",
+    "answer": "un auditorio municipal",
+    "lemma": "aposición",
+    "meaning": "a municipal auditorium",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1196.mp3"
+  },
+  {
+    "id": "es-04-1197",
+    "sentence": "La sesión cerró con una actividad breve: una ronda de preguntas.",
+    "cloze": "una ronda de preguntas",
+    "answer": "una ronda de preguntas",
+    "lemma": "aposición",
+    "meaning": "a question-and-answer session",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1197.mp3"
+  },
+  {
+    "id": "es-04-1198",
+    "sentence": "El cortometraje Luz de patio, ganador del concurso, abrió la muestra anual.",
+    "cloze": "ganador del concurso",
+    "answer": "ganador del concurso",
+    "lemma": "aposición",
+    "meaning": "winner of the competition",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1198.mp3"
+  },
+  {
+    "id": "es-04-1199",
+    "sentence": "Queda un solo pendiente —confirmar el transporte— y el resto del itinerario ya está listo.",
+    "cloze": "confirmar el transporte",
+    "answer": "confirmar el transporte",
+    "lemma": "aposición",
+    "meaning": "confirming transportation",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1199.mp3"
+  },
+  {
+    "id": "es-04-1200",
+    "sentence": "Micrófonos, bases y cables —el equipo de audio— quedaron guardados en la bodega.",
+    "cloze": "el equipo de audio",
+    "answer": "el equipo de audio",
+    "lemma": "aposición",
+    "meaning": "the audio equipment",
+    "accepted_answers": [],
+    "audio": "work/audio/es-MX/04/es-04-1200.mp3"
   }
 ]
