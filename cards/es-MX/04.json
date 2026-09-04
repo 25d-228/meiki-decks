@@ -12787,7 +12787,9 @@
     "answer": "se podían recuperar",
     "lemma": "poder recuperarse",
     "meaning": "could be recovered",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "podían recuperarse"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1262.mp3"
   },
   {
@@ -13061,7 +13063,9 @@
     "answer": "podía recibirlo",
     "lemma": "poder recibir",
     "meaning": "could receive it",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "lo podía recibir"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1289.mp3"
   },
   {
@@ -13091,7 +13095,9 @@
     "answer": "puede pagarse",
     "lemma": "poder pagarse",
     "meaning": "can be paid",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "se puede pagar"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1292.mp3"
   },
   {
@@ -13271,7 +13277,9 @@
     "answer": "podría llevarla",
     "lemma": "poder llevar",
     "meaning": "could take her",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "la podría llevar"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1310.mp3"
   },
   {
@@ -13723,7 +13731,9 @@
     "answer": "debía entregarse",
     "lemma": "deber entregarse",
     "meaning": "had to be submitted",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "se debía entregar"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1355.mp3"
   },
   {
@@ -13893,7 +13903,9 @@
     "answer": "se alcanzaba a ver",
     "lemma": "alcanzar a ver",
     "meaning": "could be seen",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "alcanzaba a verse"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1372.mp3"
   },
   {
@@ -14098,11 +14110,11 @@
   },
   {
     "id": "es-04-1393",
-    "sentence": "Desde mi perspectiva, el informe explica bien el problema, pero deja poco espacio para las posibles soluciones.",
-    "cloze": "Desde mi perspectiva",
-    "answer": "Desde mi perspectiva",
-    "lemma": "desde mi perspectiva",
-    "meaning": "from my perspective",
+    "sentence": "El informe explica bien el problema, pero me parece insuficiente el espacio que dedica a las posibles soluciones.",
+    "cloze": "me parece insuficiente",
+    "answer": "me parece insuficiente",
+    "lemma": "parecer insuficiente",
+    "meaning": "seems insufficient to me",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1393.mp3"
   },
@@ -14118,31 +14130,31 @@
   },
   {
     "id": "es-04-1395",
-    "sentence": "En lo personal, prefiero recibir el orden del día antes de cada reunión.",
-    "cloze": "En lo personal",
-    "answer": "En lo personal",
-    "lemma": "en lo personal",
-    "meaning": "personally",
+    "sentence": "Para preparar mis comentarios, prefiero recibir el orden del día antes de cada reunión.",
+    "cloze": "prefiero recibir",
+    "answer": "prefiero recibir",
+    "lemma": "preferir recibir",
+    "meaning": "I prefer to receive",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1395.mp3"
   },
   {
     "id": "es-04-1396",
-    "sentence": "A mi entender, el retraso se debió más a la falta de coordinación que al cambio de proveedor.",
-    "cloze": "A mi entender",
-    "answer": "A mi entender",
-    "lemma": "a mi entender",
-    "meaning": "as I see it",
+    "sentence": "Por la secuencia de los correos, atribuyo el retraso más a la falta de coordinación que al cambio de proveedor.",
+    "cloze": "atribuyo",
+    "answer": "atribuyo",
+    "lemma": "atribuir",
+    "meaning": "I attribute",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1396.mp3"
   },
   {
     "id": "es-04-1397",
-    "sentence": "Personalmente, mantendría la función de búsqueda aunque simplificáramos el menú principal.",
-    "cloze": "Personalmente",
-    "answer": "Personalmente",
-    "lemma": "personalmente",
-    "meaning": "personally",
+    "sentence": "Después de probar las dos versiones, mantendría la función de búsqueda aunque simplificáramos el menú principal.",
+    "cloze": "mantendría",
+    "answer": "mantendría",
+    "lemma": "mantener",
+    "meaning": "I would keep",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1397.mp3"
   },
@@ -15335,7 +15347,9 @@
     "answer": "podemos considerarla",
     "lemma": "poder considerar",
     "meaning": "we can consider it",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "la podemos considerar"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1516.mp3"
   },
   {
@@ -15575,7 +15589,9 @@
     "answer": "podría tratarse",
     "lemma": "poder tratarse de",
     "meaning": "could be",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "se podría tratar"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1540.mp3"
   },
   {
@@ -15715,7 +15731,9 @@
     "answer": "solo puede considerarse",
     "lemma": "solo poder considerarse",
     "meaning": "can only be considered",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "solo se puede considerar"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1554.mp3"
   },
   {
@@ -15770,11 +15788,11 @@
   },
   {
     "id": "es-04-1560",
-    "sentence": "El presupuesto puede presentarse mañana, siempre y cuando Compras confirme el costo del envío.",
-    "cloze": "siempre y cuando",
-    "answer": "siempre y cuando",
-    "lemma": "siempre y cuando",
-    "meaning": "provided that",
+    "sentence": "El presupuesto puede presentarse mañana, pero su aprobación queda condicionada a que Compras confirme el costo del envío.",
+    "cloze": "queda condicionada a",
+    "answer": "queda condicionada a",
+    "lemma": "quedar condicionado a",
+    "meaning": "is conditional on",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1560.mp3"
   },
@@ -16907,7 +16925,9 @@
     "answer": "puede resumirse así",
     "lemma": "poder resumirse así",
     "meaning": "can be summarized as follows",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "se puede resumir así"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1673.mp3"
   },
   {
@@ -16922,11 +16942,11 @@
   },
   {
     "id": "es-04-1675",
-    "sentence": "El informe confirma una baja en las visitas, pero esto no significa que el nuevo horario sea la causa.",
-    "cloze": "esto no significa que",
-    "answer": "esto no significa que",
-    "lemma": "esto no significa que",
-    "meaning": "this does not mean that",
+    "sentence": "El informe confirma una baja en las visitas, pero esa coincidencia no basta para atribuirla al nuevo horario.",
+    "cloze": "no basta para atribuirla",
+    "answer": "no basta para atribuirla",
+    "lemma": "no bastar para atribuir",
+    "meaning": "is not enough to attribute it",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1675.mp3"
   },
@@ -17317,7 +17337,9 @@
     "answer": "puede obligarte a",
     "lemma": "poder obligar a",
     "meaning": "may force you to",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "te puede obligar a"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1714.mp3"
   },
   {
@@ -17357,7 +17379,9 @@
     "answer": "dejaría de recomendarla",
     "lemma": "dejar de recomendar",
     "meaning": "I would stop recommending it",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "la dejaría de recomendar"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1718.mp3"
   },
   {
@@ -17747,7 +17771,9 @@
     "answer": "podríamos limitarla",
     "lemma": "poder limitarla",
     "meaning": "we could limit it",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "la podríamos limitar"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1757.mp3"
   },
   {
@@ -18237,7 +18263,9 @@
     "answer": "podría indicarme",
     "lemma": "poder indicar",
     "meaning": "could you tell me",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "me podría indicar"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1806.mp3"
   },
   {
@@ -18577,7 +18605,9 @@
     "answer": "podrá consultarse",
     "lemma": "poder consultarse",
     "meaning": "will be available for consultation",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "se podrá consultar"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1840.mp3"
   },
   {
@@ -18668,7 +18698,9 @@
     "lemma": "deber solicitar",
     "meaning": "I must request it",
     "accepted_answers": [
-      "tengo que solicitarlo"
+      "tengo que solicitarlo",
+      "lo debo solicitar",
+      "lo tengo que solicitar"
     ],
     "audio": "work/audio/es-MX/04/es-04-1849.mp3"
   },
@@ -18699,7 +18731,9 @@
     "answer": "tendría que bajarme",
     "lemma": "tener que bajarse",
     "meaning": "I would need to get off",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "me tendría que bajar"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1852.mp3"
   },
   {
@@ -19095,7 +19129,9 @@
     "answer": "no lo voy a discutir",
     "lemma": "no ir a discutir algo",
     "meaning": "I am not going to discuss it",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "no voy a discutirlo"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1891.mp3"
   },
   {
@@ -19235,7 +19271,9 @@
     "answer": "cómo podemos arreglarlo",
     "lemma": "cómo arreglar algo",
     "meaning": "how can we fix it",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "cómo lo podemos arreglar"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1905.mp3"
   },
   {
@@ -19355,7 +19393,9 @@
     "answer": "querían resolverlo",
     "lemma": "querer resolver",
     "meaning": "they wanted to resolve it",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "lo querían resolver"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1917.mp3"
   },
   {
@@ -19465,7 +19505,9 @@
     "answer": "sigue sin aceptarla",
     "lemma": "seguir sin aceptar",
     "meaning": "still does not accept it",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "la sigue sin aceptar"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1928.mp3"
   },
   {
@@ -19845,7 +19887,9 @@
     "answer": "debería mantenerse",
     "lemma": "deber mantenerse",
     "meaning": "should remain",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "se debería mantener"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1966.mp3"
   },
   {
@@ -19945,7 +19989,9 @@
     "answer": "pudiera comunicarme",
     "lemma": "poder comunicarse",
     "meaning": "I could communicate",
-    "accepted_answers": [],
+    "accepted_answers": [
+      "me pudiera comunicar"
+    ],
     "audio": "work/audio/es-MX/04/es-04-1976.mp3"
   },
   {
