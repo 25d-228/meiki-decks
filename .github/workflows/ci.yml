@@ -68,6 +68,7 @@ jobs:
               "cards/es-MX/01.json",
               "cards/es-MX/02.json",
               "cards/es-MX/03.json",
+              "cards/es-MX/04.json",
               "cards/fr-FR/01.json",
               "cards/fr-FR/02.json",
               "cards/fr-FR/03.json",
@@ -90,6 +91,7 @@ jobs:
               "coverage/es-MX/01.md",
               "coverage/es-MX/02.md",
               "coverage/es-MX/03.md",
+              "coverage/es-MX/04.md",
               "coverage/fr-FR/01.md",
               "coverage/fr-FR/02.md",
               "coverage/fr-FR/03.md",
@@ -153,6 +155,7 @@ jobs:
           python meiki_decks.py check --language es-MX --stage 01
           python meiki_decks.py check --language es-MX --stage 02
           python meiki_decks.py check --language es-MX --stage 03
+          python meiki_decks.py check --language es-MX --stage 04
       - name: Build and verify tiny archive
         run: >-
           python -m unittest -v
