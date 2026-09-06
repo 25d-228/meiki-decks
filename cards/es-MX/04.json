@@ -11940,7 +11940,7 @@
     "sentence": "Mónica Torres, responsable del registro, envió las constancias al grupo por correo.",
     "cloze": "responsable del registro",
     "answer": "responsable del registro",
-    "lemma": "aposición",
+    "lemma": "responsable del registro",
     "meaning": "person responsible for registration",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1193.mp3"
@@ -11950,7 +11950,7 @@
     "sentence": "La biblioteca central, sede del encuentro, habilitó una entrada lateral que facilita el acceso del público.",
     "cloze": "sede del encuentro",
     "answer": "sede del encuentro",
-    "lemma": "aposición",
+    "lemma": "sede del encuentro",
     "meaning": "venue for the meeting",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1194.mp3"
@@ -11960,7 +11960,7 @@
     "sentence": "El área de vinculación, enlace con el museo, confirmó por correo las salas donde el público puede tomar fotografías.",
     "cloze": "enlace con el museo",
     "answer": "enlace con el museo",
-    "lemma": "aposición",
+    "lemma": "enlace con el museo",
     "meaning": "liaison with the museum",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1195.mp3"
@@ -11970,7 +11970,7 @@
     "sentence": "La sede alterna —un auditorio municipal— ofrece mejor acústica que el patio.",
     "cloze": "un auditorio municipal",
     "answer": "un auditorio municipal",
-    "lemma": "aposición",
+    "lemma": "auditorio municipal",
     "meaning": "a municipal auditorium",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1196.mp3"
@@ -11980,7 +11980,7 @@
     "sentence": "La sesión cerró con una actividad breve: una ronda de preguntas.",
     "cloze": "una ronda de preguntas",
     "answer": "una ronda de preguntas",
-    "lemma": "aposición",
+    "lemma": "ronda de preguntas",
     "meaning": "a question-and-answer session",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1197.mp3"
@@ -11990,7 +11990,7 @@
     "sentence": "El cortometraje Luz de patio, ganador del concurso, abrió la muestra anual.",
     "cloze": "ganador del concurso",
     "answer": "ganador del concurso",
-    "lemma": "aposición",
+    "lemma": "ganador del concurso",
     "meaning": "winner of the competition",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1198.mp3"
@@ -12000,7 +12000,7 @@
     "sentence": "Queda un solo pendiente —confirmar el transporte— y el resto del itinerario ya está listo.",
     "cloze": "confirmar el transporte",
     "answer": "confirmar el transporte",
-    "lemma": "aposición",
+    "lemma": "confirmar el transporte",
     "meaning": "confirming transportation",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1199.mp3"
@@ -12010,7 +12010,7 @@
     "sentence": "Micrófonos, bases y cables —el equipo de audio— quedaron guardados en la bodega.",
     "cloze": "el equipo de audio",
     "answer": "el equipo de audio",
-    "lemma": "aposición",
+    "lemma": "equipo de audio",
     "meaning": "the audio equipment",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1200.mp3"
@@ -19358,10 +19358,10 @@
   {
     "id": "es-04-1933",
     "sentence": "Si recibes un código que no solicitaste, no se lo compartas a nadie, ni siquiera a quien diga ser del servicio técnico.",
-    "cloze": "no se lo compartas",
-    "answer": "no se lo compartas",
-    "lemma": "compartir",
-    "meaning": "do not share it with them",
+    "cloze": "se lo compartas",
+    "answer": "se lo compartas",
+    "lemma": "compartírselo",
+    "meaning": "share it with them",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1933.mp3"
   },
