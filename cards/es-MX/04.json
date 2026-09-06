@@ -11998,10 +11998,10 @@
   {
     "id": "es-04-1199",
     "sentence": "Queda un solo pendiente —confirmar el transporte— y el resto del itinerario ya está listo.",
-    "cloze": "confirmar el transporte",
-    "answer": "confirmar el transporte",
-    "lemma": "confirmar el transporte",
-    "meaning": "confirming transportation",
+    "cloze": "confirmar",
+    "answer": "confirmar",
+    "lemma": "confirmar",
+    "meaning": "to confirm",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1199.mp3"
   },
@@ -12550,10 +12550,10 @@
   {
     "id": "es-04-1254",
     "sentence": "Para evitar problemas durante el trayecto, el aviso aclara que las mascotas deben permanecer en su transportadora.",
-    "cloze": "deben permanecer",
-    "answer": "deben permanecer",
-    "lemma": "deber permanecer",
-    "meaning": "must remain",
+    "cloze": "deben",
+    "answer": "deben",
+    "lemma": "deber",
+    "meaning": "must",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1254.mp3"
   },
@@ -12630,13 +12630,11 @@
   {
     "id": "es-04-1262",
     "sentence": "Después de revisar el daño, el técnico reconoció que los archivos ya no se podían recuperar.",
-    "cloze": "se podían recuperar",
-    "answer": "se podían recuperar",
-    "lemma": "poder recuperarse",
-    "meaning": "could be recovered",
-    "accepted_answers": [
-      "podían recuperarse"
-    ],
+    "cloze": "se podían",
+    "answer": "se podían",
+    "lemma": "poder",
+    "meaning": "could be",
+    "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-1262.mp3"
   },
   {
