@@ -302,10 +302,10 @@
   {
     "id": "es-04-0031",
     "sentence": "El autobús avanzaba despacio cuando el motor dio un tirón y todos voltearon hacia el conductor.",
-    "cloze": "dio un tirón",
-    "answer": "dio un tirón",
-    "lemma": "dar un tirón",
-    "meaning": "gave a jolt",
+    "cloze": "voltearon",
+    "answer": "voltearon",
+    "lemma": "voltear",
+    "meaning": "turned",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-0031.mp3"
   },
@@ -2621,11 +2621,11 @@
   },
   {
     "id": "es-04-0263",
-    "sentence": "Antes de pagar, sería conveniente confirmar por escrito que el equipo está disponible.",
-    "cloze": "sería conveniente",
-    "answer": "sería conveniente",
-    "lemma": "ser conveniente",
-    "meaning": "it would be advisable",
+    "sentence": "Antes de pagar, aconsejaría confirmar por escrito que el equipo está disponible.",
+    "cloze": "aconsejaría",
+    "answer": "aconsejaría",
+    "lemma": "aconsejar",
+    "meaning": "I would advise",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-0263.mp3"
   },
@@ -2982,10 +2982,10 @@
   {
     "id": "es-04-0299",
     "sentence": "En retrospectiva, habría sido mejor comparar las garantías antes de comprar la computadora.",
-    "cloze": "habría sido mejor",
-    "answer": "habría sido mejor",
-    "lemma": "ser mejor",
-    "meaning": "would have been better",
+    "cloze": "habría sido",
+    "answer": "habría sido",
+    "lemma": "ser",
+    "meaning": "would have been",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-0299.mp3"
   },
@@ -5971,11 +5971,11 @@
   },
   {
     "id": "es-04-0598",
-    "sentence": "El asesor confirmó que el curso cuenta con tutorías individuales durante todo este semestre.",
-    "cloze": "cuenta con",
-    "answer": "cuenta con",
-    "lemma": "contar con",
-    "meaning": "includes",
+    "sentence": "El asesor confirmó que el curso brinda tutorías individuales durante todo este semestre.",
+    "cloze": "brinda",
+    "answer": "brinda",
+    "lemma": "brindar",
+    "meaning": "provides",
     "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-0598.mp3"
   },
@@ -7921,14 +7921,12 @@
   },
   {
     "id": "es-04-0793",
-    "sentence": "Hasta ahora, es el alojamiento más tranquilo que hayamos encontrado cerca del centro.",
-    "cloze": "hayamos encontrado",
-    "answer": "hayamos encontrado",
-    "lemma": "encontrar",
-    "meaning": "we have found",
-    "accepted_answers": [
-      "hemos encontrado"
-    ],
+    "sentence": "Buscamos algún alojamiento cerca del centro que haya recibido comentarios excelentes sobre su tranquilidad.",
+    "cloze": "haya recibido",
+    "answer": "haya recibido",
+    "lemma": "recibir",
+    "meaning": "has received",
+    "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-0793.mp3"
   },
   {
@@ -7943,14 +7941,12 @@
   },
   {
     "id": "es-04-0795",
-    "sentence": "Es el retraso más grave que haya sufrido el proyecto desde que comenzó.",
+    "sentence": "El equipo no conoce ningún proyecto que haya sufrido un retraso tan grave desde su inicio.",
     "cloze": "haya sufrido",
     "answer": "haya sufrido",
     "lemma": "sufrir",
     "meaning": "has experienced",
-    "accepted_answers": [
-      "ha sufrido"
-    ],
+    "accepted_answers": [],
     "audio": "work/audio/es-MX/04/es-04-0795.mp3"
   },
   {
