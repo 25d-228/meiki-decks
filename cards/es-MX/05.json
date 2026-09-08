@@ -10250,5 +10250,405 @@
     "meaning": "remains; persists",
     "audio": "work/audio/es-MX/05/es-05-1020.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1021",
+    "sentence": "Las dos reseñas se nutren del mismo relato: Ana escribe «El montaje fue rápido, según me contó Iván» y Luis aclara «Yo también lo sé por Iván; no estuve ahí». Tenemos dos reseñas que remiten a una sola fuente; ninguna aclara si Iván presenció el montaje.",
+    "cloze": "se nutren",
+    "answer": "se nutren",
+    "lemma": "nutrirse",
+    "meaning": "draw on",
+    "audio": "work/audio/es-MX/05/es-05-1021.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1022",
+    "sentence": "Podemos reconstruir el recorrido de la carpeta hasta recepción con estas observaciones: «Vi a Elsa entregársela a Luis», cuenta Nora; «Enseguida vi a Luis dejarla en recepción», añade Pablo. Ninguno vio quién la recogió después.",
+    "cloze": "reconstruir",
+    "answer": "reconstruir",
+    "lemma": "reconstruir",
+    "meaning": "reconstruct",
+    "audio": "work/audio/es-MX/05/es-05-1022.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1023",
+    "sentence": "—Una vecina escribió «Ayer se fue la luz durante mi clase» y otro vecino, «Ayer hubo un apagón en el taller». ¿Fueron dos cortes? —No podemos diferenciar los episodios con esos mensajes: ninguno indica la hora y ambos hablan del mismo salón.",
+    "cloze": "diferenciar",
+    "answer": "diferenciar",
+    "lemma": "diferenciar",
+    "meaning": "distinguish as separate",
+    "audio": "work/audio/es-MX/05/es-05-1023.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1024",
+    "sentence": "La pregunta «¿Les molestó el ruido?» indujo a las dos asistentes a hablar de ese tema: Eva respondió «Sí, me distrajo» y Luz, «Sí, bastante». Sus respuestas confirman esa molestia, pero no indican si habrían mencionado el ruido por iniciativa propia.",
+    "cloze": "indujo",
+    "answer": "indujo",
+    "lemma": "inducir",
+    "meaning": "prompted",
+    "audio": "work/audio/es-MX/05/es-05-1024.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1025",
+    "sentence": "La editora filtró el contenido antes de publicarlo: de «Me gustó la práctica, pero faltó tiempo» y «La explicación fue clara, aunque no pude hacer preguntas», conservó únicamente los elogios, con lo que desaparecieron las reservas de ambas personas.",
+    "cloze": "filtró",
+    "answer": "filtró",
+    "lemma": "filtrar",
+    "meaning": "filtered",
+    "audio": "work/audio/es-MX/05/es-05-1025.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1026",
+    "sentence": "La síntesis de satisfacción queda sesgada hacia quienes terminaron el curso: la organizadora explica «Solo les pedí opinión a quienes llegaron al final»; una egresada dice «Me gustó mucho» y una persona que abandonó aclara «A mí no me preguntaron». Seguimos sin conocer la valoración de esta última.",
+    "cloze": "sesgada",
+    "answer": "sesgada",
+    "lemma": "sesgado",
+    "meaning": "skewed",
+    "audio": "work/audio/es-MX/05/es-05-1026.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1027",
+    "sentence": "La valoración del grupo queda incompleta por una falla de grabación. De sus únicos tres integrantes, conservamos «El ritmo me acomodó» y «El ritmo me resultó lento»; la tercera persona avisó «Mi respuesta no se grabó». No sabemos hacia qué lado se inclina su opinión.",
+    "cloze": "incompleta",
+    "answer": "incompleta",
+    "lemma": "incompleto",
+    "meaning": "incomplete",
+    "audio": "work/audio/es-MX/05/es-05-1027.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1028",
+    "sentence": "No se recabó información sobre el costo en estas entrevistas: a la pregunta «¿Fue fácil llegar?», una visitante respondió «Sí, encontré la entrada enseguida» y otra, «Sí, las indicaciones me sirvieron». La ausencia de quejas sobre el precio no permite describirlo como accesible.",
+    "cloze": "se recabó",
+    "answer": "se recabó",
+    "lemma": "recabar",
+    "meaning": "was gathered",
+    "audio": "work/audio/es-MX/05/es-05-1028.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1029",
+    "sentence": "En cada relato, distingamos qué se observó y qué se supo por otra persona: Laura dice «Vi que devolvieron las mochilas abiertas; lo del cuaderno perdido me lo contó Diego» y Diego aclara «Yo comprobé que faltaba mi cuaderno; lo de las mochilas abiertas lo sé por Laura». Cada hecho tiene una sola observación directa, aunque figure en las dos versiones.",
+    "cloze": "distingamos",
+    "answer": "distingamos",
+    "lemma": "distinguir",
+    "meaning": "let us distinguish",
+    "audio": "work/audio/es-MX/05/es-05-1029.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1030",
+    "sentence": "Conservemos la duda sobre el cobro: Julia afirma «Vi que entregaron los boletos» y Leo dice «Creo que los cobraron, pero no vi ningún pago». Al reunir ambos comentarios, la certeza de Julia no se transfiere a lo que supone Leo.",
+    "cloze": "se transfiere",
+    "answer": "se transfiere",
+    "lemma": "transferirse",
+    "meaning": "carries over",
+    "audio": "work/audio/es-MX/05/es-05-1030.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1031",
+    "sentence": "Las entrevistas abarcan a las tres personas que usaron el estudio ayer: Lina dijo «La iluminación me sirvió», Iván comentó «Pude trabajar bien con esa luz» y Mar señaló «La luz fue adecuada para mi trabajo». Podemos recoger una valoración favorable de la iluminación compartida por ese grupo completo.",
+    "cloze": "abarcan",
+    "answer": "abarcan",
+    "lemma": "abarcar",
+    "meaning": "cover",
+    "audio": "work/audio/es-MX/05/es-05-1031.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1032",
+    "sentence": "No podemos universalizar la facilidad de entrada que describen dos visitantes: «Pasé sin ayuda», dice una; «Entré sin dificultad», cuenta otra. La tercera precisa «Yo no pude pasar con mi carriola».",
+    "cloze": "universalizar",
+    "answer": "universalizar",
+    "lemma": "universalizar",
+    "meaning": "extend to everyone",
+    "audio": "work/audio/es-MX/05/es-05-1032.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1033",
+    "sentence": "Para recoger la incomodidad que vivieron Rosa y Joel, bastan sus propios testimonios: «Me costó pedir la palabra», dice ella; «Me dio pena interrumpir», cuenta él. No necesitamos un observador externo para atribuirles esas sensaciones; sus palabras tampoco prueban que alguien quisiera intimidarlos.",
+    "cloze": "bastan",
+    "answer": "bastan",
+    "lemma": "bastar",
+    "meaning": "are sufficient",
+    "audio": "work/audio/es-MX/05/es-05-1033.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1034",
+    "sentence": "¿Por qué hablar de deterioro del servicio? En la reseña anterior, Nora escribió «Me atendieron con amabilidad»; en la de hoy, Pablo dice «Esperé mucho, pero fueron amables». Coinciden en el trato; como Nora no indicó cuánto esperó, no podemos concluir que la atención se haya vuelto más lenta.",
+    "cloze": "deterioro",
+    "answer": "deterioro",
+    "lemma": "deterioro",
+    "meaning": "deterioration",
+    "audio": "work/audio/es-MX/05/es-05-1034.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1035",
+    "sentence": "No describamos como duradera la mejora solo porque los comentarios abarcan varios meses: Elena escribió en enero «Hoy estrené el formato y acabé más rápido»; Omar anotó en junio «Lo usé por primera vez y me ahorró trabajo». Son dos primeras impresiones de personas distintas; ninguna informa sobre usos posteriores.",
+    "cloze": "duradera",
+    "answer": "duradera",
+    "lemma": "duradero",
+    "meaning": "lasting",
+    "audio": "work/audio/es-MX/05/es-05-1035.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1036",
+    "sentence": "«El lunes encontré la puerta cerrada», escribió la encargada; «El martes seguía cerrada», informó el vecino. Ninguno sabe desde qué día estaba así: sus observaciones no permiten fechar el inicio del cierre, aunque muestran que ya había ocurrido cuando llegó la encargada.",
+    "cloze": "fechar",
+    "answer": "fechar",
+    "lemma": "fechar",
+    "meaning": "determine the date of",
+    "audio": "work/audio/es-MX/05/es-05-1036.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1037",
+    "sentence": "El mensaje de hoy no sustituye al de ayer como testimonio de lo ocurrido. Ana escribió ayer «No conseguí abrir el archivo» y hoy avisa «Esta vez abrió sin problemas». Su experiencia actual es favorable; la dificultad anterior también debe conservarse en el resumen de sus dos intentos.",
+    "cloze": "sustituye",
+    "answer": "sustituye",
+    "lemma": "sustituir",
+    "meaning": "replaces",
+    "audio": "work/audio/es-MX/05/es-05-1037.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1038",
+    "sentence": "El observador alteró el ritmo del ejercicio que después describió como tranquilo: reconoce «Les pedí que hicieran una pausa entre cada intervención», y una participante confirma «Fuimos más despacio porque él nos lo pidió». Esos relatos no permiten describir ese ritmo como espontáneo.",
+    "cloze": "alteró",
+    "answer": "alteró",
+    "lemma": "alterar",
+    "meaning": "changed",
+    "audio": "work/audio/es-MX/05/es-05-1038.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1039",
+    "sentence": "¿Las dos personas se quejan de la duración del taller? Una reseña dice «El taller se me hizo pesado» y la otra, «A mí también me pareció pesado». Como no precisan en qué sentido usan esa palabra, no atribuyamos su valoración negativa a la duración.",
+    "cloze": "precisan",
+    "answer": "precisan",
+    "lemma": "precisar",
+    "meaning": "specify",
+    "audio": "work/audio/es-MX/05/es-05-1039.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1040",
+    "sentence": "Al copiar «No pude descargar la guía» y «No encontré los horarios», se conservaron las dos quejas, pero se perdieron los nombres de sus autores. Podemos mencionar ambos problemas; para preguntar a cada persona por el suyo, necesitamos rastrear la autoría en los mensajes originales.",
+    "cloze": "rastrear",
+    "answer": "rastrear",
+    "lemma": "rastrear",
+    "meaning": "trace",
+    "audio": "work/audio/es-MX/05/es-05-1040.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1041",
+    "sentence": "La pregunta «¿Prefieres leer en papel o en pantalla?» encauzó la conversación hacia esos dos soportes: Julia eligió papel y Saúl, pantalla. Los audiolibros no figuraban entre las opciones; sus respuestas no establecen qué lugar les darían frente a los otros formatos.",
+    "cloze": "encauzó",
+    "answer": "encauzó",
+    "lemma": "encauzar",
+    "meaning": "channeled",
+    "audio": "work/audio/es-MX/05/es-05-1041.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1042",
+    "sentence": "En el resumen, llamarlas «fallitas sin importancia» sería minimizar dificultades cuya gravedad desconocemos: una usuaria escribió «Mi ficha tenía errores» y otro usuario, «Mis datos estaban mal». Ninguno explicó qué datos fallaron ni qué consecuencias tuvieron esos errores.",
+    "cloze": "minimizar",
+    "answer": "minimizar",
+    "lemma": "minimizar",
+    "meaning": "downplay",
+    "audio": "work/audio/es-MX/05/es-05-1042.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1043",
+    "sentence": "La referencia de «todos» queda acotada por la aclaración de quien habló: «Todos entendimos las instrucciones; me refiero a mi mesa», dijo Lilia. Otro participante añadió «Yo también entendí, pero no hablé con las otras mesas». El resumen no puede atribuir esa comprensión a todo el salón.",
+    "cloze": "acotada",
+    "answer": "acotada",
+    "lemma": "acotado",
+    "meaning": "restricted in scope",
+    "audio": "work/audio/es-MX/05/es-05-1043.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1044",
+    "sentence": "Luis desautoriza el elogio que le atribuye el borrador: este reúne «El programa me resultó útil», de Ana, y «Me facilitó las entregas», supuestamente de Luis; él responde «Yo no dije eso; ni siquiera lo he usado». Ya no contamos con dos valoraciones favorables atribuibles a esas personas.",
+    "cloze": "desautoriza",
+    "answer": "desautoriza",
+    "lemma": "desautorizar",
+    "meaning": "disavows",
+    "audio": "work/audio/es-MX/05/es-05-1044.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1045",
+    "sentence": "La corrección de Bea desliga su observación de la causa que antes proponía: «Sí vi cajas mojadas, pero retiro lo de la gotera; no sé cómo se mojaron». Iván añade «Yo también vi agua en las cajas, no vi de dónde salió». Podemos conservar la coincidencia sobre el estado de las cajas sin conservar aquella explicación.",
+    "cloze": "desliga",
+    "answer": "desliga",
+    "lemma": "desligar",
+    "meaning": "separates",
+    "audio": "work/audio/es-MX/05/es-05-1045.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1046",
+    "sentence": "En los dos relatos aparece una demora, pero presentarla como habitual añadiría una frecuencia que desconocemos: «La única vez que fui, esperé mucho», cuenta Nora; «En mi única visita también tardaron», dice Ulises. Ninguno describe cómo suele funcionar el lugar.",
+    "cloze": "habitual",
+    "answer": "habitual",
+    "lemma": "habitual",
+    "meaning": "regular",
+    "audio": "work/audio/es-MX/05/es-05-1046.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1047",
+    "sentence": "Las valoraciones sugieren una mejora de los textos, pero no sabemos si fue gradual: al inicio del proyecto, Elena anotó «Los textos son difíciles de seguir»; al terminar, Omar escribió «Ahora se siguen con facilidad». Son apreciaciones de personas distintas y faltan observaciones intermedias para describir cómo cambiaron los textos.",
+    "cloze": "gradual",
+    "answer": "gradual",
+    "lemma": "gradual",
+    "meaning": "gradual",
+    "audio": "work/audio/es-MX/05/es-05-1047.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1048",
+    "sentence": "Ana comenta «No oí bien a la guía y la ruta fue demasiado larga»; Mario responde «Comparto lo del sonido; sobre la ruta no opino porque me fui antes» y Luz añade «A mí el sonido me pareció bien, pero la ruta se me hizo demasiado larga». Mario se suma únicamente a la crítica de Ana sobre el sonido; Luz, a la de la ruta. Ninguna de las dos objeciones es compartida por los tres.",
+    "cloze": "se suma",
+    "answer": "se suma",
+    "lemma": "sumarse",
+    "meaning": "joins in",
+    "audio": "work/audio/es-MX/05/es-05-1048.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1049",
+    "sentence": "Podemos agrupar «No alcancé a leer las letras del mapa» y «Las flechas casi no se distinguen del fondo» como dificultades para leer la señalización. Los dos comentarios permiten esa síntesis concreta; ninguno describe problemas para desplazarse por el edificio.",
+    "cloze": "agrupar",
+    "answer": "agrupar",
+    "lemma": "agrupar",
+    "meaning": "group together",
+    "audio": "work/audio/es-MX/05/es-05-1049.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1050",
+    "sentence": "En esas respuestas, el jueves se contempla como una opción común, sin quedar elegido: Laura dice «Me serviría el martes o el jueves; aún no decido» y Clara señala «Podría ir el jueves o el viernes; tampoco he escogido».",
+    "cloze": "se contempla",
+    "answer": "se contempla",
+    "lemma": "contemplar",
+    "meaning": "is considered",
+    "audio": "work/audio/es-MX/05/es-05-1050.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1051",
+    "sentence": "El armado con las piezas del paquete es realizable, según la experiencia que Rosa relata: «Logré armarlo usando solo lo que venía». El comentario de Iván, «Con esas mismas piezas yo no pude», impide presentarlo como un resultado asegurado para cualquiera, pero no borra aquel caso de éxito.",
+    "cloze": "realizable",
+    "answer": "realizable",
+    "lemma": "realizable",
+    "meaning": "achievable",
+    "audio": "work/audio/es-MX/05/es-05-1051.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1052",
+    "sentence": "«Me preocupa quedarme sin lugar», dice Ana; «A mí me da miedo no alcanzar asiento», comenta Joel. Ninguno ha consultado el cupo: la coincidencia de sus temores no basta para fundamentar una afirmación sobre la falta de lugares.",
+    "cloze": "fundamentar",
+    "answer": "fundamentar",
+    "lemma": "fundamentar",
+    "meaning": "substantiate",
+    "audio": "work/audio/es-MX/05/es-05-1052.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1053",
+    "sentence": "No demos por subsanadas las dos fallas señaladas. Ayer Ana escribió «La ficha no abre» y Luis, «No puedo descargar la constancia»; hoy solo llegó una respuesta de seguimiento: «Mi ficha ya abre», de Ana. Sobre la descarga seguimos sin información nueva.",
+    "cloze": "subsanadas",
+    "answer": "subsanadas",
+    "lemma": "subsanar",
+    "meaning": "remedied",
+    "audio": "work/audio/es-MX/05/es-05-1053.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1054",
+    "sentence": "Entre las tres reseñas recibidas predomina la valoración favorable del acompañamiento: «Me ayudaron cuando lo necesité», dice Eva; «Siempre encontré a quién preguntar», comenta Joel; «Yo pedí ayuda y no me respondieron», señala Ruth. La experiencia negativa de Ruth debe figurar junto con los elogios.",
+    "cloze": "predomina",
+    "answer": "predomina",
+    "lemma": "predominar",
+    "meaning": "predominates",
+    "audio": "work/audio/es-MX/05/es-05-1054.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1055",
+    "sentence": "La presencia de la coordinadora cohibió a una de estas dos asistentes, según explicó después de la reunión: «Callé mi crítica al horario porque ella estaba enfrente». La otra contó «Yo tampoco me animé a decirle que faltó práctica». Sus silencios de aquella reunión no eran valoraciones favorables.",
+    "cloze": "cohibió",
+    "answer": "cohibió",
+    "lemma": "cohibir",
+    "meaning": "inhibited",
+    "audio": "work/audio/es-MX/05/es-05-1055.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1056",
+    "sentence": "«El taller cumplió parcialmente las expectativas» es una formulación negociada: Inés explica «Yo quería poner que fue excelente, pero acepté bajar el tono» y Pablo dice «Yo quería decir que decepcionó; acordamos esa frase intermedia». El texto conjunto no permite atribuirles la misma valoración inicial.",
+    "cloze": "negociada",
+    "answer": "negociada",
+    "lemma": "negociar",
+    "meaning": "negotiated",
+    "audio": "work/audio/es-MX/05/es-05-1056.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1057",
+    "sentence": "En el borrador, una frase enlaza dos citas: «La explicación de Sara convenció a David». Sara respondió «Mi cita está bien: dije que el taller era útil; solo revisé eso» y David aclaró «La mía también: dije que volvería; no leí el resto del borrador». Ambos validaron sus propias citas; la frase que las conecta quedó fuera de las dos revisiones. No presentemos el borrador completo como aprobado por ellos.",
+    "cloze": "validaron",
+    "answer": "validaron",
+    "lemma": "validar",
+    "meaning": "confirmed as accurate",
+    "audio": "work/audio/es-MX/05/es-05-1057.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1058",
+    "sentence": "El cambio traslada trabajo de una persona a otra, según estos comentarios: Irene explica «Ahora reviso menos porque Joel revisa también mi parte» y él confirma «Hago mi revisión y la de Irene». Podemos recoger el alivio de ella; las frases no describen una reducción del trabajo conjunto.",
+    "cloze": "traslada",
+    "answer": "traslada",
+    "lemma": "trasladar",
+    "meaning": "shifts",
+    "audio": "work/audio/es-MX/05/es-05-1058.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1059",
+    "sentence": "Las preguntas «¿Será difícil entrar con una carriola?» y «¿Habrá espacio para pasar con ella?» muestran una preocupación compartida por el acceso, pero no atestiguan dificultades ya vividas. Las dos personas aclararon que todavía no habían visitado el lugar.",
+    "cloze": "atestiguan",
+    "answer": "atestiguan",
+    "lemma": "atestiguar",
+    "meaning": "attest to",
+    "audio": "work/audio/es-MX/05/es-05-1059.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1060",
+    "sentence": "Dos elogios de un curso no establecen su superioridad frente al otro disponible: Marta dice «En este aprendí mucho; el otro no lo conozco» y Raúl comenta «Este me sirvió; tampoco probé el otro». Tenemos experiencias favorables, pero ninguna comparación entre ambos cursos.",
+    "cloze": "superioridad",
+    "answer": "superioridad",
+    "lemma": "superioridad",
+    "meaning": "superiority",
+    "audio": "work/audio/es-MX/05/es-05-1060.mp3",
+    "accepted_answers": []
   }
 ]
