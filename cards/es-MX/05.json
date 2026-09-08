@@ -6046,5 +6046,407 @@
     "meaning": "I feel obligated",
     "audio": "work/audio/es-MX/05/es-05-0600.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-0601",
+    "sentence": "¿No hubiera convenido consultar a quienes cargan el equipo antes de cambiar la distribución? La nueva sí reduce los traslados; probémosla con ellos antes de adoptarla definitivamente.",
+    "cloze": "hubiera convenido",
+    "answer": "hubiera convenido",
+    "lemma": "convenir",
+    "meaning": "it would have been advisable",
+    "audio": "work/audio/es-MX/05/es-05-0601.mp3",
+    "accepted_answers": [
+      "hubiese convenido"
+    ]
+  },
+  {
+    "id": "es-05-0602",
+    "sentence": "Quise liberar a mi hermana de los preparativos y acabé decidiendo la fiesta sin ella; me pesa haberla dejado fuera, así que le voy a preguntar qué quiere conservar.",
+    "cloze": "me pesa",
+    "answer": "me pesa",
+    "lemma": "pesar",
+    "meaning": "I regret",
+    "audio": "work/audio/es-MX/05/es-05-0602.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0603",
+    "sentence": "¿De qué sirve mandar otra explicación con la asistente? La promesa de entregar los retratos fue mía; prefiero dar la cara y acordar personalmente con ustedes una entrega parcial.",
+    "cloze": "dar la cara",
+    "answer": "dar la cara",
+    "lemma": "dar la cara",
+    "meaning": "face people and take responsibility",
+    "audio": "work/audio/es-MX/05/es-05-0603.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0604",
+    "sentence": "—Paula entregó tarde; para que no se repita, propongo quitarle el proyecto. —Eso sería desproporcionado por una sola demora. Como compañeros, podemos pedirle avances más frecuentes.",
+    "cloze": "desproporcionado",
+    "answer": "desproporcionado",
+    "lemma": "desproporcionado",
+    "meaning": "disproportionate",
+    "audio": "work/audio/es-MX/05/es-05-0604.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0605",
+    "sentence": "Lamento que mi aviso terminara confundiendo a varios, aunque el lugar de la reunión cambió después de que lo envié; ahora agregaré una aclaración al mismo mensaje.",
+    "cloze": "Lamento",
+    "answer": "Lamento",
+    "lemma": "lamentar",
+    "meaning": "I regret",
+    "audio": "work/audio/es-MX/05/es-05-0605.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0606",
+    "sentence": "Aunque contesté todas las dudas que llegaron por correo, no estuve a la altura de mi compromiso de acompañar al grupo: para la siguiente entrega voy a abrir un espacio de consulta.",
+    "cloze": "estuve a la altura",
+    "answer": "estuve a la altura",
+    "lemma": "estar a la altura",
+    "meaning": "lived up to the standard",
+    "audio": "work/audio/es-MX/05/es-05-0606.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0607",
+    "sentence": "Que nadie le explicara el cambio atenúa la responsabilidad de Luis por usar el formato anterior, pero no elimina el trabajo extra; ayudémosle a corregir las páginas afectadas.",
+    "cloze": "atenúa",
+    "answer": "atenúa",
+    "lemma": "atenuar",
+    "meaning": "mitigates",
+    "audio": "work/audio/es-MX/05/es-05-0607.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0608",
+    "sentence": "Para recuperar la confianza después de mi error, quiero poner remedio a la falta de acceso a las fotos, empezando por enviárselas a quienes salieron en ellas; otra promesa no les sirve.",
+    "cloze": "poner remedio",
+    "answer": "poner remedio",
+    "lemma": "poner remedio",
+    "meaning": "take action to remedy",
+    "audio": "work/audio/es-MX/05/es-05-0608.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0609",
+    "sentence": "Reconozco el esfuerzo de ustedes y el éxito de la prueba. Mis reparos tienen que ver con mantener ese ritmo a costa de los descansos: propongo espaciar las entregas.",
+    "cloze": "reparos",
+    "answer": "reparos",
+    "lemma": "reparo",
+    "meaning": "reservations",
+    "audio": "work/audio/es-MX/05/es-05-0609.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0610",
+    "sentence": "Le pido que retire el comentario gratuito sobre mi falta de experiencia: agradezco su intención de mejorar la presentación, pero bastaba con señalar el problema de la gráfica.",
+    "cloze": "gratuito",
+    "answer": "gratuito",
+    "lemma": "gratuito",
+    "meaning": "uncalled-for",
+    "audio": "work/audio/es-MX/05/es-05-0610.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0611",
+    "sentence": "Al mover la grabación para mejorar el sonido, hice que usted perdiera una mañana de trabajo; quisiera resarcir esa pérdida pagando la sesión que tuvimos que cancelar.",
+    "cloze": "resarcir",
+    "answer": "resarcir",
+    "lemma": "resarcir",
+    "meaning": "compensate for",
+    "audio": "work/audio/es-MX/05/es-05-0611.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0612",
+    "sentence": "Del cambio de instrucciones me hago cargo yo, porque intenté simplificarlas y omití un paso; revisemos esa parte juntos, sin atribuirme también los errores del material original.",
+    "cloze": "me hago cargo",
+    "answer": "me hago cargo",
+    "lemma": "hacerse cargo",
+    "meaning": "I take responsibility",
+    "audio": "work/audio/es-MX/05/es-05-0612.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0613",
+    "sentence": "No quisiera abandonar la colecta por el fracaso de esta vez. Podemos reivindicar el propósito de apoyar a la biblioteca sin volver a exigir aportaciones iguales.",
+    "cloze": "reivindicar",
+    "answer": "reivindicar",
+    "lemma": "reivindicar",
+    "meaning": "reaffirm the value of",
+    "audio": "work/audio/es-MX/05/es-05-0613.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0614",
+    "sentence": "De haber llamado irresponsable a mi compañera sí me retracto: trató de avisarnos y el mensaje no llegó; mantengo que necesitamos confirmar la recepción de los cambios.",
+    "cloze": "me retracto",
+    "answer": "me retracto",
+    "lemma": "retractarse",
+    "meaning": "I take back my statement",
+    "audio": "work/audio/es-MX/05/es-05-0614.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0615",
+    "sentence": "Por ahorrar una revisión imprimimos el programa incompleto; el atajo nos salió caro en trabajo duplicado, así que propongo mantener la revisión aunque publiquemos un poco después.",
+    "cloze": "nos salió caro",
+    "answer": "nos salió caro",
+    "lemma": "salir caro",
+    "meaning": "proved costly for us",
+    "audio": "work/audio/es-MX/05/es-05-0615.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0616",
+    "sentence": "Esperé para que se organizaran por su cuenta, pero dos integrantes siguen haciendo todo; como coordinadora, voy a tomar cartas en el asunto y revisar con el grupo únicamente el reparto de tareas.",
+    "cloze": "tomar cartas en el asunto",
+    "answer": "tomar cartas en el asunto",
+    "lemma": "tomar cartas en el asunto",
+    "meaning": "intervene to address the problem",
+    "audio": "work/audio/es-MX/05/es-05-0616.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0617",
+    "sentence": "Para la próxima, separemos los horarios de las dos mesas: con una sola persona atendiendo ambas, la demora era de esperarse, aunque nuestra intención fuera aprovechar mejor el espacio.",
+    "cloze": "era de esperarse",
+    "answer": "era de esperarse",
+    "lemma": "ser de esperarse",
+    "meaning": "was to be expected",
+    "audio": "work/audio/es-MX/05/es-05-0617.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0618",
+    "sentence": "El malentendido sobre los créditos pudo evitarse con una revisión conjunta; nadie pretendía borrar colaboraciones, y todavía podemos corregir los nombres antes de publicar el video.",
+    "cloze": "pudo evitarse",
+    "answer": "pudo evitarse",
+    "lemma": "poder evitarse",
+    "meaning": "could have been avoided",
+    "audio": "work/audio/es-MX/05/es-05-0618.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0619",
+    "sentence": "Nos sorprendió la lluvia durante el encuentro al aire libre. Como organizadores, nos toca ofrecer otra fecha a los participantes, aunque tampoco podamos asegurarles buen tiempo.",
+    "cloze": "nos toca",
+    "answer": "nos toca",
+    "lemma": "tocar",
+    "meaning": "it is our responsibility to",
+    "audio": "work/audio/es-MX/05/es-05-0619.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0620",
+    "sentence": "Gracias por reconocer que cambió mi turno para ayudar a otra compañera, pero la disculpa no compensa el descanso que perdí; prefiero que acordemos cómo recuperarlo.",
+    "cloze": "compensa",
+    "answer": "compensa",
+    "lemma": "compensar",
+    "meaning": "makes up for",
+    "audio": "work/audio/es-MX/05/es-05-0620.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0621",
+    "sentence": "Podemos ser indulgentes con este primer olvido sin volver opcional la entrega: Elena quiso ayudar con el montaje, así que pidámosle que complete su parte y use un recordatorio para la siguiente.",
+    "cloze": "indulgentes",
+    "answer": "indulgentes",
+    "lemma": "indulgente",
+    "meaning": "lenient",
+    "audio": "work/audio/es-MX/05/es-05-0621.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0622",
+    "sentence": "Al corregir a la encargada frente a todo el grupo para evitar una confusión, terminamos por desautorizar sus demás indicaciones; aclaremos que el error estaba solo en la hora de entrada.",
+    "cloze": "desautorizar",
+    "answer": "desautorizar",
+    "lemma": "desautorizar",
+    "meaning": "discredit",
+    "audio": "work/audio/es-MX/05/es-05-0622.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0623",
+    "sentence": "Que todos encontraran lugar al final no legitima haber aceptado más inscripciones de las que podíamos atender; la intención era incluir a más vecinos, pero el próximo cupo debe ser realista.",
+    "cloze": "legitima",
+    "answer": "legitima",
+    "lemma": "legitimar",
+    "meaning": "legitimizes",
+    "audio": "work/audio/es-MX/05/es-05-0623.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0624",
+    "sentence": "No sé por qué mi compañero envió la carpeta a todo el grupo; le doy el beneficio de la duda, pero debemos revisar los destinatarios antes de compartir más fotos.",
+    "cloze": "beneficio de la duda",
+    "answer": "beneficio de la duda",
+    "lemma": "beneficio de la duda",
+    "meaning": "benefit of the doubt",
+    "audio": "work/audio/es-MX/05/es-05-0624.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0625",
+    "sentence": "Me pidieron una opinión sincera y, por no retrasar al equipo, guardé silencio; me reprocho esa omisión, aunque la propuesta ganó, y en la próxima revisión señalaré las dudas a tiempo.",
+    "cloze": "me reprocho",
+    "answer": "me reprocho",
+    "lemma": "reprocharse",
+    "meaning": "I reproach myself for",
+    "audio": "work/audio/es-MX/05/es-05-0625.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0626",
+    "sentence": "Seguir mencionando el mismo error después de la corrección sería ensañarnos con alguien que intentó ayudar; evaluemos la versión nueva y señalemos solo los problemas que todavía tenga.",
+    "cloze": "ensañarnos",
+    "answer": "ensañarnos",
+    "lemma": "ensañarse",
+    "meaning": "be excessively harsh toward someone",
+    "audio": "work/audio/es-MX/05/es-05-0626.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0627",
+    "sentence": "Yo me reservaría cualquier juicio sobre la cancelación hasta escuchar a la organizadora; queríamos evitarle otra discusión, pero revisar el aviso con ella sería más justo que calificar su decisión sin preguntarle.",
+    "cloze": "me reservaría",
+    "answer": "me reservaría",
+    "lemma": "reservarse",
+    "meaning": "I would withhold",
+    "audio": "work/audio/es-MX/05/es-05-0627.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0628",
+    "sentence": "Prefiero que mi pedido vuelva a su turno original. Aunque usted lo adelantó para ayudarme, me incomoda que otros tengan que esperar más; avíseme si se libera un espacio.",
+    "cloze": "me incomoda",
+    "answer": "me incomoda",
+    "lemma": "incomodar",
+    "meaning": "I feel uncomfortable about",
+    "audio": "work/audio/es-MX/05/es-05-0628.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0629",
+    "sentence": "Queríamos una reunión sin interrupciones, pero no era exigible que la encargada resolviera una falla de internet de toda la colonia; pidámosle únicamente una forma de avisar cuando se corte la conexión.",
+    "cloze": "exigible",
+    "answer": "exigible",
+    "lemma": "exigible",
+    "meaning": "reasonable to require",
+    "audio": "work/audio/es-MX/05/es-05-0629.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0630",
+    "sentence": "Ofrecí quedarme al cierre para que ustedes descansaran; no sería justo echar en cara esa ayuda ahora que estoy cansado, así que para mañana prefiero pedir un relevo desde el principio.",
+    "cloze": "echar en cara",
+    "answer": "echar en cara",
+    "lemma": "echar en cara",
+    "meaning": "throw in someone's face",
+    "audio": "work/audio/es-MX/05/es-05-0630.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0631",
+    "sentence": "Me sigue pareciendo valioso reducir el uso de papel, pero no quiero cerrar los ojos ante quienes no pudieron llenar el formulario en el celular; conservemos algunas copias impresas.",
+    "cloze": "cerrar los ojos",
+    "answer": "cerrar los ojos",
+    "lemma": "cerrar los ojos",
+    "meaning": "turn a blind eye",
+    "audio": "work/audio/es-MX/05/es-05-0631.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0632",
+    "sentence": "¿No resultó contraproducente exigir una explicación escrita por cada duda si buscábamos que el grupo preguntara más? Probemos con preguntas orales antes de volver a pedir tantos textos.",
+    "cloze": "contraproducente",
+    "answer": "contraproducente",
+    "lemma": "contraproducente",
+    "meaning": "counterproductive",
+    "audio": "work/audio/es-MX/05/es-05-0632.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0633",
+    "sentence": "—Ustedes propusieron ensayar sin pausas. —Y nosotros aprobamos el cambio: fuimos corresponsables. Queríamos terminar temprano, pero dejamos al grupo sin tiempo para comer; recuperemos un descanso.",
+    "cloze": "corresponsables",
+    "answer": "corresponsables",
+    "lemma": "corresponsable",
+    "meaning": "jointly responsible",
+    "audio": "work/audio/es-MX/05/es-05-0633.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0634",
+    "sentence": "Que la prueba piloto de inscripción fallara no vuelve temerario haberla hecho con voluntarios informados y una alternativa disponible. Podemos quitar algunos pasos y repetir la prueba.",
+    "cloze": "temerario",
+    "answer": "temerario",
+    "lemma": "temerario",
+    "meaning": "reckless",
+    "audio": "work/audio/es-MX/05/es-05-0634.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0635",
+    "sentence": "Antes de pedirle al equipo más apertura a las sugerencias, me vendría bien hacer autocrítica: quise acelerar la junta y corté varias intervenciones; la próxima vez dejaré terminar cada propuesta.",
+    "cloze": "hacer autocrítica",
+    "answer": "hacer autocrítica",
+    "lemma": "hacer autocrítica",
+    "meaning": "examine one's own shortcomings",
+    "audio": "work/audio/es-MX/05/es-05-0635.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0636",
+    "sentence": "La vez pasada prometimos una fecha sin consultar al taller y luego no pudimos cumplirla; las ganas de complacer al cliente no deberían llevarnos a reincidir, así que confirmemos la capacidad antes de ofrecer otra fecha.",
+    "cloze": "reincidir",
+    "answer": "reincidir",
+    "lemma": "reincidir",
+    "meaning": "repeat the same mistake",
+    "audio": "work/audio/es-MX/05/es-05-0636.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0637",
+    "sentence": "El proyecto no reunió a todo el barrio, pero la decisión de trabajar por calles tiene algo rescatable: escuchamos a quienes nunca iban al centro. Mantengamos las visitas y cambiemos la convocatoria.",
+    "cloze": "rescatable",
+    "answer": "rescatable",
+    "lemma": "rescatable",
+    "meaning": "worth keeping",
+    "audio": "work/audio/es-MX/05/es-05-0637.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0638",
+    "sentence": "Reducir el recorrido era defendible con solo dos voluntarios, aunque algunas familias quedaran fuera. En vez de alargarlo para cumplir lo anunciado, ofrezcamos otra visita.",
+    "cloze": "defendible",
+    "answer": "defendible",
+    "lemma": "defendible",
+    "meaning": "defensible",
+    "audio": "work/audio/es-MX/05/es-05-0638.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0639",
+    "sentence": "No me gustó suspender la sesión, pero tengo la conciencia tranquila: expliqué la falla, ofrecí otra fecha y dejé que cada quien eligiera; para la próxima revisaré el equipo antes de abrir.",
+    "cloze": "tengo la conciencia tranquila",
+    "answer": "tengo la conciencia tranquila",
+    "lemma": "tener la conciencia tranquila",
+    "meaning": "my conscience is clear",
+    "audio": "work/audio/es-MX/05/es-05-0639.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0640",
+    "sentence": "Corregí la lista con la intención de incluir a todos, pero no quiero darme por satisfecho sin preguntarles a las personas omitidas si ya pueden entrar; voy a comprobarlo con ellas.",
+    "cloze": "darme por satisfecho",
+    "answer": "darme por satisfecho",
+    "lemma": "darse por satisfecho",
+    "meaning": "consider myself satisfied",
+    "audio": "work/audio/es-MX/05/es-05-0640.mp3",
+    "accepted_answers": []
   }
 ]
