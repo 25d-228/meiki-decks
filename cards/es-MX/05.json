@@ -9200,5 +9200,255 @@
     "meaning": "objected",
     "audio": "work/audio/es-MX/05/es-05-0915.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-0916",
+    "sentence": "En la entrevista, Irene reconstruyó sus nervios antes de entrar sola al ensayo: «Tú puedes hacerlo; no te vayas», pensaba frente al espejo. Te cuento que se daba ánimos para entrar, aunque nadie la acompañaba.",
+    "cloze": "se daba ánimos",
+    "answer": "se daba ánimos",
+    "lemma": "darse ánimos",
+    "meaning": "was encouraging herself",
+    "audio": "work/audio/es-MX/05/es-05-0916.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0917",
+    "sentence": "Estamos en la misma oficina donde la guía señaló el patio del museo en una foto y dijo: «Nos vemos aquí». Te paso su indicación para el grupo: la reunión será allí.",
+    "cloze": "allí",
+    "answer": "allí",
+    "lemma": "allí",
+    "meaning": "there",
+    "audio": "work/audio/es-MX/05/es-05-0917.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0918",
+    "sentence": "—¿De quién hablaba Luz cuando dijo «Esa mujer llegó tarde»? —Te cuento lo que vi: señalaba su propia imagen en el video sin reconocerse, así que se refería a sí misma sin saberlo.",
+    "cloze": "a sí misma",
+    "answer": "a sí misma",
+    "lemma": "a sí mismo",
+    "meaning": "to herself",
+    "audio": "work/audio/es-MX/05/es-05-0918.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0919",
+    "sentence": "El mensaje de la pasajera decía: «Llevo una hora esperando». Lo recibí mucho después por falta de señal; al avisarle al conductor, dije que ella llevaba esperando una hora cuando lo envió, sin sumar el tiempo que tardó en llegarme.",
+    "cloze": "llevaba esperando",
+    "answer": "llevaba esperando",
+    "lemma": "llevar + gerundio",
+    "meaning": "had been waiting",
+    "audio": "work/audio/es-MX/05/es-05-0919.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0920",
+    "sentence": "El anfitrión me preguntó «¿Ya nos acomodamos?» al entregarme el cuarto; él vive en otra casa y yo viajaba sola. Te cuento que quería saber si me había acomodado bien, sin incluirse entre los huéspedes.",
+    "cloze": "me había acomodado",
+    "answer": "me había acomodado",
+    "lemma": "acomodarse",
+    "meaning": "I had settled in",
+    "audio": "work/audio/es-MX/05/es-05-0920.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0921",
+    "sentence": "Eva describió su primer empleo como una etapa en la que sus compañeros «me relegaban a tomar notas»; te estoy citando sus palabras, porque yo no trabajé con ella.",
+    "cloze": "me relegaban",
+    "answer": "me relegaban",
+    "lemma": "relegar",
+    "meaning": "they used to relegate me",
+    "audio": "work/audio/es-MX/05/es-05-0921.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0922",
+    "sentence": "La periodista me contó hace años: «Entrevisté a una estudiante que buscaba su primer empleo». Para que sepas de quién hablaba, te cuento que había entrevistado a la mujer que hoy dirige nuestra compañía; el nombramiento fue posterior a aquella conversación.",
+    "cloze": "dirige",
+    "answer": "dirige",
+    "lemma": "dirigir",
+    "meaning": "runs",
+    "audio": "work/audio/es-MX/05/es-05-0922.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0923",
+    "sentence": "No avances el video: cuando la instructora dice «Ahora haz una pausa y prueba el ejercicio», nos pide parar ahora mismo, aunque lo haya grabado hace meses.",
+    "cloze": "ahora mismo",
+    "answer": "ahora mismo",
+    "lemma": "ahora mismo",
+    "meaning": "right now",
+    "audio": "work/audio/es-MX/05/es-05-0923.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0924",
+    "sentence": "—Pero cuando llegué, el visitante estaba de frente a las personas que venían. —Sí; me contó: «Oí pasos detrás de mí y me di la vuelta». En su relato, los pasos sonaban a sus espaldas; cuando tú llegaste, ya se había volteado.",
+    "cloze": "a sus espaldas",
+    "answer": "a sus espaldas",
+    "lemma": "a espaldas de",
+    "meaning": "behind him",
+    "audio": "work/audio/es-MX/05/es-05-0924.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0925",
+    "sentence": "Iván reconoció: «Cuando te decía “mañana te lo paso”, era para que dejaras de insistir; ni siquiera había empezado». Al contarte lo ocurrido, te explico que me daba largas, no que hubiera fijado una fecha de entrega.",
+    "cloze": "me daba largas",
+    "answer": "me daba largas",
+    "lemma": "dar largas",
+    "meaning": "was putting me off",
+    "audio": "work/audio/es-MX/05/es-05-0925.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0926",
+    "sentence": "Como se cortaba la llamada, Julia dijo: «Otra vez: perdí la llave». Al contarte la conversación, digo que volvió a decir que la había perdido; no que hubiera ocurrido dos veces.",
+    "cloze": "volvió a decir",
+    "answer": "volvió a decir",
+    "lemma": "volver a decir",
+    "meaning": "said again",
+    "audio": "work/audio/es-MX/05/es-05-0926.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0927",
+    "sentence": "—¿La visitante ya resolvió su asunto? —No. Acaba de decirme: «Buscaba a la coordinadora, ¿está por aquí?». Te aviso que todavía la busca y que sigue esperando en recepción.",
+    "cloze": "la busca",
+    "answer": "la busca",
+    "lemma": "buscar",
+    "meaning": "is looking for her",
+    "audio": "work/audio/es-MX/05/es-05-0927.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0928",
+    "sentence": "Te paso lo que me contó Nora: los organizadores le habían ofrecido coordinar el taller. Ella me dijo: «Los organizadores me dijeron: “Te ofrecemos coordinar el taller”».",
+    "cloze": "le habían ofrecido",
+    "answer": "le habían ofrecido",
+    "lemma": "ofrecer",
+    "meaning": "they had offered her",
+    "audio": "work/audio/es-MX/05/es-05-0928.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0929",
+    "sentence": "En la entrevista sobre su primer recital, Irene revivió la escena: «Estoy tocando y de pronto irrumpe un perro en el escenario». En tu resumen de aquella función, cuenta que un perro irrumpió mientras ella tocaba.",
+    "cloze": "irrumpió",
+    "answer": "irrumpió",
+    "lemma": "irrumpir",
+    "meaning": "burst in",
+    "audio": "work/audio/es-MX/05/es-05-0929.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0930",
+    "sentence": "Según Raúl, lo llamó una tal Julia; él me aclaró: «No sé quién es; así se presentó». A ti no tengo que presentártela: llevamos años trabajando con ella.",
+    "cloze": "una tal",
+    "answer": "una tal",
+    "lemma": "un tal",
+    "meaning": "a certain",
+    "audio": "work/audio/es-MX/05/es-05-0930.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0931",
+    "sentence": "El chofer avisó desde el camión, todavía en la terminal: «Tu maleta sigue aquí; no la bajé y te la llevo de regreso». El camión ya salió; explícale a mi hermana que, según ese aviso, la maleta va a bordo.",
+    "cloze": "a bordo",
+    "answer": "a bordo",
+    "lemma": "a bordo",
+    "meaning": "aboard",
+    "audio": "work/audio/es-MX/05/es-05-0931.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0932",
+    "sentence": "Mateo me explicó por qué perdió el camión: «Si me hubieran esperado cinco minutos, lo habría alcanzado». Según él, con esos cinco minutos lo alcanzaba, pero no lo esperaron.",
+    "cloze": "lo alcanzaba",
+    "answer": "lo alcanzaba",
+    "lemma": "alcanzar",
+    "meaning": "he would have caught it",
+    "audio": "work/audio/es-MX/05/es-05-0932.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0933",
+    "sentence": "Raúl respondió «Yo también, cuando me la prestaste» después de que yo le contara que había usado mi cámara en la excursión. Me preguntaste qué cámara había llevado él: la mía, según esa respuesta.",
+    "cloze": "la mía",
+    "answer": "la mía",
+    "lemma": "mío",
+    "meaning": "mine",
+    "audio": "work/audio/es-MX/05/es-05-0933.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0934",
+    "sentence": "—¿Entonces el festival será en la calle de al lado? —No. Rosa dijo que estaba a la vuelta de la esquina cuando le pregunté cuánto faltaba para que empezara. Te transmití un aviso de que faltaba poco, no una dirección.",
+    "cloze": "a la vuelta de la esquina",
+    "answer": "a la vuelta de la esquina",
+    "lemma": "a la vuelta de la esquina",
+    "meaning": "just around the corner (very soon)",
+    "audio": "work/audio/es-MX/05/es-05-0934.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0935",
+    "sentence": "Elena, yo no estuve en aquella conversación; te paso la versión de Diego para que la revises. Me contó: «Hablé con Elena y me dijo: “Acepté coordinar el cierre”». Según él, tú habías aceptado esa tarea.",
+    "cloze": "habías aceptado",
+    "answer": "habías aceptado",
+    "lemma": "aceptar",
+    "meaning": "you had accepted",
+    "audio": "work/audio/es-MX/05/es-05-0935.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0936",
+    "sentence": "—¿Julia me ofreció prestarme su bicicleta? —No; dijo «Yo iría en mi bicicleta» después de aclarar que se imaginaba en tu lugar, con tus cosas. Su consejo era que usaras la tuya.",
+    "cloze": "la tuya",
+    "answer": "la tuya",
+    "lemma": "tuyo",
+    "meaning": "yours",
+    "audio": "work/audio/es-MX/05/es-05-0936.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0937",
+    "sentence": "—¿Qué opinó Laura del expositor? —Reconoció que conoce muy bien el tema, pero dijo que nunca escucha al público. Te resumo su crítica: sabrá mucho, pero no deja hablar a los demás.",
+    "cloze": "sabrá",
+    "answer": "sabrá",
+    "lemma": "saber",
+    "meaning": "he may well know",
+    "audio": "work/audio/es-MX/05/es-05-0937.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0938",
+    "sentence": "Nora te dijo: «No conozco a la autora». Se refería al cuento que escribí sin firmar; somos vecinas y platicamos seguido, pero no sabe que es mío. Por eso, al contarte que me conoce, no la estoy acusando de mentir.",
+    "cloze": "me conoce",
+    "answer": "me conoce",
+    "lemma": "conocer",
+    "meaning": "knows me",
+    "audio": "work/audio/es-MX/05/es-05-0938.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0939",
+    "sentence": "—¿Qué celebraba Marta? —Me dijo, feliz: «Se me casó mi mejor amiga; la quiero como a una hermana». Su mejor amiga se le casó; de ahí venía la emoción con que me lo contó.",
+    "cloze": "se le casó",
+    "answer": "se le casó",
+    "lemma": "casarse",
+    "meaning": "got married, to her delight",
+    "audio": "work/audio/es-MX/05/es-05-0939.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0940",
+    "sentence": "Eva me explicó su trabajo nocturno: «Tú nunca has trabajado de noche; con ese horario, acabas sin saber ni qué día es. Nos pasa a todos». Te paso su explicación: yo no tengo esa experiencia, pero, según ella, uno ya no sabe ni qué día es cuando lleva ese horario.",
+    "cloze": "uno",
+    "answer": "uno",
+    "lemma": "uno",
+    "meaning": "you (in general)",
+    "audio": "work/audio/es-MX/05/es-05-0940.mp3",
+    "accepted_answers": []
   }
 ]
