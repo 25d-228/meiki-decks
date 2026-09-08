@@ -10650,5 +10650,405 @@
     "meaning": "superiority",
     "audio": "work/audio/es-MX/05/es-05-1060.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1061",
+    "sentence": "El adverbio «irresponsablemente» enjuicia la conducta de Raúl en la reseña: «Raúl abandonó irresponsablemente la reunión». El registro solo dice «Raúl salió antes del cierre»; no contiene esa valoración de su salida.",
+    "cloze": "enjuicia",
+    "answer": "enjuicia",
+    "lemma": "enjuiciar",
+    "meaning": "judges",
+    "audio": "work/audio/es-MX/05/es-05-1061.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1062",
+    "sentence": "—La minuta dice «Aceptamos la propuesta de ampliar los turnos», pero la encargada aclara «Todavía atendemos con los turnos anteriores». ¿Ya cambió la atención? —La ampliación está aprobada, pero aún no se ha aplicado.",
+    "cloze": "se ha aplicado",
+    "answer": "se ha aplicado",
+    "lemma": "aplicar",
+    "meaning": "has been implemented",
+    "audio": "work/audio/es-MX/05/es-05-1062.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1063",
+    "sentence": "La alumna anota «Entregué todos los ejercicios» y su compañero concluye «Entonces tu trabajo fue excelente». Él equipara el cumplimiento de la entrega con la calidad del trabajo; el primer comentario no incluye una evaluación de los ejercicios.",
+    "cloze": "equipara",
+    "answer": "equipara",
+    "lemma": "equiparar",
+    "meaning": "equates",
+    "audio": "work/audio/es-MX/05/es-05-1063.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1064",
+    "sentence": "El asistente descalifica a Marta como persona al escribir «Es una persona incapaz de escuchar». El moderador había informado «Marta interrumpió dos veces»; el juicio del asistente va más allá de criticar esas interrupciones.",
+    "cloze": "descalifica",
+    "answer": "descalifica",
+    "lemma": "descalificar",
+    "meaning": "disparages",
+    "audio": "work/audio/es-MX/05/es-05-1064.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1065",
+    "sentence": "Antes de decidir un cambio, Julia hace una recomendación exploratoria: «Preguntémosles qué dificultad tuvieron antes de cambiar el formulario». Responde al informe de la encargada, «Varias personas lo abandonaron sin terminarlo», buscando información para elegir una solución.",
+    "cloze": "exploratoria",
+    "answer": "exploratoria",
+    "lemma": "exploratorio",
+    "meaning": "exploratory",
+    "audio": "work/audio/es-MX/05/es-05-1065.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1066",
+    "sentence": "En el grupo, Luis comenta «Casi nadie devuelve los libros a tiempo» y añade «Entonces no tiene nada de malo atrasarse». Con esa conclusión normaliza la práctica que acaba de describir: pasa de su frecuencia a su aceptación.",
+    "cloze": "normaliza",
+    "answer": "normaliza",
+    "lemma": "normalizar",
+    "meaning": "normalizes",
+    "audio": "work/audio/es-MX/05/es-05-1066.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1067",
+    "sentence": "El registro dice «Ocho asistentes marcaron “excelente” al evaluar la charla». La organizadora concluye «Eso ya es una medida objetiva de la calidad». El registro contabiliza valoraciones favorables; no mide la calidad de la charla independientemente de quienes la juzgaron.",
+    "cloze": "contabiliza",
+    "answer": "contabiliza",
+    "lemma": "contabilizar",
+    "meaning": "counts",
+    "audio": "work/audio/es-MX/05/es-05-1067.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1068",
+    "sentence": "La propuesta de cubrir las paredes se retiró, según aclara Sara: «Ya no propongo cubrirlas; prefiero buscar otra solución». Eso no resuelve la dificultad que el grupo sigue reportando: «El eco sigue dificultando las lecturas».",
+    "cloze": "se retiró",
+    "answer": "se retiró",
+    "lemma": "retirar",
+    "meaning": "was withdrawn",
+    "audio": "work/audio/es-MX/05/es-05-1068.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1069",
+    "sentence": "La reseña decía «Esperé cincuenta minutos; fue inaceptable». Su autora corrige: «Fueron treinta, pero me sigue pareciendo inaceptable». La duración cambia en su relato; su valoración permanece inalterada.",
+    "cloze": "inalterada",
+    "answer": "inalterada",
+    "lemma": "inalterado",
+    "meaning": "unchanged",
+    "audio": "work/audio/es-MX/05/es-05-1069.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1070",
+    "sentence": "En su propuesta, la moderadora fija un límite: «Para la próxima, sugiero un máximo de veinte minutos por presentación». Las notas dicen «La presentación duró cuarenta minutos»; el máximo sugerido no corrige la duración registrada.",
+    "cloze": "fija",
+    "answer": "fija",
+    "lemma": "fijar",
+    "meaning": "sets",
+    "audio": "work/audio/es-MX/05/es-05-1070.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1071",
+    "sentence": "La lista de asistencia muestra «La mitad del grupo faltó». La profesora escribe «Lo ideal sería que todos pudieran venir». Describe una situación deseable frente a la ausencia registrada; no está anunciando que la próxima sesión tendrá asistencia completa.",
+    "cloze": "deseable",
+    "answer": "deseable",
+    "lemma": "deseable",
+    "meaning": "desirable",
+    "audio": "work/audio/es-MX/05/es-05-1071.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1072",
+    "sentence": "La propuesta de simplificar el menú aspira a resolver una dificultad, sin asegurar el resultado: un usuario comenta «Me pierdo al buscar las actividades» y la diseñadora propone «Pongamos un menú más sencillo para facilitar la búsqueda».",
+    "cloze": "aspira",
+    "answer": "aspira",
+    "lemma": "aspirar a",
+    "meaning": "aims",
+    "audio": "work/audio/es-MX/05/es-05-1072.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1073",
+    "sentence": "—Las notas dicen «Quedaron preguntas sin responder» y David escribió «Alguien del equipo debería reunirlas para otra sesión». ¿Él lo va a hacer? —David recomienda una tarea, pero no se compromete a realizarla él mismo; su mensaje no incluye ese ofrecimiento.",
+    "cloze": "se compromete",
+    "answer": "se compromete",
+    "lemma": "comprometerse",
+    "meaning": "commits",
+    "audio": "work/audio/es-MX/05/es-05-1073.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1074",
+    "sentence": "La visitante relata «Cancelaron la última parte del recorrido». La encargada responde «Propongo ofrecerles otra visita sin costo por lo que no pudieron ver». Es una medida compensatoria por la experiencia incompleta, no una razón para describir la primera visita como completa.",
+    "cloze": "compensatoria",
+    "answer": "compensatoria",
+    "lemma": "compensatorio",
+    "meaning": "compensatory",
+    "audio": "work/audio/es-MX/05/es-05-1074.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1075",
+    "sentence": "Un colaborador propone «Agreguemos una lista de materiales a la guía». La editora informa «La guía ya trae la lista completa de materiales». Con esa información, la adición propuesta resulta redundante: duplicaría un contenido existente, sin corregir una ausencia real.",
+    "cloze": "redundante",
+    "answer": "redundante",
+    "lemma": "redundante",
+    "meaning": "redundant",
+    "audio": "work/audio/es-MX/05/es-05-1075.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1076",
+    "sentence": "Para la estudiante, la salida representa un gasto oneroso: comenta «Dispongo de seiscientos pesos para todas mis actividades del mes; esa salida me resulta demasiado cara». El recibo indica «Costo de la actividad: quinientos pesos»; el precio es un dato y su peso en el presupuesto, una valoración.",
+    "cloze": "oneroso",
+    "answer": "oneroso",
+    "lemma": "oneroso",
+    "meaning": "financially burdensome",
+    "audio": "work/audio/es-MX/05/es-05-1076.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1077",
+    "sentence": "«Los comentarios llegan en varios correos», informa la editora. Su ayudante propone «Por ahora recomiendo reunirlos en una hoja; cambiaré el consejo si nos dificulta trabajar». La recomendación es revisable; esa apertura no pone en duda la dispersión que la editora describe.",
+    "cloze": "revisable",
+    "answer": "revisable",
+    "lemma": "revisable",
+    "meaning": "open to revision",
+    "audio": "work/audio/es-MX/05/es-05-1077.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1078",
+    "sentence": "El profesor propone ensayar otra distribución: «Hagamos un círculo en una sesión y después decidamos si seguimos así». Responde a Ana, que contó «Desde el fondo no veía a quienes hablaban»; busca probar una respuesta a esa dificultad, sin adoptar una organización permanente.",
+    "cloze": "ensayar",
+    "answer": "ensayar",
+    "lemma": "ensayar",
+    "meaning": "try out",
+    "audio": "work/audio/es-MX/05/es-05-1078.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1079",
+    "sentence": "La autora se abstiene de recomendar una respuesta cuando agrega «No sé qué cambio convendría; no propongo ninguno» a su reseña, «La explicación fue confusa». Su crítica es explícita, pero una síntesis fiel no puede atribuirle una solución.",
+    "cloze": "se abstiene",
+    "answer": "se abstiene",
+    "lemma": "abstenerse",
+    "meaning": "refrains",
+    "audio": "work/audio/es-MX/05/es-05-1079.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1080",
+    "sentence": "«Podemos entregar el cartel en blanco y negro; está permitido», informa Pablo. La ilustradora advierte «En ese formato no se distinguen los dos recorridos». El permiso no vuelve aconsejable esa elección para un cartel que necesita diferenciarlos.",
+    "cloze": "aconsejable",
+    "answer": "aconsejable",
+    "lemma": "aconsejable",
+    "meaning": "advisable",
+    "audio": "work/audio/es-MX/05/es-05-1080.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1081",
+    "sentence": "La propuesta es preventiva, aunque hoy no se reporta ninguna confusión: la guía informa «Todos encontraron el punto de reunión» y su compañero propone «Para las próximas visitas, mandemos una foto del lugar para evitar confusiones».",
+    "cloze": "preventiva",
+    "answer": "preventiva",
+    "lemma": "preventivo",
+    "meaning": "preventive",
+    "audio": "work/audio/es-MX/05/es-05-1081.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1082",
+    "sentence": "Una vecina escribe «No alcanzo a oír los avisos; pongamos una bocina en cada pasillo». El encargado responde «Sí hace falta mejorar el sonido, pero rechazo esa solución». Su respuesta desestima la medida propuesta sin negar la dificultad que motivó la queja.",
+    "cloze": "desestima",
+    "answer": "desestima",
+    "lemma": "desestimar",
+    "meaning": "rejects",
+    "audio": "work/audio/es-MX/05/es-05-1082.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1083",
+    "sentence": "—La coordinadora informa «Solo contamos con una persona para atender». Un usuario comenta «Me encantaría tener dos módulos abiertos, pero cada uno necesita su propio encargado». —Esa respuesta sería atractiva para él, aunque resulta impracticable con el personal disponible.",
+    "cloze": "impracticable",
+    "answer": "impracticable",
+    "lemma": "impracticable",
+    "meaning": "unworkable",
+    "audio": "work/audio/es-MX/05/es-05-1083.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1084",
+    "sentence": "La ayuda del compañero no suple la decisión de la autora: ella comenta «Me cuesta elegir entre dos finales» y él propone «Revisemos juntos qué efecto tiene cada uno; tú decides cuál conservar». Ofrece acompañar su evaluación, sin elegir por ella.",
+    "cloze": "suple",
+    "answer": "suple",
+    "lemma": "suplir",
+    "meaning": "replaces",
+    "audio": "work/audio/es-MX/05/es-05-1084.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1085",
+    "sentence": "El mensaje de la alumna dice «Ya recibí la guía nueva». Sobre la recomendación de usarla, responde «La probaré antes de decir si me parece buena idea». Ella aplaza su valoración de la propuesta; todavía no expresa una evaluación negativa.",
+    "cloze": "aplaza",
+    "answer": "aplaza",
+    "lemma": "aplazar",
+    "meaning": "postpones",
+    "audio": "work/audio/es-MX/05/es-05-1085.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1086",
+    "sentence": "«Dos integrantes interrumpieron el ensayo», anotó la directora. Un compañero propone «Por eso, quitémosles su participación en la presentación». La respuesta que recomienda es sancionadora: propone castigarlos por lo ocurrido; la nota de la directora solo registra la interrupción, sin pedir ese castigo.",
+    "cloze": "sancionadora",
+    "answer": "sancionadora",
+    "lemma": "sancionador",
+    "meaning": "punitive",
+    "audio": "work/audio/es-MX/05/es-05-1086.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1087",
+    "sentence": "La editora presenta el segundo formato como preferible al decir «Recomiendo ese porque cansa menos la vista». La prueba había dejado esta nota: «Los dos formatos permiten leer el texto completo». Su preferencia no equivale a calificar de inútil el primero.",
+    "cloze": "preferible",
+    "answer": "preferible",
+    "lemma": "preferible",
+    "meaning": "preferable",
+    "audio": "work/audio/es-MX/05/es-05-1087.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1088",
+    "sentence": "«Los invitados no encontraron la entrada», reporta recepción. La organizadora propone «Pongamos un letrero; mandar un mapa también sería una buena solución». El letrero es su propuesta, pero no agota las respuestas que ella considera aceptables.",
+    "cloze": "agota",
+    "answer": "agota",
+    "lemma": "agotar",
+    "meaning": "exhausts",
+    "audio": "work/audio/es-MX/05/es-05-1088.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1089",
+    "sentence": "La corrección resulta apremiante por el cierre de la edición: la revisora escribe «Falta una coma; es un detalle menor» y el editor pide «Corrijámosla ya, porque el archivo sale a impresión en unos minutos». La urgencia no convierte el error en algo grave.",
+    "cloze": "apremiante",
+    "answer": "apremiante",
+    "lemma": "apremiante",
+    "meaning": "urgent",
+    "audio": "work/audio/es-MX/05/es-05-1089.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1090",
+    "sentence": "Nora escribe «La gente se confunde por el título; recomiendo cambiarlo». El coordinador responde «Lo cambiamos como pediste, pero no averiguamos qué causaba la confusión». La aplicación de su recomendación no certifica la explicación de Nora.",
+    "cloze": "certifica",
+    "answer": "certifica",
+    "lemma": "certificar",
+    "meaning": "verifies",
+    "audio": "work/audio/es-MX/05/es-05-1090.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1091",
+    "sentence": "¿La propuesta ya es un hecho? La minuta dice «Discutimos la propuesta de reservar un rato para preguntas» y la coordinadora aclara «No tomamos una decisión». Lo que se debatió fue esa posibilidad; el hecho registrado es la discusión, no la incorporación de ese espacio.",
+    "cloze": "se debatió",
+    "answer": "se debatió",
+    "lemma": "debatir",
+    "meaning": "was discussed",
+    "audio": "work/audio/es-MX/05/es-05-1091.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1092",
+    "sentence": "La organizadora cuenta «Nos pidieron evaluar la idea de cobrar la entrada». El grupo responde «La revisaremos, pero todavía no sabemos si conviene». El encargo de analizar la propuesta no predetermina una valoración favorable.",
+    "cloze": "predetermina",
+    "answer": "predetermina",
+    "lemma": "predeterminar",
+    "meaning": "predetermines",
+    "audio": "work/audio/es-MX/05/es-05-1092.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1093",
+    "sentence": "La compañera juzga reprobable el procedimiento, aunque reconoce el efecto relatado: el promotor admite «Exageré el número de inscritos y así se animó más gente»; ella comenta «Funcionó para atraer público, pero estuvo mal engañarlo».",
+    "cloze": "reprobable",
+    "answer": "reprobable",
+    "lemma": "reprobable",
+    "meaning": "reprehensible",
+    "audio": "work/audio/es-MX/05/es-05-1093.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1094",
+    "sentence": "La profesora admite «Califiqué por error el borrador anterior». La coordinadora responde «Esa calificación no vale; hay que evaluar la versión entregada». La calificación se invalida por haberse juzgado otro texto; esa respuesta no le asigna una nota mejor al trabajo entregado.",
+    "cloze": "se invalida",
+    "answer": "se invalida",
+    "lemma": "invalidar",
+    "meaning": "is invalidated",
+    "audio": "work/audio/es-MX/05/es-05-1094.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1095",
+    "sentence": "La editora informa «Rechazamos el cuento». El autor responde «No pido que lo publiquen; pido que me expliquen con qué criterio lo evaluaron». Él reclama una explicación del juicio, sin solicitar que cambie el resultado comunicado.",
+    "cloze": "reclama",
+    "answer": "reclama",
+    "lemma": "reclamar",
+    "meaning": "demands",
+    "audio": "work/audio/es-MX/05/es-05-1095.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1096",
+    "sentence": "¿Basta con dar el mismo tiempo para que el reparto sea equitativo? Las notas dicen «Cada equipo recibió diez minutos de asesoría»; una alumna objeta «Nuestro equipo necesitaba aprender a usar el programa; los demás ya sabían». Evaluar la justicia del reparto exige considerar también esas necesidades.",
+    "cloze": "equitativo",
+    "answer": "equitativo",
+    "lemma": "equitativo",
+    "meaning": "fair",
+    "audio": "work/audio/es-MX/05/es-05-1096.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1097",
+    "sentence": "La revisora advierte «La guía tiene dos fechas equivocadas». Un lector comenta «Sus esquemas sí me ayudaron a ordenar el proyecto». Puede ser aprovechable en ese aspecto y contener errores; conservar la valoración de utilidad no exige presentar todos sus datos como correctos.",
+    "cloze": "aprovechable",
+    "answer": "aprovechable",
+    "lemma": "aprovechable",
+    "meaning": "useful",
+    "audio": "work/audio/es-MX/05/es-05-1097.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1098",
+    "sentence": "La autora de la reseña aboga por conservar la organización actual: después de escribir «Ahora las preguntas se atienden al final», añade «Me funcionó muy bien; sigamos haciéndolo así». Esa petición de continuidad va más allá de describir favorablemente lo ocurrido.",
+    "cloze": "aboga",
+    "answer": "aboga",
+    "lemma": "abogar por",
+    "meaning": "advocates",
+    "audio": "work/audio/es-MX/05/es-05-1098.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1099",
+    "sentence": "«No sé en qué orden hacer las actividades», escribe un usuario. Otra usuaria propone «Numeremos los pasos para indicar la secuencia». Ella concreta una respuesta a la dificultad reportada, que por sí sola no especificaba cómo cambiar las instrucciones.",
+    "cloze": "concreta",
+    "answer": "concreta",
+    "lemma": "concretar",
+    "meaning": "gives concrete form to",
+    "audio": "work/audio/es-MX/05/es-05-1099.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1100",
+    "sentence": "«Un taller sin práctica me parece insuficiente como formación», afirma la coordinadora. La ficha dice «Este taller no incluye práctica», pero ella añade «Lo recomiendo como formación completa». Su recomendación es incongruente con su propio criterio: según la ficha, al taller le falta justamente lo que ella considera necesario.",
+    "cloze": "incongruente",
+    "answer": "incongruente",
+    "lemma": "incongruente",
+    "meaning": "inconsistent",
+    "audio": "work/audio/es-MX/05/es-05-1100.mp3",
+    "accepted_answers": []
   }
 ]
