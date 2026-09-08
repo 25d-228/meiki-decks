@@ -12440,5 +12440,405 @@
     "meaning": "minimizes",
     "audio": "work/audio/es-MX/05/es-05-1239.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1240",
+    "sentence": "Que solo dos personas objeten el horario no vuelve menor el problema: su objeción es atendible porque el taller coincide con su turno de trabajo y se anunció para todo el equipo.",
+    "cloze": "atendible",
+    "answer": "atendible",
+    "lemma": "atendible",
+    "meaning": "worthy of consideration",
+    "audio": "work/audio/es-MX/05/es-05-1240.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1241",
+    "sentence": "Usted propone desechar el cuadernillo porque falta una instrucción; esa omisión es subsanable con una línea en la misma página, sin cambiar los ejercicios que ya revisamos.",
+    "cloze": "subsanable",
+    "answer": "subsanable",
+    "lemma": "subsanable",
+    "meaning": "remediable",
+    "audio": "work/audio/es-MX/05/es-05-1241.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1242",
+    "sentence": "La reserva sobre el espacio llega desactualizada a esta votación: se refiere al primer plano, mientras que la propuesta sometida a aprobación ya deja libre todo el pasillo.",
+    "cloze": "desactualizada",
+    "answer": "desactualizada",
+    "lemma": "desactualizado",
+    "meaning": "out of date",
+    "audio": "work/audio/es-MX/05/es-05-1242.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1243",
+    "sentence": "No aceptan nuestra sala porque requiere llevar sillas, aunque recomiendan otra que también las necesita; evitar ese doble rasero exige evaluar ambas con el mismo requisito.",
+    "cloze": "doble rasero",
+    "answer": "doble rasero",
+    "lemma": "doble rasero",
+    "meaning": "double standard",
+    "audio": "work/audio/es-MX/05/es-05-1243.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1244",
+    "sentence": "—No conviene ensayar la presentación; todavía nos cuesta coordinarnos. —Precisamente por esa dificultad, con mayor razón necesitamos el ensayo para practicar juntos antes de recibir al público.",
+    "cloze": "con mayor razón",
+    "answer": "con mayor razón",
+    "lemma": "con mayor razón",
+    "meaning": "all the more reason",
+    "audio": "work/audio/es-MX/05/es-05-1244.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1245",
+    "sentence": "Entiendo la comparación con el préstamo de libros, donde devolverlos tarde impide que otra persona los use; esa objeción es inaplicable a las copias digitales que cada lector conserva sin quitárselas a nadie.",
+    "cloze": "inaplicable",
+    "answer": "inaplicable",
+    "lemma": "inaplicable",
+    "meaning": "inapplicable",
+    "audio": "work/audio/es-MX/05/es-05-1245.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1246",
+    "sentence": "Me dices que descartemos el taller porque aún no produjo relatos terminados; esa evaluación resulta prematura en una primera sesión dedicada, según el programa, a reunir ideas para escribirlos después.",
+    "cloze": "prematura",
+    "answer": "prematura",
+    "lemma": "prematuro",
+    "meaning": "premature",
+    "audio": "work/audio/es-MX/05/es-05-1246.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1247",
+    "sentence": "Señalas que la guía es confusa porque no tiene ilustraciones; no considero irrelevante esa observación, pero necesito que me indiques qué paso requiere una imagen para entenderse.",
+    "cloze": "irrelevante",
+    "answer": "irrelevante",
+    "lemma": "irrelevante",
+    "meaning": "irrelevant",
+    "audio": "work/audio/es-MX/05/es-05-1247.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1248",
+    "sentence": "Usted rechaza la llamada porque exige coincidir a una hora y propone reunirnos en persona; el problema de horario se vuelve en contra de esa alternativa, que también requiere coincidencia y añade el traslado.",
+    "cloze": "se vuelve en contra",
+    "answer": "se vuelve en contra",
+    "lemma": "volverse en contra",
+    "meaning": "works against",
+    "audio": "work/audio/es-MX/05/es-05-1248.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1249",
+    "sentence": "—La visita no sirve porque no habrá examen sobre ella. —El valor de la visita no se agota en preparar exámenes; también iremos a discutir nuestras interpretaciones frente a las piezas.",
+    "cloze": "se agota",
+    "answer": "se agota",
+    "lemma": "agotarse",
+    "meaning": "is limited",
+    "audio": "work/audio/es-MX/05/es-05-1249.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1250",
+    "sentence": "A mi objeción de que publicaron mi nombre sin preguntarme, usted responde que el boletín tuvo muchos lectores; esa respuesta elude el problema del permiso, que es lo que estoy reclamando.",
+    "cloze": "elude",
+    "answer": "elude",
+    "lemma": "eludir",
+    "meaning": "sidesteps",
+    "audio": "work/audio/es-MX/05/es-05-1250.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1251",
+    "sentence": "«Nos preocupa que la consulta obligue a gastar en copias», dicen ustedes; recoger las respuestas en el pizarrón y borrarlas al terminar neutraliza esa objeción concreta, pues no requiere imprimir nada.",
+    "cloze": "neutraliza",
+    "answer": "neutraliza",
+    "lemma": "neutralizar",
+    "meaning": "neutralizes",
+    "audio": "work/audio/es-MX/05/es-05-1251.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1252",
+    "sentence": "La vecina objeta que el ensayo le impedirá descansar; bajar el volumen ayuda, pero su objeción persiste si todavía se oye la música desde su recámara.",
+    "cloze": "persiste",
+    "answer": "persiste",
+    "lemma": "persistir",
+    "meaning": "persists",
+    "audio": "work/audio/es-MX/05/es-05-1252.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1253",
+    "sentence": "Cuestionas mi imparcialidad porque uso la biblioteca; ese interés no me deslegitima para objetar su cierre, aunque mis razones deben poder discutirse sin depender de mi preferencia.",
+    "cloze": "me deslegitima",
+    "answer": "me deslegitima",
+    "lemma": "deslegitimar",
+    "meaning": "deprives me of standing",
+    "audio": "work/audio/es-MX/05/es-05-1253.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1254",
+    "sentence": "Usted objeta que revisar otra vez los créditos solo aplaza la respuesta; comparar con usted la página publicada y la lista de contribuciones no es soslayar su reclamo, sino precisar qué nombres faltan para incluirlos.",
+    "cloze": "soslayar",
+    "answer": "soslayar",
+    "lemma": "soslayar",
+    "meaning": "sidestep",
+    "audio": "work/audio/es-MX/05/es-05-1254.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1255",
+    "sentence": "Usted objeta que revisar solo las solicitudes incompletas daría un trato desigual y propone pedir de nuevo los documentos a todo el grupo; esa medida sería indiscriminada, porque también afectaría a quienes ya entregaron el expediente completo.",
+    "cloze": "indiscriminada",
+    "answer": "indiscriminada",
+    "lemma": "indiscriminado",
+    "meaning": "indiscriminate",
+    "audio": "work/audio/es-MX/05/es-05-1255.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1256",
+    "sentence": "Tu objeción es que propongo demasiadas sesiones, no que debamos dejar de reunirnos; nuestra diferencia es de grado y podemos discutir la frecuencia sin volver a justificar la existencia del grupo.",
+    "cloze": "de grado",
+    "answer": "de grado",
+    "lemma": "de grado",
+    "meaning": "a matter of degree",
+    "audio": "work/audio/es-MX/05/es-05-1256.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1257",
+    "sentence": "Antes de aceptar una prueba de una semana, usted pide demostrar que el sistema nunca fallará; esa certeza es inalcanzable con un ensayo limitado, mientras que comprobar cómo recuperamos el trabajo tras una interrupción sí es una exigencia concreta.",
+    "cloze": "inalcanzable",
+    "answer": "inalcanzable",
+    "lemma": "inalcanzable",
+    "meaning": "unattainable",
+    "audio": "work/audio/es-MX/05/es-05-1257.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1258",
+    "sentence": "Comparto la objeción al cobro por entrar a la exposición, no la petición de cancelar también el recorrido gratuito por el barrio: son decisiones separables, pues el recorrido tiene materiales y personal propios.",
+    "cloze": "separables",
+    "answer": "separables",
+    "lemma": "separable",
+    "meaning": "separable",
+    "audio": "work/audio/es-MX/05/es-05-1258.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1259",
+    "sentence": "Te preocupa que mi voto a favor nos obligue a aceptar cualquier aumento posterior; mi apoyo no es incondicional, ya que la propuesta exige consultar de nuevo al grupo antes de modificar la cuota.",
+    "cloze": "incondicional",
+    "answer": "incondicional",
+    "lemma": "incondicional",
+    "meaning": "unconditional",
+    "audio": "work/audio/es-MX/05/es-05-1259.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1260",
+    "sentence": "Objetas que el personaje no puede sentir alivio si también siente tristeza; esas emociones no son excluyentes: se alegra de volver a casa y lamenta despedirse de su amiga.",
+    "cloze": "excluyentes",
+    "answer": "excluyentes",
+    "lemma": "excluyente",
+    "meaning": "mutually exclusive",
+    "audio": "work/audio/es-MX/05/es-05-1260.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1261",
+    "sentence": "Usted objeta que la atención no fue inmediata, como anunciamos; tenía motivos para tomar al pie de la letra esa promesa, porque el aviso no mencionaba ninguna espera.",
+    "cloze": "tomar al pie de la letra",
+    "answer": "tomar al pie de la letra",
+    "lemma": "tomar al pie de la letra",
+    "meaning": "take literally",
+    "audio": "work/audio/es-MX/05/es-05-1261.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1262",
+    "sentence": "Usted dice que la selección la hizo otro equipo y por eso no debe responder a mi objeción; explicar los criterios también le incumbe a su coordinación, que los aprobó y anunció el resultado.",
+    "cloze": "incumbe",
+    "answer": "incumbe",
+    "lemma": "incumbir",
+    "meaning": "falls within the responsibility",
+    "audio": "work/audio/es-MX/05/es-05-1262.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1263",
+    "sentence": "Afirmé que quienes participaron hoy completaron la práctica sin ayuda; objetas que Elena necesitó apoyo, pero su caso no es un contraejemplo: ella hizo ayer otra actividad y no estuvo en esta sesión.",
+    "cloze": "contraejemplo",
+    "answer": "contraejemplo",
+    "lemma": "contraejemplo",
+    "meaning": "counterexample",
+    "audio": "work/audio/es-MX/05/es-05-1263.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1264",
+    "sentence": "—Hacer dos conteos es perder tiempo; uno basta. —Los resultados se contrastan antes de publicar el total, de modo que un error de una persona pueda detectarse con el conteo independiente de la otra.",
+    "cloze": "se contrastan",
+    "answer": "se contrastan",
+    "lemma": "contrastar",
+    "meaning": "are cross-checked",
+    "audio": "work/audio/es-MX/05/es-05-1264.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1265",
+    "sentence": "Dices que no hace falta reducir los trámites porque cada firma toma muy poco; esos minutos se añaden a los de las otras mesas, y la objeción de las familias se refiere al tiempo del recorrido completo.",
+    "cloze": "se añaden",
+    "answer": "se añaden",
+    "lemma": "añadirse",
+    "meaning": "are added",
+    "audio": "work/audio/es-MX/05/es-05-1265.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1266",
+    "sentence": "Me reprochas no haber mandado otro recordatorio para evitar que el grupo llegara a la sede equivocada; repetir el mismo mensaje no habría impedido la confusión, pues ese mensaje contenía la dirección anterior.",
+    "cloze": "habría impedido",
+    "answer": "habría impedido",
+    "lemma": "impedir",
+    "meaning": "would have prevented",
+    "audio": "work/audio/es-MX/05/es-05-1266.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1267",
+    "sentence": "Ustedes objetan que decidimos sin consultarlos; aun cuando el resultado coincidió con su preferencia, les asiste la razón al reclamar la participación que habíamos acordado.",
+    "cloze": "les asiste la razón",
+    "answer": "les asiste la razón",
+    "lemma": "asistir la razón",
+    "meaning": "you are in the right",
+    "audio": "work/audio/es-MX/05/es-05-1267.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1268",
+    "sentence": "Entiendo que pedir autorización para publicar las entrevistas retrase la revista; ese requisito es irrenunciable para el equipo: no podemos decidir por las personas entrevistadas sobre el uso de sus palabras cuando les prometimos que ellas decidirían.",
+    "cloze": "irrenunciable",
+    "answer": "irrenunciable",
+    "lemma": "irrenunciable",
+    "meaning": "not to be waived",
+    "audio": "work/audio/es-MX/05/es-05-1268.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1269",
+    "sentence": "Objeta usted que debimos prever la cancelación porque hoy sabemos que el invitado tenía otro compromiso; juzgar nuestra decisión con ese dato aplica el criterio a posteriori, ya que entonces solo teníamos su confirmación por escrito.",
+    "cloze": "a posteriori",
+    "answer": "a posteriori",
+    "lemma": "a posteriori",
+    "meaning": "with hindsight",
+    "audio": "work/audio/es-MX/05/es-05-1269.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1270",
+    "sentence": "—Cambiar el sistema puede hacernos perder archivos; mejor dejemos todo igual. —Mantener el actual sin corregir su falla perpetúa el problema que usted quiere evitar: seguimos perdiendo documentos con él.",
+    "cloze": "perpetúa",
+    "answer": "perpetúa",
+    "lemma": "perpetuar",
+    "meaning": "perpetuates",
+    "audio": "work/audio/es-MX/05/es-05-1270.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1271",
+    "sentence": "Tu preocupación por perder participantes merece una respuesta; todavía queda por ver si el nuevo horario les dificulta asistir, porque nadie les ha preguntado por su disponibilidad.",
+    "cloze": "queda por ver",
+    "answer": "queda por ver",
+    "lemma": "quedar por ver",
+    "meaning": "remains to be seen",
+    "audio": "work/audio/es-MX/05/es-05-1271.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1272",
+    "sentence": "Rechazas comentar el esquema porque todavía no desarrolla los argumentos; un esquema, por definición, presenta su organización general, y eso es lo que necesitamos revisar antes de redactar.",
+    "cloze": "por definición",
+    "answer": "por definición",
+    "lemma": "por definición",
+    "meaning": "by definition",
+    "audio": "work/audio/es-MX/05/es-05-1272.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1273",
+    "sentence": "Acordamos elegir por la claridad de los textos y ahora objetas que el autor escribe despacio; convertir la rapidez en requisito después de leer las propuestas cambia las reglas del juego.",
+    "cloze": "cambia las reglas del juego",
+    "answer": "cambia las reglas del juego",
+    "lemma": "cambiar las reglas del juego",
+    "meaning": "changes the rules of the game",
+    "audio": "work/audio/es-MX/05/es-05-1273.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1274",
+    "sentence": "Ustedes objetan que aparecer en la foto no significa apoyar el proyecto; usar su presencia para anunciar ese apoyo sería instrumentalizar su participación, y su reclamo no depende de cuántas personas salieron en la imagen.",
+    "cloze": "instrumentalizar",
+    "answer": "instrumentalizar",
+    "lemma": "instrumentalizar",
+    "meaning": "exploit as a means to an end",
+    "audio": "work/audio/es-MX/05/es-05-1274.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1275",
+    "sentence": "La repetición de la última frase te parece un descuido; es intencional: la escribí así para que cada personaje la dijera con un sentido distinto, aunque ese recurso puede no gustarte.",
+    "cloze": "intencional",
+    "answer": "intencional",
+    "lemma": "intencional",
+    "meaning": "intentional",
+    "audio": "work/audio/es-MX/05/es-05-1275.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1276",
+    "sentence": "—También ustedes entregaron tarde; no pueden objetar nuestro retraso. —Los incumplimientos no se compensan entre sí: cada equipo debe explicar su demora a las personas que dejó esperando.",
+    "cloze": "se compensan",
+    "answer": "se compensan",
+    "lemma": "compensarse",
+    "meaning": "cancel each other out",
+    "audio": "work/audio/es-MX/05/es-05-1276.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1277",
+    "sentence": "Dices que no abres un turno de preguntas porque nadie levanta la mano; el grupo dice que no la levanta porque nunca hay turno. Esas dos conductas se alimentan entre sí, así que el silencio no basta para rechazar el espacio.",
+    "cloze": "se alimentan",
+    "answer": "se alimentan",
+    "lemma": "alimentarse",
+    "meaning": "feed each other",
+    "audio": "work/audio/es-MX/05/es-05-1277.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1278",
+    "sentence": "Acepto tu objeción: no sabemos quién escribió esa queja. Aun sin ella, mi crítica a la falta de acceso subsistiría, porque yo también encontré cerrada la única entrada anunciada.",
+    "cloze": "subsistiría",
+    "answer": "subsistiría",
+    "lemma": "subsistir",
+    "meaning": "would still stand",
+    "audio": "work/audio/es-MX/05/es-05-1278.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1279",
+    "sentence": "Una sesión sin problemas puede ser casualidad, objetan ustedes; es razonable repetir la prueba, pero ¿con qué resultados reconsiderarían esa objeción?",
+    "cloze": "reconsiderarían",
+    "answer": "reconsiderarían",
+    "lemma": "reconsiderar",
+    "meaning": "would reconsider",
+    "audio": "work/audio/es-MX/05/es-05-1279.mp3",
+    "accepted_answers": []
   }
 ]
