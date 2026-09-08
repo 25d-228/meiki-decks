@@ -4046,5 +4046,1205 @@
     "meaning": "correct",
     "audio": "work/audio/es-MX/05/es-05-0400.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-0401",
+    "sentence": "Aún no tenemos confirmaciones de asistencia, así que la cifra de la vez pasada será nuestra hipótesis de trabajo para calcular las mesas, con posibilidad de revisarla cuando lleguen las respuestas.",
+    "cloze": "hipótesis de trabajo",
+    "answer": "hipótesis de trabajo",
+    "lemma": "hipótesis de trabajo",
+    "meaning": "working hypothesis",
+    "audio": "work/audio/es-MX/05/es-05-0401.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0402",
+    "sentence": "Antes de quitar la orientación inicial, necesitamos saber si vendrán personas nuevas, pues eliminarla presupondría que todos conocen el espacio.",
+    "cloze": "presupondría",
+    "answer": "presupondría",
+    "lemma": "presuponer",
+    "meaning": "would presuppose",
+    "audio": "work/audio/es-MX/05/es-05-0402.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0403",
+    "sentence": "¿Y si bastara con mover el escritorio para dejar libre el paso? Probemos esa opción antes de sacar muebles; todavía quedaría por resolver dónde guardar las cajas.",
+    "cloze": "bastara",
+    "answer": "bastara",
+    "lemma": "bastar",
+    "meaning": "were enough",
+    "audio": "work/audio/es-MX/05/es-05-0403.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0404",
+    "sentence": "Tener el salón libre no resolvería por sí solo el ensayo: para trabajar sin dividir al elenco, sería necesario que coincidieran la disponibilidad del espacio y la de todos los actores.",
+    "cloze": "coincidieran",
+    "answer": "coincidieran",
+    "lemma": "coincidir",
+    "meaning": "coincided",
+    "audio": "work/audio/es-MX/05/es-05-0404.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0405",
+    "sentence": "Si permitiéramos preguntas por escrito, el público no tendría por qué dejar de preguntar en voz alta; estaríamos añadiendo una opción, no sustituyendo la anterior.",
+    "cloze": "tendría por qué",
+    "answer": "tendría por qué",
+    "lemma": "tener por qué",
+    "meaning": "would have any reason to",
+    "audio": "work/audio/es-MX/05/es-05-0405.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0406",
+    "sentence": "Según la propuesta de la dueña, aceptar el préstamo del local nos obligaría a limpiarlo al terminar. Esa tarea surgiría del acuerdo, no de asistir a la reunión.",
+    "cloze": "nos obligaría",
+    "answer": "nos obligaría",
+    "lemma": "obligar",
+    "meaning": "would oblige us",
+    "audio": "work/audio/es-MX/05/es-05-0406.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0407",
+    "sentence": "Todos recibieron el aviso, pero no podemos deducir que se envió por correo: pudo circular por el chat, que también llega a todo el equipo.",
+    "cloze": "deducir",
+    "answer": "deducir",
+    "lemma": "deducir",
+    "meaning": "deduce",
+    "audio": "work/audio/es-MX/05/es-05-0407.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0408",
+    "sentence": "Todavía estamos discutiendo una opción según la cual aprobar la entrevista eximiría a la aspirante del curso introductorio, aunque seguiría siendo necesario presentar una muestra de su trabajo.",
+    "cloze": "eximiría",
+    "answer": "eximiría",
+    "lemma": "eximir",
+    "meaning": "would exempt",
+    "audio": "work/audio/es-MX/05/es-05-0408.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0409",
+    "sentence": "La única recepcionista sale a comer a la una. ¿Qué requeriría mantener abierta la exposición a esa hora? Alguien que la cubra, aunque tener personal no garantizaría que llegaran visitantes.",
+    "cloze": "requeriría",
+    "answer": "requeriría",
+    "lemma": "requerir",
+    "meaning": "would require",
+    "audio": "work/audio/es-MX/05/es-05-0409.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0410",
+    "sentence": "Para que el comentario de Eva hubiera provocado el cambio de sede, la decisión habría tenido que ser posterior; sin embargo, el cambio se anunció antes de que ella hablara.",
+    "cloze": "habría tenido que",
+    "answer": "habría tenido que",
+    "lemma": "tener que",
+    "meaning": "would have had to",
+    "audio": "work/audio/es-MX/05/es-05-0410.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0411",
+    "sentence": "El retraso pudo haber empezado en la cocina; ver al mesero llegar tarde a la mesa no demuestra que él haya tardado en recoger los platos.",
+    "cloze": "pudo haber empezado",
+    "answer": "pudo haber empezado",
+    "lemma": "poder empezar",
+    "meaning": "could have started",
+    "audio": "work/audio/es-MX/05/es-05-0411.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0412",
+    "sentence": "Tal vez faltó gente por el horario y también por la poca difusión; esas explicaciones no se excluyen, así que todavía no podemos atribuir todo a una sola.",
+    "cloze": "se excluyen",
+    "answer": "se excluyen",
+    "lemma": "excluirse",
+    "meaning": "are mutually exclusive",
+    "audio": "work/audio/es-MX/05/es-05-0412.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0413",
+    "sentence": "No terminaríamos antes si quitáramos la introducción pero alargáramos las preguntas por el mismo tiempo: ambos cambios se contrarrestarían en la duración total.",
+    "cloze": "se contrarrestarían",
+    "answer": "se contrarrestarían",
+    "lemma": "contrarrestarse",
+    "meaning": "would offset each other",
+    "audio": "work/audio/es-MX/05/es-05-0413.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0414",
+    "sentence": "Podemos imaginar una reunión más pequeña o una más breve; en ambos casos seguiría haciendo falta alguien que tome notas, porque necesitamos conservar los acuerdos.",
+    "cloze": "seguiría haciendo falta",
+    "answer": "seguiría haciendo falta",
+    "lemma": "seguir haciendo falta",
+    "meaning": "would still be needed",
+    "audio": "work/audio/es-MX/05/es-05-0414.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0415",
+    "sentence": "Nuestra explicación de la poca asistencia por falta de difusión se debilitaría si varios de los ausentes dijeran que sí vieron el anuncio a tiempo, aunque seguiríamos sin saber por qué faltaron.",
+    "cloze": "se debilitaría",
+    "answer": "se debilitaría",
+    "lemma": "debilitarse",
+    "meaning": "would be weakened",
+    "audio": "work/audio/es-MX/05/es-05-0415.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0416",
+    "sentence": "Encontrar a una sola vecina que quiera participar por la tarde permitiría refutar la idea de que nadie está interesado en ese horario, sin probar que podamos llenar el grupo.",
+    "cloze": "refutar",
+    "answer": "refutar",
+    "lemma": "refutar",
+    "meaning": "refute",
+    "audio": "work/audio/es-MX/05/es-05-0416.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0417",
+    "sentence": "La suposición de que Julián leyó el aviso pierde sustento si resulta que estaba fuera del grupo de mensajes; aun así, alguien pudo habérselo mostrado por separado.",
+    "cloze": "pierde sustento",
+    "answer": "pierde sustento",
+    "lemma": "perder sustento",
+    "meaning": "loses its evidential basis",
+    "audio": "work/audio/es-MX/05/es-05-0417.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0418",
+    "sentence": "Aunque el dueño retirara su oferta de prestarnos sillas, la conclusión de que tenemos asientos suficientes se sostendría: con las sillas propias ya podemos sentar a todos.",
+    "cloze": "se sostendría",
+    "answer": "se sostendría",
+    "lemma": "sostenerse",
+    "meaning": "would remain supported",
+    "audio": "work/audio/es-MX/05/es-05-0418.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0419",
+    "sentence": "Con un registro incompleto, la ausencia de pruebas de asistencia no permite afirmar que Marta faltó; quizá entró cuando nadie estaba anotando nombres.",
+    "cloze": "ausencia de pruebas",
+    "answer": "ausencia de pruebas",
+    "lemma": "ausencia de pruebas",
+    "meaning": "absence of evidence",
+    "audio": "work/audio/es-MX/05/es-05-0419.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0420",
+    "sentence": "Para aislar el efecto del formato del taller, supongamos que todo lo demás se mantiene igual, incluido el número de participantes. Si además cambiáramos el tamaño del grupo, ya no sabríamos a qué atribuir la diferencia.",
+    "cloze": "aislar",
+    "answer": "aislar",
+    "lemma": "aislar",
+    "meaning": "isolate",
+    "audio": "work/audio/es-MX/05/es-05-0420.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0421",
+    "sentence": "Todavía no hemos probado las actividades con quienes apenas empiezan a leer, así que no estaría justificado que el éxito del taller entre lectores habituales se extrapolara a ellos.",
+    "cloze": "se extrapolara",
+    "answer": "se extrapolara",
+    "lemma": "extrapolarse",
+    "meaning": "were extrapolated",
+    "audio": "work/audio/es-MX/05/es-05-0421.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0422",
+    "sentence": "Si los ausentes aclararan si desconocían la convocatoria o tenían otro compromiso, distinguiríamos dos problemas que la lista de asistencia no permite separar.",
+    "cloze": "distinguiríamos",
+    "answer": "distinguiríamos",
+    "lemma": "distinguir",
+    "meaning": "would distinguish",
+    "audio": "work/audio/es-MX/05/es-05-0422.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0423",
+    "sentence": "Con clases grabadas, a quienes trabajan por la tarde se les abriría la posibilidad de estudiar de noche, sin que eso nos diga qué horario elegirían realmente.",
+    "cloze": "se les abriría",
+    "answer": "se les abriría",
+    "lemma": "abrirse",
+    "meaning": "would open up for them",
+    "audio": "work/audio/es-MX/05/es-05-0423.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0424",
+    "sentence": "Dos vecinos dicen que el taller se cancelará; si ambos se basaran únicamente en el mismo mensaje, no tendríamos corroboración independiente y aún faltaría preguntarle a quien lo organiza.",
+    "cloze": "corroboración independiente",
+    "answer": "corroboración independiente",
+    "lemma": "corroboración independiente",
+    "meaning": "independent corroboration",
+    "audio": "work/audio/es-MX/05/es-05-0424.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0425",
+    "sentence": "Si no ofreciéramos otra forma de inscribirse, abrir el registro en línea solo por la mañana conllevaría excluir a quienes únicamente pueden conectarse por la tarde, aunque la intención fuera simplificar el trabajo.",
+    "cloze": "conllevaría",
+    "answer": "conllevaría",
+    "lemma": "conllevar",
+    "meaning": "would entail",
+    "audio": "work/audio/es-MX/05/es-05-0425.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0426",
+    "sentence": "Todavía no hemos separado la práctica de la experiencia previa: si las personas con más experiencia son también quienes más practican, podríamos estar confundiendo el efecto de una con el de la otra.",
+    "cloze": "podríamos estar confundiendo",
+    "answer": "podríamos estar confundiendo",
+    "lemma": "poder confundir",
+    "meaning": "we could be confusing",
+    "audio": "work/audio/es-MX/05/es-05-0426.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0427",
+    "sentence": "¿En qué se fundaría la idea de que el grupo prefiere reunirse temprano, si lo único que sabemos es que varias personas pidieron salir antes? Podrían querer una sesión más corta.",
+    "cloze": "se fundaría",
+    "answer": "se fundaría",
+    "lemma": "fundarse",
+    "meaning": "would be based",
+    "audio": "work/audio/es-MX/05/es-05-0427.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0428",
+    "sentence": "La validez de la estimación de gastos dependería de que se prolongara el préstamo gratuito del equipo durante todo el curso; la dueña lo ofreció únicamente para la primera sesión.",
+    "cloze": "dependería",
+    "answer": "dependería",
+    "lemma": "depender",
+    "meaning": "would depend",
+    "audio": "work/audio/es-MX/05/es-05-0428.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0429",
+    "sentence": "Mientras esperamos la respuesta de la encargada, podemos prever otra sede, y prepararla no equivaldría a afirmar que perderemos la actual.",
+    "cloze": "equivaldría",
+    "answer": "equivaldría",
+    "lemma": "equivaler",
+    "meaning": "would amount to",
+    "audio": "work/audio/es-MX/05/es-05-0429.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0430",
+    "sentence": "Yo dejaría en suspenso la conclusión de que debemos cambiar de sede hasta conocer las respuestas de los vecinos; mientras tanto, sí podemos preparar el programa.",
+    "cloze": "dejaría en suspenso",
+    "answer": "dejaría en suspenso",
+    "lemma": "dejar en suspenso",
+    "meaning": "would suspend judgment on",
+    "audio": "work/audio/es-MX/05/es-05-0430.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0431",
+    "sentence": "Es posible que la mayoría prefiera empezar temprano sin que de ello se desprenda que cada integrante puede llegar a esa hora; todavía necesitamos preguntar por las dificultades individuales.",
+    "cloze": "se desprenda",
+    "answer": "se desprenda",
+    "lemma": "desprenderse",
+    "meaning": "follows",
+    "audio": "work/audio/es-MX/05/es-05-0431.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0432",
+    "sentence": "Si ustedes me prestaran la llave para recoger mis cosas, eso no me autorizaría a usar el salón para una reunión; tener acceso y contar con ese permiso serían asuntos distintos.",
+    "cloze": "me autorizaría",
+    "answer": "me autorizaría",
+    "lemma": "autorizar",
+    "meaning": "would authorize me",
+    "audio": "work/audio/es-MX/05/es-05-0432.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0433",
+    "sentence": "Si el único propósito del ensayo fuera comprobar que se oye al fondo, sobraría la exigencia de interpretar la obra completa, pues unas líneas permitirían hacer esa prueba.",
+    "cloze": "sobraría",
+    "answer": "sobraría",
+    "lemma": "sobrar",
+    "meaning": "would be unnecessary",
+    "audio": "work/audio/es-MX/05/es-05-0433.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0434",
+    "sentence": "Con una sola cámara, ustedes tendrían que turnarse para grabar entrevistas en cuartos distintos; podrían participar todos, pero no grabar simultáneamente, como propone el plan actual.",
+    "cloze": "tendrían que",
+    "answer": "tendrían que",
+    "lemma": "tener que",
+    "meaning": "would have to",
+    "audio": "work/audio/es-MX/05/es-05-0434.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0435",
+    "sentence": "Si las respuestas mostraran que nadie puede acudir entre semana, replantearíamos el horario; mientras esa suposición siga sin confirmarse, no hace falta cancelar las sesiones anunciadas.",
+    "cloze": "replantearíamos",
+    "answer": "replantearíamos",
+    "lemma": "replantear",
+    "meaning": "we would reconsider",
+    "audio": "work/audio/es-MX/05/es-05-0435.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0436",
+    "sentence": "Necesitamos algo más que repetir el cálculo: si usamos nuestra propia estimación de asistencia para demostrar que vendrá mucha gente, daríamos por probado precisamente lo que falta comprobar.",
+    "cloze": "daríamos por probado",
+    "answer": "daríamos por probado",
+    "lemma": "dar por probado",
+    "meaning": "we would treat as proven",
+    "audio": "work/audio/es-MX/05/es-05-0436.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0437",
+    "sentence": "Sin prometerle un resultado al público, cabría esperar menos interrupciones durante la lectura si tuviéramos más tiempo para ensayar.",
+    "cloze": "cabría esperar",
+    "answer": "cabría esperar",
+    "lemma": "caber esperar",
+    "meaning": "it would be reasonable to expect",
+    "audio": "work/audio/es-MX/05/es-05-0437.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0438",
+    "sentence": "¿La fila persistiría si quitáramos la revisión de boletos? Antes de atribuirle toda la demora, recordemos que también se detiene a la gente para entregar el programa.",
+    "cloze": "persistiría",
+    "answer": "persistiría",
+    "lemma": "persistir",
+    "meaning": "would persist",
+    "audio": "work/audio/es-MX/05/es-05-0438.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0439",
+    "sentence": "Si los voluntarios ofrecieran ayuda solo para el montaje, su compromiso se circunscribiría a esa etapa, aunque nosotros necesitáramos apoyo también durante las funciones.",
+    "cloze": "se circunscribiría",
+    "answer": "se circunscribiría",
+    "lemma": "circunscribirse",
+    "meaning": "would be confined",
+    "audio": "work/audio/es-MX/05/es-05-0439.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0440",
+    "sentence": "¿La ausencia de una ponente nos forzaría a cancelar el encuentro, o podríamos abrir una conversación entre los asistentes? El programa cambiaría, pero todavía habría una actividad posible.",
+    "cloze": "nos forzaría",
+    "answer": "nos forzaría",
+    "lemma": "forzar",
+    "meaning": "would force us",
+    "audio": "work/audio/es-MX/05/es-05-0440.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0441",
+    "sentence": "Al menos uno de los horarios tiene que estar equivocado: el boleto dice «salida a las ocho» y la pantalla, «salida a las nueve» para el mismo viaje; todavía no sabemos a qué hora saldrá el autobús.",
+    "cloze": "tiene que",
+    "answer": "tiene que",
+    "lemma": "tener que",
+    "meaning": "must; inferred necessity",
+    "audio": "work/audio/es-MX/05/es-05-0441.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0442",
+    "sentence": "No sé por qué borraste justo esa línea antes de reenviar el mensaje; sospecho que querías evitar una discusión, pero también pudo ser un descuido.",
+    "cloze": "sospecho",
+    "answer": "sospecho",
+    "lemma": "sospechar",
+    "meaning": "I suspect",
+    "audio": "work/audio/es-MX/05/es-05-0442.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0443",
+    "sentence": "Con «ustedes vayan, yo veo cómo me organizo», Ana da a entender que quizá no nos acompañe; todavía no ha dicho que no.",
+    "cloze": "da a entender",
+    "answer": "da a entender",
+    "lemma": "dar a entender",
+    "meaning": "implies",
+    "audio": "work/audio/es-MX/05/es-05-0443.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0444",
+    "sentence": "Raúl trajo todas las cajas, aunque solo le pedimos una muestra; puede haber entendido mal el encargo, sin que eso signifique que decidió ignorarlo.",
+    "cloze": "puede haber entendido",
+    "answer": "puede haber entendido",
+    "lemma": "poder entender",
+    "meaning": "may have understood",
+    "audio": "work/audio/es-MX/05/es-05-0444.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0445",
+    "sentence": "Veo tres firmas en la hoja; si son auténticas y cada una corresponde a un asistente distinto, deduzco que participaron al menos tres personas, pero la hoja no revela cuántas más estuvieron sin firmar.",
+    "cloze": "deduzco",
+    "answer": "deduzco",
+    "lemma": "deducir",
+    "meaning": "I deduce",
+    "audio": "work/audio/es-MX/05/es-05-0445.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0446",
+    "sentence": "Esta respuesta me suena a mensaje automático: habla de una entrega y yo pregunté por una devolución; no puedo saber quién la redactó.",
+    "cloze": "me suena",
+    "answer": "me suena",
+    "lemma": "sonar a",
+    "meaning": "sounds to me",
+    "audio": "work/audio/es-MX/05/es-05-0446.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0447",
+    "sentence": "No sabría decir qué cambió entre nosotros, pero, después de esa conversación tan cortada, intuyo que hay algo pendiente que todavía no quieres contarme.",
+    "cloze": "intuyo",
+    "answer": "intuyo",
+    "lemma": "intuir",
+    "meaning": "I sense",
+    "audio": "work/audio/es-MX/05/es-05-0447.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0448",
+    "sentence": "El video empieza con risas y se corta; cuando vuelve la imagen, todos guardan silencio. Algo incómodo debió de pasar durante ese intervalo, pero no vimos qué ocurrió.",
+    "cloze": "debió de",
+    "answer": "debió de",
+    "lemma": "deber de",
+    "meaning": "must have",
+    "audio": "work/audio/es-MX/05/es-05-0448.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0449",
+    "sentence": "Que Marta pregunte qué tareas podría hacer desde casa deja entrever cierto interés en colaborar, aunque aún no haya aceptado ninguna.",
+    "cloze": "deja entrever",
+    "answer": "deja entrever",
+    "lemma": "dejar entrever",
+    "meaning": "hints at",
+    "audio": "work/audio/es-MX/05/es-05-0449.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0450",
+    "sentence": "Entre una falla del aparato y una del cable, me inclino por la segunda: el mismo aparato funcionó con otro cable, pero falta repetir la prueba.",
+    "cloze": "me inclino",
+    "answer": "me inclino",
+    "lemma": "inclinarse por",
+    "meaning": "I lean",
+    "audio": "work/audio/es-MX/05/es-05-0450.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0451",
+    "sentence": "El registro marca cincuenta personas al inicio; como después vi salir a unas veinte y la entrada ya estaba cerrada, calculo que quedan unas treinta, aunque no he contado a quienes siguen dentro.",
+    "cloze": "calculo",
+    "answer": "calculo",
+    "lemma": "calcular",
+    "meaning": "I estimate",
+    "audio": "work/audio/es-MX/05/es-05-0451.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0452",
+    "sentence": "Cuando escribes «la sede cambió, nos vemos en el nuevo salón», aventuro que hablas de otro cuarto dentro del mismo edificio; el mensaje no aclara si también cambia la dirección.",
+    "cloze": "aventuro",
+    "answer": "aventuro",
+    "lemma": "aventurar",
+    "meaning": "I tentatively suggest",
+    "audio": "work/audio/es-MX/05/es-05-0452.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0453",
+    "sentence": "El eco que escuchamos se explicaría por dos micrófonos abiertos en el mismo cuarto; vimos dos personas conectadas desde ahí, pero no sus controles de audio.",
+    "cloze": "se explicaría",
+    "answer": "se explicaría",
+    "lemma": "explicarse",
+    "meaning": "would be explained",
+    "audio": "work/audio/es-MX/05/es-05-0453.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0454",
+    "sentence": "En la copia guardada faltan mis últimas respuestas y, después de aquel mensaje de error, me temo que se perdieron; aún no reviso la otra carpeta.",
+    "cloze": "me temo",
+    "answer": "me temo",
+    "lemma": "temerse",
+    "meaning": "I fear",
+    "audio": "work/audio/es-MX/05/es-05-0454.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0455",
+    "sentence": "De que una silla esté vacía no se sigue que esté disponible; vemos que no hay nadie sentado, pero no sabemos si alguien la apartó.",
+    "cloze": "se sigue",
+    "answer": "se sigue",
+    "lemma": "seguirse",
+    "meaning": "follows logically",
+    "audio": "work/audio/es-MX/05/es-05-0455.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0456",
+    "sentence": "Como Inés sigue en el turno publicado, presumo que hoy está atendiendo el módulo; un cambio de última hora es posible y no he pasado por ahí.",
+    "cloze": "presumo",
+    "answer": "presumo",
+    "lemma": "presumir",
+    "meaning": "I presume",
+    "audio": "work/audio/es-MX/05/es-05-0456.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0457",
+    "sentence": "La facilidad con que resuelve las preguntas del grupo denota experiencia frente a un público; eso es lo que interpreto, no conozco su trayectoria.",
+    "cloze": "denota",
+    "answer": "denota",
+    "lemma": "denotar",
+    "meaning": "indicates",
+    "audio": "work/audio/es-MX/05/es-05-0457.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0458",
+    "sentence": "Entre la salida del paquete y su devolución no hay movimientos registrados; con ese vacío, solo puedo conjeturar que quedó detenido en alguna bodega.",
+    "cloze": "conjeturar",
+    "answer": "conjeturar",
+    "lemma": "conjeturar",
+    "meaning": "speculate",
+    "audio": "work/audio/es-MX/05/es-05-0458.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0459",
+    "sentence": "—Antes nadie nos contradecía y ahora nos señalan errores sin rodeos; ¿están más inconformes? —Me da la impresión de que también hay más confianza, pero no les hemos preguntado.",
+    "cloze": "Me da la impresión",
+    "answer": "Me da la impresión",
+    "lemma": "dar la impresión",
+    "meaning": "I get the impression",
+    "audio": "work/audio/es-MX/05/es-05-0459.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0460",
+    "sentence": "El mensaje aparece como leído, pero no quiero concluir que rechazaron la invitación: sé que tiene esa marca, no por qué nadie ha contestado.",
+    "cloze": "concluir",
+    "answer": "concluir",
+    "lemma": "concluir",
+    "meaning": "conclude",
+    "audio": "work/audio/es-MX/05/es-05-0460.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0461",
+    "sentence": "El «sí» de tu respuesta trasluce cierta duda cuando añades «si de verdad les sirve»; estoy interpretando esas palabras, no diciendo que hayas cambiado de opinión.",
+    "cloze": "trasluce",
+    "answer": "trasluce",
+    "lemma": "traslucir",
+    "meaning": "conveys",
+    "audio": "work/audio/es-MX/05/es-05-0461.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0462",
+    "sentence": "Cuando hablamos del lugar, vuelves al tema del transporte; de esa insistencia infiero que la distancia pesa más para ti que el tamaño del salón, aunque no lo hayas dicho así.",
+    "cloze": "infiero",
+    "answer": "infiero",
+    "lemma": "inferir",
+    "meaning": "I infer",
+    "audio": "work/audio/es-MX/05/es-05-0462.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0463",
+    "sentence": "—Dijiste que ya revisaron el archivo; ¿viste sus comentarios? —No, estoy suponiendo que lo revisaron porque llegó la confirmación de entrega; solo sé que les llegó.",
+    "cloze": "estoy suponiendo",
+    "answer": "estoy suponiendo",
+    "lemma": "estar suponiendo",
+    "meaning": "I am assuming",
+    "audio": "work/audio/es-MX/05/es-05-0463.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0464",
+    "sentence": "Que el cargador se quedara en la sala resulta verosímil, porque ahí movimos todas las cosas para limpiar; sigue siendo una explicación posible hasta que lo encontremos.",
+    "cloze": "verosímil",
+    "answer": "verosímil",
+    "lemma": "verosímil",
+    "meaning": "plausible",
+    "audio": "work/audio/es-MX/05/es-05-0464.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0465",
+    "sentence": "Que hayas buscado el interruptor detrás del mueble sin preguntar delata cierta familiaridad con el lugar, aunque quizá alguien te explicó antes dónde estaba.",
+    "cloze": "delata",
+    "answer": "delata",
+    "lemma": "delatar",
+    "meaning": "gives away",
+    "audio": "work/audio/es-MX/05/es-05-0465.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0466",
+    "sentence": "La conexión falló mientras compartíamos pantalla, pero no podemos descartar una falla del equipo: todavía no lo probamos sin conectarlo a internet.",
+    "cloze": "descartar",
+    "answer": "descartar",
+    "lemma": "descartar",
+    "meaning": "rule out",
+    "audio": "work/audio/es-MX/05/es-05-0466.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0467",
+    "sentence": "Tras esas dos horas que pasaste esperando sin que te dijeran nada, me imagino que llegaste molesto; yo no estaba ahí y prefiero preguntarte antes de hablar por ti.",
+    "cloze": "me imagino",
+    "answer": "me imagino",
+    "lemma": "imaginarse",
+    "meaning": "I imagine",
+    "audio": "work/audio/es-MX/05/es-05-0467.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0468",
+    "sentence": "En «nos vemos mañana en el lugar de siempre» se sobreentiende que ambos saben dónde es la cita; yo solo veo esas palabras y no conozco sus acuerdos.",
+    "cloze": "se sobreentiende",
+    "answer": "se sobreentiende",
+    "lemma": "sobreentenderse",
+    "meaning": "is implicitly understood",
+    "audio": "work/audio/es-MX/05/es-05-0468.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0469",
+    "sentence": "El envío de archivos falla siempre con esa cuenta y funciona con otra; por eso cobra fuerza la explicación de que el problema está en la cuenta, aunque todavía no sabemos qué ajuste lo provoca.",
+    "cloze": "cobra fuerza",
+    "answer": "cobra fuerza",
+    "lemma": "cobrar fuerza",
+    "meaning": "gains support",
+    "audio": "work/audio/es-MX/05/es-05-0469.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0470",
+    "sentence": "Por el papel grueso y las marcas de corte, estas hojas parecen pruebas de imprenta; lo que tenemos a la vista no confirma que sean la versión publicada.",
+    "cloze": "parecen",
+    "answer": "parecen",
+    "lemma": "parecer",
+    "meaning": "appear to be",
+    "audio": "work/audio/es-MX/05/es-05-0470.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0471",
+    "sentence": "Cuando tomas un simple «gracias» como una promesa de apoyo, sobreinterpretas el mensaje; la respuesta reconoce el envío, pero no dice si la persona está de acuerdo.",
+    "cloze": "sobreinterpretas",
+    "answer": "sobreinterpretas",
+    "lemma": "sobreinterpretar",
+    "meaning": "you overinterpret",
+    "audio": "work/audio/es-MX/05/es-05-0471.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0472",
+    "sentence": "¿Por qué das por hecho que Laura está leyendo nuestro chat solo porque aparece en línea? Esa marca no nos dice qué conversación tiene abierta.",
+    "cloze": "das por hecho",
+    "answer": "das por hecho",
+    "lemma": "dar por hecho",
+    "meaning": "you take for granted",
+    "audio": "work/audio/es-MX/05/es-05-0472.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0473",
+    "sentence": "La posibilidad de que se mezclaran dos pedidos encaja con que sobre una pieza y falte otra; aún no hemos comparado nuestras cajas con las del otro cliente.",
+    "cloze": "encaja",
+    "answer": "encaja",
+    "lemma": "encajar",
+    "meaning": "fits",
+    "audio": "work/audio/es-MX/05/es-05-0473.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0474",
+    "sentence": "Entre las fotos de cada esquina y los apuntes sobre recorridos se adivina un interés por cómo se mueve la gente, aunque el proyecto todavía no tenga una explicación escrita.",
+    "cloze": "se adivina",
+    "answer": "se adivina",
+    "lemma": "adivinar",
+    "meaning": "can be discerned",
+    "audio": "work/audio/es-MX/05/es-05-0474.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0475",
+    "sentence": "En «yo también tengo pendientes y las cajas siguen aquí», leo entre líneas una petición de ayuda; la frase no dice quién debe encargarse ni pide nada de manera directa.",
+    "cloze": "leo entre líneas",
+    "answer": "leo entre líneas",
+    "lemma": "leer entre líneas",
+    "meaning": "I read between the lines",
+    "audio": "work/audio/es-MX/05/es-05-0475.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0476",
+    "sentence": "Que el mismo error aparezca justo después de cada actualización da que pensar, aunque todavía no permita culpar al programa ni a quien lo instala.",
+    "cloze": "da que pensar",
+    "answer": "da que pensar",
+    "lemma": "dar que pensar",
+    "meaning": "raises suspicions",
+    "audio": "work/audio/es-MX/05/es-05-0476.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0477",
+    "sentence": "Al cotejar la copia con el original, se descarta que falte una página por un error al copiar: los dos documentos tienen las mismas páginas y el mismo final cortado; aún no sabemos por qué falta el cierre.",
+    "cloze": "se descarta",
+    "answer": "se descarta",
+    "lemma": "descartar",
+    "meaning": "is ruled out",
+    "audio": "work/audio/es-MX/05/es-05-0477.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0478",
+    "sentence": "Yo creía que la impresora estaba fallando, pero ver que el mismo archivo sale incompleto en otra me hace pensar que el problema está en el documento; falta probar uno distinto.",
+    "cloze": "me hace pensar",
+    "answer": "me hace pensar",
+    "lemma": "hacer pensar",
+    "meaning": "makes me think",
+    "audio": "work/audio/es-MX/05/es-05-0478.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0479",
+    "sentence": "Ese «luego hablamos» no tiene por qué ser un rechazo: Julia lo escribió justo al entrar a clase y aún no sabemos qué quería decir.",
+    "cloze": "tiene por qué",
+    "answer": "tiene por qué",
+    "lemma": "tener por qué",
+    "meaning": "necessarily has to",
+    "audio": "work/audio/es-MX/05/es-05-0479.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0480",
+    "sentence": "El anuncio ofrece un premio, pero exige comprar primero y después pagar otra cantidad; eso huele a engaño, aunque no conozco todo el trato.",
+    "cloze": "huele a",
+    "answer": "huele a",
+    "lemma": "oler a",
+    "meaning": "smacks of",
+    "audio": "work/audio/es-MX/05/es-05-0480.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0481",
+    "sentence": "Los cuatro mil pesos para reparar el portón son una estimación preliminar: falta revisar el motor, y una pieza dañada podría aumentar el total.",
+    "cloze": "estimación preliminar",
+    "answer": "estimación preliminar",
+    "lemma": "estimación preliminar",
+    "meaning": "preliminary estimate",
+    "audio": "work/audio/es-MX/05/es-05-0481.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0482",
+    "sentence": "Para acomodar las cajas que aún faltan, necesitaremos, a ojo de buen cubero, otra camioneta; cuando las juntemos sabremos si caben en la que ya tenemos.",
+    "cloze": "a ojo de buen cubero",
+    "answer": "a ojo de buen cubero",
+    "lemma": "a ojo de buen cubero",
+    "meaning": "by a rough visual estimate",
+    "audio": "work/audio/es-MX/05/es-05-0482.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0483",
+    "sentence": "Ustedes anotaron exactamente cuántos visitantes esperan, pero ¿con qué grado de confianza hacen ese cálculo si todavía no saben cuántas escuelas participarán?",
+    "cloze": "grado de confianza",
+    "answer": "grado de confianza",
+    "lemma": "grado de confianza",
+    "meaning": "degree of confidence",
+    "audio": "work/audio/es-MX/05/es-05-0483.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0484",
+    "sentence": "La edición estará lista, en el mejor de los casos, el jueves; eso supone recibir hoy las fotos y no encontrar errores en la prueba.",
+    "cloze": "en el mejor de los casos",
+    "answer": "en el mejor de los casos",
+    "lemma": "en el mejor de los casos",
+    "meaning": "at best",
+    "audio": "work/audio/es-MX/05/es-05-0484.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0485",
+    "sentence": "Esperamos unas cuarenta personas, pero ese cálculo tiene un margen de error: varias todavía dependen de un cambio de turno y podrían cancelar.",
+    "cloze": "margen de error",
+    "answer": "margen de error",
+    "lemma": "margen de error",
+    "meaning": "margin of error",
+    "audio": "work/audio/es-MX/05/es-05-0485.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0486",
+    "sentence": "—¿Con la suplente ya es seguro que habrá función? —No hay riesgo cero: todavía podríamos cancelar si falla el equipo de sonido.",
+    "cloze": "riesgo cero",
+    "answer": "riesgo cero",
+    "lemma": "riesgo cero",
+    "meaning": "zero risk",
+    "audio": "work/audio/es-MX/05/es-05-0486.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0487",
+    "sentence": "Entre hospedaje y comidas, el viaje saldrá, en números redondos, en cinco mil pesos por persona; los detalles del menú todavía pueden cambiar esa cantidad.",
+    "cloze": "en números redondos",
+    "answer": "en números redondos",
+    "lemma": "en números redondos",
+    "meaning": "in round figures",
+    "audio": "work/audio/es-MX/05/es-05-0487.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0488",
+    "sentence": "Con las respuestas recibidas, el turno matutino se perfila como el de mayor asistencia; faltan las del grupo que trabaja de noche.",
+    "cloze": "se perfila",
+    "answer": "se perfila",
+    "lemma": "perfilarse",
+    "meaning": "is shaping up",
+    "audio": "work/audio/es-MX/05/es-05-0488.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0489",
+    "sentence": "El transporte costará, a lo sumo, tres mil pesos si alcanza con dos camionetas; una tercera quedaría fuera de ese cálculo.",
+    "cloze": "a lo sumo",
+    "answer": "a lo sumo",
+    "lemma": "a lo sumo",
+    "meaning": "at most",
+    "audio": "work/audio/es-MX/05/es-05-0489.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0490",
+    "sentence": "La entrega del material es el principal factor de incertidumbre en nuestro cálculo de avance: no sabemos cuándo llegará y sin él no podemos empezar.",
+    "cloze": "factor de incertidumbre",
+    "answer": "factor de incertidumbre",
+    "lemma": "factor de incertidumbre",
+    "meaning": "source of uncertainty",
+    "audio": "work/audio/es-MX/05/es-05-0490.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0491",
+    "sentence": "Las solicitudes de grupos completos nos obligan a revisar al alza la asistencia esperada, aunque todavía puede haber cancelaciones individuales.",
+    "cloze": "revisar al alza",
+    "answer": "revisar al alza",
+    "lemma": "revisar al alza",
+    "meaning": "revise upward",
+    "audio": "work/audio/es-MX/05/es-05-0491.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0492",
+    "sentence": "Que el encuentro se suspenda por falta de público es una posibilidad remota, no imposible: casi todos confirmaron, pero podrían coincidir varias bajas.",
+    "cloze": "posibilidad remota",
+    "answer": "posibilidad remota",
+    "lemma": "posibilidad remota",
+    "meaning": "remote possibility",
+    "audio": "work/audio/es-MX/05/es-05-0492.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0493",
+    "sentence": "Hablamos de varios miles de pesos para la mudanza, a grandes rasgos; cuando midamos los muebles podremos precisar si hará falta un segundo viaje.",
+    "cloze": "a grandes rasgos",
+    "answer": "a grandes rasgos",
+    "lemma": "a grandes rasgos",
+    "meaning": "in broad terms",
+    "audio": "work/audio/es-MX/05/es-05-0493.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0494",
+    "sentence": "Que la nueva aplicación nos ahorre trabajo está por verse; calculamos una mañana menos de captura, pero falta probar cómo recibe los archivos antiguos.",
+    "cloze": "está por verse",
+    "answer": "está por verse",
+    "lemma": "estar por verse",
+    "meaning": "remains to be seen",
+    "audio": "work/audio/es-MX/05/es-05-0494.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0495",
+    "sentence": "Estoy calculando el gasto de la comida, tirando por lo alto, en doscientos pesos por persona; puede bajar si finalmente nos incluyen las bebidas.",
+    "cloze": "tirando por lo alto",
+    "answer": "tirando por lo alto",
+    "lemma": "tirar por lo alto",
+    "meaning": "estimating on the high side",
+    "audio": "work/audio/es-MX/05/es-05-0495.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0496",
+    "sentence": "A este paso, terminaríamos en otra semana, pero la parte que falta tiene más detalles que la primera.",
+    "cloze": "A este paso",
+    "answer": "A este paso",
+    "lemma": "a este paso",
+    "meaning": "at this rate",
+    "audio": "work/audio/es-MX/05/es-05-0496.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0497",
+    "sentence": "La paquetería nos dio dos tarifas según el peso; calculamos que el costo del envío oscilará entre ochocientos y mil doscientos pesos, pero falta pesar las cajas.",
+    "cloze": "oscilará",
+    "answer": "oscilará",
+    "lemma": "oscilar",
+    "meaning": "will range",
+    "audio": "work/audio/es-MX/05/es-05-0497.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0498",
+    "sentence": "No podemos dar por seguro que llenaremos el salón solo porque agotamos los boletos de la función anterior; esta vez coincide con otro evento del barrio.",
+    "cloze": "dar por seguro",
+    "answer": "dar por seguro",
+    "lemma": "dar por seguro",
+    "meaning": "take as certain",
+    "audio": "work/audio/es-MX/05/es-05-0498.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0499",
+    "sentence": "El montaje apenas empieza y todavía no llegan los muebles; anunciar que terminaremos sin retrasos sería cantar victoria antes de tiempo.",
+    "cloze": "cantar victoria",
+    "answer": "cantar victoria",
+    "lemma": "cantar victoria",
+    "meaning": "declare victory",
+    "audio": "work/audio/es-MX/05/es-05-0499.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0500",
+    "sentence": "En el peor de los casos, perderíamos ambos apoyos y pagaríamos toda la renta; por ahora, uno sigue confirmado y el otro está pendiente.",
+    "cloze": "En el peor de los casos",
+    "answer": "En el peor de los casos",
+    "lemma": "en el peor de los casos",
+    "meaning": "in the worst case",
+    "audio": "work/audio/es-MX/05/es-05-0500.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0501",
+    "sentence": "¿Cómo voy a calcular al centavo el costo del viaje si todavía no sabemos qué hotel tendrá cuartos disponibles ni cuánto cobrará por esas fechas?",
+    "cloze": "al centavo",
+    "answer": "al centavo",
+    "lemma": "al centavo",
+    "meaning": "to the last cent",
+    "audio": "work/audio/es-MX/05/es-05-0501.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0502",
+    "sentence": "Podemos pecar de optimismo al calcular el gasto de la reunión: solo contamos comida y bebidas, aunque también habrá que pagar el envío.",
+    "cloze": "pecar de optimismo",
+    "answer": "pecar de optimismo",
+    "lemma": "pecar de optimismo",
+    "meaning": "be overly optimistic",
+    "audio": "work/audio/es-MX/05/es-05-0502.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0503",
+    "sentence": "La participación de Laura está sujeta a confirmación; la contamos entre las personas que esperamos, pero su jefa aún no le autoriza el permiso.",
+    "cloze": "sujeta a confirmación",
+    "answer": "sujeta a confirmación",
+    "lemma": "sujeto a confirmación",
+    "meaning": "subject to confirmation",
+    "audio": "work/audio/es-MX/05/es-05-0503.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0504",
+    "sentence": "Aunque casi todo está listo, la apertura del taller pende de un hilo: falta la única persona que tiene la llave y no sabemos si llegará a tiempo.",
+    "cloze": "pende de un hilo",
+    "answer": "pende de un hilo",
+    "lemma": "pender de un hilo",
+    "meaning": "hangs by a thread",
+    "audio": "work/audio/es-MX/05/es-05-0504.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0505",
+    "sentence": "Esperamos al menos veinte inscripciones; es una estimación conservadora, porque solo contamos a quienes ya enviaron sus datos, aunque podrían sumarse más personas cuando se publique el programa.",
+    "cloze": "estimación conservadora",
+    "answer": "estimación conservadora",
+    "lemma": "estimación conservadora",
+    "meaning": "conservative estimate",
+    "audio": "work/audio/es-MX/05/es-05-0505.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0506",
+    "sentence": "El presupuesto incluye un margen para imprevistos; esa parte podría quedar sin gastar si el traslado sale bien y no necesitamos una noche adicional.",
+    "cloze": "margen para imprevistos",
+    "answer": "margen para imprevistos",
+    "lemma": "margen para imprevistos",
+    "meaning": "allowance for unforeseen expenses",
+    "audio": "work/audio/es-MX/05/es-05-0506.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0507",
+    "sentence": "Es más probable que elijan la sede del centro que la del sur, pero hay tantas opciones abiertas que ninguna tiene muchas posibilidades por sí sola; faltan las preferencias de varios grupos.",
+    "cloze": "más probable",
+    "answer": "más probable",
+    "lemma": "probable",
+    "meaning": "more likely",
+    "audio": "work/audio/es-MX/05/es-05-0507.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0508",
+    "sentence": "La asistencia puede desviarse de lo previsto; dimos una cifra para organizar el espacio, no una promesa, y el registro sigue abierto.",
+    "cloze": "desviarse de lo previsto",
+    "answer": "desviarse de lo previsto",
+    "lemma": "desviarse de lo previsto",
+    "meaning": "differ from what was forecast",
+    "audio": "work/audio/es-MX/05/es-05-0508.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0509",
+    "sentence": "Sobre el papel, bastan dos semanas para el montaje, siempre que tengamos el salón a diario, pero todavía no sabemos si habrá que compartirlo.",
+    "cloze": "Sobre el papel",
+    "answer": "Sobre el papel",
+    "lemma": "sobre el papel",
+    "meaning": "in theory",
+    "audio": "work/audio/es-MX/05/es-05-0509.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0510",
+    "sentence": "Esperar que venga todo el grupo sería hacerse ilusiones: nos daría mucho gusto, pero varios ya avisaron que solo podrán asistir si cambian de turno.",
+    "cloze": "hacerse ilusiones",
+    "answer": "hacerse ilusiones",
+    "lemma": "hacerse ilusiones",
+    "meaning": "get one's hopes up",
+    "audio": "work/audio/es-MX/05/es-05-0510.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0511",
+    "sentence": "El costo del hospedaje sigue en el aire: unos hoteles suben sus tarifas y otros las bajan, así que todavía no sé si el viaje saldrá más caro.",
+    "cloze": "en el aire",
+    "answer": "en el aire",
+    "lemma": "en el aire",
+    "meaning": "up in the air",
+    "audio": "work/audio/es-MX/05/es-05-0511.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0512",
+    "sentence": "Hoy se llenó el taller porque vino un grupo de visita. Ese éxito puede ser flor de un día; la asistencia de las próximas sesiones mostrará si el interés se mantiene.",
+    "cloze": "flor de un día",
+    "answer": "flor de un día",
+    "lemma": "flor de un día",
+    "meaning": "a fleeting success",
+    "audio": "work/audio/es-MX/05/es-05-0512.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0513",
+    "sentence": "Hay diez lugares, pero la selección está en manos del azar; sin saber cuántos equipos se inscribieron, no puedo decir si el nuestro tiene muchas posibilidades.",
+    "cloze": "en manos del azar",
+    "answer": "en manos del azar",
+    "lemma": "en manos del azar",
+    "meaning": "left to chance",
+    "audio": "work/audio/es-MX/05/es-05-0513.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0514",
+    "sentence": "Cada integrante suele venir, pero con tantos ensayos nos exponemos a que alguna ausencia retrase el trabajo, sobre todo si alargamos el calendario.",
+    "cloze": "nos exponemos",
+    "answer": "nos exponemos",
+    "lemma": "exponerse",
+    "meaning": "we run the risk",
+    "audio": "work/audio/es-MX/05/es-05-0514.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0515",
+    "sentence": "—Un equipo calcula una mañana de montaje y el otro, dos días. ¿Cuánto crees que tardaremos? —Prefiero no arriesgar un pronóstico hasta que hagamos una prueba con los muebles.",
+    "cloze": "arriesgar un pronóstico",
+    "answer": "arriesgar un pronóstico",
+    "lemma": "arriesgar un pronóstico",
+    "meaning": "venture a forecast",
+    "audio": "work/audio/es-MX/05/es-05-0515.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0516",
+    "sentence": "Los seis mil pesos vienen de una estimación desfasada: incluía un descuento que ya terminó, así que el gasto del viaje tendrá que calcularse de nuevo.",
+    "cloze": "estimación desfasada",
+    "answer": "estimación desfasada",
+    "lemma": "estimación desfasada",
+    "meaning": "outdated estimate",
+    "audio": "work/audio/es-MX/05/es-05-0516.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0517",
+    "sentence": "El promedio estimado de gasto es de trescientos pesos por persona; quienes vayan por su cuenta pagarán menos, y aún falta saber cuántos serán.",
+    "cloze": "promedio estimado",
+    "answer": "promedio estimado",
+    "lemma": "promedio estimado",
+    "meaning": "estimated average",
+    "audio": "work/audio/es-MX/05/es-05-0517.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0518",
+    "sentence": "Ni con todas las confirmaciones podemos saber a ciencia cierta cuántas personas vendrán: alguien puede cambiar de planes justo antes de salir.",
+    "cloze": "a ciencia cierta",
+    "answer": "a ciencia cierta",
+    "lemma": "a ciencia cierta",
+    "meaning": "with certainty",
+    "audio": "work/audio/es-MX/05/es-05-0518.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0519",
+    "sentence": "Revisar las medidas nos permitirá acotar la incertidumbre sobre el costo del envío, aunque el peso final todavía puede mover la cantidad.",
+    "cloze": "acotar la incertidumbre",
+    "answer": "acotar la incertidumbre",
+    "lemma": "acotar la incertidumbre",
+    "meaning": "narrow down the uncertainty",
+    "audio": "work/audio/es-MX/05/es-05-0519.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0520",
+    "sentence": "El equipo estará listo para la prueba del lunes, salvo imprevistos; las piezas ya llegaron y solo falta armarlas.",
+    "cloze": "salvo imprevistos",
+    "answer": "salvo imprevistos",
+    "lemma": "salvo imprevistos",
+    "meaning": "barring unforeseen events",
+    "audio": "work/audio/es-MX/05/es-05-0520.mp3",
+    "accepted_answers": []
   }
 ]
