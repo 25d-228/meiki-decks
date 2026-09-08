@@ -7928,5 +7928,295 @@
     "meaning": "strain",
     "audio": "work/audio/es-MX/05/es-05-0788.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-0789",
+    "sentence": "Durante la entrevista, el encargado admitió que había cambiado el orden de las solicitudes; sobre la intención de favorecer a alguien, dijo que eso era una acusación nuestra.",
+    "cloze": "admitió",
+    "answer": "admitió",
+    "lemma": "admitir",
+    "meaning": "acknowledged",
+    "audio": "work/audio/es-MX/05/es-05-0789.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0790",
+    "sentence": "La entrevistada revisó sus respuestas y aprobó esta versión autorizada de la conversación; su aprobación respalda la redacción, pero nosotros no comprobamos los hechos que cuenta.",
+    "cloze": "versión autorizada",
+    "answer": "versión autorizada",
+    "lemma": "versión autorizada",
+    "meaning": "approved version",
+    "audio": "work/audio/es-MX/05/es-05-0790.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0791",
+    "sentence": "En mi nota escribí que el proveedor adujo una falla del sistema para explicar la demora, porque esa fue su explicación y yo no tuve acceso al sistema.",
+    "cloze": "adujo",
+    "answer": "adujo",
+    "lemma": "aducir",
+    "meaning": "cited as a reason",
+    "audio": "work/audio/es-MX/05/es-05-0791.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0792",
+    "sentence": "Las objeciones no se consignaron en la minuta: quienes la redactaron dicen que solo anotaron el acuerdo final; que no aparezcan ahí no significa que no hubiera protestas.",
+    "cloze": "se consignaron",
+    "answer": "se consignaron",
+    "lemma": "consignar",
+    "meaning": "were recorded",
+    "audio": "work/audio/es-MX/05/es-05-0792.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0793",
+    "sentence": "Después de la reunión, Julia me confió que estaba pensando dejar el equipo y me pidió discreción; ante los demás solo había dicho que necesitaba descansar.",
+    "cloze": "confió",
+    "answer": "confió",
+    "lemma": "confiar",
+    "meaning": "confided",
+    "audio": "work/audio/es-MX/05/es-05-0793.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0794",
+    "sentence": "Lo que Mario desmintió fue haber anunciado el cierre del taller: «No he hecho ningún anuncio; todavía estamos viendo si podemos continuar».",
+    "cloze": "desmintió",
+    "answer": "desmintió",
+    "lemma": "desmentir",
+    "meaning": "denied as false",
+    "audio": "work/audio/es-MX/05/es-05-0794.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0795",
+    "sentence": "Si preguntas «¿fue el muchacho de la gorra quien gritó?», puedes obtener una respuesta inducida; necesitamos saber a quién recuerda haber visto la vecina sin sugerirle una identidad.",
+    "cloze": "respuesta inducida",
+    "answer": "respuesta inducida",
+    "lemma": "respuesta inducida",
+    "meaning": "prompted response",
+    "audio": "work/audio/es-MX/05/es-05-0795.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0796",
+    "sentence": "Al contar lo que decía la carta de mi abuelo, cito de memoria la frase «la casa siempre estaba llena»; recuerdo la idea, pero tendría que revisar la carta para asegurar que esas eran sus palabras.",
+    "cloze": "de memoria",
+    "answer": "de memoria",
+    "lemma": "de memoria",
+    "meaning": "from memory",
+    "audio": "work/audio/es-MX/05/es-05-0796.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0797",
+    "sentence": "Yo vi que el cliente levantó la voz y golpeó el mostrador; fue la cajera quien calificó su conducta de intimidante al contar cómo vivió el encuentro.",
+    "cloze": "calificó",
+    "answer": "calificó",
+    "lemma": "calificar",
+    "meaning": "characterized",
+    "audio": "work/audio/es-MX/05/es-05-0797.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0798",
+    "sentence": "«Prefiero no hacer comentarios», respondió Teresa cuando le preguntaron por la salida del coordinador; declinó hablar del asunto, sin confirmar ni negar que él se hubiera ido.",
+    "cloze": "declinó",
+    "answer": "declinó",
+    "lemma": "declinar",
+    "meaning": "declined",
+    "audio": "work/audio/es-MX/05/es-05-0798.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0799",
+    "sentence": "«Tal vez pensaron que la entrada costaba», aventuró Lucía al hablar de la poca asistencia; conservé ese «tal vez» porque ella tampoco había preguntado a quienes faltaron.",
+    "cloze": "aventuró",
+    "answer": "aventuró",
+    "lemma": "aventurar",
+    "meaning": "tentatively suggested",
+    "audio": "work/audio/es-MX/05/es-05-0799.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0800",
+    "sentence": "El resumen ensambla frases que Irene dijo en distintos momentos; al reunirlas entre las mismas comillas, presenta como una sola respuesta lo que fueron intervenciones separadas.",
+    "cloze": "ensambla",
+    "answer": "ensambla",
+    "lemma": "ensamblar",
+    "meaning": "pieces together",
+    "audio": "work/audio/es-MX/05/es-05-0800.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0801",
+    "sentence": "Cuando le mostramos la objeción de su compañero, Elisa se ratificó en su afirmación de que había avisado; mantuvo su versión, aunque no presentó ningún mensaje que la respaldara.",
+    "cloze": "se ratificó",
+    "answer": "se ratificó",
+    "lemma": "ratificarse",
+    "meaning": "reaffirmed her statement",
+    "audio": "work/audio/es-MX/05/es-05-0801.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0802",
+    "sentence": "La nueva administradora dice que desconoce los acuerdos anteriores a su llegada; sería injusto resumir su respuesta como una afirmación de que nunca hubo acuerdos.",
+    "cloze": "desconoce",
+    "answer": "desconoce",
+    "lemma": "desconocer",
+    "meaning": "is unaware of",
+    "audio": "work/audio/es-MX/05/es-05-0802.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0803",
+    "sentence": "Tomás conservó las palabras «necesito una explicación», pero las gritó al contar la escena y distorsionó el tono de mi petición; yo había hablado sin levantar la voz.",
+    "cloze": "distorsionó",
+    "answer": "distorsionó",
+    "lemma": "distorsionar",
+    "meaning": "distorted",
+    "audio": "work/audio/es-MX/05/es-05-0803.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0804",
+    "sentence": "Al ver que el mensaje de bienvenida llegó después de terminar el curso, Pablo ironizó: «Qué oportunos»; su comentario expresaba una crítica a la demora.",
+    "cloze": "ironizó",
+    "answer": "ironizó",
+    "lemma": "ironizar",
+    "meaning": "remarked ironically",
+    "audio": "work/audio/es-MX/05/es-05-0804.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0805",
+    "sentence": "En mi relato de la fiesta se entremezclan recuerdos propios y detalles que conocí después al ver las fotos; ya no sé cuáles proceden de lo que viví esa noche.",
+    "cloze": "se entremezclan",
+    "answer": "se entremezclan",
+    "lemma": "entremezclarse",
+    "meaning": "blend together",
+    "audio": "work/audio/es-MX/05/es-05-0805.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0806",
+    "sentence": "Yo propuse que el resumen incluyera las críticas al taller y Nora suscribió esa postura con un «estoy de acuerdo»; podemos atribuirle el apoyo, aunque la propuesta inicial fue mía.",
+    "cloze": "suscribió",
+    "answer": "suscribió",
+    "lemma": "suscribir",
+    "meaning": "endorsed",
+    "audio": "work/audio/es-MX/05/es-05-0806.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0807",
+    "sentence": "Al citar la reseña, aclara que su autor es una parte interesada: vende los muebles que elogia; eso importa para valorar su opinión, aunque no demuestra que mienta.",
+    "cloze": "parte interesada",
+    "answer": "parte interesada",
+    "lemma": "parte interesada",
+    "meaning": "interested party",
+    "audio": "work/audio/es-MX/05/es-05-0807.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0808",
+    "sentence": "Como pidieron una transcripción literal, conservé «pues... este... yo no estaba ahí» en la respuesta de Laura; en una versión para lectura habríamos quitado esas vacilaciones.",
+    "cloze": "transcripción literal",
+    "answer": "transcripción literal",
+    "lemma": "transcripción literal",
+    "meaning": "verbatim transcription",
+    "audio": "work/audio/es-MX/05/es-05-0808.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0809",
+    "sentence": "Cuando le pregunté si había enviado el aviso, el encargado eludió la pregunta hablando de todo el trabajo pendiente; su respuesta no permite saber si lo envió.",
+    "cloze": "eludió",
+    "answer": "eludió",
+    "lemma": "eludir",
+    "meaning": "evaded",
+    "audio": "work/audio/es-MX/05/es-05-0809.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0810",
+    "sentence": "El promotor se jactó de haber llenado el salón sin ayuda; en la entrevista esa hazaña aparece únicamente en su relato, pues no hablamos con los demás organizadores.",
+    "cloze": "se jactó",
+    "answer": "se jactó",
+    "lemma": "jactarse",
+    "meaning": "boasted",
+    "audio": "work/audio/es-MX/05/es-05-0810.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0811",
+    "sentence": "La autora de la reseña rectificó su cita de la entrevista: había escrito «semanas» donde yo había dicho «meses» y ya puso la palabra correcta; el error estaba en su texto y mi respuesta no cambió.",
+    "cloze": "rectificó",
+    "answer": "rectificó",
+    "lemma": "rectificar",
+    "meaning": "corrected",
+    "audio": "work/audio/es-MX/05/es-05-0811.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0812",
+    "sentence": "Puedo explicar qué trabajo hacía nuestra fuente anónima y cómo conoció el proyecto; yo hablé con ella, pero acordamos no publicar su nombre.",
+    "cloze": "fuente anónima",
+    "answer": "fuente anónima",
+    "lemma": "fuente anónima",
+    "meaning": "anonymous source",
+    "audio": "work/audio/es-MX/05/es-05-0812.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0813",
+    "sentence": "El vecino atestiguó que vio a Rosa sacar las cajas del salón, pero dijo que no sabía si alguien se lo había pedido; su relato no establece que actuara sin permiso.",
+    "cloze": "atestiguó",
+    "answer": "atestiguó",
+    "lemma": "atestiguar",
+    "meaning": "testified from observation",
+    "audio": "work/audio/es-MX/05/es-05-0813.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0814",
+    "sentence": "En la misma conversación, Raúl se contradijo: primero afirmó que abrió el sobre para revisar la carta y luego aseguró que nunca lo había abierto.",
+    "cloze": "se contradijo",
+    "answer": "se contradijo",
+    "lemma": "contradecirse",
+    "meaning": "contradicted himself",
+    "audio": "work/audio/es-MX/05/es-05-0814.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0815",
+    "sentence": "Antes de incluir la cita, Ana la cotejó con el mensaje original y comprobó que faltaba «por ahora»; añadió esas palabras sin pronunciarse sobre la explicación del remitente.",
+    "cloze": "cotejó",
+    "answer": "cotejó",
+    "lemma": "cotejar",
+    "meaning": "cross-checked",
+    "audio": "work/audio/es-MX/05/es-05-0815.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0816",
+    "sentence": "En su último mensaje, Andrés retira la acusación porque ya no puede sostenerla; eso cambia lo que él afirma, pero no aclara quién borró los archivos.",
+    "cloze": "retira",
+    "answer": "retira",
+    "lemma": "retirar",
+    "meaning": "withdraws",
+    "audio": "work/audio/es-MX/05/es-05-0816.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0817",
+    "sentence": "El boletín tergiversó el alcance de mi comentario al cambiar «varios asistentes pidieron otra sesión» por «todos los asistentes pidieron otra sesión»; no pregunté a todo el grupo.",
+    "cloze": "tergiversó",
+    "answer": "tergiversó",
+    "lemma": "tergiversar",
+    "meaning": "misrepresented",
+    "audio": "work/audio/es-MX/05/es-05-0817.mp3",
+    "accepted_answers": []
   }
 ]
