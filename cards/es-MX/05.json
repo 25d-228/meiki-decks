@@ -6948,5 +6948,255 @@
     "meaning": "in passing",
     "audio": "work/audio/es-MX/05/es-05-0690.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-0691",
+    "sentence": "Teresa ofreció revisar los nombres antes de imprimir las invitaciones; Óscar lo hizo sin anunciarlo, así que debemos distinguir la oferta de Teresa del trabajo que ya realizó Óscar.",
+    "cloze": "lo hizo",
+    "answer": "lo hizo",
+    "lemma": "hacer",
+    "meaning": "did so",
+    "audio": "work/audio/es-MX/05/es-05-0691.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0692",
+    "sentence": "El turno de la mañana no puede atender consultas durante la capacitación; el de la tarde tampoco, aunque sus integrantes ya tomaron el curso, porque estarán cubriendo recepción.",
+    "cloze": "tampoco",
+    "answer": "tampoco",
+    "lemma": "tampoco",
+    "meaning": "neither; not either",
+    "audio": "work/audio/es-MX/05/es-05-0692.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0693",
+    "sentence": "Para corregir las reseñas, Julia leerá los comentarios de Diego y viceversa; después cada quien decidirá qué cambios acepta en su propio texto.",
+    "cloze": "viceversa",
+    "answer": "viceversa",
+    "lemma": "viceversa",
+    "meaning": "the other way around",
+    "audio": "work/audio/es-MX/05/es-05-0693.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0694",
+    "sentence": "Marina ya no es la encargada del archivo, pero haberlo sido le permite explicar por qué se ordenaron así las carpetas; la decisión actual le corresponde a Joel.",
+    "cloze": "haberlo sido",
+    "answer": "haberlo sido",
+    "lemma": "ser",
+    "meaning": "having held that role",
+    "audio": "work/audio/es-MX/05/es-05-0694.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0695",
+    "sentence": "Pregunté «¿No quieren recibir el borrador?» y su «sí» me dejó con dudas; lo reformulo: ¿quieren que se lo mande?",
+    "cloze": "lo reformulo",
+    "answer": "lo reformulo",
+    "lemma": "reformular",
+    "meaning": "I'm rephrasing it",
+    "audio": "work/audio/es-MX/05/es-05-0695.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0696",
+    "sentence": "—No necesitamos el informe completo; ¿al menos pueden confirmar que recibieron la solicitud? —Todavía no podemos asegurar ni eso: nadie ha revisado el correo compartido.",
+    "cloze": "ni eso",
+    "answer": "ni eso",
+    "lemma": "ni eso",
+    "meaning": "not even that",
+    "audio": "work/audio/es-MX/05/es-05-0696.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0697",
+    "sentence": "—Nos vemos en la entrada y subimos juntos. —También hay una puerta lateral, pero no sé si estará abierta. —Entonces, lo dicho: en la entrada, para no andar buscándonos.",
+    "cloze": "lo dicho",
+    "answer": "lo dicho",
+    "lemma": "lo dicho",
+    "meaning": "as agreed; as I said",
+    "audio": "work/audio/es-MX/05/es-05-0697.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0698",
+    "sentence": "El primer equipo dedicó una tarde a ordenar las entrevistas y el segundo, otro tanto a revisar los permisos; las tareas fueron distintas, pero ocuparon el mismo tiempo.",
+    "cloze": "otro tanto",
+    "answer": "otro tanto",
+    "lemma": "otro tanto",
+    "meaning": "the same amount",
+    "audio": "work/audio/es-MX/05/es-05-0698.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0699",
+    "sentence": "El aviso anuncia un «ajuste» de la cuota, léase un aumento: pasará de doscientos a trescientos pesos y el taller seguirá siendo el mismo.",
+    "cloze": "léase",
+    "answer": "léase",
+    "lemma": "leer",
+    "meaning": "read:; in plain terms",
+    "audio": "work/audio/es-MX/05/es-05-0699.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0700",
+    "sentence": "El comité no aprobó el proyecto; si acaso, aceptó revisarlo, y todavía puede pedir cambios antes de dar una respuesta.",
+    "cloze": "si acaso",
+    "answer": "si acaso",
+    "lemma": "si acaso",
+    "meaning": "at most; if anything",
+    "audio": "work/audio/es-MX/05/es-05-0700.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0701",
+    "sentence": "Sabemos que suspendieron las visitas al archivo, pero no hasta cuándo; sin ese dato no podemos decirles a los estudiantes si conviene esperar o cambiar de actividad.",
+    "cloze": "hasta cuándo",
+    "answer": "hasta cuándo",
+    "lemma": "hasta cuándo",
+    "meaning": "until when",
+    "audio": "work/audio/es-MX/05/es-05-0701.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0702",
+    "sentence": "En el boletín hablamos de «lectores», por extensión, también para referirnos a quienes escuchan la versión grabada; la invitación a proponer temas es para ambos grupos.",
+    "cloze": "por extensión",
+    "answer": "por extensión",
+    "lemma": "por extensión",
+    "meaning": "by extension",
+    "audio": "work/audio/es-MX/05/es-05-0702.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0703",
+    "sentence": "Voy a hablar con los autores del aviso, o mejor, con quienes lo enviaron: conocemos a los remitentes, pero no sabemos quién lo redactó.",
+    "cloze": "o mejor",
+    "answer": "o mejor",
+    "lemma": "o mejor",
+    "meaning": "or rather",
+    "audio": "work/audio/es-MX/05/es-05-0703.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0704",
+    "sentence": "—Nos dijeron que la propuesta ya fue rechazada. —¿Por quién? Necesitamos saber si fue una decisión del equipo o la opinión de una sola persona.",
+    "cloze": "Por quién",
+    "answer": "Por quién",
+    "lemma": "por quién",
+    "meaning": "by whom",
+    "audio": "work/audio/es-MX/05/es-05-0704.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0705",
+    "sentence": "—Con la computadora nueva, seguro ya terminaron de editar las entrevistas. —Ya quisiéramos; todavía estamos aprendiendo a usarla y nos falta revisar la mitad.",
+    "cloze": "Ya quisiéramos",
+    "answer": "Ya quisiéramos",
+    "lemma": "ya quisiera",
+    "meaning": "we wish that were so",
+    "audio": "work/audio/es-MX/05/es-05-0705.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0706",
+    "sentence": "Necesitamos que ambos equipos confirmen el cambio antes de anunciarlo; de lo contrario, conservaremos el horario actual, aunque uno de los dos ya haya aceptado.",
+    "cloze": "de lo contrario",
+    "answer": "de lo contrario",
+    "lemma": "de lo contrario",
+    "meaning": "otherwise",
+    "audio": "work/audio/es-MX/05/es-05-0706.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0707",
+    "sentence": "Varios integrantes, si no todos, ya leyeron el borrador; he recibido comentarios de casi todo el equipo, pero me faltan dos respuestas para asegurarlo.",
+    "cloze": "si no todos",
+    "answer": "si no todos",
+    "lemma": "si no todos",
+    "meaning": "if not all",
+    "audio": "work/audio/es-MX/05/es-05-0707.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0708",
+    "sentence": "—Ya entendí que el salón es más barato; ¿cómo vamos a resolver el traslado? —A eso voy: el ahorro alcanza para contratar una camioneta para todo el grupo.",
+    "cloze": "A eso voy",
+    "answer": "A eso voy",
+    "lemma": "a eso voy",
+    "meaning": "that's what I'm getting to",
+    "audio": "work/audio/es-MX/05/es-05-0708.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0709",
+    "sentence": "Mi mensaje del lunes decía «mañana revisamos el borrador»; si lo reenvías tal cual el miércoles, aclara que hablaba del martes, porque «mañana» ya no se interpretaría igual.",
+    "cloze": "tal cual",
+    "answer": "tal cual",
+    "lemma": "tal cual",
+    "meaning": "exactly as it is",
+    "audio": "work/audio/es-MX/05/es-05-0709.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0710",
+    "sentence": "—Si nadie respondió al correo, será porque todos están de acuerdo con el cambio. —Lo dudo: varias personas dijeron que no habían podido abrir el archivo.",
+    "cloze": "Lo dudo",
+    "answer": "Lo dudo",
+    "lemma": "dudar",
+    "meaning": "I doubt it",
+    "audio": "work/audio/es-MX/05/es-05-0710.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0711",
+    "sentence": "Durante la práctica, cada participante entrevistó a otra persona del grupo, pero no quedó registrado quién a quién; las notas no permiten reconstruir las parejas.",
+    "cloze": "quién a quién",
+    "answer": "quién a quién",
+    "lemma": "quién a quién",
+    "meaning": "who … whom",
+    "audio": "work/audio/es-MX/05/es-05-0711.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0712",
+    "sentence": "—Si no encontramos dónde guardar las cajas, ¿volvemos a pedirle a Clara su cuarto? —Ni hablar; ya nos explicó que lo necesita y debemos buscar otro lugar.",
+    "cloze": "Ni hablar",
+    "answer": "Ni hablar",
+    "lemma": "ni hablar",
+    "meaning": "no way; out of the question",
+    "audio": "work/audio/es-MX/05/es-05-0712.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0713",
+    "sentence": "Todavía discutimos si conviene publicar los comentarios con nombres; antes de pronunciarme al respecto, quiero escuchar a quienes los escribieron.",
+    "cloze": "al respecto",
+    "answer": "al respecto",
+    "lemma": "al respecto",
+    "meaning": "on that matter",
+    "audio": "work/audio/es-MX/05/es-05-0713.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0714",
+    "sentence": "Laura revisó las citas de su capítulo; después, los demás autores hicieron lo propio con sus textos, sin encargarle a ella la revisión de todo el libro.",
+    "cloze": "lo propio",
+    "answer": "lo propio",
+    "lemma": "lo propio",
+    "meaning": "the same for their own part",
+    "audio": "work/audio/es-MX/05/es-05-0714.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0715",
+    "sentence": "—Iván asegura que no recibió el aviso de la junta. —Aquí está su respuesta al mismo aviso, enviada el día anterior. Ahí lo dejo.",
+    "cloze": "Ahí lo dejo",
+    "answer": "Ahí lo dejo",
+    "lemma": "ahí lo dejo",
+    "meaning": "I will leave it at that",
+    "audio": "work/audio/es-MX/05/es-05-0715.mp3",
+    "accepted_answers": []
   }
 ]
