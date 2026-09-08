@@ -12040,5 +12040,405 @@
     "meaning": "diverts",
     "audio": "work/audio/es-MX/05/es-05-1199.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1200",
+    "sentence": "El curso grabado permite estudiar a cualquier hora, pero poder discutir mis propios textos inclina la balanza a favor del presencial: este semestre quiero mejorar mi escritura, aunque tenga que ajustar mis tardes.",
+    "cloze": "inclina la balanza",
+    "answer": "inclina la balanza",
+    "lemma": "inclinar la balanza",
+    "meaning": "tips the balance",
+    "audio": "work/audio/es-MX/05/es-05-1200.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1201",
+    "sentence": "Para ustedes, que necesitan ensayar después del trabajo, el cierre a las seis es un factor excluyente; el salón tiene buen equipo, pero la otra sede sí permite ensayar de noche.",
+    "cloze": "factor excluyente",
+    "answer": "factor excluyente",
+    "lemma": "factor excluyente",
+    "meaning": "disqualifying factor",
+    "audio": "work/audio/es-MX/05/es-05-1201.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1202",
+    "sentence": "En mi caso, trabajar sin horario fijo es un arma de doble filo: puedo acompañar a mi mamá por la mañana, pero me cuesta dejar de trabajar; el turno fijo protege mejor mis tardes.",
+    "cloze": "arma de doble filo",
+    "answer": "arma de doble filo",
+    "lemma": "arma de doble filo",
+    "meaning": "double-edged sword",
+    "audio": "work/audio/es-MX/05/es-05-1202.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1203",
+    "sentence": "Reservar todos los sábados para un solo taller nos cierra puertas para colaborar en otros proyectos; repartirlo entre semana exige más traslados, pero deja libres esos días.",
+    "cloze": "nos cierra puertas",
+    "answer": "nos cierra puertas",
+    "lemma": "cerrar puertas",
+    "meaning": "closes off opportunities for us",
+    "audio": "work/audio/es-MX/05/es-05-1203.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1204",
+    "sentence": "El departamento cerca de mi hermana implica un trayecto largo al trabajo, pero su ayuda para cuidar a mi hija sirve de contrapeso; vivir cerca de la oficina me facilitaría el traslado, aunque perdería ese apoyo.",
+    "cloze": "contrapeso",
+    "answer": "contrapeso",
+    "lemma": "contrapeso",
+    "meaning": "counterweight; offsetting benefit",
+    "audio": "work/audio/es-MX/05/es-05-1204.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1205",
+    "sentence": "En el taller, la atención individual y la cantidad de participantes entran en tensión: con la misma duración, aceptar más personas reduce el tiempo que puedo dedicarle a cada una.",
+    "cloze": "entran en tensión",
+    "answer": "entran en tensión",
+    "lemma": "entrar en tensión",
+    "meaning": "come into tension",
+    "audio": "work/audio/es-MX/05/es-05-1205.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1206",
+    "sentence": "Con la ponderación que acordamos, el tiempo de traslado cuenta el doble que el equipo disponible; elegimos el salón del barrio frente al foro lejano, aunque tengamos que llevar bocinas.",
+    "cloze": "ponderación",
+    "answer": "ponderación",
+    "lemma": "ponderación",
+    "meaning": "weighting",
+    "audio": "work/audio/es-MX/05/es-05-1206.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1207",
+    "sentence": "El acabado de los muebles es accesorio frente a la posibilidad de moverlos: para alternar lecturas y talleres, prefiero mesas sencillas que podamos acomodar a nuestro gusto, aunque las fijas se vean mejor.",
+    "cloze": "accesorio",
+    "answer": "accesorio",
+    "lemma": "accesorio",
+    "meaning": "secondary; nonessential",
+    "audio": "work/audio/es-MX/05/es-05-1207.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1208",
+    "sentence": "Cerrar la biblioteca más tarde amplía el servicio, pero crea un reparto desigual del trabajo: los mismos voluntarios cubrirían todos los turnos nocturnos; abrir una mañana adicional nos permitiría compartir las horas extra.",
+    "cloze": "reparto desigual",
+    "answer": "reparto desigual",
+    "lemma": "reparto desigual",
+    "meaning": "unequal distribution",
+    "audio": "work/audio/es-MX/05/es-05-1208.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1209",
+    "sentence": "Me atrae el programa nuevo porque reúne las notas y las tareas, aunque su costo de adaptación incluye volver a organizar mis materiales; conservar el actual me evita ese trabajo, pero mantiene todo separado.",
+    "cloze": "costo de adaptación",
+    "answer": "costo de adaptación",
+    "lemma": "costo de adaptación",
+    "meaning": "adjustment cost",
+    "audio": "work/audio/es-MX/05/es-05-1209.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1210",
+    "sentence": "Como solo hay una persona atendiendo las consultas, tenemos un cuello de botella; prefiero que otra persona la apoye en las horas de mayor demanda, aunque dejemos pendiente ordenar el archivo, a añadir mesas sin aumentar la capacidad de atención.",
+    "cloze": "cuello de botella",
+    "answer": "cuello de botella",
+    "lemma": "cuello de botella",
+    "meaning": "bottleneck",
+    "audio": "work/audio/es-MX/05/es-05-1210.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1211",
+    "sentence": "Borrar la única copia de las grabaciones completas para liberar espacio sería un punto de no retorno: conservaríamos solo los fragmentos elegidos; prefiero guardar menos proyectos y poder revisar completo cada testimonio.",
+    "cloze": "punto de no retorno",
+    "answer": "punto de no retorno",
+    "lemma": "punto de no retorno",
+    "meaning": "point of no return",
+    "audio": "work/audio/es-MX/05/es-05-1211.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1212",
+    "sentence": "Una jornada diaria ofrecería más actividades, pero solo podemos cubrirla durante las vacaciones; una sesión semanal es sostenible con los voluntarios que tenemos y permite conservar el taller todo el año.",
+    "cloze": "sostenible",
+    "answer": "sostenible",
+    "lemma": "sostenible",
+    "meaning": "sustainable",
+    "audio": "work/audio/es-MX/05/es-05-1212.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1213",
+    "sentence": "El programa más breve deja margen para atender preguntas inesperadas; lo prefiero aunque incluya menos temas, pues el otro nos obligaría a cortar cualquier conversación que se alargue.",
+    "cloze": "deja margen",
+    "answer": "deja margen",
+    "lemma": "dejar margen",
+    "meaning": "leaves room",
+    "audio": "work/audio/es-MX/05/es-05-1213.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1214",
+    "sentence": "Para elegir sede, nuestra evaluación penaliza los trayectos con varios transbordos, sin descartar esos lugares; un espacio así todavía puede convenirnos si ofrece horarios que las otras sedes no tienen.",
+    "cloze": "penaliza",
+    "answer": "penaliza",
+    "lemma": "penalizar",
+    "meaning": "penalizes; counts against",
+    "audio": "work/audio/es-MX/05/es-05-1214.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1215",
+    "sentence": "Para nosotros, las opciones empatan: la sede cercana exige llegar a una hora fija y la lejana permite llegar cuando podamos; valoramos tanto ahorrar traslados como conservar esa libertad.",
+    "cloze": "empatan",
+    "answer": "empatan",
+    "lemma": "empatar",
+    "meaning": "are tied",
+    "audio": "work/audio/es-MX/05/es-05-1215.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1216",
+    "sentence": "Dividir las prácticas entre dos tardes me permite compaginar el trabajo y el estudio; concentrarlas en una sola me dejaría una tarde libre, pero tendría que faltar al trabajo.",
+    "cloze": "compaginar",
+    "answer": "compaginar",
+    "lemma": "compaginar",
+    "meaning": "combine compatibly",
+    "audio": "work/audio/es-MX/05/es-05-1216.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1217",
+    "sentence": "Las familias solo pueden venir el sábado por la mañana, pero el examen ocupa el único salón toda esa mañana y solo podría trasladarse a un día laboral; esa disyuntiva nos obliga a elegir entre celebrar la convivencia y evitar que los alumnos falten al trabajo.",
+    "cloze": "disyuntiva",
+    "answer": "disyuntiva",
+    "lemma": "disyuntiva",
+    "meaning": "either-or choice",
+    "audio": "work/audio/es-MX/05/es-05-1217.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1218",
+    "sentence": "Para terminar el curso antes, una sesión extra no rebasa mi umbral de tolerancia; ocupar todas mis tardes, sí, porque necesito conservar tiempo para mi familia.",
+    "cloze": "umbral de tolerancia",
+    "answer": "umbral de tolerancia",
+    "lemma": "umbral de tolerancia",
+    "meaning": "tolerance threshold",
+    "audio": "work/audio/es-MX/05/es-05-1218.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1219",
+    "sentence": "¿No estamos llegando a un punto de saturación con tantas visitas, si cada una nos obliga a salir corriendo hacia la siguiente? Yo quitaría una parada para disfrutar las demás, aunque veamos menos lugares.",
+    "cloze": "punto de saturación",
+    "answer": "punto de saturación",
+    "lemma": "punto de saturación",
+    "meaning": "saturation point",
+    "audio": "work/audio/es-MX/05/es-05-1219.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1220",
+    "sentence": "Para formar parejas de estudio, valoro el rendimiento conjunto: Ana y Luis detectan errores distintos y, al revisar juntos, se corrigen mutuamente; prefiero esa pareja, aunque avance más despacio, a dos lectores rápidos que suelen pasar por alto los mismos problemas.",
+    "cloze": "rendimiento conjunto",
+    "answer": "rendimiento conjunto",
+    "lemma": "rendimiento conjunto",
+    "meaning": "combined performance",
+    "audio": "work/audio/es-MX/05/es-05-1220.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1221",
+    "sentence": "Para mí, la cercanía tiene un valor instrumental: me ayuda a asistir, pero no me sirve de mucho si el taller cercano no ofrece la práctica que busco; en ese caso, aceptaría trasladarme más.",
+    "cloze": "valor instrumental",
+    "answer": "valor instrumental",
+    "lemma": "valor instrumental",
+    "meaning": "value as a means to an end",
+    "audio": "work/audio/es-MX/05/es-05-1221.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1222",
+    "sentence": "El salón prestado tiene como contrapartida la obligación de organizar una actividad abierta al mes; rentar el otro nos dejaría decidir todo el programa, pero tendríamos que reducir la compra de materiales.",
+    "cloze": "contrapartida",
+    "answer": "contrapartida",
+    "lemma": "contrapartida",
+    "meaning": "required trade-off",
+    "audio": "work/audio/es-MX/05/es-05-1222.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1223",
+    "sentence": "El traslado por etapas pospone la apertura completa de la biblioteca, pero conserva el préstamo durante la mudanza; hacerlo todo de golpe permitiría abrir antes, con una semana sin servicio.",
+    "cloze": "pospone",
+    "answer": "pospone",
+    "lemma": "posponer",
+    "meaning": "defers",
+    "audio": "work/audio/es-MX/05/es-05-1223.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1224",
+    "sentence": "Yo reduzco el espacio de mis mesas y ustedes guardan el equipo después de usarlo: ¿aceptamos esas concesiones recíprocas para conservar ambas actividades, en vez de dedicar el estudio a una sola?",
+    "cloze": "concesiones recíprocas",
+    "answer": "concesiones recíprocas",
+    "lemma": "concesiones recíprocas",
+    "meaning": "mutual concessions",
+    "audio": "work/audio/es-MX/05/es-05-1224.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1225",
+    "sentence": "La participación de los vecinos es nuestro criterio rector para la feria: prefiero un programa hecho con sus propuestas, aunque resulte menos uniforme, a uno diseñado por una sola persona donde todos sigan el mismo formato.",
+    "cloze": "criterio rector",
+    "answer": "criterio rector",
+    "lemma": "criterio rector",
+    "meaning": "guiding criterion",
+    "audio": "work/audio/es-MX/05/es-05-1225.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1226",
+    "sentence": "Estudiar por mi cuenta pierde atractivo a medida que necesito comentarios sobre mis textos; ahorro traslados, pero ya no me basta con resolver ejercicios y estoy considerando un grupo de lectura.",
+    "cloze": "pierde atractivo",
+    "answer": "pierde atractivo",
+    "lemma": "perder atractivo",
+    "meaning": "becomes less appealing",
+    "audio": "work/audio/es-MX/05/es-05-1226.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1227",
+    "sentence": "La ganancia neta de reunir las asesorías en un día depende de que pueda trabajar entre citas: si las esperas me sirven para avanzar, ahorro traslados; si no, prefiero repartirlas, aunque tenga que viajar más.",
+    "cloze": "ganancia neta",
+    "answer": "ganancia neta",
+    "lemma": "ganancia neta",
+    "meaning": "net gain",
+    "audio": "work/audio/es-MX/05/es-05-1227.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1228",
+    "sentence": "Usemos la facilidad de guardar los materiales como criterio de desempate entre las dos sedes que ya cumplen igual con el acceso y el horario; acepto un salón menos vistoso por no cargar todo cada semana.",
+    "cloze": "criterio de desempate",
+    "answer": "criterio de desempate",
+    "lemma": "criterio de desempate",
+    "meaning": "tie-breaking criterion",
+    "audio": "work/audio/es-MX/05/es-05-1228.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1229",
+    "sentence": "En nuestras reuniones virtuales, los efectos del ruido y de hablar rápido se potencian: podemos seguir una explicación rápida sin ruido y una lenta con ruido, pero perdemos pasos cuando coinciden ambos obstáculos; prefiero bajar el ritmo, aunque cubramos menos temas.",
+    "cloze": "se potencian",
+    "answer": "se potencian",
+    "lemma": "potenciarse",
+    "meaning": "reinforce each other",
+    "audio": "work/audio/es-MX/05/es-05-1229.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1230",
+    "sentence": "La opción de continuar por teléfono amortigua el efecto de las interrupciones de la videollamada; prefiero conservarla aunque perdamos la imagen, en vez de usar una plataforma que obliga a cancelar cuando falla el video.",
+    "cloze": "amortigua",
+    "answer": "amortigua",
+    "lemma": "amortiguar",
+    "meaning": "cushions; reduces the impact of",
+    "audio": "work/audio/es-MX/05/es-05-1230.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1231",
+    "sentence": "Elegir el taller experimental es una apuesta: podría encontrar una manera nueva de escribir, pero dejo pasar el curso que sí trabaja los ejercicios que necesito; esta vez me interesa explorar, aunque no consiga un texto terminado.",
+    "cloze": "apuesta",
+    "answer": "apuesta",
+    "lemma": "apuesta",
+    "meaning": "a gamble",
+    "audio": "work/audio/es-MX/05/es-05-1231.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1232",
+    "sentence": "Una carpa protege las mesas de la lluvia, pero queda el riesgo residual de cancelar si el patio se encharca; el salón limita la asistencia, aunque evita depender de cómo amanezca el tiempo.",
+    "cloze": "riesgo residual",
+    "answer": "riesgo residual",
+    "lemma": "riesgo residual",
+    "meaning": "remaining risk",
+    "audio": "work/audio/es-MX/05/es-05-1232.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1233",
+    "sentence": "Para mí, la libertad de organizar mi trabajo y la cercanía con mi familia son valores inconmensurables; el puesto lejos de casa me ofrece la primera y el empleo local, la segunda, sin que pueda reducir la elección a una cuenta de horas.",
+    "cloze": "inconmensurables",
+    "answer": "inconmensurables",
+    "lemma": "inconmensurable",
+    "meaning": "not measurable on a common scale",
+    "audio": "work/audio/es-MX/05/es-05-1233.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1234",
+    "sentence": "Comparemos los dos talleres a igualdad de condiciones, con textos de extensión y dificultad similares y sesiones de la misma duración; prefiero revisar menos textos si eso permite discutir a fondo las correcciones.",
+    "cloze": "a igualdad de condiciones",
+    "answer": "a igualdad de condiciones",
+    "lemma": "a igualdad de condiciones",
+    "meaning": "under equal conditions",
+    "audio": "work/audio/es-MX/05/es-05-1234.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1235",
+    "sentence": "Una hora extra no tiene la misma carga relativa para quien apenas dispone de tiempo libre que para quien tiene la tarde desocupada; prefiero repartir el cierre según esa disponibilidad, aunque no todos hagamos lo mismo.",
+    "cloze": "carga relativa",
+    "answer": "carga relativa",
+    "lemma": "carga relativa",
+    "meaning": "relative burden",
+    "audio": "work/audio/es-MX/05/es-05-1235.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1236",
+    "sentence": "Quitar las horas de formación para atender más grupos sería pan para hoy y hambre para mañana: resolveríamos la demanda actual, pero seguiríamos dependiendo de las únicas dos personas que saben coordinar; prefiero abrir menos grupos y preparar relevos.",
+    "cloze": "pan para hoy y hambre para mañana",
+    "answer": "pan para hoy y hambre para mañana",
+    "lemma": "pan para hoy y hambre para mañana",
+    "meaning": "short-term relief that creates future hardship",
+    "audio": "work/audio/es-MX/05/es-05-1236.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1237",
+    "sentence": "Para este folleto interno, la economía de esfuerzo favorece reutilizar el diseño anterior: un diseño nuevo quedaría más original, pero nos quitaría tiempo para revisar las instrucciones, que ahora necesitan más trabajo.",
+    "cloze": "economía de esfuerzo",
+    "answer": "economía de esfuerzo",
+    "lemma": "economía de esfuerzo",
+    "meaning": "economy of effort",
+    "audio": "work/audio/es-MX/05/es-05-1237.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1238",
+    "sentence": "Pasar todas las reuniones a la noche desplaza el problema de las interrupciones al tiempo de descanso; prefiero reservar una mañana fija, aunque durante esas horas no podamos atender solicitudes.",
+    "cloze": "desplaza el problema",
+    "answer": "desplaza el problema",
+    "lemma": "desplazar el problema",
+    "meaning": "shifts the problem elsewhere",
+    "audio": "work/audio/es-MX/05/es-05-1238.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1239",
+    "sentence": "Elijo el montaje de piezas separadas porque minimiza el trabajo perdido si nos cambian a un salón de otro tamaño: podemos reutilizar las piezas; uno hecho a la medida luciría mejor, pero podríamos tener que rehacerlo completo.",
+    "cloze": "minimiza",
+    "answer": "minimiza",
+    "lemma": "minimizar",
+    "meaning": "minimizes",
+    "audio": "work/audio/es-MX/05/es-05-1239.mp3",
+    "accepted_answers": []
   }
 ]
