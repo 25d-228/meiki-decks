@@ -2002,5 +2002,805 @@
     "meaning": "has withstood",
     "audio": "work/audio/es-MX/05/es-05-0200.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-0201",
+    "sentence": "Defendí el cambio de plataforma, pero reconozco que ha entorpecido la atención esta semana: ahora tardamos el doble en responder cada solicitud.",
+    "cloze": "ha entorpecido",
+    "answer": "ha entorpecido",
+    "lemma": "entorpecer",
+    "meaning": "has hampered",
+    "audio": "work/audio/es-MX/05/es-05-0201.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0202",
+    "sentence": "La reseña llama «interminable» a una escena de dos minutos; creo que exagera su duración, y mi comentario se basa en el reloj.",
+    "cloze": "exagera",
+    "answer": "exagera",
+    "lemma": "exagerar",
+    "meaning": "exaggerates",
+    "audio": "work/audio/es-MX/05/es-05-0202.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0203",
+    "sentence": "Somos el único equipo sin acceso al archivo, así que es un hecho que esa restricción nos perjudica en la preparación de las clases.",
+    "cloze": "nos perjudica",
+    "answer": "nos perjudica",
+    "lemma": "perjudicar",
+    "meaning": "harms us",
+    "audio": "work/audio/es-MX/05/es-05-0203.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0204",
+    "sentence": "El orden de los nombres cambió entre las dos versiones, pero eso no demuestra que la coordinadora haya manipulado la votación; todavía falta revisar las boletas.",
+    "cloze": "haya manipulado",
+    "answer": "haya manipulado",
+    "lemma": "manipular",
+    "meaning": "has manipulated",
+    "audio": "work/audio/es-MX/05/es-05-0204.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0205",
+    "sentence": "Ya comparé cada entrada con su comprobante y confirmo que los registros concuerdan con los pagos recibidos, incluida la aportación anónima.",
+    "cloze": "concuerdan",
+    "answer": "concuerdan",
+    "lemma": "concordar",
+    "meaning": "match",
+    "audio": "work/audio/es-MX/05/es-05-0205.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0206",
+    "sentence": "¿Podemos usar indistintamente las dos instrucciones? No: es evidente que se contradicen en el tamaño del archivo permitido, pues una fija diez megas y la otra veinte.",
+    "cloze": "se contradicen",
+    "answer": "se contradicen",
+    "lemma": "contradecirse",
+    "meaning": "contradict each other",
+    "audio": "work/audio/es-MX/05/es-05-0206.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0207",
+    "sentence": "La pantalla está negra, pero la computadora sigue encendida; no descarto que se haya desconfigurado la salida de video, aunque todavía no encuentro la causa.",
+    "cloze": "se haya desconfigurado",
+    "answer": "se haya desconfigurado",
+    "lemma": "desconfigurarse",
+    "meaning": "has become misconfigured",
+    "audio": "work/audio/es-MX/05/es-05-0207.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0208",
+    "sentence": "Aunque el montaje se apega al texto original, como comprobé al seguir la obra con el libro abierto, la actuación le da un tono cómico inesperado.",
+    "cloze": "se apega",
+    "answer": "se apega",
+    "lemma": "apegarse",
+    "meaning": "adheres",
+    "audio": "work/audio/es-MX/05/es-05-0208.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0209",
+    "sentence": "Las familias ahora llegan caminando y antes necesitaban dos camiones; no niego que el traslado haya favorecido su acceso al taller, pero seguimos sin cupo suficiente.",
+    "cloze": "haya favorecido",
+    "answer": "haya favorecido",
+    "lemma": "favorecer",
+    "meaning": "has facilitated",
+    "audio": "work/audio/es-MX/05/es-05-0209.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0210",
+    "sentence": "Es cierto que comprar juntos abarata el envío: la cotización baja de cien a treinta pesos por persona; aun así, prefiero recibir mi pedido por separado.",
+    "cloze": "abarata",
+    "answer": "abarata",
+    "lemma": "abaratar",
+    "meaning": "lowers the cost of",
+    "audio": "work/audio/es-MX/05/es-05-0210.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0211",
+    "sentence": "Admitamos por un momento que el mapa desoriente a los visitantes; estamos considerando esa posibilidad, pues todavía nadie lo ha probado fuera del equipo.",
+    "cloze": "desoriente",
+    "answer": "desoriente",
+    "lemma": "desorientar",
+    "meaning": "disorients",
+    "audio": "work/audio/es-MX/05/es-05-0211.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0212",
+    "sentence": "Al comparar la foto con la maqueta, veo que el lente distorsiona las proporciones del patio: en la imagen parece más ancho que en el modelo.",
+    "cloze": "distorsiona",
+    "answer": "distorsiona",
+    "lemma": "distorsionar",
+    "meaning": "distorts",
+    "audio": "work/audio/es-MX/05/es-05-0212.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0213",
+    "sentence": "El informe no menciona la avería, pero no me consta que la encargada la haya encubierto a propósito; quizá recibió una versión incompleta.",
+    "cloze": "la haya encubierto",
+    "answer": "la haya encubierto",
+    "lemma": "encubrir",
+    "meaning": "has concealed it",
+    "audio": "work/audio/es-MX/05/es-05-0213.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0214",
+    "sentence": "¿La explicación del proveedor es compatible con el registro? No hay duda de que se ajusta a los horarios anotados; revisé personalmente cada llamada.",
+    "cloze": "se ajusta",
+    "answer": "se ajusta",
+    "lemma": "ajustarse",
+    "meaning": "is consistent with",
+    "audio": "work/audio/es-MX/05/es-05-0214.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0215",
+    "sentence": "Lamento que se desaproveche ese espacio mientras hay tantos grupos sin un lugar para ensayar. El salón permanece vacío toda la mañana; lo vemos desde nuestra oficina.",
+    "cloze": "se desaproveche",
+    "answer": "se desaproveche",
+    "lemma": "desaprovechar",
+    "meaning": "is wasted",
+    "audio": "work/audio/es-MX/05/es-05-0215.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0216",
+    "sentence": "La directora asistió a la presentación, pero su presencia no significa que se haya comprometido con el proyecto; al salir dijo que aún estaba valorando la invitación.",
+    "cloze": "se haya comprometido",
+    "answer": "se haya comprometido",
+    "lemma": "comprometerse",
+    "meaning": "has made a commitment",
+    "audio": "work/audio/es-MX/05/es-05-0216.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0217",
+    "sentence": "En el video aparecen varios vecinos usando la sala, así que sostengo que esa grabación desmiente la afirmación de que nadie entró durante la jornada.",
+    "cloze": "desmiente",
+    "answer": "desmiente",
+    "lemma": "desmentir",
+    "meaning": "refutes",
+    "audio": "work/audio/es-MX/05/es-05-0217.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0218",
+    "sentence": "La convocatoria todavía no se publica y no doy por hecho que el requisito de residencia nos excluya de este concurso; solo conocemos el borrador.",
+    "cloze": "nos excluya",
+    "answer": "nos excluya",
+    "lemma": "excluir",
+    "meaning": "excludes us",
+    "audio": "work/audio/es-MX/05/es-05-0218.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0219",
+    "sentence": "Es verdad que se ha reducido la espera con el sistema nuevo: ahora atienden en cinco minutos, frente a los veinte de antes; eso no resuelve la falta de asientos.",
+    "cloze": "se ha reducido",
+    "answer": "se ha reducido",
+    "lemma": "reducirse",
+    "meaning": "has decreased",
+    "audio": "work/audio/es-MX/05/es-05-0219.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0220",
+    "sentence": "Aunque la renta se encarece cada enero, como muestran los recibos de enero de los últimos tres años, este año el presupuesto de la cooperativa sigue igual.",
+    "cloze": "se encarece",
+    "answer": "se encarece",
+    "lemma": "encarecerse",
+    "meaning": "gets more expensive",
+    "audio": "work/audio/es-MX/05/es-05-0220.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0221",
+    "sentence": "Supongamos que la mayor asistencia compense el gasto de abrir los domingos; podemos examinar esa posibilidad, pero aún no tenemos cifras para aceptarla como un hecho.",
+    "cloze": "compense",
+    "answer": "compense",
+    "lemma": "compensar",
+    "meaning": "offsets",
+    "audio": "work/audio/es-MX/05/es-05-0221.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0222",
+    "sentence": "Desde el cambio de horario han renunciado cuatro voluntarios por falta de transporte; no podemos negar que la salida tan tarde ha desanimado al equipo.",
+    "cloze": "ha desanimado",
+    "answer": "ha desanimado",
+    "lemma": "desanimar",
+    "meaning": "has discouraged",
+    "audio": "work/audio/es-MX/05/es-05-0222.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0223",
+    "sentence": "Ya comprobé que la nueva edición ha subsanado el error del índice: esta vez todos los capítulos empiezan en la página indicada.",
+    "cloze": "ha subsanado",
+    "answer": "ha subsanado",
+    "lemma": "subsanar",
+    "meaning": "has corrected",
+    "audio": "work/audio/es-MX/05/es-05-0223.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0224",
+    "sentence": "Mi hermana tomó mi silencio como una negativa y se fue. No la culpo: entiendo que haya malinterpretado mi reacción, pues no le expliqué que necesitaba unos minutos.",
+    "cloze": "haya malinterpretado",
+    "answer": "haya malinterpretado",
+    "lemma": "malinterpretar",
+    "meaning": "has misinterpreted",
+    "audio": "work/audio/es-MX/05/es-05-0224.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0225",
+    "sentence": "Sí, el nuevo encargado nos dijo que no sabe cómo era el edificio antes de la remodelación; aunque desconozca la distribución original, su observación sobre la entrada sigue siendo pertinente.",
+    "cloze": "desconozca",
+    "answer": "desconozca",
+    "lemma": "desconocer",
+    "meaning": "is unfamiliar with",
+    "audio": "work/audio/es-MX/05/es-05-0225.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0226",
+    "sentence": "La fotógrafa no respondió al último mensaje, pero dudo que haya desistido de la exposición: esta mañana pidió las medidas de los marcos.",
+    "cloze": "haya desistido",
+    "answer": "haya desistido",
+    "lemma": "desistir",
+    "meaning": "has given up",
+    "audio": "work/audio/es-MX/05/es-05-0226.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0227",
+    "sentence": "La invitación incluye el plan como tema de discusión; dudo que el comité lo respalde, pues varios integrantes pidieron retirarlo del programa.",
+    "cloze": "lo respalde",
+    "answer": "lo respalde",
+    "lemma": "respaldar",
+    "meaning": "supports it",
+    "audio": "work/audio/es-MX/05/es-05-0227.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0228",
+    "sentence": "Los organizadores siguen negando el error de fecha; aunque no lo admitan, ese error ya obligó a cambiar todos los carteles.",
+    "cloze": "lo admitan",
+    "answer": "lo admitan",
+    "lemma": "admitir",
+    "meaning": "admit it",
+    "audio": "work/audio/es-MX/05/es-05-0228.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0229",
+    "sentence": "¿La imprenta rechazó el pedido por el tamaño? No; me consta que se han agotado las reservas de papel reciclado, porque revisamos juntos el almacén.",
+    "cloze": "se han agotado",
+    "answer": "se han agotado",
+    "lemma": "agotarse",
+    "meaning": "have run out",
+    "audio": "work/audio/es-MX/05/es-05-0229.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0230",
+    "sentence": "No podemos afirmar que esa práctica se haya generalizado en el mercado. Una vecina denunció cobros distintos a los anunciados, pero solo tenemos su testimonio.",
+    "cloze": "se haya generalizado",
+    "answer": "se haya generalizado",
+    "lemma": "generalizarse",
+    "meaning": "has become widespread",
+    "audio": "work/audio/es-MX/05/es-05-0230.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0231",
+    "sentence": "A mi juicio, en este mural el humor convive con la tristeza: las figuras hacen gestos cómicos, pero todas cargan fotografías de personas ausentes.",
+    "cloze": "convive",
+    "answer": "convive",
+    "lemma": "convivir",
+    "meaning": "coexists",
+    "audio": "work/audio/es-MX/05/es-05-0231.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0232",
+    "sentence": "No es que la nueva agrupación nos haya desplazado del festival; nosotros retiramos la solicitud antes de la selección porque no teníamos tiempo para ensayar.",
+    "cloze": "nos haya desplazado",
+    "answer": "nos haya desplazado",
+    "lemma": "desplazar",
+    "meaning": "has displaced us",
+    "audio": "work/audio/es-MX/05/es-05-0232.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0233",
+    "sentence": "El resumen dice que nosotros propusimos cancelar el taller y eso es falso; me molesta que se nos atribuya esa decisión cuando solo pedimos cambiar la fecha.",
+    "cloze": "se nos atribuya",
+    "answer": "se nos atribuya",
+    "lemma": "atribuir",
+    "meaning": "is attributed to us",
+    "audio": "work/audio/es-MX/05/es-05-0233.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0234",
+    "sentence": "Concedamos, solo como hipótesis, que los patrocinadores hayan intervenido en la selección de artistas; seguimos sin saber quién tomó la decisión final.",
+    "cloze": "hayan intervenido",
+    "answer": "hayan intervenido",
+    "lemma": "intervenir",
+    "meaning": "have intervened",
+    "audio": "work/audio/es-MX/05/es-05-0234.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0235",
+    "sentence": "El contador suma dos visitas cada vez que abro la página; es posible que se estén duplicando las visitas, pero todavía no hemos revisado los registros.",
+    "cloze": "se estén duplicando",
+    "answer": "se estén duplicando",
+    "lemma": "duplicar",
+    "meaning": "are being counted twice",
+    "audio": "work/audio/es-MX/05/es-05-0235.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0236",
+    "sentence": "El catálogo actual solo ofrece descargas, así que está claro que la editorial ha prescindido de la distribución impresa; la duda es por qué tomó esa decisión.",
+    "cloze": "ha prescindido",
+    "answer": "ha prescindido",
+    "lemma": "prescindir",
+    "meaning": "has dispensed with",
+    "audio": "work/audio/es-MX/05/es-05-0236.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0237",
+    "sentence": "No sorprende que la medida suscite malestar entre los vecinos. En cada reunión alguien protesta por el cierre del patio, que era su único espacio de reunión.",
+    "cloze": "suscite",
+    "answer": "suscite",
+    "lemma": "suscitar",
+    "meaning": "arouses",
+    "audio": "work/audio/es-MX/05/es-05-0237.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0238",
+    "sentence": "Nos falta una página del acuerdo; no estoy afirmando que se nos oculte información de manera deliberada, porque el archivo también pudo quedar incompleto al enviarse.",
+    "cloze": "se nos oculte",
+    "answer": "se nos oculte",
+    "lemma": "ocultar",
+    "meaning": "is concealed from us",
+    "audio": "work/audio/es-MX/05/es-05-0238.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0239",
+    "sentence": "Propuse hablar del logotipo, pero admito que ese tema ha desviado la discusión de nuestro problema principal: seguimos sin acordar cómo recibir las quejas.",
+    "cloze": "ha desviado",
+    "answer": "ha desviado",
+    "lemma": "desviar",
+    "meaning": "has diverted",
+    "audio": "work/audio/es-MX/05/es-05-0239.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0240",
+    "sentence": "La reseña resume mi intervención en dos líneas, pero eso no basta para concluir que la autora haya tergiversado mi postura; primero necesito comparar las ideas.",
+    "cloze": "haya tergiversado",
+    "answer": "haya tergiversado",
+    "lemma": "tergiversar",
+    "meaning": "has misrepresented",
+    "audio": "work/audio/es-MX/05/es-05-0240.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0241",
+    "sentence": "En la revisión de ayer, la asesora nos pidió que jerarquizáramos los hallazgos por su importancia para el proyecto; la versión final todavía estaba pendiente.",
+    "cloze": "jerarquizáramos",
+    "answer": "jerarquizáramos",
+    "lemma": "jerarquizar",
+    "meaning": "prioritize",
+    "audio": "work/audio/es-MX/05/es-05-0241.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0242",
+    "sentence": "Me da gusto que tu solicitud haya prosperado después de la primera negativa; ahora puedes elegir entre dos horarios sin volver a concursar.",
+    "cloze": "haya prosperado",
+    "answer": "haya prosperado",
+    "lemma": "prosperar",
+    "meaning": "has succeeded",
+    "audio": "work/audio/es-MX/05/es-05-0242.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0243",
+    "sentence": "Al leer la versión definitiva, me molestó que los revisores hubieran diluido la crítica al reparto de tareas; ese había sido el punto central de nuestra propuesta.",
+    "cloze": "hubieran diluido",
+    "answer": "hubieran diluido",
+    "lemma": "diluir",
+    "meaning": "had diluted",
+    "audio": "work/audio/es-MX/05/es-05-0243.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0244",
+    "sentence": "En la reunión familiar del domingo, mi hermana aceptó que me desvinculara de la organización del viaje; a partir del lunes siguiente, ella iba a coordinar las reservas.",
+    "cloze": "me desvinculara",
+    "answer": "me desvinculara",
+    "lemma": "desvincularse",
+    "meaning": "withdraw",
+    "audio": "work/audio/es-MX/05/es-05-0244.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0245",
+    "sentence": "Es una buena noticia que hayas retomado el taller después de tantos meses; ahora tu proyecto vuelve a tener un espacio de discusión.",
+    "cloze": "hayas retomado",
+    "answer": "hayas retomado",
+    "lemma": "retomar",
+    "meaning": "have resumed",
+    "audio": "work/audio/es-MX/05/es-05-0245.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0246",
+    "sentence": "Al comenzar la reunión, la diseñadora agradeció que el borrador hubiera circulado entre todos desde la víspera; pudo dedicar el tiempo a discutir cambios concretos.",
+    "cloze": "hubiera circulado",
+    "answer": "hubiera circulado",
+    "lemma": "circular",
+    "meaning": "had circulated",
+    "audio": "work/audio/es-MX/05/es-05-0246.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0247",
+    "sentence": "El presupuesto seguía sin aprobarse cuando la coordinadora me pidió que desglosara los gastos por actividad; necesitaba saber qué parte correspondía al taller.",
+    "cloze": "desglosara",
+    "answer": "desglosara",
+    "lemma": "desglosar",
+    "meaning": "break down",
+    "audio": "work/audio/es-MX/05/es-05-0247.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0248",
+    "sentence": "Me tranquiliza que se haya restablecido el contacto con tu hermano; ahora podemos hablar del viaje directamente con él y dejar de pasar recados.",
+    "cloze": "se haya restablecido",
+    "answer": "se haya restablecido",
+    "lemma": "restablecerse",
+    "meaning": "has been restored",
+    "audio": "work/audio/es-MX/05/es-05-0248.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0249",
+    "sentence": "Después de escuchar las preguntas del público, nos dio pena que hubiéramos subestimado su experiencia al preparar el taller; varias explicaciones les resultaron demasiado básicas.",
+    "cloze": "hubiéramos subestimado",
+    "answer": "hubiéramos subestimado",
+    "lemma": "subestimar",
+    "meaning": "we had underestimated",
+    "audio": "work/audio/es-MX/05/es-05-0249.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0250",
+    "sentence": "Antes del ensayo general de ayer, le pedí al presentador que se ciñera al tema acordado; en los ensayos previos, sus anécdotas nos habían dejado sin tiempo para las preguntas del público.",
+    "cloze": "se ciñera",
+    "answer": "se ciñera",
+    "lemma": "ceñirse",
+    "meaning": "stick to",
+    "audio": "work/audio/es-MX/05/es-05-0250.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0251",
+    "sentence": "Cuando volviste del intercambio el mes pasado, solicitaste que te reconocieran las materias; hoy todavía esperas la respuesta para saber si necesitas repetirlas.",
+    "cloze": "te reconocieran",
+    "answer": "te reconocieran",
+    "lemma": "reconocer",
+    "meaning": "grant you credit for",
+    "audio": "work/audio/es-MX/05/es-05-0251.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0252",
+    "sentence": "Al ver las invitaciones ya enviadas, mi hermana lamentó que me hubiera adelantado a fijar la fecha; todavía faltaba consultar a nuestros papás.",
+    "cloze": "me hubiera adelantado",
+    "answer": "me hubiera adelantado",
+    "lemma": "adelantarse",
+    "meaning": "I had acted prematurely",
+    "audio": "work/audio/es-MX/05/es-05-0252.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0253",
+    "sentence": "El lunes, al revisar el borrador, al profesor le preocupó que no distinguiéramos nuestras aportaciones individuales del trabajo colectivo; todavía podíamos aclararlo en la entrega final.",
+    "cloze": "distinguiéramos",
+    "answer": "distinguiéramos",
+    "lemma": "distinguir",
+    "meaning": "distinguish",
+    "audio": "work/audio/es-MX/05/es-05-0253.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0254",
+    "sentence": "Agradezco que el equipo haya documentado los cambios de criterio durante este proceso; ahora puedo explicar por qué la versión final se aparta del primer borrador.",
+    "cloze": "haya documentado",
+    "answer": "haya documentado",
+    "lemma": "documentar",
+    "meaning": "has documented",
+    "audio": "work/audio/es-MX/05/es-05-0254.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0255",
+    "sentence": "Al repasar el plan de mudanza, me tranquilizó que ya hubieras contemplado un mes de adaptación antes de recibir visitas; así no teníamos que organizar todo a la vez.",
+    "cloze": "hubieras contemplado",
+    "answer": "hubieras contemplado",
+    "lemma": "contemplar",
+    "meaning": "you had allowed for",
+    "audio": "work/audio/es-MX/05/es-05-0255.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0256",
+    "sentence": "Ayer, dos integrantes dejaron el proyecto y pedimos a los responsables que redistribuyeran las tareas pendientes; mantener el reparto original ya no era viable.",
+    "cloze": "redistribuyeran",
+    "answer": "redistribuyeran",
+    "lemma": "redistribuir",
+    "meaning": "redistribute",
+    "audio": "work/audio/es-MX/05/es-05-0256.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0257",
+    "sentence": "Me alegra que se hayan despejado tus dudas sobre el alcance de la beca; ahora puedes decidir con información suficiente, sin dar por incluidos gastos adicionales.",
+    "cloze": "se hayan despejado",
+    "answer": "se hayan despejado",
+    "lemma": "despejarse",
+    "meaning": "have cleared up",
+    "audio": "work/audio/es-MX/05/es-05-0257.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0258",
+    "sentence": "—¿Te dio coraje ayer, en la ventanilla, que el plazo hubiera vencido la víspera?\n—Sí, porque en la página la convocatoria todavía aparecía abierta.",
+    "cloze": "hubiera vencido",
+    "answer": "hubiera vencido",
+    "lemma": "vencer",
+    "meaning": "had expired",
+    "audio": "work/audio/es-MX/05/es-05-0258.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0259",
+    "sentence": "Durante la inscripción, la profesora propuso que me incorporara al grupo avanzado la semana siguiente; ya conocía mi trabajo del curso anterior.",
+    "cloze": "me incorporara",
+    "answer": "me incorporara",
+    "lemma": "incorporarse",
+    "meaning": "join",
+    "audio": "work/audio/es-MX/05/es-05-0259.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0260",
+    "sentence": "Te agradezco que hayas explicitado los límites de tu propuesta; ahora la podemos evaluar sin atribuirle resultados que no promete.",
+    "cloze": "hayas explicitado",
+    "answer": "hayas explicitado",
+    "lemma": "explicitar",
+    "meaning": "have made explicit",
+    "audio": "work/audio/es-MX/05/es-05-0260.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0261",
+    "sentence": "En la sesión del viernes, al comité le sorprendió que el candidato se hubiera retractado de su propuesta en una carta enviada el día anterior.",
+    "cloze": "se hubiera retractado",
+    "answer": "se hubiera retractado",
+    "lemma": "retractarse",
+    "meaning": "had withdrawn",
+    "audio": "work/audio/es-MX/05/es-05-0261.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0262",
+    "sentence": "Me alegra que hayamos pospuesto la comida familiar hasta el regreso de mi hermana; acordamos el cambio ayer y ahora ella también podrá participar en la conversación sobre la casa.",
+    "cloze": "hayamos pospuesto",
+    "answer": "hayamos pospuesto",
+    "lemma": "posponer",
+    "meaning": "we have postponed",
+    "audio": "work/audio/es-MX/05/es-05-0262.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0263",
+    "sentence": "Me entusiasma que la colaboración entre los dos talleres haya cuajado en una exposición conjunta; ya tenemos una fecha y un espacio compartidos.",
+    "cloze": "haya cuajado",
+    "answer": "haya cuajado",
+    "lemma": "cuajar",
+    "meaning": "has taken shape",
+    "audio": "work/audio/es-MX/05/es-05-0263.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0264",
+    "sentence": "Al conocer el nuevo reparto de salones, lamentamos que no nos hubieran consultado antes de asignarlos; nuestro taller necesitaba espacio para trabajar de pie.",
+    "cloze": "nos hubieran consultado",
+    "answer": "nos hubieran consultado",
+    "lemma": "consultar",
+    "meaning": "had consulted us",
+    "audio": "work/audio/es-MX/05/es-05-0264.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0265",
+    "sentence": "En la asesoría previa a las entrevistas, el profesor valoró que Julia ya hubiera acotado el tema a una sola comunidad; con el plan anterior, el proyecto rebasaba el tiempo disponible.",
+    "cloze": "hubiera acotado",
+    "answer": "hubiera acotado",
+    "lemma": "acotar",
+    "meaning": "had narrowed down",
+    "audio": "work/audio/es-MX/05/es-05-0265.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0266",
+    "sentence": "Nos alivia que hayan rectificado el resultado de la solicitud después de revisar el archivo completo; nuestro equipo vuelve a estar entre los seleccionados.",
+    "cloze": "hayan rectificado",
+    "answer": "hayan rectificado",
+    "lemma": "rectificar",
+    "meaning": "have corrected",
+    "audio": "work/audio/es-MX/05/es-05-0266.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0267",
+    "sentence": "Ayer llegamos a la galería con el profesor y encontramos las salas vacías; a él le decepcionó que ya hubieran desmontado la exposición esa mañana, pues la visita era parte del cierre del curso.",
+    "cloze": "hubieran desmontado",
+    "answer": "hubieran desmontado",
+    "lemma": "desmontar",
+    "meaning": "had taken down",
+    "audio": "work/audio/es-MX/05/es-05-0267.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0268",
+    "sentence": "El lunes, la coordinadora pidió que la nueva integrante se familiarizara con el archivo durante su primera semana, antes de asumir la atención de consultas.",
+    "cloze": "se familiarizara",
+    "answer": "se familiarizara",
+    "lemma": "familiarizarse",
+    "meaning": "become familiar",
+    "audio": "work/audio/es-MX/05/es-05-0268.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0269",
+    "sentence": "Me alegra que te hayas sobrepuesto a la decepción del rechazo; hoy vuelves a hablar de tu proyecto con ganas de presentarlo en otro espacio.",
+    "cloze": "te hayas sobrepuesto",
+    "answer": "te hayas sobrepuesto",
+    "lemma": "sobreponerse",
+    "meaning": "you have bounced back",
+    "audio": "work/audio/es-MX/05/es-05-0269.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0270",
+    "sentence": "En la comida del domingo, mi papá lamentó que el desacuerdo hubiera trascendido ya fuera de la familia; varios vecinos le habían preguntado durante la semana anterior.",
+    "cloze": "hubiera trascendido",
+    "answer": "hubiera trascendido",
+    "lemma": "trascender",
+    "meaning": "had become known",
+    "audio": "work/audio/es-MX/05/es-05-0270.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0271",
+    "sentence": "Antes de la visita de mis abuelos, mi hermano sugirió que nos turnáramos en la cocina durante su estancia; también quería tener tiempo para platicar con ellos.",
+    "cloze": "nos turnáramos",
+    "answer": "nos turnáramos",
+    "lemma": "turnarse",
+    "meaning": "take turns",
+    "audio": "work/audio/es-MX/05/es-05-0271.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0272",
+    "sentence": "El curso terminó la semana pasada y hoy los participantes presentan sus proyectos a los vecinos; me satisface que haya culminado con propuestas útiles para el barrio.",
+    "cloze": "haya culminado",
+    "answer": "haya culminado",
+    "lemma": "culminar",
+    "meaning": "has concluded",
+    "audio": "work/audio/es-MX/05/es-05-0272.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0273",
+    "sentence": "En la evaluación final, nos indignó que el coordinador se hubiera desentendido del equipo durante el montaje; en los créditos aparecía como único responsable del trabajo.",
+    "cloze": "se hubiera desentendido",
+    "answer": "se hubiera desentendido",
+    "lemma": "desentenderse",
+    "meaning": "had stopped taking responsibility",
+    "audio": "work/audio/es-MX/05/es-05-0273.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0274",
+    "sentence": "Ayer solicité que me concedieran unos días más para responder a la oferta, porque aún no conocía el horario del curso; esta mañana me negaron la prórroga.",
+    "cloze": "me concedieran",
+    "answer": "me concedieran",
+    "lemma": "conceder",
+    "meaning": "grant me",
+    "audio": "work/audio/es-MX/05/es-05-0274.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0275",
+    "sentence": "El jurado eligió los proyectos por sus méritos y solo después conoció los nombres de los autores; ahora valoro que haya prevalecido la calidad sobre la fama en esta selección.",
+    "cloze": "haya prevalecido",
+    "answer": "haya prevalecido",
+    "lemma": "prevalecer",
+    "meaning": "has prevailed",
+    "audio": "work/audio/es-MX/05/es-05-0275.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0276",
+    "sentence": "Cuando descubrimos las manchas en los álbumes, me dio gusto que hubieras digitalizado las fotos meses antes; las imágenes seguían completas en tu computadora.",
+    "cloze": "hubieras digitalizado",
+    "answer": "hubieras digitalizado",
+    "lemma": "digitalizar",
+    "meaning": "you had digitized",
+    "audio": "work/audio/es-MX/05/es-05-0276.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0277",
+    "sentence": "Después de la función de prueba, la directora nos pidió que replanteáramos la participación del público para el estreno; los asistentes habían mostrado interés en intervenir.",
+    "cloze": "replanteáramos",
+    "answer": "replanteáramos",
+    "lemma": "replantear",
+    "meaning": "rethink",
+    "audio": "work/audio/es-MX/05/es-05-0277.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0278",
+    "sentence": "Agradezco que te hayas sincerado conmigo sobre tus ganas de mudarte; ahora entiendo tu distancia y podemos hablar de planes concretos.",
+    "cloze": "te hayas sincerado",
+    "answer": "te hayas sincerado",
+    "lemma": "sincerarse",
+    "meaning": "you have opened up",
+    "audio": "work/audio/es-MX/05/es-05-0278.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0279",
+    "sentence": "Al revisar los resultados de la convocatoria, nos pareció injusto que hubieran supeditado la admisión al taller a la compra previa de materiales; ese gasto no figuraba entre los requisitos.",
+    "cloze": "hubieran supeditado",
+    "answer": "hubieran supeditado",
+    "lemma": "supeditar",
+    "meaning": "had made conditional",
+    "audio": "work/audio/es-MX/05/es-05-0279.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0280",
+    "sentence": "Después del estreno del sábado, le agradecí a mi primo que se hubiera abstenido de publicar las fotos del ensayo; así el público vio el vestuario por primera vez en escena.",
+    "cloze": "se hubiera abstenido",
+    "answer": "se hubiera abstenido",
+    "lemma": "abstenerse",
+    "meaning": "had refrained",
+    "audio": "work/audio/es-MX/05/es-05-0280.mp3",
+    "accepted_answers": []
   }
 ]
