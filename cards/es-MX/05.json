@@ -13640,5 +13640,405 @@
     "meaning": "accept as valid",
     "audio": "work/audio/es-MX/05/es-05-1359.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1360",
+    "sentence": "Presentar mi ausencia como un incumplimiento saca de contexto lo que pasó: tenía permiso para faltar a esa reunión; revisemos si dejé lista la información que me correspondía.",
+    "cloze": "saca de contexto",
+    "answer": "saca de contexto",
+    "lemma": "sacar de contexto",
+    "meaning": "takes out of context",
+    "audio": "work/audio/es-MX/05/es-05-1360.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1361",
+    "sentence": "Si quitas «sin excepción», no necesitas rehacer el argumento: esa expresión le resta fuerza porque tú mismo mencionas un caso distinto en la siguiente página.",
+    "cloze": "le resta fuerza",
+    "answer": "le resta fuerza",
+    "lemma": "restar fuerza",
+    "meaning": "detracts from its force",
+    "audio": "work/audio/es-MX/05/es-05-1361.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1362",
+    "sentence": "¿Podría nombrar el grupo en su correo? «La próxima sesión» se presta a confusión porque los dos grupos se reúnen en días distintos.",
+    "cloze": "se presta a confusión",
+    "answer": "se presta a confusión",
+    "lemma": "prestarse a confusión",
+    "meaning": "lends itself to confusion",
+    "audio": "work/audio/es-MX/05/es-05-1362.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1363",
+    "sentence": "Tu demostración queda a deber en la parte práctica: la invitación prometía que probaríamos el programa y solo vimos capturas; reservemos unos minutos para usarlo.",
+    "cloze": "queda a deber",
+    "answer": "queda a deber",
+    "lemma": "quedar a deber",
+    "meaning": "falls short of what was promised",
+    "audio": "work/audio/es-MX/05/es-05-1363.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1364",
+    "sentence": "Antes de responderle al cliente, necesitábamos hablar del costo entre nosotros; pedirnos que decidiéramos enfrente de él nos puso contra la pared.",
+    "cloze": "nos puso contra la pared",
+    "answer": "nos puso contra la pared",
+    "lemma": "poner contra la pared",
+    "meaning": "backed us into a corner",
+    "audio": "work/audio/es-MX/05/es-05-1364.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1365",
+    "sentence": "Le agradecería que retirara mi nombre de ese ofrecimiento: decirle al grupo que yo revisaré todos los textos me compromete a una tarea que usted y yo todavía no hemos acordado.",
+    "cloze": "me compromete",
+    "answer": "me compromete",
+    "lemma": "comprometer",
+    "meaning": "puts me under an obligation",
+    "audio": "work/audio/es-MX/05/es-05-1365.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1366",
+    "sentence": "El error en la suma había que corregirlo. Al pedir que todos miraran mi hoja, me pusiste en evidencia por algo que podías explicar con una operación en el pizarrón.",
+    "cloze": "me pusiste en evidencia",
+    "answer": "me pusiste en evidencia",
+    "lemma": "poner en evidencia",
+    "meaning": "publicly embarrassed me",
+    "audio": "work/audio/es-MX/05/es-05-1366.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1367",
+    "sentence": "A mí, «ya se lo expliqué» me sonó a regaño cuando solo pedí que repitiera la dirección; ¿podemos retomar el dato que no alcancé a escuchar?",
+    "cloze": "sonó a regaño",
+    "answer": "sonó a regaño",
+    "lemma": "sonar a regaño",
+    "meaning": "sounded like a scolding",
+    "audio": "work/audio/es-MX/05/es-05-1367.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1368",
+    "sentence": "Mi comentario sobre tu acento estuvo de más, aunque te hayas reído en ese momento; no voy a tomar esa risa como señal de que estuvo bien, y te ofrezco una disculpa.",
+    "cloze": "estuvo de más",
+    "answer": "estuvo de más",
+    "lemma": "estar de más",
+    "meaning": "was uncalled for",
+    "audio": "work/audio/es-MX/05/es-05-1368.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1369",
+    "sentence": "En ese correo se te fue la mano con la formalidad: después de años de hablarnos de tú, «distinguida señora» me hizo pensar que había algún problema entre nosotros; prefiero el saludo de siempre.",
+    "cloze": "se te fue la mano",
+    "answer": "se te fue la mano",
+    "lemma": "írsele la mano",
+    "meaning": "you went overboard",
+    "audio": "work/audio/es-MX/05/es-05-1369.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1370",
+    "sentence": "Ustedes pueden exigir la entrega pendiente y, al mismo tiempo, cuidar las formas: escribir «a ver si ahora sí trabajan» convierte un recordatorio necesario en un ataque.",
+    "cloze": "cuidar las formas",
+    "answer": "cuidar las formas",
+    "lemma": "cuidar las formas",
+    "meaning": "maintain a respectful manner",
+    "audio": "work/audio/es-MX/05/es-05-1370.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1371",
+    "sentence": "Entiendo que el cierre de mi relato no te convenza, pero podemos revisarlo sin llevarlo al terreno personal; preguntarme si todavía quiero a mi expareja no nos ayuda a aclarar la secuencia de las escenas.",
+    "cloze": "llevarlo al terreno personal",
+    "answer": "llevarlo al terreno personal",
+    "lemma": "llevar al terreno personal",
+    "meaning": "take it into personal territory",
+    "audio": "work/audio/es-MX/05/es-05-1371.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1372",
+    "sentence": "Tu exposición se queda en la superficie al enumerar los cambios en el transporte y los comercios sin explicar cómo afectaron la vida diaria de las personas que entrevistaste.",
+    "cloze": "se queda en la superficie",
+    "answer": "se queda en la superficie",
+    "lemma": "quedarse en la superficie",
+    "meaning": "stays at a superficial level",
+    "audio": "work/audio/es-MX/05/es-05-1372.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1373",
+    "sentence": "¿Podemos volver a cómo usar el material? La explicación se va por las ramas cuando entra en la historia de cada reunión, y quienes van a estrenarlo siguen sin saber por dónde empezar.",
+    "cloze": "se va por las ramas",
+    "answer": "se va por las ramas",
+    "lemma": "irse por las ramas",
+    "meaning": "goes off on tangents",
+    "audio": "work/audio/es-MX/05/es-05-1373.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1374",
+    "sentence": "Yo quitaría la referencia al concurso: entra con calzador en una historia sobre el cuidado de tu abuelo y obliga al lector a buscar una relación que el texto no desarrolla.",
+    "cloze": "entra con calzador",
+    "answer": "entra con calzador",
+    "lemma": "entrar con calzador",
+    "meaning": "feels shoehorned in",
+    "audio": "work/audio/es-MX/05/es-05-1374.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1375",
+    "sentence": "No quisiera que mi observación te llevara a quitar información necesaria: la explicación de cómo registrarse sale sobrando en el correo de confirmación, pero sí hace falta en la invitación.",
+    "cloze": "sale sobrando",
+    "answer": "sale sobrando",
+    "lemma": "salir sobrando",
+    "meaning": "is redundant",
+    "audio": "work/audio/es-MX/05/es-05-1375.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1376",
+    "sentence": "La versión anterior permitía encontrar los horarios de inmediato; esta da un paso atrás al esconderlos bajo tres menús, aunque la página se vea más limpia.",
+    "cloze": "da un paso atrás",
+    "answer": "da un paso atrás",
+    "lemma": "dar un paso atrás",
+    "meaning": "takes a step backward",
+    "audio": "work/audio/es-MX/05/es-05-1376.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1377",
+    "sentence": "—Con ese error en la portada, mejor cancelo la presentación. —No es para tanto: el nombre está bien dentro del documento y solo necesitamos corregir la portada antes de empezar.",
+    "cloze": "No es para tanto",
+    "answer": "No es para tanto",
+    "lemma": "no ser para tanto",
+    "meaning": "it is not that serious",
+    "audio": "work/audio/es-MX/05/es-05-1377.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1378",
+    "sentence": "El error tiene arreglo, sí, pero volver a grabar implica pedirles otra mañana a las invitadas; no lo presentemos como un detalle sin consecuencias.",
+    "cloze": "tiene arreglo",
+    "answer": "tiene arreglo",
+    "lemma": "tener arreglo",
+    "meaning": "can be fixed",
+    "audio": "work/audio/es-MX/05/es-05-1378.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1379",
+    "sentence": "El verde no dificulta la lectura; cambiarlo por azul es una cuestión de gusto, así que yo lo dejaría como sugerencia y no como una corrección obligatoria.",
+    "cloze": "cuestión de gusto",
+    "answer": "cuestión de gusto",
+    "lemma": "cuestión de gusto",
+    "meaning": "a matter of taste",
+    "audio": "work/audio/es-MX/05/es-05-1379.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1380",
+    "sentence": "Cuando me dices «ya casi está» aunque falta redactar la mayor parte del texto, me doras la píldora; prefiero saber qué falta para poder trabajar en ello.",
+    "cloze": "me doras la píldora",
+    "answer": "me doras la píldora",
+    "lemma": "dorar la píldora",
+    "meaning": "you sugarcoat it for me",
+    "audio": "work/audio/es-MX/05/es-05-1380.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1381",
+    "sentence": "¿Podría mostrarme un pasaje y precisar qué debo cambiar? «Revise todo» no da pistas para convertir su observación en una corrección concreta.",
+    "cloze": "da pistas",
+    "answer": "da pistas",
+    "lemma": "dar pistas",
+    "meaning": "gives pointers",
+    "audio": "work/audio/es-MX/05/es-05-1381.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1382",
+    "sentence": "En sus anotaciones, la etiqueta «error» mete en el mismo saco las faltas de ortografía y las elecciones de estilo; separarlas nos permitiría corregir lo primero y conversar sobre lo segundo.",
+    "cloze": "mete en el mismo saco",
+    "answer": "mete en el mismo saco",
+    "lemma": "meter en el mismo saco",
+    "meaning": "lumps together",
+    "audio": "work/audio/es-MX/05/es-05-1382.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1383",
+    "sentence": "Antes de repartir los ejercicios, convendría mostrar cómo se entra a la plataforma, un paso que su explicación da por sabido, aunque el grupo nunca la ha usado.",
+    "cloze": "da por sabido",
+    "answer": "da por sabido",
+    "lemma": "dar por sabido",
+    "meaning": "assumes to be already known",
+    "audio": "work/audio/es-MX/05/es-05-1383.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1384",
+    "sentence": "Me preocupa anunciar «saldrás dominando la técnica», porque esa promesa infla las expectativas de quienes vienen a una sesión que solo será de introducción.",
+    "cloze": "infla las expectativas",
+    "answer": "infla las expectativas",
+    "lemma": "inflar las expectativas",
+    "meaning": "inflates expectations",
+    "audio": "work/audio/es-MX/05/es-05-1384.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1385",
+    "sentence": "Volver a publicar la foto después de disculparse por compartirla sin permiso vacía de sentido la disculpa; primero retiremos la imagen y luego conversemos con quienes aparecen.",
+    "cloze": "vacía de sentido",
+    "answer": "vacía de sentido",
+    "lemma": "vaciar de sentido",
+    "meaning": "renders meaningless",
+    "audio": "work/audio/es-MX/05/es-05-1385.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1386",
+    "sentence": "Para corregir el pedido bastaría con confirmar qué producto faltó; pedirme que capture otra vez todos los datos que usted ya tiene me traslada la carga de la corrección.",
+    "cloze": "me traslada la carga",
+    "answer": "me traslada la carga",
+    "lemma": "trasladar la carga",
+    "meaning": "shifts the burden onto me",
+    "audio": "work/audio/es-MX/05/es-05-1386.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1387",
+    "sentence": "Le pido que mande la aclaración al chat donde anunció la reunión, porque la corrección pierde alcance en un mensaje privado mientras el grupo conserva el horario equivocado.",
+    "cloze": "pierde alcance",
+    "answer": "pierde alcance",
+    "lemma": "perder alcance",
+    "meaning": "has reduced reach",
+    "audio": "work/audio/es-MX/05/es-05-1387.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1388",
+    "sentence": "La recepcionista paga los platos rotos si la sacamos del proyecto por un error que ya venía en la lista que recibió; revisemos la lista, no su capacidad para atender.",
+    "cloze": "paga los platos rotos",
+    "answer": "paga los platos rotos",
+    "lemma": "pagar los platos rotos",
+    "meaning": "takes the blame for someone else's mistake",
+    "audio": "work/audio/es-MX/05/es-05-1388.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1389",
+    "sentence": "Sus observaciones llegaron a destiempo, con las ilustraciones ya aprobadas para impresión. ¿Podemos acordar una revisión anterior a esa aprobación?",
+    "cloze": "a destiempo",
+    "answer": "a destiempo",
+    "lemma": "a destiempo",
+    "meaning": "at the wrong time",
+    "audio": "work/audio/es-MX/05/es-05-1389.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1390",
+    "sentence": "Les propongo rehacer únicamente la portada: el recorte del título desluce un trabajo que por dentro se lee completo y con claridad.",
+    "cloze": "desluce",
+    "answer": "desluce",
+    "lemma": "deslucir",
+    "meaning": "detracts from the appearance of",
+    "audio": "work/audio/es-MX/05/es-05-1390.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1391",
+    "sentence": "Cambiar «a veces me cuesta participar» por «no participo» borra los matices de mi experiencia; agradezco que busques brevedad, pero aquí conviene conservar la frase original.",
+    "cloze": "borra los matices",
+    "answer": "borra los matices",
+    "lemma": "borrar los matices",
+    "meaning": "erases the nuances",
+    "audio": "work/audio/es-MX/05/es-05-1391.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1392",
+    "sentence": "Coloquen el anuncio de la próxima actividad al final del intercambio, porque entre la pregunta y la respuesta rompe la continuidad de la entrevista.",
+    "cloze": "rompe la continuidad",
+    "answer": "rompe la continuidad",
+    "lemma": "romper la continuidad",
+    "meaning": "breaks the continuity",
+    "audio": "work/audio/es-MX/05/es-05-1392.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1393",
+    "sentence": "El chiste sobre llegar tarde desentona en el mensaje donde pedimos disculpas por hacer esperar al grupo; dejémoslo para otra conversación y expliquemos aquí cómo recuperaremos ese tiempo.",
+    "cloze": "desentona",
+    "answer": "desentona",
+    "lemma": "desentonar",
+    "meaning": "is out of place",
+    "audio": "work/audio/es-MX/05/es-05-1393.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1394",
+    "sentence": "Antes de cerrar el caso, quisiera aclarar algo: su respuesta reconoce que faltó una pieza, pero deja en el aire quién me avisará cuando esté lista; necesito un contacto concreto.",
+    "cloze": "deja en el aire",
+    "answer": "deja en el aire",
+    "lemma": "dejar en el aire",
+    "meaning": "leaves unresolved",
+    "audio": "work/audio/es-MX/05/es-05-1394.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1395",
+    "sentence": "Cuando sustituiste mi sección y aprobaste el texto sin consultarme, me hiciste a un lado como coautora; revisemos juntas esa parte antes de enviarla.",
+    "cloze": "me hiciste a un lado",
+    "answer": "me hiciste a un lado",
+    "lemma": "hacer a un lado",
+    "meaning": "you sidelined me",
+    "audio": "work/audio/es-MX/05/es-05-1395.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1396",
+    "sentence": "Llamar «un favorcito» a rehacer veinte páginas le quita importancia al trabajo que me estás pidiendo; hablemos del tiempo que requiere, aunque al final yo decida ayudarte.",
+    "cloze": "le quita importancia",
+    "answer": "le quita importancia",
+    "lemma": "quitar importancia",
+    "meaning": "downplays its importance",
+    "audio": "work/audio/es-MX/05/es-05-1396.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1397",
+    "sentence": "Para ajustarte al tiempo, estás explicando los ejemplos a marchas forzadas y cambias de lámina antes de que podamos leerla; sería mejor quitar uno y explicar los demás con calma.",
+    "cloze": "a marchas forzadas",
+    "answer": "a marchas forzadas",
+    "lemma": "a marchas forzadas",
+    "meaning": "at a forced, rushed pace",
+    "audio": "work/audio/es-MX/05/es-05-1397.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1398",
+    "sentence": "¿Podemos reservar «versión final» para un catálogo ya revisado? Con tres versiones anunciadas como completas a las que todavía les faltaban páginas, esa etiqueta pierde credibilidad.",
+    "cloze": "pierde credibilidad",
+    "answer": "pierde credibilidad",
+    "lemma": "perder credibilidad",
+    "meaning": "loses credibility",
+    "audio": "work/audio/es-MX/05/es-05-1398.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1399",
+    "sentence": "¿Podemos cambiar el «no hay nada que discutir» del cierre? Esa frase cierra el diálogo justo después de invitar al equipo a comentar la propuesta; expliquemos qué aspectos siguen abiertos.",
+    "cloze": "cierra el diálogo",
+    "answer": "cierra el diálogo",
+    "lemma": "cerrar el diálogo",
+    "meaning": "shuts down dialogue",
+    "audio": "work/audio/es-MX/05/es-05-1399.mp3",
+    "accepted_answers": []
   }
 ]
