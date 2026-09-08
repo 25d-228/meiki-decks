@@ -8870,5 +8870,335 @@
     "accepted_answers": [
       "habría bastado"
     ]
+  },
+  {
+    "id": "es-05-0883",
+    "sentence": "Podemos escuchar la queja sin dar crédito todavía a la acusación de que se escondió el paquete; la encargada dice que lo dejó a la vista y falta revisar dónde lo buscaron.",
+    "cloze": "dar crédito",
+    "answer": "dar crédito",
+    "lemma": "dar crédito",
+    "meaning": "to give credence",
+    "audio": "work/audio/es-MX/05/es-05-0883.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0884",
+    "sentence": "Tú recuerdas la pausa como un rechazo y yo como tiempo para consultar al equipo; disentimos sobre el sentido de ese silencio, pues ambos recordamos que la coordinadora dejó de hablar.",
+    "cloze": "disentimos",
+    "answer": "disentimos",
+    "lemma": "disentir",
+    "meaning": "we disagree",
+    "audio": "work/audio/es-MX/05/es-05-0884.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0885",
+    "sentence": "Aunque una vecina recuerda una espera breve y la otra habla de casi una hora, sus relatos, recogidos por separado, convergen en un punto: el módulo seguía cerrado cuando llegaron.",
+    "cloze": "convergen",
+    "answer": "convergen",
+    "lemma": "converger",
+    "meaning": "converge",
+    "audio": "work/audio/es-MX/05/es-05-0885.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0886",
+    "sentence": "Quiero contrastar las versiones del chofer y de la encargada con el relato de quien recibió la caja; ellos discuten si iba abierta y todavía no hemos oído a esa tercera persona.",
+    "cloze": "contrastar",
+    "answer": "contrastar",
+    "lemma": "contrastar",
+    "meaning": "to cross-check",
+    "audio": "work/audio/es-MX/05/es-05-0886.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0887",
+    "sentence": "¿Por qué privilegiar la versión del supervisor sobre la del ayudante por su puesto, si ambos estuvieron en la sala y ninguno ha mostrado el mensaje que dice recordar?",
+    "cloze": "privilegiar",
+    "answer": "privilegiar",
+    "lemma": "privilegiar",
+    "meaning": "to give preference to",
+    "audio": "work/audio/es-MX/05/es-05-0887.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0888",
+    "sentence": "El encargado dice que la urna nunca se abrió durante la reunión y la secretaria asegura que ella la abrió a mitad de la reunión; esas afirmaciones son irreconciliables, pero no sabemos cuál describe lo ocurrido.",
+    "cloze": "irreconciliables",
+    "answer": "irreconciliables",
+    "lemma": "irreconciliable",
+    "meaning": "irreconcilable",
+    "audio": "work/audio/es-MX/05/es-05-0888.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0889",
+    "sentence": "En el boletín presento a la encargada como presunta responsable del cambio de lista, porque así la señala la queja; ella niega haberla modificado y todavía no se ha comprobado quién lo hizo.",
+    "cloze": "presunta",
+    "answer": "presunta",
+    "lemma": "presunto",
+    "meaning": "alleged",
+    "audio": "work/audio/es-MX/05/es-05-0889.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0890",
+    "sentence": "La recepción responde «eso no pasó», pero esa negativa no refuta por sí sola el relato de la visitante; faltan datos sobre a quién se permitió entrar y a quién no.",
+    "cloze": "refuta",
+    "answer": "refuta",
+    "lemma": "refutar",
+    "meaning": "refutes",
+    "audio": "work/audio/es-MX/05/es-05-0890.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0891",
+    "sentence": "Para rebatir el relato de la huésped sobre el ruido, hace falta hablar de lo que pasó esa noche; decir que suele quejarse no responde a lo que ella describe.",
+    "cloze": "rebatir",
+    "answer": "rebatir",
+    "lemma": "rebatir",
+    "meaning": "to rebut",
+    "audio": "work/audio/es-MX/05/es-05-0891.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0892",
+    "sentence": "La clienta presenta una captura con un descuento y el vendedor dice que no salió de su cuenta; necesitamos autenticar ese mensaje antes de usarlo para decidir qué precio se ofreció.",
+    "cloze": "autenticar",
+    "answer": "autenticar",
+    "lemma": "autenticar",
+    "meaning": "to authenticate",
+    "audio": "work/audio/es-MX/05/es-05-0892.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0893",
+    "sentence": "En la queja se alega que el personal cerró antes del horario anunciado; recepción responde que aún estaba atendiendo, y no tenemos un registro de la hora en que llegó la usuaria.",
+    "cloze": "se alega",
+    "answer": "se alega",
+    "lemma": "alegar",
+    "meaning": "it is alleged",
+    "audio": "work/audio/es-MX/05/es-05-0893.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0894",
+    "sentence": "La encargada pide disculpas por el mal rato sin admitir que le hubiera negado el acceso a la visitante: dice que pidió esperar, mientras que la visitante recuerda una negativa definitiva.",
+    "cloze": "admitir",
+    "answer": "admitir",
+    "lemma": "admitir",
+    "meaning": "to acknowledge as true",
+    "audio": "work/audio/es-MX/05/es-05-0894.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0895",
+    "sentence": "Puedo conceder por un momento que el aviso se oyó en todo el patio, como dices, para discutir si fue claro; sigo sin saber si las personas del fondo lo escucharon.",
+    "cloze": "conceder",
+    "answer": "conceder",
+    "lemma": "conceder",
+    "meaning": "to grant for argument's sake",
+    "audio": "work/audio/es-MX/05/es-05-0895.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0896",
+    "sentence": "En lo de que faltaban sillas sí te puedo dar la razón porque también lo vi; eso no confirma tu afirmación de que el organizador decidió dejar gente afuera.",
+    "cloze": "dar la razón",
+    "answer": "dar la razón",
+    "lemma": "dar la razón",
+    "meaning": "to agree that someone is right",
+    "audio": "work/audio/es-MX/05/es-05-0896.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0897",
+    "sentence": "El técnico achaca el corte de sonido a que alguien desconectó un cable; la organizadora sostiene que falló la consola, y todavía no han revisado el equipo juntos.",
+    "cloze": "achaca",
+    "answer": "achaca",
+    "lemma": "achacar",
+    "meaning": "attributes",
+    "audio": "work/audio/es-MX/05/es-05-0897.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0898",
+    "sentence": "El título «El taller perdió mi mochila» da por probado lo que la recepción discute; por ahora sabemos que la visitante no la encuentra, no dónde quedó.",
+    "cloze": "da por probado",
+    "answer": "da por probado",
+    "lemma": "dar por probado",
+    "meaning": "treats as proven",
+    "audio": "work/audio/es-MX/05/es-05-0898.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0899",
+    "sentence": "La tienda negó haber cobrado dos veces, pero apareció otro recibo; ahora podemos reabrir la discusión sobre el cobro, aunque falta verificar si ambos corresponden a la misma compra.",
+    "cloze": "reabrir",
+    "answer": "reabrir",
+    "lemma": "reabrir",
+    "meaning": "to reopen",
+    "audio": "work/audio/es-MX/05/es-05-0899.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0900",
+    "sentence": "Podemos acordar que cada quien pague la mitad del envío sin dar por zanjado el desacuerdo sobre quién pidió cambiar la dirección; el reparto del gasto no aclara aquella llamada.",
+    "cloze": "dar por zanjado",
+    "answer": "dar por zanjado",
+    "lemma": "dar por zanjado",
+    "meaning": "to consider settled",
+    "audio": "work/audio/es-MX/05/es-05-0900.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0901",
+    "sentence": "La remitente afirma que vino a dejar el sobre y la recepcionista dice que lo trajo un mensajero; el video de la entrada permitiría poner a prueba ambas versiones, pero todavía no lo hemos visto.",
+    "cloze": "poner a prueba",
+    "answer": "poner a prueba",
+    "lemma": "poner a prueba",
+    "meaning": "to put to the test",
+    "audio": "work/audio/es-MX/05/es-05-0901.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0902",
+    "sentence": "Un apunte de esa tarde dice «avisaron el cambio de salón» y un relato escrito meses después dice «nadie avisó»; al ponderar ambas versiones, tomemos en cuenta cuándo se escribieron, sin preferir una solo por ser más extensa.",
+    "cloze": "ponderar",
+    "answer": "ponderar",
+    "lemma": "ponderar",
+    "meaning": "to weigh up",
+    "audio": "work/audio/es-MX/05/es-05-0902.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0903",
+    "sentence": "Los dos equipos se imputan mutuamente la pérdida del respaldo: uno dice que el otro borró la carpeta y el otro que recibió el disco vacío; aún no revisamos las copias.",
+    "cloze": "se imputan",
+    "answer": "se imputan",
+    "lemma": "imputar",
+    "meaning": "blame each other for",
+    "audio": "work/audio/es-MX/05/es-05-0903.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0904",
+    "sentence": "La tienda afirma que hubo un solo pago y la clienta dice que hizo otro pago aparte; debemos escucharlas en pie de igualdad, aunque por ahora solo esté documentado el primero. El recibo acredita ese pago, pero no resuelve si hubo otro.",
+    "cloze": "en pie de igualdad",
+    "answer": "en pie de igualdad",
+    "lemma": "en pie de igualdad",
+    "meaning": "on an equal footing",
+    "audio": "work/audio/es-MX/05/es-05-0904.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0905",
+    "sentence": "El relato de la pasajera se sostiene sin contradicciones internas, pero eso no confirma que el chofer omitiera la parada; él afirma que se detuvo y no contamos con otra observación.",
+    "cloze": "se sostiene",
+    "answer": "se sostiene",
+    "lemma": "sostenerse",
+    "meaning": "holds up",
+    "audio": "work/audio/es-MX/05/es-05-0905.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0906",
+    "sentence": "El error de la testigo al nombrar la calle no desacredita todo lo que cuenta sobre la caída de la caja; también hay que revisar su descripción del recorrido, que el repartidor discute.",
+    "cloze": "desacredita",
+    "answer": "desacredita",
+    "lemma": "desacreditar",
+    "meaning": "discredits",
+    "audio": "work/audio/es-MX/05/es-05-0906.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0907",
+    "sentence": "No conviene desestimar la queja sobre la entrega solo porque hoy falte el comprobante: la clienta dice que firmó una hoja y el encargado dice que nadie recibió; esa hoja aún puede aparecer.",
+    "cloze": "desestimar",
+    "answer": "desestimar",
+    "lemma": "desestimar",
+    "meaning": "to dismiss",
+    "audio": "work/audio/es-MX/05/es-05-0907.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0908",
+    "sentence": "Que el vigilante saliera a comer permite poner en tela de juicio su afirmación de que nadie entró en toda la tarde; no permite asegurar, como hace el vecino, que entró el repartidor.",
+    "cloze": "poner en tela de juicio",
+    "answer": "poner en tela de juicio",
+    "lemma": "poner en tela de juicio",
+    "meaning": "to call into question",
+    "audio": "work/audio/es-MX/05/es-05-0908.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0909",
+    "sentence": "«Debo rectificar lo que dije de ti: vi a alguien mover la mesa, pero no le vi la cara y ya no puedo asegurar que fueras tú, aunque sigo afirmando que alguien la movió».",
+    "cloze": "rectificar",
+    "answer": "rectificar",
+    "lemma": "rectificar",
+    "meaning": "to correct",
+    "audio": "work/audio/es-MX/05/es-05-0909.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0910",
+    "sentence": "La sospecha de que la caja sigue fuera del salón se desvanece al encontrarla dentro de un armario del mismo salón; falta explicar por qué dos asistentes aseguran que la vieron salir.",
+    "cloze": "se desvanece",
+    "answer": "se desvanece",
+    "lemma": "desvanecerse",
+    "meaning": "dissipates",
+    "audio": "work/audio/es-MX/05/es-05-0910.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0911",
+    "sentence": "El resumen silencia la versión de la acomodadora, que dice haber permitido la entrada, y solo reproduce la queja de quien afirma que se la negó; así no presenta el desacuerdo completo.",
+    "cloze": "silencia",
+    "answer": "silencia",
+    "lemma": "silenciar",
+    "meaning": "suppresses",
+    "audio": "work/audio/es-MX/05/es-05-0911.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0912",
+    "sentence": "Al cambiar «la caja ya estaba rota al llegar» por «quizá ya estaba rota al llegar», la clienta rebaja la certeza de su relato; no está afirmando que se rompiera dentro del local.",
+    "cloze": "rebaja",
+    "answer": "rebaja",
+    "lemma": "rebajar",
+    "meaning": "reduces",
+    "audio": "work/audio/es-MX/05/es-05-0912.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0913",
+    "sentence": "Ante las versiones opuestas sobre si se prometió una devolución, la compañera se remite al correo original; nos dice dónde buscar la respuesta, pero aclara que ella no lo ha leído completo.",
+    "cloze": "se remite",
+    "answer": "se remite",
+    "lemma": "remitirse",
+    "meaning": "refers back",
+    "audio": "work/audio/es-MX/05/es-05-0913.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0914",
+    "sentence": "«Tú afirmas que cambiamos el acuerdo a escondidas, pero nos pides demostrar que esa conversación nunca ocurrió; la carga de la prueba te corresponde a ti y todavía no has presentado nada que apoye tu versión».",
+    "cloze": "carga de la prueba",
+    "answer": "carga de la prueba",
+    "lemma": "carga de la prueba",
+    "meaning": "burden of proof",
+    "audio": "work/audio/es-MX/05/es-05-0914.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0915",
+    "sentence": "La vecina objetó que solo se hubiera preguntado a quienes seguían en el salón; cuestionó cómo se revisó la queja sobre la puerta cerrada, sin asegurar que esa queja fuera cierta.",
+    "cloze": "objetó",
+    "answer": "objetó",
+    "lemma": "objetar",
+    "meaning": "objected",
+    "audio": "work/audio/es-MX/05/es-05-0915.mp3",
+    "accepted_answers": []
   }
 ]
