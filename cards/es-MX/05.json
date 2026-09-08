@@ -5246,5 +5246,805 @@
     "meaning": "barring unforeseen events",
     "audio": "work/audio/es-MX/05/es-05-0520.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-0521",
+    "sentence": "La valoración favorable de la página se circunscribe a la facilidad para encontrar los horarios; todavía no revisamos el proceso de inscripción.",
+    "cloze": "se circunscribe",
+    "answer": "se circunscribe",
+    "lemma": "circunscribirse",
+    "meaning": "is confined",
+    "audio": "work/audio/es-MX/05/es-05-0521.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0522",
+    "sentence": "La buena valoración del formato digital no es extensible a la versión impresa: en pantalla el texto se lee bien, pero al imprimirlo varias líneas se enciman.",
+    "cloze": "extensible",
+    "answer": "extensible",
+    "lemma": "extensible",
+    "meaning": "applicable beyond the original scope",
+    "audio": "work/audio/es-MX/05/es-05-0522.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0523",
+    "sentence": "El registro del recorrido de ayer ofrece una instantánea del estado del patio, no una explicación de su deterioro a lo largo de los años; faltan imágenes anteriores.",
+    "cloze": "instantánea",
+    "answer": "instantánea",
+    "lemma": "instantánea",
+    "meaning": "snapshot",
+    "audio": "work/audio/es-MX/05/es-05-0523.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0524",
+    "sentence": "La constancia acredita la asistencia al taller, pero nadie evaluó si cada participante podía editar un video sin ayuda.",
+    "cloze": "acredita",
+    "answer": "acredita",
+    "lemma": "acreditar",
+    "meaning": "certifies",
+    "audio": "work/audio/es-MX/05/es-05-0524.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0525",
+    "sentence": "¿Cómo vamos a deslindar responsabilidades con el dato de que el archivo cambió, si varias personas podían modificarlo?",
+    "cloze": "deslindar",
+    "answer": "deslindar",
+    "lemma": "deslindar",
+    "meaning": "delineate",
+    "audio": "work/audio/es-MX/05/es-05-0525.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0526",
+    "sentence": "El resumen recoge las inquietudes sobre el ruido, la limpieza y el acceso sin jerarquizarlas; nadie pidió ordenarlas por importancia.",
+    "cloze": "jerarquizarlas",
+    "answer": "jerarquizarlas",
+    "lemma": "jerarquizar",
+    "meaning": "rank them by importance",
+    "audio": "work/audio/es-MX/05/es-05-0526.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0527",
+    "sentence": "Tu lectura explica muy bien la conducta de la protagonista; ¿por qué presentarla como si agotara las interpretaciones posibles del cuento?",
+    "cloze": "agotara",
+    "answer": "agotara",
+    "lemma": "agotar",
+    "meaning": "exhausted",
+    "audio": "work/audio/es-MX/05/es-05-0527.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0528",
+    "sentence": "La observación de que el ensayo salió desordenado no prejuzga el resultado de la función; aún quedan varios días de práctica.",
+    "cloze": "prejuzga",
+    "answer": "prejuzga",
+    "lemma": "prejuzgar",
+    "meaning": "prejudges",
+    "audio": "work/audio/es-MX/05/es-05-0528.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0529",
+    "sentence": "El error en el nombre de la sala no desvirtúa la conclusión sobre la falta de espacio: las medidas y las fotos sí corresponden al lugar.",
+    "cloze": "desvirtúa",
+    "answer": "desvirtúa",
+    "lemma": "desvirtuar",
+    "meaning": "undermines the validity of",
+    "audio": "work/audio/es-MX/05/es-05-0529.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0530",
+    "sentence": "Que varias personas hayan usado la nueva lista confirma que circuló, pero no convalida el cambio de criterios, que el grupo nunca aprobó.",
+    "cloze": "convalida",
+    "answer": "convalida",
+    "lemma": "convalidar",
+    "meaning": "validates",
+    "audio": "work/audio/es-MX/05/es-05-0530.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0531",
+    "sentence": "La foto permite ubicar la mesa, pero no zanja el desacuerdo sobre si queda suficiente espacio para pasar entre las sillas.",
+    "cloze": "zanja",
+    "answer": "zanja",
+    "lemma": "zanjar",
+    "meaning": "settles conclusively",
+    "audio": "work/audio/es-MX/05/es-05-0531.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0532",
+    "sentence": "Antes de atribuir la diferencia de tiempos a la rapidez de los equipos, revisen si el trabajo realizado es equiparable: solo uno recibió los textos ya corregidos.",
+    "cloze": "equiparable",
+    "answer": "equiparable",
+    "lemma": "equiparable",
+    "meaning": "directly comparable",
+    "audio": "work/audio/es-MX/05/es-05-0532.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0533",
+    "sentence": "El resumen presenta la opinión del equipo sin individualizar las aportaciones; no podemos saber qué propuso cada persona.",
+    "cloze": "individualizar",
+    "answer": "individualizar",
+    "lemma": "individualizar",
+    "meaning": "attribute individually",
+    "audio": "work/audio/es-MX/05/es-05-0533.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0534",
+    "sentence": "La prueba confirmó que el archivo no abre, pero no discrimina entre una falla del archivo y una del programa.",
+    "cloze": "discrimina",
+    "answer": "discrimina",
+    "lemma": "discriminar",
+    "meaning": "distinguishes",
+    "audio": "work/audio/es-MX/05/es-05-0534.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0535",
+    "sentence": "Para acusar a un compañero de copia, la coincidencia tendría que ser concluyente; dos frases iguales justifican revisar los trabajos, no afirmar que hubo copia.",
+    "cloze": "concluyente",
+    "answer": "concluyente",
+    "lemma": "concluyente",
+    "meaning": "conclusive",
+    "audio": "work/audio/es-MX/05/es-05-0535.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0536",
+    "sentence": "Que la aplicación funcione hoy es compatible con las fallas que ustedes reportaron ayer; el problema puede aparecer solo en ciertos momentos.",
+    "cloze": "compatible",
+    "answer": "compatible",
+    "lemma": "compatible",
+    "meaning": "compatible",
+    "audio": "work/audio/es-MX/05/es-05-0536.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0537",
+    "sentence": "El acceso a la exposición es gratuito en sentido estricto porque no se cobra boleto, aunque el traslado sigue siendo un gasto para las familias.",
+    "cloze": "en sentido estricto",
+    "answer": "en sentido estricto",
+    "lemma": "en sentido estricto",
+    "meaning": "in the strict sense",
+    "audio": "work/audio/es-MX/05/es-05-0537.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0538",
+    "sentence": "Yo doy fe de la entrega de los materiales, porque estuve ahí; sobre su estado al llegar, solo conozco lo que me contaron.",
+    "cloze": "doy fe",
+    "answer": "doy fe",
+    "lemma": "dar fe",
+    "meaning": "personally attest",
+    "audio": "work/audio/es-MX/05/es-05-0538.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0539",
+    "sentence": "Mi observación sobre la falta de claridad atañe a este párrafo, no a tu capacidad para explicar el tema en clase.",
+    "cloze": "atañe",
+    "answer": "atañe",
+    "lemma": "atañer",
+    "meaning": "concerns",
+    "audio": "work/audio/es-MX/05/es-05-0539.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0540",
+    "sentence": "El video muestra que la puerta se cierra sola, sin esclarecer qué la mueve; para eso necesitamos revisar el mecanismo.",
+    "cloze": "esclarecer",
+    "answer": "esclarecer",
+    "lemma": "esclarecer",
+    "meaning": "clarify",
+    "audio": "work/audio/es-MX/05/es-05-0540.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0541",
+    "sentence": "Reconocemos que la explicación dejó dudas; con comentarios de una sola mesa de trabajo aún no podemos dimensionar cuánto afectó esa confusión al desarrollo del taller.",
+    "cloze": "dimensionar",
+    "answer": "dimensionar",
+    "lemma": "dimensionar",
+    "meaning": "assess the extent of",
+    "audio": "work/audio/es-MX/05/es-05-0541.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0542",
+    "sentence": "La foto corrobora que las herramientas estaban en el pasillo, como dijo Diego; no muestra si eran suyas, aunque él también afirmó eso.",
+    "cloze": "corrobora",
+    "answer": "corrobora",
+    "lemma": "corroborar",
+    "meaning": "corroborates",
+    "audio": "work/audio/es-MX/05/es-05-0542.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0543",
+    "sentence": "La confusión con la puerta sirve de botón de muestra del problema de señalización que también vimos en el patio; no revisamos todo el edificio.",
+    "cloze": "botón de muestra",
+    "answer": "botón de muestra",
+    "lemma": "botón de muestra",
+    "meaning": "illustrative example",
+    "audio": "work/audio/es-MX/05/es-05-0543.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0544",
+    "sentence": "La evaluación del cambio no se reduce al tiempo que ahorramos al capturar los datos; también importa si ahora cometemos menos errores.",
+    "cloze": "se reduce",
+    "answer": "se reduce",
+    "lemma": "reducirse",
+    "meaning": "is reduced",
+    "audio": "work/audio/es-MX/05/es-05-0544.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0545",
+    "sentence": "El ascenso de Julia fue nominal: cambió el título de su puesto, pero no sus tareas, su sueldo ni su capacidad de decisión.",
+    "cloze": "nominal",
+    "answer": "nominal",
+    "lemma": "nominal",
+    "meaning": "in name only",
+    "audio": "work/audio/es-MX/05/es-05-0545.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0546",
+    "sentence": "Al describir únicamente los correos recibidos, el registro deja fuera las dudas que resolvimos de palabra en el mostrador.",
+    "cloze": "deja fuera",
+    "answer": "deja fuera",
+    "lemma": "dejar fuera",
+    "meaning": "leaves out",
+    "audio": "work/audio/es-MX/05/es-05-0546.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0547",
+    "sentence": "Juzgar la redacción del alumno solo por la versión final sobrestima su dominio: la maestra corrigió errores que él no pudo resolver por su cuenta; el texto entregado sí está bien escrito.",
+    "cloze": "sobrestima",
+    "answer": "sobrestima",
+    "lemma": "sobrestimar",
+    "meaning": "overestimates",
+    "audio": "work/audio/es-MX/05/es-05-0547.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0548",
+    "sentence": "La fluidez que observamos en el debate estaba condicionada por la intervención constante de la moderadora, que repartía los turnos y reformulaba las preguntas.",
+    "cloze": "condicionada",
+    "answer": "condicionada",
+    "lemma": "condicionado",
+    "meaning": "dependent",
+    "audio": "work/audio/es-MX/05/es-05-0548.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0549",
+    "sentence": "Con lo que sabemos, no podemos afirmar que el aumento de asistencia sea atribuible solo al nuevo horario: también cambiamos de sede.",
+    "cloze": "atribuible",
+    "answer": "atribuible",
+    "lemma": "atribuible",
+    "meaning": "attributable",
+    "audio": "work/audio/es-MX/05/es-05-0549.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0550",
+    "sentence": "Las opiniones ayudan a localizar pasos confusos; ¿por qué tendrían que reemplazar la observación de alguien que intenta completar el registro?",
+    "cloze": "reemplazar",
+    "answer": "reemplazar",
+    "lemma": "reemplazar",
+    "meaning": "replace",
+    "audio": "work/audio/es-MX/05/es-05-0550.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0551",
+    "sentence": "Que el proyector haya funcionado en el ensayo no garantiza que funcione toda la semana; hasta ahora solo lo usamos veinte minutos.",
+    "cloze": "garantiza",
+    "answer": "garantiza",
+    "lemma": "garantizar",
+    "meaning": "guarantees",
+    "audio": "work/audio/es-MX/05/es-05-0551.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0552",
+    "sentence": "En el acta podemos registrar el interés de las vecinas; eso no las compromete a organizar el encuentro, pues todavía no han aceptado esa tarea.",
+    "cloze": "las compromete",
+    "answer": "las compromete",
+    "lemma": "comprometer",
+    "meaning": "commits them",
+    "audio": "work/audio/es-MX/05/es-05-0552.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0553",
+    "sentence": "La lista da cuenta de las entregas terminadas, no del esfuerzo que requirieron; algunos encargos necesitaron varias versiones.",
+    "cloze": "da cuenta",
+    "answer": "da cuenta",
+    "lemma": "dar cuenta",
+    "meaning": "gives an account",
+    "audio": "work/audio/es-MX/05/es-05-0553.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0554",
+    "sentence": "Al confirmar el cambio de reglas, el reporte no se pronuncia sobre si fue justo; esa valoración quedó pendiente en la reunión.",
+    "cloze": "se pronuncia",
+    "answer": "se pronuncia",
+    "lemma": "pronunciarse",
+    "meaning": "takes a position",
+    "audio": "work/audio/es-MX/05/es-05-0554.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0555",
+    "sentence": "¿Por qué asumir que usar esta guía entraña una pérdida de autonomía, si solo comprobamos que ayuda a detectar errores y cada quien sigue organizando su trabajo?",
+    "cloze": "entraña",
+    "answer": "entraña",
+    "lemma": "entrañar",
+    "meaning": "entails",
+    "audio": "work/audio/es-MX/05/es-05-0555.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0556",
+    "sentence": "«La entrega está completa» describe el cumplimiento de lo acordado; no nos exime de explicar los puntos que todavía generan dudas.",
+    "cloze": "nos exime",
+    "answer": "nos exime",
+    "lemma": "eximir",
+    "meaning": "exempts us",
+    "audio": "work/audio/es-MX/05/es-05-0556.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0557",
+    "sentence": "El tiempo que tardábamos antes sirve de término de comparación: ahora esperamos la mitad, lo que permite hablar de una mejora, aunque la espera siga siendo larga.",
+    "cloze": "término de comparación",
+    "answer": "término de comparación",
+    "lemma": "término de comparación",
+    "meaning": "benchmark for comparison",
+    "audio": "work/audio/es-MX/05/es-05-0557.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0558",
+    "sentence": "La relación que vimos entre experiencia y rapidez admite excepciones: una compañera nueva terminó antes que varias personas con años en el puesto.",
+    "cloze": "admite excepciones",
+    "answer": "admite excepciones",
+    "lemma": "admitir excepciones",
+    "meaning": "allows exceptions",
+    "audio": "work/audio/es-MX/05/es-05-0558.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0559",
+    "sentence": "Decir que la fila causó molestias es cierto, pero no hace justicia a la experiencia de quienes perdieron un turno de trabajo por esperar.",
+    "cloze": "hace justicia",
+    "answer": "hace justicia",
+    "lemma": "hacer justicia",
+    "meaning": "does justice",
+    "audio": "work/audio/es-MX/05/es-05-0559.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0560",
+    "sentence": "Citar «me gustó» como una aprobación de todo el curso descontextualiza mi respuesta: me habían preguntado únicamente por la visita al museo.",
+    "cloze": "descontextualiza",
+    "answer": "descontextualiza",
+    "lemma": "descontextualizar",
+    "meaning": "takes out of context",
+    "audio": "work/audio/es-MX/05/es-05-0560.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0561",
+    "sentence": "Como dueña de las mesas, les doy permiso para llevárselas al patio, pero el uso del patio deben consultarlo con quien organiza la reunión.",
+    "cloze": "les doy permiso",
+    "answer": "les doy permiso",
+    "lemma": "dar permiso",
+    "meaning": "I give you permission",
+    "audio": "work/audio/es-MX/05/es-05-0561.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0562",
+    "sentence": "Puedo explicarle cómo distribuimos las tareas, pero no me compete cambiar el reparto que ustedes acordaron entre todos.",
+    "cloze": "me compete",
+    "answer": "me compete",
+    "lemma": "competer",
+    "meaning": "it falls within my authority",
+    "audio": "work/audio/es-MX/05/es-05-0562.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0563",
+    "sentence": "La entrega sigue siendo el viernes; si los apremio a terminar antes es porque quisiera revisar los textos con calma, no porque ustedes estén atrasados.",
+    "cloze": "los apremio",
+    "answer": "los apremio",
+    "lemma": "apremiar",
+    "meaning": "I press you",
+    "audio": "work/audio/es-MX/05/es-05-0563.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0564",
+    "sentence": "Ayer la coordinadora me relevó de recibir a los invitados para que yo atendiera el sonido; Luis quedó encargado de la entrada.",
+    "cloze": "me relevó",
+    "answer": "me relevó",
+    "lemma": "relevar",
+    "meaning": "she relieved me",
+    "audio": "work/audio/es-MX/05/es-05-0564.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0565",
+    "sentence": "Como los tres compartimos el estudio y ninguno manda sobre los demás, necesitamos consensuar los horarios antes de ofrecerle un espacio a otra persona.",
+    "cloze": "consensuar",
+    "answer": "consensuar",
+    "lemma": "consensuar",
+    "meaning": "to agree jointly on",
+    "audio": "work/audio/es-MX/05/es-05-0565.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0566",
+    "sentence": "Yo propuse añadir un cuadernillo, así que su impresión corre por mi cuenta; ustedes no necesitan modificar su aportación.",
+    "cloze": "corre por mi cuenta",
+    "answer": "corre por mi cuenta",
+    "lemma": "correr por cuenta de",
+    "meaning": "is my responsibility to pay for",
+    "audio": "work/audio/es-MX/05/es-05-0566.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0567",
+    "sentence": "Como nadie había preparado una lista de pendientes, me tomé la libertad de hacer un borrador para la reunión; ustedes pueden cambiarlo completo.",
+    "cloze": "me tomé la libertad",
+    "answer": "me tomé la libertad",
+    "lemma": "tomarse la libertad",
+    "meaning": "I took the liberty",
+    "audio": "work/audio/es-MX/05/es-05-0567.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0568",
+    "sentence": "Clara nos deja escoger las fotos de su exposición, pero se reserva la decisión de incluir retratos de su familia.",
+    "cloze": "se reserva",
+    "answer": "se reserva",
+    "lemma": "reservarse",
+    "meaning": "she retains for herself",
+    "audio": "work/audio/es-MX/05/es-05-0568.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0569",
+    "sentence": "Para que los invitados entren durante mi ausencia, es imprescindible que alguien tenga la llave; no importa quién, mientras ustedes acuerden quién abre.",
+    "cloze": "imprescindible",
+    "answer": "imprescindible",
+    "lemma": "imprescindible",
+    "meaning": "essential",
+    "audio": "work/audio/es-MX/05/es-05-0569.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0570",
+    "sentence": "Le pido que me dispense de asistir al ensayo de esta tarde; ya participé en la prueba de sonido y quisiera conservar mi turno en la presentación.",
+    "cloze": "me dispense",
+    "answer": "me dispense",
+    "lemma": "dispensar",
+    "meaning": "you excuse me",
+    "audio": "work/audio/es-MX/05/es-05-0570.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0571",
+    "sentence": "Aunque el grupo me dio derecho a votar como organizador, me abstengo de elegir al fotógrafo porque una de las candidatas es mi hermana.",
+    "cloze": "me abstengo",
+    "answer": "me abstengo",
+    "lemma": "abstenerse",
+    "meaning": "I abstain",
+    "audio": "work/audio/es-MX/05/es-05-0571.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0572",
+    "sentence": "Aceptamos organizar el encuentro juntos, así que atender las dudas nos incumbe a todos, incluso a quienes ya terminaron su parte del montaje.",
+    "cloze": "nos incumbe",
+    "answer": "nos incumbe",
+    "lemma": "incumbir",
+    "meaning": "is our responsibility",
+    "audio": "work/audio/es-MX/05/es-05-0572.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0573",
+    "sentence": "La coordinadora nos insta a probar el nuevo formato porque quiere recibir comentarios antes de la reunión, aunque dejó claro que participar es opcional.",
+    "cloze": "nos insta",
+    "answer": "nos insta",
+    "lemma": "instar",
+    "meaning": "she urges us",
+    "audio": "work/audio/es-MX/05/es-05-0573.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0574",
+    "sentence": "El grupo fijó la hora de cierre, pero nos dejó margen de maniobra para acortar las intervenciones o mover el descanso según avance la charla.",
+    "cloze": "margen de maniobra",
+    "answer": "margen de maniobra",
+    "lemma": "margen de maniobra",
+    "meaning": "room to maneuver",
+    "audio": "work/audio/es-MX/05/es-05-0574.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0575",
+    "sentence": "La dueña revocó el permiso de usar su bodega después de decidir que iba a ocuparla ella; las cajas que pensábamos llevar siguen aquí.",
+    "cloze": "revocó",
+    "answer": "revocó",
+    "lemma": "revocar",
+    "meaning": "she revoked",
+    "audio": "work/audio/es-MX/05/es-05-0575.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0576",
+    "sentence": "Marta me prestó sus bocinas para el ensayo; su silencio en el chat no significa que consienta su uso en la fiesta del vecino.",
+    "cloze": "consienta",
+    "answer": "consienta",
+    "lemma": "consentir",
+    "meaning": "she consents to",
+    "audio": "work/audio/es-MX/05/es-05-0576.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0577",
+    "sentence": "Al aceptar la coordinación, me comprometo a comunicar los cambios a todo el equipo; conseguir que cada persona esté de acuerdo ya no depende solo de mí.",
+    "cloze": "me comprometo",
+    "answer": "me comprometo",
+    "lemma": "comprometerse",
+    "meaning": "I commit myself",
+    "audio": "work/audio/es-MX/05/es-05-0577.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0578",
+    "sentence": "Puedo cubrir mi turno completo, pero me niego a aceptar también el de Raúl sin que antes hablemos del descanso que perdería.",
+    "cloze": "me niego",
+    "answer": "me niego",
+    "lemma": "negarse",
+    "meaning": "I refuse",
+    "audio": "work/audio/es-MX/05/es-05-0578.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0579",
+    "sentence": "Podemos sugerir cambios en la grabación, pero la narradora tiene la última palabra sobre el uso de su voz, como acordamos antes de empezar.",
+    "cloze": "tiene la última palabra",
+    "answer": "tiene la última palabra",
+    "lemma": "tener la última palabra",
+    "meaning": "has the final say",
+    "audio": "work/audio/es-MX/05/es-05-0579.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0580",
+    "sentence": "Para preparar mi parte de la reunión, me conformo con una lista de acuerdos; no les estoy pidiendo que transcriban toda la conversación.",
+    "cloze": "me conformo",
+    "answer": "me conformo",
+    "lemma": "conformarse",
+    "meaning": "I am satisfied",
+    "audio": "work/audio/es-MX/05/es-05-0580.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0581",
+    "sentence": "Ustedes añadieron subtítulos por iniciativa propia y se los agradezco; ese trabajo extra no estaba incluido en lo que les pedí.",
+    "cloze": "por iniciativa propia",
+    "answer": "por iniciativa propia",
+    "lemma": "por iniciativa propia",
+    "meaning": "on your own initiative",
+    "audio": "work/audio/es-MX/05/es-05-0581.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0582",
+    "sentence": "Como voy a compartir mi taller, condiciono el préstamo a que retiren sus materiales al terminar; necesito trabajar ahí a la mañana siguiente.",
+    "cloze": "condiciono",
+    "answer": "condiciono",
+    "lemma": "condicionar",
+    "meaning": "I make conditional",
+    "audio": "work/audio/es-MX/05/es-05-0582.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0583",
+    "sentence": "Le pedimos a Bruno que reuniera las propuestas, pero él se atribuyó la facultad de descartar algunas sin consultarnos; eso no formaba parte del encargo.",
+    "cloze": "se atribuyó",
+    "answer": "se atribuyó",
+    "lemma": "atribuirse",
+    "meaning": "he claimed for himself",
+    "audio": "work/audio/es-MX/05/es-05-0583.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0584",
+    "sentence": "El acuerdo que acepté me obliga todavía a entregar las ilustraciones; ya no me entusiasma el proyecto, pero no he hablado con ustedes de cambiar ese compromiso.",
+    "cloze": "me obliga",
+    "answer": "me obliga",
+    "lemma": "obligar",
+    "meaning": "it obliges me",
+    "audio": "work/audio/es-MX/05/es-05-0584.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0585",
+    "sentence": "El cambio de salón me complica el montaje, pero accedo a su petición porque entiendo que necesitan una entrada más amplia.",
+    "cloze": "accedo",
+    "answer": "accedo",
+    "lemma": "acceder",
+    "meaning": "I agree",
+    "audio": "work/audio/es-MX/05/es-05-0585.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0586",
+    "sentence": "Al escoger mi turno, antepongo la posibilidad de salir temprano a la de trabajar con mi equipo habitual; es una preferencia mía y no una condición para participar.",
+    "cloze": "antepongo",
+    "answer": "antepongo",
+    "lemma": "anteponer",
+    "meaning": "I give priority to",
+    "audio": "work/audio/es-MX/05/es-05-0586.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0587",
+    "sentence": "El encargado ratificó su autorización para usar el equipo cuando le recordamos que trabajaríamos sin él; nos confirmó que había entendido ese punto desde el principio.",
+    "cloze": "ratificó",
+    "answer": "ratificó",
+    "lemma": "ratificar",
+    "meaning": "he reaffirmed",
+    "audio": "work/audio/es-MX/05/es-05-0587.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0588",
+    "sentence": "Como moderadora, desaconsejo abrir otra ronda de preguntas cuando ya varias personas necesitan salir; el grupo puede decidir continuar, pero esa es mi recomendación.",
+    "cloze": "desaconsejo",
+    "answer": "desaconsejo",
+    "lemma": "desaconsejar",
+    "meaning": "I advise against",
+    "audio": "work/audio/es-MX/05/es-05-0588.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0589",
+    "sentence": "La encargada delegó en usted la decisión de cambiar una pieza defectuosa; puede resolver esos casos sin esperar a que ella vuelva.",
+    "cloze": "delegó",
+    "answer": "delegó",
+    "lemma": "delegar",
+    "meaning": "she delegated",
+    "audio": "work/audio/es-MX/05/es-05-0589.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0590",
+    "sentence": "Como responsable de juntar los comentarios, no exijo que ustedes coincidan conmigo; sí necesito que cada propuesta diga qué cambio plantea.",
+    "cloze": "exijo",
+    "answer": "exijo",
+    "lemma": "exigir",
+    "meaning": "I require",
+    "audio": "work/audio/es-MX/05/es-05-0590.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0591",
+    "sentence": "La fotógrafa incluyó impresiones en el encargo y dejó el formato a su elección: ustedes pueden pedir una foto grande o dos pequeñas por el mismo precio.",
+    "cloze": "a su elección",
+    "answer": "a su elección",
+    "lemma": "a elección de",
+    "meaning": "up to you to choose",
+    "audio": "work/audio/es-MX/05/es-05-0591.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0592",
+    "sentence": "Ustedes conocen el tema mejor que yo; como moderadora, dejo a su criterio cuándo pedir una pausa para aclarar dudas.",
+    "cloze": "a su criterio",
+    "answer": "a su criterio",
+    "lemma": "a criterio de",
+    "meaning": "to your judgment",
+    "audio": "work/audio/es-MX/05/es-05-0592.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0593",
+    "sentence": "Aunque encargue la revisión a otra persona, yo respondo ante ustedes por los errores de la versión que yo les entregue; fui yo quien aceptó el trabajo.",
+    "cloze": "respondo",
+    "answer": "respondo",
+    "lemma": "responder",
+    "meaning": "I am accountable",
+    "audio": "work/audio/es-MX/05/es-05-0593.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0594",
+    "sentence": "Según nuestro acuerdo, hoy elijo yo la película, pero renuncio a ese turno para que Ana nos muestre la que lleva semanas recomendando.",
+    "cloze": "renuncio",
+    "answer": "renuncio",
+    "lemma": "renunciar",
+    "meaning": "I give up",
+    "audio": "work/audio/es-MX/05/es-05-0594.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0595",
+    "sentence": "Acordamos repartir por igual el tiempo de presentación, así que no se vale quedarse con los minutos de quien pidió hablar al final.",
+    "cloze": "no se vale",
+    "answer": "no se vale",
+    "lemma": "no se vale",
+    "meaning": "it is not fair or acceptable",
+    "audio": "work/audio/es-MX/05/es-05-0595.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0596",
+    "sentence": "Aunque yo habría organizado la visita de otra manera, me atengo al recorrido que ustedes aprobaron; acepté acompañarlos con ese plan.",
+    "cloze": "me atengo",
+    "answer": "me atengo",
+    "lemma": "atenerse",
+    "meaning": "I abide by",
+    "audio": "work/audio/es-MX/05/es-05-0596.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0597",
+    "sentence": "La encargada nos impone ahora una revisión diaria que no mencionó cuando aceptamos el proyecto; necesitamos aclarar con ella si sustituye la entrega semanal.",
+    "cloze": "nos impone",
+    "answer": "nos impone",
+    "lemma": "imponer",
+    "meaning": "she imposes on us",
+    "audio": "work/audio/es-MX/05/es-05-0597.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0598",
+    "sentence": "Antes de ofrecerle su lugar a un compañero, recuerde que la organizadora le dijo que la invitación era intransferible; puede avisarle que usted no va a asistir.",
+    "cloze": "intransferible",
+    "answer": "intransferible",
+    "lemma": "intransferible",
+    "meaning": "nontransferable",
+    "audio": "work/audio/es-MX/05/es-05-0598.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0599",
+    "sentence": "Les prometí una revisión del texto y solo comenté la introducción; todavía les debo una respuesta sobre el resto, aunque ya les envié mis primeras notas.",
+    "cloze": "les debo",
+    "answer": "les debo",
+    "lemma": "deber",
+    "meaning": "I owe you",
+    "audio": "work/audio/es-MX/05/es-05-0599.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0600",
+    "sentence": "Usted me ayudó sin pedirme nada, y por eso me siento obligado a ofrecerle apoyo ahora; sé que no lo espera como pago del favor.",
+    "cloze": "me siento obligado",
+    "answer": "me siento obligado",
+    "lemma": "sentirse obligado",
+    "meaning": "I feel obligated",
+    "audio": "work/audio/es-MX/05/es-05-0600.mp3",
+    "accepted_answers": []
   }
 ]
