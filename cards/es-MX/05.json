@@ -1,0 +1,806 @@
+[
+  {
+    "id": "es-05-0001",
+    "sentence": "El correo de despedida llegó durante mi primer turno; la encargada había renunciado el viernes anterior, pero nadie me lo comentó al entregarme las llaves.",
+    "cloze": "había renunciado",
+    "answer": "había renunciado",
+    "lemma": "renunciar",
+    "meaning": "had resigned",
+    "audio": "work/audio/es-MX/05/es-05-0001.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0002",
+    "sentence": "Mientras los pasajeros buscaban otra salida de la terminal, el altavoz anunció que nuestro camión sí iba a salir; hasta entonces solo teníamos noticias de cancelaciones.",
+    "cloze": "buscaban",
+    "answer": "buscaban",
+    "lemma": "buscar",
+    "meaning": "were looking for",
+    "audio": "work/audio/es-MX/05/es-05-0002.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0003",
+    "sentence": "Yo intervine cuando la discusión pasó a los gritos; la confusión sobre el horario solo se aclaró después, al revisar el mensaje original.",
+    "cloze": "intervine",
+    "answer": "intervine",
+    "lemma": "intervenir",
+    "meaning": "I intervened",
+    "audio": "work/audio/es-MX/05/es-05-0003.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0004",
+    "sentence": "¿Elegimos la ruta por la lluvia? No: habíamos pactado ese recorrido en la reunión del jueves, cuando el pronóstico todavía anunciaba buen tiempo.",
+    "cloze": "habíamos pactado",
+    "answer": "habíamos pactado",
+    "lemma": "pactar",
+    "meaning": "we had agreed on",
+    "audio": "work/audio/es-MX/05/es-05-0004.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0005",
+    "sentence": "Al abrir el taller ya circulaban versiones sobre su cierre, pero la confirmación llegó durante el descanso y los instructores se enteraron junto con nosotros.",
+    "cloze": "circulaban",
+    "answer": "circulaban",
+    "lemma": "circular",
+    "meaning": "were circulating",
+    "audio": "work/audio/es-MX/05/es-05-0005.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0006",
+    "sentence": "La fila se desbordó hacia el patio antes de que supiéramos lo del retraso; desde la calle parecía que el registro avanzaba con normalidad.",
+    "cloze": "se desbordó",
+    "answer": "se desbordó",
+    "lemma": "desbordarse",
+    "meaning": "spilled over",
+    "audio": "work/audio/es-MX/05/es-05-0006.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0007",
+    "sentence": "Esperamos frente al poste hasta que una vecina nos explicó el cambio: habían retirado la parada la semana anterior y el camión ya pasaba por otra calle.",
+    "cloze": "habían retirado",
+    "answer": "habían retirado",
+    "lemma": "retirar",
+    "meaning": "they had removed",
+    "audio": "work/audio/es-MX/05/es-05-0007.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0008",
+    "sentence": "Acepté cubrir el turno porque desconocía el cambio de horario; la nueva lista estaba en la oficina y yo la vi hasta el día siguiente.",
+    "cloze": "desconocía",
+    "answer": "desconocía",
+    "lemma": "desconocer",
+    "meaning": "I was unaware of",
+    "audio": "work/audio/es-MX/05/es-05-0008.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0009",
+    "sentence": "Cada equipo llegó con una cifra distinta para el gasto. Durante la reunión aclaramos la diferencia al encontrar un recibo repetido; hasta entonces, ambas cuentas parecían correctas.",
+    "cloze": "aclaramos",
+    "answer": "aclaramos",
+    "lemma": "aclarar",
+    "meaning": "we cleared up",
+    "audio": "work/audio/es-MX/05/es-05-0009.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0010",
+    "sentence": "La familia relacionó mi pausa en los estudios con el nuevo trabajo, pero yo había pospuesto la inscripción antes de enterarme de la vacante.",
+    "cloze": "había pospuesto",
+    "answer": "había pospuesto",
+    "lemma": "posponer",
+    "meaning": "I had postponed",
+    "audio": "work/audio/es-MX/05/es-05-0010.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0011",
+    "sentence": "En recepción se acumulaban los mensajes mientras buscábamos la caja extraviada; solo al abrirlos supimos que el mensajero la tenía y había avisado desde temprano.",
+    "cloze": "se acumulaban",
+    "answer": "se acumulaban",
+    "lemma": "acumularse",
+    "meaning": "were piling up",
+    "audio": "work/audio/es-MX/05/es-05-0011.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0012",
+    "sentence": "Mi hermana y yo desembarcamos en la isla sin noticias sobre el viaje de regreso. El aviso de suspensión del último viaje llegó cuando ya caminábamos hacia el pueblo.",
+    "cloze": "desembarcamos",
+    "answer": "desembarcamos",
+    "lemma": "desembarcar",
+    "meaning": "we disembarked",
+    "audio": "work/audio/es-MX/05/es-05-0012.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0013",
+    "sentence": "La llave sí abría una puerta del edificio: en recepción habían confundido los números de los departamentos, algo que descubrimos al subir con la encargada.",
+    "cloze": "habían confundido",
+    "answer": "habían confundido",
+    "lemma": "confundir",
+    "meaning": "they had mixed up",
+    "audio": "work/audio/es-MX/05/es-05-0013.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0014",
+    "sentence": "Durante aquella mudanza dependíamos de una camioneta prestada y no teníamos otro plan; el dueño nos avisó de la avería cuando las cajas ya estaban en la banqueta.",
+    "cloze": "dependíamos",
+    "answer": "dependíamos",
+    "lemma": "depender",
+    "meaning": "we were depending",
+    "audio": "work/audio/es-MX/05/es-05-0014.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0015",
+    "sentence": "El pleito por las sillas estalló al terminar la función. Nadie había contado las piezas todavía; la supuesta pérdida resultó ser un préstamo al salón de al lado.",
+    "cloze": "estalló",
+    "answer": "estalló",
+    "lemma": "estallar",
+    "meaning": "broke out",
+    "audio": "work/audio/es-MX/05/es-05-0015.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0016",
+    "sentence": "Fuimos a pedirle a la directora un salón para el ensayo y ahí supimos que ya había cedido ese espacio a otro grupo desde el lunes.",
+    "cloze": "había cedido",
+    "answer": "había cedido",
+    "lemma": "ceder",
+    "meaning": "had allocated",
+    "audio": "work/audio/es-MX/05/es-05-0016.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0017",
+    "sentence": "Los voluntarios ignoraban la falta de pintura y preparaban toda la pared; la noticia les llegó con la camioneta, que solo traía brochas y cubetas vacías.",
+    "cloze": "ignoraban",
+    "answer": "ignoraban",
+    "lemma": "ignorar",
+    "meaning": "were unaware of",
+    "audio": "work/audio/es-MX/05/es-05-0017.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0018",
+    "sentence": "Las abreviaturas de la libreta no eran errores: desciframos las primeras al comparar dos entregas, y solo entonces entendimos cómo llevaba las cuentas el turno anterior.",
+    "cloze": "desciframos",
+    "answer": "desciframos",
+    "lemma": "descifrar",
+    "meaning": "we deciphered",
+    "audio": "work/audio/es-MX/05/es-05-0018.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0019",
+    "sentence": "La foto tomada antes del viaje mostró que la etiqueta se había desprendido del equipaje; yo noté que faltaba hasta llegar al mostrador de destino.",
+    "cloze": "se había desprendido",
+    "answer": "se había desprendido",
+    "lemma": "desprenderse",
+    "meaning": "had come off",
+    "audio": "work/audio/es-MX/05/es-05-0019.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0020",
+    "sentence": "El horario de nuestro grupo coincidía con el de limpieza de la alberca; durante semanas atribuimos la espera a la falta de personal, hasta que vimos el calendario.",
+    "cloze": "coincidía",
+    "answer": "coincidía",
+    "lemma": "coincidir",
+    "meaning": "overlapped",
+    "audio": "work/audio/es-MX/05/es-05-0020.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0021",
+    "sentence": "Mi hermano desistió de la mudanza al conocer los horarios del nuevo puesto; la oferta de trabajar desde casa llegó una semana después y no influyó en aquella decisión.",
+    "cloze": "desistió",
+    "answer": "desistió",
+    "lemma": "desistir",
+    "meaning": "gave up",
+    "audio": "work/audio/es-MX/05/es-05-0021.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0022",
+    "sentence": "El permiso seguía sin aparecer cuando fuimos a hablar con la organizadora. Nosotros ya habíamos agotado las opciones para conseguir otro local; ella nos mostró entonces la autorización que guardaba.",
+    "cloze": "habíamos agotado",
+    "answer": "habíamos agotado",
+    "lemma": "agotar",
+    "meaning": "we had exhausted",
+    "audio": "work/audio/es-MX/05/es-05-0022.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0023",
+    "sentence": "Las dudas sobre el dinero afloraban en las reuniones desde enero; en marzo encontramos la primera diferencia en las cuentas al reunir todos los recibos.",
+    "cloze": "afloraban",
+    "answer": "afloraban",
+    "lemma": "aflorar",
+    "meaning": "kept surfacing",
+    "audio": "work/audio/es-MX/05/es-05-0023.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0024",
+    "sentence": "La mochila reapareció debajo de un asiento durante la limpieza del camión. Para entonces ya nos habían dicho que no estaba ahí y buscábamos el teléfono de objetos perdidos.",
+    "cloze": "reapareció",
+    "answer": "reapareció",
+    "lemma": "reaparecer",
+    "meaning": "turned up again",
+    "audio": "work/audio/es-MX/05/es-05-0024.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0025",
+    "sentence": "Al llamar para preguntar por la entrega, descubrí que el vendedor había omitido el número interior en la guía; hasta esa llamada, yo atribuía la demora al tráfico.",
+    "cloze": "había omitido",
+    "answer": "había omitido",
+    "lemma": "omitir",
+    "meaning": "had left out",
+    "audio": "work/audio/es-MX/05/es-05-0025.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0026",
+    "sentence": "Mis hermanas y yo sosteníamos el taller con nuestras cuotas mientras esperábamos apoyo; la asociación ya había aprobado una aportación, pero el aviso no llegó hasta el cierre del mes.",
+    "cloze": "sosteníamos",
+    "answer": "sosteníamos",
+    "lemma": "sostener",
+    "meaning": "we were funding",
+    "audio": "work/audio/es-MX/05/es-05-0026.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0027",
+    "sentence": "El encargado despejó la duda al abrir la bodega y mostrar las mesas; durante el montaje habíamos trabajado con la idea de que no alcanzaban.",
+    "cloze": "despejó",
+    "answer": "despejó",
+    "lemma": "despejar",
+    "meaning": "dispelled",
+    "audio": "work/audio/es-MX/05/es-05-0027.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0028",
+    "sentence": "Todavía estábamos acomodando los puestos dentro del salón cuando nos avisaron que las familias se habían adelantado a la hora anunciada y esperaban en el patio.",
+    "cloze": "se habían adelantado",
+    "answer": "se habían adelantado",
+    "lemma": "adelantarse",
+    "meaning": "had arrived early",
+    "audio": "work/audio/es-MX/05/es-05-0028.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0029",
+    "sentence": "Durante la entrega del proyecto confiábamos en la copia compartida, porque nadie había reportado cambios; la comparación con el original reveló después que faltaban dos páginas.",
+    "cloze": "confiábamos",
+    "answer": "confiábamos",
+    "lemma": "confiar",
+    "meaning": "we trusted",
+    "audio": "work/audio/es-MX/05/es-05-0029.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0030",
+    "sentence": "El camión atravesó el pueblo sin detenerse y nosotros pensamos que la parada venía más adelante; supimos del nuevo recorrido cuando el chofer volvió a la carretera.",
+    "cloze": "atravesó",
+    "answer": "atravesó",
+    "lemma": "atravesar",
+    "meaning": "passed through",
+    "audio": "work/audio/es-MX/05/es-05-0030.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0031",
+    "sentence": "Yo guardé silencio mientras buscaban la solicitud; todavía no sabía que había traspapelado el original entre los folletos de la feria, donde apareció esa tarde.",
+    "cloze": "había traspapelado",
+    "answer": "había traspapelado",
+    "lemma": "traspapelar",
+    "meaning": "I had mislaid",
+    "audio": "work/audio/es-MX/05/es-05-0031.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0032",
+    "sentence": "Las dos cuadrillas se disputaban la camioneta al inicio de la jornada; nadie encontraba el calendario y el cruce de horarios solo se confirmó cuando llegó la coordinadora.",
+    "cloze": "se disputaban",
+    "answer": "se disputaban",
+    "lemma": "disputarse",
+    "meaning": "were competing for",
+    "audio": "work/audio/es-MX/05/es-05-0032.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0033",
+    "sentence": "Yo detecté la falta de firmas al recibir la carpeta, pero no conocí la razón hasta hablar con el turno anterior: el encargado había salido antes de la entrega.",
+    "cloze": "detecté",
+    "answer": "detecté",
+    "lemma": "detectar",
+    "meaning": "I detected",
+    "audio": "work/audio/es-MX/05/es-05-0033.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0034",
+    "sentence": "La noticia de la beca llegó después de nuestra reunión familiar; ya habíamos descartado la venta del coche porque todavía lo necesitábamos para llevar a mi abuela al mercado.",
+    "cloze": "habíamos descartado",
+    "answer": "habíamos descartado",
+    "lemma": "descartar",
+    "meaning": "we had ruled out",
+    "audio": "work/audio/es-MX/05/es-05-0034.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0035",
+    "sentence": "Mi prima vacilaba entre aceptar el empleo y terminar el curso cuando la llamaron de otra empresa; ella no sabía nada de esa segunda opción durante nuestra conversación de la mañana.",
+    "cloze": "vacilaba",
+    "answer": "vacilaba",
+    "lemma": "vacilar",
+    "meaning": "was wavering",
+    "audio": "work/audio/es-MX/05/es-05-0035.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0036",
+    "sentence": "El centro comunitario reanudó las clases esa tarde. Los alumnos entraron sin conocer el arreglo con el dueño, que la coordinadora explicó al final de la sesión.",
+    "cloze": "reanudó",
+    "answer": "reanudó",
+    "lemma": "reanudar",
+    "meaning": "resumed",
+    "audio": "work/audio/es-MX/05/es-05-0036.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0037",
+    "sentence": "Vimos pasar un camión sin poder subir y esperamos otro; la empresa había recortado el servicio desde el lunes, pero el letrero conservaba el horario anterior.",
+    "cloze": "había recortado",
+    "answer": "había recortado",
+    "lemma": "recortar",
+    "meaning": "had cut back",
+    "audio": "work/audio/es-MX/05/es-05-0037.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0038",
+    "sentence": "El librero ocultaba una mancha de humedad durante las visitas al departamento; la descubrimos al mover los muebles, después de acordar la fecha de la mudanza.",
+    "cloze": "ocultaba",
+    "answer": "ocultaba",
+    "lemma": "ocultar",
+    "meaning": "was hiding",
+    "audio": "work/audio/es-MX/05/es-05-0038.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0039",
+    "sentence": "No zanjamos el desacuerdo en la primera llamada: cada quien tenía una fecha distinta. El asunto quedó resuelto esa tarde, cuando abrimos juntos el mensaje de confirmación.",
+    "cloze": "zanjamos",
+    "answer": "zanjamos",
+    "lemma": "zanjar",
+    "meaning": "we settled",
+    "audio": "work/audio/es-MX/05/es-05-0039.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0040",
+    "sentence": "Al llegar al punto de reunión nos recibió una vecina, no el guía: la caminata se había suspendido por la lluvia de la madrugada y el aviso nunca llegó a nuestro grupo.",
+    "cloze": "se había suspendido",
+    "answer": "se había suspendido",
+    "lemma": "suspender",
+    "meaning": "had been called off",
+    "audio": "work/audio/es-MX/05/es-05-0040.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0041",
+    "sentence": "En las primeras prácticas necesitaba ayuda para cada paso; iba asimilando el método con cada ejercicio, aunque todavía me costaba explicar mis decisiones.",
+    "cloze": "iba asimilando",
+    "answer": "iba asimilando",
+    "lemma": "ir asimilando",
+    "meaning": "I was gradually absorbing",
+    "audio": "work/audio/es-MX/05/es-05-0041.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0042",
+    "sentence": "La campaña para recuperar el cine del barrio cobró impulso cuando los comerciantes ofrecieron espacio para las reuniones.",
+    "cloze": "cobró impulso",
+    "answer": "cobró impulso",
+    "lemma": "cobrar impulso",
+    "meaning": "gained momentum",
+    "audio": "work/audio/es-MX/05/es-05-0042.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0043",
+    "sentence": "Durante la edición del video, la descarga se interrumpía cada vez que entraba una llamada; por eso nunca teníamos el archivo completo.",
+    "cloze": "se interrumpía",
+    "answer": "se interrumpía",
+    "lemma": "interrumpirse",
+    "meaning": "kept being interrupted",
+    "audio": "work/audio/es-MX/05/es-05-0043.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0044",
+    "sentence": "El zumbido del ventilador persistió después del cambio de motor, así que la encargada pidió otra revisión.",
+    "cloze": "persistió",
+    "answer": "persistió",
+    "lemma": "persistir",
+    "meaning": "persisted",
+    "audio": "work/audio/es-MX/05/es-05-0044.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0045",
+    "sentence": "Copiar las demostraciones no me ayudaba a entender el programa. Acabé por abandonar ese ejercicio y empecé a resolver problemas propios.",
+    "cloze": "Acabé por abandonar",
+    "answer": "Acabé por abandonar",
+    "lemma": "acabar por abandonar",
+    "meaning": "I eventually gave up",
+    "audio": "work/audio/es-MX/05/es-05-0045.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0046",
+    "sentence": "¿Por qué repuntó la asistencia al taller? Las sesiones de prueba atrajeron a quienes ya no venían y también a gente nueva.",
+    "cloze": "repuntó",
+    "answer": "repuntó",
+    "lemma": "repuntar",
+    "meaning": "picked up again",
+    "audio": "work/audio/es-MX/05/es-05-0046.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0047",
+    "sentence": "La entrega falló por los errores que veníamos arrastrando desde las primeras pruebas, no por el cambio de computadora de esa mañana.",
+    "cloze": "veníamos arrastrando",
+    "answer": "veníamos arrastrando",
+    "lemma": "venir arrastrando",
+    "meaning": "we had been carrying over",
+    "audio": "work/audio/es-MX/05/es-05-0047.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0048",
+    "sentence": "Con los mismos ejercicios de siempre, mi aprendizaje se estancó: dedicaba más horas, pero ya no descubría nada.",
+    "cloze": "se estancó",
+    "answer": "se estancó",
+    "lemma": "estancarse",
+    "meaning": "stagnated",
+    "audio": "work/audio/es-MX/05/es-05-0048.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0049",
+    "sentence": "Justo a la mitad de la canción se cortó el sonido de las bocinas; el coro completó la estrofa sin acompañamiento.",
+    "cloze": "se cortó",
+    "answer": "se cortó",
+    "lemma": "cortarse",
+    "meaning": "cut out",
+    "audio": "work/audio/es-MX/05/es-05-0049.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0050",
+    "sentence": "Aunque ya no coordinaba las visitas al museo, Elena seguía aportando ideas en las reuniones de los viernes.",
+    "cloze": "seguía aportando",
+    "answer": "seguía aportando",
+    "lemma": "seguir aportando",
+    "meaning": "was still contributing",
+    "audio": "work/audio/es-MX/05/es-05-0050.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0051",
+    "sentence": "La desconfianza hacia el equipo nuevo fue cediendo con cada entrega puntual; al mes ya le encargaban las tareas más delicadas.",
+    "cloze": "fue cediendo",
+    "answer": "fue cediendo",
+    "lemma": "ir cediendo",
+    "meaning": "gradually subsided",
+    "audio": "work/audio/es-MX/05/es-05-0051.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0052",
+    "sentence": "Dimos por concluida la revisión del guion después de resolver la última duda; los cambios de vestuario se discutirían aparte.",
+    "cloze": "Dimos por concluida",
+    "answer": "Dimos por concluida",
+    "lemma": "dar por concluido",
+    "meaning": "we declared finished",
+    "audio": "work/audio/es-MX/05/es-05-0052.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0053",
+    "sentence": "La traducción del catálogo quedó trunca cuando la única persona encargada aceptó otro trabajo; faltaba toda la sección de fotografía.",
+    "cloze": "quedó trunca",
+    "answer": "quedó trunca",
+    "lemma": "quedar trunco",
+    "meaning": "was left unfinished",
+    "audio": "work/audio/es-MX/05/es-05-0053.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0054",
+    "sentence": "¿Todavía se reúnen a leer los vecinos? El club se reactivó con el préstamo de una sala, después de seis meses sin encuentros.",
+    "cloze": "se reactivó",
+    "answer": "se reactivó",
+    "lemma": "reactivarse",
+    "meaning": "became active again",
+    "audio": "work/audio/es-MX/05/es-05-0054.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0055",
+    "sentence": "El grupo de teatro estuvo a punto de incorporar a los músicos del barrio al montaje, pero los músicos salieron de gira y la colaboración no empezó.",
+    "cloze": "estuvo a punto de incorporar",
+    "answer": "estuvo a punto de incorporar",
+    "lemma": "estar a punto de incorporar",
+    "meaning": "was on the verge of bringing in",
+    "audio": "work/audio/es-MX/05/es-05-0055.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0056",
+    "sentence": "A mediados del curso, Julia llevaba acumuladas seis faltas; el cambio de turno en su trabajo le permitió regresar a las clases.",
+    "cloze": "llevaba acumuladas",
+    "answer": "llevaba acumuladas",
+    "lemma": "llevar acumulado",
+    "meaning": "had already accumulated",
+    "audio": "work/audio/es-MX/05/es-05-0056.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0057",
+    "sentence": "Me desentendí del boletín al salir del comité, pero mis compañeros todavía me buscaban para corregir cada número.",
+    "cloze": "Me desentendí",
+    "answer": "Me desentendí",
+    "lemma": "desentenderse",
+    "meaning": "I stopped taking responsibility",
+    "audio": "work/audio/es-MX/05/es-05-0057.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0058",
+    "sentence": "Mi confianza para hablar en público se afianzó el día que respondí las preguntas del grupo sin mirar mis notas.",
+    "cloze": "se afianzó",
+    "answer": "se afianzó",
+    "lemma": "afianzarse",
+    "meaning": "became more firmly established",
+    "audio": "work/audio/es-MX/05/es-05-0058.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0059",
+    "sentence": "La llamada del teatro dejó en suspenso nuestra discusión sobre las fechas; nadie quería decidir sin conocer la nueva propuesta.",
+    "cloze": "dejó en suspenso",
+    "answer": "dejó en suspenso",
+    "lemma": "dejar en suspenso",
+    "meaning": "put on hold",
+    "audio": "work/audio/es-MX/05/es-05-0059.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0060",
+    "sentence": "El préstamo de las herramientas era por una semana, pero la reparación se prolongaba porque cada ajuste revelaba otra pieza dañada.",
+    "cloze": "se prolongaba",
+    "answer": "se prolongaba",
+    "lemma": "prolongarse",
+    "meaning": "was dragging on",
+    "audio": "work/audio/es-MX/05/es-05-0060.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0061",
+    "sentence": "El nuevo reparto de tareas no acabó de asentarse durante el primer mes: varias personas todavía consultaban al antiguo encargado.",
+    "cloze": "acabó de asentarse",
+    "answer": "acabó de asentarse",
+    "lemma": "acabar de asentarse",
+    "meaning": "managed to become fully established",
+    "audio": "work/audio/es-MX/05/es-05-0061.mp3",
+    "accepted_answers": [
+      "se acabó de asentar"
+    ]
+  },
+  {
+    "id": "es-05-0062",
+    "sentence": "No teníamos todo resuelto al empezar el festival; íbamos sorteando los problemas conforme surgían, con ayuda de los demás grupos.",
+    "cloze": "íbamos sorteando",
+    "answer": "íbamos sorteando",
+    "lemma": "ir sorteando",
+    "meaning": "we were working through",
+    "audio": "work/audio/es-MX/05/es-05-0062.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0063",
+    "sentence": "El plan de montar la exposición en mayo se vino abajo con la venta del local; ya ni siquiera teníamos dónde guardar las obras.",
+    "cloze": "se vino abajo",
+    "answer": "se vino abajo",
+    "lemma": "venirse abajo",
+    "meaning": "fell apart",
+    "audio": "work/audio/es-MX/05/es-05-0063.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0064",
+    "sentence": "Después de atender al mensajero, retomé el hilo de la explicación con el dibujo que había dejado en el pizarrón.",
+    "cloze": "retomé el hilo",
+    "answer": "retomé el hilo",
+    "lemma": "retomar el hilo",
+    "meaning": "I picked up the thread",
+    "audio": "work/audio/es-MX/05/es-05-0064.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0065",
+    "sentence": "Ya casi nadie proponía lecturas y cada vez se conectaban menos personas: el entusiasmo del grupo se fue apagando durante los meses de reuniones por videollamada.",
+    "cloze": "se fue apagando",
+    "answer": "se fue apagando",
+    "lemma": "ir apagándose",
+    "meaning": "gradually faded",
+    "audio": "work/audio/es-MX/05/es-05-0065.mp3",
+    "accepted_answers": [
+      "fue apagándose"
+    ]
+  },
+  {
+    "id": "es-05-0066",
+    "sentence": "El taller de fotografía culminó con una exposición en el mercado, donde cada participante presentó la serie que había preparado durante el curso.",
+    "cloze": "culminó",
+    "answer": "culminó",
+    "lemma": "culminar",
+    "meaning": "culminated",
+    "audio": "work/audio/es-MX/05/es-05-0066.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0067",
+    "sentence": "La máquina de coser ya funcionaba, pero quedó pendiente el ajuste del pedal porque el resorte de repuesto no había llegado.",
+    "cloze": "quedó pendiente",
+    "answer": "quedó pendiente",
+    "lemma": "quedar pendiente",
+    "meaning": "remained outstanding",
+    "audio": "work/audio/es-MX/05/es-05-0067.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0068",
+    "sentence": "Con las sesiones de práctica abierta, el grupo dejó de depender del maestro para organizar los ensayos; ahora cualquiera podía dirigir el calentamiento.",
+    "cloze": "dejó de depender",
+    "answer": "dejó de depender",
+    "lemma": "dejar de depender",
+    "meaning": "stopped depending",
+    "audio": "work/audio/es-MX/05/es-05-0068.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0069",
+    "sentence": "El director se aferró durante semanas a la versión inicial del montaje, incluso después de comprobar que no cabía en el escenario.",
+    "cloze": "se aferró",
+    "answer": "se aferró",
+    "lemma": "aferrarse",
+    "meaning": "clung",
+    "audio": "work/audio/es-MX/05/es-05-0069.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0070",
+    "sentence": "La salida de nuestra compañera se precipitó tras el cambio de horario: pensaba quedarse hasta diciembre, pero se fue en agosto.",
+    "cloze": "se precipitó",
+    "answer": "se precipitó",
+    "lemma": "precipitarse",
+    "meaning": "was brought forward abruptly",
+    "audio": "work/audio/es-MX/05/es-05-0070.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0071",
+    "sentence": "Eché a andar el intercambio de libros con una sola mesa prestada; para la tercera reunión ya necesitábamos todo el patio.",
+    "cloze": "Eché a andar",
+    "answer": "Eché a andar",
+    "lemma": "echar a andar",
+    "meaning": "I set in motion",
+    "audio": "work/audio/es-MX/05/es-05-0071.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0072",
+    "sentence": "Al abrir el reloj, mi hermano se enfrascó en el ajuste de las piezas y dejó pasar la hora de la comida.",
+    "cloze": "se enfrascó",
+    "answer": "se enfrascó",
+    "lemma": "enfrascarse",
+    "meaning": "became engrossed",
+    "audio": "work/audio/es-MX/05/es-05-0072.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0073",
+    "sentence": "La posibilidad de presentar la obra ese verano se desvaneció con la segunda cancelación del teatro; decidimos guardar la escenografía.",
+    "cloze": "se desvaneció",
+    "answer": "se desvaneció",
+    "lemma": "desvanecerse",
+    "meaning": "vanished",
+    "audio": "work/audio/es-MX/05/es-05-0073.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0074",
+    "sentence": "Queríamos restaurar toda la mesa, pero acabamos dejando las marcas de uso porque eran parte de su historia.",
+    "cloze": "acabamos dejando",
+    "answer": "acabamos dejando",
+    "lemma": "acabar dejando",
+    "meaning": "we ended up leaving",
+    "audio": "work/audio/es-MX/05/es-05-0074.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0075",
+    "sentence": "Las reuniones del colectivo se espaciaron durante la temporada de exámenes: de dos por semana pasaron a una al mes.",
+    "cloze": "se espaciaron",
+    "answer": "se espaciaron",
+    "lemma": "espaciarse",
+    "meaning": "became less frequent",
+    "audio": "work/audio/es-MX/05/es-05-0075.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0076",
+    "sentence": "Lo que empezó como una conversación entre maestros cristalizó dos años después en un programa de tutorías con horario y salón propios.",
+    "cloze": "cristalizó",
+    "answer": "cristalizó",
+    "lemma": "cristalizar",
+    "meaning": "took concrete form",
+    "audio": "work/audio/es-MX/05/es-05-0076.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0077",
+    "sentence": "Tenemos los dibujos y la música, pero la escena sigue sin cuajar después de varios ensayos: todavía no se entiende por qué se va el personaje.",
+    "cloze": "sigue sin cuajar",
+    "answer": "sigue sin cuajar",
+    "lemma": "seguir sin cuajar",
+    "meaning": "still fails to come together",
+    "audio": "work/audio/es-MX/05/es-05-0077.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0078",
+    "sentence": "La disputa por el uso del salón se recrudeció cuando uno de los grupos cambió la cerradura sin avisar a los demás.",
+    "cloze": "se recrudeció",
+    "answer": "se recrudeció",
+    "lemma": "recrudecerse",
+    "meaning": "intensified",
+    "audio": "work/audio/es-MX/05/es-05-0078.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0079",
+    "sentence": "Con la apertura de una entrada lateral cesaron las interrupciones de la clase, pues los visitantes ya no tenían que cruzar frente al pizarrón.",
+    "cloze": "cesaron",
+    "answer": "cesaron",
+    "lemma": "cesar",
+    "meaning": "ceased",
+    "audio": "work/audio/es-MX/05/es-05-0079.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0080",
+    "sentence": "El proyecto del mural dio un giro cuando los niños eligieron las escenas: dejamos el tema histórico y pintamos la vida diaria del barrio.",
+    "cloze": "dio un giro",
+    "answer": "dio un giro",
+    "lemma": "dar un giro",
+    "meaning": "took a new direction",
+    "audio": "work/audio/es-MX/05/es-05-0080.mp3",
+    "accepted_answers": []
+  }
+]
