@@ -7598,5 +7598,335 @@
     "meaning": "is put in quotation marks",
     "audio": "work/audio/es-MX/05/es-05-0755.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-0756",
+    "sentence": "El plano, redibujado por Lucía a petición de Mateo, conserva la distribución original; Mateo pidió los cambios, pero Lucía decidió cómo representarlos.",
+    "cloze": "redibujado",
+    "answer": "redibujado",
+    "lemma": "redibujar",
+    "meaning": "redrawn",
+    "audio": "work/audio/es-MX/05/es-05-0756.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0757",
+    "sentence": "La renuncia de Elsa a la coordinación fue decisión suya; el equipo le había pedido que continuara y ahora tendrá que buscar a otra persona.",
+    "cloze": "renuncia",
+    "answer": "renuncia",
+    "lemma": "renuncia",
+    "meaning": "resignation",
+    "audio": "work/audio/es-MX/05/es-05-0757.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0758",
+    "sentence": "Agradezco que confíen en mí, pero el haberme ofrecido yo a cubrir una ausencia no me obliga a aceptar todos los turnos libres.",
+    "cloze": "haberme ofrecido",
+    "answer": "haberme ofrecido",
+    "lemma": "ofrecerse",
+    "meaning": "to have volunteered",
+    "audio": "work/audio/es-MX/05/es-05-0758.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0759",
+    "sentence": "Las propuestas descartadas por el jurado también necesitan una respuesta: sus autoras siguen en el proyecto y merecen entender el criterio.",
+    "cloze": "descartadas",
+    "answer": "descartadas",
+    "lemma": "descartar",
+    "meaning": "rejected",
+    "audio": "work/audio/es-MX/05/es-05-0759.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0760",
+    "sentence": "Propongo un intercambio de servicios entre nuestros talleres: nosotros fotografiamos sus productos y ustedes reparan nuestros muebles, con fechas que acordemos entre todos.",
+    "cloze": "intercambio",
+    "answer": "intercambio",
+    "lemma": "intercambio",
+    "meaning": "exchange",
+    "audio": "work/audio/es-MX/05/es-05-0760.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0761",
+    "sentence": "Al discrepar Irene del reparto de tareas, yo entendí que necesitábamos discutirlo; ella estaba cuestionando mi propuesta, no negándose a colaborar.",
+    "cloze": "discrepar",
+    "answer": "discrepar",
+    "lemma": "discrepar",
+    "meaning": "to disagree",
+    "audio": "work/audio/es-MX/05/es-05-0761.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0762",
+    "sentence": "Tu cuento se lee con facilidad; sé que la reescritura te tomó meses y quiero reconocer ese trabajo antes de comentar el resultado.",
+    "cloze": "reescritura",
+    "answer": "reescritura",
+    "lemma": "reescritura",
+    "meaning": "rewriting",
+    "audio": "work/audio/es-MX/05/es-05-0762.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0763",
+    "sentence": "Aunque avalada por la directora, la propuesta sigue abierta a cambios; ella misma pidió al equipo que señalara sus puntos débiles.",
+    "cloze": "avalada",
+    "answer": "avalada",
+    "lemma": "avalar",
+    "meaning": "endorsed",
+    "audio": "work/audio/es-MX/05/es-05-0763.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0764",
+    "sentence": "Tú y yo quedamos en alternar los cierres; prefiero mantener lo convenido entre nosotros hasta que ambos aceptemos otro reparto.",
+    "cloze": "lo convenido",
+    "answer": "lo convenido",
+    "lemma": "lo convenido",
+    "meaning": "what was agreed",
+    "audio": "work/audio/es-MX/05/es-05-0764.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0765",
+    "sentence": "Me preocupa la evaluación de los tutores por parte de sus alumnos: quiero que los alumnos puedan opinar sin temor a molestar a quien les da clase.",
+    "cloze": "evaluación",
+    "answer": "evaluación",
+    "lemma": "evaluación",
+    "meaning": "evaluation",
+    "audio": "work/audio/es-MX/05/es-05-0765.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0766",
+    "sentence": "Tu invitación a integrarme al equipo me interesa, pero antes necesito saber qué esperas de mí y cuánto tiempo tendría que dedicarle.",
+    "cloze": "integrarme",
+    "answer": "integrarme",
+    "lemma": "integrarse",
+    "meaning": "to join",
+    "audio": "work/audio/es-MX/05/es-05-0766.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0767",
+    "sentence": "El ir y venir de los montadores por el escenario distraía al público; decidimos que el equipo terminara de acomodar todo antes de abrir la sala.",
+    "cloze": "ir y venir",
+    "answer": "ir y venir",
+    "lemma": "ir y venir",
+    "meaning": "coming and going",
+    "audio": "work/audio/es-MX/05/es-05-0767.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0768",
+    "sentence": "El cambio de horario dejó tareas por redistribuir entre ustedes; no basta con conservar los nombres del reparto anterior.",
+    "cloze": "redistribuir",
+    "answer": "redistribuir",
+    "lemma": "redistribuir",
+    "meaning": "to redistribute",
+    "audio": "work/audio/es-MX/05/es-05-0768.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0769",
+    "sentence": "Tu desacuerdo con Ana sobre la sede quedó registrado, pero el resumen no dice en qué punto difieren; añadamos que ella prioriza la cercanía y tú necesitas un lugar más grande.",
+    "cloze": "desacuerdo",
+    "answer": "desacuerdo",
+    "lemma": "desacuerdo",
+    "meaning": "disagreement",
+    "audio": "work/audio/es-MX/05/es-05-0769.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0770",
+    "sentence": "Leído por ustedes sin las preguntas de la entrevistadora, el testimonio de Julia parece contradictorio; conservo esas preguntas para que se entienda a qué responde.",
+    "cloze": "Leído",
+    "answer": "Leído",
+    "lemma": "leer",
+    "meaning": "read",
+    "audio": "work/audio/es-MX/05/es-05-0770.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0771",
+    "sentence": "La omisión de tu nombre fue un error mío, pero no la de tu cargo: tú me pediste que no lo mencionara.",
+    "cloze": "omisión",
+    "answer": "omisión",
+    "lemma": "omisión",
+    "meaning": "omission",
+    "audio": "work/audio/es-MX/05/es-05-0771.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0772",
+    "sentence": "Las vecinas pidieron ser escuchadas por la coordinadora antes de que ella eligiera el nuevo horario; yo solo transmití su petición.",
+    "cloze": "ser escuchadas",
+    "answer": "ser escuchadas",
+    "lemma": "escuchar",
+    "meaning": "to be heard",
+    "audio": "work/audio/es-MX/05/es-05-0772.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0773",
+    "sentence": "Hagamos una puesta en común de nuestras dudas antes de pedir otra explicación; quizá cada quien entendió una parte distinta y podemos ayudarnos.",
+    "cloze": "puesta en común",
+    "answer": "puesta en común",
+    "lemma": "puesta en común",
+    "meaning": "pooling and sharing",
+    "audio": "work/audio/es-MX/05/es-05-0773.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0774",
+    "sentence": "Me atribuyes un incumplimiento de nuestro acuerdo sobre el ruido, pero anoche yo no estaba y la música venía del otro departamento.",
+    "cloze": "incumplimiento",
+    "answer": "incumplimiento",
+    "lemma": "incumplimiento",
+    "meaning": "failure to honor",
+    "audio": "work/audio/es-MX/05/es-05-0774.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0775",
+    "sentence": "¿Deshacer nosotros todo el montaje por una diferencia de color? Prefiero que primero le preguntemos a la escenógrafa si afecta lo que quiere mostrar.",
+    "cloze": "Deshacer",
+    "answer": "Deshacer",
+    "lemma": "deshacer",
+    "meaning": "to dismantle",
+    "audio": "work/audio/es-MX/05/es-05-0775.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0776",
+    "sentence": "En mi revisión separé lo aprovechable de tu borrador de las partes que necesitan otro enfoque; quiero ayudarte a avanzar sin pedirte que empieces de cero.",
+    "cloze": "lo aprovechable",
+    "answer": "lo aprovechable",
+    "lemma": "lo aprovechable",
+    "meaning": "what can be used",
+    "audio": "work/audio/es-MX/05/es-05-0776.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0777",
+    "sentence": "Me molestaron tus interrupciones durante mi explicación, sobre todo la segunda, porque todavía no había respondido a tu primera pregunta.",
+    "cloze": "interrupciones",
+    "answer": "interrupciones",
+    "lemma": "interrupción",
+    "meaning": "interruptions",
+    "audio": "work/audio/es-MX/05/es-05-0777.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0778",
+    "sentence": "Habiéndose retirado la instructora anterior, nosotros retomamos el taller con otra persona sin pedir a los participantes que empezaran nuevos cuentos.",
+    "cloze": "Habiéndose retirado",
+    "answer": "Habiéndose retirado",
+    "lemma": "retirarse",
+    "meaning": "having stepped down",
+    "audio": "work/audio/es-MX/05/es-05-0778.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0779",
+    "sentence": "Faltando todavía la respuesta de Laura, no podemos presentar el cambio como un acuerdo de todo el equipo; ella también tiene que decidir.",
+    "cloze": "Faltando",
+    "answer": "Faltando",
+    "lemma": "faltar",
+    "meaning": "being outstanding",
+    "audio": "work/audio/es-MX/05/es-05-0779.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0780",
+    "sentence": "Gracias por tu insistencia en que nosotros probáramos la ruta a pie; tú no pudiste venir, pero durante la prueba descubrimos que la entrada del mapa estaba cerrada.",
+    "cloze": "insistencia",
+    "answer": "insistencia",
+    "lemma": "insistencia",
+    "meaning": "insistence",
+    "audio": "work/audio/es-MX/05/es-05-0780.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0781",
+    "sentence": "La espera de los vecinos se alargó porque yo no avisé que la reunión empezaría tarde; ellos llegaron a la hora que les di.",
+    "cloze": "espera",
+    "answer": "espera",
+    "lemma": "espera",
+    "meaning": "wait",
+    "audio": "work/audio/es-MX/05/es-05-0781.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0782",
+    "sentence": "El relevo de Patricia por Hugo en la coordinación no cancela los pendientes del equipo; Patricia y Hugo necesitan hablar de lo que falta.",
+    "cloze": "relevo",
+    "answer": "relevo",
+    "lemma": "relevo",
+    "meaning": "replacement",
+    "audio": "work/audio/es-MX/05/es-05-0782.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0783",
+    "sentence": "Me preocupa más el qué dirán de mis compañeros que la dificultad del cambio; quiero reconocer ese temor antes de decidir si acepto el puesto.",
+    "cloze": "el qué dirán",
+    "answer": "el qué dirán",
+    "lemma": "el qué dirán",
+    "meaning": "what others will say",
+    "audio": "work/audio/es-MX/05/es-05-0783.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0784",
+    "sentence": "Agradezco tu lectura del final como una reconciliación, aunque yo quise dejar el conflicto abierto; me sirve saber qué impresión produjo mi texto.",
+    "cloze": "lectura",
+    "answer": "lectura",
+    "lemma": "lectura",
+    "meaning": "interpretation",
+    "audio": "work/audio/es-MX/05/es-05-0784.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0785",
+    "sentence": "Tus fotos muestran el antes y el después de nuestra intervención en el jardín; agreguemos qué hicimos los vecinos para que también se entienda el trabajo.",
+    "cloze": "el antes y el después",
+    "answer": "el antes y el después",
+    "lemma": "el antes y el después",
+    "meaning": "the before and after",
+    "audio": "work/audio/es-MX/05/es-05-0785.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0786",
+    "sentence": "Conservo tu rectificación junto al mensaje inicial para que las personas a quienes yo se lo reenvié sepan que cambiaste la fecha.",
+    "cloze": "rectificación",
+    "answer": "rectificación",
+    "lemma": "rectificación",
+    "meaning": "correction",
+    "audio": "work/audio/es-MX/05/es-05-0786.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0787",
+    "sentence": "Salvando las distancias, nuestro taller y la tienda de ustedes tienen el mismo problema: una sola persona recibe todos los pedidos, aunque ustedes atienden a muchos más clientes.",
+    "cloze": "Salvando las distancias",
+    "answer": "Salvando las distancias",
+    "lemma": "salvar las distancias",
+    "meaning": "allowing for the differences",
+    "audio": "work/audio/es-MX/05/es-05-0787.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0788",
+    "sentence": "Me preocupa el desgaste de Rosa por atender sola todas las quejas; propongo que nosotros compartamos esa carga antes de pedirle más paciencia.",
+    "cloze": "desgaste",
+    "answer": "desgaste",
+    "lemma": "desgaste",
+    "meaning": "strain",
+    "audio": "work/audio/es-MX/05/es-05-0788.mp3",
+    "accepted_answers": []
   }
 ]
