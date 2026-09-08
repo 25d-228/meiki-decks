@@ -12840,5 +12840,405 @@
     "meaning": "would reconsider",
     "audio": "work/audio/es-MX/05/es-05-1279.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1280",
+    "sentence": "Hoy revoco mi autorización para publicar la entrevista sin otra revisión: en la prueba que acabo de escuchar faltan dos respuestas completas, y conservarlas era una condición del permiso.",
+    "cloze": "revoco",
+    "answer": "revoco",
+    "lemma": "revocar",
+    "meaning": "I revoke",
+    "audio": "work/audio/es-MX/05/es-05-1280.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1281",
+    "sentence": "Ustedes probaron el manual con lectores nuevos y habituales; los primeros necesitaron ayuda en cada ejercicio. Mi recomendación inicial era para todos, pero ahora la restringiría a quienes ya conocen el tema.",
+    "cloze": "restringiría",
+    "answer": "restringiría",
+    "lemma": "restringir",
+    "meaning": "I would restrict",
+    "audio": "work/audio/es-MX/05/es-05-1281.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1282",
+    "sentence": "El registro recuperado muestra que varios paquetes salieron a tiempo, aunque llegaron tarde. Con ese dato rebajo mi confianza en la explicación que había propuesto, centrada en las salidas; seguiría revisando esa etapa primero porque tenemos sus registros completos, no porque siga considerándola la causa más probable.",
+    "cloze": "rebajo",
+    "answer": "rebajo",
+    "lemma": "rebajar",
+    "meaning": "I lower",
+    "audio": "work/audio/es-MX/05/es-05-1282.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1283",
+    "sentence": "Las pantallas tenían ajustes distintos y eso vuelve inválida la comparación en que basé mi preferencia por la grande. Por ahora suspendo ese juicio; de ahí no se sigue que la pequeña sea mejor.",
+    "cloze": "suspendo",
+    "answer": "suspendo",
+    "lemma": "suspender",
+    "meaning": "I suspend",
+    "audio": "work/audio/es-MX/05/es-05-1283.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1284",
+    "sentence": "El plano corregido muestra que la sala que descarté sí tiene entrada desde el patio; la falta de ese acceso era mi único motivo para excluirla. La reincorporo a las opciones, sin darle todavía mi voto: faltan las pruebas de sonido de todas las salas.",
+    "cloze": "reincorporo",
+    "answer": "reincorporo",
+    "lemma": "reincorporar",
+    "meaning": "I reinstate",
+    "audio": "work/audio/es-MX/05/es-05-1284.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1285",
+    "sentence": "La prueba completa mostró que el formulario largo, aun con más preguntas, requiere menos tiempo total: el breve se llena antes, pero sus aclaraciones toman mucho más. Con ese resultado invierto el orden de mis preferencias; había puesto primero el breve contando solo el llenado.",
+    "cloze": "invierto",
+    "answer": "invierto",
+    "lemma": "invertir",
+    "meaning": "I reverse",
+    "audio": "work/audio/es-MX/05/es-05-1285.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1286",
+    "sentence": "El promedio me llevó a decir que la atención había mejorado en todos los trámites; los tiempos que acaban de entregarnos muestran menos espera para inscribirse y más para corregir datos. Ahora desgloso mi evaluación por trámite.",
+    "cloze": "desgloso",
+    "answer": "desgloso",
+    "lemma": "desglosar",
+    "meaning": "I break down",
+    "audio": "work/audio/es-MX/05/es-05-1286.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1287",
+    "sentence": "—¿Sigues pensando que las escenas lentas arruinan la obra? —Después de verla completa, modero esa crítica: en el avance parecían dominarla, pero en la función ocupan poco espacio y preparan el cambio de ritmo.",
+    "cloze": "modero",
+    "answer": "modero",
+    "lemma": "moderar",
+    "meaning": "I moderate",
+    "audio": "work/audio/es-MX/05/es-05-1287.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1288",
+    "sentence": "La guía que elegí ganó por incluir más temas; al usarla, nadie encontró dónde empezar. Ese resultado me obliga a cambiar la pregunta: replanteo la elección en términos de facilidad de consulta, no de cantidad de contenido.",
+    "cloze": "replanteo",
+    "answer": "replanteo",
+    "lemma": "replantear",
+    "meaning": "I reframe",
+    "audio": "work/audio/es-MX/05/es-05-1288.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1289",
+    "sentence": "El mensaje recuperado muestra que aprobamos la omisión junto con la editora; ya no puedo atribuirle toda la decisión. Reconozco nuestra corresponsabilidad, pero no un reparto por partes iguales: el mensaje acredita la aprobación conjunta, no cuánto intervino cada quien en la elección.",
+    "cloze": "corresponsabilidad",
+    "answer": "corresponsabilidad",
+    "lemma": "corresponsabilidad",
+    "meaning": "shared responsibility",
+    "audio": "work/audio/es-MX/05/es-05-1289.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1290",
+    "sentence": "Defendí que todos usáramos el sistema nuevo desde el primer día. Viendo la fila de consultas que produjo la prueba, escalonaría la incorporación de los grupos, con apoyo suficiente para cada uno.",
+    "cloze": "escalonaría",
+    "answer": "escalonaría",
+    "lemma": "escalonar",
+    "meaning": "I would stagger",
+    "audio": "work/audio/es-MX/05/es-05-1290.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1291",
+    "sentence": "Para la siguiente muestra flexibilizo el requisito de entregar una maqueta: también aceptaré una secuencia de dibujos. La demostración que acabamos de ver permitió entender el movimiento con ambos recursos, aunque yo había exigido solo el primero.",
+    "cloze": "flexibilizo",
+    "answer": "flexibilizo",
+    "lemma": "flexibilizar",
+    "meaning": "I relax",
+    "audio": "work/audio/es-MX/05/es-05-1291.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1292",
+    "sentence": "Las imágenes se veían nítidas en pantalla y por eso propuse aprobarlas así; las primeras copias salieron ilegibles. Con ese resultado endurezco el criterio de aceptación: hará falta comprobar también una impresión.",
+    "cloze": "endurezco",
+    "answer": "endurezco",
+    "lemma": "endurecer",
+    "meaning": "I tighten",
+    "audio": "work/audio/es-MX/05/es-05-1292.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1293",
+    "sentence": "Yo había dejado la clasificación de las preguntas para el final, pero los facilitadores acaban de explicar que necesitan esa lista para preparar sus actividades; propongo que la prioricemos frente al diseño del cartel.",
+    "cloze": "prioricemos",
+    "answer": "prioricemos",
+    "lemma": "priorizar",
+    "meaning": "we prioritize",
+    "audio": "work/audio/es-MX/05/es-05-1293.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1294",
+    "sentence": "Me opuse a abrir un espacio de lectura silenciosa; la sesión que acaban de organizar sí atrajo a varias personas. Acepto mantenerlo a prueba durante tres reuniones, sin dar todavía por hecho que tendrá asistencia regular.",
+    "cloze": "a prueba",
+    "answer": "a prueba",
+    "lemma": "a prueba",
+    "meaning": "on a trial basis",
+    "audio": "work/audio/es-MX/05/es-05-1294.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1295",
+    "sentence": "Cada grupo necesita una mañana de trabajo y su propio salón; por eso propuse atender a los dos simultáneamente. Acaban de confirmar un solo salón: mi previsión de terminar en una mañana resulta insostenible y tendré que proponer otro horario.",
+    "cloze": "insostenible",
+    "answer": "insostenible",
+    "lemma": "insostenible",
+    "meaning": "untenable",
+    "audio": "work/audio/es-MX/05/es-05-1295.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1296",
+    "sentence": "—La grabación que propusiste sirve para repasar, pero al probarla nos quedamos con dudas que nadie podía responder. —Entonces complementaría la sesión presencial con ella; ya no propongo reemplazar el encuentro.",
+    "cloze": "complementaría",
+    "answer": "complementaría",
+    "lemma": "complementar",
+    "meaning": "I would supplement",
+    "audio": "work/audio/es-MX/05/es-05-1296.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1297",
+    "sentence": "En la prueba de inscripción, las personas entendieron las instrucciones y se detuvieron porque el botón quedaba fuera de la pantalla. Yo había propuesto ampliar el texto; sugiero que reorientemos el trabajo hacia la ubicación del botón.",
+    "cloze": "reorientemos",
+    "answer": "reorientemos",
+    "lemma": "reorientar",
+    "meaning": "we redirect",
+    "audio": "work/audio/es-MX/05/es-05-1297.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1298",
+    "sentence": "Pensé que concentrar las consultas en mí evitaría contradicciones; el registro muestra que la mayoría son preguntas con respuestas ya acordadas que cada responsable conoce. Ahora propongo descentralizar esas consultas; las que todavía admiten respuestas distintas seguirían pasando por una revisión común.",
+    "cloze": "descentralizar",
+    "answer": "descentralizar",
+    "lemma": "descentralizar",
+    "meaning": "decentralize",
+    "audio": "work/audio/es-MX/05/es-05-1298.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1299",
+    "sentence": "Ante las mesas vacías en dibujo y la gente que vimos esperando lugar en encuadernación, redistribuiría las mesas disponibles sin aumentar su número; el reparto igual que propuse no responde a esa demanda.",
+    "cloze": "redistribuiría",
+    "answer": "redistribuiría",
+    "lemma": "redistribuir",
+    "meaning": "I would redistribute",
+    "audio": "work/audio/es-MX/05/es-05-1299.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1300",
+    "sentence": "Creí que dos boletines nos daban suficiente difusión, pero al comparar sus listas encontré casi los mismos destinatarios; para llegar a otras personas, mi propuesta pasa de enviar más mensajes a diversificar los canales.",
+    "cloze": "diversificar",
+    "answer": "diversificar",
+    "lemma": "diversificar",
+    "meaning": "diversify",
+    "audio": "work/audio/es-MX/05/es-05-1300.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1301",
+    "sentence": "Aunque fui yo quien pidió las dos hojas, propongo que prescindamos de la segunda captura: al comparar los registros, vimos que repite todos los datos de la primera y nadie la consulta.",
+    "cloze": "prescindamos",
+    "answer": "prescindamos",
+    "lemma": "prescindir de",
+    "meaning": "we dispense with",
+    "audio": "work/audio/es-MX/05/es-05-1301.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1302",
+    "sentence": "El arreglo de las mesas que yo consideraba definitivo solo sirve como solución transitoria, durante el montaje: al abrir los materiales de trabajo en la prueba, volvió la estrechez que creíamos resuelta.",
+    "cloze": "transitoria",
+    "answer": "transitoria",
+    "lemma": "transitorio",
+    "meaning": "temporary",
+    "audio": "work/audio/es-MX/05/es-05-1302.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1303",
+    "sentence": "Llamé definitiva a la prueba del taller; acabo de enterarme de que el facilitador cambió las instrucciones a mitad de cada actividad. Ahora le atribuyo un valor exploratorio: permite buscar ajustes, pero no confirma el funcionamiento de una versión estable.",
+    "cloze": "exploratorio",
+    "answer": "exploratorio",
+    "lemma": "exploratorio",
+    "meaning": "exploratory",
+    "audio": "work/audio/es-MX/05/es-05-1303.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1304",
+    "sentence": "Apoyé el uso del salón para todo el ciclo porque cada sesión ocuparía una hora. La segunda duró dos; propongo ahora un permiso por sesión, renovable solo después de revisar si las actividades de la siguiente caben en el tiempo disponible.",
+    "cloze": "renovable",
+    "answer": "renovable",
+    "lemma": "renovable",
+    "meaning": "renewable",
+    "audio": "work/audio/es-MX/05/es-05-1304.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1305",
+    "sentence": "Con los tiempos completos reajusto mi estimación, de diez minutos de ahorro a dos; esa corrección no cambia mi recomendación de usar el formato nuevo, porque lo elegí para evitar omisiones y la prueba también confirmó esa mejora.",
+    "cloze": "reajusto",
+    "answer": "reajusto",
+    "lemma": "reajustar",
+    "meaning": "I readjust",
+    "audio": "work/audio/es-MX/05/es-05-1305.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1306",
+    "sentence": "La facilidad para reunir seguidores decidió mi primera elección del tallerista; después de observar su clase y la de la otra candidata, resto peso a ese criterio, porque no coincidió con una explicación más clara.",
+    "cloze": "resto peso",
+    "answer": "resto peso",
+    "lemma": "restar peso",
+    "meaning": "I give less weight",
+    "audio": "work/audio/es-MX/05/es-05-1306.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1307",
+    "sentence": "Con las nuevas respuestas retiro mi afirmación de que todos en el grupo prefieren reuniones largas: varias personas piden sesiones breves. Puedo hablar de mi propia preferencia, pero ya no presentarla como un acuerdo de todos.",
+    "cloze": "retiro",
+    "answer": "retiro",
+    "lemma": "retirar",
+    "meaning": "I withdraw",
+    "audio": "work/audio/es-MX/05/es-05-1307.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1308",
+    "sentence": "Mantengo mi crítica a la omisión del nombre, pero ya no le atribuyo intencionalidad: al reproducir el envío, vimos que el nombre desaparece cuando el sistema corta el renglón; antes creí que lo habían borrado a propósito.",
+    "cloze": "intencionalidad",
+    "answer": "intencionalidad",
+    "lemma": "intencionalidad",
+    "meaning": "intentionality",
+    "audio": "work/audio/es-MX/05/es-05-1308.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1309",
+    "sentence": "La lectura del final que propuse era tentativa porque no sabía si la carta llegaba a su destinataria; la escena que revisamos muestra que ella la lee en voz alta y luego la rompe. Con ese detalle afianzo mi interpretación de su respuesta como un rechazo consciente.",
+    "cloze": "afianzo",
+    "answer": "afianzo",
+    "lemma": "afianzar",
+    "meaning": "I strengthen",
+    "audio": "work/audio/es-MX/05/es-05-1309.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1310",
+    "sentence": "De mi crítica a los ejercicios exceptúo ahora el de clasificación: el grupo acaba de completarlo por su cuenta, aunque en los otros todavía pidió ayuda; yo había dicho que ninguno permitía trabajar sin apoyo.",
+    "cloze": "exceptúo",
+    "answer": "exceptúo",
+    "lemma": "exceptuar",
+    "meaning": "I exclude",
+    "audio": "work/audio/es-MX/05/es-05-1310.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1311",
+    "sentence": "Este mensaje es una retractación de mi recomendación de reservar la sala el viernes: hoy confirmaron que estará ocupada. Lo envío a los mismos equipos que recibieron mi consejo, antes de que organicen sus actividades; quitar la recomendación de mis notas no corregiría lo que ya les dije.",
+    "cloze": "retractación",
+    "answer": "retractación",
+    "lemma": "retractación",
+    "meaning": "retraction",
+    "audio": "work/audio/es-MX/05/es-05-1311.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1312",
+    "sentence": "Ya no considero insustituible al moderador para repartir la palabra: el ensayo que acabamos de hacer funcionó con turnos elegidos por el propio grupo. Yo había afirmado que sin él no podían organizarse; su ayuda puede ser útil, pero no es la única opción.",
+    "cloze": "insustituible",
+    "answer": "insustituible",
+    "lemma": "insustituible",
+    "meaning": "irreplaceable",
+    "audio": "work/audio/es-MX/05/es-05-1312.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1313",
+    "sentence": "Yo aseguraba que la lista evitaría cualquier olvido; acabamos de entregar una caja incompleta aun después de marcar todas las casillas. Ya no sostengo que la lista garantice una entrega completa, aunque sirve como recordatorio.",
+    "cloze": "garantice",
+    "answer": "garantice",
+    "lemma": "garantizar",
+    "meaning": "guarantees",
+    "audio": "work/audio/es-MX/05/es-05-1313.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1314",
+    "sentence": "Tras la visita de hoy desisto de mi propuesta de conservar el recorrido íntegro: comprobamos que deja apenas unos minutos para conversar con los expositores, y esa conversación era el propósito principal de la salida.",
+    "cloze": "desisto",
+    "answer": "desisto",
+    "lemma": "desistir",
+    "meaning": "I abandon",
+    "audio": "work/audio/es-MX/05/es-05-1314.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1315",
+    "sentence": "Defendí la versión ilustrada como la mejor para encontrar información; en la prueba de hoy ambas versiones dieron los mismos resultados. Mantengo mi elección como preferencia personal por las imágenes, sin atribuirle una ventaja de consulta.",
+    "cloze": "preferencia",
+    "answer": "preferencia",
+    "lemma": "preferencia",
+    "meaning": "preference",
+    "audio": "work/audio/es-MX/05/es-05-1315.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1316",
+    "sentence": "Los veinte préstamos que presenté como total pasan a ser una cota mínima: acaban de aparecer recibos de otros préstamos que no figuran en la lista y todavía falta revisar un cajón.",
+    "cloze": "cota mínima",
+    "answer": "cota mínima",
+    "lemma": "cota mínima",
+    "meaning": "lower bound",
+    "audio": "work/audio/es-MX/05/es-05-1316.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1317",
+    "sentence": "Mi apoyo a continuar el intercambio de borradores incluye ahora un criterio de salida: dejar de organizarlo si los comentarios vuelven a llegar después del plazo para corregir. Antes lo apoyaba sin límite, pero eso ocurrió durante la prueba y ya no pudimos aprovechar las sugerencias.",
+    "cloze": "criterio de salida",
+    "answer": "criterio de salida",
+    "lemma": "criterio de salida",
+    "meaning": "stopping criterion",
+    "audio": "work/audio/es-MX/05/es-05-1317.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1318",
+    "sentence": "La guía que recomendé el mes pasado ya dirige a páginas que dejaron de existir. Aquella recomendación ha perdido vigencia con el cambio del sitio, aunque entonces sí completamos el trámite siguiendo sus instrucciones.",
+    "cloze": "ha perdido vigencia",
+    "answer": "ha perdido vigencia",
+    "lemma": "perder vigencia",
+    "meaning": "has ceased to be valid",
+    "audio": "work/audio/es-MX/05/es-05-1318.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1319",
+    "sentence": "Atribuí la mejora solo a los ejemplos. En las pruebas, ni los ejemplos solos ni la explicación sola bastaron; funcionaron al usarse juntos. Mi conclusión se refiere ahora a su eficacia conjunta en esas pruebas, sin asignar todo el mérito a uno de los dos.",
+    "cloze": "conjunta",
+    "answer": "conjunta",
+    "lemma": "conjunto",
+    "meaning": "combined",
+    "audio": "work/audio/es-MX/05/es-05-1319.mp3",
+    "accepted_answers": []
   }
 ]
