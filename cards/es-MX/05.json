@@ -11640,5 +11640,405 @@
     "meaning": "I demonstrate it",
     "audio": "work/audio/es-MX/05/es-05-1159.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1160",
+    "sentence": "—El comité es confiable porque aprueba buenos proyectos; sabemos que esos proyectos son buenos porque los aprueba el comité. —La justificación es circular: cada afirmación depende de la otra y ninguna aporta un criterio de calidad.",
+    "cloze": "circular",
+    "answer": "circular",
+    "lemma": "circular",
+    "meaning": "circular",
+    "audio": "work/audio/es-MX/05/es-05-1160.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1161",
+    "sentence": "Tenemos una candidata con experiencia y otro candidato disponible por las tardes; para afirmar que alguien cumple el perfil, falta comprobar que ambas condiciones concurran en una misma persona.",
+    "cloze": "concurran",
+    "answer": "concurran",
+    "lemma": "concurrir",
+    "meaning": "are jointly present",
+    "audio": "work/audio/es-MX/05/es-05-1161.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1162",
+    "sentence": "Recomiendas cambiar de plataforma porque «si no funciona, volvemos a la anterior»; la reversibilidad de ese paso depende de recuperar los archivos en un formato que la plataforma anterior pueda abrir, y eso no se ha comprobado.",
+    "cloze": "reversibilidad",
+    "answer": "reversibilidad",
+    "lemma": "reversibilidad",
+    "meaning": "reversibility",
+    "audio": "work/audio/es-MX/05/es-05-1162.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1163",
+    "sentence": "Que aumenten juntos los visitantes del mercado y los pasajeros del camión no demuestra que el camión atraiga al público; la feria del barrio podría ser una causa común de ambos aumentos.",
+    "cloze": "causa común",
+    "answer": "causa común",
+    "lemma": "causa común",
+    "meaning": "shared cause",
+    "audio": "work/audio/es-MX/05/es-05-1163.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1164",
+    "sentence": "Tu presupuesto duplica la reserva para materiales al sumarla al saldo de la cuenta, aunque ya está incluida en él; esa suma no demuestra que podamos pagar ambos pedidos.",
+    "cloze": "duplica",
+    "answer": "duplica",
+    "lemma": "duplicar",
+    "meaning": "counts twice",
+    "audio": "work/audio/es-MX/05/es-05-1164.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1165",
+    "sentence": "No haber respondido no equivale aquí a un consentimiento tácito para publicar los nombres: nunca acordamos que el silencio contara como una autorización.",
+    "cloze": "consentimiento tácito",
+    "answer": "consentimiento tácito",
+    "lemma": "consentimiento tácito",
+    "meaning": "tacit consent",
+    "audio": "work/audio/es-MX/05/es-05-1165.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1166",
+    "sentence": "Que una persona pueda atender diez consultas por hora, justo el promedio diario, no basta para descartar las filas: el cálculo supone una distribución uniforme de las llegadas, pero treinta visitantes podrían llegar juntos al abrir.",
+    "cloze": "uniforme",
+    "answer": "uniforme",
+    "lemma": "uniforme",
+    "meaning": "even",
+    "audio": "work/audio/es-MX/05/es-05-1166.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1167",
+    "sentence": "Ustedes dan por aceptada la cuota en nombre del grupo porque su portavoz dijo que sí, pero solo le encargaron escuchar propuestas; falta una delegación de autoridad que le permita comprometer a los demás.",
+    "cloze": "delegación",
+    "answer": "delegación",
+    "lemma": "delegación",
+    "meaning": "delegation",
+    "audio": "work/audio/es-MX/05/es-05-1167.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1168",
+    "sentence": "La palabra «abierto» cambia de sentido en el argumento: de que el archivo permite consultar los documentos se concluye que cualquiera puede modificarlos, aunque esa segunda facultad nunca se mencionó.",
+    "cloze": "cambia de sentido",
+    "answer": "cambia de sentido",
+    "lemma": "cambiar de sentido",
+    "meaning": "changes meaning",
+    "audio": "work/audio/es-MX/05/es-05-1168.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1169",
+    "sentence": "La nueva imprenta cobra menos por ejemplar que la anterior, pero añade un pago por preparar las placas; sin conocer el tamaño del pedido, falta saber si el ahorro permitirá amortizar ese pago y reducir el costo total.",
+    "cloze": "amortizar",
+    "answer": "amortizar",
+    "lemma": "amortizar",
+    "meaning": "recoup",
+    "audio": "work/audio/es-MX/05/es-05-1169.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1170",
+    "sentence": "Presentar la elección como «aprobar el proyecto completo o renunciar a mejorar el parque» crea una falsa disyuntiva: también podemos conservar las reparaciones y retirar la ampliación.",
+    "cloze": "falsa disyuntiva",
+    "answer": "falsa disyuntiva",
+    "lemma": "falsa disyuntiva",
+    "meaning": "false dilemma",
+    "audio": "work/audio/es-MX/05/es-05-1170.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1171",
+    "sentence": "Asegurar que terminaremos la exposición porque todos tenemos muchas ganas sería voluntarismo mientras no sepamos si contamos con las piezas y el tiempo de montaje; la motivación no resuelve esas condiciones.",
+    "cloze": "voluntarismo",
+    "answer": "voluntarismo",
+    "lemma": "voluntarismo",
+    "meaning": "overreliance on determination",
+    "audio": "work/audio/es-MX/05/es-05-1171.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1172",
+    "sentence": "Para afirmar que siempre tendremos acceso porque guardamos copias en dos computadoras, las vías de acceso tendrían que ser independientes; ambas máquinas requieren entrar a la misma cuenta, que también puede quedar bloqueada.",
+    "cloze": "independientes",
+    "answer": "independientes",
+    "lemma": "independiente",
+    "meaning": "independent",
+    "audio": "work/audio/es-MX/05/es-05-1172.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1173",
+    "sentence": "El gasto en el cartel anterior es irrecuperable tanto si lo usamos como si lo sustituimos; citar lo que ya pagamos no demuestra que conservarlo sea la opción más conveniente para anunciar la nueva fecha.",
+    "cloze": "irrecuperable",
+    "answer": "irrecuperable",
+    "lemma": "irrecuperable",
+    "meaning": "irrecoverable",
+    "audio": "work/audio/es-MX/05/es-05-1173.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1174",
+    "sentence": "Me preocupa la autoselección: quienes se ofrecieron a leer ante el grupo dijeron que prefieren hacerlo en voz alta; sus respuestas se usan para concluir que esa es la preferencia de todo el grupo.",
+    "cloze": "autoselección",
+    "answer": "autoselección",
+    "lemma": "autoselección",
+    "meaning": "self-selection",
+    "audio": "work/audio/es-MX/05/es-05-1174.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1175",
+    "sentence": "La afirmación de que no habrá interrupciones porque el proveedor cambia los equipos defectuosos confunde la reposición con la continuidad del servicio: el cambio puede tardar varios días.",
+    "cloze": "confunde",
+    "answer": "confunde",
+    "lemma": "confundir",
+    "meaning": "conflates",
+    "audio": "work/audio/es-MX/05/es-05-1175.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1176",
+    "sentence": "—Los ingresos previstos superan los gastos; podremos pagar todo el festival. —Revisa el desfase entre los pagos: la renta vence antes de que entren las cuotas, así que el total no demuestra que podamos pagarla a tiempo.",
+    "cloze": "desfase",
+    "answer": "desfase",
+    "lemma": "desfase",
+    "meaning": "timing mismatch",
+    "audio": "work/audio/es-MX/05/es-05-1176.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1177",
+    "sentence": "El equipo afirma que la sala está llena porque repartió todos los folletos, sin saber cuánta gente sigue dentro; señalar esa falla del argumento no es una refutación de la conclusión: aún hace falta comprobar la ocupación.",
+    "cloze": "refutación",
+    "answer": "refutación",
+    "lemma": "refutación",
+    "meaning": "refutation",
+    "audio": "work/audio/es-MX/05/es-05-1177.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1178",
+    "sentence": "¿Cómo piensan compatibilizar los dos talleres para asegurar que pueden funcionar a la vez, si uno exige silencio y el otro usa música en el único salón disponible?",
+    "cloze": "compatibilizar",
+    "answer": "compatibilizar",
+    "lemma": "compatibilizar",
+    "meaning": "make compatible",
+    "audio": "work/audio/es-MX/05/es-05-1178.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1179",
+    "sentence": "No des la revisión por cubierta diciendo que «es responsabilidad de todos»: esa fórmula diluye la responsabilidad si nadie tiene una parte asignada ni debe confirmar que la terminó.",
+    "cloze": "diluye",
+    "answer": "diluye",
+    "lemma": "diluir",
+    "meaning": "diffuses",
+    "audio": "work/audio/es-MX/05/es-05-1179.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1180",
+    "sentence": "Atribuir las buenas ventas a que la librería destaca esos títulos deja abierta la causalidad inversa: quizá los destaca precisamente porque ya se venden bien; no sabemos qué ocurrió primero.",
+    "cloze": "causalidad inversa",
+    "answer": "causalidad inversa",
+    "lemma": "causalidad inversa",
+    "meaning": "reverse causation",
+    "audio": "work/audio/es-MX/05/es-05-1180.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1181",
+    "sentence": "La sala nueva tiene más asientos que la anterior, pero comparar ambas no prueba que quepa todo el grupo: el número de participantes fija un umbral mínimo que todavía no sabemos si se alcanza.",
+    "cloze": "umbral mínimo",
+    "answer": "umbral mínimo",
+    "lemma": "umbral mínimo",
+    "meaning": "minimum threshold",
+    "audio": "work/audio/es-MX/05/es-05-1181.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1182",
+    "sentence": "Al usar el premio recibido una sola vez para afirmar que podremos pagar la renta todos los meses, el presupuesto trata ese ingreso como recurrente sin explicar de dónde saldrá después.",
+    "cloze": "recurrente",
+    "answer": "recurrente",
+    "lemma": "recurrente",
+    "meaning": "recurring",
+    "audio": "work/audio/es-MX/05/es-05-1182.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1183",
+    "sentence": "No podemos extender el acuerdo de reducir el papel al uso obligatorio de una aplicación: aprobar esa meta no indica que el equipo haya aceptado ese método para alcanzarla.",
+    "cloze": "extender",
+    "answer": "extender",
+    "lemma": "extender",
+    "meaning": "extend",
+    "audio": "work/audio/es-MX/05/es-05-1183.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1184",
+    "sentence": "El colectivo prestará sillas cuando confirmemos el salón y el salón se confirmará cuando tengamos sillas; esa dependencia mutua impide dar el encuentro por asegurado mientras no se confirme primero alguno de los dos recursos.",
+    "cloze": "dependencia mutua",
+    "answer": "dependencia mutua",
+    "lemma": "dependencia mutua",
+    "meaning": "mutual dependence",
+    "audio": "work/audio/es-MX/05/es-05-1184.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1185",
+    "sentence": "El sistema puede seguir mostrando el nombre de un archivo cuyo contenido ya se perdió; si esa pérdida no siempre es detectable para el usuario, ¿por qué la falta de reportes probaría que todos los archivos siguen completos?",
+    "cloze": "detectable",
+    "answer": "detectable",
+    "lemma": "detectable",
+    "meaning": "detectable",
+    "audio": "work/audio/es-MX/05/es-05-1185.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1186",
+    "sentence": "La comparación entre la cuota mensual y el pago anual carece de una base común: antes de concluir que la primera opción es más barata, necesitamos calcular cuánto costaría cada una durante el mismo periodo.",
+    "cloze": "base común",
+    "answer": "base común",
+    "lemma": "base común",
+    "meaning": "common basis",
+    "audio": "work/audio/es-MX/05/es-05-1186.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1187",
+    "sentence": "¿Has considerado el posible efecto rebote al afirmar que el nuevo proyector reducirá el consumo? Como gasta menos por hora, propones dejarlo encendido más tiempo, y ese uso adicional podría eliminar el ahorro.",
+    "cloze": "efecto rebote",
+    "answer": "efecto rebote",
+    "lemma": "efecto rebote",
+    "meaning": "rebound effect",
+    "audio": "work/audio/es-MX/05/es-05-1187.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1188",
+    "sentence": "Con «unas veinte personas» y «unos cincuenta pesos de material por persona», presentar el total como «exactamente mil pesos» ofrece una precisión aparente: multiplicar dos estimaciones no elimina su incertidumbre.",
+    "cloze": "precisión aparente",
+    "answer": "precisión aparente",
+    "lemma": "precisión aparente",
+    "meaning": "apparent precision",
+    "audio": "work/audio/es-MX/05/es-05-1188.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1189",
+    "sentence": "Que el equipo haya tomado el curso no demuestra que los próximos informes vayan a tener menos errores: falta comprobar que lo aprendido se aplique al trabajo, pues hasta ahora seguimos usando el procedimiento anterior.",
+    "cloze": "se aplique",
+    "answer": "se aplique",
+    "lemma": "aplicar",
+    "meaning": "is applied",
+    "audio": "work/audio/es-MX/05/es-05-1189.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1190",
+    "sentence": "—Una reseña llama excelente al servicio y otra lo considera pésimo; entonces debe ser regular. —¿Por qué elegir el término medio demostraría cómo es el servicio, si todavía no revisamos las experiencias que respaldan cada juicio?",
+    "cloze": "término medio",
+    "answer": "término medio",
+    "lemma": "término medio",
+    "meaning": "middle position",
+    "audio": "work/audio/es-MX/05/es-05-1190.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1191",
+    "sentence": "La coordinadora ofrece personal y por eso anuncia que la biblioteca abrirá de noche, pero la apertura sigue supeditada al permiso del dueño para usar el edificio fuera del horario habitual; él todavía no ha respondido.",
+    "cloze": "supeditada",
+    "answer": "supeditada",
+    "lemma": "supeditar",
+    "meaning": "dependent",
+    "audio": "work/audio/es-MX/05/es-05-1191.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1192",
+    "sentence": "El equipo sostiene que el retraso de una autora impedirá cerrar la edición, hará que se pierda el turno de impresión y obligará a cancelar el número de la revista; ese efecto dominó supone que no podamos sustituir su texto ni ajustar las páginas, posibilidades que aún no se han revisado.",
+    "cloze": "efecto dominó",
+    "answer": "efecto dominó",
+    "lemma": "efecto dominó",
+    "meaning": "domino effect",
+    "audio": "work/audio/es-MX/05/es-05-1192.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1193",
+    "sentence": "Antes de afirmar que el sobrante de las becas cubrirá la renta, explique por qué considera esos fondos intercambiables: el acuerdo permite gastar el dinero de las becas únicamente en apoyos a estudiantes.",
+    "cloze": "intercambiables",
+    "answer": "intercambiables",
+    "lemma": "intercambiable",
+    "meaning": "interchangeable",
+    "audio": "work/audio/es-MX/05/es-05-1193.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1194",
+    "sentence": "Todos los asistentes mejoraron su lectura durante el taller, pero atribuir toda esa mejora al taller exige comparar el resultado con lo que habría ocurrido sin asistir; no contamos con esa comparación.",
+    "cloze": "habría ocurrido",
+    "answer": "habría ocurrido",
+    "lemma": "ocurrir",
+    "meaning": "would have happened",
+    "audio": "work/audio/es-MX/05/es-05-1194.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1195",
+    "sentence": "Los mensajes de «me interesa» no incluyen un compromiso de pago, pero el cálculo los trata como demanda efectiva al dar por vendidos todos los lugares; falta saber quién aceptaría pagar la cuota.",
+    "cloze": "demanda efectiva",
+    "answer": "demanda efectiva",
+    "lemma": "demanda efectiva",
+    "meaning": "effective demand",
+    "audio": "work/audio/es-MX/05/es-05-1195.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1196",
+    "sentence": "Atribuyes el aumento de la participación al nuevo logotipo, pero esa explicación exige que al menos algunos de los nuevos asistentes hayan visto la imagen antes de decidirse a venir; todavía no sabemos si la conocían.",
+    "cloze": "hayan visto",
+    "answer": "hayan visto",
+    "lemma": "ver",
+    "meaning": "have seen",
+    "audio": "work/audio/es-MX/05/es-05-1196.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1197",
+    "sentence": "El cálculo que asegura lugares disponibles porque hoy nadie usa el salón a esa hora es estático: supone que los otros grupos mantendrán sus horarios aun después de que el edificio cierre más temprano.",
+    "cloze": "estático",
+    "answer": "estático",
+    "lemma": "estático",
+    "meaning": "static",
+    "audio": "work/audio/es-MX/05/es-05-1197.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1198",
+    "sentence": "Calcular que el montaje terminará en la mitad del tiempo porque habrá el doble de personas supone una proporcionalidad que aquí no está justificada: el pegamento tarda lo mismo en secarse y no podemos continuar antes de que seque.",
+    "cloze": "proporcionalidad",
+    "answer": "proporcionalidad",
+    "lemma": "proporcionalidad",
+    "meaning": "proportionality",
+    "audio": "work/audio/es-MX/05/es-05-1198.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1199",
+    "sentence": "Decir que la reseñista habla con un acento desagradable desvía la discusión de si su crítica al servicio es correcta: ese rasgo de su voz no permite evaluar lo que cuenta sobre la atención.",
+    "cloze": "desvía",
+    "answer": "desvía",
+    "lemma": "desviar",
+    "meaning": "diverts",
+    "audio": "work/audio/es-MX/05/es-05-1199.mp3",
+    "accepted_answers": []
   }
 ]
