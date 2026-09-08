@@ -13240,5 +13240,405 @@
     "meaning": "combined",
     "audio": "work/audio/es-MX/05/es-05-1319.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1320",
+    "sentence": "En la reunión de vecinos hago mía tu preocupación por quienes no pueden subir escaleras; pedir una entrada accesible tiene sentido, aunque no comparto tu acusación de que los organizadores quisieron excluirlos.",
+    "cloze": "hago mía",
+    "answer": "hago mía",
+    "lemma": "hacer suyo",
+    "meaning": "adopt as my own",
+    "audio": "work/audio/es-MX/05/es-05-1320.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1321",
+    "sentence": "—Si el formulario pide datos innecesarios, conviene acortarlo y quitar la pregunta sobre disponibilidad. —En la necesidad de acortarlo te sigo; esa pregunta sí nos sirve para asignar los turnos.",
+    "cloze": "te sigo",
+    "answer": "te sigo",
+    "lemma": "seguir",
+    "meaning": "follow your reasoning",
+    "audio": "work/audio/es-MX/05/es-05-1321.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1322",
+    "sentence": "Usted señala que el formato se lee con facilidad en papel, y doy crédito a su testimonio; para recomendarlo a todo el grupo, todavía falta escuchar a quienes lo leen desde el celular.",
+    "cloze": "doy crédito",
+    "answer": "doy crédito",
+    "lemma": "dar crédito",
+    "meaning": "give credence",
+    "audio": "work/audio/es-MX/05/es-05-1322.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1323",
+    "sentence": "—Para que podamos descansar, te pedimos que ensayes con audífonos por la noche. —En eso pongo de mi parte; lo que no acepto es que las llamadas de ustedes queden fuera del horario de silencio.",
+    "cloze": "pongo de mi parte",
+    "answer": "pongo de mi parte",
+    "lemma": "poner de su parte",
+    "meaning": "do my part",
+    "audio": "work/audio/es-MX/05/es-05-1323.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1324",
+    "sentence": "La firma de recepción se refiere a la cantidad de ejemplares: en eso me doy por conforme. La calidad de la impresión sigue pendiente de revisión.",
+    "cloze": "me doy por conforme",
+    "answer": "me doy por conforme",
+    "lemma": "darse por conforme",
+    "meaning": "consider myself satisfied",
+    "audio": "work/audio/es-MX/05/es-05-1324.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1325",
+    "sentence": "Frente al cierre que repite todo, me decanto por el que propones: evita esa repetición, aunque el corte final todavía es demasiado brusco.",
+    "cloze": "me decanto",
+    "answer": "me decanto",
+    "lemma": "decantarse",
+    "meaning": "opt for",
+    "audio": "work/audio/es-MX/05/es-05-1325.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1326",
+    "sentence": "Conoces al grupo, así que tienes mi voto de confianza para elegir las actividades del taller; el propósito y la duración seguirán sujetos a la revisión conjunta que acordamos.",
+    "cloze": "voto de confianza",
+    "answer": "voto de confianza",
+    "lemma": "voto de confianza",
+    "meaning": "vote of confidence",
+    "audio": "work/audio/es-MX/05/es-05-1326.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1327",
+    "sentence": "En el comité secundo su solicitud de revisar las cuotas, que permite discutir a quiénes se está dejando fuera; todavía no apoyo eliminarlas, porque también necesitamos pagar los materiales.",
+    "cloze": "secundo",
+    "answer": "secundo",
+    "lemma": "secundar",
+    "meaning": "support a request",
+    "audio": "work/audio/es-MX/05/es-05-1327.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1328",
+    "sentence": "Aunque mi preferencia sigue siendo la sala por el sonido, acato la elección del patio: todos pudimos presentar opciones y votar.",
+    "cloze": "acato",
+    "answer": "acato",
+    "lemma": "acatar",
+    "meaning": "abide by",
+    "audio": "work/audio/es-MX/05/es-05-1328.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1329",
+    "sentence": "La ampliación del horario sí ayudaría a los vecinos. Como la propuesta también elimina la atención por teléfono, dejo en suspenso mi aprobación del conjunto y pido que votemos las dos medidas por separado.",
+    "cloze": "dejo en suspenso",
+    "answer": "dejo en suspenso",
+    "lemma": "dejar en suspenso",
+    "meaning": "put on hold",
+    "audio": "work/audio/es-MX/05/es-05-1329.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1330",
+    "sentence": "Como responsable del taller, consiento el uso de un video para presentar los trabajos: puede ayudar a explicar el proceso, siempre que siga siendo una opción y no una exigencia para todos.",
+    "cloze": "consiento",
+    "answer": "consiento",
+    "lemma": "consentir",
+    "meaning": "permit",
+    "audio": "work/audio/es-MX/05/es-05-1330.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1331",
+    "sentence": "Me parece útil participar en la mesa de seguimiento, sin que incorporarme ahora signifique convalidar la decisión inicial de elegir la sede sin consultar al barrio.",
+    "cloze": "convalidar",
+    "answer": "convalidar",
+    "lemma": "convalidar",
+    "meaning": "validate retrospectively",
+    "audio": "work/audio/es-MX/05/es-05-1331.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1332",
+    "sentence": "—¿Entonces también te inscribimos en dibujo? —Con gusto me sumo a organizar el taller porque amplía las opciones del centro, pero no a tomarlo; prefiero seguir en el coro.",
+    "cloze": "me sumo",
+    "answer": "me sumo",
+    "lemma": "sumarse",
+    "meaning": "join in",
+    "audio": "work/audio/es-MX/05/es-05-1332.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1333",
+    "sentence": "La propuesta de repartir el trabajo agiliza la revista: delego la corrección de erratas, pero la decisión de quitar testimonios seguirá en manos de todo el equipo.",
+    "cloze": "delego",
+    "answer": "delego",
+    "lemma": "delegar",
+    "meaning": "delegate",
+    "audio": "work/audio/es-MX/05/es-05-1333.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1334",
+    "sentence": "Me parece bien que avise los cambios por mensaje; con este me doy por enterado de su propuesta de horario. La hora adicional sí necesito que la acordemos antes de incorporarla a mi turno.",
+    "cloze": "me doy por enterado",
+    "answer": "me doy por enterado",
+    "lemma": "darse por enterado",
+    "meaning": "acknowledge being informed",
+    "audio": "work/audio/es-MX/05/es-05-1334.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1335",
+    "sentence": "No considero que ese restaurante sea la única opción que vale la pena. Por comer juntos, doy mi brazo a torcer y acepto el que ustedes prefieren.",
+    "cloze": "doy mi brazo a torcer",
+    "answer": "doy mi brazo a torcer",
+    "lemma": "dar su brazo a torcer",
+    "meaning": "give in",
+    "audio": "work/audio/es-MX/05/es-05-1335.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1336",
+    "sentence": "—Vengan a conocer el salón y de una vez lo apartan. —Aceptamos la visita sin compromiso; la fecha del festejo todavía depende de la disponibilidad de mi familia.",
+    "cloze": "sin compromiso",
+    "answer": "sin compromiso",
+    "lemma": "sin compromiso",
+    "meaning": "without commitment",
+    "audio": "work/audio/es-MX/05/es-05-1336.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1337",
+    "sentence": "Estoy de acuerdo en firmar el informe conjunto; me responsabilizo de las observaciones que hice en las visitas, y necesito que cada colega revise las suyas antes de entregar.",
+    "cloze": "me responsabilizo",
+    "answer": "me responsabilizo",
+    "lemma": "responsabilizarse",
+    "meaning": "take responsibility",
+    "audio": "work/audio/es-MX/05/es-05-1337.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1338",
+    "sentence": "Me parece bien que tu compañero venga al ensayo para conocer al grupo; ese permiso no lo hago extensivo a sus invitados, porque trabajaremos con espacio limitado.",
+    "cloze": "lo hago extensivo",
+    "answer": "lo hago extensivo",
+    "lemma": "hacer extensivo",
+    "meaning": "extend its scope",
+    "audio": "work/audio/es-MX/05/es-05-1338.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1339",
+    "sentence": "Sobre el día, acepto el viernes. En cuanto al formato, dejo abierta la posibilidad de una videollamada, porque la dificultad de traslado que ustedes mencionaron sigue pendiente.",
+    "cloze": "dejo abierta",
+    "answer": "dejo abierta",
+    "lemma": "dejar abierto",
+    "meaning": "leave open",
+    "audio": "work/audio/es-MX/05/es-05-1339.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1340",
+    "sentence": "Aprecio tu disculpa por perder mis apuntes y acepto seguir preparando contigo la exposición. Todavía no me doy por compensado: necesito recuperar el contenido para poder estudiar.",
+    "cloze": "me doy por compensado",
+    "answer": "me doy por compensado",
+    "lemma": "darse por compensado",
+    "meaning": "consider myself compensated",
+    "audio": "work/audio/es-MX/05/es-05-1340.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1341",
+    "sentence": "Que hayas movido la reunión para incluirme me reconcilia contigo después de nuestra discusión, sin cambiar mi desacuerdo sobre cobrar por entrar.",
+    "cloze": "me reconcilia",
+    "answer": "me reconcilia",
+    "lemma": "reconciliar",
+    "meaning": "reconciles me",
+    "audio": "work/audio/es-MX/05/es-05-1341.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1342",
+    "sentence": "La carta propone mejorar la convivencia, una meta que comparto; la frase «aquí nunca hay problemas» no me representa, porque borra las quejas que estamos intentando atender.",
+    "cloze": "me representa",
+    "answer": "me representa",
+    "lemma": "representar",
+    "meaning": "represents my position",
+    "audio": "work/audio/es-MX/05/es-05-1342.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1343",
+    "sentence": "En la petición de conservar la biblioteca hago causa común con la asociación; eso no incluye apoyar su campaña contra las actividades deportivas, que también necesitan un espacio.",
+    "cloze": "hago causa común",
+    "answer": "hago causa común",
+    "lemma": "hacer causa común",
+    "meaning": "make common cause",
+    "audio": "work/audio/es-MX/05/es-05-1343.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1344",
+    "sentence": "Apoyo que el grupo presente el proyecto al concurso; dejo constancia de mi desacuerdo con dedicarle todas nuestras reuniones y pido que esa reserva figure en la minuta junto con mi voto a favor.",
+    "cloze": "dejo constancia",
+    "answer": "dejo constancia",
+    "lemma": "dejar constancia",
+    "meaning": "formally record",
+    "audio": "work/audio/es-MX/05/es-05-1344.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1345",
+    "sentence": "Que el diseño no sirva para leerse desde la calle no le resta mérito al trabajo de ilustración; valoro ese logro y reservaría esta versión para el programa de mano.",
+    "cloze": "le resta mérito",
+    "answer": "le resta mérito",
+    "lemma": "restar mérito",
+    "meaning": "detracts from its merit",
+    "audio": "work/audio/es-MX/05/es-05-1345.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1346",
+    "sentence": "La tutoría individual puede ayudar mucho; lo que pongo en duda es que deba ser el único apoyo, porque algunos compañeros también aprenden al discutir entre ellos.",
+    "cloze": "pongo en duda",
+    "answer": "pongo en duda",
+    "lemma": "poner en duda",
+    "meaning": "question",
+    "audio": "work/audio/es-MX/05/es-05-1346.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1347",
+    "sentence": "Acepto que la mayoría elija el lugar de la reunión; pongo por delante la posibilidad de que todos entremos, así que necesito que la votación incluya solo espacios accesibles para el grupo.",
+    "cloze": "pongo por delante",
+    "answer": "pongo por delante",
+    "lemma": "poner por delante",
+    "meaning": "give priority to",
+    "audio": "work/audio/es-MX/05/es-05-1347.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1348",
+    "sentence": "Mi disposición a cerrar filas para que funcione el nuevo reparto de tareas incluye poder señalar las cargas desiguales. ¿Podemos conservar un espacio para revisar esas diferencias?",
+    "cloze": "cerrar filas",
+    "answer": "cerrar filas",
+    "lemma": "cerrar filas",
+    "meaning": "close ranks",
+    "audio": "work/audio/es-MX/05/es-05-1348.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1349",
+    "sentence": "Me gusta que la invitación diga «todas las familias»; me hace ruido que después pida inscribirse con una cuenta de la escuela, porque también queremos recibir a personas de fuera que no tienen esa cuenta.",
+    "cloze": "me hace ruido",
+    "answer": "me hace ruido",
+    "lemma": "hacer ruido",
+    "meaning": "strikes me as troubling",
+    "audio": "work/audio/es-MX/05/es-05-1349.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1350",
+    "sentence": "Durante el ensayo, mientras buscamos el ritmo, puedo dejar pasar las pausas largas que permiten probar cambios. Para la presentación al público sí necesitamos que las transiciones estén listas.",
+    "cloze": "dejar pasar",
+    "answer": "dejar pasar",
+    "lemma": "dejar pasar",
+    "meaning": "let slide",
+    "audio": "work/audio/es-MX/05/es-05-1350.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1351",
+    "sentence": "Podemos dar cabida a tu experiencia en el resumen porque muestra una dificultad real, sin dedicarle la mitad del texto: también necesitamos espacio para las otras experiencias del grupo.",
+    "cloze": "dar cabida",
+    "answer": "dar cabida",
+    "lemma": "dar cabida",
+    "meaning": "make room for",
+    "audio": "work/audio/es-MX/05/es-05-1351.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1352",
+    "sentence": "La organizadora merece nuestro agradecimiento por abrir el espacio; eso no exige poner en un pedestal a nadie ni aceptar sin discusión su propuesta de escoger todos los temas.",
+    "cloze": "poner en un pedestal",
+    "answer": "poner en un pedestal",
+    "lemma": "poner en un pedestal",
+    "meaning": "put on a pedestal",
+    "audio": "work/audio/es-MX/05/es-05-1352.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1353",
+    "sentence": "En la salida familiar cedo en mi preferencia por salir temprano, pues entiendo que necesitan descansar; a cambio, pido conservar una pausa durante el trayecto para que mi hija pueda bajar del coche.",
+    "cloze": "cedo",
+    "answer": "cedo",
+    "lemma": "ceder",
+    "meaning": "yield",
+    "audio": "work/audio/es-MX/05/es-05-1353.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1354",
+    "sentence": "Si quieren probar esa aplicación, me parece bien; no la recomiendo todavía para guardar el trabajo de todo el equipo, porque solo la hemos usado con archivos de práctica.",
+    "cloze": "recomiendo",
+    "answer": "recomiendo",
+    "lemma": "recomendar",
+    "meaning": "recommend",
+    "audio": "work/audio/es-MX/05/es-05-1354.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1355",
+    "sentence": "Agradezco que hayan aclarado el informe: las explicaciones ya se entienden. Sobre la exactitud de las cifras no me pronuncio, porque mi revisión como lectora se concentró en la redacción.",
+    "cloze": "me pronuncio",
+    "answer": "me pronuncio",
+    "lemma": "pronunciarse",
+    "meaning": "take a position",
+    "audio": "work/audio/es-MX/05/es-05-1355.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1356",
+    "sentence": "Apoyo que abramos el taller a más vecinos; la reserva de quienes lo atienden no es menor, porque temen que aumentar el cupo sin más ayuda les quite su descanso.",
+    "cloze": "no es menor",
+    "answer": "no es menor",
+    "lemma": "no ser menor",
+    "meaning": "is not insignificant",
+    "audio": "work/audio/es-MX/05/es-05-1356.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1357",
+    "sentence": "Mis hermanos necesitan revisar sus propios horarios. Sin hablar en nombre de ellos, acepto participar en las reuniones más frecuentes que propones, porque nos ayudarían a organizarnos.",
+    "cloze": "hablar en nombre de",
+    "answer": "hablar en nombre de",
+    "lemma": "hablar en nombre de",
+    "meaning": "speak on behalf of",
+    "audio": "work/audio/es-MX/05/es-05-1357.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1358",
+    "sentence": "Mantener abierta la biblioteca ya es un acuerdo de mínimos valioso, aunque todavía faltan horarios para las actividades de los niños; acepto ese avance y pido que sigamos trabajando en lo pendiente.",
+    "cloze": "de mínimos",
+    "answer": "de mínimos",
+    "lemma": "de mínimos",
+    "meaning": "limited to a shared minimum",
+    "audio": "work/audio/es-MX/05/es-05-1358.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1359",
+    "sentence": "En la reunión de vecinos doy por buena tu explicación de por qué fijaste la fecha sin consultarnos: había que responder ese mismo día. Acepto resolverlo así esta vez, pero para las siguientes reuniones quiero que el grupo pueda elegir.",
+    "cloze": "doy por buena",
+    "answer": "doy por buena",
+    "lemma": "dar por bueno",
+    "meaning": "accept as valid",
+    "audio": "work/audio/es-MX/05/es-05-1359.mp3",
+    "accepted_answers": []
   }
 ]
