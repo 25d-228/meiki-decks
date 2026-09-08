@@ -802,5 +802,1205 @@
     "meaning": "took a new direction",
     "audio": "work/audio/es-MX/05/es-05-0080.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-0081",
+    "sentence": "Elegí cine porque había idealizado el trabajo en un rodaje; después de mi primera producción, veo cuánto tiempo se dedica a coordinar personas.",
+    "cloze": "había idealizado",
+    "answer": "había idealizado",
+    "lemma": "idealizar",
+    "meaning": "had idealized",
+    "audio": "work/audio/es-MX/05/es-05-0081.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0082",
+    "sentence": "Quería ayudar con la mudanza, pero calculé una sola tarde para todo; al recordar las cajas que quedaron, veo que subestimé el esfuerzo.",
+    "cloze": "subestimé",
+    "answer": "subestimé",
+    "lemma": "subestimar",
+    "meaning": "underestimated",
+    "audio": "work/audio/es-MX/05/es-05-0082.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0083",
+    "sentence": "Al abrir las inscripciones por internet, dábamos por sentado el acceso de todas las familias; después supimos que varias habían pedido formatos en papel porque no tenían conexión.",
+    "cloze": "dábamos por sentado",
+    "answer": "dábamos por sentado",
+    "lemma": "dar por sentado",
+    "meaning": "took for granted",
+    "audio": "work/audio/es-MX/05/es-05-0083.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0084",
+    "sentence": "Acepté el trabajo fuera para ahorrar y volver pronto; después de dos años de visitas breves a mi pareja, me replanteo aquella decisión.",
+    "cloze": "me replanteo",
+    "answer": "me replanteo",
+    "lemma": "replantearse",
+    "meaning": "am rethinking",
+    "audio": "work/audio/es-MX/05/es-05-0084.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0085",
+    "sentence": "Al releer tus mensajes, veo que había confundido tu necesidad de espacio con un deseo de terminar la relación; por eso insistí en despedirnos.",
+    "cloze": "había confundido",
+    "answer": "había confundido",
+    "lemma": "confundir",
+    "meaning": "had mistaken",
+    "audio": "work/audio/es-MX/05/es-05-0085.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0086",
+    "sentence": "Una mala exposición me llevó a abandonar el taller; ahora, después de varias charlas que sí salieron bien, veo que sobredimensioné aquel tropiezo.",
+    "cloze": "sobredimensioné",
+    "answer": "sobredimensioné",
+    "lemma": "sobredimensionar",
+    "meaning": "exaggerated the significance of",
+    "audio": "work/audio/es-MX/05/es-05-0086.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0087",
+    "sentence": "Con el ascenso llegó más sueldo, pero hoy veo que me desvié de mi objetivo: quería aprender a dirigir un equipo y acepté un puesto sin personal a cargo.",
+    "cloze": "me desvié",
+    "answer": "me desvié",
+    "lemma": "desviarse",
+    "meaning": "strayed",
+    "audio": "work/audio/es-MX/05/es-05-0087.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0088",
+    "sentence": "Ahora sé que también aceptaban experiencia de trabajo; cuando dejé pasar la convocatoria, no se me había ocurrido preguntar por esa posibilidad.",
+    "cloze": "se me había ocurrido",
+    "answer": "se me había ocurrido",
+    "lemma": "ocurrirse",
+    "meaning": "had occurred to me",
+    "audio": "work/audio/es-MX/05/es-05-0088.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0089",
+    "sentence": "En estas semanas he reconsiderado mi rechazo a las clases grabadas: entonces quería conversar en vivo, pero ahora puedo detener el video justo donde pierdo la explicación.",
+    "cloze": "he reconsiderado",
+    "answer": "he reconsiderado",
+    "lemma": "reconsiderar",
+    "meaning": "have reconsidered",
+    "audio": "work/audio/es-MX/05/es-05-0089.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0090",
+    "sentence": "Si hubiera sabido que el curso repetía lo de la licenciatura, habría preferido otro; me inscribí para aprender algo nuevo y solo ahora conozco el temario completo.",
+    "cloze": "habría preferido",
+    "answer": "habría preferido",
+    "lemma": "preferir",
+    "meaning": "would have preferred",
+    "audio": "work/audio/es-MX/05/es-05-0090.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0091",
+    "sentence": "El corto terminó en una muestra local, aunque nos habíamos propuesto usarlo solo en clase; ahora entiendo el alcance de aquella práctica, pero entonces no buscábamos exhibirlo.",
+    "cloze": "nos habíamos propuesto",
+    "answer": "nos habíamos propuesto",
+    "lemma": "proponerse",
+    "meaning": "had intended",
+    "audio": "work/audio/es-MX/05/es-05-0091.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0092",
+    "sentence": "Al escuchar hoy a mi amiga, me cayó el veinte: yo llenaba los silencios para ayudarla, pero ella necesitaba tiempo para responder.",
+    "cloze": "me cayó el veinte",
+    "answer": "me cayó el veinte",
+    "lemma": "caerle el veinte",
+    "meaning": "it dawned on me",
+    "audio": "work/audio/es-MX/05/es-05-0092.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0093",
+    "sentence": "Al elegir universidad, sacrifiqué el trato cercano con los profesores por el prestigio del nombre; creí que no lo necesitaría, pero hoy busco asesorías fuera.",
+    "cloze": "sacrifiqué",
+    "answer": "sacrifiqué",
+    "lemma": "sacrificar",
+    "meaning": "sacrificed",
+    "audio": "work/audio/es-MX/05/es-05-0093.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0094",
+    "sentence": "Ahora que el archivo sirve para recuperar historias del barrio, ha cobrado sentido aquel trabajo de digitalización que yo hacía solo para liberar espacio en la oficina.",
+    "cloze": "ha cobrado sentido",
+    "answer": "ha cobrado sentido",
+    "lemma": "cobrar sentido",
+    "meaning": "has taken on meaning",
+    "audio": "work/audio/es-MX/05/es-05-0094.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0095",
+    "sentence": "Cuando rechazamos la colaboración, nos habíamos hecho a la idea de trabajar solos; hoy el proyecto ya necesita habilidades que ninguno de nosotros tiene.",
+    "cloze": "nos habíamos hecho a la idea",
+    "answer": "nos habíamos hecho a la idea",
+    "lemma": "hacerse a la idea",
+    "meaning": "had come to accept the idea",
+    "audio": "work/audio/es-MX/05/es-05-0095.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0096",
+    "sentence": "¿Se justificaba mi rechazo a tu pausa con la información que tenía? Hoy sé que trabajabas de noche; entonces pensé que solo buscabas alargar el plazo.",
+    "cloze": "Se justificaba",
+    "answer": "Se justificaba",
+    "lemma": "justificarse",
+    "meaning": "was justified",
+    "audio": "work/audio/es-MX/05/es-05-0096.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0097",
+    "sentence": "Ahora lamento haber prejuzgado la propuesta por su presentación tan sencilla; la rechacé sin probarla y después vi que resolvía el problema.",
+    "cloze": "haber prejuzgado",
+    "answer": "haber prejuzgado",
+    "lemma": "prejuzgar",
+    "meaning": "having prejudged",
+    "audio": "work/audio/es-MX/05/es-05-0097.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0098",
+    "sentence": "Hoy me desdigo de mi crítica a tu cambio de carrera: lo llamé una ocurrencia, pero tus trabajos de entonces muestran un interés que yo desconocía.",
+    "cloze": "me desdigo",
+    "answer": "me desdigo",
+    "lemma": "desdecirse",
+    "meaning": "take back what I said",
+    "audio": "work/audio/es-MX/05/es-05-0098.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0099",
+    "sentence": "Al aceptar el empleo, me dejé llevar por la promesa de un horario fijo; hoy comparo las versiones de la oferta y veo cambios que entonces desconocía.",
+    "cloze": "me dejé llevar",
+    "answer": "me dejé llevar",
+    "lemma": "dejarse llevar",
+    "meaning": "let myself be swayed",
+    "audio": "work/audio/es-MX/05/es-05-0099.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0100",
+    "sentence": "No me arrepiento de haber rechazado la beca: ahora sé cuánto prestigio tenía, pero entonces necesitaba un ingreso inmediato para sostenerme.",
+    "cloze": "me arrepiento",
+    "answer": "me arrepiento",
+    "lemma": "arrepentirse",
+    "meaning": "regret",
+    "audio": "work/audio/es-MX/05/es-05-0100.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0101",
+    "sentence": "Ahora vemos que los turnos quedaron desiguales; al repartirlos, yo había previsto ausencias ocasionales, no la salida definitiva de dos compañeros.",
+    "cloze": "había previsto",
+    "answer": "había previsto",
+    "lemma": "prever",
+    "meaning": "had anticipated",
+    "audio": "work/audio/es-MX/05/es-05-0101.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0102",
+    "sentence": "Al elegir el departamento cerca de mi mamá, pasé por alto el ruido de la avenida; quería verla más seguido y solo después entendí cuánto me costaría descansar.",
+    "cloze": "pasé por alto",
+    "answer": "pasé por alto",
+    "lemma": "pasar por alto",
+    "meaning": "overlooked",
+    "audio": "work/audio/es-MX/05/es-05-0102.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0103",
+    "sentence": "Quería acortar la encuesta, pero me excedí con el recorte: eliminé las preguntas sobre quienes dejaron el servicio y hoy no sabemos por qué se fueron.",
+    "cloze": "me excedí",
+    "answer": "me excedí",
+    "lemma": "excederse",
+    "meaning": "went too far",
+    "audio": "work/audio/es-MX/05/es-05-0103.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0104",
+    "sentence": "Al ganar el concurso, atribuí el resultado a la calidad del texto; ahora sé que también evaluaban la experiencia con el tema, un criterio que entonces desconocía.",
+    "cloze": "atribuí",
+    "answer": "atribuí",
+    "lemma": "atribuir",
+    "meaning": "attributed",
+    "audio": "work/audio/es-MX/05/es-05-0104.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0105",
+    "sentence": "Yo daba por perdida la oportunidad de entrar a la orquesta y dejé de ensayar; hoy, al saber que todavía había lugares, entiendo que me faltó preguntar.",
+    "cloze": "daba por perdida",
+    "answer": "daba por perdida",
+    "lemma": "dar por perdido",
+    "meaning": "considered lost",
+    "audio": "work/audio/es-MX/05/es-05-0105.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0106",
+    "sentence": "El cambio de escuela no salió como esperaba, pero había sopesado la distancia antes de pedirlo; hoy el problema es la falta de clases, algo que entonces no conocía.",
+    "cloze": "había sopesado",
+    "answer": "había sopesado",
+    "lemma": "sopesar",
+    "meaning": "had weighed",
+    "audio": "work/audio/es-MX/05/es-05-0106.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0107",
+    "sentence": "La eliminación de las reuniones se nos volvió en contra: buscábamos ganar tiempo, pero ahora dedicamos más horas a corregir tareas duplicadas.",
+    "cloze": "se nos volvió en contra",
+    "answer": "se nos volvió en contra",
+    "lemma": "volverse en contra",
+    "meaning": "backfired on us",
+    "audio": "work/audio/es-MX/05/es-05-0107.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0108",
+    "sentence": "Hoy la panadería sostiene a toda la familia; cuando vendía desde casa, mi hermana aspiraba a pagar sus estudios, sin imaginar un negocio de ese tamaño.",
+    "cloze": "aspiraba",
+    "answer": "aspiraba",
+    "lemma": "aspirar",
+    "meaning": "aspired",
+    "audio": "work/audio/es-MX/05/es-05-0108.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0109",
+    "sentence": "La exposición se resiente de la falta de entrevistas: al cerrar el programa las eliminé para dar más espacio a las fotos, y ahora apenas se oyen las voces del barrio.",
+    "cloze": "se resiente",
+    "answer": "se resiente",
+    "lemma": "resentirse",
+    "meaning": "suffers",
+    "audio": "work/audio/es-MX/05/es-05-0109.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0110",
+    "sentence": "La traducción me parecía clara y me confié al entregarla sin ejemplos; las dudas de los lectores me muestran ahora cuánto dependía del contexto original.",
+    "cloze": "me confié",
+    "answer": "me confié",
+    "lemma": "confiarse",
+    "meaning": "was overconfident",
+    "audio": "work/audio/es-MX/05/es-05-0110.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0111",
+    "sentence": "Al rentar el departamento, presuponía que el barrio conservaría sus comercios; hoy, con casi todos cerrados, entiendo que elegí pensando en una rutina que ya no existe.",
+    "cloze": "presuponía",
+    "answer": "presuponía",
+    "lemma": "presuponer",
+    "meaning": "assumed",
+    "audio": "work/audio/es-MX/05/es-05-0111.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0112",
+    "sentence": "Entonces cancelé mi viaje solo para ahorrar; hoy revaloro esa decisión porque me permitió pasar con mi abuelo el último verano de su vida.",
+    "cloze": "revaloro",
+    "answer": "revaloro",
+    "lemma": "revalorar",
+    "meaning": "value anew",
+    "audio": "work/audio/es-MX/05/es-05-0112.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0113",
+    "sentence": "Antes de aceptar otro encargo, me había convencido de que podía con todo; hoy, al revisar las entregas atrasadas, veo que no tenía tiempo para cumplir.",
+    "cloze": "me había convencido",
+    "answer": "me había convencido",
+    "lemma": "convencerse",
+    "meaning": "had convinced myself",
+    "audio": "work/audio/es-MX/05/es-05-0113.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0114",
+    "sentence": "Si hubiera recibido antes estas preguntas tan básicas, habría priorizado los ejemplos; apenas hoy las leo y veo que preparé la charla para un público que suponía experto.",
+    "cloze": "habría priorizado",
+    "answer": "habría priorizado",
+    "lemma": "priorizar",
+    "meaning": "would have prioritized",
+    "audio": "work/audio/es-MX/05/es-05-0114.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0115",
+    "sentence": "Yo me había resignado a un curso puramente teórico cuando me inscribí; hoy descubro que sí había prácticas, pero se anunciaban en otra página.",
+    "cloze": "me había resignado",
+    "answer": "me había resignado",
+    "lemma": "resignarse",
+    "meaning": "had resigned myself",
+    "audio": "work/audio/es-MX/05/es-05-0115.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0116",
+    "sentence": "La prueba con tres lectores me salió bien y desestimé la sugerencia de ampliar el grupo; los problemas que aparecen ahora muestran lo limitada que fue aquella prueba.",
+    "cloze": "desestimé",
+    "answer": "desestimé",
+    "lemma": "desestimar",
+    "meaning": "dismissed",
+    "audio": "work/audio/es-MX/05/es-05-0116.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0117",
+    "sentence": "Nos quedamos cortos con aquella disculpa: queríamos cerrar el malentendido, pero hoy entiendo que pedimos perdón sin escuchar cómo lo viviste.",
+    "cloze": "Nos quedamos cortos",
+    "answer": "Nos quedamos cortos",
+    "lemma": "quedarse corto",
+    "meaning": "did not go far enough",
+    "audio": "work/audio/es-MX/05/es-05-0117.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0118",
+    "sentence": "El uso del local como sala de ensayo ha superado mis expectativas: yo lo renté para una librería y nunca imaginé que acabaría reuniendo a tantos músicos del barrio.",
+    "cloze": "ha superado",
+    "answer": "ha superado",
+    "lemma": "superar",
+    "meaning": "has exceeded",
+    "audio": "work/audio/es-MX/05/es-05-0118.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0119",
+    "sentence": "Quería compartir un recuerdo familiar; ahora que mis hermanos me piden retirar el álbum, veo que me extralimité al hacer públicas unas fotos que solo circulaban entre nosotros.",
+    "cloze": "me extralimité",
+    "answer": "me extralimité",
+    "lemma": "extralimitarse",
+    "meaning": "overstepped",
+    "audio": "work/audio/es-MX/05/es-05-0119.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0120",
+    "sentence": "El rechazo me hizo pensar que no servía para escribir; después de conocer los criterios de esa revista, relativizo aquel resultado y veo que mi cuento no encajaba con su tema.",
+    "cloze": "relativizo",
+    "answer": "relativizo",
+    "lemma": "relativizar",
+    "meaning": "put into perspective",
+    "audio": "work/audio/es-MX/05/es-05-0120.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0121",
+    "sentence": "Durante la entrevista, la candidata explicó que estaba reconstruyendo mentalmente el orden de sus empleos cuando guardó silencio; el entrevistador había tomado esa pausa por falta de preparación porque esperaba una respuesta inmediata.",
+    "cloze": "estaba reconstruyendo",
+    "answer": "estaba reconstruyendo",
+    "lemma": "reconstruir",
+    "meaning": "was reconstructing",
+    "audio": "work/audio/es-MX/05/es-05-0121.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0122",
+    "sentence": "Al comentar la inauguración, el panadero dijo que percibió entusiasmo en las voces de la fila. Para la cajera, que recibía preguntas sobre pedidos atrasados, aquel mismo ruido expresaba impaciencia.",
+    "cloze": "percibió",
+    "answer": "percibió",
+    "lemma": "percibir",
+    "meaning": "perceived",
+    "audio": "work/audio/es-MX/05/es-05-0122.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0123",
+    "sentence": "Mi hermana se enojó al encontrar sus fotos en una caja. Yo había dado por hecho que las quería guardadas mientras pintaban; ella contó después que las había bajado solo para limpiar la repisa.",
+    "cloze": "había dado por hecho",
+    "answer": "había dado por hecho",
+    "lemma": "dar por hecho",
+    "meaning": "had taken for granted",
+    "audio": "work/audio/es-MX/05/es-05-0123.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0124",
+    "sentence": "Cuando conté lo de la llamada, aclaré que me estaba despidiendo de mi mamá al salir al balcón. Mi pareja, que solo oyó bajar mi voz, pensó que yo ocultaba la conversación.",
+    "cloze": "me estaba despidiendo",
+    "answer": "me estaba despidiendo",
+    "lemma": "despedirse",
+    "meaning": "was saying goodbye",
+    "audio": "work/audio/es-MX/05/es-05-0124.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0125",
+    "sentence": "La vecina del primer piso contó que había oído una consigna completa y por eso reconoció la marcha. Desde la azotea, su hermano solo distinguió golpes y dijo que al principio pensó en una obra.",
+    "cloze": "había oído",
+    "answer": "había oído",
+    "lemma": "oír",
+    "meaning": "had heard",
+    "audio": "work/audio/es-MX/05/es-05-0125.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0126",
+    "sentence": "La coordinadora escribió: «Nosotros cerraremos el local». Yo entendí que ese nosotros nos incluía a quienes trabajábamos en caja; mi compañero pensó solo en los encargados porque ellos guardaban las llaves.",
+    "cloze": "nos incluía",
+    "answer": "nos incluía",
+    "lemma": "incluir",
+    "meaning": "included us",
+    "audio": "work/audio/es-MX/05/es-05-0126.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0127",
+    "sentence": "En el recorrido por la casa antigua, la visitante explicó que asociaba las rejas interiores con una prisión. El cuidador, que de niño guardaba herramientas detrás de ellas, describió ese mismo espacio como una bodega.",
+    "cloze": "asociaba",
+    "answer": "asociaba",
+    "lemma": "asociar",
+    "meaning": "associated",
+    "audio": "work/audio/es-MX/05/es-05-0127.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0128",
+    "sentence": "Al hablar de la venta de la casa, mi hermano dijo que sentía una pérdida enorme porque se acordaba sobre todo del patio lleno. Yo sentí alivio: había vivido ahí al final, cuando mantener tantos cuartos vacíos se volvió una carga.",
+    "cloze": "se acordaba",
+    "answer": "se acordaba",
+    "lemma": "acordarse",
+    "meaning": "remembered",
+    "audio": "work/audio/es-MX/05/es-05-0128.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0129",
+    "sentence": "El acomodador explicó que el público de afuera creyó que los músicos ya habían tocado la primera pieza al oír aplausos. Los de adentro contaron que solo habían aplaudido la entrada de la directora y que el concierto aún no empezaba.",
+    "cloze": "habían tocado",
+    "answer": "habían tocado",
+    "lemma": "tocar",
+    "meaning": "had played",
+    "audio": "work/audio/es-MX/05/es-05-0129.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0130",
+    "sentence": "Después de la reunión, la maestra me dijo: «Te reconocí por la voz, pero no quise interrumpir tu conversación». Yo había interpretado la falta de saludo como olvido porque llevaba años sin verla.",
+    "cloze": "Te reconocí",
+    "answer": "Te reconocí",
+    "lemma": "reconocer",
+    "meaning": "I recognized you",
+    "audio": "work/audio/es-MX/05/es-05-0130.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0131",
+    "sentence": "El alumno contó que la corrección pública le pareció una burla porque sus compañeros se rieron. La maestra explicó que había querido ayudarlo y que desde el pizarrón no alcanzó a escuchar esas risas.",
+    "cloze": "le pareció",
+    "answer": "le pareció",
+    "lemma": "parecer",
+    "meaning": "seemed to him",
+    "audio": "work/audio/es-MX/05/es-05-0131.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0132",
+    "sentence": "La dueña del perro explicó por qué cambió de banqueta: se había sentido observada por el vecino. Él contó que miraba al animal porque se parecía al que había perdido, no porque le molestara que pasaran por ahí.",
+    "cloze": "se había sentido",
+    "answer": "se había sentido",
+    "lemma": "sentirse",
+    "meaning": "had felt",
+    "audio": "work/audio/es-MX/05/es-05-0132.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0133",
+    "sentence": "Al revisar el cambio de menú, descubrí que el cocinero me atribuía la decisión porque yo había llevado la lista nueva. Le expliqué que para mí esa entrega era un favor a la encargada y que ni siquiera había leído los platillos.",
+    "cloze": "me atribuía",
+    "answer": "me atribuía",
+    "lemma": "atribuir",
+    "meaning": "attributed to me",
+    "audio": "work/audio/es-MX/05/es-05-0133.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0134",
+    "sentence": "La actriz contó que el silencio tras su pregunta le había parecido rechazo. Dos espectadores explicaron que aguardaban una señal para contestar, pues al inicio les habían pedido no interrumpir la función.",
+    "cloze": "aguardaban",
+    "answer": "aguardaban",
+    "lemma": "aguardar",
+    "meaning": "were waiting for",
+    "audio": "work/audio/es-MX/05/es-05-0134.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0135",
+    "sentence": "Elena explicó el reparto desigual del trabajo así: «Yo entendía que nos turnaríamos en la coordinación; por eso solo preparé el calendario de este mes». Raúl había organizado todo el año porque el correo lo nombraba responsable del equipo.",
+    "cloze": "nos turnaríamos",
+    "answer": "nos turnaríamos",
+    "lemma": "turnarse",
+    "meaning": "we would take turns",
+    "audio": "work/audio/es-MX/05/es-05-0135.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0136",
+    "sentence": "Mi primo nos explicó que nos pidió silencio porque creyó que habíamos interrumpido la grabación. Nosotros pensamos que estaba molesto con la canción: no veíamos el micrófono que tenía detrás de la computadora.",
+    "cloze": "habíamos interrumpido",
+    "answer": "habíamos interrumpido",
+    "lemma": "interrumpir",
+    "meaning": "we had interrupted",
+    "audio": "work/audio/es-MX/05/es-05-0136.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0137",
+    "sentence": "El papá contó que, al escuchar a su hija llorar por teléfono, se la imaginaba sola después de una pelea en la escuela. Ella explicó después que estaba con sus amigas y lloraba de alivio por haber encontrado su mochila; ese día no había discutido con nadie.",
+    "cloze": "se la imaginaba",
+    "answer": "se la imaginaba",
+    "lemma": "imaginarse",
+    "meaning": "was imagining her",
+    "audio": "work/audio/es-MX/05/es-05-0137.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0138",
+    "sentence": "En la plática sobre mi primer día, dije que creía que el supervisor me observaba para señalar mis errores. Él explicó que seguía mis movimientos para ver si la mesa quedaba demasiado alta; por eso miraba tanto mis hombros.",
+    "cloze": "me observaba",
+    "answer": "me observaba",
+    "lemma": "observar",
+    "meaning": "was watching me",
+    "audio": "work/audio/es-MX/05/es-05-0138.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0139",
+    "sentence": "Mi tía describió la despedida como alegre por las bromas durante la cena. Mi papá acompañó al abuelo a la puerta y contó que lo vio llorar cuando ya no quedaban invitados; por eso habló de una noche triste.",
+    "cloze": "lo vio",
+    "answer": "lo vio",
+    "lemma": "ver",
+    "meaning": "saw him",
+    "audio": "work/audio/es-MX/05/es-05-0139.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0140",
+    "sentence": "Al desaparecer nuestros nombres del cartel, pensamos que nos habían excluido del festival. La diseñadora explicó que había quitado todos los nombres para cambiar el tamaño de letra; para ella, esa imagen todavía era un borrador.",
+    "cloze": "nos habían excluido",
+    "answer": "nos habían excluido",
+    "lemma": "excluir",
+    "meaning": "had excluded us",
+    "audio": "work/audio/es-MX/05/es-05-0140.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0141",
+    "sentence": "A la editora le sonaba agresivo el mensaje del fotógrafo porque terminaba con tres signos de admiración. Él contó que los había puesto por entusiasmo: acababan de aceptar su primera exposición y quería compartir la noticia.",
+    "cloze": "le sonaba",
+    "answer": "le sonaba",
+    "lemma": "sonar",
+    "meaning": "sounded to her",
+    "audio": "work/audio/es-MX/05/es-05-0141.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0142",
+    "sentence": "Ante el anuncio de otra ronda de preguntas, la ponente contó que creyó que prolongarían la sesión toda la tarde, pues ya llevaban una hora de retraso. El moderador esperaba solo cinco minutos más: había visto que quedaban dos manos levantadas.",
+    "cloze": "prolongarían",
+    "answer": "prolongarían",
+    "lemma": "prolongar",
+    "meaning": "would extend",
+    "audio": "work/audio/es-MX/05/es-05-0142.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0143",
+    "sentence": "La clienta me pidió un descuento y luego explicó que me había tomado por el dueño porque yo estaba detrás de la caja. Yo creí que estaba bromeando: había entrado ahí solo para ayudar a mi hija a envolver un regalo.",
+    "cloze": "me había tomado",
+    "answer": "me había tomado",
+    "lemma": "tomar por",
+    "meaning": "had taken me (for)",
+    "audio": "work/audio/es-MX/05/es-05-0143.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0144",
+    "sentence": "El estudiante contó: «Cuando la profesora recogió nuestras hojas, pensé que nos estaba calificando». Ella explicó que quería saber qué temas debía explicar otra vez y que el ejercicio no contaba para la calificación.",
+    "cloze": "nos estaba calificando",
+    "answer": "nos estaba calificando",
+    "lemma": "calificar",
+    "meaning": "she was grading us",
+    "audio": "work/audio/es-MX/05/es-05-0144.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0145",
+    "sentence": "Desde la ventana, la niña vio parejas bailando y dijo que estaban festejando una boda. Su abuelo, que había conversado con los bailarines antes, le contó que ensayaban para el festival y que la ropa blanca era parte del vestuario.",
+    "cloze": "estaban festejando",
+    "answer": "estaban festejando",
+    "lemma": "festejar",
+    "meaning": "were celebrating",
+    "audio": "work/audio/es-MX/05/es-05-0145.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0146",
+    "sentence": "Mi mamá dijo que se reconocía en la protagonista del cuento por su manera de regañar. Yo le expliqué que no había intentado retratarla: había tomado esa forma de hablar de varias personas de la familia.",
+    "cloze": "se reconocía",
+    "answer": "se reconocía",
+    "lemma": "reconocerse",
+    "meaning": "saw herself reflected",
+    "audio": "work/audio/es-MX/05/es-05-0146.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0147",
+    "sentence": "La jefa contó que mi pregunta sobre los turnos le pareció una protesta por el cambio de horario. Yo le aclaré que ya lo sabía desde el lunes por su correo y que estaba de acuerdo con el cambio; lo que no entendía era cómo repartiríamos el trabajo entre dos personas.",
+    "cloze": "lo sabía",
+    "answer": "lo sabía",
+    "lemma": "saber",
+    "meaning": "I knew about it",
+    "audio": "work/audio/es-MX/05/es-05-0147.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0148",
+    "sentence": "La abuela dijo que tú habías reservado la mesa y por eso esperaba que fueras a la comida. Tú me explicaste que solo habías hecho la llamada por ella; desde el principio sabías que ese día trabajabas.",
+    "cloze": "habías reservado",
+    "answer": "habías reservado",
+    "lemma": "reservar",
+    "meaning": "you had reserved",
+    "audio": "work/audio/es-MX/05/es-05-0148.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0149",
+    "sentence": "Al revisar la carta para pedir apoyo al equipo deportivo, el entrenador dijo que interpretaba el tono formal como una muestra de seriedad. La mamá del capitán contó que a ella le parecía distante porque conocía personalmente a los destinatarios.",
+    "cloze": "interpretaba",
+    "answer": "interpretaba",
+    "lemma": "interpretar",
+    "meaning": "interpreted",
+    "audio": "work/audio/es-MX/05/es-05-0149.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0150",
+    "sentence": "Mi compañero contó que, al verme entrar en la sala a oscuras, creyó que yo ya sabía del apagón. Yo le expliqué que me había figurado que preparaban una sorpresa por mi cumpleaños; no sabía que él estaba buscando una vela.",
+    "cloze": "me había figurado",
+    "answer": "me había figurado",
+    "lemma": "figurarse",
+    "meaning": "I had imagined",
+    "audio": "work/audio/es-MX/05/es-05-0150.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0151",
+    "sentence": "El cliente contó que, al oír que veníamos de otra entrega, nos imaginó todavía en camino hacia su casa. Yo le expliqué que ya habíamos regresado al taller antes de llamarlo; estaba hablando del recorrido de esa mañana.",
+    "cloze": "habíamos regresado",
+    "answer": "habíamos regresado",
+    "lemma": "regresar",
+    "meaning": "we had returned",
+    "audio": "work/audio/es-MX/05/es-05-0151.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0152",
+    "sentence": "Las gemelas contaron que creían que el vecino bromeaba al cambiarles los nombres. Él explicó que las confundía de verdad desde que usaban cubrebocas: antes las distinguía por la sonrisa y ahora solo les veía los ojos.",
+    "cloze": "las confundía",
+    "answer": "las confundía",
+    "lemma": "confundir",
+    "meaning": "mixed them up",
+    "audio": "work/audio/es-MX/05/es-05-0152.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0153",
+    "sentence": "La cronista del barrio describió la asamblea como conflictiva por la discusión inicial sobre el dinero. El vecino encargado de recoger las sillas recordó una reunión tranquila, pero admitió que se había perdido esa discusión: llegó después del acuerdo, cuando todos platicaban sin levantar la voz.",
+    "cloze": "se había perdido",
+    "answer": "se había perdido",
+    "lemma": "perderse",
+    "meaning": "had missed",
+    "audio": "work/audio/es-MX/05/es-05-0153.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0154",
+    "sentence": "Cuando le conté a Leo que tú me sustituirías al frente del taller, él creyó que yo había renunciado porque no mencioné cuánto tiempo. Yo hablaba de mis vacaciones; por eso me sorprendió que organizara una despedida.",
+    "cloze": "me sustituirías",
+    "answer": "me sustituirías",
+    "lemma": "sustituir",
+    "meaning": "you would replace me",
+    "audio": "work/audio/es-MX/05/es-05-0154.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0155",
+    "sentence": "A mi abuela se le figuró que el hombre de la capa era un santo por la luz detrás de su cabeza en la foto. Mi hermano contó que, desde la banqueta del desfile, lo reconoció como un mago por las cartas que llevaba.",
+    "cloze": "se le figuró",
+    "answer": "se le figuró",
+    "lemma": "figurarse",
+    "meaning": "it seemed to her",
+    "audio": "work/audio/es-MX/05/es-05-0155.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0156",
+    "sentence": "Antes de compartir la foto en el grupo, Diego dijo que había entendido el sí de Inés como permiso para enviarla. Inés explicó: «Yo solo acepté que Diego le mostrara la foto a mi abuela durante la visita».",
+    "cloze": "había entendido",
+    "answer": "había entendido",
+    "lemma": "entender como",
+    "meaning": "had interpreted",
+    "audio": "work/audio/es-MX/05/es-05-0156.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0157",
+    "sentence": "En la reunión de vecinos, Rosa me presentó como representante del edificio. Después me contó que me veía en ese papel porque yo había explicado la propuesta; le aclaré que para mí hablar ese día no significaba aceptar el cargo.",
+    "cloze": "me veía",
+    "answer": "me veía",
+    "lemma": "ver",
+    "meaning": "regarded me",
+    "audio": "work/audio/es-MX/05/es-05-0157.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0158",
+    "sentence": "El anfitrión contó que retiró los platos porque pensó que los invitados se habían despedido al salir al patio. Ellos dijeron que solo habían salido a ver la luna y que dejaron las servilletas en las sillas porque esperaban volver al postre.",
+    "cloze": "se habían despedido",
+    "answer": "se habían despedido",
+    "lemma": "despedirse",
+    "meaning": "had said goodbye",
+    "audio": "work/audio/es-MX/05/es-05-0158.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0159",
+    "sentence": "La capitana explicó que, cada vez que el entrenador levantaba el pulgar durante el partido, lo tomaba como aprobación del cambio de jugadoras. Él contó que con ese gesto solo quería animarla; desde la banca no alcanzaba a oír sus propuestas.",
+    "cloze": "lo tomaba",
+    "answer": "lo tomaba",
+    "lemma": "tomar como",
+    "meaning": "interpreted it",
+    "audio": "work/audio/es-MX/05/es-05-0159.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0160",
+    "sentence": "Al llegar al camino de terracería, le dije a mi compañero que creía que nos habíamos equivocado de ruta porque el mapa mostraba una avenida. Él reconoció el tanque de agua de una visita anterior y dijo que ese era el acceso correcto.",
+    "cloze": "nos habíamos equivocado",
+    "answer": "nos habíamos equivocado",
+    "lemma": "equivocarse",
+    "meaning": "we had made a mistake",
+    "audio": "work/audio/es-MX/05/es-05-0160.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0161",
+    "sentence": "La maestra leyó mis borradores en voz alta sin decir mi nombre; aquella experiencia me ha marcado como docente y todavía hoy comento los errores sin señalar al alumno.",
+    "cloze": "me ha marcado",
+    "answer": "me ha marcado",
+    "lemma": "marcar",
+    "meaning": "has had a lasting influence on me",
+    "audio": "work/audio/es-MX/05/es-05-0161.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0162",
+    "sentence": "Cuando dejé la prepa, mi vecina me prestó sus libros y estudió conmigo por las noches. Ya terminé la carrera, pero sigo en deuda con ella por ese tiempo que me dedicó.",
+    "cloze": "sigo en deuda",
+    "answer": "sigo en deuda",
+    "lemma": "seguir en deuda",
+    "meaning": "still owe a debt of gratitude",
+    "audio": "work/audio/es-MX/05/es-05-0162.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0163",
+    "sentence": "En aquel taller, cada participante explicó cómo resolvió un problema antes de mostrar el resultado. Esa costumbre ha permeado nuestra forma de trabajar: ahora compartimos los intentos fallidos, no solo los aciertos.",
+    "cloze": "ha permeado",
+    "answer": "ha permeado",
+    "lemma": "permear",
+    "meaning": "has permeated",
+    "audio": "work/audio/es-MX/05/es-05-0163.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0164",
+    "sentence": "En la secundaria nos pusieron a copiar mapas a mano y protesté por la tarea. Hoy reivindico ese ejercicio porque todavía recuerdo relaciones entre lugares que nunca retuve mirando una pantalla.",
+    "cloze": "reivindico",
+    "answer": "reivindico",
+    "lemma": "reivindicar",
+    "meaning": "defend the value of",
+    "audio": "work/audio/es-MX/05/es-05-0164.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0165",
+    "sentence": "Compartí una anécdota de mi hermana en una charla sin preguntarle. Le pedí disculpas esa noche, pero aquel descuido sigue pesando en nuestra relación: todavía evita contarme cosas personales.",
+    "cloze": "sigue pesando",
+    "answer": "sigue pesando",
+    "lemma": "seguir pesando",
+    "meaning": "continues to weigh heavily",
+    "audio": "work/audio/es-MX/05/es-05-0165.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0166",
+    "sentence": "En marzo observé una clase donde los alumnos revisaron sus propios errores antes de recibir comentarios. Desde entonces he ido incorporando esa práctica en mis grupos, primero en ejercicios breves y ahora en proyectos completos.",
+    "cloze": "he ido incorporando",
+    "answer": "he ido incorporando",
+    "lemma": "ir incorporando",
+    "meaning": "have gradually been incorporating",
+    "audio": "work/audio/es-MX/05/es-05-0166.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0167",
+    "sentence": "Acepté el puesto porque ofrecía libertad para proponer proyectos. Tras seis meses de pedir permiso hasta para cambiar un título, mi trabajo actual dista de aquella promesa; por eso estoy buscando otra opción.",
+    "cloze": "dista",
+    "answer": "dista",
+    "lemma": "distar",
+    "meaning": "is far removed",
+    "audio": "work/audio/es-MX/05/es-05-0167.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0168",
+    "sentence": "Fundamos el club para conversar sobre libros sin preparar exposiciones. Con los años, ese propósito se ha diluido entre concursos y presentaciones; hoy quiero recuperar las reuniones sin programa.",
+    "cloze": "se ha diluido",
+    "answer": "se ha diluido",
+    "lemma": "diluirse",
+    "meaning": "has become diluted",
+    "audio": "work/audio/es-MX/05/es-05-0168.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0169",
+    "sentence": "De joven dejé de dibujar porque solo recibía correcciones. El curso del verano pasado me reconcilió con el dibujo, y ahora lleno cuadernos sin preocuparme por exponerlos.",
+    "cloze": "me reconcilió",
+    "answer": "me reconcilió",
+    "lemma": "reconciliar",
+    "meaning": "reconciled me with",
+    "audio": "work/audio/es-MX/05/es-05-0169.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0170",
+    "sentence": "Al entrar al despacho en 2018 aprendí a llevar una libreta común de pendientes. Esa práctica ha caído en desuso desde que cada área usa su propia aplicación; hoy cuesta saber quién espera una respuesta.",
+    "cloze": "ha caído en desuso",
+    "answer": "ha caído en desuso",
+    "lemma": "caer en desuso",
+    "meaning": "has fallen out of use",
+    "audio": "work/audio/es-MX/05/es-05-0170.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0171",
+    "sentence": "Durante el intercambio pagué un cuarto que no tenía espacio para estudiar y terminé trabajando en la cocina. Al explicar por qué ahora pregunto por el escritorio antes de reservar, me remito a esa experiencia.",
+    "cloze": "me remito",
+    "answer": "me remito",
+    "lemma": "remitirse",
+    "meaning": "refer back",
+    "audio": "work/audio/es-MX/05/es-05-0171.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0172",
+    "sentence": "En la visita al museo, una niña preguntó por qué el retrato del dueño era más grande que los de sus trabajadores. Su pregunta me sigue rondando cuando preparo recorridos: todavía no tengo una respuesta sencilla.",
+    "cloze": "me sigue rondando",
+    "answer": "me sigue rondando",
+    "lemma": "seguir rondando",
+    "meaning": "still keeps coming back to me",
+    "audio": "work/audio/es-MX/05/es-05-0172.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0173",
+    "sentence": "El año pasado dije que no volvería a aceptar encargos con cambios ilimitados. Este mes perdí un cliente por poner ese límite; aun así, ratifico aquella decisión porque ahora puedo cumplir mis fechas.",
+    "cloze": "ratifico",
+    "answer": "ratifico",
+    "lemma": "ratificar",
+    "meaning": "reaffirm",
+    "audio": "work/audio/es-MX/05/es-05-0173.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0174",
+    "sentence": "En la exposición del año pasado incluimos fotografías familiares junto a las obras de artistas invitados. Esa decisión ha sentado un precedente: quienes preparan la nueva edición ya cuentan con la participación de los vecinos.",
+    "cloze": "ha sentado un precedente",
+    "answer": "ha sentado un precedente",
+    "lemma": "sentar un precedente",
+    "meaning": "has set a precedent",
+    "audio": "work/audio/es-MX/05/es-05-0174.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0175",
+    "sentence": "Cuando mi papá empezó a necesitar compañía, el ascenso pasó a segundo plano y pedí conservar mi horario. Hoy sigo en el mismo puesto por esa elección, que me permite comer con él entre semana.",
+    "cloze": "pasó a segundo plano",
+    "answer": "pasó a segundo plano",
+    "lemma": "pasar a segundo plano",
+    "meaning": "became a secondary priority",
+    "audio": "work/audio/es-MX/05/es-05-0175.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0176",
+    "sentence": "Salí del taller de escritura con una novela empezada y prometí terminarla ese año. Desde que cambié de empleo he venido posponiendo el último capítulo; ahora reconozco que me da miedo darla por terminada.",
+    "cloze": "he venido posponiendo",
+    "answer": "he venido posponiendo",
+    "lemma": "venir posponiendo",
+    "meaning": "have been putting off",
+    "audio": "work/audio/es-MX/05/es-05-0176.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0177",
+    "sentence": "La profesora nos enseñó a preguntar quién habla en cada texto antes de discutir su contenido. Aunque el curso terminó hace veinte años, esa pregunta sigue vigente cuando leo mensajes que circulan sin firma.",
+    "cloze": "sigue vigente",
+    "answer": "sigue vigente",
+    "lemma": "seguir vigente",
+    "meaning": "remains relevant",
+    "audio": "work/audio/es-MX/05/es-05-0177.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0178",
+    "sentence": "Encontré el discurso que pronuncié al recibir mi primer premio. Al leerlo hoy, ya no me identifico con aquella imagen de éxito individual: ahora reconozco cuánto dependí del trabajo de otras personas.",
+    "cloze": "me identifico",
+    "answer": "me identifico",
+    "lemma": "identificarse con",
+    "meaning": "identify with",
+    "audio": "work/audio/es-MX/05/es-05-0178.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0179",
+    "sentence": "Después de una mala visita afirmé que los recorridos guiados solo repetían las cédulas. Mi participación en distintos recorridos durante estos dos años ha desmentido esa idea; hoy elijo según el guía y el tema.",
+    "cloze": "ha desmentido",
+    "answer": "ha desmentido",
+    "lemma": "desmentir",
+    "meaning": "has disproved",
+    "audio": "work/audio/es-MX/05/es-05-0179.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0180",
+    "sentence": "En mi primer empleo ordené expedientes durante meses y creí que no estaba aprendiendo nada. Ahora saco partido de ese entrenamiento cuando organizo entrevistas largas y necesito encontrar un dato sin releerlo todo.",
+    "cloze": "saco partido",
+    "answer": "saco partido",
+    "lemma": "sacar partido",
+    "meaning": "make good use",
+    "audio": "work/audio/es-MX/05/es-05-0180.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0181",
+    "sentence": "Nos conocimos montando una obra en la universidad y después cada quien se fue a una ciudad distinta. De aquella convivencia perdura la confianza para pedirnos una opinión sincera, incluso tras meses sin hablar.",
+    "cloze": "perdura",
+    "answer": "perdura",
+    "lemma": "perdurar",
+    "meaning": "endures",
+    "audio": "work/audio/es-MX/05/es-05-0181.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0182",
+    "sentence": "Mi abuelo me pidió que ordenara sus grabaciones y lo fui dejando hasta después de su muerte. Este año he saldado aquella deuda personal: sus nietos ya pueden escuchar los relatos completos.",
+    "cloze": "he saldado",
+    "answer": "he saldado",
+    "lemma": "saldar",
+    "meaning": "have settled",
+    "audio": "work/audio/es-MX/05/es-05-0182.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0183",
+    "sentence": "Acepté una invitación por el prestigio del festival y pasé tres días sin poder conversar con nadie. Hoy el recuerdo de ese viaje contrarresta mi entusiasmo cuando recibo propuestas con mucho nombre y poco tiempo de encuentro.",
+    "cloze": "contrarresta",
+    "answer": "contrarresta",
+    "lemma": "contrarrestar",
+    "meaning": "counterbalances",
+    "audio": "work/audio/es-MX/05/es-05-0183.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0184",
+    "sentence": "La primera vez que acompañé a mi prima al teatro, ella no pudo seguir varios diálogos porque no había subtítulos. Acompañarla a otras funciones desde entonces me ha abierto los ojos a una barrera que antes ni veía.",
+    "cloze": "me ha abierto los ojos",
+    "answer": "me ha abierto los ojos",
+    "lemma": "abrirle los ojos a alguien",
+    "meaning": "has opened my eyes",
+    "audio": "work/audio/es-MX/05/es-05-0184.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0185",
+    "sentence": "Recomendé el proyecto cuando todavía incluía talleres gratuitos. Ahora que solo ofrece cursos caros, me distancio de aquella recomendación y explico el cambio a quienes me preguntan por ella.",
+    "cloze": "me distancio",
+    "answer": "me distancio",
+    "lemma": "distanciarse de",
+    "meaning": "distance myself",
+    "audio": "work/audio/es-MX/05/es-05-0185.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0186",
+    "sentence": "En aquella reunión paramos la votación para escuchar a quienes atendían al público. Desde entonces se ha arraigado en el equipo la costumbre de consultarles los horarios; ahora nadie los fija sin preguntarles.",
+    "cloze": "se ha arraigado",
+    "answer": "se ha arraigado",
+    "lemma": "arraigarse",
+    "meaning": "has become firmly established",
+    "audio": "work/audio/es-MX/05/es-05-0186.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0187",
+    "sentence": "Recibí el reconocimiento por la exposición que inauguramos en junio. Hoy hago extensivo mi agradecimiento a quienes cuidaron la sala durante semanas: su trabajo permitió que las visitas continuaran después de la inauguración.",
+    "cloze": "hago extensivo",
+    "answer": "hago extensivo",
+    "lemma": "hacer extensivo",
+    "meaning": "extend",
+    "audio": "work/audio/es-MX/05/es-05-0187.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0188",
+    "sentence": "Salimos encantados del documental que vimos en febrero. Después supimos que una participante pidió retirar su testimonio y no la escucharon; ese dato ha empañado mi recuerdo de la película, aunque las imágenes todavía me impresionan.",
+    "cloze": "ha empañado",
+    "answer": "ha empañado",
+    "lemma": "empañar",
+    "meaning": "has tarnished",
+    "audio": "work/audio/es-MX/05/es-05-0188.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0189",
+    "sentence": "En el viaje de fin de carrera grabé conversaciones con mis compañeras sobre el futuro. Diez años después, me sigo nutriendo de esas voces al escribir personajes; sus dudas me sirven más que nuestras respuestas de entonces.",
+    "cloze": "me sigo nutriendo",
+    "answer": "me sigo nutriendo",
+    "lemma": "seguir nutriéndose de",
+    "meaning": "continue drawing inspiration",
+    "audio": "work/audio/es-MX/05/es-05-0189.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0190",
+    "sentence": "Cuando abrí el círculo de lectura, ofrecí comentar por escrito todos los textos. El grupo ha crecido durante este año y esa tarea me ha rebasado; hoy propongo responder por turnos para seguir leyendo con cuidado.",
+    "cloze": "me ha rebasado",
+    "answer": "me ha rebasado",
+    "lemma": "rebasar",
+    "meaning": "has become more than I can handle",
+    "audio": "work/audio/es-MX/05/es-05-0190.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0191",
+    "sentence": "Olvidé una parte de mi exposición en la defensa de tesis y pasé meses evitando hablar en público. Ahora mantengo a raya ese miedo con notas breves; todavía lo siento, pero ya no rechazo invitaciones por él.",
+    "cloze": "mantengo a raya",
+    "answer": "mantengo a raya",
+    "lemma": "mantener a raya",
+    "meaning": "keep in check",
+    "audio": "work/audio/es-MX/05/es-05-0191.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0192",
+    "sentence": "En el taller del año pasado dedicamos varias sesiones a escuchar críticas sin responder de inmediato. Ese esfuerzo ha rendido frutos en los proyectos de este semestre: ya podemos discutir una propuesta sin que nadie sienta que lo están atacando.",
+    "cloze": "ha rendido frutos",
+    "answer": "ha rendido frutos",
+    "lemma": "rendir frutos",
+    "meaning": "has borne fruit",
+    "audio": "work/audio/es-MX/05/es-05-0192.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0193",
+    "sentence": "Vaciamos la casa familiar en abril y entregamos las llaves al día siguiente. Ya terminé todos los trámites, pero sigo sin asimilar la despedida; todavía pienso en llamar para avisar que voy de visita.",
+    "cloze": "sigo sin asimilar",
+    "answer": "sigo sin asimilar",
+    "lemma": "seguir sin asimilar",
+    "meaning": "still have not come to terms with",
+    "audio": "work/audio/es-MX/05/es-05-0193.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0194",
+    "sentence": "A los veinticinco rechacé una beca porque duraba dos años y me pareció demasiado tiempo. Hoy pongo en perspectiva aquella urgencia al ver todo lo que después tardé en encontrar una formación parecida.",
+    "cloze": "pongo en perspectiva",
+    "answer": "pongo en perspectiva",
+    "lemma": "poner en perspectiva",
+    "meaning": "put into perspective",
+    "audio": "work/audio/es-MX/05/es-05-0194.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0195",
+    "sentence": "Dejé el coro después de una temporada de burlas por mis errores. El acompañamiento que recibo desde enero en otro grupo me ha devuelto la confianza para cantar con otros, aunque todavía me cuesta hacer solos.",
+    "cloze": "me ha devuelto",
+    "answer": "me ha devuelto",
+    "lemma": "devolver",
+    "meaning": "has restored to me",
+    "audio": "work/audio/es-MX/05/es-05-0195.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0196",
+    "sentence": "Acepté trabajar gratis en el primer festival porque apoyaba su propósito. Hoy desvinculo ese compromiso de mi disponibilidad: sigo creyendo en el proyecto, pero ya no puedo regalarle los fines de semana.",
+    "cloze": "desvinculo",
+    "answer": "desvinculo",
+    "lemma": "desvincular",
+    "meaning": "separate",
+    "audio": "work/audio/es-MX/05/es-05-0196.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0197",
+    "sentence": "Durante años me presenté como la persona que resolvía todo en el negocio familiar. Ya entregué la administración a mi hermana y ahora dejo atrás ese papel: puedo visitarla sin revisar las cuentas.",
+    "cloze": "dejo atrás",
+    "answer": "dejo atrás",
+    "lemma": "dejar atrás",
+    "meaning": "leave behind",
+    "audio": "work/audio/es-MX/05/es-05-0197.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0198",
+    "sentence": "Prestamos nuestras computadoras para el primer curso de la colonia y dudamos de que eso bastara. Con los préstamos de otros vecinos desde entonces, aquella ayuda se ha traducido en acceso regular a clases; hoy el salón abre tres tardes por semana.",
+    "cloze": "se ha traducido",
+    "answer": "se ha traducido",
+    "lemma": "traducirse en",
+    "meaning": "has resulted in",
+    "audio": "work/audio/es-MX/05/es-05-0198.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0199",
+    "sentence": "Mi abuela me contó por qué dejó su pueblo y yo solo me fijé en la aventura. Ahora que vivo lejos, su relato resuena de otra manera en mí: entiendo el esfuerzo que le costaba cada regreso.",
+    "cloze": "resuena",
+    "answer": "resuena",
+    "lemma": "resonar",
+    "meaning": "resonates",
+    "audio": "work/audio/es-MX/05/es-05-0199.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0200",
+    "sentence": "Al salir de la cooperativa acordamos seguir intercambiando herramientas sin cobrarnos. Tras tres mudanzas y varios cambios de trabajo, aquel acuerdo ha resistido el paso del tiempo: hoy seguimos pidiendo prestado antes de comprar.",
+    "cloze": "ha resistido",
+    "answer": "ha resistido",
+    "lemma": "resistir",
+    "meaning": "has withstood",
+    "audio": "work/audio/es-MX/05/es-05-0200.mp3",
+    "accepted_answers": []
   }
 ]
