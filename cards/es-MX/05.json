@@ -7198,5 +7198,405 @@
     "meaning": "I will leave it at that",
     "audio": "work/audio/es-MX/05/es-05-0715.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-0716",
+    "sentence": "El correo incluye la propuesta del coordinador, la cual sigue abierta a comentarios; lo aprobado ayer fue el calendario, no esa propuesta.",
+    "cloze": "la cual",
+    "answer": "la cual",
+    "lemma": "el cual",
+    "meaning": "which",
+    "audio": "work/audio/es-MX/05/es-05-0716.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0717",
+    "sentence": "La señora que moderó la charla —la que recogió las preguntas al final, para más señas— aceptó volver y pidió que le mandáramos las preguntas antes.",
+    "cloze": "para más señas",
+    "answer": "para más señas",
+    "lemma": "para más señas",
+    "meaning": "to be more specific",
+    "audio": "work/audio/es-MX/05/es-05-0717.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0718",
+    "sentence": "La petición de abrir los domingos llegó al comité por conducto de la administradora, que solo entregó la carta. Que ella diga que no puede cambiar el horario no equivale a que el comité haya rechazado la solicitud.",
+    "cloze": "por conducto de",
+    "answer": "por conducto de",
+    "lemma": "por conducto de",
+    "meaning": "through the intermediary of",
+    "audio": "work/audio/es-MX/05/es-05-0718.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0719",
+    "sentence": "Al presentar el premio del mural, aclara que lo recibió el colectivo; sus integrantes no fueron premiados en lo individual y no todos participaron en la misma medida.",
+    "cloze": "en lo individual",
+    "answer": "en lo individual",
+    "lemma": "en lo individual",
+    "meaning": "individually",
+    "audio": "work/audio/es-MX/05/es-05-0719.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0720",
+    "sentence": "El centro cultural lleva el nombre de Elena Ríos, pero abrió después de su muerte. Cuando el boletín dice que «Elena Ríos organiza el taller», se refiere al centro, no a una actividad de la escritora.",
+    "cloze": "lleva el nombre",
+    "answer": "lleva el nombre",
+    "lemma": "llevar el nombre de",
+    "meaning": "bears the name",
+    "audio": "work/audio/es-MX/05/es-05-0720.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0721",
+    "sentence": "Avísale a Ernesto, alias «El Flaco», que ya está listo el cartel. En las notas del ensayo aparece con su nombre y en el cartel con el apodo; basta con mandarle una invitación.",
+    "cloze": "alias",
+    "answer": "alias",
+    "lemma": "alias",
+    "meaning": "also known as",
+    "audio": "work/audio/es-MX/05/es-05-0721.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0722",
+    "sentence": "El acta es anterior a la fecha en que la asociación se escindió en dos grupos. Por eso, el «nosotros» del documento reúne a miembros que hoy están separados; no atribuyamos aquel acuerdo solo al grupo que conservó el nombre.",
+    "cloze": "se escindió",
+    "answer": "se escindió",
+    "lemma": "escindirse",
+    "meaning": "split",
+    "audio": "work/audio/es-MX/05/es-05-0722.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0723",
+    "sentence": "Sigo formando parte de la asociación, pero me deslindo de la carta que publicó su presidente: no participé en su redacción ni autoricé que usara mi nombre.",
+    "cloze": "me deslindo",
+    "answer": "me deslindo",
+    "lemma": "deslindarse",
+    "meaning": "I dissociate myself",
+    "audio": "work/audio/es-MX/05/es-05-0723.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0724",
+    "sentence": "Te envío cuanto pude conservar de nuestra conversación con el arrendador. Hay mensajes que se borraron al cambiar de teléfono, así que este archivo no contiene todo el intercambio.",
+    "cloze": "cuanto",
+    "answer": "cuanto",
+    "lemma": "cuanto",
+    "meaning": "everything that",
+    "audio": "work/audio/es-MX/05/es-05-0724.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0725",
+    "sentence": "La dedicatoria está de puño y letra de mi abuela, pero ella copió unas palabras de su hermana. En el álbum, distingamos a quien escribió esas líneas en la página de quien las compuso.",
+    "cloze": "de puño y letra",
+    "answer": "de puño y letra",
+    "lemma": "de puño y letra",
+    "meaning": "in one's own handwriting",
+    "audio": "work/audio/es-MX/05/es-05-0725.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0726",
+    "sentence": "La vecina dijo: «No aceptaré las obras si bloquean la entrada». En sustancia, rechazó las obras que impidieran el paso; no prometió aceptar cualquier proyecto que dejara libre el acceso.",
+    "cloze": "En sustancia",
+    "answer": "En sustancia",
+    "lemma": "en sustancia",
+    "meaning": "in essence",
+    "audio": "work/audio/es-MX/05/es-05-0726.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0727",
+    "sentence": "El resumen habla de un acuerdo de todos los asistentes, entre quienes estaba Lucía; ella votó en contra y pidió que su desacuerdo quedara por escrito.",
+    "cloze": "entre quienes",
+    "answer": "entre quienes",
+    "lemma": "quien",
+    "meaning": "among whom",
+    "audio": "work/audio/es-MX/05/es-05-0727.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0728",
+    "sentence": "En la versión editada se funden las voces de dos vecinas en un solo «yo». Separemos sus intervenciones: una presenció la discusión y la otra contó lo que le dijeron.",
+    "cloze": "se funden",
+    "answer": "se funden",
+    "lemma": "fundirse",
+    "meaning": "are merged",
+    "audio": "work/audio/es-MX/05/es-05-0728.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0729",
+    "sentence": "Los dos vecinos enviaron cartas con la misma petición, pero actuaron por cuenta propia: ninguno sabía que el otro iba a escribir. No los presentes como una comisión que acordó una postura común.",
+    "cloze": "por cuenta propia",
+    "answer": "por cuenta propia",
+    "lemma": "por cuenta propia",
+    "meaning": "independently",
+    "audio": "work/audio/es-MX/05/es-05-0729.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0730",
+    "sentence": "¿Podemos firmar todos el comunicado? Se escribió a varias manos, modificando juntos las mismas frases; yo envié la versión final, pero no fui su único autor.",
+    "cloze": "a varias manos",
+    "answer": "a varias manos",
+    "lemma": "a varias manos",
+    "meaning": "collaboratively",
+    "audio": "work/audio/es-MX/05/es-05-0730.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0731",
+    "sentence": "La queja llama a Pablo «el que filtró el borrador». Para responder, podemos referirnos a él como el aludido sin aceptar esa descripción; todavía no se ha comprobado que alguien lo haya filtrado.",
+    "cloze": "aludido",
+    "answer": "aludido",
+    "lemma": "aludido",
+    "meaning": "person referred to",
+    "audio": "work/audio/es-MX/05/es-05-0731.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0732",
+    "sentence": "La carta empieza «Señor director», pero también interpela a las familias cuando pregunta por qué aceptamos que se decida sin consultarnos. El destinatario del saludo no es el único público al que pide responder.",
+    "cloze": "interpela",
+    "answer": "interpela",
+    "lemma": "interpelar",
+    "meaning": "challenges",
+    "audio": "work/audio/es-MX/05/es-05-0732.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0733",
+    "sentence": "Lucía preguntó si habría favoritismo al elegir a los invitados. Escribir que lo denunció sería poner palabras en boca de Lucía: una pregunta no equivale a una acusación.",
+    "cloze": "poner palabras en boca de",
+    "answer": "poner palabras en boca de",
+    "lemma": "poner palabras en boca de",
+    "meaning": "put words in the mouth of",
+    "audio": "work/audio/es-MX/05/es-05-0733.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0734",
+    "sentence": "En casa siempre lo contamos como una anécdota de mi tía, aunque ella ni siquiera había nacido cuando ocurrió. El relato se remonta a una carta de la bisabuela que mi tía encontró entre unas fotos.",
+    "cloze": "se remonta",
+    "answer": "se remonta",
+    "lemma": "remontarse",
+    "meaning": "traces back",
+    "audio": "work/audio/es-MX/05/es-05-0734.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0735",
+    "sentence": "Si vas a citar a mi hermana, deja fuera la comparación con una máquina: es de mi cosecha y yo la añadí al contar que ella llevaba semanas sin descansar.",
+    "cloze": "de mi cosecha",
+    "answer": "de mi cosecha",
+    "lemma": "de cosecha propia",
+    "meaning": "of my own invention",
+    "audio": "work/audio/es-MX/05/es-05-0735.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0736",
+    "sentence": "Rosa reconoce haber escrito aquella carta, pero reniega del desprecio con que habló de sus vecinos. No resumas eso como una negación de autoría: rechaza lo que sostuvo, no el hecho de haberlo escrito.",
+    "cloze": "reniega",
+    "answer": "reniega",
+    "lemma": "renegar",
+    "meaning": "disowns",
+    "audio": "work/audio/es-MX/05/es-05-0736.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0737",
+    "sentence": "Leí: «No podremos abrir mañana». Hasta ahí llega el mensaje de Eva; lo que sigue sobre cerrar todo el mes lo añadí yo como posibilidad. No se lo atribuyas a ella.",
+    "cloze": "Hasta ahí",
+    "answer": "Hasta ahí",
+    "lemma": "hasta ahí",
+    "meaning": "up to that point",
+    "audio": "work/audio/es-MX/05/es-05-0737.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0738",
+    "sentence": "En nuestro ejemplo, «el vecino que rechaza todo» es hipotético; no estamos describiendo a ninguna persona del edificio. No uses después «él» para hablar de quien votó en contra ayer: estarías convirtiendo el ejemplo en una acusación.",
+    "cloze": "hipotético",
+    "answer": "hipotético",
+    "lemma": "hipotético",
+    "meaning": "hypothetical",
+    "audio": "work/audio/es-MX/05/es-05-0738.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0739",
+    "sentence": "Puedo contar el incidente sin dar nombres, pero con el puesto y el turno bastaría para reconocer al encargado; antes de prometerle anonimato, prefiero revisar esos detalles con él.",
+    "cloze": "dar nombres",
+    "answer": "dar nombres",
+    "lemma": "dar nombres",
+    "meaning": "name names",
+    "audio": "work/audio/es-MX/05/es-05-0739.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0740",
+    "sentence": "El mensaje se presenta como una decisión de todo el equipo, incluidas las instructoras, pero se preparó a espaldas de ellas: supieron del cierre al recibirlo. Ese «hemos decidido» les atribuye una participación que no tuvieron.",
+    "cloze": "a espaldas de",
+    "answer": "a espaldas de",
+    "lemma": "a espaldas de",
+    "meaning": "without the knowledge of",
+    "audio": "work/audio/es-MX/05/es-05-0740.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0741",
+    "sentence": "«Nunca lo vi entrar», dijo Diego. En su aclaración de hoy acota su afirmación al rato que estuvo en recepción; necesitamos conservar esa precisión, porque salió del edificio antes de la reunión.",
+    "cloze": "acota",
+    "answer": "acota",
+    "lemma": "acotar",
+    "meaning": "limits the scope of",
+    "audio": "work/audio/es-MX/05/es-05-0741.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0742",
+    "sentence": "Sé de primera mano que Ana acusó a Luis de borrar el archivo, porque la escuché decirlo. Eso no me convierte en testigo de lo ocurrido con el archivo: puedo confirmar la acusación, no que Luis lo borrara.",
+    "cloze": "de primera mano",
+    "answer": "de primera mano",
+    "lemma": "de primera mano",
+    "meaning": "firsthand",
+    "audio": "work/audio/es-MX/05/es-05-0742.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0743",
+    "sentence": "¿Vamos a describir como un acuerdo lo anunciado en la mal llamada «reunión de consulta»? Nadie nos pidió una opinión; para el relato, prefiero «anuncio de la decisión».",
+    "cloze": "mal llamada",
+    "answer": "mal llamada",
+    "lemma": "mal llamado",
+    "meaning": "misleadingly called",
+    "audio": "work/audio/es-MX/05/es-05-0743.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0744",
+    "sentence": "Te envié una nueva propuesta mientras tú respondías a mi pregunta sobre cancelar la reunión. Los mensajes se cruzaron: tu «sí» aceptaba la cancelación, pero yo lo tomé como aprobación de la nueva opción.",
+    "cloze": "se cruzaron",
+    "answer": "se cruzaron",
+    "lemma": "cruzarse",
+    "meaning": "crossed in transit",
+    "audio": "work/audio/es-MX/05/es-05-0744.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0745",
+    "sentence": "Trabajo en la escuela y también soy mamá de una alumna; hoy intervengo en calidad de madre. Mi comentario sobre las tareas no es una instrucción para el personal ni una postura de la dirección.",
+    "cloze": "en calidad de",
+    "answer": "en calidad de",
+    "lemma": "en calidad de",
+    "meaning": "in the capacity of",
+    "audio": "work/audio/es-MX/05/es-05-0745.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0746",
+    "sentence": "Les escribo porque varias compañeras temen quedarse sin transporte con el nuevo horario; me hago eco de esa preocupación, aunque todavía no he comprobado qué rutas operan a la salida.",
+    "cloze": "me hago eco",
+    "answer": "me hago eco",
+    "lemma": "hacerse eco",
+    "meaning": "I relay",
+    "audio": "work/audio/es-MX/05/es-05-0746.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0747",
+    "sentence": "El boletín repitió el rumor de la página del barrio; ahora esa página cita al boletín como confirmación. Las dos publicaciones se retroalimentan, sin que aparezca una fuente ajena a ese intercambio.",
+    "cloze": "se retroalimentan",
+    "answer": "se retroalimentan",
+    "lemma": "retroalimentarse",
+    "meaning": "reinforce each other",
+    "audio": "work/audio/es-MX/05/es-05-0747.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0748",
+    "sentence": "¿Por qué la presentación del libro dice que la autora perdió a su hermano? Esa experiencia pertenece a la narradora; la escritora aclaró que inventó el episodio, aunque lo contara en primera persona.",
+    "cloze": "narradora",
+    "answer": "narradora",
+    "lemma": "narrador",
+    "meaning": "female narrator",
+    "audio": "work/audio/es-MX/05/es-05-0748.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0749",
+    "sentence": "Antes de llamar cómplices a quienes reenviaron el mensaje, distingue quiénes colaboraron a sabiendas y quiénes creían estar compartiendo información verdadera; la misma etiqueta les atribuye una intención que no todos tenían.",
+    "cloze": "a sabiendas",
+    "answer": "a sabiendas",
+    "lemma": "a sabiendas",
+    "meaning": "knowingly",
+    "audio": "work/audio/es-MX/05/es-05-0749.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0750",
+    "sentence": "La supuesta despedida de la fundadora es apócrifa: el editor del boletín reconoció que la escribió él, aunque la publicó con el nombre de ella.",
+    "cloze": "apócrifa",
+    "answer": "apócrifa",
+    "lemma": "apócrifo",
+    "meaning": "falsely attributed",
+    "audio": "work/audio/es-MX/05/es-05-0750.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0751",
+    "sentence": "La reseña llama «beneficiarios» a los vecinos, pero añade que nadie les preguntó si querían el cambio. Con esas comillas, la autora toma distancia de la etiqueta empleada por los organizadores.",
+    "cloze": "toma distancia",
+    "answer": "toma distancia",
+    "lemma": "tomar distancia",
+    "meaning": "distances herself",
+    "audio": "work/audio/es-MX/05/es-05-0751.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0752",
+    "sentence": "Una compañera pidió una disculpa y otra solo una explicación. Andrés se arroga la representación de ambas al declarar «pedimos una disculpa»; ninguna le encargó hablar y sus peticiones ni siquiera coinciden.",
+    "cloze": "se arroga",
+    "answer": "se arroga",
+    "lemma": "arrogarse",
+    "meaning": "claims for himself without authority",
+    "audio": "work/audio/es-MX/05/es-05-0752.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0753",
+    "sentence": "Julia contó: «Vendí mi casa para mantener abierto el taller; el taller es mi casa». La segunda vez habla en sentido figurado: ahí se siente parte de una comunidad, aunque vive en un departamento. Lo que vendió fue la vivienda.",
+    "cloze": "en sentido figurado",
+    "answer": "en sentido figurado",
+    "lemma": "en sentido figurado",
+    "meaning": "figuratively",
+    "audio": "work/audio/es-MX/05/es-05-0753.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0754",
+    "sentence": "No conviertas mis comentarios sobre quien coordina un equipo en un reproche a nuestra coordinadora: estoy hablando en abstracto de las responsabilidades del puesto, sin afirmar que ella haya incumplido alguna.",
+    "cloze": "en abstracto",
+    "answer": "en abstracto",
+    "lemma": "en abstracto",
+    "meaning": "in the abstract",
+    "audio": "work/audio/es-MX/05/es-05-0754.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0755",
+    "sentence": "Deja «incompetente» como está: se entrecomilla para discutir el uso de esa palabra, no para calificar a la coordinadora. Luego podemos decidir si conviene conservarla en el resumen.",
+    "cloze": "se entrecomilla",
+    "answer": "se entrecomilla",
+    "lemma": "entrecomillar",
+    "meaning": "is put in quotation marks",
+    "audio": "work/audio/es-MX/05/es-05-0755.mp3",
+    "accepted_answers": []
   }
 ]
