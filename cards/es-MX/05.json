@@ -11300,5 +11300,345 @@
     "meaning": "is at stake",
     "audio": "work/audio/es-MX/05/es-05-1125.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1126",
+    "sentence": "Ante ustedes argumento a favor de entregar el proyecto por etapas: revisar cada parte antes de empezar la siguiente permite corregir un error sin rehacer todo el trabajo.",
+    "cloze": "argumento",
+    "answer": "argumento",
+    "lemma": "argumentar",
+    "meaning": "I argue",
+    "audio": "work/audio/es-MX/05/es-05-1126.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1127",
+    "sentence": "Al pedir que me consulten antes de cambiar el artículo, hago valer mi condición de autora: aparecerá con mi nombre y tendré que responder por lo que diga.",
+    "cloze": "hago valer",
+    "answer": "hago valer",
+    "lemma": "hacer valer",
+    "meaning": "I assert",
+    "audio": "work/audio/es-MX/05/es-05-1127.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1128",
+    "sentence": "Mi lectura del cuento como una historia de reconciliación se sustenta en un cambio concreto: al principio los hermanos se niegan a escucharse y al final cada uno cuenta la versión del otro.",
+    "cloze": "se sustenta",
+    "answer": "se sustenta",
+    "lemma": "sustentarse",
+    "meaning": "is grounded",
+    "audio": "work/audio/es-MX/05/es-05-1128.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1129",
+    "sentence": "Todavía no sabemos cómo participará el grupo con esta dinámica; esa incertidumbre aconseja probarla en una sesión antes de incorporarla a todo el curso.",
+    "cloze": "aconseja",
+    "answer": "aconseja",
+    "lemma": "aconsejar",
+    "meaning": "calls for",
+    "audio": "work/audio/es-MX/05/es-05-1129.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1130",
+    "sentence": "Al proponer que ahora ayudemos al equipo de la tarde, apelo a la reciprocidad: ellos cubrieron nuestra mesa cuando nosotros tuvimos que salir.",
+    "cloze": "apelo",
+    "answer": "apelo",
+    "lemma": "apelar",
+    "meaning": "I appeal",
+    "audio": "work/audio/es-MX/05/es-05-1130.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1131",
+    "sentence": "Esta libreta ejemplifica lo que defiendo sobre los objetos cotidianos: además de servir para hacer cuentas, puede conservar la historia de una familia, como muestran las notas personales entre sus páginas.",
+    "cloze": "ejemplifica",
+    "answer": "ejemplifica",
+    "lemma": "ejemplificar",
+    "meaning": "exemplifies",
+    "audio": "work/audio/es-MX/05/es-05-1131.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1132",
+    "sentence": "Propongo incluir este cortometraje e invoco el criterio que acordamos para la muestra: presentar conflictos del barrio desde la mirada de sus habitantes; aquí son las vecinas quienes cuentan el cierre del mercado.",
+    "cloze": "invoco",
+    "answer": "invoco",
+    "lemma": "invocar",
+    "meaning": "I invoke",
+    "audio": "work/audio/es-MX/05/es-05-1132.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1133",
+    "sentence": "Ya propuse conservar las tutorías porque permiten revisar dificultades individuales; que también podamos consultar las correcciones entre sesiones refuerza esa propuesta con una razón distinta.",
+    "cloze": "refuerza",
+    "answer": "refuerza",
+    "lemma": "reforzar",
+    "meaning": "strengthens",
+    "audio": "work/audio/es-MX/05/es-05-1133.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1134",
+    "sentence": "La propuesta de enviar las preguntas antes de la reunión responde a una dificultad concreta: varios compañeros necesitan consultar sus registros para contestarlas con precisión.",
+    "cloze": "responde",
+    "answer": "responde",
+    "lemma": "responder",
+    "meaning": "addresses",
+    "audio": "work/audio/es-MX/05/es-05-1134.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1135",
+    "sentence": "La autorización que recibió el grupo de teatro para guardar sus materiales aquí sienta un precedente para nuestra petición: el grupo de danza solicita el mismo espacio bajo las mismas condiciones.",
+    "cloze": "sienta un precedente",
+    "answer": "sienta un precedente",
+    "lemma": "sentar un precedente",
+    "meaning": "sets a precedent",
+    "audio": "work/audio/es-MX/05/es-05-1135.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1136",
+    "sentence": "Necesitamos discutir el montaje con todo el equipo y esa discusión requiere ver las piezas juntas; concluyo que conviene reunirnos en el taller, donde ya están colocadas.",
+    "cloze": "concluyo",
+    "answer": "concluyo",
+    "lemma": "concluir",
+    "meaning": "I conclude",
+    "audio": "work/audio/es-MX/05/es-05-1136.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1137",
+    "sentence": "Pido intervenir en esta decisión porque el acuerdo da derecho a votar a todas las personas que participan en el proyecto, y yo participo desde su inicio.",
+    "cloze": "da derecho",
+    "answer": "da derecho",
+    "lemma": "dar derecho",
+    "meaning": "entitles",
+    "audio": "work/audio/es-MX/05/es-05-1137.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1138",
+    "sentence": "Mi rechazo a publicar hoy obedece al compromiso de consultar a las personas fotografiadas: todavía no les hemos mostrado qué imágenes queremos incluir.",
+    "cloze": "obedece",
+    "answer": "obedece",
+    "lemma": "obedecer",
+    "meaning": "stems from",
+    "audio": "work/audio/es-MX/05/es-05-1138.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1139",
+    "sentence": "Defiendo que podemos abrir el archivo a consulta sin comprar equipo: el préstamo confirmado de dos computadoras hace posible esa modalidad de acceso durante la muestra.",
+    "cloze": "hace posible",
+    "answer": "hace posible",
+    "lemma": "hacer posible",
+    "meaning": "makes possible",
+    "audio": "work/audio/es-MX/05/es-05-1139.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1140",
+    "sentence": "Para defender la revisión por parejas, mis razones se encadenan: explicar una decisión ayuda a ordenarla, y ese orden facilita detectar dónde falta una explicación para el lector.",
+    "cloze": "se encadenan",
+    "answer": "se encadenan",
+    "lemma": "encadenarse",
+    "meaning": "form a chain",
+    "audio": "work/audio/es-MX/05/es-05-1140.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1141",
+    "sentence": "Ante el comité justifico la pausa únicamente en la mesa de inscripción: los nombres de esa lista se borraron y hay que recuperarlos para seguir; las demás mesas pueden continuar.",
+    "cloze": "justifico",
+    "answer": "justifico",
+    "lemma": "justificar",
+    "meaning": "I justify",
+    "audio": "work/audio/es-MX/05/es-05-1141.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1142",
+    "sentence": "Para defender que conservemos la edición impresa, saco a colación un dato que no hemos considerado en la discusión: varias personas del grupo consultan la guía donde no tienen conexión.",
+    "cloze": "saco a colación",
+    "answer": "saco a colación",
+    "lemma": "sacar a colación",
+    "meaning": "I bring up",
+    "audio": "work/audio/es-MX/05/es-05-1142.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1143",
+    "sentence": "Que los alumnos puedan volver a escuchar sus propias preguntas contribuye a sostener mi propuesta de grabar las asesorías; la grabación también debe incluir las respuestas para servirles de repaso.",
+    "cloze": "contribuye",
+    "answer": "contribuye",
+    "lemma": "contribuir",
+    "meaning": "contributes",
+    "audio": "work/audio/es-MX/05/es-05-1143.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1144",
+    "sentence": "En la selección de esta muestra defiendo el sorteo entre las propuestas que cumplieron todos los requisitos porque da a cada una la misma oportunidad, incluso si la nuestra no queda elegida.",
+    "cloze": "defiendo",
+    "answer": "defiendo",
+    "lemma": "defender",
+    "meaning": "I defend",
+    "audio": "work/audio/es-MX/05/es-05-1144.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1145",
+    "sentence": "La inscripción digital requiere computadora y la única alternativa disponible es el formato en papel; ofrecer el taller también a quienes no tienen una exige conservar esa alternativa.",
+    "cloze": "exige",
+    "answer": "exige",
+    "lemma": "exigir",
+    "meaning": "requires",
+    "audio": "work/audio/es-MX/05/es-05-1145.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1146",
+    "sentence": "Los autores necesitan comentarios para continuar y llegan borradores todos los días; pongo de relieve esa frecuencia para defender que reservemos un espacio diario de revisión.",
+    "cloze": "pongo de relieve",
+    "answer": "pongo de relieve",
+    "lemma": "poner de relieve",
+    "meaning": "I highlight",
+    "audio": "work/audio/es-MX/05/es-05-1146.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1147",
+    "sentence": "Aquí llamamos participación a tomar decisiones que modifican la obra; mi afirmación de que esta instalación es participativa se deriva de ese criterio: el público decide dónde colocar las piezas y cambia lo que verán los siguientes visitantes.",
+    "cloze": "se deriva",
+    "answer": "se deriva",
+    "lemma": "derivarse",
+    "meaning": "follows",
+    "audio": "work/audio/es-MX/05/es-05-1147.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1148",
+    "sentence": "La razón de ser del turno de preguntas es permitir que el público pida aclaraciones; como la exposición introduce términos nuevos, propongo mantener ese turno aunque recortemos la presentación.",
+    "cloze": "razón de ser",
+    "answer": "razón de ser",
+    "lemma": "razón de ser",
+    "meaning": "underlying purpose",
+    "audio": "work/audio/es-MX/05/es-05-1148.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1149",
+    "sentence": "Mi argumento sobre el espacio se complementa con el del personal para defender que podemos atender dos grupos: hay dos salones disponibles y una tallerista distinta para cada uno.",
+    "cloze": "se complementa",
+    "answer": "se complementa",
+    "lemma": "complementarse",
+    "meaning": "is complemented",
+    "audio": "work/audio/es-MX/05/es-05-1149.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1150",
+    "sentence": "Al solicitar otra oportunidad para presentar mi trabajo, aduzco un impedimento ajeno a mi preparación: la organización me envió el enlace de otra sala y por eso no pude entrar a la sesión asignada.",
+    "cloze": "aduzco",
+    "answer": "aduzco",
+    "lemma": "aducir",
+    "meaning": "I cite as grounds",
+    "audio": "work/audio/es-MX/05/es-05-1150.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1151",
+    "sentence": "Para pedir que la cuota sea voluntaria, me basta con recordar que anunciamos la actividad como gratuita; no necesito saber cuánto puede pagar cada familia para defender esa petición.",
+    "cloze": "me basta",
+    "answer": "me basta",
+    "lemma": "bastar",
+    "meaning": "is enough for me",
+    "audio": "work/audio/es-MX/05/es-05-1151.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1152",
+    "sentence": "Como coordinadora, reconozco a las entrevistadas el derecho a figurar como colaboradoras porque eligieron los temas y revisaron la selección, además de contar sus historias; su intervención incluyó decisiones sobre el contenido.",
+    "cloze": "reconozco",
+    "answer": "reconozco",
+    "lemma": "reconocer",
+    "meaning": "I recognize",
+    "audio": "work/audio/es-MX/05/es-05-1152.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1153",
+    "sentence": "Para defender mi petición de una respuesta, documento los intentos de contacto con los correos enviados y sus fechas: escribí por el canal indicado en tres ocasiones y ninguno recibió contestación.",
+    "cloze": "documento",
+    "answer": "documento",
+    "lemma": "documentar",
+    "meaning": "I document",
+    "audio": "work/audio/es-MX/05/es-05-1153.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1154",
+    "sentence": "Haber invitado a los vecinos a proponer actividades nos compromete a explicar qué pasó con sus propuestas; por eso pido que el informe incluya también las que no aceptamos.",
+    "cloze": "compromete",
+    "answer": "compromete",
+    "lemma": "comprometer",
+    "meaning": "obliges",
+    "audio": "work/audio/es-MX/05/es-05-1154.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1155",
+    "sentence": "Las razones para revisar todo el índice se acumulan con cada enlace equivocado que encontramos en apartados distintos; propongo comprobarlo completo, en vez de corregir solo el primero que falló.",
+    "cloze": "se acumulan",
+    "answer": "se acumulan",
+    "lemma": "acumularse",
+    "meaning": "accumulate",
+    "audio": "work/audio/es-MX/05/es-05-1155.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1156",
+    "sentence": "Que varios participantes necesiten la constancia para entregar su solicitud esta semana da peso a la petición de enviarla ya.",
+    "cloze": "da peso",
+    "answer": "da peso",
+    "lemma": "dar peso",
+    "meaning": "lends weight",
+    "audio": "work/audio/es-MX/05/es-05-1156.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1157",
+    "sentence": "Leer la escena como un intento de despedida da sentido a que el personaje devuelva las llaves y recoja sus cartas; esos dos gestos son la razón por la que propongo esa interpretación.",
+    "cloze": "da sentido",
+    "answer": "da sentido",
+    "lemma": "dar sentido",
+    "meaning": "makes sense of",
+    "audio": "work/audio/es-MX/05/es-05-1157.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1158",
+    "sentence": "Para defender la utilidad de probar la presentación antes del encuentro, recurro a la comparación con un ensayo de teatro: en ambos casos, hacer la secuencia completa permite descubrir transiciones que faltan.",
+    "cloze": "recurro",
+    "answer": "recurro",
+    "lemma": "recurrir",
+    "meaning": "I draw on",
+    "audio": "work/audio/es-MX/05/es-05-1158.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1159",
+    "sentence": "Podemos abrir la discusión con una pregunta breve; lo demuestro con «¿Qué cambiarías?», que deja a cada participante elegir el aspecto del que quiere hablar.",
+    "cloze": "lo demuestro",
+    "answer": "lo demuestro",
+    "lemma": "demostrar",
+    "meaning": "I demonstrate it",
+    "audio": "work/audio/es-MX/05/es-05-1159.mp3",
+    "accepted_answers": []
   }
 ]
