@@ -2802,5 +2802,443 @@
     "meaning": "had refrained",
     "audio": "work/audio/es-MX/05/es-05-0280.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-0281",
+    "sentence": "Dejamos pendiente el uso del patio al firmar la renta; si en enero lo hubiéramos pactado con la dueña, hoy no dependeríamos de su permiso para cada reunión.",
+    "cloze": "lo hubiéramos pactado",
+    "answer": "lo hubiéramos pactado",
+    "lemma": "pactar",
+    "meaning": "had agreed on it",
+    "audio": "work/audio/es-MX/05/es-05-0281.mp3",
+    "accepted_answers": [
+      "lo hubiésemos pactado"
+    ]
+  },
+  {
+    "id": "es-05-0282",
+    "sentence": "La rotación que descartamos en marzo incluía a todo el equipo; si la hubiéramos adoptado, hoy la atención de quejas no recaería únicamente en Lucía.",
+    "cloze": "recaería",
+    "answer": "recaería",
+    "lemma": "recaer",
+    "meaning": "would fall",
+    "audio": "work/audio/es-MX/05/es-05-0282.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0283",
+    "sentence": "En el curso elegí grabar mis presentaciones en lugar de hacerlas en vivo; si hubiera practicado frente al grupo, ¿me desenvolvería hoy con más soltura ante este público?",
+    "cloze": "me desenvolvería",
+    "answer": "me desenvolvería",
+    "lemma": "desenvolverse",
+    "meaning": "would perform",
+    "audio": "work/audio/es-MX/05/es-05-0283.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0284",
+    "sentence": "No pudiste elegir el grupo: la escuela te asignó el único horario disponible. Si hubieras podido escoger al inscribirte, hoy quizá no tendrías que pedir permiso en el trabajo para asistir a clase.",
+    "cloze": "hubieras podido",
+    "answer": "hubieras podido",
+    "lemma": "poder",
+    "meaning": "had been able to",
+    "audio": "work/audio/es-MX/05/es-05-0284.mp3",
+    "accepted_answers": [
+      "hubieses podido"
+    ]
+  },
+  {
+    "id": "es-05-0285",
+    "sentence": "La licuadora ya no funciona y la garantía ampliada que rechazaste duraba solo seis meses; aunque la hubieras comprado con el aparato hace más de un año, hoy ya habría dejado de cubrir las reparaciones.",
+    "cloze": "habría dejado de",
+    "answer": "habría dejado de",
+    "lemma": "dejar de",
+    "meaning": "would have stopped",
+    "audio": "work/audio/es-MX/05/es-05-0285.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0286",
+    "sentence": "La ausencia de Beto paraliza hoy las inscripciones; si otra persona se hubiera capacitado con él en febrero, podríamos seguir atendiendo sin pedirle que interrumpa sus vacaciones.",
+    "cloze": "se hubiera capacitado",
+    "answer": "se hubiera capacitado",
+    "lemma": "capacitarse",
+    "meaning": "had received training",
+    "audio": "work/audio/es-MX/05/es-05-0286.mp3",
+    "accepted_answers": [
+      "se hubiese capacitado"
+    ]
+  },
+  {
+    "id": "es-05-0287",
+    "sentence": "—¿Por qué elegiste el curso intensivo? —Si hubiera tomado el anual, hoy tendría que seguir asistiendo los sábados; terminé en junio y ahora puedo acompañarte al taller.",
+    "cloze": "tendría que seguir",
+    "answer": "tendría que seguir",
+    "lemma": "tener que seguir",
+    "meaning": "would have to keep",
+    "audio": "work/audio/es-MX/05/es-05-0287.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0288",
+    "sentence": "Hoy no podríamos reorganizar el librero en el departamento nuevo si lo hubiéramos mandado hacer en una sola pieza para el anterior; elegimos módulos separados y caben en la pared más corta.",
+    "cloze": "lo hubiéramos mandado hacer",
+    "answer": "lo hubiéramos mandado hacer",
+    "lemma": "mandar hacer",
+    "meaning": "had had it made",
+    "audio": "work/audio/es-MX/05/es-05-0288.mp3",
+    "accepted_answers": [
+      "lo hubiésemos mandado hacer"
+    ]
+  },
+  {
+    "id": "es-05-0289",
+    "sentence": "El refrigerador era más barato a meses, pero elegimos uno usado de contado; si hubiéramos comprado el nuevo en mayo, todavía lo estaríamos pagando ahora que bajaron nuestros ingresos.",
+    "cloze": "lo estaríamos pagando",
+    "answer": "lo estaríamos pagando",
+    "lemma": "pagar",
+    "meaning": "would be paying for it",
+    "audio": "work/audio/es-MX/05/es-05-0289.mp3",
+    "accepted_answers": [
+      "estaríamos pagándolo"
+    ]
+  },
+  {
+    "id": "es-05-0290",
+    "sentence": "Ahora necesitan preparar solos la primera demostración. Si ustedes hubieran aceptado la capacitación de abril, para estas fechas ya habrían tenido ocasión de practicar con apoyo.",
+    "cloze": "habrían tenido",
+    "answer": "habrían tenido",
+    "lemma": "tener",
+    "meaning": "would have had",
+    "audio": "work/audio/es-MX/05/es-05-0290.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0291",
+    "sentence": "Conservé mis herramientas al cambiar de oficio; de haberlas vendido en enero, hoy carecería del equipo necesario para aceptar estos encargos pequeños.",
+    "cloze": "carecería",
+    "answer": "carecería",
+    "lemma": "carecer",
+    "meaning": "would lack",
+    "audio": "work/audio/es-MX/05/es-05-0291.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0292",
+    "sentence": "Acordamos compartir el local sin hablar de horarios; si yo hubiera condicionado mi participación en marzo a tener las mañanas libres, hoy podría aceptar el otro trabajo sin incumplir ese acuerdo.",
+    "cloze": "hubiera condicionado",
+    "answer": "hubiera condicionado",
+    "lemma": "condicionar",
+    "meaning": "had made conditional",
+    "audio": "work/audio/es-MX/05/es-05-0292.mp3",
+    "accepted_answers": [
+      "hubiese condicionado"
+    ]
+  },
+  {
+    "id": "es-05-0293",
+    "sentence": "Hoy nos estaríamos exponiendo a llamadas de desconocidos si al anunciar el taller hubiéramos publicado nuestros teléfonos personales; usamos el número del centro, que solo atiende durante el horario de trabajo.",
+    "cloze": "nos estaríamos exponiendo",
+    "answer": "nos estaríamos exponiendo",
+    "lemma": "exponerse",
+    "meaning": "would be exposing ourselves",
+    "audio": "work/audio/es-MX/05/es-05-0293.mp3",
+    "accepted_answers": [
+      "estaríamos exponiéndonos"
+    ]
+  },
+  {
+    "id": "es-05-0294",
+    "sentence": "Rechazamos la promoción del gimnasio porque exigía un año de permanencia. Si la hubiéramos aceptado en junio, nos habríamos comprometido a pagar incluso ahora que ya no vivimos cerca.",
+    "cloze": "nos habríamos comprometido",
+    "answer": "nos habríamos comprometido",
+    "lemma": "comprometerse",
+    "meaning": "would have committed ourselves",
+    "audio": "work/audio/es-MX/05/es-05-0294.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0295",
+    "sentence": "Usted eligió las clases presenciales por la práctica; si en agosto hubiera optado por las grabadas, hoy podría avanzar desde casa, pero no tendría las sesiones de conversación que tanto valora.",
+    "cloze": "hubiera optado",
+    "answer": "hubiera optado",
+    "lemma": "optar",
+    "meaning": "had opted",
+    "audio": "work/audio/es-MX/05/es-05-0295.mp3",
+    "accepted_answers": [
+      "hubiese optado"
+    ]
+  },
+  {
+    "id": "es-05-0296",
+    "sentence": "Aun si hubiéramos comprado la impresora grande en enero, hoy seguiríamos necesitando un servicio externo para los carteles: ese modelo tampoco imprime en ese tamaño.",
+    "cloze": "seguiríamos necesitando",
+    "answer": "seguiríamos necesitando",
+    "lemma": "seguir necesitando",
+    "meaning": "would still need",
+    "audio": "work/audio/es-MX/05/es-05-0296.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0297",
+    "sentence": "Cancelamos todo el paquete de internet y televisión; si en mayo hubiéramos desvinculado ambos servicios y conservado solo internet, ahora podríamos trabajar aquí sin contratar otra instalación.",
+    "cloze": "hubiéramos desvinculado",
+    "answer": "hubiéramos desvinculado",
+    "lemma": "desvincular",
+    "meaning": "had separated",
+    "audio": "work/audio/es-MX/05/es-05-0297.mp3",
+    "accepted_answers": [
+      "hubiésemos desvinculado"
+    ]
+  },
+  {
+    "id": "es-05-0298",
+    "sentence": "Aceptaste cubrir todos los cierres de esta semana; si hubieras dejado libre el viernes al organizarte el lunes, te habrías reservado un descanso para hoy, después de cuatro noches seguidas de trabajo.",
+    "cloze": "te habrías reservado",
+    "answer": "te habrías reservado",
+    "lemma": "reservarse",
+    "meaning": "would have set aside for yourself",
+    "audio": "work/audio/es-MX/05/es-05-0298.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0299",
+    "sentence": "No basta con darme hoy la contraseña; si la encargada me hubiera delegado el control de pedidos antes de salir de vacaciones, ahora yo tendría autorización para corregirlos.",
+    "cloze": "me hubiera delegado",
+    "answer": "me hubiera delegado",
+    "lemma": "delegar",
+    "meaning": "had delegated to me",
+    "audio": "work/audio/es-MX/05/es-05-0299.mp3",
+    "accepted_answers": [
+      "me hubiese delegado"
+    ]
+  },
+  {
+    "id": "es-05-0300",
+    "sentence": "Pagué el taller completo para asegurar mi lugar; si en julio hubiera elegido el pago por módulo, hoy me alcanzaría para comprar los materiales, aunque el costo total del curso sería mayor.",
+    "cloze": "me alcanzaría",
+    "answer": "me alcanzaría",
+    "lemma": "alcanzar",
+    "meaning": "would be enough for me",
+    "audio": "work/audio/es-MX/05/es-05-0300.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0301",
+    "sentence": "El formulario de octubre permitía reservar una computadora por participante; si hubiéramos marcado esa opción, hoy habríamos podido empezar la práctica con equipo del centro, pero la dejamos en blanco y seguimos esperando el nuestro.",
+    "cloze": "habríamos podido",
+    "answer": "habríamos podido",
+    "lemma": "poder",
+    "meaning": "would have been able to",
+    "audio": "work/audio/es-MX/05/es-05-0301.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0302",
+    "sentence": "Ustedes quitaron el cuarto extra para ampliar la sala; si lo hubieran conservado en la remodelación del año pasado, hoy podrían alojar a su mamá sin renunciar al espacio donde trabajan.",
+    "cloze": "lo hubieran conservado",
+    "answer": "lo hubieran conservado",
+    "lemma": "conservar",
+    "meaning": "had kept it",
+    "audio": "work/audio/es-MX/05/es-05-0302.mp3",
+    "accepted_answers": [
+      "lo hubiesen conservado"
+    ]
+  },
+  {
+    "id": "es-05-0303",
+    "sentence": "Hoy quizá habríamos terminado trabajando horas extra sin cobrarlas si hubiéramos ofrecido revisiones ilimitadas al aceptar el encargo; el cliente ya pidió cinco cambios fuera del alcance acordado.",
+    "cloze": "habríamos terminado",
+    "answer": "habríamos terminado",
+    "lemma": "terminar",
+    "meaning": "would have ended up",
+    "audio": "work/audio/es-MX/05/es-05-0303.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0304",
+    "sentence": "Prescindí de la entrega a domicilio para ahorrar; si la hubiera contratado al comprar el librero ayer, hoy no tendría que pedirte tu camioneta para recogerlo.",
+    "cloze": "la hubiera contratado",
+    "answer": "la hubiera contratado",
+    "lemma": "contratar",
+    "meaning": "had booked it",
+    "audio": "work/audio/es-MX/05/es-05-0304.mp3",
+    "accepted_answers": [
+      "la hubiese contratado"
+    ]
+  },
+  {
+    "id": "es-05-0305",
+    "sentence": "Hoy necesitamos entregar la entrevista y la única copia sigue en el teléfono; si hubiéramos aceptado ayer el cambio de equipo sin conservar los datos, la grabación podría haberse borrado durante el cambio.",
+    "cloze": "podría haberse borrado",
+    "answer": "podría haberse borrado",
+    "lemma": "borrarse",
+    "meaning": "could have been erased",
+    "audio": "work/audio/es-MX/05/es-05-0305.mp3",
+    "accepted_answers": [
+      "se podría haber borrado"
+    ]
+  },
+  {
+    "id": "es-05-0306",
+    "sentence": "Todos opinamos sobre todo y hoy nadie sabe quién decide; si al iniciar el proyecto hubiéramos delimitado las responsabilidades, podríamos resolver este cambio sin reunir a las ocho personas.",
+    "cloze": "hubiéramos delimitado",
+    "answer": "hubiéramos delimitado",
+    "lemma": "delimitar",
+    "meaning": "had defined the limits of",
+    "audio": "work/audio/es-MX/05/es-05-0306.mp3",
+    "accepted_answers": [
+      "hubiésemos delimitado"
+    ]
+  },
+  {
+    "id": "es-05-0307",
+    "sentence": "Si en febrero hubiera elegido días libres como compensación por trabajar los domingos, hoy ya habría acumulado los descansos necesarios para acompañarte en la mudanza; preferí el pago extra.",
+    "cloze": "habría acumulado",
+    "answer": "habría acumulado",
+    "lemma": "acumular",
+    "meaning": "would have accumulated",
+    "audio": "work/audio/es-MX/05/es-05-0307.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0308",
+    "sentence": "¿De verdad te impediría estudiar hoy el turno nocturno que rechazaste en enero, si lo hubieras aceptado? Tus clases son por la mañana, pero también necesitas dormir.",
+    "cloze": "te impediría",
+    "answer": "te impediría",
+    "lemma": "impedir",
+    "meaning": "would prevent you from",
+    "audio": "work/audio/es-MX/05/es-05-0308.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0309",
+    "sentence": "Aunque hubieras tomado el curso de edición que descartaste el año pasado, hoy te seguiría faltando un portafolio para esta vacante: el curso solo ofrecía ejercicios guiados.",
+    "cloze": "te seguiría faltando",
+    "answer": "te seguiría faltando",
+    "lemma": "seguir faltando",
+    "meaning": "you would still be missing",
+    "audio": "work/audio/es-MX/05/es-05-0309.mp3",
+    "accepted_answers": [
+      "seguiría faltándote"
+    ]
+  },
+  {
+    "id": "es-05-0310",
+    "sentence": "Si no hubiéramos destinado todo el ahorro al depósito de la renta el mes pasado, hoy nos quedaría dinero para la mudanza; pero sin ese depósito no nos habrían apartado este departamento.",
+    "cloze": "nos quedaría",
+    "answer": "nos quedaría",
+    "lemma": "quedar",
+    "meaning": "would remain for us",
+    "audio": "work/audio/es-MX/05/es-05-0310.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0311",
+    "sentence": "Me cambié al grupo del sábado para no faltar al trabajo; si hubiera mantenido mi inscripción en el de entre semana, ahora tendría las tardes ocupadas justo cuando mi hija necesita que la acompañe.",
+    "cloze": "hubiera mantenido",
+    "answer": "hubiera mantenido",
+    "lemma": "mantener",
+    "meaning": "had kept",
+    "audio": "work/audio/es-MX/05/es-05-0311.mp3",
+    "accepted_answers": [
+      "hubiese mantenido"
+    ]
+  },
+  {
+    "id": "es-05-0312",
+    "sentence": "La evaluación de enero permitía acreditar temas sin cursarlos, pero decidiste no presentarla; solo si la hubieras aprobado, ese resultado te eximiría hoy de las clases correspondientes.",
+    "cloze": "te eximiría",
+    "answer": "te eximiría",
+    "lemma": "eximir",
+    "meaning": "would exempt you",
+    "audio": "work/audio/es-MX/05/es-05-0312.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0313",
+    "sentence": "El paquete que rechazamos incluía asistencia solo por videollamada; si lo hubiéramos comprado en abril, hoy nos exigiría tener una conexión estable para recibir ayuda, y aquí seguimos sin ella.",
+    "cloze": "nos exigiría",
+    "answer": "nos exigiría",
+    "lemma": "exigir",
+    "meaning": "would require us to",
+    "audio": "work/audio/es-MX/05/es-05-0313.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0314",
+    "sentence": "La editora está corrigiendo textos que todavía podemos descartar; si al planear la antología hubiéramos invertido el orden de la selección y la revisión, hoy solo trabajaría con el material definitivo.",
+    "cloze": "hubiéramos invertido",
+    "answer": "hubiéramos invertido",
+    "lemma": "invertir",
+    "meaning": "had reversed",
+    "audio": "work/audio/es-MX/05/es-05-0314.mp3",
+    "accepted_answers": [
+      "hubiésemos invertido"
+    ]
+  },
+  {
+    "id": "es-05-0315",
+    "sentence": "Si hubiera aceptado la renta rebajada a cambio de cuidar el jardín, hoy me vería obligado a atenderlo cada semana; preferí pagar más para disponer de ese tiempo.",
+    "cloze": "me vería obligado",
+    "answer": "me vería obligado",
+    "lemma": "verse obligado",
+    "meaning": "would find myself obliged",
+    "audio": "work/audio/es-MX/05/es-05-0315.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0316",
+    "sentence": "No compramos la mesa plegable que nos ofrecieron en mayo; si la hubiéramos elegido, hoy habríamos resuelto dónde sentar a las visitas, pero seguiría faltando espacio para guardar las sillas.",
+    "cloze": "habríamos resuelto",
+    "answer": "habríamos resuelto",
+    "lemma": "resolver",
+    "meaning": "would have settled",
+    "audio": "work/audio/es-MX/05/es-05-0316.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0317",
+    "sentence": "Hoy ya no puedes sumar otro participante a la práctica; si me hubieras incluido en la inscripción de ayer, ¿tendríamos derecho a compartir el equipo o necesitaríamos reservar otro?",
+    "cloze": "me hubieras incluido",
+    "answer": "me hubieras incluido",
+    "lemma": "incluir",
+    "meaning": "had included me",
+    "audio": "work/audio/es-MX/05/es-05-0317.mp3",
+    "accepted_answers": [
+      "me hubieses incluido"
+    ]
+  },
+  {
+    "id": "es-05-0318",
+    "sentence": "—¿Qué cambió al rechazar el otro turno? —Si lo hubiera aceptado en febrero, ahora me estaría planteando dejar el curso, porque los horarios coinciden; con el turno que conservé puedo seguir estudiando.",
+    "cloze": "me estaría planteando",
+    "answer": "me estaría planteando",
+    "lemma": "plantearse",
+    "meaning": "would be considering",
+    "audio": "work/audio/es-MX/05/es-05-0318.mp3",
+    "accepted_answers": [
+      "estaría planteándome"
+    ]
+  },
+  {
+    "id": "es-05-0319",
+    "sentence": "La tienda no aclaraba si se podían desmontar las patas del sillón. Si hubiéramos pedido una demostración antes de comprarlo, hoy habríamos salido de dudas sobre ese punto, aunque todavía nos faltaría medir la entrada para saber si pasa.",
+    "cloze": "habríamos salido de dudas",
+    "answer": "habríamos salido de dudas",
+    "lemma": "salir de dudas",
+    "meaning": "would have cleared up our uncertainty",
+    "audio": "work/audio/es-MX/05/es-05-0319.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0320",
+    "sentence": "La membresía que descartamos en enero incluía envíos gratuitos; si la hubiéramos pagado, ¿ese beneficio compensaría hoy la cuota, con la única compra que hemos hecho en todo el año?",
+    "cloze": "compensaría",
+    "answer": "compensaría",
+    "lemma": "compensar",
+    "meaning": "would offset",
+    "audio": "work/audio/es-MX/05/es-05-0320.mp3",
+    "accepted_answers": []
   }
 ]
