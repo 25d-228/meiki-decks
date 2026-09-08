@@ -9450,5 +9450,405 @@
     "meaning": "you (in general)",
     "audio": "work/audio/es-MX/05/es-05-0940.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-0941",
+    "sentence": "En la discusión sobre la sede, Irene escribió: «Me importan el espacio y la cercanía, pero primero el espacio»; Pablo respondió: «También me importan ambos, pero primero la cercanía». Los dos jerarquizan esos criterios en orden contrario.",
+    "cloze": "jerarquizan",
+    "answer": "jerarquizan",
+    "lemma": "jerarquizar",
+    "meaning": "rank by importance",
+    "audio": "work/audio/es-MX/05/es-05-0941.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0942",
+    "sentence": "Las propuestas de Mar y Luis confluyen en grabar las sesiones, aunque sus motivos son distintos: ella escribe «Grabemos para quienes no pueden venir» y él, «Grabemos para revisar después lo que aprendimos».",
+    "cloze": "confluyen",
+    "answer": "confluyen",
+    "lemma": "confluir",
+    "meaning": "converge",
+    "audio": "work/audio/es-MX/05/es-05-0942.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0943",
+    "sentence": "«Quitemos una actividad para terminar sin prisas», propone la tallerista. «Empecemos antes para terminar sin prisas», sugiere un alumno. Al comparar los cambios, vemos que ambos apuntan al mismo objetivo por caminos distintos.",
+    "cloze": "apuntan",
+    "answer": "apuntan",
+    "lemma": "apuntar",
+    "meaning": "aim",
+    "audio": "work/audio/es-MX/05/es-05-0943.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0944",
+    "sentence": "¿Cómo se relacionan estas ofertas para la lectura pública? «Yo preparo los textos», dice la autora; «Yo preparo a quienes los van a leer», ofrece la actriz. Sus aportaciones se complementan en la preparación del acto.",
+    "cloze": "se complementan",
+    "answer": "se complementan",
+    "lemma": "complementarse",
+    "meaning": "complement each other",
+    "audio": "work/audio/es-MX/05/es-05-0944.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0945",
+    "sentence": "La palabra «autonomía» aparece en dos comentarios del curso: «Para mí, autonomía es escoger qué proyecto hago» y «Para mí, autonomía es organizar mi horario, aunque el proyecto esté asignado». Las definiciones divergen en qué decisión queda en manos del alumno.",
+    "cloze": "divergen",
+    "answer": "divergen",
+    "lemma": "divergir",
+    "meaning": "differ",
+    "audio": "work/audio/es-MX/05/es-05-0945.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0946",
+    "sentence": "Leo «No acepto que mis fotos se usen en publicidad» en el mensaje de Julia y «Mis fotos, solo para el álbum familiar» en el de Omar. Respecto al uso publicitario, los dos vienen a decir lo mismo; sus palabras son distintas.",
+    "cloze": "vienen a decir",
+    "answer": "vienen a decir",
+    "lemma": "venir a decir",
+    "meaning": "amount to saying",
+    "audio": "work/audio/es-MX/05/es-05-0946.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0947",
+    "sentence": "La petición de Beto engloba la de Sofía: ella pide «Abramos la biblioteca los sábados» y él propone «Abrámosla los sábados y los domingos».",
+    "cloze": "engloba",
+    "answer": "engloba",
+    "lemma": "englobar",
+    "meaning": "encompasses",
+    "audio": "work/audio/es-MX/05/es-05-0947.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0948",
+    "sentence": "«El éxito del taller se mide por cuántos cuentos terminamos», escribió la coordinadora. Una participante propone otro criterio: «Midámoslo por cuánta gente se animó a escribir por primera vez». El segundo comentario desplaza el criterio de evaluación de la producción terminada a la participación inicial.",
+    "cloze": "desplaza",
+    "answer": "desplaza",
+    "lemma": "desplazar",
+    "meaning": "shifts",
+    "audio": "work/audio/es-MX/05/es-05-0948.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0949",
+    "sentence": "En dos propuestas para entrar al grupo de lectura, Ada plantea «Hay que haber leído un libro de la autora» y Simón, «Hay que haber leído todos sus libros». Frente a la condición de Ada, la de Simón endurece el requisito de entrada.",
+    "cloze": "endurece",
+    "answer": "endurece",
+    "lemma": "endurecer",
+    "meaning": "makes stricter",
+    "audio": "work/audio/es-MX/05/es-05-0949.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0950",
+    "sentence": "Sobre las asesorías, el profesor propone: «Cada estudiante debe venir en persona». La tutora plantea: «Cada estudiante puede venir o conectarse por videollamada». La segunda propuesta flexibiliza la forma de participar, pero no aclara si la asesoría sigue siendo obligatoria.",
+    "cloze": "flexibiliza",
+    "answer": "flexibiliza",
+    "lemma": "flexibilizar",
+    "meaning": "makes more flexible",
+    "audio": "work/audio/es-MX/05/es-05-0950.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0951",
+    "sentence": "«La gente dejó de ir porque redujeron las actividades», escribió un vecino; otra vecina sostiene: «Redujeron las actividades porque la gente dejó de ir». La segunda explicación invierte la relación de causa y efecto de la primera.",
+    "cloze": "invierte",
+    "answer": "invierte",
+    "lemma": "invertir",
+    "meaning": "reverses",
+    "audio": "work/audio/es-MX/05/es-05-0951.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0952",
+    "sentence": "Los comentarios sobre el taller se contraponen en la valoración de su ritmo: «El ritmo lento me permitió probar con calma», dice una principiante; «El ritmo lento me aburrió», escribe una participante con experiencia.",
+    "cloze": "se contraponen",
+    "answer": "se contraponen",
+    "lemma": "contraponerse",
+    "meaning": "stand in opposition",
+    "audio": "work/audio/es-MX/05/es-05-0952.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0953",
+    "sentence": "¿Por qué llaman rápido y lento al mismo envío? «Fue rápido: tardó dos días; antes esperaba una semana», cuenta Ana. «Fue lento: tardó dos días; suelo recibir al día siguiente», dice Raúl. Para valorarlo, toman como referencia plazos distintos.",
+    "cloze": "toman como referencia",
+    "answer": "toman como referencia",
+    "lemma": "tomar como referencia",
+    "meaning": "use as a benchmark",
+    "audio": "work/audio/es-MX/05/es-05-0953.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0954",
+    "sentence": "«La exposición ocupa toda la sesión; recortémosla para dejar tiempo a las preguntas», pide una asistente. El expositor responde: «Prefiero no recortarla; contestemos las preguntas por correo después». La primera propuesta ataja la causa de la falta de tiempo; la segunda busca atender las dudas sin cambiar esa causa.",
+    "cloze": "ataja",
+    "answer": "ataja",
+    "lemma": "atajar",
+    "meaning": "tackles",
+    "audio": "work/audio/es-MX/05/es-05-0954.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0955",
+    "sentence": "La guía comenta: «Las preguntas de los visitantes animan a los vendedores a contar más historias». Una visitante añade: «Esas historias nos dan ganas de hacer más preguntas». Los comentarios muestran cómo se refuerzan la curiosidad de los visitantes y la disposición de los vendedores a platicar.",
+    "cloze": "se refuerzan",
+    "answer": "se refuerzan",
+    "lemma": "reforzarse",
+    "meaning": "reinforce each other",
+    "audio": "work/audio/es-MX/05/es-05-0955.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0956",
+    "sentence": "«Recomiendo la exposición; me encantó», escribió Eva. «No la recomiendo; me decepcionó», escribió Joel. Sus valoraciones no se anulan por ser opuestas: una expresa entusiasmo y la otra decepción; ninguna describe una experiencia neutral.",
+    "cloze": "se anulan",
+    "answer": "se anulan",
+    "lemma": "anularse",
+    "meaning": "cancel each other out",
+    "audio": "work/audio/es-MX/05/es-05-0956.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0957",
+    "sentence": "«El final me pareció algo predecible», comenta Luz; «El final me pareció totalmente predecible», escribe Tania. Entre esas críticas hay una diferencia de grado: las dos señalan el mismo problema, pero Tania lo expresa con mayor intensidad.",
+    "cloze": "diferencia de grado",
+    "answer": "diferencia de grado",
+    "lemma": "diferencia de grado",
+    "meaning": "difference of degree",
+    "audio": "work/audio/es-MX/05/es-05-0957.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0958",
+    "sentence": "«Sin alguien que modere, nuestra reunión no avanza», dice un vecino. «Sin alguien que coordine, nuestro ensayo no avanza», cuenta una música. Las dos experiencias guardan un paralelismo en la dependencia de una persona que organice la actividad.",
+    "cloze": "guardan un paralelismo",
+    "answer": "guardan un paralelismo",
+    "lemma": "guardar un paralelismo",
+    "meaning": "show a parallel",
+    "audio": "work/audio/es-MX/05/es-05-0958.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0959",
+    "sentence": "La reseña del taller presencial dice: «Todos los asistentes valoraron bien las explicaciones»; la del curso grabado señala: «Todos los que lo terminaron lo recomendaron». Con esas frases no podemos afirmar que el taller aventaja al curso: hablan de grupos y valoraciones distintos.",
+    "cloze": "aventaja",
+    "answer": "aventaja",
+    "lemma": "aventajar",
+    "meaning": "has an advantage over",
+    "audio": "work/audio/es-MX/05/es-05-0959.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0960",
+    "sentence": "En sus reseñas, Sara escribe «El curso básico incluye una revisión individual» y Diego señala «El avanzado también incluye una revisión individual». En el número de revisiones, el básico queda a la par del avanzado; esas frases no comparan la profundidad de la revisión.",
+    "cloze": "queda a la par",
+    "answer": "queda a la par",
+    "lemma": "quedar a la par",
+    "meaning": "is on a par",
+    "audio": "work/audio/es-MX/05/es-05-0960.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0961",
+    "sentence": "La obligación de consultar es asimétrica en estas dos propuestas de colaboración: «Antes de cambiar mis textos, tú debes preguntarme», dice la autora; «Puedes cambiar mis ilustraciones sin preguntarme», responde el ilustrador. Solo una parte exige que la consulten antes.",
+    "cloze": "asimétrica",
+    "answer": "asimétrica",
+    "lemma": "asimétrico",
+    "meaning": "asymmetrical",
+    "audio": "work/audio/es-MX/05/es-05-0961.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0962",
+    "sentence": "La propuesta de Nora dice: «Todos los integrantes pueden reservar la sala». La de Hugo diferencia el acceso según la antigüedad: «Solo quienes llevan un año pueden reservarla». Ese es el cambio que afecta a los recién llegados.",
+    "cloze": "diferencia",
+    "answer": "diferencia",
+    "lemma": "diferenciar",
+    "meaning": "differentiates",
+    "audio": "work/audio/es-MX/05/es-05-0962.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0963",
+    "sentence": "La solicitud «Necesito letra grande y mucho espacio para escribir» llegó junto con la propuesta «Ofrezco una hoja con letra grande y márgenes amplios para notas». Los rasgos ofrecidos se corresponden con las dos necesidades expresadas, aunque falta que la solicitante acepte la hoja.",
+    "cloze": "se corresponden",
+    "answer": "se corresponden",
+    "lemma": "corresponderse",
+    "meaning": "match",
+    "audio": "work/audio/es-MX/05/es-05-0963.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0964",
+    "sentence": "«Prefiero trabajar sola porque necesito silencio», explica Elisa; «Propongo mesas individuales y una regla de silencio, aunque estemos en el mismo salón», responde Tomás. Su propuesta da cabida a la necesidad de silencio de Elisa, sin ofrecerle un salón para ella sola.",
+    "cloze": "da cabida",
+    "answer": "da cabida",
+    "lemma": "dar cabida",
+    "meaning": "makes room",
+    "audio": "work/audio/es-MX/05/es-05-0964.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0965",
+    "sentence": "Al comparar «Compartamos la cuenta; todos queremos publicar con el nombre del grupo» con «Yo quiero publicar solo con mi nombre», aparece una diferencia importante: la primera propuesta presupone una preferencia común que la segunda persona rechaza expresamente.",
+    "cloze": "presupone",
+    "answer": "presupone",
+    "lemma": "presuponer",
+    "meaning": "presupposes",
+    "audio": "work/audio/es-MX/05/es-05-0965.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0966",
+    "sentence": "«Ningún anuncio debe llevar nombres de patrocinadores», propone una integrante del comité. Otro plantea: «En el cartel principal sí pondría sus nombres». La segunda propuesta se aparta de la regla general de la primera precisamente para ese cartel.",
+    "cloze": "se aparta",
+    "answer": "se aparta",
+    "lemma": "apartarse",
+    "meaning": "departs",
+    "audio": "work/audio/es-MX/05/es-05-0966.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0967",
+    "sentence": "«El recorrido fue interesante, pero quiero saber si admite carriolas», escribe una visitante. «A mí también me interesó mucho la historia del barrio», comenta otra. Comparar solo su interés desatiende la pregunta de la primera sobre el acceso; la segunda no responde a ella.",
+    "cloze": "desatiende",
+    "answer": "desatiende",
+    "lemma": "desatender",
+    "meaning": "disregards",
+    "audio": "work/audio/es-MX/05/es-05-0967.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0968",
+    "sentence": "El comentario «El curso me pareció irregular» ofrece una valoración general. El de otra alumna desglosa su evaluación por componentes: «La explicación fue clara, la práctica fue confusa y la revisión fue útil». El segundo permite saber qué aspectos valora de manera distinta.",
+    "cloze": "desglosa",
+    "answer": "desglosa",
+    "lemma": "desglosar",
+    "meaning": "breaks down",
+    "audio": "work/audio/es-MX/05/es-05-0968.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0969",
+    "sentence": "En «La cercanía debe decidir la sede, cueste lo que cueste», la distancia manda sin una condición de costo. La propuesta «Elijamos la más cercana, siempre que esté dentro del presupuesto» subordina esa preferencia al límite de gasto.",
+    "cloze": "subordina",
+    "answer": "subordina",
+    "lemma": "subordinar",
+    "meaning": "makes subordinate",
+    "audio": "work/audio/es-MX/05/es-05-0969.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0970",
+    "sentence": "«Acepto cambiar la fecha solo si también cambia la sede», dice la productora. El fotógrafo desvincula ambas decisiones en su respuesta: «Acepto cambiar la fecha; sobre la sede decidiré después».",
+    "cloze": "desvincula",
+    "answer": "desvincula",
+    "lemma": "desvincular",
+    "meaning": "separates",
+    "audio": "work/audio/es-MX/05/es-05-0970.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0971",
+    "sentence": "«No puedo elegir el tamaño del cartel hasta que tú decidas cuánto texto llevará», explica la diseñadora. «No puedo decidir cuánto texto cabe hasta que tú elijas el tamaño», contesta el redactor. Sus decisiones se entrelazan: cada uno espera una elección del otro.",
+    "cloze": "se entrelazan",
+    "answer": "se entrelazan",
+    "lemma": "entrelazarse",
+    "meaning": "are intertwined",
+    "audio": "work/audio/es-MX/05/es-05-0971.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0972",
+    "sentence": "La coordinadora propone: «Invitemos al público a observar el ensayo sin interrumpirlo». El director pide: «Ensayemos sin público para que el elenco pueda probar cambios con confianza». Aunque ambos buscan proteger el ensayo, las condiciones que proponen son incompatibles: una lo abre al público y la otra lo cierra.",
+    "cloze": "incompatibles",
+    "answer": "incompatibles",
+    "lemma": "incompatible",
+    "meaning": "incompatible",
+    "audio": "work/audio/es-MX/05/es-05-0972.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0973",
+    "sentence": "Una vecina propone «Bajemos un poco el volumen» y otro vecino pide «Bajémoslo bastante». Presentarlos como defensores del ruido y del silencio sería polarizar sus posturas: ambos piden una reducción y difieren en cuánto.",
+    "cloze": "polarizar",
+    "answer": "polarizar",
+    "lemma": "polarizar",
+    "meaning": "polarize",
+    "audio": "work/audio/es-MX/05/es-05-0973.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0974",
+    "sentence": "«Recomiendo el curso, aunque faltó práctica», escribe Abril. «Lo recomiendo, aunque el grupo era demasiado grande», comenta Saúl. Para no homogeneizar sus valoraciones bajo una recomendación sin reservas, conservemos la objeción distinta de cada uno.",
+    "cloze": "homogeneizar",
+    "answer": "homogeneizar",
+    "lemma": "homogeneizar",
+    "meaning": "make uniform",
+    "audio": "work/audio/es-MX/05/es-05-0974.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0975",
+    "sentence": "«Para cualquier lectura prefiero papel», dice Raquel. «Para novelas prefiero papel; para consultas breves, pantalla», comenta Víctor. Mientras Raquel mantiene una sola preferencia, Víctor alterna entre soportes según el tipo de lectura.",
+    "cloze": "alterna",
+    "answer": "alterna",
+    "lemma": "alternar",
+    "meaning": "switches",
+    "audio": "work/audio/es-MX/05/es-05-0975.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0976",
+    "sentence": "Lidia dice: «Prefiero que el club se reúna los sábados, pero podría acomodarme otro día». Ernesto responde: «Para mí, el sábado es la única opción; los demás días trabajo». Lidia deja margen de negociación sobre el día; Ernesto expresa una limitación, no solo una preferencia más fuerte.",
+    "cloze": "margen de negociación",
+    "answer": "margen de negociación",
+    "lemma": "margen de negociación",
+    "meaning": "room for negotiation",
+    "audio": "work/audio/es-MX/05/es-05-0976.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0977",
+    "sentence": "«Antes quería cancelar la muestra; ahora acepto que se haga, pero sin cobrar entrada», escribe Vero. Óscar mantiene su propuesta: «Hagamos la muestra y cobremos entrada para cubrir los gastos». Hay un acercamiento entre sus posturas sobre realizarla, aunque siguen en desacuerdo sobre el cobro.",
+    "cloze": "acercamiento",
+    "answer": "acercamiento",
+    "lemma": "acercamiento",
+    "meaning": "movement toward agreement",
+    "audio": "work/audio/es-MX/05/es-05-0977.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0978",
+    "sentence": "«No apoyo la mudanza, pero acepto que la decidamos por votación», dice Clara. «Yo sí quiero mudarnos; también acepto votar», responde Iván. El acuerdo de procedimiento entre ambos no implica que compartan una preferencia sobre la mudanza.",
+    "cloze": "acuerdo de procedimiento",
+    "answer": "acuerdo de procedimiento",
+    "lemma": "acuerdo de procedimiento",
+    "meaning": "agreement on procedure",
+    "audio": "work/audio/es-MX/05/es-05-0978.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0979",
+    "sentence": "«El servicio siempre me ha parecido aceptable», comenta una usuaria. «Unas veces me parece excelente y otras, pésimo», cuenta otro. La valoración de él oscila entre extremos, frente a la evaluación estable y moderada de ella.",
+    "cloze": "oscila",
+    "answer": "oscila",
+    "lemma": "oscilar",
+    "meaning": "fluctuates",
+    "audio": "work/audio/es-MX/05/es-05-0979.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0980",
+    "sentence": "Para Marta, «Un club abierto recibe también a quien solo quiere escuchar»; para Julián, «Un club abierto admite a cualquiera, pero todos deben participar hablando». Cada uno traza la línea entre pertenecer al club y quedarse fuera con un criterio distinto: discrepan sobre admitir oyentes que no intervienen.",
+    "cloze": "traza la línea",
+    "answer": "traza la línea",
+    "lemma": "trazar la línea",
+    "meaning": "draws the boundary",
+    "audio": "work/audio/es-MX/05/es-05-0980.mp3",
+    "accepted_answers": []
   }
 ]
