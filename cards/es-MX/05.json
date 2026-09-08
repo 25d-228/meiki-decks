@@ -9850,5 +9850,405 @@
     "meaning": "draws the boundary",
     "audio": "work/audio/es-MX/05/es-05-0980.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-0981",
+    "sentence": "«Óscar se levantó como para irse, pero volvió a sentarse», cuenta Inés. Él afirma: «Me quedé hasta el final». El amago de irse que describe Inés no implica una salida efectiva; en ese punto, los relatos son compatibles.",
+    "cloze": "amago",
+    "answer": "amago",
+    "lemma": "amago",
+    "meaning": "apparent attempt",
+    "audio": "work/audio/es-MX/05/es-05-0981.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0982",
+    "sentence": "El promedio enmascara la desigualdad de las esperas: recepción informa «El promedio fue de diez minutos», pero una usuaria precisa «Yo esperé dieciocho y la otra persona, dos»; eran las únicas dos personas atendidas.",
+    "cloze": "enmascara",
+    "answer": "enmascara",
+    "lemma": "enmascarar",
+    "meaning": "masks; conceals",
+    "audio": "work/audio/es-MX/05/es-05-0982.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0983",
+    "sentence": "Que el reglamento diga «No se permite comer en el salón» no vuelve falso el reporte «Dos asistentes comieron ahí»: el reporte describe una conducta que contraviene la regla, no una regla distinta.",
+    "cloze": "contraviene",
+    "answer": "contraviene",
+    "lemma": "contravenir",
+    "meaning": "violates; runs counter to",
+    "audio": "work/audio/es-MX/05/es-05-0983.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0984",
+    "sentence": "El proyecto no se materializó: en la reunión, la coordinadora había dicho «Queremos abrir otro grupo», pero hoy explica «No lo abrimos porque no conseguimos quién lo imparta». Expresar aquel deseo no era confirmar la apertura.",
+    "cloze": "se materializó",
+    "answer": "se materializó",
+    "lemma": "materializarse",
+    "meaning": "came about; became reality",
+    "audio": "work/audio/es-MX/05/es-05-0984.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0985",
+    "sentence": "El acta dice «El comité aprobó la propuesta por mayoría» y Rosa aclara «Yo voté en contra». El disenso de Rosa es compatible con la aprobación del comité; esta no equivale a una postura unánime de sus integrantes.",
+    "cloze": "disenso",
+    "answer": "disenso",
+    "lemma": "disenso",
+    "meaning": "dissent",
+    "audio": "work/audio/es-MX/05/es-05-0985.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0986",
+    "sentence": "El encargado informa «Esta semana no entraron solicitudes» y su compañera añade «Siguen pendientes las del mes pasado»; la oficina arrastra trabajo de un periodo anterior, así que la falta de solicitudes nuevas no equivale a estar al día.",
+    "cloze": "arrastra",
+    "answer": "arrastra",
+    "lemma": "arrastrar",
+    "meaning": "carries over",
+    "audio": "work/audio/es-MX/05/es-05-0986.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0987",
+    "sentence": "En el ensayo aparece «Quien no publica no trabaja», pero el autor añade enseguida «Esa idea es injusta y la rechazo»; que reproduzca esa frase no significa que la haga suya.",
+    "cloze": "la haga suya",
+    "answer": "la haga suya",
+    "lemma": "hacer suyo",
+    "meaning": "adopt as one's own",
+    "audio": "work/audio/es-MX/05/es-05-0987.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0988",
+    "sentence": "«Recibimos quince quejas en vez de diez», informa recepción. «Pero ahora atendemos a trescientas personas en vez de cien», precisa la encargada. Hubo más quejas en total, pero menos en proporción al número de personas atendidas.",
+    "cloze": "en proporción",
+    "answer": "en proporción",
+    "lemma": "en proporción",
+    "meaning": "in proportion",
+    "audio": "work/audio/es-MX/05/es-05-0988.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0989",
+    "sentence": "—La convocatoria dice «Sin constancia no se puede entrar», pero una aspirante cuenta «Presenté mi constancia y no quedé». —La misma convocatoria limita el cupo a diez personas; presentar la constancia era necesario, pero no suficiente para obtener un lugar.",
+    "cloze": "suficiente",
+    "answer": "suficiente",
+    "lemma": "suficiente",
+    "meaning": "sufficient; enough",
+    "audio": "work/audio/es-MX/05/es-05-0989.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0990",
+    "sentence": "Según Leo, la mensajera entró mientras él acomodaba las cajas; Eva dice que no la vio porque estaba leyendo detrás del mostrador. En esos relatos, la llegada pasó inadvertida para Eva, sin que ella negara que hubiera ocurrido.",
+    "cloze": "pasó inadvertida",
+    "answer": "pasó inadvertida",
+    "lemma": "pasar inadvertido",
+    "meaning": "went unnoticed",
+    "audio": "work/audio/es-MX/05/es-05-0990.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0991",
+    "sentence": "—El tesorero anunció «Recaudamos cinco mil pesos», pero la organizadora dice «Solo quedan mil; gastamos cuatro mil en el alquiler». —El tesorero dio la cantidad en bruto, antes de descontar ese gasto.",
+    "cloze": "en bruto",
+    "answer": "en bruto",
+    "lemma": "en bruto",
+    "meaning": "gross; before expenses",
+    "audio": "work/audio/es-MX/05/es-05-0991.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0992",
+    "sentence": "«No cancelé por el precio; cancelé porque cambiaron el horario», aclara Sara ante el mensaje «Sara sí canceló». Ella niega que su decisión obedeciera al costo, pero confirma la cancelación.",
+    "cloze": "obedeciera",
+    "answer": "obedeciera",
+    "lemma": "obedecer",
+    "meaning": "be due to",
+    "audio": "work/audio/es-MX/05/es-05-0992.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0993",
+    "sentence": "El equipo cubre los tres idiomas colectivamente: el folleto dice «Hablamos inglés, francés y alemán», y la coordinadora aclara «Cada integrante habla solo uno». El folleto no atribuye las tres lenguas a cada persona.",
+    "cloze": "colectivamente",
+    "answer": "colectivamente",
+    "lemma": "colectivamente",
+    "meaning": "collectively; as a group",
+    "audio": "work/audio/es-MX/05/es-05-0993.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0994",
+    "sentence": "Conservo dos avisos del mismo taller: «La inscripción cierra el lunes» y, después, «Ampliamos el plazo hasta el jueves». El primero quedó desfasado por la ampliación; no estaba equivocado cuando se publicó.",
+    "cloze": "desfasado",
+    "answer": "desfasado",
+    "lemma": "desfasado",
+    "meaning": "outdated",
+    "audio": "work/audio/es-MX/05/es-05-0994.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0995",
+    "sentence": "El efecto pudo ser involuntario: el anfitrión dice «Quise incluir a todos con ese saludo» y una invitada responde «A mí me hizo sentir fuera del grupo»; la intención que él declara no impide el malestar que ella describe.",
+    "cloze": "involuntario",
+    "answer": "involuntario",
+    "lemma": "involuntario",
+    "meaning": "unintended",
+    "audio": "work/audio/es-MX/05/es-05-0995.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0996",
+    "sentence": "No tomaría como exhaustiva la lista «Vinieron la directora y el coordinador»: la autora aclaró que solo mencionó a quienes hablaron. El otro mensaje, «También vino la bibliotecaria, pero no intervino», no contradice esa lista.",
+    "cloze": "exhaustiva",
+    "answer": "exhaustiva",
+    "lemma": "exhaustivo",
+    "meaning": "exhaustive; complete",
+    "audio": "work/audio/es-MX/05/es-05-0996.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0997",
+    "sentence": "—El técnico afirma «Puedo cambiar esa configuración; sé hacerlo», pero la encargada dice «Solo la directora puede autorizar el cambio». —Su conocimiento no lo faculta para modificarla sin permiso; están hablando de capacidad y de autorización.",
+    "cloze": "lo faculta",
+    "answer": "lo faculta",
+    "lemma": "facultar",
+    "meaning": "authorizes him",
+    "audio": "work/audio/es-MX/05/es-05-0997.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0998",
+    "sentence": "La impresión no culmina el proceso que describe la editora. «La impresión ya terminó», informa el taller, mientras ella aclara «Los libros aún no están listos, falta encuadernarlos»; están hablando de etapas distintas.",
+    "cloze": "culmina",
+    "answer": "culmina",
+    "lemma": "culminar",
+    "meaning": "completes; brings to an end",
+    "audio": "work/audio/es-MX/05/es-05-0998.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0999",
+    "sentence": "La guía escribió «Los domingos suele haber poca gente», y una visitante comentó «Este domingo hubo una fila enorme». No diría que ese caso desmienta esa afirmación: describía una tendencia, no aseguraba que ocurriera todos los domingos.",
+    "cloze": "desmienta",
+    "answer": "desmienta",
+    "lemma": "desmentir",
+    "meaning": "disprove",
+    "audio": "work/audio/es-MX/05/es-05-0999.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1000",
+    "sentence": "El cálculo del mapa prescinde de las paradas al indicar «El recorrido toma veinte minutos sin detenerse»; la guía sí las incluye cuando explica «La visita dura una hora porque hacemos paradas».",
+    "cloze": "prescinde",
+    "answer": "prescinde",
+    "lemma": "prescindir",
+    "meaning": "leaves out",
+    "audio": "work/audio/es-MX/05/es-05-1000.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1001",
+    "sentence": "En el mensaje del comité, la aceptación es revocable: «Aceptamos la propuesta, pero podemos cambiar de decisión si no se confirma la sede». Por eso la secretaria puede advertir «Todavía podríamos rechazarla» sin negar esa aceptación inicial.",
+    "cloze": "revocable",
+    "answer": "revocable",
+    "lemma": "revocable",
+    "meaning": "revocable; subject to withdrawal",
+    "audio": "work/audio/es-MX/05/es-05-1001.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1002",
+    "sentence": "—Elena escribió «Aprender el sistema nuevo me quitó dos tardes» y ahora dice «Desde entonces ahorro media hora todos los días». ¿Cambió de opinión? —Ese tiempo inicial puede amortizarse con el ahorro posterior que ella describe; no sabemos si ya lo recuperó por completo.",
+    "cloze": "amortizarse",
+    "answer": "amortizarse",
+    "lemma": "amortizar",
+    "meaning": "be recouped",
+    "audio": "work/audio/es-MX/05/es-05-1002.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1003",
+    "sentence": "El acuerdo que Rosa menciona fue extraoficial: «Entre vecinas decidimos prestarnos las mesas; no fue una decisión del comité». La secretaria, al señalar «No hay ningún acuerdo del comité en la minuta», habla de acuerdos de otro carácter.",
+    "cloze": "extraoficial",
+    "answer": "extraoficial",
+    "lemma": "extraoficial",
+    "meaning": "unofficial",
+    "audio": "work/audio/es-MX/05/es-05-1003.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1004",
+    "sentence": "¿Está perdiendo integrantes el club? La coordinadora anuncia «Tenemos diez más que el mes pasado», y el tesorero observa «Antes ganábamos veinte al mes y ahora solo diez». Lo que se desacelera es el crecimiento: el club sigue sumando gente.",
+    "cloze": "se desacelera",
+    "answer": "se desacelera",
+    "lemma": "desacelerarse",
+    "meaning": "slows down",
+    "audio": "work/audio/es-MX/05/es-05-1004.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1005",
+    "sentence": "Al decir «Me alegra empezar el nuevo trabajo» y «Me duele dejar a mis compañeros», Marta expresa sentimientos encontrados ante el cambio; cada emoción responde a una consecuencia distinta.",
+    "cloze": "sentimientos encontrados",
+    "answer": "sentimientos encontrados",
+    "lemma": "sentimientos encontrados",
+    "meaning": "mixed feelings",
+    "audio": "work/audio/es-MX/05/es-05-1005.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1006",
+    "sentence": "El vigilante reporta «Hay diez asientos vacíos», pero taquilla avisa «No podemos venderlos; están reservados». Al reservarlos, esos lugares se bloquean para el público general, aunque sigan vacíos.",
+    "cloze": "se bloquean",
+    "answer": "se bloquean",
+    "lemma": "bloquear",
+    "meaning": "are blocked off",
+    "audio": "work/audio/es-MX/05/es-05-1006.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1007",
+    "sentence": "La explicación del encargado, «La prisa causó el error del envío», no exculpa al equipo; la supervisora puede mantener «El equipo sigue siendo responsable» sin negar esa causa.",
+    "cloze": "exculpa",
+    "answer": "exculpa",
+    "lemma": "exculpar",
+    "meaning": "absolves; excuses",
+    "audio": "work/audio/es-MX/05/es-05-1007.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1008",
+    "sentence": "En la explicación de la alumna concurren dos motivos: escribió «El ruido influyó en que me fuera» y luego precisó «También me fui porque el horario me quedaba mal»; en esas frases no presenta ninguno como la única causa.",
+    "cloze": "concurren",
+    "answer": "concurren",
+    "lemma": "concurrir",
+    "meaning": "come together; combine",
+    "audio": "work/audio/es-MX/05/es-05-1008.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1009",
+    "sentence": "El plazo sigue corriendo cuando Luis informa el miércoles «Todavía no entrega el cartel»: Ana había prometido «Lo entregaré a más tardar el viernes», así que esa falta de entrega todavía no demuestra un incumplimiento.",
+    "cloze": "sigue corriendo",
+    "answer": "sigue corriendo",
+    "lemma": "seguir corriendo",
+    "meaning": "is still running",
+    "audio": "work/audio/es-MX/05/es-05-1009.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1010",
+    "sentence": "La editora dice «El anexo se puede quitar sin perder la explicación principal»; una lectora comenta «A mí me ayudó a entender mejor». El anexo puede ser prescindible para seguir el argumento y aun así resultar útil.",
+    "cloze": "prescindible",
+    "answer": "prescindible",
+    "lemma": "prescindible",
+    "meaning": "dispensable; not essential",
+    "audio": "work/audio/es-MX/05/es-05-1010.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1011",
+    "sentence": "«Son nuevos en la empresa», dice la jefa del grupo; «Todos tienen experiencia en el oficio», precisa quien los contrató. Las categorías de recién llegado y trabajador experimentado se entrecruzan: la antigüedad en la empresa y la experiencia profesional son distintas.",
+    "cloze": "se entrecruzan",
+    "answer": "se entrecruzan",
+    "lemma": "entrecruzarse",
+    "meaning": "intersect; overlap",
+    "audio": "work/audio/es-MX/05/es-05-1011.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1012",
+    "sentence": "Pablo describe un uso intermitente de la plataforma cuando dice «La usé a lo largo de todo el día» y acepta la observación de su compañera «Hubo ratos en que no estabas conectado»; abarcar el día no exige una conexión sin pausas.",
+    "cloze": "intermitente",
+    "answer": "intermitente",
+    "lemma": "intermitente",
+    "meaning": "intermittent",
+    "audio": "work/audio/es-MX/05/es-05-1012.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1013",
+    "sentence": "«Este mes ya llegamos a catorce participantes por sesión; antes eran ocho», informa la coordinadora. «Aún no alcanzamos el mínimo de veinte», recuerda el tesorero. La asistencia ha repuntado, pero sigue por debajo del mínimo que mencionan.",
+    "cloze": "ha repuntado",
+    "answer": "ha repuntado",
+    "lemma": "repuntar",
+    "meaning": "has picked up",
+    "audio": "work/audio/es-MX/05/es-05-1013.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1014",
+    "sentence": "La guía lee en el registro «Cincuenta y ocho minutos» y comenta «El recorrido duró una hora, aproximadamente». Al contarlo, redondea ese dato; no está ofreciendo otra medición exacta.",
+    "cloze": "redondea",
+    "answer": "redondea",
+    "lemma": "redondear",
+    "meaning": "rounds off",
+    "audio": "work/audio/es-MX/05/es-05-1014.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1015",
+    "sentence": "La hoja de recepción dice «Treinta nombres anotados, uno por entrada» y la organizadora aclara «Entramos veinte personas distintas; diez entraron dos veces». Diez personas figuran por duplicado en esa hoja, que cuenta entradas, no visitantes distintos.",
+    "cloze": "por duplicado",
+    "answer": "por duplicado",
+    "lemma": "por duplicado",
+    "meaning": "twice; in duplicate",
+    "audio": "work/audio/es-MX/05/es-05-1015.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1016",
+    "sentence": "El aviso dice «Cerramos los domingos, salvo el primero de cada mes» y una visitante cuenta «Fui el primer domingo de agosto y estaba abierto». Esa apertura corresponde a la salvedad del aviso; no demuestra que se haya incumplido el horario anunciado.",
+    "cloze": "salvedad",
+    "answer": "salvedad",
+    "lemma": "salvedad",
+    "meaning": "stated exception",
+    "audio": "work/audio/es-MX/05/es-05-1016.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1017",
+    "sentence": "La novelista ficcionaliza un dato de su biografía: en la entrevista dice «Nací en Puebla, pero cambié ese dato al escribir la novela», y la narradora del libro cuenta «Nací junto al mar».",
+    "cloze": "ficcionaliza",
+    "answer": "ficcionaliza",
+    "lemma": "ficcionalizar",
+    "meaning": "fictionalizes",
+    "audio": "work/audio/es-MX/05/es-05-1017.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1018",
+    "sentence": "—Una reseña dice «No me atendieron; fui sin cita» y otra, «A mí sí me atendieron; llevaba cita». ¿Eso confirma las dos? —No se corroboran entre sí por ser compatibles; describen condiciones distintas, pero ninguna verifica la experiencia de la otra.",
+    "cloze": "se corroboran",
+    "answer": "se corroboran",
+    "lemma": "corroborarse",
+    "meaning": "corroborate one another",
+    "audio": "work/audio/es-MX/05/es-05-1018.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1019",
+    "sentence": "Quienes escribieron «La sala estaba abierta» y «La sala estaba cerrada» no indicaron cuándo fueron; atribuirles visitas en horarios distintos para conciliar sus relatos sería inventar un dato.",
+    "cloze": "conciliar",
+    "answer": "conciliar",
+    "lemma": "conciliar",
+    "meaning": "reconcile",
+    "audio": "work/audio/es-MX/05/es-05-1019.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1020",
+    "sentence": "Sobre el mismo momento del acto, Eva dice «Estaba lleno: todas las sillas ocupadas y diez personas de pie»; Leo afirma «No estaba lleno: aún cabía gente de pie, aunque ya había veinte». Distinguir entre sillas ocupadas y capacidad total aclara sus valoraciones, pero subsiste el desacuerdo sobre cuántas personas estaban de pie.",
+    "cloze": "subsiste",
+    "answer": "subsiste",
+    "lemma": "subsistir",
+    "meaning": "remains; persists",
+    "audio": "work/audio/es-MX/05/es-05-1020.mp3",
+    "accepted_answers": []
   }
 ]
