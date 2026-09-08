@@ -8218,5 +8218,255 @@
     "meaning": "misrepresented",
     "audio": "work/audio/es-MX/05/es-05-0817.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-0818",
+    "sentence": "En la entrevista, le pregunté si era cierto que el taller iba a cerrar; el resumen quitó mi pregunta y me atribuyó el anuncio del cierre.",
+    "cloze": "si",
+    "answer": "si",
+    "lemma": "si",
+    "meaning": "whether",
+    "audio": "work/audio/es-MX/05/es-05-0818.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0819",
+    "sentence": "El comité ya había expresado su apoyo al festival; en la reunión pregunté hasta qué punto ese respaldo incluía hacerse cargo de los gastos.",
+    "cloze": "hasta qué punto",
+    "answer": "hasta qué punto",
+    "lemma": "hasta qué punto",
+    "meaning": "to what extent",
+    "audio": "work/audio/es-MX/05/es-05-0819.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0820",
+    "sentence": "Le pregunté al encargado a qué hora abrirían para nuestra visita. Me respondió que si ya habíamos confirmado el número de visitantes; necesitaba ese dato para fijar la hora.",
+    "cloze": "que si",
+    "answer": "que si",
+    "lemma": "que si",
+    "meaning": "whether",
+    "audio": "work/audio/es-MX/05/es-05-0820.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0821",
+    "sentence": "La periodista me pidió revisar su resumen: había preguntado qué creía el director que faltaba en el programa y quería conservar la diferencia entre la opinión de él y una conclusión propia.",
+    "cloze": "qué",
+    "answer": "qué",
+    "lemma": "qué",
+    "meaning": "what",
+    "audio": "work/audio/es-MX/05/es-05-0821.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0822",
+    "sentence": "Ya leí la respuesta de los organizadores, pero Rosa aún no sabe que contestaron; me pregunta qué habrán entendido por «entrada libre». Voy a reenviarle el mensaje para que conozca su explicación.",
+    "cloze": "habrán entendido",
+    "answer": "habrán entendido",
+    "lemma": "entender",
+    "meaning": "might have understood",
+    "audio": "work/audio/es-MX/05/es-05-0822.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0823",
+    "sentence": "La vecina me contó que había preguntado por qué cobraban la entrada a un taller dizque gratuito. El anuncio decía «sin costo», pero en recepción le habían pedido dinero para dejarla pasar.",
+    "cloze": "dizque",
+    "answer": "dizque",
+    "lemma": "dizque",
+    "meaning": "supposedly",
+    "audio": "work/audio/es-MX/05/es-05-0823.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0824",
+    "sentence": "Le reclamé a Beatriz que no nos hubiera avisado del cambio de horario. Ella me preguntó cómo iba a saberlo si a ella tampoco le habían dicho nada; tuve que retirar el reclamo.",
+    "cloze": "iba a",
+    "answer": "iba a",
+    "lemma": "ir a",
+    "meaning": "could possibly",
+    "audio": "work/audio/es-MX/05/es-05-0824.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0825",
+    "sentence": "La administradora preguntó qué gastos faltaban por cubrir, si es que quedaba alguno; todavía no había revisado los recibos. Le envié el balance antes de pedir otra aportación.",
+    "cloze": "si es que",
+    "answer": "si es que",
+    "lemma": "si es que",
+    "meaning": "if indeed",
+    "audio": "work/audio/es-MX/05/es-05-0825.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0826",
+    "sentence": "La editora preguntó cómo podíamos llamar colectiva a una decisión tomada sin consultar al equipo; al contar la reunión, conservé esa pregunta porque cuestionaba nuestra descripción del acuerdo.",
+    "cloze": "cómo",
+    "answer": "cómo",
+    "lemma": "cómo",
+    "meaning": "how",
+    "audio": "work/audio/es-MX/05/es-05-0826.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0827",
+    "sentence": "La clienta preguntó por correo si podía cambiar la fecha y, en su caso, cuánto le cobrarían. Le confirmé que el cambio era posible, pero dejé pendiente el costo hasta consultar con la agencia.",
+    "cloze": "en su caso",
+    "answer": "en su caso",
+    "lemma": "en su caso",
+    "meaning": "if so",
+    "audio": "work/audio/es-MX/05/es-05-0827.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0828",
+    "sentence": "Cuando entrevistaron a la productora, todavía no existía una fecha oficial y le preguntaron cuándo se estrenaría la película; que ahora sepamos que se canceló no cambia lo que querían averiguar entonces.",
+    "cloze": "se estrenaría",
+    "answer": "se estrenaría",
+    "lemma": "estrenarse",
+    "meaning": "would premiere",
+    "audio": "work/audio/es-MX/05/es-05-0828.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0829",
+    "sentence": "—El supervisor te pidió el nombre del responsable. —Me preguntó si yo sabía quién había autorizado el cambio; pude contestarle que no, porque no tengo esa información.",
+    "cloze": "quién",
+    "answer": "quién",
+    "lemma": "quién",
+    "meaning": "who",
+    "audio": "work/audio/es-MX/05/es-05-0829.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0830",
+    "sentence": "La autora recibió un rechazo que confundía a los personajes de su cuento y preguntó si siquiera lo habíamos leído. Le mostré las notas de lectura, pero también reconocí los errores de nuestra respuesta.",
+    "cloze": "siquiera",
+    "answer": "siquiera",
+    "lemma": "siquiera",
+    "meaning": "even",
+    "audio": "work/audio/es-MX/05/es-05-0830.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0831",
+    "sentence": "La viajera preguntó si al llegar le iban a cobrar quién sabe cuánto por el equipaje; en su boleto no aparecía ningún monto. Le pedí a la agencia un desglose para responderle con una cifra.",
+    "cloze": "quién sabe cuánto",
+    "answer": "quién sabe cuánto",
+    "lemma": "quién sabe cuánto",
+    "meaning": "goodness knows how much",
+    "audio": "work/audio/es-MX/05/es-05-0831.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0832",
+    "sentence": "La guía nos pregunta si es que ya no queremos hacer la visita; leyó nuestro mensaje sobre retrasar la salida y entendió que queríamos cancelar. Le voy a aclarar que seguimos interesados.",
+    "cloze": "es que",
+    "answer": "es que",
+    "lemma": "es que",
+    "meaning": "the explanation is that",
+    "audio": "work/audio/es-MX/05/es-05-0832.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0833",
+    "sentence": "Después de recibir un aviso de suspensión y otro de bienvenida, el visitante preguntó si la charla se había cancelado o qué. Le reenvié la consulta al organizador para que explicara qué estaba pasando.",
+    "cloze": "o qué",
+    "answer": "o qué",
+    "lemma": "o qué",
+    "meaning": "or what",
+    "audio": "work/audio/es-MX/05/es-05-0833.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0834",
+    "sentence": "El agente explicó que apartar el lugar no fijaba el precio. La clienta preguntó: «¿O sea que podrían cobrarme más aunque reserve hoy?». Le transmití esa pregunta al agente antes de confirmar la compra.",
+    "cloze": "O sea que",
+    "answer": "O sea que",
+    "lemma": "o sea que",
+    "meaning": "so does that mean",
+    "audio": "work/audio/es-MX/05/es-05-0834.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0835",
+    "sentence": "La clienta ya se fue de esta sucursal. Me dejó su pregunta sobre si aquí podían entregarle el pedido; estoy en el mostrador donde ella hizo la consulta y puedo preguntar.",
+    "cloze": "aquí",
+    "answer": "aquí",
+    "lemma": "aquí",
+    "meaning": "here",
+    "audio": "work/audio/es-MX/05/es-05-0835.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0836",
+    "sentence": "El salón estaba lleno y el patio seguía vacío. La organizadora preguntó por qué no abríamos el patio; empecé a explicarle por qué estaba cerrado, pero me aclaró que proponía usarlo para recibir a quienes faltaban.",
+    "cloze": "por qué no",
+    "answer": "por qué no",
+    "lemma": "por qué no",
+    "meaning": "why not",
+    "audio": "work/audio/es-MX/05/es-05-0836.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0837",
+    "sentence": "Yo ya sabía que Marta había aceptado nuestra invitación a dirigir el proyecto. Cuando se lo conté a Diego, me preguntó: «¿A poco ella se ofreció?». Le aclaré que la iniciativa había sido nuestra.",
+    "cloze": "A poco",
+    "answer": "A poco",
+    "lemma": "a poco",
+    "meaning": "really",
+    "audio": "work/audio/es-MX/05/es-05-0837.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0838",
+    "sentence": "La coordinadora preguntó qué más daba quién había propuesto la idea, si todos la habíamos aprobado. Yo estaba buscando el nombre para darle crédito al autor, no para volver a discutir el acuerdo.",
+    "cloze": "qué más daba",
+    "answer": "qué más daba",
+    "lemma": "qué más da",
+    "meaning": "what difference it made",
+    "audio": "work/audio/es-MX/05/es-05-0838.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0839",
+    "sentence": "En la inscripción al club de lectura nos pidieron indicar el sueldo. Una compañera preguntó a cuento de qué necesitaban ese dato; le respondieron que el formato era el mismo para todas las actividades.",
+    "cloze": "a cuento de qué",
+    "answer": "a cuento de qué",
+    "lemma": "a cuento de qué",
+    "meaning": "why on earth",
+    "audio": "work/audio/es-MX/05/es-05-0839.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0840",
+    "sentence": "El proveedor primero dijo que el envío estaba incluido y luego añadió un cargo por llevar las cajas. Le pregunté en qué quedábamos, porque tenía que transmitirle una sola respuesta al equipo antes de confirmar el pedido.",
+    "cloze": "en qué quedábamos",
+    "answer": "en qué quedábamos",
+    "lemma": "en qué quedamos",
+    "meaning": "which version we were to accept",
+    "audio": "work/audio/es-MX/05/es-05-0840.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0841",
+    "sentence": "Elena preguntó por qué habría de aceptar un turno que nunca había solicitado; la coordinadora tomó nota de su objeción y dejó el cambio pendiente.",
+    "cloze": "habría de",
+    "answer": "habría de",
+    "lemma": "haber de",
+    "meaning": "should",
+    "audio": "work/audio/es-MX/05/es-05-0841.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0842",
+    "sentence": "El aviso sigue sin dar fecha; ayer le pregunté al encargado cuándo se reabrirá la biblioteca y hoy les paso esa misma duda, porque la reapertura sigue pendiente.",
+    "cloze": "se reabrirá",
+    "answer": "se reabrirá",
+    "lemma": "reabrirse",
+    "meaning": "will reopen",
+    "audio": "work/audio/es-MX/05/es-05-0842.mp3",
+    "accepted_answers": []
   }
 ]
