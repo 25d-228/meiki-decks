@@ -11050,5 +11050,255 @@
     "meaning": "inconsistent",
     "audio": "work/audio/es-MX/05/es-05-1100.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1101",
+    "sentence": "—Es mi primera visita: ¿necesito registrarme? —El reglamento permite la consulta en sala sin registro y el aviso de préstamos exige registrarse para llevar libros a casa; en términos prácticos, puedes leer aquí sin registrarte, pero sí necesitas hacerlo para llevarte un libro.",
+    "cloze": "en términos prácticos",
+    "answer": "en términos prácticos",
+    "lemma": "en términos prácticos",
+    "meaning": "in practical terms",
+    "audio": "work/audio/es-MX/05/es-05-1101.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1102",
+    "sentence": "En la asamblea, la tesorera anuncia: «Publicaremos en qué se usó cada aportación». El coordinador añade: «Explicaremos a los vecinos cualquier diferencia respecto del plan». La directora pide una línea para describir el compromiso en su informe: «El proyecto incorpora la rendición de cuentas ante quienes aportaron recursos».",
+    "cloze": "rendición de cuentas",
+    "answer": "rendición de cuentas",
+    "lemma": "rendición de cuentas",
+    "meaning": "accountability",
+    "audio": "work/audio/es-MX/05/es-05-1102.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1103",
+    "sentence": "Mis compañeros organizan las compras de sus casas, pero creen que no tienen nada que aportar a un curso de administración. La ficha anuncia «trabajaremos con sus maneras de organizar las compras» y la tutora aclara «no se requieren estudios del tema». Les digo: «Ustedes no parten de cero: esa experiencia será nuestro material de trabajo, aunque no hayan estudiado administración».",
+    "cloze": "parten de cero",
+    "answer": "parten de cero",
+    "lemma": "partir de cero",
+    "meaning": "start from scratch",
+    "audio": "work/audio/es-MX/05/es-05-1103.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1104",
+    "sentence": "—Venimos con el grupo de secundaria y nunca hemos estudiado estos oficios. ¿Para qué sirve esta primera sala? —Su ficha dice «primer contacto con los oficios mediante tres objetos»; el folleto explica que las salas siguientes siguen los cambios en esos trabajos. Estos objetos son una puerta de entrada a esa historia: aquí empieza el acercamiento y el recorrido continúa en las otras salas.",
+    "cloze": "puerta de entrada",
+    "answer": "puerta de entrada",
+    "lemma": "puerta de entrada",
+    "meaning": "gateway",
+    "audio": "work/audio/es-MX/05/es-05-1104.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1105",
+    "sentence": "Una compañera quiere preparar una sola clase con el nuevo manual y pregunta si necesita leerlo completo. El prólogo indica «los capítulos son independientes y explican los conceptos que utilizan»; el índice permite localizar capítulos por el problema que se quiere trabajar. Le respondo: «Puedes leerlo a saltos: busca el problema de tu clase y entra directamente al capítulo correspondiente; ahí se explican los conceptos usados en ese capítulo».",
+    "cloze": "a saltos",
+    "answer": "a saltos",
+    "lemma": "a saltos",
+    "meaning": "nonsequentially; skipping between sections",
+    "audio": "work/audio/es-MX/05/es-05-1105.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1106",
+    "sentence": "El comité quiere que el balance del festival reconozca también las tareas que el público no vio. Ana reporta «antes de abrir, comprobé uno por uno los enlaces del programa» y Luis señala «desde la bodega, conseguí los materiales que fueron pidiendo los talleristas». En el balance escribimos: «El trabajo invisible de revisar enlaces y conseguir materiales también formó parte de la organización del festival».",
+    "cloze": "trabajo invisible",
+    "answer": "trabajo invisible",
+    "lemma": "trabajo invisible",
+    "meaning": "unseen work",
+    "audio": "work/audio/es-MX/05/es-05-1106.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1107",
+    "sentence": "El programa de la muestra anuncia «escucharán entrevistas grabadas con las vecinas sobre la vida del barrio»; la nota de preparación precisa «cada narradora eligió los fragmentos de su entrevista que se incluyen». Una visitante pregunta si aquí solo se habla sobre ellas. Le contesto: «Aquí las vecinas cuentan el barrio con voz propia: escuchamos sus relatos en los fragmentos que ellas eligieron».",
+    "cloze": "con voz propia",
+    "answer": "con voz propia",
+    "lemma": "con voz propia",
+    "meaning": "in their own voice",
+    "audio": "work/audio/es-MX/05/es-05-1107.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1108",
+    "sentence": "Las familias preguntan si el taller consiste en memorizar reglas. La maestra explica «buscamos que cada alumno explique la idea con un ejemplo suyo» y el programa añade «queremos que use lo aprendido en una situación de su casa». Como parte del equipo docente, les respondo: «Buscamos que sus hijos se apropien de lo aprendido: que puedan explicarlo con ejemplos propios y usarlo en su vida diaria».",
+    "cloze": "se apropien",
+    "answer": "se apropien",
+    "lemma": "apropiarse",
+    "meaning": "make their own",
+    "audio": "work/audio/es-MX/05/es-05-1108.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1109",
+    "sentence": "Quienes se inscribieron preguntan si deben salir del taller con una obra terminada. La invitación dice «probaremos distintas versiones de cada propuesta»; la ficha de cierre aclara «entregarán un registro de las pruebas y de los cambios, no una obra final». Les explicamos: «El taller funcionará como un laboratorio de ideas: van a probar versiones y documentar los cambios; el resultado que se pide es ese registro».",
+    "cloze": "laboratorio de ideas",
+    "answer": "laboratorio de ideas",
+    "lemma": "laboratorio de ideas",
+    "meaning": "space for developing and testing ideas",
+    "audio": "work/audio/es-MX/05/es-05-1109.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1110",
+    "sentence": "«Las rutas se las explican de viva voz en recepción; los horarios están en esta hoja», le digo a una visitante que prefiere escuchar las rutas. El folleto anuncia su explicación oral en recepción y el cartel remite a la hoja para consultar horarios.",
+    "cloze": "de viva voz",
+    "answer": "de viva voz",
+    "lemma": "de viva voz",
+    "meaning": "orally",
+    "audio": "work/audio/es-MX/05/es-05-1110.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1111",
+    "sentence": "La encargada pregunta si podrá entrar una mesa que debe trasladarse horizontal, sin girarla. La ficha del salón dice «treinta sillas»; la nota de montaje indica «mesa de ochenta centímetros de ancho; única puerta de setenta». Le respondo: «Para su montaje, el dato clave es el ancho de la puerta: setenta centímetros. Hay treinta sillas, pero la mesa no pasa en la posición requerida».",
+    "cloze": "dato clave",
+    "answer": "dato clave",
+    "lemma": "dato clave",
+    "meaning": "key information",
+    "audio": "work/audio/es-MX/05/es-05-1111.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1112",
+    "sentence": "Para la muestra del barrio, Rosa recuerda «la plaza era donde vendíamos» y Daniel cuenta «yo la recuerdo por los bailes». La organizadora aclara «mostramos los dos recuerdos por separado, sin elegir uno como la historia definitiva». A los visitantes que buscan una sola versión les digo: «La muestra reúne una memoria colectiva de la plaza: conserva esas experiencias distintas, sin convertirlas en un relato único».",
+    "cloze": "memoria colectiva",
+    "answer": "memoria colectiva",
+    "lemma": "memoria colectiva",
+    "meaning": "collective memory",
+    "audio": "work/audio/es-MX/05/es-05-1112.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1113",
+    "sentence": "El coordinador explica «en la ficha de cada alumno registramos dónde se atoró y qué ha intentado»; la tutora añade «con esa ficha preparo las actividades de su siguiente asesoría». La directora necesita describir el uso docente de esas fichas, más allá de guardar datos. En su informe escribe: «Las fichas permiten un seguimiento personalizado entre una asesoría y la siguiente: lo que se trabaja después responde a la dificultad registrada de cada alumno».",
+    "cloze": "seguimiento personalizado",
+    "answer": "seguimiento personalizado",
+    "lemma": "seguimiento personalizado",
+    "meaning": "individualized follow-up",
+    "audio": "work/audio/es-MX/05/es-05-1113.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1114",
+    "sentence": "—¿Por qué exhiben una silla tan remendada? —La ficha registra tres reparaciones del asiento y la familia que la donó explica «lo volvíamos a coser para seguir usando la silla». Esos remiendos dan testimonio de los esfuerzos de esa familia por seguir usándola; aquí interesa esa historia de uso.",
+    "cloze": "dan testimonio",
+    "answer": "dan testimonio",
+    "lemma": "dar testimonio",
+    "meaning": "bear witness",
+    "audio": "work/audio/es-MX/05/es-05-1114.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1115",
+    "sentence": "—Vimos «mediación» en el programa. ¿Tenemos que saber de arte para responder bien? —La guía explica que propondrá preguntas abiertas sobre las obras; la nota para visitantes dice que se compartirán experiencias personales y que no hay respuestas correctas prefijadas. Será una conversación guiada sobre las piezas: ustedes aportan sus experiencias y la guía propone las preguntas.",
+    "cloze": "conversación guiada",
+    "answer": "conversación guiada",
+    "lemma": "conversación guiada",
+    "meaning": "guided conversation",
+    "audio": "work/audio/es-MX/05/es-05-1115.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1116",
+    "sentence": "La coordinadora quiere explicar cómo colaboran dos grupos que nunca coinciden. El grupo de la mañana informa «dejamos una crónica empezada y nuestras preguntas para el otro grupo»; el de la tarde responde «continuamos ese mismo texto y dejamos los cambios para que lo revise el grupo de la mañana». En la presentación, ella dice: «La crónica se escribe por relevos: cada grupo recibe el trabajo del otro y le deja algo que continuar o revisar».",
+    "cloze": "por relevos",
+    "answer": "por relevos",
+    "lemma": "por relevos",
+    "meaning": "in relays",
+    "audio": "work/audio/es-MX/05/es-05-1116.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1117",
+    "sentence": "El equipo de sonido no necesita la lista de presentadores. Ana escribió «presento y presto el micrófono»; Luis, «despido al público y llevo la bocina». A ese equipo le escribo: «En lo tocante a los equipos de sonido, Ana presta el micrófono y Luis lleva la bocina».",
+    "cloze": "En lo tocante a",
+    "answer": "En lo tocante a",
+    "lemma": "en lo tocante a",
+    "meaning": "as regards",
+    "audio": "work/audio/es-MX/05/es-05-1117.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1118",
+    "sentence": "El centro solo tiene dos áreas de atención. La ficha de funciones de recepción dice «abrimos las solicitudes; no nos corresponde dar seguimiento a las incompletas» y la de tutoría establece «atendemos únicamente solicitudes completas». La coordinadora necesita saber qué tarea carece de responsable: «El seguimiento de las solicitudes incompletas queda en tierra de nadie entre ambas áreas».",
+    "cloze": "en tierra de nadie",
+    "answer": "en tierra de nadie",
+    "lemma": "en tierra de nadie",
+    "meaning": "in a gap where no one has responsibility",
+    "audio": "work/audio/es-MX/05/es-05-1118.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1119",
+    "sentence": "El cartel del espacio «Memorias» informa «cada semana incorporamos nuevos relatos del barrio»; la encargada explica que también se añaden aclaraciones a relatos anteriores, conservando las versiones con sus fechas. A un visitante que imagina una colección cerrada le digo: «Este es un archivo vivo del barrio: recibe nuevas historias y permite seguir las aclaraciones sin borrar las versiones anteriores».",
+    "cloze": "archivo vivo",
+    "answer": "archivo vivo",
+    "lemma": "archivo vivo",
+    "meaning": "living archive",
+    "audio": "work/audio/es-MX/05/es-05-1119.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1120",
+    "sentence": "La autora del cuaderno para docentes indica «elijan las preguntas que sirvan al tema de su clase»; la coordinadora añade «adapten las situaciones de ejemplo a su grupo». En la capacitación, una maestra pregunta si es un guion que todos deben seguir igual. Le respondo: «Es una caja de herramientas para preparar sus clases: ustedes seleccionan las preguntas y adaptan los ejemplos a su grupo».",
+    "cloze": "caja de herramientas",
+    "answer": "caja de herramientas",
+    "lemma": "caja de herramientas",
+    "meaning": "toolkit",
+    "audio": "work/audio/es-MX/05/es-05-1120.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1121",
+    "sentence": "Antes del recorrido, los visitantes piden una idea que les ayude a relacionar las piezas. La ficha de una fotografía cuenta «los vecinos repararon juntos la casa de una familia que no podía hacerlo»; la de un cuaderno explica «una alumna copiaba las lecciones para su compañero, que no podía asistir». Les digo: «La ayuda a los demás es el hilo conductor de estas dos piezas: una la muestra entre vecinos y la otra, entre compañeros de escuela».",
+    "cloze": "hilo conductor",
+    "answer": "hilo conductor",
+    "lemma": "hilo conductor",
+    "meaning": "unifying thread",
+    "audio": "work/audio/es-MX/05/es-05-1121.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1122",
+    "sentence": "—Vimos «taller abierto» en el anuncio. ¿Podemos venir sin reservar? —La organizadora aclara que puede venir cualquier persona, pero debe reservar. Es abierto en el sentido de que cualquiera puede asistir; la reservación sí es necesaria.",
+    "cloze": "en el sentido de",
+    "answer": "en el sentido de",
+    "lemma": "en el sentido de",
+    "meaning": "in the sense of",
+    "audio": "work/audio/es-MX/05/es-05-1122.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1123",
+    "sentence": "Compañeros, esa carpeta es, por decirlo así, nuestra mesa de trabajo. El acuerdo pide subir ahí todos los borradores y la editora indica que los comentarios van en esa misma carpeta; la imagen de una mesa reúne ambos usos sin cambiar las instrucciones.",
+    "cloze": "por decirlo así",
+    "answer": "por decirlo así",
+    "lemma": "por decirlo así",
+    "meaning": "so to speak",
+    "audio": "work/audio/es-MX/05/es-05-1123.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1124",
+    "sentence": "—Como visitantes, no entendemos qué quieren decir con «objetos del trabajo cotidiano» en la descripción de la muestra. —Esta libreta, sin ir más lejos: su ficha explica que la tendera anotaba aquí sus ventas. Es uno de esos objetos.",
+    "cloze": "sin ir más lejos",
+    "answer": "sin ir más lejos",
+    "lemma": "sin ir más lejos",
+    "meaning": "to take an immediate example",
+    "audio": "work/audio/es-MX/05/es-05-1124.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1125",
+    "sentence": "Antes de que ustedes voten, conviene expresar claramente qué está en juego: la posibilidad de realizar el encuentro. La nota de organización dice que solo puede hacerse en el patio y el aviso del comité señala que hoy se decide si se autoriza usarlo.",
+    "cloze": "está en juego",
+    "answer": "está en juego",
+    "lemma": "estar en juego",
+    "meaning": "is at stake",
+    "audio": "work/audio/es-MX/05/es-05-1125.mp3",
+    "accepted_answers": []
   }
 ]
