@@ -6698,5 +6698,255 @@
     "meaning": "namely",
     "audio": "work/audio/es-MX/05/es-05-0665.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-0666",
+    "sentence": "Gustarme, me gustó la película; recomendarla para la función infantil es otra cosa, porque varias escenas son muy violentas.",
+    "cloze": "Gustarme",
+    "answer": "Gustarme",
+    "lemma": "gustar",
+    "meaning": "as for liking it",
+    "audio": "work/audio/es-MX/05/es-05-0666.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0667",
+    "sentence": "—¿Solo Elena revisó el texto? —Elena revisó solamente la introducción; Mario revisó el resto, así que el trabajo fue de los dos.",
+    "cloze": "solamente",
+    "answer": "solamente",
+    "lemma": "solamente",
+    "meaning": "only",
+    "audio": "work/audio/es-MX/05/es-05-0667.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0668",
+    "sentence": "Mamá, estoy hablando contigo, no de ti: quiero saber cómo está mi hermano, porque dejó de contestar mis mensajes.",
+    "cloze": "contigo",
+    "answer": "contigo",
+    "lemma": "contigo",
+    "meaning": "with you (singular)",
+    "audio": "work/audio/es-MX/05/es-05-0668.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0669",
+    "sentence": "—Tu pregunta ya quedó contestada. —¿Cómo que ya quedó contestada? Yo pregunté quién decidió el cambio y ustedes solo explicaron cuándo se anunció.",
+    "cloze": "Cómo que",
+    "answer": "Cómo que",
+    "lemma": "cómo que",
+    "meaning": "what do you mean ...?",
+    "audio": "work/audio/es-MX/05/es-05-0669.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0670",
+    "sentence": "—La respuesta fue vaga. —Fue vaga, por no decir vacía: agradece nuestro interés, pero no contesta ninguna de las preguntas.",
+    "cloze": "por no decir",
+    "answer": "por no decir",
+    "lemma": "por no decir",
+    "meaning": "not to say",
+    "audio": "work/audio/es-MX/05/es-05-0670.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0671",
+    "sentence": "Cuando preguntaron por posibles lugares, mencioné el patio, por decir algo; no estaba eligiendo esa sede ni descartando el salón.",
+    "cloze": "por decir algo",
+    "answer": "por decir algo",
+    "lemma": "por decir algo",
+    "meaning": "just to name a possibility",
+    "audio": "work/audio/es-MX/05/es-05-0671.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0672",
+    "sentence": "—Entonces, ¿no ves diferencia entre las versiones? —Diferencia, la hay; discutimos si afecta el sentido, no si existe.",
+    "cloze": "la hay",
+    "answer": "la hay",
+    "lemma": "haber",
+    "meaning": "there is a difference",
+    "audio": "work/audio/es-MX/05/es-05-0672.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0673",
+    "sentence": "—Nos están imponiendo el taller. —¿Por qué dices eso de «imponer» si cada quien puede decidir si se inscribe?",
+    "cloze": "eso de",
+    "answer": "eso de",
+    "lemma": "eso de",
+    "meaning": "that talk of",
+    "audio": "work/audio/es-MX/05/es-05-0673.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0674",
+    "sentence": "La idea de compartir el coche no me molesta en sí; mi objeción es que ustedes ya decidieron usar el mío sin preguntarme.",
+    "cloze": "en sí",
+    "answer": "en sí",
+    "lemma": "en sí",
+    "meaning": "in itself",
+    "audio": "work/audio/es-MX/05/es-05-0674.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0675",
+    "sentence": "Pido la palabra por alusiones: cuando mencionaron a la persona que cambió la lista estaban hablando de mí, y necesito aclarar que solo corregí un apellido.",
+    "cloze": "por alusiones",
+    "answer": "por alusiones",
+    "lemma": "por alusiones",
+    "meaning": "in response to a reference to me",
+    "audio": "work/audio/es-MX/05/es-05-0675.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0676",
+    "sentence": "El trámite puede tardar; discutimos no tanto la espera como la falta de noticias durante ese tiempo, porque nadie nos dice si todavía están revisando la solicitud.",
+    "cloze": "no tanto",
+    "answer": "no tanto",
+    "lemma": "no tanto",
+    "meaning": "not so much",
+    "audio": "work/audio/es-MX/05/es-05-0676.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0677",
+    "sentence": "—Como tiene humor, esta obra no es una tragedia. —Una tragedia sí lo es; que tenga escenas cómicas no cambia su desenlace.",
+    "cloze": "lo es",
+    "answer": "lo es",
+    "lemma": "ser",
+    "meaning": "it is",
+    "audio": "work/audio/es-MX/05/es-05-0677.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0678",
+    "sentence": "—Por lo menos la conversación fue franca. —No fue muy franca que digamos: cada vez que pregunté quién tomó la decisión, cambiaron de tema.",
+    "cloze": "que digamos",
+    "answer": "que digamos",
+    "lemma": "que digamos",
+    "meaning": "exactly (in a negative understatement)",
+    "audio": "work/audio/es-MX/05/es-05-0678.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0679",
+    "sentence": "—La propuesta no lleva el nombre de una institución. —Ni falta que hace: estamos eligiendo una idea por lo que aporta, no por quién la respalda.",
+    "cloze": "Ni falta que hace",
+    "answer": "Ni falta que hace",
+    "lemma": "ni falta que hace",
+    "meaning": "and there is no need for it",
+    "audio": "work/audio/es-MX/05/es-05-0679.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0680",
+    "sentence": "Pensé que me había respondido alguien de recepción; al revisar la firma del correo, vi que mi interlocutora era ni más ni menos que la directora del recinto.",
+    "cloze": "ni más ni menos que",
+    "answer": "ni más ni menos que",
+    "lemma": "ni más ni menos que",
+    "meaning": "none other than",
+    "audio": "work/audio/es-MX/05/es-05-0680.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0681",
+    "sentence": "Tu hermana prepara su propia reunión; tú y yo organizamos la cena, así que ocupémonos de lo nuestro sin decidir también por ella.",
+    "cloze": "lo nuestro",
+    "answer": "lo nuestro",
+    "lemma": "lo nuestro",
+    "meaning": "our own undertaking",
+    "audio": "work/audio/es-MX/05/es-05-0681.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0682",
+    "sentence": "—Si no aceptas prestar el coche una tarde, ¿lo dejarías todo el fin de semana? —Menos aún aceptaría eso; mi límite sigue siendo no prestarlo.",
+    "cloze": "Menos aún",
+    "answer": "Menos aún",
+    "lemma": "menos aún",
+    "meaning": "even less",
+    "audio": "work/audio/es-MX/05/es-05-0682.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0683",
+    "sentence": "Ya decidimos que Marta abrirá el salón y recibirá a los invitados; a todo esto, ¿alguien le preguntó si puede venir o estamos contando con ella sin avisarle?",
+    "cloze": "a todo esto",
+    "answer": "a todo esto",
+    "lemma": "a todo esto",
+    "meaning": "by the way",
+    "audio": "work/audio/es-MX/05/es-05-0683.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0684",
+    "sentence": "—No quiero cancelar la lectura; propongo hacerla sin público. —Eso mismo estoy proponiendo yo desde el principio; parecía que discrepábamos porque entendimos cosas distintas por «cancelar».",
+    "cloze": "Eso mismo",
+    "answer": "Eso mismo",
+    "lemma": "eso mismo",
+    "meaning": "that very thing",
+    "audio": "work/audio/es-MX/05/es-05-0684.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0685",
+    "sentence": "—Los voceros rechazaron la propuesta, pero tal vez el resto la apoye. —El equipo la rechazó en bloque; también votaron en contra quienes no habían hablado.",
+    "cloze": "en bloque",
+    "answer": "en bloque",
+    "lemma": "en bloque",
+    "meaning": "as a united group",
+    "audio": "work/audio/es-MX/05/es-05-0685.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0686",
+    "sentence": "No estoy reclamando por la visita de ayer: hablo de lo de siempre, la música de madrugada, un problema que ya hemos comentado en varias reuniones.",
+    "cloze": "lo de siempre",
+    "answer": "lo de siempre",
+    "lemma": "lo de siempre",
+    "meaning": "the same old issue",
+    "audio": "work/audio/es-MX/05/es-05-0686.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0687",
+    "sentence": "—¿Dijiste que Ana nunca viene a las cenas? —Dije que siempre no va a venir hoy: había confirmado, pero acaba de cancelar. A las anteriores sí vino.",
+    "cloze": "siempre no",
+    "answer": "siempre no",
+    "lemma": "siempre no",
+    "meaning": "not after all",
+    "audio": "work/audio/es-MX/05/es-05-0687.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0688",
+    "sentence": "Sí, el mantel quedó manchado; eso aparte, seguimos hablando de quién autorizó usar la casa, porque limpiar el mantel no resuelve esa pregunta.",
+    "cloze": "eso aparte",
+    "answer": "eso aparte",
+    "lemma": "eso aparte",
+    "meaning": "setting that aside",
+    "audio": "work/audio/es-MX/05/es-05-0688.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0689",
+    "sentence": "Sí mencioné el servicio de esa empresa, pero no precisamente para recomendarlo: lo puse como ejemplo de la falta de respuesta que queremos evitar.",
+    "cloze": "no precisamente",
+    "answer": "no precisamente",
+    "lemma": "no precisamente",
+    "meaning": "not exactly",
+    "audio": "work/audio/es-MX/05/es-05-0689.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0690",
+    "sentence": "La posible mudanza la mencioné de pasada para explicar mi ausencia; no estaba pidiendo que decidiéramos hoy qué hacer con el departamento.",
+    "cloze": "de pasada",
+    "answer": "de pasada",
+    "lemma": "de pasada",
+    "meaning": "in passing",
+    "audio": "work/audio/es-MX/05/es-05-0690.mp3",
+    "accepted_answers": []
   }
 ]
