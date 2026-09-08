@@ -6448,5 +6448,255 @@
     "meaning": "consider myself satisfied",
     "audio": "work/audio/es-MX/05/es-05-0640.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-0641",
+    "sentence": "La directora nombró a Raúl responsable del cierre; aunque Raúl encargó la ejecución a Inés, él lo sigue siendo ante la directora.",
+    "cloze": "lo sigue siendo",
+    "answer": "lo sigue siendo",
+    "lemma": "seguir siendo",
+    "meaning": "is still responsible",
+    "audio": "work/audio/es-MX/05/es-05-0641.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0642",
+    "sentence": "El taller ofreció cambiarme el proyector por otro idéntico, pero pedí que repararan el mío; quiero recuperar el mismo, aunque conserve las marcas de uso.",
+    "cloze": "el mismo",
+    "answer": "el mismo",
+    "lemma": "el mismo",
+    "meaning": "the very same one",
+    "audio": "work/audio/es-MX/05/es-05-0642.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0643",
+    "sentence": "Nadia sostiene que debemos cancelar el recorrido; puedo explicar su postura sin hacerla mía, porque yo todavía prefiero cambiar la ruta.",
+    "cloze": "hacerla mía",
+    "answer": "hacerla mía",
+    "lemma": "hacer suyo",
+    "meaning": "adopt it as my own",
+    "audio": "work/audio/es-MX/05/es-05-0643.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0644",
+    "sentence": "Marta escribió: «Ana guardó mi carpeta»; al leer el mensaje en voz alta, Julia aclaró que Marta hablaba de sí misma como dueña de la carpeta, no de Julia.",
+    "cloze": "de sí misma",
+    "answer": "de sí misma",
+    "lemma": "de sí mismo",
+    "meaning": "of herself",
+    "audio": "work/audio/es-MX/05/es-05-0644.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0645",
+    "sentence": "El grupo que revisa las cuentas incluye a Luz y a Omar; el que autoriza los pagos incluye a Omar y a Eva, así que los dos grupos se solapan y no podemos contar a sus integrantes como cuatro personas distintas.",
+    "cloze": "se solapan",
+    "answer": "se solapan",
+    "lemma": "solaparse",
+    "meaning": "overlap",
+    "audio": "work/audio/es-MX/05/es-05-0645.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0646",
+    "sentence": "La nota dice que yo le presté dinero a Luis, pero fue Luis quien me lo prestó; si dejamos esa frase, se invierten los papeles de quien presta y quien recibe.",
+    "cloze": "se invierten",
+    "answer": "se invierten",
+    "lemma": "invertirse",
+    "meaning": "are reversed",
+    "audio": "work/audio/es-MX/05/es-05-0646.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0647",
+    "sentence": "Los autores intercambiaron borradores para comentarlos; después, cada autor corregirá el suyo con las observaciones recibidas, no el texto que le tocó revisar.",
+    "cloze": "el suyo",
+    "answer": "el suyo",
+    "lemma": "el suyo",
+    "meaning": "their own draft",
+    "audio": "work/audio/es-MX/05/es-05-0647.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0648",
+    "sentence": "Eva me mostró el atril que usa y ya se lo llevó a su casa; para el ensayo busco uno así, sin pedirle que me preste precisamente el que me enseñó.",
+    "cloze": "uno así",
+    "answer": "uno así",
+    "lemma": "uno así",
+    "meaning": "one like that",
+    "audio": "work/audio/es-MX/05/es-05-0648.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0649",
+    "sentence": "El archivo circuló como borrador para recibir comentarios; aunque tiene portada y firmas, hay que tratarlo como tal y no presentarlo como un acuerdo definitivo.",
+    "cloze": "como tal",
+    "answer": "como tal",
+    "lemma": "como tal",
+    "meaning": "as such",
+    "audio": "work/audio/es-MX/05/es-05-0649.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0650",
+    "sentence": "Acepté que usaran mi dibujo solo en la invitación del taller, no en publicidad de otros cursos; puedes comunicar mi autorización en esos términos, sin quitar la restricción.",
+    "cloze": "en esos términos",
+    "answer": "en esos términos",
+    "lemma": "en esos términos",
+    "meaning": "on those terms",
+    "audio": "work/audio/es-MX/05/es-05-0650.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0651",
+    "sentence": "No he recibido las llaves; la pregunta «¿Cuándo vas a devolverlas?» lo presupone y por eso necesito aclarar primero quién las tiene.",
+    "cloze": "lo presupone",
+    "answer": "lo presupone",
+    "lemma": "presuponer",
+    "meaning": "presupposes it",
+    "audio": "work/audio/es-MX/05/es-05-0651.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0652",
+    "sentence": "La comisión de vecinos y la de comerciantes evaluaron juntas el proyecto, pero entregaron sendos informes porque no coincidían en la recomendación; la mesa tendrá que responder a cada comisión por separado.",
+    "cloze": "sendos",
+    "answer": "sendos",
+    "lemma": "sendos",
+    "meaning": "one each",
+    "audio": "work/audio/es-MX/05/es-05-0652.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0653",
+    "sentence": "El ajuste nos afectó de manera distinta: quien más, quien menos, acabamos cambiando alguna actividad, pero no sería justo decir que todos tuvimos que reorganizar la semana entera.",
+    "cloze": "quien más, quien menos",
+    "answer": "quien más, quien menos",
+    "lemma": "quien más, quien menos",
+    "meaning": "everyone to some degree",
+    "audio": "work/audio/es-MX/05/es-05-0653.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0654",
+    "sentence": "La revisión corresponde a quien coordine el turno, no a Laura por ser Laura; sea quien sea, la persona que ocupe ese puesto tendrá que responder por la revisión.",
+    "cloze": "sea quien sea",
+    "answer": "sea quien sea",
+    "lemma": "sea quien sea",
+    "meaning": "whoever it may be",
+    "audio": "work/audio/es-MX/05/es-05-0654.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0655",
+    "sentence": "El mensaje no menciona nombres, pero pide una explicación a la persona que cambió la ruta sin avisar; como yo hice ese cambio, me doy por aludido y responderé.",
+    "cloze": "me doy por aludido",
+    "answer": "me doy por aludido",
+    "lemma": "darse por aludido",
+    "meaning": "take the message as referring to me",
+    "audio": "work/audio/es-MX/05/es-05-0655.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0656",
+    "sentence": "Sofía, tu hermano ofreció acompañarte a recoger las cajas; tómale la palabra antes de contratar el envío.",
+    "cloze": "tómale la palabra",
+    "answer": "tómale la palabra",
+    "lemma": "tomarle la palabra",
+    "meaning": "take him up on his offer",
+    "audio": "work/audio/es-MX/05/es-05-0656.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0657",
+    "sentence": "La respuesta del equipo rechaza el cobro extra, pero acepta el nuevo horario; no desecha la propuesta en su totalidad, así que podemos conservar la parte del horario.",
+    "cloze": "en su totalidad",
+    "answer": "en su totalidad",
+    "lemma": "en su totalidad",
+    "meaning": "in its entirety",
+    "audio": "work/audio/es-MX/05/es-05-0657.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0658",
+    "sentence": "Me preguntaron si autoricé cambiar la fecha o si pedí cancelar el taller; no hice lo uno ni lo otro, pues solo pregunté cuántas personas podían asistir.",
+    "cloze": "lo uno ni lo otro",
+    "answer": "lo uno ni lo otro",
+    "lemma": "lo uno ni lo otro",
+    "meaning": "either of those things",
+    "audio": "work/audio/es-MX/05/es-05-0658.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0659",
+    "sentence": "El mensaje decía «Soy Clara y autorizo el cambio», pero lo escribió Tomás, que se hizo pasar por ella; ese mensaje no expresa una decisión de Clara.",
+    "cloze": "se hizo pasar",
+    "answer": "se hizo pasar",
+    "lemma": "hacerse pasar por",
+    "meaning": "passed himself off",
+    "audio": "work/audio/es-MX/05/es-05-0659.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0660",
+    "sentence": "Presenté mi propuesta a instancias de Nora, que me pidió llevarla a la reunión; ella promovió que se discutiera, pero yo defendí mis propias ideas y no hablé en su nombre.",
+    "cloze": "a instancias de",
+    "answer": "a instancias de",
+    "lemma": "a instancias de",
+    "meaning": "at the request of",
+    "audio": "work/audio/es-MX/05/es-05-0660.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0661",
+    "sentence": "Iván entendió «responsable» como coordinador, pero yo hablaba de quién había causado el retraso; usé la palabra en este último sentido y por eso le pedí una explicación del error.",
+    "cloze": "en este último sentido",
+    "answer": "en este último sentido",
+    "lemma": "en este último sentido",
+    "meaning": "in the latter sense",
+    "audio": "work/audio/es-MX/05/es-05-0661.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0662",
+    "sentence": "Preferimos reunirnos en el salón; el patio queda disponible como alternativa y lo usaremos en su defecto, solo si no podemos entrar al salón, no además de él.",
+    "cloze": "en su defecto",
+    "answer": "en su defecto",
+    "lemma": "en su defecto",
+    "meaning": "failing that",
+    "audio": "work/audio/es-MX/05/es-05-0662.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0663",
+    "sentence": "La comisión cambió de integrantes después de aprobar el gasto; pediremos explicaciones a los de entonces, porque la responsabilidad corresponde a quienes tomaron aquella decisión y no a sus reemplazos.",
+    "cloze": "los de entonces",
+    "answer": "los de entonces",
+    "lemma": "los de entonces",
+    "meaning": "the members at the time",
+    "audio": "work/audio/es-MX/05/es-05-0663.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0664",
+    "sentence": "La investigadora Patricia Robles hizo la reserva, pero la confirmación llegó a mi compañera Patricia Robles; mi compañera aclarará que la reserva es de su homónima para que corrijan el destinatario.",
+    "cloze": "homónima",
+    "answer": "homónima",
+    "lemma": "homónimo",
+    "meaning": "namesake",
+    "audio": "work/audio/es-MX/05/es-05-0664.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-0665",
+    "sentence": "En el acta, «las condiciones acordadas» se refiere a dos compromisos, a saber, conservar el acceso al patio y avisar antes de cambiar el horario; son los únicos acordados, no ejemplos de una lista más larga.",
+    "cloze": "a saber",
+    "answer": "a saber",
+    "lemma": "a saber",
+    "meaning": "namely",
+    "audio": "work/audio/es-MX/05/es-05-0665.mp3",
+    "accepted_answers": []
   }
 ]
