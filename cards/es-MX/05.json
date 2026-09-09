@@ -19960,5 +19960,405 @@
     "meaning": "get my bearings again",
     "audio": "work/audio/es-MX/05/es-05-1991.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1992",
+    "sentence": "Antes de comprar la fuente, quisiera discutir su costo de oportunidad: con ese mismo dinero podríamos poner bancas, y el fondo de la colonia no alcanza para ambas cosas.",
+    "cloze": "costo de oportunidad",
+    "answer": "costo de oportunidad",
+    "lemma": "costo de oportunidad",
+    "meaning": "opportunity cost",
+    "audio": "work/audio/es-MX/05/es-05-1992.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1993",
+    "sentence": "Aunque no vivan aquí, el cambio de parada también les atañe a quienes vienen a trabajar a la colonia; quisiera escuchar cómo les afectaría antes de apoyar la nueva ubicación.",
+    "cloze": "les atañe",
+    "answer": "les atañe",
+    "lemma": "atañer",
+    "meaning": "concerns them",
+    "audio": "work/audio/es-MX/05/es-05-1993.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1994",
+    "sentence": "—No puedo poner dinero para el huerto, pero tengo madera y sé armar los cajones. —Tu aportación en especie también cuenta, Rosa; al comparar lo que cada quien puede dar, no reduzcamos todo al efectivo.",
+    "cloze": "aportación en especie",
+    "answer": "aportación en especie",
+    "lemma": "aportación en especie",
+    "meaning": "contribution in kind",
+    "audio": "work/audio/es-MX/05/es-05-1994.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1995",
+    "sentence": "La inscripción exige ir tres veces al centro comunitario. Por lo que nos dijeron quienes trabajan lejos, ese trámite disuade a vecinos interesados en el huerto de participar en la consulta.",
+    "cloze": "disuade",
+    "answer": "disuade",
+    "lemma": "disuadir",
+    "meaning": "deters",
+    "audio": "work/audio/es-MX/05/es-05-1995.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1996",
+    "sentence": "—Si las lámparas son regaladas, ¿por qué no las aceptamos? —Porque la electricidad sería un gasto recurrente del edificio; quisiera saber si podemos cubrirla antes de apoyar su instalación.",
+    "cloze": "gasto recurrente",
+    "answer": "gasto recurrente",
+    "lemma": "gasto recurrente",
+    "meaning": "recurring expense",
+    "audio": "work/audio/es-MX/05/es-05-1996.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1997",
+    "sentence": "¿Aceptarían mancomunar las herramientas para que varios edificios usen un solo equipo, aun sabiendo que cada edificio dejaría de decidir por su cuenta cuándo disponer de él?",
+    "cloze": "mancomunar",
+    "answer": "mancomunar",
+    "lemma": "mancomunar",
+    "meaning": "pool jointly",
+    "audio": "work/audio/es-MX/05/es-05-1997.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1998",
+    "sentence": "La propuesta sustituye nuestra petición de liberar la banqueta por la meta de «mejorar la convivencia». No quisiera diluir una demanda concreta en una aspiración que podría darse por cumplida aunque las mesas siguieran bloqueando el paso.",
+    "cloze": "diluir",
+    "answer": "diluir",
+    "lemma": "diluir",
+    "meaning": "dilute; weaken",
+    "audio": "work/audio/es-MX/05/es-05-1998.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1999",
+    "sentence": "La cuota igual para todos parece sencilla, pero yo propongo eximir del pago a quienes ya dijeron que no pueden cubrirla; prefiero una convivencia más modesta a que esas familias no participen.",
+    "cloze": "eximir",
+    "answer": "eximir",
+    "lemma": "eximir",
+    "meaning": "exempt",
+    "audio": "work/audio/es-MX/05/es-05-1999.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2000",
+    "sentence": "Construir una bodega fija ocuparía el único patio disponible. No quisiera hipotecar las posibilidades de uso de quienes lleguen después solo para guardar el equipo de nuestra feria anual.",
+    "cloze": "hipotecar",
+    "answer": "hipotecar",
+    "lemma": "hipotecar",
+    "meaning": "compromise future options",
+    "audio": "work/audio/es-MX/05/es-05-2000.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2001",
+    "sentence": "Voy a presentar la propuesta de transporte con un mandato del grupo: pedir una parada más cercana sin aceptar menos salidas; mi preferencia por viajar sentado no forma parte de ese encargo.",
+    "cloze": "mandato",
+    "answer": "mandato",
+    "lemma": "mandato",
+    "meaning": "mandate",
+    "audio": "work/audio/es-MX/05/es-05-2001.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2002",
+    "sentence": "Ustedes proponen que quienes puedan paguen un poco más para subsidiar la entrada de otras familias al taller; antes de elegir ese esquema, quiero saber si los aportantes lo aceptan expresamente.",
+    "cloze": "subsidiar",
+    "answer": "subsidiar",
+    "lemma": "subsidiar",
+    "meaning": "subsidize",
+    "audio": "work/audio/es-MX/05/es-05-2002.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2003",
+    "sentence": "La convivencia busca que se conozcan vecinos de distintas edades; me preocupa que el nuevo programa segregue a niños y adultos en actividades que nunca coinciden, aunque así sea más fácil organizarlas.",
+    "cloze": "segregue",
+    "answer": "segregue",
+    "lemma": "segregar",
+    "meaning": "separate into isolated groups",
+    "audio": "work/audio/es-MX/05/es-05-2003.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2004",
+    "sentence": "Con ingresos previstos de mil pesos y gastos totales previstos de mil, la feria podría autofinanciarse, pero no dejaría dinero para reparar la cancha.",
+    "cloze": "autofinanciarse",
+    "answer": "autofinanciarse",
+    "lemma": "autofinanciarse",
+    "meaning": "cover its own costs",
+    "audio": "work/audio/es-MX/05/es-05-2004.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2005",
+    "sentence": "En el edificio viven diez propietarios y diez inquilinos, pero invitaron a los diez propietarios y solo a dos inquilinos; estos últimos están subrepresentados en la consulta sobre el patio.",
+    "cloze": "subrepresentados",
+    "answer": "subrepresentados",
+    "lemma": "subrepresentado",
+    "meaning": "underrepresented",
+    "audio": "work/audio/es-MX/05/es-05-2005.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2006",
+    "sentence": "Me parece razonable remunerar la reparación de las bancas aunque quien la haga sea vecino: estamos pidiendo horas de su oficio, y el presupuesto ya contempla ese trabajo.",
+    "cloze": "remunerar",
+    "answer": "remunerar",
+    "lemma": "remunerar",
+    "meaning": "pay for",
+    "audio": "work/audio/es-MX/05/es-05-2006.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2007",
+    "sentence": "Dejar la propuesta para otro año también tiene un costo: la inacción mantendría cerrado el único salón de reuniones, que hoy sigue lleno de muebles que nadie usa.",
+    "cloze": "inacción",
+    "answer": "inacción",
+    "lemma": "inacción",
+    "meaning": "inaction",
+    "audio": "work/audio/es-MX/05/es-05-2007.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2008",
+    "sentence": "¿Les serviría la alternancia de baile y cine, un sábado para cada actividad, si el patio no admite las dos a la vez y queremos evitar que un grupo reserve todas las fechas?",
+    "cloze": "alternancia",
+    "answer": "alternancia",
+    "lemma": "alternancia",
+    "meaning": "alternating use",
+    "audio": "work/audio/es-MX/05/es-05-2008.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2009",
+    "sentence": "La cafetería pagaría parte del mantenimiento de la plaza, pero su terraza desplazaría las mesas donde hoy se juega ajedrez sin consumir. Esa pérdida también cuenta al valorar la renta.",
+    "cloze": "desplazaría",
+    "answer": "desplazaría",
+    "lemma": "desplazar",
+    "meaning": "would displace",
+    "audio": "work/audio/es-MX/05/es-05-2009.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2010",
+    "sentence": "—Con la limpieza semanal, ¿ya no tendremos que recoger después de las reuniones? —El servicio propuesto no incluye cada evento; me parece importante que nadie se desentienda de lo que deja en el patio.",
+    "cloze": "se desentienda",
+    "answer": "se desentienda",
+    "lemma": "desentenderse",
+    "meaning": "shirk responsibility",
+    "audio": "work/audio/es-MX/05/es-05-2010.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2011",
+    "sentence": "¿Queremos exigir unanimidad para cambiar el horario del salón? Eso permitiría que una sola persona detuviera el ajuste que piden todos los demás; prefiero discutir ese alcance antes de aceptar la propuesta.",
+    "cloze": "unanimidad",
+    "answer": "unanimidad",
+    "lemma": "unanimidad",
+    "meaning": "unanimity",
+    "audio": "work/audio/es-MX/05/es-05-2011.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2012",
+    "sentence": "Si una sola familia reserva la parrilla común todos los domingos, cada reserva puede caber en el horario y aun así producir acaparamiento; quiero valorar el acceso del conjunto, no solo cada solicitud por separado.",
+    "cloze": "acaparamiento",
+    "answer": "acaparamiento",
+    "lemma": "acaparamiento",
+    "meaning": "monopolization",
+    "audio": "work/audio/es-MX/05/es-05-2012.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2013",
+    "sentence": "La propuesta manda los puestos a la calle de atrás para dejar libre nuestra banqueta. ¿No estamos intentando externalizar hacia esos vecinos el problema de espacio que queremos resolver aquí?",
+    "cloze": "externalizar",
+    "answer": "externalizar",
+    "lemma": "externalizar",
+    "meaning": "shift onto outsiders",
+    "audio": "work/audio/es-MX/05/es-05-2013.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2014",
+    "sentence": "Yo no juego futbol, pero considero la cancha un bien común y apoyaría repararla: es el único espacio del barrio donde cualquiera puede reunirse sin pagar entrada.",
+    "cloze": "bien común",
+    "answer": "bien común",
+    "lemma": "bien común",
+    "meaning": "shared community asset",
+    "audio": "work/audio/es-MX/05/es-05-2014.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2015",
+    "sentence": "Me parece sobredimensionada la compra de treinta mesas: las ocho familias inscritas pidieron una por familia, y podríamos conseguir otras prestadas si se suma más gente.",
+    "cloze": "sobredimensionada",
+    "answer": "sobredimensionada",
+    "lemma": "sobredimensionado",
+    "meaning": "oversized for actual needs",
+    "audio": "work/audio/es-MX/05/es-05-2015.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2016",
+    "sentence": "Dos vecinos me dijeron: «Preferimos conservar el estacionamiento, pero vamos a votar por el jardín para que nuestros amigos no se enojen». Me preocupa esa presión de grupo.",
+    "cloze": "presión de grupo",
+    "answer": "presión de grupo",
+    "lemma": "presión de grupo",
+    "meaning": "peer pressure",
+    "audio": "work/audio/es-MX/05/es-05-2016.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2017",
+    "sentence": "Quiero que la invitación a limpiar la plaza anime a colaborar sin que se estigmatice a quienes no vayan como malos vecinos; algunos ya explicaron que ese día trabajan.",
+    "cloze": "estigmatice",
+    "answer": "estigmatice",
+    "lemma": "estigmatizar",
+    "meaning": "stigmatize",
+    "audio": "work/audio/es-MX/05/es-05-2017.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2018",
+    "sentence": "Mi taller rentaría las bicicletas si se acepta mi propuesta, así que tengo un conflicto de interés que debo mencionar al defenderla. Ustedes podrán valorar las ventajas sin desconocer lo que yo ganaría.",
+    "cloze": "conflicto de interés",
+    "answer": "conflicto de interés",
+    "lemma": "conflicto de interés",
+    "meaning": "conflict of interest",
+    "audio": "work/audio/es-MX/05/es-05-2018.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2019",
+    "sentence": "No me molesta que se beneficien del jardín quienes no ayudaron a plantarlo; ofrecimos trabajo voluntario para un espacio abierto, y cobrarles ahora cambiaría el sentido de nuestra aportación.",
+    "cloze": "se beneficien",
+    "answer": "se beneficien",
+    "lemma": "beneficiarse",
+    "meaning": "benefit",
+    "audio": "work/audio/es-MX/05/es-05-2019.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2020",
+    "sentence": "Los dos huertos reciben una sola entrega de agua por semana y comparten el depósito; por esa interdependencia, propongo discutir juntos cuánto usará cada uno, en vez de aprobar las dos cantidades por separado.",
+    "cloze": "interdependencia",
+    "answer": "interdependencia",
+    "lemma": "interdependencia",
+    "meaning": "interdependence",
+    "audio": "work/audio/es-MX/05/es-05-2020.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2021",
+    "sentence": "—Sobró dinero de la reparación de la cancha; ¿lo usamos para una fiesta? —Yo prefiero reintegrar ese saldo a quienes cooperaron, porque la fiesta no estaba incluida en la aportación.",
+    "cloze": "reintegrar",
+    "answer": "reintegrar",
+    "lemma": "reintegrar",
+    "meaning": "refund",
+    "audio": "work/audio/es-MX/05/es-05-2021.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2022",
+    "sentence": "Varios vecinos llegan en bicicleta a la parada y siguen en camión; esa complementariedad me hace apoyar un lugar para dejar las bicis junto a la parada, en vez de presentar ambos medios como opciones rivales.",
+    "cloze": "complementariedad",
+    "answer": "complementariedad",
+    "lemma": "complementariedad",
+    "meaning": "complementarity",
+    "audio": "work/audio/es-MX/05/es-05-2022.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2023",
+    "sentence": "¿Nos interesa la autogestión del salón con todo lo que implica, desde elegir las actividades hasta abrir, cerrar y llevar las cuentas, o solo queremos decidir el programa?",
+    "cloze": "autogestión",
+    "answer": "autogestión",
+    "lemma": "autogestión",
+    "meaning": "self-management",
+    "audio": "work/audio/es-MX/05/es-05-2023.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2024",
+    "sentence": "Apoyo desvincular la inscripción al huerto de la autorización para aparecer en sus fotos; una vecina quiere cultivar con el grupo, pero no desea participar en la difusión.",
+    "cloze": "desvincular",
+    "answer": "desvincular",
+    "lemma": "desvincular",
+    "meaning": "separate; decouple",
+    "audio": "work/audio/es-MX/05/es-05-2024.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2025",
+    "sentence": "El grupo propone publicar los comprobantes de la compra de bancas; eso nos permitiría fiscalizar el uso de las aportaciones sin pedir a cada familia que revele sus ingresos.",
+    "cloze": "fiscalizar",
+    "answer": "fiscalizar",
+    "lemma": "fiscalizar",
+    "meaning": "scrutinize",
+    "audio": "work/audio/es-MX/05/es-05-2025.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2026",
+    "sentence": "Hoy sobran voluntarios para estrenar el huerto, pero el entusiasmo podría enfriarse cuando pase la novedad; por eso todavía no tomaría esta primera lista como garantía de apoyo permanente.",
+    "cloze": "enfriarse",
+    "answer": "enfriarse",
+    "lemma": "enfriarse",
+    "meaning": "wane",
+    "audio": "work/audio/es-MX/05/es-05-2026.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2027",
+    "sentence": "Quiero apoyar un relevo generacional en la coordinación del huerto, pero me inquieta que la propuesta deje fuera a quienes lo cuidan desde hace años; cambiar quién decide no exige perder su participación.",
+    "cloze": "relevo generacional",
+    "answer": "relevo generacional",
+    "lemma": "relevo generacional",
+    "meaning": "generational handover",
+    "audio": "work/audio/es-MX/05/es-05-2027.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2028",
+    "sentence": "El año pasado destinamos todo el fondo a la zona norte porque sus bancas estaban rotas; ahora ya están reparadas, mientras la zona sur sigue sin ninguna. Apoyo reequilibrar la inversión este año hacia el sur, en vez de tratar el reparto anterior como una preferencia permanente.",
+    "cloze": "reequilibrar",
+    "answer": "reequilibrar",
+    "lemma": "reequilibrar",
+    "meaning": "rebalance",
+    "audio": "work/audio/es-MX/05/es-05-2028.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2029",
+    "sentence": "La prueba del recorrido mostró que ambas rutas tardan veinte minutos; ese dato no dirime qué debe pesar más, acercarnos al mercado o a la escuela.",
+    "cloze": "dirime",
+    "answer": "dirime",
+    "lemma": "dirimir",
+    "meaning": "settles",
+    "audio": "work/audio/es-MX/05/es-05-2029.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2030",
+    "sentence": "El salón prestado no tendría renta, pero el dueño quiere poder usarlo cualquier tarde; me preocupa que el taller quede a merced de sus cambios de planes, aunque al principio ahorremos dinero.",
+    "cloze": "a merced de",
+    "answer": "a merced de",
+    "lemma": "a merced de",
+    "meaning": "at the mercy of",
+    "audio": "work/audio/es-MX/05/es-05-2030.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2031",
+    "sentence": "El diseño del jardín ya está decidido, hasta en la elección de las plantas; ¿cómo podemos corresponsabilizar a los vecinos de un proyecto en el que no se les permite decidir nada?",
+    "cloze": "corresponsabilizar",
+    "answer": "corresponsabilizar",
+    "lemma": "corresponsabilizar",
+    "meaning": "make jointly responsible",
+    "audio": "work/audio/es-MX/05/es-05-2031.mp3",
+    "accepted_answers": []
   }
 ]
