@@ -17560,5 +17560,405 @@
     "meaning": "intermediate result",
     "audio": "work/audio/es-MX/05/es-05-1751.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1752",
+    "sentence": "Aquí ven veinte cartas, mientras que el archivo reúne cerca de dos mil; son cantidades de distinto orden de magnitud, así que esta vitrina solo muestra una pequeña parte de la colección.",
+    "cloze": "orden de magnitud",
+    "answer": "orden de magnitud",
+    "lemma": "orden de magnitud",
+    "meaning": "approximate numerical scale",
+    "audio": "work/audio/es-MX/05/es-05-1752.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1753",
+    "sentence": "En esta charla para las familias, las fotos de cocinas aparecen junto a las de fábricas; ese encuadre permite mirar el trabajo doméstico como parte de la historia laboral del barrio.",
+    "cloze": "encuadre",
+    "answer": "encuadre",
+    "lemma": "encuadre",
+    "meaning": "interpretive framing",
+    "audio": "work/audio/es-MX/05/es-05-1753.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1754",
+    "sentence": "Ante el grupo, distingo las dos medidas: pasar del veinte al treinta por ciento supone un aumento de diez puntos porcentuales; respecto al valor inicial, el aumento es del cincuenta por ciento.",
+    "cloze": "puntos porcentuales",
+    "answer": "puntos porcentuales",
+    "lemma": "punto porcentual",
+    "meaning": "percentage points",
+    "audio": "work/audio/es-MX/05/es-05-1754.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1755",
+    "sentence": "En el cuento que comentamos en clase, la llave primero permite salir de casa y al final sirve para encerrarse voluntariamente; ese último uso resignifica el objeto que al principio asociábamos con la libertad.",
+    "cloze": "resignifica",
+    "answer": "resignifica",
+    "lemma": "resignificar",
+    "meaning": "gives a new meaning to",
+    "audio": "work/audio/es-MX/05/es-05-1755.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1756",
+    "sentence": "Para explicar los porcentajes a las familias, primero muestro veinte lugares ocupados de un total de cien y después comparo dos grupos; esa progresión permite entender la medida antes de usarla para comparar.",
+    "cloze": "progresión",
+    "answer": "progresión",
+    "lemma": "progresión",
+    "meaning": "ordered development",
+    "audio": "work/audio/es-MX/05/es-05-1756.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1757",
+    "sentence": "En el informe del club usamos una definición operativa de «lector frecuente»: contamos así a quien leyó al menos un libro durante el mes, aunque esa persona no se describa de esa manera.",
+    "cloze": "definición operativa",
+    "answer": "definición operativa",
+    "lemma": "definición operativa",
+    "meaning": "working definition based on an explicit criterion",
+    "audio": "work/audio/es-MX/05/es-05-1757.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1758",
+    "sentence": "Para el boletín del cineclub, describo el contrapunto entre la música alegre y las imágenes de despedida: la canción conserva el ambiente de fiesta mientras vemos a los personajes separarse.",
+    "cloze": "contrapunto",
+    "answer": "contrapunto",
+    "lemma": "contrapunto",
+    "meaning": "expressive counterpoint",
+    "audio": "work/audio/es-MX/05/es-05-1758.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1759",
+    "sentence": "En la demostración para el grupo nuevo, la información se dosifica: cada decisión aparece cuando llega el momento de tomarla, de modo que nadie tiene que recordar desde el inicio todas las opciones.",
+    "cloze": "se dosifica",
+    "answer": "se dosifica",
+    "lemma": "dosificar",
+    "meaning": "is introduced in manageable portions",
+    "audio": "work/audio/es-MX/05/es-05-1759.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1760",
+    "sentence": "Dos grupos leyeron, en promedio, dos libros por persona: en uno todos leyeron dos; en el otro, la mitad ninguno y la mitad cuatro. Al explicarlo en clase, distingo el promedio de la dispersión de los resultados.",
+    "cloze": "dispersión",
+    "answer": "dispersión",
+    "lemma": "dispersión",
+    "meaning": "spread of values",
+    "audio": "work/audio/es-MX/05/es-05-1760.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1761",
+    "sentence": "En mi charla a las familias uso una pregunta retórica: «¿De qué sirve llenar los estantes si nadie puede abrir la biblioteca?». Con ella afirmo la importancia del acceso, sin pedir una lista de posibles utilidades.",
+    "cloze": "pregunta retórica",
+    "answer": "pregunta retórica",
+    "lemma": "pregunta retórica",
+    "meaning": "rhetorical question",
+    "audio": "work/audio/es-MX/05/es-05-1761.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1762",
+    "sentence": "La reseña para el boletín vecinal explica el trasfondo de las reparaciones de ropa en la novela: conseguir tela nueva era difícil para esa familia, y por eso los remiendos forman parte de su vida diaria.",
+    "cloze": "trasfondo",
+    "answer": "trasfondo",
+    "lemma": "trasfondo",
+    "meaning": "underlying context",
+    "audio": "work/audio/es-MX/05/es-05-1762.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1763",
+    "sentence": "Para explicar las conexiones del transporte al grupo, recurro a la abstracción: cada parada se vuelve un punto y cada recorrido una línea; desaparecen los edificios, pero se conserva qué lugares están conectados.",
+    "cloze": "abstracción",
+    "answer": "abstracción",
+    "lemma": "abstracción",
+    "meaning": "abstraction",
+    "audio": "work/audio/es-MX/05/es-05-1763.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1764",
+    "sentence": "Al presentar la gráfica a los vecinos, advierto que su escala empieza en noventa: la subida de cien a ciento cinco ocupa mucho espacio en el dibujo, aunque el aumento sea de cinco unidades.",
+    "cloze": "escala",
+    "answer": "escala",
+    "lemma": "escala",
+    "meaning": "graph scale",
+    "audio": "work/audio/es-MX/05/es-05-1764.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1765",
+    "sentence": "El cuento muestra a la familia sembrando con entusiasmo y pasa enseguida a su decepción ante una cosecha escasa; esa elipsis acerca la expectativa al resultado, sin narrar los meses de cuidado.",
+    "cloze": "elipsis",
+    "answer": "elipsis",
+    "lemma": "elipsis",
+    "meaning": "narrative omission",
+    "audio": "work/audio/es-MX/05/es-05-1765.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1766",
+    "sentence": "En clase llamamos colectiva a una obra cuyo contenido decide el grupo; un texto escrito por una sola persona pero titulado por todos es un caso límite, porque obliga a precisar cuánto cuenta esa decisión.",
+    "cloze": "caso límite",
+    "answer": "caso límite",
+    "lemma": "caso límite",
+    "meaning": "borderline case",
+    "audio": "work/audio/es-MX/05/es-05-1766.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1767",
+    "sentence": "Para los lectores del boletín, llamar «lastre» a una costumbre añade una connotación de obstáculo; la palabra invita a verla como algo que impide avanzar, aunque todavía no se hayan explicado sus efectos.",
+    "cloze": "connotación",
+    "answer": "connotación",
+    "lemma": "connotación",
+    "meaning": "associated meaning",
+    "audio": "work/audio/es-MX/05/es-05-1767.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1768",
+    "sentence": "En la explicación a los vecinos, la comodidad podría ser el eslabón entre poner sombra y permanecer más tiempo en la plaza: bajo el techo se puede conversar sin recibir el sol directamente.",
+    "cloze": "eslabón",
+    "answer": "eslabón",
+    "lemma": "eslabón",
+    "meaning": "connecting link",
+    "audio": "work/audio/es-MX/05/es-05-1768.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1769",
+    "sentence": "En el taller leemos «Unos sostienen el techo; otros sostienen la conversación»; el paralelismo de las dos frases presenta el trabajo material y el cuidado de las relaciones como aportaciones con un lugar semejante.",
+    "cloze": "paralelismo",
+    "answer": "paralelismo",
+    "lemma": "paralelismo",
+    "meaning": "syntactic parallelism",
+    "audio": "work/audio/es-MX/05/es-05-1769.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1770",
+    "sentence": "El folleto del taller permite una lectura selectiva: quienes solo necesitan comparar la duración de las actividades pueden encontrar ese dato bajo el mismo encabezado en cada una, sin leer todas las descripciones.",
+    "cloze": "lectura selectiva",
+    "answer": "lectura selectiva",
+    "lemma": "lectura selectiva",
+    "meaning": "selective reading",
+    "audio": "work/audio/es-MX/05/es-05-1770.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1771",
+    "sentence": "En el relato que revisamos en el taller, la niña ensaya despedidas con sus muñecas antes de decidir que dejará el pueblo; esa escena prefigura su partida, aunque todavía no anuncie cuándo ocurrirá.",
+    "cloze": "prefigura",
+    "answer": "prefigura",
+    "lemma": "prefigurar",
+    "meaning": "foreshadows",
+    "audio": "work/audio/es-MX/05/es-05-1771.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1772",
+    "sentence": "Para explicar al grupo cómo avanza una fila, supongo que cada persona tarda exactamente dos minutos; esa idealización facilita seguir el ejemplo, pero deja fuera las diferencias entre las consultas reales.",
+    "cloze": "idealización",
+    "answer": "idealización",
+    "lemma": "idealización",
+    "meaning": "deliberate simplifying assumption",
+    "audio": "work/audio/es-MX/05/es-05-1772.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1773",
+    "sentence": "En la lectura comentada, «lo pidió, lo exigió, lo gritó» forma una gradación: cada expresión aumenta la intensidad de la anterior y hace visible el crecimiento del conflicto sin describirlo por separado.",
+    "cloze": "gradación",
+    "answer": "gradación",
+    "lemma": "gradación",
+    "meaning": "progressive intensification",
+    "audio": "work/audio/es-MX/05/es-05-1773.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1774",
+    "sentence": "La frase introduce tres conceptos nuevos y relaciona los tres de inmediato; para quienes apenas conocen el tema, su densidad informativa sigue siendo alta aunque yo la lea despacio.",
+    "cloze": "densidad informativa",
+    "answer": "densidad informativa",
+    "lemma": "densidad informativa",
+    "meaning": "information density",
+    "audio": "work/audio/es-MX/05/es-05-1774.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1775",
+    "sentence": "En el comentario para el club de lectura, señalo que la escena de dos hermanas compartiendo su única cobija da cuerpo a la solidaridad: el valor se vuelve una acción que podemos imaginar.",
+    "cloze": "da cuerpo",
+    "answer": "da cuerpo",
+    "lemma": "dar cuerpo",
+    "meaning": "gives concrete form to",
+    "audio": "work/audio/es-MX/05/es-05-1775.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1776",
+    "sentence": "El registro del club muestra más préstamos en cada periodo de vacaciones durante tres años; al explicarlo a las familias, hablo de estacionalidad porque el aumento reaparece en la misma parte del año.",
+    "cloze": "estacionalidad",
+    "answer": "estacionalidad",
+    "lemma": "estacionalidad",
+    "meaning": "seasonal pattern",
+    "audio": "work/audio/es-MX/05/es-05-1776.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1777",
+    "sentence": "En la reseña para el cineclub, explico el doble sentido de «Sin red»: el título alude tanto al equipo ausente de la trapecista como a la falta de personas que la apoyen fuera del circo.",
+    "cloze": "doble sentido",
+    "answer": "doble sentido",
+    "lemma": "doble sentido",
+    "meaning": "double meaning",
+    "audio": "work/audio/es-MX/05/es-05-1777.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1778",
+    "sentence": "El autor interrumpe el relato de la apertura de la biblioteca para contar que de niño se burlaban de él cuando leía; esa digresión ayuda a entender su insistencia en recibir sin burlas a quienes apenas empiezan.",
+    "cloze": "digresión",
+    "answer": "digresión",
+    "lemma": "digresión",
+    "meaning": "digression",
+    "audio": "work/audio/es-MX/05/es-05-1778.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1779",
+    "sentence": "En la lámina para las familias, «Acceso» aparece como título y «horarios» y «transporte» debajo, en letra menor; esa jerarquía muestra que los dos asuntos forman parte de un mismo problema.",
+    "cloze": "jerarquía",
+    "answer": "jerarquía",
+    "lemma": "jerarquía",
+    "meaning": "hierarchy",
+    "audio": "work/audio/es-MX/05/es-05-1779.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1780",
+    "sentence": "El texto del museo pormenoriza la fabricación de la caja: cuenta cómo se midió, se cortó y se unió la madera; así, quien nunca ha hecho una puede reconocer el trabajo detrás del objeto.",
+    "cloze": "pormenoriza",
+    "answer": "pormenoriza",
+    "lemma": "pormenorizar",
+    "meaning": "describes in detail",
+    "audio": "work/audio/es-MX/05/es-05-1780.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1781",
+    "sentence": "En clase comentamos la ambivalencia de la casa en el cuento: protege a la protagonista de la lluvia, pero sus ventanas cerradas también la separan de los demás; conserva las dos funciones hasta el final.",
+    "cloze": "ambivalencia",
+    "answer": "ambivalencia",
+    "lemma": "ambivalencia",
+    "meaning": "coexistence of opposing meanings",
+    "audio": "work/audio/es-MX/05/es-05-1781.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1782",
+    "sentence": "El recuadro del boletín es autosuficiente: nombra a las dos asociaciones y explica qué acordaron, de modo que quien lo lea separado del artículo no tenga que adivinar a quiénes se refiere «ambas».",
+    "cloze": "autosuficiente",
+    "answer": "autosuficiente",
+    "lemma": "autosuficiente",
+    "meaning": "self-contained",
+    "audio": "work/audio/es-MX/05/es-05-1782.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1783",
+    "sentence": "En el ejemplo de la charla, cuatro personas leyeron un libro y una leyó veintiuno; ese valor atípico eleva el promedio a cinco, una cifra que no describe la experiencia de la mayoría.",
+    "cloze": "valor atípico",
+    "answer": "valor atípico",
+    "lemma": "valor atípico",
+    "meaning": "outlying value",
+    "audio": "work/audio/es-MX/05/es-05-1783.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1784",
+    "sentence": "La taza azul aparece en el desayuno, en la discusión y en la despedida del cuento; en el taller comentamos cómo su recurrencia enlaza escenas distintas mediante un objeto cotidiano que el lector puede reconocer.",
+    "cloze": "recurrencia",
+    "answer": "recurrencia",
+    "lemma": "recurrencia",
+    "meaning": "recurrence",
+    "audio": "work/audio/es-MX/05/es-05-1784.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1785",
+    "sentence": "Para los visitantes que quieren comparar usos, elegí un orden temático: las piezas para cocinar aparecen juntas aunque pertenezcan a épocas distintas, y las de juego forman otro grupo.",
+    "cloze": "temático",
+    "answer": "temático",
+    "lemma": "temático",
+    "meaning": "organized by theme",
+    "audio": "work/audio/es-MX/05/es-05-1785.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1786",
+    "sentence": "La crónica conserva frases como «y luego… bueno, antes pasó otra cosa»; en la presentación al club, explico que esa oralidad permite reconocer una voz que recuerda mientras habla, incluso en una página escrita.",
+    "cloze": "oralidad",
+    "answer": "oralidad",
+    "lemma": "oralidad",
+    "meaning": "qualities of spoken language",
+    "audio": "work/audio/es-MX/05/es-05-1786.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1787",
+    "sentence": "En el club aumentó el promedio mensual de libros por persona al entrar más lectores habituales; ante las familias, explico que cambió la composición del grupo, aunque principiantes y habituales mantienen, por separado, su ritmo anterior.",
+    "cloze": "composición",
+    "answer": "composición",
+    "lemma": "composición",
+    "meaning": "makeup of a group",
+    "audio": "work/audio/es-MX/05/es-05-1787.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1788",
+    "sentence": "El cuento anuncia que la carta cambiará la vida de Julia, pero describe toda su caminata antes de revelar el mensaje; en el taller observamos cómo retarda esa información para mantener la expectativa del lector.",
+    "cloze": "retarda",
+    "answer": "retarda",
+    "lemma": "retardar",
+    "meaning": "delays",
+    "audio": "work/audio/es-MX/05/es-05-1788.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1789",
+    "sentence": "Para quienes escucharán el informe sin ver la gráfica, la narración verbaliza la comparación: «El grupo de la mañana creció y el de la tarde disminuyó» sustituye la referencia a una línea azul y otra roja.",
+    "cloze": "verbaliza",
+    "answer": "verbaliza",
+    "lemma": "verbalizar",
+    "meaning": "puts into words",
+    "audio": "work/audio/es-MX/05/es-05-1789.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1790",
+    "sentence": "El diagrama que muestro al grupo se ramifica después de la elección del personaje: si conserva la carta, la historia sigue con su lectura; si la rompe, continúa con la búsqueda de otra respuesta.",
+    "cloze": "se ramifica",
+    "answer": "se ramifica",
+    "lemma": "ramificarse",
+    "meaning": "branches",
+    "audio": "work/audio/es-MX/05/es-05-1790.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1791",
+    "sentence": "En la reseña para el boletín, destaco la economía expresiva de una escena: el personaje devuelve el regalo sin abrirlo, y ese gesto permite entender su rechazo sin un párrafo que explique lo que siente.",
+    "cloze": "economía expresiva",
+    "answer": "economía expresiva",
+    "lemma": "economía expresiva",
+    "meaning": "economy of expression",
+    "audio": "work/audio/es-MX/05/es-05-1791.mp3",
+    "accepted_answers": []
   }
 ]
