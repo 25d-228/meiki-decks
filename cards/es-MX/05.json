@@ -16010,5 +16010,385 @@
     "meaning": "I bring to a close",
     "audio": "work/audio/es-MX/05/es-05-1596.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1597",
+    "sentence": "No rechacé la propuesta del patio: acepté la opción dos en la lista del lunes. Las opciones quedaron renumeradas al agregar la biblioteca arriba; mi respuesta sigue siendo para el patio.",
+    "cloze": "renumeradas",
+    "answer": "renumeradas",
+    "lemma": "renumerar",
+    "meaning": "renumbered",
+    "audio": "work/audio/es-MX/05/es-05-1597.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1598",
+    "sentence": "Me dio gusto que confiaras en mí al contarme lo que sientes. Mi agradecimiento no significa que pueda corresponderte; te quiero como amigo y debí decirlo antes de que pensaras que empezaríamos a salir.",
+    "cloze": "corresponderte",
+    "answer": "corresponderte",
+    "lemma": "corresponder",
+    "meaning": "return your romantic feelings",
+    "audio": "work/audio/es-MX/05/es-05-1598.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1599",
+    "sentence": "En su mensaje, los quinientos pesos eran a cuenta del total de la reparación. Ahora aparecen como un cargo adicional; por favor, revise el saldo, porque esa cantidad ya cubría una parte del trabajo.",
+    "cloze": "a cuenta",
+    "answer": "a cuenta",
+    "lemma": "a cuenta",
+    "meaning": "as a partial payment",
+    "audio": "work/audio/es-MX/05/es-05-1599.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1600",
+    "sentence": "Me pediste corregir la copia de mi carpeta y ahora ves tus comentarios borrados. Las dos carpetas se sincronizan: el cambio apareció también en la tuya; yo había entendido que trabajaría en un archivo independiente.",
+    "cloze": "se sincronizan",
+    "answer": "se sincronizan",
+    "lemma": "sincronizarse",
+    "meaning": "sync with each other",
+    "audio": "work/audio/es-MX/05/es-05-1600.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1601",
+    "sentence": "El mensaje admite cambios hasta el viernes inclusive. Puedes mandarlos ese mismo viernes; al decirte que el jueves era el último día, dejé fuera una fecha que sí estaba dentro del plazo.",
+    "cloze": "inclusive",
+    "answer": "inclusive",
+    "lemma": "inclusive",
+    "meaning": "inclusive",
+    "audio": "work/audio/es-MX/05/es-05-1601.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1602",
+    "sentence": "Me sorprende que la tienda dé por comprados los cuadernos que recibió. Los dejé en consignación: acordamos que me pagarían los que vendieran y me devolverían los demás.",
+    "cloze": "en consignación",
+    "answer": "en consignación",
+    "lemma": "en consignación",
+    "meaning": "on consignment",
+    "audio": "work/audio/es-MX/05/es-05-1602.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1603",
+    "sentence": "Nos pusiste a todos como autores porque llamé «nuestro» al archivo. Es de uso común: todos podemos abrirlo, pero el texto lo escribió Celia; yo hablaba del acceso, no de la autoría.",
+    "cloze": "de uso común",
+    "answer": "de uso común",
+    "lemma": "de uso común",
+    "meaning": "for shared use",
+    "audio": "work/audio/es-MX/05/es-05-1603.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1604",
+    "sentence": "No espero que reescribas el relato varias veces. Acordamos publicarlo por entregas: esta semana sale el principio y la próxima, la continuación; son partes de la misma historia, no versiones corregidas.",
+    "cloze": "por entregas",
+    "answer": "por entregas",
+    "lemma": "por entregas",
+    "meaning": "in installments",
+    "audio": "work/audio/es-MX/05/es-05-1604.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1605",
+    "sentence": "Sí preparé la visita. Dije que ajustaríamos el recorrido sobre la marcha porque no sabíamos qué salas estarían abiertas; eso no significa que lleguemos sin una ruta pensada.",
+    "cloze": "sobre la marcha",
+    "answer": "sobre la marcha",
+    "lemma": "sobre la marcha",
+    "meaning": "as we go",
+    "audio": "work/audio/es-MX/05/es-05-1605.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1606",
+    "sentence": "La cuenta está a mi nombre, pero la llamada la hizo mi hermana y pidió cambiar su propia cita. Yo soy el titular de la cuenta; por eso aparece mi nombre, no porque haya solicitado mover mi cita.",
+    "cloze": "titular",
+    "answer": "titular",
+    "lemma": "titular",
+    "meaning": "account holder",
+    "audio": "work/audio/es-MX/05/es-05-1606.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1607",
+    "sentence": "Acepté tu disculpa, pero no acordamos volver a vivir juntos. Para reconciliarnos tendríamos que querer retomar la relación los dos; mi perdón no decide eso por nosotros.",
+    "cloze": "reconciliarnos",
+    "answer": "reconciliarnos",
+    "lemma": "reconciliarse",
+    "meaning": "get back together",
+    "audio": "work/audio/es-MX/05/es-05-1607.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1608",
+    "sentence": "En mi mensaje escribí «no autorizo publicar los nombres», pero en su copia falta el «no». Le pido que lo restituya antes de reenviarla: esa omisión convierte mi negativa en un permiso que no di.",
+    "cloze": "lo restituya",
+    "answer": "lo restituya",
+    "lemma": "restituir",
+    "meaning": "restore it",
+    "audio": "work/audio/es-MX/05/es-05-1608.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1609",
+    "sentence": "Usted dijo que cobraría solo los días que usamos el salón, tomando como base la cuota mensual. La cuota se prorratea según esos días; en la cuenta aparece el mes completo, como si hubiéramos ocupado todo el periodo.",
+    "cloze": "se prorratea",
+    "answer": "se prorratea",
+    "lemma": "prorratear",
+    "meaning": "is prorated",
+    "audio": "work/audio/es-MX/05/es-05-1609.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1610",
+    "sentence": "No escogí recibir publicidad: esa casilla venía marcada como opción predeterminada y yo no la cambié. Por favor, distingan ese ajuste inicial de una preferencia que yo haya expresado; quiero quitarlo.",
+    "cloze": "predeterminada",
+    "answer": "predeterminada",
+    "lemma": "predeterminado",
+    "meaning": "default",
+    "audio": "work/audio/es-MX/05/es-05-1610.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1611",
+    "sentence": "La minuta dice que todos apoyamos el cambio porque no hubo votos en contra. Dos compañeros se abstuvieron, y sus espacios quedaron en blanco; no podemos contar esos espacios como votos a favor.",
+    "cloze": "se abstuvieron",
+    "answer": "se abstuvieron",
+    "lemma": "abstenerse",
+    "meaning": "abstained",
+    "audio": "work/audio/es-MX/05/es-05-1611.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1612",
+    "sentence": "Anotaste que el cuento se escribió este año porque lo presenté como inédito. Lo terminé hace diez años y nunca lo había publicado; la novedad es su publicación, no su escritura.",
+    "cloze": "inédito",
+    "answer": "inédito",
+    "lemma": "inédito",
+    "meaning": "previously unpublished",
+    "audio": "work/audio/es-MX/05/es-05-1612.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1613",
+    "sentence": "La propuesta ofrece «acompañamiento para toda la vida», y yo entendí que podría consultarles para siempre. ¿Hablan de la vida útil del aparato o de toda la vida de quien lo compra? Necesito aclararlo antes de aceptar.",
+    "cloze": "vida útil",
+    "answer": "vida útil",
+    "lemma": "vida útil",
+    "meaning": "useful life",
+    "audio": "work/audio/es-MX/05/es-05-1613.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1614",
+    "sentence": "Me anotaste el lunes y el sábado, pero permutamos nuestros turnos: tú harías mi lunes y yo tu sábado. No acordé cubrir ambos; mi nombre debe quedar solo en el día que te correspondía.",
+    "cloze": "permutamos",
+    "answer": "permutamos",
+    "lemma": "permutar",
+    "meaning": "swapped",
+    "audio": "work/audio/es-MX/05/es-05-1614.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1615",
+    "sentence": "Ese «con gusto le atenderemos» venía en una respuesta automatizada que se envía a todas las solicitudes. No lo escribió alguien después de revisar su horario; todavía no tenemos confirmada una cita.",
+    "cloze": "automatizada",
+    "answer": "automatizada",
+    "lemma": "automatizado",
+    "meaning": "automated",
+    "audio": "work/audio/es-MX/05/es-05-1615.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1616",
+    "sentence": "Pensaste que el comentario no me había afectado porque contesté con calma. Me estaba conteniendo para poder explicar lo que me molestó; la tranquilidad de mi voz no describe cómo me sentía.",
+    "cloze": "Me estaba conteniendo",
+    "answer": "Me estaba conteniendo",
+    "lemma": "contenerse",
+    "meaning": "was holding myself back",
+    "audio": "work/audio/es-MX/05/es-05-1616.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1617",
+    "sentence": "Ahora me pides corregir números ya publicados, pero acepté revisar las ilustraciones a partir del próximo número. El acuerdo no es retroactivo; los anteriores quedaron fuera.",
+    "cloze": "retroactivo",
+    "answer": "retroactivo",
+    "lemma": "retroactivo",
+    "meaning": "retroactive",
+    "audio": "work/audio/es-MX/05/es-05-1617.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1618",
+    "sentence": "—Me dijeron que recibiría un vale; entonces esperaré el depósito. —El mensaje ofrece un vale canjeable por productos de la tienda. No menciona una devolución en efectivo; falta preguntar si también ofrecen esa opción.",
+    "cloze": "canjeable",
+    "answer": "canjeable",
+    "lemma": "canjeable",
+    "meaning": "redeemable",
+    "audio": "work/audio/es-MX/05/es-05-1618.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1619",
+    "sentence": "Estás usando mi aprobación para imprimir una versión que incluye un párrafo nuevo. Mi respuesta precede a ese cambio: te dije que sí antes de que añadieras el párrafo, que todavía no he revisado.",
+    "cloze": "precede",
+    "answer": "precede",
+    "lemma": "preceder",
+    "meaning": "predates",
+    "audio": "work/audio/es-MX/05/es-05-1619.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1620",
+    "sentence": "No me pusieron al frente de la presentación por tener más experiencia. Mi nombre salió por sorteo, como habíamos acordado para repartir los lugares; abrir la sesión no me convierte en la persona mejor evaluada.",
+    "cloze": "por sorteo",
+    "answer": "por sorteo",
+    "lemma": "por sorteo",
+    "meaning": "by drawing lots",
+    "audio": "work/audio/es-MX/05/es-05-1620.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1621",
+    "sentence": "No te pedí leer más rápido. Cuando dije que leyéramos el diálogo de corrido, quería oírlo sin detenernos a comentar cada frase; podemos mantener el ritmo tranquilo del ensayo anterior.",
+    "cloze": "de corrido",
+    "answer": "de corrido",
+    "lemma": "de corrido",
+    "meaning": "straight through",
+    "audio": "work/audio/es-MX/05/es-05-1621.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1622",
+    "sentence": "Mi nombre aparece junto a «aprobó» porque este formato heredó los datos del proyecto anterior. No he revisado el proyecto nuevo; esa línea copiada no registra una aprobación mía.",
+    "cloze": "heredó",
+    "answer": "heredó",
+    "lemma": "heredar",
+    "meaning": "inherited",
+    "audio": "work/audio/es-MX/05/es-05-1622.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1623",
+    "sentence": "La suspensión es por tiempo indefinido porque todavía no sabemos cuándo volverán a prestarnos el salón. El aviso no anuncia el cierre definitivo del taller; no tener fecha de regreso no significa haber decidido no regresar.",
+    "cloze": "indefinido",
+    "answer": "indefinido",
+    "lemma": "indefinido",
+    "meaning": "unspecified",
+    "audio": "work/audio/es-MX/05/es-05-1623.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1624",
+    "sentence": "Te di permiso de usar la foto y ahora me pides quitarla de mi página. No te la ofrecí en exclusiva: puedes usarla en tu cartel, pero yo también puedo seguir mostrándola.",
+    "cloze": "en exclusiva",
+    "answer": "en exclusiva",
+    "lemma": "en exclusiva",
+    "meaning": "exclusively",
+    "audio": "work/audio/es-MX/05/es-05-1624.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1625",
+    "sentence": "La reunión fue a puerta cerrada porque habíamos acordado conversar sin público, pero también quedamos en compartir un resumen. No ofrecimos mantener todo en secreto; por eso sí podemos compartir ese resumen.",
+    "cloze": "a puerta cerrada",
+    "answer": "a puerta cerrada",
+    "lemma": "a puerta cerrada",
+    "meaning": "behind closed doors",
+    "audio": "work/audio/es-MX/05/es-05-1625.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1626",
+    "sentence": "Al presentarlo como «maestro», no estaba diciendo que tuviera un título docente. Aquí usamos ese trato honorífico por sus años de trabajo como artesano; para hablar de sus estudios tendríamos que preguntarle.",
+    "cloze": "honorífico",
+    "answer": "honorífico",
+    "lemma": "honorífico",
+    "meaning": "honorific",
+    "audio": "work/audio/es-MX/05/es-05-1626.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1627",
+    "sentence": "Cuando dije que iba a archivarlo, hablaba de quitar el correo de mi bandeja de entrada. El reclamo sigue pendiente; mover ese mensaje no significa que usted y yo hayamos resuelto el problema.",
+    "cloze": "archivarlo",
+    "answer": "archivarlo",
+    "lemma": "archivar",
+    "meaning": "archive it",
+    "audio": "work/audio/es-MX/05/es-05-1627.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1628",
+    "sentence": "Mi petición de resolver el problema de raíz no era una orden de rehacer toda la página. Hay que corregir el enlace del que salen las direcciones equivocadas; las secciones que funcionan pueden quedarse.",
+    "cloze": "de raíz",
+    "answer": "de raíz",
+    "lemma": "de raíz",
+    "meaning": "at its root",
+    "audio": "work/audio/es-MX/05/es-05-1628.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1629",
+    "sentence": "Que yo atienda el grupo este mes no significa que hayan despedido a Teresa. Acordamos una suplencia mientras ella está de vacaciones; después retomará sus clases y yo volveré a mi horario.",
+    "cloze": "suplencia",
+    "answer": "suplencia",
+    "lemma": "suplencia",
+    "meaning": "temporary cover",
+    "audio": "work/audio/es-MX/05/es-05-1629.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1630",
+    "sentence": "Pedí desuscribirme del resumen diario por correo, y ahora me preguntas por qué abandoné el proyecto. Sigo en el equipo y entraré a revisar las novedades; solo quería dejar de recibir ese envío.",
+    "cloze": "desuscribirme",
+    "answer": "desuscribirme",
+    "lemma": "desuscribirse",
+    "meaning": "unsubscribe",
+    "audio": "work/audio/es-MX/05/es-05-1630.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1631",
+    "sentence": "La votación era consultiva: acordamos usarla para conocer las preferencias y decidir después, cuando supiéramos el costo. Que haya ganado el patio no significa que ya hayamos reservado ese espacio.",
+    "cloze": "consultiva",
+    "answer": "consultiva",
+    "lemma": "consultivo",
+    "meaning": "advisory",
+    "audio": "work/audio/es-MX/05/es-05-1631.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1632",
+    "sentence": "Para la biblioteca ofrecí una aportación a fondo perdido; no acordamos un préstamo ni espero que me devuelvan ese dinero. Al incluirlo entre lo que la biblioteca me debe, cambiaste el sentido de mi ofrecimiento.",
+    "cloze": "a fondo perdido",
+    "answer": "a fondo perdido",
+    "lemma": "a fondo perdido",
+    "meaning": "with no repayment expected",
+    "audio": "work/audio/es-MX/05/es-05-1632.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1633",
+    "sentence": "No fue una decisión de Ana sola: había tres votos a favor y tres en contra, y su voto desempató. Ella decidió el resultado de esa votación, pero también cuentan quienes ya habían votado a favor.",
+    "cloze": "desempató",
+    "answer": "desempató",
+    "lemma": "desempatar",
+    "meaning": "broke the tie",
+    "audio": "work/audio/es-MX/05/es-05-1633.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1634",
+    "sentence": "—Ya preparé una pregunta para hacérsela al expositor el jueves. —La charla la veremos en diferido: se grabó la semana pasada. Sí podremos comentarla entre nosotros, pero él no estará conectado para responder.",
+    "cloze": "en diferido",
+    "answer": "en diferido",
+    "lemma": "en diferido",
+    "meaning": "as a recording rather than live",
+    "audio": "work/audio/es-MX/05/es-05-1634.mp3",
+    "accepted_answers": []
   }
 ]
