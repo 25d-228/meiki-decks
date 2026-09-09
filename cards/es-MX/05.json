@@ -21870,5 +21870,405 @@
     "meaning": "on its own merits",
     "audio": "work/audio/es-MX/05/es-05-2182.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-2183",
+    "sentence": "Solo han opinado quienes propusieron el taller; ¿podemos tomarle el pulso al resto del grupo en una charla antes de encargar material?",
+    "cloze": "tomarle el pulso",
+    "answer": "tomarle el pulso",
+    "lemma": "tomar el pulso",
+    "meaning": "gauge receptiveness",
+    "audio": "work/audio/es-MX/05/es-05-2183.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2184",
+    "sentence": "—¿Me vas a contestar lo del cambio de turno? —Sí, pero no en caliente; estoy molesta y quiero que podamos hablar sin lastimarnos.",
+    "cloze": "en caliente",
+    "answer": "en caliente",
+    "lemma": "en caliente",
+    "meaning": "in the heat of the moment",
+    "audio": "work/audio/es-MX/05/es-05-2184.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2185",
+    "sentence": "Con tu aviso sobre el cambio de carpeta y el mensaje de Irene pude atar cabos: los dos estábamos corrigiendo versiones distintas del mismo texto.",
+    "cloze": "atar cabos",
+    "answer": "atar cabos",
+    "lemma": "atar cabos",
+    "meaning": "piece the clues together",
+    "audio": "work/audio/es-MX/05/es-05-2185.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2186",
+    "sentence": "En la grabación, ¿quién va a llevar la batuta cuando haya que repetir una toma? Las ideas las proponemos todos, pero necesitamos que alguien coordine.",
+    "cloze": "llevar la batuta",
+    "answer": "llevar la batuta",
+    "lemma": "llevar la batuta",
+    "meaning": "take the lead",
+    "audio": "work/audio/es-MX/05/es-05-2186.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2187",
+    "sentence": "Vecino, quisiera arreglar por las buenas lo de las cajas del pasillo, buscando un lugar donde usted pueda guardarlas y yo siga pasando con la carriola.",
+    "cloze": "por las buenas",
+    "answer": "por las buenas",
+    "lemma": "por las buenas",
+    "meaning": "amicably, through willing cooperation",
+    "audio": "work/audio/es-MX/05/es-05-2187.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2188",
+    "sentence": "En este acuerdo hay que hilar fino: autorizar que graben nuestra charla no significa aceptar que la publiquen completa en sus redes.",
+    "cloze": "hilar fino",
+    "answer": "hilar fino",
+    "lemma": "hilar fino",
+    "meaning": "make careful distinctions",
+    "audio": "work/audio/es-MX/05/es-05-2188.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2189",
+    "sentence": "¿Y si hacemos la reunión en el local que pensamos rentar? Así podemos matar dos pájaros de un tiro: revisar el presupuesto y comprobar si ahí caben las mesas.",
+    "cloze": "matar dos pájaros de un tiro",
+    "answer": "matar dos pájaros de un tiro",
+    "lemma": "matar dos pájaros de un tiro",
+    "meaning": "achieve two aims with one action",
+    "audio": "work/audio/es-MX/05/es-05-2189.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2190",
+    "sentence": "Sí voy a acompañarte a la cena, aunque admito que acepté a regañadientes; todavía me incomoda ver a tu hermano después de nuestra discusión.",
+    "cloze": "a regañadientes",
+    "answer": "a regañadientes",
+    "lemma": "a regañadientes",
+    "meaning": "reluctantly",
+    "audio": "work/audio/es-MX/05/es-05-2190.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2191",
+    "sentence": "Me convenía compartir tu cuenta, pero discutir cada cargo ya nos está afectando como amigos; prefiero cortar por lo sano y pagar mi propia suscripción.",
+    "cloze": "cortar por lo sano",
+    "answer": "cortar por lo sano",
+    "lemma": "cortar por lo sano",
+    "meaning": "make a clean break to end the problem",
+    "audio": "work/audio/es-MX/05/es-05-2191.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2192",
+    "sentence": "Tu primer comentario va a marcar la pauta del taller: si solo señalas errores, quizá los demás tampoco comenten lo que sí funciona.",
+    "cloze": "marcar la pauta",
+    "answer": "marcar la pauta",
+    "lemma": "marcar la pauta",
+    "meaning": "set the tone for what follows",
+    "audio": "work/audio/es-MX/05/es-05-2192.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2193",
+    "sentence": "Los nombres de quienes prestaron las fotos, sí revísalos con lupa, por favor: en la versión pasada confundimos los apellidos de dos autoras.",
+    "cloze": "con lupa",
+    "answer": "con lupa",
+    "lemma": "con lupa",
+    "meaning": "with close scrutiny",
+    "audio": "work/audio/es-MX/05/es-05-2193.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2194",
+    "sentence": "Como la vez pasada confundimos mis pinceles con los tuyos, esta vez te mando una foto del material que te devuelvo para curarme en salud.",
+    "cloze": "curarme en salud",
+    "answer": "curarme en salud",
+    "lemma": "curarse en salud",
+    "meaning": "take precautions against a foreseeable problem",
+    "audio": "work/audio/es-MX/05/es-05-2194.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2195",
+    "sentence": "Después de tantos años dando clase, me cuesta cambiar el chip cuando voy a un taller: empiezo a corregir a los demás y se me olvida que también fui a aprender.",
+    "cloze": "cambiar el chip",
+    "answer": "cambiar el chip",
+    "lemma": "cambiar el chip",
+    "meaning": "switch mindsets",
+    "audio": "work/audio/es-MX/05/es-05-2195.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2196",
+    "sentence": "Mis apuntes se quedan conmigo; eso no tiene vuelta de hoja, aunque podemos preparar juntos un resumen para quienes faltaron.",
+    "cloze": "no tiene vuelta de hoja",
+    "answer": "no tiene vuelta de hoja",
+    "lemma": "no tener vuelta de hoja",
+    "meaning": "is settled and not open to debate",
+    "audio": "work/audio/es-MX/05/es-05-2196.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2197",
+    "sentence": "Voy a salir al paso del rumor de que nuestro ensayo será una función abierta: acordamos hacerlo sin público, pero ya me están preguntando dónde comprar boletos.",
+    "cloze": "salir al paso",
+    "answer": "salir al paso",
+    "lemma": "salir al paso",
+    "meaning": "promptly counter",
+    "audio": "work/audio/es-MX/05/es-05-2197.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2198",
+    "sentence": "¿Puedes trabajar codo a codo conmigo mientras clasificamos el archivo? Hay decisiones que necesitamos tomar entre los dos al revisar cada carpeta.",
+    "cloze": "codo a codo",
+    "answer": "codo a codo",
+    "lemma": "codo a codo",
+    "meaning": "in close collaboration",
+    "audio": "work/audio/es-MX/05/es-05-2198.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2199",
+    "sentence": "Con los turnos que me cambian y las entregas que ustedes adelantan, hago malabares para cumplir. ¿Podemos dejar fijas al menos las fechas de entrega?",
+    "cloze": "hago malabares",
+    "answer": "hago malabares",
+    "lemma": "hacer malabares",
+    "meaning": "I juggle competing demands",
+    "audio": "work/audio/es-MX/05/es-05-2199.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2200",
+    "sentence": "En el mensaje del club voy a incluir un fragmento para abrir boca, sin contar el final; la idea es que lleguen a la lectura con curiosidad.",
+    "cloze": "abrir boca",
+    "answer": "abrir boca",
+    "lemma": "abrir boca",
+    "meaning": "whet the appetite",
+    "audio": "work/audio/es-MX/05/es-05-2200.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2201",
+    "sentence": "Te fuiste tan campante mientras los demás recogíamos también tus materiales; no te reprocho que tuvieras prisa, sino que no avisaras que necesitabas ayuda.",
+    "cloze": "tan campante",
+    "answer": "tan campante",
+    "lemma": "tan campante",
+    "meaning": "as if nothing were wrong",
+    "audio": "work/audio/es-MX/05/es-05-2201.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2202",
+    "sentence": "Entre los vecinos gana terreno la propuesta de compartir herramientas: varios que antes se oponían ya ofrecieron prestar las suyas, aunque aún no sabemos qué piensa el resto.",
+    "cloze": "gana terreno",
+    "answer": "gana terreno",
+    "lemma": "ganar terreno",
+    "meaning": "is gaining acceptance",
+    "audio": "work/audio/es-MX/05/es-05-2202.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2203",
+    "sentence": "Ya entendí que los audios largos te dificultan seguir el chat; mandar otro de diez minutos sería hacer oídos sordos a lo que acabas de pedirme.",
+    "cloze": "hacer oídos sordos",
+    "answer": "hacer oídos sordos",
+    "lemma": "hacer oídos sordos",
+    "meaning": "deliberately turn a deaf ear",
+    "audio": "work/audio/es-MX/05/es-05-2203.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2204",
+    "sentence": "Para la presentación quiero ir sobre seguro: voy a usar un ejemplo que yo misma probé, aunque el tuyo se vea más espectacular.",
+    "cloze": "ir sobre seguro",
+    "answer": "ir sobre seguro",
+    "lemma": "ir sobre seguro",
+    "meaning": "choose a reliable course",
+    "audio": "work/audio/es-MX/05/es-05-2204.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2205",
+    "sentence": "Sin otro lugar donde ensayar y con el dueño decidido a cobrar más, llevamos las de perder en esa negociación; busquemos otra opción antes de volver a hablar con él.",
+    "cloze": "llevamos las de perder",
+    "answer": "llevamos las de perder",
+    "lemma": "llevar las de perder",
+    "meaning": "we are at a disadvantage",
+    "audio": "work/audio/es-MX/05/es-05-2205.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2206",
+    "sentence": "Antes de apuntarnos a otro año del taller, ¿hacemos balance entre los dos de lo que aprendimos y del tiempo que dejamos de pasar juntos?",
+    "cloze": "hacemos balance",
+    "answer": "hacemos balance",
+    "lemma": "hacer balance",
+    "meaning": "shall we take stock",
+    "audio": "work/audio/es-MX/05/es-05-2206.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2207",
+    "sentence": "Sé que el comité está cansado del tema, pero no voy a quitar el dedo del renglón mientras siga sin explicar por qué eliminó las propuestas de los nuevos.",
+    "cloze": "quitar el dedo del renglón",
+    "answer": "quitar el dedo del renglón",
+    "lemma": "quitar el dedo del renglón",
+    "meaning": "stop pressing the issue",
+    "audio": "work/audio/es-MX/05/es-05-2207.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2208",
+    "sentence": "Si vamos a negociar de buena fe, tenemos que considerar cambios de los dos lados; venir con todo decidido y usar la reunión para aparentar que nos escuchamos no nos va a servir.",
+    "cloze": "de buena fe",
+    "answer": "de buena fe",
+    "lemma": "de buena fe",
+    "meaning": "in good faith",
+    "audio": "work/audio/es-MX/05/es-05-2208.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2209",
+    "sentence": "Conozco dos dinámicas que nos pueden servir para salir del paso si hoy falta la tallerista, pero no estoy preparado para sustituirla durante todo el curso.",
+    "cloze": "salir del paso",
+    "answer": "salir del paso",
+    "lemma": "salir del paso",
+    "meaning": "get by with a temporary solution",
+    "audio": "work/audio/es-MX/05/es-05-2209.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2210",
+    "sentence": "¿Tomamos un café antes de volver a trabajar juntos? Me gustaría limar asperezas contigo sin usar esa charla para reabrir la discusión sobre quién tenía razón.",
+    "cloze": "limar asperezas",
+    "answer": "limar asperezas",
+    "lemma": "limar asperezas",
+    "meaning": "smooth over interpersonal friction",
+    "audio": "work/audio/es-MX/05/es-05-2210.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2211",
+    "sentence": "El acuerdo sigue prendido con alfileres: cualquier ausencia nos obliga a renegociar todos los turnos y nadie quedó encargado de coordinar los cambios.",
+    "cloze": "prendido con alfileres",
+    "answer": "prendido con alfileres",
+    "lemma": "prendido con alfileres",
+    "meaning": "held together precariously",
+    "audio": "work/audio/es-MX/05/es-05-2211.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2212",
+    "sentence": "Todavía necesito tomarle la medida al trabajo de edición antes de prometer cuántas páginas puedo revisar en una tarde; apenas terminé mi primer encargo.",
+    "cloze": "tomarle la medida",
+    "answer": "tomarle la medida",
+    "lemma": "tomar la medida",
+    "meaning": "get a feel for its demands",
+    "audio": "work/audio/es-MX/05/es-05-2212.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2213",
+    "sentence": "Este año prefiero poner toda la carne en el asador con una sola exposición, en vez de repartir nuestro esfuerzo entre tres muestras que apenas podríamos montar.",
+    "cloze": "poner toda la carne en el asador",
+    "answer": "poner toda la carne en el asador",
+    "lemma": "poner toda la carne en el asador",
+    "meaning": "go all out",
+    "audio": "work/audio/es-MX/05/es-05-2213.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2214",
+    "sentence": "¿Puedes mostrarme una solicitud bien resuelta? Con estas indicaciones tan generales estoy trabajando a tientas y no sé qué criterio usará el equipo para revisar la mía.",
+    "cloze": "a tientas",
+    "answer": "a tientas",
+    "lemma": "a tientas",
+    "meaning": "without clear guidance",
+    "audio": "work/audio/es-MX/05/es-05-2214.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2215",
+    "sentence": "Quiero recordar con cariño las obras que hicimos sin seguir guardando todo por si volvemos. Regalar el vestuario del grupo me ayudaría a cerrar un capítulo.",
+    "cloze": "cerrar un capítulo",
+    "answer": "cerrar un capítulo",
+    "lemma": "cerrar un capítulo",
+    "meaning": "bring a phase of life to a close",
+    "audio": "work/audio/es-MX/05/es-05-2215.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2216",
+    "sentence": "Con el compañero que acaba de llegar hace falta mano izquierda para corregir el reparto de tareas: entendió otra cosa y cree que lo estamos dejando fuera.",
+    "cloze": "mano izquierda",
+    "answer": "mano izquierda",
+    "lemma": "mano izquierda",
+    "meaning": "tact in dealing with people",
+    "audio": "work/audio/es-MX/05/es-05-2216.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2217",
+    "sentence": "El nuevo sistema nos confundió una vez, pero todavía estamos aprendiendo; no quiero abandonarlo a la primera de cambio sin probarlo con una tarea completa.",
+    "cloze": "a la primera de cambio",
+    "answer": "a la primera de cambio",
+    "lemma": "a la primera de cambio",
+    "meaning": "at the first sign of difficulty",
+    "audio": "work/audio/es-MX/05/es-05-2217.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2218",
+    "sentence": "Cuando mi hermano vuelve a contar lo mal que salió aquella fiesta, prefiero no darle cuerda con más preguntas; ya me dijo que termina de peor humor cada vez.",
+    "cloze": "darle cuerda",
+    "answer": "darle cuerda",
+    "lemma": "dar cuerda",
+    "meaning": "encourage him to keep going",
+    "audio": "work/audio/es-MX/05/es-05-2218.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2219",
+    "sentence": "Tu revisión quedó en entredicho cuando encontramos datos de otro proyecto presentados como si fueran del nuestro. Necesito saber qué comprobaste antes de enviar el informe.",
+    "cloze": "en entredicho",
+    "answer": "en entredicho",
+    "lemma": "en entredicho",
+    "meaning": "called into question",
+    "audio": "work/audio/es-MX/05/es-05-2219.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2220",
+    "sentence": "Mañana voy a hacer de tripas corazón para despedirme del grupo en persona; irme sin verlos sería más fácil, pero quiero agradecerles estos años de trabajo juntos.",
+    "cloze": "hacer de tripas corazón",
+    "answer": "hacer de tripas corazón",
+    "lemma": "hacer de tripas corazón",
+    "meaning": "steel myself to do something emotionally difficult",
+    "audio": "work/audio/es-MX/05/es-05-2220.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2221",
+    "sentence": "Podemos admitir que cancelamos la lectura por falta de público; decir que fue por una remodelación solo serviría para salvar las apariencias y dejaría a quienes sí se inscribieron esperando otra fecha.",
+    "cloze": "salvar las apariencias",
+    "answer": "salvar las apariencias",
+    "lemma": "salvar las apariencias",
+    "meaning": "keep up appearances",
+    "audio": "work/audio/es-MX/05/es-05-2221.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2222",
+    "sentence": "Vayan ustedes al concierto; voy a quedarme con las ganas de escuchar a esa cantante, pero ya había prometido acompañar a mi hermana y no quiero cambiarle el plan.",
+    "cloze": "quedarme con las ganas",
+    "answer": "quedarme con las ganas",
+    "lemma": "quedarse con las ganas",
+    "meaning": "be left with an unfulfilled wish",
+    "audio": "work/audio/es-MX/05/es-05-2222.mp3",
+    "accepted_answers": []
   }
 ]
