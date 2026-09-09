@@ -785,11 +785,11 @@
   },
   {
     "id": "es-05-0079",
-    "sentence": "Con la apertura de una entrada lateral cesaron las interrupciones de la clase, pues los visitantes ya no tenían que cruzar frente al pizarrón.",
-    "cloze": "cesaron",
-    "answer": "cesaron",
-    "lemma": "cesar",
-    "meaning": "ceased",
+    "sentence": "Durante varias clases anduvimos probando distintas formas de acomodar las bancas, pero los visitantes seguían cruzando frente al pizarrón; la apertura de una entrada lateral permitió dar la clase sin esas pausas.",
+    "cloze": "anduvimos probando",
+    "answer": "anduvimos probando",
+    "lemma": "andar probando",
+    "meaning": "we spent a while trying out",
     "audio": "work/audio/es-MX/05/es-05-0079.mp3",
     "accepted_answers": []
   },
