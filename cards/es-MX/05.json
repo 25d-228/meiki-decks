@@ -17960,5 +17960,405 @@
     "meaning": "economy of expression",
     "audio": "work/audio/es-MX/05/es-05-1791.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1792",
+    "sentence": "En esta revisión resolviste el ejercicio, pero solo anotaste el resultado; ¿podrías pensar en voz alta al resolver otro parecido para que yo entienda cómo eliges cada paso?",
+    "cloze": "pensar en voz alta",
+    "answer": "pensar en voz alta",
+    "lemma": "pensar en voz alta",
+    "meaning": "to think aloud",
+    "audio": "work/audio/es-MX/05/es-05-1792.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1793",
+    "sentence": "Usted comentó que preparó la actividad con ayuda de su tutora; ¿qué grado de autonomía tuvo para decidir el contenido y qué decisiones necesitó consultar?",
+    "cloze": "grado de autonomía",
+    "answer": "grado de autonomía",
+    "lemma": "grado de autonomía",
+    "meaning": "degree of autonomy",
+    "audio": "work/audio/es-MX/05/es-05-1793.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1794",
+    "sentence": "Dices que probaste varias distribuciones hasta encontrar una que funcionara; ¿hasta qué punto fue un proceso de ensayo y error y en qué te basabas para elegir cada cambio?",
+    "cloze": "ensayo y error",
+    "answer": "ensayo y error",
+    "lemma": "ensayo y error",
+    "meaning": "trial and error",
+    "audio": "work/audio/es-MX/05/es-05-1794.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1795",
+    "sentence": "En tu hoja cambiaste la segunda operación antes de que yo la revisara; ¿te autocorregiste y, si fue así, qué error habías detectado?",
+    "cloze": "te autocorregiste",
+    "answer": "te autocorregiste",
+    "lemma": "autocorregirse",
+    "meaning": "you corrected yourself",
+    "audio": "work/audio/es-MX/05/es-05-1795.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1796",
+    "sentence": "Mencionaste que antes resolvías las dudas por los alumnos y ahora les pides que expliquen sus intentos; ¿qué desaprendiste de tu manera anterior de acompañarlos?",
+    "cloze": "desaprendiste",
+    "answer": "desaprendiste",
+    "lemma": "desaprender",
+    "meaning": "you unlearned",
+    "audio": "work/audio/es-MX/05/es-05-1796.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1797",
+    "sentence": "Contaste que resolviste el desacuerdo pidiendo a cada compañero que resumiera la postura del otro; ¿qué parte de ese aprendizaje consideras transferible a una conversación con todo el grupo y cuál dependería de que fueran solo dos personas?",
+    "cloze": "transferible",
+    "answer": "transferible",
+    "lemma": "transferible",
+    "meaning": "transferable",
+    "audio": "work/audio/es-MX/05/es-05-1797.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1798",
+    "sentence": "Contaste que llevabas varios intentos sin avanzar y que, después de hablar con una compañera, terminaste el esquema; ¿dirías que algo de esa conversación te desbloqueó y, si fue así, qué fue?",
+    "cloze": "te desbloqueó",
+    "answer": "te desbloqueó",
+    "lemma": "desbloquear",
+    "meaning": "helped you get unstuck",
+    "audio": "work/audio/es-MX/05/es-05-1798.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1799",
+    "sentence": "En la práctica de ayer copiaste el encabezado anterior aunque el nuevo texto trataba otro tema; ¿fue un automatismo al empezar a escribir o habías visto alguna relación entre los dos textos?",
+    "cloze": "automatismo",
+    "answer": "automatismo",
+    "lemma": "automatismo",
+    "meaning": "automatic habit",
+    "audio": "work/audio/es-MX/05/es-05-1799.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1800",
+    "sentence": "Dices que elegiste esa imagen porque «sentías que era la adecuada», aunque todavía no podías explicar por qué; ¿qué parte de esa intuición logras expresar ahora al compararla con las imágenes que dejaste fuera?",
+    "cloze": "intuición",
+    "answer": "intuición",
+    "lemma": "intuición",
+    "meaning": "intuition",
+    "audio": "work/audio/es-MX/05/es-05-1800.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1801",
+    "sentence": "En su relato, el equipo pasa de evitar las reuniones a pedir más encuentros; ¿dónde situaría el punto de inflexión y qué ocurrió entonces para que usted reconociera ese cambio?",
+    "cloze": "punto de inflexión",
+    "answer": "punto de inflexión",
+    "lemma": "punto de inflexión",
+    "meaning": "turning point",
+    "audio": "work/audio/es-MX/05/es-05-1801.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1802",
+    "sentence": "Has contado cómo resolviste la organización y los materiales, pero dijiste que el cierre todavía no funcionaba; ¿qué se te resistió en esa última parte, aun después de los cambios?",
+    "cloze": "se te resistió",
+    "answer": "se te resistió",
+    "lemma": "resistirse",
+    "meaning": "continued to prove difficult for you",
+    "audio": "work/audio/es-MX/05/es-05-1802.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1803",
+    "sentence": "Al revisar tu primera planeación, notaste que nunca preguntaste por los horarios de quienes trabajan; ¿cómo descubriste ese punto ciego y qué revisarías ahora antes de organizar otra actividad?",
+    "cloze": "punto ciego",
+    "answer": "punto ciego",
+    "lemma": "punto ciego",
+    "meaning": "blind spot",
+    "audio": "work/audio/es-MX/05/es-05-1803.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1804",
+    "sentence": "—¿Por qué atribuye la mejora a la nueva dinámica? —Solo dije que la mejora ocurrió después. Permítame una contrapregunta: ¿qué frase de mi explicación le hizo entender que yo había comprobado esa relación?",
+    "cloze": "contrapregunta",
+    "answer": "contrapregunta",
+    "lemma": "contrapregunta",
+    "meaning": "counterquestion",
+    "audio": "work/audio/es-MX/05/es-05-1804.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1805",
+    "sentence": "Cuando preguntaste «¿Cómo se organizaron y qué aprendieron?», tu compañera solo explicó el reparto de tareas; evita esa pregunta doble en el siguiente intento y deja que responda una parte antes de plantear la otra.",
+    "cloze": "pregunta doble",
+    "answer": "pregunta doble",
+    "lemma": "pregunta doble",
+    "meaning": "double-barreled question",
+    "audio": "work/audio/es-MX/05/es-05-1805.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1806",
+    "sentence": "Querías conocer la experiencia del taller, pero con «¿Te gustó?» obtuviste solo un «sí»; cambia esa pregunta cerrada por «¿Cómo fue para ti participar?» para abrir espacio a una descripción.",
+    "cloze": "pregunta cerrada",
+    "answer": "pregunta cerrada",
+    "lemma": "pregunta cerrada",
+    "meaning": "closed-ended question",
+    "audio": "work/audio/es-MX/05/es-05-1806.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1807",
+    "sentence": "En el ensayo respondiste tú mismo apenas terminaste de preguntar y tu compañera ya estaba empezando a hablar; amplía el tiempo de espera antes de intervenir para que pueda elaborar su respuesta.",
+    "cloze": "tiempo de espera",
+    "answer": "tiempo de espera",
+    "lemma": "tiempo de espera",
+    "meaning": "wait time",
+    "audio": "work/audio/es-MX/05/es-05-1807.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1808",
+    "sentence": "En la grabación repites «este» y «digamos» incluso cuando ya tienes la frase preparada; prueba a sustituir algunas de esas muletillas por pausas breves y escucha si se entiende mejor la idea.",
+    "cloze": "muletillas",
+    "answer": "muletillas",
+    "lemma": "muletilla",
+    "meaning": "fillers",
+    "audio": "work/audio/es-MX/05/es-05-1808.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1809",
+    "sentence": "Antes de mostrarte mis observaciones, quisiera escuchar tu autoevaluación del ejercicio: marcaste el segundo paso como dudoso; ¿qué te hizo dudar y qué parte sí podrías defender?",
+    "cloze": "autoevaluación",
+    "answer": "autoevaluación",
+    "lemma": "autoevaluación",
+    "meaning": "self-assessment",
+    "audio": "work/audio/es-MX/05/es-05-1809.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1810",
+    "sentence": "Te sugerí reducir las preguntas del cierre, pero eliminaste todas y ya no hay oportunidad de aclarar dudas; esa sobrecorrección va más allá del problema que señalé, así que recuperemos una pregunta final.",
+    "cloze": "sobrecorrección",
+    "answer": "sobrecorrección",
+    "lemma": "sobrecorrección",
+    "meaning": "overcorrection",
+    "audio": "work/audio/es-MX/05/es-05-1810.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1811",
+    "sentence": "Veo que cambiaste la conclusión, pero no puedo relacionar el cambio con ninguna observación de la revisión; para conservar la trazabilidad, anota junto a esa modificación qué comentario atendiste o qué razón propia la motivó.",
+    "cloze": "trazabilidad",
+    "answer": "trazabilidad",
+    "lemma": "trazabilidad",
+    "meaning": "traceability",
+    "audio": "work/audio/es-MX/05/es-05-1811.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1812",
+    "sentence": "Tu exposición explicó el acuerdo de compartir el salón y el de repartir los gastos, pero el cierre introduce otra sede; recapitula primero esos acuerdos para mostrar qué resuelven antes de plantear la nueva propuesta.",
+    "cloze": "recapitula",
+    "answer": "recapitula",
+    "lemma": "recapitular",
+    "meaning": "recap",
+    "audio": "work/audio/es-MX/05/es-05-1812.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1813",
+    "sentence": "En tus tres comparaciones usaste el total de un grupo y el promedio del otro; antes de corregir cada resultado por separado, revisemos ese patrón de error y practiquemos cómo elegir cantidades comparables.",
+    "cloze": "patrón de error",
+    "answer": "patrón de error",
+    "lemma": "patrón de error",
+    "meaning": "error pattern",
+    "audio": "work/audio/es-MX/05/es-05-1813.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1814",
+    "sentence": "Los dos apartados de tu propuesta se entienden por separado, pero uno pide más actividades y el otro menos horas; articula ambas propuestas explicando cómo cabrían las actividades adicionales en el tiempo que planteas.",
+    "cloze": "articula",
+    "answer": "articula",
+    "lemma": "articular",
+    "meaning": "connect coherently",
+    "audio": "work/audio/es-MX/05/es-05-1814.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1815",
+    "sentence": "En la versión que nos entregaste quedaron notas como «buscar ejemplo» y «comprobar dato», mezcladas con el texto para el lector; depura el borrador y conserva esas tareas pendientes en tus notas de trabajo.",
+    "cloze": "depura",
+    "answer": "depura",
+    "lemma": "depurar",
+    "meaning": "clean up",
+    "audio": "work/audio/es-MX/05/es-05-1815.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1816",
+    "sentence": "Tu informe compara primero el costo de ambos talleres, luego la duración de uno y después vuelve al costo; reestructura esa comparación por aspectos para tratar primero el costo de los dos talleres y después su duración.",
+    "cloze": "reestructura",
+    "answer": "reestructura",
+    "lemma": "reestructurar",
+    "meaning": "restructure",
+    "audio": "work/audio/es-MX/05/es-05-1816.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1817",
+    "sentence": "La presentación fue tan fluida que estuve a punto de dar por buenos los cálculos sin revisarlos; para evitar ese efecto halo en mi evaluación, voy a comprobar las operaciones por separado.",
+    "cloze": "efecto halo",
+    "answer": "efecto halo",
+    "lemma": "efecto halo",
+    "meaning": "halo effect",
+    "audio": "work/audio/es-MX/05/es-05-1817.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1818",
+    "sentence": "En tu borrador, la conclusión habla de todos los alumnos y el ejemplo solo de quienes asistieron; mis notas forman parte de una evaluación formativa: podrás revisar esa diferencia antes de recibir una calificación final.",
+    "cloze": "evaluación formativa",
+    "answer": "evaluación formativa",
+    "lemma": "evaluación formativa",
+    "meaning": "formative assessment",
+    "audio": "work/audio/es-MX/05/es-05-1818.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1819",
+    "sentence": "Durante la capacitación dijiste «respondan con tacto», pero el equipo no vio cómo hacerlo; modela una respuesta a «Llevo tres días sin recibir noticias» y explica qué palabras ayudan a reconocer la espera.",
+    "cloze": "modela",
+    "answer": "modela",
+    "lemma": "modelar",
+    "meaning": "model; demonstrate",
+    "audio": "work/audio/es-MX/05/es-05-1819.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1820",
+    "sentence": "Completaste el esquema cuando te di el inicio de cada apartado; ese andamiaje te ayudó a organizarlo, pero ahora probemos con un apartado sin inicio para saber qué apoyo sigues necesitando.",
+    "cloze": "andamiaje",
+    "answer": "andamiaje",
+    "lemma": "andamiaje",
+    "meaning": "scaffolding",
+    "audio": "work/audio/es-MX/05/es-05-1820.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1821",
+    "sentence": "En tu exposición las definiciones se entienden, pero los ejemplos no muestran la diferencia entre los conceptos; propongo una práctica deliberada de esa parte: ensaya un solo contraste, recibe comentarios y vuelve a intentarlo.",
+    "cloze": "práctica deliberada",
+    "answer": "práctica deliberada",
+    "lemma": "práctica deliberada",
+    "meaning": "deliberate practice",
+    "audio": "work/audio/es-MX/05/es-05-1821.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1822",
+    "sentence": "Repetiste la explicación del ejemplo sin errores, pero aplicaste el mismo paso cuando cambié la condición que lo permitía; eso sugiere un aprendizaje mecánico en esta parte, así que revisemos cuándo sirve ese paso y cuándo no.",
+    "cloze": "aprendizaje mecánico",
+    "answer": "aprendizaje mecánico",
+    "lemma": "aprendizaje mecánico",
+    "meaning": "rote learning",
+    "audio": "work/audio/es-MX/05/es-05-1822.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1823",
+    "sentence": "Tu resumen cambió «tomaron una decisión» por «agarraron una determinación», y la frase ya no resulta natural; parafrasea la idea completa, en lugar de sustituir palabras por separado, y comprueba después que conserva el sentido.",
+    "cloze": "parafrasea",
+    "answer": "parafrasea",
+    "lemma": "parafrasear",
+    "meaning": "paraphrase",
+    "audio": "work/audio/es-MX/05/es-05-1823.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1824",
+    "sentence": "En tu reseña citas «el barrio se volvió un escaparate» y pasas de inmediato a otro asunto; glosa esa imagen junto a la cita para mostrar qué interpretación estás discutiendo, sin atribuírsela automáticamente al autor.",
+    "cloze": "glosa",
+    "answer": "glosa",
+    "lemma": "glosar",
+    "meaning": "comment on; explain",
+    "audio": "work/audio/es-MX/05/es-05-1824.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1825",
+    "sentence": "Pediste un ejemplo de mi observación y propusiste un cambio para comprobar si la habías entendido; eso muestra receptividad en esta conversación, aunque al revisar el resultado puedas decidir que mi sugerencia no te sirve.",
+    "cloze": "receptividad",
+    "answer": "receptividad",
+    "lemma": "receptividad",
+    "meaning": "receptiveness",
+    "audio": "work/audio/es-MX/05/es-05-1825.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1826",
+    "sentence": "En tu explicación saltaste del primer boceto al diseño terminado; retrocede hasta el momento en que tachaste la entrada principal y cuéntame qué te llevó a hacer ese cambio.",
+    "cloze": "retrocede",
+    "answer": "retrocede",
+    "lemma": "retroceder",
+    "meaning": "go back",
+    "audio": "work/audio/es-MX/05/es-05-1826.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1827",
+    "sentence": "En tus comentarios solo marcas lo que debe cambiar; elogia también la comparación inicial, que permitió distinguir las dos opciones, y explica por qué conviene conservar ese recurso en la siguiente versión.",
+    "cloze": "elogia",
+    "answer": "elogia",
+    "lemma": "elogiar",
+    "meaning": "praise",
+    "audio": "work/audio/es-MX/05/es-05-1827.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1828",
+    "sentence": "Hoy resolviste sin ayuda el paso que ayer te detuvo; antes de aumentar la dificultad, conviene consolidar ese avance con un par de ejercicios distintos que requieran la misma decisión.",
+    "cloze": "consolidar",
+    "answer": "consolidar",
+    "lemma": "consolidar",
+    "meaning": "consolidate",
+    "audio": "work/audio/es-MX/05/es-05-1828.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1829",
+    "sentence": "En la práctica, tu compañera dijo «No pude usar el material porque no entendí las instrucciones», pero tú seguiste con «¿Te gustó la actividad?»; reorienta la entrevista hacia esa dificultad y pídele que señale qué indicación no supo cómo seguir.",
+    "cloze": "reorienta",
+    "answer": "reorienta",
+    "lemma": "reorientar",
+    "meaning": "redirect",
+    "audio": "work/audio/es-MX/05/es-05-1829.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1830",
+    "sentence": "Exploremos la recepción del relato: ambos lectores entendieron que la narradora decidía quedarse, pero uno vio esperanza en el final y el otro resignación; pídeles que señalen qué pasajes les produjeron esas impresiones antes de revisar el cierre.",
+    "cloze": "recepción",
+    "answer": "recepción",
+    "lemma": "recepción",
+    "meaning": "reception; reader response",
+    "audio": "work/audio/es-MX/05/es-05-1830.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1831",
+    "sentence": "En tu análisis llamas «participación normal» a hablar frente al grupo y dejas fuera las aportaciones escritas; problematiza esa categoría preguntándote qué formas de participar reconoce y cuáles deja fuera.",
+    "cloze": "problematiza",
+    "answer": "problematiza",
+    "lemma": "problematizar",
+    "meaning": "critically examine",
+    "audio": "work/audio/es-MX/05/es-05-1831.mp3",
+    "accepted_answers": []
   }
 ]
