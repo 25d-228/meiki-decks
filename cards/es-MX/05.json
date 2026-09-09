@@ -5259,7 +5259,7 @@
   },
   {
     "id": "es-05-0522",
-    "sentence": "La buena valoración del formato digital no es extensible a la versión impresa: en pantalla el texto se lee bien, pero al imprimirlo varias líneas se enciman.",
+    "sentence": "La buena valoración del formato digital no es extensible a la versión impresa: en pantalla el texto se lee bien, pero al imprimirlo varias líneas quedan una sobre otra.",
     "cloze": "extensible",
     "answer": "extensible",
     "lemma": "extensible",
@@ -5499,7 +5499,7 @@
   },
   {
     "id": "es-05-0546",
-    "sentence": "Al describir únicamente los correos recibidos, el registro deja fuera las dudas que resolvimos de palabra en el mostrador.",
+    "sentence": "Al describir únicamente los correos recibidos, el registro deja fuera las dudas que resolvimos durante las conversaciones en el mostrador.",
     "cloze": "deja fuera",
     "answer": "deja fuera",
     "lemma": "dejar fuera",
@@ -5779,7 +5779,7 @@
   },
   {
     "id": "es-05-0574",
-    "sentence": "El grupo fijó la hora de cierre, pero nos dejó margen de maniobra para acortar las intervenciones o mover el descanso según avance la charla.",
+    "sentence": "El grupo fijó la hora de cierre, pero nos dejó margen de maniobra para acortar las intervenciones o mover el descanso durante la charla, si hace falta.",
     "cloze": "margen de maniobra",
     "answer": "margen de maniobra",
     "lemma": "margen de maniobra",
@@ -6371,7 +6371,7 @@
   },
   {
     "id": "es-05-0633",
-    "sentence": "—Ustedes propusieron ensayar sin pausas. —Y nosotros aprobamos el cambio: fuimos corresponsables. Queríamos terminar temprano, pero dejamos al grupo sin tiempo para comer; recuperemos un descanso.",
+    "sentence": "—Nosotros propusimos ensayar sin pausas. —Y nosotros aprobamos el cambio: fuimos corresponsables. Queríamos terminar temprano, pero dejamos al grupo sin tiempo para comer; recuperemos un descanso.",
     "cloze": "corresponsables",
     "answer": "corresponsables",
     "lemma": "corresponsable",
