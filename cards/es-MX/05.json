@@ -14943,11 +14943,11 @@
   },
   {
     "id": "es-05-1490",
-    "sentence": "Mi mensaje decía «bueno…» y pensaste que estaba molesta contigo, pero se truncó al enviarlo; faltaba «nos vemos a las seis», que era la confirmación de nuestro encuentro.",
-    "cloze": "se truncó",
-    "answer": "se truncó",
-    "lemma": "truncarse",
-    "meaning": "was cut short",
+    "sentence": "Mi mensaje decía «bueno…» y pensaste que estaba molesta contigo, pero no se envió completo; en la parte que faltaba te confirmaba nuestro encuentro con un «nos vemos a las seis».",
+    "cloze": "te confirmaba",
+    "answer": "te confirmaba",
+    "lemma": "confirmar",
+    "meaning": "I was confirming to you",
     "audio": "work/audio/es-MX/05/es-05-1490.mp3",
     "accepted_answers": []
   },
@@ -15143,11 +15143,11 @@
   },
   {
     "id": "es-05-1510",
-    "sentence": "—Cuando dijiste «perdón», empecé a repetir la historia porque pensé que no habías oído. —Te había escuchado; el perdón era por interrumpirte para contestar el teléfono, no una petición de que empezaras de nuevo.",
-    "cloze": "interrumpirte",
-    "answer": "interrumpirte",
-    "lemma": "interrumpir",
-    "meaning": "interrupt you",
+    "sentence": "—Cuando dijiste «perdón», empecé a repetir la historia porque pensé que no habías oído. —Te había escuchado; me disculpaba por interrumpirte para contestar el teléfono, no te pedía que empezaras de nuevo.",
+    "cloze": "me disculpaba",
+    "answer": "me disculpaba",
+    "lemma": "disculparse",
+    "meaning": "I was apologizing",
     "audio": "work/audio/es-MX/05/es-05-1510.mp3",
     "accepted_answers": []
   },
