@@ -895,11 +895,11 @@
   },
   {
     "id": "es-05-0090",
-    "sentence": "Si hubiera sabido que el curso repetía lo de la licenciatura, habría preferido otro; me inscribí para aprender algo nuevo y solo ahora conozco el temario completo.",
-    "cloze": "habría preferido",
-    "answer": "habría preferido",
-    "lemma": "preferir",
-    "meaning": "would have preferred",
+    "sentence": "Ahora que conozco el temario completo, racionalizo mi elección diciendo que me convenía repasar; cuando me inscribí, buscaba aprender algo nuevo, no repetir lo de la licenciatura.",
+    "cloze": "racionalizo",
+    "answer": "racionalizo",
+    "lemma": "racionalizar",
+    "meaning": "rationalize",
     "audio": "work/audio/es-MX/05/es-05-0090.mp3",
     "accepted_answers": []
   },
@@ -1135,11 +1135,11 @@
   },
   {
     "id": "es-05-0114",
-    "sentence": "Si hubiera recibido antes estas preguntas tan básicas, habría priorizado los ejemplos; apenas hoy las leo y veo que preparé la charla para un público que suponía experto.",
-    "cloze": "habría priorizado",
-    "answer": "habría priorizado",
-    "lemma": "priorizar",
-    "meaning": "would have prioritized",
+    "sentence": "Quería aclarar el tema, pero me ofusqué ante tantas preguntas y repetí la misma explicación; al leerlas hoy con calma, veo que el público necesitaba ejemplos, no otra repetición.",
+    "cloze": "me ofusqué",
+    "answer": "me ofusqué",
+    "lemma": "ofuscarse",
+    "meaning": "became too flustered to think clearly",
     "audio": "work/audio/es-MX/05/es-05-0114.mp3",
     "accepted_answers": []
   },
