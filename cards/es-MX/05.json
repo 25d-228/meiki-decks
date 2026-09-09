@@ -2665,13 +2665,15 @@
   },
   {
     "id": "es-05-0267",
-    "sentence": "Ayer llegamos a la galería con el profesor y encontramos las salas vacías; a él le decepcionó que ya hubieran desmontado la exposición esa mañana, pues la visita era parte del cierre del curso.",
+    "sentence": "Ayer, frente a las salas vacías, el profesor dijo: «Me decepciona que hayan desmontado la exposición esta mañana». Hoy le conté a una compañera que al profesor le había decepcionado que hubieran desmontado la exposición antes de nuestra visita de ayer.",
     "cloze": "hubieran desmontado",
     "answer": "hubieran desmontado",
     "lemma": "desmontar",
     "meaning": "had taken down",
     "audio": "work/audio/es-MX/05/es-05-0267.mp3",
-    "accepted_answers": []
+    "accepted_answers": [
+      "hubiesen desmontado"
+    ]
   },
   {
     "id": "es-05-0268",
@@ -2715,11 +2717,11 @@
   },
   {
     "id": "es-05-0272",
-    "sentence": "El curso terminó la semana pasada y hoy los participantes presentan sus proyectos a los vecinos; me satisface que haya culminado con propuestas útiles para el barrio.",
-    "cloze": "haya culminado",
-    "answer": "haya culminado",
-    "lemma": "culminar",
-    "meaning": "has concluded",
+    "sentence": "—El curso terminó la semana pasada; ¿ya están listas las propuestas para los vecinos?\n—Todavía no: la profesora pide que para la presentación de esta tarde hayamos integrado los comentarios del taller; esa revisión sigue pendiente.",
+    "cloze": "hayamos integrado",
+    "answer": "hayamos integrado",
+    "lemma": "integrar",
+    "meaning": "we have incorporated",
     "audio": "work/audio/es-MX/05/es-05-0272.mp3",
     "accepted_answers": []
   },
