@@ -15240,5 +15240,375 @@
     "meaning": "I agree with you",
     "audio": "work/audio/es-MX/05/es-05-1519.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1520",
+    "sentence": "—Las dos horas que te dije son de práctica, sin contar las pausas. —Entonces, ¿todavía tengo que restar los descansos? —No: las pausas ya están descontadas de esas dos horas. Si las restas otra vez, estarías contando dos veces la misma reducción.",
+    "cloze": "descontadas",
+    "answer": "descontadas",
+    "lemma": "descontar",
+    "meaning": "deducted",
+    "audio": "work/audio/es-MX/05/es-05-1520.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1521",
+    "sentence": "El aviso pide elegir el grupo del lunes o el del jueves. A quienes preguntan si deben asistir a los dos les explicamos que son horarios alternativos: cada persona elige uno de los grupos.",
+    "cloze": "alternativos",
+    "answer": "alternativos",
+    "lemma": "alternativo",
+    "meaning": "alternative; offered as choices",
+    "audio": "work/audio/es-MX/05/es-05-1521.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1522",
+    "sentence": "—La indicación dice que anote las dudas mientras leo, pero no puedo leer y escribir al mismo tiempo. —No te pide hacer ambas cosas en el mismo instante: las anotaciones se intercalan con la lectura. Cuando te surja una duda, puedes detenerte a anotarla y luego seguir leyendo.",
+    "cloze": "se intercalan",
+    "answer": "se intercalan",
+    "lemma": "intercalar",
+    "meaning": "are interspersed",
+    "audio": "work/audio/es-MX/05/es-05-1522.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1523",
+    "sentence": "—El taller tiene clases los lunes, miércoles y viernes y pide asistir a tres sesiones seguidas. ¿También tengo que venir el martes? —No: deben ser encuentros consecutivos del taller, como el lunes, el miércoles y el viernes de una misma semana. El martes no cuenta porque no hay clase.",
+    "cloze": "consecutivos",
+    "answer": "consecutivos",
+    "lemma": "consecutivo",
+    "meaning": "consecutive",
+    "audio": "work/audio/es-MX/05/es-05-1523.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1524",
+    "sentence": "Los diez minutos del programa son para toda la mesa, no para cada expositor. Ese tiempo se distribuye entre quienes van a hablar; al explicar el horario a tu equipo, no le asignes diez minutos a cada integrante.",
+    "cloze": "se distribuye",
+    "answer": "se distribuye",
+    "lemma": "distribuir",
+    "meaning": "is divided up",
+    "audio": "work/audio/es-MX/05/es-05-1524.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1525",
+    "sentence": "—La tarea dice que cuente una experiencia en audio o por escrito y explique qué aprendí. Si grabo, ¿puedo dejar fuera lo que aprendí? —Esa parte se pide con independencia de cómo presentes la experiencia; también debe aparecer en el audio.",
+    "cloze": "con independencia de",
+    "answer": "con independencia de",
+    "lemma": "con independencia de",
+    "meaning": "regardless of",
+    "audio": "work/audio/es-MX/05/es-05-1525.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1526",
+    "sentence": "El curso básico te permite solicitar entrada al avanzado, donde después seleccionan a los participantes. Si entendiste que ya tienes lugar, falta distinguir los pasos: terminar el básico te habilita para presentar la solicitud, pero todavía queda la selección.",
+    "cloze": "te habilita",
+    "answer": "te habilita",
+    "lemma": "habilitar",
+    "meaning": "makes you eligible",
+    "audio": "work/audio/es-MX/05/es-05-1526.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1527",
+    "sentence": "—El mensaje dice que quienes ya entregamos el borrador no tenemos que volver a mandarlo. ¿Eso quiere decir que no aceptarán mi versión corregida? —Solo te exenta de repetir la entrega; no dice que esté prohibido enviar una corrección. Para saber si la aceptan, falta preguntar.",
+    "cloze": "te exenta",
+    "answer": "te exenta",
+    "lemma": "exentar",
+    "meaning": "exempts you",
+    "audio": "work/audio/es-MX/05/es-05-1527.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1528",
+    "sentence": "El mensaje cambia la entrega del miércoles al viernes y dice que el trabajo es el mismo. Para quienes preguntan si deben rehacerlo: se conserva lo que se pidió preparar; únicamente tendrán más tiempo para entregarlo.",
+    "cloze": "se conserva",
+    "answer": "se conserva",
+    "lemma": "conservarse",
+    "meaning": "is retained",
+    "audio": "work/audio/es-MX/05/es-05-1528.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1529",
+    "sentence": "—Me pidieron una versión más breve que la de ayer. ¿Eso significa una cuartilla? —La indicación toma como base tu versión anterior; te pide acortarla, pero no fija un número de páginas.",
+    "cloze": "toma como base",
+    "answer": "toma como base",
+    "lemma": "tomar como base",
+    "meaning": "takes as its basis",
+    "audio": "work/audio/es-MX/05/es-05-1529.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1530",
+    "sentence": "El aviso dice que los diez minutos de consulta se miden desde que te entregan el material. Si llegaste antes y pensaste que ya habías perdido parte del tiempo, el plazo empieza a correr con la entrega, no con tu llegada.",
+    "cloze": "empieza a correr",
+    "answer": "empieza a correr",
+    "lemma": "empezar a correr",
+    "meaning": "starts running",
+    "audio": "work/audio/es-MX/05/es-05-1530.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1531",
+    "sentence": "—La entrada del taller está a la derecha. —Oriénteme, por favor: ¿a la derecha de quien mira el edificio desde la calle o de quien sale? Estoy frente a la fachada y no sé desde dónde me está indicando.",
+    "cloze": "Oriénteme",
+    "answer": "Oriénteme",
+    "lemma": "orientar",
+    "meaning": "help me get my bearings",
+    "audio": "work/audio/es-MX/05/es-05-1531.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1532",
+    "sentence": "En la capacitación juntaste «revisar y registrar las solicitudes» en una sola indicación. Como apenas estoy aprendiendo, desglósamelo por pasos: ¿registro todas y luego las reviso, o registro cada una después de revisarla?",
+    "cloze": "desglósamelo",
+    "answer": "desglósamelo",
+    "lemma": "desglosar",
+    "meaning": "break it down for me",
+    "audio": "work/audio/es-MX/05/es-05-1532.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1533",
+    "sentence": "—La coordinadora dijo: «Yo aviso a quienes cambien de grupo». ¿Tengo que llamar a todos mis compañeros? —La responsabilidad recae en ella, y el aviso es solo para quienes cambien; tú no tienes que hacer esas llamadas.",
+    "cloze": "recae",
+    "answer": "recae",
+    "lemma": "recaer",
+    "meaning": "falls; rests",
+    "audio": "work/audio/es-MX/05/es-05-1533.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1534",
+    "sentence": "—La maestra pidió que cada integrante leyera los dos relatos. ¿Podemos repartirnos uno y uno? —El requisito debe cumplirse individualmente: tú lees ambos y tu compañero también. Repartirse los textos dejaría a cada quien sin una de las lecturas.",
+    "cloze": "individualmente",
+    "answer": "individualmente",
+    "lemma": "individualmente",
+    "meaning": "individually",
+    "audio": "work/audio/es-MX/05/es-05-1534.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1535",
+    "sentence": "Para la memoria del paseo se permite usar texto, fotos o ambos. Si pensaste que debías escoger solo una forma, el texto y las fotos pueden combinarse en la misma entrega; también puedes usar únicamente una de las dos.",
+    "cloze": "combinarse",
+    "answer": "combinarse",
+    "lemma": "combinarse",
+    "meaning": "be combined",
+    "audio": "work/audio/es-MX/05/es-05-1535.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1536",
+    "sentence": "Cuando acordamos comer en el patio si no hacía frío, también dijimos que, si lo hacía, comeríamos adentro. No confirmes todavía el patio con los primos: el uso del patio se condiciona al clima; la comida familiar sí sigue en pie.",
+    "cloze": "se condiciona",
+    "answer": "se condiciona",
+    "lemma": "condicionar",
+    "meaning": "is made conditional",
+    "audio": "work/audio/es-MX/05/es-05-1536.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1537",
+    "sentence": "La consigna pide un objeto que recuerde un viaje y menciona, por ejemplo, un boleto, una foto o una carta. A quien descartó su postal porque no aparecía le digo: «La lista es ilustrativa; puedes elegir otro objeto que cumpla la misma condición».",
+    "cloze": "ilustrativa",
+    "answer": "ilustrativa",
+    "lemma": "ilustrativo",
+    "meaning": "illustrative",
+    "audio": "work/audio/es-MX/05/es-05-1537.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1538",
+    "sentence": "Al explicar el esquema, dije que servía como un mapa para ubicar las partes y que podías elegir el orden. Si la imagen del mapa te hizo pensar que hay una ruta obligatoria, la comparación se rompe ahí: no limita tu elección del recorrido.",
+    "cloze": "se rompe",
+    "answer": "se rompe",
+    "lemma": "romperse",
+    "meaning": "breaks down",
+    "audio": "work/audio/es-MX/05/es-05-1538.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1539",
+    "sentence": "—Me pidieron ordenar los libros por género y, dentro de cada género, por apellido. ¿Empiezo con todos los apellidos juntos? —Los libros se agrupan primero por género; el orden alfabético se aplica dentro de cada grupo, no a toda la colección a la vez.",
+    "cloze": "se agrupan",
+    "answer": "se agrupan",
+    "lemma": "agruparse",
+    "meaning": "are grouped",
+    "audio": "work/audio/es-MX/05/es-05-1539.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1540",
+    "sentence": "La encargada te pidió guardar las sillas plegables y dejar afuera las demás. Si se lo pasas a Elena, que no estuvo aquí cuando las señalamos, nómbralas: «Guarda las sillas plegables y deja afuera las demás». Así sabrá cuáles guardar; con «guarda esas» no podría identificarlas.",
+    "cloze": "nómbralas",
+    "answer": "nómbralas",
+    "lemma": "nombrar",
+    "meaning": "name them explicitly",
+    "audio": "work/audio/es-MX/05/es-05-1540.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1541",
+    "sentence": "—La mitad de la nota viene de la reseña; la otra mitad, del promedio de los ejercicios. —¿Entonces cada ejercicio vale lo mismo que la reseña? —Las calificaciones de los ejercicios se promedian para obtener una sola nota, y esa nota conjunta es la que pesa lo mismo que la reseña.",
+    "cloze": "se promedian",
+    "answer": "se promedian",
+    "lemma": "promediar",
+    "meaning": "are averaged",
+    "audio": "work/audio/es-MX/05/es-05-1541.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1542",
+    "sentence": "La tutora dijo que leer juntos puede ayudar a comprender, aunque no todos avanzan igual. Al contárselo a tu hermano, que entendió que mejoraría seguro, dile que, según ella, esa práctica puede favorecer la comprensión; no convierte la mejora en un resultado asegurado.",
+    "cloze": "favorecer",
+    "answer": "favorecer",
+    "lemma": "favorecer",
+    "meaning": "help; promote",
+    "audio": "work/audio/es-MX/05/es-05-1542.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1543",
+    "sentence": "—Si alguien falta, repartimos su parte entre quienes lleguen. —¿Quién va a faltar? —No hay ninguna ausencia confirmada; para ver cómo funcionaría, pongamos por caso que Ana no viene: entre los presentes repartiríamos lo que le tocaba.",
+    "cloze": "pongamos por caso",
+    "answer": "pongamos por caso",
+    "lemma": "poner por caso",
+    "meaning": "let us suppose, for example",
+    "audio": "work/audio/es-MX/05/es-05-1543.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1544",
+    "sentence": "Dices que, con el nuevo reparto de preguntas, la participación sería más equilibrada. Para entender qué cambio propones, ¿en qué lo notaríamos: hablarían más personas o las mismas personas tendrían tiempos más parecidos?",
+    "cloze": "lo notaríamos",
+    "answer": "lo notaríamos",
+    "lemma": "notar",
+    "meaning": "would we notice it",
+    "audio": "work/audio/es-MX/05/es-05-1544.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1545",
+    "sentence": "Marta cree que quizá abran otro grupo, pero todavía no le han confirmado nada. Si tu hermano te pregunta si ya puede contar con ese horario, no lo des por hecho: dile que es una posibilidad que Marta mencionó y sigue sin confirmar.",
+    "cloze": "lo des por hecho",
+    "answer": "lo des por hecho",
+    "lemma": "dar por hecho",
+    "meaning": "take it as a fact",
+    "audio": "work/audio/es-MX/05/es-05-1545.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1546",
+    "sentence": "Aunque ahora recomiendan mucho más asistir a la sesión de práctica, el aviso mantiene que es voluntaria. Si el énfasis te hizo pensar que ya era un requisito, la asistencia sigue siendo opcional; cambió la insistencia, no la obligación.",
+    "cloze": "sigue siendo",
+    "answer": "sigue siendo",
+    "lemma": "seguir siendo",
+    "meaning": "remains",
+    "audio": "work/audio/es-MX/05/es-05-1546.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1547",
+    "sentence": "—Me pidieron revisar las ideas y corregir la ortografía; ¿con quitar las faltas ya terminé? —Aquí se distinguen dos tareas: comprobar qué dicen tus ideas y corregir cómo están escritas las palabras. Hacer la segunda no completa por sí solo la primera.",
+    "cloze": "se distinguen",
+    "answer": "se distinguen",
+    "lemma": "distinguir",
+    "meaning": "are distinguished",
+    "audio": "work/audio/es-MX/05/es-05-1547.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1548",
+    "sentence": "El salón grande está ocupado; solo quedan dos chicos en los que cabemos si nos repartimos, pero en ninguno cabemos todos. Si no ves por qué hay que dividir el grupo para trabajar todos al mismo tiempo, reconstruyamos el razonamiento: en un solo salón, algunos se quedarían sin lugar; al repartirnos entre los dos, todos podemos trabajar.",
+    "cloze": "reconstruyamos",
+    "answer": "reconstruyamos",
+    "lemma": "reconstruir",
+    "meaning": "let us reconstruct",
+    "audio": "work/audio/es-MX/05/es-05-1548.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1549",
+    "sentence": "Cuando pides que el trabajo esté «bien presentado», yo pienso en adornar la portada y tú mencionas la facilidad de lectura. Para que pueda aplicar tu criterio, concrétalo: ¿qué tendría que poder encontrar o leer sin dificultad quien lo reciba?",
+    "cloze": "concrétalo",
+    "answer": "concrétalo",
+    "lemma": "concretar",
+    "meaning": "make it concrete",
+    "audio": "work/audio/es-MX/05/es-05-1549.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1550",
+    "sentence": "Dijiste que revisaremos «las fotos y las notas de ayer». Entendí qué tipos de material son, pero ¿esa fecha también se aplica a las fotos? Señálame qué abarca antes de que se lo explique al resto del grupo.",
+    "cloze": "Señálame",
+    "answer": "Señálame",
+    "lemma": "señalar",
+    "meaning": "point out to me",
+    "audio": "work/audio/es-MX/05/es-05-1550.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1551",
+    "sentence": "Antes de cenar anotamos los puntos para continuar la partida después desde donde nos quedamos. Si por «continuar» entendiste volver a cero, la partida no se reinicia: retomamos el marcador que dejamos anotado.",
+    "cloze": "se reinicia",
+    "answer": "se reinicia",
+    "lemma": "reiniciarse",
+    "meaning": "starts over",
+    "audio": "work/audio/es-MX/05/es-05-1551.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1552",
+    "sentence": "El material se recoge el viernes solo si antes le llega la confirmación; sin ese mensaje debe esperar. Para comprobar que expliqué bien la condición, ¿podría contarme con sus palabras cuándo vendría a recogerlo? Me interesa saber si quedó clara la necesidad del mensaje.",
+    "cloze": "con sus palabras",
+    "answer": "con sus palabras",
+    "lemma": "con sus palabras",
+    "meaning": "in your own words",
+    "audio": "work/audio/es-MX/05/es-05-1552.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1553",
+    "sentence": "La indicación era contar las fichas, guardarlas y cerrar la caja. Cuando se lo resumiste a Pablo como «guarda todo y cierra», faltó una tarea: el recuento no se omite, porque necesitamos saber si están todas antes de guardarlas.",
+    "cloze": "se omite",
+    "answer": "se omite",
+    "lemma": "omitir",
+    "meaning": "is omitted",
+    "audio": "work/audio/es-MX/05/es-05-1553.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1554",
+    "sentence": "Nuestro acuerdo dice que ustedes revisan nuestros textos y nosotros revisamos los suyos. A quienes entendieron que solo recibiríamos comentarios les explico que la revisión funciona en ambos sentidos: también nos toca leer y comentar lo que escriban ustedes.",
+    "cloze": "en ambos sentidos",
+    "answer": "en ambos sentidos",
+    "lemma": "en ambos sentidos",
+    "meaning": "in both directions",
+    "audio": "work/audio/es-MX/05/es-05-1554.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1555",
+    "sentence": "El impresor explicó las etapas y al final dijo que el cartel estaría listo mañana si hoy aprobamos la prueba. Como Luis solo pregunta cuándo recogerlo, adelántale lo que necesita saber: «Estaría listo mañana si aprobamos hoy la prueba». Las etapas pueden ir después.",
+    "cloze": "adelántale",
+    "answer": "adelántale",
+    "lemma": "adelantar",
+    "meaning": "tell him first",
+    "audio": "work/audio/es-MX/05/es-05-1555.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1556",
+    "sentence": "—La maestra pidió el dibujo y luego dijo que también escribiéramos cómo lo hicimos. ¿Entrego solo la explicación? —La explicación se añade al dibujo; la palabra «también» indica que debes entregar los dos, no cambiar uno por el otro.",
+    "cloze": "se añade",
+    "answer": "se añade",
+    "lemma": "añadir",
+    "meaning": "is added",
+    "audio": "work/audio/es-MX/05/es-05-1556.mp3",
+    "accepted_answers": []
   }
 ]
