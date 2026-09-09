@@ -21130,5 +21130,355 @@
     "meaning": "trust",
     "audio": "work/audio/es-MX/05/es-05-2108.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-2109",
+    "sentence": "El cambio de turno fue el detonante de la renuncia de Laura, pero ella ya llevaba meses inconforme con la carga de trabajo.",
+    "cloze": "detonante",
+    "answer": "detonante",
+    "lemma": "detonante",
+    "meaning": "trigger",
+    "audio": "work/audio/es-MX/05/es-05-2109.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2110",
+    "sentence": "En este club, la asistencia frecuente y la confianza para comentar van de la mano; todavía no sabemos si venir más da confianza o si la confianza anima a venir.",
+    "cloze": "van de la mano",
+    "answer": "van de la mano",
+    "lemma": "ir de la mano",
+    "meaning": "go hand in hand",
+    "audio": "work/audio/es-MX/05/es-05-2110.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2111",
+    "sentence": "No bastaba con pedirnos más rapidez: perder a dos revisores mermó nuestra capacidad de corregir textos, y además recibimos originales incompletos.",
+    "cloze": "mermó",
+    "answer": "mermó",
+    "lemma": "mermar",
+    "meaning": "reduced",
+    "audio": "work/audio/es-MX/05/es-05-2111.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2112",
+    "sentence": "¿Cómo íbamos a publicar juntos sin aclarar quién podía usar las fotos? Ese acuerdo sentó las bases de la colaboración, aunque todavía faltaba elegir las imágenes y preparar los textos.",
+    "cloze": "sentó las bases",
+    "answer": "sentó las bases",
+    "lemma": "sentar las bases",
+    "meaning": "laid the groundwork",
+    "audio": "work/audio/es-MX/05/es-05-2112.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2113",
+    "sentence": "Al reunir las asesorías en un solo salón buscamos facilitar las consultas; que los profesores empezaran a compartir materiales fue un efecto colateral que no habíamos previsto.",
+    "cloze": "efecto colateral",
+    "answer": "efecto colateral",
+    "lemma": "efecto colateral",
+    "meaning": "side effect",
+    "audio": "work/audio/es-MX/05/es-05-2113.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2114",
+    "sentence": "Les agradezco la ayuda porque aceleró el reparto de libros que ya habíamos empezado; sin ustedes, habríamos necesitado otra jornada para terminar.",
+    "cloze": "aceleró",
+    "answer": "aceleró",
+    "lemma": "acelerar",
+    "meaning": "sped up",
+    "audio": "work/audio/es-MX/05/es-05-2114.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2115",
+    "sentence": "Que cada área maneje una fecha distinta es un síntoma de la falta de coordinación; corregir una fecha en el cartel no arregla la manera en que compartimos los cambios.",
+    "cloze": "síntoma",
+    "answer": "síntoma",
+    "lemma": "síntoma",
+    "meaning": "symptom",
+    "audio": "work/audio/es-MX/05/es-05-2115.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2116",
+    "sentence": "El recordatorio surtió efecto entre quienes habían olvidado confirmar: respondieron al recibirlo; quienes no tenían cómo llegar siguieron sin confirmar.",
+    "cloze": "surtió efecto",
+    "answer": "surtió efecto",
+    "lemma": "surtir efecto",
+    "meaning": "had an effect",
+    "audio": "work/audio/es-MX/05/es-05-2116.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2117",
+    "sentence": "Yo no señalaría a nadie como autor del rumor solo porque trabaja ahí; con avisos incompletos y nadie disponible para aclararlos, toda la oficina era un caldo de cultivo para esas versiones.",
+    "cloze": "caldo de cultivo",
+    "answer": "caldo de cultivo",
+    "lemma": "caldo de cultivo",
+    "meaning": "breeding ground",
+    "audio": "work/audio/es-MX/05/es-05-2117.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2118",
+    "sentence": "La salida de la coordinadora desarticuló el trabajo entre los grupos: cada uno siguió preparando su parte, pero dejaron de intercambiar avances.",
+    "cloze": "desarticuló",
+    "answer": "desarticuló",
+    "lemma": "desarticular",
+    "meaning": "disrupted the coordination of",
+    "audio": "work/audio/es-MX/05/es-05-2118.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2119",
+    "sentence": "El horario equivocado ya desapareció de la página, pero seguimos recibiendo gente a esa hora porque conservan capturas del aviso; esas llegadas son un efecto residual del error.",
+    "cloze": "efecto residual",
+    "answer": "efecto residual",
+    "lemma": "efecto residual",
+    "meaning": "residual effect",
+    "audio": "work/audio/es-MX/05/es-05-2119.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2120",
+    "sentence": "Podemos decirles a los vecinos que aclarar la ausencia de publicidad allanó el camino para el préstamo del patio; falta que acordemos quién se encargará de limpiarlo.",
+    "cloze": "allanó el camino",
+    "answer": "allanó el camino",
+    "lemma": "allanar el camino",
+    "meaning": "paved the way",
+    "audio": "work/audio/es-MX/05/es-05-2120.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2121",
+    "sentence": "La baja asistencia se explica por una conjunción de factores: varias familias no recibieron la invitación y otras sí la recibieron, pero trabajaban a esa hora.",
+    "cloze": "conjunción de factores",
+    "answer": "conjunción de factores",
+    "lemma": "conjunción de factores",
+    "meaning": "combination of factors",
+    "audio": "work/audio/es-MX/05/es-05-2121.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2122",
+    "sentence": "¿La mudanza agravó el desorden del archivo o lo originó? Ya faltaban carpetas, pero al empacar sin una lista perdimos también la ubicación de las que teníamos.",
+    "cloze": "agravó",
+    "answer": "agravó",
+    "lemma": "agravar",
+    "meaning": "worsened",
+    "audio": "work/audio/es-MX/05/es-05-2122.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2123",
+    "sentence": "El error de fecha se propagó del calendario a las invitaciones y de ahí a los mensajes; todos copiaron el mismo dato, no fueron equivocaciones independientes.",
+    "cloze": "se propagó",
+    "answer": "se propagó",
+    "lemma": "propagarse",
+    "meaning": "spread",
+    "audio": "work/audio/es-MX/05/es-05-2123.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2124",
+    "sentence": "Al final ya nadie recordaba qué pregunta estábamos resolviendo porque tener que retomar la explicación tras tantas interrupciones, pequeñas pero constantes, hizo mella en la atención del grupo.",
+    "cloze": "hizo mella",
+    "answer": "hizo mella",
+    "lemma": "hacer mella",
+    "meaning": "took a toll",
+    "audio": "work/audio/es-MX/05/es-05-2124.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2125",
+    "sentence": "El préstamo de la llave posibilitó que entráramos al salón para ensayar; quienes prepararon la escena fuimos nosotros, con varias semanas de trabajo.",
+    "cloze": "posibilitó",
+    "answer": "posibilitó",
+    "lemma": "posibilitar",
+    "meaning": "made possible",
+    "audio": "work/audio/es-MX/05/es-05-2125.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2126",
+    "sentence": "El conflicto se enquistó durante los meses en que cada encargado dejó la queja pendiente para el siguiente, hasta que discutir quién debía responder impidió hablar del arreglo.",
+    "cloze": "se enquistó",
+    "answer": "se enquistó",
+    "lemma": "enquistarse",
+    "meaning": "became entrenched",
+    "audio": "work/audio/es-MX/05/es-05-2126.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2127",
+    "sentence": "¿En qué redundó que ustedes pudieran consultar el inventario desde casa? En menos viajes inútiles al taller, porque antes iban a buscar materiales que ya se habían acabado.",
+    "cloze": "redundó",
+    "answer": "redundó",
+    "lemma": "redundar",
+    "meaning": "resulted in a benefit",
+    "audio": "work/audio/es-MX/05/es-05-2127.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2128",
+    "sentence": "El anuncio de que retirarían los árboles movilizó a los vecinos: muchos ya estaban preocupados por el parque, pero entonces organizaron visitas y reunieron firmas.",
+    "cloze": "movilizó",
+    "answer": "movilizó",
+    "lemma": "movilizar",
+    "meaning": "mobilized",
+    "audio": "work/audio/es-MX/05/es-05-2128.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2129",
+    "sentence": "La invitación abierta desbordó la capacidad del taller: llegaron más personas de las que podían orientar tres instructores trabajando sin pausa.",
+    "cloze": "desbordó",
+    "answer": "desbordó",
+    "lemma": "desbordar",
+    "meaning": "overwhelmed",
+    "audio": "work/audio/es-MX/05/es-05-2129.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2130",
+    "sentence": "El aviso destacaba la palabra «gratis» junto al programa completo, sin aclarar que la oferta solo cubría la primera sesión, y dio pie a interpretar que todas serían gratis; el precio de las demás no había cambiado.",
+    "cloze": "dio pie",
+    "answer": "dio pie",
+    "lemma": "dar pie",
+    "meaning": "gave rise",
+    "audio": "work/audio/es-MX/05/es-05-2130.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2131",
+    "sentence": "La decisión de dejar de colaborar se gestó durante meses de acuerdos incumplidos; la anuncié durante la discusión de ayer, pero había empezado a considerarla mucho antes.",
+    "cloze": "se gestó",
+    "answer": "se gestó",
+    "lemma": "gestarse",
+    "meaning": "took shape gradually",
+    "audio": "work/audio/es-MX/05/es-05-2131.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2132",
+    "sentence": "El recargo por faltar tuvo un efecto disuasorio aun sin cobrarse nunca, según los vecinos que explicaron que no se inscribieron por temor a tener que pagarlo si cambiaba su turno de trabajo.",
+    "cloze": "efecto disuasorio",
+    "answer": "efecto disuasorio",
+    "lemma": "efecto disuasorio",
+    "meaning": "deterrent effect",
+    "audio": "work/audio/es-MX/05/es-05-2132.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2133",
+    "sentence": "Aunque no aumentó el número de textos revisados, mezclar a los equipos dinamizó el intercambio de ideas, pues comenzaron a preguntar por el trabajo de los demás y a discutirlo juntos.",
+    "cloze": "dinamizó",
+    "answer": "dinamizó",
+    "lemma": "dinamizar",
+    "meaning": "enlivened",
+    "audio": "work/audio/es-MX/05/es-05-2133.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2134",
+    "sentence": "Gracias a que la capacidad que habíamos dejado libre absorbió el aumento de consultas, atendimos las nuevas sin retrasar las que ya estaban programadas.",
+    "cloze": "absorbió",
+    "answer": "absorbió",
+    "lemma": "absorber",
+    "meaning": "absorbed",
+    "audio": "work/audio/es-MX/05/es-05-2134.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2135",
+    "sentence": "El intercambio por correo se extinguió poco a poco: cada propuesta recibía menos respuestas, hasta que nadie volvió a escribir, aunque nunca se canceló formalmente.",
+    "cloze": "se extinguió",
+    "answer": "se extinguió",
+    "lemma": "extinguirse",
+    "meaning": "died out",
+    "audio": "work/audio/es-MX/05/es-05-2135.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2136",
+    "sentence": "Repetir la queja al inicio de cada reunión amplificó su influencia en la decisión: acabamos dedicando más recursos a resolver ese problema que a otros más graves.",
+    "cloze": "amplificó",
+    "answer": "amplificó",
+    "lemma": "amplificar",
+    "meaning": "amplified",
+    "audio": "work/audio/es-MX/05/es-05-2136.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2137",
+    "sentence": "Antes de llamar pequeño a ese cambio, consideren el trabajo que acarrea ofrecer correcciones sin límite: debemos preparar otra versión cada vez que el cliente la pide, aunque la anterior cumpla con lo acordado.",
+    "cloze": "acarrea",
+    "answer": "acarrea",
+    "lemma": "acarrear",
+    "meaning": "entails",
+    "audio": "work/audio/es-MX/05/es-05-2137.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2138",
+    "sentence": "—¿Por qué volvieron a discutir por el patio? —La propuesta de cobrar por usarlo reavivó las diferencias sobre el acceso que habíamos dejado sin resolver.",
+    "cloze": "reavivó",
+    "answer": "reavivó",
+    "lemma": "reavivar",
+    "meaning": "rekindled",
+    "audio": "work/audio/es-MX/05/es-05-2138.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2139",
+    "sentence": "Lo que empezó como una aclaración sobre las firmas desembocó en una revisión del reparto de tareas, porque al buscar a los responsables vimos que varias funciones no tenían a nadie asignado.",
+    "cloze": "desembocó",
+    "answer": "desembocó",
+    "lemma": "desembocar",
+    "meaning": "led to",
+    "audio": "work/audio/es-MX/05/es-05-2139.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2140",
+    "sentence": "Al calcular lo que nos exigió participar, incluyamos el pasaje como un costo indirecto del taller, ya que no cobraba inscripción, pero obligaba a viajar cada sábado.",
+    "cloze": "costo indirecto",
+    "answer": "costo indirecto",
+    "lemma": "costo indirecto",
+    "meaning": "indirect cost",
+    "audio": "work/audio/es-MX/05/es-05-2140.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2141",
+    "sentence": "La obligación de esperar la firma de alguien que casi nunca estaba obstruyó el envío de respuestas; había personal y las respuestas estaban listas, pero no podían salir.",
+    "cloze": "obstruyó",
+    "answer": "obstruyó",
+    "lemma": "obstruir",
+    "meaning": "obstructed",
+    "audio": "work/audio/es-MX/05/es-05-2141.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2142",
+    "sentence": "Pedir que cada cambio incluyera una estimación de trabajo puso freno a las peticiones de última hora; siguieron llegando algunas, pero ya no crecían con cada reunión.",
+    "cloze": "puso freno",
+    "answer": "puso freno",
+    "lemma": "poner freno",
+    "meaning": "curbed",
+    "audio": "work/audio/es-MX/05/es-05-2142.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2143",
+    "sentence": "Eliminar del registro las entregas tardías falseó el balance de puntualidad; el trabajo no salió más rápido, solo dejamos de contar los retrasos.",
+    "cloze": "falseó",
+    "answer": "falseó",
+    "lemma": "falsear",
+    "meaning": "misrepresented",
+    "audio": "work/audio/es-MX/05/es-05-2143.mp3",
+    "accepted_answers": []
   }
 ]
