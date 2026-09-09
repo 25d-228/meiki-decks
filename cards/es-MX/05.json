@@ -7991,7 +7991,7 @@
   },
   {
     "id": "es-05-0795",
-    "sentence": "Si preguntas «¿fue el muchacho de la gorra quien gritó?», puedes obtener una respuesta inducida; necesitamos saber a quién recuerda haber visto la vecina sin sugerirle una identidad.",
+    "sentence": "Si preguntas «¿Fue el muchacho de la gorra quien gritó?», puedes obtener una respuesta inducida; necesitamos saber a quién recuerda haber visto la vecina sin sugerirle una identidad.",
     "cloze": "respuesta inducida",
     "answer": "respuesta inducida",
     "lemma": "respuesta inducida",
@@ -9413,7 +9413,7 @@
   },
   {
     "id": "es-05-0937",
-    "sentence": "—¿Qué opinó Laura del expositor? —Reconoció que conoce muy bien el tema, pero dijo que nunca escucha al público. Te resumo su crítica: sabrá mucho, pero no deja hablar a los demás.",
+    "sentence": "—¿Qué opinó Laura del expositor? —Reconoció que conoce muy bien el tema, pero dijo que nunca escucha al público. Te resumo su crítica: sabrá mucho, pero nunca escucha al público.",
     "cloze": "sabrá",
     "answer": "sabrá",
     "lemma": "saber",
