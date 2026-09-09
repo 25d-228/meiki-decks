@@ -5120,10 +5120,10 @@
   {
     "id": "es-05-0508",
     "sentence": "La asistencia puede desviarse de lo previsto; dimos una cifra para organizar el espacio, no una promesa, y el registro sigue abierto.",
-    "cloze": "desviarse de lo previsto",
-    "answer": "desviarse de lo previsto",
-    "lemma": "desviarse de lo previsto",
-    "meaning": "differ from what was forecast",
+    "cloze": "desviarse",
+    "answer": "desviarse",
+    "lemma": "desviarse",
+    "meaning": "deviate",
     "audio": "work/audio/es-MX/05/es-05-0508.mp3",
     "accepted_answers": []
   },
@@ -5230,10 +5230,10 @@
   {
     "id": "es-05-0519",
     "sentence": "Revisar las medidas nos permitirá acotar la incertidumbre sobre el costo del envío, aunque el peso final todavía puede mover la cantidad.",
-    "cloze": "acotar la incertidumbre",
-    "answer": "acotar la incertidumbre",
-    "lemma": "acotar la incertidumbre",
-    "meaning": "narrow down the uncertainty",
+    "cloze": "acotar",
+    "answer": "acotar",
+    "lemma": "acotar",
+    "meaning": "narrow down",
     "audio": "work/audio/es-MX/05/es-05-0519.mp3",
     "accepted_answers": []
   },
