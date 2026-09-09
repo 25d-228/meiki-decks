@@ -11343,7 +11343,7 @@
   },
   {
     "id": "es-05-1130",
-    "sentence": "Al proponer que ahora ayudemos al equipo de la tarde, apelo a la reciprocidad: ellos cubrieron nuestra mesa cuando nosotros tuvimos que salir.",
+    "sentence": "Al proponer que ahora ayudemos al equipo de la tarde, apelo a la idea de devolver la ayuda recibida: ellos cubrieron nuestra mesa cuando nosotros tuvimos que salir.",
     "cloze": "apelo",
     "answer": "apelo",
     "lemma": "apelar",
@@ -12423,17 +12423,17 @@
   },
   {
     "id": "es-05-1238",
-    "sentence": "Pasar todas las reuniones a la noche desplaza el problema de las interrupciones al tiempo de descanso; prefiero reservar una mañana fija, aunque durante esas horas no podamos atender solicitudes.",
-    "cloze": "desplaza el problema",
-    "answer": "desplaza el problema",
-    "lemma": "desplazar el problema",
-    "meaning": "shifts the problem elsewhere",
+    "sentence": "Al pasar todas las reuniones a la noche, el problema de las interrupciones se desplaza al tiempo de descanso; prefiero reservar una mañana fija, aunque durante esas horas no podamos atender solicitudes.",
+    "cloze": "se desplaza",
+    "answer": "se desplaza",
+    "lemma": "desplazarse",
+    "meaning": "shifts",
     "audio": "work/audio/es-MX/05/es-05-1238.mp3",
     "accepted_answers": []
   },
   {
     "id": "es-05-1239",
-    "sentence": "Elijo el montaje de piezas separadas porque minimiza el trabajo perdido si nos cambian a un salón de otro tamaño: podemos reutilizar las piezas; uno hecho a la medida luciría mejor, pero podríamos tener que rehacerlo completo.",
+    "sentence": "Elijo el montaje de piezas separadas porque minimiza el trabajo perdido si nos cambian a un salón de otro tamaño: podemos reutilizar las piezas; uno diseñado para el salón actual luciría mejor, pero podríamos tener que rehacerlo completo.",
     "cloze": "minimiza",
     "answer": "minimiza",
     "lemma": "minimizar",
