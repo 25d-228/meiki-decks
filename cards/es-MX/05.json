@@ -11056,10 +11056,10 @@
   {
     "id": "es-05-1101",
     "sentence": "—Es mi primera visita: ¿necesito registrarme? —El reglamento permite la consulta en sala sin registro y el aviso de préstamos exige registrarse para llevar libros a casa; en términos prácticos, puedes leer aquí sin registrarte, pero sí necesitas hacerlo para llevarte un libro.",
-    "cloze": "en términos prácticos",
-    "answer": "en términos prácticos",
-    "lemma": "en términos prácticos",
-    "meaning": "in practical terms",
+    "cloze": "leer",
+    "answer": "leer",
+    "lemma": "leer",
+    "meaning": "read",
     "audio": "work/audio/es-MX/05/es-05-1101.mp3",
     "accepted_answers": []
   },
@@ -11215,11 +11215,11 @@
   },
   {
     "id": "es-05-1117",
-    "sentence": "El equipo de sonido no necesita la lista de presentadores. Ana escribió «presento y presto el micrófono»; Luis, «despido al público y llevo la bocina». A ese equipo le escribo: «En lo tocante a los equipos de sonido, Ana presta el micrófono y Luis lleva la bocina».",
-    "cloze": "En lo tocante a",
-    "answer": "En lo tocante a",
-    "lemma": "en lo tocante a",
-    "meaning": "as regards",
+    "sentence": "El equipo de sonido no necesita la lista de presentadores. Ana escribió «presento y presto el micrófono»; Luis, «despido al público y llevo la bocina». A ese equipo le escribo: «Ana y Luis les dan apoyo logístico: ella presta el micrófono y él lleva la bocina».",
+    "cloze": "apoyo logístico",
+    "answer": "apoyo logístico",
+    "lemma": "apoyo logístico",
+    "meaning": "logistical support",
     "audio": "work/audio/es-MX/05/es-05-1117.mp3",
     "accepted_answers": []
   },
