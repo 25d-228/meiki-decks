@@ -18360,5 +18360,405 @@
     "meaning": "critically examine",
     "audio": "work/audio/es-MX/05/es-05-1831.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1832",
+    "sentence": "Les pedí corregir el enlace del curso, que sigue llevando al material del semestre pasado. Su mensaje solo confirma que leyeron mi reporte; necesito una respuesta de fondo que indique qué harán para darme acceso al material que contraté.",
+    "cloze": "respuesta de fondo",
+    "answer": "respuesta de fondo",
+    "lemma": "respuesta de fondo",
+    "meaning": "substantive response",
+    "audio": "work/audio/es-MX/05/es-05-1832.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1833",
+    "sentence": "Pedí revisar por qué mi reservación perdió la tarifa que ustedes habían confirmado. Usted indica que solo atiende llegadas; por favor, canalíceme con quien pueda revisar ese cambio y envíele también nuestra conversación para evitar que yo tenga que empezar otra vez.",
+    "cloze": "canalíceme",
+    "answer": "canalíceme",
+    "lemma": "canalizar",
+    "meaning": "please direct me",
+    "audio": "work/audio/es-MX/05/es-05-1833.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1834",
+    "sentence": "Reporté la misma falla por teléfono y por correo, como me indicaron ustedes, pero ahora me anuncian dos visitas con instrucciones distintas. Les pido que unifiquen las solicitudes antes de confirmar la visita, para que ambos equipos trabajen con el mismo acuerdo.",
+    "cloze": "unifiquen",
+    "answer": "unifiquen",
+    "lemma": "unificar",
+    "meaning": "merge",
+    "audio": "work/audio/es-MX/05/es-05-1834.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1835",
+    "sentence": "Cuando reporté la caja golpeada, ustedes me pidieron fotografías y envié las del exterior. Al abrirla también encontré rotos los separadores; por favor, incorporen estas nuevas imágenes a la reclamación que ya están revisando, pues corresponden al mismo envío.",
+    "cloze": "incorporen",
+    "answer": "incorporen",
+    "lemma": "incorporar",
+    "meaning": "add",
+    "audio": "work/audio/es-MX/05/es-05-1835.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1836",
+    "sentence": "Solicité cambiar la fecha del examen y ustedes me pidieron explicar el motivo. Respondí dentro del plazo, pero hoy recibí un aviso de que archivaron mi solicitud por falta de respuesta; les pido que desarchiven mi solicitud y revisen el mensaje que envié antes de que la archivaran.",
+    "cloze": "desarchiven",
+    "answer": "desarchiven",
+    "lemma": "desarchivar",
+    "meaning": "retrieve from the archive",
+    "audio": "work/audio/es-MX/05/es-05-1836.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1837",
+    "sentence": "Pedí corregir mi inscripción y he hablado con tres personas de su equipo; cada una me ha pedido algo distinto. Antes de enviar otro comprobante, quisiera recibir el historial de atención para identificar qué documentos ya entregué y qué revisión sigue pendiente.",
+    "cloze": "historial de atención",
+    "answer": "historial de atención",
+    "lemma": "historial de atención",
+    "meaning": "service history",
+    "audio": "work/audio/es-MX/05/es-05-1837.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1838",
+    "sentence": "Ustedes aprobaron que pausara el curso y volviera con el siguiente grupo; ahora que regresé, aparezco como alumno que abandonó sus estudios. Les solicito que regularicen mi situación conforme a esa pausa autorizada, para poder continuar sin presentar una solicitud de ingreso nueva.",
+    "cloze": "regularicen",
+    "answer": "regularicen",
+    "lemma": "regularizar",
+    "meaning": "regularize",
+    "audio": "work/audio/es-MX/05/es-05-1838.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1839",
+    "sentence": "Al cambiarme al programa de fin de semana, ustedes ofrecieron reconocer los módulos aprobados del mismo plan. Ya envié mis resultados, pero me asignaron otra vez el módulo inicial; les pido que convaliden ese trabajo antes de confirmar las materias que debo cursar.",
+    "cloze": "convaliden",
+    "answer": "convaliden",
+    "lemma": "convalidar",
+    "meaning": "recognize for academic credit",
+    "audio": "work/audio/es-MX/05/es-05-1839.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1840",
+    "sentence": "La reservación de mi lugar vencía al cierre de inscripciones; olvidé adjuntar una página y completé la solicitud después. Ustedes me ofrecen conservar el lugar con un recargo. Quisiera que me condonen ese importe por esta ocasión; hoy puedo cubrir el pago ordinario.",
+    "cloze": "me condonen",
+    "answer": "me condonen",
+    "lemma": "condonar",
+    "meaning": "waive for me",
+    "audio": "work/audio/es-MX/05/es-05-1840.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1841",
+    "sentence": "La mensualidad incluía cuatro visitas guiadas y ustedes cancelaron una sin ofrecer otra fecha. Las tres que sí se realizaron me sirvieron; propongo que me bonifiquen en la próxima mensualidad la parte correspondiente a la visita faltante y me indiquen cómo la calcularían.",
+    "cloze": "me bonifiquen",
+    "answer": "me bonifiquen",
+    "lemma": "bonificar",
+    "meaning": "credit me",
+    "audio": "work/audio/es-MX/05/es-05-1841.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1842",
+    "sentence": "Tras cancelar ustedes el curso, me ofrecieron devolver la inscripción y el lunes acepté recibir el reembolso por depósito, como propusieron. El plazo que me dieron terminó y el dinero no ha llegado; les pido que hagan efectivo el reembolso ya acordado y me avisen cuando lo hayan enviado.",
+    "cloze": "hagan efectivo",
+    "answer": "hagan efectivo",
+    "lemma": "hacer efectivo",
+    "meaning": "carry out",
+    "audio": "work/audio/es-MX/05/es-05-1842.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1843",
+    "sentence": "Ustedes autorizaron que pagara la mensajería para llevar las muestras al nuevo local y prometieron devolverme ese dinero. Adjunto los recibos: mi petición se limita al reembolso de los gastos comprobados, sin incluir una estimación por el tiempo que dediqué al traslado.",
+    "cloze": "gastos comprobados",
+    "answer": "gastos comprobados",
+    "lemma": "gasto comprobado",
+    "meaning": "documented expenses",
+    "audio": "work/audio/es-MX/05/es-05-1843.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1844",
+    "sentence": "Acepto el reemplazo de la impresora que ustedes ofrecieron, pero la sigo usando mientras llega la nueva, como acordamos por teléfono. Propongo devolverla contra entrega del reemplazo; confirmen si el mismo mensajero puede traer la nueva y llevarse la anterior en esa visita.",
+    "cloze": "contra entrega",
+    "answer": "contra entrega",
+    "lemma": "contra entrega",
+    "meaning": "upon delivery",
+    "audio": "work/audio/es-MX/05/es-05-1844.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1845",
+    "sentence": "Acepté devolver las piezas porque ustedes ofrecieron pagar el traslado, pero ahora me piden llevarlas a paquetería y cubrir el envío. Para realizar la devolución en las condiciones acordadas, les solicito una guía prepagada que pueda presentar al entregar la caja.",
+    "cloze": "guía prepagada",
+    "answer": "guía prepagada",
+    "lemma": "guía prepagada",
+    "meaning": "prepaid shipping label",
+    "audio": "work/audio/es-MX/05/es-05-1845.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1846",
+    "sentence": "Dejé el proyector con ustedes porque ofrecieron revisarlo antes de mi siguiente taller; ahora me avisan que tardarán más. ¿Podrían facilitarme un equipo de préstamo durante esa espera? Puedo devolverlo en cuanto recoja el mío, sin pedir un cambio definitivo.",
+    "cloze": "equipo de préstamo",
+    "answer": "equipo de préstamo",
+    "lemma": "equipo de préstamo",
+    "meaning": "loaner equipment",
+    "audio": "work/audio/es-MX/05/es-05-1846.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1847",
+    "sentence": "Encargué a su mensajería llevar mis dibujos originales al taller y todavía no aparecen. Me ofrecen pagar el papel, pero necesito recuperar los dibujos; les pido que agoten las posibilidades de búsqueda en las dos bodegas por las que pasó el envío antes de darlo por perdido.",
+    "cloze": "agoten",
+    "answer": "agoten",
+    "lemma": "agotar",
+    "meaning": "exhaust",
+    "audio": "work/audio/es-MX/05/es-05-1847.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1848",
+    "sentence": "Acordamos que la guía impresa indicaría que el taller no requiere inscripción previa, pero salió la instrucción contraria. No hace falta imprimir todos los ejemplares otra vez: les pido una fe de erratas que podamos incluir en los que aún no se han repartido.",
+    "cloze": "fe de erratas",
+    "answer": "fe de erratas",
+    "lemma": "fe de erratas",
+    "meaning": "errata notice",
+    "audio": "work/audio/es-MX/05/es-05-1848.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1849",
+    "sentence": "Acepté mover mi charla porque ustedes necesitaban el salón para otra actividad. Su aviso dice que yo cambié la fecha, sin mencionar esa petición; les solicito una nota aclaratoria para que el público conozca también que el cambio respondió a una necesidad del centro.",
+    "cloze": "nota aclaratoria",
+    "answer": "nota aclaratoria",
+    "lemma": "nota aclaratoria",
+    "meaning": "clarifying note",
+    "audio": "work/audio/es-MX/05/es-05-1849.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1850",
+    "sentence": "Acordamos que la exposición reconocería tanto mi investigación como las fotografías de mi compañera. Los textos finales solo mencionan las fotos; les pido que restituyan el crédito por la investigación antes de abrir la muestra, sin quitar el reconocimiento al trabajo de ella.",
+    "cloze": "restituyan",
+    "answer": "restituyan",
+    "lemma": "restituir",
+    "meaning": "restore",
+    "audio": "work/audio/es-MX/05/es-05-1850.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1851",
+    "sentence": "Mi colaboración con ustedes terminó con la revisión del primer boletín, pero su página todavía me presenta como asesor permanente y me llegan consultas nuevas. Les pido que desvinculen mi nombre del servicio actual; pueden conservar la mención de mi participación en aquel número.",
+    "cloze": "desvinculen",
+    "answer": "desvinculen",
+    "lemma": "desvincular",
+    "meaning": "dissociate",
+    "audio": "work/audio/es-MX/05/es-05-1851.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1852",
+    "sentence": "Ustedes confirmaron por correo que mi pago quedó aplicado y que no hay saldo pendiente. Sin embargo, sigo recibiendo llamadas para cobrar esa misma mensualidad; solicito que cesen las llamadas y que comuniquen la confirmación a quienes las realizan.",
+    "cloze": "cesen",
+    "answer": "cesen",
+    "lemma": "cesar",
+    "meaning": "stop",
+    "audio": "work/audio/es-MX/05/es-05-1852.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1853",
+    "sentence": "El profesor y yo acordamos que podría entregar el trabajo después de la salida escolar, pero ahora rechaza recibirlo. Usted estuvo presente cuando lo hablamos; le pido que interceda ante él para recuperar ese acuerdo, sin que tenga que decidir usted la calificación.",
+    "cloze": "interceda",
+    "answer": "interceda",
+    "lemma": "interceder",
+    "meaning": "intercede",
+    "audio": "work/audio/es-MX/05/es-05-1853.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1854",
+    "sentence": "Por teléfono acepté que ustedes dividieran la entrega en dos visitas, siempre que la segunda incluyera el armado pendiente. El correo posterior solo menciona las visitas; les pido que formalicen el acuerdo completo antes de que yo confirme los horarios con el personal del salón.",
+    "cloze": "formalicen",
+    "answer": "formalicen",
+    "lemma": "formalizar",
+    "meaning": "formalize",
+    "audio": "work/audio/es-MX/05/es-05-1854.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1855",
+    "sentence": "Contraté la grabación con ustedes porque ofrecieron que la entrevistadora que conocí realizaría personalmente las entrevistas. Pueden cambiar a quienes preparan el equipo, pero no autorizo que subcontraten las entrevistas sin consultarme; mi aceptación del presupuesto se basó en la participación de esa entrevistadora.",
+    "cloze": "subcontraten",
+    "answer": "subcontraten",
+    "lemma": "subcontratar",
+    "meaning": "subcontract",
+    "audio": "work/audio/es-MX/05/es-05-1855.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1856",
+    "sentence": "Ustedes explican que imprimieron con el archivo anterior por una confusión interna y proponen corregir las copias. Estoy de acuerdo con esa corrección, pero les pido que no repercutan su costo en el pedido siguiente; yo había entregado a tiempo la versión que aprobamos.",
+    "cloze": "repercutan",
+    "answer": "repercutan",
+    "lemma": "repercutir",
+    "meaning": "pass on",
+    "audio": "work/audio/es-MX/05/es-05-1856.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1857",
+    "sentence": "Cuando ustedes cancelaron el grupo de verano, me ofrecieron conservar mi pago para otra edición. Ya elegí la de otoño; les pido que traspasen mi inscripción a ese grupo y me confirmen si queda algún paso pendiente, antes de cobrarme como alumno nuevo.",
+    "cloze": "traspasen",
+    "answer": "traspasen",
+    "lemma": "traspasar",
+    "meaning": "transfer",
+    "audio": "work/audio/es-MX/05/es-05-1857.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1858",
+    "sentence": "Me inscribí en los dos talleres porque ustedes confirmaron que podía cursarlos juntos; el cambio que anunciaron ayer los dejó a la misma hora. Les pido que reacomoden mis sesiones de manera que pueda terminar ambos, y me envíen la propuesta antes de mover una sola por separado.",
+    "cloze": "reacomoden",
+    "answer": "reacomoden",
+    "lemma": "reacomodar",
+    "meaning": "rearrange",
+    "audio": "work/audio/es-MX/05/es-05-1858.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1859",
+    "sentence": "Mi acceso al curso se activó tres clases después de la fecha que ustedes habían confirmado. Ya puedo entrar, pero el grupo usa procedimientos que todavía no conozco; solicito un plan de recuperación que indique qué debo trabajar primero y cuándo podré consultar las dudas antes de seguir avanzando.",
+    "cloze": "plan de recuperación",
+    "answer": "plan de recuperación",
+    "lemma": "plan de recuperación",
+    "meaning": "catch-up plan",
+    "audio": "work/audio/es-MX/05/es-05-1859.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1860",
+    "sentence": "Pedí que me explicaran cómo entregar el ejercicio y la respuesta fue: «Aprenda a leer antes de preguntar». No estoy pidiendo que cambien las instrucciones; mi queja es por el trato despectivo, y solicito que mi duda la atienda otra persona de su equipo.",
+    "cloze": "trato despectivo",
+    "answer": "trato despectivo",
+    "lemma": "trato despectivo",
+    "meaning": "disparaging treatment",
+    "audio": "work/audio/es-MX/05/es-05-1860.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1861",
+    "sentence": "El taller que contraté incluía revisar nuestros borradores, pero las sesiones se han dedicado a escuchar anécdotas del expositor y todavía nadie ha recibido comentarios. Les pido que reconduzcan las sesiones restantes hacia la revisión anunciada; podemos conservar las lecturas que ayuden a ese trabajo.",
+    "cloze": "reconduzcan",
+    "answer": "reconduzcan",
+    "lemma": "reconducir",
+    "meaning": "redirect",
+    "audio": "work/audio/es-MX/05/es-05-1861.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1862",
+    "sentence": "Habíamos acordado una asesoría presencial y que cualquier modificación se consultaría antes. El aviso de ustedes ya la presenta como sesión grabada; objeto ese cambio unilateral y les pido mantener la cita mientras revisamos juntos si alguna alternativa cumple el propósito de la asesoría.",
+    "cloze": "cambio unilateral",
+    "answer": "cambio unilateral",
+    "lemma": "cambio unilateral",
+    "meaning": "unilateral change",
+    "audio": "work/audio/es-MX/05/es-05-1862.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1863",
+    "sentence": "Ustedes aceptaron llevar una lista de correcciones pendientes del catálogo. La que enviaron hoy mezcla observaciones nuevas con otras que ya comprobaron como resueltas; les pido que depuren esa lista antes de pedirme otra ronda de cambios, para que trabajemos únicamente en lo que sigue abierto.",
+    "cloze": "depuren",
+    "answer": "depuren",
+    "lemma": "depurar",
+    "meaning": "clean up",
+    "audio": "work/audio/es-MX/05/es-05-1863.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1864",
+    "sentence": "Usted me comenta que confundió la fecha y por eso no llegó a la revisión individual que habíamos reservado. Ya impartí todas las sesiones del curso; como gesto de cortesía, le ofrezco comentar por correo una versión de su trabajo, si esa opción le sirve para terminarlo.",
+    "cloze": "gesto de cortesía",
+    "answer": "gesto de cortesía",
+    "lemma": "gesto de cortesía",
+    "meaning": "courtesy gesture",
+    "audio": "work/audio/es-MX/05/es-05-1864.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1865",
+    "sentence": "Acordamos que el paquete se me entregaría personalmente y yo no lo recibí, aunque el aviso de ustedes dice «entregado». Antes de cerrar mi reporte, les solicito la prueba de entrega para revisar quién lo recibió y en qué condiciones se registró la recepción.",
+    "cloze": "prueba de entrega",
+    "answer": "prueba de entrega",
+    "lemma": "prueba de entrega",
+    "meaning": "proof of delivery",
+    "audio": "work/audio/es-MX/05/es-05-1865.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1866",
+    "sentence": "Ustedes aceptaron corregir las ilustraciones antes de que yo terminara el diseño, pero su respuesta más reciente solo dice «vamos avanzando». Les pido que calendaricen las correcciones por grupos de páginas, para que yo pueda trabajar con las ya terminadas sin esperar el conjunto completo.",
+    "cloze": "calendaricen",
+    "answer": "calendaricen",
+    "lemma": "calendarizar",
+    "meaning": "schedule",
+    "audio": "work/audio/es-MX/05/es-05-1866.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1867",
+    "sentence": "Ustedes indicaron que los lugares se asignan según el orden de solicitud. Como no encontraron la mía, me pidieron enviarla otra vez; solicito que se conserve mi antigüedad en la lista, porque este segundo envío responde a esa búsqueda y no a un interés nuevo en el curso.",
+    "cloze": "antigüedad",
+    "answer": "antigüedad",
+    "lemma": "antigüedad",
+    "meaning": "time already spent on the list",
+    "audio": "work/audio/es-MX/05/es-05-1867.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1868",
+    "sentence": "Contraté con ustedes la restauración de las sillas de mi familia, que incluía renovar el tapiz y el acabado de la madera. Solo cambiaron el tapiz y la madera conserva el acabado deteriorado; les pido que reacondicionen también esa parte conforme al trabajo acordado, en lugar de ofrecerme sillas nuevas.",
+    "cloze": "reacondicionen",
+    "answer": "reacondicionen",
+    "lemma": "reacondicionar",
+    "meaning": "recondition",
+    "audio": "work/audio/es-MX/05/es-05-1868.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1869",
+    "sentence": "Acordamos que las instrucciones para presentar el proyecto llegarían por escrito, porque debo compartirlas con todo el equipo. Su respuesta contiene únicamente notas de voz; les pido que transcriban las indicaciones que debemos seguir, para que nadie tenga que reconstruirlas de memoria.",
+    "cloze": "transcriban",
+    "answer": "transcriban",
+    "lemma": "transcribir",
+    "meaning": "transcribe",
+    "audio": "work/audio/es-MX/05/es-05-1869.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1870",
+    "sentence": "El trabajo contratado incluía los archivos editables después de aprobar las correcciones, y ayer envié esa aprobación. El enlace que ustedes mandaron solo permite ver las imágenes; les pido que pongan a disposición del equipo los archivos que necesitamos para preparar las versiones de impresión.",
+    "cloze": "pongan a disposición",
+    "answer": "pongan a disposición",
+    "lemma": "poner a disposición",
+    "meaning": "make available",
+    "audio": "work/audio/es-MX/05/es-05-1870.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1871",
+    "sentence": "Ustedes ya confirmaron que recibieron mi tarea a tiempo, aunque el sistema la marcó como tardía y me bloqueó el examen. Les pido que levanten esa restricción antes de la evaluación de mañana; mi solicitud se refiere al acceso, no a la calificación de la tarea.",
+    "cloze": "levanten",
+    "answer": "levanten",
+    "lemma": "levantar",
+    "meaning": "lift",
+    "audio": "work/audio/es-MX/05/es-05-1871.mp3",
+    "accepted_answers": []
   }
 ]
