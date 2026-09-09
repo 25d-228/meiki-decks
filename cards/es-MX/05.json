@@ -13716,10 +13716,10 @@
   {
     "id": "es-05-1367",
     "sentence": "A mí, «ya se lo expliqué» me sonó a regaño cuando solo pedí que repitiera la dirección; ¿podemos retomar el dato que no alcancé a escuchar?",
-    "cloze": "sonó a regaño",
-    "answer": "sonó a regaño",
-    "lemma": "sonar a regaño",
-    "meaning": "sounded like a scolding",
+    "cloze": "me sonó",
+    "answer": "me sonó",
+    "lemma": "sonar a",
+    "meaning": "sounded to me",
     "audio": "work/audio/es-MX/05/es-05-1367.mp3",
     "accepted_answers": []
   },
