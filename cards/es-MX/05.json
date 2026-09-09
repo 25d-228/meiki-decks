@@ -20360,5 +20360,385 @@
     "meaning": "make jointly responsible",
     "audio": "work/audio/es-MX/05/es-05-2031.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-2032",
+    "sentence": "El autobús sí salió y llegamos a la terminal intermedia; ahí quedé varado porque ustedes cancelaron la conexión, así que necesito una opción para completar el trayecto, no para volver al punto de salida.",
+    "cloze": "quedé varado",
+    "answer": "quedé varado",
+    "lemma": "quedar varado",
+    "meaning": "I was left stranded",
+    "audio": "work/audio/es-MX/05/es-05-2032.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2033",
+    "sentence": "¿Podemos buscar otra salida desde esta terminal? La alternativa que me ofrece exige desandar el camino hasta el aeropuerto, cuando mi acompañante ya está esperándome aquí con el equipaje.",
+    "cloze": "desandar",
+    "answer": "desandar",
+    "lemma": "desandar",
+    "meaning": "retrace",
+    "audio": "work/audio/es-MX/05/es-05-2033.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2034",
+    "sentence": "Mi compañera necesita dormir antes de salir a trabajar; aceptar que reparen mi baño de madrugada, a expensas de su descanso, resolvería mi reporte creando otro problema en el departamento.",
+    "cloze": "a expensas de",
+    "answer": "a expensas de",
+    "lemma": "a expensas de",
+    "meaning": "at the expense of",
+    "audio": "work/audio/es-MX/05/es-05-2034.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2035",
+    "sentence": "El carpintero necesita trabajar en la puerta y el pintor, en ese mismo marco; para evitar que se entorpezcan, ¿podrían consultar entre ustedes el orden de las visitas antes de pedirme que reserve otra mañana?",
+    "cloze": "se entorpezcan",
+    "answer": "se entorpezcan",
+    "lemma": "entorpecerse",
+    "meaning": "get in each other's way",
+    "audio": "work/audio/es-MX/05/es-05-2035.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2036",
+    "sentence": "La agencia dice que el hotel debe confirmar el traslado y el hotel espera la indicación de la agencia. Les pido que hablen entre ustedes sin que nos pasen la bolita a los huéspedes: no tenemos acceso a esas decisiones.",
+    "cloze": "nos pasen la bolita",
+    "answer": "nos pasen la bolita",
+    "lemma": "pasar la bolita",
+    "meaning": "pass the buck to us",
+    "audio": "work/audio/es-MX/05/es-05-2036.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2037",
+    "sentence": "Cada vez que llamo me dicen que el técnico está por llegar; esa respuesta me tiene en vilo porque no sé si puedo salir a recoger las llaves del otro departamento. Prefiero que me digan si todavía no hay una visita confirmada.",
+    "cloze": "me tiene en vilo",
+    "answer": "me tiene en vilo",
+    "lemma": "tener en vilo",
+    "meaning": "keeps me on tenterhooks",
+    "audio": "work/audio/es-MX/05/es-05-2037.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2038",
+    "sentence": "La rajadura de la ventana era preexistente: aparece en la foto que tomamos juntos antes de entregarme el cuarto. Podemos organizar la revisión sin anotarla como un daño ocurrido durante mi estancia.",
+    "cloze": "preexistente",
+    "answer": "preexistente",
+    "lemma": "preexistente",
+    "meaning": "already present beforehand",
+    "audio": "work/audio/es-MX/05/es-05-2038.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2039",
+    "sentence": "Antes de pedirme que cruce la ciudad para recoger la maleta encontrada, ¿pueden pedir a sus compañeros que cotejen la descripción de su interior con la que les di? El color exterior coincide con muchas otras.",
+    "cloze": "cotejen",
+    "answer": "cotejen",
+    "lemma": "cotejar",
+    "meaning": "cross-check",
+    "audio": "work/audio/es-MX/05/es-05-2039.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2040",
+    "sentence": "Ustedes ofrecieron llevarme al otro alojamiento y yo acepté el cambio por esa razón; cuando ya había entregado las llaves, se desdijeron. Necesito saber cómo proponen completar ahora ese traslado.",
+    "cloze": "se desdijeron",
+    "answer": "se desdijeron",
+    "lemma": "desdecirse",
+    "meaning": "they went back on their word",
+    "audio": "work/audio/es-MX/05/es-05-2040.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2041",
+    "sentence": "Que yo haya salido del hotel no significa que apareciera mi mochila; no quisiera que mi salida sirviera para dar carpetazo al reporte, pues seguimos pendientes de la respuesta del personal que revisó el salón.",
+    "cloze": "dar carpetazo",
+    "answer": "dar carpetazo",
+    "lemma": "dar carpetazo",
+    "meaning": "close the matter without resolving it",
+    "audio": "work/audio/es-MX/05/es-05-2041.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2042",
+    "sentence": "—Ya podemos registrar la puerta como reparada. —La reparación quedó a medias: cierra, pero desde dentro no abre con la llave que me entregaron. ¿Puede revisarla de nuevo la misma persona antes de que cierren el reporte?",
+    "cloze": "a medias",
+    "answer": "a medias",
+    "lemma": "a medias",
+    "meaning": "only partly done",
+    "audio": "work/audio/es-MX/05/es-05-2042.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2043",
+    "sentence": "Mi mochila ya salió hacia el hotel anterior y yo estoy en la terminal; ¿todavía pueden interceptar ese envío y consultar conmigo otro punto de entrega, o debemos esperar a que lo reciba el hotel?",
+    "cloze": "interceptar",
+    "answer": "interceptar",
+    "lemma": "interceptar",
+    "meaning": "intercept",
+    "audio": "work/audio/es-MX/05/es-05-2043.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2044",
+    "sentence": "—Solo tenemos habitaciones disponibles en distintos hoteles. —Antes de dispersarnos, quisiera buscar una opción para todo el grupo: viajamos para acompañar a nuestra abuela y necesitamos turnarnos con ella durante la noche.",
+    "cloze": "dispersarnos",
+    "answer": "dispersarnos",
+    "lemma": "dispersarse",
+    "meaning": "split up as a group",
+    "audio": "work/audio/es-MX/05/es-05-2044.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2045",
+    "sentence": "¿Podrían darme un margen para recoger la maleta? No puedo simultanear su recogida en la terminal y la recepción de las llaves en el alojamiento, y ambos encargados me están citando a la misma hora.",
+    "cloze": "simultanear",
+    "answer": "simultanear",
+    "lemma": "simultanear",
+    "meaning": "carry out simultaneously",
+    "audio": "work/audio/es-MX/05/es-05-2045.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2046",
+    "sentence": "—Puedo atender su caso; explíqueme desde el principio. —Gracias, pero repetir toda la situación en cada llamada desgasta. El turno anterior ya anotó por qué no puedo recibir al técnico sin aviso; ¿podemos continuar desde ahí?",
+    "cloze": "desgasta",
+    "answer": "desgasta",
+    "lemma": "desgastar",
+    "meaning": "wears one down",
+    "audio": "work/audio/es-MX/05/es-05-2046.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2047",
+    "sentence": "El teléfono de atención nocturna que me dieron resulta inoperante para esta llegada: la grabación pide marcar una extensión que nadie me proporcionó. Antes de que cierre recepción, necesito otra manera de avisar que estoy en la puerta.",
+    "cloze": "inoperante",
+    "answer": "inoperante",
+    "lemma": "inoperante",
+    "meaning": "ineffective",
+    "audio": "work/audio/es-MX/05/es-05-2047.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2048",
+    "sentence": "Entre la llegada prevista del autobús y el cierre de recepción apenas queda tiempo para el traslado; ¿podemos dejar algo de holgura en la entrega de llaves, para que un retraso pequeño no nos obligue a buscar otro alojamiento?",
+    "cloze": "holgura",
+    "answer": "holgura",
+    "lemma": "holgura",
+    "meaning": "leeway",
+    "audio": "work/audio/es-MX/05/es-05-2048.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2049",
+    "sentence": "El ruido de la calle todavía me deja descansar si mantengo cerrada la ventana; puedo sobrellevar esa molestia hasta el cambio de cuarto que ya acordamos, siempre que mientras tanto ustedes me faciliten el ventilador que ofrecieron.",
+    "cloze": "sobrellevar",
+    "answer": "sobrellevar",
+    "lemma": "sobrellevar",
+    "meaning": "cope with",
+    "audio": "work/audio/es-MX/05/es-05-2049.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2050",
+    "sentence": "Para entrar al conjunto necesito la llave que me entregan adentro. ¿Cómo podemos acoplar el traslado y la entrega para que alguien me reciba en la reja cuando llegue el chofer, que no tiene acceso al interior?",
+    "cloze": "acoplar",
+    "answer": "acoplar",
+    "lemma": "acoplar",
+    "meaning": "coordinate",
+    "audio": "work/audio/es-MX/05/es-05-2050.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2051",
+    "sentence": "¿Dónde podríamos pernoctar si aceptamos la salida que ustedes ofrecen para mañana? La sala de espera cierra por la noche, así que necesitaríamos resolver el alojamiento antes de confirmar el cambio.",
+    "cloze": "pernoctar",
+    "answer": "pernoctar",
+    "lemma": "pernoctar",
+    "meaning": "spend the night",
+    "audio": "work/audio/es-MX/05/es-05-2051.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2052",
+    "sentence": "Puedo probar el cuarto que me ofrece, pero quisiera que el cambio fuera reversible si también se oye la obra desde ahí; primero podríamos comprobar juntos cuánto se oye la obra desde ese cuarto, sin cancelar todavía la habitación que tengo asignada.",
+    "cloze": "reversible",
+    "answer": "reversible",
+    "lemma": "reversible",
+    "meaning": "reversible",
+    "audio": "work/audio/es-MX/05/es-05-2052.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2053",
+    "sentence": "Preparé el departamento para la reparación completa y ya tuve que mover los muebles una vez; les pido que no fraccionen el trabajo en visitas pequeñas que me obliguen a repetir esa preparación. Díganme qué necesitan tener listo para una visita completa.",
+    "cloze": "fraccionen",
+    "answer": "fraccionen",
+    "lemma": "fraccionar",
+    "meaning": "split up",
+    "audio": "work/audio/es-MX/05/es-05-2053.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2054",
+    "sentence": "El grupo siguió la visita mientras yo esperaba la maleta que faltaba. ¿Puede hablar con la guía para que me reencuentre con ellos en una parada donde todavía pueda participar, en vez de mandarme solo al punto final?",
+    "cloze": "me reencuentre",
+    "answer": "me reencuentre",
+    "lemma": "reencontrarse",
+    "meaning": "I rejoin",
+    "audio": "work/audio/es-MX/05/es-05-2054.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2055",
+    "sentence": "No era cierto que se hubiera restablecido el acceso al edificio cuando ustedes me pidieron cancelar la visita del técnico; la puerta seguía sin abrir. Necesito recuperar esa visita: mi cancelación respondió al aviso de ustedes, no a una comprobación mía.",
+    "cloze": "se hubiera restablecido",
+    "answer": "se hubiera restablecido",
+    "lemma": "restablecerse",
+    "meaning": "had been restored",
+    "audio": "work/audio/es-MX/05/es-05-2055.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2056",
+    "sentence": "Que mis llaves no aparezcan en la lista de objetos encontrados no demuestra que se hayan extraviado durante la limpieza; todavía falta hablar con quien recogió las sábanas. ¿Podemos esperar esa respuesta antes de cambiar la búsqueda de lugar?",
+    "cloze": "se hayan extraviado",
+    "answer": "se hayan extraviado",
+    "lemma": "extraviarse",
+    "meaning": "have gone missing",
+    "audio": "work/audio/es-MX/05/es-05-2056.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2057",
+    "sentence": "Prefiero que ustedes se cercioren de que el chofer recibió el cambio de punto de encuentro; reenviarle el mensaje no me permite saber si seguirá esperándome en la entrada anterior mientras yo voy a la nueva.",
+    "cloze": "se cercioren",
+    "answer": "se cercioren",
+    "lemma": "cerciorarse",
+    "meaning": "make sure",
+    "audio": "work/audio/es-MX/05/es-05-2057.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2058",
+    "sentence": "Antes de reservar otra visita, recapitulemos lo ocurrido: primero reporté la ventana, después ustedes enviaron a alguien a medirla y ayer me llamaron para medirla otra vez. Necesito saber qué dato falta para no repetir una visita que no haga avanzar la reparación.",
+    "cloze": "recapitulemos",
+    "answer": "recapitulemos",
+    "lemma": "recapitular",
+    "meaning": "let's recap",
+    "audio": "work/audio/es-MX/05/es-05-2058.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2059",
+    "sentence": "Todavía no me han dicho si el alojamiento alternativo tiene entrada nocturna; les pido que no me apremien a elegir mientras falta ese dato, porque mi autobús llega después de que cierra su recepción habitual.",
+    "cloze": "me apremien",
+    "answer": "me apremien",
+    "lemma": "apremiar",
+    "meaning": "pressure me",
+    "audio": "work/audio/es-MX/05/es-05-2059.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2060",
+    "sentence": "Ya acordamos que yo recogeré la maleta aquí; por favor, desactiven la orden anterior de llevarla al hotel, para que el personal que entra más tarde no la vuelva a sacar mientras vengo por ella.",
+    "cloze": "desactiven",
+    "answer": "desactiven",
+    "lemma": "desactivar",
+    "meaning": "deactivate",
+    "audio": "work/audio/es-MX/05/es-05-2060.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2061",
+    "sentence": "Mi hermana llegará antes que yo y está dispuesta a recoger las llaves; ¿puede suplirme en esa entrega con mi autorización, o necesitan que yo las recoja personalmente? Quisiera resolverlo antes de que ella se desplace al alojamiento.",
+    "cloze": "suplirme",
+    "answer": "suplirme",
+    "lemma": "suplir",
+    "meaning": "stand in for me",
+    "audio": "work/audio/es-MX/05/es-05-2061.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2062",
+    "sentence": "No les pido que describan cada interrupción del agua como una avería grave, pero tampoco que minimicen el problema sumando solo los minutos: he tenido que volver varias veces al departamento para recibir a quien lo revisa.",
+    "cloze": "minimicen",
+    "answer": "minimicen",
+    "lemma": "minimizar",
+    "meaning": "downplay",
+    "audio": "work/audio/es-MX/05/es-05-2062.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2063",
+    "sentence": "Sé cómo se usa una llave electrónica; lo que reporto es que esta dejó de funcionar después del cambio de cuarto. Quisiera que revisáramos ese cambio sin condescendencia, porque explicarme otra vez cómo acercar la tarjeta no resuelve la falta de acceso.",
+    "cloze": "condescendencia",
+    "answer": "condescendencia",
+    "lemma": "condescendencia",
+    "meaning": "patronizing attitude",
+    "audio": "work/audio/es-MX/05/es-05-2063.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2064",
+    "sentence": "No le pido que se solidarice conmigo contra sus compañeros; usted no presenció la entrega de llaves. Le pido que me ayude a localizar a quien sí estuvo, para aclarar por qué ahora me solicitan una llave que no recibí.",
+    "cloze": "se solidarice",
+    "answer": "se solidarice",
+    "lemma": "solidarizarse",
+    "meaning": "show solidarity",
+    "audio": "work/audio/es-MX/05/es-05-2064.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2065",
+    "sentence": "No puedo salir hacia el nuevo alojamiento con las instrucciones a cuentagotas: primero recibí una dirección, después una condición de entrada y ahora el nombre de otra persona de contacto; necesito reunir lo necesario para llegar y entrar antes de moverme.",
+    "cloze": "a cuentagotas",
+    "answer": "a cuentagotas",
+    "lemma": "a cuentagotas",
+    "meaning": "in dribs and drabs",
+    "audio": "work/audio/es-MX/05/es-05-2065.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2066",
+    "sentence": "Cuando dice que la hora de llegada del técnico es orientativa, ¿quiere decir que aún puede cambiar? Necesito saberlo para acordar con mi vecina cuándo tendría que abrirle, sin pedirle que espere toda la tarde.",
+    "cloze": "orientativa",
+    "answer": "orientativa",
+    "lemma": "orientativo",
+    "meaning": "approximate",
+    "audio": "work/audio/es-MX/05/es-05-2066.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2067",
+    "sentence": "Usted explica que prolongar la estancia es una decisión discrecional de la encargada; entonces, prefiero esperar su respuesta antes de cancelar el alojamiento alternativo. No quiero organizar la noche como si la extensión ya estuviera aprobada.",
+    "cloze": "discrecional",
+    "answer": "discrecional",
+    "lemma": "discrecional",
+    "meaning": "discretionary",
+    "audio": "work/audio/es-MX/05/es-05-2067.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2068",
+    "sentence": "Aclaremos el desencuentro antes de anotarlo como una ausencia mía: yo esperé en la entrada principal y el conductor, en la del estacionamiento, ambos a la hora acordada. Para volver a intentarlo, propongo usar una referencia que los dos reconozcamos.",
+    "cloze": "desencuentro",
+    "answer": "desencuentro",
+    "lemma": "desencuentro",
+    "meaning": "missed rendezvous",
+    "audio": "work/audio/es-MX/05/es-05-2068.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2069",
+    "sentence": "No quisiera desairar al encargado que consiguió otro cuarto para mí, pero se llega por la misma escalera que no puedo subir con el carrito. Agradezco la gestión y prefiero seguir buscando una opción en planta baja.",
+    "cloze": "desairar",
+    "answer": "desairar",
+    "lemma": "desairar",
+    "meaning": "snub",
+    "audio": "work/audio/es-MX/05/es-05-2069.mp3",
+    "accepted_answers": []
   }
 ]
