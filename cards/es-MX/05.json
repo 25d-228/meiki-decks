@@ -15610,5 +15610,405 @@
     "meaning": "is added",
     "audio": "work/audio/es-MX/05/es-05-1556.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1557",
+    "sentence": "En la junta del equipo, la coordinadora anuncia: «Si nadie más quiere hablar, pasamos al siguiente tema». Eva responde: «Llevo un rato con la mano levantada; ¿podrías abrirme un espacio antes de cambiar de tema? Mi pregunta es sobre la propuesta que acabamos de escuchar».",
+    "cloze": "abrirme un espacio",
+    "answer": "abrirme un espacio",
+    "lemma": "abrir un espacio",
+    "meaning": "make room for me to speak",
+    "audio": "work/audio/es-MX/05/es-05-1557.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1558",
+    "sentence": "—¿Cuántas personas contestaron, Luis? Solo necesito ese dato para seguir con mi explicación. —Fueron doce, Ana; con eso te devuelvo la palabra para que nos expliques qué respondieron.",
+    "cloze": "te devuelvo",
+    "answer": "te devuelvo",
+    "lemma": "devolver",
+    "meaning": "I give back to you",
+    "audio": "work/audio/es-MX/05/es-05-1558.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1559",
+    "sentence": "En el comité, Pablo empieza: «Ese horario dejaría fuera a quienes trabajan, salvo que…». Su compañera dice: «Iba a objetar lo del horario, pero me contengo hasta escuchar esa excepción; adelante, Pablo».",
+    "cloze": "me contengo",
+    "answer": "me contengo",
+    "lemma": "contenerse",
+    "meaning": "I hold myself back",
+    "audio": "work/audio/es-MX/05/es-05-1559.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1560",
+    "sentence": "—Si juntamos las dos sesiones, quienes vienen de lejos… —Perdón, compañera, ¿ya podemos votar? —Antes quisiera redondear mi idea: esas personas viajarían una sola vez, pero pasarían más horas aquí. Eso era lo que me faltaba explicar.",
+    "cloze": "redondear",
+    "answer": "redondear",
+    "lemma": "redondear",
+    "meaning": "round off",
+    "audio": "work/audio/es-MX/05/es-05-1560.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1561",
+    "sentence": "Durante una reunión híbrida, Julia escribe que quiere hablar, pero la conversación sigue en la sala. Un compañero avisa: «En el chat, Julia está pidiendo la palabra; ¿podemos darle entrada antes de escuchar otra pregunta de aquí?».",
+    "cloze": "darle entrada",
+    "answer": "darle entrada",
+    "lemma": "dar entrada",
+    "meaning": "bring her into the discussion",
+    "audio": "work/audio/es-MX/05/es-05-1561.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1562",
+    "sentence": "En una presentación conjunta, Marta dice: «Se me está acabando la voz; ya expliqué cómo reunimos las fotos. Diego, ¿puedes seguir con la selección?». Él contesta: «Sí, puedo tomar el relevo desde esa parte: elegimos las imágenes con fecha conocida».",
+    "cloze": "tomar el relevo",
+    "answer": "tomar el relevo",
+    "lemma": "tomar el relevo",
+    "meaning": "take over",
+    "audio": "work/audio/es-MX/05/es-05-1562.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1563",
+    "sentence": "—Compañeros, voy a leer las instrucciones; pueden preguntar si algo no se entiende. La primera revisión será conjunta… —¿Me permites hacer un inciso sobre «conjunta» antes de que sigas leyendo? ¿Revisamos contigo o entre nosotros?",
+    "cloze": "hacer un inciso",
+    "answer": "hacer un inciso",
+    "lemma": "hacer un inciso",
+    "meaning": "make a brief aside",
+    "audio": "work/audio/es-MX/05/es-05-1563.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1564",
+    "sentence": "—Nora, ¿cómo elegiste las fotos de tu exposición? —Yo podría contarles cómo trabajamos en el taller —dice su compañero. La entrevistadora interviene: «Gracias; esa pregunta te corresponde a ti, Nora, porque se refiere a tu elección».",
+    "cloze": "te corresponde",
+    "answer": "te corresponde",
+    "lemma": "corresponder",
+    "meaning": "it falls to you",
+    "audio": "work/audio/es-MX/05/es-05-1564.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1565",
+    "sentence": "En la videollamada del equipo, Ana explica: «La segunda opción serviría si…». Su conexión falla y, cuando vuelve, están comentando la primera. Ana pregunta: «¿Me permiten recobrar la palabra para explicar la condición que no alcanzaron a oír?».",
+    "cloze": "recobrar",
+    "answer": "recobrar",
+    "lemma": "recobrar",
+    "meaning": "regain",
+    "audio": "work/audio/es-MX/05/es-05-1565.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1566",
+    "sentence": "Al comenzar la entrevista grupal, el conductor dice: «Las preguntas del equipo vienen al final». Una integrante responde: «Tengo que salir antes por una cita que ya les había comentado; ¿podría anticiparme con una pregunta sobre su experiencia en el taller?».",
+    "cloze": "anticiparme",
+    "answer": "anticiparme",
+    "lemma": "anticiparse",
+    "meaning": "speak earlier than scheduled",
+    "audio": "work/audio/es-MX/05/es-05-1566.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1567",
+    "sentence": "—Con el retraso de la llamada, empezamos a hablar al mismo tiempo otra vez. —Sí, compañero; para que no se encimen nuestras intervenciones, termina tu pregunta y luego contesto. Después vemos la mía.",
+    "cloze": "se encimen",
+    "answer": "se encimen",
+    "lemma": "encimarse",
+    "meaning": "overlap",
+    "audio": "work/audio/es-MX/05/es-05-1567.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1568",
+    "sentence": "—Lucía, seguías tú con una pregunta sobre la entrega. —Con la respuesta que acaba de dar Raúl, ya no necesito intervenir: táchame de la lista, por favor. Ya explicó dónde y cuándo entregamos.",
+    "cloze": "táchame",
+    "answer": "táchame",
+    "lemma": "tachar",
+    "meaning": "remove me from the list",
+    "audio": "work/audio/es-MX/05/es-05-1568.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1569",
+    "sentence": "—¿Por qué cambiaste de grupo y cómo te fue después? —Cambié porque el horario coincidía con mi trabajo. —Gracias; pasemos a otro compañero. —Perdón, todavía me queda responder la segunda parte: en el nuevo grupo pude asistir a todas las sesiones.",
+    "cloze": "me queda",
+    "answer": "me queda",
+    "lemma": "quedar",
+    "meaning": "I still have left",
+    "audio": "work/audio/es-MX/05/es-05-1569.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1570",
+    "sentence": "Antes de contar un caso en el taller, Leo le dice a su compañera: «Si empiezo a decir nombres, avísame; prometí contar esto sin identificar a nadie». Luego comienza: «La persona que se quejó fue…». Ella interviene: «Aquí te freno, como me pediste; puedes seguir con lo que pasó sin decir quién fue».",
+    "cloze": "te freno",
+    "answer": "te freno",
+    "lemma": "frenar",
+    "meaning": "I stop you briefly",
+    "audio": "work/audio/es-MX/05/es-05-1570.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1571",
+    "sentence": "En una entrevista a dos compañeros, Elena empieza a contestar por Iván. Él dice: «Esa parte prefiero contarla yo; la viví de otra manera». Elena responde: «Claro, me aparto para que la cuentes tú; adelante, Iván».",
+    "cloze": "me aparto",
+    "answer": "me aparto",
+    "lemma": "apartarse",
+    "meaning": "I step aside",
+    "audio": "work/audio/es-MX/05/es-05-1571.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1572",
+    "sentence": "—Puedes aclarar la fecha, Sara, pero todavía me falta explicar por qué cambiamos el plan. —Sí, me limito a esa aclaración: la reunión fue el martes. Adelante con la razón del cambio.",
+    "cloze": "me limito",
+    "answer": "me limito",
+    "lemma": "limitarse",
+    "meaning": "I limit myself",
+    "audio": "work/audio/es-MX/05/es-05-1572.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1573",
+    "sentence": "En la reunión de vecinos, dos compañeros empiezan juntos y luego ambos dicen: «Tú primero». Tras otra pausa, uno propone: «Para salir de esto, sugiero que nos alternemos: tú explicas tu opción, yo la mía y después hacemos preguntas».",
+    "cloze": "nos alternemos",
+    "answer": "nos alternemos",
+    "lemma": "alternarse",
+    "meaning": "we take turns",
+    "audio": "work/audio/es-MX/05/es-05-1573.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1574",
+    "sentence": "—Antes de seguir con mi propuesta, ¿en qué salón sería la actividad? —En el de abajo; ya quedó libre. —Gracias, compañeros. Podemos cerrar el paréntesis del salón y seguir con la propuesta: me faltaba explicar cómo participarían los nuevos.",
+    "cloze": "cerrar el paréntesis",
+    "answer": "cerrar el paréntesis",
+    "lemma": "cerrar el paréntesis",
+    "meaning": "close the aside",
+    "audio": "work/audio/es-MX/05/es-05-1574.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1575",
+    "sentence": "En el grupo de lectura, Ana empieza: «Al principio el personaje me parecía distante, pero después…». Luis añade: «Ayuda a su vecino a cargar las cajas sin que se lo pida». Ana responde: «Ese pasaje sirve para lo que iba a decir; ¿me dejan hilvanar mi idea con el ejemplo de Luis? Su ayuda espontánea al vecino me hizo cambiar de impresión».",
+    "cloze": "hilvanar",
+    "answer": "hilvanar",
+    "lemma": "hilvanar",
+    "meaning": "connect coherently",
+    "audio": "work/audio/es-MX/05/es-05-1575.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1576",
+    "sentence": "Mientras explica el reparto de tareas, la coordinadora ve una mano levantada y pregunta: «¿La duda es sobre lo que acabo de decir?». Su compañero responde que sí. Ella dice: «Entonces me detengo aquí para escucharla; todavía no paso a las fechas».",
+    "cloze": "me detengo",
+    "answer": "me detengo",
+    "lemma": "detenerse",
+    "meaning": "I pause",
+    "audio": "work/audio/es-MX/05/es-05-1576.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1577",
+    "sentence": "—Perdón por salir a atender la llamada; ya regresé. ¿En qué van? —Marta está explicando su propuesta; después seguimos con los comentarios. —Gracias. Cuando termine Marta, quisiera reincorporarme a la discusión con una pregunta sobre esa propuesta.",
+    "cloze": "reincorporarme",
+    "answer": "reincorporarme",
+    "lemma": "reincorporarse",
+    "meaning": "rejoin the discussion",
+    "audio": "work/audio/es-MX/05/es-05-1577.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1578",
+    "sentence": "—Nos dieron un solo turno para presentar nuestro trabajo, compañero. ¿Lo explicas tú? —Yo puedo contar cómo lo hicimos, pero tú reuniste los comentarios del grupo. Propongo que repartamos el turno entre los dos: primero explico el proceso y después tú cuentas qué les pareció.",
+    "cloze": "repartamos",
+    "answer": "repartamos",
+    "lemma": "repartir",
+    "meaning": "we split",
+    "audio": "work/audio/es-MX/05/es-05-1578.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1579",
+    "sentence": "Ana propone reunirse los sábados y Marta pide hablar. La moderadora le dice: «Ahora sigue Omar; después puedes hacer tu comentario». Marta responde: «Mi comentario es sobre quienes trabajan ese día, pero lo aplazo hasta que Omar haya hablado. No quiero que se pierda el turno que ya le dieron».",
+    "cloze": "lo aplazo",
+    "answer": "lo aplazo",
+    "lemma": "aplazar",
+    "meaning": "I postpone it",
+    "audio": "work/audio/es-MX/05/es-05-1579.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1580",
+    "sentence": "—Como dijiste que fuera breve, solo diré que nos costó organizarnos. —En esta entrevista sí me interesa cómo resolvieron eso. Prefiero que te explayes en esa parte; podemos quitar una pregunta del final para darte tiempo.",
+    "cloze": "te explayes",
+    "answer": "te explayes",
+    "lemma": "explayarse",
+    "meaning": "you elaborate",
+    "audio": "work/audio/es-MX/05/es-05-1580.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1581",
+    "sentence": "—Compañeros, necesito buscar la cita en mis notas; ¿habla alguien más mientras tanto? —Si solo necesitas un momento, prefiero que mantengas el turno. La cita completa la explicación que estabas dando y podemos esperar.",
+    "cloze": "mantengas",
+    "answer": "mantengas",
+    "lemma": "mantener",
+    "meaning": "you keep",
+    "audio": "work/audio/es-MX/05/es-05-1581.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1582",
+    "sentence": "—Sigue tu turno, Andrés, para explicar cómo eligieron las fotos. —Rosa hizo esa selección. Si ella quiere y a la moderadora le parece bien, te lo paso, Rosa, para que lo cuentes tú. —Sí, puedo explicarlo —responde Rosa.",
+    "cloze": "te lo paso",
+    "answer": "te lo paso",
+    "lemma": "pasar",
+    "meaning": "I pass it to you",
+    "audio": "work/audio/es-MX/05/es-05-1582.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1583",
+    "sentence": "En la junta, una compañera pregunta por los costos mientras Tomás explica por qué propone cambiar de sede. Él responde: «Sí voy a contestar lo de los costos; mi argumento sobre la sede todavía está incompleto y quisiera cerrarlo antes: en la actual no cabe todo el grupo».",
+    "cloze": "cerrarlo",
+    "answer": "cerrarlo",
+    "lemma": "cerrar",
+    "meaning": "finish it",
+    "audio": "work/audio/es-MX/05/es-05-1583.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1584",
+    "sentence": "—Mi propuesta termina ahí, compañeros. Si alguien quiere comentar este punto antes de pasar al siguiente, adelante. —Entonces me engancho a lo que acabas de decir sobre la entrada: ¿también podrían participar quienes lleguen después del inicio?",
+    "cloze": "me engancho",
+    "answer": "me engancho",
+    "lemma": "engancharse",
+    "meaning": "I pick up the thread",
+    "audio": "work/audio/es-MX/05/es-05-1584.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1585",
+    "sentence": "En la ronda del equipo, la coordinadora le ofrece a José comentar primero una actividad a la que no asistió. Él responde: «Gracias, pero declino la invitación a hablar en esta ronda; prefiero escuchar a quienes estuvieron antes de hacerles preguntas».",
+    "cloze": "declino",
+    "answer": "declino",
+    "lemma": "declinar",
+    "meaning": "I decline",
+    "audio": "work/audio/es-MX/05/es-05-1585.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1586",
+    "sentence": "—¿Puedo comentar lo que dijo Eva? —Ahora no, compañero; está hablando Luis. —De acuerdo; ¿me guardas un turno después de Luis? Mi comentario es sobre el acceso a la sede que propuso Eva y no quiero perder la oportunidad de plantearlo.",
+    "cloze": "me guardas",
+    "answer": "me guardas",
+    "lemma": "guardar",
+    "meaning": "you save for me",
+    "audio": "work/audio/es-MX/05/es-05-1586.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1587",
+    "sentence": "En la charla del equipo, la moderadora anuncia el fin de las preguntas y una compañera avisa: «Quedó una mano levantada desde antes». La moderadora responde: «Entonces propongo que prolonguemos el turno de preguntas para escuchar esa que falta, si todos pueden quedarse un momento».",
+    "cloze": "prolonguemos",
+    "answer": "prolonguemos",
+    "lemma": "prolongar",
+    "meaning": "we extend",
+    "audio": "work/audio/es-MX/05/es-05-1587.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1588",
+    "sentence": "—Lo que propongo para el taller es que… —Que trabajemos solos, ¿verdad, compañero? —No te adelantes, por favor; todavía no digo la propuesta. Quiero que trabajemos en parejas y comparemos los resultados después.",
+    "cloze": "te adelantes",
+    "answer": "te adelantes",
+    "lemma": "adelantarse",
+    "meaning": "you jump ahead",
+    "audio": "work/audio/es-MX/05/es-05-1588.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1589",
+    "sentence": "—Mi punto es que debemos revisar los nombres antes de imprimir la lista; iba a contar lo que pasó la última vez… —¿Cuando aparecieron dos veces los mismos nombres? —Sí, compañera, justo ese caso. Entonces prescindo del ejemplo y termino aquí mi comentario; ya mencionaste el caso que iba a contar.",
+    "cloze": "prescindo",
+    "answer": "prescindo",
+    "lemma": "prescindir",
+    "meaning": "I dispense with",
+    "audio": "work/audio/es-MX/05/es-05-1589.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1590",
+    "sentence": "En la junta, Inés le dice al moderador: «Me habías anotado después de Raúl, pero pasaste a otra persona». Él responde: «Tienes razón, te reintegro a la lista; en cuanto termine quien está hablando, sigues tú con tu comentario».",
+    "cloze": "te reintegro",
+    "answer": "te reintegro",
+    "lemma": "reintegrar",
+    "meaning": "I put you back",
+    "audio": "work/audio/es-MX/05/es-05-1590.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1591",
+    "sentence": "—Todavía podemos darte otro minuto para tu respuesta. —Gracias, pero no necesito extenderme; ya expliqué las dos razones que me preguntaron y hay compañeros esperando. Mi respuesta termina aquí.",
+    "cloze": "extenderme",
+    "answer": "extenderme",
+    "lemma": "extenderse",
+    "meaning": "speak at greater length",
+    "audio": "work/audio/es-MX/05/es-05-1591.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1592",
+    "sentence": "En la mesa del taller, la moderadora avisa: «Quedan dos preguntas del público y tenemos poco tiempo». La ponente responde: «Entonces abrevio mi cierre para que alcancen a hacerlas: lo principal es probar el ejercicio con un grupo pequeño».",
+    "cloze": "abrevio",
+    "answer": "abrevio",
+    "lemma": "abreviar",
+    "meaning": "I shorten my remarks",
+    "audio": "work/audio/es-MX/05/es-05-1592.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1593",
+    "sentence": "En una presentación conjunta, Luis pregunta: «¿Explico ya cómo corregimos el problema?». Su compañera responde: «Espera a que te dé pie, por favor; todavía estoy mostrando qué fallaba. Cuando llegue a la corrección, digo tu nombre».",
+    "cloze": "te dé pie",
+    "answer": "te dé pie",
+    "lemma": "dar pie",
+    "meaning": "I cue you to speak",
+    "audio": "work/audio/es-MX/05/es-05-1593.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1594",
+    "sentence": "—Tengo tres preguntas sobre distintas partes de tu explicación, compañero; ¿te las digo juntas? —Propongo que intercalemos las preguntas con mis respuestas: hazme una, la contesto y luego pasamos a la siguiente. Así no dejo ninguna sin responder.",
+    "cloze": "intercalemos",
+    "answer": "intercalemos",
+    "lemma": "intercalar",
+    "meaning": "we interleave",
+    "audio": "work/audio/es-MX/05/es-05-1594.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1595",
+    "sentence": "En el taller, suena el aviso de tiempo justo cuando Ana empieza a explicar qué aprendió. El coordinador dice: «No quiero que te quedes a medias; si al grupo le parece, termina esa idea en una frase antes de escuchar al siguiente compañero».",
+    "cloze": "te quedes a medias",
+    "answer": "te quedes a medias",
+    "lemma": "quedarse a medias",
+    "meaning": "you leave your point unfinished",
+    "audio": "work/audio/es-MX/05/es-05-1595.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1596",
+    "sentence": "—Ya aclaraste tu objeción sobre la falta de tiempo, compañero. ¿Quieres responder también a los ejemplos nuevos? —No por ahora; doy por cerrada mi intervención sobre la objeción para que puedan contestarla. Después veré si necesito comentar esos ejemplos.",
+    "cloze": "doy por cerrada",
+    "answer": "doy por cerrada",
+    "lemma": "dar por cerrado",
+    "meaning": "I bring to a close",
+    "audio": "work/audio/es-MX/05/es-05-1596.mp3",
+    "accepted_answers": []
   }
 ]
