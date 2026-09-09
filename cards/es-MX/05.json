@@ -14440,5 +14440,405 @@
     "meaning": "turn up uninvited",
     "audio": "work/audio/es-MX/05/es-05-1439.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1440",
+    "sentence": "Puedes contarme lo que pasó con tu hermana; lo que me digas queda entre nosotros, aunque mañana cenemos los tres juntos.",
+    "cloze": "queda entre nosotros",
+    "answer": "queda entre nosotros",
+    "lemma": "quedar entre nosotros",
+    "meaning": "stays between us",
+    "audio": "work/audio/es-MX/05/es-05-1440.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1441",
+    "sentence": "La lectura me supo a poco. ¿La autora anunció otra presentación? Me gustaría escucharla otra vez, aunque repita algunos cuentos.",
+    "cloze": "me supo a poco",
+    "answer": "me supo a poco",
+    "lemma": "saber a poco",
+    "meaning": "left me wanting more",
+    "audio": "work/audio/es-MX/05/es-05-1441.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1442",
+    "sentence": "En las reuniones, la coordinadora predica con el ejemplo: se impone el mismo límite de tiempo que nos pide respetar, incluso cuando presenta su propio proyecto.",
+    "cloze": "predica con el ejemplo",
+    "answer": "predica con el ejemplo",
+    "lemma": "predicar con el ejemplo",
+    "meaning": "leads by example",
+    "audio": "work/audio/es-MX/05/es-05-1442.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1443",
+    "sentence": "Contigo puedo bajar la guardia y admitir que una clase me salió mal; nunca conviertes mis dudas en una competencia para ver quién sabe más.",
+    "cloze": "bajar la guardia",
+    "answer": "bajar la guardia",
+    "lemma": "bajar la guardia",
+    "meaning": "let one's guard down",
+    "audio": "work/audio/es-MX/05/es-05-1443.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1444",
+    "sentence": "Antes de ofrecer ese acabado en una hora, mira la demostración completa: la rapidez tiene truco, porque varias piezas ya estaban preparadas.",
+    "cloze": "tiene truco",
+    "answer": "tiene truco",
+    "lemma": "tener truco",
+    "meaning": "has a trick behind it",
+    "audio": "work/audio/es-MX/05/es-05-1444.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1445",
+    "sentence": "No quiero seguir decidiendo por el grupo solo porque lo fundé. Ahora me toca hacerme a un lado para que la nueva coordinadora pueda proponer su propia forma de trabajar.",
+    "cloze": "hacerme a un lado",
+    "answer": "hacerme a un lado",
+    "lemma": "hacerse a un lado",
+    "meaning": "step aside",
+    "audio": "work/audio/es-MX/05/es-05-1445.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1446",
+    "sentence": "Me gustaría agradecer también a quienes trabajaron sin hacer ruido, como las compañeras que revisaron todos los nombres y nunca pidieron aparecer en la foto del equipo.",
+    "cloze": "sin hacer ruido",
+    "answer": "sin hacer ruido",
+    "lemma": "sin hacer ruido",
+    "meaning": "quietly, without seeking attention",
+    "audio": "work/audio/es-MX/05/es-05-1446.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1447",
+    "sentence": "No tratemos este reparto de tareas como si estuviera escrito en piedra. Vamos a probarlo durante un mes y después podremos cambiar lo que no funcione.",
+    "cloze": "escrito en piedra",
+    "answer": "escrito en piedra",
+    "lemma": "escrito en piedra",
+    "meaning": "set in stone",
+    "audio": "work/audio/es-MX/05/es-05-1447.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1448",
+    "sentence": "Todos elogiaron la precisión de los músicos, y yo también la noté, pero el concierto me dejó frío. Aplaudí por respeto al trabajo.",
+    "cloze": "me dejó frío",
+    "answer": "me dejó frío",
+    "lemma": "dejar frío",
+    "meaning": "left me unmoved",
+    "audio": "work/audio/es-MX/05/es-05-1448.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1449",
+    "sentence": "No tienes que invitarme a cenar cada vez que te llevo a casa. Entre amigos no quiero llevar la cuenta de cada favor.",
+    "cloze": "llevar la cuenta",
+    "answer": "llevar la cuenta",
+    "lemma": "llevar la cuenta",
+    "meaning": "keep score",
+    "audio": "work/audio/es-MX/05/es-05-1449.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1450",
+    "sentence": "Haber aceptado todos los encargos nos pasa factura ahora: estamos tan cansados que incluso las tareas sencillas requieren más tiempo del habitual.",
+    "cloze": "nos pasa factura",
+    "answer": "nos pasa factura",
+    "lemma": "pasar factura",
+    "meaning": "is taking its toll on us",
+    "audio": "work/audio/es-MX/05/es-05-1450.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1451",
+    "sentence": "Me alegra que la maestra se vaya por la puerta grande, con el agradecimiento de sus alumnos, después de elegir ella misma cuándo jubilarse.",
+    "cloze": "por la puerta grande",
+    "answer": "por la puerta grande",
+    "lemma": "por la puerta grande",
+    "meaning": "with honor and recognition",
+    "audio": "work/audio/es-MX/05/es-05-1451.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1452",
+    "sentence": "Soy nuevo en el taller, pero no necesito que me traten entre algodones; pueden decirme con claridad qué partes de mi texto no funcionan.",
+    "cloze": "entre algodones",
+    "answer": "entre algodones",
+    "lemma": "entre algodones",
+    "meaning": "with excessive protectiveness",
+    "audio": "work/audio/es-MX/05/es-05-1452.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1453",
+    "sentence": "No esperaba que me propusieras vivir en casas separadas. Prefiero dejar reposar la idea antes de darte una respuesta definitiva.",
+    "cloze": "dejar reposar",
+    "answer": "dejar reposar",
+    "lemma": "dejar reposar",
+    "meaning": "let settle before judging",
+    "audio": "work/audio/es-MX/05/es-05-1453.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1454",
+    "sentence": "El cuento me tocó una fibra sensible cuando el padre empezó a aprender a leer con su hija; recordé las tardes en que yo ayudaba a mi mamá con sus cuadernos.",
+    "cloze": "me tocó una fibra sensible",
+    "answer": "me tocó una fibra sensible",
+    "lemma": "tocar una fibra sensible",
+    "meaning": "struck an emotional chord with me",
+    "audio": "work/audio/es-MX/05/es-05-1454.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1455",
+    "sentence": "Llevamos toda la comida discutiendo sobre la mudanza. ¿Podemos darnos una tregua y acompañar a tu papá a caminar sin seguir intentando convencernos?",
+    "cloze": "darnos una tregua",
+    "answer": "darnos una tregua",
+    "lemma": "darse una tregua",
+    "meaning": "give each other a break from the conflict",
+    "audio": "work/audio/es-MX/05/es-05-1455.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1456",
+    "sentence": "Después de meses sin hablarnos, mandarle una foto de nuestro antiguo grupo puede tender un puente. No le voy a pedir que me conteste.",
+    "cloze": "tender un puente",
+    "answer": "tender un puente",
+    "lemma": "tender un puente",
+    "meaning": "open a path to renewed communication",
+    "audio": "work/audio/es-MX/05/es-05-1456.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1457",
+    "sentence": "La novela deja huella por la manera en que retrata a dos hermanos distanciados; semanas después de terminarla, todavía pienso en lo que no pudieron decirse.",
+    "cloze": "deja huella",
+    "answer": "deja huella",
+    "lemma": "dejar huella",
+    "meaning": "leaves a lasting impression",
+    "audio": "work/audio/es-MX/05/es-05-1457.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1458",
+    "sentence": "Tú hablas de diseño y yo de atención al público, pero hablamos el mismo idioma cuando insistimos en que una persona nueva pueda orientarse sin ayuda.",
+    "cloze": "hablamos el mismo idioma",
+    "answer": "hablamos el mismo idioma",
+    "lemma": "hablar el mismo idioma",
+    "meaning": "we are on the same wavelength",
+    "audio": "work/audio/es-MX/05/es-05-1458.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1459",
+    "sentence": "A mis amigos les cansa discutir durante horas cómo funciona un juego; yo me siento en mi elemento cuando tenemos que probar reglas y detectar dónde se contradicen.",
+    "cloze": "me siento en mi elemento",
+    "answer": "me siento en mi elemento",
+    "lemma": "sentirse en su elemento",
+    "meaning": "I feel in my element",
+    "audio": "work/audio/es-MX/05/es-05-1459.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1460",
+    "sentence": "Puedo organizar una actividad, pero dirigir todo el centro todavía me queda grande. Aceptaría empezar como asistente para aprender cómo se coordinan las demás áreas.",
+    "cloze": "me queda grande",
+    "answer": "me queda grande",
+    "lemma": "quedar grande",
+    "meaning": "is beyond my current capabilities",
+    "audio": "work/audio/es-MX/05/es-05-1460.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1461",
+    "sentence": "Quiero que negociemos con las cartas sobre la mesa: me interesa el horario de la mañana porque también doy clases por la tarde, no porque ese turno tenga menos trabajo.",
+    "cloze": "con las cartas sobre la mesa",
+    "answer": "con las cartas sobre la mesa",
+    "lemma": "con las cartas sobre la mesa",
+    "meaning": "with relevant interests openly disclosed",
+    "audio": "work/audio/es-MX/05/es-05-1461.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1462",
+    "sentence": "Antes de anunciar una gira por diez ciudades, necesitamos poner los pies en la tierra: somos dos personas y apenas contamos con dinero para el primer traslado.",
+    "cloze": "poner los pies en la tierra",
+    "answer": "poner los pies en la tierra",
+    "lemma": "poner los pies en la tierra",
+    "meaning": "get realistic",
+    "audio": "work/audio/es-MX/05/es-05-1462.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1463",
+    "sentence": "Que me preguntaras antes de publicar la foto se agradece; pude elegir una en la que también me sintiera a gusto, sin tener que pedirte después que la quitaras.",
+    "cloze": "se agradece",
+    "answer": "se agradece",
+    "lemma": "agradecer",
+    "meaning": "is appreciated",
+    "audio": "work/audio/es-MX/05/es-05-1463.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1464",
+    "sentence": "Me gusta pasar las vacaciones contigo, pero comprar una casa juntos son palabras mayores; necesito saber cómo imaginamos la convivencia diaria.",
+    "cloze": "palabras mayores",
+    "answer": "palabras mayores",
+    "lemma": "palabras mayores",
+    "meaning": "a much more serious matter",
+    "audio": "work/audio/es-MX/05/es-05-1464.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1465",
+    "sentence": "Estoy contenta con mi trabajo, aunque me quedó la espinita de cantar en un coro. Ahora que vi la convocatoria, quiero averiguar si aceptan principiantes.",
+    "cloze": "me quedó la espinita",
+    "answer": "me quedó la espinita",
+    "lemma": "quedarle la espinita",
+    "meaning": "I was left with a lingering unfulfilled wish",
+    "audio": "work/audio/es-MX/05/es-05-1465.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1466",
+    "sentence": "La llegada de una compañera de apoyo nos da un respiro durante las inscripciones, aunque en septiembre volveremos a atender con el equipo de siempre.",
+    "cloze": "nos da un respiro",
+    "answer": "nos da un respiro",
+    "lemma": "dar un respiro",
+    "meaning": "gives us some breathing room",
+    "audio": "work/audio/es-MX/05/es-05-1466.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1467",
+    "sentence": "En el agradecimiento voy a mencionar a Inés: yo conseguí el salón, pero ella reunió a los participantes. No me corresponde colgarme la medalla por todo el encuentro.",
+    "cloze": "colgarme la medalla",
+    "answer": "colgarme la medalla",
+    "lemma": "colgarse la medalla",
+    "meaning": "claim the credit for myself",
+    "audio": "work/audio/es-MX/05/es-05-1467.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1468",
+    "sentence": "Sigan señalando las dificultades del recorrido. Sus comentarios no caen en saco roto: la entrada ya tiene la rampa que solicitaron y estamos revisando la señalización.",
+    "cloze": "caen en saco roto",
+    "answer": "caen en saco roto",
+    "lemma": "caer en saco roto",
+    "meaning": "go unheeded",
+    "audio": "work/audio/es-MX/05/es-05-1468.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1469",
+    "sentence": "Si ustedes quieren que vuelva a cantar al final de la comida, no voy a hacerme del rogar; también yo disfruté mucho la primera canción.",
+    "cloze": "hacerme del rogar",
+    "answer": "hacerme del rogar",
+    "lemma": "hacerse del rogar",
+    "meaning": "make people insist before I accept",
+    "audio": "work/audio/es-MX/05/es-05-1469.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1470",
+    "sentence": "Llevo años reuniéndome con el mismo grupo y me gustaría cambiar de aire. Voy a probar un club de lectura distinto, aunque seguiré viendo a mis amigos.",
+    "cloze": "cambiar de aire",
+    "answer": "cambiar de aire",
+    "lemma": "cambiar de aire",
+    "meaning": "have a change of scene",
+    "audio": "work/audio/es-MX/05/es-05-1470.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1471",
+    "sentence": "Nadie conoce a nadie todavía; para romper el hielo, podemos empezar contando quién nos recomendó este taller, sin entrar en asuntos personales.",
+    "cloze": "romper el hielo",
+    "answer": "romper el hielo",
+    "lemma": "romper el hielo",
+    "meaning": "break the ice",
+    "audio": "work/audio/es-MX/05/es-05-1471.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1472",
+    "sentence": "Si cancelan el festival, ninguno de los dos grupos podrá presentar su obra; estamos en el mismo barco, así que prefiero que revisemos juntos las dificultades.",
+    "cloze": "estamos en el mismo barco",
+    "answer": "estamos en el mismo barco",
+    "lemma": "estar en el mismo barco",
+    "meaning": "we are in the same boat",
+    "audio": "work/audio/es-MX/05/es-05-1472.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1473",
+    "sentence": "Desde que vi la paciencia con que Julia enseñó a mi hermano, empecé a verla con otros ojos; antes solo la conocía como la vecina que se quejaba del ruido.",
+    "cloze": "verla con otros ojos",
+    "answer": "verla con otros ojos",
+    "lemma": "ver con otros ojos",
+    "meaning": "see her in a new light",
+    "audio": "work/audio/es-MX/05/es-05-1473.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1474",
+    "sentence": "La audición es abierta y no tengo que preparar nada especial; no pierdo nada con presentarme, aunque no sé si mi voz les va a gustar.",
+    "cloze": "no pierdo nada",
+    "answer": "no pierdo nada",
+    "lemma": "no perder nada",
+    "meaning": "I have nothing to lose",
+    "audio": "work/audio/es-MX/05/es-05-1474.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1475",
+    "sentence": "Antes de llamar poco colaboradora a la vecina que nunca viene a las juntas, intento ponerme en sus zapatos: sale de trabajar a la hora en que nosotros ya estamos terminando.",
+    "cloze": "ponerme en sus zapatos",
+    "answer": "ponerme en sus zapatos",
+    "lemma": "ponerse en los zapatos de alguien",
+    "meaning": "put myself in her shoes",
+    "audio": "work/audio/es-MX/05/es-05-1475.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1476",
+    "sentence": "Gracias por decirme que mi comentario no causó tu salida del grupo; saber que ya habías decidido irte me quita un peso de encima.",
+    "cloze": "me quita un peso de encima",
+    "answer": "me quita un peso de encima",
+    "lemma": "quitar un peso de encima",
+    "meaning": "takes a weight off my mind",
+    "audio": "work/audio/es-MX/05/es-05-1476.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1477",
+    "sentence": "Ya comparaste los dos horarios del taller y ambos te sirven. Seguir dándole vueltas solo está retrasando una elección que puedes cambiar después.",
+    "cloze": "dándole vueltas",
+    "answer": "dándole vueltas",
+    "lemma": "darle vueltas",
+    "meaning": "going over it again and again",
+    "audio": "work/audio/es-MX/05/es-05-1477.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1478",
+    "sentence": "—Solo dos vecinos se ofrecieron para cuidar el jardín; esperaba reunir a todo el edificio. —Bueno, por algo se empieza; con ellos podemos organizar la primera jornada.",
+    "cloze": "por algo se empieza",
+    "answer": "por algo se empieza",
+    "lemma": "por algo se empieza",
+    "meaning": "you have to start somewhere",
+    "audio": "work/audio/es-MX/05/es-05-1478.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1479",
+    "sentence": "A partir del próximo curso, cada familia recibirá los avisos en el mismo sistema. La libreta que los niños llevan de casa a la escuela tiene los días contados, y quiero guardar la de mi hija como recuerdo.",
+    "cloze": "tiene los días contados",
+    "answer": "tiene los días contados",
+    "lemma": "tener los días contados",
+    "meaning": "its days are numbered",
+    "audio": "work/audio/es-MX/05/es-05-1479.mp3",
+    "accepted_answers": []
   }
 ]
