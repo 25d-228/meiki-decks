@@ -481,11 +481,11 @@
   },
   {
     "id": "es-05-0049",
-    "sentence": "Justo a la mitad de la canción se cortó el sonido de las bocinas; el coro completó la estrofa sin acompañamiento.",
-    "cloze": "se cortó",
-    "answer": "se cortó",
-    "lemma": "cortarse",
-    "meaning": "cut out",
+    "sentence": "Justo a la mitad de la canción se cortó el sonido de las bocinas; el coro se sobrepuso al fallo y completó la estrofa sin acompañamiento.",
+    "cloze": "se sobrepuso",
+    "answer": "se sobrepuso",
+    "lemma": "sobreponerse",
+    "meaning": "bounced back",
     "audio": "work/audio/es-MX/05/es-05-0049.mp3",
     "accepted_answers": []
   },
