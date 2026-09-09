@@ -19560,5 +19560,405 @@
     "meaning": "value as a firsthand account",
     "audio": "work/audio/es-MX/05/es-05-1951.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1952",
+    "sentence": "En mi cuenta, el contenido de la carpeta no se despliega; puedo ver su nombre, pero todavía no sé si los archivos siguen ahí.",
+    "cloze": "se despliega",
+    "answer": "se despliega",
+    "lemma": "desplegarse",
+    "meaning": "is displayed",
+    "audio": "work/audio/es-MX/05/es-05-1952.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1953",
+    "sentence": "Al compartir la pantalla durante la junta, una conversación personal quedó a la vista de mis compañeros; mostré la ventana equivocada y todavía no sé cuánto alcanzaron a leer.",
+    "cloze": "quedó a la vista",
+    "answer": "quedó a la vista",
+    "lemma": "quedar a la vista",
+    "meaning": "became visible",
+    "audio": "work/audio/es-MX/05/es-05-1953.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1954",
+    "sentence": "Compañera, tu audio se entrecorta justo cuando explicas la condición para entregar; ¿puedes repetir esa parte para que no la confunda con el plazo?",
+    "cloze": "se entrecorta",
+    "answer": "se entrecorta",
+    "lemma": "entrecortarse",
+    "meaning": "keeps breaking up",
+    "audio": "work/audio/es-MX/05/es-05-1954.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1955",
+    "sentence": "La nota sobre el cierre de la biblioteca recircula hoy en el grupo, aunque el texto está fechado hace dos años; antes de cambiar nuestros planes, falta saber si habrá otro cierre.",
+    "cloze": "recircula",
+    "answer": "recircula",
+    "lemma": "recircular",
+    "meaning": "is circulating again",
+    "audio": "work/audio/es-MX/05/es-05-1955.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1956",
+    "sentence": "El soporte anuncia una respuesta diferida: puedo dejar la consulta ahora, pero el aviso dice que la leerán mañana; al explicar la espera al equipo, necesito aclarar que este chat no es una conversación en vivo.",
+    "cloze": "respuesta diferida",
+    "answer": "respuesta diferida",
+    "lemma": "respuesta diferida",
+    "meaning": "delayed response",
+    "audio": "work/audio/es-MX/05/es-05-1956.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1957",
+    "sentence": "Esa cuenta no solo tiene mi nombre: usa mi foto y me suplanta al responder preguntas como si fuera yo; les aclaro que no participé en esas conversaciones.",
+    "cloze": "me suplanta",
+    "answer": "me suplanta",
+    "lemma": "suplantar",
+    "meaning": "impersonates me",
+    "audio": "work/audio/es-MX/05/es-05-1957.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1958",
+    "sentence": "El archivo aparece en cola, con dos envíos por delante; ¿podemos esperar la confirmación de llegada antes de empezar a comentarlo?",
+    "cloze": "en cola",
+    "answer": "en cola",
+    "lemma": "en cola",
+    "meaning": "queued",
+    "audio": "work/audio/es-MX/05/es-05-1958.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1959",
+    "sentence": "Mi copia se quedó atrás respecto de la que ustedes están editando: aquí todavía aparece el párrafo que quitaron esta mañana; seguiré sus comentarios en la versión compartida.",
+    "cloze": "se quedó atrás",
+    "answer": "se quedó atrás",
+    "lemma": "quedarse atrás",
+    "meaning": "fell behind",
+    "audio": "work/audio/es-MX/05/es-05-1959.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1960",
+    "sentence": "Las respuestas que envié por el formulario digital llevan mi nombre; cuando ustedes ofrecen confidencialidad, necesito saber quién podrá consultarlas, pues no respondí sin identificarme.",
+    "cloze": "confidencialidad",
+    "answer": "confidencialidad",
+    "lemma": "confidencialidad",
+    "meaning": "confidentiality",
+    "audio": "work/audio/es-MX/05/es-05-1960.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1961",
+    "sentence": "¿Podrían revisar cómo aparecen los renglones en el celular? Se leen completos en la computadora, pero aquí se enciman y no distingo qué importe corresponde a cada concepto.",
+    "cloze": "se enciman",
+    "answer": "se enciman",
+    "lemma": "encimarse",
+    "meaning": "overlap",
+    "audio": "work/audio/es-MX/05/es-05-1961.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1962",
+    "sentence": "Compañeros, la cantidad de mensajes simultáneos me rebasa y ya no distingo cuáles sustituyen instrucciones anteriores; necesito que acordemos dónde quedará la indicación vigente.",
+    "cloze": "me rebasa",
+    "answer": "me rebasa",
+    "lemma": "rebasar",
+    "meaning": "overwhelms me",
+    "audio": "work/audio/es-MX/05/es-05-1962.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1963",
+    "sentence": "Cada vez que envío el formulario, se abre el chat, que solo me devuelve al formulario; ese bucle no me deja explicar la duda que las opciones disponibles no contemplan. ¿Pueden atenderme por otra vía?",
+    "cloze": "bucle",
+    "answer": "bucle",
+    "lemma": "bucle",
+    "meaning": "loop",
+    "audio": "work/audio/es-MX/05/es-05-1963.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1964",
+    "sentence": "El historial muestra que mi corrección se sobrescribió cuando se guardó la versión de Luis; él estaba trabajando en la frase anterior y no había visto mi cambio.",
+    "cloze": "se sobrescribió",
+    "answer": "se sobrescribió",
+    "lemma": "sobrescribirse",
+    "meaning": "was overwritten",
+    "audio": "work/audio/es-MX/05/es-05-1964.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1965",
+    "sentence": "La autocorrección del teclado cambió el apellido de la destinataria por una palabra común; yo había escrito su nombre y necesito aclararle por qué el saludo llegó así.",
+    "cloze": "autocorrección",
+    "answer": "autocorrección",
+    "lemma": "autocorrección",
+    "meaning": "autocorrect",
+    "audio": "work/audio/es-MX/05/es-05-1965.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1966",
+    "sentence": "La pregunta sobre con quién vivo me resulta intrusiva en un formulario para descargar el programa del festival, aunque sea opcional; no entiendo qué relación tiene con esa consulta.",
+    "cloze": "intrusiva",
+    "answer": "intrusiva",
+    "lemma": "intrusivo",
+    "meaning": "intrusive",
+    "audio": "work/audio/es-MX/05/es-05-1966.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1967",
+    "sentence": "El error que vimos durante la demostración no ha sido reproducible en los intentos posteriores; eso dificulta describir cuándo ocurre, pero no borra lo que vimos juntos.",
+    "cloze": "reproducible",
+    "answer": "reproducible",
+    "lemma": "reproducible",
+    "meaning": "reproducible",
+    "audio": "work/audio/es-MX/05/es-05-1967.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1968",
+    "sentence": "El video del ensayo se viralizó sin que lo planeáramos: en una tarde acumuló cientos de miles de reproducciones y miles de reenvíos; ya no puedo decirles en qué grupos está circulando.",
+    "cloze": "se viralizó",
+    "answer": "se viralizó",
+    "lemma": "viralizarse",
+    "meaning": "went viral",
+    "audio": "work/audio/es-MX/05/es-05-1968.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1969",
+    "sentence": "En los subtítulos automáticos falta el «no» de mi respuesta y se invierte el sentido de lo que dije; necesito aclararlo antes de que el grupo comente esa frase.",
+    "cloze": "se invierte",
+    "answer": "se invierte",
+    "lemma": "invertirse",
+    "meaning": "is reversed",
+    "audio": "work/audio/es-MX/05/es-05-1969.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1970",
+    "sentence": "El texto pegado en el correo nos permite revisar la redacción, pero es un paliativo: el enlace sigue sin abrir y no podemos comentar juntos el documento.",
+    "cloze": "paliativo",
+    "answer": "paliativo",
+    "lemma": "paliativo",
+    "meaning": "a partial remedy",
+    "audio": "work/audio/es-MX/05/es-05-1970.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1971",
+    "sentence": "Que el formulario rechazó mi envío me consta porque vi el aviso al terminar; sobre los demás intentos solo tengo lo que me contaron mis compañeros.",
+    "cloze": "me consta",
+    "answer": "me consta",
+    "lemma": "constar",
+    "meaning": "I know firsthand",
+    "audio": "work/audio/es-MX/05/es-05-1971.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1972",
+    "sentence": "La página describe mi lista de recomendaciones como personalizada según mis búsquedas; antes de compararla con la de ustedes, necesitamos saber si su lista también depende de lo que han buscado.",
+    "cloze": "personalizada",
+    "answer": "personalizada",
+    "lemma": "personalizado",
+    "meaning": "personalized",
+    "audio": "work/audio/es-MX/05/es-05-1972.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1973",
+    "sentence": "El motivo por el que cambió el orden de mis carpetas se me escapa; solo puedo precisar que lo noté después de la actualización, no que esta lo haya causado.",
+    "cloze": "se me escapa",
+    "answer": "se me escapa",
+    "lemma": "escaparse",
+    "meaning": "escapes my understanding",
+    "audio": "work/audio/es-MX/05/es-05-1973.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1974",
+    "sentence": "El chat simula una conversación con alguien al mostrar «escribiendo», aunque el encabezado dice «respuestas automáticas»; por eso pregunto si ya intervino una persona en mi caso.",
+    "cloze": "simula",
+    "answer": "simula",
+    "lemma": "simular",
+    "meaning": "simulates",
+    "audio": "work/audio/es-MX/05/es-05-1974.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1975",
+    "sentence": "Repartir las aclaraciones entre el correo y dos chats fragmenta la conversación: en cada espacio falta una parte de la pregunta; ¿dónde podemos reunir el intercambio completo?",
+    "cloze": "fragmenta",
+    "answer": "fragmenta",
+    "lemma": "fragmentar",
+    "meaning": "fragments",
+    "audio": "work/audio/es-MX/05/es-05-1975.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1976",
+    "sentence": "Pasé por alto el cambio de horario de hoy porque el aviso diario de novedades eclipsa esa información: llegan juntos, pero las novedades ocupan casi toda la pantalla.",
+    "cloze": "eclipsa",
+    "answer": "eclipsa",
+    "lemma": "eclipsar",
+    "meaning": "overshadows",
+    "audio": "work/audio/es-MX/05/es-05-1976.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1977",
+    "sentence": "Para los vecinos que solo pueden entrar por llamada, una votación disponible únicamente en pantalla es una barrera de acceso; pueden escuchar la propuesta, pero todavía no tienen cómo registrar su decisión.",
+    "cloze": "barrera de acceso",
+    "answer": "barrera de acceso",
+    "lemma": "barrera de acceso",
+    "meaning": "barrier to access",
+    "audio": "work/audio/es-MX/05/es-05-1977.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1978",
+    "sentence": "Varias personas avisaron que reenviaron el formulario porque no recibieron confirmación; si se registraron tanto el primer envío como el segundo, contar cada registro como una persona infla la cifra de participantes.",
+    "cloze": "infla",
+    "answer": "infla",
+    "lemma": "inflar",
+    "meaning": "inflates",
+    "audio": "work/audio/es-MX/05/es-05-1978.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1979",
+    "sentence": "El video es contenido patrocinado, como explica la autora al mencionar que recibió un pago por presentarlo; al compartirlo, quiero conservar esa aclaración junto con sus comentarios favorables.",
+    "cloze": "contenido patrocinado",
+    "answer": "contenido patrocinado",
+    "lemma": "contenido patrocinado",
+    "meaning": "sponsored content",
+    "audio": "work/audio/es-MX/05/es-05-1979.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1980",
+    "sentence": "El plazo de conservación de mis datos queda indeterminado en el aviso: dice «durante un tiempo», pero no da una duración; ¿pueden aclarar a qué periodo se refieren?",
+    "cloze": "indeterminado",
+    "answer": "indeterminado",
+    "lemma": "indeterminado",
+    "meaning": "unspecified",
+    "audio": "work/audio/es-MX/05/es-05-1980.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1981",
+    "sentence": "El formulario agrupa el envío del material y la publicidad como «comunicaciones»; les pido que desglosen esos usos de mi correo para entender qué mensajes enviarían en cada caso.",
+    "cloze": "desglosen",
+    "answer": "desglosen",
+    "lemma": "desglosar",
+    "meaning": "break down separately",
+    "audio": "work/audio/es-MX/05/es-05-1981.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1982",
+    "sentence": "La herramienta se autodenomina «privada» en el anuncio; al presentarla al equipo, citaré esa palabra como una descripción del proveedor, pues todavía no sabemos quién puede ver los mensajes.",
+    "cloze": "se autodenomina",
+    "answer": "se autodenomina",
+    "lemma": "autodenominarse",
+    "meaning": "calls itself",
+    "audio": "work/audio/es-MX/05/es-05-1982.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1983",
+    "sentence": "Cuando termina el video que buscaba, empieza otro sin pausa y me cuesta desengancharme; entro para resolver una duda y termino viendo contenidos que no había pensado consultar.",
+    "cloze": "desengancharme",
+    "answer": "desengancharme",
+    "lemma": "desengancharse",
+    "meaning": "disengage",
+    "audio": "work/audio/es-MX/05/es-05-1983.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1984",
+    "sentence": "La aplicación me encasilla como aficionado al ciclismo después de las búsquedas que hice para ayudar a mi sobrino; esa etiqueta no describe un interés mío.",
+    "cloze": "me encasilla",
+    "answer": "me encasilla",
+    "lemma": "encasillar",
+    "meaning": "pigeonholes me",
+    "audio": "work/audio/es-MX/05/es-05-1984.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1985",
+    "sentence": "Amiga, mi respuesta por chat al cambio de horario fue lacónica porque estaba entrando a clase; con ese «va» acepté la propuesta, no quise cerrar la conversación.",
+    "cloze": "lacónica",
+    "answer": "lacónica",
+    "lemma": "lacónico",
+    "meaning": "terse",
+    "audio": "work/audio/es-MX/05/es-05-1985.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1986",
+    "sentence": "El sonido y la imagen llegan desincronizados en la grabación: se oye una respuesta mientras todavía vemos a quien hizo la pregunta; no puedo identificar al hablante solo por ese momento de la imagen.",
+    "cloze": "desincronizados",
+    "answer": "desincronizados",
+    "lemma": "desincronizado",
+    "meaning": "out of sync",
+    "audio": "work/audio/es-MX/05/es-05-1986.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1987",
+    "sentence": "Aunque retiré la publicación del grupo, sus copias subsisten en los correos que dos compañeros me mostraron; mi explicación del borrado tiene que distinguir esos lugares.",
+    "cloze": "subsisten",
+    "answer": "subsisten",
+    "lemma": "subsistir",
+    "meaning": "remain in existence",
+    "audio": "work/audio/es-MX/05/es-05-1987.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1988",
+    "sentence": "Le pedí a la herramienta un resumen de nuestras notas y añadió una reunión que nunca tuvimos; se la inventó, así que debo corregir ese dato en la versión que ya envié al equipo.",
+    "cloze": "se la inventó",
+    "answer": "se la inventó",
+    "lemma": "inventarse",
+    "meaning": "made it up",
+    "audio": "work/audio/es-MX/05/es-05-1988.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1989",
+    "sentence": "Durante las sesiones grabadas me autocensuro: dejo sin hacer preguntas que sí planteo en el grupo pequeño porque no quiero que mis dudas se compartan fuera del curso.",
+    "cloze": "me autocensuro",
+    "answer": "me autocensuro",
+    "lemma": "autocensurarse",
+    "meaning": "I censor myself",
+    "audio": "work/audio/es-MX/05/es-05-1989.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1990",
+    "sentence": "Recibí «envío completado» y «el envío no se realizó» para el mismo formulario; les reporto esa inconsistencia porque necesito saber qué estado tienen ustedes registrado antes de volver a mandarlo.",
+    "cloze": "inconsistencia",
+    "answer": "inconsistencia",
+    "lemma": "inconsistencia",
+    "meaning": "inconsistency",
+    "audio": "work/audio/es-MX/05/es-05-1990.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1991",
+    "sentence": "Compañera, después de la interrupción necesito reubicarme: ¿seguimos en la copia que estoy viendo o ustedes ya abrieron la versión corregida?",
+    "cloze": "reubicarme",
+    "answer": "reubicarme",
+    "lemma": "reubicarse",
+    "meaning": "get my bearings again",
+    "audio": "work/audio/es-MX/05/es-05-1991.mp3",
+    "accepted_answers": []
   }
 ]
