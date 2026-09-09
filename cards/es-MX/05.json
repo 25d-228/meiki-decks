@@ -14040,5 +14040,405 @@
     "meaning": "shuts down dialogue",
     "audio": "work/audio/es-MX/05/es-05-1399.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1400",
+    "sentence": "Amigos, si quieren cerrar la reunión con karaoke, adelante; yo paso esta vez, pero no cambien el plan por mí ni dejen de invitarme a la próxima comida.",
+    "cloze": "paso",
+    "answer": "paso",
+    "lemma": "pasar",
+    "meaning": "I pass",
+    "audio": "work/audio/es-MX/05/es-05-1400.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1401",
+    "sentence": "Profesor, me honra que me proponga presentar el homenaje; me excuso de esa tarea porque apenas conozco la obra de la autora y no podría hablar de ella con el cuidado que merece.",
+    "cloze": "me excuso",
+    "answer": "me excuso",
+    "lemma": "excusarse",
+    "meaning": "I excuse myself",
+    "audio": "work/audio/es-MX/05/es-05-1401.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1402",
+    "sentence": "Acepté compartir mi experiencia con ustedes en un taller cerrado; ahora que anuncian una transmisión pública, me retiro de la sesión, aunque sigo disponible para conversar sin cámaras con el grupo original.",
+    "cloze": "me retiro",
+    "answer": "me retiro",
+    "lemma": "retirarse",
+    "meaning": "I withdraw",
+    "audio": "work/audio/es-MX/05/es-05-1402.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1403",
+    "sentence": "Hermana, puedo enseñarte a ordenar los recibos y revisar contigo el primero; hasta ahí llego, porque hacer toda la cuenta de tus gastos te corresponde a ti.",
+    "cloze": "hasta ahí llego",
+    "answer": "hasta ahí llego",
+    "lemma": "hasta ahí llego",
+    "meaning": "that's as far as I go",
+    "audio": "work/audio/es-MX/05/es-05-1403.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1404",
+    "sentence": "—¿Cuánto ganas? Somos amigos, puedes decírmelo. —El monto de mi sueldo me lo reservo. Para rentar juntos, te confirmo cuánto puedo aportar y con eso hacemos la cuenta.",
+    "cloze": "me lo reservo",
+    "answer": "me lo reservo",
+    "lemma": "reservarse",
+    "meaning": "I keep that to myself",
+    "audio": "work/audio/es-MX/05/es-05-1404.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1405",
+    "sentence": "No me presto a decirle a tu jefa que estuviste trabajando conmigo cuando en realidad faltaste; si necesitas ayuda para terminar la presentación, como compañero puedo apoyarte con eso.",
+    "cloze": "me presto",
+    "answer": "me presto",
+    "lemma": "prestarse",
+    "meaning": "I agree to take part",
+    "audio": "work/audio/es-MX/05/es-05-1405.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1406",
+    "sentence": "—¿Y si buscamos otra fecha para ir a las carreras? —Te lo digo con confianza: no es lo mío. Quiero que sigamos saliendo juntos, pero a otra actividad; cambiar la fecha no resolvería eso.",
+    "cloze": "no es lo mío",
+    "answer": "no es lo mío",
+    "lemma": "ser lo suyo",
+    "meaning": "it's not my thing",
+    "audio": "work/audio/es-MX/05/es-05-1406.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1407",
+    "sentence": "No me pidan que elija entre ustedes por su separación: me mantengo al margen de los bandos que se han formado, porque quiero conservar mi amistad con los dos.",
+    "cloze": "me mantengo al margen",
+    "answer": "me mantengo al margen",
+    "lemma": "mantenerse al margen",
+    "meaning": "I stay out of it",
+    "audio": "work/audio/es-MX/05/es-05-1407.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1408",
+    "sentence": "Prima, agradezco que quieras una foto de todos abrazados, pero no me nace abrazar a alguien con quien todavía tengo un problema pendiente; podemos salir juntos sin fingir esa cercanía.",
+    "cloze": "me nace",
+    "answer": "me nace",
+    "lemma": "nacer",
+    "meaning": "I feel inclined",
+    "audio": "work/audio/es-MX/05/es-05-1408.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1409",
+    "sentence": "Prefiero guardar las distancias mientras usted sea mi supervisor; por eso no acepto su invitación a contarle mis problemas de pareja, aunque agradezco su interés.",
+    "cloze": "guardar las distancias",
+    "answer": "guardar las distancias",
+    "lemma": "guardar las distancias",
+    "meaning": "maintain personal distance",
+    "audio": "work/audio/es-MX/05/es-05-1409.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1410",
+    "sentence": "—¿Puede prometerme que el comité aceptará mi propuesta? —No puedo dar mi palabra de que la aceptarán; como enlace puedo presentarla, pero la decisión la toman otras personas.",
+    "cloze": "dar mi palabra",
+    "answer": "dar mi palabra",
+    "lemma": "dar su palabra",
+    "meaning": "give my word",
+    "audio": "work/audio/es-MX/05/es-05-1410.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1411",
+    "sentence": "Compañeros, me piden que conteste pendientes porque me ven conectado en el chat de vecinos; al terminar mi turno me desconecto del trabajo, aunque siga usando mi cuenta personal.",
+    "cloze": "me desconecto",
+    "answer": "me desconecto",
+    "lemma": "desconectarse",
+    "meaning": "I switch off from work",
+    "audio": "work/audio/es-MX/05/es-05-1411.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1412",
+    "sentence": "Si nuestro intercambio de turnos de limpieza incluye prestarte mi coche todo el fin de semana, no hay trato; para mí, como tu compañero de casa, son dos acuerdos distintos.",
+    "cloze": "no hay trato",
+    "answer": "no hay trato",
+    "lemma": "no hay trato",
+    "meaning": "there's no deal",
+    "audio": "work/audio/es-MX/05/es-05-1412.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1413",
+    "sentence": "Mi respuesta sigue siendo la misma: mantengo mi negativa a ir al encuentro con mi expareja, aunque tú hayas conseguido transporte; no te estaba pidiendo que resolvieras el traslado.",
+    "cloze": "mantengo",
+    "answer": "mantengo",
+    "lemma": "mantener",
+    "meaning": "I maintain",
+    "audio": "work/audio/es-MX/05/es-05-1413.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1414",
+    "sentence": "Mamá, ya te dije que este año no voy a pasar las vacaciones con la familia; no quiero dar explicaciones sobre mi relación de pareja para que aceptes esa decisión.",
+    "cloze": "dar explicaciones",
+    "answer": "dar explicaciones",
+    "lemma": "dar explicaciones",
+    "meaning": "give explanations",
+    "audio": "work/audio/es-MX/05/es-05-1414.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1415",
+    "sentence": "Me piden que firme como responsable de los errores de la versión anterior; no voy a asumir la culpa, aunque revise con ustedes los datos que fallan. Como nueva integrante del equipo, puedo ayudar a corregirlos sin afirmar que los cometí.",
+    "cloze": "asumir la culpa",
+    "answer": "asumir la culpa",
+    "lemma": "asumir la culpa",
+    "meaning": "take the blame",
+    "audio": "work/audio/es-MX/05/es-05-1415.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1416",
+    "sentence": "Les escribo como integrante del club para avisarles que me doy de baja; ya no puedo sostener la participación mensual y prefiero liberar mi lugar, en vez de volver a pedir permiso para faltar.",
+    "cloze": "me doy de baja",
+    "answer": "me doy de baja",
+    "lemma": "darse de baja",
+    "meaning": "I cancel my membership",
+    "audio": "work/audio/es-MX/05/es-05-1416.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1417",
+    "sentence": "Vi que usted ya me asignó una mesa: bórreme de la lista de voluntarios, por favor; no respondí a su invitación ni acepté participar.",
+    "cloze": "bórreme",
+    "answer": "bórreme",
+    "lemma": "borrar",
+    "meaning": "remove me",
+    "audio": "work/audio/es-MX/05/es-05-1417.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1418",
+    "sentence": "Prefiero dejarlo ahí, amiga; ya hablé con él sobre la posibilidad de volver y no quiero que ahora tú le escribas para intentar reconciliarnos.",
+    "cloze": "dejarlo ahí",
+    "answer": "dejarlo ahí",
+    "lemma": "dejarlo ahí",
+    "meaning": "leave it at that",
+    "audio": "work/audio/es-MX/05/es-05-1418.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1419",
+    "sentence": "—Amiga, ven a la fiesta; vas a ver que te anima. —Hoy no estoy de humor para convivir. Aprecio que te preocupes por mí, pero necesito que aceptes que no voy, sin intentar convencerme de que me haría bien.",
+    "cloze": "estoy de humor",
+    "answer": "estoy de humor",
+    "lemma": "estar de humor",
+    "meaning": "I'm in the mood",
+    "audio": "work/audio/es-MX/05/es-05-1419.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1420",
+    "sentence": "Jefa, con las dos entregas que ya tengo no doy abasto para asumir una tercera; si esa nueva tarea es prioritaria, necesitamos decidir cuál de las anteriores deja de estar a mi cargo.",
+    "cloze": "doy abasto",
+    "answer": "doy abasto",
+    "lemma": "dar abasto",
+    "meaning": "I can cope with the workload",
+    "audio": "work/audio/es-MX/05/es-05-1420.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1421",
+    "sentence": "Por más que aumente usted el pago de las sesiones, no me compensa perder todas las tardes con mi hija; sí podemos hablar de menos sesiones, aunque el pago total sea menor.",
+    "cloze": "me compensa",
+    "answer": "me compensa",
+    "lemma": "compensar",
+    "meaning": "it's worth it to me",
+    "audio": "work/audio/es-MX/05/es-05-1421.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1422",
+    "sentence": "Me propones decidir toda la ruta del viaje para ahorrar tiempo; me resisto a dejarte todas las decisiones, porque viajar juntos también significa para mí que los dos podamos elegir.",
+    "cloze": "me resisto",
+    "answer": "me resisto",
+    "lemma": "resistirse",
+    "meaning": "I resist",
+    "audio": "work/audio/es-MX/05/es-05-1422.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1423",
+    "sentence": "No quiero ponerme en medio de la discusión con tu hermana llevando mensajes de una a otra; puedo escucharte como amiga, pero esa conversación necesitan tenerla ustedes.",
+    "cloze": "ponerme en medio",
+    "answer": "ponerme en medio",
+    "lemma": "ponerse en medio",
+    "meaning": "put myself in the middle",
+    "audio": "work/audio/es-MX/05/es-05-1423.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1424",
+    "sentence": "Ustedes me piden firmar el aviso de cancelación como integrante del comité, pero no voy a avalar una decisión cuyas razones no nos han explicado; puedo confirmar que recibí el aviso, nada más.",
+    "cloze": "avalar",
+    "answer": "avalar",
+    "lemma": "avalar",
+    "meaning": "endorse",
+    "audio": "work/audio/es-MX/05/es-05-1424.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1425",
+    "sentence": "Me pides que te explique por qué nuestra amiga se fue de su casa; no voy a entrar en detalles sobre lo que me contó a solas, aunque entiendo tu preocupación. Pregúntale directamente qué quiere compartir contigo.",
+    "cloze": "entrar en detalles",
+    "answer": "entrar en detalles",
+    "lemma": "entrar en detalles",
+    "meaning": "go into detail",
+    "audio": "work/audio/es-MX/05/es-05-1425.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1426",
+    "sentence": "Amigo, me dices que no tendría que devolverte el dinero y te creo, pero prefiero no quedar en deuda contigo por un regalo tan grande; escojamos una salida que podamos pagar cada quien.",
+    "cloze": "quedar en deuda",
+    "answer": "quedar en deuda",
+    "lemma": "quedar en deuda",
+    "meaning": "become indebted",
+    "audio": "work/audio/es-MX/05/es-05-1426.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1427",
+    "sentence": "Ser tu amiga no me obliga a seguirte la corriente cuando me pides que diga que todos estuvieron contra ti; si necesitas hablar de lo que pasó, te escucho, aunque no comparta esa versión.",
+    "cloze": "seguirte la corriente",
+    "answer": "seguirte la corriente",
+    "lemma": "seguir la corriente",
+    "meaning": "go along with what you say",
+    "audio": "work/audio/es-MX/05/es-05-1427.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1428",
+    "sentence": "Primo, no puedo seguir sacándote de apuros cada vez que olvidas renovar tu inscripción; la vez pasada te ayudé, pero no voy a llevar tus pendientes además de los míos.",
+    "cloze": "sacándote de apuros",
+    "answer": "sacándote de apuros",
+    "lemma": "sacar de apuros",
+    "meaning": "getting you out of trouble",
+    "audio": "work/audio/es-MX/05/es-05-1428.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1429",
+    "sentence": "Directora, usted me está pidiendo aceptar desde ahora cualquier tarea que surja después: no voy a dar un cheque en blanco sobre mis responsabilidades; presente una propuesta concreta y con gusto la reviso.",
+    "cloze": "dar un cheque en blanco",
+    "answer": "dar un cheque en blanco",
+    "lemma": "dar un cheque en blanco",
+    "meaning": "give a blank check",
+    "audio": "work/audio/es-MX/05/es-05-1429.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1430",
+    "sentence": "No puedo quedarme al pendiente toda la tarde por si necesitas que te lleve, amiga; tú decide con calma y yo haré mis planes. Cuando lo sepas, vemos si todavía puedo ayudarte.",
+    "cloze": "quedarme al pendiente",
+    "answer": "quedarme al pendiente",
+    "lemma": "quedarse al pendiente",
+    "meaning": "remain on standby",
+    "audio": "work/audio/es-MX/05/es-05-1430.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1431",
+    "sentence": "Que yo no participe no significa que deba buscar a alguien en mi lugar: no me incumbe cubrir una vacante que nunca acepté, aunque ustedes necesiten cerrar hoy la lista.",
+    "cloze": "me incumbe",
+    "answer": "me incumbe",
+    "lemma": "incumbir",
+    "meaning": "is my responsibility",
+    "audio": "work/audio/es-MX/05/es-05-1431.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1432",
+    "sentence": "Te presté mi celular para consultar el mapa; no te autorizo a abrir mis conversaciones, aunque tú me dejarías ver las tuyas.",
+    "cloze": "te autorizo",
+    "answer": "te autorizo",
+    "lemma": "autorizar",
+    "meaning": "I authorize you",
+    "audio": "work/audio/es-MX/05/es-05-1432.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1433",
+    "sentence": "En esto me planto, aunque seamos amigos: tu invitado no puede quedarse un mes en nuestro departamento sin que antes lo acordemos; tú quieres ayudarlo, pero el cuarto que le ofreces también lo uso yo.",
+    "cloze": "me planto",
+    "answer": "me planto",
+    "lemma": "plantarse",
+    "meaning": "I stand firm",
+    "audio": "work/audio/es-MX/05/es-05-1433.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1434",
+    "sentence": "Me pides que trabaje solo contigo como muestra de lealtad; no quiero atarme a un solo equipo, porque colaborar en este proyecto no implica renunciar a cualquier otra invitación.",
+    "cloze": "atarme",
+    "answer": "atarme",
+    "lemma": "atarse",
+    "meaning": "tie myself down",
+    "audio": "work/audio/es-MX/05/es-05-1434.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1435",
+    "sentence": "Me pides que no le dé importancia porque somos amigos, pero no voy a pasar por alto que hayas vuelto a entrar sin avisar; necesito que me preguntes antes, aunque tengas llave.",
+    "cloze": "pasar por alto",
+    "answer": "pasar por alto",
+    "lemma": "pasar por alto",
+    "meaning": "overlook",
+    "audio": "work/audio/es-MX/05/es-05-1435.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1436",
+    "sentence": "—Hermana, deja ya el concurso; así no vuelves a decepcionarte. —No quiero darme por vencida. Me ayudaría más que revisaras conmigo lo que puedo mejorar, sin pedirme que abandone.",
+    "cloze": "darme por vencida",
+    "answer": "darme por vencida",
+    "lemma": "darse por vencido",
+    "meaning": "give up",
+    "audio": "work/audio/es-MX/05/es-05-1436.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1437",
+    "sentence": "Ya entregué la coordinación y me desligo de las decisiones nuevas, compañeros; enviaré las notas que prometí, pero no seguiré autorizando cada cambio que haga quien me sustituyó.",
+    "cloze": "me desligo",
+    "answer": "me desligo",
+    "lemma": "desligarse",
+    "meaning": "I disengage",
+    "audio": "work/audio/es-MX/05/es-05-1437.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1438",
+    "sentence": "No voy a retractarme de la queja que presenté sobre tu servicio para que aceptes hablar conmigo; quiero que volvamos a tratarnos bien, y puedo disculparme por el tono sin negar lo que ocurrió.",
+    "cloze": "retractarme",
+    "answer": "retractarme",
+    "lemma": "retractarse",
+    "meaning": "retract what I said",
+    "audio": "work/audio/es-MX/05/es-05-1438.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1439",
+    "sentence": "—Ven conmigo a la cena; seguro que a la anfitriona le da gusto verte. —Prefiero no colarme en una reunión a la que ella no me invitó; consúltalo antes de contar conmigo.",
+    "cloze": "colarme",
+    "answer": "colarme",
+    "lemma": "colarse",
+    "meaning": "turn up uninvited",
+    "audio": "work/audio/es-MX/05/es-05-1439.mp3",
+    "accepted_answers": []
   }
 ]
