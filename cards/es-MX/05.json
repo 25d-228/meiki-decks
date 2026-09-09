@@ -7451,7 +7451,7 @@
   },
   {
     "id": "es-05-0741",
-    "sentence": "«Nunca lo vi entrar», dijo Diego. En su aclaración de hoy acota su afirmación al rato que estuvo en recepción; necesitamos conservar esa precisión, porque salió del edificio antes de la reunión.",
+    "sentence": "Al hablar de una persona, Diego dijo: «Nunca la vi entrar». En su aclaración de hoy acota su afirmación al rato que estuvo en recepción; necesitamos conservar esa precisión, porque Diego salió del edificio antes de la reunión.",
     "cloze": "acota",
     "answer": "acota",
     "lemma": "acotar",
