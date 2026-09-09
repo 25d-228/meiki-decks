@@ -20740,5 +20740,395 @@
     "meaning": "snub",
     "audio": "work/audio/es-MX/05/es-05-2069.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-2070",
+    "sentence": "Mamá, cancelar mi salida sin preguntarme sería sobreprotegerme; lo que sí necesito es que me ayudes a confirmar dónde me va a recibir mi amiga.",
+    "cloze": "sobreprotegerme",
+    "answer": "sobreprotegerme",
+    "lemma": "sobreproteger",
+    "meaning": "overprotect me",
+    "audio": "work/audio/es-MX/05/es-05-2070.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2071",
+    "sentence": "Señora Elena, yo seguiré hablándole de usted por costumbre, pero prefiero que me tutee cuando organicemos las visitas; así me siento más en confianza.",
+    "cloze": "me tutee",
+    "answer": "me tutee",
+    "lemma": "tutear",
+    "meaning": "address me informally with tú",
+    "audio": "work/audio/es-MX/05/es-05-2071.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2072",
+    "sentence": "—¿Puedes comprar tú el regalo para la abuela y luego te damos nuestra parte? —Puedo pagar lo mío; lo que no puedo es desembolsar hoy el dinero de todos. Necesito sus aportaciones antes de comprarlo.",
+    "cloze": "desembolsar",
+    "answer": "desembolsar",
+    "lemma": "desembolsar",
+    "meaning": "pay out",
+    "audio": "work/audio/es-MX/05/es-05-2072.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2073",
+    "sentence": "Me pediste que te consiguiera una cita con mi hermana «si de veras somos amigos»; me incomoda que instrumentalices nuestra amistad así. Te invité a mi cumpleaños, pero no te prometí esa presentación.",
+    "cloze": "instrumentalices",
+    "answer": "instrumentalices",
+    "lemma": "instrumentalizar",
+    "meaning": "use as a means to an end",
+    "audio": "work/audio/es-MX/05/es-05-2073.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2074",
+    "sentence": "Gracias por bajar la música; para entender la explicación necesito además que usted articule las palabras, porque subir la voz no me ayuda a distinguirlas.",
+    "cloze": "articule",
+    "answer": "articule",
+    "lemma": "articular",
+    "meaning": "enunciate",
+    "audio": "work/audio/es-MX/05/es-05-2074.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2075",
+    "sentence": "Yo voy a responder las preguntas para organizar mi visita; le pido que se dirija a mí, aunque mi hermana me repita los datos que no alcance a oír.",
+    "cloze": "se dirija",
+    "answer": "se dirija",
+    "lemma": "dirigirse",
+    "meaning": "address",
+    "audio": "work/audio/es-MX/05/es-05-2075.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2076",
+    "sentence": "Me entusiasma pasar el fin de semana con ustedes, pero necesito dosificarme: participaré en las comidas y descansaré a solas entre una actividad y otra.",
+    "cloze": "dosificarme",
+    "answer": "dosificarme",
+    "lemma": "dosificarse",
+    "meaning": "pace myself",
+    "audio": "work/audio/es-MX/05/es-05-2076.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2077",
+    "sentence": "—¿Anoto quinientos pesos como una idea de lo que podrías poner para la cena? —Anótalos como mi tope; puedo ayudar a elegir el menú, pero no aumentar esa aportación.",
+    "cloze": "tope",
+    "answer": "tope",
+    "lemma": "tope",
+    "meaning": "upper limit",
+    "audio": "work/audio/es-MX/05/es-05-2077.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2078",
+    "sentence": "Esta vez necesito repartir las tareas de la comida; no quiero que me idealices como la anfitriona que siempre puede con todo, aunque disfrute recibirlos en casa.",
+    "cloze": "me idealices",
+    "answer": "me idealices",
+    "lemma": "idealizar",
+    "meaning": "idealize me",
+    "audio": "work/audio/es-MX/05/es-05-2078.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2079",
+    "sentence": "Que necesite el texto en audio no significa que necesite menos información: por favor, no lo abrevie; quiero escuchar también las condiciones antes de elegir la actividad.",
+    "cloze": "lo abrevie",
+    "answer": "lo abrevie",
+    "lemma": "abreviar",
+    "meaning": "shorten it",
+    "audio": "work/audio/es-MX/05/es-05-2079.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2080",
+    "sentence": "En la llamada para organizar la reunión familiar todavía no reconozco todas las voces; ¿podemos acordar que ustedes se identifiquen antes de intervenir?",
+    "cloze": "se identifiquen",
+    "answer": "se identifiquen",
+    "lemma": "identificarse",
+    "meaning": "identify yourselves",
+    "audio": "work/audio/es-MX/05/es-05-2080.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2081",
+    "sentence": "—¿Le pido a tu acompañante que nos diga qué horario prefieres? —Puedo teclear mi respuesta en el chat mientras ustedes hablan; necesito que la lean antes de decidir.",
+    "cloze": "teclear",
+    "answer": "teclear",
+    "lemma": "teclear",
+    "meaning": "type",
+    "audio": "work/audio/es-MX/05/es-05-2081.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2082",
+    "sentence": "Les pido discreción con mi aportación para la comida: puedo decirle en privado cuánto llevaré a quien organiza, pero no quiero comparar mi cantidad delante de todos.",
+    "cloze": "discreción",
+    "answer": "discreción",
+    "lemma": "discreción",
+    "meaning": "discretion",
+    "audio": "work/audio/es-MX/05/es-05-2082.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2083",
+    "sentence": "En la cuenta de la despensa que compartimos, no me cargues el café especial que elegiste para ti; ese gasto no lo acordamos entre los dos.",
+    "cloze": "me cargues",
+    "answer": "me cargues",
+    "lemma": "cargar",
+    "meaning": "charge me",
+    "audio": "work/audio/es-MX/05/es-05-2083.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2084",
+    "sentence": "—Yo necesito cocinar temprano y Luis pide silencio a esa hora; ¿hablas con él por mí? —Puedo terciar en la conversación si los dos quieren mi ayuda; primero necesito saber si él también la acepta.",
+    "cloze": "terciar",
+    "answer": "terciar",
+    "lemma": "terciar",
+    "meaning": "step in as a mediator",
+    "audio": "work/audio/es-MX/05/es-05-2084.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2085",
+    "sentence": "Para seguir sus indicaciones necesito leerle los labios; ¿podría explicarme el recorrido de frente antes de darse la vuelta para señalar la entrada?",
+    "cloze": "leerle los labios",
+    "answer": "leerle los labios",
+    "lemma": "leer los labios",
+    "meaning": "read your lips",
+    "audio": "work/audio/es-MX/05/es-05-2085.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2086",
+    "sentence": "Amiga, no me completes las frases por tu cuenta; si te pido una palabra concreta, sí quiero que me ayudes con esa palabra y después me dejes terminar.",
+    "cloze": "me completes",
+    "answer": "me completes",
+    "lemma": "completar",
+    "meaning": "finish for me",
+    "audio": "work/audio/es-MX/05/es-05-2086.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2087",
+    "sentence": "Durante la visita de tus papás quiero que conservemos algo de intimidad como pareja; propongo desayunar con ellos y reservar la última hora del día para nosotros.",
+    "cloze": "intimidad",
+    "answer": "intimidad",
+    "lemma": "intimidad",
+    "meaning": "privacy as a couple",
+    "audio": "work/audio/es-MX/05/es-05-2087.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2088",
+    "sentence": "Si yo sigo recordando qué falta y cuándo comprarlo, la carga mental de la despensa sigue siendo mía; necesito que tú también revises lo que hace falta, además de ir a la tienda.",
+    "cloze": "carga mental",
+    "answer": "carga mental",
+    "lemma": "carga mental",
+    "meaning": "mental load of planning and remembering",
+    "audio": "work/audio/es-MX/05/es-05-2088.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2089",
+    "sentence": "En el menú, las marcas rojas y verdes indican si un platillo lleva carne, pero yo no distingo esos colores; por favor, rotulen cada opción con «con carne» o «sin carne» para que pueda elegir.",
+    "cloze": "rotulen",
+    "answer": "rotulen",
+    "lemma": "rotular",
+    "meaning": "label",
+    "audio": "work/audio/es-MX/05/es-05-2089.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2090",
+    "sentence": "Si tú te encargas de preparar la casa para las visitas, voy a dejar de supervisarte a cada paso; podemos acordar qué debe quedar listo sin que tengas que hacerlo a mi manera.",
+    "cloze": "supervisarte",
+    "answer": "supervisarte",
+    "lemma": "supervisar",
+    "meaning": "monitor you",
+    "audio": "work/audio/es-MX/05/es-05-2090.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2091",
+    "sentence": "Yo prefiero el pastel decorado y tú habías aceptado cooperar para el sencillo; me comprometo a cubrir el sobrecosto de la decoración sin aumentar tu aportación.",
+    "cloze": "sobrecosto",
+    "answer": "sobrecosto",
+    "lemma": "sobrecosto",
+    "meaning": "additional cost",
+    "audio": "work/audio/es-MX/05/es-05-2091.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2092",
+    "sentence": "A mí me sirven las instrucciones escritas y a Raúl le sirve escucharlas; les pido que no estandaricen el apoyo en un solo formato, porque uno de los dos quedaría sin lo que necesita.",
+    "cloze": "estandaricen",
+    "answer": "estandaricen",
+    "lemma": "estandarizar",
+    "meaning": "standardize",
+    "audio": "work/audio/es-MX/05/es-05-2092.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2093",
+    "sentence": "Necesito mirar al intérprete de lengua de señas y después las fotos del lugar. Por favor, paute la explicación con pausas para que yo pueda seguir la interpretación y revisar las imágenes sin perder información.",
+    "cloze": "paute",
+    "answer": "paute",
+    "lemma": "pautar",
+    "meaning": "structure the timing of",
+    "audio": "work/audio/es-MX/05/es-05-2093.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2094",
+    "sentence": "Puedo avisarte cuando llegue de la reunión, pero no quiero un interrogatorio sobre cada persona con la que hablé; ese aviso es para organizarnos en casa.",
+    "cloze": "interrogatorio",
+    "answer": "interrogatorio",
+    "lemma": "interrogatorio",
+    "meaning": "interrogation",
+    "audio": "work/audio/es-MX/05/es-05-2094.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2095",
+    "sentence": "Quiero volver a ver a mi hermana, pero una cena anunciada como casual para obligarnos a hablar sería una encerrona; necesito que las dos sepamos de antemano para qué nos reunimos.",
+    "cloze": "encerrona",
+    "answer": "encerrona",
+    "lemma": "encerrona",
+    "meaning": "a setup",
+    "audio": "work/audio/es-MX/05/es-05-2095.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2096",
+    "sentence": "La puerta permite que entre mi silla, pero necesito espacio para maniobrar junto a la mesa; ¿podemos revisar esa parte antes de confirmar dónde me voy a sentar?",
+    "cloze": "maniobrar",
+    "answer": "maniobrar",
+    "lemma": "maniobrar",
+    "meaning": "maneuver",
+    "audio": "work/audio/es-MX/05/es-05-2096.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2097",
+    "sentence": "Para leer la invitación me sirve el tamaño actual de la letra, pero necesito más contraste entre el texto y el fondo; ¿pueden mandármela con letras oscuras sobre blanco?",
+    "cloze": "contraste",
+    "answer": "contraste",
+    "lemma": "contraste",
+    "meaning": "contrast",
+    "audio": "work/audio/es-MX/05/es-05-2097.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2098",
+    "sentence": "Para decidir la hora de mi visita puedo señalar «sí» o «no»; necesito preguntas cerradas, porque no puedo responder así a «¿qué hora prefieres?».",
+    "cloze": "preguntas cerradas",
+    "answer": "preguntas cerradas",
+    "lemma": "pregunta cerrada",
+    "meaning": "closed-ended questions",
+    "audio": "work/audio/es-MX/05/es-05-2098.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2099",
+    "sentence": "No necesito que cenemos siempre a la misma hora; sí necesito previsibilidad para organizar mi trabajo en casa, así que propongo que los cambios se hablen desde la mañana.",
+    "cloze": "previsibilidad",
+    "answer": "previsibilidad",
+    "lemma": "previsibilidad",
+    "meaning": "predictability",
+    "audio": "work/audio/es-MX/05/es-05-2099.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2100",
+    "sentence": "Para mí, cambiar el sillón es postergable; prefiero que este mes compremos el escritorio que tú necesitas para trabajar y que después retomemos lo de la sala.",
+    "cloze": "postergable",
+    "answer": "postergable",
+    "lemma": "postergable",
+    "meaning": "able to be postponed",
+    "audio": "work/audio/es-MX/05/es-05-2100.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2101",
+    "sentence": "Que nos veamos menos entre semana no significa un enfriamiento de nuestra amistad; ahora necesito estudiar por las noches y quiero que sigamos apartando tiempo para comer juntos los domingos.",
+    "cloze": "enfriamiento",
+    "answer": "enfriamiento",
+    "lemma": "enfriamiento",
+    "meaning": "cooling of affection",
+    "audio": "work/audio/es-MX/05/es-05-2101.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2102",
+    "sentence": "Tú quieres saber desde hoy qué ropa llevar y a mí me gusta improvisar; ¿te serviría fijar solo que saldremos a caminar y dejar el recorrido para ese día?",
+    "cloze": "improvisar",
+    "answer": "improvisar",
+    "lemma": "improvisar",
+    "meaning": "decide spontaneously",
+    "audio": "work/audio/es-MX/05/es-05-2102.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2103",
+    "sentence": "Mi pareja quiere conocer a mis papás, pero le preocupa sentirse evaluada; para desdramatizar la primera comida, les propuse hablar de nuestros planes del fin de semana y dejar las preguntas sobre la boda para otra ocasión.",
+    "cloze": "desdramatizar",
+    "answer": "desdramatizar",
+    "lemma": "desdramatizar",
+    "meaning": "make less emotionally charged",
+    "audio": "work/audio/es-MX/05/es-05-2103.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2104",
+    "sentence": "Antes de ir a la comida, concertemos una señal para que yo pueda decirte discretamente que necesito salir un momento; prefiero eso a explicar mi cansancio frente a toda tu familia.",
+    "cloze": "concertemos",
+    "answer": "concertemos",
+    "lemma": "concertar",
+    "meaning": "let's agree on",
+    "audio": "work/audio/es-MX/05/es-05-2104.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2105",
+    "sentence": "Acepto que otra persona me acompañe a la visita, siempre que antes se familiarice con las señales que uso para pedir ayuda; necesito que hagamos juntos esa preparación.",
+    "cloze": "se familiarice",
+    "answer": "se familiarice",
+    "lemma": "familiarizarse",
+    "meaning": "become familiar",
+    "audio": "work/audio/es-MX/05/es-05-2105.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2106",
+    "sentence": "Mamá, todavía no quiero contarle a la familia que planeamos vivir juntos; te pido que tampoco aludas a la mudanza durante el brindis, aunque no la menciones directamente.",
+    "cloze": "aludas",
+    "answer": "aludas",
+    "lemma": "aludir",
+    "meaning": "allude",
+    "audio": "work/audio/es-MX/05/es-05-2106.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2107",
+    "sentence": "Agradecemos que nos regales la mesa, pero no queremos que esa ayuda se convierta en injerencia en cómo organizamos la casa; nosotros necesitamos decidir dónde podemos trabajar y comer.",
+    "cloze": "injerencia",
+    "answer": "injerencia",
+    "lemma": "injerencia",
+    "meaning": "interference",
+    "audio": "work/audio/es-MX/05/es-05-2107.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2108",
+    "sentence": "Podemos volver a organizar una salida, pero todavía no me fío de tus confirmaciones después de las dos cancelaciones sin aviso; esta vez prefiero encontrarnos allá y llegar por mi cuenta.",
+    "cloze": "me fío",
+    "answer": "me fío",
+    "lemma": "fiarse",
+    "meaning": "trust",
+    "audio": "work/audio/es-MX/05/es-05-2108.mp3",
+    "accepted_answers": []
   }
 ]
