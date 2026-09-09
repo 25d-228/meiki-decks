@@ -21480,5 +21480,395 @@
     "meaning": "misrepresented",
     "audio": "work/audio/es-MX/05/es-05-2143.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-2144",
+    "sentence": "El informe suma dos pagos de quinientos pesos como si fueran dos mil y por eso recomienda pagar mil quinientos de contado por el mismo equipo; ese error de bulto invierte la comparación de costos.",
+    "cloze": "error de bulto",
+    "answer": "error de bulto",
+    "lemma": "error de bulto",
+    "meaning": "a glaring error",
+    "audio": "work/audio/es-MX/05/es-05-2144.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2145",
+    "sentence": "La colecta cubrió con creces la renta del salón, pues después de pagarla todavía alcanzó para los materiales y la limpieza.",
+    "cloze": "con creces",
+    "answer": "con creces",
+    "lemma": "con creces",
+    "meaning": "with more than enough to spare",
+    "audio": "work/audio/es-MX/05/es-05-2145.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2146",
+    "sentence": "Las preguntas del público revelaron el punto flaco de la propuesta: nadie había previsto quién atendería las fallas del equipo.",
+    "cloze": "punto flaco",
+    "answer": "punto flaco",
+    "lemma": "punto flaco",
+    "meaning": "weak point",
+    "audio": "work/audio/es-MX/05/es-05-2146.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2147",
+    "sentence": "La película pasó sin pena ni gloria por nuestro cineclub, donde se proyectó una vez y no generó comentarios ni recomendaciones posteriores.",
+    "cloze": "sin pena ni gloria",
+    "answer": "sin pena ni gloria",
+    "lemma": "sin pena ni gloria",
+    "meaning": "without making much of an impression",
+    "audio": "work/audio/es-MX/05/es-05-2147.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2148",
+    "sentence": "¿El reembolso guarda proporción con el servicio que faltó, si pagamos cuatro sesiones iguales y solo recibimos dos?",
+    "cloze": "guarda proporción",
+    "answer": "guarda proporción",
+    "lemma": "guardar proporción",
+    "meaning": "is proportionate",
+    "audio": "work/audio/es-MX/05/es-05-2148.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2149",
+    "sentence": "No llamaría estable a un programa que funciona a duras penas, con varias interrupciones cada vez que intento guardar un cambio.",
+    "cloze": "a duras penas",
+    "answer": "a duras penas",
+    "lemma": "a duras penas",
+    "meaning": "only with difficulty",
+    "audio": "work/audio/es-MX/05/es-05-2149.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2150",
+    "sentence": "Pasar de vender boletos a ofrecer entrada gratuita es una decisión de gran calado para este teatro, porque obliga a cambiar toda su forma de financiarse.",
+    "cloze": "de gran calado",
+    "answer": "de gran calado",
+    "lemma": "de gran calado",
+    "meaning": "far-reaching",
+    "audio": "work/audio/es-MX/05/es-05-2150.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2151",
+    "sentence": "El título «Cuentas pendientes» tiene su gracia en una comedia sobre una contadora que busca a su exnovio; el doble sentido me hizo sonreír.",
+    "cloze": "tiene su gracia",
+    "answer": "tiene su gracia",
+    "lemma": "tener su gracia",
+    "meaning": "has its amusing side",
+    "audio": "work/audio/es-MX/05/es-05-2151.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2152",
+    "sentence": "Al agradecer la donación en su justa medida, tengamos presente que pagó las telas, mientras que el vestuario se hizo con muchas horas de trabajo voluntario.",
+    "cloze": "en su justa medida",
+    "answer": "en su justa medida",
+    "lemma": "en su justa medida",
+    "meaning": "in due proportion",
+    "audio": "work/audio/es-MX/05/es-05-2152.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2153",
+    "sentence": "Aunque disfruté la clase de prueba, el curso tiene un precio prohibitivo para mí: la mensualidad supera todo lo que me queda después de los gastos básicos.",
+    "cloze": "precio prohibitivo",
+    "answer": "precio prohibitivo",
+    "lemma": "precio prohibitivo",
+    "meaning": "an unaffordable price",
+    "audio": "work/audio/es-MX/05/es-05-2153.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2154",
+    "sentence": "Hablo de luces y sombras al evaluar el taller, porque aprendí a editar mis fotos y, al mismo tiempo, eché de menos comentar las decisiones de cada participante.",
+    "cloze": "luces y sombras",
+    "answer": "luces y sombras",
+    "lemma": "luces y sombras",
+    "meaning": "strengths and shortcomings",
+    "audio": "work/audio/es-MX/05/es-05-2154.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2155",
+    "sentence": "Con espacio para veinte personas, ese salón no cubre ni de lejos el cupo de ochenta que necesitamos.",
+    "cloze": "ni de lejos",
+    "answer": "ni de lejos",
+    "lemma": "ni de lejos",
+    "meaning": "not even close",
+    "audio": "work/audio/es-MX/05/es-05-2155.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2156",
+    "sentence": "Esta grabadora cumple su cometido para recordar nuestras juntas, pues permite entender a todos; no la evaluaría como equipo de estudio.",
+    "cloze": "cumple su cometido",
+    "answer": "cumple su cometido",
+    "lemma": "cumplir su cometido",
+    "meaning": "serves its purpose",
+    "audio": "work/audio/es-MX/05/es-05-2156.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2157",
+    "sentence": "Conservaré la libreta porque las marcas en la tapa son de poca monta y no afectan el cierre ni las hojas.",
+    "cloze": "de poca monta",
+    "answer": "de poca monta",
+    "lemma": "de poca monta",
+    "meaning": "of little consequence",
+    "audio": "work/audio/es-MX/05/es-05-2157.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2158",
+    "sentence": "Pedir comprobantes de cada pausa para ir por agua me parece un exceso de celo en el control de asistencia al taller.",
+    "cloze": "exceso de celo",
+    "answer": "exceso de celo",
+    "lemma": "exceso de celo",
+    "meaning": "overzealousness",
+    "audio": "work/audio/es-MX/05/es-05-2158.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2159",
+    "sentence": "Para mí, la serie fue de más a menos: el conflicto inicial estaba bien desarrollado, pero los últimos capítulos repitieron discusiones sin cambiar la situación de nadie.",
+    "cloze": "de más a menos",
+    "answer": "de más a menos",
+    "lemma": "de más a menos",
+    "meaning": "from stronger to weaker",
+    "audio": "work/audio/es-MX/05/es-05-2159.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2160",
+    "sentence": "Los gritos y las caídas construyen un humor de brocha gorda; puede divertir, pero no lo describiría como una sátira sutil.",
+    "cloze": "de brocha gorda",
+    "answer": "de brocha gorda",
+    "lemma": "de brocha gorda",
+    "meaning": "broad and unsubtle",
+    "audio": "work/audio/es-MX/05/es-05-2160.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2161",
+    "sentence": "Al presentar los resultados, aclara que el proyecto pasó por un pelo, con setenta y un puntos frente a un mínimo de setenta.",
+    "cloze": "por un pelo",
+    "answer": "por un pelo",
+    "lemma": "por un pelo",
+    "meaning": "by a hair's breadth",
+    "audio": "work/audio/es-MX/05/es-05-2161.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2162",
+    "sentence": "Retocar el color de los dibujos supone un esfuerzo baldío para una versión exclusivamente sonora; esa revisión no cambiará nada de lo que el público va a escuchar.",
+    "cloze": "esfuerzo baldío",
+    "answer": "esfuerzo baldío",
+    "lemma": "esfuerzo baldío",
+    "meaning": "a futile effort",
+    "audio": "work/audio/es-MX/05/es-05-2162.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2163",
+    "sentence": "¿Podrían ofrecer una capacitación a la medida de nuestro equipo, con los casos que atendemos, en vez de repetir los temas básicos que ya dominamos?",
+    "cloze": "a la medida",
+    "answer": "a la medida",
+    "lemma": "a la medida",
+    "meaning": "tailored to fit",
+    "audio": "work/audio/es-MX/05/es-05-2163.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2164",
+    "sentence": "El humor está en su punto en esta charla: nos deja reír un momento sin quitar seriedad a las experiencias que cuentan los vecinos.",
+    "cloze": "en su punto",
+    "answer": "en su punto",
+    "lemma": "en su punto",
+    "meaning": "at just the right level",
+    "audio": "work/audio/es-MX/05/es-05-2164.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2165",
+    "sentence": "La propuesta de sede gana enteros ahora que incluye un espacio para guardar las sillas y nos evita transportarlas después de cada reunión.",
+    "cloze": "gana enteros",
+    "answer": "gana enteros",
+    "lemma": "ganar enteros",
+    "meaning": "becomes more attractive",
+    "audio": "work/audio/es-MX/05/es-05-2165.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2166",
+    "sentence": "En el cartel, el logotipo se ve fuera de escala: ocupa más espacio que el título y hace difícil encontrar el nombre de la obra.",
+    "cloze": "fuera de escala",
+    "answer": "fuera de escala",
+    "lemma": "fuera de escala",
+    "meaning": "out of scale",
+    "audio": "work/audio/es-MX/05/es-05-2166.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2167",
+    "sentence": "El préstamo de herramientas es el servicio básico. Las sesiones para aprender a usarlas aportan valor agregado porque permiten aprovechar lo que uno se lleva.",
+    "cloze": "valor agregado",
+    "answer": "valor agregado",
+    "lemma": "valor agregado",
+    "meaning": "added value",
+    "audio": "work/audio/es-MX/05/es-05-2167.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2168",
+    "sentence": "Aunque tu guía ya permite completar el trámite sin ayuda, tiene margen de mejora si reúnes las instrucciones de cada paso y reduces las vueltas entre páginas.",
+    "cloze": "margen de mejora",
+    "answer": "margen de mejora",
+    "lemma": "margen de mejora",
+    "meaning": "room for improvement",
+    "audio": "work/audio/es-MX/05/es-05-2168.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2169",
+    "sentence": "Con todos los apartados completos y las cifras verificadas, la falta de la numeración solicitada en los títulos constituye un defecto de forma que no exige rehacer el contenido.",
+    "cloze": "defecto de forma",
+    "answer": "defecto de forma",
+    "lemma": "defecto de forma",
+    "meaning": "a defect in presentation",
+    "audio": "work/audio/es-MX/05/es-05-2169.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2170",
+    "sentence": "El recuerdo de tu primer concierto tiene interés anecdótico en la reseña, pero por sí solo no ayuda a evaluar cómo se escuchó la banda anoche.",
+    "cloze": "interés anecdótico",
+    "answer": "interés anecdótico",
+    "lemma": "interés anecdótico",
+    "meaning": "anecdotal interest",
+    "audio": "work/audio/es-MX/05/es-05-2170.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2171",
+    "sentence": "Las tomas del reloj y del pasillo se sienten de relleno en la entrevista, ya que alargan el video sin mostrar el trabajo del invitado ni aclarar sus respuestas.",
+    "cloze": "de relleno",
+    "answer": "de relleno",
+    "lemma": "de relleno",
+    "meaning": "serving as filler",
+    "audio": "work/audio/es-MX/05/es-05-2171.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2172",
+    "sentence": "La asistencia aumentó respecto al año pasado y bastó para abrir el taller, aunque quedó por debajo de lo esperado: calculábamos cien personas y llegaron sesenta.",
+    "cloze": "por debajo de lo esperado",
+    "answer": "por debajo de lo esperado",
+    "lemma": "por debajo de lo esperado",
+    "meaning": "below expectations",
+    "audio": "work/audio/es-MX/05/es-05-2172.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2173",
+    "sentence": "Como los gastos ya están cubiertos por una donación, fijamos un precio simbólico de un peso para la entrada, sin pretender recuperar el costo de la función.",
+    "cloze": "precio simbólico",
+    "answer": "precio simbólico",
+    "lemma": "precio simbólico",
+    "meaning": "a token price",
+    "audio": "work/audio/es-MX/05/es-05-2173.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2174",
+    "sentence": "Celebremos las ochenta inscripciones como un éxito de convocatoria para un taller que solo necesitaba veinte, sin confundir esa respuesta inicial con la permanencia de los participantes.",
+    "cloze": "éxito de convocatoria",
+    "answer": "éxito de convocatoria",
+    "lemma": "éxito de convocatoria",
+    "meaning": "success in attracting participants",
+    "audio": "work/audio/es-MX/05/es-05-2174.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2175",
+    "sentence": "Probamos cada guía con diez personas distintas; esta fue, por mucho, la más clara: nueve la siguieron sin ayuda, frente a dos y tres con las otras versiones.",
+    "cloze": "por mucho",
+    "answer": "por mucho",
+    "lemma": "por mucho",
+    "meaning": "by far",
+    "audio": "work/audio/es-MX/05/es-05-2175.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2176",
+    "sentence": "El cierre del único acceso al edificio es un asunto de interés general para quienes trabajamos aquí, aunque la oficina que ocupa la entrada sea pequeña.",
+    "cloze": "de interés general",
+    "answer": "de interés general",
+    "lemma": "de interés general",
+    "meaning": "of interest to everyone concerned",
+    "audio": "work/audio/es-MX/05/es-05-2176.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2177",
+    "sentence": "Me convenció el cierre redondo de la novela, en el que la última conversación resuelve el conflicto familiar y da sentido a la carta que apareció al principio.",
+    "cloze": "redondo",
+    "answer": "redondo",
+    "lemma": "redondo",
+    "meaning": "satisfying and well-integrated",
+    "audio": "work/audio/es-MX/05/es-05-2177.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2178",
+    "sentence": "La reseña muestra un rigor desigual: comprueba las fechas de cada estreno, pero atribuye intenciones al director sin citar entrevistas ni explicar en qué se basa.",
+    "cloze": "desigual",
+    "answer": "desigual",
+    "lemma": "desigual",
+    "meaning": "uneven in quality",
+    "audio": "work/audio/es-MX/05/es-05-2178.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2179",
+    "sentence": "Estamos ensayando a media máquina para reservar la voz; esta pasada no sirve para valorar la energía que podemos darle a la canción.",
+    "cloze": "a media máquina",
+    "answer": "a media máquina",
+    "lemma": "a media máquina",
+    "meaning": "at reduced effort",
+    "audio": "work/audio/es-MX/05/es-05-2179.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2180",
+    "sentence": "Aunque ambos equipos jugaron con intensidad, el último partido de nuestro torneo fue de mero trámite: el título y todas las posiciones ya estaban decididos.",
+    "cloze": "de mero trámite",
+    "answer": "de mero trámite",
+    "lemma": "de mero trámite",
+    "meaning": "a mere formality",
+    "audio": "work/audio/es-MX/05/es-05-2180.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2181",
+    "sentence": "Para las actividades con pintura prefiero mesas de batalla, resistentes y fáciles de limpiar, aunque los acabados sean sencillos.",
+    "cloze": "de batalla",
+    "answer": "de batalla",
+    "lemma": "de batalla",
+    "meaning": "suited to hard everyday use",
+    "audio": "work/audio/es-MX/05/es-05-2181.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2182",
+    "sentence": "El cuento merece un lugar en la antología por derecho propio: desarrolla el conflicto y cuida el lenguaje, independientemente de que su autora sea amiga del editor.",
+    "cloze": "por derecho propio",
+    "answer": "por derecho propio",
+    "lemma": "por derecho propio",
+    "meaning": "on its own merits",
+    "audio": "work/audio/es-MX/05/es-05-2182.mp3",
+    "accepted_answers": []
   }
 ]
