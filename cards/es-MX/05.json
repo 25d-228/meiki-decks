@@ -16390,5 +16390,405 @@
     "meaning": "as a recording rather than live",
     "audio": "work/audio/es-MX/05/es-05-1634.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1635",
+    "sentence": "En la casa, Julia pide limpiar la cocina después de cada comida y Omar dice que ya lava todo por las noches y no puede hacerlo tres veces al día. Antes de llamar exigente a Julia o flojo a Omar, despersonalicemos el desacuerdo: falta comparar qué limpieza necesita Julia de inmediato y cuánto trabajo adicional le supondría a Omar; ninguno ha dicho que quiera dejarle todo al otro.",
+    "cloze": "despersonalicemos",
+    "answer": "despersonalicemos",
+    "lemma": "despersonalizar",
+    "meaning": "let’s separate from personal judgments",
+    "audio": "work/audio/es-MX/05/es-05-1635.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1636",
+    "sentence": "—Eva quiere recuperar el turno de la lavadora que dice haber apartado; Joel pide terminar porque entendió que estaba libre. Los dos me buscaron para organizar lo que sigue, pero yo no vi la lista anterior. No puedo arbitrar la disputa por ese turno con lo que sé; sí puedo preguntarles cuánto falta para que Joel termine y cuándo necesita lavar Eva, sin decidir todavía quién debe esperar.",
+    "cloze": "arbitrar",
+    "answer": "arbitrar",
+    "lemma": "arbitrar",
+    "meaning": "adjudicate",
+    "audio": "work/audio/es-MX/05/es-05-1636.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1637",
+    "sentence": "La editora quiere que el boletín conserve las explicaciones completas; el diseñador teme que un texto tan largo impida encontrar las actividades. Les propongo desdoblar la información: una portada breve con las fechas y, en las páginas siguientes, las explicaciones íntegras. El boletín ya tiene esas páginas disponibles; falta saber si esa organización les sirve a los dos.",
+    "cloze": "desdoblar",
+    "answer": "desdoblar",
+    "lemma": "desdoblar",
+    "meaning": "split into two parts",
+    "audio": "work/audio/es-MX/05/es-05-1637.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1638",
+    "sentence": "En el taller compartido, Ana pide que le consulten antes de usar sus pinceles; Luis también quiere decidir sobre los suyos, aunque le interesa pedir prestados los de Ana. Ahí hay una base de reciprocidad: preguntar tendría que valer para los pinceles de ambos, y cualquiera podría decir que no. Eso permite hablar del préstamo sin tratar la petición de Ana como una prohibición de ayudarse.",
+    "cloze": "reciprocidad",
+    "answer": "reciprocidad",
+    "lemma": "reciprocidad",
+    "meaning": "reciprocity",
+    "audio": "work/audio/es-MX/05/es-05-1638.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1639",
+    "sentence": "Pablo, tú quieres entregar hoy para no retrasar al grupo; Irene pide comprobar una cifra porque teme publicar un error. Al recoger las dos preocupaciones, no te adjudico la idea de que la exactitud no importa. Podemos revisar primero de dónde salió esa cifra y cuánto tardaría comprobarla; todavía no sabemos si hace falta mover la entrega.",
+    "cloze": "te adjudico",
+    "answer": "te adjudico",
+    "lemma": "adjudicar",
+    "meaning": "attribute to you",
+    "audio": "work/audio/es-MX/05/es-05-1639.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1640",
+    "sentence": "En el grupo de música, Lucía propone inscribirse antes para saber cuántos instrumentos llevar; Beto quiere que también entren quienes se enteren ese día. Decir que ella busca un grupo cerrado tergiversa su petición. La cantidad de instrumentos sí preocupa a Lucía y la llegada espontánea a Beto; preguntaría si podrían asistir como oyentes quienes lleguen sin inscripción, antes de dar esa opción por aceptada.",
+    "cloze": "tergiversa",
+    "answer": "tergiversa",
+    "lemma": "tergiversar",
+    "meaning": "misrepresents",
+    "audio": "work/audio/es-MX/05/es-05-1640.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1641",
+    "sentence": "Tú conoces mejor el equipo de sonido, Raúl, y prefieres que haya música durante toda la obra; Celia pide dejar algunas escenas sin ella para que se entiendan los diálogos. Como compañero de montaje, propongo que tu experiencia nos ayude a saber qué ajustes son posibles, sin que se imponga tu preferencia musical sobre la suya. Después podrán comparar esos ajustes con lo que requiere cada escena; saber manejar la consola no decide por sí solo cómo debe sonar la obra.",
+    "cloze": "se imponga",
+    "answer": "se imponga",
+    "lemma": "imponerse",
+    "meaning": "be imposed",
+    "audio": "work/audio/es-MX/05/es-05-1641.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1642",
+    "sentence": "Los vecinos quieren abrir la biblioteca otra tarde para poder ir después del trabajo. Quienes la atienden dicen que ya usan su única tarde libre para ordenar los libros. El mensaje «solo falta abrir la puerta» invisibiliza esa tarea. Para conversar sobre la ampliación, habría que incluir quién ordenaría los libros; anunciar más atención sin ese dato no responde a las dos preocupaciones.",
+    "cloze": "invisibiliza",
+    "answer": "invisibiliza",
+    "lemma": "invisibilizar",
+    "meaning": "makes invisible",
+    "audio": "work/audio/es-MX/05/es-05-1642.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1643",
+    "sentence": "Marta habla con mucha emoción porque quiere conservar los ensayos del coro; Tomás explica con calma que necesita el mismo salón para terminar sus grabaciones. No jerarquicemos sus necesidades por el tono de voz: los dos han dicho que no tienen otro espacio. Comparemos las horas que realmente necesita cada actividad antes de suponer que una importa más.",
+    "cloze": "jerarquicemos",
+    "answer": "jerarquicemos",
+    "lemma": "jerarquizar",
+    "meaning": "let’s rank",
+    "audio": "work/audio/es-MX/05/es-05-1643.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1644",
+    "sentence": "A Daniela le preocupa que mover su maqueta signifique sacarla de la exposición; a Hugo, que siga ocupando la mesa donde necesita preparar sus dibujos. Hay una repisa vacía en la misma sala. Si consideran colocarla ahí durante la preparación, dejemos a salvo la decisión sobre su lugar en la muestra: cambiarla de apoyo ahora no tendría que decidir su exhibición definitiva.",
+    "cloze": "dejemos a salvo",
+    "answer": "dejemos a salvo",
+    "lemma": "dejar a salvo",
+    "meaning": "let’s leave unaffected",
+    "audio": "work/audio/es-MX/05/es-05-1644.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1645",
+    "sentence": "Rosa pidió que le transmitiera a su hermano su necesidad de descansar antes de recibir visitas; él me explicó que quiere ver a la familia mientras está en la ciudad. Puedo preguntarles por una visita más corta después de ese descanso, pero no suplantar a Rosa en la decisión de aceptarla. Su hermano necesita una respuesta de ella, y el horario y la duración siguen abiertos hasta que ambos digan qué les funciona.",
+    "cloze": "suplantar",
+    "answer": "suplantar",
+    "lemma": "suplantar",
+    "meaning": "usurp someone else’s role",
+    "audio": "work/audio/es-MX/05/es-05-1645.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1646",
+    "sentence": "En el equipo, Elena quiere saber si cada quien terminó su parte y Saúl no quiere que se vigile a qué hora se conecta. No hace falta contraponer el seguimiento del trabajo y la privacidad: ambos dijeron que les parece bien avisar cuando una tarea esté lista. Ese aviso es el punto que ya aceptan; revisar sus horas de conexión sigue fuera de lo acordado.",
+    "cloze": "contraponer",
+    "answer": "contraponer",
+    "lemma": "contraponer",
+    "meaning": "set in opposition",
+    "audio": "work/audio/es-MX/05/es-05-1646.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1647",
+    "sentence": "La banda pide ensayar esta semana y el grupo de lectura necesita silencio durante su única reunión, el miércoles. El grupo de lectura ya explicó que no puede cambiarla; discutir cuánto ruido toleraría no resuelve esa condición. Como hay otros días libres en el calendario del salón, preguntaría por ellos antes de pedirle transigir sobre el silencio; la banda aún tendría que confirmar su disponibilidad.",
+    "cloze": "transigir",
+    "answer": "transigir",
+    "lemma": "transigir",
+    "meaning": "compromise",
+    "audio": "work/audio/es-MX/05/es-05-1647.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1648",
+    "sentence": "Tu resumen dice «Nora acepta compartir el escritorio», pero ella pidió conservar un cajón para sus originales. Iván necesita una superficie donde dibujar y aclaró que no necesita los cajones. Podemos restituir esa condición al hablar con ambos: compartir la cubierta y conservar el cajón describe una posibilidad que atiende sus peticiones, aunque Nora todavía debe confirmar que la entendimos bien.",
+    "cloze": "restituir",
+    "answer": "restituir",
+    "lemma": "restituir",
+    "meaning": "restore",
+    "audio": "work/audio/es-MX/05/es-05-1648.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1649",
+    "sentence": "En la organización de la posada, Ernesto quiere conservar el recorrido porque conoce a quienes participan desde hace años; Abril pide cambiar una parada que queda lejos de las familias nuevas. Pueden discutirlo de igual a igual: la experiencia de Ernesto ayuda a explicar el recorrido y la de Abril, a revisar a quién deja fuera. Comparar ambas rutas no exige que Abril lleve el mismo tiempo en el barrio.",
+    "cloze": "de igual a igual",
+    "answer": "de igual a igual",
+    "lemma": "de igual a igual",
+    "meaning": "as equals",
+    "audio": "work/audio/es-MX/05/es-05-1649.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1650",
+    "sentence": "Quienes pintaron el mural anterior quieren que se reconozca su trabajo; el grupo nuevo necesita espacio para sus propios dibujos. La pared de al lado está libre y ambos grupos quieren que se use. Al pensar cómo presentar los dos murales, preservemos el crédito de quienes hicieron el primero: abrir espacio a nuevos autores no requiere anunciar que el trabajo anterior ya no vale.",
+    "cloze": "preservemos",
+    "answer": "preservemos",
+    "lemma": "preservar",
+    "meaning": "let’s preserve",
+    "audio": "work/audio/es-MX/05/es-05-1650.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1651",
+    "sentence": "—Yo quiero una reunión abierta; no quiero que se cobre por entrar —explica Inés. —Yo necesito que se anoten antes para preparar las sillas —dice Mario. —Con esas aclaraciones, la entrada gratuita es conciliable con el registro previo si anotarse no cuesta. Esa posibilidad atiende lo que pidieron, pero falta preguntarles si también quieren admitir a quienes lleguen sin registrarse.",
+    "cloze": "conciliable",
+    "answer": "conciliable",
+    "lemma": "conciliable",
+    "meaning": "compatible",
+    "audio": "work/audio/es-MX/05/es-05-1651.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1652",
+    "sentence": "La biblioteca propone ampliar la consulta en sala; el club de lectura prefiere llevar los libros a las colonias. Ambos pidieron saber cuántas personas quedan sin acceso con cada opción. Ahí encuentro puntos de contacto para seguir: pueden comparar esa información sin apoyar todavía el mismo servicio. La pregunta compartida permite avanzar; no demuestra que valoren igual sus posibles respuestas.",
+    "cloze": "puntos de contacto",
+    "answer": "puntos de contacto",
+    "lemma": "punto de contacto",
+    "meaning": "points of overlap",
+    "audio": "work/audio/es-MX/05/es-05-1652.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1653",
+    "sentence": "Al hablar de la próxima comida, Alicia vuelve al día en que nadie le avisó del cambio; Sergio insiste en que necesita saber pronto cuántos van a ir. La falta de aviso sigue pendiente entre ellos. Para organizar esta comida, reencaucemos la conversación hacia cómo recibiría Alicia la confirmación y cuándo la necesita Sergio; atender eso ahora no significa dar por aclarado lo anterior.",
+    "cloze": "reencaucemos",
+    "answer": "reencaucemos",
+    "lemma": "reencauzar",
+    "meaning": "let’s redirect",
+    "audio": "work/audio/es-MX/05/es-05-1653.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1654",
+    "sentence": "En la junta del huerto, Leo explicó tres veces que quiere mantener las camas grandes para no perder superficie de cultivo; Eva intervino una vez para pedir un pasillo por donde pueda llevar su carrito. El resumen repite la razón de Leo en tres apartados, pero de Eva solo dice que pidió cambios; así sobrerrepresenta una postura por el número de intervenciones. Propongo describir una vez cada necesidad, con el detalle que permita comparar el espacio de cultivo y el paso del carrito.",
+    "cloze": "sobrerrepresenta",
+    "answer": "sobrerrepresenta",
+    "lemma": "sobrerrepresentar",
+    "meaning": "overrepresents",
+    "audio": "work/audio/es-MX/05/es-05-1654.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1655",
+    "sentence": "Ana quiere decirle a su compañera que no puede seguir recibiendo mensajes del proyecto de madrugada; su compañera teme olvidar las ideas si espera hasta el día siguiente. Podemos hablar de guardarlas como borradores sin que se diluya el límite de Ana en un simple «preferiría menos mensajes». Falta comprobar si guardar los borradores le sirve a la otra compañera; Ana pidió no recibirlos a esa hora.",
+    "cloze": "se diluya",
+    "answer": "se diluya",
+    "lemma": "diluirse",
+    "meaning": "be diluted",
+    "audio": "work/audio/es-MX/05/es-05-1655.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1656",
+    "sentence": "Elena quiere terminar hoy el cartel; Víctor pide comprobar cómo aparece su nombre antes de que salga impreso. El archivo todavía está abierto y el nombre se revisa en un momento. No propongo relegar esa petición a después de la entrega: revisarla ahora responde a Víctor y permite seguir con el cierre que necesita Elena, sin prometer que todo el cartel quedará aprobado.",
+    "cloze": "relegar",
+    "answer": "relegar",
+    "lemma": "relegar",
+    "meaning": "put off as less important",
+    "audio": "work/audio/es-MX/05/es-05-1656.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1657",
+    "sentence": "—Ya no voy a insistir; cada vez que explico por qué necesito el patio me dicen que ya es tarde —dice Luz. Andrés quiere cerrar la reunión porque entra temprano a trabajar. Como compañera de ambos, propongo recoger por escrito la petición de Luz antes de decidir; terminar la sesión no tendría que servir para acallarla. Ella quiere explicar su uso del patio y él necesita irse, no necesariamente votar hoy.",
+    "cloze": "acallarla",
+    "answer": "acallarla",
+    "lemma": "acallar",
+    "meaning": "silence her",
+    "audio": "work/audio/es-MX/05/es-05-1657.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1658",
+    "sentence": "Desechamos el salón pequeño porque a Julia le preocupaba que no cupieran los caballetes; Marcos quería usarlo por su buena luz. Ahora Julia confirma que el grupo traerá solo cuadernos. Propongo que reabramos la comparación de los salones con ese cambio: la luz sigue siendo una ventaja para Marcos y la objeción anterior de Julia ya no describe el material que van a llevar; falta conocer su opinión actual.",
+    "cloze": "reabramos",
+    "answer": "reabramos",
+    "lemma": "reabrir",
+    "meaning": "let’s reopen",
+    "audio": "work/audio/es-MX/05/es-05-1658.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1659",
+    "sentence": "Para compartir el estudio, Teresa propone alternar: una semana con música y otra sin ella. A Teresa le gusta escuchar música mientras dibuja; Diego explicó que con música no puede grabar su voz. Hay una asimetría en lo que perderían: ella dejaría de escuchar algo que prefiere y él no podría hacer su actividad. Antes de llamar justo al reparto, les preguntaría por horas separadas para grabar y dibujar.",
+    "cloze": "asimetría",
+    "answer": "asimetría",
+    "lemma": "asimetría",
+    "meaning": "asymmetry",
+    "audio": "work/audio/es-MX/05/es-05-1659.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1660",
+    "sentence": "En el equipo, Marta pide que se reconozca que quedó fuera de la reunión al no recibir la invitación; Luis admite que ella no recibió el aviso, pero niega haberla excluido a propósito. Para atender el reclamo no hace falta presuponer esa intención: podemos empezar por reconocer la falta de aviso que ambos aceptan, sin pedirle a Luis que admita un propósito que niega.",
+    "cloze": "presuponer",
+    "answer": "presuponer",
+    "lemma": "presuponer",
+    "meaning": "presuppose",
+    "audio": "work/audio/es-MX/05/es-05-1660.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1661",
+    "sentence": "Paula quiere conservar las cartas de su abuela; Diego necesita vaciar la mesa para trabajar. Él ofrece fotografiarlas y tirar los originales, pero Paula ya explicó que le importa tener el papel escrito por su abuela. No le pediría canjear los originales por las fotos. La caja vacía del librero podría guardar las cartas y liberar la mesa; podemos preguntarles si les sirve antes de desechar nada.",
+    "cloze": "canjear",
+    "answer": "canjear",
+    "lemma": "canjear",
+    "meaning": "trade",
+    "audio": "work/audio/es-MX/05/es-05-1661.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1662",
+    "sentence": "—Tú diseñaste la lista del taller y quieres que siga siendo fácil contar a los asistentes; Renata pide quitar la columna del teléfono porque no quiere compartirlo con todo el grupo. Revisar esa columna no busca desautorizarte. Podemos comprobar si el conteo depende de ella: así discutimos la petición de Renata sin convertirla en un juicio sobre tu capacidad para organizar.",
+    "cloze": "desautorizarte",
+    "answer": "desautorizarte",
+    "lemma": "desautorizar",
+    "meaning": "discredit you",
+    "audio": "work/audio/es-MX/05/es-05-1662.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1663",
+    "sentence": "El equipo de fotografía quiere mostrar esta semana las imágenes terminadas; el de edición pide esperar porque aún faltan textos y no quiere presentar la serie como completa. La página permite agregar publicaciones después. Podrían considerar escalonar la muestra, identificando las primeras imágenes como un adelanto; así se puede hablar de la oportunidad de mostrarlas sin ocultar el trabajo pendiente ni dar por aceptado ese formato.",
+    "cloze": "escalonar",
+    "answer": "escalonar",
+    "lemma": "escalonar",
+    "meaning": "stagger",
+    "audio": "work/audio/es-MX/05/es-05-1663.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1664",
+    "sentence": "Los dos autores quieren corregir la fecha de la introducción, pero uno cree que ese cambio obliga a revisar la conclusión y el otro la sigue defendiendo. Al transmitir su coincidencia al equipo, circunscribamos el acuerdo a la fecha. Podemos empezar por esa corrección y dejar visible la discusión sobre sus consecuencias; ninguno autorizó que su aceptación se extendiera a la conclusión.",
+    "cloze": "circunscribamos",
+    "answer": "circunscribamos",
+    "lemma": "circunscribir",
+    "meaning": "let’s confine",
+    "audio": "work/audio/es-MX/05/es-05-1664.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1665",
+    "sentence": "Al discutir la convivencia del edificio, Clara rechaza la propuesta porque incluye una cuota; Iván la rechaza porque exige llevar comida. Clara dice que sí quiere cooperar con un platillo e Iván que sí puede aportar dinero. Propongo descomponer la propuesta en esas dos formas de participar para preguntar si aceptarían elegir una. Sus rechazos al paquete no son rechazos a convivir ni bastan para dar por aprobada esa alternativa.",
+    "cloze": "descomponer",
+    "answer": "descomponer",
+    "lemma": "descomponer",
+    "meaning": "break down",
+    "audio": "work/audio/es-MX/05/es-05-1665.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1666",
+    "sentence": "En la cocina compartida, Rosa quiere abrir la ventana porque se acumulan los olores; David pide cerrarla porque el aire le vuela las hojas de la mesa. La ventanita de arriba ventila sin dirigir el aire a esa mesa, según la prueba que acaban de hacer juntos. Abrir solo esa parte permitiría conjugar las dos necesidades que explicaron; les preguntaría si esa ventilación les basta antes de presentar el asunto como resuelto.",
+    "cloze": "conjugar",
+    "answer": "conjugar",
+    "lemma": "conjugar",
+    "meaning": "combine",
+    "audio": "work/audio/es-MX/05/es-05-1666.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1667",
+    "sentence": "A Mar le interesa recibir comentarios sobre su cuento, pero no quiere que circule fuera del taller; Julián necesita que los lectores tengan el texto antes de la sesión para preparar sus observaciones. Al explorar una lectura anticipada dentro del salón, resguardemos la decisión de Mar sobre la circulación. Esa opción dependería de que los lectores pudieran llegar antes; no basta con que a Julián le parezca útil.",
+    "cloze": "resguardemos",
+    "answer": "resguardemos",
+    "lemma": "resguardar",
+    "meaning": "let’s protect",
+    "audio": "work/audio/es-MX/05/es-05-1667.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1668",
+    "sentence": "Cuando Berta se opuso a repetir el baile cada viernes, Luis dijo que ella estaba contra las actividades del patio. Berta quiere conservar otros usos del espacio y Luis quiere que el baile tenga continuidad. Prefiero no encasillar a Berta como enemiga del baile: objetó la frecuencia. Podemos conversar sobre cuántas fechas necesita cada actividad sin atribuirle una oposición que no expresó.",
+    "cloze": "encasillar",
+    "answer": "encasillar",
+    "lemma": "encasillar",
+    "meaning": "pigeonhole",
+    "audio": "work/audio/es-MX/05/es-05-1668.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1669",
+    "sentence": "Sara quiere que la muestra abra el sábado y Joel necesita ese día para su propio montaje. Proponen que su compañera Mar monte los paneles de Sara, pero Mar no ha dicho si puede. Esa coincidencia no permite comprometerla. Puedo preguntarles qué partes podrían dejar preparadas el viernes; por ahora, la solución que les acomoda a ambos depende de una ayuda que no está confirmada.",
+    "cloze": "comprometerla",
+    "answer": "comprometerla",
+    "lemma": "comprometer",
+    "meaning": "commit her",
+    "audio": "work/audio/es-MX/05/es-05-1669.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1670",
+    "sentence": "Mónica necesita trabajar sin pedir permiso para cada cambio del cartel; Esteban teme que se pierda la versión que ya revisó. El programa que usan conserva las versiones y permite compararlas. Esa posibilidad puede respaldar la autonomía de Mónica sin borrar el trabajo que Esteban necesita consultar; les propongo mirar juntos cómo aparecen las versiones antes de decidir cómo seguirán revisando.",
+    "cloze": "respaldar",
+    "answer": "respaldar",
+    "lemma": "respaldar",
+    "meaning": "support",
+    "audio": "work/audio/es-MX/05/es-05-1670.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1671",
+    "sentence": "Nadia aceptó mover las macetas que estorbaban el paso, pero quiere conservar las que están junto a la pared. Bruno pide espacio para pasar con las compras y ahora propone quitar todas. No usemos su primera aceptación para arrinconarla: todavía podemos comprobar con ambos si las macetas de la pared dificultan el paso. Haber aceptado mover unas no responde por las demás.",
+    "cloze": "arrinconarla",
+    "answer": "arrinconarla",
+    "lemma": "arrinconar",
+    "meaning": "corner her",
+    "audio": "work/audio/es-MX/05/es-05-1671.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1672",
+    "sentence": "En el equipo, Héctor teme que añadir una sección retrase la entrega y Diana quiere incluir testimonios que todavía no aparecen. Ella no sabe cuánto tardaría prepararlos y él tampoco lo ha calculado. Para seguir, podemos explicitar esa incertidumbre compartida: pedirles una estimación permitiría evaluar el riesgo que preocupa a Héctor sin rechazar de entrada el contenido que propone Diana.",
+    "cloze": "explicitar",
+    "answer": "explicitar",
+    "lemma": "explicitar",
+    "meaning": "make explicit",
+    "audio": "work/audio/es-MX/05/es-05-1672.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1673",
+    "sentence": "Como vecinos, ustedes me pidieron ayudar a que se entiendan sus razones: uno quiere apagar la luz del pasillo porque le entra al cuarto; el otro la necesita para encontrar la cerradura al llegar. Sería prematuro zanjar el desacuerdo diciendo que la luz se quede encendida la mitad de la noche. Primero falta saber cuándo ocurre cada dificultad; dividir el tiempo por mitades no demuestra que ambas queden atendidas.",
+    "cloze": "zanjar",
+    "answer": "zanjar",
+    "lemma": "zanjar",
+    "meaning": "settle",
+    "audio": "work/audio/es-MX/05/es-05-1673.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1674",
+    "sentence": "El coro solo puede ensayar el martes y el taller necesita el único salón ese mismo día; ambos confirmaron que no pueden cambiar de horario esta semana. Me piden una propuesta que conserve las dos actividades, pero con esos datos no sé cómo armonizar sus necesidades. Lo que sí aceptaron ambos es preguntar por otro espacio; ese paso compartido no garantiza que aparezca uno ni resuelve todavía el uso del salón.",
+    "cloze": "armonizar",
+    "answer": "armonizar",
+    "lemma": "armonizar",
+    "meaning": "reconcile",
+    "audio": "work/audio/es-MX/05/es-05-1674.mp3",
+    "accepted_answers": []
   }
 ]
