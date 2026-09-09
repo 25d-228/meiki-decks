@@ -19160,5 +19160,405 @@
     "meaning": "inappropriate in that setting",
     "audio": "work/audio/es-MX/05/es-05-1911.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1912",
+    "sentence": "El anuncio muestra a una familia sin agua en casa y termina con «No necesitan nada para ser felices»; me preocupa que romantice la carencia al presentarla como parte de su felicidad.",
+    "cloze": "romantice",
+    "answer": "romantice",
+    "lemma": "romantizar",
+    "meaning": "romanticizes",
+    "audio": "work/audio/es-MX/05/es-05-1912.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1913",
+    "sentence": "El video para adultos celebra cada respuesta con «¡Muy bien, pequeñines!»; cambiaría ese trato porque infantiliza al público, aunque los pasos para usar el catálogo sí están claros.",
+    "cloze": "infantiliza",
+    "answer": "infantiliza",
+    "lemma": "infantilizar",
+    "meaning": "infantilizes",
+    "audio": "work/audio/es-MX/05/es-05-1913.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1914",
+    "sentence": "La exposición se titula «Aquí se teje igual desde siempre», pero una tejedora explica en la pantalla cómo inventó un diseño; ese título congela una práctica que la propia muestra presenta en movimiento.",
+    "cloze": "congela",
+    "answer": "congela",
+    "lemma": "congelar",
+    "meaning": "freezes in time",
+    "audio": "work/audio/es-MX/05/es-05-1914.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1915",
+    "sentence": "¿No te parece sensacionalista anunciar «El barrio al borde del caos» para un video donde dos vecinos discuten por una silla y luego acuerdan compartirla?",
+    "cloze": "sensacionalista",
+    "answer": "sensacionalista",
+    "lemma": "sensacionalista",
+    "meaning": "sensationalist",
+    "audio": "work/audio/es-MX/05/es-05-1915.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1916",
+    "sentence": "En el cuento del cuaderno, mamá prepara todo mientras papá espera sentado, y nadie comenta esa diferencia; yo diría que el relato naturaliza ese reparto del trabajo, aunque no lo recomiende expresamente.",
+    "cloze": "naturaliza",
+    "answer": "naturaliza",
+    "lemma": "naturalizar",
+    "meaning": "makes seem natural",
+    "audio": "work/audio/es-MX/05/es-05-1916.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1917",
+    "sentence": "No elegiría esta historia para discutir por qué alguien cambia de opinión: es maniquea, pues un grupo siempre ayuda y el otro siempre hace daño, sin dudas ni excepciones.",
+    "cloze": "maniquea",
+    "answer": "maniquea",
+    "lemma": "maniqueo",
+    "meaning": "morally black-and-white",
+    "audio": "work/audio/es-MX/05/es-05-1917.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1918",
+    "sentence": "Mostrar al personaje que robó cuidando a su padre enfermo lo humaniza; la escena me permite verlo más allá del robo, pero no convierte ese acto en aceptable.",
+    "cloze": "lo humaniza",
+    "answer": "lo humaniza",
+    "lemma": "humanizar",
+    "meaning": "humanizes him",
+    "audio": "work/audio/es-MX/05/es-05-1918.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1919",
+    "sentence": "La supuesta participación del visitante es decorativa: los botones «aceptar» y «rechazar» llevan a la misma respuesta y ninguna elección cambia el recorrido; yo preferiría que el museo lo anunciara como una visita guiada.",
+    "cloze": "decorativa",
+    "answer": "decorativa",
+    "lemma": "decorativo",
+    "meaning": "merely decorative",
+    "audio": "work/audio/es-MX/05/es-05-1919.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1920",
+    "sentence": "En la clase se podía defender cualquier postura, pero había que responder a las objeciones con ejemplos; llamarla adoctrinamiento solo porque el maestro expresó su opinión confunde tener una postura con imponerla.",
+    "cloze": "adoctrinamiento",
+    "answer": "adoctrinamiento",
+    "lemma": "adoctrinamiento",
+    "meaning": "indoctrination",
+    "audio": "work/audio/es-MX/05/es-05-1920.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1921",
+    "sentence": "Entiendo que el museo quiera mostrar la belleza de estas ollas, pero exhibirlas sin mencionar que todavía se usan para cocinar las despoja de su contexto cotidiano; yo añadiría una explicación de ese uso.",
+    "cloze": "las despoja",
+    "answer": "las despoja",
+    "lemma": "despojar",
+    "meaning": "strips them",
+    "audio": "work/audio/es-MX/05/es-05-1921.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1922",
+    "sentence": "En dos fotos aparecen una joven leyendo y un señor barriendo; me descolocó leer en los pies de foto que ella es la conserje y él, el director, porque yo les había atribuido los oficios al revés.",
+    "cloze": "me descolocó",
+    "answer": "me descolocó",
+    "lemma": "descolocar",
+    "meaning": "unsettled me",
+    "audio": "work/audio/es-MX/05/es-05-1922.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1923",
+    "sentence": "Para mi reseña, distinguiría un final emotivo de uno efectista: aquí cae un rayo y muere un personaje que apenas apareció, sin que esa muerte cambie la decisión central de la historia.",
+    "cloze": "efectista",
+    "answer": "efectista",
+    "lemma": "efectista",
+    "meaning": "relying on sensational effects",
+    "audio": "work/audio/es-MX/05/es-05-1923.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1924",
+    "sentence": "La cámara vuelve cinco veces al niño llorando después de perder su juguete; a mí me incomoda cómo se regodea en su dolor, cuando ya entendimos la pérdida y esas tomas no ayudan a entender mejor su reacción.",
+    "cloze": "se regodea",
+    "answer": "se regodea",
+    "lemma": "regodearse",
+    "meaning": "dwells with relish",
+    "audio": "work/audio/es-MX/05/es-05-1924.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1925",
+    "sentence": "Yo quitaría el cierre aleccionador de este cuento: después de mostrar a dos amigos reparando juntos una bicicleta, añade «Así deben comportarse todos los niños buenos» y nos dice exactamente qué debemos pensar.",
+    "cloze": "aleccionador",
+    "answer": "aleccionador",
+    "lemma": "aleccionador",
+    "meaning": "moralizing",
+    "audio": "work/audio/es-MX/05/es-05-1925.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1926",
+    "sentence": "La sala reproduce pasos por detrás de mí y voces a los lados; el sonido me resulta envolvente, pero no lo describiría como una grabación del lugar, porque el aviso aclara que fue creado para la muestra.",
+    "cloze": "envolvente",
+    "answer": "envolvente",
+    "lemma": "envolvente",
+    "meaning": "immersive",
+    "audio": "work/audio/es-MX/05/es-05-1926.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1927",
+    "sentence": "En el cuento original del taller, la vecina rechaza ayudar y la amistad termina; la versión para la lectura pública edulcora el conflicto al convertir el rechazo en un olvido que se resuelve con una sonrisa.",
+    "cloze": "edulcora",
+    "answer": "edulcora",
+    "lemma": "edulcorar",
+    "meaning": "sugarcoats",
+    "audio": "work/audio/es-MX/05/es-05-1927.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1928",
+    "sentence": "El diálogo original enfrenta a una hermana que quiere vender la casa y otra que quiere conservarla; darles a ambas la frase «Me da igual» en la adaptación desdibuja el desacuerdo que explica la discusión.",
+    "cloze": "desdibuja",
+    "answer": "desdibuja",
+    "lemma": "desdibujar",
+    "meaning": "blurs",
+    "audio": "work/audio/es-MX/05/es-05-1928.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1929",
+    "sentence": "Prefiero la canción nueva que dialoga con la ronda que inventamos en el taller, «Todos vuelven a casa»: conserva esa frase, pero pregunta después «¿Y quién recibe a quien no tiene casa?»; así abre una pregunta a partir de la canción anterior.",
+    "cloze": "dialoga",
+    "answer": "dialoga",
+    "lemma": "dialogar",
+    "meaning": "engages in dialogue",
+    "audio": "work/audio/es-MX/05/es-05-1929.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1930",
+    "sentence": "En nuestro cuento, nadie conoce todavía la escritura; acusar al personaje de irresponsable por no dejar una nota es una crítica anacrónica que le exige un recurso inexistente en el mundo narrado.",
+    "cloze": "anacrónica",
+    "answer": "anacrónica",
+    "lemma": "anacrónico",
+    "meaning": "anachronistic",
+    "audio": "work/audio/es-MX/05/es-05-1930.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1931",
+    "sentence": "La reseña recuerda las tardes de lectura con la abuela y el olor de los libros, pero no compara ediciones; tomaría su entusiasmo como nostalgia, no como una razón suficiente para comprar la versión más antigua.",
+    "cloze": "nostalgia",
+    "answer": "nostalgia",
+    "lemma": "nostalgia",
+    "meaning": "nostalgia",
+    "audio": "work/audio/es-MX/05/es-05-1931.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1932",
+    "sentence": "Desde la primera escena sabemos que la niña recuperará a su perro; el desenlace es predecible, pero yo seguiría viendo el corto para descubrir cómo consigue que sus vecinos la ayuden.",
+    "cloze": "predecible",
+    "answer": "predecible",
+    "lemma": "predecible",
+    "meaning": "predictable",
+    "audio": "work/audio/es-MX/05/es-05-1932.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1933",
+    "sentence": "El cuento termina con una vecina que devuelve una cartera sin el dinero porque lo usó para alimentar a su hijo; ese final me dejó pensando en los límites de mi primera reacción, que fue condenarla sin más.",
+    "cloze": "me dejó pensando",
+    "answer": "me dejó pensando",
+    "lemma": "dejar pensando",
+    "meaning": "left me thinking",
+    "audio": "work/audio/es-MX/05/es-05-1933.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1934",
+    "sentence": "Cuando la narración llama «valientes» a quienes ocupan el patio y «egoístas» a quienes piden despejarlo, toma partido por los primeros; presentaría el video como una defensa de su postura, no como una descripción neutral.",
+    "cloze": "toma partido",
+    "answer": "toma partido",
+    "lemma": "tomar partido",
+    "meaning": "takes sides",
+    "audio": "work/audio/es-MX/05/es-05-1934.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1935",
+    "sentence": "El video de nuestra escuela es autocomplaciente: cada dificultad acaba con un elogio a la dirección y nunca escuchamos qué quedó pendiente; para mostrar lo que aprendimos, yo incluiría también una decisión que no funcionó.",
+    "cloze": "autocomplaciente",
+    "answer": "autocomplaciente",
+    "lemma": "autocomplaciente",
+    "meaning": "self-congratulatory",
+    "audio": "work/audio/es-MX/05/es-05-1935.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1936",
+    "sentence": "La misma toma de una puerta entreabierta aparece primero con música tranquila y después con golpes graves; ese cambio me predispone a ver una amenaza la segunda vez, aunque la imagen no muestre nada nuevo.",
+    "cloze": "me predispone",
+    "answer": "me predispone",
+    "lemma": "predisponer",
+    "meaning": "primes me",
+    "audio": "work/audio/es-MX/05/es-05-1936.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1937",
+    "sentence": "El taller del museo nos deja tocar copias de las piezas y discutir cuál no nos gusta; agradezco que desacralice la relación con el arte sin pedirnos que dejemos de cuidarlo o de tomarlo en serio.",
+    "cloze": "desacralice",
+    "answer": "desacralice",
+    "lemma": "desacralizar",
+    "meaning": "removes the aura of sacredness from",
+    "audio": "work/audio/es-MX/05/es-05-1937.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1938",
+    "sentence": "En el taller, una alumna le enseñó al maestro una manera de doblar el papel que él no conocía y él la ayudó a entender por qué funcionaba; valoro ese aprendizaje recíproco porque ambos aprendieron algo del otro.",
+    "cloze": "aprendizaje recíproco",
+    "answer": "aprendizaje recíproco",
+    "lemma": "aprendizaje recíproco",
+    "meaning": "mutual learning",
+    "audio": "work/audio/es-MX/05/es-05-1938.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1939",
+    "sentence": "Para quienes entramos al taller a escribir mensajes a nuestras familias, comparar dos invitaciones fue más pertinente que memorizar nombres de figuras literarias; ambas actividades trataban sobre lengua, pero solo una respondía a nuestro propósito.",
+    "cloze": "pertinente",
+    "answer": "pertinente",
+    "lemma": "pertinente",
+    "meaning": "relevant",
+    "audio": "work/audio/es-MX/05/es-05-1939.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1940",
+    "sentence": "La maestra dice que probemos caminos nuevos, pero baja la calificación por cada intento fallido, incluso si luego lo corregimos; esa manera de evaluar desincentiva la exploración que la actividad nos pide.",
+    "cloze": "desincentiva",
+    "answer": "desincentiva",
+    "lemma": "desincentivar",
+    "meaning": "discourages",
+    "audio": "work/audio/es-MX/05/es-05-1940.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1941",
+    "sentence": "Cada semana añadimos una sección a nuestra guía del barrio y revisamos las anteriores con lo que acabamos de aprender; me sirve ese trabajo acumulativo porque las primeras decisiones siguen presentes y todavía podemos mejorarlas.",
+    "cloze": "acumulativo",
+    "answer": "acumulativo",
+    "lemma": "acumulativo",
+    "meaning": "cumulative",
+    "audio": "work/audio/es-MX/05/es-05-1941.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1942",
+    "sentence": "El reglamento que vemos dice «Todos pueden tomar la palabra»; en el debate escolar, dar por igualmente válidas las afirmaciones «Podemos hablar» y «Está prohibido hablar» produce una falsa neutralidad.",
+    "cloze": "falsa neutralidad",
+    "answer": "falsa neutralidad",
+    "lemma": "falsa neutralidad",
+    "meaning": "false neutrality",
+    "audio": "work/audio/es-MX/05/es-05-1942.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1943",
+    "sentence": "La segunda vez que leí el cuento ya sabía que la carta era de la hija, no de un antiguo amor; la relectura me hizo cuestionar mi primera interpretación de las pausas del padre como deseo de volver con una pareja.",
+    "cloze": "relectura",
+    "answer": "relectura",
+    "lemma": "relectura",
+    "meaning": "rereading",
+    "audio": "work/audio/es-MX/05/es-05-1943.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1944",
+    "sentence": "El corto se entiende por las miradas hasta que una voz fuera de cámara revela quién llamó; para quienes no pueden oír esa voz, elegiría la versión con subtítulos por accesibilidad, ya que esa información no se puede recuperar solo de las imágenes.",
+    "cloze": "accesibilidad",
+    "answer": "accesibilidad",
+    "lemma": "accesibilidad",
+    "meaning": "accessibility",
+    "audio": "work/audio/es-MX/05/es-05-1944.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1945",
+    "sentence": "El público propuso los obstáculos y la actriz inventó una salida para cada uno; lo irrepetible de esa función está en el intercambio de esa noche, aunque mañana vuelvan a representar la misma historia.",
+    "cloze": "irrepetible",
+    "answer": "irrepetible",
+    "lemma": "irrepetible",
+    "meaning": "unrepeatable",
+    "audio": "work/audio/es-MX/05/es-05-1945.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1946",
+    "sentence": "La narradora llegó al barrio de adulta y cuenta que aprendió sus canciones al organizar fiestas con sus vecinos durante años; yo veo arraigo en esa participación sostenida, sin exigirle haber nacido ahí para considerarla parte de la comunidad.",
+    "cloze": "arraigo",
+    "answer": "arraigo",
+    "lemma": "arraigo",
+    "meaning": "rootedness",
+    "audio": "work/audio/es-MX/05/es-05-1946.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1947",
+    "sentence": "Antes se podía escuchar el relato de las tejedoras durante la visita; ahora solo se escucha después de comprar una prenda, y me parece que ese cambio mercantiliza el encuentro al volverlo un beneficio de compra.",
+    "cloze": "mercantiliza",
+    "answer": "mercantiliza",
+    "lemma": "mercantilizar",
+    "meaning": "commercializes",
+    "audio": "work/audio/es-MX/05/es-05-1947.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1948",
+    "sentence": "En la escena, el diseñador copia un bordado que una artesana le enseñó y luego lo anuncia como invento suyo; el problema es cómo se apropia de ese trabajo, no que haya aprendido una técnica de otra persona.",
+    "cloze": "se apropia",
+    "answer": "se apropia",
+    "lemma": "apropiarse",
+    "meaning": "appropriates",
+    "audio": "work/audio/es-MX/05/es-05-1948.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1949",
+    "sentence": "Yo conservaría las distintas maneras de hablar en el programa: la edición reemplaza tanto «me dio gusto» como «estuvo padre» por «fue satisfactorio» y uniforma las voces al borrar esos matices.",
+    "cloze": "uniforma",
+    "answer": "uniforma",
+    "lemma": "uniformar",
+    "meaning": "makes uniform",
+    "audio": "work/audio/es-MX/05/es-05-1949.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1950",
+    "sentence": "La actividad no me enseñó los nombres de todas las aves, pero al salir empecé a fijarme en sus picos y a preguntar qué comen; para mí, despierta curiosidad y cumple así un propósito distinto al de memorizar una lista.",
+    "cloze": "despierta curiosidad",
+    "answer": "despierta curiosidad",
+    "lemma": "despertar curiosidad",
+    "meaning": "sparks curiosity",
+    "audio": "work/audio/es-MX/05/es-05-1950.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1951",
+    "sentence": "La carta dice «El primer día no entendí el letrero y una compañera me llevó al salón»; la incluiría en la muestra por su valor testimonial, aunque ese recuerdo no represente la experiencia de todo el grupo.",
+    "cloze": "valor testimonial",
+    "answer": "valor testimonial",
+    "lemma": "valor testimonial",
+    "meaning": "value as a firsthand account",
+    "audio": "work/audio/es-MX/05/es-05-1951.mp3",
+    "accepted_answers": []
   }
 ]
