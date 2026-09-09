@@ -9733,7 +9733,7 @@
   },
   {
     "id": "es-05-0969",
-    "sentence": "En «La cercanía debe decidir la sede, cueste lo que cueste», la distancia manda sin una condición de costo. La propuesta «Elijamos la más cercana, siempre que esté dentro del presupuesto» subordina esa preferencia al límite de gasto.",
+    "sentence": "En «La cercanía debe decidir la sede, sin importar el costo», la distancia manda sin una condición de costo. La propuesta «Elijamos la más cercana, siempre que esté dentro del presupuesto» subordina esa preferencia al límite de gasto.",
     "cloze": "subordina",
     "answer": "subordina",
     "lemma": "subordinar",
@@ -11063,7 +11063,7 @@
   },
   {
     "id": "es-05-1102",
-    "sentence": "En la asamblea, la tesorera anuncia: «Publicaremos en qué se usó cada aportación». El coordinador añade: «Explicaremos a los vecinos cualquier diferencia respecto del plan». La directora pide una línea para describir el compromiso en su informe: «El proyecto incorpora la rendición de cuentas ante quienes aportaron recursos».",
+    "sentence": "En la asamblea, la tesorera anuncia: «Publicaremos en qué se usó cada aportación». El coordinador añade: «Explicaremos a los vecinos cualquier diferencia respecto del plan». La directora pide una línea para describir el compromiso en su informe: «El proyecto incorpora la rendición de cuentas ante los vecinos».",
     "cloze": "rendición de cuentas",
     "answer": "rendición de cuentas",
     "lemma": "rendición de cuentas",
