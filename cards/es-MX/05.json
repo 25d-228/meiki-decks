@@ -17190,5 +17190,375 @@
     "meaning": "we finalize",
     "audio": "work/audio/es-MX/05/es-05-1714.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1715",
+    "sentence": "Al preparar la siguiente edición de la feria, cada integrante nuevo trabajará con alguien de la edición anterior. Buscamos la transferencia de conocimientos: que las decisiones sobre el montaje no dependan siempre de quienes lo organizaron primero.",
+    "cloze": "transferencia de conocimientos",
+    "answer": "transferencia de conocimientos",
+    "lemma": "transferencia de conocimientos",
+    "meaning": "knowledge transfer",
+    "audio": "work/audio/es-MX/05/es-05-1715.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1716",
+    "sentence": "Ustedes ya revisaron las técnicas de entrevista en el curso; ahora cada quien entrevistará a una persona para nuestro archivo oral. Esta actividad es de aplicación práctica: usaremos lo aprendido para reunir testimonios que sí necesitamos.",
+    "cloze": "aplicación práctica",
+    "answer": "aplicación práctica",
+    "lemma": "aplicación práctica",
+    "meaning": "practical application",
+    "audio": "work/audio/es-MX/05/es-05-1716.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1717",
+    "sentence": "La idea es que el nuevo equipo aprenda a resolver consultas sin mandarlas todas a la coordinadora. La capacitación busca aumentar nuestra capacidad de respuesta; todavía tendremos que observar qué consultas pueden resolver después del curso.",
+    "cloze": "capacidad de respuesta",
+    "answer": "capacidad de respuesta",
+    "lemma": "capacidad de respuesta",
+    "meaning": "capacity to respond",
+    "audio": "work/audio/es-MX/05/es-05-1717.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1718",
+    "sentence": "—¿Ya van a cambiar la guía que recibe el público? —Todavía no; usaremos una copia como banco de pruebas para comparar distintas instrucciones con los voluntarios. Primero revisaremos qué cambios les ayudan a entenderla.",
+    "cloze": "banco de pruebas",
+    "answer": "banco de pruebas",
+    "lemma": "banco de pruebas",
+    "meaning": "test bed",
+    "audio": "work/audio/es-MX/05/es-05-1718.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1719",
+    "sentence": "Propuse un club de lectura con vocación de permanencia: la idea es seguir reuniéndonos después de la feria. Por eso, además de preparar la sesión inaugural, necesitamos hablar de quién podría organizar las siguientes.",
+    "cloze": "vocación de permanencia",
+    "answer": "vocación de permanencia",
+    "lemma": "vocación de permanencia",
+    "meaning": "intention to endure",
+    "audio": "work/audio/es-MX/05/es-05-1719.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1720",
+    "sentence": "No esperamos que los dos instructores visiten todas las sedes. Buscamos un efecto multiplicador al formar a un representante de cada sede para que después enseñe a su propio grupo; falta comprobar que puedan hacerlo sin apoyo.",
+    "cloze": "efecto multiplicador",
+    "answer": "efecto multiplicador",
+    "lemma": "efecto multiplicador",
+    "meaning": "multiplier effect",
+    "audio": "work/audio/es-MX/05/es-05-1720.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1721",
+    "sentence": "La campaña quiere reducir el desperdicio en todo el centro, pero el alcance operativo de nuestro equipo se limita a la cocina. Podemos cambiar las porciones que servimos; para modificar las compras de otras áreas habrá que hablar con ellas.",
+    "cloze": "alcance operativo",
+    "answer": "alcance operativo",
+    "lemma": "alcance operativo",
+    "meaning": "operational scope",
+    "audio": "work/audio/es-MX/05/es-05-1721.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1722",
+    "sentence": "—Nos encargaron organizar las charlas y ahora nos piden producir también videos. —Eso supone una ampliación de alcance: añade un producto y trabajo de edición que no estaban contemplados. Necesitamos revisar el acuerdo antes de comprometernos.",
+    "cloze": "ampliación de alcance",
+    "answer": "ampliación de alcance",
+    "lemma": "ampliación de alcance",
+    "meaning": "scope expansion",
+    "audio": "work/audio/es-MX/05/es-05-1722.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1723",
+    "sentence": "Para elegir la distribución de la exposición, el esquema tendrá un nivel de detalle suficiente para ubicar las mesas, pero todavía no incluirá el diseño de cada letrero. Primero necesitamos decidir por dónde circulará el público.",
+    "cloze": "nivel de detalle",
+    "answer": "nivel de detalle",
+    "lemma": "nivel de detalle",
+    "meaning": "level of detail",
+    "audio": "work/audio/es-MX/05/es-05-1723.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1724",
+    "sentence": "Cada equipo ya terminó su sección de la guía. Falta el trabajo de integración: al leerlas juntas aparecen instrucciones que se repiten y otras que se contradicen. Reservamos una sesión conjunta para resolver esos cruces.",
+    "cloze": "trabajo de integración",
+    "answer": "trabajo de integración",
+    "lemma": "trabajo de integración",
+    "meaning": "integration work",
+    "audio": "work/audio/es-MX/05/es-05-1724.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1725",
+    "sentence": "Con la propuesta de que cada visitante arme un objeto y explique cómo lo hizo, aterrizamos la idea de una exposición participativa. Así, ustedes ya pueden calcular los materiales y el tiempo de cada actividad.",
+    "cloze": "aterrizamos",
+    "answer": "aterrizamos",
+    "lemma": "aterrizar",
+    "meaning": "we make concrete",
+    "audio": "work/audio/es-MX/05/es-05-1725.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1726",
+    "sentence": "¿Con qué criterios de aceptación vamos a revisar la guía? Acordamos que debe incluir todas las actividades anunciadas y que alguien ajeno al equipo pueda seguir las instrucciones. Esas dos condiciones determinarán si la damos por terminada; la cantidad de páginas no basta.",
+    "cloze": "criterios de aceptación",
+    "answer": "criterios de aceptación",
+    "lemma": "criterio de aceptación",
+    "meaning": "acceptance criteria",
+    "audio": "work/audio/es-MX/05/es-05-1726.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1727",
+    "sentence": "Mientras un equipo reúne las fotografías, otro puede preparar las entrevistas: ninguna tarea necesita el resultado de la otra. Ese trabajo en paralelo nos permite avanzar en ambas durante la misma semana; después reuniremos los materiales para seleccionar el contenido.",
+    "cloze": "trabajo en paralelo",
+    "answer": "trabajo en paralelo",
+    "lemma": "trabajo en paralelo",
+    "meaning": "parallel work",
+    "audio": "work/audio/es-MX/05/es-05-1727.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1728",
+    "sentence": "La grabación tiene una dependencia externa: el museo debe confirmar cuándo podemos entrar. Ya le mandamos la solicitud; mientras responde, ustedes pueden preparar las preguntas, pero todavía no podemos anunciar el día de la entrevista.",
+    "cloze": "dependencia externa",
+    "answer": "dependencia externa",
+    "lemma": "dependencia externa",
+    "meaning": "external dependency",
+    "audio": "work/audio/es-MX/05/es-05-1728.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1729",
+    "sentence": "Para ensayar las entradas del elenco, conocer el orden definitivo de las escenas es un requisito previo. No basta con tener a todos reunidos: si ese orden cambia, tendríamos que volver a ensayar las transiciones.",
+    "cloze": "requisito previo",
+    "answer": "requisito previo",
+    "lemma": "requisito previo",
+    "meaning": "prerequisite",
+    "audio": "work/audio/es-MX/05/es-05-1729.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1730",
+    "sentence": "La demostración es la actividad principal de la feria, pero antes tenemos que probar los materiales con quienes la van a dirigir. La secuencia de trabajo responde a esa necesidad; hacer primero la prueba no significa que sea el objetivo principal del encuentro.",
+    "cloze": "secuencia de trabajo",
+    "answer": "secuencia de trabajo",
+    "lemma": "secuencia de trabajo",
+    "meaning": "work sequence",
+    "audio": "work/audio/es-MX/05/es-05-1730.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1731",
+    "sentence": "Solo podemos montar la exposición entre la salida del grupo de la mañana y la apertura al público. Esa ventana de trabajo es demasiado breve para pintar ahí los paneles, así que los llevaremos pintados y únicamente los colocaremos.",
+    "cloze": "ventana de trabajo",
+    "answer": "ventana de trabajo",
+    "lemma": "ventana de trabajo",
+    "meaning": "work window",
+    "audio": "work/audio/es-MX/05/es-05-1731.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1732",
+    "sentence": "Un grupo más permitiría ofrecer otra actividad, pero también aumentaría la carga de coordinación: habría que combinar sus horarios, materiales y cambios con los de los demás. Antes de invitarlo, necesitamos saber quién puede dedicar tiempo a esas tareas.",
+    "cloze": "carga de coordinación",
+    "answer": "carga de coordinación",
+    "lemma": "carga de coordinación",
+    "meaning": "coordination workload",
+    "audio": "work/audio/es-MX/05/es-05-1732.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1733",
+    "sentence": "—¿Por qué hoy no recibiremos nuevas propuestas? —Necesitamos desahogar las que siguen sin respuesta. Ustedes las revisarán y yo avisaré a sus autores; mañana volveremos a recibir otras, aunque algunas de las actuales aún necesiten cambios.",
+    "cloze": "desahogar",
+    "answer": "desahogar",
+    "lemma": "desahogar",
+    "meaning": "work through a backlog of",
+    "audio": "work/audio/es-MX/05/es-05-1733.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1734",
+    "sentence": "Para esta edición contamos con la capacidad instalada del centro: dos salas equipadas y personal que ya sabe operarlas. Por eso proponemos dos talleres simultáneos; abrir un tercero exigiría conseguir recursos que hoy no tenemos.",
+    "cloze": "capacidad instalada",
+    "answer": "capacidad instalada",
+    "lemma": "capacidad instalada",
+    "meaning": "existing operational capacity",
+    "audio": "work/audio/es-MX/05/es-05-1734.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1735",
+    "sentence": "El equipo nuevo tarda más en preparar cada sesión porque todavía consulta la guía a cada paso. El calendario reserva más tiempo al inicio por esa curva de aprendizaje; revisaremos los tiempos cuando tengan más práctica, sin dar por hecho cuánto van a bajar.",
+    "cloze": "curva de aprendizaje",
+    "answer": "curva de aprendizaje",
+    "lemma": "curva de aprendizaje",
+    "meaning": "learning curve",
+    "audio": "work/audio/es-MX/05/es-05-1735.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1736",
+    "sentence": "El equipo de sonido ya está instalado, pero reservamos un ensayo para su puesta a punto: ajustar el volumen de cada micrófono y comprobar las entradas de música. La instalación por sí sola no lo deja listo para la función.",
+    "cloze": "puesta a punto",
+    "answer": "puesta a punto",
+    "lemma": "puesta a punto",
+    "meaning": "fine-tuning",
+    "audio": "work/audio/es-MX/05/es-05-1736.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1737",
+    "sentence": "El grado de preparación varía entre los equipos: uno ya ensayó su actividad completa y otro apenas eligió los materiales. Les propongo dedicar el apoyo del instructor al segundo; darles las mismas horas a todos no responde a lo que falta en cada caso.",
+    "cloze": "grado de preparación",
+    "answer": "grado de preparación",
+    "lemma": "grado de preparación",
+    "meaning": "degree of readiness",
+    "audio": "work/audio/es-MX/05/es-05-1737.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1738",
+    "sentence": "—¿Hicimos doce entrevistas esta semana? —No, son el avance acumulado desde que empezó el proyecto; cuatro se hicieron esta semana. Mantendremos ese total en el informe y aclararemos el periodo para que no se interpreten como doce entrevistas nuevas.",
+    "cloze": "avance acumulado",
+    "answer": "avance acumulado",
+    "lemma": "avance acumulado",
+    "meaning": "cumulative progress",
+    "audio": "work/audio/es-MX/05/es-05-1738.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1739",
+    "sentence": "Terminamos cuatro fichas la semana pasada y solo dos esta semana porque las nuevas requieren más consulta. Cambió el ritmo de avance, así que revisaremos la estimación de entrega; contar lo que ya está hecho no basta para calcular cuándo acabaremos.",
+    "cloze": "ritmo de avance",
+    "answer": "ritmo de avance",
+    "lemma": "ritmo de avance",
+    "meaning": "rate of progress",
+    "audio": "work/audio/es-MX/05/es-05-1739.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1740",
+    "sentence": "Todos recibieron la capacitación sobre el calendario compartido, pero solo la mitad lo usa para registrar cambios. El grado de adopción sigue siendo limitado; antes de quitar el calendario anterior, preguntaremos qué les impide usar el nuevo.",
+    "cloze": "grado de adopción",
+    "answer": "grado de adopción",
+    "lemma": "grado de adopción",
+    "meaning": "degree of adoption",
+    "audio": "work/audio/es-MX/05/es-05-1740.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1741",
+    "sentence": "La biblioteca ya recibió el catálogo completo y confirmó que cumple lo acordado. Con ese cierre de etapa, el equipo de edición deja de corregir páginas y la biblioteca empieza a usarlo para organizar los préstamos, según el reparto que acordamos.",
+    "cloze": "cierre de etapa",
+    "answer": "cierre de etapa",
+    "lemma": "cierre de etapa",
+    "meaning": "stage closure",
+    "audio": "work/audio/es-MX/05/es-05-1741.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1742",
+    "sentence": "La experiencia de la primera feria se capitaliza en esta edición: conservamos la distribución que evitó filas y cambiamos los turnos que dejaron mesas sin atender. La reunión de evaluación sirvió para tomar esas decisiones, además de recordar cómo nos fue.",
+    "cloze": "se capitaliza",
+    "answer": "se capitaliza",
+    "lemma": "capitalizar",
+    "meaning": "is put to productive use",
+    "audio": "work/audio/es-MX/05/es-05-1742.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1743",
+    "sentence": "El cambio de sede repercute en varias partes del proyecto: obliga a revisar el recorrido, el montaje y las indicaciones al público. Por eso lo veremos juntos antes de cambiar los anuncios; no es solo sustituir una dirección.",
+    "cloze": "repercute",
+    "answer": "repercute",
+    "lemma": "repercutir",
+    "meaning": "has repercussions",
+    "audio": "work/audio/es-MX/05/es-05-1743.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1744",
+    "sentence": "Otras sedes quieren organizar el mismo taller. Para aumentar su capacidad de réplica, prepararemos ejemplos y explicaremos cómo adaptar los materiales disponibles; entregarles únicamente las fotos de nuestra sesión no les diría cómo organizar la suya.",
+    "cloze": "capacidad de réplica",
+    "answer": "capacidad de réplica",
+    "lemma": "capacidad de réplica",
+    "meaning": "capacity for replication",
+    "audio": "work/audio/es-MX/05/es-05-1744.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1745",
+    "sentence": "Durante el primer mes habrá costos de transición: dedicaremos tiempo a trasladar los registros y atender dudas sobre el sistema nuevo. Ese trabajo es temporal y se suma a la atención habitual, así que lo contamos al repartir los turnos.",
+    "cloze": "costos de transición",
+    "answer": "costos de transición",
+    "lemma": "costo de transición",
+    "meaning": "transition costs",
+    "audio": "work/audio/es-MX/05/es-05-1745.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1746",
+    "sentence": "El nuevo turno de consultas busca reducir el tiempo de respuesta entre la llegada de una pregunta y la primera contestación útil. Vamos a medir ese intervalo; resolver por completo cada caso puede requerir varios intercambios y es otra parte del trabajo.",
+    "cloze": "tiempo de respuesta",
+    "answer": "tiempo de respuesta",
+    "lemma": "tiempo de respuesta",
+    "meaning": "response time",
+    "audio": "work/audio/es-MX/05/es-05-1746.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1747",
+    "sentence": "El taller se anunció en cinco colonias, pero solo participaron vecinos de dos. Para ampliar la cobertura efectiva, preguntaremos en las otras tres qué dificultó la asistencia; haber repartido invitaciones ahí no significa que el taller ya esté llegando a sus vecinos.",
+    "cloze": "cobertura efectiva",
+    "answer": "cobertura efectiva",
+    "lemma": "cobertura efectiva",
+    "meaning": "actual reach",
+    "audio": "work/audio/es-MX/05/es-05-1747.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1748",
+    "sentence": "Quedaron veinte personas sin lugar aunque podían asistir en el horario anunciado. Esa demanda no atendida justifica estudiar otro grupo; antes de ofrecerlo, necesitamos confirmar quién podría impartirlo y dónde. El interés ya está registrado, los recursos todavía no.",
+    "cloze": "demanda no atendida",
+    "answer": "demanda no atendida",
+    "lemma": "demanda no atendida",
+    "meaning": "unmet demand",
+    "audio": "work/audio/es-MX/05/es-05-1748.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1749",
+    "sentence": "El equipo de programación decide cuánto dura cada actividad y el equipo del salón necesita saber cuándo cambiar las mesas. Reservamos tiempo para el trabajo de enlace entre ambos: cada cambio de duración debe llegar a quienes preparan el espacio.",
+    "cloze": "trabajo de enlace",
+    "answer": "trabajo de enlace",
+    "lemma": "trabajo de enlace",
+    "meaning": "liaison work",
+    "audio": "work/audio/es-MX/05/es-05-1749.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1750",
+    "sentence": "Dos organizadores dieron respuestas opuestas sobre si los participantes pueden llegar después del inicio. Necesitamos unificar criterios antes de contestar más consultas; la reunión servirá para acordar una regla común, no para escoger qué mensaje reenviar.",
+    "cloze": "unificar criterios",
+    "answer": "unificar criterios",
+    "lemma": "unificar criterios",
+    "meaning": "establish consistent criteria",
+    "audio": "work/audio/es-MX/05/es-05-1750.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1751",
+    "sentence": "El proyecto busca que los vecinos separen mejor sus residuos. Ya terminamos la guía para las visitas; es un resultado intermedio que usaremos al hablar con ellos, pero todavía no hemos observado cambios en la separación de residuos.",
+    "cloze": "resultado intermedio",
+    "answer": "resultado intermedio",
+    "lemma": "resultado intermedio",
+    "meaning": "intermediate result",
+    "audio": "work/audio/es-MX/05/es-05-1751.mp3",
+    "accepted_answers": []
   }
 ]
