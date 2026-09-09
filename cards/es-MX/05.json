@@ -16790,5 +16790,405 @@
     "meaning": "reconcile",
     "audio": "work/audio/es-MX/05/es-05-1674.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1675",
+    "sentence": "—Necesito usar tu mesa para cortar las telas mientras haya luz; puedo devolvértela antes de tu clase. —Yo puedo preparar la clase en casa: me ajusto a ese uso por esta semana, siempre que dejes la mesa libre y limpia para mis alumnos.",
+    "cloze": "me ajusto",
+    "answer": "me ajusto",
+    "lemma": "ajustarse",
+    "meaning": "I adapt",
+    "audio": "work/audio/es-MX/05/es-05-1675.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1676",
+    "sentence": "Como coordinadora puedo mover la entrega del informe, pero necesito detectar problemas antes del cierre. Ustedes piden esperar los resultados completos; prorrogo el plazo si me mandan primero lo que ya verificaron, marcado como avance. Díganme si pueden preparar ese envío antes de aceptar.",
+    "cloze": "prorrogo",
+    "answer": "prorrogo",
+    "lemma": "prorrogar",
+    "meaning": "I extend",
+    "audio": "work/audio/es-MX/05/es-05-1676.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1677",
+    "sentence": "—No podemos volver todos juntos al taller que usted canceló. —Yo doy las clases y puedo atenderlos por separado: les repongo la sesión en grupos pequeños si ustedes reúnen las preferencias de horario; después confirmaré cuáles puedo cubrir. Esa reposición no incluye las clases que sí se dieron.",
+    "cloze": "les repongo",
+    "answer": "les repongo",
+    "lemma": "reponer",
+    "meaning": "I make up (the session) for you",
+    "audio": "work/audio/es-MX/05/es-05-1677.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1678",
+    "sentence": "Ustedes quieren que yo adelante las ilustraciones y ofrecen enviarme el texto después; así tendría que dibujar sin saber qué escenas van. Puedo empezar con las páginas ya aprobadas, pero supedito el resto del trabajo a recibir sus textos definitivos. ¿Les sirve avanzar con ese límite?",
+    "cloze": "supedito",
+    "answer": "supedito",
+    "lemma": "supeditar",
+    "meaning": "I make conditional",
+    "audio": "work/audio/es-MX/05/es-05-1678.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1679",
+    "sentence": "Como dueña del equipo, acepto prestártelo para la prueba a cambio de que tú prepares la demostración; me reservo la decisión de continuar el préstamo después de ver cómo funciona. Tú necesitas usarlo durante todo el curso, así que confirma si una sola prueba te sirve.",
+    "cloze": "me reservo",
+    "answer": "me reservo",
+    "lemma": "reservarse",
+    "meaning": "I reserve for myself",
+    "audio": "work/audio/es-MX/05/es-05-1679.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1680",
+    "sentence": "Me dices que necesitas consultar tu calendario antes de aceptar mi ofrecimiento de revisar el folleto. Ese ofrecimiento te lo sostengo hasta que lo consultes hoy; a cambio, necesito que la versión que revise ya no reciba secciones nuevas. Todavía no aparto tiempo para una versión más larga.",
+    "cloze": "te lo sostengo",
+    "answer": "te lo sostengo",
+    "lemma": "sostener",
+    "meaning": "I keep it open for you",
+    "audio": "work/audio/es-MX/05/es-05-1680.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1681",
+    "sentence": "—Puedo coordinar las inscripciones, pero no también perseguir los comprobantes que faltan. —Como responsable del proyecto, te libero de ese seguimiento si aceptas revisar que cada inscripción nueva llegue completa; los comprobantes anteriores los pediré yo. Dime si con ese reparto puedes tomar la coordinación.",
+    "cloze": "te libero",
+    "answer": "te libero",
+    "lemma": "liberar",
+    "meaning": "I release you",
+    "audio": "work/audio/es-MX/05/es-05-1681.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1682",
+    "sentence": "—Necesito que tu presentación termine antes porque después doy clase, pero quiero escuchar las preguntas. —La presentación es mía: recorto la parte de ejemplos para conservar las preguntas, a cambio de que revises antes la explicación escrita. Si no puedes leerla, busquemos otra opción.",
+    "cloze": "recorto",
+    "answer": "recorto",
+    "lemma": "recortar",
+    "meaning": "I shorten",
+    "audio": "work/audio/es-MX/05/es-05-1682.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1683",
+    "sentence": "—Entonces acepto preparar las copias sin engargolar, y tú las recoges; así no tengo que cerrar el local para llevártelas. —Ese arreglo lo ratifico: yo paso por ellas y tú solo las imprimes. El engargolado se queda fuera; no esperes que lo decida al recoger.",
+    "cloze": "lo ratifico",
+    "answer": "lo ratifico",
+    "lemma": "ratificar",
+    "meaning": "I reaffirm it",
+    "audio": "work/audio/es-MX/05/es-05-1683.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1684",
+    "sentence": "—Acepto clasificar las cajas que vimos, pero no sé qué contienen las que siguen cerradas. —De acuerdo: yo las abro y preparo la lista; si aparecen materiales que requieren otra clasificación, reabrimos el reparto antes de asignártelos. Mi aceptación de revisar la carga incluye esa pausa.",
+    "cloze": "reabrimos",
+    "answer": "reabrimos",
+    "lemma": "reabrir",
+    "meaning": "we reopen",
+    "audio": "work/audio/es-MX/05/es-05-1684.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1685",
+    "sentence": "—Puedo hacerme cargo del cierre esta semana, pero no cada vez que haya taller. —Yo también puedo cerrar; nos turnamos desde la próxima sesión y, si alguno no puede, buscamos juntos un cambio antes de avisar al grupo. —Acepto, siempre que mi primer cierre sea el de esta semana.",
+    "cloze": "nos turnamos",
+    "answer": "nos turnamos",
+    "lemma": "turnarse",
+    "meaning": "we take turns",
+    "audio": "work/audio/es-MX/05/es-05-1685.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1686",
+    "sentence": "El préstamo de mi proyector te permitiría dar la charla donde prefieres, pero yo lo necesito esa misma tarde. Puedo prestártelo; lo condiciono a que tú confirmes quién lo traerá de vuelta antes de mi clase. Que el mensajero todavía no responda deja el préstamo sin confirmar.",
+    "cloze": "lo condiciono",
+    "answer": "lo condiciono",
+    "lemma": "condicionar",
+    "meaning": "I make it conditional",
+    "audio": "work/audio/es-MX/05/es-05-1686.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1687",
+    "sentence": "—Puedo enviarte las fotos hoy si todavía puedo corregir los pies de foto. —Yo necesito verlas para diseñar, no publicarlas ya; aplazamos la publicación hasta que me confirmes esos textos y yo avanzo con la distribución. —Sí, te mando copias de trabajo con esa condición.",
+    "cloze": "aplazamos",
+    "answer": "aplazamos",
+    "lemma": "aplazar",
+    "meaning": "we postpone",
+    "audio": "work/audio/es-MX/05/es-05-1687.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1688",
+    "sentence": "Usted necesita revisar la instalación conmigo y yo no puedo faltar otra mañana al trabajo. Ambos estamos disponibles al terminar mi jornada, pero usted tendría que cerrar su taller después; reprogramemos la revisión para ese momento si le sirve que yo lleve antes las piezas al mostrador.",
+    "cloze": "reprogramemos",
+    "answer": "reprogramemos",
+    "lemma": "reprogramar",
+    "meaning": "let's reschedule",
+    "audio": "work/audio/es-MX/05/es-05-1688.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1689",
+    "sentence": "—Necesito que acompañes al grupo hasta que todos aprendan a usar el programa. —Puedo ofrecer una asesoría adicional si ustedes reúnen antes las dudas; me limitaré a explicar esos puntos y comprobarlos con un ejercicio. El aprendizaje de cada persona puede requerir más apoyo del que puedo prometer.",
+    "cloze": "me limitaré",
+    "answer": "me limitaré",
+    "lemma": "limitarse",
+    "meaning": "I will limit myself",
+    "audio": "work/audio/es-MX/05/es-05-1689.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1690",
+    "sentence": "—Puedo presentar la propuesta de tu área, pero no responder por decisiones que no tomé. —Yo tomé esas decisiones y asistiré a la junta: te respaldo al explicar sus razones si tú presentas el trabajo realizado. No te estoy pidiendo que las defiendas como si fueran tuyas.",
+    "cloze": "te respaldo",
+    "answer": "te respaldo",
+    "lemma": "respaldar",
+    "meaning": "I back you",
+    "audio": "work/audio/es-MX/05/es-05-1690.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1691",
+    "sentence": "Como encargada del salón, sé que perdieron tiempo de ensayo por nuestra entrega tardía. Ustedes pueden quedarse después, pero temen otro cobro; les compenso ese tiempo con uso adicional sin cargo, a cambio de que terminemos a la hora que todavía me permite cerrar. Confirmen si les alcanza.",
+    "cloze": "les compenso",
+    "answer": "les compenso",
+    "lemma": "compensar",
+    "meaning": "I compensate you",
+    "audio": "work/audio/es-MX/05/es-05-1691.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1692",
+    "sentence": "—Puedo revisar tus textos, pero cada versión trae temas nuevos y ya no me alcanza la tarde. —Yo necesito corregir errores antes de imprimir; acotemos esta revisión a los textos actuales, y yo guardaré los temas nuevos para otro número. ¿Puedes revisar así sin ampliar tu horario?",
+    "cloze": "acotemos",
+    "answer": "acotemos",
+    "lemma": "acotar",
+    "meaning": "let's define the limits of",
+    "audio": "work/audio/es-MX/05/es-05-1692.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1693",
+    "sentence": "Entiendo que ustedes quieran conservar al mismo proveedor, pero no puedo aceptar otra entrega sin revisar las piezas. Ustedes ofrecen organizar una prueba y yo puedo asistir; reconsideraré mi rechazo si ahí podemos comprobar el ajuste. Acepto revisar esa posibilidad, no encargar todavía la producción.",
+    "cloze": "reconsideraré",
+    "answer": "reconsideraré",
+    "lemma": "reconsiderar",
+    "meaning": "I will reconsider",
+    "audio": "work/audio/es-MX/05/es-05-1693.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1694",
+    "sentence": "—Puedo mostrarte los borradores para que prepares el diseño, pero necesito que sigan dentro del equipo. —Ese límite lo respetaré aunque me pidan adelantos: yo prepararé una muestra con texto inventado para las consultas externas. —Con esa alternativa, acepto darte acceso a los borradores.",
+    "cloze": "lo respetaré",
+    "answer": "lo respetaré",
+    "lemma": "respetar",
+    "meaning": "I will honor it",
+    "audio": "work/audio/es-MX/05/es-05-1694.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1695",
+    "sentence": "—Solo puedo recibir las cajas si vienen separadas por salón; no tengo espacio para abrirlas todas. —Acabo de separarlas yo: el envío en esas condiciones te lo confirmo. —Entonces acepto recibirlo y avisarte cuántas llegaron; revisar el contenido de cada caja queda para después.",
+    "cloze": "te lo confirmo",
+    "answer": "te lo confirmo",
+    "lemma": "confirmar",
+    "meaning": "I confirm it to you",
+    "audio": "work/audio/es-MX/05/es-05-1695.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1696",
+    "sentence": "—Puedo prestarte el salón, pero quiero que anuncies también mi curso durante tu taller. —Necesito elegir el contenido sin publicidad; desvinculemos el préstamo de ese anuncio y yo me encargo de dejar el salón listo para tu siguiente grupo. ¿Aceptarías esa ayuda como intercambio?",
+    "cloze": "desvinculemos",
+    "answer": "desvinculemos",
+    "lemma": "desvincular",
+    "meaning": "let's separate",
+    "audio": "work/audio/es-MX/05/es-05-1696.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1697",
+    "sentence": "Ustedes aceptaron entregar los muebles armados porque yo ofrecí recibirlos en planta baja; ahora solo tengo disponible el piso de arriba. Como cambió lo que yo podía ofrecer, renegociemos la entrega antes de que salgan: puedo recibir las piezas sin armar, pero necesito saber si caben por la escalera.",
+    "cloze": "renegociemos",
+    "answer": "renegociemos",
+    "lemma": "renegociar",
+    "meaning": "let's renegotiate",
+    "audio": "work/audio/es-MX/05/es-05-1697.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1698",
+    "sentence": "—Puedo revisar los nombres o las cantidades, pero no ambas cosas antes del envío. —Yo tampoco alcanzo a revisar todo; repartámonos la comprobación según lo que conoce cada quien: tú los nombres de tu grupo y yo las cantidades que preparé. Después comparamos nuestras notas antes de enviar.",
+    "cloze": "repartámonos",
+    "answer": "repartámonos",
+    "lemma": "repartirse",
+    "meaning": "let's divide between us",
+    "audio": "work/audio/es-MX/05/es-05-1698.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1699",
+    "sentence": "—Puedo terminar el diseño si dejamos de cambiar la lista de actividades. —Yo necesito añadir una que todavía no está confirmada. —Entonces congelemos la lista para la versión impresa y yo preparo un aviso aparte para esa actividad cuando la confirmes. ¿Te funciona conservarla fuera del impreso?",
+    "cloze": "congelemos",
+    "answer": "congelemos",
+    "lemma": "congelar",
+    "meaning": "let's freeze",
+    "audio": "work/audio/es-MX/05/es-05-1699.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1700",
+    "sentence": "—Puedo probar el nuevo reparto, pero temo quedarme con él aunque me quite tiempo de preparación. —A mí también me preocupa la carga; reservémonos una sesión para revisarlo juntos antes de decidir si continúa. —Con esa revisión incluida, acepto probarlo durante este ciclo.",
+    "cloze": "reservémonos",
+    "answer": "reservémonos",
+    "lemma": "reservarse",
+    "meaning": "let's reserve for ourselves",
+    "audio": "work/audio/es-MX/05/es-05-1700.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1701",
+    "sentence": "—Necesitamos que la persona que tenga las llaves también responda cuando cambie el horario. —Yo puedo guardarlas y, si aceptan que los avisos lleguen por un solo canal, me obligo a confirmar cada cambio que reciba. No puedo garantizar que veré mensajes repartidos entre varios chats.",
+    "cloze": "me obligo",
+    "answer": "me obligo",
+    "lemma": "obligarse",
+    "meaning": "I commit myself",
+    "audio": "work/audio/es-MX/05/es-05-1701.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1702",
+    "sentence": "—Acepto que uses primero el equipo porque tu demostración ya está anunciada, pero sigo necesitando terminar mis pruebas. —Yo lo dejaré libre al acabar; retomaremos tus pruebas antes de aceptar otro encargo. —Con ese orden confirmado, puedo esperar mientras haces la demostración.",
+    "cloze": "retomaremos",
+    "answer": "retomaremos",
+    "lemma": "retomar",
+    "meaning": "we will resume",
+    "audio": "work/audio/es-MX/05/es-05-1702.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1703",
+    "sentence": "—Tengo que salir del módulo para entregar los formatos, pero no puedo dejarlo vacío. —Yo sé atenderlo y estoy libre: te sustituyo mientras haces la entrega si al volver tú recibes el siguiente grupo, porque necesito salir a comer. ¿Puedes tomarlo cuando regreses?",
+    "cloze": "te sustituyo",
+    "answer": "te sustituyo",
+    "lemma": "sustituir",
+    "meaning": "I cover for you",
+    "audio": "work/audio/es-MX/05/es-05-1703.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1704",
+    "sentence": "Usted necesita ver una muestra antes de decidir el acabado y yo no puedo preparar varias sin una elección inicial. Como responsable del trabajo, adelanto una muestra del material que usted elija si dejamos las demás opciones para después de revisarla; preparar esa muestra no confirma todavía el acabado final.",
+    "cloze": "adelanto",
+    "answer": "adelanto",
+    "lemma": "adelantar",
+    "meaning": "I bring forward",
+    "audio": "work/audio/es-MX/05/es-05-1704.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1705",
+    "sentence": "—Si hoy reviso tu solicitud, ya no alcanzo a preparar las preguntas de la entrevista. —Yo necesito mandar la solicitud hoy; pospongo nuestra entrevista para que puedas revisarla y te envío por escrito los datos que ibas a preguntarme. ¿Ese cambio te deja tiempo suficiente?",
+    "cloze": "pospongo",
+    "answer": "pospongo",
+    "lemma": "posponer",
+    "meaning": "I put off",
+    "audio": "work/audio/es-MX/05/es-05-1705.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1706",
+    "sentence": "Yo había pedido que trajeran sus propias mesas porque no podía conseguirlas. Ahora ustedes ofrecen usar las del salón y acomodarlas al terminar; ese requisito lo retiro si la encargada confirma el préstamo. Mientras falta su respuesta, mi cambio de propuesta sigue condicionado a esa disponibilidad.",
+    "cloze": "lo retiro",
+    "answer": "lo retiro",
+    "lemma": "retirar",
+    "meaning": "I withdraw it",
+    "audio": "work/audio/es-MX/05/es-05-1706.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1707",
+    "sentence": "Me pides una excepción para entrar al estudio durante mi turno porque necesitas recoger tu grabación. Como responsable de ese turno, te la concedo para recoger el archivo, a cambio de que no enciendas los monitores mientras grabo. Para trabajar ahí después tendríamos que hablar de otro horario.",
+    "cloze": "te la concedo",
+    "answer": "te la concedo",
+    "lemma": "conceder",
+    "meaning": "I grant it to you",
+    "audio": "work/audio/es-MX/05/es-05-1707.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1708",
+    "sentence": "—Para conservar la fecha puedo reducir mi participación, pero no puedo preparar también la introducción. —Yo había exigido ambas cosas; doy marcha atrás con esa exigencia si mantienes la parte central, y la introducción la preparo yo. Dime si con ese cambio puedes participar en la fecha prevista.",
+    "cloze": "doy marcha atrás",
+    "answer": "doy marcha atrás",
+    "lemma": "dar marcha atrás",
+    "meaning": "I reverse my position",
+    "audio": "work/audio/es-MX/05/es-05-1708.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1709",
+    "sentence": "—Puedo conseguir apoyo para el montaje si me dices qué ayuda necesitas; no puedo pedirle a alguien que reserve todo el día. —Yo puedo preparar las piezas antes. ¿Concretamos la ayuda en colocarlas y retirarlas, para que tú preguntes por esos dos momentos sin prometer todavía que habrá alguien?",
+    "cloze": "Concretamos",
+    "answer": "Concretamos",
+    "lemma": "concretar",
+    "meaning": "we settle the details of",
+    "audio": "work/audio/es-MX/05/es-05-1709.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1710",
+    "sentence": "Los dos pedimos poder cambiar una entrega cuando nuestro otro trabajo se retrase, pero ninguno puede recibir cambios sin aviso. Podemos concedernos ese margen si cada quien avisa antes de que el otro empiece a revisar; cuando la revisión ya esté en curso, hablaremos de cada caso por separado.",
+    "cloze": "concedernos",
+    "answer": "concedernos",
+    "lemma": "concederse",
+    "meaning": "to grant each other",
+    "audio": "work/audio/es-MX/05/es-05-1710.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1711",
+    "sentence": "—Necesito el carrito grande para las cajas, pero tú ya lo apartaste. —Yo solo llevo carpetas y puedo usar el tuyo; te lo cambio durante el traslado si después cada carrito vuelve con su dueño. —Sí, hacemos el cambio solo para ese recorrido.",
+    "cloze": "te lo cambio",
+    "answer": "te lo cambio",
+    "lemma": "cambiar",
+    "meaning": "I exchange it with you",
+    "audio": "work/audio/es-MX/05/es-05-1711.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1712",
+    "sentence": "Como coordinador les pedí atender consultas fuera del taller; ustedes dicen que eso les quita su único tiempo de preparación. Puedo reducir esas consultas a un turno compartido y me incluyo en la rotación, a cambio de que revisemos juntos las dudas que queden pendientes. ¿Les resulta viable ese reparto?",
+    "cloze": "me incluyo",
+    "answer": "me incluyo",
+    "lemma": "incluirse",
+    "meaning": "I include myself",
+    "audio": "work/audio/es-MX/05/es-05-1712.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1713",
+    "sentence": "—Acepto recibir el pedido sin los separadores para que salga hoy, pero necesito que lleguen después sin volver a pagar el envío. —Yo preparo y despacho el pedido; lo completaré con los separadores en un envío aparte a mi cargo cuando lleguen. Si ese compromiso te sirve, puedo sacar hoy lo demás.",
+    "cloze": "lo completaré",
+    "answer": "lo completaré",
+    "lemma": "completar",
+    "meaning": "I will complete it",
+    "audio": "work/audio/es-MX/05/es-05-1713.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1714",
+    "sentence": "—Acepto llevar el material y ustedes ofrecen preparar las mesas, pero el transporte de regreso sigue sin resolverse. —Las mesas las preparo yo y ya confirmé que puedo hacerlo. ¿Cerramos solo ese reparto y dejamos el regreso pendiente, sin anunciar todavía que toda la actividad está organizada?",
+    "cloze": "Cerramos",
+    "answer": "Cerramos",
+    "lemma": "cerrar",
+    "meaning": "we finalize",
+    "audio": "work/audio/es-MX/05/es-05-1714.mp3",
+    "accepted_answers": []
   }
 ]
