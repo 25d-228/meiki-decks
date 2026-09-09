@@ -8491,11 +8491,11 @@
   },
   {
     "id": "es-05-0845",
-    "sentence": "—¿La coordinadora les pidió retirar la propuesta o defenderla? —Ni lo uno ni lo otro: dejó la decisión en nuestras manos.",
-    "cloze": "Ni lo uno ni lo otro",
-    "answer": "Ni lo uno ni lo otro",
-    "lemma": "ni lo uno ni lo otro",
-    "meaning": "neither one nor the other",
+    "sentence": "Después de tres mensajes sin respuesta, la coordinadora le pidió a Raúl que se dignara contestar; al contar la conversación, aclaré que la petición también expresaba un reproche por su silencio.",
+    "cloze": "se dignara",
+    "answer": "se dignara",
+    "lemma": "dignarse",
+    "meaning": "deign to",
     "audio": "work/audio/es-MX/05/es-05-0845.mp3",
     "accepted_answers": []
   },
@@ -8671,11 +8671,11 @@
   },
   {
     "id": "es-05-0863",
-    "sentence": "La coordinadora pidió esperar otra confirmación antes de preparar las carpetas: «No cancelen el encargo todavía». Por eso informé que su petición quedaba en suspenso, pendiente de esa respuesta.",
-    "cloze": "en suspenso",
-    "answer": "en suspenso",
-    "lemma": "en suspenso",
-    "meaning": "on hold",
+    "sentence": "«Si ven llegar a alguien tarde, actúen como si no lo hubieran notado; la regla de puntualidad sigue vigente», les dijo la coordinadora a los encargados. Al transmitir el mensaje a quienes faltaron, expliqué que les había pedido que hicieran la vista gorda.",
+    "cloze": "hicieran la vista gorda",
+    "answer": "hicieran la vista gorda",
+    "lemma": "hacer la vista gorda",
+    "meaning": "turn a blind eye",
     "audio": "work/audio/es-MX/05/es-05-0863.mp3",
     "accepted_answers": []
   },
