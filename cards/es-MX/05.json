@@ -18760,5 +18760,405 @@
     "meaning": "lift",
     "audio": "work/audio/es-MX/05/es-05-1871.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1872",
+    "sentence": "«Olvidé avisar del cambio de salón y el grupo esperó afuera», reconocí en el correo a la coordinadora. Ahora mi compañero me pide que se lo cuente en persona y sin tantas vueltas: «Se quedaron esperando afuera porque se me pasó avisarles del cambio de salón».",
+    "cloze": "se me pasó",
+    "answer": "se me pasó",
+    "lemma": "pasársele",
+    "meaning": "I forgot / it slipped my mind",
+    "audio": "work/audio/es-MX/05/es-05-1872.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1873",
+    "sentence": "Mi reporte explica que confundí el orden de las instrucciones y mezclé dos pasos; durante el ensayo, se lo cuento a mi compañera con más naturalidad: «Con el orden me hice bolas: junté dos pasos que iban separados».",
+    "cloze": "me hice bolas",
+    "answer": "me hice bolas",
+    "lemma": "hacerse bolas",
+    "meaning": "I got confused",
+    "audio": "work/audio/es-MX/05/es-05-1873.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1874",
+    "sentence": "En la junta dije que las dos entregas nos caían el mismo día, aunque cada equipo podía terminar su parte; para la directora, el resumen escrito conserva esa diferencia: «Las dos entregas son el mismo día, pero esa coincidencia de plazos no impide que cada equipo termine su parte».",
+    "cloze": "coincidencia de plazos",
+    "answer": "coincidencia de plazos",
+    "lemma": "coincidencia de plazos",
+    "meaning": "overlap of deadlines",
+    "audio": "work/audio/es-MX/05/es-05-1874.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1875",
+    "sentence": "La nota de producción dice que acomodar las luces ocupó todo el tiempo reservado para ensayar y que no alcanzamos a practicar; al explicárselo al elenco reunido, digo: «El ajuste de las luces nos comió el tiempo y ya no alcanzamos a ensayar».",
+    "cloze": "nos comió",
+    "answer": "nos comió",
+    "lemma": "comer",
+    "meaning": "used up",
+    "audio": "work/audio/es-MX/05/es-05-1875.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1876",
+    "sentence": "—Para el boletín de los vecinos, ¿cómo dejamos lo que dijiste en la asamblea: que calculamos unas sesenta visitas, pero no contamos a cada persona? —La cifra de sesenta visitas es una estimación aproximada, pues no llevamos un conteo individual.",
+    "cloze": "estimación aproximada",
+    "answer": "estimación aproximada",
+    "lemma": "estimación aproximada",
+    "meaning": "rough estimate",
+    "audio": "work/audio/es-MX/05/es-05-1876.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1877",
+    "sentence": "La planeación indica que armaremos todos los paneles en una sola sesión, sin repartir el trabajo entre varios días; en el mensaje de voz para mis compañeros lo digo más suelto: «Vamos a armar los paneles de un jalón, en una sola sesión, sin dejar trabajo para otro día».",
+    "cloze": "de un jalón",
+    "answer": "de un jalón",
+    "lemma": "de un jalón",
+    "meaning": "in one uninterrupted stretch",
+    "audio": "work/audio/es-MX/05/es-05-1877.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1878",
+    "sentence": "En el informe anotamos que la edición no pudo avanzar porque faltaban los pies de foto, aunque las imágenes ya estaban elegidas; frente al equipo de voluntarios, explico dónde estuvo la dificultad: «La edición se nos atoró porque no teníamos los pies de foto; las imágenes ya estaban elegidas».",
+    "cloze": "se nos atoró",
+    "answer": "se nos atoró",
+    "lemma": "atorarse",
+    "meaning": "got held up for us",
+    "audio": "work/audio/es-MX/05/es-05-1878.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1879",
+    "sentence": "«Entre Laura y yo elegimos quitar esa actividad porque no cabía en el horario», expliqué en la reunión; para que el acta dirigida a ambos equipos conserve quiénes decidimos, escribo: «Retirar la actividad fue una decisión conjunta que tomamos Laura y yo porque no cabía en el horario».",
+    "cloze": "decisión conjunta",
+    "answer": "decisión conjunta",
+    "lemma": "decisión conjunta",
+    "meaning": "joint decision",
+    "audio": "work/audio/es-MX/05/es-05-1879.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1880",
+    "sentence": "Los organizadores del barrio me piden explicar en la reunión lo que anotamos en el informe: no previmos tantas preguntas y faltó personal para atenderlas. Les digo: «La cantidad de preguntas nos agarró desprevenidos y no teníamos suficiente gente para responderlas en ese momento».",
+    "cloze": "nos agarró desprevenidos",
+    "answer": "nos agarró desprevenidos",
+    "lemma": "agarrar desprevenido",
+    "meaning": "caught us unprepared",
+    "audio": "work/audio/es-MX/05/es-05-1880.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1881",
+    "sentence": "Por teléfono les expliqué a los responsables de la muestra que hoy recibirían las fotografías, pero los textos llegarían después; en el correo que acompaña los archivos preciso: «Este envío es una entrega parcial: incluye las fotografías y quedan pendientes los textos».",
+    "cloze": "entrega parcial",
+    "answer": "entrega parcial",
+    "lemma": "entrega parcial",
+    "meaning": "partial delivery",
+    "audio": "work/audio/es-MX/05/es-05-1881.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1882",
+    "sentence": "En la reunión aclaré que la propuesta era de Inés y que yo la había presentado como mía por equivocación; en la corrección escrita para los asistentes asumo el mismo error: «Corrijo mi atribución errónea de la propuesta: es de Inés, no mía».",
+    "cloze": "atribución errónea",
+    "answer": "atribución errónea",
+    "lemma": "atribución errónea",
+    "meaning": "incorrect attribution",
+    "audio": "work/audio/es-MX/05/es-05-1882.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1883",
+    "sentence": "En mis notas reconozco que perdí la secuencia de la explicación al llegar a la conclusión y propongo volver al ejemplo; ante mis colegas, retomo la presentación sin tanta rigidez: «Al llegar a la conclusión se me fue el hilo; vuelvo al ejemplo para recuperar la idea».",
+    "cloze": "se me fue el hilo",
+    "answer": "se me fue el hilo",
+    "lemma": "írsele el hilo",
+    "meaning": "I lost my train of thought",
+    "audio": "work/audio/es-MX/05/es-05-1883.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1884",
+    "sentence": "—En el reporte de la práctica pusiste que conocías el nombre de la autora, pero no pudiste recordarlo cuando te preguntaron; cuéntamelo como se lo contarías a un compañero de clase. —Sí sabía cómo se llamaba, pero me quedé en blanco cuando me preguntaron su nombre.",
+    "cloze": "me quedé en blanco",
+    "answer": "me quedé en blanco",
+    "lemma": "quedarse en blanco",
+    "meaning": "my mind went blank",
+    "audio": "work/audio/es-MX/05/es-05-1884.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1885",
+    "sentence": "«El intercambio lo acordamos de palabra entre los dos grupos; no firmamos ningún documento», explico a la asamblea de lectores. Así expreso ante ellos lo que el registro escrito describe como un intercambio de libros aceptado verbalmente por ambas partes, sin un documento firmado.",
+    "cloze": "de palabra",
+    "answer": "de palabra",
+    "lemma": "de palabra",
+    "meaning": "verbally",
+    "audio": "work/audio/es-MX/05/es-05-1885.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1886",
+    "sentence": "En la llamada dije que el sábado era una propuesta y que todavía faltaba consultar a quienes prestarían el patio; para el comité, el correo mantiene ese límite: «La fecha tiene carácter tentativo: proponemos el sábado y falta consultar a quienes nos prestarían el espacio».",
+    "cloze": "carácter tentativo",
+    "answer": "carácter tentativo",
+    "lemma": "carácter tentativo",
+    "meaning": "tentative status",
+    "audio": "work/audio/es-MX/05/es-05-1886.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1887",
+    "sentence": "Mi correo a una compañera ofrecía ayudarla a revisar las imágenes si quería, sin asumir la selección; cuando lo retomamos en persona, le digo: «Si quieres, te echo la mano con la revisión de las imágenes; tú sigues decidiendo cuáles se quedan».",
+    "cloze": "te echo la mano",
+    "answer": "te echo la mano",
+    "lemma": "echar la mano",
+    "meaning": "I'll give you a hand",
+    "audio": "work/audio/es-MX/05/es-05-1887.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1888",
+    "sentence": "Por teléfono expliqué que puedo atender consultas los martes, pero el resto de la semana doy clase; al escribir a la coordinación, evito que mi ofrecimiento parezca más amplio: «Tengo disponibilidad limitada para atender consultas: solo los martes, porque los demás días doy clase».",
+    "cloze": "disponibilidad limitada",
+    "answer": "disponibilidad limitada",
+    "lemma": "disponibilidad limitada",
+    "meaning": "limited availability",
+    "audio": "work/audio/es-MX/05/es-05-1888.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1889",
+    "sentence": "Los vecinos leyeron mi confirmación escrita de que participaría en la lectura pública del cierre, pero quieren oírla de mí en la reunión. Con el tono cercano que usamos entre nosotros, les digo: «Para la lectura del cierre, cuenten conmigo: sí voy a participar».",
+    "cloze": "cuenten conmigo",
+    "answer": "cuenten conmigo",
+    "lemma": "contar con",
+    "meaning": "you can count on me",
+    "audio": "work/audio/es-MX/05/es-05-1889.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1890",
+    "sentence": "Había ofrecido organizar la comida y luego escribí al grupo que retiraba mi ofrecimiento porque no tenía tiempo; al hablar con mis amigos, asumo ese cambio: «Con lo de organizar la comida me echo para atrás: no tengo tiempo para hacerlo».",
+    "cloze": "me echo para atrás",
+    "answer": "me echo para atrás",
+    "lemma": "echarse para atrás",
+    "meaning": "I'm backing out",
+    "audio": "work/audio/es-MX/05/es-05-1890.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1891",
+    "sentence": "En la junta dije que apoyaba el contenido del folleto, pero no su tono, que me parecía demasiado insistente; para los demás editores, dejo por escrito: «Mi apoyo al contenido incluye una reserva expresa sobre el tono: me sigue pareciendo demasiado insistente».",
+    "cloze": "reserva expresa",
+    "answer": "reserva expresa",
+    "lemma": "reserva expresa",
+    "meaning": "explicit reservation",
+    "audio": "work/audio/es-MX/05/es-05-1891.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1892",
+    "sentence": "Para la directora escribí que el total de doce participantes parecía incompatible con una lista de once nombres y que convenía revisarlo; a mi compañero se lo planteo con el mismo cuidado: «El total no me cuadra: dice doce y cuento once nombres; habría que revisarlo».",
+    "cloze": "no me cuadra",
+    "answer": "no me cuadra",
+    "lemma": "cuadrar",
+    "meaning": "doesn't add up to me",
+    "audio": "work/audio/es-MX/05/es-05-1892.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1893",
+    "sentence": "En la nota para la editora señalo que me sorprende encontrar una broma entre dos párrafos serios, aunque no propongo quitarla; al conversar con ella, lo digo así: «Esa broma me brinca entre dos párrafos tan serios; me sorprende, pero no estoy pidiendo que la quites».",
+    "cloze": "me brinca",
+    "answer": "me brinca",
+    "lemma": "brincar",
+    "meaning": "strikes me as odd",
+    "audio": "work/audio/es-MX/05/es-05-1893.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1894",
+    "sentence": "«Les informo de la recepción tardía del programa: me llegó después de la reunión y desconozco cuándo se envió», escribo a los organizadores. Es lo mismo que les expliqué por teléfono: me llegó después de la reunión y no sabía cuándo lo habían mandado.",
+    "cloze": "recepción tardía",
+    "answer": "recepción tardía",
+    "lemma": "recepción tardía",
+    "meaning": "late receipt",
+    "audio": "work/audio/es-MX/05/es-05-1894.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1895",
+    "sentence": "Mi evaluación escrita reconoce que seguí explicando sin darme cuenta de que había terminado mi turno y propone recortar un ejemplo; al comentarlo con mi compañera, digo: «Con la explicación me fui de largo sin darme cuenta; propongo acortar un ejemplo para ajustarme al tiempo».",
+    "cloze": "me fui de largo",
+    "answer": "me fui de largo",
+    "lemma": "irse de largo",
+    "meaning": "I went on too long",
+    "audio": "work/audio/es-MX/05/es-05-1895.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1896",
+    "sentence": "El registro del ensayo indica que ambos empezamos a responder a la vez y que no se entendió ninguna respuesta; al revisar la grabación con mi compañero, lo expreso de manera cercana: «Ahí nos pisamos al empezar a responder y no se entendió lo que dijo ninguno de los dos».",
+    "cloze": "nos pisamos",
+    "answer": "nos pisamos",
+    "lemma": "pisarse",
+    "meaning": "we talked over each other",
+    "audio": "work/audio/es-MX/05/es-05-1896.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1897",
+    "sentence": "El informe reconoce que elegimos revisar el sonido después de las demás tareas y que faltó tiempo para ajustarlo. Al dar el balance de viva voz a los voluntarios que trabajaron con nosotros, lo expreso con cercanía: «El sonido lo dejamos al último y ya no nos dio tiempo de ajustarlo».",
+    "cloze": "al último",
+    "answer": "al último",
+    "lemma": "al último",
+    "meaning": "until last",
+    "audio": "work/audio/es-MX/05/es-05-1897.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1898",
+    "sentence": "Para la coordinación escribimos que, por querer enviar pronto el boletín, omitimos revisar los enlaces; en la charla con el equipo lo reconocemos con menos rigidez: «Nos ganó la prisa por mandar el boletín y no revisamos los enlaces».",
+    "cloze": "Nos ganó",
+    "answer": "Nos ganó",
+    "lemma": "ganar",
+    "meaning": "got the better of us",
+    "audio": "work/audio/es-MX/05/es-05-1898.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1899",
+    "sentence": "La relatoría señala que el ponente evitó explicar por qué retiró una imagen y que solo habló de las otras fotografías; al comentarlo con una colega, mantengo esa crítica acotada: «El ponente le sacó la vuelta a explicar por qué retiró esa imagen; solo habló de las otras fotos».",
+    "cloze": "le sacó la vuelta",
+    "answer": "le sacó la vuelta",
+    "lemma": "sacarle la vuelta",
+    "meaning": "dodged it",
+    "audio": "work/audio/es-MX/05/es-05-1899.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1900",
+    "sentence": "El informe del taller cuenta que la coordinadora dejó voluntariamente de dirigir el ejercicio para que lo condujera una alumna; a las familias se lo explico durante la muestra: «La coordinadora se hizo a un lado para que una alumna dirigiera el ejercicio; fue decisión de la coordinadora».",
+    "cloze": "se hizo a un lado",
+    "answer": "se hizo a un lado",
+    "lemma": "hacerse a un lado",
+    "meaning": "stepped aside",
+    "audio": "work/audio/es-MX/05/es-05-1900.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1901",
+    "sentence": "—Soy la editora del texto; por teléfono me dijiste «le di una mirada rápida y no comprobé las citas», pero necesito ese alcance por escrito para saber qué falta. —Hice una revisión superficial del texto; las citas siguen sin comprobarse.",
+    "cloze": "revisión superficial",
+    "answer": "revisión superficial",
+    "lemma": "revisión superficial",
+    "meaning": "cursory review",
+    "audio": "work/audio/es-MX/05/es-05-1901.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1902",
+    "sentence": "En la discusión aclaré que mi objeción era a la idea de clasificar a los lectores por edad, no a las palabras elegidas; para el equipo editorial escribo: «Mi desacuerdo de fondo es con la clasificación por edad; cambiar las palabras no resuelve esa objeción».",
+    "cloze": "desacuerdo de fondo",
+    "answer": "desacuerdo de fondo",
+    "lemma": "desacuerdo de fondo",
+    "meaning": "substantive disagreement",
+    "audio": "work/audio/es-MX/05/es-05-1902.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1903",
+    "sentence": "Mi observación escrita pide reconocer el error sin minimizarlo por haber ocurrido una sola vez; al conversar con el compañero que redactará la respuesta, mantengo esa petición: «Hay que reconocer el error sin quitarle peso solo porque pasó una vez».",
+    "cloze": "quitarle peso",
+    "answer": "quitarle peso",
+    "lemma": "quitar peso",
+    "meaning": "downplay it",
+    "audio": "work/audio/es-MX/05/es-05-1903.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1904",
+    "sentence": "Por teléfono expliqué al autor que preguntaba cómo iba el texto para organizar mi trabajo, sin querer presionarlo; al escribirle de usted, conservo ambas intenciones: «Le pregunto cómo va el texto para organizar mi trabajo, sin ánimo de presionarlo».",
+    "cloze": "sin ánimo de",
+    "answer": "sin ánimo de",
+    "lemma": "sin ánimo de",
+    "meaning": "without intending to",
+    "audio": "work/audio/es-MX/05/es-05-1904.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1905",
+    "sentence": "En la reunión confirmé que sí terminaría de pintar los letreros antes de abrir la muestra, y aclaré que no era solo un deseo; en el correo al equipo dejo la misma certeza: «Terminar de pintar los letreros antes de la apertura es un compromiso firme de mi parte».",
+    "cloze": "compromiso firme",
+    "answer": "compromiso firme",
+    "lemma": "compromiso firme",
+    "meaning": "definite commitment",
+    "audio": "work/audio/es-MX/05/es-05-1905.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1906",
+    "sentence": "La hoja para las familias empieza así: «Esta hoja ofrece orientación general para conversar sobre libros; no responde a cada situación particular». La introducción conserva lo que expliqué durante la charla: sirve para empezar esa conversación, pero no da una respuesta para cada situación.",
+    "cloze": "orientación general",
+    "answer": "orientación general",
+    "lemma": "orientación general",
+    "meaning": "general guidance",
+    "audio": "work/audio/es-MX/05/es-05-1906.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1907",
+    "sentence": "En mis notas escribí que repetí la indicación por costumbre, sin comprobar si todavía correspondía al ejercicio; al explicárselo a mi compañero, reconozco lo mismo: «Repetí la indicación en automático, sin revisar si todavía correspondía al ejercicio que estábamos haciendo».",
+    "cloze": "en automático",
+    "answer": "en automático",
+    "lemma": "en automático",
+    "meaning": "automatically / without thinking",
+    "audio": "work/audio/es-MX/05/es-05-1907.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1908",
+    "sentence": "En la llamada admití que creí que el texto era fácil para el grupo, pero no había considerado las palabras que desconocían; para los docentes, el reporte conserva esa responsabilidad: «Mi error de apreciación fue considerar accesible el texto sin tomar en cuenta ese vocabulario desconocido».",
+    "cloze": "error de apreciación",
+    "answer": "error de apreciación",
+    "lemma": "error de apreciación",
+    "meaning": "error of judgment",
+    "audio": "work/audio/es-MX/05/es-05-1908.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1909",
+    "sentence": "En el borrador de mi respuesta a la invitación escribí que ya decidí no participar, que he pospuesto comunicarlo y que hoy responderé. Mi amiga me pide que se lo cuente con nuestro tono de siempre, y le digo: «Voy a dejar de darle largas al asunto: ya decidí que no participaré y hoy voy a decirlo».",
+    "cloze": "darle largas",
+    "answer": "darle largas",
+    "lemma": "dar largas",
+    "meaning": "keep putting it off",
+    "audio": "work/audio/es-MX/05/es-05-1909.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1910",
+    "sentence": "El mensaje del equipo confirma que participaremos en el montaje con los materiales disponibles, sin pedir otros; cuando los organizadores del barrio nos lo preguntan en persona, contesto con la misma disposición: «Sí le entramos al montaje con los materiales que ya hay; no vamos a pedir más».",
+    "cloze": "le entramos",
+    "answer": "le entramos",
+    "lemma": "entrarle",
+    "meaning": "we're in / we'll take it on",
+    "audio": "work/audio/es-MX/05/es-05-1910.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1911",
+    "sentence": "Quien presentó el homenaje me pide comentar en persona la observación que le envié: el chiste fue inadecuado en ese acto, aunque quizá funcionaría en otra ocasión. Le digo con el tono cercano que usamos: «El chiste estuvo fuera de lugar en el homenaje; en otra ocasión quizá funcionaría».",
+    "cloze": "fuera de lugar",
+    "answer": "fuera de lugar",
+    "lemma": "fuera de lugar",
+    "meaning": "inappropriate in that setting",
+    "audio": "work/audio/es-MX/05/es-05-1911.mp3",
+    "accepted_answers": []
   }
 ]
