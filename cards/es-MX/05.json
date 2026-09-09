@@ -22270,5 +22270,407 @@
     "meaning": "be left with an unfulfilled wish",
     "audio": "work/audio/es-MX/05/es-05-2222.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-2223",
+    "sentence": "Cuando les presentamos a los vecinos la opción del patio, nosotros ya habíamos dejado de considerar la azotea por el ruido; que después alguien volviera a proponerla no significa que hubiera seguido entre nuestras opciones.",
+    "cloze": "habíamos dejado de considerar",
+    "answer": "habíamos dejado de considerar",
+    "lemma": "dejar de considerar",
+    "meaning": "we had stopped considering",
+    "audio": "work/audio/es-MX/05/es-05-2223.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2224",
+    "sentence": "Compañeros, antes de votar por un taller «abierto», precisémoslo: ¿podrá entrar gente durante la sesión o solo queremos decir que cualquiera puede inscribirse? Son dos decisiones distintas.",
+    "cloze": "precisémoslo",
+    "answer": "precisémoslo",
+    "lemma": "precisar",
+    "meaning": "let’s clarify it",
+    "audio": "work/audio/es-MX/05/es-05-2224.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2225",
+    "sentence": "Para la nota del cineclub, conserva las dos valoraciones: Sara dice «el final sin resolver invita a imaginar» y Tomás dice «ese final deja incompleta la historia»; discrepan en la valoración del mismo cierre, no en cómo termina la película.",
+    "cloze": "discrepan",
+    "answer": "discrepan",
+    "lemma": "discrepar",
+    "meaning": "they disagree",
+    "audio": "work/audio/es-MX/05/es-05-2225.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2226",
+    "sentence": "El guía interpretó nuestro silencio como desacuerdo; no comentamos su explicación porque apenas se oía, no porque nosotros hubiéramos advertido algún error. Pudimos escucharla en la grabación después de la visita.",
+    "cloze": "hubiéramos advertido",
+    "answer": "hubiéramos advertido",
+    "lemma": "advertir",
+    "meaning": "we had noticed",
+    "audio": "work/audio/es-MX/05/es-05-2226.mp3",
+    "accepted_answers": [
+      "hubiésemos advertido"
+    ]
+  },
+  {
+    "id": "es-05-2227",
+    "sentence": "Para mí, la posibilidad de conversar con los autores contrapesa la menor variedad de libros de esta feria; aun así, si ustedes buscan un título específico, conviene revisar antes el catálogo.",
+    "cloze": "contrapesa",
+    "answer": "contrapesa",
+    "lemma": "contrapesar",
+    "meaning": "counterbalances",
+    "audio": "work/audio/es-MX/05/es-05-2227.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2228",
+    "sentence": "El mérito de proponer recorridos breves es de Inés, aunque Omar presentó la idea al comité; en mi intervención se lo reconoceré a ella sin quitarle a él el mérito de haber conseguido el apoyo.",
+    "cloze": "se lo reconoceré",
+    "answer": "se lo reconoceré",
+    "lemma": "reconocer",
+    "meaning": "I will give her credit for it",
+    "audio": "work/audio/es-MX/05/es-05-2228.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2229",
+    "sentence": "Yo estaba por intervenir para rechazar el cambio de salón cuando la coordinadora aclaró que conservaríamos las mesas de trabajo; retiré la mano sin hablar, así que no cuenten mi gesto como una objeción expresada.",
+    "cloze": "estaba por intervenir",
+    "answer": "estaba por intervenir",
+    "lemma": "estar por intervenir",
+    "meaning": "I was about to speak up",
+    "audio": "work/audio/es-MX/05/es-05-2229.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2230",
+    "sentence": "Como portavoces del grupo, y con la autorización que todos nos dieron ayer, nos comprometemos a revisar los textos; la selección de fotografías sigue pendiente porque nadie ha aceptado encargarse de ella.",
+    "cloze": "nos comprometemos",
+    "answer": "nos comprometemos",
+    "lemma": "comprometerse",
+    "meaning": "we commit ourselves",
+    "audio": "work/audio/es-MX/05/es-05-2230.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2231",
+    "sentence": "En la junta, Laura propuso explicar primero los cambios y abrir después las preguntas; hago mías esas recomendaciones porque ayudarían a quienes llegan nuevos, y quiero que conste que las planteó ella.",
+    "cloze": "hago mías",
+    "answer": "hago mías",
+    "lemma": "hacer suyo",
+    "meaning": "I adopt as my own",
+    "audio": "work/audio/es-MX/05/es-05-2231.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2232",
+    "sentence": "Vecinos, sabemos que restaurar las bancas salió caro; aunque haya costado más de lo previsto, ese gasto ya hecho no nos obliga a colocarlas donde estorben el paso.",
+    "cloze": "haya costado",
+    "answer": "haya costado",
+    "lemma": "costar",
+    "meaning": "it has cost",
+    "audio": "work/audio/es-MX/05/es-05-2232.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2233",
+    "sentence": "Gracias por aclarar lo del sonido; recupero el hilo de mi propuesta, porque quedó pendiente la razón para invitar también a quienes no pudieron asistir al ensayo: podrán comentar si la presentación se entiende sin esa preparación.",
+    "cloze": "recupero el hilo",
+    "answer": "recupero el hilo",
+    "lemma": "recuperar el hilo",
+    "meaning": "I return to the thread",
+    "audio": "work/audio/es-MX/05/es-05-2233.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2234",
+    "sentence": "A quienes proponen dejar de buscar apoyo les recuerdo que Elena dijo que se haría cargo del montaje si le prestaban las herramientas; todavía no se las prestan, así que su ofrecimiento no era incondicional.",
+    "cloze": "se haría cargo",
+    "answer": "se haría cargo",
+    "lemma": "hacerse cargo",
+    "meaning": "she would take charge",
+    "audio": "work/audio/es-MX/05/es-05-2234.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2235",
+    "sentence": "Cuando me entrevistaron para coordinar el club, pregunté quién asumiría mis tareas habituales si yo aceptaba; no estaba pidiendo que contrataran a alguien, sino conocer el reparto previsto.",
+    "cloze": "asumiría",
+    "answer": "asumiría",
+    "lemma": "asumir",
+    "meaning": "would take on",
+    "audio": "work/audio/es-MX/05/es-05-2235.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2236",
+    "sentence": "En el boletín para las familias, mantengan juntas la crítica al horario y la propuesta de otro turno para que la crítica no se desvincule de la solución que ofrecimos; separadas, parecería que solo pedimos cancelar.",
+    "cloze": "se desvincule",
+    "answer": "se desvincule",
+    "lemma": "desvincularse",
+    "meaning": "become detached",
+    "audio": "work/audio/es-MX/05/es-05-2236.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2237",
+    "sentence": "Alma quiere conservar las visitas sin reservación y yo prefiero organizar grupos; al presentar mi propuesta a los guías, incluiré también la suya para que mi papel de coordinador no haga invisible su postura.",
+    "cloze": "la suya",
+    "answer": "la suya",
+    "lemma": "suyo",
+    "meaning": "hers",
+    "audio": "work/audio/es-MX/05/es-05-2237.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2238",
+    "sentence": "Para el cartel del encuentro, parafraseo «pueden venir aunque nunca hayan escrito un cuento» como «no hace falta experiencia previa»; el mensaje es el mismo, pero no pondré comillas porque esas no fueron las palabras de la tallerista.",
+    "cloze": "parafraseo",
+    "answer": "parafraseo",
+    "lemma": "parafrasear",
+    "meaning": "I paraphrase",
+    "audio": "work/audio/es-MX/05/es-05-2238.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2239",
+    "sentence": "En el club de cine dijiste «Toda adaptación pierde el conflicto central» y después corregiste: «Muchas lo pierden»; una adaptación que lo conservara refutaría la primera afirmación, pero no la segunda. En la reseña, conservemos tu corrección.",
+    "cloze": "refutaría",
+    "answer": "refutaría",
+    "lemma": "refutar",
+    "meaning": "would refute",
+    "audio": "work/audio/es-MX/05/es-05-2239.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2240",
+    "sentence": "Propongo que reconsideremos la votación sobre el nombre del grupo: dos personas entendieron que elegíamos el nombre de la próxima muestra y votaron pensando en ella; primero aclaremos qué vamos a nombrar.",
+    "cloze": "reconsideremos",
+    "answer": "reconsideremos",
+    "lemma": "reconsiderar",
+    "meaning": "we reconsider",
+    "audio": "work/audio/es-MX/05/es-05-2240.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2241",
+    "sentence": "Cuando le conté a mi hermana que quería dejar el coro, me dio a entender que ella también estaba cansada al decir «cada ensayo se me hace más pesado»; nunca dijo que fuera a dejarlo conmigo.",
+    "cloze": "me dio a entender",
+    "answer": "me dio a entender",
+    "lemma": "dar a entender",
+    "meaning": "she led me to understand",
+    "audio": "work/audio/es-MX/05/es-05-2241.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2242",
+    "sentence": "En el resumen de la mesa redonda pueden incluir los ejemplos que cité, pero no acepto que se me atribuyan las opiniones de sus autores: los usé para mostrar posturas distintas y no defendí ninguna.",
+    "cloze": "se me atribuyan",
+    "answer": "se me atribuyan",
+    "lemma": "atribuir",
+    "meaning": "be attributed to me",
+    "audio": "work/audio/es-MX/05/es-05-2242.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2243",
+    "sentence": "Para mediar entre quienes quieren ensayar más y quienes ya no tienen tiempo, buscamos a una persona que concilie esas necesidades en un plan viable; todavía no hemos elegido a nadie y no queremos que solo decida cuál grupo tiene razón.",
+    "cloze": "concilie",
+    "answer": "concilie",
+    "lemma": "conciliar",
+    "meaning": "reconcile",
+    "audio": "work/audio/es-MX/05/es-05-2243.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2244",
+    "sentence": "Marta, acepto que no pudieras incluir mi relato en la lectura, pero me enteré por el cartel; habría agradecido que me avisaras tú antes de anunciar el programa.",
+    "cloze": "habría agradecido",
+    "answer": "habría agradecido",
+    "lemma": "agradecer",
+    "meaning": "I would have appreciated",
+    "audio": "work/audio/es-MX/05/es-05-2244.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2245",
+    "sentence": "Desde aquella discusión en el equipo, he venido notando que las dudas se plantean por mensaje privado y no en las juntas; por eso ahora prefiero preguntar cómo estamos recibiendo las objeciones antes de interpretar el silencio como acuerdo.",
+    "cloze": "he venido notando",
+    "answer": "he venido notando",
+    "lemma": "venir notando",
+    "meaning": "I have been noticing over time",
+    "audio": "work/audio/es-MX/05/es-05-2245.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2246",
+    "sentence": "En esta exposición hecha entre vecinos, propongo que subordinemos la unidad del diseño al derecho de cada participante a reconocerse en su retrato; podemos ajustar los marcos, pero no borrar rasgos solo para que todas las imágenes se parezcan.",
+    "cloze": "subordinemos",
+    "answer": "subordinemos",
+    "lemma": "subordinar",
+    "meaning": "we subordinate",
+    "audio": "work/audio/es-MX/05/es-05-2246.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2247",
+    "sentence": "Inés dijo «Pueden vender mis fotos» y Omar, «Las mías son solo para consulta»; si reuniéramos sus fotos en el archivo que propones, del permiso de ella no se desprendería que pudiéramos vender también las de él. Aclaremos los usos antes de anunciar el acceso libre.",
+    "cloze": "se desprendería",
+    "answer": "se desprendería",
+    "lemma": "desprenderse",
+    "meaning": "it would follow",
+    "audio": "work/audio/es-MX/05/es-05-2247.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2248",
+    "sentence": "Tu ejemplo demuestra que el formulario sí permite registrar dos apellidos; retiro esa crítica, pero sigo sosteniendo que las instrucciones son confusas, porque ninguna explica cómo hacerlo y tuve que pedir ayuda.",
+    "cloze": "sigo sosteniendo",
+    "answer": "sigo sosteniendo",
+    "lemma": "seguir sosteniendo",
+    "meaning": "I continue to maintain",
+    "audio": "work/audio/es-MX/05/es-05-2248.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2249",
+    "sentence": "Ayer acordamos llamar «participación» tanto a hablar como a enviar comentarios por escrito; no redefinas ahora ese criterio para contar solo las intervenciones orales, porque dejarías fuera aportaciones que habíamos acordado valorar.",
+    "cloze": "redefinas",
+    "answer": "redefinas",
+    "lemma": "redefinir",
+    "meaning": "you redefine",
+    "audio": "work/audio/es-MX/05/es-05-2249.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2250",
+    "sentence": "Que hubo una discusión al cerrar el local, me lo refirió Hugo después; yo ya me había ido, y él tampoco me dijo quién había empezado, así que no puedo contarles el relato como algo que presencié.",
+    "cloze": "me lo refirió",
+    "answer": "me lo refirió",
+    "lemma": "referir",
+    "meaning": "he related it to me",
+    "audio": "work/audio/es-MX/05/es-05-2250.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2251",
+    "sentence": "Como coordinadora puedo comunicarles el horario que acordamos; cuando digo que preferiría reunirnos menos, hablo por mí y no estoy anunciando una nueva decisión del grupo.",
+    "cloze": "hablo por mí",
+    "answer": "hablo por mí",
+    "lemma": "hablar por uno mismo",
+    "meaning": "I speak for myself",
+    "audio": "work/audio/es-MX/05/es-05-2251.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2252",
+    "sentence": "Al revisar los mensajes para explicar el cambio al equipo, vi que Raúl primero escribió «no participaré» y después «retiro lo dicho; sí quiero participar»; se desdijo de su negativa, pero en ninguno de los dos mensajes aceptó coordinar.",
+    "cloze": "se desdijo",
+    "answer": "se desdijo",
+    "lemma": "desdecirse",
+    "meaning": "he retracted what he had said",
+    "audio": "work/audio/es-MX/05/es-05-2252.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2253",
+    "sentence": "Entiendo que quieran recortar del video las intervenciones más largas, pero exceptuemos aquella en que corregimos la explicación del inicio; si conservamos solo la versión breve y equivocada, la edición dejará al público con el error.",
+    "cloze": "exceptuemos",
+    "answer": "exceptuemos",
+    "lemma": "exceptuar",
+    "meaning": "let’s make an exception for",
+    "audio": "work/audio/es-MX/05/es-05-2253.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2254",
+    "sentence": "En el acta de ayer quedó el rechazo de Pablo al recorrido; como hoy nos dijo que cambió de opinión después de probarlo, consignaré ese cambio en la nota de seguimiento sin corregir el acta como si ayer hubiera votado a favor.",
+    "cloze": "consignaré",
+    "answer": "consignaré",
+    "lemma": "consignar",
+    "meaning": "I will record",
+    "audio": "work/audio/es-MX/05/es-05-2254.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2255",
+    "sentence": "Podemos compartir el patio con su club; cederíamos nuestro turno de lectura a cambio de usar el suyo para el ensayo, pero solo si ambos grupos aceptan el intercambio completo antes de anunciarlo.",
+    "cloze": "cederíamos",
+    "answer": "cederíamos",
+    "lemma": "ceder",
+    "meaning": "we would give up",
+    "audio": "work/audio/es-MX/05/es-05-2255.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2256",
+    "sentence": "Para quienes solo quieren consultar horarios, esta página ya es útil y lo seguiría siendo aunque quitáramos las fotos; por eso propongo conservar esa función al simplificarla, sin prometer que resolverá también las inscripciones.",
+    "cloze": "lo seguiría siendo",
+    "answer": "lo seguiría siendo",
+    "lemma": "seguir siendo",
+    "meaning": "it would still be so",
+    "audio": "work/audio/es-MX/05/es-05-2256.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2257",
+    "sentence": "Perdón, Lucía, me adelanté al responder por ti cuando preguntaron si querías seguir en el proyecto; lo que me contaste fue que necesitabas pensarlo, así que prefiero que tú les digas cómo estás ahora.",
+    "cloze": "me adelanté",
+    "answer": "me adelanté",
+    "lemma": "adelantarse",
+    "meaning": "I spoke prematurely",
+    "audio": "work/audio/es-MX/05/es-05-2257.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2258",
+    "sentence": "A los organizadores les achaco no haber explicado cómo eligieron las obras; no estoy diciendo que favorecieran a sus amigos, porque no conozco los motivos de la selección y esa acusación sería distinta.",
+    "cloze": "les achaco",
+    "answer": "les achaco",
+    "lemma": "achacar",
+    "meaning": "I fault them for",
+    "audio": "work/audio/es-MX/05/es-05-2258.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2259",
+    "sentence": "Como mi propuesta está entre las opciones, me abstendré de ordenar las preferencias que ustedes expresaron; puedo explicar los criterios de mi propuesta, pero prefiero que otra persona haga ese resumen para la votación.",
+    "cloze": "me abstendré",
+    "answer": "me abstendré",
+    "lemma": "abstenerse",
+    "meaning": "I will refrain",
+    "audio": "work/audio/es-MX/05/es-05-2259.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2260",
+    "sentence": "Ante el equipo, presupongamos que todos respetan los turnos en una sesión sin moderadora para explorar cómo funcionaría. En las sesiones con moderadora sí los respetaron, pero no sabemos si harían lo mismo sin ella; la suposición queda pendiente de comprobar.",
+    "cloze": "presupongamos",
+    "answer": "presupongamos",
+    "lemma": "presuponer",
+    "meaning": "let’s assume",
+    "audio": "work/audio/es-MX/05/es-05-2260.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2261",
+    "sentence": "Al explicárselo a los participantes nuevos, llamémosle «ensayo abierto» a esta sesión para observar el trabajo en proceso; evitemos presentarla como una función terminada, porque las pausas y las correcciones forman parte de lo que verán.",
+    "cloze": "llamémosle",
+    "answer": "llamémosle",
+    "lemma": "llamar",
+    "meaning": "let’s call it",
+    "audio": "work/audio/es-MX/05/es-05-2261.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-2262",
+    "sentence": "Señor Ramírez, cuando digo que necesito una respuesta antes de organizar el traslado, tómelo como una petición para poder planear, no como una amenaza de cancelar: aún quiero participar y estoy buscando cómo hacerlo.",
+    "cloze": "tómelo",
+    "answer": "tómelo",
+    "lemma": "tomar",
+    "meaning": "take it",
+    "audio": "work/audio/es-MX/05/es-05-2262.mp3",
+    "accepted_answers": []
   }
 ]
