@@ -14840,5 +14840,405 @@
     "meaning": "its days are numbered",
     "audio": "work/audio/es-MX/05/es-05-1479.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-05-1480",
+    "sentence": "Al ver que la aplicación se volvió a cerrar, le dije a mi hermana: «¡Qué novedad! Ya van tres veces en diez minutos»; ella se rio y sacó el juego de mesa que usamos cuando falla.",
+    "cloze": "Qué novedad",
+    "answer": "Qué novedad",
+    "lemma": "qué novedad",
+    "meaning": "what a surprise (ironically)",
+    "audio": "work/audio/es-MX/05/es-05-1480.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1481",
+    "sentence": "Mi compañero de casa y yo acabábamos de tender la ropa cuando empezó a llover; mirando las sábanas empapadas, comenté: «Nuestro plan de secarlas al sol va de maravilla», y nos reímos mientras las metíamos.",
+    "cloze": "de maravilla",
+    "answer": "de maravilla",
+    "lemma": "de maravilla",
+    "meaning": "wonderfully (ironically)",
+    "audio": "work/audio/es-MX/05/es-05-1481.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1482",
+    "sentence": "A mi amiga y a mí se nos rompió otra bolsa de palomitas mientras nos preparábamos para ver una película en casa; le dije entre risas: «Justo lo que nos hacía falta: más palomitas en el piso».",
+    "cloze": "nos hacía falta",
+    "answer": "nos hacía falta",
+    "lemma": "hacer falta",
+    "meaning": "we needed (ironically)",
+    "audio": "work/audio/es-MX/05/es-05-1482.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1483",
+    "sentence": "Mi hermano y yo llevábamos una hora armando un rompecabezas y solo habíamos colocado dos piezas; le dije, riéndome de nuestro avance: «Vamos rapidísimo; mejor dejamos el resto para mañana».",
+    "cloze": "rapidísimo",
+    "answer": "rapidísimo",
+    "lemma": "rápido",
+    "meaning": "extremely fast (ironically)",
+    "audio": "work/audio/es-MX/05/es-05-1483.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1484",
+    "sentence": "—Cuando preguntaste si alcanzaba la jarra, te dije que sí; ¿necesitabas algo más? —Sí, acércamela, por favor; con la pregunta te estaba pidiendo ese favor, no comprobando hasta dónde llegas.",
+    "cloze": "acércamela",
+    "answer": "acércamela",
+    "lemma": "acercar",
+    "meaning": "bring it closer to me",
+    "audio": "work/audio/es-MX/05/es-05-1484.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1485",
+    "sentence": "—Pensé que lo de prestarme tu escritorio era por quedar bien. —Ya lo desocupé para que puedas trabajar aquí; te lo ofrezco porque sé que el tuyo está ocupado, así que puedes traer tus cosas.",
+    "cloze": "te lo ofrezco",
+    "answer": "te lo ofrezco",
+    "lemma": "ofrecer",
+    "meaning": "I am offering it to you",
+    "audio": "work/audio/es-MX/05/es-05-1485.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1486",
+    "sentence": "Amiga, mi mensaje «hoy cierran las inscripciones» no era un reclamo por dejar las cosas al final; me habías pedido recordártelo y por eso te escribí, aunque debí mencionar que era el aviso que acordamos.",
+    "cloze": "recordártelo",
+    "answer": "recordártelo",
+    "lemma": "recordar",
+    "meaning": "remind you of it",
+    "audio": "work/audio/es-MX/05/es-05-1486.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1487",
+    "sentence": "—¿Por qué me preguntas si ya llegué? No tienes que vigilarme. —Vi que se suspendió el transporte y me preocupo por ti; no necesito saber dónde estás a cada rato, solo si pudiste volver.",
+    "cloze": "me preocupo",
+    "answer": "me preocupo",
+    "lemma": "preocuparse",
+    "meaning": "I am concerned",
+    "audio": "work/audio/es-MX/05/es-05-1487.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1488",
+    "sentence": "—Tu «mira nada más» me sonó a que no creías que yo pudiera terminar la carrera. —Te felicito por lo que lograste; elegí mal las palabras y entiendo que te haya sonado así.",
+    "cloze": "Te felicito",
+    "answer": "Te felicito",
+    "lemma": "felicitar",
+    "meaning": "I congratulate you",
+    "audio": "work/audio/es-MX/05/es-05-1488.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1489",
+    "sentence": "—Con ese «como quieras» parece que ya no te importa que salgamos juntos. —Sí quiero ir contigo; decídelo tú esta vez, porque las dos películas me gustan y sé que tienes una favorita.",
+    "cloze": "decídelo",
+    "answer": "decídelo",
+    "lemma": "decidir",
+    "meaning": "you decide",
+    "audio": "work/audio/es-MX/05/es-05-1489.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1490",
+    "sentence": "Mi mensaje decía «bueno…» y pensaste que estaba molesta contigo, pero se truncó al enviarlo; faltaba «nos vemos a las seis», que era la confirmación de nuestro encuentro.",
+    "cloze": "se truncó",
+    "answer": "se truncó",
+    "lemma": "truncarse",
+    "meaning": "was cut short",
+    "audio": "work/audio/es-MX/05/es-05-1490.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1491",
+    "sentence": "—Al oír tu «¿te vas a casar?», pensé que desaprobabas mi decisión. —Me asombró la noticia porque no sabía que lo estaban planeando; todavía no te había dicho qué pienso de la boda.",
+    "cloze": "Me asombró",
+    "answer": "Me asombró",
+    "lemma": "asombrar",
+    "meaning": "surprised me",
+    "audio": "work/audio/es-MX/05/es-05-1491.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1492",
+    "sentence": "—¿No me cree cuando le digo que el paquete ya llegó? —Se oyó un ruido justo cuando habló; repítamelo, por favor, porque mi «¿cómo?» era por lo que no alcancé a oír.",
+    "cloze": "repítamelo",
+    "answer": "repítamelo",
+    "lemma": "repetir",
+    "meaning": "say it to me again",
+    "audio": "work/audio/es-MX/05/es-05-1492.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1493",
+    "sentence": "—Tu «¿por qué lo hiciste así?» me sonó a que todo estaba mal. —Quiero que me expliques cómo elegiste ese orden; es distinto del mío y todavía no sé qué ventajas le viste.",
+    "cloze": "me expliques",
+    "answer": "me expliques",
+    "lemma": "explicar",
+    "meaning": "explain to me",
+    "audio": "work/audio/es-MX/05/es-05-1493.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1494",
+    "sentence": "Cuando dije «nadie quiere ayudar», citaba la frase de la nota que estamos revisando; veo que la tomaste como una queja mía contra ustedes, pero precisamente propongo quitarla porque no describe lo que pasó.",
+    "cloze": "citaba",
+    "answer": "citaba",
+    "lemma": "citar",
+    "meaning": "I was quoting",
+    "audio": "work/audio/es-MX/05/es-05-1494.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1495",
+    "sentence": "Dije que había esperado una eternidad y anotaste que llegaste horas tarde; exageré para expresar mi impaciencia: fueron diez minutos, y no quiero que mi queja se convierta en un dato falso.",
+    "cloze": "exageré",
+    "answer": "exageré",
+    "lemma": "exagerar",
+    "meaning": "I exaggerated",
+    "audio": "work/audio/es-MX/05/es-05-1495.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1496",
+    "sentence": "Cuando dije que posar frente a todos me daba «un poquito de pena», pensaste que solo necesitaba ánimo; en realidad me cohibía estar en el centro, y habría preferido una foto sin público.",
+    "cloze": "me cohibía",
+    "answer": "me cohibía",
+    "lemma": "cohibir",
+    "meaning": "made me self-conscious",
+    "audio": "work/audio/es-MX/05/es-05-1496.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1497",
+    "sentence": "—Cuando me preguntaron por qué dejé el trabajo, te quedaste callada; pensé que no querías apoyarme. —Me reservé lo que me habías contado en privado para que tú decidieras cuánto explicar; no quise hablar por ti.",
+    "cloze": "Me reservé",
+    "answer": "Me reservé",
+    "lemma": "reservarse",
+    "meaning": "I withheld",
+    "audio": "work/audio/es-MX/05/es-05-1497.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1498",
+    "sentence": "—Su «si llega después, encontrará cerrado» me sonó a amenaza. —El horario ya estaba fijado; se lo advierto para que no haga el viaje en vano, no porque yo vaya a cerrar para castigar su retraso.",
+    "cloze": "se lo advierto",
+    "answer": "se lo advierto",
+    "lemma": "advertir",
+    "meaning": "I am warning you about it",
+    "audio": "work/audio/es-MX/05/es-05-1498.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1499",
+    "sentence": "—Ya te busqué tres empleos después de que dijiste «no aguanto otra semana aquí». —Gracias por preocuparte, pero necesitaba desahogarme sobre el día que tuve; no he decidido renunciar ni te estaba encargando buscarme trabajo.",
+    "cloze": "desahogarme",
+    "answer": "desahogarme",
+    "lemma": "desahogarse",
+    "meaning": "vent",
+    "audio": "work/audio/es-MX/05/es-05-1499.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1500",
+    "sentence": "—Como preguntaste si tenía libre el sábado, ya cancelé mis planes para ayudarte. —Primero te consulto si te interesa participar; no te he asignado ninguna tarea y puedes decirme que prefieres conservar tus planes.",
+    "cloze": "te consulto",
+    "answer": "te consulto",
+    "lemma": "consultar",
+    "meaning": "I am checking with you",
+    "audio": "work/audio/es-MX/05/es-05-1500.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1501",
+    "sentence": "—En cuanto dijiste «gracias por venir», pensé que ya debía irme. —Te agradecía que hubieras cambiado tu horario para acompañarme; todavía falta el postre y me gustaría que te quedaras si puedes.",
+    "cloze": "Te agradecía",
+    "answer": "Te agradecía",
+    "lemma": "agradecer",
+    "meaning": "I was thanking you",
+    "audio": "work/audio/es-MX/05/es-05-1501.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1502",
+    "sentence": "Mis «ajá» durante tu explicación indican que sigo el hilo; veo que los tomaste como aprobación del cambio, pero todavía necesito revisar contigo la parte que afecta mi horario.",
+    "cloze": "sigo el hilo",
+    "answer": "sigo el hilo",
+    "lemma": "seguir el hilo",
+    "meaning": "I am following the explanation",
+    "audio": "work/audio/es-MX/05/es-05-1502.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1503",
+    "sentence": "—Ya cancelé la comida porque usted dijo que podía quedarme a trabajar. —Le daba permiso para usar el salón si lo necesitaba; no le estaba pidiendo que renunciara a su descanso para terminar hoy.",
+    "cloze": "Le daba permiso",
+    "answer": "Le daba permiso",
+    "lemma": "dar permiso",
+    "meaning": "I was giving you permission",
+    "audio": "work/audio/es-MX/05/es-05-1503.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1504",
+    "sentence": "—Al decir «te ayudo con esas cajas», pareció que dudabas de que yo pudiera cargarlas. —Pensé en aligerarte el trabajo después de tantas vueltas; sé que puedes hacerlo, y tú decides si quieres ayuda.",
+    "cloze": "aligerarte",
+    "answer": "aligerarte",
+    "lemma": "aligerar",
+    "meaning": "make easier for you",
+    "audio": "work/audio/es-MX/05/es-05-1504.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1505",
+    "sentence": "Dije «tranquilo» cuando me contaste que se borró tu trabajo y te sonó a que no importaba; no quise minimizarlo, sino decirte que podíamos sentarnos a pensar qué hacer sin resolverlo todo en ese instante.",
+    "cloze": "minimizarlo",
+    "answer": "minimizarlo",
+    "lemma": "minimizar",
+    "meaning": "downplay it",
+    "audio": "work/audio/es-MX/05/es-05-1505.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1506",
+    "sentence": "—Ya anuncié que habrá cena el viernes porque dijiste «podríamos reunirnos». —Con eso tanteaba la posibilidad de vernos; todavía no había preguntado quién podía venir ni habíamos decidido reunirnos ese día.",
+    "cloze": "tanteaba",
+    "answer": "tanteaba",
+    "lemma": "tantear",
+    "meaning": "I was exploring",
+    "audio": "work/audio/es-MX/05/es-05-1506.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1507",
+    "sentence": "—Tu «ya vete a descansar» me hizo pensar que estaba estorbando. —Te relevo en la mesa porque llevas horas atendiendo; tu ayuda ha sido útil y puedes volver después de la pausa si quieres.",
+    "cloze": "Te relevo",
+    "answer": "Te relevo",
+    "lemma": "relevar",
+    "meaning": "I am relieving you",
+    "audio": "work/audio/es-MX/05/es-05-1507.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1508",
+    "sentence": "—Me reí cuando dijiste que querías aprender a nadar con nosotros; pensé que era una ocurrencia. —Hablaba en serio: nunca aprendí y quisiera empezar, así que sí necesito que me cuentes cómo son las clases.",
+    "cloze": "Hablaba en serio",
+    "answer": "Hablaba en serio",
+    "lemma": "hablar en serio",
+    "meaning": "I meant it seriously",
+    "audio": "work/audio/es-MX/05/es-05-1508.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1509",
+    "sentence": "Mi «no fue mi intención» te sonó a que debía bastar con explicar lo que quise hacer; te pido perdón por haberte avergonzado frente al grupo, y no espero que dejes de estar molesta solo porque me disculpé.",
+    "cloze": "te pido perdón",
+    "answer": "te pido perdón",
+    "lemma": "pedir perdón",
+    "meaning": "I ask your forgiveness",
+    "audio": "work/audio/es-MX/05/es-05-1509.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1510",
+    "sentence": "—Cuando dijiste «perdón», empecé a repetir la historia porque pensé que no habías oído. —Te había escuchado; el perdón era por interrumpirte para contestar el teléfono, no una petición de que empezaras de nuevo.",
+    "cloze": "interrumpirte",
+    "answer": "interrumpirte",
+    "lemma": "interrumpir",
+    "meaning": "interrupt you",
+    "audio": "work/audio/es-MX/05/es-05-1510.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1511",
+    "sentence": "—Dijiste «nos vemos el domingo», pero no sabía si yo estaba invitado o si hablabas solo con Ana. —Te incluyo en la invitación; contaba con los dos, aunque debí preguntarte directamente si querías venir.",
+    "cloze": "Te incluyo",
+    "answer": "Te incluyo",
+    "lemma": "incluir",
+    "meaning": "I include you",
+    "audio": "work/audio/es-MX/05/es-05-1511.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1512",
+    "sentence": "—Con tu «ya estuvo» pensé que habías terminado de armar el librero. —Desistí por hoy porque me faltan dos piezas; quise decir que iba a parar, no que ya estuviera listo.",
+    "cloze": "Desistí",
+    "answer": "Desistí",
+    "lemma": "desistir",
+    "meaning": "I gave up",
+    "audio": "work/audio/es-MX/05/es-05-1512.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1513",
+    "sentence": "—Después de tu «¿estamos?», empecé a guardar las cosas porque creí que habíamos terminado. —Necesito que me confirmes si aceptas el reparto de tareas; la pregunta era para saber si estamos de acuerdo.",
+    "cloze": "me confirmes",
+    "answer": "me confirmes",
+    "lemma": "confirmar",
+    "meaning": "confirm to me",
+    "audio": "work/audio/es-MX/05/es-05-1513.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1514",
+    "sentence": "—Como dijiste tantas veces que te gustaba mi lámpara, pensé que querías que te la regalara. —La admiraba por cómo la hiciste; no estaba pidiéndotela y prefiero que la conserves en tu sala.",
+    "cloze": "admiraba",
+    "answer": "admiraba",
+    "lemma": "admirar",
+    "meaning": "I was admiring",
+    "audio": "work/audio/es-MX/05/es-05-1514.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1515",
+    "sentence": "—Con tu «me encantaría» pensé que te daba pena rechazar la excursión; ¿busco a otra persona? —No, me apunto: quiero ir y puedo ese día; solo me falta saber dónde nos reunimos.",
+    "cloze": "me apunto",
+    "answer": "me apunto",
+    "lemma": "apuntarse",
+    "meaning": "count me in",
+    "audio": "work/audio/es-MX/05/es-05-1515.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1516",
+    "sentence": "—Me dijiste «tú puedes» y pensé que estabas seguro de que me darían el papel. —Te animo a presentarte a la audición; no conozco la decisión del jurado ni puedo prometerte que te elegirán.",
+    "cloze": "Te animo",
+    "answer": "Te animo",
+    "lemma": "animar",
+    "meaning": "I encourage you",
+    "audio": "work/audio/es-MX/05/es-05-1516.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1517",
+    "sentence": "—Tu «a ver…» me sonó a que dudabas de lo que te conté. —Hago memoria para acordarme del nombre de la persona que mencionaste; no estaba cuestionando tu historia.",
+    "cloze": "Hago memoria",
+    "answer": "Hago memoria",
+    "lemma": "hacer memoria",
+    "meaning": "I am trying to remember",
+    "audio": "work/audio/es-MX/05/es-05-1517.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1518",
+    "sentence": "—Cuando preguntaste «¿alguien ve algún problema?», pensé que solo esperabas que dijéramos que todo estaba bien. —Si algo no funciona, contradíceme; necesito escuchar las dificultades antes de decidir, aunque la propuesta sea mía.",
+    "cloze": "contradíceme",
+    "answer": "contradíceme",
+    "lemma": "contradecir",
+    "meaning": "challenge what I say",
+    "audio": "work/audio/es-MX/05/es-05-1518.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-05-1519",
+    "sentence": "—Tu «como tú digas» me sonó a que aceptabas por cansancio y seguías en desacuerdo. —En esto te doy la razón: si llueve, el patio no sirve para leer los cuentos; usemos la sala.",
+    "cloze": "te doy la razón",
+    "answer": "te doy la razón",
+    "lemma": "dar la razón",
+    "meaning": "I agree with you",
+    "audio": "work/audio/es-MX/05/es-05-1519.mp3",
+    "accepted_answers": []
   }
 ]
