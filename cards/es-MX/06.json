@@ -248,5 +248,255 @@
     "meaning": "is inferred",
     "audio": "work/audio/es-MX/06/es-06-0025.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0026",
+    "sentence": "Administración informa que aumentaron las reparaciones; varios vecinos dicen que siguen esperando por las mismas fallas. Rastreemos cuáles visitas corresponden a una falla que volvió después de darse por resuelta. Nos falta esa relación entre visitas para saber cuánto del trabajo exige revisar las reparaciones anteriores, en vez de tratar todo el aumento como demanda nueva.",
+    "cloze": "Rastreemos",
+    "answer": "Rastreemos",
+    "lemma": "rastrear",
+    "meaning": "let us trace",
+    "audio": "work/audio/es-MX/06/es-06-0026.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0027",
+    "sentence": "La maestra atribuye el aumento de aprobados a la nueva guía; el tutor cree que ahora se califica con menos exigencia. ¿Desaparecería la ventaja de los trabajos actuales si ustedes calificaran los anteriores y los actuales con el mismo criterio? Queremos aclarar si mejoró el trabajo antes de discutir la retirada de las prácticas de apoyo.",
+    "cloze": "Desaparecería",
+    "answer": "Desaparecería",
+    "lemma": "desaparecer",
+    "meaning": "would disappear",
+    "audio": "work/audio/es-MX/06/es-06-0027.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0028",
+    "sentence": "Crucen las opciones de asesoría ofrecidas con la disponibilidad de cada familia que se quedó fuera, por favor. El reporte dice que todos tuvieron una opción; varias familias dicen que ninguna les sirvió. Para decidir si añadimos lugares o movemos horarios, falta saber cuántas familias encontraron lleno un horario que podían usar y cuántas no podían asistir a ninguno.",
+    "cloze": "Crucen",
+    "answer": "Crucen",
+    "lemma": "cruzar",
+    "meaning": "cross-reference",
+    "audio": "work/audio/es-MX/06/es-06-0028.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0029",
+    "sentence": "La coordinadora dice que el público eligió volver a la misma sede; un asistente recuerda que solo les preguntaron cuál de dos fechas preferían ahí. ¿Cabía rechazar el lugar en esa pregunta, o había que escoger una fecha para poder responder? Quiero aclarar qué elección permitía la encuesta antes de usarla para justificar otra reserva.",
+    "cloze": "Cabía",
+    "answer": "Cabía",
+    "lemma": "caber",
+    "meaning": "was possible",
+    "audio": "work/audio/es-MX/06/es-06-0029.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0030",
+    "sentence": "La maestra dice que Diego casi no aporta; él dice que sus compañeros repiten sus ideas después de interrumpirlo. ¿En el recuento se atribuía cada idea a quien la iniciaba o a quien acababa de decirla? Esa regla, contrastada con la grabación, permitiría aclarar si necesitamos apoyar a Diego para que aporte más o cambiar cómo se reconocen las aportaciones.",
+    "cloze": "se atribuía",
+    "answer": "se atribuía",
+    "lemma": "atribuir",
+    "meaning": "was attributed",
+    "audio": "work/audio/es-MX/06/es-06-0030.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0031",
+    "sentence": "Usted dice que su hijo entiende el procedimiento, pero la maestra informa que no sabe explicarlo. ¿Puede ejecutarlo sin tener que explicar en voz alta lo que hace? Esa observación nos falta para decidir si necesita volver a aprender los pasos o trabajar en cómo explicarlos; ninguno de los dos relatos describe esa prueba.",
+    "cloze": "ejecutarlo",
+    "answer": "ejecutarlo",
+    "lemma": "ejecutar",
+    "meaning": "carry it out",
+    "audio": "work/audio/es-MX/06/es-06-0031.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0032",
+    "sentence": "Recepción dice que atiende cada vez más solicitudes; los vecinos con asuntos pendientes dicen que el servicio va peor. ¿Se rezagan los asuntos complicados mientras avanzan otros más recientes, o crecen los pendientes de todo tipo? El total atendido no aclara si debemos revisar el orden de atención o estudiar una falta general de capacidad.",
+    "cloze": "Se rezagan",
+    "answer": "Se rezagan",
+    "lemma": "rezagarse",
+    "meaning": "fall behind",
+    "audio": "work/audio/es-MX/06/es-06-0032.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0033",
+    "sentence": "El expositor quiere quitar las pausas porque las respuestas finales fueron correctas; la moderadora dice que durante esas pausas tuvo que explicar de nuevo varias instrucciones. ¿Qué respuestas se corregían durante esas explicaciones y cuáles ya estaban bien al empezar cada pausa? Falta relacionar cada cambio con ese momento para decidir si el resultado final justifica eliminar las pausas.",
+    "cloze": "se corregían",
+    "answer": "se corregían",
+    "lemma": "corregir",
+    "meaning": "were being corrected",
+    "audio": "work/audio/es-MX/06/es-06-0033.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0034",
+    "sentence": "Tú dices que siempre cancelo y yo cuento todas las veces que sí nos vimos. Propongo confirmar más cerca de la fecha. ¿Te desorganiza cambiar una salida aunque después la hagamos otro día? Si esa es la dificultad, necesito entenderla antes de proponerte todavía menos anticipación.",
+    "cloze": "Te desorganiza",
+    "answer": "Te desorganiza",
+    "lemma": "desorganizar",
+    "meaning": "disrupts your plans",
+    "audio": "work/audio/es-MX/06/es-06-0034.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0035",
+    "sentence": "La organizadora llama participativa a la muestra porque incluye relatos de los vecinos; una vecina dice que ellos no participaron. ¿Podían los autores objetar la selección y pedir que se retirara un fragmento suyo? Conocer esa posibilidad ayudaría a decidir si hace falta reunir más relatos o revisar cómo se decide su publicación.",
+    "cloze": "objetar",
+    "answer": "objetar",
+    "lemma": "objetar",
+    "meaning": "challenge",
+    "audio": "work/audio/es-MX/06/es-06-0035.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0036",
+    "sentence": "El profesor dice que el ensayo no alcanza el nivel; la tutora encuentra bien razonadas sus ideas. La calificación reúne argumentación y ortografía. ¿Cómo ponderaron cada parte y cuál impide que el alumno siga en el grupo avanzado? Necesitamos ese desglose para decidir entre cambiarlo de grupo y ofrecerle apoyo de escritura.",
+    "cloze": "ponderaron",
+    "answer": "ponderaron",
+    "lemma": "ponderar",
+    "meaning": "weighted",
+    "audio": "work/audio/es-MX/06/es-06-0036.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0037",
+    "sentence": "El balance llama exitosa a la función por los boletos vendidos; la encargada del transporte dice que casi nadie quiso quedarse hasta el final. ¿Disponían quienes salieron temprano de un transporte de regreso al terminar la obra? Queremos aclarar si quedarse era una opción para ellos antes de interpretar su salida como una petición de acortar la función.",
+    "cloze": "Disponían",
+    "answer": "Disponían",
+    "lemma": "disponer",
+    "meaning": "had available",
+    "audio": "work/audio/es-MX/06/es-06-0037.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0038",
+    "sentence": "Administración reporta menos quejas pendientes; una vecina muestra que sigue esperando la solución de una queja que ya aparece cerrada. ¿Reclasificaron como resueltas las que recibieron una respuesta, aunque faltara atender el problema? Para decidir si reducimos el seguimiento, necesitamos saber si cambió la regla de registro o si su caso es un error aislado.",
+    "cloze": "Reclasificaron",
+    "answer": "Reclasificaron",
+    "lemma": "reclasificar",
+    "meaning": "reclassified",
+    "audio": "work/audio/es-MX/06/es-06-0038.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0039",
+    "sentence": "La maestra dice que los textos ya salen sin errores; el alumno dice que todavía no sabe corregirlos sin el programa. ¿Qué errores ha reconocido él antes de ver las sugerencias automáticas? Para decidir si puede dejar el apoyo, necesitamos conocer sus propias decisiones, no solo la calidad del texto final que ambas partes describen.",
+    "cloze": "ha reconocido",
+    "answer": "ha reconocido",
+    "lemma": "reconocer",
+    "meaning": "has identified",
+    "audio": "work/audio/es-MX/06/es-06-0039.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0040",
+    "sentence": "El coordinador dice que el equipo prefiere reunirse en persona porque nadie eligió la videollamada; dos compañeros dicen que creían que esa opción requería justificar una ausencia. ¿Por cuál se inclinarían ustedes si ambas opciones estuvieran disponibles sin dar explicaciones? Esa elección nos falta para decidir si quitar la videollamada respondería a sus preferencias.",
+    "cloze": "se inclinarían",
+    "answer": "se inclinarían",
+    "lemma": "inclinarse",
+    "meaning": "would lean toward",
+    "audio": "work/audio/es-MX/06/es-06-0040.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0041",
+    "sentence": "La maestra propone separar a dos alumnos porque en un video uno le quita el material al otro; la familia dice que estaba recuperando lo que el compañero acababa de tomarle. ¿Podemos retroceder hasta la primera vez que el material cambió de manos en ese intercambio? Falta ese comienzo para aclarar si el fragmento muestra la acción inicial o una respuesta.",
+    "cloze": "retroceder",
+    "answer": "retroceder",
+    "lemma": "retroceder",
+    "meaning": "go back",
+    "audio": "work/audio/es-MX/06/es-06-0041.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0042",
+    "sentence": "La autora dice que las personas que respondieron quedan en el anonimato porque quitó sus nombres; un lector dice que pudo reconocerlas. ¿Las delatan los detalles del texto incluso ante lectores que no las conocen, o ese lector necesitó información previa sobre esas personas? Esa distinción falta para decidir qué datos revisar en la versión que se propone compartir con otro grupo.",
+    "cloze": "Las delatan",
+    "answer": "Las delatan",
+    "lemma": "delatar",
+    "meaning": "give their identities away",
+    "audio": "work/audio/es-MX/06/es-06-0042.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0043",
+    "sentence": "La cocina dice que sobró mucha comida y propone preparar menos; quienes sirvieron aseguran que varios se quedaron con hambre. ¿Contabilizaron juntos lo que quedó sin servir y lo que se dejó en los platos? Para decidir entre cocinar menos o cambiar las porciones, necesitamos saber dónde quedó la comida que el balance llama sobrante.",
+    "cloze": "Contabilizaron",
+    "answer": "Contabilizaron",
+    "lemma": "contabilizar",
+    "meaning": "counted",
+    "audio": "work/audio/es-MX/06/es-06-0043.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0044",
+    "sentence": "La encargada dice que el salón recupera su costo; los voluntarios dicen que solo funciona porque prestan las mesas gratis y ya no podrán hacerlo. ¿Podríamos costearlas con los ingresos actuales si hubiera que conseguirlas sin ese préstamo? Nos falta incluir ese gasto para saber si el balance anterior sirve para decidir sobre la renovación del salón.",
+    "cloze": "costearlas",
+    "answer": "costearlas",
+    "lemma": "costear",
+    "meaning": "pay for them",
+    "audio": "work/audio/es-MX/06/es-06-0044.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0045",
+    "sentence": "La maestra recomienda repetir las operaciones básicas; el tutor dice que el alumno calcula bien, pero interpreta mal los problemas escritos. ¿En qué paso se apartó su respuesta de lo que pedía el problema: al elegir la operación o al hacer la cuenta? Ese punto nos ayudaría a decidir qué apoyo necesita, sin deducirlo únicamente del resultado incorrecto.",
+    "cloze": "se apartó",
+    "answer": "se apartó",
+    "lemma": "apartarse",
+    "meaning": "deviated",
+    "audio": "work/audio/es-MX/06/es-06-0045.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0046",
+    "sentence": "El director dice que el coro entra tarde en el video y quiere añadir ensayos; una cantante dice que al unir las tomas se movió la imagen respecto del sonido. ¿Se desincronizaron la imagen y el sonido durante la edición? Una toma continua con la señal y la entrada del coro permitiría comprobarlo antes de cambiar los ensayos.",
+    "cloze": "Se desincronizaron",
+    "answer": "Se desincronizaron",
+    "lemma": "desincronizarse",
+    "meaning": "became out of sync",
+    "audio": "work/audio/es-MX/06/es-06-0046.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0047",
+    "sentence": "Tú dices que me estás ayudando a organizar la reunión; yo siento que ya no puedo decidir. Hablando de tu ayuda, ¿la retirarías si yo eligiera una opción distinta de la que propones? Necesito saber para qué tareas puedo contar contigo si no coincidimos en todo.",
+    "cloze": "la retirarías",
+    "answer": "la retirarías",
+    "lemma": "retirar",
+    "meaning": "would withdraw it",
+    "audio": "work/audio/es-MX/06/es-06-0047.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0048",
+    "sentence": "El encargado dice que el nuevo formulario redujo las quejas y propone quitar el teléfono; una usuaria dice que dejó de intentar enviarlas porque la página se cerraba. ¿Cuántas quejas se recuperaron por teléfono después de un intento fallido en la página? Nos falta esa relación entre canales para saber si el teléfono cubre precisamente lo que el formulario deja fuera.",
+    "cloze": "se recuperaron",
+    "answer": "se recuperaron",
+    "lemma": "recuperar",
+    "meaning": "were recovered",
+    "audio": "work/audio/es-MX/06/es-06-0048.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0049",
+    "sentence": "El equipo de montaje pide tres horas de salón; la administradora suma sus tareas y dice que deberían bastar dos si trabajan a la vez. ¿Qué tareas tienen que sucederse porque una necesita el resultado de otra? Para revisar la reserva, nos falta distinguir ese tiempo de espera del trabajo que sí podría repartirse entre varias personas.",
+    "cloze": "sucederse",
+    "answer": "sucederse",
+    "lemma": "sucederse",
+    "meaning": "follow one another",
+    "audio": "work/audio/es-MX/06/es-06-0049.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0050",
+    "sentence": "La coordinadora llama flexible al curso, pero tú dices que te atrasas porque cada ejercicio se cierra antes de la siguiente clase. Si te concedieran más tiempo para uno, ¿se arrastraría el ajuste a las fechas de los ejercicios posteriores que dependen de ese primero? Esa diferencia importa para saber si una prórroga te permitiría seguir el curso con tus turnos de trabajo.",
+    "cloze": "se arrastraría",
+    "answer": "se arrastraría",
+    "lemma": "arrastrar",
+    "meaning": "would be carried over",
+    "audio": "work/audio/es-MX/06/es-06-0050.mp3",
+    "accepted_answers": []
   }
 ]
