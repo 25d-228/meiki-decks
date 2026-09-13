@@ -2248,5 +2248,255 @@
     "meaning": "remedies",
     "audio": "work/audio/es-MX/06/es-06-0225.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0226",
+    "sentence": "—La película dura noventa minutos; las tres horas del programa incluían la charla. —Acepto el error: yo la recomendé por la actuación y por el desarrollo largo que imaginaba; tú la descartaste sobre todo por durar tanto, aunque también te molestó la música. La corrección nos quita ese argumento a ambos: ni puedo elogiar tres horas de desarrollo ni tú rechazar una película de esa duración. Mi recomendación conserva la actuación como motivo principal; tu molestia con la música sigue siendo válida.",
+    "cloze": "nos quita",
+    "answer": "nos quita",
+    "lemma": "quitar",
+    "meaning": "takes away from us",
+    "audio": "work/audio/es-MX/06/es-06-0226.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0227",
+    "sentence": "La última página del cuento muestra que los hermanos vuelven a verse, aunque ninguno habla. Retiro mi crítica a la falta de un reencuentro: pasé por alto esa escena. Tú habías elogiado la separación definitiva como una decisión valiente. No puedes rescatar ese elogio diciendo ahora que el encuentro es silencioso; el silencio no impide que ocurra. Sí podemos discutir su efecto. Mi crítica al diálogo de las primeras páginas sigue teniendo sus ejemplos, y las imágenes que tú destacaste conservan su fuerza aunque cambiemos nuestra lectura del final.",
+    "cloze": "rescatar",
+    "answer": "rescatar",
+    "lemma": "rescatar",
+    "meaning": "salvage",
+    "audio": "work/audio/es-MX/06/es-06-0227.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0228",
+    "sentence": "—Reconoces que sí hay un espacio tranquilo en el centro; entonces ensayaremos en la sala que yo decía. —¿Por qué nos ata mi corrección a esa sala ruidosa? Yo había descartado el centro porque creía que era la única; tú también la defendías como el único espacio fuera de casa. Nos acaban de mostrar un estudio disponible. Reconozco mi error al excluir todo el centro, pero también desapareció aquella exclusividad. Mi casa conserva la ventaja del piano y la estrechez que tú señalaste; comparemos ahora esos motivos con el estudio.",
+    "cloze": "nos ata",
+    "answer": "nos ata",
+    "lemma": "atar",
+    "meaning": "binds us",
+    "audio": "work/audio/es-MX/06/es-06-0228.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0229",
+    "sentence": "La lista repetía cada nombre: tenemos dieciocho participantes, no treinta y seis, para veintidós lugares. Ya no defiendo por falta de cupo el salón más grande que propuse. Los participantes tampoco rebasarían el cupo de una sola sesión en el salón actual, así que dividir el taller en dos, como tú pedías por el mismo cálculo, dejó de ser necesario para darles lugar. Todavía prefiero la luz del salón nuevo. Tus dos horarios también conservan una ventaja distinta: algunas personas nos dijeron que trabajan por la mañana. Discutamos esas razones sin contar dos veces al grupo.",
+    "cloze": "rebasarían",
+    "answer": "rebasarían",
+    "lemma": "rebasar",
+    "meaning": "would exceed",
+    "audio": "work/audio/es-MX/06/es-06-0229.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0230",
+    "sentence": "La lista recibida ya traía los nombres incompletos; comprobamos que nuestro equipo la copió fielmente. Reconozco que mi petición de volver a capacitarlo partía de culparlo por esas omisiones. Tu alternativa era cambiar de capturista por el mismo motivo. Hay que reencauzar también esa propuesta: otra persona copiaría los mismos datos incompletos. Mi interés en enseñar las funciones nuevas se mantiene, y tu preocupación por la falta de tiempo conserva el respaldo de los pendientes. Para resolver estas omisiones, necesitamos pedir los datos que faltan, sin tratar esos dos problemas distintos como su causa.",
+    "cloze": "reencauzar",
+    "answer": "reencauzar",
+    "lemma": "reencauzar",
+    "meaning": "redirect",
+    "audio": "work/audio/es-MX/06/es-06-0230.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0231",
+    "sentence": "Retiro lo de excluirme a propósito de la reunión: vimos que mi dirección faltaba por un error al copiar la lista. Yo lo tomé como un desprecio y tú defendiste esa supuesta decisión como una manera de dejarme descansar. Tampoco puedes atribuirte el mérito de haberme dejado descansar a propósito. Sí agradezco que organizaras la comida y sigo molesta por haberme quedado fuera. Reconocer el trabajo y el efecto de la omisión no exige conservar ninguna de aquellas intenciones.",
+    "cloze": "atribuirte",
+    "answer": "atribuirte",
+    "lemma": "atribuir",
+    "meaning": "claim for yourself",
+    "audio": "work/audio/es-MX/06/es-06-0231.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0232",
+    "sentence": "La artista nos mostró varios grabados idénticos que todavía tenía a la venta. Yo quería comprar uno porque lo creía único y me gustaban sus colores; tú preferías una reproducción por la preocupación de perder una pieza que nadie podría reemplazar. Acepto que exageré la exclusividad. Con los otros ejemplares disponibles se esfuma también tu motivo para tratar el grabado como imposible de reponer hoy. Eso no garantiza que queden copias el próximo año. Los colores todavía me gustan y la reproducción sigue siendo más ligera para colgarla; esas diferencias sí podemos compararlas.",
+    "cloze": "se esfuma",
+    "answer": "se esfuma",
+    "lemma": "esfumarse",
+    "meaning": "vanishes",
+    "audio": "work/audio/es-MX/06/es-06-0232.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0233",
+    "sentence": "—El acuerdo dice que la asistencia es voluntaria. —Tiene razón: retiro mi objeción al horario como una obligación para todos. Pero usted lo defendía precisamente porque obligaría a presentarse al grupo completo. Si fuera consecuente con esta aclaración, tampoco exigiría usted esa asistencia con el acuerdo como respaldo. Mi dificultad permanece porque la hora coincide con mi trabajo; usted conserva la disponibilidad que la maestra confirmó para entonces. Podemos ofrecer ese horario y discutir a quién le sirve, sin mantener ni mi denuncia de imposición ni su garantía de que nadie faltará.",
+    "cloze": "exigiría",
+    "answer": "exigiría",
+    "lemma": "exigir",
+    "meaning": "would demand",
+    "audio": "work/audio/es-MX/06/es-06-0233.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0234",
+    "sentence": "Tu propuesta de respaldo no se libra del límite que acabo de reconocer: los mapas no abrieron sin internet en ninguno de los dos aparatos. Yo había recomendado depender solo de mi teléfono por creer que funcionaban sin conexión; tú proponías añadir una tableta con la misma aplicación. Retiro aquella garantía, y ponerla en otro aparato no la vuelve cierta. Tu tableta sí responde a que mi teléfono se apague. La búsqueda por nombre sigue siendo útil; el acceso sin conexión requiere otra opción que hayamos comprobado así.",
+    "cloze": "se libra",
+    "answer": "se libra",
+    "lemma": "librarse",
+    "meaning": "escapes",
+    "audio": "work/audio/es-MX/06/es-06-0234.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0235",
+    "sentence": "Yo prefería ir al taller porque daba por perdido el pago si faltábamos; tú querías cancelarlo y pagar otro, contando con perder esa misma cantidad. Leímos la confirmación: todavía podemos recuperar todo lo pagado. Reconozco que usé una pérdida inexistente para defender mi elección. Con la devolución recalcularíamos también el costo adicional de tu alternativa: no incluye perder el primer pago. Aún me interesa más el contenido del taller original y a ti te acomoda mejor el horario del otro; ahora podemos comparar esas razones con los costos correctos.",
+    "cloze": "recalcularíamos",
+    "answer": "recalcularíamos",
+    "lemma": "recalcular",
+    "meaning": "we would recalculate",
+    "audio": "work/audio/es-MX/06/es-06-0235.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0236",
+    "sentence": "Varios integrantes del grupo dijeron que nunca habían leído una partitura. Ya no sostengo mi propuesta de tocar sin guía como si todos dominaran esa lectura. Tú dabas por hecho el mismo dominio al proponer un arreglo más difícil para evitarles el aburrimiento. Propongo que graduemos tanto la ayuda como la dificultad según esa experiencia: no podemos quitarles la guía y aumentarles la dificultad suponiendo un dominio que no todos tienen. Sí quiero que el grupo aprenda a tomar decisiones, y tu propuesta permite repartir mejor los instrumentos. Podemos conservar esa distribución y ofrecer decisiones que puedan tomar con el apoyo necesario.",
+    "cloze": "graduemos",
+    "answer": "graduemos",
+    "lemma": "graduar",
+    "meaning": "we adjust the level",
+    "audio": "work/audio/es-MX/06/es-06-0236.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0237",
+    "sentence": "«Mejor dejar todo el folleto para el próximo mes; las correcciones no caben en el plazo de hoy», dijiste cuando yo pedí quitar las imágenes para terminar a tiempo. El calendario aprobado marca la próxima semana. Me equivoqué al exigir ese recorte por urgencia. Ese supuesto vencimiento tampoco justifica que pospongamos todo un mes; aún debemos calcular cuánto llevarán las correcciones. Aún quiero quitar algunas imágenes porque tapan las instrucciones, y los errores que señalaste requieren revisión. Retiremos la urgencia de ambas propuestas, sin borrar esos problemas concretos.",
+    "cloze": "pospongamos",
+    "answer": "pospongamos",
+    "lemma": "posponer",
+    "meaning": "we postpone",
+    "audio": "work/audio/es-MX/06/es-06-0237.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0238",
+    "sentence": "Yo defendí avisos más cortos porque interpreté la falta de respuestas como rechazo a los textos largos; tú querías cerrar el grupo porque ese mismo silencio te parecía falta de interés en seguir ahí. Descubrimos que solo quienes administraban tenían permiso de contestar. Retiro mi explicación de aquel silencio. Consultémosles si quieren seguir en el grupo y qué avisos les sirven, después de habilitar las respuestas. Las peticiones de brevedad que recibí por teléfono sí orientan la redacción; tu preocupación por quienes no usan la aplicación exige además otra vía de contacto. Ninguna de esas necesidades convierte las respuestas bloqueadas en respaldo para acortar o cerrar.",
+    "cloze": "Consultémosles",
+    "answer": "Consultémosles",
+    "lemma": "consultar",
+    "meaning": "let us ask them",
+    "audio": "work/audio/es-MX/06/es-06-0238.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0239",
+    "sentence": "La página contaba reproducciones, no reseñas ni personas distintas. Retiro las supuestas miles de opiniones que cité para defender el disco. Tú lo rechazabas como una moda seguida por una multitud y también señalaste letras repetitivas. Ahora dices que ninguno tiene más que gustos personales. No corresponde equipararnos así: tu argumento de la multitud también pierde ese número, pero la repetición que mostraste en varias letras conserva sus ejemplos. Mi entusiasmo por las melodías sigue siendo personal; corregir la cifra no borra esa diferencia entre las razones que quedan.",
+    "cloze": "equipararnos",
+    "answer": "equipararnos",
+    "lemma": "equiparar",
+    "meaning": "put us on an equal footing",
+    "audio": "work/audio/es-MX/06/es-06-0239.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0240",
+    "sentence": "La bolsa quedó bien después de lavarla siguiendo la etiqueta. Corrijo mi consejo de usarla para una sola salida: había supuesto que no admitía lavado. Tú preferías no comprarla porque acabaría en la basura después de cada uso. Con esta prueba necesitamos recalibrar también tu comparación de residuos; no corresponde contar una bolsa desechada por salida si volvemos a usarla. La tela ligera todavía me parece cómoda y las costuras flojas que señalaste siguen siendo un defecto. Podemos retirar el supuesto uso único sin asegurar todavía cuánto durará.",
+    "cloze": "recalibrar",
+    "answer": "recalibrar",
+    "lemma": "recalibrar",
+    "meaning": "reassess",
+    "audio": "work/audio/es-MX/06/es-06-0240.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0241",
+    "sentence": "—Las dos firmas son seudónimos de una sola autora; ella lo aclaró. —Entonces retiro las dos opiniones independientes que cité para proponer la invitación. Tú rechazabas invitar a esos supuestos dos reseñistas porque veías una alianza para imponer su gusto. La idea de una alianza también se desinfla: las firmas no prueban coordinación entre personas distintas. La autora sí hizo la lectura detallada que me interesa, y tú puedes mantener tu crítica a que ignoró el final. Discutamos su trabajo sin contar dos apoyos ni dos personas coordinadas.",
+    "cloze": "se desinfla",
+    "answer": "se desinfla",
+    "lemma": "desinflarse",
+    "meaning": "loses force",
+    "audio": "work/audio/es-MX/06/es-06-0241.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0242",
+    "sentence": "Una tercera parte de los asistentes llega caminando, según la lista. Admito que exageré al pedir más estacionamiento porque supuestamente todos venían en coche. Su propuesta alternativa era una cuota para automovilistas que usted calculó multiplicando por el total de asistentes. También circunscribiría ese cálculo a quienes sí llegan en coche: no puede conservar el total que mi corrección acaba de reducir. Aún vimos coches sin lugar, y usted señaló un gasto de limpieza real. Ambos problemas permanecen, pero ninguno permite contar como automovilista a toda persona que asiste.",
+    "cloze": "circunscribiría",
+    "answer": "circunscribiría",
+    "lemma": "circunscribir",
+    "meaning": "I would confine",
+    "audio": "work/audio/es-MX/06/es-06-0242.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0243",
+    "sentence": "El silencio del departamento coincidió con un cierre del local vecino. Hoy, con el local abierto, se oye mucha conversación. Reconozco que lo recomendé sin comprobar que fuera habitualmente tranquilo; tú lo rechazabas por tomar ese mismo silencio como señal de aislamiento. Ahora propones elegirlo porque las voces del vecino demostrarían que ahí tendremos compañía. No extraigamos de esa corrección más de lo que permite: yo no puedo seguir prometiendo tranquilidad ni tú descartarlo por aquel silencio, pero las voces tampoco garantizan compañía. Yo sigo valorando la luz para dibujar, y la cercanía del otro departamento a tus amigos sí ofrece un motivo distinto para preferirlo.",
+    "cloze": "extraigamos",
+    "answer": "extraigamos",
+    "lemma": "extraer",
+    "meaning": "let us draw",
+    "audio": "work/audio/es-MX/06/es-06-0243.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0244",
+    "sentence": "—Julia ya dio varios talleres; aquí están sus programas y grabaciones. —Acepto que me equivoqué al querer invitarla para darle su primera oportunidad. Pero no tengo que concederte por eso que debamos descartarla: tú te oponías justamente por su supuesta falta de experiencia. Las grabaciones que corrigen mi motivo también responden a esa objeción. Me sigue convenciendo cómo explica; tu dificultad con el único horario que tiene disponible tampoco desaparece. Antes de invitarla, resolvamos ese problema real en vez de seguir tratándola como principiante.",
+    "cloze": "concederte",
+    "answer": "concederte",
+    "lemma": "conceder",
+    "meaning": "concede to you",
+    "audio": "work/audio/es-MX/06/es-06-0244.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0245",
+    "sentence": "Yo propuse sustituir el curso de iniciación por uno avanzado porque creía que no quedaban principiantes; tú querías cerrarlo sin abrir otro por esa misma falta de público. Hoy se inscribieron varias personas que empiezan de cero. Reconozco que no debí dar por desaparecido ese público. Te propongo que reorganicemos la oferta para distinguir a los dos grupos: el avanzado todavía tiene alumnos que terminaron el nivel anterior, pero no atendería a quienes acaban de empezar. La falta de maestra para iniciación que señalaste puede obligarnos a aplazarla; ya no permite justificar el cierre por falta de interesados.",
+    "cloze": "reorganicemos",
+    "answer": "reorganicemos",
+    "lemma": "reorganizar",
+    "meaning": "we reorganize",
+    "audio": "work/audio/es-MX/06/es-06-0245.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0246",
+    "sentence": "Los boletos permiten que cada persona elija su destino. Admito que no me daban derecho a exigir que toda la familia fuera a la playa; yo los había entendido como una obligación de viajar juntos. Tú defendías ir todos a la sierra bajo esa misma restricción. Yo separaría la decisión de viajar juntos de la elección del destino: los boletos no resuelven la primera a favor de ninguno de los dos. Yo sigo prefiriendo nadar y tú caminar en el bosque. Decidamos cuánto queremos convivir sin atribuirles a los boletos una condición inexistente.",
+    "cloze": "separaría",
+    "answer": "separaría",
+    "lemma": "separar",
+    "meaning": "I would separate",
+    "audio": "work/audio/es-MX/06/es-06-0246.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0247",
+    "sentence": "Las notas completas muestran que no se repetían avisos: cada reunión resolvía dudas nuevas. Retiro mi propuesta de eliminar las reuniones por repetir siempre los mismos avisos: esa descripción era falsa. Tú defendías precisamente la repetición como entrenamiento para los recién llegados. Propongo que sustentemos la continuidad en los ejemplos de preguntas resueltas que tú mostraste, sin seguir presentándolas como aprendizaje por repetición. Así puedes conservar tu propósito de orientar a los nuevos, aunque cambie la razón para defender estas reuniones. Mantengo mi crítica a las dos horas que duran; aceptar ese trabajo útil no me obliga a aprobar su duración.",
+    "cloze": "sustentemos",
+    "answer": "sustentemos",
+    "lemma": "sustentar",
+    "meaning": "we base",
+    "audio": "work/audio/es-MX/06/es-06-0247.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0248",
+    "sentence": "—El primer turno se asignó por sorteo, como muestra la lista de la organizadora. —Entonces retiro mi motivo para elegir a ese equipo como el mejor: confundí su lugar con una evaluación. Pero el orden tampoco te respalda para excluirlo por una superioridad que, según dijiste, dejaría sin oportunidad a los demás. Sí puedo mencionar la puntualidad que les he visto; tu preocupación por el poco tiempo disponible también sigue siendo real. El sorteo no demuestra ni el mérito que yo afirmé ni la desigualdad de habilidad en que apoyabas tu rechazo.",
+    "cloze": "te respalda",
+    "answer": "te respalda",
+    "lemma": "respaldar",
+    "meaning": "supports your position",
+    "audio": "work/audio/es-MX/06/es-06-0248.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0249",
+    "sentence": "Mi tía nos espera a comer y por la noche recibe a otra persona. Retiro el plan de pasar ahí el fin de semana: amplié una invitación que no ofrecía alojamiento. Tú querías evitar la visita para no ocupar su único cuarto libre. Esa falta de cuarto ya no justificaría rechazar también la comida, pues la necesidad de dormir ahí venía de mi error. Todavía quiero verla, y el cansancio por el traslado que señalaste merece consideración. Discutamos la visita del día con esas razones, sin seguir contando una noche que nadie ofreció.",
+    "cloze": "justificaría",
+    "answer": "justificaría",
+    "lemma": "justificar",
+    "meaning": "would justify",
+    "audio": "work/audio/es-MX/06/es-06-0249.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0250",
+    "sentence": "Yo pedía rehacer la exposición y tú cerrarla: para mí, las pocas visitas del contador mostraban falta de atractivo; para ti, no justificaban ocupar el salón. El aparato no registraba a quienes entraban por el patio. Reconozco que traté un registro incompleto como toda la asistencia. Ahora depuraría las razones de ambas propuestas: no tenemos un total para sostener ninguno de esos argumentos. Mis fotos sí muestran cédulas ilegibles y tú tienes solicitudes de otros grupos para el salón. Esas razones pueden discutirse sin inventar tampoco una exposición muy concurrida.",
+    "cloze": "depuraría",
+    "answer": "depuraría",
+    "lemma": "depurar",
+    "meaning": "I would refine",
+    "audio": "work/audio/es-MX/06/es-06-0250.mp3",
+    "accepted_answers": []
   }
 ]
