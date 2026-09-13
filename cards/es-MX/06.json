@@ -748,5 +748,255 @@
     "meaning": "still depend",
     "audio": "work/audio/es-MX/06/es-06-0075.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0076",
+    "sentence": "El taller de bicicletas acordó con Julia usar su cochera y dejar ahí las reparaciones pendientes. El grupo de baile acordó con ella ensayar cada mañana con el piso vacío, los mismos días. No basta compaginarlos en un calendario: retirar las bicicletas cada noche cambiaría lo que aceptó el taller. Falta acordar un uso que ambos grupos acepten.",
+    "cloze": "compaginarlos",
+    "answer": "compaginarlos",
+    "lemma": "compaginar",
+    "meaning": "make them compatible",
+    "audio": "work/audio/es-MX/06/es-06-0076.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0077",
+    "sentence": "—Elisa te prestó las bocinas con devolución antes de su clase. Tú acordaste llevarlas a la función de Rafa, pero él canceló y ya no necesita que se las lleves. —Entonces puedo quedármelas hasta el lunes. —Que Rafa cancele su encargo no te releva de devolverlas a Elisa antes de la clase.",
+    "cloze": "te releva",
+    "answer": "te releva",
+    "lemma": "relevar",
+    "meaning": "releases you",
+    "audio": "work/audio/es-MX/06/es-06-0077.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0078",
+    "sentence": "La papelería ofreció mil pesos a un proyecto del barrio si sus participantes reunían otros mil. El huerto y el club de lectura aceptaron por separado aportar mil, contando cada uno con el apoyo completo. No podemos prorratear ese único apoyo como si ambos hubieran aceptado recibir la mitad: eso cambiaría las condiciones de sus aportaciones.",
+    "cloze": "prorratear",
+    "answer": "prorratear",
+    "lemma": "prorratear",
+    "meaning": "divide proportionally",
+    "audio": "work/audio/es-MX/06/es-06-0078.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0079",
+    "sentence": "Rosa aceptó cocinarle a Pilar a cambio de que Pilar le hiciera las compras. Pilar también acordó hacerle las compras a Dani a cambio de que él le lavara ropa. Propones que Rosa cocine para Dani y él lave la ropa de Rosa. Esas aceptaciones no se transfieren entre destinatarios: Rosa y Dani no han aceptado sustituir sus intercambios con Pilar por uno entre ellos.",
+    "cloze": "se transfieren",
+    "answer": "se transfieren",
+    "lemma": "transferir",
+    "meaning": "are transferred",
+    "audio": "work/audio/es-MX/06/es-06-0079.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0080",
+    "sentence": "El dueño del patio dice: «Confirmaré el préstamo cuando el coro confirme la presentación». El coro responde: «Confirmaremos cuando tengamos confirmado el patio». La organizadora quiere anunciar que ya tiene los dos síes. Pero las confirmaciones se condicionan entre sí: cada parte sigue esperando la de la otra. Hace falta que alguna acepte confirmar primero o que ambas acepten hacerlo juntas; ninguna de esas salidas está acordada.",
+    "cloze": "se condicionan",
+    "answer": "se condicionan",
+    "lemma": "condicionarse",
+    "meaning": "are conditional on each other",
+    "audio": "work/audio/es-MX/06/es-06-0080.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0081",
+    "sentence": "Mar aceptó cocinar para la convivencia si el club llevaba los ingredientes; el club aceptó llevarlos solo si se vendían boletos. No habrá venta, así que no podemos anunciar la comida. Sin embargo, el préstamo de mesas no se cancela por eso: sus dueños lo acordaron para cualquier actividad vecinal de ese sábado, hubiera comida o no.",
+    "cloze": "se cancela",
+    "answer": "se cancela",
+    "lemma": "cancelarse",
+    "meaning": "is canceled",
+    "audio": "work/audio/es-MX/06/es-06-0081.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0082",
+    "sentence": "La dueña prestó el proyector al cineclub hasta que terminara su película, a las siete. También aceptó prestarlo al taller con entrega a las seis. El taller acordó con sus alumnos empezar puntualmente, pero ese acuerdo no permite anteponer su horario al préstamo del cineclub. Los grupos todavía no han acordado quién cambiará su compromiso.",
+    "cloze": "anteponer",
+    "answer": "anteponer",
+    "lemma": "anteponer",
+    "meaning": "give priority to",
+    "audio": "work/audio/es-MX/06/es-06-0082.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0083",
+    "sentence": "Elena aceptó prestar el horno si el equipo preparaba también su pan; el equipo aceptó ese intercambio. Bruno acordó con ellos hornear en otro lugar a cambio de que le pagaran los ingredientes, sin preparar pedidos ajenos. Ahora quieren usar el horno de Elena con la condición de Bruno. No pueden fragmentarlo así: el intercambio con Elena incluía su pan.",
+    "cloze": "fragmentarlo",
+    "answer": "fragmentarlo",
+    "lemma": "fragmentar",
+    "meaning": "split it apart",
+    "audio": "work/audio/es-MX/06/es-06-0083.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0084",
+    "sentence": "—Acordé con mi hermana ir en su coche; contigo dejé el autobús como alternativa solo si ella no podía llevarme. Luego confirmé el coche y tú liberaste tu lugar. Ahora preferiría ir contigo. —Nuestra alternativa no se reactivaría solo porque cambies de preferencia: tu hermana sigue pudiendo llevarte y yo ya no tengo lugar apartado. Necesitamos otro acuerdo para ir juntos.",
+    "cloze": "se reactivaría",
+    "answer": "se reactivaría",
+    "lemma": "reactivarse",
+    "meaning": "would become active again",
+    "audio": "work/audio/es-MX/06/es-06-0084.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0085",
+    "sentence": "Usted me dio hasta el lunes para terminar el mantel, y yo acepté esa prórroga. Pero la costurera me prestó su máquina solo hasta el viernes porque el sábado la necesita. El préstamo no se prolonga con nuestro nuevo plazo de entrega. Todavía no puedo confirmar que trabajaré el fin de semana con esa máquina.",
+    "cloze": "se prolonga",
+    "answer": "se prolonga",
+    "lemma": "prolongarse",
+    "meaning": "is extended",
+    "audio": "work/audio/es-MX/06/es-06-0085.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0086",
+    "sentence": "Paula y Hugo aceptaron hablar conmigo del patio, cada uno en un encuentro privado. Ambos me permitieron transmitir propuestas, pero no sus razones personales. La coordinadora propone una videollamada de los tres porque «todos aceptaron hablar». No puedo fusionarlos sin consultarlos: los encuentros acordados permiten transmitir propuestas sin exponer ante el otro las razones que me confíen.",
+    "cloze": "fusionarlos",
+    "answer": "fusionarlos",
+    "lemma": "fusionar",
+    "meaning": "merge them",
+    "audio": "work/audio/es-MX/06/es-06-0086.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0087",
+    "sentence": "El club confirmó el taller aunque solo asistieran adultos. Varias familias acordaron ir si Nora cuidaba a los niños; ella aceptó únicamente si el taller se realizaba. Nora ya no puede ir. No debemos subordinarlo al cuidado infantil: la dependencia acordada iba en el otro sentido. El taller sigue confirmado, pero la asistencia de esas familias ya no lo está.",
+    "cloze": "subordinarlo",
+    "answer": "subordinarlo",
+    "lemma": "subordinar",
+    "meaning": "make it dependent",
+    "audio": "work/audio/es-MX/06/es-06-0087.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0088",
+    "sentence": "Cada familia aceptó aportar doscientos pesos para el paseo si la organizadora conseguía una camioneta dentro de ese total. Ella aceptó por su cuenta un precio mayor con el chofer. No demos por hecho que se repartiría entre las familias esa diferencia: sus aportaciones tienen un límite y el compromiso de ella con el chofer no lo aumenta.",
+    "cloze": "se repartiría",
+    "answer": "se repartiría",
+    "lemma": "repartir",
+    "meaning": "would be shared out",
+    "audio": "work/audio/es-MX/06/es-06-0088.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0089",
+    "sentence": "Yo cambié mi turno del martes por el jueves de Luisa. Después Luisa cambió ese martes con Omar por su viernes. Ellos quieren deshacer su intercambio y Luisa dice que todos volvemos al inicio. El reparto anterior a mi cambio no se restablece con esa cancelación: yo sigo teniendo el jueves y Luisa recuperaría el martes.",
+    "cloze": "se restablece",
+    "answer": "se restablece",
+    "lemma": "restablecerse",
+    "meaning": "is restored",
+    "audio": "work/audio/es-MX/06/es-06-0089.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0090",
+    "sentence": "El grupo de teatro acordó agradecer en conjunto a quienes ayudaran con el vestuario. Sofía me prestó sus trajes a cambio de que yo reparara uno antes de devolvérselos. Mi compromiso de reparación no se cumple con el agradecimiento del grupo. Podemos darle las gracias entre todos, pero ella no aceptó cambiar la reparación por ese reconocimiento.",
+    "cloze": "se cumple",
+    "answer": "se cumple",
+    "lemma": "cumplir",
+    "meaning": "is fulfilled",
+    "audio": "work/audio/es-MX/06/es-06-0090.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0091",
+    "sentence": "Vera recogió mi pedido a cambio de que yo cuidara su puesto. Luis me debía una tarde de ayuda y le dije que ya no hacía falta. Ahora le digo a Vera que estamos a mano porque yo también perdoné un favor. Pero lo que le debo no se compensa con lo que le perdoné a Luis: ella no aceptó ese cambio.",
+    "cloze": "se compensa",
+    "answer": "se compensa",
+    "lemma": "compensar",
+    "meaning": "is offset",
+    "audio": "work/audio/es-MX/06/es-06-0091.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0092",
+    "sentence": "Los dos colectivos acordamos presentar juntos nuestras propuestas, con una sección propia para cada uno. Nosotros pedimos conservar el estacionamiento; ellos, convertirlo en jardín. Ambos aceptamos porque cada postura quedaría identificada. La frase de portada «Respaldamos las dos propuestas» nos comprometería con la postura ajena. Podemos publicar el documento acordado, pero no hemos aceptado esa declaración común.",
+    "cloze": "nos comprometería",
+    "answer": "nos comprometería",
+    "lemma": "comprometer",
+    "meaning": "would commit us",
+    "audio": "work/audio/es-MX/06/es-06-0092.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0093",
+    "sentence": "La dueña y el club acordaron probar el patio un mes y después devolver las macetas a su sitio. El club también acordó con un tallerista instalar bancas en ese mismo lugar y dejarlas todo el año. Cumplir ese segundo acuerdo impediría cumplir la devolución prometida a la dueña. No podemos anunciar ambos compromisos como un plan aceptado por los tres.",
+    "cloze": "impediría",
+    "answer": "impediría",
+    "lemma": "impedir",
+    "meaning": "would prevent",
+    "audio": "work/audio/es-MX/06/es-06-0093.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0094",
+    "sentence": "El comité dejó que Eva colaborara cocinando en vez de pagar. Las demás familias aceptaron pagar su cuota porque ella aportaría la comida. Ahora proponen que todas lleven un platillo. No hay acuerdo para que la excepción se generalice: el reparto aceptado combinaba comida y dinero; sustituir también las otras cuotas exige acordar cómo se cubrirán los gastos.",
+    "cloze": "se generalice",
+    "answer": "se generalice",
+    "lemma": "generalizarse",
+    "meaning": "be extended to everyone",
+    "audio": "work/audio/es-MX/06/es-06-0094.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0095",
+    "sentence": "Para compartir el salón, el coro aceptó que el club eligiera sus domingos de uso. El club aceptó que el coro fijara las fechas de sus conciertos. Un concierto y una lectura quedaron el mismo domingo. Esas facultades no bastan para dirimir el choque: ninguno acordó que una tuviera prioridad. Compartir el salón está aceptado; esta distribución, todavía no.",
+    "cloze": "dirimir",
+    "answer": "dirimir",
+    "lemma": "dirimir",
+    "meaning": "settle",
+    "audio": "work/audio/es-MX/06/es-06-0095.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0096",
+    "sentence": "Los vecinos aceptaron con el coro un ensayo nocturno y con el teatro una función nocturna. En ambos acuerdos pusieron el mismo límite: una sola noche de ruido por semana en total. Los grupos proponen martes y jueves para no coincidir. Hacer ambas actividades esa semana rebasaría el límite compartido por los dos acuerdos, aunque los horarios no se encimen.",
+    "cloze": "rebasaría",
+    "answer": "rebasaría",
+    "lemma": "rebasar",
+    "meaning": "would exceed",
+    "audio": "work/audio/es-MX/06/es-06-0096.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0097",
+    "sentence": "Dos equipos acordaron compartir el nombre del festival, pero cada uno recibiría sus propias inscripciones. Uno pactó con sus asistentes que podían cambiar de taller; el otro aceptó reservar lugares solo para su lista, sin cambios. Compartir el nombre no unifica las inscripciones: los cambios ofrecidos por el primer equipo no dan acceso a los lugares que el segundo reservó.",
+    "cloze": "unifica",
+    "answer": "unifica",
+    "lemma": "unificar",
+    "meaning": "unifies",
+    "audio": "work/audio/es-MX/06/es-06-0097.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0098",
+    "sentence": "Teresa aceptó recoger los libros en la biblioteca y Pablo recibirlos en el salón. Para transportarlos, cada uno acordó conmigo sustituir al otro si faltaba. Ambos estarán presentes y ninguno aceptó ser el encargado habitual. Al anunciar «el traslado queda entre los dos», se diluye la responsabilidad: tenemos recogida, recepción y suplencias acordadas, pero falta asignar el trayecto.",
+    "cloze": "se diluye",
+    "answer": "se diluye",
+    "lemma": "diluirse",
+    "meaning": "becomes blurred",
+    "audio": "work/audio/es-MX/06/es-06-0098.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0099",
+    "sentence": "Lucía aceptó atender en inglés las llamadas del grupo únicamente como pasajera. Mateo aceptó manejar si ella atendía esas llamadas, que él no entiende. Ambos saben manejar. Eso no permite intercambiarlos en el reparto acordado: Lucía no ofreció atender llamadas como conductora y Mateo no puede hacerlo como pasajero. Un relevo necesita otro arreglo para las llamadas y la aceptación de ambos.",
+    "cloze": "intercambiarlos",
+    "answer": "intercambiarlos",
+    "lemma": "intercambiar",
+    "meaning": "swap them",
+    "audio": "work/audio/es-MX/06/es-06-0099.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0100",
+    "sentence": "Los vecinos del frente aceptaron prestar sus sillas para la lectura, pero no para una función con cobro. Los del fondo acordaron pagar la música únicamente si había cobro. Después ambos grupos confirmaron una lectura sin música y sin cobro. El rechazo del plan con música no justifica deshacerlo todo: la lectura sí tiene acuerdo conjunto, aunque los acuerdos iniciales no puedan combinarse.",
+    "cloze": "deshacerlo",
+    "answer": "deshacerlo",
+    "lemma": "deshacer",
+    "meaning": "undo it",
+    "audio": "work/audio/es-MX/06/es-06-0100.mp3",
+    "accepted_answers": []
   }
 ]
