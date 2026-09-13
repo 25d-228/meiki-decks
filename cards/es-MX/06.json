@@ -3502,5 +3502,255 @@
     "meaning": "I would infer",
     "audio": "work/audio/es-MX/06/es-06-0350.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0351",
+    "sentence": "Para la función necesitamos una suplente por si Elena no llega; sigue sin confirmar su transporte. Ya preparaste el aviso de que la suplente actuará. No doy por inevitable la ausencia de Elena al pedir ese respaldo: necesitamos cubrir una posibilidad, no anunciarla como un hecho. Conservemos a Elena en el programa mientras aclaramos cómo llegará.",
+    "cloze": "inevitable",
+    "answer": "inevitable",
+    "lemma": "inevitable",
+    "meaning": "inevitable",
+    "audio": "work/audio/es-MX/06/es-06-0351.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0352",
+    "sentence": "No sabemos si mi tío querrá ir después de la discusión. Tú crees que rechazará la invitación y por eso piensas omitir la llamada que quedaste en hacerle. Esa previsión no te exime de invitarlo: habías aceptado preguntarle, no conseguir que aceptara. Puede decir que no; decidirlo por él le quitaría una elección que todavía tiene.",
+    "cloze": "te exime",
+    "answer": "te exime",
+    "lemma": "eximir",
+    "meaning": "releases you",
+    "audio": "work/audio/es-MX/06/es-06-0352.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0353",
+    "sentence": "—Necesito una respuesta hoy sobre la impresión, aunque sea para decirme qué falta; no le estoy pidiendo una fecha inventada. —Como no sé cuándo llegarán las tintas, pensaba esperar sin contestarle. Sí puedo comprometerme a darle hoy el estado del pedido. La incertidumbre sobre la entrega limita lo que puedo prometer, pero no impide la respuesta que usted solicita.",
+    "cloze": "puedo comprometerme",
+    "answer": "puedo comprometerme",
+    "lemma": "poder comprometerse",
+    "meaning": "I can commit",
+    "audio": "work/audio/es-MX/06/es-06-0353.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0354",
+    "sentence": "Formé parte del jurado y conozco el resultado, pero acepté no revelarlo antes del anuncio. Tú interpretas mi silencio como que tampoco yo sé quién ganó y quieres escribir que el jurado sigue indeciso. Me abstendría de confirmar nombres incluso conociéndolos, como ahora: mi reserva responde al compromiso de discreción. Espera el anuncio; no presentes mi silencio como información sobre una decisión pendiente.",
+    "cloze": "Me abstendría",
+    "answer": "Me abstendría",
+    "lemma": "abstenerse",
+    "meaning": "I would refrain",
+    "audio": "work/audio/es-MX/06/es-06-0354.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0355",
+    "sentence": "Conozco las dos propuestas y prefiero la de Sara, pero el grupo acordó que quienes ayudamos a prepararlas no votemos. Tú tomas mi abstención como falta de opinión y quieres quitar del resumen los motivos que expuse. Sí tomo partido por esa propuesta al explicar esos motivos; la restricción sobre mi voto no me exige fingir neutralidad ni justifica borrar una opinión que ya expresé.",
+    "cloze": "tomo partido",
+    "answer": "tomo partido",
+    "lemma": "tomar partido",
+    "meaning": "I take sides",
+    "audio": "work/audio/es-MX/06/es-06-0355.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0356",
+    "sentence": "La encargada de la muestra pide que cada fecha sin comprobar lleve una advertencia. Tú crees que la fecha de esta foto seguramente es correcta y quieres quitar la advertencia; yo no he encontrado el original. Se exige señalar lo pendiente de comprobación, no afirmar que la fecha sea falsa. Mantener la advertencia respeta ese requisito sin convertir tu confianza ni mi duda en un dato confirmado.",
+    "cloze": "Se exige",
+    "answer": "Se exige",
+    "lemma": "exigir",
+    "meaning": "it is required",
+    "audio": "work/audio/es-MX/06/es-06-0356.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0357",
+    "sentence": "—No puedo garantizarle un cuarto hoy; todavía esperamos que salga un huésped. —Entonces usted me prohíbe esperar aquí. —Puede quedarse en recepción hasta que sepamos. El cuarto sigue ocupado y todavía no puede entrar. La incertidumbre sobre el alojamiento no cancela el permiso de esperar, ni ese permiso garantiza que se desocupe.",
+    "cloze": "Puede quedarse",
+    "answer": "Puede quedarse",
+    "lemma": "poder quedarse",
+    "meaning": "you may stay",
+    "audio": "work/audio/es-MX/06/es-06-0357.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0358",
+    "sentence": "Acordamos cancelar el paseo si confirman que el jardín estará cerrado. Llegó un mensaje que dice que quizá lo cierren; tú ya quieres avisar que debemos cancelar. No acepto que estemos obligados a hacerlo con ese aviso: el acuerdo depende de una confirmación, no de cualquier duda. Consultemos antes de decidir, sin anunciar tampoco que la apertura está asegurada.",
+    "cloze": "estemos obligados",
+    "answer": "estemos obligados",
+    "lemma": "estar obligado",
+    "meaning": "we are obliged",
+    "audio": "work/audio/es-MX/06/es-06-0358.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0359",
+    "sentence": "No he visto la película y por eso no puedo recomendársela a tu hija. Tú habías decidido revisar cualquier película antes de mostrársela, pero ahora quieres tachar esta de la lista porque supuestamente la rechacé. No la desaconsejé: mi falta de información no sustituye la revisión que tú consideras necesaria. Puedes mantenerla entre las pendientes sin tomar mi reserva como una recomendación favorable.",
+    "cloze": "desaconsejé",
+    "answer": "desaconsejé",
+    "lemma": "desaconsejar",
+    "meaning": "I advised against",
+    "audio": "work/audio/es-MX/06/es-06-0359.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0360",
+    "sentence": "Para dejar el club no hace falta explicar los motivos. Ana pidió salir y no quiso decir por qué. Tú insistes en que necesitamos saber si hubo un conflicto antes de aceptar su salida. No cabe exigir una explicación para resolver nuestra duda: su decisión ya es clara, aunque el motivo no lo sea. Podemos ofrecerle que nos cuente, sin retener su inscripción hasta obtener una respuesta.",
+    "cloze": "cabe exigir",
+    "answer": "cabe exigir",
+    "lemma": "caber exigir",
+    "meaning": "it is appropriate to demand",
+    "audio": "work/audio/es-MX/06/es-06-0360.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0361",
+    "sentence": "Mi compañera duda de que lleguemos a terminar el mural; aun así, quiere intentarlo el sábado. Yo también veo incierto el resultado, pero prefiero descansar. No te creas obligado a rechazar su invitación para ser consecuente con nuestras dudas: puedes aceptar el intento sin prometer que terminaremos. Mi decisión de no ir no convierte nuestra incertidumbre compartida en una negativa de los dos.",
+    "cloze": "te creas obligado",
+    "answer": "te creas obligado",
+    "lemma": "creerse obligado",
+    "meaning": "consider yourself obliged",
+    "audio": "work/audio/es-MX/06/es-06-0361.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0362",
+    "sentence": "La coordinadora considera probable que lleguen preguntas después de la charla y nos encarga dejar tiempo para responderlas. Tú quieres obligar a cada asistente a formular una para que se cumpla lo previsto. Es de esperar que haya preguntas, pero esa previsión no se refiere a una obligación del público. Organicemos el tiempo para recibirlas sin convertir el silencio de alguien en una falta.",
+    "cloze": "Es de esperar",
+    "answer": "Es de esperar",
+    "lemma": "ser de esperar",
+    "meaning": "it is to be expected",
+    "audio": "work/audio/es-MX/06/es-06-0362.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0363",
+    "sentence": "—Me ayudaría que vinieras a preguntar por el cuarto, pero supongo que acompañarme te obligaría a convencer al dueño si duda. Mejor voy sola. —Te doy mi palabra de que respetaré su respuesta; acompañarte no me compromete a presionarlo. Si todavía quieres compañía, puedo ir sin prometerte que te rentarán.",
+    "cloze": "doy mi palabra",
+    "answer": "doy mi palabra",
+    "lemma": "dar su palabra",
+    "meaning": "I give my word",
+    "audio": "work/audio/es-MX/06/es-06-0363.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0364",
+    "sentence": "—Si falta una firma, hay que devolver la solicitud para completarla; así lo acordamos. —No distingo si este trazo es una firma y prefiero pedirle a la persona que vuelva. —Le exigiríamos otra visita sin haber establecido que falta algo. El acuerdo pide completar solicitudes incompletas, no tratar nuestra dificultad para leerlas como una omisión de quien las entregó. Revisemos el trazo antes de decidir.",
+    "cloze": "exigiríamos",
+    "answer": "exigiríamos",
+    "lemma": "exigir",
+    "meaning": "we would require",
+    "audio": "work/audio/es-MX/06/es-06-0364.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0365",
+    "sentence": "Ustedes pueden elegir una traducción distinta de la mía, pero deben justificar sus decisiones con el texto. Un alumno dice que, como no sabemos con certeza qué pretendía el autor, cualquier versión queda igualmente justificada. No acepto que la falta de certeza impida descartar una versión que omite una negación visible. La libertad de elegir continúa, sin que por eso tengamos que tratar todas las opciones como defendibles.",
+    "cloze": "impida",
+    "answer": "impida",
+    "lemma": "impedir",
+    "meaning": "prevents",
+    "audio": "work/audio/es-MX/06/es-06-0365.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0366",
+    "sentence": "No sabemos si quedarán boletos, pero tú quieres que salgamos ya porque solo se venden en la entrada. Yo prefiero no hacer el viaje sin saberlo. Renunciaría a ir por esa incertidumbre, sin afirmar que ya se agotaron. Mi requisito personal de tener la entrada asegurada no te obliga a cancelar tu intento ni me permite anunciarte que será inútil.",
+    "cloze": "Renunciaría",
+    "answer": "Renunciaría",
+    "lemma": "renunciar",
+    "meaning": "I would give up",
+    "audio": "work/audio/es-MX/06/es-06-0366.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0367",
+    "sentence": "En el club acordamos revisar los cambios señalados por los autores y no publicar acusaciones sin respaldo. Ana pide revisar quién cambió su texto; todavía no acusa a nadie. Tú quieres rechazar la revisión porque no hay pruebas contra una persona. Debemos atender su duda conforme al primer acuerdo; el segundo limita lo que podemos publicar, sin exigir una acusación previa para investigar.",
+    "cloze": "Debemos",
+    "answer": "Debemos",
+    "lemma": "deber",
+    "meaning": "we must",
+    "audio": "work/audio/es-MX/06/es-06-0367.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0368",
+    "sentence": "Mi hermana está segura de que a mamá le encantaría una fiesta sorpresa. Mamá me pidió una comida sin invitados. Mi hermana dice que respetar ese pedido sería tratarla de mentirosa. Yo acataría lo que mamá pidió, aunque mi hermana pudiera acertar sobre su reacción: no necesito negar su predicción para respetar el límite que mamá puso.",
+    "cloze": "acataría",
+    "answer": "acataría",
+    "lemma": "acatar",
+    "meaning": "I would comply with",
+    "audio": "work/audio/es-MX/06/es-06-0368.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0369",
+    "sentence": "La tallerista pide volver a contar las piezas cuando haya dudas, no solo cuando esté demostrado un error. Tú dices que, como nadie ha probado que falte alguna, el recuento puede omitirse. Con dos totales distintos en nuestras hojas, se impone un recuento aunque todavía ignoremos cuál está mal. La falta de una conclusión es precisamente lo que activa la revisión, no una razón para saltársela.",
+    "cloze": "se impone",
+    "answer": "se impone",
+    "lemma": "imponerse",
+    "meaning": "becomes necessary",
+    "audio": "work/audio/es-MX/06/es-06-0369.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0370",
+    "sentence": "Le dije a la organizadora que, por mis horarios, probablemente no podré asistir, pero aún esperaba un cambio de turno. Ella me pide una confirmación definitiva para preparar las mesas. Me veo obligada a declinar ahora si no quiero que cuente conmigo: necesito darle una decisión, aunque mi disponibilidad siga incierta. Que retire mi lugar no demuestra que después vaya a serme imposible ir.",
+    "cloze": "Me veo obligada",
+    "answer": "Me veo obligada",
+    "lemma": "verse obligado",
+    "meaning": "I find myself obliged",
+    "audio": "work/audio/es-MX/06/es-06-0370.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0371",
+    "sentence": "El taller es voluntario; el maestro duda de que yo sepa encuadernar y me pide una demostración antes de asignarme piezas difíciles. Sé hacerlo, pero no quiero participar. Puedo negarme a la demostración sin confirmar su duda: no tengo que probar mi habilidad para decidir no inscribirme. Que él siga sin comprobarla tampoco me permite reclamar una asignación que depende de verla.",
+    "cloze": "Puedo negarme",
+    "answer": "Puedo negarme",
+    "lemma": "poder negarse",
+    "meaning": "I can refuse",
+    "audio": "work/audio/es-MX/06/es-06-0371.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0372",
+    "sentence": "La encargada pidió que acordáramos si publicar la foto. Todos aceptamos hacerlo, aunque Ana cree que no gustará y yo sí. Ahora exiges que Ana retire su pronóstico para que su autorización siga siendo válida. Podemos discrepar sobre la recepción sin retirar nuestra autorización: aceptamos publicar con esas dudas, no garantizar una buena reacción.",
+    "cloze": "Podemos discrepar",
+    "answer": "Podemos discrepar",
+    "lemma": "poder discrepar",
+    "meaning": "we can disagree",
+    "audio": "work/audio/es-MX/06/es-06-0372.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0373",
+    "sentence": "En la escena, mi personaje le ordena al tuyo que espere sin salir. La directora nos permite hacer una pausa cuando la necesitemos. Tú necesitas salir, pero crees que debes esperar a que mi personaje te dé permiso. Puedes interrumpir el ensayo; al retomarlo, tu personaje seguirá esperando. La pausa es una decisión tuya fuera de la historia y no cambia la orden dentro de ella.",
+    "cloze": "Puedes interrumpir",
+    "answer": "Puedes interrumpir",
+    "lemma": "poder interrumpir",
+    "meaning": "you may interrupt",
+    "audio": "work/audio/es-MX/06/es-06-0373.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0374",
+    "sentence": "La organizadora quiere que nadie se sienta forzado a contar una experiencia personal. El moderador teme que, si no obliga a hablar, nadie participe, y propone pasar la pregunta a todos hasta obtener respuesta. Estoy dispuesta a contar la mía, pero solo como una elección propia: mi disposición no justifica exigirle una historia a cada persona ni convierte las negativas de otras en rechazo a toda la conversación.",
+    "cloze": "Estoy dispuesta",
+    "answer": "Estoy dispuesta",
+    "lemma": "estar dispuesto",
+    "meaning": "I am willing",
+    "audio": "work/audio/es-MX/06/es-06-0374.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0375",
+    "sentence": "El taller solo se confirma al reunir ocho inscripciones; mientras tanto, podemos recibirlas avisando que la apertura está pendiente. Tú propones prohibir nuevas inscripciones porque todavía no podemos garantizar la apertura. No acepto que quede prohibido inscribirse por esa incertidumbre: recibir solicitudes bajo esa advertencia es precisamente el paso previsto para resolverla. Recibirlas tampoco permite anunciar la apertura como segura.",
+    "cloze": "quede prohibido",
+    "answer": "quede prohibido",
+    "lemma": "quedar prohibido",
+    "meaning": "be prohibited",
+    "audio": "work/audio/es-MX/06/es-06-0375.mp3",
+    "accepted_answers": []
   }
 ]
