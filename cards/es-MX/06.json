@@ -4788,5 +4788,255 @@
     "meaning": "grows longer",
     "audio": "work/audio/es-MX/06/es-06-0475.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0476",
+    "sentence": "Mi abuela solo contó que llegó a la terminal antes del amanecer. Yo me la figuro así, solo como posibilidad: abrazada a su bolsa, pendiente de la puerta; qué larga se hacía la espera. Ella no describió su postura ni sus pensamientos, así que esos detalles no forman parte de su testimonio.",
+    "cloze": "me la figuro",
+    "answer": "me la figuro",
+    "lemma": "figurarse",
+    "meaning": "I picture her",
+    "audio": "work/audio/es-MX/06/es-06-0476.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0477",
+    "sentence": "Papá contó que abrió la tienda solo el primer día. Mi versión posible lo mostraba con las llaves en la mano: ahora sí, a ver quién llegaba primero. Comprimí aquella espera imaginada en una sola línea; eso no significa que fuera breve, pues papá no dijo cuánto esperó ni quién llegó primero.",
+    "cloze": "Comprimí",
+    "answer": "Comprimí",
+    "lemma": "comprimir",
+    "meaning": "I compressed",
+    "audio": "work/audio/es-MX/06/es-06-0477.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0478",
+    "sentence": "La señora contó que recibió una ficha y esperó de pie; no habló de cómo se sintió. Tal vez lo vivió así: qué cansancio; ¿alcanzaría a sentarse un rato? Delimito lo que estoy imaginando: el cansancio y la pregunta; la espera de pie sí forma parte de su relato.",
+    "cloze": "Delimito",
+    "answer": "Delimito",
+    "lemma": "delimitar",
+    "meaning": "I delimit",
+    "audio": "work/audio/es-MX/06/es-06-0478.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0479",
+    "sentence": "Del primer ensayo, Luis solo recuerda que todos estaban listos antes de que llegara el maestro. En mi grupo solemos afinar mientras esperamos. Casi lo pongo a hacer lo mismo en una escena posible: otra vez esa cuerda, a ver si ahora quedaba bien. No puedo trasladar nuestra rutina a su recuerdo; Luis no contó qué hizo durante la espera.",
+    "cloze": "trasladar",
+    "answer": "trasladar",
+    "lemma": "trasladar",
+    "meaning": "to transfer",
+    "audio": "work/audio/es-MX/06/es-06-0479.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0480",
+    "sentence": "Mi abuelo escribió que por fin había recibido las llaves del departamento, pero no describió su reacción. En una escena posible casi lo hago pensar: ahí empezaba la historia de todos nosotros. Pero eso sería atribuirle lo que yo sé ahora como nieta; la carta no dice qué futuro imaginó él.",
+    "cloze": "atribuirle",
+    "answer": "atribuirle",
+    "lemma": "atribuir",
+    "meaning": "to attribute to him",
+    "audio": "work/audio/es-MX/06/es-06-0480.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0481",
+    "sentence": "Clara contó que su gato volvió de noche, pero no habló de la espera. En una escena posible, ella pensaba: que apareciera ya, aunque llegara lleno de tierra; ella luego limpiaba. Si a Clara le gusta esa escena, su aprobación no me autoriza a contarla como un recuerdo suyo; todavía tendría que decirme si pensó algo parecido.",
+    "cloze": "me autoriza",
+    "answer": "me autoriza",
+    "lemma": "autorizar",
+    "meaning": "authorizes me",
+    "audio": "work/audio/es-MX/06/es-06-0481.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0482",
+    "sentence": "Nora contó que cantó por primera vez frente al barrio, pero no habló de sus nervios. Escribí una escena posible: le temblaban las manos; ¿le saldría la primera nota? Al leerla, mi hermana tomó el temblor como prueba de miedo. Suprimo ese gesto de mi reconstrucción; el debut sí lo contó Nora, pero sus nervios siguen sin conocerse.",
+    "cloze": "Suprimo",
+    "answer": "Suprimo",
+    "lemma": "suprimir",
+    "meaning": "I remove",
+    "audio": "work/audio/es-MX/06/es-06-0482.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0483",
+    "sentence": "Mi tío contó que llegó a la posada cuando ya repartían ponche y que se quedó hasta el final. Yo había añadido una posibilidad: ni modo, le tocaría ayudar a lavar las tazas. Al quitar esa ocurrencia de mi versión, conservo la llegada y la estancia hasta el final: ambas vienen de su relato, aunque no sepamos si lavó algo.",
+    "cloze": "conservo",
+    "answer": "conservo",
+    "lemma": "conservar",
+    "meaning": "I retain",
+    "audio": "work/audio/es-MX/06/es-06-0483.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0484",
+    "sentence": "Eva dijo que dejó su solicitud en el mostrador, salió y tomó el camión a casa. Yo imaginé una esperanza posible al soltar la carpeta: ojalá esta vez la llamaran. Desligo esa esperanza de su salida; no voy a contar que se fue porque confiaba en recibir una llamada, pues Eva no explicó por qué se marchó.",
+    "cloze": "Desligo",
+    "answer": "Desligo",
+    "lemma": "desligar",
+    "meaning": "I disconnect",
+    "audio": "work/audio/es-MX/06/es-06-0484.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0485",
+    "sentence": "Rosa contó que pidió cambiar de mesa en el café, pero no recuerda la respuesta. Una escena posible sería esta: miraba la otra silla; ahora sí la iban a cambiar, ya podría comer a gusto. Esa seguridad imaginada no garantizaba que el café aceptara la petición; en el relato de Rosa sigue faltando la respuesta.",
+    "cloze": "garantizaba",
+    "answer": "garantizaba",
+    "lemma": "garantizar",
+    "meaning": "guaranteed",
+    "audio": "work/audio/es-MX/06/es-06-0485.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0486",
+    "sentence": "Andrés contó que llegó al parque con un papalote, pero no recuerda si logró hacerlo volar. Podemos representar una posibilidad: él frente al viento; ahora sí iba a subir. Que hoy consigamos un vuelo al representar la escena no permite dar por ocurrido el de entonces; Andrés no lo recuerda.",
+    "cloze": "dar por ocurrido",
+    "answer": "dar por ocurrido",
+    "lemma": "dar por ocurrido",
+    "meaning": "to treat as having happened",
+    "audio": "work/audio/es-MX/06/es-06-0486.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0487",
+    "sentence": "El señor contó que bajó la cortina de su tienda y se fue caminando. Al preparar otra entrevista, anoté una escena posible: por fin una tarde sin encargos, ya podía descansar. Ese pensamiento queda en mis notas; no voy a sugerírselo antes de preguntarle qué pensaba, para que mi escena no termine convertida en su respuesta.",
+    "cloze": "sugerírselo",
+    "answer": "sugerírselo",
+    "lemma": "sugerir",
+    "meaning": "to suggest it to him",
+    "audio": "work/audio/es-MX/06/es-06-0487.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0488",
+    "sentence": "Mi abuelo solo contó que salió del ensayo. Yo lo narré como una posibilidad: basta, él no volvía a tocar ahí. Al oírlo, mi sobrino creyó que el abuelo había anunciado su retiro. Para no ponerle palabras en la boca, aclaré que ese pensamiento era mío y que no sabemos si volvió.",
+    "cloze": "ponerle palabras en la boca",
+    "answer": "ponerle palabras en la boca",
+    "lemma": "poner palabras en la boca",
+    "meaning": "to put words in someone's mouth",
+    "audio": "work/audio/es-MX/06/es-06-0488.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0489",
+    "sentence": "La viajera contó que bajó del camión y buscó el nombre del hotel en su libreta. Yo añadí una duda posible: ¿era esta la calle o tenía que caminar otra cuadra? De tanto contar esa versión, he acabado recordando la pregunta como si ella me la hubiera dicho. Reviso mis notas: ella solo mencionó la libreta; la duda sigue siendo una invención mía.",
+    "cloze": "he acabado recordando",
+    "answer": "he acabado recordando",
+    "lemma": "acabar recordando",
+    "meaning": "I have ended up remembering",
+    "audio": "work/audio/es-MX/06/es-06-0489.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0490",
+    "sentence": "Mi prima dijo que dejó a su hijo en su primer día de escuela y se fue a trabajar. Tal vez miró hacia la puerta: ¿y si él la necesitaba? Pero yo viví aquella separación con angustia y no quiero proyectar mi ansiedad sobre ella; esa escena posible no demuestra cómo se sintió.",
+    "cloze": "proyectar",
+    "answer": "proyectar",
+    "lemma": "proyectar",
+    "meaning": "to project",
+    "audio": "work/audio/es-MX/06/es-06-0490.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0491",
+    "sentence": "Raúl contó que llevó un pastel a casa de su amiga, pero no dijo cómo terminó la visita. Tal vez esperó junto a la puerta: ¿se habría aplastado el pastel en el camino? No voy a rellenar el final que falta con una fiesta inventada; ni siquiera sabemos si pasaron a la sala.",
+    "cloze": "rellenar",
+    "answer": "rellenar",
+    "lemma": "rellenar",
+    "meaning": "to fill in",
+    "audio": "work/audio/es-MX/06/es-06-0491.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0492",
+    "sentence": "Elena contó que guardó una foto en un cajón sin explicar por qué. En una escena posible, la sostuvo un momento: mejor olvidarse de esa persona de una vez. No voy a juzgarla por esa frialdad que yo añadí; Elena no dijo si le dolía mirar la foto o si solo estaba ordenando.",
+    "cloze": "juzgarla",
+    "answer": "juzgarla",
+    "lemma": "juzgar",
+    "meaning": "to judge her",
+    "audio": "work/audio/es-MX/06/es-06-0492.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0493",
+    "sentence": "Beto contó que hizo fila para entrar al concierto, pero no describió la espera. En mi versión posible, miraba la puerta: que abrieran ya, se iba a perder la primera canción. Para el cuaderno de recuerdos no voy a entrecomillar ese pensamiento como palabras de Beto; lo presentaré como parte de la escena que imaginé.",
+    "cloze": "entrecomillar",
+    "answer": "entrecomillar",
+    "lemma": "entrecomillar",
+    "meaning": "to put in quotation marks",
+    "audio": "work/audio/es-MX/06/es-06-0493.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0494",
+    "sentence": "Mamá contó que sacó su máquina de coser para hacer mi disfraz y que lo terminó esa noche. Una escena posible la muestra pendiente del tiempo: todavía alcanzaba, con que nadie la interrumpiera. Que haya terminado esa noche no ratifica la prisa que yo imaginé; su relato no dice cómo se sintió mientras cosía.",
+    "cloze": "ratifica",
+    "answer": "ratifica",
+    "lemma": "ratificar",
+    "meaning": "confirms",
+    "audio": "work/audio/es-MX/06/es-06-0494.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0495",
+    "sentence": "Tomás contó que abrió el sobre, pero no dijo qué sintió. Pudo ser un alivio: al fin llegaba la respuesta. O un disgusto: ahora tendría que contestar. Las dos escenas son posibilidades mías; su reacción sigue faltando en el relato, y no elijo una solo porque me dé un final más redondo.",
+    "cloze": "sigue faltando",
+    "answer": "sigue faltando",
+    "lemma": "seguir faltando",
+    "meaning": "is still missing",
+    "audio": "work/audio/es-MX/06/es-06-0495.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0496",
+    "sentence": "Del viaje de vuelta, mi hermana solo contó que se sentó junto a la ventana. En mi primera escena posible iba de pie junto al chofer: ya quería reconocer las calles de su barrio. La reubico en un asiento junto a la ventana para respetar lo que sí contó; sus ganas de llegar siguen siendo una posibilidad mía.",
+    "cloze": "reubico",
+    "answer": "reubico",
+    "lemma": "reubicar",
+    "meaning": "I reposition",
+    "audio": "work/audio/es-MX/06/es-06-0496.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0497",
+    "sentence": "Lola contó que dejó su dibujo sobre la mesa del maestro, sin decir qué pensaba. Yo imaginé una vacilación posible: mejor soltar la hoja ya, antes de arrepentirse. Iba a escribir «Todavía la veo dudar», pero no estuve allí. No me adjudico el papel de testigo: la vacilación es parte de mi escena, no algo que haya visto ni que Lola haya contado.",
+    "cloze": "me adjudico",
+    "answer": "me adjudico",
+    "lemma": "adjudicarse",
+    "meaning": "I assign myself",
+    "audio": "work/audio/es-MX/06/es-06-0497.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0498",
+    "sentence": "La entrevistada dijo: «Fui a preguntar por el salón de baile». Entre esa frase y la siguiente, propuse un pensamiento posible: ¿y si todos bailaban mejor que ella? Ahora reanudemos la lectura: «Una joven me mostró el salón». La entrevistada no habló de vergüenza; la duda la añadí yo.",
+    "cloze": "reanudemos",
+    "answer": "reanudemos",
+    "lemma": "reanudar",
+    "meaning": "let us resume",
+    "audio": "work/audio/es-MX/06/es-06-0498.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0499",
+    "sentence": "Al contar la mudanza de mi hermano, se me ocurre una escena posible: él frente al cuarto vacío; qué tristeza dejarlo todo. Pero él contó que salió encantado y sin mirar atrás. Por eso abandono esa reconstrucción y sigo con su alegría declarada; no sé qué palabras se dijo por dentro.",
+    "cloze": "abandono",
+    "answer": "abandono",
+    "lemma": "abandonar",
+    "meaning": "I abandon",
+    "audio": "work/audio/es-MX/06/es-06-0499.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0500",
+    "sentence": "Don Luis contó que volvió al cine de su infancia y encontró la puerta cerrada; no dijo qué hizo después. En una escena posible, pensé en hacerlo lamentarse: ni una función más, y él que quería sentarse en la misma fila. No prolongaré en mi relato ese cierre más allá de su visita por una frase que yo inventé; su relato no dice si el cine volvió a abrir.",
+    "cloze": "prolongaré",
+    "answer": "prolongaré",
+    "lemma": "prolongar",
+    "meaning": "I will extend",
+    "audio": "work/audio/es-MX/06/es-06-0500.mp3",
+    "accepted_answers": []
   }
 ]
