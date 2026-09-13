@@ -791,11 +791,11 @@
   },
   {
     "id": "es-06-0080",
-    "sentence": "El dueño del patio dice: «Confirmaré el préstamo cuando el coro confirme la presentación». El coro responde: «Confirmaremos cuando tengamos confirmado el patio». La organizadora quiere anunciar que ya tiene los dos síes. Pero las confirmaciones se condicionan entre sí: cada parte sigue esperando la de la otra. Hace falta que alguna acepte confirmar primero o que ambas acepten hacerlo juntas; ninguna de esas salidas está acordada.",
-    "cloze": "se condicionan",
-    "answer": "se condicionan",
-    "lemma": "condicionarse",
-    "meaning": "are conditional on each other",
+    "sentence": "El coro tenía apartado el patio. El dueño acordó prestárselo al club de lectura si el coro liberaba la fecha, y el club aceptó. El coro ya renunció a usarlo porque necesita descansar, pero aclaró que no respalda la actividad del club. Esa renuncia desbloquea el préstamo acordado; podemos confirmarlo sin atribuirle al coro apoyo a la lectura.",
+    "cloze": "desbloquea",
+    "answer": "desbloquea",
+    "lemma": "desbloquear",
+    "meaning": "clears the way for",
     "audio": "work/audio/es-MX/06/es-06-0080.mp3",
     "accepted_answers": []
   },
