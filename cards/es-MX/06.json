@@ -498,5 +498,255 @@
     "meaning": "would be carried over",
     "audio": "work/audio/es-MX/06/es-06-0050.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0051",
+    "sentence": "Óscar encontró cerrado el salón y supuso que hubo una pelea. Su mensaje ya no abre y quieren borrar las dos cosas del aviso. Nora había repetido ambas por él, pero también recibió de una visitante una foto que esta tomó ese día del candado puesto. La visitante no sabe por qué cerraron. El dato del cierre no se derrumba con la pérdida del mensaje: conserva esa observación aparte; la pelea sigue sin más origen que Óscar.",
+    "cloze": "se derrumba",
+    "answer": "se derrumba",
+    "lemma": "derrumbarse",
+    "meaning": "collapses",
+    "audio": "work/audio/es-MX/06/es-06-0051.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0052",
+    "sentence": "Tu primo publicó que tu hermana perdió la conexión: copió tu cálculo de que, con ese retraso, ya no alcanzaba el horario que te pasó el chofer. Otra pasajera registró por su cuenta la misma hora de salida del primer autobús, pero el horario de conexión que te manda es también el del chofer. Aunque el retraso tiene otra comprobación, la conclusión se supedita a que el segundo autobús saliera a la hora indicada; nadie sabe si también se retrasó.",
+    "cloze": "se supedita",
+    "answer": "se supedita",
+    "lemma": "supeditarse",
+    "meaning": "is conditional",
+    "audio": "work/audio/es-MX/06/es-06-0052.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0053",
+    "sentence": "Luis dice que llevó la carpeta a recepción y después al archivo; Nora repite lo que él le contó. Yo recibí de Luis la carpeta y vi que más tarde salía de recepción con una igual, pero no pude leer la etiqueta. No puedo empalmar esas dos observaciones como prueba de un solo recorrido: que fuera la misma carpeta solo lo asegura Luis. La llegada tiene otra comprobación; el tramo posterior sigue dependiendo de él.",
+    "cloze": "empalmar",
+    "answer": "empalmar",
+    "lemma": "empalmar",
+    "meaning": "link together",
+    "audio": "work/audio/es-MX/06/es-06-0053.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0054",
+    "sentence": "—Tu queja sobre el agua viene del mensaje de la vecina, igual que la de tu hermano. —Ese mensaje me hizo revisar la llave, pero no justifica que desechemos mi comprobación: la abrí y tampoco salió agua. Mi hermano solo reenvió lo que ella escribió. Sí repito por ella que el corte durará tres días; haber comprobado la falta de agua no me da otra base para ese plazo.",
+    "cloze": "desechemos",
+    "answer": "desechemos",
+    "lemma": "desechar",
+    "meaning": "dismiss",
+    "audio": "work/audio/es-MX/06/es-06-0054.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0055",
+    "sentence": "Eva creyó reconocer al conserje cuando retiraron el cartel. Tomás no estuvo ahí y repitió su versión. Una visitante sí vio el retiro, pero supo por Eva quién era; ahora Eva dice que está segura porque la visitante «también lo identificó». Esa seguridad se retroalimenta de su propia identificación: hay otra observación del retiro, pero el nombre regresa a Eva sin que nadie más haya reconocido a la persona.",
+    "cloze": "se retroalimenta",
+    "answer": "se retroalimenta",
+    "lemma": "retroalimentarse",
+    "meaning": "feeds back on itself",
+    "audio": "work/audio/es-MX/06/es-06-0055.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0056",
+    "sentence": "Tú viste que faltaban páginas y acusaste a Marta de borrarlas al editar; tu compañero difundió las dos cosas por ti. Abrí la copia que recibí antes de que Marta tuviera acceso al archivo: ya faltaban esas páginas. Esta segunda comprobación no la incrimina; sitúa la omisión antes de su intervención. El defecto tiene respaldo aparte, mientras que la acusación repetida sigue viniendo de ti y ahora tiene ese dato en contra.",
+    "cloze": "la incrimina",
+    "answer": "la incrimina",
+    "lemma": "incriminar",
+    "meaning": "implicates her",
+    "audio": "work/audio/es-MX/06/es-06-0056.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0057",
+    "sentence": "Usted recibió el aviso del encargado y su copia de administración: ambos dan por instalado y probado el timbre. Me piden firmarlo como supervisora. Yo ayudé a colocarlo; cuando dicen que también confirmé la prueba, se refieren a que transmití el resultado que me dio el encargado. Con mi firma acredito la instalación por experiencia propia, pero no una prueba cuyo resultado sigo sabiendo solo por él.",
+    "cloze": "acredito",
+    "answer": "acredito",
+    "lemma": "acreditar",
+    "meaning": "substantiate",
+    "audio": "work/audio/es-MX/06/es-06-0057.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0058",
+    "sentence": "—Ana dice que Joel te dijo «No vuelvas» para humillarte; Luis lo sabe por ella. Tú respondiste «Sí, oí esas palabras, pero no sé con qué intención». ¿Puedo citar solo tu «sí» como confirmación de Ana? —No suscribo esa interpretación. Yo sí oí la frase. Al quitar mi reserva, presentarías como compartida una interpretación que solo Ana propuso.",
+    "cloze": "suscribo",
+    "answer": "suscribo",
+    "lemma": "suscribir",
+    "meaning": "endorse",
+    "audio": "work/audio/es-MX/06/es-06-0058.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0059",
+    "sentence": "Pablo explicó que el cambio de sede fue a petición mía y que avisamos con una semana de anticipación; Rosa repitió su mensaje. Sí, yo pedí el cambio. Pero reconocerlo no me exculpa de un posible aviso tardío: la fecha del aviso solo la conozco por Pablo. Mi admisión añade otra fuente sobre la petición, no una comprobación de la anticipación que él ofrece como defensa nuestra.",
+    "cloze": "me exculpa",
+    "answer": "me exculpa",
+    "lemma": "exculpar",
+    "meaning": "clears me of blame",
+    "audio": "work/audio/es-MX/06/es-06-0059.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0060",
+    "sentence": "Leo contó que la mesa impidió entrar a la camioneta y que por eso esperó una hora; Isa repitió su mensaje. Yo llegué después: vi que no cabía, movimos únicamente la mesa y la camioneta pudo pasar. La duda sobre ese obstáculo como causa del intento fallido se despeja con esta prueba, pero no la de cuánto duró la espera: para esa hora completa todavía dependemos de Leo.",
+    "cloze": "se despeja",
+    "answer": "se despeja",
+    "lemma": "despejarse",
+    "meaning": "is cleared up",
+    "audio": "work/audio/es-MX/06/es-06-0060.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0061",
+    "sentence": "Andrés dice que salieron doce personas de la función y su amiga repite esa cifra por él. La acomodadora vio salir a cinco y las reconoce entre las doce que Andrés señala. No son otras cinco: si sumáramos su conteo al de Andrés, se duplicaría ese grupo. Su observación da otra base para afirmar al menos cinco salidas, pero las siete restantes siguen teniendo solo el relato de Andrés.",
+    "cloze": "se duplicaría",
+    "answer": "se duplicaría",
+    "lemma": "duplicar",
+    "meaning": "would be counted twice",
+    "audio": "work/audio/es-MX/06/es-06-0061.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0062",
+    "sentence": "Sergio publicó que la organizadora prometió transporte; Mónica compartió su publicación. Yo grabé esa promesa desde mi asiento y en mi grabación se oye lo mismo. Ya hay otra comprobación de lo que se ofreció, pero no se multiplican las garantías de que habrá traslado por tener dos oyentes: ambos escuchamos a la misma organizadora. No hay confirmación de quien vaya a prestar el servicio.",
+    "cloze": "se multiplican",
+    "answer": "se multiplican",
+    "lemma": "multiplicarse",
+    "meaning": "multiply",
+    "audio": "work/audio/es-MX/06/es-06-0062.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0063",
+    "sentence": "Abel dice que se aprobó el cambio de horario y que el grupo quedó contento; Nora difundió su mensaje. Yo participé en la votación y puedo confirmar el acuerdo. Para hablar de satisfacción, en cambio, Abel y yo estamos usando los mismos tres comentarios que él seleccionó; yo no consulté al resto. Mi voto no debe blindar esa valoración frente a las dudas: la decisión tiene otro testigo, la reacción del grupo no tiene otra consulta.",
+    "cloze": "blindar",
+    "answer": "blindar",
+    "lemma": "blindar",
+    "meaning": "shield",
+    "audio": "work/audio/es-MX/06/es-06-0063.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0064",
+    "sentence": "—El organizador dice que usó tu dibujo con permiso de tu representante; su asistente repite lo que él le contó. Tú reconociste el dibujo en el mural. ¿Eso resuelve la discusión? —¿Por qué zanjaría mi reconocimiento la discusión sobre un permiso que él dice haber pedido a otra persona? Confirmo el uso por mi cuenta. No estuve en esa conversación, y mi representante niega haber autorizado nada: el supuesto permiso sigue viniendo del organizador y sigue en disputa.",
+    "cloze": "zanjaría",
+    "answer": "zanjaría",
+    "lemma": "zanjar",
+    "meaning": "would settle",
+    "audio": "work/audio/es-MX/06/es-06-0064.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0065",
+    "sentence": "—Mauro vio el cambio de salón y supo por Tania que la clase terminó temprano; ella vio el final y supo por él lo del salón. Tú repites lo del salón por ellos, así que tampoco aportas nada propio. —Llegué después del cambio, pero vi que la clase terminó antes de la hora anunciada. Mi observación rompe la dependencia de Tania para confirmar ese final, aunque mi relato sí depende de Mauro para el traslado. No descartes las dos partes por una sola relación entre nosotros.",
+    "cloze": "rompe",
+    "answer": "rompe",
+    "lemma": "romper",
+    "meaning": "breaks",
+    "audio": "work/audio/es-MX/06/es-06-0065.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0066",
+    "sentence": "Óscar dice que guardó la cámara en la maleta y que nadie la abrió durante el traslado; su hermana solo repite su relato. Yo acompañé esa maleta todo el trayecto y comprobé que llegó con el sello intacto, pero no vi qué metió Óscar. Afirmar por eso que la cámara llegó adentro descansa todavía en su descripción del contenido inicial. El traslado sin apertura tiene otra comprobación; lo que había desde el principio, no.",
+    "cloze": "descansa",
+    "answer": "descansa",
+    "lemma": "descansar",
+    "meaning": "rests",
+    "audio": "work/audio/es-MX/06/es-06-0066.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0067",
+    "sentence": "—Tu tía dijo que tu hermano salió manejando y con prisa. Tú lo repetiste después de hablar con ella; ya no sé si viste algo por tu cuenta. —Mi identificación del conductor se mantiene en pie: antes de esa charla te mandé una foto que tomé, y tú reconoces a tu hermano al volante. Lo de la prisa sí lo adopté de tu tía; la foto no permite saber si iba apurado.",
+    "cloze": "se mantiene en pie",
+    "answer": "se mantiene en pie",
+    "lemma": "mantenerse en pie",
+    "meaning": "remains supported",
+    "audio": "work/audio/es-MX/06/es-06-0067.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0068",
+    "sentence": "La pasajera contó que la camioneta se desvió y la dejó lejos; su esposo lo repitió sin viajar. El chofer de otra camioneta vio el desvío, pero tomó otra calle antes de que ella bajara. Ahora el resumen dice que él confirmó el desvío y desmintió lo demás. No hay tal desmentido: no haber visto la bajada deja esa parte con una sola fuente, mientras que su observación sí añade respaldo al cambio de ruta.",
+    "cloze": "desmentido",
+    "answer": "desmentido",
+    "lemma": "desmentido",
+    "meaning": "denial",
+    "audio": "work/audio/es-MX/06/es-06-0068.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0069",
+    "sentence": "Inés contó que anunciaron un cambio definitivo de maestra; Paco repitió su versión. Yo también estuve y grabé el anuncio completo: dijeron que habría otra maestra, pero que todavía no sabían por cuánto tiempo. Inés explica que lo definitivo fue una deducción suya. Presentar mi grabación como respaldo de esa duración tergiversaría el anuncio que sí permite comprobar por otra vía. La permanencia sigue siendo una interpretación de Inés, aunque Paco la repita.",
+    "cloze": "tergiversaría",
+    "answer": "tergiversaría",
+    "lemma": "tergiversar",
+    "meaning": "would misrepresent",
+    "audio": "work/audio/es-MX/06/es-06-0069.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0070",
+    "sentence": "—Amanda no pudo abrir los horarios ni registrarse; su compañero lo publicó por ella. Yo probé las dos cosas: los horarios tampoco abrieron, pero sí pude registrarme. —Entonces Amanda se equivocó. —No dije eso. Mi prueba impide llamar generalizada a la falla del registro, no borra su intento fallido. En cambio, el problema de los horarios ya tiene otra comprobación; el del registro sigue descrito solo por ella para su propio intento.",
+    "cloze": "generalizada",
+    "answer": "generalizada",
+    "lemma": "generalizado",
+    "meaning": "affecting everyone",
+    "audio": "work/audio/es-MX/06/es-06-0070.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0071",
+    "sentence": "Leo sitúa el aniversario en el patio y en mayo; su hermana repite ambas cosas. Mi mamá tomó una foto donde se reconoce el patio, pero añadió «mayo» al imprimirla porque Leo le dio ese mes. No te fíes de la fecha impresa como de una segunda confirmación. La imagen sí aporta una vista propia del lugar; que el mes aparezca ahora sobre papel no le da un origen distinto.",
+    "cloze": "te fíes",
+    "answer": "te fíes",
+    "lemma": "fiarse",
+    "meaning": "trust",
+    "audio": "work/audio/es-MX/06/es-06-0071.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0072",
+    "sentence": "Verónica dice que el técnico no llegó ni avisó; su hijo repitió su mensaje desde el trabajo. Yo esperé con ella todo el horario acordado y nadie llegó. Me piden confirmar que por eso incumplió sin explicación, pero me excedería: no vi el teléfono ni el correo de Verónica. La ausencia tiene mi observación además de la suya; la falta de aviso, que cambiaría cómo describimos esa ausencia, sigue dependiendo solo de ella.",
+    "cloze": "me excedería",
+    "answer": "me excedería",
+    "lemma": "excederse",
+    "meaning": "would overstep",
+    "audio": "work/audio/es-MX/06/es-06-0072.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0073",
+    "sentence": "Julia dice que apartaron una silla para Elena, pero después la dejaron sin asiento; Ramiro copió su relato. Yo hice esa reserva hasta las ocho y Julia me vio poner el letrero. A las ocho me fui; no sé a qué hora llegó Elena ni qué pasó con la silla. ¿Por qué invalidaría mi confirmación de aquella reserva limitada la queja sobre lo ocurrido después? La preparación tiene otra fuente; el desenlace sigue teniendo solo a Julia.",
+    "cloze": "invalidaría",
+    "answer": "invalidaría",
+    "lemma": "invalidar",
+    "meaning": "would invalidate",
+    "audio": "work/audio/es-MX/06/es-06-0073.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0074",
+    "sentence": "—Estela dijo que devolvió completo el material y Miguel lo repitió por ella. Tú trabajas con Estela, así que tampoco cuentas como otra fuente. —No desestimemos lo que comprobé solo por esa relación. Yo recibí y conté las cajas sin consultar su mensaje. Para decir que venían completas sí me basé en la lista que ella llenó; no revisé dentro. Mi relación con Estela no convierte el conteo en una copia ni la lista en una revisión mía.",
+    "cloze": "desestimemos",
+    "answer": "desestimemos",
+    "lemma": "desestimar",
+    "meaning": "dismiss",
+    "audio": "work/audio/es-MX/06/es-06-0074.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0075",
+    "sentence": "Marina dijo que la reposición cubrió toda la clase cancelada; Luis lo repitió por ella. Yo asistí a la reposición y marqué todos los temas de la lista que Marina me dio como contenido de la clase perdida. Eso parece una comparación aparte, pero sigo dependiendo de Marina para saber si esa lista incluye todo lo que faltó. Mi asistencia aporta otra comprobación de la sesión realizada, no de que repusiera el contenido completo.",
+    "cloze": "sigo dependiendo",
+    "answer": "sigo dependiendo",
+    "lemma": "seguir dependiendo",
+    "meaning": "still depend",
+    "audio": "work/audio/es-MX/06/es-06-0075.mp3",
+    "accepted_answers": []
   }
 ]
