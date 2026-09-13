@@ -2750,5 +2750,255 @@
     "meaning": "let us clarify",
     "audio": "work/audio/es-MX/06/es-06-0275.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0276",
+    "sentence": "En el ensayo, las doce personas encontraron asiento. Rosa quiere preparar doce juegos de materiales; tú exiges además que todos alcancen la mesa central antes de aceptar la distribución. Convengamos en usar, para decidir cuántos juegos colocar, el número de personas que puedan trabajar sentadas con los materiales a su alcance. Podemos probar acercando los materiales; si para hacerlo quitamos sillas, habrá que revisar también la cantidad de juegos. El conteo inicial sigue describiendo cuántos se sentaron, pero no decide cuántos podrán trabajar con el nuevo acomodo.",
+    "cloze": "Convengamos",
+    "answer": "Convengamos",
+    "lemma": "convenir",
+    "meaning": "let us agree",
+    "audio": "work/audio/es-MX/06/es-06-0276.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0277",
+    "sentence": "Mi hermana leyó la receta con la lámpara nueva; yo no pude leerla desde el otro lado de la mesa. Ella quiere seguir usándola; tú quieres reemplazar la anterior porque la prueba demostraría que la nueva es mejor. No equiparemos el éxito de una lectora con una ventaja de la lámpara: propongo que cambiemos de lugar con cada lámpara. Si la dificultad sigue al asiento, revisaremos dónde iluminar; si cambia con la lámpara, compararemos cuál nos permite leer a ambos. Mi hermana puede usar la nueva sola esta noche; elegir una para compartir sigue pendiente.",
+    "cloze": "equiparemos",
+    "answer": "equiparemos",
+    "lemma": "equiparar",
+    "meaning": "equate",
+    "audio": "work/audio/es-MX/06/es-06-0277.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0278",
+    "sentence": "El maestro quiere saber quién logra resolver el ejercicio con una pista para preparar otra práctica guiada; yo quiero saber quién puede empezar el siguiente ejercicio sin ella. En el ensayo dio una pista de inmediato y todos acertaron. Para la próxima ronda propongo que se considere el primer intento sin ayuda como información para decidir quién avanza solo y el resultado tras la pista como información para preparar la práctica guiada. Si damos la pista antes de ese intento, veremos quién acierta con ella, pero perdemos la posibilidad de comprobar su desempeño sin ayuda en ese mismo intento. Probemos ese orden sin decidir todavía quién avanza.",
+    "cloze": "se considere",
+    "answer": "se considere",
+    "lemma": "considerar",
+    "meaning": "be regarded",
+    "audio": "work/audio/es-MX/06/es-06-0278.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0279",
+    "sentence": "En la prueba del menú se acabó el arroz y sobró pasta, pero la pasta salió cuando ya no quedaba arroz. El cocinero propone aumentar el arroz; la organizadora quiere quitar la pasta porque interpreta el sobrante como rechazo. Propongo que diferenciemos los pedidos que no pudimos servir de las elecciones hechas cuando quedan ambos platillos. En la próxima comida podemos ofrecerlos al mismo tiempo y anotar cuándo se acaba cada uno. Los pedidos pendientes orientarían las cantidades; las elecciones con ambas opciones ayudarían a revisar el menú. Agotar un platillo cambia lo que las elecciones posteriores pueden decirnos.",
+    "cloze": "diferenciemos",
+    "answer": "diferenciemos",
+    "lemma": "diferenciar",
+    "meaning": "we distinguish",
+    "audio": "work/audio/es-MX/06/es-06-0279.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0280",
+    "sentence": "La pausa provocó risas en la lectura de la escena. Tú quieres conservarla por su efecto cómico; la autora teme que se rían porque entienden al revés la disculpa del personaje. Yo desdoblaría la revisión: primero averiguar de qué se ríen y después decidir si conservamos ese efecto. Si las risas dependen de entender al revés la disculpa, aclararla obligaría a probar otra vez la pausa. Podemos ensayar la aclaración; esa prueba no decide si preferimos conservar el malentendido por su efecto cómico.",
+    "cloze": "desdoblaría",
+    "answer": "desdoblaría",
+    "lemma": "desdoblar",
+    "meaning": "I would split into stages",
+    "audio": "work/audio/es-MX/06/es-06-0280.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0281",
+    "sentence": "En la prueba del directorio solo cronometramos las búsquedas que terminaron con un teléfono encontrado. Usted las ve rápidas y quiere acortar los turnos del mostrador; yo encontré dos teléfonos ausentes y quiero completar el directorio. Para repetir la prueba, propongo que se contabilicen también los minutos dedicados a búsquedas fallidas al calcular cuánto debe durar un turno. Esos fallos señalan entradas que añadir; excluirlos por eso del tiempo haría parecer más breve la atención. Podemos corregir las entradas, pero el directorio corregido necesitaría otra medición antes de acortar los turnos.",
+    "cloze": "se contabilicen",
+    "answer": "se contabilicen",
+    "lemma": "contabilizar",
+    "meaning": "be counted",
+    "audio": "work/audio/es-MX/06/es-06-0281.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0282",
+    "sentence": "Al recuperar la lista compartida, el archivo abrió, pero faltaban dos pedidos. Tú propones añadirlos antes de repetir la prueba para ver si ya podemos usar la lista; yo necesito saber si la recuperación conserva lo guardado antes de abandonar la libreta. Solo condicionaría esa nueva comprobación a guardar aparte la lista tal como apareció: la versión corregida permite seguir trabajando, pero ya no muestra qué recuperó el sistema. Podemos comprobar de nuevo la recuperación con una lista conocida; borrar la libreta seguiría pendiente de esa comparación.",
+    "cloze": "condicionaría",
+    "answer": "condicionaría",
+    "lemma": "condicionar",
+    "meaning": "I would make conditional",
+    "audio": "work/audio/es-MX/06/es-06-0282.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0283",
+    "sentence": "Para ensayar otro reparto de la limpieza, no descontaría de la carga de Clara el tiempo que dedica a lavar los trapos en casa. El coordinador midió media hora hasta que quedó libre el salón y propone conservar ese horario; Clara pide repartir también el trabajo posterior. Podemos anotar cuándo se libera el salón y cuándo termina cada persona: el primer dato sirve para reservarlo, y los segundos para revisar el reparto. Si sacamos más tareas del salón, se liberará antes sin que por eso disminuya la carga de Clara. Qué reparto consideremos justo todavía requiere acuerdo.",
+    "cloze": "descontaría",
+    "answer": "descontaría",
+    "lemma": "descontar",
+    "meaning": "I would subtract",
+    "audio": "work/audio/es-MX/06/es-06-0283.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0284",
+    "sentence": "Los visitantes llegaron a la sala indicada, aunque varios siguieron la respuesta que el vigilante dio a una sola persona. La coordinadora quiere reducir el apoyo porque hubo pocas preguntas; el diseñador quiere saber dónde hacen falta letreros. Antes de repetirlo, vinculemos cada llegada con la ayuda recibida, aunque haya preguntado otra persona. Podemos anotar también dónde se dio cada indicación y cuánto duró. El lugar orientaría los cambios de letreros; el tiempo permitiría revisar el trabajo de orientación. Una pregunta que ayuda a varios no cuenta como varias intervenciones ni como varias llegadas sin ayuda.",
+    "cloze": "vinculemos",
+    "answer": "vinculemos",
+    "lemma": "vincular",
+    "meaning": "let us link",
+    "audio": "work/audio/es-MX/06/es-06-0284.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0285",
+    "sentence": "—La mochila cerró con tus materiales y los míos, pero para sacar mi cuaderno tuve que sacar también tu carpeta. Tú quieres comprobar si puedes llevarla al taller; yo, si puedo sacar el cuaderno durante el trayecto. No me conformaría con volver a cerrar la mochila para dar por resueltas ambas cosas. Propongo que la prueba termine cuando mi cuaderno y tu carpeta vuelvan a quedar listos para sus respectivos usos: si debo deshacer tu acomodo cada vez, eso cuenta para decidir cómo compartirla, aunque todo quepa. Probemos otro orden antes de elegirla como mochila de los dos.",
+    "cloze": "me conformaría",
+    "answer": "me conformaría",
+    "lemma": "conformarse",
+    "meaning": "I would be satisfied",
+    "audio": "work/audio/es-MX/06/es-06-0285.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0286",
+    "sentence": "Los dos avisos permiten encontrar la fecha; el breve se leyó antes, pero dos personas entendieron mal el lugar. Tú propones elegir por el tiempo promedio; yo necesito que la gente llegue al sitio correcto. Sopesaría la rapidez solo entre las lecturas que llevaron al lugar correcto, conservando además el número de errores de cada aviso. Así una respuesta equivocada muy rápida no mejora la comparación. ¿Probamos ambos con ese registro antes de elegir qué texto enviar? Si uno resulta más rápido y el otro produce menos errores, todavía tendremos que decidir qué diferencia aceptamos.",
+    "cloze": "Sopesaría",
+    "answer": "Sopesaría",
+    "lemma": "sopesar",
+    "meaning": "I would weigh",
+    "audio": "work/audio/es-MX/06/es-06-0286.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0287",
+    "sentence": "Todos los pasos quedaron explicados en el ensayo, pero cada alumno explicó uno distinto. Tú quieres conservar al equipo para la demostración; yo necesito decidir quién puede hacerla a solas. Para repetirla con el mismo reparto, nos bastaría comprobar que enlazan sus partes sin ayuda; para elegir a una persona, habría que escucharle la secuencia completa. Propongo una pasada conjunta y luego otra individual con quien quiera intentarlo. Si cambiamos el reparto durante la primera, ya no estaríamos comprobando la coordinación que tú quieres conservar. No asignemos todavía la demostración individual.",
+    "cloze": "nos bastaría",
+    "answer": "nos bastaría",
+    "lemma": "bastar",
+    "meaning": "would be enough for us",
+    "audio": "work/audio/es-MX/06/es-06-0287.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0288",
+    "sentence": "—¿Podré vaciar la caja solo al cierre? —Durante la prueba retiramos los libros cada vez que se llenó y al final habían pasado por ella treinta. La bibliotecaria quiere mantenerla porque recibió todas las devoluciones. Rescatemos el registro del primer vaciado, con su hora y cantidad de libros, para responderle sin tomar los treinta como capacidad de la caja. Propongo otra jornada anotando cada vaciado: el total recibido serviría para revisar el servicio, y los intervalos para discutir los turnos de recogida. Todavía falta comprobar qué ocurre si se dejan acumular.",
+    "cloze": "Rescatemos",
+    "answer": "Rescatemos",
+    "lemma": "rescatar",
+    "meaning": "let us retain as useful evidence",
+    "audio": "work/audio/es-MX/06/es-06-0288.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0289",
+    "sentence": "En la prueba todos hicieron un pedido por pantalla: no había tarjetas. La encargada quiere saber si los pedidos llegan; tú quieres elegir el medio preferido. Propongo ofrecer ambos en la próxima sesión. ¿Admitiríamos como preferencia por la pantalla una elección hecha después de mostrar las dos opciones, dejando las dificultades de envío en un registro aparte? Si alguien la elige y no logra enviar, su elección cuenta para tu pregunta y su intento fallido para la de la encargada. Podemos probar ambas vías sin eliminar una por contar solo los pedidos que sí llegaron.",
+    "cloze": "Admitiríamos",
+    "answer": "Admitiríamos",
+    "lemma": "admitir",
+    "meaning": "would we accept",
+    "audio": "work/audio/es-MX/06/es-06-0289.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0290",
+    "sentence": "Ya hicimos diez sobres pequeños sin errores y anotamos el tiempo. Tú quieres cerrar la prueba para organizar el trabajo; yo necesito elegir papel también para los grandes. Propongo como punto de corte que un sobre grande se rompa al doblarlo: ese resultado bastaría para descartar ese papel en ese tamaño, pero no para calcular cuánto tardaremos en producir sobres grandes con otro. Si queda bien, mediremos cuánto tomó terminarlo. Podemos dejar de repetir los pequeños; el horario de los grandes seguirá pendiente si hay que cambiar de papel.",
+    "cloze": "punto de corte",
+    "answer": "punto de corte",
+    "lemma": "punto de corte",
+    "meaning": "cutoff point",
+    "audio": "work/audio/es-MX/06/es-06-0290.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0291",
+    "sentence": "—El público aplaudió y tres personas ofrecieron ayudar si repetíamos esa misma canción. Yo cuento con ellas para otra función, aunque la directora quiere acortarla. —No desliguemos la prueba de disponibilidad de la versión que vamos a ensayar: propongo mostrarles el recorte y preguntar qué tareas cubrirían con él. Sus respuestas permitirían preparar ese ensayo; los aplausos anteriores siguen siendo una reacción a la versión larga. Elegir el recorte no confirma aquellos ofrecimientos, y conservar la canción tampoco demuestra que estén cubiertas todas las tareas.",
+    "cloze": "desliguemos",
+    "answer": "desliguemos",
+    "lemma": "desligar",
+    "meaning": "separate",
+    "audio": "work/audio/es-MX/06/es-06-0291.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0292",
+    "sentence": "Ustedes comprobaron que llegó el enlace, pero el formulario no permitía responder. Proponen arreglarlo y enviar «No estoy de acuerdo» para comprobar que también acepta objeciones. No computemos ese mensaje como una opinión de la consulta si su contenido lo fijamos nosotros para la prueba. Que llegue respondería a la pregunta sobre el canal y permitiría abrir la consulta; su desacuerdo escrito no respondería a la pregunta sobre lo que piensa el grupo. Propongo identificarlo como prueba y pedir después respuestas propias antes de decidir si hay que revisar la propuesta.",
+    "cloze": "computemos",
+    "answer": "computemos",
+    "lemma": "computar",
+    "meaning": "count",
+    "audio": "work/audio/es-MX/06/es-06-0292.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0293",
+    "sentence": "Las fichas debían volver al terminar la sesión, pero la encargada las pidió antes para preparar otro juego y todas volvieron. Ella quiere saber si puede tenerlas listas para ese juego; tú quieres saber quién incumple la devolución. No convirtamos la hora de su aviso en un plazo común para ambas preguntas. Propongo anotar cuándo están listas para el juego y cuáles siguen fuera al cierre, con una ronda en la que no se adelanten los avisos. Podemos preparar fichas de reserva para esa ronda; devolverlas tras el aviso de hoy no prueba que alguien fuera a entregarlas tarde.",
+    "cloze": "convirtamos",
+    "answer": "convirtamos",
+    "lemma": "convertir",
+    "meaning": "turn",
+    "audio": "work/audio/es-MX/06/es-06-0293.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0294",
+    "sentence": "Julia armó sola la figura y después orientó a un compañero: él terminó, pero ella tuvo que cambiar dos piezas. Tú quieres invitarla a enseñar; yo necesito decidir qué pasos necesita practicar él. Haría valer esas intervenciones al revisar qué ayuda sabe ofrecer Julia, sin contarlas como decisiones del compañero. ¿Les parece que él repita esos dos pasos y que observemos cómo responde ella a sus dudas sin hacerlos por él? Podemos preparar otra práctica en pareja; ese resultado permitiría valorar la orientación y el trabajo propio con criterios distintos, sin confundirlos en la figura terminada.",
+    "cloze": "Haría valer",
+    "answer": "Haría valer",
+    "lemma": "hacer valer",
+    "meaning": "I would use as grounds",
+    "audio": "work/audio/es-MX/06/es-06-0294.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0295",
+    "sentence": "El ensayo del taller dejó dos resultados: todos terminaron una pieza dentro de la hora prevista, pero solo eligieron el color. La coordinadora quiere repetir la duración; el maestro pide más decisiones propias antes de anunciar libertad creativa. ¿Aceptarían que terminar a tiempo sirviera para conservar la duración de esta actividad, sin bastar para ese anuncio? Propongo añadir una elección de forma en otra prueba y observar tanto las decisiones como el tiempo. No sabemos aún si esa actividad más libre cabrá en el mismo horario.",
+    "cloze": "sirviera",
+    "answer": "sirviera",
+    "lemma": "servir",
+    "meaning": "served as grounds",
+    "audio": "work/audio/es-MX/06/es-06-0295.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0296",
+    "sentence": "¿Por qué rechazaríamos toda la prueba por no haber terminado? El montaje se detuvo a los quince minutos porque la vecina pidió parar: el ruido le impedía descansar y aún faltaban dos mesas. Tú necesitabas calcular la duración; ella, saber si ese modo de montar le permitía descansar. Propongo conservar su pedido de parar como razón para ensayar otro modo de montaje, sin registrar quince minutos como tiempo de terminación. Podemos acordar con ella otra prueba que también se detenga si le molesta; si vuelve a detenerse, tendremos información sobre la molestia, pero no una duración completa.",
+    "cloze": "rechazaríamos",
+    "answer": "rechazaríamos",
+    "lemma": "rechazar",
+    "meaning": "would we reject",
+    "audio": "work/audio/es-MX/06/es-06-0296.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0297",
+    "sentence": "No supeditaría el conteo de quienes llegan a que encuentren asiento. En el salón pequeño se ocuparon todas las sillas; en el grande asistió más gente, aunque quedaron lugares vacíos. Tú propones quitar sillas del grande para probar si se siente más lleno; yo quiero saber si permite recibir a más personas. Registremos también a quienes se queden fuera: quitar sillas cambia la proporción ocupada y puede limitar las entradas, aunque llegue la misma gente. Podemos probar otro acomodo con ambos registros; todavía debemos acordar si preferimos esa sensación de lleno o dar lugar a más asistentes.",
+    "cloze": "supeditaría",
+    "answer": "supeditaría",
+    "lemma": "supeditar",
+    "meaning": "I would make dependent",
+    "audio": "work/audio/es-MX/06/es-06-0297.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0298",
+    "sentence": "En la prueba por parejas habló todo el grupo; en el cierre solo escuchamos un resumen de cada pareja. La tallerista quiere conservar el formato porque todos participaron; un alumno pregunta si también llegaron al grupo las opiniones que su pareja no eligió contar. Propongo que se distinga entre haber hablado y haber quedado incluido en el resumen al revisar esa prueba. Que cada pareja compare lo que dijo con lo que contó: una omisión orientaría la revisión del resumen, sin borrar la participación inicial. Podemos probar ese cierre corregido; aún falta decidir si escuchar resúmenes basta o si todos deben hablar ante el grupo.",
+    "cloze": "se distinga",
+    "answer": "se distinga",
+    "lemma": "distinguir",
+    "meaning": "a distinction be made",
+    "audio": "work/audio/es-MX/06/es-06-0298.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0299",
+    "sentence": "Todos contestaron las preguntas de la guía mirando el índice, que ya contenía las respuestas. Ustedes quieren usarla para una consulta rápida; yo necesito decidir si el índice orienta hacia otras secciones. ¿Nos pondríamos de acuerdo en que localizar la sección, aunque ahí faltara la respuesta, contara para revisar la orientación, pero no para aprobar el contenido? Propongo incluir una pregunta cuya respuesta no esté en el índice y anotar ambos resultados. Así una omisión de contenido no se confundiría con una falla para llegar a la sección; la consulta de hoy conserva su utilidad.",
+    "cloze": "Nos pondríamos de acuerdo",
+    "answer": "Nos pondríamos de acuerdo",
+    "lemma": "ponerse de acuerdo",
+    "meaning": "could we agree",
+    "audio": "work/audio/es-MX/06/es-06-0299.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0300",
+    "sentence": "No acepto que se dé por probado un vencedor solo porque en alguna repetición cambie un voto. La prueba de los dos finales del cuento mostró que se entendían ambos; la mitad prefirió cada uno. Tú propones repetirla hasta encontrar un ganador, pero buscabas el más claro y yo el que más gustara. Propongo preguntar qué motivó las preferencias: si aparece una dificultad de comprensión, revisaremos ese final; si solo difieren los gustos, conservaremos ambos para discutir cómo elegir. Esa consulta puede orientar una corrección, pero no fija cuánto acuerdo necesitamos para seleccionar un final.",
+    "cloze": "se dé por probado",
+    "answer": "se dé por probado",
+    "lemma": "dar por probado",
+    "meaning": "be treated as established",
+    "audio": "work/audio/es-MX/06/es-06-0300.mp3",
+    "accepted_answers": []
   }
 ]
