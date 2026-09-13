@@ -4282,5 +4282,261 @@
     "meaning": "let us acknowledge",
     "audio": "work/audio/es-MX/06/es-06-0425.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0426",
+    "sentence": "El sistema envió el mismo recordatorio a todo el equipo. Irene ya había entregado su parte y apretó los labios al leerlo. Encima, ahora la apuraban a ella, que había terminado desde el lunes.",
+    "cloze": "Encima",
+    "answer": "Encima",
+    "lemma": "encima",
+    "meaning": "on top of that",
+    "audio": "work/audio/es-MX/06/es-06-0426.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0427",
+    "sentence": "Aquel viernes, Tomás dejó sus dibujos junto a la puerta. Mañana se los enseñaba a mamá, sin esconder otra vez la carpeta. Puso las llaves encima para no olvidarla.",
+    "cloze": "Mañana",
+    "answer": "Mañana",
+    "lemma": "mañana",
+    "meaning": "tomorrow",
+    "audio": "work/audio/es-MX/06/es-06-0427.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0428",
+    "sentence": "Lidia recorrió el departamento vacío y abrió la ventana del patio. Sí, en este lugar cabía la mesa de la abuela, justo junto a la luz. Sacó de su bolsa una cinta para medir.",
+    "cloze": "este",
+    "answer": "este",
+    "lemma": "este",
+    "meaning": "this",
+    "audio": "work/audio/es-MX/06/es-06-0428.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0429",
+    "sentence": "Cada página del formulario se borraba al vencer el tiempo de espera. Saúl empezó por tercera vez, harto de perder lo que escribía. ¡Otra vez el dichoso formulario, cuando a él solo le faltaba escribir su apellido!",
+    "cloze": "dichoso",
+    "answer": "dichoso",
+    "lemma": "dichoso",
+    "meaning": "blasted; annoyingly troublesome",
+    "audio": "work/audio/es-MX/06/es-06-0429.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0430",
+    "sentence": "Nadia llevaba semanas apartando monedas para una novela. Al salir de la librería, apretó la bolsa contra el pecho. Sí, se lo merecía después de tantos días sin comprarse nada para ella.",
+    "cloze": "se lo merecía",
+    "answer": "se lo merecía",
+    "lemma": "merecerse",
+    "meaning": "she deserved it",
+    "audio": "work/audio/es-MX/06/es-06-0430.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0431",
+    "sentence": "El cartel anunciaba una actividad voluntaria después de clase. Esteban llevaba la mochila al hombro y se detuvo al verlo. ¿De veras pretendían que él pasara ahí también la tarde, con todo lo que tenía pendiente?",
+    "cloze": "pretendían",
+    "answer": "pretendían",
+    "lemma": "pretender",
+    "meaning": "they expected",
+    "audio": "work/audio/es-MX/06/es-06-0431.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0432",
+    "sentence": "La familia había usado el cuarto de Óscar como bodega durante la mudanza. Él estaba harto de tener maletas ajenas junto a la cama y vigiló la salida de la última caja. ¡Por fin recuperaba su rincón!",
+    "cloze": "Por fin",
+    "answer": "Por fin",
+    "lemma": "por fin",
+    "meaning": "at last",
+    "audio": "work/audio/es-MX/06/es-06-0432.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0433",
+    "sentence": "A Vera le ofrecieron participar en una feria, pero todavía no tenía una mesa para su puesto. Acarició las libretas que había encuadernado. Bueno, se las arreglaría con lo que había en casa; lo importante era mostrar su trabajo.",
+    "cloze": "se las arreglaría",
+    "answer": "se las arreglaría",
+    "lemma": "arreglárselas",
+    "meaning": "she would manage",
+    "audio": "work/audio/es-MX/06/es-06-0433.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0434",
+    "sentence": "El grupo propuso cantar frente a todo el restaurante. Hugo miró el micrófono y escondió las manos bajo la mesa. Él no se levantaba ni de broma, por mucho que sus amigos aplaudieran.",
+    "cloze": "ni de broma",
+    "answer": "ni de broma",
+    "lemma": "ni de broma",
+    "meaning": "not a chance",
+    "audio": "work/audio/es-MX/06/es-06-0434.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0435",
+    "sentence": "Aquel lunes, Celia encontró otra invitación en el chat familiar y dejó el teléfono boca abajo. No, hoy necesitaba una tarde para ella, sin visitas ni explicaciones. Se quitó los zapatos.",
+    "cloze": "hoy",
+    "answer": "hoy",
+    "lemma": "hoy",
+    "meaning": "today",
+    "audio": "work/audio/es-MX/06/es-06-0435.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0436",
+    "sentence": "El sorteo puso a Beto al final de los turnos para escoger música. Él miró la bocina y cruzó los brazos. ¡A él le tocaba escoger ahora, que llevaba toda la comida oyendo canciones ajenas!",
+    "cloze": "le tocaba",
+    "answer": "le tocaba",
+    "lemma": "tocar",
+    "meaning": "it was his turn",
+    "audio": "work/audio/es-MX/06/es-06-0436.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0437",
+    "sentence": "La lluvia obligó a suspender la comida en el patio. Alma no quería encontrarse con su expareja, aunque los demás ya buscaban otra fecha. Menos mal que podía quedarse en casa sin dar explicaciones.",
+    "cloze": "Menos mal",
+    "answer": "Menos mal",
+    "lemma": "menos mal",
+    "meaning": "what a relief",
+    "audio": "work/audio/es-MX/06/es-06-0437.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0438",
+    "sentence": "La mesa del café tenía cuatro sillas. Paula llegó con dos amigas y vio por la ventana que se acercaban otros cinco del grupo. ¿Cómo iban a caber todos ahí, si a ella ya le estorbaba la mochila?",
+    "cloze": "iban a caber",
+    "answer": "iban a caber",
+    "lemma": "ir a caber",
+    "meaning": "they were going to fit",
+    "audio": "work/audio/es-MX/06/es-06-0438.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0439",
+    "sentence": "El sombrero era parte del vestuario que habían entregado a todo el elenco. Iván se lo puso frente al espejo y bajó la vista. ¡Qué ridículo se veía él con ese adorno, tan grande que casi le tapaba la cara!",
+    "cloze": "ridículo",
+    "answer": "ridículo",
+    "lemma": "ridículo",
+    "meaning": "ridiculous",
+    "audio": "work/audio/es-MX/06/es-06-0439.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0440",
+    "sentence": "Del local de enfrente salía olor a pan recién hecho. Rebeca se detuvo con la lista del mandado todavía en la mano. ¡Cómo se le antojaba una concha ahora, antes de volver a casa y repartir todo!",
+    "cloze": "se le antojaba",
+    "answer": "se le antojaba",
+    "lemma": "antojarse",
+    "meaning": "she was craving",
+    "audio": "work/audio/es-MX/06/es-06-0440.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0441",
+    "sentence": "La hija y el nieto de doña Elisa iban hacia la sala de espera con los lentes que ella había olvidado. Doña Elisa leyó el aviso y dejó la revista cerrada. Bien, le traerían los lentes hasta acá, sin que ella tuviera que salir a buscarlos.",
+    "cloze": "le traerían",
+    "answer": "le traerían",
+    "lemma": "traer",
+    "meaning": "they would bring her",
+    "audio": "work/audio/es-MX/06/es-06-0441.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0442",
+    "sentence": "Rubén llevaba varios días comiendo tarde y pidió una pausa para comer, pero la junta se alargó con un asunto nuevo. Para variar, su comida iba a esperar hasta que todos terminaran de hablar, como si él no tuviera hambre. No volvió a pedir la palabra.",
+    "cloze": "Para variar",
+    "answer": "Para variar",
+    "lemma": "para variar",
+    "meaning": "as usual, ironically",
+    "audio": "work/audio/es-MX/06/es-06-0442.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0443",
+    "sentence": "Marina había terminado los encargos y dejó la libreta junto al sofá. Bueno, podía permitirse un capítulo de la serie antes de lavar los platos. Se sentó sin abrir todavía la aplicación.",
+    "cloze": "podía permitirse",
+    "answer": "podía permitirse",
+    "lemma": "poder permitirse",
+    "meaning": "she could allow herself",
+    "audio": "work/audio/es-MX/06/es-06-0443.mp3",
+    "accepted_answers": [
+      "se podía permitir"
+    ]
+  },
+  {
+    "id": "es-06-0444",
+    "sentence": "El domingo no había ninguna actividad acordada. Andrés vio otro mensaje de su hermana proponiendo salir y dejó el teléfono sobre la mesa. Podía almorzar cuando le diera la gana, que para eso tenía el domingo libre.",
+    "cloze": "le diera la gana",
+    "answer": "le diera la gana",
+    "lemma": "dar la gana",
+    "meaning": "he pleased",
+    "audio": "work/audio/es-MX/06/es-06-0444.mp3",
+    "accepted_answers": [
+      "le diese la gana"
+    ]
+  },
+  {
+    "id": "es-06-0445",
+    "sentence": "En el grupo apareció una foto de una caja envuelta, sin nombre ni explicación. A Patricia le faltaban dos días para cumplir años y acercó la imagen con los dedos. Quién sabe si el regalo era para ella; mejor no hacerse ilusiones todavía.",
+    "cloze": "Quién sabe",
+    "answer": "Quién sabe",
+    "lemma": "quién sabe",
+    "meaning": "who knows",
+    "audio": "work/audio/es-MX/06/es-06-0445.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0446",
+    "sentence": "Su hermano había elegido la película y ahora le pedía cambiarla a la mitad. Mónica sujetó el control y negó con la cabeza. Que se aguantara hasta el final, como ella cuando le tocaban películas de carreras.",
+    "cloze": "se aguantara",
+    "answer": "se aguantara",
+    "lemma": "aguantarse",
+    "meaning": "he should put up with it",
+    "audio": "work/audio/es-MX/06/es-06-0446.mp3",
+    "accepted_answers": [
+      "se aguantase"
+    ]
+  },
+  {
+    "id": "es-06-0447",
+    "sentence": "Aquel martes, Teresa dejó a su hijo en la terminal y volvió sola al departamento. Anoche todavía cenaban juntos, y ahora ella ni ganas tenía de poner su plato.",
+    "cloze": "Anoche",
+    "answer": "Anoche",
+    "lemma": "anoche",
+    "meaning": "last night",
+    "audio": "work/audio/es-MX/06/es-06-0447.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0448",
+    "sentence": "A Daniel lo invitaron a acompañar al grupo a otra cafetería después del taller. Miró el cuaderno que llevaba semanas sin abrir. No, esta vez se quedaba a dibujar ahí, aunque los demás siguieran con la salida. Sacó el lápiz.",
+    "cloze": "se quedaba",
+    "answer": "se quedaba",
+    "lemma": "quedarse",
+    "meaning": "he was staying",
+    "audio": "work/audio/es-MX/06/es-06-0448.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0449",
+    "sentence": "El ventilador viejo hacía vibrar el escritorio. Lucía lo apagó para grabar su tarea; solo necesitaba leer una página. ¡Qué largo se le hacía ese minuto sin aire, y ella apenas iba en el segundo renglón!",
+    "cloze": "se le hacía",
+    "answer": "se le hacía",
+    "lemma": "hacérsele",
+    "meaning": "it felt to her",
+    "audio": "work/audio/es-MX/06/es-06-0449.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0450",
+    "sentence": "El correo de confirmación llegó seis semanas después de la solicitud. Sergio revisó su nombre en la lista y aflojó los hombros. Ya era hora de que lo tomaran en cuenta, después de tanto revisar el buzón. En su respuesta, sin embargo, solo escribió un agradecimiento.",
+    "cloze": "Ya era hora",
+    "answer": "Ya era hora",
+    "lemma": "ya era hora",
+    "meaning": "it was about time",
+    "audio": "work/audio/es-MX/06/es-06-0450.mp3",
+    "accepted_answers": []
   }
 ]
