@@ -1248,5 +1248,255 @@
     "meaning": "take back what we said",
     "audio": "work/audio/es-MX/06/es-06-0125.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0126",
+    "sentence": "Marta llama autores a todos los que aportaron al mural; yo reservo ese nombre para quienes decidieron el diseño. Ana dibujó las flores, pero no decidió su lugar. Para los créditos propuse «colaboradora» y Marta objetó que parecía un papel secundario. Concedo que esa palabra puede restarle reconocimiento: ¿qué te parece «Dibujo de las flores: Ana», Marta? Reconoce su aporte sin pedirnos una definición común de autoría.",
+    "cloze": "Concedo",
+    "answer": "Concedo",
+    "lemma": "conceder",
+    "meaning": "I concede",
+    "audio": "work/audio/es-MX/06/es-06-0126.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0127",
+    "sentence": "Para usted, un recorrido accesible no tiene escalones; para la guía, debe poder hacerse sin ayuda. Este recorrido no tiene escalones, pero hay que pedir que abran una puerta. ¿La frase «Recorrido sin escalones; apertura de puerta a solicitud» le serviría para coordinar su llegada con la guía? Le pregunto por la utilidad de esa descripción para la visita, sin pedirle que acepte el criterio de accesibilidad de ella.",
+    "cloze": "le serviría",
+    "answer": "le serviría",
+    "lemma": "servir",
+    "meaning": "would be useful to you",
+    "audio": "work/audio/es-MX/06/es-06-0127.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0128",
+    "sentence": "Irene cuenta los audiolibros como lectura; Saúl solo cuenta textos escritos. Ambos quieren invitar a conversar a quienes conocen la novela por cualquiera de esas vías. Saúl propone «Para quienes leyeron y escucharon la novela». Irene responde: «No excluyamos con ese requisito doble a quienes solo usaron una vía; ¿qué tal “Para quienes leyeron o escucharon la novela”? Yo sigo considerando lectores a todos, pero la invitación no te exige hacerlo».",
+    "cloze": "excluyamos",
+    "answer": "excluyamos",
+    "lemma": "excluir",
+    "meaning": "exclude",
+    "audio": "work/audio/es-MX/06/es-06-0128.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0129",
+    "sentence": "Elena llama tradición a una práctica transmitida, aunque cambie; Raúl exige que conserve su forma. Quieren exponer versiones antiguas y modificadas de una danza. Elena propone «Nuestra tradición» como título común. Raúl responde: «No me atribuyas con ese “nuestra” tu clasificación de las versiones modificadas. Puedes presentar “Tradición del barrio” como tu interpretación, junto a mi reserva sobre los cambios; así podemos mostrar las piezas sin fingir una sola postura».",
+    "cloze": "me atribuyas",
+    "answer": "me atribuyas",
+    "lemma": "atribuir",
+    "meaning": "attribute to me",
+    "audio": "work/audio/es-MX/06/es-06-0129.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0130",
+    "sentence": "Para mi hija, estudiar es hacer ejercicios; para su tutor, también incluye revisar errores. Queremos un registro común para conversar sobre la semana, pero «horas de estudio» les pide sumar cosas distintas. Dejemos en suspenso ese total en el registro: propongo anotar por separado «tiempo de ejercicios» y «tiempo de revisión». Podremos comparar las actividades sin exigir que alguno deje de considerar estudio lo que ahora incluye.",
+    "cloze": "Dejemos en suspenso",
+    "answer": "Dejemos en suspenso",
+    "lemma": "dejar en suspenso",
+    "meaning": "let us suspend",
+    "audio": "work/audio/es-MX/06/es-06-0130.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0131",
+    "sentence": "Tú llamas cancelación a mover una salida; yo uso esa palabra solo cuando ya no nos vemos. Pasamos la cena del viernes al sábado y dices que el cambio te obliga a reorganizarte. Para actualizar nuestro calendario propongo «Cena cambiada al sábado». Con esa frase no me desentiendo de la molestia que señalas: quiero que sepamos cuándo ir, sin pedirte que dejes de llamar cancelación a lo ocurrido.",
+    "cloze": "me desentiendo",
+    "answer": "me desentiendo",
+    "lemma": "desentenderse",
+    "meaning": "disclaim responsibility",
+    "audio": "work/audio/es-MX/06/es-06-0131.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0132",
+    "sentence": "—Yo entiendo por silencio que no haya música; tú también exiges que nadie converse. Los dos aceptamos reservar diez minutos sin música ni conversaciones antes de la función. ¿Ahora te interpreto bien si propongo anunciar exactamente «Diez minutos sin música ni conversaciones» como descripción de ese intervalo, sin presentarlo como nuestra definición común de silencio? Quiero comprobar el alcance de la frase antes de publicarla.",
+    "cloze": "te interpreto",
+    "answer": "te interpreto",
+    "lemma": "interpretar",
+    "meaning": "understand you",
+    "audio": "work/audio/es-MX/06/es-06-0132.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0133",
+    "sentence": "Una tutora llama autónomo al alumno que trabaja sin indicaciones de otra persona; otra exige además que no consulte ejemplos. Ambas observaron que Luis resolvió un ejercicio con una tabla y sin indicaciones. Para comparar mañana dos ejecuciones propongo esa descripción en la ficha. Si la usamos, no extrapoles esa frase a una clasificación general de Luis como autónomo: describe los apoyos de un ejercicio y deja abierta la diferencia entre los criterios.",
+    "cloze": "extrapoles",
+    "answer": "extrapoles",
+    "lemma": "extrapolar",
+    "meaning": "extrapolate",
+    "audio": "work/audio/es-MX/06/es-06-0133.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0134",
+    "sentence": "El organizador llama locales solo a los escritores nacidos aquí; la bibliotecaria incluye a quienes viven aquí aunque hayan nacido fuera. Quieren reunir en una mesa tres textos sobre la colonia, de personas de ambos grupos, y después decidir a qué autores invitar como locales. No resolvamos esa segunda selección con el letrero «Textos sobre la colonia»: propongo usarlo para agrupar los textos por tema; el criterio para invitar autores seguiría pendiente.",
+    "cloze": "resolvamos",
+    "answer": "resolvamos",
+    "lemma": "resolver",
+    "meaning": "settle",
+    "audio": "work/audio/es-MX/06/es-06-0134.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0135",
+    "sentence": "—Para mí, toda comida que sobra es desperdicio; si no lo reconoces, no podemos enviar juntos el mensaje de recogida. —Yo solo llamo desperdicio a lo que se tira; estas cajas sobraron, pero nadie las ha tirado. —No condicionemos el envío a compartir esa valoración. Propongo «Cajas que quedaron sin repartir, disponibles para recoger»: permite pedir que vengan por ellas sin que ninguno cambie su definición de desperdicio.",
+    "cloze": "condicionemos",
+    "answer": "condicionemos",
+    "lemma": "condicionar",
+    "meaning": "make conditional",
+    "audio": "work/audio/es-MX/06/es-06-0135.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0136",
+    "sentence": "Mi hermano entiende por acompañar a mamá ir con ella; yo incluyo ayudarla a leer los letreros. Para mañana aceptó ambas tareas, pero no hacer llamadas en su nombre. Queremos que mamá sepa qué esperar. No le carguemos más tareas a mi hermano mediante «acompañamiento completo»; propongo «Irá contigo y te ayudará con los letreros, pero no hará llamadas por ti». La frase comunicaría lo ofrecido sin decidir todo lo que significa acompañar.",
+    "cloze": "le carguemos",
+    "answer": "le carguemos",
+    "lemma": "cargar",
+    "meaning": "burden him with",
+    "audio": "work/audio/es-MX/06/es-06-0136.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0137",
+    "sentence": "Ustedes llaman abierto al taller porque no cobra; nosotros, cuando no exige inscripción. Este taller es gratuito y sí requiere inscribirse. Para el anuncio propongo «Taller sin cuota, con inscripción previa». En vez de pedirles que cambien su definición, pongamos a prueba esa redacción preguntando a una persona interesada si entiende que debe inscribirse y que no pagará cuota. Su respuesta serviría para revisar el aviso, sin decidir cuál definición de abierto es correcta.",
+    "cloze": "pongamos a prueba",
+    "answer": "pongamos a prueba",
+    "lemma": "poner a prueba",
+    "meaning": "let us test",
+    "audio": "work/audio/es-MX/06/es-06-0137.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0138",
+    "sentence": "—Para mí, una pieza original no usa imágenes ajenas; tú consideras original una composición nueva aunque las use. Necesitamos una descripción para exhibir este collage hecho con recortes de revistas. Yo admitiría «composición nueva con imágenes tomadas de revistas» en la ficha, siempre que no la presentemos como nuestra definición compartida de originalidad. Todavía espero tu respuesta sobre esa redacción.",
+    "cloze": "admitiría",
+    "answer": "admitiría",
+    "lemma": "admitir",
+    "meaning": "would accept",
+    "audio": "work/audio/es-MX/06/es-06-0138.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0139",
+    "sentence": "El encargado llama reparado al equipo que vuelve a funcionar; usted exige que la falla no vuelva. Ambos vieron que hoy encendió, pero aún no han comprobado cuánto dura así. Para anunciar la próxima prueba, no anticipemos con «reparado definitivamente» un resultado que falta comprobar. Propongo «El equipo encendió hoy; falta probar cuánto tiempo sigue funcionando». Podemos describir lo observado sin decidir qué duración exige cada uno para hablar de reparación.",
+    "cloze": "anticipemos",
+    "answer": "anticipemos",
+    "lemma": "anticipar",
+    "meaning": "anticipate",
+    "audio": "work/audio/es-MX/06/es-06-0139.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0140",
+    "sentence": "Luz llama público a cualquier texto que se puede consultar; Pedro exige además que cualquiera pueda reproducirlo. Preparan un catálogo para orientar a los visitantes. La dueña del cuaderno deja leerlo en sala, pero no copiarlo. No pactemos una descripción que deje abierta la reproducción para conseguir una etiqueta común: propongo «Consulta en sala, sin copias». La diferencia sobre público puede seguir abierta; el permiso de la dueña ya tiene ese límite.",
+    "cloze": "pactemos",
+    "answer": "pactemos",
+    "lemma": "pactar",
+    "meaning": "agree on",
+    "audio": "work/audio/es-MX/06/es-06-0140.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0141",
+    "sentence": "—Rosa, anotamos las horas de cocina con y sin pago. Para mí trabajo significa actividad pagada; tú también incluyes cocinar sin pago. Para comparar cómo ocupamos el día, pondría tus horas de cocina sin pago como «tiempo libre». —Reclamo que esas horas aparezcan como tiempo dedicado a cocinar, David. «Cocina sin pago» nos permitiría comparar la ocupación del día sin que tú tengas que llamarla trabajo ni yo tenga que aceptar que fue tiempo libre.",
+    "cloze": "Reclamo",
+    "answer": "Reclamo",
+    "lemma": "reclamar",
+    "meaning": "I demand",
+    "audio": "work/audio/es-MX/06/es-06-0141.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0142",
+    "sentence": "La organizadora llama éxito a llenar el salón; el tallerista exige que todos aprendan. El salón se llenó, pero todavía no revisan lo aprendido. Quieren publicar juntos los datos de asistencia. Si evitamos «Éxito del taller», rechacemos también «Taller fallido» como alternativa: no aceptar una valoración común no establece la contraria. Propongo «Salón lleno; aprendizaje pendiente de revisión», para comunicar lo conocido sin resolver qué cuenta como éxito.",
+    "cloze": "rechacemos",
+    "answer": "rechacemos",
+    "lemma": "rechazar",
+    "meaning": "reject",
+    "audio": "work/audio/es-MX/06/es-06-0142.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0143",
+    "sentence": "La encargada llama familia solo a los parientes; Diego incluye a quienes comparten cuidados, aunque no tengan parentesco. Su amiga Nora lo acompañará a una visita. La credencial solo necesita identificar quién irá con él, pero el borrador dice «visitante sin vínculo familiar». Propongo «persona acompañante», una expresión que no prejuzgue ese vínculo: evita tanto imponer la definición de Diego como excluir a Nora de su familia según el criterio de la encargada.",
+    "cloze": "prejuzgue",
+    "answer": "prejuzgue",
+    "lemma": "prejuzgar",
+    "meaning": "prejudge",
+    "audio": "work/audio/es-MX/06/es-06-0143.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0144",
+    "sentence": "—Tú entiendes por consulta recibir comentarios; yo exijo que esos comentarios puedan cambiar la decisión. El comité ya decidió y no hará cambios. Para invitar al encuentro propusiste «Sesión para recibir comentarios; la decisión del comité no cambiará». Me adhiero a esa redacción para enviar la invitación, aunque sigo sin llamar consulta a ese procedimiento. Mi aceptación de las palabras no resuelve nuestra diferencia sobre la categoría.",
+    "cloze": "Me adhiero",
+    "answer": "Me adhiero",
+    "lemma": "adherirse",
+    "meaning": "I endorse",
+    "audio": "work/audio/es-MX/06/es-06-0144.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0145",
+    "sentence": "Sara, para ti un grupo presencial reúne a todos en el salón; para mí, basta con que el profesor esté ahí. Mañana él y varios alumnos estarán en el salón; otros seguiremos por videollamada. Al redactar las instrucciones, no nos borres del grupo con un encabezado que solo mencione el salón. ¿Podemos decir «Una sesión con alumnos en el salón y por videollamada» para incluirnos en el mismo aviso sin acordar una definición de presencialidad?",
+    "cloze": "nos borres",
+    "answer": "nos borres",
+    "lemma": "borrar",
+    "meaning": "erase us",
+    "audio": "work/audio/es-MX/06/es-06-0145.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0146",
+    "sentence": "Dos vecinas preparan un índice: una llama memoria a lo vivido personalmente; la otra incluye relatos heredados. Quieren localizar ambos tipos de relatos del barrio. Una narradora mezcla lo que vio en la plaza con lo que le contó su mamá. No encasillemos ese relato en una sola de las dos procedencias; propongo marcarlo «Experiencia propia y relato recibido». La marca permitiría encontrar ambos componentes sin exigir una definición compartida de memoria.",
+    "cloze": "encasillemos",
+    "answer": "encasillemos",
+    "lemma": "encasillar",
+    "meaning": "pigeonhole",
+    "audio": "work/audio/es-MX/06/es-06-0146.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0147",
+    "sentence": "Tú llamas interrupción a cualquier sonido durante la grabación; yo solo a uno que obliga a parar. Los dos oímos una puerta, pero la narración siguió. Para señalar el punto que debe revisar la editora, propongo «Sonido de puerta durante la narración, sin pausa». ¿Qué objeción mantendrías a esa marca como referencia para la revisión? No te pido que dejes de considerarlo una interrupción; quiero saber si la descripción aún te atribuye algo que rechazas.",
+    "cloze": "mantendrías",
+    "answer": "mantendrías",
+    "lemma": "mantener",
+    "meaning": "would maintain",
+    "audio": "work/audio/es-MX/06/es-06-0147.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0148",
+    "sentence": "El encargado llama personalizado al trato individual; la asesora exige que se adapte el contenido. Deben anunciar una sesión para una persona, con la misma guía para todos. Él propone abreviar esa descripción como «Atención personalizada». Ella responde: «Objeto esa equivalencia para nuestro anuncio: depende de tu definición, que sigo sin compartir. Propongo “Sesión individual con guía común”; conserva los rasgos del servicio sin convertir tu clasificación en una afirmación de los dos».",
+    "cloze": "Objeto",
+    "answer": "Objeto",
+    "lemma": "objetar",
+    "meaning": "I object to",
+    "audio": "work/audio/es-MX/06/es-06-0148.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0149",
+    "sentence": "Nuestro equipo llama voluntario a quien ayuda sin pago; el suyo exige además que la ayuda no sea obligatoria. Para agradecer a quienes colaboraron sin pago en una jornada requerida por el curso, necesitamos una frase común. No les pido que adopten nuestra etiqueta de voluntariado: propongo «Gracias por el tiempo dedicado a la jornada». Esa fórmula reconoce el aporte sin afirmar que asistir fue una elección.",
+    "cloze": "adopten",
+    "answer": "adopten",
+    "lemma": "adoptar",
+    "meaning": "adopt",
+    "audio": "work/audio/es-MX/06/es-06-0149.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0150",
+    "sentence": "—Yo llamo convivencia a compartir un lugar; tú exiges que haya intercambio entre las personas. Para anunciar la tarde en el patio propuse «Convivencia vecinal», pero me dijiste que no aceptabas porque cada quien hará su actividad. Retiraría ese título y propondría «Tarde de actividades en el patio». Con esa descripción podríamos anunciar el uso compartido sin atribuirte mi idea de convivencia; aún falta tu respuesta.",
+    "cloze": "Retiraría",
+    "answer": "Retiraría",
+    "lemma": "retirar",
+    "meaning": "would withdraw",
+    "audio": "work/audio/es-MX/06/es-06-0150.mp3",
+    "accepted_answers": []
   }
 ]
