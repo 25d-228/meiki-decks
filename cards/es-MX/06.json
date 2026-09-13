@@ -2498,5 +2498,257 @@
     "meaning": "I would refine",
     "audio": "work/audio/es-MX/06/es-06-0250.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0251",
+    "sentence": "Prometiste responder todas las dudas de la clase, aunque podías reunir varias preguntas en una respuesta. Ana preguntó por qué se fue el personaje; Luis, si realmente se había ido. Explicaste el motivo de la partida y diste por atendidos a los dos. No te escudes en la posibilidad de responderles juntos: tu explicación supone precisamente el hecho que Luis pidió aclarar. Puedes conservar una respuesta común, pero necesita aclarar primero si hubo partida para después explicar el motivo.",
+    "cloze": "te escudes",
+    "answer": "te escudes",
+    "lemma": "escudarse",
+    "meaning": "hide behind",
+    "audio": "work/audio/es-MX/06/es-06-0251.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0252",
+    "sentence": "Defendiste que una sola actriz representara a todos los vecinos y aseguraste que se conservaría su desacuerdo. En el original, unos apoyan la salida y otros la rechazan al mismo tiempo. La actriz expresa ambas posturas, pero el programa las presenta como el cambio de opinión de una sola vecina. Desdoblemos esas voces al explicar la escena: podemos defender el reparto de una actriz y reconocer que esa presentación convierte una diferencia entre vecinos en una evolución personal que no estaba en el original.",
+    "cloze": "Desdoblemos",
+    "answer": "Desdoblemos",
+    "lemma": "desdoblar",
+    "meaning": "let us separate",
+    "audio": "work/audio/es-MX/06/es-06-0252.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0253",
+    "sentence": "La tienda ofrece entrega inmediata de lo que tiene en existencia; para encargos especiales promete confirmar una fecha antes de que el cliente decida comprar. Usted aceptó un encargo sin recibir fecha y, tras esperar tres semanas, dice que incumplieron el plazo anunciado. Delimitemos el reclamo: no había entrega inmediata para ese encargo ni una fecha confirmada con la cual medir el retraso. Sí faltó la información que debía permitirle decidir si le convenía esperar; excluir el encargo de la entrega inmediata hacía necesaria esa otra orientación.",
+    "cloze": "Delimitemos",
+    "answer": "Delimitemos",
+    "lemma": "delimitar",
+    "meaning": "let us define the scope of",
+    "audio": "work/audio/es-MX/06/es-06-0253.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0254",
+    "sentence": "Anunciamos recorridos donde se puede explorar cada pieza con las manos; aclaramos que los originales frágiles se sustituyen por réplicas. Una visitante señala que no pudo tocar un original y tampoco había réplica. La sustitución anunciada nos compromete precisamente en ese caso: podemos defender que se proteja el original, pero debemos reconocer que faltó la alternativa que hacía posible la experiencia ofrecida.",
+    "cloze": "nos compromete",
+    "answer": "nos compromete",
+    "lemma": "comprometer",
+    "meaning": "commits us",
+    "audio": "work/audio/es-MX/06/es-06-0254.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0255",
+    "sentence": "Nuestra reseña defendió el final abierto de la novela y afirmó que tanto la hija como el padre podían haber tomado la carta, sin contradecir las pistas. Una lectora señala que el padre muere antes de que esa carta llegue a existir. No ampliemos la defensa del final abierto hasta mantener una posibilidad que el propio relato descarta. Podemos seguir valorando que no se diga quién tomó la carta; debemos corregir nuestra afirmación de que las dos posibilidades siguen abiertas.",
+    "cloze": "ampliemos",
+    "answer": "ampliemos",
+    "lemma": "ampliar",
+    "meaning": "extend",
+    "audio": "work/audio/es-MX/06/es-06-0255.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0256",
+    "sentence": "La biblioteca no presta los libros raros a domicilio: se consultan en sala. Además, promete que el catálogo indica cómo acceder a cada libro. Usted encontró uno raro marcado para préstamo, se lo negaron y ahora pide borrar la ficha porque el libro no está disponible. La restricción no suprime la consulta en sala que esa ficha debe indicar. Podemos defender la negativa a sacarlo y corregir la orientación equivocada; borrarlo convertiría un límite al modo de acceso en la desaparición de una opción que sí se ofrece.",
+    "cloze": "suprime",
+    "answer": "suprime",
+    "lemma": "suprimir",
+    "meaning": "removes",
+    "audio": "work/audio/es-MX/06/es-06-0256.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0257",
+    "sentence": "La traductora avisó que no traduciría las canciones, aunque sí pondría en subtítulos toda indicación necesaria para seguir la historia. Un personaje canta el único aviso de que la familia debe cambiar de estación; ese aviso no aparece escrito. ¿Por qué permitir que la omisión de letras se extienda a una indicación que también quedó cubierta por su promesa? No hace falta traducir la canción completa para reconocer que falta ese aviso.",
+    "cloze": "se extienda",
+    "answer": "se extienda",
+    "lemma": "extenderse",
+    "meaning": "extend",
+    "audio": "work/audio/es-MX/06/es-06-0257.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0258",
+    "sentence": "El maestro permite entregar tarde sin bajar la calificación y promete comentarios dentro de una semana de cada entrega. Mandé mi texto después del cierre habitual y ya pasaron dos semanas sin comentarios. Yo reiteraría la petición de comentarios con la fecha real de entrega: no puedo exigirlos desde el cierre al que no llegué, pero tampoco corresponde dejarlos sin plazo por haber usado la entrega tardía permitida.",
+    "cloze": "reiteraría",
+    "answer": "reiteraría",
+    "lemma": "reiterar",
+    "meaning": "I would repeat",
+    "audio": "work/audio/es-MX/06/es-06-0258.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0259",
+    "sentence": "El menú permite cambiar la guarnición según lo que haya y promete explicar cada sustitución antes de preparar el plato, para que usted pueda elegir. Recibió arroz sin aviso y ya terminó de comer cuando le preguntamos si acepta el cambio. Desestimaríamos su queja injustamente si tomáramos un sí de ahora como prueba de que pudo elegir antes. La falta de ensalada permite ofrecer otra guarnición; una consulta posterior no recupera la decisión que debía acompañar esa excepción.",
+    "cloze": "Desestimaríamos",
+    "answer": "Desestimaríamos",
+    "lemma": "desestimar",
+    "meaning": "we would dismiss",
+    "audio": "work/audio/es-MX/06/es-06-0259.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0260",
+    "sentence": "La exposición publica testimonios sin nombre y asegura que la entrevistadora comprueba cada relato con documentos guardados en privado. Un visitante exige conocer la identidad de una fuente para creerle. La encargada admite que, para ese relato, tampoco encuentra los documentos de comprobación. Deslindemos lo que podemos defender de lo que falta acreditar: no publicar el nombre respeta la protección anunciada, pero impide usar la identificación pública como respuesta. Debemos aclarar si se hizo esa comprobación sin revelar la identidad ni dar por falso el relato.",
+    "cloze": "Deslindemos",
+    "answer": "Deslindemos",
+    "lemma": "deslindar",
+    "meaning": "let us distinguish",
+    "audio": "work/audio/es-MX/06/es-06-0260.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0261",
+    "sentence": "El servicio no responde consultas los domingos, pero promete enviar un acuse inmediato y atender el lunes según la fecha de recepción, incluidos los mensajes del domingo. La pantalla confirma que recibió el suyo hoy; no llegó el acuse ni la respuesta. El encargado dice que lo registrará como recibido cuando mande el acuse mañana. Suspendería el juicio sobre la respuesta hasta el lunes, pero no aceptaría que esa espera cambie su lugar en la fila: debe conservarse la fecha de recepción del domingo aunque el acuse llegue tarde.",
+    "cloze": "Suspendería",
+    "answer": "Suspendería",
+    "lemma": "suspender",
+    "meaning": "I would suspend",
+    "audio": "work/audio/es-MX/06/es-06-0261.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0262",
+    "sentence": "En este ejercicio de dibujo permitimos inventar las proporciones, pero pedimos que la sombra sea una copia de la silueta que cada quien elija, con la misma forma y el mismo tamaño. Una alumna dibuja una mano enorme con la sombra de una mano pequeña y dice que ambas formas son libres. No penalicemos la mano enorme para hacerla coincidir con esa sombra: la libertad de elegir su tamaño cambia la sombra que corresponde dibujar. Su elección está permitida; la objeción al desajuste sigue siendo válida y puede atenderse cambiando la sombra.",
+    "cloze": "penalicemos",
+    "answer": "penalicemos",
+    "lemma": "penalizar",
+    "meaning": "penalize",
+    "audio": "work/audio/es-MX/06/es-06-0262.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0263",
+    "sentence": "Al editar la entrevista permitimos quitar repeticiones que no cambien el sentido y prometimos conservar las dudas de la autora. Ella dijo «Quizá, quizá mejore el ritmo. Quizá pierda claridad». Dejamos «Quizá mejore el ritmo. Pierde claridad». La repetición de la palabra no nos excusa por presentar la pérdida de claridad como segura: el primer recorte elimina una vacilación dentro de la misma duda; el segundo elimina la duda de otra afirmación. Podemos conservar el primer recorte y devolver el segundo «quizá».",
+    "cloze": "nos excusa",
+    "answer": "nos excusa",
+    "lemma": "excusar",
+    "meaning": "excuses us",
+    "audio": "work/audio/es-MX/06/es-06-0263.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0264",
+    "sentence": "La tarea permite que otra persona escriba lo que el alumno dicta, pero pide que la explicación sea suya. Luis dictó un comentario; su hermana le sugirió un motivo distinto para la partida del personaje y él desarrolló ese motivo con sus propias palabras. Reevaluemos esa parte de la explicación sin descartar lo que había dictado antes: borrar la sugerencia escrita no vuelve independiente el razonamiento que nació de ella. La ayuda con el teclado sigue permitida; falta ver qué explicación puede sostener Luis sin aquel aporte.",
+    "cloze": "Reevaluemos",
+    "answer": "Reevaluemos",
+    "lemma": "reevaluar",
+    "meaning": "let us reassess",
+    "audio": "work/audio/es-MX/06/es-06-0264.mp3",
+    "accepted_answers": [
+      "Revaluemos"
+    ]
+  },
+  {
+    "id": "es-06-0265",
+    "sentence": "El curso permite demostrar lo aprendido en grupo o a solas y promete que ambas vías sirven para obtener la constancia de este ciclo, siempre después de la demostración. La evaluación cierra el viernes, pero a Eva solo le ofrecieron un turno individual el lunes siguiente. Ella reclama la constancia desde ahora. No aceptaría que se cierre su evaluación por no haber asistido al grupo: el calendario ofrecido vuelve inútil la alternativa permitida. Debe conservar una oportunidad de demostrar lo aprendido, sin que eso justifique darle la constancia antes de hacerlo.",
+    "cloze": "se cierre",
+    "answer": "se cierre",
+    "lemma": "cerrar",
+    "meaning": "be closed",
+    "audio": "work/audio/es-MX/06/es-06-0265.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0266",
+    "sentence": "La fotógrafa admite cambiar los colores de su serie sobre un juego y asegura que las imágenes permiten distinguir a los dos equipos por sus playeras. En el original, un equipo viste de azul y otro de rojo; en la edición, todas las playeras quedaron verdes. Esa igualación desborda la libertad de color que invoca ante la queja: puede elegir otros tonos, pero aquí el contraste era lo que permitía distinguir los equipos. Corregirlo exige recuperar una diferencia visible, sin obligarla a restaurar los colores originales.",
+    "cloze": "desborda",
+    "answer": "desborda",
+    "lemma": "desbordar",
+    "meaning": "exceeds",
+    "audio": "work/audio/es-MX/06/es-06-0266.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0267",
+    "sentence": "Recomendé la posada como tranquila salvo durante las fiestas de la plaza, cuyas fechas, según su anuncio, siempre avisa antes de reservar. Usted reservó para esas fechas sin que la posada le avisara y llegó en plena fiesta. Rebajaría mi valoración de la información que ofrece, sin usar esa noche para negar la tranquilidad fuera de fiestas. Su queja por el aviso afecta precisamente la condición que debía permitirle elegir si aceptaba aquella excepción al silencio.",
+    "cloze": "Rebajaría",
+    "answer": "Rebajaría",
+    "lemma": "rebajar",
+    "meaning": "I would lower",
+    "audio": "work/audio/es-MX/06/es-06-0267.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0268",
+    "sentence": "El manual para usuarios habituales omite las operaciones que ya conocen y promete explicar los cambios. El botón Guardar conserva su nombre, pero ahora abre una selección de formato que antes no existía. Quitamos la nota que explicaba ese paso porque el botón no era nuevo. Una usuaria habitual dice que la guía la dejó sin saber cómo terminar. Yo restituiría esa nota: conocer el botón anterior no equivale a conocer la operación modificada. Su dificultad justifica explicar ese cambio, sin exigir que recuperemos toda la introducción.",
+    "cloze": "restituiría",
+    "answer": "restituiría",
+    "lemma": "restituir",
+    "meaning": "I would restore",
+    "audio": "work/audio/es-MX/06/es-06-0268.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0269",
+    "sentence": "La muestra permite completar los huecos del mural con detalles imaginados y promete distinguirlos de lo que se conserva. Una figura tiene la mano original y una espada recién inventada para llenar un hueco; la cédula presenta toda la figura como antigua. Un visitante pide retirarla entera porque la espada no tiene respaldo. Rotulemos la espada como reconstrucción imaginada: así reconocemos la objeción a su presentación como antigua sin quitar una adición permitida ni convertir también la mano conservada en una conjetura.",
+    "cloze": "Rotulemos",
+    "answer": "Rotulemos",
+    "lemma": "rotular",
+    "meaning": "let us label",
+    "audio": "work/audio/es-MX/06/es-06-0269.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0270",
+    "sentence": "En el club se permite saltarse capítulos, pero al recomendar hay que explicar qué partes se conocen. Mario leyó el principio y el último capítulo; solo dijo «Llegué hasta el final». Una compañera reclama que eso le hizo creer que conocía también el desarrollo. Presentemos su lectura como salteada al aclararlo: llegar al final es cierto y no tenía obligación de leer todo, pero ese dato oculta los huecos que su libertad de lectura hacía necesario explicar para valorar la recomendación.",
+    "cloze": "salteada",
+    "answer": "salteada",
+    "lemma": "salteado",
+    "meaning": "selective and nonconsecutive",
+    "audio": "work/audio/es-MX/06/es-06-0270.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0271",
+    "sentence": "La escuela prometió indicar qué trabajos tenían autoría compartida, aunque quienes lo pidieran podían aparecer sin nombre. Julia y otra alumna hicieron juntas un collage; la segunda pidió esa protección. La cédula dice «Autora única: Julia» y la otra alumna protesta. Yo repondría la mención de la colaboración sin añadir su nombre: omitir su identidad respeta lo permitido, pero convertir por eso el trabajo en una obra individual cambia precisamente la relación entre aportaciones que la escuela se comprometió a mostrar.",
+    "cloze": "repondría",
+    "answer": "repondría",
+    "lemma": "reponer",
+    "meaning": "I would restore",
+    "audio": "work/audio/es-MX/06/es-06-0271.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0272",
+    "sentence": "Para elegir libro acordamos votar sin nombre, con una sola papeleta por persona. Diego reconoce que depositó dos y dice que, como son anónimas, no hay nada que discutir. No reclamemos los nombres de todos para responderle: el anonimato sigue siendo parte del acuerdo, pero no vuelve válida su segunda papeleta. Tenemos que resolver esa duplicación conservando la protección de los demás, aunque todavía no sepamos cómo distinguir las dos papeletas.",
+    "cloze": "reclamemos",
+    "answer": "reclamemos",
+    "lemma": "reclamar",
+    "meaning": "demand",
+    "audio": "work/audio/es-MX/06/es-06-0272.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0273",
+    "sentence": "El taller atiende las consultas por orden de llegada, pero permite recoger piezas listas sin esperar ese turno. Un cliente que llegó después de mí recogió su pieza y enseguida empezó a recibir asesoría. El encargado dice que su visita estaba exenta de la fila. Reubicaría al cliente en la fila para la asesoría pendiente: recoger la pieza antes que yo estaba permitido; al pasar de recoger a consultar cambió la condición que justificaba aquella prioridad. Mi queja no exige deshacer la entrega, sino respetar el orden para el nuevo servicio.",
+    "cloze": "Reubicaría",
+    "answer": "Reubicaría",
+    "lemma": "reubicar",
+    "meaning": "I would move",
+    "audio": "work/audio/es-MX/06/es-06-0273.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0274",
+    "sentence": "El taller vende cuadernos cosidos a mano, con distancias variables entre las puntadas, y garantiza que todas las hojas quedan sujetas. En el nuestro, una hoja más corta queda entre dos puntadas muy separadas y se sale. El vendedor atribuye ese hueco al acabado manual permitido. Insistiríamos en añadir una puntada donde se suelta la hoja, sin pedir que toda la costura quede pareja: la separación puede variar, pero en ese punto dejó de cumplir la función que también se garantizó.",
+    "cloze": "Insistiríamos",
+    "answer": "Insistiríamos",
+    "lemma": "insistir",
+    "meaning": "we would insist",
+    "audio": "work/audio/es-MX/06/es-06-0274.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0275",
+    "sentence": "La aplicación de notas avisa que durante la prueba pueden cambiar los menús, pero que anunciará cada cambio e indicará dónde quedaron las funciones. Después de una actualización, una usuaria no encuentra el botón de búsqueda y no hubo aviso. Puntualicemos qué demuestra su caso: cambiar el botón de lugar estaba permitido; omitir la orientación anunciada no. Podemos reconocer esa falta sin afirmar todavía que se haya eliminado la búsqueda, pues nadie ha comprobado si está en otro menú.",
+    "cloze": "Puntualicemos",
+    "answer": "Puntualicemos",
+    "lemma": "puntualizar",
+    "meaning": "let us clarify",
+    "audio": "work/audio/es-MX/06/es-06-0275.mp3",
+    "accepted_answers": []
   }
 ]
