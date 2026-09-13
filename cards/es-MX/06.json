@@ -1998,5 +1998,255 @@
     "meaning": "I would attribute",
     "audio": "work/audio/es-MX/06/es-06-0200.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0201",
+    "sentence": "El archivo con sus notas que Julia ya abrió fuera de la plataforma satisface su petición de comprobar que puede llevarse sus notas. Ella pidió ver cómo las recuperaría si dejara de usarla; tú lo resumiste como una exigencia de que el sistema nunca falle y propusiste rechazarla por imposible. La prueba responde a la salida que Julia pidió comprobar. No necesitamos prometer un funcionamiento perfecto para contestar su objeción.",
+    "cloze": "satisface",
+    "answer": "satisface",
+    "lemma": "satisfacer",
+    "meaning": "meets",
+    "audio": "work/audio/es-MX/06/es-06-0201.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0202",
+    "sentence": "Mario preguntó «¿Mis ilustraciones van a aparecer como trabajo del coordinador?». Tú propones pedirle que retire su acusación de robo. Con la página de créditos, que ya distingue cada autor y su trabajo, despejaríamos la duda que planteó sin exigirle una retractación: hizo una pregunta sobre la atribución, y podemos mostrarle que sus dibujos llevan su nombre.",
+    "cloze": "despejaríamos",
+    "answer": "despejaríamos",
+    "lemma": "despejar",
+    "meaning": "we would clear up",
+    "audio": "work/audio/es-MX/06/es-06-0202.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0203",
+    "sentence": "Bety concedió que ahora escriben mejor, pero preguntó cuánto se debe al taller si también reciben tutoría. Mi compañero resume que niega cualquier mejora y quiere enseñarle los trabajos nuevos. Esa comparación no contrarrestaría su objeción: mostraría una mejora que ya aceptó. Como no tenemos datos que separen ambos apoyos, debemos presentar el taller como una posible contribución, sin atribuirle por sí solo el cambio.",
+    "cloze": "contrarrestaría",
+    "answer": "contrarrestaría",
+    "lemma": "contrarrestar",
+    "meaning": "would counter",
+    "audio": "work/audio/es-MX/06/es-06-0203.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0204",
+    "sentence": "En la entrevista, Elena dijo «No volvería» al preguntarle si regresaría con ese horario. Después objetó que el corte omitía la pregunta y parecía un rechazo a cualquier visita. Mi colega lo cuenta como si ella negara haber dicho esas palabras y quiere probar que sí se oyeron. Reincorporaría la pregunta al corte para responderle: Elena reconoce la frase; lo que cuestiona es que la presentemos sin la condición que limitaba su respuesta.",
+    "cloze": "Reincorporaría",
+    "answer": "Reincorporaría",
+    "lemma": "reincorporar",
+    "meaning": "I would put back",
+    "audio": "work/audio/es-MX/06/es-06-0204.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0205",
+    "sentence": "—Mi papá dice que nuestros avisos no le permiten organizarse: le escribimos cuando ya estamos en su puerta. Mi hermana lo cuenta como si dijera que nunca avisamos y propone mostrarle los mensajes para desmentirlo. —Esos mensajes le dan la razón: las horas de envío coinciden con nuestra llegada. Debemos reconocer que avisar así no le deja tiempo para cambiar sus planes; presentar esos mismos mensajes como defensa respondería a la ausencia de avisos que ella le atribuyó, no al problema de anticipación que él señaló.",
+    "cloze": "le dan la razón",
+    "answer": "le dan la razón",
+    "lemma": "dar la razón",
+    "meaning": "show that he is right",
+    "audio": "work/audio/es-MX/06/es-06-0205.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0206",
+    "sentence": "Rosa advirtió que pierde el hilo cuando se enciman las voces y que puede seguir la conversación si hablan por turnos. En la prueba se respetaron los turnos y ella siguió todo. El organizador resume que Rosa se quejó sin motivo, pues ya no tiene dificultad alguna, y quiere volver al formato anterior. Ese resultado no nos autoriza a quitar los turnos: comprueba la posibilidad de participar en las condiciones que Rosa pidió, sin demostrar que el problema haya desaparecido cuando se mezclan las voces.",
+    "cloze": "nos autoriza",
+    "answer": "nos autoriza",
+    "lemma": "autorizar",
+    "meaning": "entitles us",
+    "audio": "work/audio/es-MX/06/es-06-0206.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0207",
+    "sentence": "Rocío objetó nuestra lista: «La lista reconoce que yo coordiné, pero le atribuye a mi equipo las tareas que hizo Raúl». Tú dices que Rocío rechaza el reconocimiento y que, como Raúl es tu amigo y a ti te parece bien, podemos dejarla igual. Tu aprobación no convalidaría esa atribución: Rocío señaló quién hizo el trabajo. Hay que conservar su coordinación y reconocer a Raúl las tareas que ella identifica.",
+    "cloze": "convalidaría",
+    "answer": "convalidaría",
+    "lemma": "convalidar",
+    "meaning": "would validate",
+    "audio": "work/audio/es-MX/06/es-06-0207.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0208",
+    "sentence": "Eva cuestionó mi lectura del cuento: «Dices que el final lo absuelve, pero la última frase es que nadie volvió a confiar en él». Luis me aconseja defender los finales felices, como si Eva los rechazara. Contrapondría esa pérdida de confianza a mi idea de absolución: su objeción sí tiene respaldo en el cierre. Debo matizar mi interpretación, no atribuirle una preferencia literaria que no expresó.",
+    "cloze": "Contrapondría",
+    "answer": "Contrapondría",
+    "lemma": "contraponer",
+    "meaning": "I would set against",
+    "audio": "work/audio/es-MX/06/es-06-0208.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0209",
+    "sentence": "Silvia objeta el calendario propuesto: imprimiríamos el miércoles y pediríamos comentarios el jueves, cuando ya no servirían para corregir esa edición. Usted resume que ella quiere revisiones interminables y propone fijar un límite. El problema señalado se remedia pasando la consulta al lunes y cerrándola el martes: habría una oportunidad real de corregir antes de imprimir. Esa respuesta atiende el orden que Silvia cuestiona sin atribuirle una consulta permanente.",
+    "cloze": "se remedia",
+    "answer": "se remedia",
+    "lemma": "remediar",
+    "meaning": "is remedied",
+    "audio": "work/audio/es-MX/06/es-06-0209.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0210",
+    "sentence": "Raúl me reclamó que confirmé la salida aunque aún no sabía si podía ir; por eso dejó libre la tarde y perdió otra invitación. Mi hermana dice que simplemente se enojó porque falté y me aconseja explicarle cuánto trabajo tengo. Que mi confirmación le hizo perder otra opción, lo concedo; explicarle mi carga de trabajo no responde a ese reclamo. Le debo una disculpa por haber confirmado sin saber si podía.",
+    "cloze": "lo concedo",
+    "answer": "lo concedo",
+    "lemma": "conceder",
+    "meaning": "I concede that",
+    "audio": "work/audio/es-MX/06/es-06-0210.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0211",
+    "sentence": "Nora no predijo una sala vacía. Dijo «No sabemos si este horario les sirve a quienes cuidan niños; solo preguntamos a personas sin esa responsabilidad». Tú quieres responderle con una madre que sí puede venir, como si Nora hubiera negado esa posibilidad. Mi defensa del horario como resultado de una consulta representativa se tambalea por la selección de personas consultadas. Podemos consultar al grupo omitido; ese caso aislado no corrige cómo obtuvimos el supuesto respaldo.",
+    "cloze": "se tambalea",
+    "answer": "se tambalea",
+    "lemma": "tambalearse",
+    "meaning": "is undermined",
+    "audio": "work/audio/es-MX/06/es-06-0211.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0212",
+    "sentence": "Para cuestionar que sustituyamos la reunión familiar por un resumen, Ana dijo «Un menú no sustituye la comida: aquí también falta lo que hacemos juntos, conversar». Tú respondes que las familias no son restaurantes. Mantener una conversación breve junto con el resumen conciliaría la rapidez que buscamos con el intercambio que ella reclama. Su comparación distingue una lista de la experiencia; no afirma que una familia funcione como un restaurante.",
+    "cloze": "conciliaría",
+    "answer": "conciliaría",
+    "lemma": "conciliar",
+    "meaning": "would reconcile",
+    "audio": "work/audio/es-MX/06/es-06-0212.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0213",
+    "sentence": "—Héctor preguntó cómo abriríamos si se perdiera la bolsa donde guardamos los dos juegos de llaves; no dijo que la encargada fuera descuidada. Tú quieres defenderla mostrando que nunca ha perdido nada. —Su buen historial no nos ahorra responder a la posibilidad de perder ambos juegos que Héctor planteó. Darle un juego a Julia solo serviría si lo guardara aparte; nombrarla suplente y dejar ambos en la misma bolsa conservaría el problema. Podemos proponer esa separación sin anunciar como probable una pérdida que Héctor solo planteó como posibilidad.",
+    "cloze": "nos ahorra",
+    "answer": "nos ahorra",
+    "lemma": "ahorrar",
+    "meaning": "spares us",
+    "audio": "work/audio/es-MX/06/es-06-0213.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0214",
+    "sentence": "Luis concedió que el error pudo ser accidental, pero objetó que la misma persona copiara las cifras y diera por revisada la copia. Mi socia propone defender la honestidad de esa persona, como si Luis hubiera denunciado un engaño. Reexaminaría el reparto de la revisión: otra persona podría comparar la copia con el original. Esa respuesta atiende la falta de una comprobación aparte sin convertir la objeción al procedimiento en una acusación personal.",
+    "cloze": "Reexaminaría",
+    "answer": "Reexaminaría",
+    "lemma": "reexaminar",
+    "meaning": "I would reconsider",
+    "audio": "work/audio/es-MX/06/es-06-0214.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0215",
+    "sentence": "Mi mamá objetó el plan de la comida: mientras recibe a los invitados no puede servir; propuso servir después de que lleguen todos o que nosotros sirvamos durante la llegada. Mi hermano une ambas opciones y dice que exige ayuda y una comida más tarde. Yo sí puedo servir mientras ella recibe. Hacerme cargo en ese momento atendería su objeción sin retrasar la comida: es una de las alternativas que ella ofreció, no la mitad de un paquete obligatorio. Podemos mantener el horario sin ignorar la dificultad que señaló.",
+    "cloze": "atendería",
+    "answer": "atendería",
+    "lemma": "atender",
+    "meaning": "would address",
+    "audio": "work/audio/es-MX/06/es-06-0215.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0216",
+    "sentence": "Mi compañera acepta que en el cuarto vacío caben dos escritorios, pero objeta que lo anunciemos como espacio para trabajar juntas: con ambos puestos, las sillas no se pueden sacar. Tú cuentas que duda de las medidas de los escritorios y quieres volver a medirlos. Probar solo que entran los muebles desatendería la diferencia que ella señaló entre caber y poder trabajar. Para responderle, probemos si podemos sentarnos y levantarnos con las sillas y los dos escritorios colocados, antes de mantener ese anuncio.",
+    "cloze": "desatendería",
+    "answer": "desatendería",
+    "lemma": "desatender",
+    "meaning": "would disregard",
+    "audio": "work/audio/es-MX/06/es-06-0216.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0217",
+    "sentence": "Teresa objeta que en los subtítulos cambiamos «¡Qué puntual!» por «Ya llegaste», aunque el personaje llega tarde y recibe una mirada de reproche. Mi colega dice que Teresa exige copiar cada palabra y rechaza cualquier cambio de redacción. Escribir «Qué tarde llegas» no despoja al diálogo del reproche que Teresa señala, aunque cambie las palabras. Esa alternativa responde a la pérdida de tono que ella cuestiona; no necesitamos aceptar la prohibición de reformular que mi colega le atribuyó.",
+    "cloze": "despoja",
+    "answer": "despoja",
+    "lemma": "despojar",
+    "meaning": "strips",
+    "audio": "work/audio/es-MX/06/es-06-0217.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0218",
+    "sentence": "Omar objetó el anuncio de nuestro taller: «Puede ser buena idea, pero no lo presenten como una petición del barrio; fue una propuesta de ustedes y no la consultaron». Usted lo resumió como oposición al taller y preparó una lista de sus beneficios. Su objeción nos obliga a cambiar la justificación del anuncio: podemos presentarlo como propuesta nuestra y abrir la invitación, sin atribuirle una petición al barrio. La utilidad que Omar dejó abierta no demuestra un apoyo que no se consultó.",
+    "cloze": "nos obliga",
+    "answer": "nos obliga",
+    "lemma": "obligar",
+    "meaning": "requires us",
+    "audio": "work/audio/es-MX/06/es-06-0218.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0219",
+    "sentence": "Pablo objetó que la mesa armada no cabía por la puerta porque era más ancha que la abertura. Tú lo cuentas como una crítica a nuestra experiencia y quieres mostrarle otros montajes. Su argumento sobre el ancho lo rebate la medición que acabamos de hacer: la abertura mide noventa centímetros y la mesa, ochenta. Eso responde a la desigualdad que afirmó; nuestra experiencia no cambiaría esas medidas.",
+    "cloze": "lo rebate",
+    "answer": "lo rebate",
+    "lemma": "rebatir",
+    "meaning": "refutes it",
+    "audio": "work/audio/es-MX/06/es-06-0219.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0220",
+    "sentence": "Carla objeta nuestro cuadernillo: «En el mío faltan las instrucciones de armado que sí tiene la muestra». Mi compañero dice que exige revisar todos los ejemplares y rechaza la petición por imposible. La comparación que hicimos con Carla entre la muestra y su ejemplar desmonta la afirmación de que a su copia le faltan instrucciones: ambos tienen las mismas; en el suyo están al final. Podemos indicarle dónde encontrarlas sin atribuirle una exigencia universal ni afirmar que revisamos todo el tiraje.",
+    "cloze": "desmonta",
+    "answer": "desmonta",
+    "lemma": "desmontar",
+    "meaning": "disproves",
+    "audio": "work/audio/es-MX/06/es-06-0220.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0221",
+    "sentence": "Laura me reclamó que había prometido llamarla todas las noches y que el martes no llamé. Mi primo lo cuenta como una exigencia de que cambie de trabajo. El mensaje que Laura recibió dice «Te llamaré las noches que tenga libres», y el martes sí estuve libre. Ese mensaje limita la promesa, pero no me exime del incumplimiento del martes. Le responderé mostrando el alcance exacto de lo ofrecido y reconociendo que falté a lo prometido ese día; defender mi empleo contestaría una exigencia que no hizo.",
+    "cloze": "me exime",
+    "answer": "me exime",
+    "lemma": "eximir",
+    "meaning": "exempts me",
+    "audio": "work/audio/es-MX/06/es-06-0221.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0222",
+    "sentence": "Raquel dijo «Si ambas reseñas vienen de la misma nota, no son dos opiniones independientes». Tú lo cuentas como una acusación de copia y quieres exigirle pruebas. Conservamos borradores fechados, idénticos a las reseñas publicadas, que cada autor escribió por separado antes de que existiera esa nota. Mostrárselos disiparía la duda sobre esa dependencia concreta, sin demostrar por ello que sus valoraciones sean acertadas. Así respondemos a la reserva que Raquel planteó, sin pedirle que sostenga una acusación que no hizo.",
+    "cloze": "disiparía",
+    "answer": "disiparía",
+    "lemma": "disipar",
+    "meaning": "would dispel",
+    "audio": "work/audio/es-MX/06/es-06-0222.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0223",
+    "sentence": "En el club de lectura, Samuel pidió que el voto fuera secreto: le preocupa que después tengamos que justificar ante los demás el libro que elegimos. Mi amiga lo resume como una exigencia de no registrar quién votó y dice que así cualquiera podría votar dos veces. Registrar quién entrega una papeleta no vulneraría el secreto que Samuel pide, si el registro no permite relacionar a cada persona con su elección. Así podríamos comprobar quién ya votó sin hacer público su voto; la objeción de Samuel no exige renunciar a ese control.",
+    "cloze": "vulneraría",
+    "answer": "vulneraría",
+    "lemma": "vulnerar",
+    "meaning": "would violate",
+    "audio": "work/audio/es-MX/06/es-06-0223.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0224",
+    "sentence": "Lucía aceptó mi disculpa por divulgar nuestra conversación, pero pidió que no presentara ese perdón como prueba de que la conversación nunca fue privada. Mi amigo dice que aún rechaza la disculpa y propone repetirla hasta convencerla. Que me haya perdonado no legitimaría retrospectivamente la difusión: sabíamos que la conversación era privada. Al responderle, reconoceré ese límite ante el grupo y dejaré de usar su perdón para justificar lo que hice; insistir en que acepte otra disculpa le exigiría algo que ya concedió.",
+    "cloze": "legitimaría",
+    "answer": "legitimaría",
+    "lemma": "legitimar",
+    "meaning": "would justify",
+    "audio": "work/audio/es-MX/06/es-06-0224.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0225",
+    "sentence": "Mara aceptó que los adultos fijáramos la duración de la actividad, pero objetó que llamáramos «elección de los niños» a una votación donde solo incluimos nuestros temas. Tú dices que quiere entregarles toda la organización. Que un tema gane por mayoría no subsana la limitación que ella señala: los niños solo pudieron elegir entre nuestras propuestas. Podemos incluir temas que ellos propongan y conservar la duración fijada por los adultos; esa respuesta cambia lo que se somete a votación sin entregarles toda la organización.",
+    "cloze": "subsana",
+    "answer": "subsana",
+    "lemma": "subsanar",
+    "meaning": "remedies",
+    "audio": "work/audio/es-MX/06/es-06-0225.mp3",
+    "accepted_answers": []
   }
 ]
