@@ -4030,5 +4030,257 @@
     "accepted_answers": [
       "hubiese renunciado"
     ]
+  },
+  {
+    "id": "es-06-0401",
+    "sentence": "—Ya sabía que la cena era en casa de Eva; creí que tú también sabías que yo estaba enterado y tu recordatorio me molestó. —Eva me pidió que te avisara y acepté; no me dijo que también te había escrito. —Entonces te agradezco el aviso: cumpliste lo acordado sin saber que yo ya tenía esa información.",
+    "cloze": "agradezco",
+    "answer": "agradezco",
+    "lemma": "agradecer",
+    "meaning": "I thank",
+    "audio": "work/audio/es-MX/06/es-06-0401.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0402",
+    "sentence": "Le prometí llamarle cuando estuviera listo el marco. El taller nos avisó ayer a los dos y pensé que mi llamada ya sobraba. Usted aclara que esperaba esa llamada para acordar la recogida; el mensaje del taller solo decía «Listo». Le sigo debiendo ese contacto: conocer el resultado no resolvía lo que usted y yo habíamos quedado en hablar.",
+    "cloze": "sigo debiendo",
+    "answer": "sigo debiendo",
+    "lemma": "seguir debiendo",
+    "meaning": "I still owe",
+    "audio": "work/audio/es-MX/06/es-06-0402.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0403",
+    "sentence": "Yo le aseguré a Karla que ya habías recibido el horario, aunque solo había visto tu nombre entre los destinatarios. Ella, que había aceptado confirmar contigo que lo tenías, dejó de buscarte por mi respuesta. El correo había rebotado. Asumiré la corrección de esa falsa seguridad ante Karla; su compromiso de confirmar contigo sigue pendiente.",
+    "cloze": "Asumiré",
+    "answer": "Asumiré",
+    "lemma": "asumir",
+    "meaning": "I will take responsibility for",
+    "audio": "work/audio/es-MX/06/es-06-0403.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0404",
+    "sentence": "A ti te mandaron la hora del ensayo y a mí, el salón. Habíamos quedado en compartir cualquier dato nuevo; ninguno lo hizo porque creía que el otro ya tenía el aviso completo. Ahora tú esperas mi disculpa y yo, la tuya. No hagamos depender una de la otra: cada uno puede reconocer que no cumplió su parte.",
+    "cloze": "hagamos depender",
+    "answer": "hagamos depender",
+    "lemma": "hacer depender",
+    "meaning": "let us make dependent",
+    "audio": "work/audio/es-MX/06/es-06-0404.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0405",
+    "sentence": "Quedaste en asegurarte de que quienes exponen recibieran las correcciones. Le mandaste el archivo a Lucía porque creías que podía abrirlo y compartirlo; ella solo recibió un enlace sin permiso de acceso. Para dar por cumplido tu encargo, debías comprobar la recepción por parte de quienes exponen; tu acceso al archivo no establecía el de Lucía ni el de ellos.",
+    "cloze": "debías comprobar",
+    "answer": "debías comprobar",
+    "lemma": "deber comprobar",
+    "meaning": "you were supposed to check",
+    "audio": "work/audio/es-MX/06/es-06-0405.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0406",
+    "sentence": "Te mandaron el cambio de mesa y creíste que, como yo también estaba en el chat, avisaría a los invitados. Yo solo conocía la mesa original; tú habías aceptado avisarles. No descargues en mí esa tarea por dar por hecho que leí el mensaje. Ahora que me explicaste el cambio puedo ayudarte, pero ese apoyo necesita que lo acordemos.",
+    "cloze": "descargues",
+    "answer": "descargues",
+    "lemma": "descargar",
+    "meaning": "shift",
+    "audio": "work/audio/es-MX/06/es-06-0406.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0407",
+    "sentence": "Te pedí convocar al grupo porque creía que ya sabías que nos prestaban el salón. Yo recibí la confirmación; a ti solo te llegó «Estamos preguntando». No te puedo exigir una convocatoria definitiva con ese mensaje provisional. Primero debo pasarte el sí que recibí, y después podremos retomar el encargo que aceptaste para cuando se confirmara el salón.",
+    "cloze": "puedo exigir",
+    "answer": "puedo exigir",
+    "lemma": "poder exigir",
+    "meaning": "I can demand",
+    "audio": "work/audio/es-MX/06/es-06-0407.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0408",
+    "sentence": "Prometí mandarte la dirección si te faltaba. Luego me escribiste «Ya tengo la dirección completa», así que no la repetí. Ahora me reclamas que no enviara el número y aclaras que solo tenías la calle. Podía atenerme a tu confirmación al decidir si hacía falta el aviso; ahora te paso el número que no habías recibido.",
+    "cloze": "Podía atenerme",
+    "answer": "Podía atenerme",
+    "lemma": "poder atenerse",
+    "meaning": "I could rely",
+    "audio": "work/audio/es-MX/06/es-06-0408.mp3",
+    "accepted_answers": [
+      "Me podía atener"
+    ]
+  },
+  {
+    "id": "es-06-0409",
+    "sentence": "Me precipité al decir que rechazaste mi petición de prestarme la cámara: vi el mensaje abierto y creí que lo habías leído tú. Tu hermano lo abrió y solo te dijo que yo había escrito. Tú habías prometido revisar mis mensajes después del turno, que ya terminó. Por eso sigo pidiendo que leas la petición, sin exigirte motivos para un rechazo que no has expresado.",
+    "cloze": "sigo pidiendo",
+    "answer": "sigo pidiendo",
+    "lemma": "seguir pidiendo",
+    "meaning": "I am still asking",
+    "audio": "work/audio/es-MX/06/es-06-0409.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0410",
+    "sentence": "Le dije a Inés que tú sabías que necesitaba el archivo hoy. Ella te pidió explicaciones por no enviarlo y yo ya le aclaré que mi mensaje para ti solo decía «cuando puedas». También me disculpo contigo por esa afirmación: mi error no solo confundió a Inés, también hizo que te exigiera un plazo que no recibiste.",
+    "cloze": "me disculpo",
+    "answer": "me disculpo",
+    "lemma": "disculparse",
+    "meaning": "I apologize",
+    "audio": "work/audio/es-MX/06/es-06-0410.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0411",
+    "sentence": "Acordamos darme un día para ajustar el menú desde que recibiera los cambios. Tú los recibiste el lunes y creíste que la organizadora también me los había mandado; a mí me llegaron hoy. No me descuentes del plazo esos días en que seguí con la lista anterior. Que ahora tengamos la misma información no adelanta mi recepción.",
+    "cloze": "descuentes",
+    "answer": "descuentes",
+    "lemma": "descontar",
+    "meaning": "deduct",
+    "audio": "work/audio/es-MX/06/es-06-0411.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0412",
+    "sentence": "Te pedí que fueras a explicarle a Sara el cambio de ruta porque creía que seguía sin enterarse. Tú ya habías hablado con ella, pero pensaste que yo quería una segunda confirmación. Su respuesta muestra que conoce el recorrido completo. Dejo sin efecto esa visita: mi pedido era para informarla, no para comprobar otra vez lo que ya confirmó.",
+    "cloze": "Dejo sin efecto",
+    "answer": "Dejo sin efecto",
+    "lemma": "dejar sin efecto",
+    "meaning": "I cancel",
+    "audio": "work/audio/es-MX/06/es-06-0412.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0413",
+    "sentence": "Ada me aseguró que Omar conocía la nueva hora, por eso le reclamé que no avisara a sus alumnos, como había prometido hacer con cualquier cambio. Ahora ella aclara que solo lo supuso porque él estaba en el grupo. No sabemos si abrió el mensaje. Suspendamos el juicio sobre ese incumplimiento hasta aclararlo; retirar la suposición de Ada tampoco demuestra que Omar no supiera.",
+    "cloze": "Suspendamos",
+    "answer": "Suspendamos",
+    "lemma": "suspender",
+    "meaning": "let us suspend",
+    "audio": "work/audio/es-MX/06/es-06-0413.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0414",
+    "sentence": "Tu mensaje decía «Todos conocen el montaje», así que les pedí montar el puesto sin explicación. Ahora veo que a Elsa le mandaste el instructivo y a los demás solo una foto; Elsa aceptó explicarlo cuando llegaran. A ella le pediré esa explicación antes de exigir al grupo el montaje completo.",
+    "cloze": "pediré",
+    "answer": "pediré",
+    "lemma": "pedir",
+    "meaning": "I will ask for",
+    "audio": "work/audio/es-MX/06/es-06-0414.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0415",
+    "sentence": "Raúl me contó por qué dejó el club y me pidió que no lo comentara; acepté. Tú ya lo sabías por él y me reprochaste que no hablara del tema, pensando que Raúl también me había avisado de que te lo contó. Yo no recibí ese aviso. Seguía obligado a respetar su reserva: Raúl no había cambiado lo que me pidió, y saberlo los dos tampoco habría cancelado mi compromiso.",
+    "cloze": "Seguía obligado",
+    "answer": "Seguía obligado",
+    "lemma": "seguir obligado",
+    "meaning": "I was still obliged",
+    "audio": "work/audio/es-MX/06/es-06-0415.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0416",
+    "sentence": "Te ofreciste a avisar al grupo del cambio de sala y cumpliste. Yo dije que gracias a ti nadie se perdió, creyendo que los demás solo tenían la sala anterior. Después vimos que todos habían leído antes el aviso de la coordinadora; tú y yo no lo sabíamos. Sobrestimé la necesidad de tu mensaje para que llegaran, aunque sí cumpliste el encargo.",
+    "cloze": "Sobrestimé",
+    "answer": "Sobrestimé",
+    "lemma": "sobrestimar",
+    "meaning": "I overestimated",
+    "audio": "work/audio/es-MX/06/es-06-0416.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0417",
+    "sentence": "Te reclamé que no hubieras explicado a los vecinos el nuevo sistema de préstamo porque Olga me dijo que estabas enterado. Tú recibiste «Estamos revisando el sistema», sin los pasos nuevos, y habías aceptado avisar que habría cambios. Tampoco diste ese aviso. Acoto mi reclamo a ese anuncio general; explicar pasos que no te enviaron quedaba fuera del encargo.",
+    "cloze": "Acoto",
+    "answer": "Acoto",
+    "lemma": "acotar",
+    "meaning": "I limit",
+    "audio": "work/audio/es-MX/06/es-06-0417.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0418",
+    "sentence": "Luisa te preguntó si ya tenías la ubicación y tú aceptaste contestarle. La recibiste por otro chat, pero crees que responder sobra porque Luisa conoce el lugar. Ella no sabe si su mensaje te llegó. A esa pregunta sí debes responder para que sepa que ya tienes la ubicación.",
+    "cloze": "debes responder",
+    "answer": "debes responder",
+    "lemma": "deber responder",
+    "meaning": "you must answer",
+    "audio": "work/audio/es-MX/06/es-06-0418.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0419",
+    "sentence": "En el relevo me preguntaste si conocía los pedidos pendientes y dije que sí; creí que hablabas de la lista general. Tú entendiste que también conocía las entregas de hoy. Solo me habían dado los nombres, sin fechas. Completemos el relevo con las fechas que todavía me faltan; al contestarte que sí, no distinguí entre conocer los nombres y saber cuándo debía atender cada pedido.",
+    "cloze": "Completemos",
+    "answer": "Completemos",
+    "lemma": "completar",
+    "meaning": "let us complete",
+    "audio": "work/audio/es-MX/06/es-06-0419.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0420",
+    "sentence": "Me reclamas que no haya ido por ti porque dabas por hecho que yo sabía que no conocías el barrio. Tú solo me mandaste el nombre del café, sin pedir traslado; yo pensé que sabías llegar. Ahora que aclaraste tu dificultad, negociemos ese favor si todavía lo necesitas; enterarme no equivale a haber aceptado ir por ti.",
+    "cloze": "negociemos",
+    "answer": "negociemos",
+    "lemma": "negociar",
+    "meaning": "let us negotiate",
+    "audio": "work/audio/es-MX/06/es-06-0420.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0421",
+    "sentence": "Le reclamé a Daniel que no te avisara del cambio de puerta, pensando que habías perdido la visita por eso. Tú recibiste el aviso de la anfitriona y llegaste a tiempo; Daniel no sabía de ese mensaje y había aceptado escribirte antes de salir. Reoriento mi reclamo hacia ese compromiso suyo, sin afirmar que por él desconocías la puerta o perdiste la visita.",
+    "cloze": "Reoriento",
+    "answer": "Reoriento",
+    "lemma": "reorientar",
+    "meaning": "I refocus",
+    "audio": "work/audio/es-MX/06/es-06-0421.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0422",
+    "sentence": "Me pediste reenviar literalmente lo que Fer contestara sobre el cambio, y eso hice: «Ya me avisaron». Tú tomaste esa respuesta como conocimiento del horario nuevo; Fer solo había recibido el precio nuevo. Para cumplir mi encargo bastaba conservar sus palabras, como acordamos; tu interpretación no convierte ese reenvío en una garantía mía de haber comprobado qué sabía Fer.",
+    "cloze": "bastaba",
+    "answer": "bastaba",
+    "lemma": "bastar",
+    "meaning": "it was enough",
+    "audio": "work/audio/es-MX/06/es-06-0422.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0423",
+    "sentence": "Aceptaste avisarme de cualquier problema al enviar las invitaciones. Mandaste el archivo y pensaste que yo también veía las respuestas, pero solo tú recibiste el mensaje privado de Ana: «No puedo abrirlo». Yo creía que todos podían leer la invitación. Te faltó avisarme de esa respuesta; tener yo el archivo no me daba acceso a los mensajes que te llegaban a ti.",
+    "cloze": "faltó",
+    "answer": "faltó",
+    "lemma": "faltar",
+    "meaning": "was left undone",
+    "audio": "work/audio/es-MX/06/es-06-0423.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0424",
+    "sentence": "Le pedimos a Inés que informara al grupo del cambio de horario y ella aceptó. Tú recibiste el cambio directamente y suponías que todos estaban igual de enterados; por eso le dijiste que no interrumpiera la reunión con ese aviso. Los demás solo tenían el horario anterior. No podemos reclamar que termine el encargo y a la vez impedirle dar la información que todavía les falta.",
+    "cloze": "podemos reclamar",
+    "answer": "podemos reclamar",
+    "lemma": "poder reclamar",
+    "meaning": "we can demand",
+    "audio": "work/audio/es-MX/06/es-06-0424.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0425",
+    "sentence": "Yo le dije a Vera que tú ya conocías la cancelación; tú, sin haber recibido el aviso, le prometiste acompañarla a la función. Ella tomó tu promesa como una burla. Ahora los tres sabemos que se canceló. Reconozcamos responsabilidades distintas: yo debo corregir lo que afirmé sobre ti; tú debes hablar con ella sobre la salida que prometiste, sin aceptar que ofreciste algo que sabías cancelado.",
+    "cloze": "Reconozcamos",
+    "answer": "Reconozcamos",
+    "lemma": "reconocer",
+    "meaning": "let us acknowledge",
+    "audio": "work/audio/es-MX/06/es-06-0425.mp3",
+    "accepted_answers": []
   }
 ]
