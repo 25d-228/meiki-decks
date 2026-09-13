@@ -3000,5 +3000,255 @@
     "meaning": "be treated as established",
     "audio": "work/audio/es-MX/06/es-06-0300.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0301",
+    "sentence": "Mi hermana contó que mamá desconfiaba del viaje y añadió que yo compartía esa duda. Yo había tomado su relato como motivo para preocuparme también. Mamá niega haber hablado del viaje con ella. Ahora me desmarco del supuesto acuerdo entre mamá y yo: mi reserva dependía de una opinión suya que está en disputa, no de un cálculo propio. Eso tampoco garantiza que lleguemos a tiempo.",
+    "cloze": "me desmarco",
+    "answer": "me desmarco",
+    "lemma": "desmarcarse",
+    "meaning": "I distance myself",
+    "audio": "work/audio/es-MX/06/es-06-0301.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0302",
+    "sentence": "Eva escribió: «El narrador dice que sospecha del hermano, pero no creo que de verdad sospeche de él». Al contar esa lectura, dije que Eva desconfiaba del narrador. Ella lo niega: «Yo nunca declaré inocente al hermano». Con su mensaje puedo dar fe de su duda sobre la sinceridad del narrador; la negativa de Eva no la borra ni nos dice qué piensa de la culpa del hermano.",
+    "cloze": "puedo dar fe",
+    "answer": "puedo dar fe",
+    "lemma": "poder dar fe",
+    "meaning": "I can attest",
+    "audio": "work/audio/es-MX/06/es-06-0302.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0303",
+    "sentence": "Recomendaste el cuarto diciendo que Nora había confirmado el silencio que yo describí. Nora niega haberlo confirmado: solo leyó mi mensaje. Yo pasé allí otra noche tranquila. Aun así, avalo su objeción a que la cites como segunda testigo; comprobar de nuevo lo que conté no convierte su lectura en una observación. Si mantienes tu recomendación, no la presentes como respaldada por Nora.",
+    "cloze": "avalo",
+    "answer": "avalo",
+    "lemma": "avalar",
+    "meaning": "I stand behind",
+    "audio": "work/audio/es-MX/06/es-06-0303.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0304",
+    "sentence": "Mi tío dice que la maestra primero negó el cambio de grupo que anunció mi primo y después se retractó. Ella aclara: «Primero dije que no había visto el aviso; hoy ya lo vi, pero no sé si sigue vigente». Mi tío quiere anunciar que la maestra confirmó el cambio. Yo sigo dudando de que ella haya pasado del rechazo al apoyo: antes no negaba el cambio y ahora tampoco confirma su vigencia.",
+    "cloze": "sigo dudando",
+    "answer": "sigo dudando",
+    "lemma": "seguir dudando",
+    "meaning": "I still doubt",
+    "audio": "work/audio/es-MX/06/es-06-0304.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0305",
+    "sentence": "La reseña dice que Inés respaldó la queja del actor sobre el ensayo. Inés niega haber hablado con él y el reseñista admite que confundió su nombre. El actor mantiene la queja y me exige retirar por eso mi crítica a la reseña. Aun así, doy por refutada la atribución a Inés: mantener la queja no devuelve un respaldo que el propio reseñista reconoció haber asignado mal.",
+    "cloze": "doy por refutada",
+    "answer": "doy por refutada",
+    "lemma": "dar por refutado",
+    "meaning": "I consider disproved",
+    "audio": "work/audio/es-MX/06/es-06-0305.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0306",
+    "sentence": "—Yo apoyaría la lectura de Laura si, como cuenta Omar, ella compartiera la idea de mi hermana de que el final es una reconciliación. —Omar admite que solo oyó a Laura repetir esa idea; no sabe si la apoya. —Entonces suscribiría esa lectura si Laura la defendiera con el texto, pero no voy a presentar su repetición como un acuerdo ni mi apoyo condicionado como una postura ya tomada.",
+    "cloze": "suscribiría",
+    "answer": "suscribiría",
+    "lemma": "suscribir",
+    "meaning": "I would endorse",
+    "audio": "work/audio/es-MX/06/es-06-0306.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0307",
+    "sentence": "Mi compañera dice que la editora desmintió a Pablo y que mi resumen recogió ese rechazo. La editora escribió: «Pablo mantiene su explicación; yo no la he comprobado». Yo había resumido que, según ella, Pablo no se había retractado. Me ratifico en ese punto. Mi compañera no puede presentar esta defensa como un cambio de bando: ni resumí un desmentido de la editora ni estoy adoptando la explicación de Pablo.",
+    "cloze": "Me ratifico",
+    "answer": "Me ratifico",
+    "lemma": "ratificarse",
+    "meaning": "I reaffirm my position",
+    "audio": "work/audio/es-MX/06/es-06-0307.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0308",
+    "sentence": "—Tú dijiste que Abril consideraba convincente la sospecha de Sonia de que cambiaron la lista. Abril ahora dice que solo le pareció bien redactada la queja. —Te concedo que ya no puedo presentar a Abril como apoyo de la sospecha. Pero tú tampoco puedes citarla como alguien que les dio la razón a quienes la rechazaron. Su aclaración nos deja sin ese respaldo a los dos; comparar las listas sigue pendiente.",
+    "cloze": "Te concedo",
+    "answer": "Te concedo",
+    "lemma": "conceder",
+    "meaning": "I concede to you",
+    "audio": "work/audio/es-MX/06/es-06-0308.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0309",
+    "sentence": "La encargada me pide decidir si Marta inventó una petición de cambio de fecha: según ella, Luis negó haberla recibido. Luis aclara que negó haberla recibido de Marta; sí le llegó un mensaje reenviado, cuyo origen desconoce. Yo me pronunciaría sobre esa acusación cuando aclaremos de quién era el mensaje. Su respuesta ya impide sostener que no recibió nada, pero todavía no permite atribuirle a Marta lo que le llegó.",
+    "cloze": "me pronunciaría",
+    "answer": "me pronunciaría",
+    "lemma": "pronunciarse",
+    "meaning": "I would take a position",
+    "audio": "work/audio/es-MX/06/es-06-0309.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0310",
+    "sentence": "Mi hermano dice que Paula anunció que mi tía había retirado la invitación. Paula lo niega: recuerda haber dicho que no podía confirmarla. Hoy mi tía me vuelve a invitar. No doy por sentado que eso desmienta lo que mi hermano contó: la invitación de hoy me permite ir, pero no aclara si antes mi tía la canceló ni qué anunció Paula.",
+    "cloze": "doy por sentado",
+    "answer": "doy por sentado",
+    "lemma": "dar por sentado",
+    "meaning": "I take for granted",
+    "audio": "work/audio/es-MX/06/es-06-0310.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0311",
+    "sentence": "En el taller dijeron que Leo había hecho suya la crítica de Mara porque la explicó sin errores. Él responde que estaba reconstruyendo el argumento para discutirlo. El ejemplo que añadió sí apoya una parte de la crítica, y lo acepto; no demuestra que Leo haya hecho suya la conclusión completa. Puedo usar ese ejemplo al valorarla, pero no citar a Leo como alguien que ya la respalda.",
+    "cloze": "haya hecho suya",
+    "answer": "haya hecho suya",
+    "lemma": "hacer suyo",
+    "meaning": "has adopted as his own",
+    "audio": "work/audio/es-MX/06/es-06-0311.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0312",
+    "sentence": "Usted cuenta que la ayudante le transmitió una garantía de la anfitriona de que el salón estaría abierto. La ayudante conserva su mensaje, «Voy a preguntar si abren», y niega haber anunciado una garantía. Tengo por cierto que usted recibió una respuesta provisional, pues vimos juntos ese mensaje; no que la anfitriona prometiera abrir. Para planear la visita, esa promesa sigue sin una fuente confirmada.",
+    "cloze": "Tengo por cierto",
+    "answer": "Tengo por cierto",
+    "lemma": "tener por cierto",
+    "meaning": "I regard as certain",
+    "audio": "work/audio/es-MX/06/es-06-0312.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0313",
+    "sentence": "El director escribió que compartía la duda de una maestra sobre la continuidad del taller. Ella niega haber expresado esa duda; él aclara que la dedujo de una pregunta suya, pero mantiene su propia incertidumbre. No me aventuraría a anunciar que el director ya confía en la continuidad solo porque retiró la referencia a la maestra. Su aclaración rompe el supuesto acuerdo entre ambos, no retira la duda que él acaba de sostener.",
+    "cloze": "me aventuraría",
+    "answer": "me aventuraría",
+    "lemma": "aventurarse",
+    "meaning": "I would venture",
+    "audio": "work/audio/es-MX/06/es-06-0313.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0314",
+    "sentence": "Diego dice que ya cambié de opinión dos veces: retiré mi recomendación del libro porque la bibliotecaria negó haber respaldado su reseña y hoy volví a recomendarlo tras probar sus ejercicios. No es cierto que me haya retractado de la recomendación: retiré mi afirmación de que ambos coincidían cuando ella aclaró que aún no lo leía. La prueba de hoy refuerza mi opinión; no confirma las dos vueltas que él me atribuye.",
+    "cloze": "me haya retractado",
+    "answer": "me haya retractado",
+    "lemma": "retractarse",
+    "meaning": "I have retracted",
+    "audio": "work/audio/es-MX/06/es-06-0314.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0315",
+    "sentence": "La vecina escribió que el encargado había confirmado su explicación del apagón. Él lo niega; su mensaje dice «No sé por qué se apagaron las luces». Después se comprobó la falla que ella señalaba. Aun así, no podría sostener que el encargado ya le había dado la razón cuando escribió: la comprobación me permite aceptar la causa, pero no convertir aquella incertidumbre en el respaldo que ella reclama.",
+    "cloze": "podría sostener",
+    "answer": "podría sostener",
+    "lemma": "poder sostener",
+    "meaning": "I could maintain",
+    "audio": "work/audio/es-MX/06/es-06-0315.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0316",
+    "sentence": "—La reseñista dice que el autor respalda nuestra lectura del final porque aprobó la entrevista. Él responde que solo revisó que sus palabras estuvieran bien copiadas. Entonces digamos que el autor rechaza nuestra lectura y defendámosla contra él. —No me comprometería con esa presentación: la aclaración nos quita su supuesto apoyo, pero no lo convierte en adversario. Podemos defender nuestra lectura sin atribuirle una posición que sigue sin expresar.",
+    "cloze": "me comprometería",
+    "answer": "me comprometería",
+    "lemma": "comprometerse",
+    "meaning": "I would commit myself",
+    "audio": "work/audio/es-MX/06/es-06-0316.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0317",
+    "sentence": "Mi prima dice que Tomás fue testigo de la discusión y desmintió mi versión; según ella, yo admití estar equivocado por eso. Tomás aclara: «Solo negué haber estado ahí». Yo he cuestionado que mi prima lo presentara como testigo capaz de desmentirme; no he retirado lo que recuerdo. Su aclaración me da razones para mantener esa objeción, no para aceptar la confesión de error que ella me atribuye.",
+    "cloze": "he cuestionado",
+    "answer": "he cuestionado",
+    "lemma": "cuestionar",
+    "meaning": "I have questioned",
+    "audio": "work/audio/es-MX/06/es-06-0317.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0318",
+    "sentence": "Para el resumen, Ana afirma que el músico abandonó su crítica al festival porque su representante negó haberla autorizado. El músico responde: «La crítica es mía; nunca dije que mi representante la aprobara». No veo base para afirmar que el músico se haya desdicho. La respuesta del representante impide atribuirle respaldo a él; no permite escribir que el músico retiró una crítica que acaba de mantener.",
+    "cloze": "se haya desdicho",
+    "answer": "se haya desdicho",
+    "lemma": "desdecirse",
+    "meaning": "has taken back his words",
+    "audio": "work/audio/es-MX/06/es-06-0318.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0319",
+    "sentence": "Ustedes dicen que no le creo a Clara porque cuestioné que Hugo hubiera confirmado su queja. Él reconoce que cuando yo hice esa objeción solo había reenviado el mensaje, pero dice que después habló con otros testigos. Que Hugo siga sin tener otra base, lo pongo en duda; falta escuchar qué averiguó. Ustedes no pueden convertir mi reserva de entonces en una desconfianza permanente hacia Clara ni yo descartar lo nuevo sin escucharlo.",
+    "cloze": "lo pongo en duda",
+    "answer": "lo pongo en duda",
+    "lemma": "poner en duda",
+    "meaning": "I call it into question",
+    "audio": "work/audio/es-MX/06/es-06-0319.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0320",
+    "sentence": "El hermano de Irene dice que ella atribuye al narrador la certeza de que el padre volverá. Irene lo niega y pide dejar el regreso sin resolver: «La frase “Estoy segura de que volverá” la dice la hija». Ahora nos proponen cerrar el resumen con que el padre no vuelve. Haría mía la reserva de Irene al resumir el final: corregir a quién pertenece esa certeza no permite convertir la certeza de la hija en un error.",
+    "cloze": "Haría mía",
+    "answer": "Haría mía",
+    "lemma": "hacer suyo",
+    "meaning": "I would adopt as my own",
+    "audio": "work/audio/es-MX/06/es-06-0320.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0321",
+    "sentence": "Una asistente contó que la intérprete había garantizado que todos entendieron la explicación. Ella aclaró: «Solo confirmé que terminé de interpretar; no comprobé si todos entendieron». Los organizadores lo resumen como si hubiera dicho que nadie entendió. Nos consta que negó haber verificado la comprensión, pues escuchamos la aclaración completa. Eso nos permite corregir a los organizadores, pero no anunciar a las familias que la explicación fracasó.",
+    "cloze": "Nos consta",
+    "answer": "Nos consta",
+    "lemma": "constar",
+    "meaning": "we know for a fact",
+    "audio": "work/audio/es-MX/06/es-06-0321.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0322",
+    "sentence": "En tu nota afirmas que Vera ya estaba de acuerdo con Julia cuando yo te lo conté. Vera lo niega y conserva un mensaje de ese día: «Todavía estoy pensando lo que Julia propone». Yo te había dicho que Vera estaba considerando la propuesta. Puedo responder por esa formulación, pero no por el acuerdo que publicaste; tampoco usaré su reserva de entonces para asegurar que hoy siga indecisa.",
+    "cloze": "Puedo responder",
+    "answer": "Puedo responder",
+    "lemma": "poder responder por",
+    "meaning": "I can take responsibility",
+    "audio": "work/audio/es-MX/06/es-06-0322.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0323",
+    "sentence": "Alma dice que yo presenté como probada la sospecha de su hermano. Conservo mi mensaje: «Él sospecha que la lista cambió; no la he visto». Me pide retirar la supuesta confirmación. Me retractaré si aparece una afirmación mía que sí la confirme; por ahora defiendo esa cita con su reserva. Eso no desacredita la sospecha del hermano ni convierte mi falta de comprobación en un desmentido de él.",
+    "cloze": "Me retractaré",
+    "answer": "Me retractaré",
+    "lemma": "retractarse",
+    "meaning": "I will retract",
+    "audio": "work/audio/es-MX/06/es-06-0323.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0324",
+    "sentence": "El papá de Nico niega haber dicho que el niño rechazó el taller. La maestra conserva una nota que tomó durante la llamada: «Nico no quiere regresar», pero no grabó la conversación. Yo daría crédito a que ella anotó lo que entendió, sin presentar esa nota como prueba definitiva de las palabras del papá ni de lo que siente Nico. La negativa obliga a dejar abierta esa diferencia.",
+    "cloze": "daría crédito",
+    "answer": "daría crédito",
+    "lemma": "dar crédito",
+    "meaning": "I would give credence",
+    "audio": "work/audio/es-MX/06/es-06-0324.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0325",
+    "sentence": "El cronista dice que la cantante expresó desconfianza hacia la explicación del organizador. Ella lo niega, pero escuchamos su respuesta completa: «No le creo esa explicación». Ahora habrá que admitir que sí expresó desconfianza, aunque hoy lo niegue. El cronista puede sostener esa atribución, pero no anunciar por eso que la explicación quedó refutada. Seguimos sin saber qué pasó con el sonido.",
+    "cloze": "habrá que admitir",
+    "answer": "habrá que admitir",
+    "lemma": "haber que admitir",
+    "meaning": "we will have to acknowledge",
+    "audio": "work/audio/es-MX/06/es-06-0325.mp3",
+    "accepted_answers": []
   }
 ]
