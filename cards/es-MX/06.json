@@ -3250,5 +3250,257 @@
     "meaning": "we will have to acknowledge",
     "audio": "work/audio/es-MX/06/es-06-0325.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0326",
+    "sentence": "El maestro atribuye los mejores resultados a la guía; mi hermana dice que los alumnos solo memorizaron el examen anterior. Acepto que muchas preguntas se repitieron. Sin embargo, también resolvieron problemas nuevos del tipo que explica la guía. No niego que esta haya contribuido al aprendizaje; tampoco acepto la certeza del maestro sobre toda la mejora, porque los aciertos en preguntas repetidas siguen admitiendo la explicación de mi hermana.",
+    "cloze": "haya contribuido",
+    "answer": "haya contribuido",
+    "lemma": "contribuir",
+    "meaning": "has contributed",
+    "audio": "work/audio/es-MX/06/es-06-0326.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0327",
+    "sentence": "—Nadie objetó el cambio en la reunión. Para mí estaban de acuerdo; para ti, les daba pena hablar. —Sí, nadie lo objetó ahí. Pero las respuestas anónimas contienen rechazos al cambio. No daría por buena tu explicación de un acuerdo general: esas respuestas la contradicen. La mía gana apoyo como posibilidad, aunque no sabemos si quienes callaron tenían pena o simplemente preferían escribir.",
+    "cloze": "daría por buena",
+    "answer": "daría por buena",
+    "lemma": "dar por bueno",
+    "meaning": "I would accept as valid",
+    "audio": "work/audio/es-MX/06/es-06-0327.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0328",
+    "sentence": "Sí, el proveedor entregó tarde. Tú explicas por eso el retraso del folleto; la editora señala que el texto tampoco estaba listo y terminó después de la entrega. Yo no acepto que la tardanza del proveedor refute la explicación de la editora: ambas tareas impedían imprimir durante parte del mismo periodo. Reconozco el incumplimiento del proveedor, sin cargarle días en los que todavía faltaba terminar el texto.",
+    "cloze": "refute",
+    "answer": "refute",
+    "lemma": "refutar",
+    "meaning": "refutes",
+    "audio": "work/audio/es-MX/06/es-06-0328.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0329",
+    "sentence": "Mi mamá cree que la visitamos más porque ahora vive cerca; mi hermano lo explica por nuestras vacaciones. Es cierto que aumentaron las visitas durante las vacaciones, pero también entre semana después de volver al trabajo, con los mismos horarios de antes. Ese segundo aumento me persuade de que la cercanía ayudó. Para las visitas de vacaciones sigo admitiendo ambas razones; no convertiría ese apoyo parcial en la explicación única que propone mamá.",
+    "cloze": "me persuade",
+    "answer": "me persuade",
+    "lemma": "persuadir",
+    "meaning": "convinces me",
+    "audio": "work/audio/es-MX/06/es-06-0329.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0330",
+    "sentence": "—Desde que pusieron el buzón recibimos más quejas; empeoró la convivencia. —El comité lo explica por la posibilidad de quejarse sin dar el nombre. Reconozco el aumento, pero no acepto que se deba necesariamente a más conflictos: varias quejas describen problemas anteriores al buzón. Eso favorece la explicación de una mayor disposición a contarlos para esos casos, sin demostrar que ninguno de los problemas recientes sea nuevo.",
+    "cloze": "se deba",
+    "answer": "se deba",
+    "lemma": "deberse",
+    "meaning": "is due",
+    "audio": "work/audio/es-MX/06/es-06-0330.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0331",
+    "sentence": "Mi hermana dice que discutimos por tu comentario; tú respondes que el enojo venía de meses atrás. Es cierto que ya había tensión y que la discusión empezó justo después del comentario. Puedo admitir que este haya desencadenado la pelea sin aceptar que la explique por completo. La tensión previa ayuda a entender la reacción; por sí sola no permite descartar un efecto del comentario.",
+    "cloze": "haya desencadenado",
+    "answer": "haya desencadenado",
+    "lemma": "desencadenar",
+    "meaning": "has triggered",
+    "audio": "work/audio/es-MX/06/es-06-0331.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0332",
+    "sentence": "Convengo contigo en que las invitaciones personales trajeron público: varias personas llegaron acompañando a quien las invitó. Tú lo usas para negar el efecto del cartel, mientras la diseñadora le atribuye toda la asistencia. Pero algunos anfitriones explicaron que organizaron la salida después de ver ese cartel. En esos casos, invitación y cartel forman parte del mismo recorrido; reconocer una vía no me obliga a descartar la otra ni a atribuirle todos los asistentes.",
+    "cloze": "Convengo",
+    "answer": "Convengo",
+    "lemma": "convenir",
+    "meaning": "I agree",
+    "audio": "work/audio/es-MX/06/es-06-0332.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0333",
+    "sentence": "El ruido bajó cuando dejamos de usar el patio. Tú dices que el cierre frenó las reuniones; la vecina sostiene que dejaron de venir porque salió de vacaciones la organizadora. Al reabrir, siguió el silencio, pero ella todavía no regresaba. No descarto que el cierre haya frenado las reuniones al principio; la falta de ruido después de reabrir favorece la explicación de la ausencia para ese periodo, sin borrar el posible efecto inicial del cierre.",
+    "cloze": "haya frenado",
+    "answer": "haya frenado",
+    "lemma": "frenar",
+    "meaning": "has curtailed",
+    "audio": "work/audio/es-MX/06/es-06-0333.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0334",
+    "sentence": "Antes de la convivencia, Ana predijo menos asistencia por el cambio de hora; Beto esperaba la misma porque todos habían confirmado. Asistió menos gente, y varios ausentes mencionaron el horario. Beto ahora atribuye las bajas a imprevistos de último momento y dice que también las esperaba. Yo tomaría partido por la explicación de Ana para las ausencias vinculadas al horario, sin convertir su acierto en una explicación de cada falta ni concederle a Beto una predicción que no hizo.",
+    "cloze": "tomaría partido",
+    "answer": "tomaría partido",
+    "lemma": "tomar partido",
+    "meaning": "I would take sides",
+    "audio": "work/audio/es-MX/06/es-06-0334.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0335",
+    "sentence": "Se hicieron amigos desde que se sientan juntos, eso sí. La maestra dice que la cercanía produjo la amistad; mi hijo dice que hoy se sientan juntos porque ya son amigos. No niego que el acomodo inicial haya propiciado el trato: entonces ella eligió los lugares y ellos no se conocían. Pero las elecciones actuales también respaldan lo que dice mi hijo; aceptar el comienzo no fija para siempre la dirección de esa relación.",
+    "cloze": "haya propiciado",
+    "answer": "haya propiciado",
+    "lemma": "propiciar",
+    "meaning": "has facilitated",
+    "audio": "work/audio/es-MX/06/es-06-0335.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0336",
+    "sentence": "La coordinadora dice que terminamos el mural gracias al patrocinio; los pintores, que fue gracias a su trabajo. Sí, el patrocinio pagó la pintura que antes faltaba, pero los pintores hicieron el diseño y lo realizaron. No acepto que el resultado se atribuya exclusivamente a una parte: el dinero hizo posible empezar con esos materiales, mientras el trabajo los convirtió en el mural. Conceder esa ayuda tampoco equivale a decir que el patrocinador creó la obra.",
+    "cloze": "se atribuya",
+    "answer": "se atribuya",
+    "lemma": "atribuir",
+    "meaning": "be attributed",
+    "audio": "work/audio/es-MX/06/es-06-0336.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0337",
+    "sentence": "La conversación familiar ocurrió después de tu mensaje, como dices. Tú aseguras que el mensaje nos hizo hablar; mi hermana recuerda que ya habíamos acordado reunirnos, pero hasta el domingo. Contestamos a tu mensaje adelantando la reunión al viernes para responderte. Sí admito que haya acelerado la conversación; no que haya creado una disposición a hablar que ya existía, ni que el acuerdo previo vuelva irrelevante ese adelanto.",
+    "cloze": "haya acelerado",
+    "answer": "haya acelerado",
+    "lemma": "acelerar",
+    "meaning": "has brought forward",
+    "audio": "work/audio/es-MX/06/es-06-0337.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0338",
+    "sentence": "—Todas las invitadas llegaron por la entrada del patio. Mi plano nuevo las orientó. —Yo pensé que habían seguido al resto. Te concedería el efecto del plano en quienes llegaron primero: las vimos consultarlo cuando no había nadie a quien seguir. Para quienes entraron detrás, ambas explicaciones siguen abiertas. Reconocer que todas llegaron bien no permite usar cada llegada como otra comprobación independiente del plano.",
+    "cloze": "concedería",
+    "answer": "concedería",
+    "lemma": "conceder",
+    "meaning": "I would concede",
+    "audio": "work/audio/es-MX/06/es-06-0338.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0339",
+    "sentence": "El jurado eligió el cuento de su antigua compañera, eso no está en discusión. Tú lo explicas por amistad; la otra jurada, por la calidad del texto. El cuento ya encabezaba la selección cuando los nombres estaban ocultos, pero la decisión final fue después de revelarlos. No excluyo que la amistad haya pesado en esa decisión final; sí rechazo usarla para explicar también la ventaja que tenía sin conocerse la autora.",
+    "cloze": "haya pesado",
+    "answer": "haya pesado",
+    "lemma": "pesar",
+    "meaning": "has carried weight",
+    "audio": "work/audio/es-MX/06/es-06-0339.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0340",
+    "sentence": "El club volvió a llenarse. Tú dices que fue por la autora invitada; yo, por el interés en el tema. Acepto que la gente aplaudió mucho a la autora, pero varias personas reservaron antes de que se anunciara su nombre. Para que tu explicación se sostenga como causa de todas las reservas, habría que saber que esas personas ya conocían la invitación. Por ahora reconozco los aplausos como una reacción favorable durante la sesión, sin convertirlos en la causa de cada decisión de asistir.",
+    "cloze": "se sostenga",
+    "answer": "se sostenga",
+    "lemma": "sostenerse",
+    "meaning": "holds up",
+    "audio": "work/audio/es-MX/06/es-06-0340.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0341",
+    "sentence": "Sí, los ensayos duraban menos cuando faltaba la directora. Tú lo explicas por sus interrupciones; ella dice que, sin su presencia, el grupo omitía las escenas difíciles. Las grabaciones muestran pausas más breves en total y escenas sin ensayar. Solo coincidiría contigo en atribuir a la reducción de pausas parte del tiempo ahorrado: no todo el ahorro representa el mismo trabajo hecho con mayor rapidez. Tampoco la omisión de escenas borra el tiempo que sí ocupaban las interrupciones.",
+    "cloze": "coincidiría",
+    "answer": "coincidiría",
+    "lemma": "coincidir",
+    "meaning": "I would agree",
+    "audio": "work/audio/es-MX/06/es-06-0341.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0342",
+    "sentence": "—Volvieron a visitarnos después de que les pediste disculpas; eso los convenció. —Mi hermano cree que vinieron solo por el cumpleaños de mamá. El cumpleaños estaba previsto, sí, pero ellos habían dicho que no vendrían y aceptaron después de la disculpa. Que esta haya ayudado, no lo descarto; la ocasión explica por qué había una visita propuesta y la disculpa puede explicar el cambio de respuesta. No atribuiría todo a una sola de las dos cosas.",
+    "cloze": "lo descarto",
+    "answer": "lo descarto",
+    "lemma": "descartar",
+    "meaning": "I rule it out",
+    "audio": "work/audio/es-MX/06/es-06-0342.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0343",
+    "sentence": "Las familias que terminaron la encuesta elogiaron el nuevo registro. Usted explica esos elogios por su facilidad; mi compañera señala que quienes no pudieron registrarse tampoco pudieron abrir la encuesta. Acepto que hubo satisfacción entre quienes respondieron, pero niego que ese resultado avale la explicación de una facilidad general: el registro seleccionó a quienes podían opinar. La dificultad de los excluidos tampoco vuelve insinceros los elogios de quienes sí completaron ambos pasos.",
+    "cloze": "avale",
+    "answer": "avale",
+    "lemma": "avalar",
+    "meaning": "supports",
+    "audio": "work/audio/es-MX/06/es-06-0343.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0344",
+    "sentence": "Poca gente fue a la lectura, es verdad. El organizador dice que eso confirma su anuncio de que el tema no interesaba; la autora cree que aquel anuncio desanimó a posibles asistentes. Varios habían reservado y cancelaron al recibirlo porque esperaban una sala vacía. No demos por cierta la falta de interés inicial: el propio anuncio intervino en algunas cancelaciones. Reconocer la baja asistencia permite aceptar ese efecto sin atribuirle todas las ausencias.",
+    "cloze": "demos por cierta",
+    "answer": "demos por cierta",
+    "lemma": "dar por cierto",
+    "meaning": "let us regard as certain",
+    "audio": "work/audio/es-MX/06/es-06-0344.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0345",
+    "sentence": "No pudimos entrar porque la puerta principal estaba atorada y la del patio seguía cerrada. Tú culpas a la avería; el encargado, a que nadie abrió el patio como estaba previsto. Sí, reparar la principal nos permitió entrar. ¿Por qué acreditaría eso que la falta de acceso por el patio fue irrelevante? Acepto la avería como obstáculo real, pero abrir cualquiera de las dos puertas habría evitado quedarnos fuera; reparar una no borra la alternativa que faltó.",
+    "cloze": "acreditaría",
+    "answer": "acreditaría",
+    "lemma": "acreditar",
+    "meaning": "would establish",
+    "audio": "work/audio/es-MX/06/es-06-0345.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0346",
+    "sentence": "El cuadro se ve más amarillo, como usted dice. Usted cree que cambió la pintura; la guía lo atribuye a la iluminación nueva. Vimos que recuperaba su aspecto anterior bajo la misma lámpara de antes. No niego que la luz haya influido en el cambio que percibimos; esa comparación lo respalda. No usaría lo que vimos para anunciar una alteración de la pintura, pero tampoco como examen de su estado material.",
+    "cloze": "haya influido",
+    "answer": "haya influido",
+    "lemma": "influir",
+    "meaning": "has influenced",
+    "audio": "work/audio/es-MX/06/es-06-0346.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0347",
+    "sentence": "—Desde que cambiamos el horario y quitamos la cuota, viene más gente. Fue por el horario, estamos de acuerdo. —Coincidimos en el aumento. Tú invocas el horario; yo, la gratuidad. Quienes trabajaban durante el horario anterior ahora pueden venir, pero otros ya podían y explicaron que les faltaba dinero. No suscribamos tu explicación como si aceptar el aumento me hiciera abandonar la mía: el horario responde al impedimento de unos y la cuota al de otros, sin que sepamos cuánto pesó cada cambio para todos.",
+    "cloze": "suscribamos",
+    "answer": "suscribamos",
+    "lemma": "suscribir",
+    "meaning": "let us endorse",
+    "audio": "work/audio/es-MX/06/es-06-0347.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0348",
+    "sentence": "El público permaneció hasta el final. Tú lo explicas por el interés en la obra; la productora, porque el premio se sorteaba al terminar. Varios se quedaron incluso después del sorteo para hablar de escenas concretas. Ese interés posterior da pie a aceptar el atractivo de la obra para esas personas. No reduce su permanencia a esperar el premio, aunque tampoco permite atribuir el mismo motivo a quienes se fueron en cuanto acabó el sorteo.",
+    "cloze": "da pie",
+    "answer": "da pie",
+    "lemma": "dar pie",
+    "meaning": "gives grounds",
+    "audio": "work/audio/es-MX/06/es-06-0348.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0349",
+    "sentence": "Los alumnos con tutoría obtuvieron calificaciones más bajas, como dices. Tú interpretas eso como un perjuicio de la tutoría; la maestra señala que precisamente esas calificaciones motivaron la asignación del apoyo. No aceptaría que esa comparación demostrara un efecto negativo: los resultados son anteriores a la tutoría. La explicación de la selección sí tiene respaldo en las fechas; no nos dice todavía si después mejoraron gracias al apoyo.",
+    "cloze": "demostrara",
+    "answer": "demostrara",
+    "lemma": "demostrar",
+    "meaning": "demonstrated",
+    "audio": "work/audio/es-MX/06/es-06-0349.mp3",
+    "accepted_answers": [
+      "demostrase"
+    ]
+  },
+  {
+    "id": "es-06-0350",
+    "sentence": "Otra vez se ocuparon las veinte sillas. Tú dices que el nuevo taller no atrajo a más gente porque el total sentado no cambió; la encargada explica que ese total quedó limitado por el cupo. Esta vez cinco personas pidieron entrar y se fueron por falta de lugar; no sabemos cuántas se quedaron fuera antes. Acepto el total estable, pero no inferiría de él que el taller no atrajo a nadie más: con las sillas llenas, una mayor demanda tampoco habría aumentado ese registro. Las cinco solicitudes prueban que faltaron lugares hoy, no que la demanda haya crecido desde la sesión anterior.",
+    "cloze": "inferiría",
+    "answer": "inferiría",
+    "lemma": "inferir",
+    "meaning": "I would infer",
+    "audio": "work/audio/es-MX/06/es-06-0350.mp3",
+    "accepted_answers": []
   }
 ]
