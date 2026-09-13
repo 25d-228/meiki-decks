@@ -998,5 +998,255 @@
     "meaning": "undo it",
     "audio": "work/audio/es-MX/06/es-06-0100.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0101",
+    "sentence": "Lara dijo en la reunión que nadie había hecho preguntas. La minuta recoge sus palabras y Marcos las usó para concluir que todos estaban conformes. Hoy Lara aclara que sí recibió preguntas escritas, pero entonces no las había visto. Cambiar la minuta para decir que Lara anunció esas preguntas falsearía su intervención. Puede añadirse la aclaración actual; la conclusión de Marcos ya no cuenta con aquella ausencia de preguntas como respaldo.",
+    "cloze": "falsearía",
+    "answer": "falsearía",
+    "lemma": "falsear",
+    "meaning": "would misrepresent",
+    "audio": "work/audio/es-MX/06/es-06-0101.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0102",
+    "sentence": "Susana anunció entregas gratuitas. Paco publicó que llevaban pedidos gratis a cualquier domicilio; Julia escribió que el reparto era gratuito dentro de la colonia. Susana acaba de precisar que omitió ese límite y que fuera de la colonia sí cobran. La corrección se propaga al anuncio de Paco, pero el de Julia ya contiene la restricción correcta. No corresponde publicar que ambos ofrecieron entregas gratuitas fuera de la zona.",
+    "cloze": "se propaga",
+    "answer": "se propaga",
+    "lemma": "propagarse",
+    "meaning": "carries through",
+    "audio": "work/audio/es-MX/06/es-06-0102.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0103",
+    "sentence": "Hugo identificó a Tomás como quien recogió las llaves e Inés repitió su identificación. Ahora Hugo dice que confundió las chamarras y ya no sabe quién fue. Inés mantiene el nombre: asegura que después encontró una foto propia donde reconoce a Tomás, aunque todavía no la muestra. El relato se bifurca: ya no podemos presentar a ambos como portavoces de la misma identificación ni afirmar que los dos la retiraron.",
+    "cloze": "se bifurca",
+    "answer": "se bifurca",
+    "lemma": "bifurcarse",
+    "meaning": "branches into different accounts",
+    "audio": "work/audio/es-MX/06/es-06-0103.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0104",
+    "sentence": "Nora contó que Rosa, la dueña, había dicho «Pueden pintar de azul». Tu resumen presentó eso como autorización de la dueña. Nora corrige el nombre: quien habló fue Vera, la ayudante. Al reasignar la frase a Vera, también cambia el respaldo del resumen: consta que ella dio ese permiso, pero no sabemos si podía autorizar la pintura. La corrección tampoco demuestra que Rosa se haya opuesto.",
+    "cloze": "reasignar",
+    "answer": "reasignar",
+    "lemma": "reasignar",
+    "meaning": "reattribute",
+    "audio": "work/audio/es-MX/06/es-06-0104.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0105",
+    "sentence": "—Yo te dije «Creo que todavía hay lugares» y tú publicaste que yo te había garantizado la inscripción. Me equivoqué al calcular el cupo: estaba viendo una lista vieja y ahora no sé si queda espacio. Necesito que rectifiques también la garantía que me atribuiste. —Entonces explicaré que retiraste tu cálculo y que la certeza del anuncio la añadí yo; no diré que incumpliste una garantía tuya.",
+    "cloze": "rectifiques",
+    "answer": "rectifiques",
+    "lemma": "rectificar",
+    "meaning": "correct",
+    "audio": "work/audio/es-MX/06/es-06-0105.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0106",
+    "sentence": "El texto del video decía que el taller se suspendió. Un boletín lo copió y presentó como contradictorio el relato de Marta, que asistió. La autora del video acaba de corregir una omisión: ella dijo «El taller no se suspendió» y faltaba el «no» en el texto. El boletín corregido se alinea con la asistencia que Marta describió por su cuenta; debe desaparecer también la supuesta contradicción, no solo cambiar la cita.",
+    "cloze": "se alinea",
+    "answer": "se alinea",
+    "lemma": "alinearse",
+    "meaning": "becomes consistent",
+    "audio": "work/audio/es-MX/06/es-06-0106.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0107",
+    "sentence": "Nora dijo que le gustó la iluminación del salón y Sofía comentó lo mismo. El resumen reunió sus respuestas como un elogio compartido de la luz. Nora acaba de aclarar: «Me equivoqué al contestar; quería hablar de la ubicación, no de la iluminación». Esa coincidencia se deshace en el resumen actualizado: el elogio de la luz sigue siendo de Sofía y el de la ubicación corresponde a Nora. Ninguna ha retirado el elogio de la otra.",
+    "cloze": "se deshace",
+    "answer": "se deshace",
+    "lemma": "deshacerse",
+    "meaning": "comes apart",
+    "audio": "work/audio/es-MX/06/es-06-0107.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0108",
+    "sentence": "Bruno calculó trescientos pesos por persona para la camioneta; Eva dijo ciento cincuenta. El resumen atribuyó su desacuerdo sobre el transporte a esos precios. Bruno corrige: los trescientos eran por las dos personas. La discrepancia de precios se disipa, pero Bruno sigue prefiriendo la camioneta y Eva el tren por sus horarios. El resumen ya no puede explicar esa diferencia de preferencias mediante dos costos incompatibles.",
+    "cloze": "se disipa",
+    "answer": "se disipa",
+    "lemma": "disiparse",
+    "meaning": "dissolves",
+    "audio": "work/audio/es-MX/06/es-06-0108.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0109",
+    "sentence": "El empleado no dejó entrar a Elena porque, según él, todos necesitaban reservación. El hijo de Elena presenció la negativa y publicó esa explicación como regla de la biblioteca. El empleado corrige: confundió la biblioteca con un taller; para entrar a leer no se exige reserva. En la publicación corregida del hijo, la negativa se desvincula de la política de la biblioteca. El hijo mantiene el rechazo que presenció y recoge la confusión que el empleado reconoce; ya no lo presenta como cumplimiento de una regla vigente.",
+    "cloze": "se desvincula",
+    "answer": "se desvincula",
+    "lemma": "desvincularse",
+    "meaning": "is detached",
+    "audio": "work/audio/es-MX/06/es-06-0109.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0110",
+    "sentence": "Luis avisó «Ya salieron los paquetes» y Paula publicó por él que estaban en camino. Luis acaba de corregirse: dejó programada la salida, pero no recibió confirmación de que ocurriera. En el reporte actual, la salida se reclasifica como prevista y sin confirmar. El anuncio anterior de Paula sí afirmaba un traslado real; no podemos describirlo ahora como si desde el principio hubiera comunicado solo un plan.",
+    "cloze": "se reclasifica",
+    "answer": "se reclasifica",
+    "lemma": "reclasificar",
+    "meaning": "is reclassified",
+    "audio": "work/audio/es-MX/06/es-06-0110.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0111",
+    "sentence": "La coordinadora anunció que podían entregar mañana y tú aconsejaste al grupo tomarse otro día. Ahora ella aclara que omitió una condición de la regla: solo pueden hacerlo quienes ya pidieron prórroga. Propongo que restituyamos esa condición también en el consejo que vas a reenviar. Corregir únicamente la cita de la coordinadora dejaría tu recomendación abierta a personas para quienes el plazo sigue venciendo hoy.",
+    "cloze": "restituyamos",
+    "answer": "restituyamos",
+    "lemma": "restituir",
+    "meaning": "restore",
+    "audio": "work/audio/es-MX/06/es-06-0111.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0112",
+    "sentence": "El encargado dijo que abrirían los sábados y Laura lo anunció a sus vecinos. Después él corrigió el horario en otro grupo: solo abrirían los jueves. Laura volvió a anunciar ese horario equivocado antes de recibir la aclaración; acaba de decir que no la había visto. No des por enterada a Laura en tu recuento para acusarla de repetir a sabiendas un dato falso. Su anuncio requiere corrección, pero la aclaración del encargado todavía no le había llegado.",
+    "cloze": "des por enterada",
+    "answer": "des por enterada",
+    "lemma": "dar por enterado",
+    "meaning": "assume to have been informed",
+    "audio": "work/audio/es-MX/06/es-06-0112.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0113",
+    "sentence": "Recomendé la funda porque la diseñadora me dijo que era lavable. Ella corrige: quiso decir desmontable y nunca comprobó el lavado. Después de esa aclaración lavé mi ejemplar y quedó bien. Reformularé mi recomendación con el respaldo de esa prueba limitada. Ya no citaré a la diseñadora como garantía del lavado ni presentaré mi comprobación posterior como la razón que tuve al recomendarla por primera vez.",
+    "cloze": "Reformularé",
+    "answer": "Reformularé",
+    "lemma": "reformular",
+    "meaning": "will reformulate",
+    "audio": "work/audio/es-MX/06/es-06-0113.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0114",
+    "sentence": "El organizador informó que asistieron doce personas. Yo identifiqué por mi cuenta a seis mujeres y la nota combinó ambos datos para decir que fueron la mitad. Él corrige el total a diez: había contado dos nombres repetidos. Hace falta que recalculemos la proporción en la nota, no solo sustituir doce por diez. Las seis mujeres siguen identificadas y ahora representan más de la mitad del total corregido.",
+    "cloze": "recalculemos",
+    "answer": "recalculemos",
+    "lemma": "recalcular",
+    "meaning": "recalculate",
+    "audio": "work/audio/es-MX/06/es-06-0114.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0115",
+    "sentence": "Paula anunció que las funciones del viernes y del sábado estaban agotadas; el boletín copió su aviso. Después Paula corrigió: solo había revisado la del viernes y no sabía nada del sábado. Hoy alguien le reenvía aquel boletín como confirmación del sábado. Ese reenvío resucita la afirmación retirada sin aportar otra consulta. La venta completa del viernes sigue confirmada; la del sábado no gana respaldo por regresar impresa a quien originó el dato.",
+    "cloze": "resucita",
+    "answer": "resucita",
+    "lemma": "resucitar",
+    "meaning": "revives",
+    "audio": "work/audio/es-MX/06/es-06-0115.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0116",
+    "sentence": "Raúl dijo que vio a Elisa llevarse la carpeta y el grupo repitió su identificación. Ahora aclara: «Vi que alguien se la llevó, pero ya no estoy seguro de que fuera Elisa». El nuevo resumen dice que Raúl admitió haber inventado todo. Su corrección no se equipara a esa admisión: retiró la certeza del nombre, no afirmó que hubiera mentido ni negó haber visto el retiro de la carpeta.",
+    "cloze": "se equipara",
+    "answer": "se equipara",
+    "lemma": "equipararse",
+    "meaning": "is equivalent",
+    "audio": "work/audio/es-MX/06/es-06-0116.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0117",
+    "sentence": "El conserje dijo que la sala estuvo abierta el lunes. Su sobrina la encontró cerrada el martes y escribió que el servicio había desaparecido de un día para otro. Él corrige: confundió las semanas y no sabe si abrieron ese lunes. La supuesta pérdida entre ambos días se desmorona como conclusión del relato. El cierre del martes sigue respaldado por la observación de la sobrina, pero ya no hay un estado anterior confirmado con el cual compararlo.",
+    "cloze": "se desmorona",
+    "answer": "se desmorona",
+    "lemma": "desmoronarse",
+    "meaning": "falls apart",
+    "audio": "work/audio/es-MX/06/es-06-0117.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0118",
+    "sentence": "Mauro contó que vio salir a Carla cuando llegamos. Tú escribiste que Carla nos había evitado. Mauro corrige la identidad: era Ana, y él solo la vio salir, sin saber si nos había visto. La acusación no se traspasa a Ana con cambiar el nombre en tu mensaje. Hay una identificación corregida de quien salió; sigue faltando respaldo para convertir esa salida en un intento de evitarnos.",
+    "cloze": "se traspasa",
+    "answer": "se traspasa",
+    "lemma": "traspasar",
+    "meaning": "is transferred",
+    "audio": "work/audio/es-MX/06/es-06-0118.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0119",
+    "sentence": "Iván fechó una foto de la entrada cerrada en sábado; Julia la usó para afirmar que la entrada estaba cerrada durante su visita de ese día. Iván corrige: la tomó el viernes. Julia confirma que sí fue el sábado, pero aún no explica si vio la puerta cerrada o lo dedujo de la foto. ¿Hasta dónde se extiende la corrección en su relato? La fecha de la imagen ya está aclarada; el cierre durante su visita todavía necesita una respuesta.",
+    "cloze": "se extiende",
+    "answer": "se extiende",
+    "lemma": "extenderse",
+    "meaning": "extends",
+    "audio": "work/audio/es-MX/06/es-06-0119.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0120",
+    "sentence": "Mi invitación decía que se podía entrar a cualquier hora. La retiré cuando Dani contó que lo rechazaron por llegar tarde. Él corrige su relato: fue a otra sala y no sabe qué habría pasado en la nuestra. Su aclaración no revalida mi invitación original. Desaparece aquel caso en contra, pero las únicas entradas que comprobamos fueron al inicio; todavía no sabemos si permiten llegar después.",
+    "cloze": "revalida",
+    "answer": "revalida",
+    "lemma": "revalidar",
+    "meaning": "validates again",
+    "audio": "work/audio/es-MX/06/es-06-0120.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0121",
+    "sentence": "El repartidor contó que la entrega se retrasó y después cancelaron el taller. Con ese orden, el resumen atribuyó la cancelación al retraso. Ahora él corrige la secuencia: recibió el aviso de cancelación antes de salir, cuando todavía podía llegar a tiempo. Esa corrección desarticula la explicación del resumen. La organizadora confirma por separado que canceló, pero aún no ha dicho por qué; tampoco podemos inventar una causa nueva al invertir el orden.",
+    "cloze": "desarticula",
+    "answer": "desarticula",
+    "lemma": "desarticular",
+    "meaning": "dismantles",
+    "audio": "work/audio/es-MX/06/es-06-0121.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0122",
+    "sentence": "Publiqué que nuestra edición traía índice porque Marta me lo aseguró. Ahora ella aclara que consultó otra edición, pero añade: «Eso mismo te dije; tú cambiaste la referencia». Conservo su mensaje original: «Revisé la edición que compramos y sí trae índice». Puedo contradecirla sobre lo que me dijo sin seguir presentando el índice como comprobado. La corrección afecta el dato publicado, pero el mensaje permite defender la fidelidad de mi cita; todavía no hemos revisado nuestra edición.",
+    "cloze": "contradecirla",
+    "answer": "contradecirla",
+    "lemma": "contradecir",
+    "meaning": "contradict her",
+    "audio": "work/audio/es-MX/06/es-06-0122.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0123",
+    "sentence": "El hostal anunció recepción toda la noche. Ustedes reenviaron el aviso a mi hermano y él le aconsejó a mi tía llegar a medianoche, sin citar al hostal. Ahora el encargado corrige: recepción cierra a las diez. Les pido que enmienden también el plan que recibió mi tía. Ella no estaba entre los destinatarios del aviso original y su mensaje no contiene el horario equivocado, pero la llegada propuesta depende de él.",
+    "cloze": "enmienden",
+    "answer": "enmienden",
+    "lemma": "enmendar",
+    "meaning": "amend",
+    "audio": "work/audio/es-MX/06/es-06-0123.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0124",
+    "sentence": "La organizadora anunció la convivencia para el domingo en el jardín. Primero corrigió el día a sábado y nosotros difundimos «Sábado en el jardín». Ahora aclara que el jardín aún no está confirmado, pero mantiene el sábado. La rectificación es acumulativa: el aviso actual debe conservar el día corregido y dejar pendiente el lugar. Tomar el último mensaje como anulación de la primera corrección devolvería el domingo sin respaldo de nadie.",
+    "cloze": "acumulativa",
+    "answer": "acumulativa",
+    "lemma": "acumulativo",
+    "meaning": "cumulative",
+    "audio": "work/audio/es-MX/06/es-06-0124.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0125",
+    "sentence": "Rosa dijo que contó veinte cajas y vio dos rotas. Iván también afirmó haber contado veinte; nuestro resumen publicado habló de dos conteos coincidentes. Rosa corrige ahora: el total lo tomó de Iván, aunque sí vio por su cuenta las dos cajas dañadas. Nos toca desdecirnos de la doble comprobación que anunciamos, no solo cambiar a quién atribuimos el total. Este sigue respaldado por el conteo de Iván; el daño, por la observación propia de Rosa.",
+    "cloze": "desdecirnos",
+    "answer": "desdecirnos",
+    "lemma": "desdecirse",
+    "meaning": "take back what we said",
+    "audio": "work/audio/es-MX/06/es-06-0125.mp3",
+    "accepted_answers": []
   }
 ]
