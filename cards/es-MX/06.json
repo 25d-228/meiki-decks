@@ -5038,5 +5038,259 @@
     "meaning": "I will extend",
     "audio": "work/audio/es-MX/06/es-06-0500.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0501",
+    "sentence": "Jorge esperaba en la sala norte de la terminal. A ver si Clara llegaba; él ya llevaba demasiado rato ahí. No sabía que la puerta entre las salas estaba cerrada. Clara, en la sala sur, acababa de comprobarlo. No, Jorge tenía que venir hasta acá, a la sala sur; ella no podía cruzar por dentro.",
+    "cloze": "acá",
+    "answer": "acá",
+    "lemma": "acá",
+    "meaning": "here, at her location",
+    "audio": "work/audio/es-MX/06/es-06-0501.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0502",
+    "sentence": "Aquel sábado, Joel preparaba la maleta para salir en el camión nocturno; su mamá aún creía que viajaba el domingo. Ella abrió el recetario. Mañana le hacía su sopa favorita antes de despedirlo. Joel miró el reloj desde la puerta. Pero él se iba esta noche; mejor avisarle antes de que hiciera más planes.",
+    "cloze": "esta noche",
+    "answer": "esta noche",
+    "lemma": "esta noche",
+    "meaning": "tonight",
+    "audio": "work/audio/es-MX/06/es-06-0502.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0503",
+    "sentence": "Andrea cerró la agenda. Listo, mañana podían empezar con el nuevo turno. Había aprobado el cambio de horario de Mauro, pero él no había recibido el aviso. Mauro abrió otra vez su borrador de solicitud. No, todavía tenía que convencerla; le faltaba explicar por qué no podía llegar más temprano.",
+    "cloze": "todavía",
+    "answer": "todavía",
+    "lemma": "todavía",
+    "meaning": "still",
+    "audio": "work/audio/es-MX/06/es-06-0503.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0504",
+    "sentence": "Sara había cocinado por Luis a cambio de que él lavara; su papá no sabía del trato. Sara se acomodó en el sillón. Ahora sí, a descansar sin culpa. Su papá vio a Luis frente al fregadero. Qué injusto que uno siguiera trabajando mientras la otra descansaba; él tendría que decir algo.",
+    "cloze": "injusto",
+    "answer": "injusto",
+    "lemma": "injusto",
+    "meaning": "unfair",
+    "audio": "work/audio/es-MX/06/es-06-0504.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0505",
+    "sentence": "Lucía se había quedado sin batería y Mateo no lo sabía. Ella guardó el teléfono. Ni modo, le contestaba al llegar a casa; no iba a comprar un cargador solo por ese mensaje. Mateo volvió a mirar la conversación. Se habría molestado por la broma de ayer; mejor dejarla tranquila.",
+    "cloze": "Se habría molestado",
+    "answer": "Se habría molestado",
+    "lemma": "molestarse",
+    "meaning": "she had probably taken offense",
+    "audio": "work/audio/es-MX/06/es-06-0505.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0506",
+    "sentence": "El reloj del pasillo iba diez minutos adelantado; la coordinadora lo sabía, pero el aspirante no. Ella acomodó las sillas. Bien, alcanzaba a preparar la sala antes de empezar. El muchacho miró las manecillas. ¿Cuántos minutos le quedarían para repasar, si casi era la hora? Cerró sus apuntes sin haber terminado.",
+    "cloze": "le quedarían",
+    "answer": "le quedarían",
+    "lemma": "quedar",
+    "meaning": "might be left for him (minutes)",
+    "audio": "work/audio/es-MX/06/es-06-0506.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0507",
+    "sentence": "Beto se sirvió más café. Qué bien, podían dejar las mesas para mañana y pasar la noche platicando. Nora acababa de recibir el aviso: tenían que desocupar el salón esa misma noche; él aún no lo sabía. Ella miró las mesas llenas. Ahora se le venía encima todo el trabajo de recoger; tendría que interrumpir la sobremesa.",
+    "cloze": "se le venía encima",
+    "answer": "se le venía encima",
+    "lemma": "venírsele encima",
+    "meaning": "was looming over her",
+    "audio": "work/audio/es-MX/06/es-06-0507.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0508",
+    "sentence": "Berta había pedido que le avisaran por escrito. El monitor se apagó sin que el recepcionista lo notara. Él volvió a llamarla. Vaya, otra persona que dejaba pasar su turno. Berta seguía mirando la pantalla negra. ¡Qué desconsiderados! Le habían prometido un aviso visible y ahora tenía que adivinar cuándo acercarse.",
+    "cloze": "desconsiderados",
+    "answer": "desconsiderados",
+    "lemma": "desconsiderado",
+    "meaning": "inconsiderate",
+    "audio": "work/audio/es-MX/06/es-06-0508.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0509",
+    "sentence": "Eva no había leído la nota en que su mamá le daba permiso de ir sola al museo. Se quedó frente al cuarto de su mamá. Seguro tendría que ir otra vez con un adulto; qué vergüenza con sus amigas. Su mamá guardó la pluma. Esta vez Eva iría por su cuenta; ya sabía llegar y volver.",
+    "cloze": "por su cuenta",
+    "answer": "por su cuenta",
+    "lemma": "por su cuenta",
+    "meaning": "on her own",
+    "audio": "work/audio/es-MX/06/es-06-0509.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0510",
+    "sentence": "La dueña revisó la llave del cuarto más alejado de la cocina. Ahí su huésped podría dormir a gusto, sin oír los preparativos del desayuno. Todavía no le había mostrado ese cuarto. La huésped miró el sofá donde le habían dejado una cobija. Dormir con ese ruido, ni pensarlo; mejor buscar otro alojamiento.",
+    "cloze": "ni pensarlo",
+    "answer": "ni pensarlo",
+    "lemma": "ni pensarlo",
+    "meaning": "out of the question",
+    "audio": "work/audio/es-MX/06/es-06-0510.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0511",
+    "sentence": "La tía había apartado una rebanada para Nico sin que él la viera. Tapó el plato reservado. Qué gusto darle una sorpresa cuando entrara. Nico seguía jugando en el patio y oyó los cubiertos desde afuera. Ojalá no acabaran con todo; ¿le guardarían algo si tardaba un poco más?",
+    "cloze": "le guardarían",
+    "answer": "le guardarían",
+    "lemma": "guardar",
+    "meaning": "they would save for him",
+    "audio": "work/audio/es-MX/06/es-06-0511.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0512",
+    "sentence": "El abuelo movió una pieza. A ver si el niño aprovechaba esa oportunidad; ya merecía disfrutar una victoria. Había dejado la buena jugada a propósito, sin decírselo. El nieto se inclinó sobre el tablero. No, esta vez el abuelo no se saldría con la suya; él sí había visto el error y ahora iba a ganar.",
+    "cloze": "se saldría con la suya",
+    "answer": "se saldría con la suya",
+    "lemma": "salirse con la suya",
+    "meaning": "would get his way",
+    "audio": "work/audio/es-MX/06/es-06-0512.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0513",
+    "sentence": "La jefa había liberado a Iván de las entregas para que preparara su primera exposición; él aún no conocía ese plan. Ella apartó una mesa. Por fin podía darle a Iván espacio para mostrar sus ideas. Iván encontró su nombre fuera del calendario de entregas. Claro, lo estaban apartando de todo; mejor empezar a buscar otro trabajo.",
+    "cloze": "lo estaban apartando",
+    "answer": "lo estaban apartando",
+    "lemma": "apartar",
+    "meaning": "they were sidelining him",
+    "audio": "work/audio/es-MX/06/es-06-0513.mp3",
+    "accepted_answers": [
+      "estaban apartándolo"
+    ]
+  },
+  {
+    "id": "es-06-0514",
+    "sentence": "Marcos quería mudarse cerca de la abuela. Su esposa había propuesto visitarla cada domingo, pero descartaba mudarse; él no conocía ese límite. Marcos abrió los anuncios de departamentos. Con ella de su lado, encontrarían algo entre los dos. Su esposa cerró el calendario. Qué bien, iban a verla seguido sin tener que dejar su casa.",
+    "cloze": "de su lado",
+    "answer": "de su lado",
+    "lemma": "de su lado",
+    "meaning": "on his side",
+    "audio": "work/audio/es-MX/06/es-06-0514.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0515",
+    "sentence": "La profesora había preparado una actividad de dibujo para quienes no quisieran bailar, pero Leo no había oído esa opción. Ella apartó los colores. Así todos podían participar sin hacer lo mismo. Leo se quedó al final de la fila. Le tocaba salir a bailar, qué remedio; al menos procuraría no quedar hasta adelante.",
+    "cloze": "qué remedio",
+    "answer": "qué remedio",
+    "lemma": "qué remedio",
+    "meaning": "there was no helping it",
+    "audio": "work/audio/es-MX/06/es-06-0515.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0516",
+    "sentence": "Inés había pedido una comedia sin saber que el grupo ya había elegido una antes de su petición. El encargado bajó la luz. Ahora sí, a disfrutar lo que habían votado. Inés reconoció el título. La habían tomado en cuenta, qué detalle; al salir les daría las gracias.",
+    "cloze": "La habían tomado en cuenta",
+    "answer": "La habían tomado en cuenta",
+    "lemma": "tomar en cuenta",
+    "meaning": "they had taken her wishes into account",
+    "audio": "work/audio/es-MX/06/es-06-0516.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0517",
+    "sentence": "La bibliotecaria ya había enviado a imprimir una versión con letra grande, pero don Julián no lo sabía. Ella dejó libre un lugar junto a la ventana. Qué bien, ahora sí don Julián podría leer cómodo. Él dobló su solicitud. Esta vez le harían caso, aunque tuviera que volver a pedirlo; él no iba a renunciar al taller.",
+    "cloze": "le harían caso",
+    "answer": "le harían caso",
+    "lemma": "hacer caso",
+    "meaning": "they would listen to him",
+    "audio": "work/audio/es-MX/06/es-06-0517.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0518",
+    "sentence": "El director no sabía que Emma ya había aprendido a entrar sin su señal. Revisó el programa. Ojo con ese comienzo: sin su señal, Emma no sabría cuándo entrar. Emma repasó la primera frase. A esas alturas, la señal sobraba; ya podía empezar sola y concentrarse en la voz.",
+    "cloze": "sobraba",
+    "answer": "sobraba",
+    "lemma": "sobrar",
+    "meaning": "was unnecessary",
+    "audio": "work/audio/es-MX/06/es-06-0518.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0519",
+    "sentence": "La mamá de Dani guardó los boletos del estreno. Qué ganas de verlo ya con el vestuario completo. Había seguido cada ensayo desde la puerta sin que él la notara. Dani dejó la invitación sobre la mesa. No había ido a verlo ni una sola vez; tendría que decirle de frente cuánto le importaba que estuviera ahí.",
+    "cloze": "ni una sola vez",
+    "answer": "ni una sola vez",
+    "lemma": "ni una sola vez",
+    "meaning": "not even once",
+    "audio": "work/audio/es-MX/06/es-06-0519.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0520",
+    "sentence": "Teresa había convertido el cuarto de su hijo en un taller, pero él no sabía del cambio. Ella extendió una tela. Ahora sí tenía dónde coser sin recoger a cada rato. Su hijo, todavía en el camión de regreso, acomodó la mochila. Ese seguía siendo su cuarto; al llegar se encerraba ahí a descansar del viaje.",
+    "cloze": "seguía siendo",
+    "answer": "seguía siendo",
+    "lemma": "seguir siendo",
+    "meaning": "was still",
+    "audio": "work/audio/es-MX/06/es-06-0520.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0521",
+    "sentence": "El cocinero miró el reloj. A ver si llegaban las verduras; todavía alcanzaba a terminar la sopa. El extractor le impedía oír los golpes en la puerta. La repartidora, que no sabía de ese ruido interior, volvió a tocar. ¿A qué hora se dignaría a abrir ese señor? Ella tenía otras entregas pendientes.",
+    "cloze": "se dignaría",
+    "answer": "se dignaría",
+    "lemma": "dignarse",
+    "meaning": "he would deign",
+    "audio": "work/audio/es-MX/06/es-06-0521.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0522",
+    "sentence": "El peluquero había terminado con el único cliente que quedaba; las personas sentadas esperaban a sus familiares. Miró hacia la puerta. Ojalá entrara alguien antes de ponerse a barrer. Julia se asomó sin saber quién esperaba corte. Con tanta gente, tenía para rato; mejor volver otro día.",
+    "cloze": "tenía para rato",
+    "answer": "tenía para rato",
+    "lemma": "tener para rato",
+    "meaning": "she had a long wait ahead",
+    "audio": "work/audio/es-MX/06/es-06-0522.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0523",
+    "sentence": "Lola acomodó el abrigo de su abuela antes de salir juntas hacia la cena. Qué gusto iba a darle volver a ver a sus amigas. El anfitrión no sabía que Lola había ido a recogerla. Tras media hora de espera, miró los dos lugares vacíos. Se habían arrepentido de venir; mejor retirar esos platos.",
+    "cloze": "Se habían arrepentido",
+    "answer": "Se habían arrepentido",
+    "lemma": "arrepentirse",
+    "meaning": "they had changed their minds",
+    "audio": "work/audio/es-MX/06/es-06-0523.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0524",
+    "sentence": "La encuadernadora rehacía la portada de un cuaderno porque había quedado chueca; su cliente no sabía del defecto. Ella acomodó las hojas. Un momento más y se lo entregaba como debía, sin esa esquina levantada. El cliente llevaba media hora esperando sin una explicación. Claro, le estaban dando largas; iba a pedirle una hora de entrega en vez de seguir esperando sin preguntar.",
+    "cloze": "le estaban dando largas",
+    "answer": "le estaban dando largas",
+    "lemma": "dar largas",
+    "meaning": "they were putting him off",
+    "audio": "work/audio/es-MX/06/es-06-0524.mp3",
+    "accepted_answers": [
+      "estaban dándole largas"
+    ]
+  },
+  {
+    "id": "es-06-0525",
+    "sentence": "Clara abrió el programa de la obra. Qué ganas de ver cómo representaban la última escena. Ya conocía el final, pero su hermano no lo sabía. Él mencionó por accidente quién moría y se tapó la boca. Había metido la pata con el final; ahora le había arruinado la función.",
+    "cloze": "Había metido la pata",
+    "answer": "Había metido la pata",
+    "lemma": "meter la pata",
+    "meaning": "he had put his foot in it",
+    "audio": "work/audio/es-MX/06/es-06-0525.mp3",
+    "accepted_answers": []
   }
 ]
