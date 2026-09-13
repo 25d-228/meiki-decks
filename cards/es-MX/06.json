@@ -4538,5 +4538,255 @@
     "meaning": "it was about time",
     "audio": "work/audio/es-MX/06/es-06-0450.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0451",
+    "sentence": "Inés apagó el celular después de enviar la solicitud. Listo, mañana tendría su lugar y podría dejar de buscar. El mensaje de error que encontramos después muestra que la solicitud nunca llegó; no por eso fue menos real el descanso de aquella noche.",
+    "cloze": "no por eso",
+    "answer": "no por eso",
+    "lemma": "no por eso",
+    "meaning": "not on that account",
+    "audio": "work/audio/es-MX/06/es-06-0451.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0452",
+    "sentence": "Rafa dejó su ropa de fiesta en el clóset. ¡Qué fácil se habían olvidado de él! Ni una invitación. Meses después apareció el sobre con su invitación devuelto por el correo. Aquella certeza acabó alejándolo de sus amigos: durante meses rechazó sus llamadas, convencido de que ya no lo querían cerca.",
+    "cloze": "acabó alejándolo",
+    "answer": "acabó alejándolo",
+    "lemma": "acabar alejando",
+    "meaning": "ended up driving him away",
+    "audio": "work/audio/es-MX/06/es-06-0452.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0453",
+    "sentence": "Cada domingo, Julia apartaba la silla junto a la suya. Su hermano volvería la próxima semana, claro; no iba a dejarla comiendo sola. En retrospectiva, esas comidas parecen despedidas: él acabó quedándose a vivir lejos, pero ella aún esperaba volver a comer con él.",
+    "cloze": "En retrospectiva",
+    "answer": "En retrospectiva",
+    "lemma": "en retrospectiva",
+    "meaning": "in retrospect",
+    "audio": "work/audio/es-MX/06/es-06-0453.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0454",
+    "sentence": "Mateo salió del salón apretando su diploma. ¡Ahora sí habían reconocido su esfuerzo! Yo me reí porque todos habían recibido uno igual. Años después, al encontrar sus cuadernos llenos de intentos por escribir su nombre, me avergüenza aquella risa: yo había reducido su esfuerzo a una comparación entre diplomas.",
+    "cloze": "me avergüenza",
+    "answer": "me avergüenza",
+    "lemma": "avergonzar",
+    "meaning": "makes me ashamed",
+    "audio": "work/audio/es-MX/06/es-06-0454.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0455",
+    "sentence": "Laura volvió agotada, vio los platos amontonados y dejó la bolsa en el suelo. Claro, otra vez le dejaban a ella toda la casa. Con el reparto de tareas que encontramos después, aquella queja gana fuerza: además de los platos de ese día, le habían dejado la limpieza de toda la semana sin consultarla.",
+    "cloze": "gana fuerza",
+    "answer": "gana fuerza",
+    "lemma": "ganar fuerza",
+    "meaning": "gains force",
+    "audio": "work/audio/es-MX/06/es-06-0455.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0456",
+    "sentence": "Bruno corría por la terminal con la mochila golpeándole la espalda. ¡Lo iba a perder, y era el último camión! A toro pasado, esa carrera parece innecesaria porque la salida se retrasó una hora; en el tablero que él alcanzó a ver no aparecía ningún retraso.",
+    "cloze": "A toro pasado",
+    "answer": "A toro pasado",
+    "lemma": "a toro pasado",
+    "meaning": "with hindsight",
+    "audio": "work/audio/es-MX/06/es-06-0456.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0457",
+    "sentence": "Alicia acercó una silla al vecino nuevo. Bueno, que se sentara; tampoco iba a dejarlo de pie mientras ella acomodaba las macetas. Hoy somos amigos de su familia. De aquella escena rescato el gesto sencillo, sin convertir su cortesía de ese día en un plan para unir a las dos familias.",
+    "cloze": "rescato",
+    "answer": "rescato",
+    "lemma": "rescatar",
+    "meaning": "draw out and preserve",
+    "audio": "work/audio/es-MX/06/es-06-0457.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0458",
+    "sentence": "Alma guardó el cuento que la revista no publicó. Ya estaba: no tenía talento, mejor ni volver a intentarlo. Años después encontramos una nota sobre páginas perdidas antes de la selección. Aquel silencio ha dejado de ser para mí un rechazo seguro; tampoco sabemos si el cuento de Alma estaba entre las páginas perdidas.",
+    "cloze": "ha dejado de ser",
+    "answer": "ha dejado de ser",
+    "lemma": "dejar de ser",
+    "meaning": "has ceased to be",
+    "audio": "work/audio/es-MX/06/es-06-0458.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0459",
+    "sentence": "Daniel cerró la libreta cuando cancelaron el taller. Qué alivio, ya no tendría que mostrar sus dibujos frente a todos. Antes me parecía absurdo que se alegrara; ahora que a mí también me cuesta enseñar mis dibujos, me reconozco en aquel alivio.",
+    "cloze": "me reconozco",
+    "answer": "me reconozco",
+    "lemma": "reconocerse",
+    "meaning": "recognize myself",
+    "audio": "work/audio/es-MX/06/es-06-0459.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0460",
+    "sentence": "Vera dejó de bailar cuando su papá apareció con la cámara. Ya venía a burlarse de ella; mejor quedarse quieta. Hoy él vuelve a poner ese video y dice que le encanta verla bailar. Ese cariño de hoy no me aclara qué buscaba entonces con la cámara; la sospecha de Vera tampoco lo prueba.",
+    "cloze": "me aclara",
+    "answer": "me aclara",
+    "lemma": "aclarar",
+    "meaning": "makes clear to me",
+    "audio": "work/audio/es-MX/06/es-06-0460.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0461",
+    "sentence": "Elena miraba el teléfono junto a la maleta. ¿Y si nadie venía por ella? Qué fácil era prometer y luego olvidarse. Ahora tengo el mensaje donde su tío confirmó que iba en camino, pero ella lo recibió al llegar él. Esa demora me impide contar su espera como un miedo sin motivo.",
+    "cloze": "me impide",
+    "answer": "me impide",
+    "lemma": "impedir",
+    "meaning": "prevents me",
+    "audio": "work/audio/es-MX/06/es-06-0461.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0462",
+    "sentence": "Óscar repetía el postre en casa de su abuela. Así daba gusto pasar el domingo; todavía quedaba toda la tarde para platicar. Hoy, al recordar que esa fue la última comida antes de que ella se mudara lejos, la escena se tiñe de tristeza. La tristeza es mía al contarla; él aún esperaba muchos domingos iguales.",
+    "cloze": "se tiñe",
+    "answer": "se tiñe",
+    "lemma": "teñirse",
+    "meaning": "takes on a coloring",
+    "audio": "work/audio/es-MX/06/es-06-0462.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0463",
+    "sentence": "Rocío se detuvo al oír gritos detrás de la puerta. Otra pelea familiar; mejor no entrar. Solo después, al ver la grabación de todos animando a un concursante en la tele, su retirada adquirió para mí otro sentido: había renunciado a entrar por temor a una pelea que no estaba ocurriendo.",
+    "cloze": "Solo después",
+    "answer": "Solo después",
+    "lemma": "solo después",
+    "meaning": "only afterward",
+    "audio": "work/audio/es-MX/06/es-06-0463.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0464",
+    "sentence": "El recibo que apareció el año pasado muestra que mis tíos sí pagaron su parte de la comida. Aquella tarde, Marta contaba los billetes en la cocina. Vaya, otra vez le tocaba poner todo a ella. Hoy aquel reproche me alcanza: yo había recibido el dinero y olvidé avisarle.",
+    "cloze": "me alcanza",
+    "answer": "me alcanza",
+    "lemma": "alcanzar",
+    "meaning": "reaches me; applies to me",
+    "audio": "work/audio/es-MX/06/es-06-0464.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0465",
+    "sentence": "Nora vio que su hermana había quitado su taza favorita de la repisa. Ni su rincón podía conservar; ya estorbaba ella hasta con su taza. La nota que encontramos después decía que su hermana la había apartado para reparar una grieta. Hoy le reconozco ese cuidado a su hermana; Nora, frente al hueco, no tenía cómo verlo.",
+    "cloze": "le reconozco",
+    "answer": "le reconozco",
+    "lemma": "reconocer",
+    "meaning": "give her credit for",
+    "audio": "work/audio/es-MX/06/es-06-0465.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0466",
+    "sentence": "Samuel dejó una caja de libros en el local vacío. Con eso bastaba por hoy; mañana vería si alguien quería llevarse uno. Ahora funciona ahí la biblioteca del barrio. En nuestra historia, aquella caja se transforma en un comienzo, aunque para Samuel todavía era una prueba sin futuro asegurado.",
+    "cloze": "se transforma",
+    "answer": "se transforma",
+    "lemma": "transformarse",
+    "meaning": "turns into",
+    "audio": "work/audio/es-MX/06/es-06-0466.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0467",
+    "sentence": "Hoy sé por las listas completas que a Iván le asignaron tantas tareas como a los demás. Pero aquella mañana solo le entregaron su hoja, y la miró sin sentarse. Qué abuso, otra vez lo cargaban de trabajo por ser el nuevo. Ahora entiendo su enojo, pero no lo disculpo por haberle gritado a la compañera que solo repartía las hojas.",
+    "cloze": "lo disculpo",
+    "answer": "lo disculpo",
+    "lemma": "disculpar",
+    "meaning": "excuse him",
+    "audio": "work/audio/es-MX/06/es-06-0467.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0468",
+    "sentence": "Marina pegó su nombre en la puerta del taller. Al fin tenía un lugar suyo; aquí nadie iba a pedirle que recogiera todo a media tarde. El local cerró a los dos meses. Al recordarla hoy, aquella seguridad se carga de ironía; Marina la sentía de verdad cuando pegó el letrero.",
+    "cloze": "se carga",
+    "answer": "se carga",
+    "lemma": "cargarse",
+    "meaning": "becomes charged",
+    "audio": "work/audio/es-MX/06/es-06-0468.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0469",
+    "sentence": "Diego salió del ensayo sin que el director comentara su solo. Claro, había tocado tan mal que ni valía la pena corregirlo. El audio que escuchamos después revela que el director anunció su prisa antes de que Diego llegara. Desde entonces, aquel silencio ha perdido para mí valor como juicio musical: sabemos que tenía prisa, pero no qué le pareció el solo.",
+    "cloze": "ha perdido",
+    "answer": "ha perdido",
+    "lemma": "perder",
+    "meaning": "has lost",
+    "audio": "work/audio/es-MX/06/es-06-0469.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0470",
+    "sentence": "El teatro nos confirmó después que la página había marcado todas las funciones como agotadas por error. Esa noche, Pablo dejó de buscar y guardó el celular. Ni modo, se quedaría en casa; no iba a inventar un asiento. En su momento, esa renuncia fue una respuesta a lo que podía ver, no una señal de que ya no quisiera ir.",
+    "cloze": "En su momento",
+    "answer": "En su momento",
+    "lemma": "en su momento",
+    "meaning": "at the time",
+    "audio": "work/audio/es-MX/06/es-06-0470.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0471",
+    "sentence": "Adriana salió de la reunión con el cuaderno cerrado. Perfecto, todos estaban de su lado; nadie había dicho una palabra en contra. Las notas que me enseñaron después incluían dudas que no se leyeron en voz alta. Al recordar su salida, le resto certeza a aquel «todos»: sé que hubo silencio, pero las notas no me permiten hablar de un acuerdo unánime.",
+    "cloze": "le resto",
+    "answer": "le resto",
+    "lemma": "restar",
+    "meaning": "subtract from it",
+    "audio": "work/audio/es-MX/06/es-06-0471.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0472",
+    "sentence": "Gabriel estrenó las llaves del departamento y abrió todas las ventanas. Ahora sí empezaba una vida sin discusiones; qué fácil iba a ser vivir con su mejor amigo. Durante el mes que vivieron juntos discutieron a diario por las visitas y los horarios. Hoy veo cómo esa confianza se volvió en su contra: por dar la convivencia por resuelta, no habló de reglas antes de mudarse.",
+    "cloze": "se volvió en su contra",
+    "answer": "se volvió en su contra",
+    "lemma": "volverse en contra",
+    "meaning": "backfired on him",
+    "audio": "work/audio/es-MX/06/es-06-0472.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0473",
+    "sentence": "Teresa entró sonriendo al salón lleno de globos el día de su cumpleaños. Se habían acordado de ella, qué detalle; hasta habían elegido su color favorito. Al día siguiente, la organizadora nos explicó que los adornos eran para el fin de curso; ni siquiera sabía del cumpleaños. A Teresa y a mí nos da risa hoy aquella coincidencia de colores; su sonrisa al entrar era de agradecimiento.",
+    "cloze": "nos da risa",
+    "answer": "nos da risa",
+    "lemma": "dar risa",
+    "meaning": "makes us laugh",
+    "audio": "work/audio/es-MX/06/es-06-0473.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0474",
+    "sentence": "Julián vio a su papá entre el público y enderezó la espalda. Había venido por él; esta vez no se iba a perder su canción. Años después su papá me confirmó que había ido tanto a escucharlo como a entregar un reconocimiento. En mi recuerdo se suman ahora ambos motivos; Julián no conocía el segundo.",
+    "cloze": "se suman",
+    "answer": "se suman",
+    "lemma": "sumarse",
+    "meaning": "come together",
+    "audio": "work/audio/es-MX/06/es-06-0474.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0475",
+    "sentence": "Sara apretaba la carpeta contra el pecho. Llevaban horas ignorándola; ni que su tiempo no valiera. El registro que encontramos después marcaba ocho minutos de espera. Aun con ese dato, la escena se alarga en mi memoria: vuelvo a verla pendiente de cada ruido detrás de la puerta.",
+    "cloze": "se alarga",
+    "answer": "se alarga",
+    "lemma": "alargarse",
+    "meaning": "grows longer",
+    "audio": "work/audio/es-MX/06/es-06-0475.mp3",
+    "accepted_answers": []
   }
 ]
