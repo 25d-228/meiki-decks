@@ -1,0 +1,252 @@
+[
+  {
+    "id": "es-06-0001",
+    "sentence": "Recepción contó más quejas y la encargada registró más visitas, pero menos quejas por visita. Sin embargo, el desglose muestra más quejas por ruido por cada cien visitas. Ese empeoramiento relativiza la mejora general: la tasa total bajó, pero no mejoraron todas las categorías.",
+    "cloze": "relativiza",
+    "answer": "relativiza",
+    "lemma": "relativizar",
+    "meaning": "qualifies",
+    "audio": "work/audio/es-MX/06/es-06-0001.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0002",
+    "sentence": "Las pruebas confirmaron que el texto de la guía abría en celulares viejos. Una usuaria dice que la nueva edición conserva exactamente ese archivo; la editora confirma que solo agregó videos separados, todavía sin probar. Esa incorporación no desactualiza la prueba del texto conservado, pero tampoco demuestra que los videos nuevos funcionen en esos celulares.",
+    "cloze": "desactualiza",
+    "answer": "desactualiza",
+    "lemma": "desactualizar",
+    "meaning": "makes obsolete",
+    "audio": "work/audio/es-MX/06/es-06-0002.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0003",
+    "sentence": "Vecinos, aquel respaldo no es extensivo al encuentro con cobro. La organizadora cuenta que todos aprobaron hacerlo gratis; el portero recuerda que varios se fueron enseguida. La minuta registra que después se acordó cobrar para pagar la música: cambió una condición de la propuesta cuando ya faltaban quienes habían aprobado la primera.",
+    "cloze": "extensivo",
+    "answer": "extensivo",
+    "lemma": "extensivo",
+    "meaning": "applicable beyond its original scope",
+    "audio": "work/audio/es-MX/06/es-06-0003.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0004",
+    "sentence": "El recibo confirma que llegaron todas las agujas y todo el hilo. La maestra probó las agujas con hilo delgado; una alumna comprobó que el hilo entregado era demasiado grueso para ellas, aunque servía con otras agujas. El problema del paquete es la incompatibilidad entre sus materiales; las pruebas por separado no demuestran que puedan usarse juntos.",
+    "cloze": "incompatibilidad",
+    "answer": "incompatibilidad",
+    "lemma": "incompatibilidad",
+    "meaning": "incompatibility",
+    "audio": "work/audio/es-MX/06/es-06-0004.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0005",
+    "sentence": "Ana, no hace falta sincronizar ambos servicios para que participes. La biblioteca ofrece internet por la mañana y la asesora solo puede reunirse contigo por la tarde; el curso aclara que basta descargar antes la guía, pues la asesoría es presencial y trabaja con esa copia. La descarga previa permite aprovechar los servicios en momentos distintos.",
+    "cloze": "sincronizar",
+    "answer": "sincronizar",
+    "lemma": "sincronizar",
+    "meaning": "synchronize",
+    "audio": "work/audio/es-MX/06/es-06-0005.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0006",
+    "sentence": "La maestra informa que subió el nivel de lectura del grupo. La encargada recuerda que salieron varios principiantes; las familias muestran trabajos anteriores y posteriores de quienes siguieron, con avances de esas mismas personas. No podemos achacarlo todo a las bajas: cambió la composición del grupo, pero también hay progreso documentado entre quienes permanecieron.",
+    "cloze": "achacarlo",
+    "answer": "achacarlo",
+    "lemma": "achacar",
+    "meaning": "attribute it",
+    "audio": "work/audio/es-MX/06/es-06-0006.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0007",
+    "sentence": "El encargado midió menos ruido en la sala. La bibliotecaria cuenta que también bajaron el volumen de los textos grabados; una usuaria no los entendía hasta que lo subieron, sin cambiar el ruido de fondo. El beneficio de una sala más silenciosa quedó contrarrestado por aquel ajuste de volumen; la dificultad no demuestra que reducir el ruido fuera inútil.",
+    "cloze": "contrarrestado",
+    "answer": "contrarrestado",
+    "lemma": "contrarrestar",
+    "meaning": "offset",
+    "audio": "work/audio/es-MX/06/es-06-0007.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0008",
+    "sentence": "Ustedes aceptaron el horario solo porque esperaban ver después la grabación; la tutora confirma que a esa hora trabajan. Pero el curso entrega el enlace únicamente a quienes se conectan en vivo. Su alternativa se frustra por esa condición de acceso: para obtener lo que les permitiría faltar, tendrían que asistir.",
+    "cloze": "se frustra",
+    "answer": "se frustra",
+    "lemma": "frustrarse",
+    "meaning": "is thwarted",
+    "audio": "work/audio/es-MX/06/es-06-0008.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0009",
+    "sentence": "Aunque las listas repiten los mismos nombres, no certifican la permanencia de las mismas personas durante las dos funciones. El acomodador vio ocupados los asientos en ambas, pero taquilla aclara que los boletos podían prestarse y que varias personas entraron con el de alguien más. Hubo ocupación en ambas funciones; la identidad de cada asistente no queda establecida por esas listas.",
+    "cloze": "permanencia",
+    "answer": "permanencia",
+    "lemma": "permanencia",
+    "meaning": "continued presence",
+    "audio": "work/audio/es-MX/06/es-06-0009.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0010",
+    "sentence": "Podemos disociar el éxito con acompañamiento de la presencia de letreros, sin atribuirles eficacia propia. El registro documenta llegadas al patio con ambos apoyos; la guía llevó después a otro grupo por el mismo recorrido sin letreros y todos llegaron. La encargada aclara que nunca probaron los letreros sin acompañamiento: esa posibilidad sigue sin evaluarse.",
+    "cloze": "disociar",
+    "answer": "disociar",
+    "lemma": "disociar",
+    "meaning": "separate",
+    "audio": "work/audio/es-MX/06/es-06-0010.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0011",
+    "sentence": "El balance muestra menos tiempo por ficha, en promedio. Recepción confirma que las fichas completas llevan menos tiempo que las incompletas; una voluntaria aclara que ahora hubo más completas y que cada tipo tardó lo mismo que antes. La mayor proporción de fichas completas ha rebajado el promedio, sin mostrar que se procesara más rápido ninguno de los dos tipos.",
+    "cloze": "ha rebajado",
+    "answer": "ha rebajado",
+    "lemma": "rebajar",
+    "meaning": "has lowered",
+    "audio": "work/audio/es-MX/06/es-06-0011.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0012",
+    "sentence": "La transcripción no le restituye a tu hija la oportunidad de intervenir en aquella sesión. La bibliotecaria confirma que hubo interpretación durante la explicación, pero no durante las preguntas; tú cuentas que después llegó la transcripción completa. Tu hija dice que entonces descubrió una respuesta que habría querido discutir: ya conoce el contenido, pero perdió aquel intercambio.",
+    "cloze": "restituye",
+    "answer": "restituye",
+    "lemma": "restituir",
+    "meaning": "restores",
+    "audio": "work/audio/es-MX/06/es-06-0012.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0013",
+    "sentence": "Yo no sumaría los dos ahorros: no son acumulables. El taller informa que ahorró diez minutos al confirmar cada pedido y otros diez al preparar los materiales; la clienta nota diez minutos menos de espera. El encargado aclara que ambas tareas ocurrían juntas y que las reducciones corresponden al mismo intervalo: sumarlas contaría dos veces los mismos diez minutos.",
+    "cloze": "acumulables",
+    "answer": "acumulables",
+    "lemma": "acumulable",
+    "meaning": "additive",
+    "audio": "work/audio/es-MX/06/es-06-0013.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0014",
+    "sentence": "¿Las pruebas descartan la falla reportada? El registro del elevador no muestra problemas, pero la encargada explica que siempre lo revisan vacío. El vecino cuenta que la puerta se atora únicamente cuando entran varias personas y que luego funciona al salir ellas. Las pruebas no reproducen esa condición; sus resultados favorables no descartan ni confirman su relato.",
+    "cloze": "reproducen",
+    "answer": "reproducen",
+    "lemma": "reproducir",
+    "meaning": "reproduce",
+    "audio": "work/audio/es-MX/06/es-06-0014.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0015",
+    "sentence": "El programa ofrecía interpretación y demostración al mismo tiempo. Una visitante explica que no podía mirar las señas y las manos de la tallerista a la vez; la coordinadora confirma que después hicieron pausas y ella pudo seguir ambas. Los apoyos resultaron aprovechables cuando los escalonaron; tenerlos disponibles simultáneamente no había bastado para esa visitante.",
+    "cloze": "escalonaron",
+    "answer": "escalonaron",
+    "lemma": "escalonar",
+    "meaning": "staggered",
+    "audio": "work/audio/es-MX/06/es-06-0015.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0016",
+    "sentence": "Hubo una renovación parcial de los destinatarios, junto con más entregas. Así se relacionan los datos de la biblioteca: el registro muestra más entregas; la repartidora confirma el mismo número de hogares, aunque hay destinatarios nuevos, y su compañero explica que otros dejaron de recibir libros. Las incorporaciones no representan por sí solas una ampliación de la cobertura total.",
+    "cloze": "renovación",
+    "answer": "renovación",
+    "lemma": "renovación",
+    "meaning": "turnover",
+    "audio": "work/audio/es-MX/06/es-06-0016.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0017",
+    "sentence": "¿De verdad lo hicieron sin ayuda? Prescindieron de las indicaciones orales, pero no del modelo. La maestra cuenta que primero explicó cada paso; en el segundo intento todos terminaron sin preguntarle nada. La ayudante precisa que copiaron los pasos del ejemplo resuelto que seguía en el pizarrón: retirar a la maestra no convirtió esa repetición en una ejecución autónoma.",
+    "cloze": "Prescindieron",
+    "answer": "Prescindieron",
+    "lemma": "prescindir",
+    "meaning": "did without",
+    "audio": "work/audio/es-MX/06/es-06-0017.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0018",
+    "sentence": "La coordinadora reúne una lista para el taller matutino y otra para el nocturno. Quien llamó a los interesados confirma que son las mismas personas; ellas pidieron ambas opciones para asegurar un lugar, pero tomarían solo una. Con dos grupos, esa demanda se redistribuiría entre horarios; sumar las listas supone conservar dos solicitudes que cada persona hizo como alternativas.",
+    "cloze": "se redistribuiría",
+    "answer": "se redistribuiría",
+    "lemma": "redistribuirse",
+    "meaning": "would be redistributed",
+    "audio": "work/audio/es-MX/06/es-06-0018.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0019",
+    "sentence": "¿Son equiparables las mediciones de espera de antes y después? Los recibos muestran menos tiempo desde que se entrega el turno, pero la recepcionista explica que ahora lo entrega después de llenar la ficha, cuando antes lo daba al llegar. Una usuaria tardó más desde su llegada hasta ser atendida: cambió qué parte de la visita mide el reloj.",
+    "cloze": "equiparables",
+    "answer": "equiparables",
+    "lemma": "equiparable",
+    "meaning": "comparable",
+    "audio": "work/audio/es-MX/06/es-06-0019.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0020",
+    "sentence": "Los comentarios del taller elogian la explicación subtitulada. La maestra aclara que quienes la elogiaron escucharon el audio; una alumna que solo leyó los subtítulos muestra que ahí se omitió un paso que sí se oye. Esos elogios no convalidan la versión escrita: describen una experiencia con acceso a información que esa alumna no recibió.",
+    "cloze": "convalidan",
+    "answer": "convalidan",
+    "lemma": "convalidar",
+    "meaning": "validate",
+    "audio": "work/audio/es-MX/06/es-06-0020.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0021",
+    "sentence": "La lista tiene doce firmas de personas distintas. La moderadora vio al menos a ocho antes del cierre; el portero confirma que todos firmaron y que al menos dos llegaron después. Esos datos acotan el número de asistentes antes del cierre entre ocho y diez; no permiten escoger una cifra exacta dentro de ese intervalo.",
+    "cloze": "acotan",
+    "answer": "acotan",
+    "lemma": "acotar",
+    "meaning": "set bounds on",
+    "audio": "work/audio/es-MX/06/es-06-0021.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0022",
+    "sentence": "Al separar los casos, la comparación da un vuelco. El balance presenta al módulo de entrada como el más rápido; una usuaria que comparó devoluciones simples tardó menos en el del fondo. El desglose confirma que este fue más rápido tanto en casos simples como complicados, pero recibió muchos más complicados: la ventaja global de la entrada no se mantiene en ninguno de los dos tipos.",
+    "cloze": "da un vuelco",
+    "answer": "da un vuelco",
+    "lemma": "dar un vuelco",
+    "meaning": "undergoes a reversal",
+    "audio": "work/audio/es-MX/06/es-06-0022.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0023",
+    "sentence": "El aumento de preguntas no echa por tierra la mejora comprobada. La encargada recibió más preguntas repetidas tras abrir un buzón anónimo; los usuarios dicen que ahora se atreven a mostrar sus dudas. La maestra comprobó menos errores al pedirles que explicaran las instrucciones. Cambió también la disposición a preguntar, aunque no sabemos cuánto del aumento se debe al buzón.",
+    "cloze": "echa por tierra",
+    "answer": "echa por tierra",
+    "lemma": "echar por tierra",
+    "meaning": "undermines",
+    "audio": "work/audio/es-MX/06/es-06-0023.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0024",
+    "sentence": "No les puedo ofrecer esos dos lugares como una opción para venir juntas: el cupo está fragmentado entre sesiones. El balance anuncia dos lugares libres para principiantes; las listas muestran uno por sesión. La coordinadora confirma que ustedes necesitan compartir el traslado y que no hay dos lugares en ninguna sesión: el total alcanza, pero la distribución impide atender su solicitud conjunta.",
+    "cloze": "fragmentado",
+    "answer": "fragmentado",
+    "lemma": "fragmentar",
+    "meaning": "fragmented",
+    "audio": "work/audio/es-MX/06/es-06-0024.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0025",
+    "sentence": "La encuesta registra visitas sin reservación por la tarde. El cuaderno anota entradas con carriolas durante el día; la encargada aclara que no registró cuáles de esas familias tenían reserva. No se infiere el acceso sin reservación y con carriola por la tarde: constan por separado esas visitas, sin datos que permitan identificar un caso que reúna las tres condiciones.",
+    "cloze": "se infiere",
+    "answer": "se infiere",
+    "lemma": "inferir",
+    "meaning": "is inferred",
+    "audio": "work/audio/es-MX/06/es-06-0025.mp3",
+    "accepted_answers": []
+  }
+]
