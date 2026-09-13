@@ -3752,5 +3752,283 @@
     "meaning": "be prohibited",
     "audio": "work/audio/es-MX/06/es-06-0375.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0376",
+    "sentence": "Mi hermana iba a usar el cuarto, pero yo no lo sabía cuando te invité a quedarte. Dices que, de haberlo sabido yo, tú habrías aceptado dormir ahí de todos modos. No te habría ofrecido ese cuarto con esa información; tu disposición a compartirlo no conserva una oferta que dependía de creerlo libre.",
+    "cloze": "habría ofrecido",
+    "answer": "habría ofrecido",
+    "lemma": "ofrecer",
+    "meaning": "would have offered",
+    "audio": "work/audio/es-MX/06/es-06-0376.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0377",
+    "sentence": "Ahora sé que tu entrega era el viernes y habría estado dispuesto a ayudarte de haberlo sabido. Pero, si mi respuesta hubiera seguido siendo «Esta semana no puedo», no habría sido razonable que tú hubieras contado con mi revisión. Mi disposición a ayudarte necesitaba llegar a ti para que pudieras organizarte con ese apoyo.",
+    "cloze": "hubieras contado",
+    "answer": "hubieras contado",
+    "lemma": "contar",
+    "meaning": "had counted",
+    "audio": "work/audio/es-MX/06/es-06-0377.mp3",
+    "accepted_answers": [
+      "hubieses contado"
+    ]
+  },
+  {
+    "id": "es-06-0378",
+    "sentence": "Te ofrecí recogerte en la terminal porque creía que llegabas en autobús; también te invité a desayunar, fueras como fueras. Si hubiera sabido que llegabas en tren, el mensaje sobre la recogida habría sido distinto. Aun así, habrías conservado la invitación al desayuno: esa parte de mi mensaje no dependía del transporte.",
+    "cloze": "habrías conservado",
+    "answer": "habrías conservado",
+    "lemma": "conservar",
+    "meaning": "would have retained",
+    "audio": "work/audio/es-MX/06/es-06-0378.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0379",
+    "sentence": "Te mandé el texto como definitivo porque no sabía que faltaba la revisión de la autora. De haberlo sabido, mi mensaje habría dicho «Borrador pendiente de revisión». Dudo que hubieras dado por definitivo el contenido para preparar la impresión con ese aviso, aunque el archivo fuera exactamente el mismo.",
+    "cloze": "hubieras dado",
+    "answer": "hubieras dado",
+    "lemma": "dar",
+    "meaning": "had regarded",
+    "audio": "work/audio/es-MX/06/es-06-0379.mp3",
+    "accepted_answers": [
+      "hubieses dado"
+    ]
+  },
+  {
+    "id": "es-06-0380",
+    "sentence": "Le prometí su cuaderno personalizado para el viernes porque desconocía el tiempo de secado. Si lo hubiera sabido, le habría dado el plazo del lunes antes de tomar su pedido. Usted habría podido escoger entonces entre esperar o llevarse uno ya terminado; mi corrección del plazo no lo obligaba a aceptar la espera.",
+    "cloze": "habría podido escoger",
+    "answer": "habría podido escoger",
+    "lemma": "poder escoger",
+    "meaning": "would have been able to choose",
+    "audio": "work/audio/es-MX/06/es-06-0380.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0381",
+    "sentence": "Ayer le confirmé a Eva que cubriría mi clase; hoy al mediodía supe que mi viaje se cancelaba. Si lo hubiera sabido esta mañana, habría querido dar la clase yo. Aun así, habría debido avisarle a Eva antes de anunciarme de nuevo: ella ya contaba con una confirmación mía que esa información no retiraba por sí sola.",
+    "cloze": "habría debido avisarle",
+    "answer": "habría debido avisarle",
+    "lemma": "deber avisar",
+    "meaning": "should have notified her",
+    "audio": "work/audio/es-MX/06/es-06-0381.mp3",
+    "accepted_answers": [
+      "le habría debido avisar"
+    ]
+  },
+  {
+    "id": "es-06-0382",
+    "sentence": "Rechazaste leer mi manuscrito completo porque no tenías tiempo. Yo no sabía que para la solicitud bastaba una página. De haberlo sabido, te habría pedido solo esa lectura; no habrías rechazado necesariamente ese encargo más breve. Tu negativa al libro entero no me permite dar por contestada una petición que nunca te hice.",
+    "cloze": "habrías rechazado",
+    "answer": "habrías rechazado",
+    "lemma": "rechazar",
+    "meaning": "would have declined",
+    "audio": "work/audio/es-MX/06/es-06-0382.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0383",
+    "sentence": "—Yo creía que la cena era para nosotros dos y te la presenté así. Si hubiera sabido que venía toda la familia, te habría avisado. —Acepté porque quería hablar contigo a solas. Con esa invitación distinta, no habría tenido sentido que hubieras esperado que yo te contara mis problemas delante de todos; mi sí no incluía eso.",
+    "cloze": "hubieras esperado",
+    "answer": "hubieras esperado",
+    "lemma": "esperar",
+    "meaning": "had expected",
+    "audio": "work/audio/es-MX/06/es-06-0383.mp3",
+    "accepted_answers": [
+      "hubieses esperado"
+    ]
+  },
+  {
+    "id": "es-06-0384",
+    "sentence": "Te reenvié el borrador porque lo creía público y luego te reclamé que no señalaras una cifra equivocada. Si hubiera sabido que la autora aún no permitía compartirlo, no te lo habría enviado. Exigirte que hubieras detectado el error en ese caso sería injusto: ese archivo era tu única fuente para revisar las cifras.",
+    "cloze": "hubieras detectado",
+    "answer": "hubieras detectado",
+    "lemma": "detectar",
+    "meaning": "had spotted",
+    "audio": "work/audio/es-MX/06/es-06-0384.mp3",
+    "accepted_answers": [
+      "hubieses detectado"
+    ]
+  },
+  {
+    "id": "es-06-0385",
+    "sentence": "Te dije que el taller estaba cancelado porque entendí mal el aviso: solo faltaba confirmar el salón. Con esa información correcta, mi mensaje habría dejado la apertura pendiente. Tú habrías podido preguntar hasta cuándo convenía esperar, en vez de recibir una cancelación como definitiva; no puedo suponer que aun así habrías abandonado la inscripción.",
+    "cloze": "habrías podido preguntar",
+    "answer": "habrías podido preguntar",
+    "lemma": "poder preguntar",
+    "meaning": "could have asked",
+    "audio": "work/audio/es-MX/06/es-06-0385.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0386",
+    "sentence": "Creí que seguías de viaje y anuncié tu ausencia sin leer tu confirmación. Leo corrigió mi aviso ante la organizadora. Si yo hubiera leído tu mensaje, habría anunciado tu asistencia desde el principio. En ese caso, ella no habría necesitado que Leo rectificara mi aviso, pero sí habría seguido esperando tu horario de llegada: tu confirmación no lo incluía.",
+    "cloze": "rectificara",
+    "answer": "rectificara",
+    "lemma": "rectificar",
+    "meaning": "correct",
+    "audio": "work/audio/es-MX/06/es-06-0386.mp3",
+    "accepted_answers": [
+      "rectificase"
+    ]
+  },
+  {
+    "id": "es-06-0387",
+    "sentence": "El lunes era el último día para cambiar la fecha del recorrido, pero mi mensaje equivocado de «todo confirmado» te hizo esperar. Si yo hubiera sabido del cierre ese día, habría mandado una corrección. Aun así, no habrías podido cambiar la fecha con ese mensaje si te llegaba el martes; saberlo yo a tiempo no garantizaba que tú pudieras decidir a tiempo.",
+    "cloze": "habrías podido cambiar",
+    "answer": "habrías podido cambiar",
+    "lemma": "poder cambiar",
+    "meaning": "would have been able to change",
+    "audio": "work/audio/es-MX/06/es-06-0387.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0388",
+    "sentence": "Yo te aseguré que habría transporte al hotel sin haberlo comprobado. Si hubiera sabido que mi contacto no podía llevarte, habría retirado esa seguridad. Pero el hotel ya te había confirmado directamente su propia camioneta; habrías seguido esperando ese servicio por su mensaje, aunque el mío fuera distinto. No dependías solo de lo que yo sabía.",
+    "cloze": "habrías seguido esperando",
+    "answer": "habrías seguido esperando",
+    "lemma": "seguir esperando",
+    "meaning": "would still have expected",
+    "audio": "work/audio/es-MX/06/es-06-0388.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0389",
+    "sentence": "Te pedí ayuda para buscar las llaves porque creía que seguían perdidas. Si hubiera sabido que Ana ya las tenía, no te habría pedido esa búsqueda. Pero no por eso habrías quedado comprometido a ayudarme con la mudanza: tu sí respondía a las llaves, no a cualquier favor que yo eligiera después.",
+    "cloze": "habrías quedado",
+    "answer": "habrías quedado",
+    "lemma": "quedar",
+    "meaning": "would have become",
+    "audio": "work/audio/es-MX/06/es-06-0389.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0390",
+    "sentence": "Yo creía que todos los del grupo querían actuar y repartí los papeles sin preguntar; nadie objetó. Si hubiera sabido que algunos solo querían ayudar con el vestuario, habría consultado quién deseaba salir a escena. Es dudoso que todos hubieran elegido el papel asignado: su silencio ante mi reparto no responde a esa consulta distinta.",
+    "cloze": "hubieran elegido",
+    "answer": "hubieran elegido",
+    "lemma": "elegir",
+    "meaning": "had chosen",
+    "audio": "work/audio/es-MX/06/es-06-0390.mp3",
+    "accepted_answers": [
+      "hubiesen elegido"
+    ]
+  },
+  {
+    "id": "es-06-0391",
+    "sentence": "—Te pregunté por qué habías rechazado mi invitación; ahora sé que el mensaje nunca te llegó. —Si lo hubieras sabido antes de llamarme, lo que faltaba era preguntarme si quería ir. No habría tenido sentido que esperaras que yo explicara los motivos de un rechazo; todavía no había tenido ocasión de elegir.",
+    "cloze": "explicara",
+    "answer": "explicara",
+    "lemma": "explicar",
+    "meaning": "I explain",
+    "audio": "work/audio/es-MX/06/es-06-0391.mp3",
+    "accepted_answers": [
+      "explicase"
+    ]
+  },
+  {
+    "id": "es-06-0392",
+    "sentence": "—Rechacé tu cuarto porque creía que mi curso sería en otra ciudad. De haber sabido la sede correcta, te habría preguntado cuánto se hacía de tu casa a la sede. —Con esa pregunta, yo habría entendido que estabas considerando quedarte aquí; te habría explicado el trayecto. Pero aún habría necesitado tu confirmación antes de apartarte el cuarto. Tu interés en la distancia no habría sido un sí a mi oferta.",
+    "cloze": "habría entendido",
+    "answer": "habría entendido",
+    "lemma": "entender",
+    "meaning": "I would have understood",
+    "audio": "work/audio/es-MX/06/es-06-0392.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0393",
+    "sentence": "Yo creía que el salón estaba reservado y te lo confirmé; tú, basándote solo en mi mensaje, prometiste a tu grupo que tendría dónde ensayar. Si hubiera sabido que faltaba confirmar la reserva, te habría comunicado esa duda. No habría sido razonable que hubieras garantizado el espacio al grupo con ese aviso: tu promesa también dependía de mi certeza equivocada.",
+    "cloze": "hubieras garantizado",
+    "answer": "hubieras garantizado",
+    "lemma": "garantizar",
+    "meaning": "had guaranteed",
+    "audio": "work/audio/es-MX/06/es-06-0393.mp3",
+    "accepted_answers": [
+      "hubieses garantizado"
+    ]
+  },
+  {
+    "id": "es-06-0394",
+    "sentence": "Si hubiera sabido que te molestaba el ruido, habría propuesto una cena tranquila en vez del baile. Pero Marta aceptó acompañarnos porque quería bailar. No puedo dar por hecho que ella se hubiera sumado también a la cena: lo que yo ahora preferiría ofrecerte cambia precisamente la actividad que motivó su sí.",
+    "cloze": "se hubiera sumado",
+    "answer": "se hubiera sumado",
+    "lemma": "sumarse",
+    "meaning": "had joined",
+    "audio": "work/audio/es-MX/06/es-06-0394.mp3",
+    "accepted_answers": [
+      "se hubiese sumado"
+    ]
+  },
+  {
+    "id": "es-06-0395",
+    "sentence": "Te mandé a preguntar a recepción si quedaba un cuarto porque yo creía que no había respuesta. Si hubiera leído antes la confirmación que ya me habían enviado, me habría correspondido darte esa información, no esperar que tú hicieras la misma consulta. Tu visita a recepción respondía a una duda mía que ya no existiría en ese caso.",
+    "cloze": "me habría correspondido",
+    "answer": "me habría correspondido",
+    "lemma": "corresponder",
+    "meaning": "it would have been my responsibility",
+    "audio": "work/audio/es-MX/06/es-06-0395.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0396",
+    "sentence": "Te dije que Laura había criticado tu trabajo porque confundí su nombre con el de otra persona. Si hubiera sabido quién escribió el comentario, habría nombrado a esa persona. ¿Qué habría justificado que hubieras reclamado una explicación a Laura con la atribución correcta? Tu motivo para dirigirte a ella venía de mi error, no del contenido de la crítica.",
+    "cloze": "hubieras reclamado",
+    "answer": "hubieras reclamado",
+    "lemma": "reclamar",
+    "meaning": "had demanded",
+    "audio": "work/audio/es-MX/06/es-06-0396.mp3",
+    "accepted_answers": [
+      "hubieses reclamado"
+    ]
+  },
+  {
+    "id": "es-06-0397",
+    "sentence": "—Te pedí que hicieras de nuevo la lista de canciones porque creía que la anterior se había borrado. Si hubiera visto la copia que conservaste, te habría pedido que la mandaras. —Entonces, ¿para qué habría hecho falta que yo hubiera rehecho la selección? Con ese pedido distinto, bastaba compartir el trabajo que ya estaba terminado.",
+    "cloze": "hubiera rehecho",
+    "answer": "hubiera rehecho",
+    "lemma": "rehacer",
+    "meaning": "I had redone",
+    "audio": "work/audio/es-MX/06/es-06-0397.mp3",
+    "accepted_answers": [
+      "hubiese rehecho"
+    ]
+  },
+  {
+    "id": "es-06-0398",
+    "sentence": "Te pedí consejo sobre qué curso elegir porque creía que aún podía cambiar mi inscripción. Si hubiera sabido que el plazo ya había cerrado, te lo habría aclarado y te habría pedido ayuda para aprovechar el curso elegido. Tú no habrías podido esperar que yo cambiara de curso por tu recomendación: el cambio ya era imposible; lo distinto habría sido la información que tenías al aconsejarme.",
+    "cloze": "habrías podido esperar",
+    "answer": "habrías podido esperar",
+    "lemma": "poder esperar",
+    "meaning": "could have expected",
+    "audio": "work/audio/es-MX/06/es-06-0398.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0399",
+    "sentence": "No invité a Inés a votar porque creía que ya no estaba en el equipo; los demás elegimos el sábado por unanimidad. Si hubiera sabido que seguía y le hubiera enviado la consulta, ella también habría tenido voz. No es seguro que hubiéramos obtenido el mismo acuerdo: Inés ya nos explicó que solo podía el domingo.",
+    "cloze": "hubiéramos obtenido",
+    "answer": "hubiéramos obtenido",
+    "lemma": "obtener",
+    "meaning": "we would have reached",
+    "audio": "work/audio/es-MX/06/es-06-0399.mp3",
+    "accepted_answers": [
+      "hubiésemos obtenido"
+    ]
+  },
+  {
+    "id": "es-06-0400",
+    "sentence": "Te dije que el taller prestaba pinceles; tú ofreciste los tuyos a Ana pensando usar los del taller. En realidad solo prestaba papel. Si yo hubiera sabido eso y te lo hubiera dicho antes, habrías tenido que elegir entre prestar tus pinceles y usarlos tú. Si hubieras decidido no prestárselos, es dudoso que Ana hubiera renunciado a llevar los suyos como hizo.",
+    "cloze": "hubiera renunciado",
+    "answer": "hubiera renunciado",
+    "lemma": "renunciar",
+    "meaning": "had given up",
+    "audio": "work/audio/es-MX/06/es-06-0400.mp3",
+    "accepted_answers": [
+      "hubiese renunciado"
+    ]
   }
 ]
