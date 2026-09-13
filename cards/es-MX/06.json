@@ -1748,5 +1748,255 @@
     "meaning": "attribute to them",
     "audio": "work/audio/es-MX/06/es-06-0175.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0176",
+    "sentence": "Me preocupaban el calor y la poca luz del estudio; aun así podía leer junto a la ventana. Acepto probar las cortinas opacas que propones para bajar la temperatura. Pero desaconsejaría juzgar con ellas cerradas si el estudio tiene suficiente luz natural: taparían precisamente la entrada de luz que todavía me permite leer. Si así no pudiera leer, eso justificaría cambiar las cortinas, no descartar el estudio por su iluminación original.",
+    "cloze": "desaconsejaría",
+    "answer": "desaconsejaría",
+    "lemma": "desaconsejar",
+    "meaning": "I would advise against",
+    "audio": "work/audio/es-MX/06/es-06-0176.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0177",
+    "sentence": "Acepto que llevar las charlas nocturnas al hotel resolvería nuestro problema para asistir. Queríamos cambiarlo por su distancia del centro y por no tener transporte de regreso después de las charlas. Si se realizan ahí, ya no esgrimiría la distancia para justificar otra reservación: desaparecería el viaje diario que la hacía problemática. Mantendría la petición de transporte al llegar, porque la terminal sigue lejos.",
+    "cloze": "esgrimiría",
+    "answer": "esgrimiría",
+    "lemma": "esgrimir",
+    "meaning": "I would invoke",
+    "audio": "work/audio/es-MX/06/es-06-0177.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0178",
+    "sentence": "—La revisión extra ya corrigió los errores en las entregas. ¿Podemos aceptar más encargos? —Nos quejábamos también del exceso de trabajo. Seguimos terminando de noche y quien revisa añade otra hora. Esa mejora encubre la sobrecarga en el resultado final; no demuestra que podamos recibir más encargos. Conservemos la revisión, sin retirar por ahora el límite que pedimos para la entrada de trabajo.",
+    "cloze": "encubre",
+    "answer": "encubre",
+    "lemma": "encubrir",
+    "meaning": "masks",
+    "audio": "work/audio/es-MX/06/es-06-0178.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0179",
+    "sentence": "Hasta ahora no puedo ver el resumen opcional en su aplicación y recibo llamadas repetidas con el mismo aviso. Usted propone eliminar esas llamadas y mandar todo por la aplicación. Supeditemos ese cambio a conservar también los mensajes de texto: la incompatibilidad de mi teléfono pasaría de impedir una consulta opcional a dejarme sin avisos. Sí acepto reducir las llamadas; necesito que la nueva organización conserve un canal que pueda usar.",
+    "cloze": "Supeditemos",
+    "answer": "Supeditemos",
+    "lemma": "supeditar",
+    "meaning": "let us make dependent",
+    "audio": "work/audio/es-MX/06/es-06-0179.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0180",
+    "sentence": "—Me preocupaban las pocas perspectivas del grupo y el escaso tiempo para comentar. ¿Pedimos más inscripciones? —Acepto primero duplicar la duración sin subir la cuota, como propones: varias personas todavía no han alcanzado a hablar. Con ese tiempo adicional, no demos por agotadas las perspectivas del grupo basándonos en las pocas que hemos oído. Mantengamos abierta la posibilidad de invitar a más gente, pero probemos la ampliación antes de exigir un grupo mayor.",
+    "cloze": "agotadas",
+    "answer": "agotadas",
+    "lemma": "agotado",
+    "meaning": "exhausted",
+    "audio": "work/audio/es-MX/06/es-06-0180.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0181",
+    "sentence": "Pedimos cerrar la sala por el ruido nocturno y porque casi nadie la usaba. Tu propuesta de pasar los ensayos a la tarde ya se probó: ayer se llenó y no hubo actividad de noche. Reformulemos la petición de cierre como una petición de horarios diurnos. La falta de uso ya no respalda decir que la sala no interesa; el cambio que atiende el ruido también mostró que sí hay público en otro horario.",
+    "cloze": "Reformulemos",
+    "answer": "Reformulemos",
+    "lemma": "reformular",
+    "meaning": "let us reformulate",
+    "audio": "work/audio/es-MX/06/es-06-0181.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0182",
+    "sentence": "—Automatizamos la mitad de nuestras seis tareas breves; ahora cada quien tiene tres, igual que tú. ¿Ya quedó justo el reparto? —Gracias por reducir esos pendientes. Mis tres tareas largas todavía ocupan toda la tarde y las suyas, una hora. No equiparen ese empate con un reparto justo: la solución al número de pendientes cambió las cantidades que comparábamos, pero dejó intacta la diferencia de horas. Conservemos lo automatizado y repartamos lo restante según su duración.",
+    "cloze": "equiparen",
+    "answer": "equiparen",
+    "lemma": "equiparar",
+    "meaning": "equate",
+    "audio": "work/audio/es-MX/06/es-06-0182.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0183",
+    "sentence": "Yo proponía cancelar la visita por lo lejos que viven y por lo poco que alcanzaríamos a convivir. Gracias por ofrecernos quedarnos a dormir. Con esa posibilidad, reorientaría mi propuesta hacia una visita de una noche sin otras salidas: la distancia ahora es una razón para aprovechar más tiempo juntos, no para pasar el día de ida y vuelta. No propongo alargar todas las vacaciones; solo cambiar esa visita breve.",
+    "cloze": "reorientaría",
+    "answer": "reorientaría",
+    "lemma": "reorientar",
+    "meaning": "I would redirect",
+    "audio": "work/audio/es-MX/06/es-06-0183.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0184",
+    "sentence": "Reclamé que el libro llegó ilegible y que el reemplazo tardaría una semana; lo necesitaba para una lectura de mañana. Gracias por enviarme una copia digital que sí puedo leer. Con ella ya no me urge recibir mañana el reemplazo: la semana de espera dejó de impedirme preparar la lectura. Puedo esperar ese plazo, pero sigo solicitando el ejemplar impreso legible que compré.",
+    "cloze": "me urge",
+    "answer": "me urge",
+    "lemma": "urgir",
+    "meaning": "I urgently need",
+    "audio": "work/audio/es-MX/06/es-06-0184.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0185",
+    "sentence": "Buscábamos otro departamento porque faltaba espacio y las llamadas de trabajo no dejaban descansar a nadie. Si haces esas llamadas desde el estudio que te prestan, como propones, ya no necesitaríamos una recámara separada para ellas. No sobredimensionemos la objeción al espacio manteniendo ese requisito: la solución al ruido también elimina el uso que lo justificaba. Sigamos buscando dónde guardar nuestras cosas, pero no descartemos por eso todos los departamentos de una recámara.",
+    "cloze": "sobredimensionemos",
+    "answer": "sobredimensionemos",
+    "lemma": "sobredimensionar",
+    "meaning": "let us overstate",
+    "audio": "work/audio/es-MX/06/es-06-0185.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0186",
+    "sentence": "Proponías no admitir a quienes faltan seguido: se pierden la historia y quienes coordinan tienen que repetirles el resumen cada semana. Tu idea de leer un cuento completo por sesión resolvería esa pérdida del hilo. Ya no los apartaría de las lecturas por la carga de ponerlos al corriente, pues cada cuento empezaría de cero. Sí mantendría la exigencia de constancia para coordinar el ciclo, que requiere organizar varias semanas.",
+    "cloze": "los apartaría",
+    "answer": "los apartaría",
+    "lemma": "apartar",
+    "meaning": "I would exclude them",
+    "audio": "work/audio/es-MX/06/es-06-0186.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0187",
+    "sentence": "No te recomendé el curso por la inscripción anual y las reseñas opuestas sobre la enseñanza. Las favorables describen las primeras clases; las negativas, los cambios posteriores de maestro. Ahora ofrecen dos de esas clases iniciales sin inscripción ni compromiso posterior. Me limitaría a recomendar esa opción: las críticas a lo que ocurre después ya no la descartan, pero los elogios al inicio tampoco responden a esas críticas. Para recomendar el año completo, aún necesitaríamos aclarar los cambios de maestro.",
+    "cloze": "Me limitaría",
+    "answer": "Me limitaría",
+    "lemma": "limitarse",
+    "meaning": "I would confine myself",
+    "audio": "work/audio/es-MX/06/es-06-0187.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0188",
+    "sentence": "Diez participantes no pueden seguir la transmisión y yo solo tengo tiempo para llamar a cuatro; por eso pedí otra persona de apoyo. Seis sí pueden descargar una grabación y ustedes proponen enviársela. Si esas seis personas la reciben y pueden usarla, prescindiría del apoyo adicional: mis cuatro llamadas alcanzarían para quienes aún necesitan otra vía. Mantendría esas llamadas; la grabación no resuelve el acceso de las diez personas.",
+    "cloze": "prescindiría",
+    "answer": "prescindiría",
+    "lemma": "prescindir",
+    "meaning": "I would do without",
+    "audio": "work/audio/es-MX/06/es-06-0188.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0189",
+    "sentence": "La guía nos parecía demasiado larga y recibíamos muchas dudas repetidas. Propusiste enviarla por secciones: cada persona nos pide el tema que necesita y le mandamos solo esa parte. Aceptamos y ahora llegan más mensajes. No interpretemos ese aumento como prueba de mayor confusión: pedir una sección es parte de la nueva forma de consultar, y aún no distinguimos esas solicitudes de las dudas. Mantengamos los envíos por tema y revisemos qué explicaciones siguen sin entenderse.",
+    "cloze": "interpretemos",
+    "answer": "interpretemos",
+    "lemma": "interpretar",
+    "meaning": "let us interpret",
+    "audio": "work/audio/es-MX/06/es-06-0189.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0190",
+    "sentence": "Venían dieciocho personas, solo había doce sillas y nos preocupaba la poca asistencia. Acepté tu propuesta de usar el salón de treinta y seis lugares y exigir reserva para que nadie se quedara sin asiento. Entraron las mismas dieciocho personas; otras llegaron sin reserva y no pudieron pasar. Admitamos a quienes lleguen sin reserva mientras queden asientos, en vez de cancelar por falta de interés: el filtro que añadimos para resolver el cupo impide usar la asistencia como medida de toda la demanda. Conservemos el salón grande.",
+    "cloze": "Admitamos",
+    "answer": "Admitamos",
+    "lemma": "admitir",
+    "meaning": "let us admit",
+    "audio": "work/audio/es-MX/06/es-06-0190.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0191",
+    "sentence": "Me quejé de las respuestas tardías y de no saber a quién pedir cuentas: cada persona decía que le tocaba a otra. Usted propuso recibir todas mis preguntas y responderlas los viernes; aceptamos ese arreglo. Ya recibió las de esta semana y pasó el viernes sin respuesta. Ahora lo responsabilizaría a usted de esta demora concreta, sin atribuírsela a todo el equipo. La centralización sí aclaró el contacto; por eso la indefinición anterior ya no explica este retraso.",
+    "cloze": "responsabilizaría",
+    "answer": "responsabilizaría",
+    "lemma": "responsabilizar",
+    "meaning": "I would hold responsible",
+    "audio": "work/audio/es-MX/06/es-06-0191.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0192",
+    "sentence": "Trabajamos hasta las seis y media; el curso empieza a las seis y dedica casi toda la hora a exponer. Queríamos dejarlo por ese choque y por la falta de preguntas. Propones enviar la exposición grabada el día anterior y empezar la sesión en vivo a las seis y media. Defendamos esa media hora como espacio de preguntas: con el contenido disponible antes y el horario accesible, la falta de conversación justifica conservar ese encuentro, aunque eliminemos la exposición en vivo.",
+    "cloze": "Defendamos",
+    "answer": "Defendamos",
+    "lemma": "defender",
+    "meaning": "let us defend",
+    "audio": "work/audio/es-MX/06/es-06-0192.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0193",
+    "sentence": "El equipo rechazaba compartir la sala por el ruido y por las discusiones que interrumpían el trabajo conjunto. Probamos tu propuesta de usar audífonos y trabajar sin hablar; hubo silencio toda la mañana. No extrapolaría esa calma a una sesión de trabajo conjunto: la solución al ruido también evitó la interacción que necesitábamos observar. Acepto la sala para tareas individuales; para recomendarla al trabajo conjunto, falta probar una actividad en la que sí conversemos.",
+    "cloze": "extrapolaría",
+    "answer": "extrapolaría",
+    "lemma": "extrapolar",
+    "meaning": "I would extrapolate",
+    "audio": "work/audio/es-MX/06/es-06-0193.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0194",
+    "sentence": "No quería ir al viaje porque una sola persona elegía todo y a mí no me gustaban sus actividades. Propones que cada quien organice una salida y que los demás decidan si se suman. Desvincularía mi apoyo al viaje de que todas las salidas me gusten: con esa libertad, mis preferencias sirven para elegir a cuáles ir, no para rechazar el programa completo. Acepto ese reparto, pero no me anoten como participante de todas las salidas.",
+    "cloze": "Desvincularía",
+    "answer": "Desvincularía",
+    "lemma": "desvincular",
+    "meaning": "I would separate",
+    "audio": "work/audio/es-MX/06/es-06-0194.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0195",
+    "sentence": "Te objeté la dureza del mensaje y que acusaras a Eva de borrar el archivo sin pruebas. Propones preguntar «¿Podrías decirme por qué lo borraste?» y considerar evasiva cualquier respuesta que no explique el motivo. Conservemos la cortesía, pero no descalifiquemos una negativa de Eva como evasión: tu pregunta le exige explicar un acto que no sabemos si realizó. La falta de pruebas ahora también impide usar ese criterio para juzgar su respuesta. Preguntemos primero si sabe qué pasó.",
+    "cloze": "descalifiquemos",
+    "answer": "descalifiquemos",
+    "lemma": "descalificar",
+    "meaning": "let us dismiss",
+    "audio": "work/audio/es-MX/06/es-06-0195.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0196",
+    "sentence": "Las familias señalaban dos obstáculos para el taller: no había transporte a esa hora y la cuota les parecía alta. Ya pusimos el camión que propusiste, todas recibieron el aviso y las inscripciones siguen igual. La objeción a la cuota cobra peso frente a la del transporte, aunque eso no demuestra que sea la única causa. Mantendría el camión y consultaría sobre la cuota antes de añadir más recorridos para resolver una falta de transporte que ya atendimos.",
+    "cloze": "cobra peso",
+    "answer": "cobra peso",
+    "lemma": "cobrar peso",
+    "meaning": "gains weight",
+    "audio": "work/audio/es-MX/06/es-06-0196.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0197",
+    "sentence": "—Si puedo trabajar desde casa, ¿ya no me recomendarías mudarme? —Te aconsejé vivir cerca de la oficina por el trayecto largo y por el ruido de tu departamento. Trabajar en casa resolvería el traslado, como dices, pero te expondría al ruido también durante el trabajo. Replantearía la búsqueda para elegir por el silencio, sin exigir cercanía a la oficina. La solución al traslado refuerza el motivo para buscar un lugar tranquilo; lo que retiro es el criterio de ubicación.",
+    "cloze": "Replantearía",
+    "answer": "Replantearía",
+    "lemma": "replantear",
+    "meaning": "I would rethink",
+    "audio": "work/audio/es-MX/06/es-06-0197.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0198",
+    "sentence": "Pedimos menos encargos porque terminábamos agotados y siempre cometíamos errores en el mismo paso. La reducción que propusiste ya nos permite salir a tiempo, pero ese paso sigue fallando incluso en la primera entrega del día. Ya no achacaría ese error solo al exceso de trabajo: al aliviarlo, la prueba debilitó esa explicación sin borrar la falla. Mantengamos por ahora la carga reducida y revisemos ese paso antes de pedir otro recorte.",
+    "cloze": "achacaría",
+    "answer": "achacaría",
+    "lemma": "achacar",
+    "meaning": "I would attribute",
+    "audio": "work/audio/es-MX/06/es-06-0198.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0199",
+    "sentence": "La presentación confundía por tantas cifras y tampoco permitía comprobar de dónde salían. Tu anexo ya reúne los recibos y señala qué total respalda cada uno. No opongamos la claridad a la posibilidad de comprobar las cuentas: ese respaldo ahora puede consultarse sin narrar cada recibo durante la reunión. Apoyo una explicación oral más breve que conserve los totales y remita al anexo, no una que deje de indicar dónde revisarlos.",
+    "cloze": "opongamos",
+    "answer": "opongamos",
+    "lemma": "oponer",
+    "meaning": "let us set in opposition",
+    "audio": "work/audio/es-MX/06/es-06-0199.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0200",
+    "sentence": "Había miedo a opinar con nombre y también se repetían las propuestas de una misma persona, como mostraban las firmas. Acepto recibir mensajes anónimos, como propones. Ya no imputaría las futuras repeticiones a una sola persona: la solución al miedo también eliminaría el dato que permitía reconocer al autor. Podríamos juntar las propuestas por tema, pero no descartar mensajes como intentos de acaparar la consulta sin saber quién los envió.",
+    "cloze": "imputaría",
+    "answer": "imputaría",
+    "lemma": "imputar",
+    "meaning": "I would attribute",
+    "audio": "work/audio/es-MX/06/es-06-0200.mp3",
+    "accepted_answers": []
   }
 ]
