@@ -1498,5 +1498,255 @@
     "meaning": "would withdraw",
     "audio": "work/audio/es-MX/06/es-06-0150.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0151",
+    "sentence": "Rebajemos a ocho el cupo anunciado si vamos a ofrecer también el acceso con silla de ruedas. La administradora lo asegura con el pasillo libre; el encargado garantiza ocho asientos con esa distribución y doce si ocupa parte del pasillo. Ustedes habían anunciado doce con ese acceso. Las dos promesas sí respaldan la distribución de ocho; la de doce no conserva la condición de acceso.",
+    "cloze": "Rebajemos",
+    "answer": "Rebajemos",
+    "lemma": "rebajar",
+    "meaning": "let us lower",
+    "audio": "work/audio/es-MX/06/es-06-0151.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0152",
+    "sentence": "Yo garantizo entregar el informe el jueves si las cifras no cambian; la revisora promete corregir cualquier cifra equivocada antes del miércoles. Tú dices que, con ambas promesas, cualquier corrección me obligaría a entregar el jueves de todos modos. Si aparecen errores, no es que yo me desdiga: cumplir su revisión cambiaría la condición de mi plazo. Si no aparecen, ambas promesas pueden cumplirse juntas; todavía no sabemos cuál será el caso.",
+    "cloze": "me desdiga",
+    "answer": "me desdiga",
+    "lemma": "desdecirse",
+    "meaning": "go back on my word",
+    "audio": "work/audio/es-MX/06/es-06-0152.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0153",
+    "sentence": "—El taller asegura terminar las piezas en dos días después de recibir el diseño definitivo. La diseñadora garantiza ese diseño mañana si hoy aprobamos el boceto. ¿Anunciamos las piezas para mañana si aprobamos hoy? —El plazo del taller no se comprime por tener garantizado el diseño para mañana. Si aprobamos hoy, podemos anunciar las piezas para dos días después de recibir el diseño mañana.",
+    "cloze": "se comprime",
+    "answer": "se comprime",
+    "lemma": "comprimirse",
+    "meaning": "is compressed",
+    "audio": "work/audio/es-MX/06/es-06-0153.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0154",
+    "sentence": "—Recepción me garantiza atención sin llamada si envío el formulario. La asesora garantiza ayudarme a llenarlo si hablamos por teléfono. Entonces ya puedo hacer todo sin llamar. —No equipares la atención sin llamada con un proceso completo sin teléfono: recepción no pide llamar para solicitar atención, pero la ayuda que quieres usar para cumplir su condición todavía lo exige. El formulario puede enviarse sin esa ayuda; no está garantizado que puedas llenarlo así.",
+    "cloze": "equipares",
+    "answer": "equipares",
+    "lemma": "equiparar",
+    "meaning": "equate",
+    "audio": "work/audio/es-MX/06/es-06-0154.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0155",
+    "sentence": "La biblioteca garantiza conservar nuestra reserva si dejamos una persona responsable de recoger los libros. El mensajero garantiza recogerlos por nosotros si la biblioteca lo registra como responsable. Tú propones no registrar a nadie porque ya tenemos mensajero. Su oferta no nos dispensa de ese registro: puede cumplir la condición de la biblioteca, pero únicamente si lo incluimos. Ninguno de los dos ha prometido resolverlo sin ese paso.",
+    "cloze": "dispensa",
+    "answer": "dispensa",
+    "lemma": "dispensar",
+    "meaning": "exempts",
+    "audio": "work/audio/es-MX/06/es-06-0155.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0156",
+    "sentence": "—Si llueve, la anfitriona garantiza mesas dentro y el cocinero ofrece comida fría si usamos esas mesas. Si no llueve, ella garantiza mesas afuera y él, comida caliente para ese espacio. ¿Podemos anunciar comida caliente bajo techo aunque todavía no sepamos cómo estará el tiempo? —No mezclemos la comida caliente de un caso con el espacio techado del otro. Siguiendo la distribución prevista para cada caso, sí podemos anunciar que habrá comida y mesas aunque aún no sepamos cuál usaremos.",
+    "cloze": "mezclemos",
+    "answer": "mezclemos",
+    "lemma": "mezclar",
+    "meaning": "mix",
+    "audio": "work/audio/es-MX/06/es-06-0156.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0157",
+    "sentence": "El fotógrafo garantiza imágenes nítidas si conserva los archivos grandes. La encargada garantiza enviarlas por mensaje si las reduce, y aclara que al reducirlas pueden perder nitidez. Usted anuncia entrega por mensaje con la calidad garantizada por él. Esa garantía no se traslada al archivo reducido: el envío sí está respaldado en ese formato, mientras que la nitidez está asegurada en el que la encargada tendría que cambiar.",
+    "cloze": "se traslada",
+    "answer": "se traslada",
+    "lemma": "trasladarse",
+    "meaning": "carries over",
+    "audio": "work/audio/es-MX/06/es-06-0157.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0158",
+    "sentence": "El club garantiza una sesión presencial si reúne seis inscripciones. La maestra garantiza una sesión por videollamada únicamente si no se alcanza ese mínimo. Ya hay seis personas inscritas y tú anuncias ambas sesiones. Ese resultado desactiva la alternativa en línea prevista para un grupo menor; no incumple la promesa de la maestra. Con estas condiciones queda respaldada la sesión presencial, no una segunda oportunidad para quienes prefieran conectarse.",
+    "cloze": "desactiva",
+    "answer": "desactiva",
+    "lemma": "desactivar",
+    "meaning": "deactivates",
+    "audio": "work/audio/es-MX/06/es-06-0158.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0159",
+    "sentence": "La editora asegura que el folleto pesará menos si quitamos las fotos. La encargada de acceso asegura que todas las instrucciones se entenderán sin fotos si añadimos descripciones, y confirma que esas páginas aumentarán el peso. Tú sumas ambas ventajas y prometes el mismo ahorro con toda la explicación. Los cambios se contrarrestan en el peso; las dos garantías permiten conservar las instrucciones, pero no saber si quedará algún ahorro ni de cuánto será.",
+    "cloze": "se contrarrestan",
+    "answer": "se contrarrestan",
+    "lemma": "contrarrestar",
+    "meaning": "offset each other",
+    "audio": "work/audio/es-MX/06/es-06-0159.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0160",
+    "sentence": "Yo aseguro atender las preguntas mientras Paula reciba a quienes llegan. Ella asegura seguir en recepción mientras yo continúe con las preguntas. Tú dices que, como ya empezamos, podemos dejar a una sola persona. El servicio no se desliga de ese reparto por haber arrancado: nuestras garantías permiten mantener ambas tareas juntas, pero ninguna cubre que uno asuma las dos cuando el otro se vaya.",
+    "cloze": "se desliga",
+    "answer": "se desliga",
+    "lemma": "desligarse",
+    "meaning": "becomes independent",
+    "audio": "work/audio/es-MX/06/es-06-0160.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0161",
+    "sentence": "La encargada asegura que podremos conversar sin interrupciones si cierra el local al público. El dueño garantiza abrirnos el patio si mantiene disponible la entrada por ese local. Usted dice que tendremos conversación sin interrupciones y patio abierto. ¿Está garantizado que coexistan esas condiciones? Cerrar al público no necesariamente impide abrirnos a nosotros, pero tampoco se ha explicado cómo quedaría la entrada. Las promesas no prueban ni el plan completo ni su imposibilidad.",
+    "cloze": "coexistan",
+    "answer": "coexistan",
+    "lemma": "coexistir",
+    "meaning": "coexist",
+    "audio": "work/audio/es-MX/06/es-06-0161.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0162",
+    "sentence": "Ese cuadro único desbordaría las garantías que estás citando. Ana asegura que nadie reconocerá a los participantes si publica solo sus edades; Luis garantiza lo mismo si publica solo sus oficios. Ambos aclaran que sus garantías suponen no relacionar ambas listas. Tú propones unir cada edad con su oficio para publicar un cuadro anónimo. Las publicaciones separadas conservan el respaldo ofrecido; precisamente el cruce que propones queda fuera de ambos compromisos.",
+    "cloze": "desbordaría",
+    "answer": "desbordaría",
+    "lemma": "desbordar",
+    "meaning": "would exceed",
+    "audio": "work/audio/es-MX/06/es-06-0162.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0163",
+    "sentence": "—La traductora garantiza conservar el sentido si trabaja con la versión aprobada. El autor promete resolver las dudas del público si puede modificar los ejemplos de esa versión. ¿Podemos anunciar una traducción fiel de los ejemplos adaptados? —Cambiar los ejemplos reabre la revisión del texto de partida. La promesa de adaptación sigue disponible, pero la garantía de traducción cubre la versión aprobada, no todavía esos cambios; para combinarlas, falta aprobar el texto que resulte.",
+    "cloze": "reabre",
+    "answer": "reabre",
+    "lemma": "reabrir",
+    "meaning": "reopens",
+    "audio": "work/audio/es-MX/06/es-06-0163.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0164",
+    "sentence": "El impresor garantiza repetir el cartel con los mismos colores si conserva la muestra. La organizadora garantiza devolvernos todos los originales si usamos una copia como muestra. Usted teme que cumplir la devolución elimine necesariamente la garantía de color. El impresor ya confirmó que esa copia le sirve. Conservarla salvaguarda la repetición sin retener los originales; las promesas juntas no garantizan que podamos prescindir también de la copia.",
+    "cloze": "salvaguarda",
+    "answer": "salvaguarda",
+    "lemma": "salvaguardar",
+    "meaning": "safeguards",
+    "audio": "work/audio/es-MX/06/es-06-0164.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0165",
+    "sentence": "El teatro asegura que al llegar encontraremos libre al menos una de sus dos salas. El encargado promete abrir la que elijamos si está libre. Ustedes quieren anunciar desde hoy la sala azul porque dicen que entre ambos garantizan cualquiera. No podemos elegir indistintamente entre las dos basándonos en esas promesas: respaldan que habrá una disponible y que podrán abrirla, pero falta identificar cuál. La azul todavía no tiene ese respaldo específico.",
+    "cloze": "indistintamente",
+    "answer": "indistintamente",
+    "lemma": "indistintamente",
+    "meaning": "without distinction",
+    "audio": "work/audio/es-MX/06/es-06-0165.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0166",
+    "sentence": "La tallerista garantiza que cualquiera terminará el ejercicio si recibe ayuda individual. La coordinadora garantiza esa ayuda si las personas llegan de una en una; no la ofrece durante la sesión grupal. Tú usas ambas promesas para asegurar que todo el grupo terminará en esa sesión. La segunda circunscribe el respaldo conjunto a la atención individual escalonada; no niega la capacidad del grupo, pero tampoco garantiza su resultado en conjunto.",
+    "cloze": "circunscribe",
+    "answer": "circunscribe",
+    "lemma": "circunscribir",
+    "meaning": "restricts",
+    "audio": "work/audio/es-MX/06/es-06-0166.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0167",
+    "sentence": "—El hotel garantiza recibirnos tarde si recibe el horario de llegada. La agencia promete mantenerlo informado mientras usemos su traslado, y ya lo elegimos. ¿Entonces podemos irnos por nuestra cuenta sin ocuparnos del aviso? —No podemos desentendernos del aviso al cambiar de traslado: con el elegido lo cubre la agencia; fuera de él, su promesa ya no garantiza la información que exige el hotel.",
+    "cloze": "desentendernos",
+    "answer": "desentendernos",
+    "lemma": "desentenderse",
+    "meaning": "disclaim responsibility",
+    "audio": "work/audio/es-MX/06/es-06-0167.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0168",
+    "sentence": "—Marta garantiza detectar y marcar las diferencias si compara la copia con el original. Luis promete corregirlas si Marta las marca, pero no las busca por su cuenta. ¿Anunciamos dos revisiones independientes? —La intervención de Luis es complementaria: convierte las marcas de Marta en correcciones, sin volver a comprobar el original. Las promesas cubren detección y corrección bajo esas condiciones; la segunda añade una tarea útil, pero depende del resultado de la primera.",
+    "cloze": "complementaria",
+    "answer": "complementaria",
+    "lemma": "complementario",
+    "meaning": "complementary",
+    "audio": "work/audio/es-MX/06/es-06-0168.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0169",
+    "sentence": "El vecino garantiza prestarnos el salón si al final devolvemos sus mesas a su sitio. La encargada garantiza cuidarlas en el patio mientras no llueva. Llovió durante la actividad y luego devolvimos las mesas. Tú dices que así quedaron cumplidas las condiciones de ambos. La garantía de resguardo no es retroactiva: la devolución satisface al vecino, pero no convierte el intervalo de lluvia en parte del resguardo garantizado por ella.",
+    "cloze": "retroactiva",
+    "answer": "retroactiva",
+    "lemma": "retroactivo",
+    "meaning": "retroactive",
+    "audio": "work/audio/es-MX/06/es-06-0169.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0170",
+    "sentence": "—La maestra promete responder cada pregunta si se refiere a la lectura. El intérprete asegura traducir preguntas de cualquier tema si respetamos las pausas. ¿Puedo anunciar respuestas sobre cualquier tema? —No podemos endosarle esa obligación a la maestra solo porque el intérprete traduzca más temas. Las pausas permiten recibir preguntas de cualquier tema; solo las referidas a la lectura quedan dentro de su promesa de respuesta. Las demás pueden traducirse sin que esté garantizada su respuesta.",
+    "cloze": "endosarle",
+    "answer": "endosarle",
+    "lemma": "endosar",
+    "meaning": "shift onto her",
+    "audio": "work/audio/es-MX/06/es-06-0170.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0171",
+    "sentence": "—La biblioteca garantiza prestarnos una computadora si el curso confirma nuestra inscripción. El curso promete inscribirnos si enviamos la tarea desde una computadora. Ya la enviamos desde la de mi hermana; entonces el préstamo está confirmado. —No saltemos de una entrega cumplida a un préstamo confirmado. Haber usado esa otra computadora permite obtener la inscripción prometida, pero todavía falta la confirmación que exige la biblioteca; no la hemos recibido.",
+    "cloze": "saltemos",
+    "answer": "saltemos",
+    "lemma": "saltar",
+    "meaning": "jump",
+    "audio": "work/audio/es-MX/06/es-06-0171.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0172",
+    "sentence": "El anfitrión garantiza que podremos seguir conversando si pasamos a la cocina cuando cierre el patio. La intérprete garantiza acompañar la conversación hasta las ocho, sea donde sea. El patio cierra a las siete. Tú rechazas el cambio de lugar porque dejaríamos de tener interpretación. Con estas promesas se preserva ese apoyo durante la primera hora en la cocina; lo que no podemos garantizar con ellas es una conversación interpretada después de las ocho.",
+    "cloze": "se preserva",
+    "answer": "se preserva",
+    "lemma": "preservar",
+    "meaning": "is preserved",
+    "audio": "work/audio/es-MX/06/es-06-0172.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0173",
+    "sentence": "—El club asegura que habrá lugar para todos si queda registrada una confirmación individual por asistente. La organizadora asegura que basta una confirmación por familia si todos sus integrantes aparecen en ella. Sus mensajes se contradicen; ya no podemos confiar en ninguno. —No hay razón para decir que se contradigan: ella registrará una confirmación por cada nombre y el club confirmó que acepta ese procedimiento. Así puede cumplir la condición del club; los familiares omitidos siguen sin lugar garantizado.",
+    "cloze": "se contradigan",
+    "answer": "se contradigan",
+    "lemma": "contradecirse",
+    "meaning": "contradict each other",
+    "audio": "work/audio/es-MX/06/es-06-0173.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0174",
+    "sentence": "Mi hermana prometió darle de comer al perro hoy si recibía las llaves por la mañana; el vecino se las entregó a tiempo. Él garantizó avisarnos si recibía la confirmación de ella. Ya terminó el día, no llegó el aviso y tú dices que ella incumplió. No podemos acusarla de eso basándonos en el silencio del vecino: él ofreció transmitir una confirmación, no comprobar la comida. La condición de ella se cumplió, pero eso tampoco prueba que ya le haya dado de comer.",
+    "cloze": "acusarla",
+    "answer": "acusarla",
+    "lemma": "acusar",
+    "meaning": "accuse her",
+    "audio": "work/audio/es-MX/06/es-06-0174.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0175",
+    "sentence": "La guía garantiza un recorrido sin escaleras si entramos por el patio. El encargado garantiza abrir ese patio si avisamos antes y aclara que alguien tendrá que esperarlo en la puerta. Usted anuncia acceso sin escaleras y sin espera. No podemos adjudicarles esa segunda garantía al combinar sus mensajes: el aviso permite obtener la apertura necesaria para el recorrido, pero no elimina la espera que el encargado ya incluyó.",
+    "cloze": "adjudicarles",
+    "answer": "adjudicarles",
+    "lemma": "adjudicar",
+    "meaning": "attribute to them",
+    "audio": "work/audio/es-MX/06/es-06-0175.mp3",
+    "accepted_answers": []
   }
 ]
