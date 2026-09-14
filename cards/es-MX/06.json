@@ -10826,5 +10826,255 @@
     "meaning": "I glimpse",
     "audio": "work/audio/es-MX/06/es-06-1075.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-1076",
+    "sentence": "En clase me tocó defender los exámenes orales, aunque prefiero los escritos. Escribí que permiten pedir aclaraciones. La plataforma publicó automáticamente mi ejercicio entre «Las propuestas de nuestros alumnos». Una familia cuestiona ese argumento y me pide retirar mi propuesta. Que fuera una tarea no me dispensa de responder por el argumento que escribí; tampoco convierte el ejercicio en una propuesta personal que deba retirar.",
+    "cloze": "me dispensa",
+    "answer": "me dispensa",
+    "lemma": "dispensar",
+    "meaning": "exempts me",
+    "audio": "work/audio/es-MX/06/es-06-1076.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1077",
+    "sentence": "Tía, subí todas las fotos del paseo al álbum familiar. La página eligió diez automáticamente y publicó «La selección de Clara». Me agradeces que haya escogido tu retrato, pero el encabezado me adjudica una elección que no hice: yo aporté las fotos y la selección visible salió de la página.",
+    "cloze": "me adjudica",
+    "answer": "me adjudica",
+    "lemma": "adjudicar",
+    "meaning": "attributes to me",
+    "audio": "work/audio/es-MX/06/es-06-1077.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1078",
+    "sentence": "Para recibir el paquete, di mi dirección en la solicitud de entrega. El sitio la añadió automáticamente al mapa público de pedidos del barrio. A quienes dicen que yo la anuncié a los vecinos les aclaro: que puedan verla allí no prueba que yo haya divulgado mi dirección para ese público; la proporcioné para la entrega.",
+    "cloze": "haya divulgado",
+    "answer": "haya divulgado",
+    "lemma": "divulgar",
+    "meaning": "have disclosed",
+    "audio": "work/audio/es-MX/06/es-06-1078.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1079",
+    "sentence": "En la propuesta del huerto, Ana reaccionó con aprobación y Beto y yo escribimos objeciones. El contador automático presentó las tres intervenciones como apoyos. Borramos nuestras objeciones para salir de ese total, y el organizador anunció que habíamos abandonado a Ana. Vecinos, la baja del contador no demuestra que hayamos dejado de apoyar la propuesta: nuestras respuestas ya eran críticas antes de borrarlas.",
+    "cloze": "hayamos dejado de apoyar",
+    "answer": "hayamos dejado de apoyar",
+    "lemma": "dejar de apoyar",
+    "meaning": "have stopped supporting",
+    "audio": "work/audio/es-MX/06/es-06-1079.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1080",
+    "sentence": "Mi hermana y yo seguimos la página del festival para recibir avisos. El listado automático de «Voluntarios» ahora incluye nuestros nombres, y el organizador nos agradece que vayamos a montar el escenario. Ese listado nos alista para una tarea que no hemos aceptado; seguir las novedades fue nuestra única respuesta hasta ahora.",
+    "cloze": "nos alista",
+    "answer": "nos alista",
+    "lemma": "alistar",
+    "meaning": "enlists us",
+    "audio": "work/audio/es-MX/06/es-06-1080.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1081",
+    "sentence": "Mamá dejó libre el domingo en el calendario compartido, pero no respondió a la invitación de mi hermano. El resumen automático anunció «Comida familiar confirmada». Yo lo reenvié a la familia como aceptación de mamá. Ahora le reclaman que no haya ido. Me corresponde corregir mi anuncio ante ustedes: convertí su disponibilidad en una respuesta que ella no había dado; mi reenvío no prueba que hubiera prometido asistir.",
+    "cloze": "Me corresponde",
+    "answer": "Me corresponde",
+    "lemma": "corresponder",
+    "meaning": "it is my responsibility",
+    "audio": "work/audio/es-MX/06/es-06-1081.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1082",
+    "sentence": "Inés escribió «Prefiero que conservemos el turno de la tarde» y activó su lectura ante el grupo. La transcripción automática identificó la voz como «Sistema», y algunos dicen que Inés no opinó. Sí se sirvió del lector para intervenir: eligió esas palabras y decidió que se oyeran; la etiqueta de la voz no borra su postura.",
+    "cloze": "se sirvió",
+    "answer": "se sirvió",
+    "lemma": "servirse de",
+    "meaning": "used",
+    "audio": "work/audio/es-MX/06/es-06-1082.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1083",
+    "sentence": "Señor, marqué mi reclamación como resuelta porque recibí el repuesto. El sitio convirtió automáticamente ese cierre en una reseña pública: «Recomiendo esta tienda». Cuando usted cita esa frase como mi opinión, me endosa un elogio que no escribí; confirmé la solución de mi caso, sin valorar el servicio completo.",
+    "cloze": "me endosa",
+    "answer": "me endosa",
+    "lemma": "endosar",
+    "meaning": "assigns to me",
+    "audio": "work/audio/es-MX/06/es-06-1083.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1084",
+    "sentence": "Mi hija y yo usamos la misma cuenta del cineclub. Yo pedí compartir el historial para comentar qué se había visto; la página lo publicó automáticamente como «Rosa recomienda». Mi hija había reproducido los documentales de animales. Ante el club aclaro: autoricé compartir ese historial, pero el título me asocia con una recomendación que no hice; tampoco puedo atribuírsela a mi hija solo porque ella los vio.",
+    "cloze": "atribuírsela",
+    "answer": "atribuírsela",
+    "lemma": "atribuir",
+    "meaning": "attribute it to her",
+    "audio": "work/audio/es-MX/06/es-06-1084.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1085",
+    "sentence": "Guardé el artículo para comentar sus errores en el taller. La página lo añadió automáticamente a una lista pública titulada «Textos que recomienda Daniel». Marta respondió a esa publicación «Coincido contigo», sin haber visto mis notas críticas. Compañeros, eso no demuestra que Marta me dé la razón sobre los errores del artículo: respondió a la recomendación visible, no a las objeciones que yo todavía no había compartido.",
+    "cloze": "me dé la razón",
+    "answer": "me dé la razón",
+    "lemma": "dar la razón",
+    "meaning": "agrees with me",
+    "audio": "work/audio/es-MX/06/es-06-1085.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1086",
+    "sentence": "Respondí sin nombre a la evaluación del taller. El resumen automático publicó mi comentario junto con mi función: soy la única bibliotecaria del grupo. A quienes creen que firmé públicamente la queja les explico: esa combinación me delata ante mis compañeros, pero identificarme por ella no equivale a que yo haya elegido presentar la queja con mi nombre.",
+    "cloze": "haya elegido",
+    "answer": "haya elegido",
+    "lemma": "elegir",
+    "meaning": "have chosen",
+    "audio": "work/audio/es-MX/06/es-06-1086.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1087",
+    "sentence": "Dos alumnos corrigieron únicamente la ortografía de un texto que propone quitar el recreo; dejaron escrito que no compartían la propuesta. La plataforma publicó automáticamente sus nombres como «Autores de la propuesta». Pidieron corregir esa presentación y la escuela anunció que ya no querían reconocimiento. Ante las familias aclaro: negarse a figurar como promotores no significa que renuncien al crédito por las correcciones que sí hicieron.",
+    "cloze": "renuncien",
+    "answer": "renuncien",
+    "lemma": "renunciar",
+    "meaning": "give up",
+    "audio": "work/audio/es-MX/06/es-06-1087.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1088",
+    "sentence": "La aplicación me propuso «El horario me resultó cómodo». Leí esa frase y decidí publicarla como reseña. Después apareció debajo una calificación automática de cinco estrellas. Ante la tienda aclaro que sí suscribí el elogio al horario; mi decisión de publicar esa frase no establece que yo haya dado la máxima calificación a todo el servicio.",
+    "cloze": "suscribí",
+    "answer": "suscribí",
+    "lemma": "suscribir",
+    "meaning": "endorsed",
+    "audio": "work/audio/es-MX/06/es-06-1088.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1089",
+    "sentence": "Nora abrió la invitación al foro para consultar la hora y no respondió. El resumen automático anunció que rechazaba participar. Por eso, el organizador dejó de enviarle preguntas; ahora cita también la falta de respuestas posteriores como prueba de su rechazo. Ante el grupo aclaro que el silencio posterior no lo corrobora: faltan respuestas a preguntas que dejaron de llegarle.",
+    "cloze": "lo corrobora",
+    "answer": "lo corrobora",
+    "lemma": "corroborar",
+    "meaning": "corroborates it",
+    "audio": "work/audio/es-MX/06/es-06-1089.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1090",
+    "sentence": "Yo marqué el sábado para la reunión familiar y Luis marcó el domingo. La aplicación publicó automáticamente el lunes como «La fecha que eligieron juntos», aunque ninguno seleccionó ese día. Que la página proponga otra fecha no significa que hayamos coincidido en ella; nuestras respuestas siguen siendo distintas y no incluyen una elección del lunes.",
+    "cloze": "hayamos coincidido",
+    "answer": "hayamos coincidido",
+    "lemma": "coincidir",
+    "meaning": "have agreed",
+    "audio": "work/audio/es-MX/06/es-06-1090.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1091",
+    "sentence": "El año pasado escribí que prefería reunirnos en línea. Este mes propuse volver al salón, pero la página recuperó automáticamente mi frase anterior bajo «Lo que hoy queremos». A los compañeros que me citan les aclaro: que reaparezca no significa que esa frase siga representando mi postura actual; la escribí entonces y después expresé otra preferencia.",
+    "cloze": "siga representando",
+    "answer": "siga representando",
+    "lemma": "seguir representando",
+    "meaning": "still represent",
+    "audio": "work/audio/es-MX/06/es-06-1091.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1092",
+    "sentence": "Ofrecí llevar las sillas y después quité mi reacción a una publicación distinta, la del horario. El tablero automático dejó de mostrarme entre quienes ayudan, y ustedes entendieron que ya no llevaría nada. Mi ofrecimiento sigue en pie: desaparecer de esa lista no demuestra que haya retirado la ayuda que ofrecí por mensaje.",
+    "cloze": "haya retirado",
+    "answer": "haya retirado",
+    "lemma": "retirar",
+    "meaning": "have withdrawn",
+    "audio": "work/audio/es-MX/06/es-06-1092.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1093",
+    "sentence": "Tres vecinos enviamos preguntas por escrito durante la transmisión: yo pregunté si habría transcripción; Ana, cuándo estaría lista; Beto, dónde podría consultarla. El resumen automático las reunió como «¿Habrá transcripción?». El organizador respondió «Sí» y la página marcó las tres como resueltas. Ante el público aclaro: la página nos da por atendidos con una respuesta que solo resuelve mi pregunta; las de Ana y Beto siguen pendientes.",
+    "cloze": "nos da por atendidos",
+    "answer": "nos da por atendidos",
+    "lemma": "dar por atendido",
+    "meaning": "treats us as having been answered",
+    "audio": "work/audio/es-MX/06/es-06-1093.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1094",
+    "sentence": "La página muestra a Elena entre quienes apoyan la petición. Alguien dice que solo aparece porque sigue las novedades. Elena nos mostró que, después de leer la petición, confirmó «Sí, doy mi apoyo». En este caso sí se adhirió a la propuesta; su respuesta expresa ese apoyo, aunque la lista automática por sí sola no explique cómo llegó allí.",
+    "cloze": "se adhirió",
+    "answer": "se adhirió",
+    "lemma": "adherirse",
+    "meaning": "endorsed",
+    "audio": "work/audio/es-MX/06/es-06-1094.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1095",
+    "sentence": "Pedí sugerencias de paseos y la aplicación compartió automáticamente con mi familia una lista titulada «Recomendaciones para Lucía». Mi hermano cree que yo escogí esos lugares para todos. La página me recomienda esas opciones a mí; pedir ideas no fue proponerles un itinerario ni elegir por quienes viajarían conmigo.",
+    "cloze": "me recomienda",
+    "answer": "me recomienda",
+    "lemma": "recomendar",
+    "meaning": "recommends to me",
+    "audio": "work/audio/es-MX/06/es-06-1095.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1096",
+    "sentence": "Yo ofrecí prestar el patio y Raúl, llevar las mesas. El resumen automático anuncia que yo aportaré el espacio y las mesas, y que Raúl decorará. Él cree que le estoy pidiendo cambiar de tarea. Ese resumen nos reparte obligaciones que no acordamos: las mesas eran su oferta; ninguno habló de la decoración.",
+    "cloze": "nos reparte",
+    "answer": "nos reparte",
+    "lemma": "repartir",
+    "meaning": "assigns us",
+    "audio": "work/audio/es-MX/06/es-06-1096.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1097",
+    "sentence": "Julia autorizó a la aplicación a aceptar en su nombre los cambios al turno de mañana; reservó para sí la decisión sobre los de noche. La página anunció automáticamente que aceptaba uno de cada tipo. Ante quienes descartan ambos porque Julia no leyó esas solicitudes, aclaro: sí la había facultado para aceptar el cambio a la mañana sin consultarla; ese permiso no abarca el de noche.",
+    "cloze": "la había facultado",
+    "answer": "la había facultado",
+    "lemma": "facultar",
+    "meaning": "had authorized it",
+    "audio": "work/audio/es-MX/06/es-06-1097.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1098",
+    "sentence": "Reservé una mesa para seis personas sin preguntarles todavía qué opinaban del restaurante. Al terminar la reserva, el sitio publicó automáticamente «Los seis recomendamos este lugar». A quienes citan esa frase como una reseña del grupo les explico: ese mensaje no habla por los seis comensales; mi reserva confirma una solicitud de mesa, no seis opiniones favorables.",
+    "cloze": "habla",
+    "answer": "habla",
+    "lemma": "hablar",
+    "meaning": "speaks",
+    "audio": "work/audio/es-MX/06/es-06-1098.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1099",
+    "sentence": "Paula escribió «Revisé todo el informe y respondo por su contenido»; Diego solo confirmó que su nombre estaba bien escrito. La página reunió automáticamente ambas respuestas bajo «Informe verificado por el equipo». Para quienes van a citarlo, aclaro: Paula se responsabilizó del conjunto; la confirmación de Diego no permite presentarlo como alguien que también revisó el contenido.",
+    "cloze": "se responsabilizó",
+    "answer": "se responsabilizó",
+    "lemma": "responsabilizarse",
+    "meaning": "took responsibility",
+    "audio": "work/audio/es-MX/06/es-06-1099.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1100",
+    "sentence": "El foro agrupa automáticamente como «En contra» tanto los rechazos como las solicitudes de información. Yo pregunté cuánto duraría el taller; Paula escribió «No quiero ese taller». Al vernos en la misma lista, el moderador me pide explicar por qué nos oponemos. No voy a arrogarme la representación de Paula: su rechazo es explícito, mi pregunta sigue pendiente y compartir esa lista no significa que tengamos una postura común.",
+    "cloze": "arrogarme",
+    "answer": "arrogarme",
+    "lemma": "arrogarse",
+    "meaning": "claim for myself",
+    "audio": "work/audio/es-MX/06/es-06-1100.mp3",
+    "accepted_answers": []
   }
 ]
