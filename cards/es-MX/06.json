@@ -8324,5 +8324,257 @@
     "meaning": "leaves unaffected",
     "audio": "work/audio/es-MX/06/es-06-0825.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0826",
+    "sentence": "En sus recuerdos del concierto, Marta revive el intermedio: aquello no terminaba nunca. Su acompañante lo recuerda al revés: apenas le había dado tiempo de respirar. Ninguno midió la pausa. Para quienes revisan la organización escribo: «Los relatos difieren en la duración percibida; el balance puede conservar ambas experiencias sin tratarlas como mediciones contradictorias».",
+    "cloze": "duración percibida",
+    "answer": "duración percibida",
+    "lemma": "duración percibida",
+    "meaning": "perceived duration",
+    "audio": "work/audio/es-MX/06/es-06-0826.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0827",
+    "sentence": "El recuerdo de una clienta dice: que le devolvieran el dinero de una vez; ya no quería esperar. Sin embargo, en el mostrador solo preguntó a qué hora estaría listo el vestido. Para quien revisa las solicitudes escribo: «La intervención de la clienta se limitó a preguntar por la hora de entrega; el pasaje no registra una devolución solicitada».",
+    "cloze": "se limitó",
+    "answer": "se limitó",
+    "lemma": "limitarse",
+    "meaning": "was limited",
+    "audio": "work/audio/es-MX/06/es-06-0827.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0828",
+    "sentence": "En sus memorias, un lector revive la visita al mostrador: mañana tendría su copia con letra grande, por fin podría leer cómodo. No recuerda qué le respondieron; cuenta que recibió la copia al día siguiente. Para la responsable del taller resumo: «La respuesta de aquella visita sigue sin conocerse; sí se cuenta una entrega posterior».",
+    "cloze": "sigue sin conocerse",
+    "answer": "sigue sin conocerse",
+    "lemma": "seguir sin conocerse",
+    "meaning": "remains unknown",
+    "audio": "work/audio/es-MX/06/es-06-0828.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0829",
+    "sentence": "Una autora reconstruye en sus memorias el pensamiento de su hija: «Ahora sí cabía todo su mundo en una mochila». Aclara que la niña nunca dijo esa frase. En la reseña para nuevos lectores escribo: «La imagen puede usarse como cita textual del libro, con atribución a la autora; no como palabras pronunciadas por la niña».",
+    "cloze": "cita textual",
+    "answer": "cita textual",
+    "lemma": "cita textual",
+    "meaning": "verbatim quotation",
+    "audio": "work/audio/es-MX/06/es-06-0829.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0830",
+    "sentence": "En sus memorias, Elena vuelve tres veces a la misma despedida: otra vez el andén, otra vez la mano que se soltaba. Aclara que hubo un solo viaje. En la cronología para la exposición familiar, la despedida se contabiliza como un único episodio; las vueltas del recuerdo no añaden viajes.",
+    "cloze": "se contabiliza",
+    "answer": "se contabiliza",
+    "lemma": "contabilizarse",
+    "meaning": "is counted",
+    "audio": "work/audio/es-MX/06/es-06-0830.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0831",
+    "sentence": "El relato de una costurera empieza con el cierre del taller y luego vuelve a su primer encargo: ahora sí, ya tenía trabajo propio. En la presentación para los aprendices aclaro: «El entusiasmo por ese encargo antecede al cierre; pertenece al comienzo del taller, no a una reapertura».",
+    "cloze": "antecede",
+    "answer": "antecede",
+    "lemma": "anteceder",
+    "meaning": "precedes",
+    "audio": "work/audio/es-MX/06/es-06-0831.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0832",
+    "sentence": "La abuela escribe que cada domingo apartaba un plato: su hijo volvería mañana, claro que sí. No señala cuándo empezó esa costumbre. Para el archivo familiar explico: «La espera se repite en el recuerdo, pero su comienzo no puede fecharse a partir de ese mañana; la palabra recoge una expectativa que se renovaba cada domingo».",
+    "cloze": "puede fecharse",
+    "answer": "puede fecharse",
+    "lemma": "poder fecharse",
+    "meaning": "can be dated",
+    "audio": "work/audio/es-MX/06/es-06-0832.mp3",
+    "accepted_answers": [
+      "se puede fechar"
+    ]
+  },
+  {
+    "id": "es-06-0833",
+    "sentence": "El cuento sigue a un músico tentado a irse: se levantaría, cruzaría la puerta y no volvería a verlos. La siguiente línea dice que permaneció sentado hasta el final. En la reseña para el club de lectura, explico que la escena desarrolla un conflicto interno: el músico sigue en la sala mientras imagina romper con el grupo; su permanencia no equivale a tranquilidad.",
+    "cloze": "conflicto interno",
+    "answer": "conflicto interno",
+    "lemma": "conflicto interno",
+    "meaning": "inner conflict",
+    "audio": "work/audio/es-MX/06/es-06-0833.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0834",
+    "sentence": "Pablo revive en sus memorias el día en que dejó el coro: ya no podía con los ensayos, necesitaba descansar. Sin embargo, cuenta que ante el grupo explicó su salida como protesta por el repertorio. En la reseña para antiguos integrantes escribo: «El cansancio que revela al recordar no borra la protesta que expresó ante el grupo; son el motivo privado que ahora cuenta y la explicación que dio entonces».",
+    "cloze": "borra",
+    "answer": "borra",
+    "lemma": "borrar",
+    "meaning": "erases",
+    "audio": "work/audio/es-MX/06/es-06-0834.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0835",
+    "sentence": "Las memorias presentan al visitante como el futuro socio del narrador. Dentro de la escena, el narrador joven duda: ¿para qué querría ese desconocido hablar con él? En la presentación para estudiantes aclaro: «La relación de socios pertenece al conocimiento posterior del narrador; aquella conversación fue un primer encuentro, no una reunión entre socios».",
+    "cloze": "conocimiento posterior",
+    "answer": "conocimiento posterior",
+    "lemma": "conocimiento posterior",
+    "meaning": "later knowledge",
+    "audio": "work/audio/es-MX/06/es-06-0835.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0836",
+    "sentence": "Mauro recuerda que aceptó ayudar en el cierre del taller mientras pensaba: a las cinco se iría, no iba a perder la tarde con su hija. Cuenta que dijo «Sí, me quedo para el cierre», sin mencionar una hora de salida. Para la coordinación escribo: «La limitación de horario quedó sin comunicar; el resumen de su aceptación no puede presentarla como una condición que los demás hubieran recibido».",
+    "cloze": "quedó sin comunicar",
+    "answer": "quedó sin comunicar",
+    "lemma": "quedar sin comunicar",
+    "meaning": "remained uncommunicated",
+    "audio": "work/audio/es-MX/06/es-06-0836.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0837",
+    "sentence": "Una usuaria recuerda el mostrador: la pantalla seguía negra; otra vez nadie le respondía. También cuenta que veía moverse los labios del empleado, pero no podía oírlo. En el reporte para la encargada escribo: «La escena muestra una barrera de comunicación: la usuaria no recibió una respuesta accesible, aunque no podemos afirmar que el empleado guardara silencio».",
+    "cloze": "barrera de comunicación",
+    "answer": "barrera de comunicación",
+    "lemma": "barrera de comunicación",
+    "meaning": "communication barrier",
+    "audio": "work/audio/es-MX/06/es-06-0837.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0838",
+    "sentence": "En la crónica del viaje, Rosa oye una voz apagada detrás del vidrio: ¿habrían dicho que estaba cerrado? No logra distinguir las palabras. Para el informe de la visita escribimos: «Se oyó una voz, pero no transcribimos un rechazo de entrada; el cierre aparece como una conjetura de Rosa».",
+    "cloze": "transcribimos",
+    "answer": "transcribimos",
+    "lemma": "transcribir",
+    "meaning": "transcribe",
+    "audio": "work/audio/es-MX/06/es-06-0838.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0839",
+    "sentence": "En la crónica del barrio, el narrador revive la invitación al paseo: qué contentos estaban todos; seguro irían. Solo describe sonrisas, sin respuestas de los vecinos. Para las familias que leerán el balance escribo: «El entusiasmo colectivo es una impresión de conjunto del narrador; no ofrece una lista de personas que aceptaron ir».",
+    "cloze": "impresión de conjunto",
+    "answer": "impresión de conjunto",
+    "lemma": "impresión de conjunto",
+    "meaning": "overall impression",
+    "audio": "work/audio/es-MX/06/es-06-0839.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0840",
+    "sentence": "En sus memorias, la encargada vigila la puerta principal: nadie venía; tanto preparar para nada. Desde su silla no ve el acceso por el patio. Para quienes revisan la asistencia explico: «La ausencia descrita queda limitada al campo de visión de la narradora; no permite descartar entradas por el patio».",
+    "cloze": "campo de visión",
+    "answer": "campo de visión",
+    "lemma": "campo de visión",
+    "meaning": "field of vision",
+    "audio": "work/audio/es-MX/06/es-06-0840.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0841",
+    "sentence": "En sus memorias, Julia revive una fiesta: su hermano ni se había acercado, claro que no le importaba. Después incluye una foto donde él aparece a su lado, aunque ella no recuerda verlo. En la reseña para la familia escribo: «La presencia del hermano está corroborada por la foto; no sabemos si Julia lo vio ni si él la saludó».",
+    "cloze": "corroborada",
+    "answer": "corroborada",
+    "lemma": "corroborar",
+    "meaning": "corroborated",
+    "audio": "work/audio/es-MX/06/es-06-0841.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0842",
+    "sentence": "El relato alterna dos pensamientos: Nora buscaría a Leo para disculparse; Leo, en otra casa, haría lo mismo con ella. Termina antes de que se comuniquen. Para el boletín del taller escribo: «El relato presenta una coincidencia de intenciones, pero no una cita acordada; ninguno llega a conocer el plan del otro».",
+    "cloze": "coincidencia de intenciones",
+    "answer": "coincidencia de intenciones",
+    "lemma": "coincidencia de intenciones",
+    "meaning": "convergence of intentions",
+    "audio": "work/audio/es-MX/06/es-06-0842.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0843",
+    "sentence": "En sus memorias, una bailarina reúne a dos profesoras en la figura de «la maestra»: frente a ella, la niña por fin se sentía capaz de bailar. El epílogo distingue sus aportes: una le enseñó los pasos y la otra la animó a presentarse. Para la exposición sobre su formación, el crédito se reparte entre ambas según esos aportes; la maestra única del relato no se presenta como una sola persona real.",
+    "cloze": "se reparte",
+    "answer": "se reparte",
+    "lemma": "repartirse",
+    "meaning": "is apportioned",
+    "audio": "work/audio/es-MX/06/es-06-0843.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0844",
+    "sentence": "En sus memorias, una alumna revive el alivio tras hablar con su maestra: ya no tendría que preparar sola la lectura. Aclara que recuerda la promesa de ayuda, pero no las palabras exactas. Para la historia del taller escribo: «En paráfrasis, la maestra le prometió ayudarla a preparar la lectura; el recuerdo no permite reproducir la frase original».",
+    "cloze": "paráfrasis",
+    "answer": "paráfrasis",
+    "lemma": "paráfrasis",
+    "meaning": "paraphrase",
+    "audio": "work/audio/es-MX/06/es-06-0844.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0845",
+    "sentence": "En sus memorias, una mujer vuelve al patio de su infancia: diez pasos para cruzarlo; qué lejos quedaba la otra pared. De adulta cuenta seis pasos y lo siente más pequeño. No dice cuánto medía cada paso en ninguna de las dos épocas. Para la historia de la casa explico: «Esos conteos no son comparables sin conocer la longitud de los pasos; el recuerdo no permite afirmar que el patio se haya reducido».",
+    "cloze": "comparables",
+    "answer": "comparables",
+    "lemma": "comparable",
+    "meaning": "comparable",
+    "audio": "work/audio/es-MX/06/es-06-0845.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0846",
+    "sentence": "Las memorias terminan con el narrador frente a una caja de cartas: mañana quizá encontraría la dirección; por hoy, a dormir. No cuentan qué pasó al día siguiente. Para los lectores de la biblioteca escribo: «La búsqueda tiene un final abierto en estas memorias; no se puede resumir como un hallazgo ni como un abandono definitivo».",
+    "cloze": "final abierto",
+    "answer": "final abierto",
+    "lemma": "final abierto",
+    "meaning": "open ending",
+    "audio": "work/audio/es-MX/06/es-06-0846.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0847",
+    "sentence": "La crónica sigue a una viajera: habían cancelado la salida; ahora tendría que volver con la maleta. Entonces despierta y consulta el tablero, sin contar qué encuentra. Para los organizadores del viaje resumo: «La viajera había soñado con la cancelación; el episodio solo permite registrar que consultó el tablero al despertar, no que se cancelara la salida».",
+    "cloze": "había soñado",
+    "answer": "había soñado",
+    "lemma": "soñar",
+    "meaning": "had dreamed",
+    "audio": "work/audio/es-MX/06/es-06-0847.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0848",
+    "sentence": "En sus memorias, una mujer cuenta que se negó a acompañar a su hermana. Al escribir, vuelve sobre la escena: qué egoísta había sido; ahora lo veía. Para la presentación del libro explico: «La narradora se juzga con dureza al recordar su negativa; el pasaje no cuenta una disculpa a su hermana ni permite dar por hecha una reconciliación».",
+    "cloze": "se juzga",
+    "answer": "se juzga",
+    "lemma": "juzgarse",
+    "meaning": "judges herself",
+    "audio": "work/audio/es-MX/06/es-06-0848.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0849",
+    "sentence": "En sus memorias, el autor reúne varias visitas a su abuelo en una tarde imaginada: ahora venían las historias, luego el chocolate; ojalá no lo llamaran para irse. Para el archivo del barrio explico: «El capítulo condensa varias visitas en una escena; no permite situar todas esas conversaciones en una misma fecha».",
+    "cloze": "condensa",
+    "answer": "condensa",
+    "lemma": "condensar",
+    "meaning": "condenses",
+    "audio": "work/audio/es-MX/06/es-06-0849.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0850",
+    "sentence": "El relato sigue a una hija que escucha consejos: que su madre terminara ya, no quería seguir con el tema. Pero en voz alta dice: «Sigue, te escucho». Para el informe del taller de conversación escribo: «La concesión del turno a la madre fue expresa; no demuestra acuerdo con sus consejos, y el deseo de terminar aparece solo en el pensamiento narrado».",
+    "cloze": "concesión del turno",
+    "answer": "concesión del turno",
+    "lemma": "concesión del turno",
+    "meaning": "yielding of the floor",
+    "audio": "work/audio/es-MX/06/es-06-0850.mp3",
+    "accepted_answers": []
   }
 ]
