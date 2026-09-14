@@ -8576,5 +8576,255 @@
     "meaning": "yielding of the floor",
     "audio": "work/audio/es-MX/06/es-06-0850.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0851",
+    "sentence": "El organizador había prometido empezar a tiempo. Tras cuarenta minutos de espera, una asistente comentó: «Qué puntualidad tan perfecta». Él respondió: «Tienen razón en quejarse; les pido una disculpa». Para la crónica que leerán quienes no estuvieron, escribo: «El organizador se hacía cargo de la queja expresada como elogio irónico; su disculpa permite contar que recibió el comentario como crítica, sin tener que adivinar la intención de la asistente».",
+    "cloze": "se hacía cargo",
+    "answer": "se hacía cargo",
+    "lemma": "hacerse cargo",
+    "meaning": "was acknowledging",
+    "audio": "work/audio/es-MX/06/es-06-0851.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0852",
+    "sentence": "En el taller, la maestra y una alumna cosieron la misma pieza al revés. La maestra comentó: «Dos expertas», mostró su propio error y explicó cómo corregirlo. La reseña para las familias que no estuvieron dice: «La maestra se incluye entre quienes se equivocaron; la broma permite hablar del error compartido sin convertirlo en una evaluación de la capacidad de la alumna».",
+    "cloze": "se incluye",
+    "answer": "se incluye",
+    "lemma": "incluirse",
+    "meaning": "includes herself",
+    "audio": "work/audio/es-MX/06/es-06-0852.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0853",
+    "sentence": "En casa llamaban a mi mamá «la aprendiz eterna» porque seguía tomando clases de costura. Cuando arregló los trajes para la fiesta, respondió: «La aprendiz eterna les salvó el baile». Para el retrato del barrio, cuyos lectores desconocen ese apodo, escribo: «Mi mamá reivindica su aportación al devolver el apodo unido a lo que consiguió; presentarla solo como aprendiz ocultaría el logro que ella destacó».",
+    "cloze": "reivindica",
+    "answer": "reivindica",
+    "lemma": "reivindicar",
+    "meaning": "asserts the value of",
+    "audio": "work/audio/es-MX/06/es-06-0853.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0854",
+    "sentence": "—En la función había más actores que público. Alguien bromeó: «Éxito total». Otro replicó: «¿Y si contar no fuera lo importante?», sin explicar más. ¿Cómo lo contamos a los lectores de la reseña que no oyeron la conversación? —La réplica deja en suspenso el fracaso que la broma daba por obvio: propone revisar el criterio de asistencia, sin asegurar que quien respondió disfrutara la obra.",
+    "cloze": "deja en suspenso",
+    "answer": "deja en suspenso",
+    "lemma": "dejar en suspenso",
+    "meaning": "leaves unsettled",
+    "audio": "work/audio/es-MX/06/es-06-0854.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0855",
+    "sentence": "Durante la comida, mi tía anunció entre risas: «Quedan prohibidas las manchas». Mi primo señaló la salsa que ella acababa de tirar: «Su majestad empezó». Ambos se rieron. Para los visitantes del archivo familiar, el texto acompaña la réplica con la risa de los dos: «El primo volvió la prohibición contra quien acababa de incumplirla, y ella también se rio». Publicar solo la réplica despojaría a la escena de esa complicidad y dejaría al lector únicamente la burla del primo.",
+    "cloze": "despojaría",
+    "answer": "despojaría",
+    "lemma": "despojar",
+    "meaning": "would strip",
+    "audio": "work/audio/es-MX/06/es-06-0855.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0856",
+    "sentence": "En la reunión, un vecino llamó «estorbo» a las preguntas de una joven. Su compañera respondió: «Si preguntar es estorbar, estorbamos juntas», y le pidió que terminara su pregunta. Para los oyentes de la radio del barrio, ajenos a la reunión, cambiamos el título propuesto «Dos estorbos se unen» por «Una pregunta defendida entre dos»: el primero perpetuaría como etiqueta pública la descalificación que la respuesta rechazaba.",
+    "cloze": "perpetuaría",
+    "answer": "perpetuaría",
+    "lemma": "perpetuar",
+    "meaning": "would perpetuate",
+    "audio": "work/audio/es-MX/06/es-06-0856.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0857",
+    "sentence": "En el chat del festival me pidieron otra tarea. Respondí: «Claro, y también les bordo el cielo. No acepto otro encargo». Los nuevos voluntarios recibirán un resumen para repartir los pendientes. En él no contabilizamos aquel «claro» como ayuda disponible: «La respuesta rechaza ampliar la carga de trabajo mediante una exageración; no aporta una aceptación para cubrir la tarea pendiente».",
+    "cloze": "contabilizamos",
+    "answer": "contabilizamos",
+    "lemma": "contabilizar",
+    "meaning": "count",
+    "audio": "work/audio/es-MX/06/es-06-0857.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0858",
+    "sentence": "Mi abuela dijo a mi hermano al verlo después de meses: «Ya ni me acuerdo de tu cara». Lo abrazó y añadió: «Quiero verte más seguido». La exposición familiar iba a resumir la escena como «Un abrazo sin reproches». Para sus visitantes, el texto corregido enmarca el abrazo con la queja exagerada y la petición de verse más: el afecto acompaña la inconformidad, sin borrarla.",
+    "cloze": "enmarca",
+    "answer": "enmarca",
+    "lemma": "enmarcar",
+    "meaning": "frames",
+    "audio": "work/audio/es-MX/06/es-06-0858.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0859",
+    "sentence": "«La referencia al patio le resta solemnidad al homenaje; no invalida el agradecimiento posterior», explico en el resumen para quienes no asistieron. En el acto, una vecina había recibido una larga presentación y comentado: «Después de tanto título, a ver si todavía sé barrer mi patio». Luego agradeció el reconocimiento. El resumen recupera esa vuelta a lo cotidiano, sin presentar la broma como un rechazo.",
+    "cloze": "le resta solemnidad",
+    "answer": "le resta solemnidad",
+    "lemma": "restar solemnidad",
+    "meaning": "makes it less solemn",
+    "audio": "work/audio/es-MX/06/es-06-0859.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0860",
+    "sentence": "Al terminar el montaje, los compañeros dieron una corona de papel a quien había conseguido las mesas que faltaban y rehecho los letreros: «Reina de lo que nadie ve». Ella agradeció que recordaran esas tareas. La crónica para quienes no estuvieron convierte el título en reconocimiento concreto: «La corona celebraba a la compañera que consiguió las mesas y rehízo los letreros». Repetir solo «lo que nadie ve» dejaría también a estos lectores sin saber qué aportó.",
+    "cloze": "convierte",
+    "answer": "convierte",
+    "lemma": "convertir",
+    "meaning": "turns",
+    "audio": "work/audio/es-MX/06/es-06-0860.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0861",
+    "sentence": "En la charla del huerto, una vecina se sentó después de trabajar toda la mañana: «Hasta la pala pide vacaciones». Otro respondió: «¿Y si mañana trabajamos menos?». Nadie acordó un horario. El boletín para los vecinos ajenos a la charla explica que la broma da entrada a discutir una reducción del trabajo; conserva la pregunta como propuesta, sin anunciar un descanso acordado.",
+    "cloze": "da entrada",
+    "answer": "da entrada",
+    "lemma": "dar entrada",
+    "meaning": "opens the way",
+    "audio": "work/audio/es-MX/06/es-06-0861.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0862",
+    "sentence": "Después de repetir tres veces el postre, mi hermano dijo a la cocinera: «Qué castigo venir a comer aquí». Ella respondió: «Pues vuelves el domingo», y él aceptó encantado. La página del barrio quiere cerrar el relato con esa invitación, pero sus lectores no estuvieron en la comida. En nuestra versión circunscribimos la invitación a quien la recibió: «La queja en broma dio paso a una invitación personal que él aceptó con gusto»; el cierre no convoca al público a comer el domingo.",
+    "cloze": "circunscribimos",
+    "answer": "circunscribimos",
+    "lemma": "circunscribir",
+    "meaning": "confine",
+    "audio": "work/audio/es-MX/06/es-06-0862.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0863",
+    "sentence": "En una obra breve, el personaje que acapara las decisiones ordena: «Aquí todos opinan igual que yo». Los otros personajes intentan hablar y él los interrumpe. La reseña para quienes no vieron la función explica cómo ese intercambio pone en escena la contradicción entre anunciar participación e impedirla; la orden pertenece al personaje y no se presenta como una norma defendida por el elenco.",
+    "cloze": "pone en escena",
+    "answer": "pone en escena",
+    "lemma": "poner en escena",
+    "meaning": "dramatizes",
+    "audio": "work/audio/es-MX/06/es-06-0863.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0864",
+    "sentence": "En la prueba del recorrido, una visitante señaló un letrero demasiado alto y bromeó: «Mis ojos no traen escalera; necesito que lo bajen». El letrero quedó a la misma altura. En el balance para los vecinos que no asistieron, no relegamos la petición a una lista de ocurrencias: «La visitante pidió bajar el letrero mediante una imagen humorística; el recorrido terminó sin ese cambio y la solicitud sigue pendiente».",
+    "cloze": "relegamos",
+    "answer": "relegamos",
+    "lemma": "relegar",
+    "meaning": "relegate",
+    "audio": "work/audio/es-MX/06/es-06-0864.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0865",
+    "sentence": "Una vecina llevaba la mano levantada mientras el moderador daba varios turnos a las mismas personas. Desde su asiento protestó: «¿Mi mano viene invisible?». El micrófono captó la frase, pero aún no le habían dado turno para exponer su propuesta. Para los oyentes de la radio que solo oirán ese fragmento, explicamos: «No equiparamos la protesta que se oye con un turno concedido; la pregunta reclama precisamente la oportunidad de presentar su propuesta».",
+    "cloze": "equiparamos",
+    "answer": "equiparamos",
+    "lemma": "equiparar",
+    "meaning": "equate",
+    "audio": "work/audio/es-MX/06/es-06-0865.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0866",
+    "sentence": "El club solía elegir sus libros entre todos, pero ese día esperaba que decidiera la coordinadora. Ella levantó las manos vacías: «Hoy la bola de cristal la tienen ustedes. Propongan títulos». Para el boletín destinado a nuevos lectores del barrio, explico: «La broma le devuelve al grupo la iniciativa de proponer; no afirma que los participantes sepan qué libro gustará a todo el mundo».",
+    "cloze": "le devuelve",
+    "answer": "le devuelve",
+    "lemma": "devolver",
+    "meaning": "returns to it",
+    "audio": "work/audio/es-MX/06/es-06-0866.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0867",
+    "sentence": "En la entrada del encuentro, un empleado explicó que el organizador había ordenado cerrar el registro antes de lo anunciado. Una visitante respondió: «Qué manera de recibirnos; sé que usted no decidió esto». Para quienes no asistieron, la reseña propone contar solo que hablaron con cortesía. Al corregirla, no amortiguamos la queja con ese resumen: «La visitante criticó el cierre anticipado mediante un elogio irónico, aunque eximió al empleado de haberlo decidido».",
+    "cloze": "amortiguamos",
+    "answer": "amortiguamos",
+    "lemma": "amortiguar",
+    "meaning": "soften",
+    "audio": "work/audio/es-MX/06/es-06-0867.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0868",
+    "sentence": "En casa jugábamos a ser meseros y clientes. Empezamos a recoger mientras papá aún comía y él dijo: «No se apuren, yo cierro el restaurante». No aclaró si se había molestado. Para la página de relatos familiares, el título «Papá nos regañó» prejuzgaría el sentido de la frase ante lectores que desconocen el juego. Publicamos «El último cliente» y contamos la prisa por recoger junto con el restaurante imaginario, sin resolver si hubo además una queja.",
+    "cloze": "prejuzgaría",
+    "answer": "prejuzgaría",
+    "lemma": "prejuzgar",
+    "meaning": "would prejudge",
+    "audio": "work/audio/es-MX/06/es-06-0868.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0869",
+    "sentence": "Tras cancelarse la muestra por falta de espacio, una expositora dijo a sus compañeras: «Nos regalaron vacaciones». Todas habían terminado sus piezas y querían exhibirlas. Para la crónica que leerán quienes desconocen la cancelación, aclaro: «La crónica no rebautiza la cancelación como un descanso elegido: la frase expresa el contraste entre el trabajo preparado y la actividad que ya no pudieron realizar».",
+    "cloze": "rebautiza",
+    "answer": "rebautiza",
+    "lemma": "rebautizar",
+    "meaning": "relabels",
+    "audio": "work/audio/es-MX/06/es-06-0869.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0870",
+    "sentence": "Dos antiguos compañeros que siempre se perdían buscando salones se saludaron: «Llegó mi brújula». «Y la mía». Después buscaron juntos la entrada. La exposición de recuerdos iba a colocar cada frase bajo un retrato separado. Para que los visitantes no reciban dos descripciones de buenos guías, las respuestas se yuxtaponen bajo la foto de ambos: «Se llamaron brújula uno al otro, recordando las veces que se perdieron juntos».",
+    "cloze": "se yuxtaponen",
+    "answer": "se yuxtaponen",
+    "lemma": "yuxtaponerse",
+    "meaning": "are placed side by side",
+    "audio": "work/audio/es-MX/06/es-06-0870.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0871",
+    "sentence": "Al salir del concierto, una oyente dijo a su amiga: «Qué breve la presentación: casi duró más que todas las canciones juntas. La música sí me encantó». La página del festival propone publicar solo el elogio final bajo «Todo salió perfecto». Para lectores ajenos al concierto, corregimos: «El elogio de la música no se extrapola a la organización de la noche: la misma oyente criticó con ironía la duración de la presentación».",
+    "cloze": "se extrapola",
+    "answer": "se extrapola",
+    "lemma": "extrapolarse",
+    "meaning": "is extrapolated",
+    "audio": "work/audio/es-MX/06/es-06-0871.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0872",
+    "sentence": "En el taller, los alumnos llamaban «el mar» a una enorme hoja azul. Al pedirles otra actividad en esa hoja ya llena, una alumna dijo: «Ya no cabe ni una gota». La maestra le dio otra hoja y ella siguió trabajando, sin explicar su comentario. Para las familias que no estuvieron, la reseña dice: «La nueva hoja permitió continuar, pero ese resultado no esclarece si la alumna había pedido más espacio o si solo seguía el juego del mar».",
+    "cloze": "esclarece",
+    "answer": "esclarece",
+    "lemma": "esclarecer",
+    "meaning": "clarifies",
+    "audio": "work/audio/es-MX/06/es-06-0872.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0873",
+    "sentence": "Mi abuela tardó tres días en hacer un disfraz. Cuando se lo agradecieron, respondió: «Si se hizo solo». La niña contestó: «Qué alivio, pensé que tenía que darte algo». Para los lectores de la historia familiar, escribo: «La broma aligeraba esa deuda sentida por recibir el regalo, según la respuesta de la niña; no borra los tres días de trabajo ni explica la intención de la abuela».",
+    "cloze": "aligeraba",
+    "answer": "aligeraba",
+    "lemma": "aligerar",
+    "meaning": "was easing",
+    "audio": "work/audio/es-MX/06/es-06-0873.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0874",
+    "sentence": "Los vecinos habían esperado semanas una respuesta sobre el préstamo del salón. En su reunión, uno dijo: «Nos van a salir raíces aquí», y pidió que volvieran a preguntar ese día. Para quienes no asistieron, un boletín limitado a «la espera continúa» silenciaría la petición que acompañó la imagen. Escribimos: «Un vecino expresó su impaciencia y pidió volver a preguntar ese mismo día; la respuesta sobre el préstamo seguía pendiente».",
+    "cloze": "silenciaría",
+    "answer": "silenciaría",
+    "lemma": "silenciar",
+    "meaning": "would suppress",
+    "audio": "work/audio/es-MX/06/es-06-0874.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0875",
+    "sentence": "—La reseña llegará a personas que no vieron el ensayo. Una actriz dijo: «Toda mi escena fue un desastre». Su compañero respondió: «Bueno, la puerta sí se enteró», porque ella la había golpeado al pasar; añadió que lo demás había salido bien. —Podemos escribir que la respuesta hace una concesión parcial mediante la broma: reconoce el tropiezo de la entrada, pero no acepta descalificar toda la escena.",
+    "cloze": "concesión parcial",
+    "answer": "concesión parcial",
+    "lemma": "concesión parcial",
+    "meaning": "partial concession",
+    "audio": "work/audio/es-MX/06/es-06-0875.mp3",
+    "accepted_answers": []
   }
 ]
