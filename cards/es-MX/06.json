@@ -5292,5 +5292,265 @@
     "meaning": "he had put his foot in it",
     "audio": "work/audio/es-MX/06/es-06-0525.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0526",
+    "sentence": "—Mi tía contaba que llevaba semanas esperando una respuesta a su solicitud… —Pero la rechazaron; encontramos la carta. —La carta apareció años después. En aquella espera, ella revisaba el buzón sin saber qué había pasado. ¿Se habría traspapelado su solicitud? Antes de mandar otra, quería preguntar.",
+    "cloze": "Se habría traspapelado",
+    "answer": "Se habría traspapelado",
+    "lemma": "traspapelarse",
+    "meaning": "it might have been mislaid",
+    "audio": "work/audio/es-MX/06/es-06-0526.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0527",
+    "sentence": "—La abuela esperaba a mi tío para cenar y ya eran las nueve… —Ahora él sale de trabajar a las diez. —En esa época salía a las seis. La abuela miraba la puerta: a estas horas ya tendría que estar aquí. No sabía si servir la cena o esperar otro rato.",
+    "cloze": "a estas horas",
+    "answer": "a estas horas",
+    "lemma": "a estas horas",
+    "meaning": "by this time",
+    "audio": "work/audio/es-MX/06/es-06-0527.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0528",
+    "sentence": "Tomás me contó que llegó con una invitación a una clase gratis y le pidieron una reservación. Mi hermana interrumpe para explicar que aquel mensaje se envió al grupo equivocado. Eso se aclaró después. Tomás seguía frente al mostrador: ¿le estaban tomando el pelo con aquella invitación? Quería una explicación antes de irse.",
+    "cloze": "le estaban tomando el pelo",
+    "answer": "le estaban tomando el pelo",
+    "lemma": "tomar el pelo",
+    "meaning": "they were pulling his leg",
+    "audio": "work/audio/es-MX/06/es-06-0528.mp3",
+    "accepted_answers": [
+      "estaban tomándole el pelo"
+    ]
+  },
+  {
+    "id": "es-06-0529",
+    "sentence": "—Clara dejó su costurero en casa de su mamá antes de irse de vacaciones… —Esa casa ya es una tienda. —Sí, ahora. Clara me contaba sus planes de entonces: viajaba ligera y dejaba allá las cosas que no necesitaba. A la vuelta recogía el costurero; no tenía que cargarlo durante todo el viaje.",
+    "cloze": "A la vuelta",
+    "answer": "A la vuelta",
+    "lemma": "a la vuelta",
+    "meaning": "on her return",
+    "audio": "work/audio/es-MX/06/es-06-0529.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0530",
+    "sentence": "Papá contaba cómo buscaba al mesero mientras salía vapor del plato. Mi hermano me recuerda que al final le sirvieron otra sopa, bien caliente. Todavía no llegamos a eso: papá seguía levantando la mano. La sopa se le iba a enfriar antes de que alguien le trajera una cuchara; tenía que hacerse ver.",
+    "cloze": "se le iba a enfriar",
+    "answer": "se le iba a enfriar",
+    "lemma": "ir a enfriarse",
+    "meaning": "it was going to get cold on him",
+    "audio": "work/audio/es-MX/06/es-06-0530.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0531",
+    "sentence": "—Mamá vio una bolsa de retazos junto a la basura… —Con esos retazos hicimos la colcha que tienes. —Ella aún no conocía el plan. Como me lo contó, se quedó mirando la bolsa: toda esa tela se estaba desperdiciando, con lo que le había costado conseguirla. Quería saber quién la había dejado ahí.",
+    "cloze": "se estaba desperdiciando",
+    "answer": "se estaba desperdiciando",
+    "lemma": "desperdiciarse",
+    "meaning": "was being wasted",
+    "audio": "work/audio/es-MX/06/es-06-0531.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0532",
+    "sentence": "—Usted contó que su hermana pidió las instrucciones con letra grande… —Sí. —En el taller ya las entregan así. —Qué bueno. Pero ella salió de aquella oficina sin una respuesta clara. ¿Le habrían entendido lo de la letra, o solo habían anotado su nombre? No sabía si volver a explicarlo.",
+    "cloze": "Le habrían entendido",
+    "answer": "Le habrían entendido",
+    "lemma": "entender",
+    "meaning": "they might have understood her",
+    "audio": "work/audio/es-MX/06/es-06-0532.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0533",
+    "sentence": "Mi prima me contaba su primer intento de entrar al coro. Aquí siempre alguien comenta que ahora hasta canta los solos. Pero aquella tarde todavía esperaba que la escucharan. No se daría por vencida por una puerta cerrada; primero iba a averiguar si habría otra prueba. Su lugar aún no estaba decidido.",
+    "cloze": "se daría por vencida",
+    "answer": "se daría por vencida",
+    "lemma": "darse por vencido",
+    "meaning": "she would give up",
+    "audio": "work/audio/es-MX/06/es-06-0533.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0534",
+    "sentence": "—Lucía dejó sobre la mesa el folleto del viaje, esperando una respuesta de su mamá… —Es el viaje del que tienen tantas fotos juntas. —Ese mismo; las fotos son del mes siguiente. Lucía seguía pendiente de su mamá. Ojalá se animara a acompañarla; todavía no sabía si apartar uno o dos lugares.",
+    "cloze": "se animara",
+    "answer": "se animara",
+    "lemma": "animarse",
+    "meaning": "she would decide to join in",
+    "audio": "work/audio/es-MX/06/es-06-0534.mp3",
+    "accepted_answers": [
+      "se animase"
+    ]
+  },
+  {
+    "id": "es-06-0535",
+    "sentence": "Rafa contaba que sus compañeros bajaban la voz cuando él se acercaba. «Yo les habría preguntado», comenta mi hermana. Rafa, en cambio, acababa de entrar al equipo y me contó que no se atrevía. ¿No sería muy metiche de su parte pedir una explicación? Ni siquiera sabía si hablaban de él.",
+    "cloze": "metiche",
+    "answer": "metiche",
+    "lemma": "metiche",
+    "meaning": "nosy",
+    "audio": "work/audio/es-MX/06/es-06-0535.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0536",
+    "sentence": "—Mario salió de la junta molesto por el cambio de turno… —Pero luego se disculpó. —Por haber gritado. Al salir aún no sabía si respetarían su horario. No tenía por qué renunciar a las tardes con su hija solo porque los demás las tuvieran libres. Necesitaba explicar eso sin volver a gritar.",
+    "cloze": "tenía por qué",
+    "answer": "tenía por qué",
+    "lemma": "tener por qué",
+    "meaning": "had any reason to",
+    "audio": "work/audio/es-MX/06/es-06-0536.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0537",
+    "sentence": "Inés me contaba cómo preparó su primera charla con tres páginas de notas. Yo comento que la grabación final dura casi una hora, y perdemos de vista lo que ella tenía entonces sobre la mesa. Con esas tres páginas se quedaría corta; mejor buscar un ejemplo más antes de ensayar. Todavía no había medido cuánto duraba.",
+    "cloze": "se quedaría corta",
+    "answer": "se quedaría corta",
+    "lemma": "quedarse corto",
+    "meaning": "she would fall short",
+    "audio": "work/audio/es-MX/06/es-06-0537.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0538",
+    "sentence": "—El señor contaba que llegó al salón del taller y encontró la puerta cerrada… —El taller está arriba; yo fui ayer. —Él no tenía ese dato cuando llegó. Miró la escalera: ¿podían haberlo cambiado de piso sin avisarle? Antes de dar la vuelta, iba a buscar a alguien que supiera.",
+    "cloze": "podían haberlo cambiado",
+    "answer": "podían haberlo cambiado",
+    "lemma": "poder haber cambiado",
+    "meaning": "they could have moved it",
+    "audio": "work/audio/es-MX/06/es-06-0538.mp3",
+    "accepted_answers": [
+      "lo podían haber cambiado"
+    ]
+  },
+  {
+    "id": "es-06-0539",
+    "sentence": "Mi abuela contaba que no quería quitar la mesa mientras esperaba a su hermano. Ahora sé que él había salido de la ciudad esa mañana; ella recibió el aviso al día siguiente. Pero volvamos a aquella mesa intacta. Él llegaba de un momento a otro, seguro; mejor dejar su plato. Así vivía ella la espera.",
+    "cloze": "de un momento a otro",
+    "answer": "de un momento a otro",
+    "lemma": "de un momento a otro",
+    "meaning": "any moment now",
+    "audio": "work/audio/es-MX/06/es-06-0539.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0540",
+    "sentence": "—Elena sostenía el micrófono antes de presentar la fiesta… —Siempre ha tenido mucha facilidad para hablar. —Eso dices tú ahora. Ella me contó lo que sintió aquella primera vez, mientras seguía mirando al público: ese papel le quedaba grande; ¿cómo iba a lograr que todos la escucharan? Aún no había dicho una palabra.",
+    "cloze": "le quedaba grande",
+    "answer": "le quedaba grande",
+    "lemma": "quedar grande",
+    "meaning": "was beyond her abilities",
+    "audio": "work/audio/es-MX/06/es-06-0540.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0541",
+    "sentence": "Mi tío contaba que la cámara se mojó al bajar de la lancha. Aquí suelo enseñar una de las fotos de aquel paseo, que conservamos muy bien. Pero él seguía en la orilla, mirando la cámara mojada. ¿Se habría echado a perder el rollo? Tendría que esperar para saber si quedaba alguna foto.",
+    "cloze": "Se habría echado a perder",
+    "answer": "Se habría echado a perder",
+    "lemma": "echarse a perder",
+    "meaning": "it might have been ruined",
+    "audio": "work/audio/es-MX/06/es-06-0541.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0542",
+    "sentence": "—Alberto contaba que empezó a ordenar los papeles de la familia… —A su mamá le molestó que cambiara todo de lugar. —Después se lo dijo. Él todavía acomodaba las primeras carpetas, convencido de que ayudaba. Seguro se lo agradecerían cuando vieran todo ordenado; solo faltaba decidir dónde poner las cartas de la abuela.",
+    "cloze": "se lo agradecerían",
+    "answer": "se lo agradecerían",
+    "lemma": "agradecer",
+    "meaning": "they would thank him for it",
+    "audio": "work/audio/es-MX/06/es-06-0542.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0543",
+    "sentence": "Marta me contaba que corrió desde la parada hacia el teatro. Mi esposo interviene: esa función se canceló y no había público. El aviso no le llegó a Marta. Ella seguía cruzando la plaza a toda prisa: la estarían esperando para empezar; qué pena hacer perder el tiempo a todos. Necesitaba llegar a la puerta.",
+    "cloze": "la estarían esperando",
+    "answer": "la estarían esperando",
+    "lemma": "estar esperando",
+    "meaning": "they were probably waiting for her",
+    "audio": "work/audio/es-MX/06/es-06-0543.mp3",
+    "accepted_answers": [
+      "estarían esperándola"
+    ]
+  },
+  {
+    "id": "es-06-0544",
+    "sentence": "—Mi prima leyó que estaba preseleccionada para el taller… —Al final no consiguió lugar. —Ya sé, pero estoy contando cómo me describió esa tarde. Cerró la página sin leer el resto. Ya podía cantar victoria; ¿por qué esperar otra lista? Todavía no había decidido a quién llamar primero.",
+    "cloze": "podía cantar victoria",
+    "answer": "podía cantar victoria",
+    "lemma": "poder cantar victoria",
+    "meaning": "she could declare victory",
+    "audio": "work/audio/es-MX/06/es-06-0544.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0545",
+    "sentence": "Mi sobrino contaba cómo miró el mapa antes de hacer su primer viaje solo en camión. Ahora recorre la ciudad sin ayuda, y es fácil olvidar aquel momento. Pero seguía frente al mapa, sin salir de casa. Cambiar de camión se le hacía un mundo; ¿a quién le preguntaría si no encontraba la parada?",
+    "cloze": "se le hacía un mundo",
+    "answer": "se le hacía un mundo",
+    "lemma": "hacérsele un mundo",
+    "meaning": "felt overwhelming to him",
+    "audio": "work/audio/es-MX/06/es-06-0545.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0546",
+    "sentence": "—Adela abrió el cuaderno del grupo y no vio su nombre en la primera página… —Está al final, con los demás autores. —Eso lo vimos después. Ella me contó que dejó de leer ahí. ¡Cómo le ardía aquella ausencia, después de tantas tardes escribiendo! Aún no sabía si reclamar o revisar el resto.",
+    "cloze": "le ardía",
+    "answer": "le ardía",
+    "lemma": "arder",
+    "meaning": "it stung her",
+    "audio": "work/audio/es-MX/06/es-06-0546.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0547",
+    "sentence": "Luis me contaba que buscaba sus apuntes para el examen del día siguiente. Aclaro de una vez que el profesor lo canceló, aunque el aviso llegó esa noche. A mediodía Luis seguía vaciando la mochila. Más le valía repasar con el libro mientras aparecían los apuntes; no podía contar con que alguien le prestara los suyos.",
+    "cloze": "Más le valía",
+    "answer": "Más le valía",
+    "lemma": "valer más",
+    "meaning": "he had better",
+    "audio": "work/audio/es-MX/06/es-06-0547.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0548",
+    "sentence": "—Mi hermano contaba cómo esperó en el pasillo para saludar a la actriz… —Estamos grabando esta entrevista justo en ese camerino. —Sí. Pero él seguía afuera, sin poder verla. Allá adentro la actriz se estaría arreglando; mejor no tocar todavía. No sabía cuánto más tendría que esperar.",
+    "cloze": "Allá adentro",
+    "answer": "Allá adentro",
+    "lemma": "allá adentro",
+    "meaning": "in there",
+    "audio": "work/audio/es-MX/06/es-06-0548.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0549",
+    "sentence": "—Mi hermano contaba que salió corriendo del trabajo para ver el partido… —Ahora puedes verlo completo cuando quieras. —En ese entonces no teníamos cómo grabarlo. Él miraba el reloj en la parada: se lo iba a perder si tardaba más el camión. Todavía faltaba llegar a casa y prender la tele.",
+    "cloze": "se lo iba a perder",
+    "answer": "se lo iba a perder",
+    "lemma": "ir a perderse",
+    "meaning": "he was going to miss it",
+    "audio": "work/audio/es-MX/06/es-06-0549.mp3",
+    "accepted_answers": [
+      "iba a perdérselo"
+    ]
+  },
+  {
+    "id": "es-06-0550",
+    "sentence": "Estela me contaba que un muchacho desconocido preguntó por el cuarto que rentaba. Mi hija comenta que ese fue el vecino que después le cuidaba las plantas. Eso ocurrió meses más tarde. Estela seguía en la puerta: aquel muchacho le daba mala espina; ¿para qué quería saber a qué hora salía ella? Aún no lo invitaba a pasar.",
+    "cloze": "le daba mala espina",
+    "answer": "le daba mala espina",
+    "lemma": "dar mala espina",
+    "meaning": "gave her a bad feeling",
+    "audio": "work/audio/es-MX/06/es-06-0550.mp3",
+    "accepted_answers": []
   }
 ]
