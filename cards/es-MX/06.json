@@ -9826,5 +9826,255 @@
     "meaning": "I would intersperse",
     "audio": "work/audio/es-MX/06/es-06-0975.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0976",
+    "sentence": "Ana dijo: «Quizá pueda entregar el cartel el viernes». En tu presentación al equipo aparece «Ana garantiza la entrega el viernes». Quieres pedirle una fecha firme para corregirlo, pero esa garantía se la adjudicas tú: el equipo necesita saber que tu versión convirtió una posibilidad en promesa. Corrige el grado de certeza ahora; pedirle un compromiso nuevo sería otra conversación.",
+    "cloze": "se la adjudicas",
+    "answer": "se la adjudicas",
+    "lemma": "adjudicar",
+    "meaning": "you attribute it to her",
+    "audio": "work/audio/es-MX/06/es-06-0976.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0977",
+    "sentence": "Ramiro afirmó: «Las fiestas del barrio solo deberían ser para vecinos». Tu artículo reproduce la frase sin atribución. Quitar «solo» para que no parezca que la suscribes también cambiaría su postura. Nómbralo como autor de la exclusión y formula aparte tu desacuerdo; el lector debe poder distinguir la posición criticada de la crítica.",
+    "cloze": "la suscribes",
+    "answer": "la suscribes",
+    "lemma": "suscribir",
+    "meaning": "you endorse it",
+    "audio": "work/audio/es-MX/06/es-06-0977.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0978",
+    "sentence": "La recepcionista explicó: «El organizador me pidió que esperaran». Tu reporte para los visitantes dice «La recepcionista decidió retrasar la entrada». Así le cargas a ella la decisión que atribuyó al organizador. Cambiar el nombre no basta: escribe que, según ella, recibió esa indicación del organizador; los visitantes necesitan distinguir a quién atribuye la decisión de lo que el reporte ha comprobado.",
+    "cloze": "le cargas",
+    "answer": "le cargas",
+    "lemma": "cargar",
+    "meaning": "you saddle her with",
+    "audio": "work/audio/es-MX/06/es-06-0978.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0979",
+    "sentence": "Iván dijo: «Apoyo la sede, pero no el programa». Tu resumen para los colaboradores dice que apoya el proyecto entero: lo haces extensivo al programa. Borrar toda mención a Iván evitaría ese respaldo falso, pero también quitaría el apoyo que sí expresó. Conserva la sede como objeto del apoyo y su rechazo del programa, para que puedan citarlo sin presentarlo como promotor del conjunto.",
+    "cloze": "lo haces extensivo",
+    "answer": "lo haces extensivo",
+    "lemma": "hacer extensivo",
+    "meaning": "you extend it",
+    "audio": "work/audio/es-MX/06/es-06-0979.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0980",
+    "sentence": "En la historia familiar, Luisa escribió: «En aquel entonces quería mudarme». Tu texto para sus nietos dice «Luisa quiere irse». Poner la fecha del recuerdo al pie no corrige ese presente: prolongas hasta hoy una intención que ella sitúa en el pasado, sin saber si la mantiene. Sitúa ese deseo en la época del recuerdo para que los nietos no lo reciban como un anuncio actual.",
+    "cloze": "prolongas",
+    "answer": "prolongas",
+    "lemma": "prolongar",
+    "meaning": "you extend",
+    "audio": "work/audio/es-MX/06/es-06-0980.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0981",
+    "sentence": "Eva dijo: «No sé quién cambió el horario», pero tu video para los asistentes resume «Eva culpa a los vecinos». Ahora le piden una disculpa. No le pidas que se desdiga para corregir el video: ella no hizo esa acusación. Retírala del resumen y aclara a los asistentes dónde se introdujo.",
+    "cloze": "se desdiga",
+    "answer": "se desdiga",
+    "lemma": "desdecirse",
+    "meaning": "she retract her words",
+    "audio": "work/audio/es-MX/06/es-06-0981.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0982",
+    "sentence": "«Este taller ayuda a todos» es el título que propone tu folleto para nuevos alumnos. La participante había dicho: «A mí me ayudó a perder la pena». Pedirle que autorice el título no demuestra que el taller ayude a cualquiera: con ese «todos» universalizas su experiencia. Conserva su testimonio personal y retira la garantía del título; su permiso no ampliaría lo que ese testimonio demuestra.",
+    "cloze": "universalizas",
+    "answer": "universalizas",
+    "lemma": "universalizar",
+    "meaning": "you make universal",
+    "audio": "work/audio/es-MX/06/es-06-0982.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0983",
+    "sentence": "Tomás dijo: «No me opongo a que hagan la muestra». En su anuncio para los expositores, ustedes escribieron «Tomás recomienda la muestra». Tomás ahora sí acepta recomendarla. Ese respaldo expreso es nuevo: publiquen la recomendación como actual y corrijan el anuncio anterior, que lo presentó como promotor antes de que lo aceptara.",
+    "cloze": "respaldo expreso",
+    "answer": "respaldo expreso",
+    "lemma": "respaldo expreso",
+    "meaning": "explicit support",
+    "audio": "work/audio/es-MX/06/es-06-0983.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0984",
+    "sentence": "Marta explicó: «No pude leer el aviso porque la letra era muy pequeña». Tu guía para las familias dice «Marta no quiso leer las instrucciones» y propone convencerla de hacerlo. La falta de voluntad se la atribuye tu resumen; pedirle más disposición no resuelve la dificultad que describió. Corrige la guía para que las familias puedan ofrecerle un aviso legible y preguntarle si así puede leer las instrucciones.",
+    "cloze": "falta de voluntad",
+    "answer": "falta de voluntad",
+    "lemma": "falta de voluntad",
+    "meaning": "unwillingness",
+    "audio": "work/audio/es-MX/06/es-06-0984.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0985",
+    "sentence": "En tu reseña para el club aparece «Clara cree que el público no entiende». Clara había dicho: «Pedro dice que el público no entiende; yo no coincido». Le pones en boca a Clara la opinión que ella rechazó. Añadir «según Clara» reforzaría el error: devuelve esa opinión a Pedro y conserva el desacuerdo de Clara, para que los lectores sepan con quién están discutiendo.",
+    "cloze": "Le pones en boca",
+    "answer": "Le pones en boca",
+    "lemma": "poner en boca",
+    "meaning": "you put into someone's mouth",
+    "audio": "work/audio/es-MX/06/es-06-0985.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0986",
+    "sentence": "«Me fui antes de que terminara la reunión», dijo Andrés. En tu crónica para el barrio aparece «Andrés se fue ofendido» y propones añadir «quizá» para corregirlo. Esa conjetura corre por tu cuenta; no consta que Andrés dudara sobre su motivo. Quita el motivo del resumen y, si lo comentas, identifícalo como conjetura tuya para que el lector no se la atribuya a Andrés.",
+    "cloze": "corre por tu cuenta",
+    "answer": "corre por tu cuenta",
+    "lemma": "correr por cuenta de",
+    "meaning": "is your own inference",
+    "audio": "work/audio/es-MX/06/es-06-0986.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0987",
+    "sentence": "El hostal les escribió a los visitantes: «Les enviaremos el mapa». Tú copiaste esa frase en el boletín del grupo sin nombrar al hostal. Ese «enviaremos» te compromete ante los lectores como parte del grupo que hará el envío. Cambiarlo por «se enviará» seguiría ocultando al responsable; nombra al hostal como autor de la oferta y aclara que el boletín la transmite.",
+    "cloze": "te compromete",
+    "answer": "te compromete",
+    "lemma": "comprometer",
+    "meaning": "commits you",
+    "audio": "work/audio/es-MX/06/es-06-0987.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0988",
+    "sentence": "Rosa dijo: «Quien falta a las reuniones no participa». Tu reseña lo cambia por «Rosa cree que quien falta no debe opinar». Recuperar su afirmación no significa avalarla: puedes cuestionar que niegue la participación de quienes faltan, sin atribuirle una prohibición de opinar. Devuelve su afirmación al texto y dirige nuestra crítica a esa idea, para que el lector no discuta con Rosa una prohibición creada por la reseña.",
+    "cloze": "avalarla",
+    "answer": "avalarla",
+    "lemma": "avalar",
+    "meaning": "to endorse it",
+    "audio": "work/audio/es-MX/06/es-06-0988.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0989",
+    "sentence": "Leo informó: «Faltaron hojas». En el reporte para el taller agregaste «Faltaron hojas [porque Leo no revisó el material]». Los corchetes no permiten que te desentiendas de esa acusación: los lectores pueden culparlo por una causa que él no dio. Quita la causa añadida y conserva la falta de hojas.",
+    "cloze": "te desentiendas",
+    "answer": "te desentiendas",
+    "lemma": "desentenderse",
+    "meaning": "you disclaim responsibility",
+    "audio": "work/audio/es-MX/06/es-06-0989.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0990",
+    "sentence": "La tallerista dijo: «Si quieren, pueden traer un dibujo». Tu mensaje para las familias dice «Deben traer un dibujo». Haces pasar una invitación por una instrucción; cambiar «deben» por «deberían» todavía añadiría una recomendación. Escribe que pueden llevarlo si quieren, para que las familias conserven la opción sin pedirle a la tallerista una excepción que no necesitan.",
+    "cloze": "Haces pasar",
+    "answer": "Haces pasar",
+    "lemma": "hacer pasar",
+    "meaning": "you pass off",
+    "audio": "work/audio/es-MX/06/es-06-0990.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0991",
+    "sentence": "Mario explicó: «Dejé el coro porque no me daban turno». Tu presentación para los nuevos integrantes dice «No le dieron turno porque dejó el coro». Inviertes la relación que él contó y su salida parece justificar la exclusión. Recupera el orden de su explicación y atribúyesela a Mario, sin presentarla como una causa comprobada.",
+    "cloze": "Inviertes",
+    "answer": "Inviertes",
+    "lemma": "invertir",
+    "meaning": "you reverse",
+    "audio": "work/audio/es-MX/06/es-06-0991.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0992",
+    "sentence": "Nora dijo: «Todavía no elijo: el patio es amplio, pero la sala es más silenciosa». Su resumen para la familia dice «Nora eligió el patio por el espacio». No diga ahora que Nora se arrepintió: la elección del patio estaba en su resumen, no en las palabras de Nora. Avise a la familia que corrigió una decisión mal atribuida y conserve la comparación abierta.",
+    "cloze": "se arrepintió",
+    "answer": "se arrepintió",
+    "lemma": "arrepentirse",
+    "meaning": "regretted her decision",
+    "audio": "work/audio/es-MX/06/es-06-0992.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0993",
+    "sentence": "Mi tío dijo: «No invité a Luis porque me cae mal». Tu texto para el álbum familiar dice «No lo invitó para evitarle un mal rato». Llamar neutral a esa versión no resuelve el problema: lo exculpas atribuyéndole una buena intención que él no expresó. Puedes omitir nuestra valoración, pero conserva su motivo para que la familia distinga lo que él dijo de cualquier defensa nuestra.",
+    "cloze": "lo exculpas",
+    "answer": "lo exculpas",
+    "lemma": "exculpar",
+    "meaning": "you absolve him",
+    "audio": "work/audio/es-MX/06/es-06-0993.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0994",
+    "sentence": "Después de hablar con Eva, Rosa contó: «Eva no fue a la reunión; yo sí». Tu nota para los vecinos dice «Rosa habló con Eva y contó que ella no fue». La duda nace de tu «ella»; no se la traslades a Rosa pidiéndole que aclare si asistió. Nombra a Eva para que los vecinos identifiquen a quien faltó.",
+    "cloze": "se la traslades",
+    "answer": "se la traslades",
+    "lemma": "trasladar",
+    "meaning": "you transfer it to her",
+    "audio": "work/audio/es-MX/06/es-06-0994.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0995",
+    "sentence": "Ana declaró: «No escondí la lista». Tu boletín para los socios titula «Ana explica por qué escondió la lista». Con ese título das por admitido lo que ella negó, y los socios pueden leer una confesión. Cambia el título para informar que ella lo niega, sin afirmar por eso que sabemos qué ocurrió.",
+    "cloze": "das por admitido",
+    "answer": "das por admitido",
+    "lemma": "dar por admitido",
+    "meaning": "you treat as admitted",
+    "audio": "work/audio/es-MX/06/es-06-0995.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0996",
+    "sentence": "Celia pidió: «Publiquen mi queja, pero sin mi nombre». Tu borrador para los vecinos dice «Celia ya no quiere reclamar». La das por retirada por una restricción sobre el nombre. No lo arregles publicando su frase con nombre y todo para demostrar que sigue reclamando: informa que la queja sigue vigente y corrige la atribución sin identificarla.",
+    "cloze": "La das por retirada",
+    "answer": "La das por retirada",
+    "lemma": "dar por retirado",
+    "meaning": "you treat it as withdrawn",
+    "audio": "work/audio/es-MX/06/es-06-0996.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0997",
+    "sentence": "Elisa comentó: «Me aburrí, aunque mis hijos se rieron mucho». Su reseña para otras familias resume «La familia se aburrió». Cambiar «se aburrió» por «se divirtió» no arreglaría la voz colectiva: trasladaría a Elisa la reacción de sus hijos. Mantenga la valoración personal de Elisa y cuente por separado las risas, sin convertirlas en una opinión que los niños no expresaron.",
+    "cloze": "valoración personal",
+    "answer": "valoración personal",
+    "lemma": "valoración personal",
+    "meaning": "personal assessment",
+    "audio": "work/audio/es-MX/06/es-06-0997.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0998",
+    "sentence": "La orientadora ofreció: «Si quieres, te explico el formulario». Su guía para nuevos usuarios lo transforma en «A estas personas hay que explicárselo todo». Sustituir «estas personas» por «los usuarios» mantendría el trato condescendiente que introduce la guía. Recupere la oferta opcional sobre el formulario; cambiar la etiqueta no evita atribuirle a la orientadora un juicio sobre la capacidad de sus destinatarios.",
+    "cloze": "trato condescendiente",
+    "answer": "trato condescendiente",
+    "lemma": "trato condescendiente",
+    "meaning": "patronizing treatment",
+    "audio": "work/audio/es-MX/06/es-06-0998.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0999",
+    "sentence": "La anfitriona le dijo a Sara: «Ven cuando quieras». Su cartel para los visitantes anuncia «Vengan cuando quieran». Poner la frase original entre comillas bajo «Mensaje de la anfitriona» mantendría una invitación abierta para quien lea el cartel. Indique que se dirigió a Sara y cuente a quién invitó; citar con exactitud no basta si el cartel sigue convocando a sus lectores.",
+    "cloze": "invitación abierta",
+    "answer": "invitación abierta",
+    "lemma": "invitación abierta",
+    "meaning": "open invitation",
+    "audio": "work/audio/es-MX/06/es-06-0999.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1000",
+    "sentence": "Lalo dijo: «Me gustó el final»; Irene respondió: «A mí no». Tu reseña para quienes no vieron la obra afirma «Ambos celebraron el cierre». La falsa unanimidad está en tu reseña; no les pidas que se pongan de acuerdo para sostenerla. Atribuye cada valoración a quien la expresó y permite que los lectores conozcan el desacuerdo.",
+    "cloze": "falsa unanimidad",
+    "answer": "falsa unanimidad",
+    "lemma": "falsa unanimidad",
+    "meaning": "false unanimity",
+    "audio": "work/audio/es-MX/06/es-06-1000.mp3",
+    "accepted_answers": []
   }
 ]
