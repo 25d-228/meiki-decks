@@ -8826,5 +8826,255 @@
     "meaning": "partial concession",
     "audio": "work/audio/es-MX/06/es-06-0875.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0876",
+    "sentence": "En el chat de colegas dije: «Yo quitaría la segunda foto, pero es una idea para discutir». Ahora coordino la edición y escribo a quienes harán los cambios: «Someto a su consideración quitar la segunda foto; pueden conservarla, pues todavía estamos comparando opciones».",
+    "cloze": "Someto",
+    "answer": "Someto",
+    "lemma": "someter",
+    "meaning": "I submit",
+    "audio": "work/audio/es-MX/06/es-06-0876.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0877",
+    "sentence": "«La autorización para presentar no queda supeditada a que revisemos juntas las diapositivas; puedo ayudarte si te sirve». Así le escribo a una compañera cuya presentación ya autoricé como supervisora. Retomo lo que le ofrecí por teléfono antes de supervisarla: «Si te sirve, puedo revisar contigo tus diapositivas».",
+    "cloze": "queda supeditada",
+    "answer": "queda supeditada",
+    "lemma": "quedar supeditado",
+    "meaning": "is made conditional",
+    "audio": "work/audio/es-MX/06/es-06-0877.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0878",
+    "sentence": "Como responsable del turno escribí a un empleado: «La lista de pedidos tiene que quedar revisada por ti antes del cierre». También somos amigos; al hablar del trabajo durante la comida, le digo: «Te encargo revisar la lista antes del cierre; va dentro de tu turno, aunque aquí hablemos como amigos».",
+    "cloze": "Te encargo",
+    "answer": "Te encargo",
+    "lemma": "encargar",
+    "meaning": "I assign you",
+    "audio": "work/audio/es-MX/06/es-06-0878.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0879",
+    "sentence": "Una amiga me escribió: «Queremos invitar a tu asociación». Le contesté: «Qué gusto que hayan pensado en nosotros; todavía tenemos que decidir». El comité organizador me pide ahora, como contacto de la asociación, saber si puede anunciarnos. Respondo por correo: «Gracias por la invitación. No nos anuncien como participantes: llevaré la invitación al grupo, que todavía tiene que decidir».",
+    "cloze": "nos anuncien",
+    "answer": "nos anuncien",
+    "lemma": "anunciar",
+    "meaning": "announce us",
+    "audio": "work/audio/es-MX/06/es-06-0879.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0880",
+    "sentence": "Varios amigos trabajan ahora en el equipo que dirijo, donde deben avisarme si faltan al turno. Quiero conservar el sentido de mi invitación en el chat de amigos: «Vengan a mi cumpleaños si tienen ganas». En el mensaje para ellos escribo: «Están invitados a mi cumpleaños; si no van, no me deben ninguna explicación. Es un plan entre amigos, fuera del trabajo».",
+    "cloze": "me deben",
+    "answer": "me deben",
+    "lemma": "deber",
+    "meaning": "you owe me",
+    "audio": "work/audio/es-MX/06/es-06-0880.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0881",
+    "sentence": "Como encargada del salón confirmé por correo a un tallerista: «Adelante, pueden quedarse hasta las siete». También es mi vecino; en el chat del edificio solemos decir «adelante» solo para animarnos. Allí le escribo: «Autorizo el uso del salón hasta las siete; pueden organizar el taller con esa hora de salida».",
+    "cloze": "Autorizo",
+    "answer": "Autorizo",
+    "lemma": "autorizar",
+    "meaning": "I authorize",
+    "audio": "work/audio/es-MX/06/es-06-0881.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0882",
+    "sentence": "Mi hermana me dijo por teléfono: «No acepto la comida el domingo porque trabajo; pídeles otro día». Yo sí puedo ese domingo. Al escribir como mediadora en el chat familiar, digo: «Les traslado la petición de mi hermana de buscar otro día porque trabaja el domingo; necesito que le respondan para seguir organizándonos».",
+    "cloze": "Les traslado",
+    "answer": "Les traslado",
+    "lemma": "trasladar",
+    "meaning": "I convey to you",
+    "audio": "work/audio/es-MX/06/es-06-0882.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0883",
+    "sentence": "A mi vecino le dije en persona: «Quiero ayudarte a que te den tiempo de explicar tu propuesta». Ahora modero la asamblea, aunque los turnos los decide el grupo. Ante todos digo: «Intercedo por él para que pueda explicar su propuesta; les pido ese tiempo, sin dar por aprobado lo que propone».",
+    "cloze": "Intercedo",
+    "answer": "Intercedo",
+    "lemma": "interceder",
+    "meaning": "I speak on his behalf",
+    "audio": "work/audio/es-MX/06/es-06-0883.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0884",
+    "sentence": "«Recibí tu propuesta, pero todavía no la doy por aceptada para la reunión; primero tengo que revisarla», escribo desde coordinación a una compañera. Ahora me toca seleccionar qué propuestas llegan a la reunión; conservo el alcance de mi mensaje anterior como colega: «Ya tengo tu propuesta; todavía no la reviso».",
+    "cloze": "la doy por aceptada",
+    "answer": "la doy por aceptada",
+    "lemma": "dar por aceptado",
+    "meaning": "I regard it as accepted",
+    "audio": "work/audio/es-MX/06/es-06-0884.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0885",
+    "sentence": "Fuera del taller le comenté a un conocido: «Por lo que veo, quizá tu marco quede mañana; todavía falta secarlo». Ahora lo atiendo como cliente en el mostrador: «No le garantizo la entrega mañana; sigue siendo una posibilidad y todavía falta el secado».",
+    "cloze": "le garantizo",
+    "answer": "le garantizo",
+    "lemma": "garantizar",
+    "meaning": "I guarantee you",
+    "audio": "work/audio/es-MX/06/es-06-0885.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0886",
+    "sentence": "Mi amiga me contó por teléfono que habían cancelado su lectura. Le dije: «Qué mal; entiendo tu enojo, aunque no sé por qué la cancelaron». Cuando me pide una respuesta como enlace del festival, quiere que confirme que la organización actuó mal. Le escribo: «Entiendo tu enojo, pero no emitiré un juicio sobre la actuación del festival sin saber por qué cancelaron tu lectura».",
+    "cloze": "emitiré",
+    "answer": "emitiré",
+    "lemma": "emitir",
+    "meaning": "I will issue",
+    "audio": "work/audio/es-MX/06/es-06-0886.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0887",
+    "sentence": "En la reunión entre compañeros dije: «No estoy de acuerdo con usar esa foto porque no muestra la entrada». Al escribirle al fotógrafo como responsable de autorizar la publicación, todavía no he decidido y quiero escuchar sus razones: «Convénceme de que vale la pena usar esa foto aunque no muestre la entrada; decidiré después de escuchar por qué la elegiste».",
+    "cloze": "Convénceme",
+    "answer": "Convénceme",
+    "lemma": "convencer",
+    "meaning": "convince me",
+    "audio": "work/audio/es-MX/06/es-06-0887.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0888",
+    "sentence": "Antes asignaba las salas y comenté con otra encargada: «Yo usaría la sala grande para que todos vean los carteles, pero veamos las opciones». Ahora participo como tallerista y escribo a quien me reemplazó: «Le consulto si podemos usar la sala grande para que todos vean los carteles; necesito su respuesta antes de avisar al grupo».",
+    "cloze": "Le consulto",
+    "answer": "Le consulto",
+    "lemma": "consultar",
+    "meaning": "I ask you",
+    "audio": "work/audio/es-MX/06/es-06-0888.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0889",
+    "sentence": "A mi compañero le pregunté en el chat: «¿Cómo llegaste a ese total? Quiero aprender el procedimiento». Ahora soy su jefe y se lo pregunto en una reunión individual: «¿Me orienta sobre cómo obtuvo ese total? Necesito aprender el procedimiento; no le estoy señalando un error».",
+    "cloze": "Me orienta",
+    "answer": "Me orienta",
+    "lemma": "orientar",
+    "meaning": "could you guide me",
+    "audio": "work/audio/es-MX/06/es-06-0889.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0890",
+    "sentence": "En el correo del taller le escribí a un participante: «Ya cumpliste tu parte; no tienes obligación de venir al ensayo extra, aunque puedes hacerlo». Es mi primo; en la comida familiar retomo el tema como su prima: «Ya cumpliste tu parte, pero eso no te deja fuera del ensayo extra. Puedes venir si quieres; me dará gusto verte, aunque no tienes obligación de asistir».",
+    "cloze": "te deja fuera",
+    "answer": "te deja fuera",
+    "lemma": "dejar fuera",
+    "meaning": "excludes you",
+    "audio": "work/audio/es-MX/06/es-06-0890.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0891",
+    "sentence": "A mi amiga le dije por teléfono: «Perdón por haber perdido tu mensaje; fue un descuido mío». Su queja al taller pregunta también por qué no respondieron otras personas. Le contesto por escrito como recepcionista: «Le ofrezco una disculpa por mi descuido al perder su mensaje; no sé por qué los demás no le respondieron».",
+    "cloze": "ofrezco una disculpa",
+    "answer": "ofrezco una disculpa",
+    "lemma": "ofrecer una disculpa",
+    "meaning": "I offer an apology",
+    "audio": "work/audio/es-MX/06/es-06-0891.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0892",
+    "sentence": "Durante una charla entre amigos te pregunté: «¿Puedo contar tu anécdota en la presentación? Si no quieres, la dejo fuera». Ahora soy tu coordinadora y decido quién presenta; tu turno ya está confirmado. Te escribo: «¿Me autorizas a contar tu anécdota en la presentación? Si no quieres, la dejo fuera; tu turno ya confirmado se mantiene».",
+    "cloze": "Me autorizas",
+    "answer": "Me autorizas",
+    "lemma": "autorizar",
+    "meaning": "do you authorize me",
+    "audio": "work/audio/es-MX/06/es-06-0892.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0893",
+    "sentence": "Al hablar en casa con mi tía le dije: «Sí, avisaron tarde; eso no significa que deban cancelar toda la reunión». Ahora ayudo a mediar y mi tía quiere que pida la cancelación por ella. En la conversación con ella y los organizadores digo: «Tía, no te representaré en una petición de cancelar toda la reunión; sí quiero ayudarles a hablar del aviso tardío».",
+    "cloze": "te representaré",
+    "answer": "te representaré",
+    "lemma": "representar",
+    "meaning": "I will represent you",
+    "audio": "work/audio/es-MX/06/es-06-0893.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0894",
+    "sentence": "A un amigo le dije en el café: «Ya decidí dejar de presentar el concierto; el concierto puede seguir con otra persona». Ahora escribo a los músicos como organizador: «Notifico mi retiro de la presentación; el concierto puede seguir si alguien más lo presenta».",
+    "cloze": "Notifico",
+    "answer": "Notifico",
+    "lemma": "notificar",
+    "meaning": "I give notice of",
+    "audio": "work/audio/es-MX/06/es-06-0894.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0895",
+    "sentence": "A mi amiga le dije en persona: «Yo prometí mandarte las fotos y voy a cumplir, aunque cambie quien coordina». Ahora soy el contacto del equipo y ella me pide confirmación por correo; el equipo no ha asumido ese envío. Le respondo: «Responderé yo por el envío de las fotos que te prometí; ese compromiso es mío y no depende de quién coordine».",
+    "cloze": "Responderé",
+    "answer": "Responderé",
+    "lemma": "responder",
+    "meaning": "I will take responsibility",
+    "audio": "work/audio/es-MX/06/es-06-0895.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0896",
+    "sentence": "En el correo del proyecto escribí a los dos diseñadores: «Ustedes decidirán el título; no hace falta que yo lo apruebe». Son mis hermanos y, en el chat familiar, quieren saber cuál me gusta para escoger ese. Les contesto: «No tienen que darme gusto al elegir el título; pueden escoger uno que a mí no me guste, sin pedirme permiso».",
+    "cloze": "darme gusto",
+    "answer": "darme gusto",
+    "lemma": "dar gusto",
+    "meaning": "please me",
+    "audio": "work/audio/es-MX/06/es-06-0896.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0897",
+    "sentence": "A dos amigos les dije después del ensayo: «Qué bien resolvieron la escena final». Al saber que ahora soy parte del jurado, me preguntan por mensaje si contarán con ventaja. Les respondo: «Me gustó cómo resolvieron la escena final, pero no les daré preferencia por nuestra amistad; evaluaré la obra completa junto con las demás».",
+    "cloze": "les daré preferencia",
+    "answer": "les daré preferencia",
+    "lemma": "dar preferencia",
+    "meaning": "I will give you preferential treatment",
+    "audio": "work/audio/es-MX/06/es-06-0897.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0898",
+    "sentence": "En el chat del taller, como coordinadora, escribí: «Quedamos en recibir los textos el viernes; la fecha no cambia». Al hablar con mi pareja, que también participa, quiero mantener el acuerdo sin tratarlo como un favor hacia mí: «Te recuerdo la entrega del viernes, que acordamos en el taller; es el mismo plazo que tienen los demás».",
+    "cloze": "Te recuerdo",
+    "answer": "Te recuerdo",
+    "lemma": "recordar",
+    "meaning": "I remind you",
+    "audio": "work/audio/es-MX/06/es-06-0898.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0899",
+    "sentence": "En el café le comenté a una colega: «Si dejan las preguntas al final, quizá se vaya gente antes de participar». Como coordinadora, envío esa advertencia al equipo que decide el orden: «Tomen en cuenta que quizá se vaya gente antes de participar si dejan las preguntas al final; ustedes deciden si ese riesgo justifica cambiar el orden».",
+    "cloze": "Tomen en cuenta",
+    "answer": "Tomen en cuenta",
+    "lemma": "tomar en cuenta",
+    "meaning": "take into account",
+    "audio": "work/audio/es-MX/06/es-06-0899.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0900",
+    "sentence": "En el chat de amigos dije: «No quiero salir en la foto del festival, pero sí voy a ayudar». Ahora organizo el festival y respondo al fotógrafo por correo: «Rehúso aparecer en la foto; mantengo mi ayuda y los demás pueden decidir si quieren salir».",
+    "cloze": "Rehúso",
+    "answer": "Rehúso",
+    "lemma": "rehusar",
+    "meaning": "I decline",
+    "audio": "work/audio/es-MX/06/es-06-0900.mp3",
+    "accepted_answers": []
   }
 ]
