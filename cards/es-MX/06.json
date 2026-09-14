@@ -9326,5 +9326,255 @@
     "meaning": "I will return to",
     "audio": "work/audio/es-MX/06/es-06-0925.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0926",
+    "sentence": "En la junta rechacé que la coordinación fuera rotativa. El resumen decía que la habíamos aprobado; pedí cambiarlo por «Se propuso una coordinación rotativa» y respondí «Así queda claro». Ahora citan mi respuesta como apoyo a la rotación. Yo avalé la redacción corregida, que registra una propuesta; mantengan mi rechazo en el relato de la junta.",
+    "cloze": "avalé",
+    "answer": "avalé",
+    "lemma": "avalar",
+    "meaning": "I endorsed",
+    "audio": "work/audio/es-MX/06/es-06-0926.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0927",
+    "sentence": "Al cerrar la reunión del taller dijimos «Todavía falta elegir sede». Quien mandó el resumen agregó «Les propongo el patio», y por correo todos aceptamos. Ahora el anuncio dice «Elegimos el patio en la reunión». El patio se incorporó al plan durante ese intercambio posterior; pueden anunciarlo como sede acordada, pero deben corregir cuándo lo decidimos.",
+    "cloze": "se incorporó",
+    "answer": "se incorporó",
+    "lemma": "incorporar",
+    "meaning": "was added",
+    "audio": "work/audio/es-MX/06/es-06-0927.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0928",
+    "sentence": "En la reunión escolar, las familias dijeron «Tenemos que consultar a nuestros hijos antes de aceptar la exposición». El resumen la anunció como aprobada y pidió avisar si había errores. Nadie respondió y ahora presentan ese silencio como confirmación del acuerdo. No se presume la aprobación en aquella reunión a partir de la falta de comentarios al resumen; la consulta seguía pendiente.",
+    "cloze": "se presume",
+    "answer": "se presume",
+    "lemma": "presumir",
+    "meaning": "is presumed",
+    "audio": "work/audio/es-MX/06/es-06-0928.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0929",
+    "sentence": "En la junta de la librería acordamos seguir buscando horario. Luis no estuvo; leyó el resumen, que daba por elegido el sábado, y contestó «Entiendo que ya escogieron». Ahora citan su mensaje para confirmar la decisión de la junta. Su respuesta no atestigua ese acuerdo: depende del mismo resumen equivocado que necesitamos corregir.",
+    "cloze": "atestigua",
+    "answer": "atestigua",
+    "lemma": "atestiguar",
+    "meaning": "attests to",
+    "audio": "work/audio/es-MX/06/es-06-0929.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0930",
+    "sentence": "En la reunión vecinal dije «Puedo ayudar, pero no coordinar la feria». Después recibí un resumen que me nombraba coordinadora y contesté «Gracias por preparar el resumen; yo no acepté ese encargo». En la siguiente versión aparece que agradecí el nombramiento. Les pido que rectifiquen esa versión: mi agradecimiento era por el trabajo de escribir, y mi respuesta incluía el rechazo.",
+    "cloze": "rectifiquen",
+    "answer": "rectifiquen",
+    "lemma": "rectificar",
+    "meaning": "correct",
+    "audio": "work/audio/es-MX/06/es-06-0930.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0931",
+    "sentence": "En la junta del cineclub dejamos pendiente cómo pagar la función. El resumen anunció una cuota obligatoria; pedimos corregirlo y, en las respuestas, todos aceptamos una cooperación voluntaria. Ahora quieren escribir que la junta aprobó esa cooperación. Separemos la corrección del acuerdo nuevo: la cuota nunca se decidió y la cooperación se aceptó al intercambiar mensajes.",
+    "cloze": "Separemos",
+    "answer": "Separemos",
+    "lemma": "separar",
+    "meaning": "let us separate",
+    "audio": "work/audio/es-MX/06/es-06-0931.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0932",
+    "sentence": "En la reunión del coro dejamos pendiente el ensayo extra. El resumen lo anunció para el sábado y pidió confirmar asistencia. Nora respondió «Sí, si Ana puede»; Ana contestó «Yo no puedo». Aun así, lo registraron como confirmado por ambas desde la junta. Reabran la discusión sobre ese ensayo: las respuestas al resumen no permiten cerrar lo que dejamos pendiente.",
+    "cloze": "Reabran",
+    "answer": "Reabran",
+    "lemma": "reabrir",
+    "meaning": "reopen",
+    "audio": "work/audio/es-MX/06/es-06-0932.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0933",
+    "sentence": "En la reunión del festival dijimos «Aún no hay quien coordine». El resumen pidió voluntarios y después Eva y Luz se ofrecieron por mensaje. Al actualizarlo, alguien escribió que la junta las había nombrado. El nombramiento se asentó como decisión de los asistentes a partir de ofrecimientos posteriores; registren esos ofrecimientos sin atribuirnos una elección que no hicimos.",
+    "cloze": "se asentó",
+    "answer": "se asentó",
+    "lemma": "asentar",
+    "meaning": "was recorded",
+    "audio": "work/audio/es-MX/06/es-06-0933.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0934",
+    "sentence": "En la junta de la biblioteca aprobamos abrir un grupo de lectura. Al recibir el resumen, una compañera escribió «Podríamos abrir otro»; nadie contestó esa propuesta. La versión siguiente anuncia dos grupos aprobados. El segundo se añadió por ese comentario posterior, sin una nueva aceptación; conserven el primer grupo como acuerdo y dejen el otro como propuesta.",
+    "cloze": "se añadió",
+    "answer": "se añadió",
+    "lemma": "añadir",
+    "meaning": "was added",
+    "audio": "work/audio/es-MX/06/es-06-0934.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0935",
+    "sentence": "En la reunión, Elena propuso cancelar la convivencia y Omar pidió no decidir todavía. El resumen la dio por cancelada; Omar contestó «Mejor hagamos un picnic». Ahora dicen que él apoyó la cancelación en la junta. Pido que no se le adjudique ese apoyo a Omar: su alternativa respondió al resumen, y en la reunión había pedido esperar.",
+    "cloze": "se le adjudique",
+    "answer": "se le adjudique",
+    "lemma": "adjudicar",
+    "meaning": "be attributed to him",
+    "audio": "work/audio/es-MX/06/es-06-0935.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0936",
+    "sentence": "En la junta me opuse al paseo porque no tenía cómo llegar. El resumen pidió buscar quién pudiera llevarme; una compañera se ofreció y entonces acepté ir. La nueva versión dice que apoyé el paseo desde la reunión. Me adherí al plan después de ese ofrecimiento; cuenten conmigo ahora, pero no borren mi oposición inicial.",
+    "cloze": "Me adherí",
+    "answer": "Me adherí",
+    "lemma": "adherirse",
+    "meaning": "I joined in support",
+    "audio": "work/audio/es-MX/06/es-06-0936.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0937",
+    "sentence": "El grupo de teatro acordó en la reunión hacer las audiciones en persona. Al circular el resumen, alguien propuso recibir videos y todos aceptamos ese cambio por mensaje. Ahora quieren reemplazar el acuerdo original en el relato de la junta. Actualicemos el plan con lo decidido por correo, sin borrar que primero acordamos hacer las audiciones en persona.",
+    "cloze": "Actualicemos",
+    "answer": "Actualicemos",
+    "lemma": "actualizar",
+    "meaning": "let us update",
+    "audio": "work/audio/es-MX/06/es-06-0937.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0938",
+    "sentence": "La reunión de vecinos terminó con «Falta decidir si pintamos el mural». El resumen lo anunció como aprobado. Avisé por privado a quien lo escribió que eso era incorrecto, pero volvió a enviarlo sin cambios. Varios vecinos respondieron «De acuerdo» y ahora cita esas respuestas para descartar mi corrección. Reenvíen mi corrección a esos vecinos antes de pedirles que confirmen lo ocurrido: sus respuestas se dieron sin conocer el error señalado.",
+    "cloze": "Reenvíen",
+    "answer": "Reenvíen",
+    "lemma": "reenviar",
+    "meaning": "forward",
+    "audio": "work/audio/es-MX/06/es-06-0938.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0939",
+    "sentence": "En la junta ofrecimos abrir el taller si podía venir una intérprete. El resumen le preguntó si estaba disponible y ella respondió «Sí, puedo ir». Al actualizar el relato, ustedes sustituyeron la oferta condicionada por una promesa incondicional de la junta. Esa respuesta permite abrir el taller, pero no elimina la condición con la que nos comprometimos.",
+    "cloze": "sustituyeron",
+    "answer": "sustituyeron",
+    "lemma": "sustituir",
+    "meaning": "you replaced",
+    "audio": "work/audio/es-MX/06/es-06-0939.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0940",
+    "sentence": "En la reunión familiar dijimos «Primero elegimos las fotos y luego decidimos si las publicamos». El resumen anunció que se publicarían y pidió escoger imágenes; respondimos cuáles nos gustaban. Ahora presentan esas respuestas como permiso dado en la reunión. No habíamos autorizado la publicación: elegir imágenes al recibir ese resumen no resuelve la decisión que dejamos pendiente.",
+    "cloze": "habíamos autorizado",
+    "answer": "habíamos autorizado",
+    "lemma": "autorizar",
+    "meaning": "we had authorized",
+    "audio": "work/audio/es-MX/06/es-06-0940.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0941",
+    "sentence": "En la junta escolar rechazamos hacer la muestra porque no había salón. El resumen preguntó «¿Con un salón disponible habrían dicho que sí?» y contestamos que sí. La versión siguiente registra la muestra como aprobada en la junta. Habríamos aprobado la muestra con ese espacio disponible; nuestra respuesta era hipotética y no cambia el rechazo que dimos.",
+    "cloze": "Habríamos aprobado",
+    "answer": "Habríamos aprobado",
+    "lemma": "aprobar",
+    "meaning": "we would have approved",
+    "audio": "work/audio/es-MX/06/es-06-0941.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0942",
+    "sentence": "En la reunión del club pedí dejar pendiente nuestra participación en el desfile. El resumen nos anunció como participantes y contesté «No nos incluyan; falta decidirlo». Al corregirlo escribieron que retiré mi apoyo. No me retracté de una aceptación anterior: mi respuesta señalaba que el resumen había dado por resuelta una decisión pendiente.",
+    "cloze": "me retracté",
+    "answer": "me retracté",
+    "lemma": "retractarse",
+    "meaning": "I retracted my position",
+    "audio": "work/audio/es-MX/06/es-06-0942.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0943",
+    "sentence": "En la reunión familiar dije «Todavía no sé cuánto puedo quedarme». El resumen del viaje anunció una semana; al recibirlo propuse un fin de semana y todos aceptaron. Ahora dice que en la reunión acepté una semana y luego la reduje. Negocié la duración por mensajes a partir de ese resumen; no había aceptado antes la estancia larga.",
+    "cloze": "Negocié",
+    "answer": "Negocié",
+    "lemma": "negociar",
+    "meaning": "I negotiated",
+    "audio": "work/audio/es-MX/06/es-06-0943.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0944",
+    "sentence": "En la junta de la cooperativa elegimos el sábado por mayoría; Julia votó en contra. El resumen recogió ambas cosas. Al circularlo, varios socios ausentes escribieron «Preferimos el domingo». Sumaron esas respuestas a la votación y ahora dice «La junta rechazó el sábado». Esa afirmación, corríjanla: la mayoría de la junta eligió el sábado; las respuestas por correo no fueron votos de aquella sesión.",
+    "cloze": "corríjanla",
+    "answer": "corríjanla",
+    "lemma": "corregir",
+    "meaning": "correct it",
+    "audio": "work/audio/es-MX/06/es-06-0944.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0945",
+    "sentence": "En la reunión del coro aceptamos un ensayo abierto, sin grabación. El resumen incluyó grabarlo; varias personas respondieron «Apoyo el ensayo abierto» y sus mensajes aparecen ahora como apoyo a ambas cosas. Esas respuestas, desvincúlenlas de la supuesta autorización para grabar: apoyaban el ensayo abierto, que sí acordamos, y no mencionaban la grabación añadida en el resumen.",
+    "cloze": "desvincúlenlas",
+    "answer": "desvincúlenlas",
+    "lemma": "desvincular",
+    "meaning": "disconnect them",
+    "audio": "work/audio/es-MX/06/es-06-0945.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0946",
+    "sentence": "En la junta de trabajo dijimos «Decidiremos después si se hace el taller». El resumen lo dio por cancelado; un compañero respondió «Entonces cancelo la reserva del salón» y la canceló. Ahora citan lo que hizo como confirmación del acuerdo de la junta. Eliminen del resumen ese supuesto acuerdo: la cancelación de la reserva fue una consecuencia del aviso. El taller sigue pendiente de decisión, y falta saber si aún hay salón.",
+    "cloze": "Eliminen",
+    "answer": "Eliminen",
+    "lemma": "eliminar",
+    "meaning": "remove",
+    "audio": "work/audio/es-MX/06/es-06-0946.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0947",
+    "sentence": "En la junta del archivo, Marta dijo «Dejemos pendiente el préstamo» y los demás aceptaron esperar. El resumen afirmó que prestaríamos el material. Dos asistentes respondieron «Entonces eso acordamos» y ahora citan sus mensajes como recuerdos independientes. Documentemos lo dicho en la junta con las intervenciones originales; esas respuestas dependen del resumen que estamos revisando.",
+    "cloze": "Documentemos",
+    "answer": "Documentemos",
+    "lemma": "documentar",
+    "meaning": "let us document",
+    "audio": "work/audio/es-MX/06/es-06-0947.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0948",
+    "sentence": "En la reunión del centro cultural dijimos «Cada taller propondrá cómo cerrar; hoy no elegimos». El resumen anunció una fiesta conjunta. Las respuestas fueron «Si todos ya aceptaron, yo también», y ahora las usan para confirmar aquella elección. El aparente consenso se originó en la suposición difundida por el resumen; consulten la propuesta sin presentarla como una decisión ya tomada.",
+    "cloze": "se originó",
+    "answer": "se originó",
+    "lemma": "originarse",
+    "meaning": "originated",
+    "audio": "work/audio/es-MX/06/es-06-0948.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0949",
+    "sentence": "En la reunión vecinal ofrecí ayudar con las invitaciones, sin encargarme de todo. El resumen me asignó además las llamadas y la recepción; contesté «No acepto ese reparto». Ahora registraron que retiré mi ayuda. Desautoricé ese reparto al responder al resumen; sigo ofreciendo las invitaciones, y quiero que el relato conserve ese ofrecimiento de la junta.",
+    "cloze": "Desautoricé",
+    "answer": "Desautoricé",
+    "lemma": "desautorizar",
+    "meaning": "I repudiated",
+    "audio": "work/audio/es-MX/06/es-06-0949.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0950",
+    "sentence": "En la junta de la escuela pedí tiempo para pensar en el taller. El resumen lo anunció como aprobado; respondí «Ese resumen no refleja lo que dijimos» y ahora me anotaron como voto en contra del taller. No me opuse al taller en la reunión: cuestioné después ese relato porque seguía sin decidir. Corrijan mi postura y vuelvan a consultarme.",
+    "cloze": "me opuse",
+    "answer": "me opuse",
+    "lemma": "oponerse",
+    "meaning": "I opposed",
+    "audio": "work/audio/es-MX/06/es-06-0950.mp3",
+    "accepted_answers": []
   }
 ]
