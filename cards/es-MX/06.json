@@ -7558,5 +7558,259 @@
     "meaning": "correct it",
     "audio": "work/audio/es-MX/06/es-06-0750.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0751",
+    "sentence": "Le propuse a mamá que habláramos por teléfono los domingos. Contestó: «No quiero que sea una obligación». Mi hermano intervino: «Entonces mejor no la llames». Mamá respondió: «Eso tampoco». Le pregunto: «¿Con eso descartabas que dejáramos de hablar? Podemos acordar cómo mantener el contacto sin dar por aceptada mi propuesta de los domingos ni tratar tu reserva como un rechazo a hablar conmigo».",
+    "cloze": "descartabas",
+    "answer": "descartabas",
+    "lemma": "descartar",
+    "meaning": "you were ruling out",
+    "audio": "work/audio/es-MX/06/es-06-0751.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0752",
+    "sentence": "Ana propuso que cada quien leyera su cuento a los alumnos de ella; Ana nos ayudaría con las palabras difíciles. Empecé: «Yo también, si tú…». Luis interrumpió: «Yo te ayudo; cuenta conmigo». Le pregunto a Ana: «¿Contaría contigo para leer mi cuento a tus alumnos? Mi “tú” iba dirigido a ti y retomaba tu ayuda con las palabras difíciles. No alcancé a decir qué necesitaría de ti; el ofrecimiento de Luis no completa por mí esa condición».",
+    "cloze": "Contaría",
+    "answer": "Contaría",
+    "lemma": "contar",
+    "meaning": "would I be able to count",
+    "audio": "work/audio/es-MX/06/es-06-0752.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0753",
+    "sentence": "La clienta dijo «Aquí se entretiene una» mientras miraba las muestras y revisaba su reloj. Le ofrecí averiguar cuánto faltaba; otro empleado interrumpió para ofrecer un servicio exprés con cargo. Ella respondió: «Se lo agradecería». Le pregunto: «¿Se lo averiguo antes de que decida sobre el servicio exprés? Su comentario puede expresar gusto por las muestras o impaciencia; averiguar la espera no confirma que quiera pagar por reducirla».",
+    "cloze": "Se lo averiguo",
+    "answer": "Se lo averiguo",
+    "lemma": "averiguar",
+    "meaning": "shall I find it out for you",
+    "audio": "work/audio/es-MX/06/es-06-0753.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0754",
+    "sentence": "Mi hermana preguntó si quería probar el coro: «No tendrías que cantar sola». Contesté: «Así sí me animaría, aunque…». Mi primo interrumpió: «Ella dice eso porque cree que cantas mal». Le respondo: «No reinterpretes mi respuesta como si hubiera aceptado esa crítica: me animaría a probar sin cantar sola. Mi hermana no ha aclarado si quería tranquilizarme o comentar el reparto de voces, y yo no terminé mi reserva».",
+    "cloze": "reinterpretes",
+    "answer": "reinterpretes",
+    "lemma": "reinterpretar",
+    "meaning": "reinterpret",
+    "audio": "work/audio/es-MX/06/es-06-0754.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0755",
+    "sentence": "Rosa propuso: «Yo reviso tu traducción con mi lista; luego tú, la mía con la tuya». Contesté: «La primera revisión sí…». Beto interrumpió: «Perfecto, cada quien revisa su texto con su propia lista». Le digo a Rosa: «Te ratifico la revisión que ofreciste de mi texto con tu lista; sobre revisar yo el tuyo todavía no terminé de contestar. El reparto que acaba de decir Beto cambia quién revisa y qué lista usa».",
+    "cloze": "Te ratifico",
+    "answer": "Te ratifico",
+    "lemma": "ratificar",
+    "meaning": "I reaffirm for you",
+    "audio": "work/audio/es-MX/06/es-06-0755.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0756",
+    "sentence": "Mi tía preguntó «¿Ya se van?» cuando miré la hora. Empecé a responder: «Podemos esperar un poco…». Mi primo se metió: «Lo dice porque ya quiere descansar». Le digo: «No me presentes como alguien que insiste en quedarse contra su deseo: ella no ha dicho si preguntaba por nuestra salida o si nos estaba pidiendo irnos. Tía, ¿le serviría que esperáramos para despedirnos de Ana? Ese era mi ofrecimiento».",
+    "cloze": "me presentes",
+    "answer": "me presentes",
+    "lemma": "presentar",
+    "meaning": "portray me",
+    "audio": "work/audio/es-MX/06/es-06-0756.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0757",
+    "sentence": "Eva preguntó: «¿Puedes contar mi propuesta al grupo sin decir que es mía?». Empecé: «Puedo presentarla como una posibilidad…». Leo interrumpió: «Entonces la propones tú y respondes por ella». Aclaro: «No me comprometía a defenderla como una propuesta propia; estaba aceptando transmitirla sin nombrar a Eva. Falta acordar cómo explicaré de dónde viene si alguien pregunta. No he terminado de responder a esa parte».",
+    "cloze": "me comprometía",
+    "answer": "me comprometía",
+    "lemma": "comprometerse",
+    "meaning": "I was committing myself",
+    "audio": "work/audio/es-MX/06/es-06-0757.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0758",
+    "sentence": "Mar preguntó: «¿Quieres que lea tu cuento como tú leíste el mío, sin decir quién lo escribió?». Hugo interrumpió: «Así el público creerá que los escribieron juntos». Yo respondí: «Por mí, igual». Mar me dice: «Precísame qué repetiríamos: ¿que yo lea tu cuento sin nombrarte, como tú leíste el mío? Mi pregunta no ofrecía presentarnos como coautores; antes de anunciar la lectura necesito saber qué aceptaste».",
+    "cloze": "Precísame",
+    "answer": "Precísame",
+    "lemma": "precisar",
+    "meaning": "clarify for me",
+    "audio": "work/audio/es-MX/06/es-06-0758.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0759",
+    "sentence": "Mi hermano preguntó «¿Abres otra vez el hotel de la familia?», recordando que de niños cobrábamos con hojas por sentarnos en el sillón. Contesté: «Nos falta recepción». Mi prima intervino: «Entonces les pregunto cuántos podemos quedarnos». Le digo: «Le seguí la broma a mi hermano; mi respuesta no era una invitación a quedarse. Podemos hablar de si vienen ustedes dos; mi hermano aún no ha dicho si, además de bromear, quería pedirme un cuarto».",
+    "cloze": "Le seguí",
+    "answer": "Le seguí",
+    "lemma": "seguir",
+    "meaning": "I played along with him",
+    "audio": "work/audio/es-MX/06/es-06-0759.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0760",
+    "sentence": "Mamá me preguntó: «¿Te cuesta mucho contestar mis mensajes?». Empecé: «A veces, durante el turno…». Sin dejarme terminar, mi hermana dijo: «Lo que quiere es que le escribas diario». Le pregunto a mamá: «¿Me preguntabas por una dificultad para escribirte o me pedías que habláramos más? Mi respuesta sobre el turno solo explicaba una dificultad; antes de hablar de escribirte diario, quiero aclarar esa diferencia».",
+    "cloze": "Me preguntabas",
+    "answer": "Me preguntabas",
+    "lemma": "preguntar",
+    "meaning": "were you asking me",
+    "audio": "work/audio/es-MX/06/es-06-0760.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0761",
+    "sentence": "Ana ofreció leerle a mamá las opciones del viaje a solas para que ella escogiera su asiento. Empecé: «Con papá, yo igual…». Mi hermano interrumpió: «Perfecto, después nos cuentas qué le costó entender». Le respondo: «No me encargues ese informe: mi “igual” retomaba la ayuda a solas para que papá escogiera. No he ofrecido contar sus dudas. Papá, ¿quieres que lo veamos entre tú y yo antes de decidir si compartimos algo?».",
+    "cloze": "me encargues",
+    "answer": "me encargues",
+    "lemma": "encargar",
+    "meaning": "assign me",
+    "audio": "work/audio/es-MX/06/es-06-0761.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0762",
+    "sentence": "Le ofrecí una silla a un cliente mientras esperaba. Mi compañera interrumpió: «Hoy hasta sentarse parece un lujo». Él dijo: «Qué detalle». Antes de mover la silla le pregunto: «¿Respondía usted a mi ofrecimiento y quiere que se la acerque? Se lo pregunto por el comentario de mi compañera. Si además estaba señalando una falla del servicio, podemos hablarlo; no voy a suponerlo ni a descartarlo por esas palabras».",
+    "cloze": "Respondía",
+    "answer": "Respondía",
+    "lemma": "responder",
+    "meaning": "were you responding",
+    "audio": "work/audio/es-MX/06/es-06-0762.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0763",
+    "sentence": "Elena me ofreció: «Yo cuido a tu hijo en mi casa; otro día tú cuidas al mío en la tuya». Contesté: «El primer favor me serviría, pero…». Mi pareja interrumpió: «Entonces ya te toca cuidar al suyo». Le digo: «No me pongas en deuda por un cuidado que todavía no he aceptado. Estaba expresando interés en que mi hijo fuera a casa de Elena; no había contestado sobre recibir al suyo aquí. Primero tenemos que aclarar ese intercambio y la reserva que no terminé de explicar».",
+    "cloze": "me pongas",
+    "answer": "me pongas",
+    "lemma": "poner",
+    "meaning": "put me",
+    "audio": "work/audio/es-MX/06/es-06-0763.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0764",
+    "sentence": "Ensayábamos una escena y Julia preguntó si sonaba convincente su frase «Cuenta conmigo». Antes de que respondiera, Dani llegó e interrumpió: «A mí sí me hace falta ayuda para la mudanza». Dije: «Suena sincero». Dani empezó a contar con los dos. Le aclaro: «No proyectes mi evaluación de la frase sobre tu mudanza como si yo también hubiera ofrecido ayuda. Podemos hablar de lo que necesitas; aún no sé si tu comentario era una petición o solo contabas tu situación».",
+    "cloze": "proyectes",
+    "answer": "proyectes",
+    "lemma": "proyectar",
+    "meaning": "project",
+    "audio": "work/audio/es-MX/06/es-06-0764.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0765",
+    "sentence": "La guía ofreció describirle a mamá las piezas que ella no alcanzara a ver y me preguntó si quería el mismo apoyo. Empecé: «También me serviría…». Mi acompañante interrumpió: «Así las dos escuchan la descripción preparada para tu mamá». Le pregunto a la guía: «¿Nos preguntaría por separado qué piezas necesitamos que nos describa? Mi respuesta repetía el tipo de ayuda, no daba por hecho que nos faltara ver lo mismo; todavía no expliqué mi dificultad».",
+    "cloze": "Nos preguntaría",
+    "answer": "Nos preguntaría",
+    "lemma": "preguntar",
+    "meaning": "would you ask us",
+    "audio": "work/audio/es-MX/06/es-06-0765.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0766",
+    "sentence": "Irene leyó en voz alta su formulario y lo contestó. Me ofreció ayudarme a leer el mío y preguntó: «¿Lo hacemos igual?». Paco se metió: «Ponemos las mismas respuestas y acabamos». Contesté: «Igual, gracias». Irene aclara: «Te estaba ofreciendo leer contigo tus preguntas para que tú las contestaras, como yo contesté las mías. ¿Eso aceptas? No sé aún cuáles necesitas que leamos; repetir la ayuda no significa copiar mis respuestas».",
+    "cloze": "Te estaba ofreciendo",
+    "answer": "Te estaba ofreciendo",
+    "lemma": "ofrecer",
+    "meaning": "I was offering you",
+    "audio": "work/audio/es-MX/06/es-06-0766.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0767",
+    "sentence": "Mi hermano preguntó «¿Otra vez te toca organizar todo?». Empecé a responder: «Podemos repartirnos algo…». Mi prima interrumpió: «Está diciendo que nunca lo dejas decidir». Le contesto: «No estaba admitiendo que lo hubiera excluido; ofrecía repartir tareas. Hermano, ¿quieres escoger una parte de la comida? No sé todavía si tu pregunta ofrecía ayuda o si cuestionaba cómo nos organizamos; podemos repartir sin resolver primero esa intención».",
+    "cloze": "estaba admitiendo",
+    "answer": "estaba admitiendo",
+    "lemma": "admitir",
+    "meaning": "I was admitting",
+    "audio": "work/audio/es-MX/06/es-06-0767.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0768",
+    "sentence": "En la junta, Eva preguntó: «¿Y mi propuesta qué?». Le ofrecí explicar qué faltaba revisar. Luis interrumpió: «Está exigiendo que votemos ya». Eva respondió: «Eso, por favor». Antes de abrir una votación digo: «No nos adelantemos a contar esa respuesta como una exigencia. Eva, ¿quieres que explique la revisión pendiente? Tu pregunta también puede expresar inconformidad; confirmar que quieres información no obliga a retirarla ni confirma que hayas pedido votar».",
+    "cloze": "nos adelantemos",
+    "answer": "nos adelantemos",
+    "lemma": "adelantarse",
+    "meaning": "we get ahead of ourselves",
+    "audio": "work/audio/es-MX/06/es-06-0768.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0769",
+    "sentence": "En el grupo del paseo, Sara preguntó: «¿Quién tendrá un ratito para los que no conocemos el camino?». Ofrecí: «Podemos revisar el mapa…». Tomás tomó la palabra antes de que terminara: «Entonces tú nos llevas». Terminé: «Con gusto». Cuando me anotan como guía, digo: «Retírenme de esa función: mi respuesta ofrecía revisar el mapa con ustedes. Sara quizá pedía compañía o solo ayuda para orientarse; eso sigue sin aclararse. Revisemos qué necesitan antes de contar conmigo para acompañarlos».",
+    "cloze": "Retírenme",
+    "answer": "Retírenme",
+    "lemma": "retirar",
+    "meaning": "remove me",
+    "audio": "work/audio/es-MX/06/es-06-0769.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0770",
+    "sentence": "Para ensayar una conversación, Leo me pidió: «Haz de mi compañero y contéstame como si te pidiera cambiar turnos». Empecé: «Podría decirte que sí…». Eva se adelantó: «Qué bueno, Leo sí necesita cambiar el turno contigo». Aclaro: «Me prestaba a hacer de su compañero durante el ensayo; mi respuesta no resolvía un cambio entre Leo y yo. Si además me está pidiendo ese favor de verdad, falta que me lo plantee y que yo le conteste».",
+    "cloze": "Me prestaba",
+    "answer": "Me prestaba",
+    "lemma": "prestarse",
+    "meaning": "I was agreeing",
+    "audio": "work/audio/es-MX/06/es-06-0770.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0771",
+    "sentence": "Mi amiga preguntó: «¿Me acompañas al museo sin convertirlo en una expedición?». Le gustan mis explicaciones, pero la última visita la cansó. Empecé: «Claro, podemos…». Sin dejarme terminar, su hermano dijo: «Te está diciendo que no le expliques nada». Dije que mejor no iba. Le digo a ella: «Vuelvo a ofrecerme para acompañarte y acordar qué recorrer. Todavía no sé si bromeabas sobre mis explicaciones o pedías una visita más corta; mi respuesta no aceptaba quedarme callado toda la visita».",
+    "cloze": "Vuelvo a ofrecerme",
+    "answer": "Vuelvo a ofrecerme",
+    "lemma": "volver a ofrecerse",
+    "meaning": "I offer again",
+    "audio": "work/audio/es-MX/06/es-06-0771.mp3",
+    "accepted_answers": [
+      "Me vuelvo a ofrecer"
+    ]
+  },
+  {
+    "id": "es-06-0772",
+    "sentence": "En la llamada me pediste: «Dime si se oye bien antes de que te cuente por qué cancelé la salida». Empecé: «Sí, te…». Tu hermana interrumpió: «Canceló porque estaba agotada; seguro la entiendes». Terminé mi frase: «…escucho». Tú dijiste: «Entonces ya no estás molesto». Te aclaro: «Te estaba contestando sobre el sonido. Acabo de oír a tu hermana, pero no te he dicho cómo me siento. ¿Me cuentas tú por qué cancelaste antes de darlo por arreglado?».",
+    "cloze": "Te estaba contestando",
+    "answer": "Te estaba contestando",
+    "lemma": "contestar",
+    "meaning": "I was answering you",
+    "audio": "work/audio/es-MX/06/es-06-0772.mp3",
+    "accepted_answers": [
+      "Estaba contestándote"
+    ]
+  },
+  {
+    "id": "es-06-0773",
+    "sentence": "Dijiste: «Si estorbo, me voy». Empecé a contestar: «Por mí no hace falta…». Mi hermano se metió: «Que se quede a ayudarnos». Te aclaro: «No traslades mi “no hace falta” a que te quedes: estaba diciendo que no necesitabas irte por mí. Puedes seguir de visita sin aceptar ayudar. Si lo dijiste porque tú querías irte, eso todavía no lo sé; mi respuesta tampoco te obliga a quedarte».",
+    "cloze": "traslades",
+    "answer": "traslades",
+    "lemma": "trasladar",
+    "meaning": "transfer",
+    "audio": "work/audio/es-MX/06/es-06-0773.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0774",
+    "sentence": "Ana explicó: «Dejo que cambien mi diseño si conservan mis colores. ¿Tú darías ese permiso para el tuyo?». Empecé: «En ese sentido sí, aunque…». Joel interrumpió: «Entonces los dos llevarán los colores de Ana». Ella me pregunta: «¿Me lo confirmarías con tus propios colores como límite? Mi pregunta repetía el tipo de permiso, no mi elección de colores. Después puedes explicar la reserva que no alcanzamos a escuchar; no voy a darla por resuelta».",
+    "cloze": "Me lo confirmarías",
+    "answer": "Me lo confirmarías",
+    "lemma": "confirmar",
+    "meaning": "would you confirm it for me",
+    "audio": "work/audio/es-MX/06/es-06-0774.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0775",
+    "sentence": "Papá dijo: «No quiero que se pierdan todo por ir a mi paso». Puede estar preocupado por nosotros o pedir un recorrido distinto; no lo ha aclarado. Le ofrecí buscar juntos una ruta más corta. Mi hermana interrumpió: «Entonces él nos espera aquí». Papá respondió: «Eso lo vemos». Le pregunto: «¿Estabas aplazando la decisión sobre quedarte aquí, o querías que buscáramos juntos otra ruta? Antes de separarnos necesito aclararlo; no quiero convertir tu preocupación por nosotros en una petición de quedarte solo».",
+    "cloze": "Estabas aplazando",
+    "answer": "Estabas aplazando",
+    "lemma": "aplazar",
+    "meaning": "were you postponing",
+    "audio": "work/audio/es-MX/06/es-06-0775.mp3",
+    "accepted_answers": []
   }
 ]
