@@ -9576,5 +9576,255 @@
     "meaning": "I opposed",
     "audio": "work/audio/es-MX/06/es-06-0950.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0951",
+    "sentence": "Los instructores aprobaron una guía con práctica en clase. La coordinadora aceptó después sustituirla por tarea en casa; ellos aún no reciben ese cambio. Ahora pide abreviar toda la guía. Desglosemos la revisión: podemos corregir juntos los encabezados comunes, pero reducir las instrucciones de la tarea requiere primero acordar con los instructores dónde se hará la práctica.",
+    "cloze": "Desglosemos",
+    "answer": "Desglosemos",
+    "lemma": "desglosar",
+    "meaning": "let us break down",
+    "audio": "work/audio/es-MX/06/es-06-0951.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0952",
+    "sentence": "Alicia aprobó mostrar cómo se encuaderna antes de la práctica. Bruno aceptó después un programa con demostración y práctica simultáneas; Alicia todavía tiene el anterior. Para abreviar la explicación sin dejar a un grupo trabajando a ciegas, propongo que reordenemos las actividades con ambos: una demostración común y luego la práctica, si Bruno acepta abandonar la simultaneidad.",
+    "cloze": "reordenemos",
+    "answer": "reordenemos",
+    "lemma": "reordenar",
+    "meaning": "we reorder",
+    "audio": "work/audio/es-MX/06/es-06-0952.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0953",
+    "sentence": "Acepté editar el video del taller sin subtítulos. Tú aprobaste después entregarlo subtitulado; apenas me entero porque no recibí ese cambio. Ahora pides acortar las entrevistas. Yo me encargaría de los cortes si primero acordamos quién ajustará los subtítulos a la edición final; tu aceptación de esa entrega no resuelve ese trabajo adicional.",
+    "cloze": "me encargaría",
+    "answer": "me encargaría",
+    "lemma": "encargarse",
+    "meaning": "I would take responsibility",
+    "audio": "work/audio/es-MX/06/es-06-0953.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0954",
+    "sentence": "Mi prima aprobó un álbum familiar con nombres y relatos. Mi tía aceptó después exhibirlo en la biblioteca, pero mi prima no conoce ese cambio. Nos piden abreviar los relatos para los paneles. Anonimicemos primero los pasajes que la identificarían y mostrémosle esa propuesta antes de decidir qué cortar; su aceptación del álbum familiar no incluye esta exposición.",
+    "cloze": "Anonimicemos",
+    "answer": "Anonimicemos",
+    "lemma": "anonimizar",
+    "meaning": "let us anonymize",
+    "audio": "work/audio/es-MX/06/es-06-0954.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0955",
+    "sentence": "Recepción aprobó una guía con audio y transcripción. Después, el locutor aceptó una entrega solo en audio; recepción no recibió esa modificación. Ahora nos piden acortar las explicaciones para que la guía sea más ágil. Propongo que reintegremos la transcripción como material aparte: recepción podrá revisar si conserva la información necesaria sin pedirle al locutor que grabe de nuevo todo el texto.",
+    "cloze": "reintegremos",
+    "answer": "reintegremos",
+    "lemma": "reintegrar",
+    "meaning": "we put back",
+    "audio": "work/audio/es-MX/06/es-06-0955.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0956",
+    "sentence": "Yo aprobé evaluar la explicación de cada alumno. La otra instructora aceptó después un ejercicio con una sola respuesta por equipo; no me habían enviado ese cambio. Ahora quieren simplificar la tabla de evaluación. Yo reabriría la discusión sobre qué se evaluará antes de quitar columnas: una respuesta colectiva ya no permite observar lo que mi tabla pedía de cada persona.",
+    "cloze": "reabriría",
+    "answer": "reabriría",
+    "lemma": "reabrir",
+    "meaning": "I would reopen",
+    "audio": "work/audio/es-MX/06/es-06-0956.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0957",
+    "sentence": "La autora aceptó una presentación seguida de debate. El conductor aprobó después cambiar el debate por una votación del público; ella todavía no lo sabe. Nos piden reducir la duración. Yo recortaría la presentación solo si conservamos un debate breve antes de votar; mostremos a la autora el cambio que aceptó el conductor y negociemos con ambos cuánto espacio tendrá cada parte.",
+    "cloze": "recortaría",
+    "answer": "recortaría",
+    "lemma": "recortar",
+    "meaning": "I would shorten",
+    "audio": "work/audio/es-MX/06/es-06-0957.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0958",
+    "sentence": "Usted aprobó que la visita terminara en el patio. Su colega aceptó después terminar en la tienda; usted no recibió el recorrido nuevo. Ahora nos piden indicar un solo punto de encuentro para salir juntos. Le propongo que compatibilicemos los finales de ambos recorridos con un encuentro en el patio; su colega tendría que aceptar que la tienda fuera una parada previa, y usted confirmar si le sirve esperar ahí.",
+    "cloze": "compatibilicemos",
+    "answer": "compatibilicemos",
+    "lemma": "compatibilizar",
+    "meaning": "we make compatible",
+    "audio": "work/audio/es-MX/06/es-06-0958.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0959",
+    "sentence": "Para la comida familiar, mamá aceptó servir la comida en la mesa, por tiempos. Mi hermano aprobó después un menú de autoservicio, sin avisarle a ella. Ahora quiere reducir la vajilla que usaremos. ¿Cómo recomponemos el menú para servirlo en un solo tiempo y usar un mismo plato por persona? Comparemos esa alternativa con el autoservicio entre los tres antes de decidir cómo servir; mamá aún no conoce la opción de mi hermano.",
+    "cloze": "recomponemos",
+    "answer": "recomponemos",
+    "lemma": "recomponer",
+    "meaning": "we rearrange",
+    "audio": "work/audio/es-MX/06/es-06-0959.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0960",
+    "sentence": "Yo acepté leer el cuento a dos voces. Mi compañera aprobó después una adaptación donde ella lee y yo solo hago sonidos; no recibí esa adaptación. Nos piden una lectura más corta. Propongo que alternemos fragmentos breves del cuento original, si ella acepta revisar su adaptación: así reduciríamos la duración sin convertir mi participación hablada en efectos de sonido.",
+    "cloze": "alternemos",
+    "answer": "alternemos",
+    "lemma": "alternar",
+    "meaning": "we alternate",
+    "audio": "work/audio/es-MX/06/es-06-0960.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0961",
+    "sentence": "Acepté revisar los ejemplos de una guía de bienvenida. La coordinadora aprobó después añadir ejercicios para evaluar al personal; yo seguía trabajando con el texto sin ejercicios. Ahora pide hacer más sencillas todas las preguntas. Yo acotaría mi revisión a la claridad de la redacción, incluidas las preguntas nuevas, si la coordinadora acepta que su autor compruebe después que conservan lo que busca evaluar; primero necesito recibirlas.",
+    "cloze": "acotaría",
+    "answer": "acotaría",
+    "lemma": "acotar",
+    "meaning": "I would limit",
+    "audio": "work/audio/es-MX/06/es-06-0961.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0962",
+    "sentence": "La biblioteca aprobó una inscripción para una sola visita. El tallerista aceptó después un formulario con una casilla marcada de antemano para añadir reuniones mensuales; la biblioteca no recibió el cambio. Ahora quieren abreviar el formulario quitando la elección entre ambas opciones. Yo suprimiría la incorporación automática a las reuniones y conservaría esa elección; antes de cerrar el formulario, el tallerista debe revisar si le sirve una participación opcional.",
+    "cloze": "suprimiría",
+    "answer": "suprimiría",
+    "lemma": "suprimir",
+    "meaning": "I would remove",
+    "audio": "work/audio/es-MX/06/es-06-0962.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0963",
+    "sentence": "La ilustradora aprobó fichas con dibujo y descripción. La imprenta aceptó después un diseño solo con texto, que la ilustradora aún no conoce. Nos piden agrandar la letra sin aumentar el tamaño de las fichas. Para conservar los dibujos, reemplazaríamos las descripciones por otras más breves si ambas partes aceptan revisar sus propuestas; no basta aplicar el diseño que recibió la imprenta.",
+    "cloze": "reemplazaríamos",
+    "answer": "reemplazaríamos",
+    "lemma": "reemplazar",
+    "meaning": "we would replace",
+    "audio": "work/audio/es-MX/06/es-06-0963.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0964",
+    "sentence": "Usted aprobó exponer las fotografías completas con sus pies. Su asistente aceptó después una proyección que recorta los bordes; usted no recibió esa muestra. Ahora nos piden abreviar los pies. Con usted revisaríamos primero qué detalles siguen visibles en los recortes, y con su asistente cuáles se pueden recuperar, antes de quitar referencias a elementos que quizá convenga conservar.",
+    "cloze": "revisaríamos",
+    "answer": "revisaríamos",
+    "lemma": "revisar",
+    "meaning": "we would review",
+    "audio": "work/audio/es-MX/06/es-06-0964.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0965",
+    "sentence": "Compras aceptó materiales para que cada asistente hiciera una maceta. La instructora aprobó después una demostración donde solo ella la hace; compras aún no lo sabe. Ahora nos piden reducir los materiales. Como alternativa, reorganizaríamos las cantidades por equipo, en vez de por persona, si la instructora acepta recuperar la práctica y compras confirma que ese reparto le funciona.",
+    "cloze": "reorganizaríamos",
+    "answer": "reorganizaríamos",
+    "lemma": "reorganizar",
+    "meaning": "we would reorganize",
+    "audio": "work/audio/es-MX/06/es-06-0965.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0966",
+    "sentence": "Luz aceptó entrevistar y Omar tomar fotos. Omar aprobó después grabar video durante toda la entrevista; Luz no recibió ese reparto. Ahora nos piden fotos de cada uno mientras entrevista. Propongo que intercambiemos las tareas de entrevista y fotografía por momentos, pero solo si Omar acepta interrumpir el video y Luz conoce ese cambio antes de decidir.",
+    "cloze": "intercambiemos",
+    "answer": "intercambiemos",
+    "lemma": "intercambiar",
+    "meaning": "we swap",
+    "audio": "work/audio/es-MX/06/es-06-0966.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0967",
+    "sentence": "La guía aprobó un recorrido que termina en el mural. El redactor aceptó después ponerlo al principio; ella no ha recibido el cambio. Ahora nos piden abreviar la explicación que dice «Como ya vimos en las otras salas». Propongo que retrabajemos esa transición con los dos: antes de acortarla, deben decidir si el mural seguirá abriendo el recorrido, porque ahí todavía no se ha visto lo demás.",
+    "cloze": "retrabajemos",
+    "answer": "retrabajemos",
+    "lemma": "retrabajar",
+    "meaning": "we rework",
+    "audio": "work/audio/es-MX/06/es-06-0967.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0968",
+    "sentence": "La tutora aprobó un relato donde la narradora aclara que solo conoce una parte de la historia. Otro tutor aceptó después una adaptación sin esa aclaración; ella aún no la recibe. Nos piden hacer menos tajante el final. Yo retomaría aquella aclaración para revisar el cierre con ambos, antes de cambiar solo adjetivos: quitarla hizo parecer que la narradora lo sabía todo.",
+    "cloze": "retomaría",
+    "answer": "retomaría",
+    "lemma": "retomar",
+    "meaning": "I would return to",
+    "audio": "work/audio/es-MX/06/es-06-0968.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0969",
+    "sentence": "La narradora aceptó pausas para que el público leyera los textos proyectados. El productor aprobó después un montaje sin pausas; ella todavía no lo ha visto. Ahora piden dejar más tiempo para leer. Para mantener la duración total, compensaríamos esas pausas con una entrada musical más breve, si el productor acepta ese recorte y la narradora confirma que el tiempo de lectura le funciona.",
+    "cloze": "compensaríamos",
+    "answer": "compensaríamos",
+    "lemma": "compensar",
+    "meaning": "we would offset",
+    "audio": "work/audio/es-MX/06/es-06-0969.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0970",
+    "sentence": "Los instructores aprobaron todo el curso presencial. La coordinadora aceptó después impartirlo en línea; ellos aún no conocen ese plan. Nos piden adaptar primero la práctica, que usa materiales compartidos. Propongo que simulemos una práctica desde casa con materiales separados antes de redactar la adaptación; mostremos el plan a los instructores para que decidan con la coordinadora si ese reparto permite mantener la actividad que aprobaron.",
+    "cloze": "simulemos",
+    "answer": "simulemos",
+    "lemma": "simular",
+    "meaning": "we simulate",
+    "audio": "work/audio/es-MX/06/es-06-0970.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0971",
+    "sentence": "Los artesanos aprobaron una exposición con explicaciones personales en cada puesto. La organizadora aceptó después abrirla solo con letreros, sin nadie que diera explicaciones; los artesanos no han recibido ese cambio. Ahora pide acortar los letreros. Antes de quitar palabras, propongo que adaptemos con ellos las instrucciones para que se entiendan solas, si aceptan ese recorrido sin explicaciones personales.",
+    "cloze": "adaptemos",
+    "answer": "adaptemos",
+    "lemma": "adaptar",
+    "meaning": "we adapt",
+    "audio": "work/audio/es-MX/06/es-06-0971.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0972",
+    "sentence": "La encargada aprobó avisar que se recibió la solicitud y confirmar el lugar tras revisar el cupo. Recepción aceptó después un formulario que da ambos avisos al enviarlo; ella no conoce ese cambio. Ahora quieren simplificar todas las respuestas a «Confirmado». Propongo que uniformemos el criterio de confirmación en el formulario y en los avisos de la encargada: el lugar se confirmaría solo tras revisar el cupo. Recepción tendría que aceptar cambiar el envío automático y la encargada revisar el formulario antes de aprobarlo.",
+    "cloze": "uniformemos",
+    "answer": "uniformemos",
+    "lemma": "uniformar",
+    "meaning": "we make consistent",
+    "audio": "work/audio/es-MX/06/es-06-0972.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0973",
+    "sentence": "El autor aprobó notas explicativas junto a cada ejercicio. La diseñadora aceptó después reunirlas al final; él todavía no ha visto esa distribución. Ahora nos piden quitar las llamadas a las notas para despejar las páginas. Propongo que reubiquemos las explicaciones indispensables junto al paso correspondiente, si ambos aceptan ajustar sus versiones; borrar solo las llamadas dejaría instrucciones incompletas.",
+    "cloze": "reubiquemos",
+    "answer": "reubiquemos",
+    "lemma": "reubicar",
+    "meaning": "we relocate",
+    "audio": "work/audio/es-MX/06/es-06-0973.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0974",
+    "sentence": "Acepté coordinar un taller con personas inscritas. Mi compañera aprobó después abrirlo a quienes llegaran, sin enviarme el nuevo plan. Ahora propone eliminar la bienvenida para ahorrar tiempo. Yo me sumaría al formato abierto si conservamos una explicación breve para cada persona que se incorpore; necesitamos acordar quién la dará mientras los demás siguen trabajando.",
+    "cloze": "me sumaría",
+    "answer": "me sumaría",
+    "lemma": "sumarse",
+    "meaning": "I would join",
+    "audio": "work/audio/es-MX/06/es-06-0974.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0975",
+    "sentence": "La guía aprobó explicar la historia del mercado entre las paradas. Un vecino aceptó después sustituir esas explicaciones por sus recuerdos; ella no ha recibido ese guion. Ahora nos piden acortar el guion. Yo intercalaría recuerdos breves entre los datos históricos, si ambos aceptan seleccionar juntos los pasajes; así tendríamos una propuesta común sin dar por hecho que ella aceptó la sustitución ni que él aceptó abreviar sus recuerdos.",
+    "cloze": "intercalaría",
+    "answer": "intercalaría",
+    "lemma": "intercalar",
+    "meaning": "I would intersperse",
+    "audio": "work/audio/es-MX/06/es-06-0975.mp3",
+    "accepted_answers": []
   }
 ]
