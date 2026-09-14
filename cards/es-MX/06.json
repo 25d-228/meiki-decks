@@ -9076,5 +9076,255 @@
     "meaning": "I decline",
     "audio": "work/audio/es-MX/06/es-06-0900.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0901",
+    "sentence": "En la asamblea, Ana preguntó por qué el ensayo del martes terminó tarde. El moderador me pidió justificar que nuestros ensayos siempre molestaran. Como organizador, respondo: «Me ciño al retraso del martes para darle una explicación a Ana: empezamos tarde porque yo no llevé la llave a tiempo; su pregunta no afirma que ocurra siempre».",
+    "cloze": "Me ciño",
+    "answer": "Me ciño",
+    "lemma": "ceñirse",
+    "meaning": "I confine myself",
+    "audio": "work/audio/es-MX/06/es-06-0901.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0902",
+    "sentence": "Mi hermana preguntó: «Si llueve, ¿dónde podríamos comer sin suspender la reunión?». Mi primo me pasó la pregunta como si yo ya hubiera prometido hacerla dentro. Yo organizo la comida y les digo: «Puedo ofrecer mi comedor si llueve; cabemos todos, pero todavía no hemos decidido dejar el patio».",
+    "cloze": "Puedo ofrecer",
+    "answer": "Puedo ofrecer",
+    "lemma": "poder ofrecer",
+    "meaning": "I can offer",
+    "audio": "work/audio/es-MX/06/es-06-0902.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0903",
+    "sentence": "En la entrevista, una lectora preguntó cómo respondería yo a quienes ven el final como un castigo a la protagonista. El conductor dijo que ella defendía esa lectura. Como autora, aclaro mi respuesta: «Contrasto esa interpretación con la última escena, donde ella elige quedarse; eso permite discutir la idea del castigo sin atribuírsela a la lectora».",
+    "cloze": "Contrasto",
+    "answer": "Contrasto",
+    "lemma": "contrastar",
+    "meaning": "I compare",
+    "audio": "work/audio/es-MX/06/es-06-0903.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0904",
+    "sentence": "Los participantes preguntaron si de verdad hacían falta ambos archivos; mi ayudante lo resumió como un rechazo a entregarlos. Como instructora, revisé la actividad: solo vamos a leer, sin editar. Les respondo: «Los eximo de entregar el archivo editable; basta con el que conserva la presentación. Su pregunta nos ayudó a detectar una exigencia innecesaria».",
+    "cloze": "Los eximo",
+    "answer": "Los eximo",
+    "lemma": "eximir",
+    "meaning": "I exempt you",
+    "audio": "work/audio/es-MX/06/es-06-0904.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0905",
+    "sentence": "—Una vecina pregunta qué apoya tu propuesta de abrir el taller por la tarde. Entonces, ¿ya comprobaste que todo el barrio prefiere ese horario? —Sustento la propuesta en diez solicitudes de ese horario; justifican hacer una prueba, no afirmar una preferencia de todo el barrio. Eso responde a la vecina sin aceptar la comprobación general que añadiste.",
+    "cloze": "Sustento",
+    "answer": "Sustento",
+    "lemma": "sustentar",
+    "meaning": "I support",
+    "audio": "work/audio/es-MX/06/es-06-0905.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0906",
+    "sentence": "Las familias preguntaron por qué no recibieron la invitación. Mi asistente me transmitió la pregunta así: «Quieren saber por qué las excluiste a propósito». Como encargada, les respondo: «Les pido disculpas por no haberles enviado el mensaje: olvidé agregar esa lista de contactos. Respondo por esa omisión; ustedes preguntaron por la falta de aviso, sin atribuirme una intención».",
+    "cloze": "Les pido disculpas",
+    "answer": "Les pido disculpas",
+    "lemma": "pedir disculpas",
+    "meaning": "I apologize to you",
+    "audio": "work/audio/es-MX/06/es-06-0906.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0907",
+    "sentence": "«Rectificaría esa elección si Julia no quisiera aparecer; le preguntaré antes de imprimir», respondo como editor del álbum. Mario había preguntado si cambiaría la portada bajo esa condición. La coordinadora reformuló su pregunta: «¿Cuándo cumplirás tu promesa de retirarla? Julia lo exige». Aclaro: «Respondo al caso que planteó Mario; su pregunta no contiene una exigencia de Julia ni una promesa mía».",
+    "cloze": "Rectificaría",
+    "answer": "Rectificaría",
+    "lemma": "rectificar",
+    "meaning": "I would revise",
+    "audio": "work/audio/es-MX/06/es-06-0907.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0908",
+    "sentence": "«Usted anuncia que las familias quieren cancelar el recorrido matutino, pero la madre preguntó cómo incluiríamos a quienes trabajan por la mañana. Como organizadora, hago extensiva la invitación a quienes necesitan venir por la tarde: tendrán otro recorrido. Esa es mi respuesta a la dificultad que planteó; el de la mañana sigue».",
+    "cloze": "hago extensiva",
+    "answer": "hago extensiva",
+    "lemma": "hacer extensivo",
+    "meaning": "I extend",
+    "audio": "work/audio/es-MX/06/es-06-0908.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0909",
+    "sentence": "—Los asistentes escribieron: «¿Con quién podemos hablar si el video no tiene subtítulos?». Quieren saber quién incumplió la promesa de ponerlos. —Como enlace del curso, les facilito el contacto de Elena, que recibe esas solicitudes; ella les dirá si pueden agregarlos. Eso atiende lo que preguntaron por escrito; la promesa incumplida la añadiste tú.",
+    "cloze": "les facilito",
+    "answer": "les facilito",
+    "lemma": "facilitar",
+    "meaning": "I provide them with",
+    "audio": "work/audio/es-MX/06/es-06-0909.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0910",
+    "sentence": "Rosa: «¿Cómo comprobarán que se respetaron los turnos?». Presentador: «Rosa vio que alguien pasó antes; ¿qué responde el encargado?». Encargado: «Comprobaré el orden comparando los turnos registrados con los números entregados; después podré decir si hubo un salto. Puedo atender la petición de verificarlo sin presentar a Rosa como testigo de algo que no dijo haber visto».",
+    "cloze": "Comprobaré",
+    "answer": "Comprobaré",
+    "lemma": "comprobar",
+    "meaning": "I will check",
+    "audio": "work/audio/es-MX/06/es-06-0910.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0911",
+    "sentence": "Mi ayudante me dijo: «La señora pregunta por qué la apartó usted del ensayo». Leí su mensaje: «¿Por qué cambiaron mi grupo sin avisarme?». Como director, le respondo: «Le debo una explicación por el cambio sin aviso: yo la pasé al otro grupo para equilibrar el número de participantes y olvidé actualizar el mensaje. Usted sigue en el ensayo; el cambio fue de grupo».",
+    "cloze": "Le debo",
+    "answer": "Le debo",
+    "lemma": "deber",
+    "meaning": "I owe you",
+    "audio": "work/audio/es-MX/06/es-06-0911.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0912",
+    "sentence": "«Demostraré cómo registrar la asistencia sin señal: anotamos los nombres en esta hoja y los pasamos al sistema cuando vuelva la conexión». Con ese ejemplo respondo, como instructor, a Pablo, que preguntó cómo registraríamos la asistencia si no hubiera señal. La moderadora me había pedido defender el uso permanente de papel; el ejemplo resuelve la contingencia de Pablo, sin recomendar abandonar el sistema.",
+    "cloze": "Demostraré",
+    "answer": "Demostraré",
+    "lemma": "demostrar",
+    "meaning": "I will demonstrate",
+    "audio": "work/audio/es-MX/06/es-06-0912.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0913",
+    "sentence": "Leo escribió: «¿Por qué nos asignaste el recorrido de fechas sin preguntarnos si preferíamos el de formas de vida?». El presentador lo resumió como una petición del grupo de cambiar de recorrido. Como guía, respondo: «Elegí el de fechas porque es más corto, pero les doy a elegir entre ambos. Díganme cuál prefieren; la pregunta de Leo no lo decide por ustedes».",
+    "cloze": "les doy a elegir",
+    "answer": "les doy a elegir",
+    "lemma": "dar a elegir",
+    "meaning": "I give you a choice",
+    "audio": "work/audio/es-MX/06/es-06-0913.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0914",
+    "sentence": "Tía, me preguntaste cómo contaría la anécdota del vecino sin identificarlo. Mi hermano me dice que prohibiste contarla, pero puedo atender tu preocupación: reservo su nombre y omito la calle al explicar cómo recuperamos el gato. Eso permite contar la historia en la reunión familiar con el cuidado que preguntaste cómo mantener.",
+    "cloze": "reservo",
+    "answer": "reservo",
+    "lemma": "reservar",
+    "meaning": "I withhold",
+    "audio": "work/audio/es-MX/06/es-06-0914.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0915",
+    "sentence": "«Preciso lo que falta confirmar: la hora del sábado; las clases y las maestras ya están confirmadas», respondo como coordinadora ante las familias. El representante había convertido la pregunta de Eva, «¿Qué falta saber antes de publicar los horarios?», en «Eva dice que ni siquiera saben si habrá clases». Mi respuesta identifica la información pendiente sin hacer suya esa duda más amplia.",
+    "cloze": "Preciso",
+    "answer": "Preciso",
+    "lemma": "precisar",
+    "meaning": "I specify",
+    "audio": "work/audio/es-MX/06/es-06-0915.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0916",
+    "sentence": "En el taller, Mar preguntó si la guía servía para alguien que nunca hubiera venido. El moderador anunció que ella la consideraba inútil para principiantes. Como autora, respondo: «Para atender esa duda, someto a prueba la guía con una participante nueva: encuentra la entrada, pero me pregunta dónde registrarse. La guía orienta la llegada, aunque le falta ese paso; Mar preguntó por su utilidad, sin descartarla».",
+    "cloze": "someto a prueba",
+    "answer": "someto a prueba",
+    "lemma": "someter a prueba",
+    "meaning": "I put to the test",
+    "audio": "work/audio/es-MX/06/es-06-0916.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0917",
+    "sentence": "El secretario me pide responder a la supuesta exigencia de Inés de no invitar al director. Leo su pregunta: «¿Cómo discutirán la lectura del final como una tregua si él solo habla de reconciliación?». Como organizadora, le planteo al director esa lectura de la tregua ante el público para que explique qué la apoya y qué la debilita; así la examinamos con él, sin retirarle la invitación.",
+    "cloze": "le planteo",
+    "answer": "le planteo",
+    "lemma": "plantear",
+    "meaning": "I put forward to him",
+    "audio": "work/audio/es-MX/06/es-06-0917.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0918",
+    "sentence": "Una usuaria preguntó por qué su reserva no aparecía en la lista. La recepcionista me pasó la pregunta diciendo que la usuaria aseguraba que yo la había borrado. Como encargado, respondo: «Todavía quedo a deber una explicación de esa ausencia: aquí está su solicitud, pero el registro no permite saber por qué no aparece. Revisaré cómo se procesó; su pregunta sigue pendiente, sin convertirla en una acusación contra mí».",
+    "cloze": "quedo a deber",
+    "answer": "quedo a deber",
+    "lemma": "quedar a deber",
+    "meaning": "I still owe",
+    "audio": "work/audio/es-MX/06/es-06-0918.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0919",
+    "sentence": "«Distingo aquella propuesta de la actual al explicar mi reserva: en marzo no había tiempo para ensayar; ahora sí y estoy de acuerdo». Así respondo en la reunión del proyecto. Luisa preguntó por qué yo había rechazado la propuesta de marzo; el coordinador me pidió explicar por qué seguía en contra. Mi explicación responde por la reserva pasada, sin mantenerla hoy.",
+    "cloze": "Distingo",
+    "answer": "Distingo",
+    "lemma": "distinguir",
+    "meaning": "I distinguish",
+    "audio": "work/audio/es-MX/06/es-06-0919.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0920",
+    "sentence": "Hermana, me preguntaste si podría mandar audios para que el abuelo se enterara de los planes sin leer el chat. Mi primo lo convirtió en una exigencia del abuelo de recibir llamadas diarias. Sí, estoy dispuesto a mandar un audio con cada cambio de plan para que lo escuche cuando quiera; eso atiende tu petición sin atribuirle a él esa exigencia.",
+    "cloze": "estoy dispuesto",
+    "answer": "estoy dispuesto",
+    "lemma": "estar dispuesto",
+    "meaning": "I am willing",
+    "audio": "work/audio/es-MX/06/es-06-0920.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0921",
+    "sentence": "Al presentar el nuevo catálogo, Nora preguntó qué había mejorado y qué seguía pendiente. El moderador me pidió responder a su afirmación de que el cambio había fracasado. Como responsable, digo: «Separo el avance y lo pendiente al responderle: ahora se puede buscar por autor, pero todavía faltan fotos. Nora pidió valorar ambas partes; explicar la carencia no obliga a defendernos de un fracaso que ella no afirmó».",
+    "cloze": "Separo",
+    "answer": "Separo",
+    "lemma": "separar",
+    "meaning": "I separate",
+    "audio": "work/audio/es-MX/06/es-06-0921.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0922",
+    "sentence": "El coro preguntó qué ganaríamos y perderíamos si cantáramos sin micrófonos. El presentador me pidió explicar por qué los cantantes querían abandonarlos. Como directora, respondo: «Para contestarles, sopesaré ese cambio como posibilidad: tendríamos más libertad para movernos, pero al fondo podrían oírnos menos. Es el balance que pidieron para decidir, no la defensa de una preferencia que ya hayan expresado».",
+    "cloze": "sopesaré",
+    "answer": "sopesaré",
+    "lemma": "sopesar",
+    "meaning": "I will weigh",
+    "audio": "work/audio/es-MX/06/es-06-0922.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0923",
+    "sentence": "En la reunión sobre atención al público, un vecino preguntó cómo revisaríamos unas quejas que otros le habían contado. La moderadora dijo que él había recibido ese mal trato. Como enlace de atención, respondo: «Para que puedan revisarlas, canalizo esas quejas al equipo que lleva los casos; necesitarán hablar con quienes vivieron cada situación. Usted nos hizo llegar los relatos, sin presentarse como la persona afectada».",
+    "cloze": "canalizo",
+    "answer": "canalizo",
+    "lemma": "canalizar",
+    "meaning": "I route",
+    "audio": "work/audio/es-MX/06/es-06-0923.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0924",
+    "sentence": "Sobrina, me preguntaste en qué me baso para recordar que la fiesta fue en diciembre. Tu tío me pasó la pregunta como una acusación de haber inventado el relato. Aporto la invitación que guardé: anuncia la fiesta para diciembre. Apoya que ese era el mes previsto, aunque por sí sola no confirma cuándo se celebró ni los demás detalles que recuerdo.",
+    "cloze": "Aporto",
+    "answer": "Aporto",
+    "lemma": "aportar",
+    "meaning": "I provide",
+    "audio": "work/audio/es-MX/06/es-06-0924.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0925",
+    "sentence": "Mi asistente anuncia: «Quienes están en línea ya no quieren preguntar». Como presentadora, leo su mensaje: «¿Van a responder lo que mandamos? Cerraron el chat sin leer nuestras preguntas». Les digo: «Sus mensajes siguen guardados. Retomaré esas preguntas antes de pasar a las de la sala; después reabriré el chat para que puedan pedir aclaraciones sobre mi respuesta».",
+    "cloze": "Retomaré",
+    "answer": "Retomaré",
+    "lemma": "retomar",
+    "meaning": "I will return to",
+    "audio": "work/audio/es-MX/06/es-06-0925.mp3",
+    "accepted_answers": []
   }
 ]
