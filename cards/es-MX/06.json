@@ -7812,5 +7812,257 @@
     "meaning": "were you postponing",
     "audio": "work/audio/es-MX/06/es-06-0775.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0776",
+    "sentence": "Los abuelos comentaron con su hija: «Cuando entreguemos la casa, nos mudamos contigo». Los tres consideraban segura la aceptación del comprador, aunque él aún no había respondido. Para los nietos que solo oyeron el anuncio de la mudanza, explico: «Los abuelos daban por hecho que el comprador aceptaría; pensaban mudarse con su hija después de entregar la casa, pero la venta seguía pendiente».",
+    "cloze": "daban por hecho",
+    "answer": "daban por hecho",
+    "lemma": "dar por hecho",
+    "meaning": "took it for granted",
+    "audio": "work/audio/es-MX/06/es-06-0776.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0777",
+    "sentence": "En casa, los adultos llamaban «tío» al vecino que nos cuidaba, aunque no era pariente. Al preparar el álbum dijeron entre ellos: «También debe salir el tío». Para los maestros que verán el álbum escolar, escribo: «Le decían “tío” de cariño; incluirlo en el álbum reconocía su lugar en nuestra vida familiar, sin afirmar que fuera hermano de alguno de nuestros padres».",
+    "cloze": "de cariño",
+    "answer": "de cariño",
+    "lemma": "de cariño",
+    "meaning": "as an affectionate name",
+    "audio": "work/audio/es-MX/06/es-06-0777.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0778",
+    "sentence": "Mis tías comentaron entre ellas: «Nos dejó esperando». Hablaban del primo que solía visitarlas; ambas sabían que esta vez no habían acordado una visita con él. A los sobrinos que preguntan qué promesa incumplió, les explico: «Lo esperaban por costumbre; su queja expresaba una expectativa que tenían ellas, aunque él no había confirmado que fuera a ir».",
+    "cloze": "por costumbre",
+    "answer": "por costumbre",
+    "lemma": "por costumbre",
+    "meaning": "out of habit",
+    "audio": "work/audio/es-MX/06/es-06-0778.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0779",
+    "sentence": "Los vecinos habían perdido su antiguo lugar de reunión y después consiguieron otro local prestado. Entre ellos, que conocían el cambio de edificio, comentaron: «Recuperamos nuestra casa». Para los visitantes de la exposición del barrio, explico: «Los vecinos volvieron a reunirse, ahora en otro local prestado; “recuperar nuestra casa” aludía a recuperar ese uso compartido, no a regresar al edificio anterior».",
+    "cloze": "volvieron a reunirse",
+    "answer": "volvieron a reunirse",
+    "lemma": "volver a reunirse",
+    "meaning": "resumed meeting",
+    "audio": "work/audio/es-MX/06/es-06-0779.mp3",
+    "accepted_answers": [
+      "se volvieron a reunir"
+    ]
+  },
+  {
+    "id": "es-06-0780",
+    "sentence": "Mis hermanos, que nacieron después del gran apagón, crecieron escuchando a la abuela contarlo. Entre ellos dijeron: «No se nos olvida aquel apagón». Para los compañeros de escuela que verán ese fragmento, aclaro: «Ese recuerdo les había llegado por el relato de su abuela; al evocarlo juntos, conservaban una historia familiar, sin decir que hubieran vivido el apagón».",
+    "cloze": "les había llegado",
+    "answer": "les había llegado",
+    "lemma": "llegar",
+    "meaning": "had reached them",
+    "audio": "work/audio/es-MX/06/es-06-0780.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0781",
+    "sentence": "En el chat de los voluntarios habían acordado contestar «listo» al recibir un encargo, antes de hacerlo. Uno respondió así al mensaje sobre las sillas. A la nueva coordinadora, que lee el chat sin conocer esa convención, le explico: «Con “listo”, el voluntario acusaba recibo del encargo; no estaba informando que ya hubiera acomodado las sillas».",
+    "cloze": "acusaba recibo",
+    "answer": "acusaba recibo",
+    "lemma": "acusar recibo",
+    "meaning": "acknowledged receipt",
+    "audio": "work/audio/es-MX/06/es-06-0781.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0782",
+    "sentence": "En recepción, la mamá escribió en su tableta «Quiero el taller de dibujo» y su hija lo leyó en voz alta. La empleada veía la pantalla y sabía quién había escrito el mensaje. Para los voluntarios que solo oyen la grabación, explico: «La hija estaba leyendo el mensaje de su mamá; la elección del taller era de la mamá, aunque se oyera la voz de la hija».",
+    "cloze": "estaba leyendo",
+    "answer": "estaba leyendo",
+    "lemma": "leer",
+    "meaning": "was reading",
+    "audio": "work/audio/es-MX/06/es-06-0782.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0783",
+    "sentence": "Dos vecinas del mismo edificio, acostumbradas a caminar una hora al salón anterior, comentaron sobre el nuevo, a veinte minutos: «Ahora sí está cerca». A los visitantes que se hospedan en otra zona les explico: «El nuevo salón les quedaba cerca comparado con el anterior; esa valoración partía del recorrido de ellas, no de los lugares donde se hospedan ustedes».",
+    "cloze": "les quedaba",
+    "answer": "les quedaba",
+    "lemma": "quedar",
+    "meaning": "was located relative to them",
+    "audio": "work/audio/es-MX/06/es-06-0783.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0784",
+    "sentence": "En el chat del turno, Ana avisó que ya no iría, aunque su nombre seguía en la lista original. Cuando llegaron los demás de esa lista, los voluntarios escribieron: «Ya estamos todos». Para el resto de la asociación, que solo recibió la lista original y ese último mensaje, explico: «Al decir “todos”, los voluntarios descontaban a Ana del total previsto, pues había cancelado; no la daban por presente».",
+    "cloze": "descontaban",
+    "answer": "descontaban",
+    "lemma": "descontar",
+    "meaning": "excluded from the count",
+    "audio": "work/audio/es-MX/06/es-06-0784.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0785",
+    "sentence": "Durante una entrevista en la ciudad, la narradora dibujó de memoria su pueblo y dijo al entrevistador, señalando el dibujo: «Aquí nos reuníamos». Para los visitantes que oirán el audio sin ver el dibujo, explico: «Al decir “aquí”, la narradora se situaba en el pueblo que estaba reconstruyendo de memoria; el episodio no ocurrió en el lugar de la grabación».",
+    "cloze": "se situaba",
+    "answer": "se situaba",
+    "lemma": "situarse",
+    "meaning": "placed herself",
+    "audio": "work/audio/es-MX/06/es-06-0785.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0786",
+    "sentence": "En el chat del viaje, mi hermano escribió: «A las seis ya estamos cenando». Todos habían calculado con un horario viejo que daba la llegada del tren a las cinco; no sabían que ahora llegaba a las siete. A la anfitriona, que sí conoce el horario actual y pregunta por qué anunciaron las seis, le explico: «Se guiaban por el horario anterior; su cálculo era equivocado, pero no habían anunciado esa hora sabiendo que llegarían después».",
+    "cloze": "Se guiaban",
+    "answer": "Se guiaban",
+    "lemma": "guiarse",
+    "meaning": "they were going by",
+    "audio": "work/audio/es-MX/06/es-06-0786.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0787",
+    "sentence": "Los jóvenes del taller escribían un cuento sobre una isla con un túnel de salida. El personaje ignoraba el túnel; los autores lo sabían. Al probar su diálogo, uno leyó: «Nadie puede salir de aquí». Para las familias que ven el mapa de la isla y solo oyen esa frase, explico: «El personaje se cree atrapado; la frase expresa lo que él piensa, aunque sus autores conocen una salida dentro del mismo cuento».",
+    "cloze": "se cree",
+    "answer": "se cree",
+    "lemma": "creerse",
+    "meaning": "believes himself to be",
+    "audio": "work/audio/es-MX/06/es-06-0787.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0788",
+    "sentence": "Ana y su hermana sabían que solo había dos abrigos, uno de Ana y otro de Beto. Ana se llevó el suyo y su hermana le dijo: «El que quedó es de Beto», aunque ninguna lo había visto con él. Para los primos que reciben la foto del abrigo, explico: «Dijeron que era de Beto por descarte: conocían las dos posibilidades, sin haberlo reconocido por verlo puesto».",
+    "cloze": "por descarte",
+    "answer": "por descarte",
+    "lemma": "por descarte",
+    "meaning": "by elimination",
+    "audio": "work/audio/es-MX/06/es-06-0788.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0789",
+    "sentence": "Los organizadores creían que solo podían usar el salón pequeño o cancelar; todos lo consideraban incómodo, pero preferían reunirse. Entre ellos dijeron: «Bueno, nos quedamos con ese». A los vecinos, que saben de otro salón que el equipo desconocía, les explico: «El salón pequeño les pareció lo menos malo entre las opciones que conocían; aceptaron usarlo, aunque seguían considerándolo incómodo».",
+    "cloze": "lo menos malo",
+    "answer": "lo menos malo",
+    "lemma": "lo menos malo",
+    "meaning": "the least bad option",
+    "audio": "work/audio/es-MX/06/es-06-0789.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0790",
+    "sentence": "En una charla entre madres de alumnos, dos maestras dijeron: «Apoyamos el paseo». Todas sabían que hablaban allí como madres y que no representaban al equipo docente. Para quienes leerán la frase en el boletín escolar, aclaro: «Hablaron en nombre propio, como madres de alumnos; su apoyo al paseo no se presentó como una decisión del equipo docente».",
+    "cloze": "en nombre propio",
+    "answer": "en nombre propio",
+    "lemma": "en nombre propio",
+    "meaning": "on their own behalf",
+    "audio": "work/audio/es-MX/06/es-06-0790.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0791",
+    "sentence": "Tres vecinos armaron un recuerdo de la plaza: Ana recordaba el escenario, Beto la música y Luz el baile; ninguno pudo confirmar los detalles de los otros. Después dijeron entre ellos: «Así lo recordamos». Para los lectores del periódico del barrio, que solo reciben esa frase, escribo: «Reconstruyeron la escena entre los tres; la frase reúne sus aportaciones, sin que cada uno confirme todo lo que contaron los demás».",
+    "cloze": "Reconstruyeron",
+    "answer": "Reconstruyeron",
+    "lemma": "reconstruir",
+    "meaning": "they reconstructed",
+    "audio": "work/audio/es-MX/06/es-06-0791.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0792",
+    "sentence": "En el círculo de lectura revisaron dos textos sin firma de una misma autora. Todos conocían esa autoría y comentaron: «Los dos apoyan cambiar el día del taller». Para los visitantes que verán los textos sin esa información, explico: «Una misma autora reiteraba su apoyo al cambio en los dos textos; quienes dijeron “los dos” contaban escritos, no personas distintas».",
+    "cloze": "reiteraba",
+    "answer": "reiteraba",
+    "lemma": "reiterar",
+    "meaning": "reiterated",
+    "audio": "work/audio/es-MX/06/es-06-0792.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0793",
+    "sentence": "Dos recepcionistas borraban cada turno de su lista cuando la persona terminaba de pasar por recepción, aunque siguiera esperando el taller dentro del edificio. Al vaciarse la lista, comentaron: «Ya no queda nadie». A los nuevos voluntarios, que solo leyeron esa frase, les explico: «Los registrados habían pasado por recepción; el mensaje daba por terminada esa etapa, no decía que todos hubieran salido del edificio».",
+    "cloze": "habían pasado",
+    "answer": "habían pasado",
+    "lemma": "pasar",
+    "meaning": "had gone through",
+    "audio": "work/audio/es-MX/06/es-06-0793.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0794",
+    "sentence": "Una madre y su hija jugaban a recordar datos que ambas conocían. La madre preguntó: «¿En qué calle vive la abuela?». Para los padres que leerán solo la transcripción como ejemplo de conversación, explico: «La madre ponía a prueba la memoria de su hija dentro del juego; ya sabía la dirección y no le pedía ayuda para encontrar la casa».",
+    "cloze": "ponía a prueba",
+    "answer": "ponía a prueba",
+    "lemma": "poner a prueba",
+    "meaning": "was testing",
+    "audio": "work/audio/es-MX/06/es-06-0794.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0795",
+    "sentence": "Los editores del barrio fijaron por su cuenta la meta de reunir cien relatos. Al contar noventa, comentaron entre ellos: «Nos faltan diez». A los visitantes que preguntan si aún hay vecinos que deban entregar un texto, les explico: «Se habían propuesto reunir cien relatos; faltaban diez para esa meta del equipo, sin que eso significara que diez vecinos estuvieran obligados a entregar uno».",
+    "cloze": "Se habían propuesto",
+    "answer": "Se habían propuesto",
+    "lemma": "proponerse",
+    "meaning": "they had set themselves the goal",
+    "audio": "work/audio/es-MX/06/es-06-0795.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0796",
+    "sentence": "Los músicos acordaron verse antes de abrir al público. Uno llegó después de esa cita, pero antes de la apertura, y sus compañeros dijeron: «Llegó tarde». Para el público que lee la crónica sin conocer el acuerdo, preciso: «Los músicos se habían citado antes de abrir; el retraso fue respecto de ese acuerdo entre ellos, no del horario anunciado al público».",
+    "cloze": "se habían citado",
+    "answer": "se habían citado",
+    "lemma": "citarse",
+    "meaning": "had arranged to meet",
+    "audio": "work/audio/es-MX/06/es-06-0796.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0797",
+    "sentence": "En la reunión de coordinación, todos sabían que avisar a un grupo significaba escribir a su enlace. Después comentaron: «Ya avisamos a todos los grupos». A los participantes que leen el resumen sin conocer ese procedimiento, les explico: «El aviso se dirigía a la persona de enlace de cada grupo; los coordinadores no afirmaban que cada participante lo hubiera recibido personalmente».",
+    "cloze": "se dirigía",
+    "answer": "se dirigía",
+    "lemma": "dirigirse",
+    "meaning": "was addressed",
+    "audio": "work/audio/es-MX/06/es-06-0797.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0798",
+    "sentence": "En las pláticas de los vecinos, unos relatos daban la fundación del barrio a una mujer y otros a su hermana. Todos sabían que eran versiones sin comprobar. Al discutirlas, algunos dijeron: «No fue ella, fue su hermana». Para los visitantes de la muestra escribimos: «Dentro de esos relatos, algunos vecinos le disputaban a la primera mujer el papel de fundadora; su corrección favorecía la otra versión, sin demostrar históricamente ninguna de las dos».",
+    "cloze": "le disputaban",
+    "answer": "le disputaban",
+    "lemma": "disputar",
+    "meaning": "challenged her",
+    "audio": "work/audio/es-MX/06/es-06-0798.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0799",
+    "sentence": "La encargada y su ayudante sabían que una usuaria seguía pidiendo letra grande y que otra había cambiado a audio, aunque su ficha aún dijera letra grande. La encargada dijo: «Mándales lo habitual». A quienes las cubrirán y solo tienen las fichas les explico: «Lo habitual se ajustaba a la petición más reciente de cada usuaria: letra grande para una y audio para la otra; copiar las fichas repetiría una preferencia ya reemplazada».",
+    "cloze": "se ajustaba",
+    "answer": "se ajustaba",
+    "lemma": "ajustarse",
+    "meaning": "was tailored",
+    "audio": "work/audio/es-MX/06/es-06-0799.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0800",
+    "sentence": "El comité ya había reservado el patio para las lecturas. Al discutir si añadirían allí conciertos, alguien dijo: «El patio no», y los demás aceptaron dejar los conciertos fuera. Para los vecinos que reciben solo esa frase y creen que se canceló la sede, explico: «El comité se oponía a añadir conciertos en el patio; la reserva para las lecturas seguía en pie».",
+    "cloze": "se oponía",
+    "answer": "se oponía",
+    "lemma": "oponerse",
+    "meaning": "was opposed",
+    "audio": "work/audio/es-MX/06/es-06-0800.mp3",
+    "accepted_answers": []
   }
 ]
