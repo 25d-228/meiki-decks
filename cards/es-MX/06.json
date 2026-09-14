@@ -5552,5 +5552,255 @@
     "meaning": "gave her a bad feeling",
     "audio": "work/audio/es-MX/06/es-06-0550.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0551",
+    "sentence": "Teresa le pidió a Raúl que invitara a la vecina del cuarto piso a tomar café. Raúl sabe que esa vecina es la nueva directora de Teresa; ella todavía no lo sabe. En su petición, Teresa la identificaba por el lugar donde vive. Contarla como una invitación a su nueva jefa haría parecer que conocía una relación laboral que aún ignoraba.",
+    "cloze": "la identificaba",
+    "answer": "la identificaba",
+    "lemma": "identificar",
+    "meaning": "identified her",
+    "audio": "work/audio/es-MX/06/es-06-0551.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0552",
+    "sentence": "En la lista del taller, Bruno escribió: «No manden mi borrador a Nube; sus comentarios anteriores no me sirvieron». Yo sé que Nube es su hermano, pero Bruno no sabe quién está detrás de esa cuenta. Lo que escribió lo excluía como lector del borrador; no demuestra que Bruno quisiera apartar a su hermano por un problema familiar.",
+    "cloze": "lo excluía",
+    "answer": "lo excluía",
+    "lemma": "excluir",
+    "meaning": "was excluding him",
+    "audio": "work/audio/es-MX/06/es-06-0552.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0553",
+    "sentence": "Al revisar unas fotos para el álbum familiar, Marta dijo: «Pregúntenle a la mujer de esta foto si quiere salir en la portada». Su hermano sabe que es Marta de joven; ella no pudo identificarla. No hay base para afirmar que se reconociera como la persona cuyo permiso hacía falta: hablar con Marta del álbum no equivale a haberle presentado la foto como suya y obtenido su permiso.",
+    "cloze": "se reconociera",
+    "answer": "se reconociera",
+    "lemma": "reconocerse",
+    "meaning": "recognized herself",
+    "audio": "work/audio/es-MX/06/es-06-0553.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0554",
+    "sentence": "Alicia ofreció preparar dos cuartos: uno para Julián y otro para el cantante anunciado como Río. El organizador sabe que ambos nombres corresponden al mismo invitado; Alicia no. Ella los contaba como dos huéspedes al hacer la oferta. Podemos aclarar que se trata de una sola persona; todavía falta revisar con Alicia cuántos cuartos siguen haciendo falta.",
+    "cloze": "los contaba",
+    "answer": "los contaba",
+    "lemma": "contar",
+    "meaning": "counted them",
+    "audio": "work/audio/es-MX/06/es-06-0554.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0555",
+    "sentence": "«La señora del autobús dice que el camino es bonito», contó Óscar para animarnos a ir. Yo sé que la señora escribe guías de viaje, pero Óscar solo conversó con ella durante el trayecto y desconoce su trabajo. Al citarla, no la invocaba como autoridad profesional; ese respaldo aparecería si yo la presentara como una experta dentro de su argumento.",
+    "cloze": "la invocaba",
+    "answer": "la invocaba",
+    "lemma": "invocar",
+    "meaning": "was invoking her",
+    "audio": "work/audio/es-MX/06/es-06-0555.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0556",
+    "sentence": "En el foro del ensayo, Irene escribió a Lince: «¿Por qué quitaste mi escena?». Yo administro las cuentas y sé que Lince es el director, algo que Irene ignora. Ella lo interpelaba como autor del cambio. En el resumen no conviertan su pregunta en un desafío consciente a la autoridad del director.",
+    "cloze": "lo interpelaba",
+    "answer": "lo interpelaba",
+    "lemma": "interpelar",
+    "meaning": "was addressing a challenge to him",
+    "audio": "work/audio/es-MX/06/es-06-0556.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0557",
+    "sentence": "Sin haber visto el cambio de lista, Celia dijo: «Los del turno de la tarde pueden quedarse a ordenar». La encargada sabe que Celia acaba de pasar a ese turno; Celia aún se cree en el de la mañana. Al hablar de ese grupo, Celia no se incluía conscientemente entre los posibles ayudantes. No lo contemos como un ofrecimiento personal.",
+    "cloze": "se incluía",
+    "answer": "se incluía",
+    "lemma": "incluirse",
+    "meaning": "was including herself",
+    "audio": "work/audio/es-MX/06/es-06-0557.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0558",
+    "sentence": "Rosa nos contó que admiraba a la cantante Mar y que le molestaba la vecina que ensayaba de noche. Su hija sabe que son la misma mujer; Rosa todavía no. Rosa la contraponía a su cantante favorita como si fueran dos personas. Aclarar la identidad no permite decir que Rosa retiró su admiración por la artista.",
+    "cloze": "la contraponía",
+    "answer": "la contraponía",
+    "lemma": "contraponer",
+    "meaning": "was contrasting her",
+    "audio": "work/audio/es-MX/06/es-06-0558.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0559",
+    "sentence": "Durante la reunión, Javier propuso que guiara la visita quien hubiera armado la exposición. Yo la armé, pero él no sabía quién había sido. Entendí que su propuesta me designaba por ese trabajo previo. No voy a contar que Javier me recomendó por nuestra amistad: ni siquiera sabía que estaba proponiéndome a mí.",
+    "cloze": "me designaba",
+    "answer": "me designaba",
+    "lemma": "designar",
+    "meaning": "designated me",
+    "audio": "work/audio/es-MX/06/es-06-0559.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0560",
+    "sentence": "Nora escribió: «Le confié el problema con mi jefa a mi compañera de viaje». Yo sé que esa compañera también trabaja con la jefa de Nora; Nora ignoraba esa relación cuando habló. No sustituyas «mi compañera de viaje» por «una colega de su jefa» en el resumen sin aclararlo: parecería que Nora había contado el problema sabiendo que la destinataria era colega de su jefa.",
+    "cloze": "sustituyas",
+    "answer": "sustituyas",
+    "lemma": "sustituir",
+    "meaning": "replace",
+    "audio": "work/audio/es-MX/06/es-06-0560.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0561",
+    "sentence": "Al volver del taller, Dani dijo que una participante había explicado muy bien el ejercicio, aunque no supo su nombre. La maestra sabe que era Paula y se lo cuenta a la familia. Puede aclarar quién recibió el elogio, pero no decir que Dani la había mencionado por su nombre cuando habló del taller; esa identificación la aporta la maestra.",
+    "cloze": "la había mencionado",
+    "answer": "la había mencionado",
+    "lemma": "mencionar",
+    "meaning": "had mentioned her",
+    "audio": "work/audio/es-MX/06/es-06-0561.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0562",
+    "sentence": "Leo recomendó el horario porque lo apoyaban el grupo de lectura y el equipo que presta los libros. «Son dos grupos de personas diferentes», explicó. La coordinadora sabe que ambos tienen exactamente los mismos integrantes; Leo lo ignora. Al resumir los apoyos, no los separemos en dos conjuntos de personas: eso repetiría el error de Leo sin aclarar que él desconocía la coincidencia.",
+    "cloze": "los separemos",
+    "answer": "los separemos",
+    "lemma": "separar",
+    "meaning": "separate them",
+    "audio": "work/audio/es-MX/06/es-06-0562.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0563",
+    "sentence": "Beto le dejó este recado a mi hermana: «Dile al dueño que le devuelvo su guitarra el sábado». No sabe que la guitarra es mía; mi hermana sí. Ella me explicó: «Beto dice que va a devolvértela el sábado, aunque todavía no sabe que tú eres el dueño».",
+    "cloze": "devolvértela",
+    "answer": "devolvértela",
+    "lemma": "devolver",
+    "meaning": "return it to you",
+    "audio": "work/audio/es-MX/06/es-06-0563.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0564",
+    "sentence": "Omar le aconsejó a Luisa que preguntara a la organizadora quién llevaría las sillas. Él no sabía que Luisa organizaba la comida; yo sí. Su consejo la remitía a la organizadora sin que Omar supiera que eran la misma persona. Al contarlo, aclaremos ese desconocimiento antes de presentar el consejo como una manera de decirle que resolviera sola su pregunta.",
+    "cloze": "la remitía",
+    "answer": "la remitía",
+    "lemma": "remitir",
+    "meaning": "was referring her",
+    "audio": "work/audio/es-MX/06/es-06-0564.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0565",
+    "sentence": "En una comida, Elena leyó una frase de una carta sin firma como apoyo a su relato del barrio. Su papá sabe que Elena escribió la carta de niña; ella no lo recuerda. Aunque de hecho se citaba a sí misma, creía aportar la voz de otra persona. Al contar qué fuentes respaldaron su relato, no dupliquemos la autoría ni le atribuyamos una autocita deliberada.",
+    "cloze": "se citaba",
+    "answer": "se citaba",
+    "lemma": "citarse",
+    "meaning": "was quoting herself",
+    "audio": "work/audio/es-MX/06/es-06-0565.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0566",
+    "sentence": "Mateo prometió ayudar a «quien me consiguió el salón», sin saber que esa persona era el presidente del comité. Yo conozco ambos datos. No reemplaces al destinatario de la ayuda por el próximo presidente al pasar el recado: Mateo se comprometió con quien le hizo el favor, sin saber qué cargo tenía.",
+    "cloze": "reemplaces",
+    "answer": "reemplaces",
+    "lemma": "reemplazar",
+    "meaning": "replace",
+    "audio": "work/audio/es-MX/06/es-06-0566.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0567",
+    "sentence": "Para tener otra opinión, Vera pidió consultar a Tomás: «Él no participa en el montaje». La productora sabe que Tomás trabaja en el montaje con otro nombre; Vera desconoce esa participación. La productora le aclara a Tomás: «No te presentaremos como alguien ajeno al equipo solo porque Vera no conoce tu participación. Antes de contar tu respuesta como una opinión externa, tenemos que explicarle quién eres».",
+    "cloze": "te presentaremos",
+    "answer": "te presentaremos",
+    "lemma": "presentar",
+    "meaning": "we will present you",
+    "audio": "work/audio/es-MX/06/es-06-0567.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0568",
+    "sentence": "La encargada se quejó de «quienes dejaron las cajas en el pasillo», sin saber que fuimos mi hermana y yo. Al oírla, nos dimos por aludidos porque habíamos dejado las cajas allí. Esa identificación fue nuestra; no demuestra que ella nos hubiera reconocido ni que eligiera una forma indirecta de regañarnos personalmente.",
+    "cloze": "nos hubiera reconocido",
+    "answer": "nos hubiera reconocido",
+    "lemma": "reconocer",
+    "meaning": "had recognized us",
+    "audio": "work/audio/es-MX/06/es-06-0568.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0569",
+    "sentence": "Sara pidió hablar con el responsable de las luces y añadió: «Creo que se llama Luis». Yo sé que el responsable es Omar y que Luis solo anotó su teléfono. Sara lo asociaba al nombre equivocado, pero había pedido hablar con quien manejaba las luces. Al pasar el recado, aclaro el nombre sin convertir su petición en una preferencia por Luis.",
+    "cloze": "lo asociaba",
+    "answer": "lo asociaba",
+    "lemma": "asociar",
+    "meaning": "associated him",
+    "audio": "work/audio/es-MX/06/es-06-0569.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0570",
+    "sentence": "Mónica presentó a su nuevo compañero como alguien con quien nunca había tenido contacto. Yo sé que ambos conversaron durante meses con apodos en un grupo de lectura; ninguno conoce la identidad del otro en ese grupo. Allí se lo prometieron el uno al otro: no reenviarían sus mensajes. Esa promesa existe entre ellos aunque Mónica aún no reconozca a su compañero; presentarlo como alguien nuevo no es por sí solo una decisión de romperla.",
+    "cloze": "se lo prometieron",
+    "answer": "se lo prometieron",
+    "lemma": "prometer",
+    "meaning": "they promised it to each other",
+    "audio": "work/audio/es-MX/06/es-06-0570.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0571",
+    "sentence": "Al cerrar la junta, Pilar dijo: «Falta el encargado del archivo; le preguntaré después». Yo sabía que era el hombre que acababa de saludarla, pero Pilar no conocía su función. Le explico al encargado: «Pilar no lo ubicaba a usted en ese puesto. Cuando dijo que preguntaría después, no sabía que ya había saludado al encargado».",
+    "cloze": "lo ubicaba",
+    "answer": "lo ubicaba",
+    "lemma": "ubicar",
+    "meaning": "recognized you",
+    "audio": "work/audio/es-MX/06/es-06-0571.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0572",
+    "sentence": "«Inviten a todos los que ayudaron, salvo a los del conjunto que tocó al final», pidió Lalo; explicó que ya les había agradecido en otra comida. También pidió invitar a sus nuevos compañeros de oficina. Lalo no sabe que esos compañeros son precisamente los músicos; yo sí. Al responderle, identifícalos como sus compañeros de oficina y como los músicos que quiere excluir; así podrá aclarar la lista sabiendo que son las mismas personas.",
+    "cloze": "identifícalos",
+    "answer": "identifícalos",
+    "lemma": "identificar",
+    "meaning": "identify them",
+    "audio": "work/audio/es-MX/06/es-06-0572.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0573",
+    "sentence": "Antes de que se revelara que el escritor Sol era Hugo, Ana recomendó: «Lean a Sol; escribe muy bien». Ana no sabía quién estaba detrás del seudónimo; yo sí. Ahora que todos lo sabemos, no lo llames «Hugo» dentro de aquella cita: atribuirías a Ana una identificación pública que ella no hizo ni estaba en condiciones de hacer.",
+    "cloze": "lo llames",
+    "answer": "lo llames",
+    "lemma": "llamar",
+    "meaning": "call him",
+    "audio": "work/audio/es-MX/06/es-06-0573.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0574",
+    "sentence": "Inés quería conocer a la autora de un cuento firmado con seudónimo. Yo sé que lo escribió su amiga Sandra; Inés no ha relacionado ese nombre con su amiga. Le aclaro: «No necesito presentártela como a alguien nuevo: es Sandra. Cuando pediste conocer a la autora, todavía no sabías que era tu amiga».",
+    "cloze": "presentártela",
+    "answer": "presentártela",
+    "lemma": "presentar",
+    "meaning": "introduce her to you",
+    "audio": "work/audio/es-MX/06/es-06-0574.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0575",
+    "sentence": "Pablo me entregó un sobre y dijo «Dáselo a él» mientras señalaba al señor que lo había ayudado con las cajas. Yo sé que ese señor es mi papá, pero Pablo no lo sabe. Al dárselo, le aclaro: «Pablo estaba señalándote a ti cuando dijo “él”; no sabía que eres mi papá».",
+    "cloze": "estaba señalándote",
+    "answer": "estaba señalándote",
+    "lemma": "señalar",
+    "meaning": "was pointing to you",
+    "audio": "work/audio/es-MX/06/es-06-0575.mp3",
+    "accepted_answers": []
   }
 ]
