@@ -6806,5 +6806,255 @@
     "meaning": "I will correct",
     "audio": "work/audio/es-MX/06/es-06-0675.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0676",
+    "sentence": "Cuando dije «hoy hay pan invisible», preguntaste si ya no íbamos a desayunar. Te pongo en antecedentes: ayer mi hermano y yo preparamos todo para hacer sándwiches y descubrimos que no habíamos comprado pan. Hoy sí compré; repetí el nombre que le pusimos ayer a aquel desayuno incompleto, pero tú no estabas para reconocerlo.",
+    "cloze": "pongo en antecedentes",
+    "answer": "pongo en antecedentes",
+    "lemma": "poner en antecedentes",
+    "meaning": "give the background",
+    "audio": "work/audio/es-MX/06/es-06-0676.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0677",
+    "sentence": "—Con tu «exploradora de pasillo» pensé que te burlabas de mi viaje. —Antes de que llegaras, anuncié que iba a descubrir tierras desconocidas y solo fui por una silla al cuarto de al lado. Me parodiaba con ese título al volver: convertí mi propio anuncio exagerado en una aventura doméstica. Tu viaje no formaba parte de aquella escena.",
+    "cloze": "Me parodiaba",
+    "answer": "Me parodiaba",
+    "lemma": "parodiarse",
+    "meaning": "I was parodying myself",
+    "audio": "work/audio/es-MX/06/es-06-0677.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0678",
+    "sentence": "La mesera dijo «la cafetera ya pidió vacaciones» y usted preguntó si tendría que ir a otro café. Deshago el malentendido: esta mañana jugamos a que la máquina era una compañera que pedía descanso después de cada taza; la mesera retomó ese juego, que usted no presenció. La cafetera funciona y sí podemos servirle su pedido.",
+    "cloze": "Deshago",
+    "answer": "Deshago",
+    "lemma": "deshacer",
+    "meaning": "I clear up",
+    "audio": "work/audio/es-MX/06/es-06-0678.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0679",
+    "sentence": "Te conté que los del taller le dieron un diploma a una maceta y te pareció que se burlaban de quien la cuidaba. Omití la parte que hacía comprensible la escena: durante el curso habían puesto la maceta en una silla vacía y firmado por ella la asistencia. El diploma continuaba el juego de tratarla como alumna; no sé cómo recibió la broma la persona que la llevó.",
+    "cloze": "Omití",
+    "answer": "Omití",
+    "lemma": "omitir",
+    "meaning": "I left out",
+    "audio": "work/audio/es-MX/06/es-06-0679.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0680",
+    "sentence": "A ustedes les llegó solo «hoy sí le ganamos al silencio». En el ensayo ninguno recordó cómo empezaba la canción y anunciamos al silencio como ganador; al público de hoy sí le cantamos completa. Esa frase recordaba el ensayo fallido. Pero no les atribuyan a los asistentes conocimiento de la broma: sus aplausos fueron por la canción, y no habían oído la historia del ensayo.",
+    "cloze": "les atribuyan",
+    "answer": "les atribuyan",
+    "lemma": "atribuir",
+    "meaning": "attribute to them",
+    "audio": "work/audio/es-MX/06/es-06-0680.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0681",
+    "sentence": "Al contarme la función, empezaste por el actor que gritó «¡me robaron el final!» y pensé que reclamaba de verdad. Restablezco el orden con lo que ahora me cuentas: primero su personaje escondió la última página para alargar la obra; después otro personaje terminó sin él. El grito cerraba esa trampa ficticia; yo había recibido el remate antes que la escena que lo explicaba.",
+    "cloze": "Restablezco",
+    "answer": "Restablezco",
+    "lemma": "restablecer",
+    "meaning": "I restore",
+    "audio": "work/audio/es-MX/06/es-06-0681.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0682",
+    "sentence": "Dije «bienvenida al club de los mapas al revés» y tu hermano se rio; tú acababas de perderte y te dolió. La frase viene de una salida en que él y yo sostuvimos el mapa volteado; tú no conocías esa historia. Te la expliqué como si eso bastara para que te gustara la bienvenida. Esa exigencia la retiro: puedes entender la referencia y seguir molesta.",
+    "cloze": "la retiro",
+    "answer": "la retiro",
+    "lemma": "retirar",
+    "meaning": "I withdraw it",
+    "audio": "work/audio/es-MX/06/es-06-0682.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0683",
+    "sentence": "—Me contaron que Ana perdió las llaves y que hoy le dijiste «gran equipo de búsqueda». ¿Seguían riéndose de que ella las perdió? —Actualizo la historia que te llegó: al final descubrimos que yo las llevaba en la mano mientras la ayudaba a buscar. Hoy repetí el nombre de nuestro equipo por esa búsqueda entre dos, con las llaves a la vista. Sin el final, parecía otra broma a costa de Ana.",
+    "cloze": "Actualizo",
+    "answer": "Actualizo",
+    "lemma": "actualizar",
+    "meaning": "I update",
+    "audio": "work/audio/es-MX/06/es-06-0683.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0684",
+    "sentence": "—Yo vi que la niña presentó al oso de peluche como pianista y lo sentó frente al piano, pero salí antes de oír al papá. —Yo llegué cuando él puso al oso en una cama y dijo «el maestro exige vacaciones»; no sabía por qué era maestro. —Reunamos las dos partes: primero la niña lo presentó como pianista y luego su papá lo mandó a descansar como a un músico agotado. Cada uno vio una parte distinta del juego.",
+    "cloze": "Reunamos",
+    "answer": "Reunamos",
+    "lemma": "reunir",
+    "meaning": "let us put together",
+    "audio": "work/audio/es-MX/06/es-06-0684.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0685",
+    "sentence": "Te llamamos «capitán de las cucharas» porque ayer, cuando no estabas, inventamos una tripulación con los cubiertos. Entendiste que recoger hoy era otra parte del juego. La broma no cambia que te corresponda recoger esta noche: ese turno lo acordamos contigo antes de inventar la tripulación. El título viene de la escena que no viste; el turno viene de nuestro acuerdo.",
+    "cloze": "te corresponda",
+    "answer": "te corresponda",
+    "lemma": "corresponder",
+    "meaning": "it falls to you",
+    "audio": "work/audio/es-MX/06/es-06-0685.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0686",
+    "sentence": "—Me contaste que brindaron por un envío «de mí para mí», pero no entendí. —Quien hizo el envío me dejó contar la anécdota sin decir su nombre. Te la cuento sin nombres: escribió su propia dirección donde iba la del destinatario y el paquete acabó otra vez en su casa. El brindis retomaba ese envío que volvió a su punto de partida.",
+    "cloze": "Te la cuento",
+    "answer": "Te la cuento",
+    "lemma": "contar",
+    "meaning": "I tell it to you",
+    "audio": "work/audio/es-MX/06/es-06-0686.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0687",
+    "sentence": "—En la presentación oí risas con su «ahora sí cabemos todos», pero desde aquí no veo las fotos. —Se lo describo: en la primera foto solo salimos del cuello para abajo; en la segunda salimos completos. Yo comparaba esos dos encuadres al decirlo. Con las palabras solas faltaba justamente la diferencia entre las imágenes.",
+    "cloze": "Se lo describo",
+    "answer": "Se lo describo",
+    "lemma": "describir",
+    "meaning": "I describe it for you",
+    "audio": "work/audio/es-MX/06/es-06-0687.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0688",
+    "sentence": "Le voy a escribir a mi prima, que no vio nuestro teatro de títeres: «La reina de cartón anunció: “Quien proteste lavará los platos”; luego se quejó de la sopa y le tocó lavarlos todos». Entrecomillo el decreto al contárselo y aclaro quién lo decía, porque fuera de la obra puede parecer una advertencia mía. La gracia estaba en que su propia regla se le volvió en contra.",
+    "cloze": "Entrecomillo",
+    "answer": "Entrecomillo",
+    "lemma": "entrecomillar",
+    "meaning": "I put in quotation marks",
+    "audio": "work/audio/es-MX/06/es-06-0688.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0689",
+    "sentence": "Dices que me reí de tu «concierto para puerta y llaves» porque recordé cuando la puerta chillaba durante el ensayo. Te desmiento en eso: yo no fui a ese ensayo y me reí al imaginar una puerta tocando música. Ahora que me cuentas lo que pasó, entiendo la otra referencia; puedes explicar las dos lecturas sin convertir mi risa en prueba de que conocía la tuya.",
+    "cloze": "Te desmiento",
+    "answer": "Te desmiento",
+    "lemma": "desmentir",
+    "meaning": "I correct you",
+    "audio": "work/audio/es-MX/06/es-06-0689.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0690",
+    "sentence": "Para explicarle al visitante la broma de «la inspección aprobó los cojines», contaste que mi gato había rechazado uno. No la adornes con ese final: el gato solo se acostó en cada cojín y nosotros jugamos a que revisaba los muebles. Al visitante le faltaba ese comienzo; el rechazo que añadiste no ocurrió.",
+    "cloze": "la adornes",
+    "answer": "la adornes",
+    "lemma": "adornar",
+    "meaning": "embellish it",
+    "audio": "work/audio/es-MX/06/es-06-0690.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0691",
+    "sentence": "—Llegué cuando el dragón renunciaba y los demás se rieron. Quiero leer el cuento desde el principio, así que no me digas adónde se fue. —Te lo resumo hasta la renuncia: lo contrataron para calentar la sopa y le sirvieron un plato frío. La protesta responde a esa contradicción. No te cuento lo que viene después.",
+    "cloze": "Te lo resumo",
+    "answer": "Te lo resumo",
+    "lemma": "resumir",
+    "meaning": "I summarize it for you",
+    "audio": "work/audio/es-MX/06/es-06-0691.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0692",
+    "sentence": "Al presentarles a mi hermano en el trabajo, lo llamé «ministro de servilletas». Ustedes no conocían el juego y pensaron que criticaba su manera de trabajar. Descontextualicé aquella actuación: en una comida privada él había inventado un sello para autorizar cada doblez de las servilletas. Yo recordaba ese trámite absurdo, no describía su trabajo. Que él se hubiera reído conmigo antes no les daba a ustedes ese contexto.",
+    "cloze": "Descontextualicé",
+    "answer": "Descontextualicé",
+    "lemma": "descontextualizar",
+    "meaning": "I took out of context",
+    "audio": "work/audio/es-MX/06/es-06-0692.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0693",
+    "sentence": "Te conté que Luis dijo «hasta la silla pidió turno» después de que una silla rechinó en nuestra charla. No te había dicho que antes todos habíamos practicado levantar la mano, incluso con una silla vacía. Matizo mi explicación de que Luis se quejaba de las interrupciones: la frase también continuaba ese juego. Puedo darte el antecedente, pero Luis no ha aclarado si además quería criticarnos.",
+    "cloze": "Matizo",
+    "answer": "Matizo",
+    "lemma": "matizar",
+    "meaning": "I qualify",
+    "audio": "work/audio/es-MX/06/es-06-0693.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0694",
+    "sentence": "—Dijiste «ya llegó el invierno» al verme con suéter, y los demás se rieron. ¿Era por mi ropa? —Mezclé tu llegada con un juego que no te había explicado: antes de que entraras, alguien puso una bufanda a la lámpara y yo anuncié que empezaba el invierno en la sala. Sí usé tu suéter para continuar ese invierno inventado; entiendo que lo recibieras como un comentario sobre ti.",
+    "cloze": "Mezclé",
+    "answer": "Mezclé",
+    "lemma": "mezclar",
+    "meaning": "I mixed",
+    "audio": "work/audio/es-MX/06/es-06-0694.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0695",
+    "sentence": "En la videollamada, tu pantalla se quedó en la imagen de tu diploma, pero en la nuestra ya aparecía mi pastel cuando dije «idéntico al de la foto» y me reí. Te completo la escena: puse mi pastel junto a la foto del modelo, con su mensaje perfectamente centrado; en el mío, las letras quedaron amontonadas en una esquina. Mi frase comparaba los pasteles. Entiendo que, con la imagen detenida, la relacionaras con tu diploma.",
+    "cloze": "Te completo",
+    "answer": "Te completo",
+    "lemma": "completar",
+    "meaning": "I fill in for you",
+    "audio": "work/audio/es-MX/06/es-06-0695.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0696",
+    "sentence": "La directora del coro contó que, cuando su perro interrumpió el ensayo con un ladrido, ella dijo «ya tenemos solista». Tú recibiste solo esa frase y pensaste que ya habían elegido a alguien para el concierto. Contrapongo la escena a esa lectura: el supuesto solista era el perro que acababa de ladrar; la ocurrencia no anunciaba el reparto de voces. Sobre ese reparto no me dio información.",
+    "cloze": "Contrapongo",
+    "answer": "Contrapongo",
+    "lemma": "contraponer",
+    "meaning": "I set against",
+    "audio": "work/audio/es-MX/06/es-06-0696.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0697",
+    "sentence": "Al contarles la cena a quienes no estuvieron, escribiste que mi hijo dijo «el refrigerador exige aplausos». Él inventó un refrigerador que se quejaba de trabajar sin agradecimiento; yo añadí la frase de los aplausos al abrirlo. El personaje se lo atribuyo a él, pero esa frase es mía. Para que entiendan la broma, hay que contar cómo mi comentario continuó su idea, sin poner en su boca palabras que no dijo.",
+    "cloze": "se lo atribuyo",
+    "answer": "se lo atribuyo",
+    "lemma": "atribuir",
+    "meaning": "I credit him with it",
+    "audio": "work/audio/es-MX/06/es-06-0697.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0698",
+    "sentence": "Mi hermana y yo llamábamos «aduana» a la puerta porque mi sobrino nos revisó los bolsillos buscando galletas. Al llegar tú, te pregunté qué traías para declarar y entendiste que debías vaciar tu bolsa. Esperaba que te sumaras al juego, pero no te había contado la escena ni preguntado si querías participar. No te exijo que participes: no tienes que mostrar nada; la pregunta continuaba aquella aduana inventada.",
+    "cloze": "te exijo",
+    "answer": "te exijo",
+    "lemma": "exigir",
+    "meaning": "I require you",
+    "audio": "work/audio/es-MX/06/es-06-0698.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0699",
+    "sentence": "—Si hubieras estado cuando dijimos «la escalera nos ascendió de puesto», te habrías reído, como todos. —No me adjudiques esa reacción: por lo que me acabas de contar, subieron un piso cargando sus propias sillas y jugaron con la idea de un ascenso laboral. Ya puedo seguir la relación sin haber estado ahí; no sé si me habría dado risa.",
+    "cloze": "me adjudiques",
+    "answer": "me adjudiques",
+    "lemma": "adjudicar",
+    "meaning": "ascribe to me",
+    "audio": "work/audio/es-MX/06/es-06-0699.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0700",
+    "sentence": "Me pides que cierre mañana con «por fin una reseña sin objeciones», como hizo la artista. Tú solo oíste esa frase. En la apertura ella había presentado una silla vacía frente al cuadro como «la crítica más callada»; el cierre retomaba a esa crítica inventada. No incorporo la frase como comentario sobre las reseñas reales de mañana: sin aquella escena, cambiaría lo que parece decir del público.",
+    "cloze": "incorporo",
+    "answer": "incorporo",
+    "lemma": "incorporar",
+    "meaning": "I include",
+    "audio": "work/audio/es-MX/06/es-06-0700.mp3",
+    "accepted_answers": []
   }
 ]
