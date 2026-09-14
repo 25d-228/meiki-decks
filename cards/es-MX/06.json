@@ -6556,5 +6556,255 @@
     "meaning": "put me on the same footing",
     "audio": "work/audio/es-MX/06/es-06-0650.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0651",
+    "sentence": "Mi compañera subrayó un párrafo de mi charla: «Aquí caben varias conversaciones». Le interesan las conexiones entre los temas, pero también había preguntado cuánto duraría la charla. No sé si celebra la riqueza del párrafo o señala que está demasiado cargado. Le respondo: «Revisémoslo con los ejemplos a la vista; por ahora no estoy aceptando ni descartando que haya que dividirlo».",
+    "cloze": "Revisémoslo",
+    "answer": "Revisémoslo",
+    "lemma": "revisar",
+    "meaning": "let us review it",
+    "audio": "work/audio/es-MX/06/es-06-0651.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0652",
+    "sentence": "—Desde que te mudaste, se oye hasta el reloj. —Te escucho, mamá, si quieres contarme cómo han sido estos días. Me has dicho que disfrutas leer sin ruido y que extrañas nuestras pláticas; no sé cuál de las dos cosas pesa en tu comentario. Podemos hablar ahora sin decidir todavía cuándo nos veremos.",
+    "cloze": "escucho",
+    "answer": "escucho",
+    "lemma": "escuchar",
+    "meaning": "I am listening",
+    "audio": "work/audio/es-MX/06/es-06-0652.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0653",
+    "sentence": "Un visitante comenta sobre nuestro recorrido: «Tuve que preguntar quién era cada personaje; esto sí es para gente del barrio». Disfrutó escuchar historias locales, pero llegó sin conocer los nombres. Puede estar elogiando ese carácter local o señalando una dificultad. Le respondo: «Tomo nota de esas dudas sobre los personajes; eso nos sirve para revisar la explicación, aunque todavía no sé si usted pedía ampliarla».",
+    "cloze": "Tomo nota",
+    "answer": "Tomo nota",
+    "lemma": "tomar nota",
+    "meaning": "I take note",
+    "audio": "work/audio/es-MX/06/es-06-0653.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0654",
+    "sentence": "«Antes uno podía sentarse mientras escogía», comenta un cliente en la tienda, entre recuerdos de las tardes que pasaba en el local anterior. Sigue mirando los libros; no ha dicho que necesite sentarse. Hay una silla libre y le digo: «Le ofrezco esta silla. ¿Le sirve? No sé si lo decía por los recuerdos o porque quiere descansar un rato».",
+    "cloze": "ofrezco",
+    "answer": "ofrezco",
+    "lemma": "ofrecer",
+    "meaning": "I offer",
+    "audio": "work/audio/es-MX/06/es-06-0654.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0655",
+    "sentence": "—Ya se nos fue la noche. —Paremos un momento antes de pedir otra ronda. Estamos muy a gusto, pero mañana entras temprano a trabajar; no sé si quieres irte ya o si se te pasó el tiempo sin sentirlo. Todavía podemos decidir si seguimos aquí o nos vamos.",
+    "cloze": "Paremos",
+    "answer": "Paremos",
+    "lemma": "parar",
+    "meaning": "let us pause",
+    "audio": "work/audio/es-MX/06/es-06-0655.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0656",
+    "sentence": "Mi compañero terminó solo el cierre de la presentación. Orgulloso del resultado, pero señalando también que salió tarde, comenta: «Esa parte sí quedó enteramente en mis manos». Le respondo: «En eso coincidimos: hiciste el cierre sin ayuda. Si además te pesó el reparto, queda pendiente hablarlo; todavía no sé si tu comentario iba por ahí o por la satisfacción del resultado».",
+    "cloze": "coincidimos",
+    "answer": "coincidimos",
+    "lemma": "coincidir",
+    "meaning": "we agree",
+    "audio": "work/audio/es-MX/06/es-06-0656.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0657",
+    "sentence": "Mi amiga dice: «Qué facilidad tienes para cambiar de tema». Acabo de evitar una pregunta incómoda de otra persona, pero también dejé a medias una historia que ella contaba. Puede agradecerme la salida o reprocharme la interrupción. Le digo: «Te doy espacio para terminar tu historia, si quieres; puedes retomarla sin tener que aclararme primero cómo iba ese comentario».",
+    "cloze": "doy espacio",
+    "answer": "doy espacio",
+    "lemma": "dar espacio",
+    "meaning": "I give space",
+    "audio": "work/audio/es-MX/06/es-06-0657.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0658",
+    "sentence": "«Con una hora no se acaba esto», comenta mi compañera después de probar la visita al museo que estamos preparando. Se detuvo encantada ante varias piezas, pero tuvo que saltarse una sala. ¿Destaca la riqueza de la muestra o cuestiona el tiempo previsto? Le digo: «Reduzcamos el recorrido de prueba a dos salas para medirlo sin prisas; todavía no estamos decidiendo qué quitar de la visita completa».",
+    "cloze": "Reduzcamos",
+    "answer": "Reduzcamos",
+    "lemma": "reducir",
+    "meaning": "let us reduce",
+    "audio": "work/audio/es-MX/06/es-06-0658.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0659",
+    "sentence": "—Somos los mismos de siempre. —Hoy disfrutamos la confianza del grupo, pero también preguntaste por qué nunca vienen los vecinos nuevos. Exploremos la posibilidad de invitarlos, tanto si celebrabas conocernos como si señalabas que falta apertura. Lo estamos considerando; todavía no hay una convocatoria acordada ni un encargo para ti.",
+    "cloze": "Exploremos",
+    "answer": "Exploremos",
+    "lemma": "explorar",
+    "meaning": "let us explore",
+    "audio": "work/audio/es-MX/06/es-06-0659.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0660",
+    "sentence": "Mi compañera de casa, que estuvo admirando mis figuras de cartón, llega con un plato y se ríe: «La mesa ya parece taller». Puede estar siguiendo la broma o señalando que necesita dónde comer. Le respondo: «Tienes derecho a comer aquí aunque solo estuvieras bromeando; la mesa es compartida. No necesitas presentar una queja para usarla».",
+    "cloze": "Tienes derecho",
+    "answer": "Tienes derecho",
+    "lemma": "tener derecho",
+    "meaning": "you have the right",
+    "audio": "work/audio/es-MX/06/es-06-0660.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0661",
+    "sentence": "Acabo de terminar mi parte cuando mis compañeras escriben desde la mesa de pedidos: «Aquí seguimos, como siempre». Suelen avisarme dónde están para salir juntas; hoy, sin embargo, quedan más pedidos de lo habitual. Contesto: «Déjenme comprobar cuánto falta antes de hablar de turnos. Puede ser el aviso de siempre o una petición de relevo; por ahora no he aceptado quedarme a cubrirlas».",
+    "cloze": "comprobar",
+    "answer": "comprobar",
+    "lemma": "comprobar",
+    "meaning": "check",
+    "audio": "work/audio/es-MX/06/es-06-0661.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0662",
+    "sentence": "—Veo que ya pensaste en todo. —Me habías pedido que buscara opciones para el viaje y preparé este itinerario, pero aún no has elegido ninguna. Replanteémoslo como una propuesta que podemos cambiar. Sé que sueles agradecerme la organización; no sé si ahora la elogias o me estás señalando que no te dejé decidir.",
+    "cloze": "Replanteémoslo",
+    "answer": "Replanteémoslo",
+    "lemma": "replantear",
+    "meaning": "let us reframe it",
+    "audio": "work/audio/es-MX/06/es-06-0662.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0663",
+    "sentence": "Mi hermano lee el cuento que presentaré en público: «Esa familia se parece bastante a la nuestra». Reconoció una anécdota que siempre cuenta con gusto, pero el cuento también incluye una discusión familiar. No aclara si disfruta reconocernos o teme que nos identifiquen. Le respondo: «Aplacemos la lectura pública hasta revisar esos detalles; no estoy tomando tu observación como una prohibición de contar la historia».",
+    "cloze": "Aplacemos",
+    "answer": "Aplacemos",
+    "lemma": "aplazar",
+    "meaning": "let us postpone",
+    "audio": "work/audio/es-MX/06/es-06-0663.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0664",
+    "sentence": "Mi prima está aprendiendo fotografía y ya dijo que le gustaría practicar con una cámara como la mía. Durante el paseo la levanta y pregunta: «¿No te cansa cargarla todo el día? Sí pesa». Le respondo: «Si lo dices por mí, despreocúpate: puedo cargarla. ¿Traes alguna foto en mente? Para prestártela tendríamos que turnarnos; yo todavía la estoy usando».",
+    "cloze": "despreocúpate",
+    "answer": "despreocúpate",
+    "lemma": "despreocuparse",
+    "meaning": "do not worry",
+    "audio": "work/audio/es-MX/06/es-06-0664.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0665",
+    "sentence": "Mi vecino me había preguntado qué canciones ensayo y suele acostarse temprano. Hoy comenta: «Ayer sí se oyó tu música». Le digo: «Para saber cómo llega el sonido, descríbame cómo se oía desde su casa. Puede haber reconocido las canciones sin molestia; también me interesa saber si el volumen le incomodó».",
+    "cloze": "descríbame",
+    "answer": "descríbame",
+    "lemma": "describir",
+    "meaning": "describe to me",
+    "audio": "work/audio/es-MX/06/es-06-0665.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0666",
+    "sentence": "En el ensayo habías celebrado una escena lenta y luego preguntaste si el público entendería el cierre. Ahora señalas la pausa final: «Qué valiente dejar ese silencio». No sé si admiras la decisión o la encuentras arriesgada. Te respondo: «Sostengo por ahora la decisión de dejar esa pausa porque permite observar la reacción del personaje; si esa reacción no se entiende, la duración se puede discutir».",
+    "cloze": "Sostengo",
+    "answer": "Sostengo",
+    "lemma": "sostener",
+    "meaning": "I stand by",
+    "audio": "work/audio/es-MX/06/es-06-0666.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0667",
+    "sentence": "Mi tía y yo siempre bromeamos sobre mis listas. Le propuse que viniera el domingo a las cuatro y todavía no me ha contestado. Dice: «Ya hasta para visitarte hay que sacar cita». La última vez, su camión se retrasó y no alcanzó el horario propuesto. Le pregunto: «Tía, ¿confirmamos lo del domingo a las cuatro o revisamos la hora por lo del camión? Si sigues con la broma, no la voy a contar como un sí».",
+    "cloze": "confirmamos",
+    "answer": "confirmamos",
+    "lemma": "confirmar",
+    "meaning": "shall we confirm",
+    "audio": "work/audio/es-MX/06/es-06-0667.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0668",
+    "sentence": "Antes de la charla, un compañero comenta: «A ver si ahora sí salen todas las voces». La vez pasada falló el micrófono y además hubo asistentes que no alcanzaron turno. No precisa si pide mejorar el sonido o repartir mejor la palabra. Señalo el micrófono: «Probémoslo desde el fondo del salón; eso permite comprobar el volumen, aunque no resuelva el reparto de turnos».",
+    "cloze": "Probémoslo",
+    "answer": "Probémoslo",
+    "lemma": "probar",
+    "meaning": "let us test it",
+    "audio": "work/audio/es-MX/06/es-06-0668.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0669",
+    "sentence": "La lectora había elogiado la brevedad del cuento, pero marcó con una interrogación el último cambio del personaje. Ahora escribe: «El final llega pronto». Mi editora quiere decidir si lo ampliamos. Le contesto: «Consultémosle por la interrogación; quizá le gusta la rapidez y solo le falta entender ese cambio. Si le ofrecemos más páginas de entrada, estaríamos eligiendo la lectura de un final precipitado antes de saber qué necesita».",
+    "cloze": "Consultémosle",
+    "answer": "Consultémosle",
+    "lemma": "consultar",
+    "meaning": "let us ask her",
+    "audio": "work/audio/es-MX/06/es-06-0669.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0670",
+    "sentence": "—Ahora sí tienes tiempo para todos. —Ese paseo que dejamos pendiente, retomémoslo sin fijar todavía un día. Ya empecé vacaciones y puedo revisar mis horarios. Como casi no nos vimos durante el semestre, no sé si me lo estás reclamando o si te alegras por mi descanso; no necesito resolverlo para volver a hablar del paseo contigo.",
+    "cloze": "retomémoslo",
+    "answer": "retomémoslo",
+    "lemma": "retomar",
+    "meaning": "let us return to it",
+    "audio": "work/audio/es-MX/06/es-06-0670.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0671",
+    "sentence": "Mi compañero había elogiado mi manera de explicar, pero también acordamos conservar los ejemplos del equipo. Al leer mi texto comenta: «Muy tuya esta versión». Puede reconocer mi estilo o señalar que me alejé de lo acordado. Veo que sustituí uno de los ejemplos y le respondo: «Restituyo ese ejemplo porque habíamos acordado conservarlo; para cambiar también el estilo tendríamos que hablar de qué no funciona».",
+    "cloze": "Restituyo",
+    "answer": "Restituyo",
+    "lemma": "restituir",
+    "meaning": "I restore",
+    "audio": "work/audio/es-MX/06/es-06-0671.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0672",
+    "sentence": "El visitante vino a observar los detalles de un grabado. Se acerca también a la ficha, escrita con letra pequeña, y comenta: «Aquí hay que acercarse para enterarse». Una compañera empieza a retirar la ficha para buscar una ampliación. Le digo: «Déjela aquí mientras busca la otra; acercarse también le sirve para mirar los detalles del grabado. Si la letra le dificulta leer, podrá elegir la ampliación sin quedarse mientras tanto sin información».",
+    "cloze": "Déjela",
+    "answer": "Déjela",
+    "lemma": "dejar",
+    "meaning": "leave it",
+    "audio": "work/audio/es-MX/06/es-06-0672.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0673",
+    "sentence": "Una clienta había pedido plato fuerte y postre porque traía mucha hambre. Al ver el tamaño de su plato, sonríe: «Con esto ya no voy a cenar». Puede celebrar la abundancia o insinuar que es demasiado. Le pregunto: «¿Le cancelo el postre que pidió o se lo traigo después? Con esa frase no quiero quitarle algo que todavía quiera probar».",
+    "cloze": "cancelo",
+    "answer": "cancelo",
+    "lemma": "cancelar",
+    "meaning": "shall I cancel",
+    "audio": "work/audio/es-MX/06/es-06-0673.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0674",
+    "sentence": "—Casi no me veo. —Habías pedido pocas fotos tuyas para el álbum y ahora señalas una foto grupal donde tu cara se ve pequeña. Por ahora atengámonos a tu petición de incluir pocas fotos; si lo que quieres es aparecer más, dime cuáles autorizas añadir. Esa observación sobre cómo te ves también puede referirse solo al encuadre.",
+    "cloze": "atengámonos",
+    "answer": "atengámonos",
+    "lemma": "atenerse",
+    "meaning": "let us stick to",
+    "audio": "work/audio/es-MX/06/es-06-0674.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0675",
+    "sentence": "Mi compañero y yo estamos contentos con nuestro mural. Antes de mostrarlo, ve que el anuncio solo lleva mi nombre y comenta: «Esto no se pintó solo». No sé si celebra el esfuerzo compartido o reclama el anuncio. Le contesto: «Rectificaré el anuncio para que aparezcamos los dos antes de repartirlo: tú pintaste el fondo y yo las figuras. Esa corrección hace falta aunque lo hayas dicho para celebrar».",
+    "cloze": "Rectificaré",
+    "answer": "Rectificaré",
+    "lemma": "rectificar",
+    "meaning": "I will correct",
+    "audio": "work/audio/es-MX/06/es-06-0675.mp3",
+    "accepted_answers": []
   }
 ]
