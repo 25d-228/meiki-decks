@@ -7308,5 +7308,255 @@
     "meaning": "clarify for us",
     "audio": "work/audio/es-MX/06/es-06-0725.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0726",
+    "sentence": "Joel acepta alquilar «el cuarto del patio», que imagina separado del taller, y rechaza dormir donde ensayan. La dueña ofrece precisamente el cuarto que usan como taller; yo conozco la casa. Les digo: «La oferta de alojamiento, reformúlenla aclarando si habrá ensayos dentro; ese sí y ese no todavía no responden a una opción entendida igual».",
+    "cloze": "reformúlenla",
+    "answer": "reformúlenla",
+    "lemma": "reformular",
+    "meaning": "rephrase it",
+    "audio": "work/audio/es-MX/06/es-06-0726.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0727",
+    "sentence": "El vendedor ofreció cambiar la mochila por «esa de la foto». Mi hermana aceptó pensando en la grande de su pantalla; él señalaba la pequeña de su catálogo. Yo vi las dos imágenes y le pregunto: «¿Nos ofrecería el cambio por la mochila grande que ella estaba viendo? Su sí anterior no confirma el cambio por la pequeña, ni usted había ofrecido la grande».",
+    "cloze": "Nos ofrecería",
+    "answer": "Nos ofrecería",
+    "lemma": "ofrecer",
+    "meaning": "would you offer us",
+    "audio": "work/audio/es-MX/06/es-06-0727.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0728",
+    "sentence": "Tú ofreciste llevar a la vecina que cuida el huerto; el organizador entendió que llevarías a la encargada con sus herramientas. Yo sé que es la misma mujer, pero tú no conocías ese trabajo suyo. ¿Le mantienes el ofrecimiento de llevarla si las herramientas viajan aparte? Falta que ella diga si le sirve; tu oferta inicial no incluía esa carga.",
+    "cloze": "Le mantienes",
+    "answer": "Le mantienes",
+    "lemma": "mantener",
+    "meaning": "do you keep open for her",
+    "audio": "work/audio/es-MX/06/es-06-0728.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0729",
+    "sentence": "Usted ofreció cambiarnos a «la terraza»; mi papá aceptó pensando en el patio sin escalones. Yo conozco el lugar: la terraza que usted ofrece está arriba. El cambio de mesa, déjelo pendiente hasta que mi papá sepa adónde lo llevarían y decida si acepta; su sí se refería al patio. Mientras lo aclaramos, le pido que nos permita seguir en nuestra mesa.",
+    "cloze": "déjelo",
+    "answer": "déjelo",
+    "lemma": "dejar",
+    "meaning": "leave it",
+    "audio": "work/audio/es-MX/06/es-06-0729.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0730",
+    "sentence": "Iván acepta comentarios de su vecina y rechaza los de la cuenta Nube; no sabe que ella maneja esa cuenta. Ella me permitió proponerle una lectura sin firma, pero no revelar esa identidad. En mi mensaje a Iván, la lectura sin firma se la planteo como una opción nueva, sin identificar a la lectora ni presentar su sí a la vecina como aceptación de esta modalidad.",
+    "cloze": "se la planteo",
+    "answer": "se la planteo",
+    "lemma": "plantear",
+    "meaning": "I put it to him",
+    "audio": "work/audio/es-MX/06/es-06-0730.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0731",
+    "sentence": "En el taller aceptan prestar sus mesas a «las vecinas que organizan la comida», pero rechazan prestarlas al equipo que vende postres; creen que son grupos distintos. Sé que son las mismas personas y que preparan ambos puestos. A quienes prestan las mesas les pido que reconsideren el préstamo indicando para cuál actividad permitirían usarlas; coincidir en las personas no aclara qué uso están dispuestos a permitir.",
+    "cloze": "reconsideren",
+    "answer": "reconsideren",
+    "lemma": "reconsiderar",
+    "meaning": "reconsider",
+    "audio": "work/audio/es-MX/06/es-06-0731.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0732",
+    "sentence": "La empleada ofreció leer las opciones diciendo «Si quiere, se las leo». Mi mamá pensó que hablaba conmigo y rechazó la ayuda porque yo sé leerlas; la empleada me aclara que se dirigía a ella. Le digo: «La oferta, hágasela directamente a mi mamá para que decida si le sirve a ella; aquel no se refería a una ayuda que entendiera destinada a sí misma».",
+    "cloze": "hágasela",
+    "answer": "hágasela",
+    "lemma": "hacer",
+    "meaning": "make it to her",
+    "audio": "work/audio/es-MX/06/es-06-0732.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0733",
+    "sentence": "Mamá aceptó publicar «la voz que se oye detrás», pensando que era la mía. Yo sé que es la suya y la editora espera usar su sí. Le digo: «Mamá, eres tú quien habla en ese fragmento. Para decirle a la editora que puede usarlo, necesito que me autorices a compartir tu voz ahora que sabes de quién es; no voy a convertir aquel sí en este permiso».",
+    "cloze": "me autorices",
+    "answer": "me autorices",
+    "lemma": "autorizar",
+    "meaning": "you authorize me",
+    "audio": "work/audio/es-MX/06/es-06-0733.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0734",
+    "sentence": "Mi hermana pidió cancelar «la visita al taller» y conservar «el recorrido de cerámica», creyendo que eran actividades distintas. Yo envié solo la cancelación; la agencia aclara que ambos nombres corresponden a una única visita y pregunta si debe proceder. Respondo: «Esa instrucción mía la revoco mientras mi hermana decide con esa equivalencia clara; todavía no les puedo confirmar ni la cancelación ni una nueva reserva».",
+    "cloze": "la revoco",
+    "answer": "la revoco",
+    "lemma": "revocar",
+    "meaning": "I revoke it",
+    "audio": "work/audio/es-MX/06/es-06-0734.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0735",
+    "sentence": "Lalo invitó a «la capitana» a la comida pensando en quien organizó el paseo. Eva creyó que invitaba a la entrenadora y respondió que ella trabajaba. Yo sé que la organizadora era otra compañera. Le pregunto: «Lalo, ¿habías invitado directamente a quien organizó el paseo, o solo le pediste a Eva que la buscara? Antes de insistir necesitamos saber si la invitación llegó a su destinataria; la respuesta sobre la entrenadora no lo aclara».",
+    "cloze": "habías invitado",
+    "answer": "habías invitado",
+    "lemma": "invitar",
+    "meaning": "had you invited",
+    "audio": "work/audio/es-MX/06/es-06-0735.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0736",
+    "sentence": "Ana le dijo a mi tía «Aquí tienes casa» ofreciéndole alojamiento durante su visita. Mi primo oyó la frase, creyó que también iba dirigida a él y aceptó mudarse con Ana. Ella me pide ayudar a aclararlo. Les digo: «Primo, la invitación te la explico así: Ana le ofreció a mi tía alojamiento durante su visita; si tú quieres quedarte también, hace falta otra petición y otra respuesta».",
+    "cloze": "te la explico",
+    "answer": "te la explico",
+    "lemma": "explicar",
+    "meaning": "I explain it to you",
+    "audio": "work/audio/es-MX/06/es-06-0736.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0737",
+    "sentence": "En el chat familiar, Elena escribió «¿Me ayudas a escogerlo?» pensando en el regalo de papá. Raúl solo había visto el mensaje sobre un refrigerador y dijo que no sabía de aparatos. Yo vi ambos mensajes. Le digo: «Te lo vuelvo a preguntar con el encargo claro: ¿quieres ayudar a Elena a escoger el regalo? Tu respuesta sobre aparatos no permite contestar por ti sobre esto».",
+    "cloze": "vuelvo a preguntar",
+    "answer": "vuelvo a preguntar",
+    "lemma": "volver a preguntar",
+    "meaning": "I ask again",
+    "audio": "work/audio/es-MX/06/es-06-0737.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0738",
+    "sentence": "La clienta acepta que vuelva «el muchacho que explicó el control», pero rechaza otra visita de quien instaló la pantalla. Yo sé que fue el mismo trabajador; ella cree que fueron dos. Le digo al encargado: «Búsquele una alternativa con otro trabajador y explíquele quién hizo las dos cosas; así podrá elegir sin que usemos solo la descripción con la que dijo que sí».",
+    "cloze": "Búsquele",
+    "answer": "Búsquele",
+    "lemma": "buscar",
+    "meaning": "look for something for her",
+    "audio": "work/audio/es-MX/06/es-06-0738.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0739",
+    "sentence": "El carpintero ofreció reparar «la puerta que se atora». Mi hermana rechazó la reparación porque pensó que hablaba de la entrada; él se refería a la del clóset. Yo hablé con ambos. Le pregunto a mi hermana: «¿Autorizarías una visita solo para señalar juntos qué puerta se está ofreciendo reparar? Podrías decidir después sobre el arreglo del clóset; aceptar que venga no sería aceptar la reparación».",
+    "cloze": "Autorizarías",
+    "answer": "Autorizarías",
+    "lemma": "autorizar",
+    "meaning": "would you authorize",
+    "audio": "work/audio/es-MX/06/es-06-0739.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0740",
+    "sentence": "Luis ofrece dejar libre «la mesa de costura» durante la comida. Eva acepta usar «la mesa plegable», pensando que es otra y que puede llevársela al patio. Yo sé que es la misma mesa. Les propongo que cotejemos lo que cada uno entendió del préstamo: dejarla libre no aclara si Luis permite moverla, y Eva aún debe decidir si le sirve usarla donde está.",
+    "cloze": "cotejemos",
+    "answer": "cotejemos",
+    "lemma": "cotejar",
+    "meaning": "we compare",
+    "audio": "work/audio/es-MX/06/es-06-0740.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0741",
+    "sentence": "Ana ofreció una cama a «quien te acompaña», pensando en mi pareja. Yo acepté porque viajaré con mi intérprete; mi hermana, que habla con Ana, conoce el malentendido. Antes de contar con esa cama, le pido que se lo consulte a Ana mencionando a mi intérprete como destinataria; no le estoy pidiendo que presente mi sí anterior como aceptación de una oferta dirigida a esa persona.",
+    "cloze": "se lo consulte",
+    "answer": "se lo consulte",
+    "lemma": "consultar",
+    "meaning": "she ask her about it",
+    "audio": "work/audio/es-MX/06/es-06-0741.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0742",
+    "sentence": "Mi hermano ofreció cocinar «lo de siempre» para la visita. Mamá aceptó pensando en su sopa y ofreció preparar quesadillas para acompañarla; él hablaba de las quesadillas que suele hacer cuando ella no está. Yo he probado ambos platillos. Le pregunto a mamá: «¿Le cederías la preparación de las quesadillas y harías tú la sopa? Es otra propuesta de reparto, porque ustedes estaban pensando en menús distintos».",
+    "cloze": "Le cederías",
+    "answer": "Le cederías",
+    "lemma": "ceder",
+    "meaning": "would you hand over to him",
+    "audio": "work/audio/es-MX/06/es-06-0742.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0743",
+    "sentence": "Eva aceptó compartir la casa con «los del viaje», pensando en sus dos amigas. Diego usa esa expresión para el grupo completo, con acompañantes. Yo tengo la lista que Eva no vio. Le digo a Diego: «La invitación a quedarse, limítala a las dos amigas que Eva tenía en mente; para invitar también a los acompañantes, enséñale primero la lista y pregúntale. Su sí no abarcaba a esas otras personas».",
+    "cloze": "limítala",
+    "answer": "limítala",
+    "lemma": "limitar",
+    "meaning": "limit it",
+    "audio": "work/audio/es-MX/06/es-06-0743.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0744",
+    "sentence": "La clienta dijo «No quiero volver a tratar con quien me contestó ayer». La recepcionista cree que la rechaza a ella y retira su oferta de ayudar. Yo atendí ayer desde esa misma cuenta. Le digo a la recepcionista: «Reoriente la conversación hacia quién puede atenderla sin que intervenga yo; ella rechazó a quien le respondió ayer, y usted puede decidir si mantiene su ayuda sabiendo que no era usted».",
+    "cloze": "Reoriente",
+    "answer": "Reoriente",
+    "lemma": "reorientar",
+    "meaning": "redirect",
+    "audio": "work/audio/es-MX/06/es-06-0744.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0745",
+    "sentence": "Nora ofrece cambiar de día su ensayo si «quien abre el salón» puede ir. Luis entiende que Nora ya acepta el martes, porque él abre y ese día puede. Nora creía que abría Marta, que solo va los jueves. Les digo: «Nora, quien abre es Luis. ¿Te bastaría con que él abriera el martes o necesitas que esté Marta por otra razón? Antes de fijar el día necesitamos entender qué condición querías poner».",
+    "cloze": "Te bastaría",
+    "answer": "Te bastaría",
+    "lemma": "bastar",
+    "meaning": "would it be enough for you",
+    "audio": "work/audio/es-MX/06/es-06-0745.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0746",
+    "sentence": "Una participante me pide recibir las indicaciones por escrito sin que se revele su nombre. El organizador cree que ella solo acompaña a otra persona y ofrece enviárselas a quien hará el taller. Ella responde: «El mensaje es que yo necesito recibirlas, porque yo haré el taller. Quiero que se lo traslade como una petición de envío directo, sin dar mi nombre; falta su respuesta con eso claro».",
+    "cloze": "se lo traslade",
+    "answer": "se lo traslade",
+    "lemma": "trasladar",
+    "meaning": "you convey it to him",
+    "audio": "work/audio/es-MX/06/es-06-0746.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0747",
+    "sentence": "La librera escribió a la cuenta de mi papá: «Te guardo un lugar para el taller». Mi hermana usa también esa cuenta y contestó que sí, creyendo que la invitaban a ella. La librera me dice que pensaba en mi papá. Le digo a mi hermana: «Si quieres ir tú, pregúntaselo como un cambio de participante; tu respuesta no demuestra que la librera haya reservado un lugar a tu nombre».",
+    "cloze": "pregúntaselo",
+    "answer": "pregúntaselo",
+    "lemma": "preguntar",
+    "meaning": "ask her about it",
+    "audio": "work/audio/es-MX/06/es-06-0747.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0748",
+    "sentence": "Alicia propone que «los que exponen» recojan las mesas y Bruno acepta preparar solo el sonido. Yo sé que a Bruno también lo incluyeron entre quienes exponen, pero ninguno ha visto esa lista. Se la muestro y les digo: «Vuelvan a decidir el reparto sabiendo que la propuesta de Alicia también incluiría a Bruno entre quienes recogen; su sí al sonido no confirma que también vaya a recoger mesas».",
+    "cloze": "Vuelvan a decidir",
+    "answer": "Vuelvan a decidir",
+    "lemma": "volver a decidir",
+    "meaning": "decide again",
+    "audio": "work/audio/es-MX/06/es-06-0748.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0749",
+    "sentence": "El chofer ofrece esperar al grupo al terminar «la visita». La guía acepta pensando en el recorrido completo; él solo conoce la primera parada, que también se anuncia como visita. Yo tengo el programa entero. Antes de prometerles transporte a los demás, necesitamos que nos confirmen los dos si la espera incluye la segunda parada; el sí intercambiado no fijó un mismo final.",
+    "cloze": "nos confirmen",
+    "answer": "nos confirmen",
+    "lemma": "confirmar",
+    "meaning": "they confirm for us",
+    "audio": "work/audio/es-MX/06/es-06-0749.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0750",
+    "sentence": "Mamá ofreció prestar la máquina a la vecina que borda. Yo le dije a mi hermano que era un préstamo a su socia, pues sé que es esa vecina. Mamá desconoce esa relación; él entendió que podían llevarla al negocio y va a avisarle a su socia. Le digo: «Ese recado mío, rectifícalo al hablar con ella: mamá no ofreció la máquina para el negocio. Para ese uso necesitamos una respuesta a esa petición concreta».",
+    "cloze": "rectifícalo",
+    "answer": "rectifícalo",
+    "lemma": "rectificar",
+    "meaning": "correct it",
+    "audio": "work/audio/es-MX/06/es-06-0750.mp3",
+    "accepted_answers": []
   }
 ]
