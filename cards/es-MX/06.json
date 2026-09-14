@@ -6306,5 +6306,255 @@
     "meaning": "qualified",
     "audio": "work/audio/es-MX/06/es-06-0625.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0626",
+    "sentence": "La tienda anuncia «Cambios sin vueltas». La empleada me explica que debo ir a otra sucursal y volver mañana; ella no hizo el anuncio. Le contesto: «Sí, cómo no: “sin vueltas”. Mi queja es por lo que anuncia la tienda; entiendo que usted solo me está explicando el procedimiento».",
+    "cloze": "Sí, cómo no",
+    "answer": "Sí, cómo no",
+    "lemma": "sí, cómo no",
+    "meaning": "yeah, right",
+    "audio": "work/audio/es-MX/06/es-06-0626.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0627",
+    "sentence": "Papá dijo que mi amiga «solo iba a estorbar» en la cocina. Entre ella y yo dejamos lista toda la comida. Le digo a mi amiga: «¡Cómo estorbamos! Sin nosotras todavía faltarían los guisados». Estoy retomando el juicio de papá para rechazarlo, incluyéndome con ella; no la estoy llamando inútil.",
+    "cloze": "estorbamos",
+    "answer": "estorbamos",
+    "lemma": "estorbar",
+    "meaning": "we get in the way (ironically)",
+    "audio": "work/audio/es-MX/06/es-06-0627.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0628",
+    "sentence": "El folleto del curso ofrece «Cada quien a su ritmo y con apoyo individual». La tutora sí me ayudó, pero cerraron el ejercicio antes de que terminara. Comenté: «“A mi ritmo”, claro; el apoyo individual sí lo recibí». Mi compañero creyó que toda mi respuesta era irónica. La crítica va contra el plazo; no la hago extensiva a la ayuda de la tutora, que estoy reconociendo de verdad.",
+    "cloze": "la hago extensiva",
+    "answer": "la hago extensiva",
+    "lemma": "hacer extensivo",
+    "meaning": "I extend it",
+    "audio": "work/audio/es-MX/06/es-06-0628.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0629",
+    "sentence": "—Ayer presumí de «organización impecable»; hoy olvidé traer los platos a la comida de mi mamá. Tú dijiste «impecable», y ella pensó que criticabas su mesa. —Estaba retomando tu frase. —Entonces me la devuelves a mí por mi olvido; voy a aclararle que su mesa no era lo que estabas evaluando.",
+    "cloze": "me la devuelves",
+    "answer": "me la devuelves",
+    "lemma": "devolver",
+    "meaning": "you turn it back on me",
+    "audio": "work/audio/es-MX/06/es-06-0629.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0630",
+    "sentence": "La administradora escribió «Aquí escuchamos todas las propuestas» y cerró los comentarios. Rosa respondió: «Todas, claro, mientras no se puedan enviar». Elena me reenvió ese intercambio para preguntarme qué había pasado. No le endoses a Elena la crítica irónica de Rosa: el reenvío conserva quién respondió y no dice si Elena está de acuerdo.",
+    "cloze": "le endoses",
+    "answer": "le endoses",
+    "lemma": "endosar",
+    "meaning": "attribute to her",
+    "audio": "work/audio/es-MX/06/es-06-0630.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0631",
+    "sentence": "El anuncio del hostal decía «Descanso garantizado». En mi reseña escribí: «“Descanso garantizado”: si uno logra dormir entre los ensayos del salón de abajo». El dueño quiere usar solo esas dos palabras como recomendación mía. Eso presentaría la promesa del anuncio como si la suscribiera, cuando mi continuación cuestiona precisamente esa garantía.",
+    "cloze": "la suscribiera",
+    "answer": "la suscribiera",
+    "lemma": "suscribir",
+    "meaning": "I endorsed it",
+    "audio": "work/audio/es-MX/06/es-06-0631.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0632",
+    "sentence": "Luis dijo: «Este camión suele pasar a tiempo». Hoy llegó tarde y yo comenté: «La puntualidad que nos prometió Luis». Tú señalas que él nunca prometió que fuera puntual siempre. Tienes razón: mi ironía lo presenta como si hubiera garantizado cada llegada; puedo quejarme del retraso sin convertir su observación habitual en esa promesa.",
+    "cloze": "hubiera garantizado",
+    "answer": "hubiera garantizado",
+    "lemma": "garantizar",
+    "meaning": "had guaranteed",
+    "audio": "work/audio/es-MX/06/es-06-0632.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0633",
+    "sentence": "La encargada dijo: «Si llegan hoy las mesas, mañana abrimos el taller». No llegaron, y Pablo comentó ante la recepcionista: «Mañana abrimos, qué seguridad». Su ironía borra aquello a lo que la encargada había condicionado la apertura. La recepcionista no anunció una fecha nueva; pedirle que responda por una apertura incondicional cambia lo que se dijo.",
+    "cloze": "había condicionado",
+    "answer": "había condicionado",
+    "lemma": "condicionar",
+    "meaning": "had made conditional",
+    "audio": "work/audio/es-MX/06/es-06-0633.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0634",
+    "sentence": "—Cuando señalaste la gotera, mi hermano dijo que eran «exageraciones tuyas». Ahora cayó agua sobre la mesa y yo repetí: «Más exageraciones tuyas; hasta mojaron el mantel». —Pensé que también te estabas burlando de mí. —Estoy defendiéndote frente a lo que dijo él: el agua contradice su manera de descartar tu aviso.",
+    "cloze": "defendiéndote",
+    "answer": "defendiéndote",
+    "lemma": "defender",
+    "meaning": "defending you",
+    "audio": "work/audio/es-MX/06/es-06-0634.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0635",
+    "sentence": "Yo había dicho que el instructivo «no tenía pierde». Tú, que nunca lo habías visto, me ayudaste cuando armé el cajón al revés. Repetí «no tiene pierde» mirando mi error. Si pareció un juicio sobre tu ayuda, lo aclaro: me desmentía a mí mismo, porque yo era quien había asegurado que las instrucciones eran clarísimas.",
+    "cloze": "me desmentía",
+    "answer": "me desmentía",
+    "lemma": "desmentirse",
+    "meaning": "I was contradicting myself",
+    "audio": "work/audio/es-MX/06/es-06-0635.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0636",
+    "sentence": "El gerente presentó el horario obligatorio del domingo con la frase «Somos una gran familia». Al salir, varios empleados repetimos: «Una gran familia, pero sin poder comer con la nuestra». No nos metan entre quienes defienden ese lema por haberlo repetido: retomamos las palabras del gerente para cuestionar cómo justificó el horario.",
+    "cloze": "nos metan",
+    "answer": "nos metan",
+    "lemma": "meter",
+    "meaning": "include us",
+    "audio": "work/audio/es-MX/06/es-06-0636.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0637",
+    "sentence": "El lunes el dueño del taller prometió: «Mañana queda lista la bicicleta». El miércoles seguía sin estar lista y yo repetí: «“Mañana”, claro». Tú entendiste que podría recogerla el jueves. Con ese eco no reprogramaba la entrega: cuestionaba el plazo del dueño, que había vencido el martes. No tengo una fecha nueva para darte.",
+    "cloze": "reprogramaba",
+    "answer": "reprogramaba",
+    "lemma": "reprogramar",
+    "meaning": "I was rescheduling",
+    "audio": "work/audio/es-MX/06/es-06-0637.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0638",
+    "sentence": "Óscar abrió la comida diciendo «Hay que dejar hablar a los demás». Luego interrumpió tres veces a mi hermana. Cuando por fin ella terminó, le comenté: «“Dejar hablar a los demás”: mira quién habla». Retomo la regla de Óscar para señalar su propia conducta; no le estoy reclamando a mi hermana que haya usado su turno.",
+    "cloze": "mira quién habla",
+    "answer": "mira quién habla",
+    "lemma": "mira quién habla",
+    "meaning": "look who's talking",
+    "audio": "work/audio/es-MX/06/es-06-0638.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0639",
+    "sentence": "El anuncio decía «Entrega inmediata»; el paquete tardó una semana. Eva escribió: «“Inmediata”: tuve tiempo de volver a pedirlo». Tú dices que con eso quiso humillar al repartidor. Su comentario cuestiona la rapidez anunciada, pero no demuestra que se burlara de él: no lo menciona ni sabemos qué trato tuvieron.",
+    "cloze": "se burlara",
+    "answer": "se burlara",
+    "lemma": "burlarse",
+    "meaning": "was mocking",
+    "audio": "work/audio/es-MX/06/es-06-0639.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0640",
+    "sentence": "Cuando organizábamos las salidas, Ana y yo presumíamos: «Nunca dejamos a nadie esperando». Ayer olvidamos avisarle a Diego un cambio de lugar y después repetimos: «Nunca dejamos a nadie esperando; salvo a quien olvidamos avisar». No lo cuentes como una nueva defensa de nuestra frase: con esa repetición nos desdecíamos de lo que antes presumíamos.",
+    "cloze": "nos desdecíamos",
+    "answer": "nos desdecíamos",
+    "lemma": "desdecirse",
+    "meaning": "we were taking back what we had said",
+    "audio": "work/audio/es-MX/06/es-06-0640.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0641",
+    "sentence": "Mi papá dijo «Te sobra tiempo» cuando rechacé otro encargo. Le enseñé mi lista de pendientes y pregunté: «¿Dónde está ese tiempo que me sobra?». Tú empezaste a buscar huecos para acomodar el encargo. No te pedía que me lo encontraras: mi pregunta retomaba la afirmación de papá para rechazarla, no para buscarle un lugar a otra tarea.",
+    "cloze": "me lo encontraras",
+    "answer": "me lo encontraras",
+    "lemma": "encontrar",
+    "meaning": "you find it for me",
+    "audio": "work/audio/es-MX/06/es-06-0641.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0642",
+    "sentence": "El encargado había dicho del club: «Aquí nunca falla nada». Cuando se perdió una reservación, respondimos: «“Nunca falla nada”; por eso estamos buscando una mesa que ya habíamos apartado». No lo resumas como si negáramos todos los aciertos del club: nuestro eco cuestiona el «nunca» del encargado, no afirma que todo el servicio sea malo.",
+    "cloze": "negáramos",
+    "answer": "negáramos",
+    "lemma": "negar",
+    "meaning": "we were denying",
+    "audio": "work/audio/es-MX/06/es-06-0642.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0643",
+    "sentence": "Antes de cenar, mi hermano dijo: «Van a sufrir con mi primer intento de sopa». Todos pedimos otra porción. Le contesto: «¡Cómo estamos sufriendo con tu sopa! Ya estamos peleando por la última cucharada». Repito su pronóstico para rechazarlo y agradecerle la cena; no lo uses como una queja mía sobre su comida.",
+    "cloze": "sufriendo",
+    "answer": "sufriendo",
+    "lemma": "sufrir",
+    "meaning": "suffering, used ironically",
+    "audio": "work/audio/es-MX/06/es-06-0643.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0644",
+    "sentence": "Ayer presumiste: «Yo decido todo y ustedes descansan». Hoy nos pediste ayuda con cada detalle de la salida. Cuando repetí «Tú decides todo», sacaste la lista para volver a elegir sin nosotros. No estoy delegándote las decisiones: retomo tu frase para cuestionar el reparto que ofreciste, y propongo que ahora sí decidamos juntos.",
+    "cloze": "delegándote",
+    "answer": "delegándote",
+    "lemma": "delegar",
+    "meaning": "delegating to you",
+    "audio": "work/audio/es-MX/06/es-06-0644.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0645",
+    "sentence": "La encargada anunció «Todos caben en el patio», pero después midió el espacio, reconoció su error y dividió el grupo. Al ver las dos sesiones, Tomás repitió: «“Todos caben”: eso asegura la encargada». Esa ironía recupera la afirmación inicial como si ella todavía la sostuviera; omite que las dos sesiones son precisamente su corrección.",
+    "cloze": "sostuviera",
+    "answer": "sostuviera",
+    "lemma": "sostener",
+    "meaning": "maintained",
+    "audio": "work/audio/es-MX/06/es-06-0645.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0646",
+    "sentence": "El organizador publicó «Participación de todos», aunque rechazó mi solicitud de intervenir. Respondí: «“De todos”: yo debía de ser la excepción». Tú añadiste mi nombre a la lista de participantes para arreglarlo. Mi respuesta no pedía que me incluyeras en un registro falso; cuestionaba el «todos» de su anuncio porque no me dejaron participar.",
+    "cloze": "me incluyeras",
+    "answer": "me incluyeras",
+    "lemma": "incluir",
+    "meaning": "include me",
+    "audio": "work/audio/es-MX/06/es-06-0646.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0647",
+    "sentence": "La guía leyó el anuncio de la agencia: «Dicen “sin prisas”, aunque nos dan diez minutos por sala». Yo respondí: «“Sin prisas”: ya vamos corriendo para alcanzar al grupo». Mi amigo cree que con eso desmentí a la guía. Ella ya se distanciaba de la promesa al señalar el horario; mi eco coincide con su objeción y cuestiona a la agencia.",
+    "cloze": "se distanciaba",
+    "answer": "se distanciaba",
+    "lemma": "distanciarse",
+    "meaning": "was distancing herself",
+    "audio": "work/audio/es-MX/06/es-06-0647.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0648",
+    "sentence": "El bibliotecario anunció «Ahora sí hay silencio». Con la obra de al lado, yo repetí esa frase para cuestionarla. Hoy la obra terminó y Ana dice «Ahora sí hay silencio». Le pregunto si también está siendo irónica. Contesta: «Esta vez la reafirmo: llevo una hora leyendo sin ruido». Mi crítica de ayer no convierte su evaluación de hoy en otra burla.",
+    "cloze": "la reafirmo",
+    "answer": "la reafirmo",
+    "lemma": "reafirmar",
+    "meaning": "I reaffirm it",
+    "audio": "work/audio/es-MX/06/es-06-0648.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0649",
+    "sentence": "El cartel del taller prometía «Cero complicaciones». Al fallar la inscripción, le dije al joven de recepción: «Sus “cero complicaciones” ya me costaron dos visitas». Él explicó que ni redactó el cartel ni decidió el trámite. Tiene razón: personalicé una crítica al anuncio al tratar la promesa como suya. Retiro ese señalamiento hacia él y mantengo la queja sobre lo anunciado.",
+    "cloze": "personalicé",
+    "answer": "personalicé",
+    "lemma": "personalizar",
+    "meaning": "I made personal",
+    "audio": "work/audio/es-MX/06/es-06-0649.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0650",
+    "sentence": "Yo pedí «Fotos sin poses» y el fotógrafo respondió «Fotos sin poses, garantizado». Después nos acomodó durante media hora. Tú comentaste «Sin poses, claro», y ahora dices que los dos habíamos prometido lo mismo. No me equipares con él por esas palabras: yo había expresado lo que quería; fue él quien aseguró que lo haría. Tu eco puede cuestionar su garantía, pero no una garantía mía.",
+    "cloze": "me equipares",
+    "answer": "me equipares",
+    "lemma": "equiparar",
+    "meaning": "put me on the same footing",
+    "audio": "work/audio/es-MX/06/es-06-0650.mp3",
+    "accepted_answers": []
   }
 ]
