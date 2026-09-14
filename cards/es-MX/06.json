@@ -5802,5 +5802,259 @@
     "meaning": "was pointing to you",
     "audio": "work/audio/es-MX/06/es-06-0575.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0576",
+    "sentence": "Clara me ofreció explicar su dibujo a mi hija, pero ya no puede venir. Le respondo: «Yo lo haré con el mío; el público seguirá siendo mi hija».",
+    "cloze": "lo haré",
+    "answer": "lo haré",
+    "lemma": "hacer",
+    "meaning": "I will do so",
+    "audio": "work/audio/es-MX/06/es-06-0576.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0577",
+    "sentence": "Eva le pidió a su hermano que llevara sus cajas a mi casa y después regresara por las de él. Ahora Eva prefiere dejar las suyas donde están, pero yo necesito trasladar las mías. Voy a pedírselo con ese cambio en la carga del primer viaje; el regreso por las cajas de su hermano sigue pendiente.",
+    "cloze": "pedírselo",
+    "answer": "pedírselo",
+    "lemma": "pedir",
+    "meaning": "ask him to do that",
+    "audio": "work/audio/es-MX/06/es-06-0577.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0578",
+    "sentence": "Mara propuso que cada expositor explicara su esquema con un ejemplo de su propia experiencia. Todavía no tengo esquema y ella me presta el suyo. Acepto presentar el de ella con un ejemplo mío; que cambie la persona que explica no convierte el esquema en una creación mía.",
+    "cloze": "el de ella",
+    "answer": "el de ella",
+    "lemma": "el de ella",
+    "meaning": "hers",
+    "audio": "work/audio/es-MX/06/es-06-0578.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0579",
+    "sentence": "Raúl propuso que lleváramos las sillas desde su casa al patio de Elena y luego cada quien regresara a la suya. Las sillas están en mi casa, así que acepto hacerlo saliendo de aquí; el patio sigue siendo el destino y cada quien volverá después a donde vive.",
+    "cloze": "hacerlo",
+    "answer": "hacerlo",
+    "lemma": "hacer",
+    "meaning": "do so",
+    "audio": "work/audio/es-MX/06/es-06-0579.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0580",
+    "sentence": "Julia revisó su cuento con mi lista de preguntas y cree que su cuento ya responde a todas. Yo todavía no lo creo del mío: usé esa misma lista, pero sigo sin poder explicar el final.",
+    "cloze": "lo creo",
+    "answer": "lo creo",
+    "lemma": "creer",
+    "meaning": "I believe that",
+    "audio": "work/audio/es-MX/06/es-06-0580.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0581",
+    "sentence": "Paula me autorizó a usar una foto suya en mi boletín, con la condición de que ella eligiera cuál. Ahora me pide publicar una foto mía en ese mismo boletín. Se lo permitiría si la elección siguiera correspondiendo a quien aporta la foto; en este caso, a mí.",
+    "cloze": "Se lo permitiría",
+    "answer": "Se lo permitiría",
+    "lemma": "permitir",
+    "meaning": "I would allow her to do that",
+    "audio": "work/audio/es-MX/06/es-06-0581.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0582",
+    "sentence": "En su álbum, Luisa cambió los nombres de sus familiares y conservó el mío con mi permiso. Tú estás preparando tu propio álbum. Quiero que lo hagas con los nombres de tu familia, conservando también el mío; mi permiso no autoriza a publicar los nombres reales de tus parientes.",
+    "cloze": "lo hagas",
+    "answer": "lo hagas",
+    "lemma": "hacer",
+    "meaning": "you do so",
+    "audio": "work/audio/es-MX/06/es-06-0582.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0583",
+    "sentence": "Rosa, que coordina el equipo de la mañana, propuso: «Nosotros revisamos nuestra parte y ustedes, la suya; después juntamos todo». Después me cambiaron del equipo de la tarde al de Rosa. Le aclaro a mi nuevo equipo: «Ahora me toca revisarla con ustedes; la parte del equipo de la tarde sigue a cargo de quienes están allá».",
+    "cloze": "revisarla",
+    "answer": "revisarla",
+    "lemma": "revisar",
+    "meaning": "review it",
+    "audio": "work/audio/es-MX/06/es-06-0583.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0584",
+    "sentence": "Cuando vivíamos con mamá, mi hermano prometió acompañarla desde nuestra casa hasta el taller. Ahora yo vivo aparte. Él me pide cubrirlo y pregunta si recogeré a mamá en mi departamento. Le aclaro que lo haría desde la casa donde él sigue viviendo con ella.",
+    "cloze": "lo haría",
+    "answer": "lo haría",
+    "lemma": "hacer",
+    "meaning": "I would do so",
+    "audio": "work/audio/es-MX/06/es-06-0584.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0585",
+    "sentence": "En el ensayo, Ana creyó que todos podían oírla porque ella oía a la directora. Yo, desde el fondo, no podía oír a Ana. Si hubiera ocupado su lugar, quizá lo habría creído al oír a la directora desde ahí. Eso explicaría mi impresión, sin demostrar que mi voz llegara hasta el fondo.",
+    "cloze": "lo habría creído",
+    "answer": "lo habría creído",
+    "lemma": "creer",
+    "meaning": "I would have believed that",
+    "audio": "work/audio/es-MX/06/es-06-0585.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0586",
+    "sentence": "Beto cree que es un buen guía para mi hija: conoce bien su recorrido y le da tiempo de preguntar. Yo conozco bien mi recorrido y puedo darle tiempo de preguntar, aunque no conozco el de Beto. Con ese criterio, lo sería para ella; falta saber cómo se sentiría mi hija conmigo.",
+    "cloze": "lo sería",
+    "answer": "lo sería",
+    "lemma": "ser",
+    "meaning": "I would be",
+    "audio": "work/audio/es-MX/06/es-06-0586.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0587",
+    "sentence": "Teresa quería que yo ensayara mi canción en su casa, con ella al piano. Le propuse intentarlo al revés: ella cantaría su canción y yo la acompañaría al piano, en su casa.",
+    "cloze": "intentarlo",
+    "answer": "intentarlo",
+    "lemma": "intentar",
+    "meaning": "try it",
+    "audio": "work/audio/es-MX/06/es-06-0587.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0588",
+    "sentence": "Sergio me escribió: «Ya sé que cancelaron mi clase; te mando el aviso completo». El aviso también cancela la mía. Le pregunto: «¿Lo sabías de la mía cuando me lo mandaste, o acabas de verlo ahora?». El texto dice qué clases se cancelaron, pero no qué parte había leído Sergio.",
+    "cloze": "Lo sabías",
+    "answer": "Lo sabías",
+    "lemma": "saber",
+    "meaning": "did you know that",
+    "audio": "work/audio/es-MX/06/es-06-0588.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0589",
+    "sentence": "Inés le dijo a nuestra editora: «No quiero que cambies mi final». Yo tengo la misma reserva sobre el mío y hablaré con esa editora. Puedo decírselo como una petición mía, referida a mi cuento; si lo presento como una cita de Inés, seguiré hablando del final de ella.",
+    "cloze": "decírselo",
+    "answer": "decírselo",
+    "lemma": "decir",
+    "meaning": "say it to her",
+    "audio": "work/audio/es-MX/06/es-06-0589.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0590",
+    "sentence": "Nico me pidió: «Enséñame tu juego como si nunca hubiera jugado nada parecido». Ya entendió el mío y ahora me enseña el que inventó él. Le pido que me lo explique con esa misma paciencia: yo conozco mi juego, pero del suyo todavía no sé las reglas.",
+    "cloze": "me lo explique",
+    "answer": "me lo explique",
+    "lemma": "explicar",
+    "meaning": "explain it to me",
+    "audio": "work/audio/es-MX/06/es-06-0590.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0591",
+    "sentence": "Silvia lleva años estudiando piano conmigo y ahora me da clases de canto. Al presentar el taller, dice: «Ahora yo soy su maestra». Yo sigo siéndolo para ella en piano; en canto, ella me enseña a mí.",
+    "cloze": "sigo siéndolo",
+    "answer": "sigo siéndolo",
+    "lemma": "seguir siendo",
+    "meaning": "I am still her teacher",
+    "audio": "work/audio/es-MX/06/es-06-0591.mp3",
+    "accepted_answers": [
+      "lo sigo siendo"
+    ]
+  },
+  {
+    "id": "es-06-0592",
+    "sentence": "El lunes, Alma me escribió: «Mañana revisaré mi parte contigo». Yo aún no terminaba la mía. Le respondí que la revisaría con ella el miércoles; la suya seguía prevista para el martes. El miércoles, al contar el intercambio, hay que conservar las dos fechas.",
+    "cloze": "la revisaría",
+    "answer": "la revisaría",
+    "lemma": "revisar",
+    "meaning": "I would review it",
+    "audio": "work/audio/es-MX/06/es-06-0592.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0593",
+    "sentence": "Rafa cree que su hija no quiere pasar las vacaciones con nuestra mamá. La mía me pidió pasar ese tiempo con ella. No lo diría de mi hija: las dos irían con la misma abuela, pero solo conozco lo que la mía me ha pedido.",
+    "cloze": "lo diría",
+    "answer": "lo diría",
+    "lemma": "decir",
+    "meaning": "I would say that",
+    "audio": "work/audio/es-MX/06/es-06-0593.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0594",
+    "sentence": "Elena me propuso: «Cada quien corrige su traducción y después comparamos las dos con mi maestra». Acepté, pero después Elena prefirió dejar la suya sin corregir hasta escuchar a la maestra. No voy a exigírselo a ella: llevaré la mía corregida y compararemos las dos con su maestra.",
+    "cloze": "exigírselo",
+    "answer": "exigírselo",
+    "lemma": "exigir",
+    "meaning": "require her to do that",
+    "audio": "work/audio/es-MX/06/es-06-0594.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0595",
+    "sentence": "Mi hermana prepara una sorpresa para mamá y mamá, otra para ella; ninguna conoce el plan de la otra. Mi hermana me pidió: «No le cuentes a mamá lo que estoy preparando para ella». Mamá me dice: «No le cuentes a tu hermana lo que estoy preparando para ella». Puedo prometérselo a las dos sin revelar ninguno de los planes.",
+    "cloze": "prometérselo",
+    "answer": "prometérselo",
+    "lemma": "prometer",
+    "meaning": "promise them that",
+    "audio": "work/audio/es-MX/06/es-06-0595.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0596",
+    "sentence": "Diana, desde su oficina, me pidió: «Tráeme tus notas cuando vengas a recoger las mías». Yo ya estaba en camino sin mis notas. Le contesté: «Mañana te las llevo; hoy solo recojo las tuyas». Ella sí me entregó sus notas ese día.",
+    "cloze": "te las llevo",
+    "answer": "te las llevo",
+    "lemma": "llevar",
+    "meaning": "I will bring them to you",
+    "audio": "work/audio/es-MX/06/es-06-0596.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0597",
+    "sentence": "Elena se arrepiente de haber cambiado su receta para complacer a mi familia. Vamos a llevar un plato cada una a otra comida con ellos. Yo quiero evitarlo con la mía: conservaré lo que me gusta de mi receta, aunque a mi familia le guste más de otra manera.",
+    "cloze": "evitarlo",
+    "answer": "evitarlo",
+    "lemma": "evitar",
+    "meaning": "avoid doing that",
+    "audio": "work/audio/es-MX/06/es-06-0597.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0598",
+    "sentence": "Iván me preguntó si yo podía leer su cuento en mi clase y le respondí que sí. Yo quería que él leyera el mío en esa misma clase, pero su pregunta no me decía si estaba disponible. No sé si él podría hacerlo con mi cuento; todavía tengo que preguntarle.",
+    "cloze": "podría hacerlo",
+    "answer": "podría hacerlo",
+    "lemma": "poder hacer",
+    "meaning": "he could do so",
+    "audio": "work/audio/es-MX/06/es-06-0598.mp3",
+    "accepted_answers": [
+      "lo podría hacer"
+    ]
+  },
+  {
+    "id": "es-06-0599",
+    "sentence": "Mi hermano dijo: «Si tú trabajas el sábado, llevo a tu hija al ensayo de mi coro». Yo le ofrecí llevar a la suya al mismo ensayo si él trabajaba. Aceptó mi oferta. Él me lo reclamaría si le tocara trabajar y yo no cumpliera; que me tocara a mí activaría su oferta, no la mía.",
+    "cloze": "me lo reclamaría",
+    "answer": "me lo reclamaría",
+    "lemma": "reclamar",
+    "meaning": "he would hold me to it",
+    "audio": "work/audio/es-MX/06/es-06-0599.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0600",
+    "sentence": "La maestra pidió que mi equipo explicara nuestro proyecto al de Rosa. Rosa propuso que presentáramos juntos ambos proyectos ante la maestra. Aceptamos y nos lo repartimos así: explicaremos entre todos cómo se relacionan los proyectos, pero cada equipo responderá por su propio trabajo.",
+    "cloze": "nos lo repartimos",
+    "answer": "nos lo repartimos",
+    "lemma": "repartirse",
+    "meaning": "we divided the task among ourselves",
+    "audio": "work/audio/es-MX/06/es-06-0600.mp3",
+    "accepted_answers": []
   }
 ]
