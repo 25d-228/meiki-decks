@@ -10576,5 +10576,255 @@
     "meaning": "let us connect",
     "audio": "work/audio/es-MX/06/es-06-1050.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-1051",
+    "sentence": "En el cuento familiar, papá piensa: «Sin mí no hacen nada». La narración muestra a su hija reparando sola la mesa mientras él busca un martillo. Tú lees un homenaje al padre porque le preocupa la casa; yo veo que la escena le disputa el papel de único sostén que él se atribuye. Su preocupación puede ser sincera sin que el cuento confirme que es indispensable.",
+    "cloze": "le disputa",
+    "answer": "le disputa",
+    "lemma": "disputar",
+    "meaning": "challenges his claim to",
+    "audio": "work/audio/es-MX/06/es-06-1051.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1052",
+    "sentence": "En el relato del café, la mesera piensa: «Me gusta recibir a los clientes». Al cerrar, se sienta porque le duelen los pies. Tú dices que el cansancio demuestra que su alegría era falsa; tu hermana cree que esa alegría vuelve admirable cualquier jornada. No acepto que el dolor desautorice su gusto por atender: podemos reconocer ese gusto y cuestionar el costo del trabajo que la narración también muestra.",
+    "cloze": "desautorice",
+    "answer": "desautorice",
+    "lemma": "desautorizar",
+    "meaning": "invalidate",
+    "audio": "work/audio/es-MX/06/es-06-1052.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1053",
+    "sentence": "El narrador de nuestro cuento explica: «Le mentí a mi hermana para cuidarla». Ella responde: «Me quitaste la posibilidad de decidir». El relato termina con él llorando. En el club, tú ves una invitación a comprenderlo y otra lectora ve una justificación de la mentira. Que el final despierte compasión no exige que el lector lo absuelva: el reclamo de la hermana sigue sin respuesta.",
+    "cloze": "lo absuelva",
+    "answer": "lo absuelva",
+    "lemma": "absolver",
+    "meaning": "absolve him",
+    "audio": "work/audio/es-MX/06/es-06-1053.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1054",
+    "sentence": "Leemos este microcuento: «Ana seguía esperando a su hermano. Mañana vuelve, pensó. No llegó ninguna carta. Junto a la puerta brotó la semilla que habían plantado juntos». Tú tomas el brote como garantía del regreso; yo lo leo como una imagen que sustenta una lectura esperanzada de la espera de Ana, aunque la falta de noticias siga pesando. Eso permite defender un cierre esperanzado sin anunciar una reunión que el cuento no cuenta.",
+    "cloze": "sustenta",
+    "answer": "sustenta",
+    "lemma": "sustentar",
+    "meaning": "supports",
+    "audio": "work/audio/es-MX/06/es-06-1054.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1055",
+    "sentence": "En el relato del álbum, el narrador cuenta que siguió viviendo en la casa y afirma: «Mi hermana se olvidó de nosotros». Más adelante admite que guardó sin abrir las cartas de ella. Usted lee su permanencia en la casa como prueba de lealtad y acepta su juicio sobre la hermana. Yo diría que esa admisión desestabiliza su autoridad para juzgar el abandono: quedarse sigue siendo un hecho del relato, pero ya no basta para presentar a la ausente como indiferente.",
+    "cloze": "desestabiliza",
+    "answer": "desestabiliza",
+    "lemma": "desestabilizar",
+    "meaning": "unsettles",
+    "audio": "work/audio/es-MX/06/es-06-1055.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1056",
+    "sentence": "En el cuento, Vera rechaza un viaje porque quiere quedarse a cuidar su jardín. La última frase del narrador dice: «Al fin entendió dónde debía estar». Tú celebras que el relato defienda una elección libre. A esa lectura le objetaría el cierre: la decisión de Vera responde a un deseo suyo, pero la voz que la cuenta presenta quedarse como un deber. Podemos discutir esa diferencia sin atribuirle una intención a quien escribió el cuento.",
+    "cloze": "objetaría",
+    "answer": "objetaría",
+    "lemma": "objetar",
+    "meaning": "I would raise as an objection",
+    "audio": "work/audio/es-MX/06/es-06-1056.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1057",
+    "sentence": "En la muestra del barrio leemos un recuerdo ficticio: «Me pareció que se reían de mi acento; me dio vergüenza, pero desde la puerta no alcancé a oír sus palabras». Un visitante dice que esa duda vuelve inútil todo el relato; otra lo toma como prueba de una burla. Para mí, reconocer ese límite rehabilita el pasaje como relato de una vergüenza vivida, aunque siga sin probar qué decían los demás.",
+    "cloze": "rehabilita",
+    "answer": "rehabilita",
+    "lemma": "rehabilitar",
+    "meaning": "restores credibility to",
+    "audio": "work/audio/es-MX/06/es-06-1057.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1058",
+    "sentence": "En el cuento de la mudanza, el niño piensa con tristeza al salir: «Dejamos una casa vacía». La narradora termina: «Llevaban una casa por llenar». Mi hermana dice que el cierre corrige la tristeza del niño; yo creo que las dos imágenes dialogan sin que una cancele la otra: lo perdido da sentido a lo que podrán construir. Leer una posibilidad de futuro no obliga a juzgar equivocada la experiencia de la despedida.",
+    "cloze": "dialogan",
+    "answer": "dialogan",
+    "lemma": "dialogar",
+    "meaning": "engage with each other",
+    "audio": "work/audio/es-MX/06/es-06-1058.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1059",
+    "sentence": "En el relato de la visita, una abuela cuenta al nieto una historia en la que nadie muere. El niño, cuyo abuelo murió, responde: «Me consuela oírla, aunque sigo extrañando al abuelo». En el club, alguien acusa al relato de negar la muerte; otra lectora dice que el niño rechaza la historia al recordar a su abuelo. Su respuesta desarma esa oposición entre consuelo y reconocimiento de la pérdida: el niño acepta lo que le ofrece la ficción de la abuela sin tomarla como explicación de su propia vida.",
+    "cloze": "desarma",
+    "answer": "desarma",
+    "lemma": "desarmar",
+    "meaning": "undermines",
+    "audio": "work/audio/es-MX/06/es-06-1059.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1060",
+    "sentence": "En el cuento que leemos en casa, la abuela repite: «Aquí nunca dejamos sola a nadie». Cuando su hija pide una tarde a solas, la familia se queda con ella de todos modos. Tú ves una defensa de la solidaridad; yo creo que la petición ignorada recorta el alcance de ese elogio: la compañía puede expresar cariño y, en esta escena, impedir que la hija decida. La frase de la abuela no resuelve esa tensión.",
+    "cloze": "recorta",
+    "answer": "recorta",
+    "lemma": "recortar",
+    "meaning": "narrows",
+    "audio": "work/audio/es-MX/06/es-06-1060.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1061",
+    "sentence": "En el relato del viaje, Joel piensa que su amiga no llegó porque ya no quiere verlo y se va dolido. El narrador cuenta después que ella perdió el autobús; Joel nunca se entera. Tú lo llamas cruel por no esperarla, como si hubiera conocido ese contratiempo. Yo rebatiría esa acusación desde lo que Joel sabía: su marcha puede dolernos por la oportunidad perdida sin que el relato la presente como desprecio consciente.",
+    "cloze": "rebatiría",
+    "answer": "rebatiría",
+    "lemma": "rebatir",
+    "meaning": "I would rebut",
+    "audio": "work/audio/es-MX/06/es-06-1061.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1062",
+    "sentence": "En el cuento, Inés vive sola y le pide a su madre que le devuelva la copia de la llave: por fin decidiría cuándo tener visitas. La madre se la entrega pensando que ahora tendría que pedir permiso para llegar. Tú llamas feliz al final y tu primo lo llama un rechazo. La segunda perspectiva complica la celebración de la independencia sin anularla: el mismo cambio abre una libertad y modifica una cercanía que la madre daba por hecha, sin que ese nuevo límite demuestre una ruptura.",
+    "cloze": "complica",
+    "answer": "complica",
+    "lemma": "complicar",
+    "meaning": "complicates",
+    "audio": "work/audio/es-MX/06/es-06-1062.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1063",
+    "sentence": "En el relato de la biblioteca, una niña agradece los libros que lleva un vecino. El narrador cuenta con detalle las dudas de él, pero de ella solo presenta ese agradecimiento. Tú dices que está contenta y por eso rechazas mi crítica de que ella casi no tiene voz. Aun si aceptamos tu lectura de su alegría, eso no deslegitima esa crítica: el agradecimiento pertenece al encuentro narrado; la diferencia de espacio para conocer a cada personaje pertenece a cómo nos lo cuentan.",
+    "cloze": "deslegitima",
+    "answer": "deslegitima",
+    "lemma": "deslegitimar",
+    "meaning": "discredits",
+    "audio": "work/audio/es-MX/06/es-06-1063.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1064",
+    "sentence": "El narrador del cuento se burla de un vecino que opina sobre cartas que no ha leído. Al final, él mismo condena una carta sin abrirla. Tú ves otra broma contra el vecino; yo creo que el cierre nos interpela como lectores que habíamos aceptado la superioridad del narrador. La repetición también alcanza a quien cuenta, aunque no sepamos si ese narrador reconoce su propia contradicción.",
+    "cloze": "nos interpela",
+    "answer": "nos interpela",
+    "lemma": "interpelar",
+    "meaning": "challenges us",
+    "audio": "work/audio/es-MX/06/es-06-1064.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1065",
+    "sentence": "En el cuento del patio, el padre llama inútil a su hijo. El muchacho termina pensando que quizá tenga razón, aunque la narración lo ha mostrado organizando con éxito el intercambio de herramientas. Tú lees una confirmación del juicio paterno porque el hijo lo acepta. Yo reivindicaría su capacidad a partir de esa acción: el relato permite discutir la etiqueta aunque el personaje todavía dude de sí mismo.",
+    "cloze": "reivindicaría",
+    "answer": "reivindicaría",
+    "lemma": "reivindicar",
+    "meaning": "I would defend",
+    "audio": "work/audio/es-MX/06/es-06-1065.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1066",
+    "sentence": "En el relato de la posada, el narrador llama «una travesurita» a esconder la maleta de una huésped. Ella pierde la salida del autobús y dice que ya no quiere quedarse. Tú encuentras ligero el cuento por esa palabra. No veo que el diminutivo atenúe lo ocurrido desde la perspectiva de ella: puede hacer cómica la voz del narrador y, al mismo tiempo, volver discutible su manera de tratar la queja.",
+    "cloze": "atenúe",
+    "answer": "atenúe",
+    "lemma": "atenuar",
+    "meaning": "lessen",
+    "audio": "work/audio/es-MX/06/es-06-1066.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1067",
+    "sentence": "El cuento deja oír al cliente: «Me molesta esperar», y al empleado: «Estoy atendiendo a otra persona». Después seguimos durante dos páginas los pensamientos del cliente; del empleado no sabemos más. Tú lo llamas neutral porque ambos hablan. Yo diría que la narración privilegia la experiencia de la espera sobre la del trabajo: podemos reconocer las dos intervenciones sin atribuirles el mismo peso en nuestra cercanía con los personajes.",
+    "cloze": "privilegia",
+    "answer": "privilegia",
+    "lemma": "privilegiar",
+    "meaning": "gives priority to",
+    "audio": "work/audio/es-MX/06/es-06-1067.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1068",
+    "sentence": "En el cuento de la carrera, el narrador llama ganadora a quien llega primero. Ella deja la medalla en una banca y piensa en la amiga con la que quería terminar. Tú dices que la historia celebra vencer a los demás. Para mí, esa etiqueta no consagra la victoria como única medida del éxito: su gesto permite discutir qué perdió al ganar, sin negar el resultado de la carrera.",
+    "cloze": "consagra",
+    "answer": "consagra",
+    "lemma": "consagrar",
+    "meaning": "enshrines",
+    "audio": "work/audio/es-MX/06/es-06-1068.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1069",
+    "sentence": "El relato repite cuatro veces «No volveré» mientras una mujer relee la despedida, esperando encontrar una palabra distinta. Tú quitarías las repeticiones porque te impacientan; otra lectora las defiende porque siente la espera de la mujer. Yo no disociaría esa impaciencia de la espera sin salida que muestra el pasaje: puede ser parte de cómo lo vivimos, aunque todavía podamos discutir si cuatro repeticiones funcionan. Eso no prueba que la autora buscara exactamente nuestra reacción.",
+    "cloze": "disociaría",
+    "answer": "disociaría",
+    "lemma": "disociar",
+    "meaning": "I would separate",
+    "audio": "work/audio/es-MX/06/es-06-1069.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1070",
+    "sentence": "Un relato de la exposición dice: «De niño, Tomás soñaba con irse del barrio». Termina con Tomás adulto enseñando a su hija a recorrerlo. Tú lees que traicionó su sueño; otra visitante cree que siempre quiso quedarse. Yo desmonto esa alternativa entre traición y deseo invariable: el contraste permite leer un cambio en su relación con el lugar, aunque el narrador no explique cómo ocurrió. Ninguna escena obliga a borrar la otra.",
+    "cloze": "desmonto",
+    "answer": "desmonto",
+    "lemma": "desmontar",
+    "meaning": "I dismantle",
+    "audio": "work/audio/es-MX/06/es-06-1070.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1071",
+    "sentence": "La narradora del cuento revive su miedo a irse e imagina una frase que su madre nunca dijo: «Ya no te quiero aquí». También recuerda que deseaba hacer ese viaje y que su madre le compró el boleto. Tú tomas la frase imaginada como prueba de rechazo; yo cuestionaría esa lectura desde el gesto narrado. La frase presenta un temor de la hija, y el boleto permite leer apoyo sin excluir sentimientos contradictorios de la madre.",
+    "cloze": "cuestionaría",
+    "answer": "cuestionaría",
+    "lemma": "cuestionar",
+    "meaning": "I would question",
+    "audio": "work/audio/es-MX/06/es-06-1071.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1072",
+    "sentence": "En el cuento del taller, el aprendiz piensa: «No le debo nada al maestro». La narración recuerda que aprendió con él, pero también que inventó una técnica que el maestro rechazaba. Tú llamas ingrato al personaje; otra lectora celebra una independencia total. Yo relativizaría ambas lecturas: el aprendizaje impide borrar lo recibido, pero innovar contra la opinión del maestro no equivale por sí solo a despreciarlo.",
+    "cloze": "relativizaría",
+    "answer": "relativizaría",
+    "lemma": "relativizar",
+    "meaning": "I would qualify",
+    "audio": "work/audio/es-MX/06/es-06-1072.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1073",
+    "sentence": "El cuento alterna a una madre que piensa «Al dejarlo ir, lo cuidé» y a su hijo, que recuerda «Me sentí solo». Termina sin una conversación entre ellos. Tú lees el dolor del hijo como una denuncia de que ella nunca quiso cuidarlo. Esas voces no se refutan entre sí: permiten leer el fracaso de un cuidado que el hijo vivió como soledad, sin que su dolor pruebe una intención de abandonarlo.",
+    "cloze": "se refutan",
+    "answer": "se refutan",
+    "lemma": "refutarse",
+    "meaning": "refute each other",
+    "audio": "work/audio/es-MX/06/es-06-1073.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1074",
+    "sentence": "En el cuento, una comerciante se queda con el dinero que encontró y piensa que se lo merece. Después una tormenta daña su puesto y también el de la vecina que devolvió otra cartera. Tú lees el final como un castigo moral. No veo que la tormenta sancione una conducta en particular, pues alcanza a las dos: podemos cuestionar la justificación de la comerciante sin convertir el daño narrado en un juicio que distinga entre ellas.",
+    "cloze": "sancione",
+    "answer": "sancione",
+    "lemma": "sancionar",
+    "meaning": "punish",
+    "audio": "work/audio/es-MX/06/es-06-1074.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1075",
+    "sentence": "El cuento termina con dos hermanos preparando la comida juntos. Antes, uno pensaba que le debían una disculpa; el otro, que ya había pedido demasiadas. Tú ves una reconciliación completa y yo una tregua. En ese acercamiento vislumbro una posibilidad de reconciliación, sin dar por resueltas las razones opuestas que la narración nos dejó conocer: colaborar permite leer una apertura, pero el relato no dice si alguno renunció a su reclamo.",
+    "cloze": "vislumbro",
+    "answer": "vislumbro",
+    "lemma": "vislumbrar",
+    "meaning": "I glimpse",
+    "audio": "work/audio/es-MX/06/es-06-1075.mp3",
+    "accepted_answers": []
   }
 ]
