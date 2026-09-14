@@ -7056,5 +7056,257 @@
     "meaning": "I include",
     "audio": "work/audio/es-MX/06/es-06-0700.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0701",
+    "sentence": "La directora me dijo: «Encárgate de que los dos equipos acuerden cómo usar el salón». Creí que me delegaba la decisión y les ordené aceptar mi reparto. Ella aclara que debo ayudarles a negociar y que, si no hay acuerdo, decidirá ella. Les digo: «Anulo mi orden de aceptar ese reparto; pueden discutirlo como propuesta sin desobedecer a la directora. Mi encargo sigue siendo ayudarles a buscar un acuerdo».",
+    "cloze": "Anulo",
+    "answer": "Anulo",
+    "lemma": "anular",
+    "meaning": "I cancel",
+    "audio": "work/audio/es-MX/06/es-06-0701.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0702",
+    "sentence": "La maestra sugirió quitar una escena y aclaró que era una opción. Inés dice que aceptó porque, si lo decía quien la calificaba, debía ser un requisito. Le propongo a la maestra que deje que Inés reconsidere esa respuesta sabiendo que puede conservar la escena. La entrega del cuento sigue siendo obligatoria y la maestra lo evaluará con los criterios que ya explicó.",
+    "cloze": "reconsidere",
+    "answer": "reconsidere",
+    "lemma": "reconsiderar",
+    "meaning": "reconsider",
+    "audio": "work/audio/es-MX/06/es-06-0702.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0703",
+    "sentence": "Al pedirle a la coordinadora del taller un cambio de grupo, empecé a explicar mi horario de trabajo. Me interrumpió: «No hace falta que me explique más». Como ella decide los cambios, entendí que rechazaba el mío y le dije que retiraba la petición. Aclara que ya entendió el motivo, pero aún debe revisar los lugares. Le digo: «No repetiré el motivo; respóndame sobre el cambio cuando revise los lugares, porque sí quiero seguir con mi petición».",
+    "cloze": "respóndame",
+    "answer": "respóndame",
+    "lemma": "responder",
+    "meaning": "answer me",
+    "audio": "work/audio/es-MX/06/es-06-0703.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0704",
+    "sentence": "La encargada de cambios preguntó por qué quería otro cuaderno. Como ella decide si acepta el cambio, entendí que cuestionaba mi motivo y empecé a inventar otro. Aclara que necesitaba saber si buscaba otro tamaño o si había un defecto. Le digo: «Me reafirmo en mi motivo original: quiero otro tamaño. Con ese dato puede decirme si acepta el cambio; no voy a añadir una falla inexistente».",
+    "cloze": "Me reafirmo",
+    "answer": "Me reafirmo",
+    "lemma": "reafirmarse",
+    "meaning": "I reaffirm my position",
+    "audio": "work/audio/es-MX/06/es-06-0704.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0705",
+    "sentence": "El supervisor dijo «¿Me ayudas con el cierre?» y aclara que estaba asignando una tarea del turno. Joel creyó que era un favor personal para su jefe y prometió hacerlo después de salir, aunque ya tenía otro compromiso. Le digo: «Plantee esa diferencia antes de confirmar una hora: puede explicar lo que entendió y cuándo puede hacerlo. La tarea sigue asignada; el supervisor debe aclarar cuándo la necesita».",
+    "cloze": "Plantee",
+    "answer": "Plantee",
+    "lemma": "plantear",
+    "meaning": "raise",
+    "audio": "work/audio/es-MX/06/es-06-0705.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0706",
+    "sentence": "La directora anunció el nuevo horario y me preguntó: «¿Está claro?». Contesté que sí porque creí que, ante ella, tocaba aprobarlo. Dice que preguntaba si lo había entendido y que el horario ya estaba decidido. Le pido que distinga mi confirmación de una opinión favorable: entiendo la hora de entrada, pero necesito explicar una dificultad para llegar. No estoy afirmando que esa dificultad cancele su decisión.",
+    "cloze": "distinga",
+    "answer": "distinga",
+    "lemma": "distinguir",
+    "meaning": "distinguish",
+    "audio": "work/audio/es-MX/06/es-06-0706.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0707",
+    "sentence": "Pregunté a mis asistentes si querían participar en la lectura y luego repetí la pregunta porque no oí sus respuestas. Cambiaron sus negativas por un sí: pensaron que su jefa estaba insistiendo. Les digo: «Les devuelvo la palabra para que respondan sabiendo que la participación es voluntaria. No necesito que cambien su respuesta por la repetición; solo que pueda oírla».",
+    "cloze": "Les devuelvo",
+    "answer": "Les devuelvo",
+    "lemma": "devolver",
+    "meaning": "I give back to you",
+    "audio": "work/audio/es-MX/06/es-06-0707.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0708",
+    "sentence": "Como coordinadora te ofrecí contarme la dificultad en privado. Me dices que entendiste una orden de ocultarla al grupo y retiraste tu petición de explicarla en la reunión. No había pedido secreto; te ofrecía otro lugar para hablar. Quiero que te replantees dónde prefieres explicarla. Puedes mantener tu petición de intervenir y yo organizaré los turnos de la reunión.",
+    "cloze": "te replantees",
+    "answer": "te replantees",
+    "lemma": "replantearse",
+    "meaning": "you reconsider",
+    "audio": "work/audio/es-MX/06/es-06-0708.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0709",
+    "sentence": "Cuando pedí ejemplos para la clase, ofrecí que fueran personales o inventados. Tú empezaste a contar una discusión familiar porque pensaste que tu maestro esperaba una confesión. Ahora me dices que no querías contarla. Prescindiré de ese ejemplo al seguir la actividad; puedes trabajar con uno inventado. La tarea de explicar el concepto sigue en pie, pero no exige hablar de tu familia.",
+    "cloze": "Prescindiré",
+    "answer": "Prescindiré",
+    "lemma": "prescindir",
+    "meaning": "I will do without",
+    "audio": "work/audio/es-MX/06/es-06-0709.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0710",
+    "sentence": "La encargada del local dijo «Prueben ahí la mesa» para ver si cabía. Como ella decide la distribución, Luis entendió que ya había aprobado ese lugar y anunció que instalaría allí el puesto. Ella aclara que todavía debe comprobar el paso. Ese anuncio, corrijámoslo con Luis antes de instalar el puesto: la prueba está autorizada; la ubicación definitiva sigue pendiente de la encargada.",
+    "cloze": "corrijámoslo",
+    "answer": "corrijámoslo",
+    "lemma": "corregir",
+    "meaning": "let us correct it",
+    "audio": "work/audio/es-MX/06/es-06-0710.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0711",
+    "sentence": "El maestro dijo «Va bien» al ver el primer párrafo. Como él autoriza la entrega, Ana entendió que podía entregar todo sin más revisión y dejó de corregir. Él aclara que el elogio era sobre ese párrafo y que aún no ha autorizado la entrega. Le decimos: «Precísenos qué revisión sigue pendiente, para que Ana pueda ajustar su plan sin tomar el elogio por una autorización».",
+    "cloze": "Precísenos",
+    "answer": "Precísenos",
+    "lemma": "precisar",
+    "meaning": "specify for us",
+    "audio": "work/audio/es-MX/06/es-06-0711.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0712",
+    "sentence": "La recepcionista, que decide las salidas tardías, me dijo «Puede pedirme una hora más». Por venir de ella, lo entendí como permiso y avisé que saldría después. Ahora explica que solo me invitaba a solicitarlo y que debe revisar las reservaciones. Mi acompañante me dice: «Consúltelo antes de mantener ese aviso: todavía puede explicar qué hora necesita, pero ella no ha aprobado el cambio».",
+    "cloze": "Consúltelo",
+    "answer": "Consúltelo",
+    "lemma": "consultar",
+    "meaning": "ask about it",
+    "audio": "work/audio/es-MX/06/es-06-0712.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0713",
+    "sentence": "La dueña del departamento comentó «Con menos visitas descansaría más» y cancelé una invitación a mi amiga: viniendo de ella, me pareció una prohibición. Ahora aclara que hablaba de su propia preferencia y que la visita sigue permitida en el horario acordado. La invitación que cancelé puedo renovarla sin decir que la dueña cambió las reglas ni suponer que mi amiga todavía está disponible.",
+    "cloze": "renovarla",
+    "answer": "renovarla",
+    "lemma": "renovar",
+    "meaning": "renew it",
+    "audio": "work/audio/es-MX/06/es-06-0713.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0714",
+    "sentence": "En el examen oral, la profesora me pide: «Defiende la postura contraria». Retiro mi primera respuesta porque entiendo que quien me evalúa ya la rechazó. Ella lo aclara: quiere comprobar cómo construyo argumentos y aún no ha calificado mi respuesta. Le contesto: «Argumentaré a favor de la otra postura como ejercicio; le pido que conserve mi primera respuesta, que sigo defendiendo».",
+    "cloze": "Argumentaré",
+    "answer": "Argumentaré",
+    "lemma": "argumentar",
+    "meaning": "I will argue",
+    "audio": "work/audio/es-MX/06/es-06-0714.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0715",
+    "sentence": "La guía ofreció esperar sentados a quienes quisieran saltarse una sala. Como ella controla el recorrido, entendí que me ordenaba quedarme por caminar despacio. Aclara que puedo seguir y que el horario de salida será el mismo. Le digo al equipo: «Inclúyanme en el recorrido completo; al quedarme sentado estaba respondiendo a lo que creí una instrucción. Ahora prefiero seguir con el grupo».",
+    "cloze": "Inclúyanme",
+    "answer": "Inclúyanme",
+    "lemma": "incluir",
+    "meaning": "include me",
+    "audio": "work/audio/es-MX/06/es-06-0715.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0716",
+    "sentence": "Organizo el taller y le pregunté si el horario le servía. Usted dijo que sí, pero ahora explica que creyó que debía aceptar porque yo asigno los lugares. La pregunta era para conocer su disponibilidad. Contradígame si mi propuesta no le funciona; necesito su respuesta real para buscar una opción. Eso no garantiza que pueda ofrecerle otro horario ni cambia quién asigna los lugares.",
+    "cloze": "Contradígame",
+    "answer": "Contradígame",
+    "lemma": "contradecir",
+    "meaning": "disagree with me",
+    "audio": "work/audio/es-MX/06/es-06-0716.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0717",
+    "sentence": "Mamá nos dijo «Pónganse de acuerdo» para escoger una película. Yo cedí: creí que su indicación exigía compartir el gusto de mi hermana. Ella empieza a decir que las dos preferimos la comedia. Le pido a mamá: «Intervén antes de que demos esa respuesta conjunta; acepté ver la comedia, pero sigo prefiriendo la otra. ¿Nos pedías elegir qué ver o cambiar de opinión?». Mamá aclara: «Solo elegir una película juntas; la hora de apagar la tele sigue siendo la acordada».",
+    "cloze": "Intervén",
+    "answer": "Intervén",
+    "lemma": "intervenir",
+    "meaning": "intervene",
+    "audio": "work/audio/es-MX/06/es-06-0717.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0718",
+    "sentence": "Mi jefa me dijo «Cuando puedas, revisa la lista». Creí que me ofrecía una tarea opcional porque siempre decide los encargos de forma más directa, y no aparté tiempo. Ahora aclara que sí es un encargo, aunque no necesita que lo haga de inmediato. Le respondo: «Fíjeme un plazo para poder organizarlo con las demás tareas; ya entendí que elegir el momento no significa elegir si lo hago».",
+    "cloze": "Fíjeme",
+    "answer": "Fíjeme",
+    "lemma": "fijar",
+    "meaning": "set for me",
+    "audio": "work/audio/es-MX/06/es-06-0718.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0719",
+    "sentence": "El alumno objetó una fecha y la profesora preguntó «¿Por qué dices eso?». Él retiró la objeción: creyó que ella lo estaba reprendiendo por corregirla. La profesora aclara que quería escuchar el dato que había encontrado. Como compañero digo: «Recuperemos esa objeción para que pueda explicar su fuente, si todavía la sostiene. Escucharla no obliga a la profesora a aceptar que la fecha esté mal».",
+    "cloze": "Recuperemos",
+    "answer": "Recuperemos",
+    "lemma": "recuperar",
+    "meaning": "let us recover",
+    "audio": "work/audio/es-MX/06/es-06-0719.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0720",
+    "sentence": "La encargada de inscripciones ofreció: «Su hija puede ayudarla a contestar». Mi mamá creyó que debía dejarle todas las decisiones porque así lo indicaba la encargada. Esta aclara que ofrecía ayuda para entender las preguntas. Le digo: «Consúltele a mi mamá qué grupo prefiere; yo puedo leerle las opciones para que ella responda. Usted decidirá si hay lugar».",
+    "cloze": "Consúltele",
+    "answer": "Consúltele",
+    "lemma": "consultar",
+    "meaning": "ask her",
+    "audio": "work/audio/es-MX/06/es-06-0720.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0721",
+    "sentence": "El encargado me pidió que le preguntara a Eva si quería abrir el taller. Le transmití «¿Quieres abrir mañana?» y aceptó porque sabía que la pregunta venía de quien reparte los turnos. Ahora ella explica que lo tomó como una asignación; él confirma que buscaba voluntarios. Preguntémosle de nuevo con esa diferencia clara, antes de contar con ella. El encargado todavía tiene que resolver quién abrirá.",
+    "cloze": "Preguntémosle",
+    "answer": "Preguntémosle",
+    "lemma": "preguntar",
+    "meaning": "let us ask her",
+    "audio": "work/audio/es-MX/06/es-06-0721.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0722",
+    "sentence": "La directora preguntó qué apoyo necesitaba Luis para participar. Él prometió contar en la junta sus problemas familiares porque entendió que debía justificar su necesidad ante ella. La directora aclara que solo necesita saber qué ajuste solicita. Luis les dice a quienes preparan la junta: «Sustituyan mi exposición por una petición de recibir las instrucciones por escrito; eso es lo que necesito. Prometí contar mi historia porque entendí otra exigencia». La directora todavía debe responder a esa petición.",
+    "cloze": "Sustituyan",
+    "answer": "Sustituyan",
+    "lemma": "sustituir",
+    "meaning": "replace",
+    "audio": "work/audio/es-MX/06/es-06-0722.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0723",
+    "sentence": "Mi asesora sugirió otro tema y lo cambié porque pensé que su recomendación era un veto al mío. Ahora aclara que puedo conservar el tema original si explico cómo lo trabajaré. Por eso vuelvo a proponerlo con un plan de trabajo, sin pedirle que retire una prohibición que no hizo. La asesora todavía debe evaluar si el plan cumple lo que pide el curso.",
+    "cloze": "vuelvo a proponerlo",
+    "answer": "vuelvo a proponerlo",
+    "lemma": "volver a proponer",
+    "meaning": "I propose it again",
+    "audio": "work/audio/es-MX/06/es-06-0723.mp3",
+    "accepted_answers": [
+      "lo vuelvo a proponer"
+    ]
+  },
+  {
+    "id": "es-06-0724",
+    "sentence": "Le pedí a la nueva integrante que comentara qué no funcionaba en el ensayo. Ella elogió todo porque pensó que la directora esperaba respaldo; después me explicó una dificultad que había callado. Como directora, le digo que puede retractarse de aquel elogio y explicar lo que observó. Yo decidiré los cambios de la obra, pero no necesito que ella presente como opinión propia lo que creyó que debía decirme.",
+    "cloze": "retractarse",
+    "answer": "retractarse",
+    "lemma": "retractarse",
+    "meaning": "take back what she said",
+    "audio": "work/audio/es-MX/06/es-06-0724.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0725",
+    "sentence": "El encargado del salón dijo «Podemos hablar de otra fecha» y mi hermana entendió que debía abandonar la que ya tenía apartada: quien controla las reservaciones parecía estar pidiéndosela. Él aclara que ofrecía comparar opciones, no cancelar la reserva. Antes de que ella avise un cambio, le pido que nos aclare cómo puede explorar otra fecha conservando la actual hasta decidir. No doy por reservada ninguna alternativa.",
+    "cloze": "nos aclare",
+    "answer": "nos aclare",
+    "lemma": "aclarar",
+    "meaning": "clarify for us",
+    "audio": "work/audio/es-MX/06/es-06-0725.mp3",
+    "accepted_answers": []
   }
 ]
