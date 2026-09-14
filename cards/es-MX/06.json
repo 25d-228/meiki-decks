@@ -10326,5 +10326,255 @@
     "meaning": "I would make more flexible",
     "audio": "work/audio/es-MX/06/es-06-1025.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-1026",
+    "sentence": "En el foro vecinal, Maya dijo «Quiero recuperar el parque»; Bruno propuso «Cerremos la cancha» y ella respondió «La cancha debe seguir abierta». Una publicación une la primera frase con la propuesta de Bruno como muestra de apoyo; otra une la propuesta con la respuesta como muestra de oposición. Al compararlas, deslindo la coincidencia sobre recuperar el parque del desacuerdo sobre cerrar la cancha: la primera no demuestra apoyo al cierre y la segunda tampoco demuestra rechazo a recuperar el parque.",
+    "cloze": "deslindo",
+    "answer": "deslindo",
+    "lemma": "deslindar",
+    "meaning": "I distinguish",
+    "audio": "work/audio/es-MX/06/es-06-1026.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1027",
+    "sentence": "En la conversación pública de la escuela, Julia dijo «No quiero lecturas obligatorias en vacaciones». El maestro preguntó «¿Y un intercambio voluntario?» y ella respondió «Eso sí me interesa». El boletín destaca la negativa como rechazo a la lectura; la página del taller destaca la respuesta como apoyo a su propuesta voluntaria. No concluiría que Julia se ha retractado: el segundo encuadre conserva una apertura real que el primero oculta, pero esa apertura no modifica el rechazo a la obligación.",
+    "cloze": "se ha retractado",
+    "answer": "se ha retractado",
+    "lemma": "retractarse",
+    "meaning": "has retracted her position",
+    "audio": "work/audio/es-MX/06/es-06-1027.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1028",
+    "sentence": "En el chat público de la excursión, el encargado dijo «Yo cancelé el autobús» y añadió «Recepción me avisó que nadie viajaría». Recepción respondió «Yo transmití la lista que recibí». Una captura deja solo la primera frase, como decisión exclusiva del encargado; otra une su explicación con la respuesta de recepción para repartir la responsabilidad. La segunda hace visible cómo circuló el dato, pero no exoneraría al encargado por sí sola; la primera identifica quién canceló, aunque no demuestra quién originó el dato ni si alguien lo verificó.",
+    "cloze": "exoneraría",
+    "answer": "exoneraría",
+    "lemma": "exonerar",
+    "meaning": "would absolve",
+    "audio": "work/audio/es-MX/06/es-06-1028.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1029",
+    "sentence": "En una entrevista escolar preguntaron a Raúl «¿Apoyas el nuevo horario?»; contestó «Necesito pensarlo». Luego preguntaron «¿Quieres que publiquemos las opciones?» y dijo «Eso sí». Un video une la primera pregunta con «Eso sí»; otro conserva la segunda pregunta y esa respuesta. Para informar qué aceptó, privilegiaría el segundo: conserva el objeto del acuerdo, aunque no muestra la reserva que sí debemos recuperar de la entrevista para explicar por qué el primero aparenta un apoyo mayor.",
+    "cloze": "privilegiaría",
+    "answer": "privilegiaría",
+    "lemma": "privilegiar",
+    "meaning": "I would give priority to",
+    "audio": "work/audio/es-MX/06/es-06-1029.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1030",
+    "sentence": "En la página del festival, Eva escribió «Te pido disculpas por no avisarte»; Luis respondió «Pensé que querías dejarme fuera» y Eva aclaró «No fue a propósito». Una publicación acerca la disculpa a la sospecha de Luis; otra destaca la sospecha seguida de la negación. La lectura que separa la omisión reconocida de la intención discutida conserva lo válido de ambas: Eva se disculpó y negó hacerlo a propósito; ni la disculpa confirma la sospecha ni la negación borra la omisión.",
+    "cloze": "separa",
+    "answer": "separa",
+    "lemma": "separar",
+    "meaning": "distinguishes",
+    "audio": "work/audio/es-MX/06/es-06-1030.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1031",
+    "sentence": "En la clase abierta, la maestra pidió «Defiende esta idea como ejercicio: eliminemos los recreos». Joel argumentó «Tendríamos más tiempo de clase»; al terminar dijo «Sigo prefiriendo los recreos». Un video conserva la consigna y el argumento; otro presenta el argumento seguido de su preferencia como contradicción. La comparación no demuestra que Joel haya hecho suyo el proyecto: el primero permite entender su papel, y el segundo recupera su preferencia real, aunque pierde el marco del ejercicio.",
+    "cloze": "haya hecho suyo",
+    "answer": "haya hecho suyo",
+    "lemma": "hacer suyo",
+    "meaning": "has adopted as his own",
+    "audio": "work/audio/es-MX/06/es-06-1031.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1032",
+    "sentence": "La transmisión de la feria muestra al patrocinador preguntando a Lidia «¿Te sumas a la campaña?». Ella empieza «Antes quisiera explicar algo», pero el conductor anuncia «Se acabó el tiempo» y Lidia deja de hablar. Un video reúne la invitación y el silencio como rechazo de la campaña; otro reúne el cierre y el silencio como aceptación de la interrupción. Ambos recortes encajan con una pregunta que quedó sin respuesta: el primero conserva la invitación y el segundo permite explicar por qué dejó de hablar, sin demostrar qué habría contestado ni que aceptara de buen grado el cierre.",
+    "cloze": "encajan",
+    "answer": "encajan",
+    "lemma": "encajar",
+    "meaning": "are consistent",
+    "audio": "work/audio/es-MX/06/es-06-1032.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1033",
+    "sentence": "En el foro de familias, mi mamá dijo «No puedo atender el puesto toda la tarde». Le ofrecieron «Ven solo una hora» y respondió «Una hora sí». Una captura muestra su negativa como resistencia a colaborar; otra muestra la oferta y la aceptación como entusiasmo. El cambio de duración permite entender el acuerdo que la primera pierde, pero su motivo para aceptar se nos escapa: la segunda documenta una ayuda limitada, sin demostrar entusiasmo ni presión.",
+    "cloze": "se nos escapa",
+    "answer": "se nos escapa",
+    "lemma": "escaparse",
+    "meaning": "is beyond what we know",
+    "audio": "work/audio/es-MX/06/es-06-1033.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1034",
+    "sentence": "Saúl explicó en el debate del huerto «Si quitamos dos zonas de cultivo, alcanzará el agua». Inés contestó «No acepto quitarlas» y Saúl cerró «Entonces sigue pendiente cómo regar todo». Un video destaca la primera frase como anuncio de una solución; otro une el rechazo y el cierre como abandono del huerto. La comparación desmentiría que hubiera una solución acordada: el primero conserva una posibilidad condicionada y el segundo la oposición a esa opción, pero dejar pendiente el riego tampoco equivale a abandonar el huerto.",
+    "cloze": "desmentiría",
+    "answer": "desmentiría",
+    "lemma": "desmentir",
+    "meaning": "would refute",
+    "audio": "work/audio/es-MX/06/es-06-1034.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1035",
+    "sentence": "«Abriré la biblioteca el domingo», anunció Alba el viernes en la conversación pública. Omar observó «Todavía no tienes la llave» y ella respondió «Me la entregan mañana». Una publicación junta el anuncio y la entrega prevista como prueba de que todo está listo; otra junta la observación y la respuesta como prueba de que Alba no podrá abrir. Juntas, las dos selecciones sostienen esta lectura: Alba anunció que abriría, pero aún depende de la entrega de la llave. La primera conserva cómo espera obtenerla, sin demostrar que ya la tenga; la segunda conserva la carencia actual, sin demostrar que vaya a continuar hasta el domingo.",
+    "cloze": "sostienen",
+    "answer": "sostienen",
+    "lemma": "sostener",
+    "meaning": "support",
+    "audio": "work/audio/es-MX/06/es-06-1035.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1036",
+    "sentence": "En la transmisión vecinal, Nora dijo «Ya pensaba quitar tu nombre del anuncio» antes de que Pedro pidiera «Quita mi nombre»; ella respondió «Lo quito hoy». Un video junta la petición con la respuesta; otro junta la intención previa con la respuesta. Si tomáramos el primero como explicación completa, atribuiríamos a Pedro el origen de una intención que Nora ya había expresado. El segundo conserva ese antecedente, pero tampoco demuestra que la petición no influyera en quitarlo ese día.",
+    "cloze": "atribuiríamos",
+    "answer": "atribuiríamos",
+    "lemma": "atribuir",
+    "meaning": "we would attribute",
+    "audio": "work/audio/es-MX/06/es-06-1036.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1037",
+    "sentence": "En la radio del barrio, Ana dijo «Luis afirma que cerraron antes del horario anunciado; yo no lo comprobé». Beto contestó «La encargada dice que cerró a la hora anunciada; tampoco estuve ahí». Un extracto contrapone las afirmaciones de Luis y la encargada; otro reúne las reservas de Ana y Beto. Comparados, muestran versiones incompatibles transmitidas con cautela, no que cada locutor haya tomado partido por su fuente: el primero conserva la discrepancia y el segundo limita el respaldo que podemos atribuirles.",
+    "cloze": "haya tomado partido",
+    "answer": "haya tomado partido",
+    "lemma": "tomar partido",
+    "meaning": "has taken sides",
+    "audio": "work/audio/es-MX/06/es-06-1037.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1038",
+    "sentence": "En el foro del cineclub, Tere dijo «¡Qué puntualidad!» cuando el moderador llegó tarde. Él preguntó «¿Es broma?»; ella respondió «Sí, pero necesitamos empezar a tiempo». Un video une la exclamación con «Sí» como intercambio de bromas; otro conserva la llegada tardía y la petición como reclamo. La broma y la crítica no se neutralizan: el segundo recupera una exigencia que el primero deja fuera, pero no justifica negar el tono de juego que Tere confirmó.",
+    "cloze": "se neutralizan",
+    "answer": "se neutralizan",
+    "lemma": "neutralizarse",
+    "meaning": "cancel each other out",
+    "audio": "work/audio/es-MX/06/es-06-1038.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1039",
+    "sentence": "En el foro del museo, un visitante dijo «Quiero escuchar la charla, pero no distingo las palabras». La encargada propuso «Acérquese a la bocina» y él contestó «Así tampoco entiendo». Una publicación junta la propuesta con la respuesta como rechazo a la ayuda; otra conserva el deseo de escuchar y la dificultad. No diría que el visitante se ha negado a colaborar: la segunda recupera el deseo de escuchar que el primer recorte oculta. Hubo una ayuda que no le sirvió, sin que eso pruebe que ninguna otra pueda servirle.",
+    "cloze": "se ha negado",
+    "answer": "se ha negado",
+    "lemma": "negarse",
+    "meaning": "has refused",
+    "audio": "work/audio/es-MX/06/es-06-1039.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1040",
+    "sentence": "En la página del taller, Rosa preguntó «¿Puedo entrar a recoger mi cuaderno?» y recibió «Sí, pasa». Después, Iván preguntó «¿Podemos entrar a trabajar?» y recibió «Hoy no hay taller». Una captura acerca las dos respuestas como trato desigual; otra conserva cada pregunta como diferencia entre recoger algo y trabajar. Las respuestas se reconcilian al recuperar esos propósitos: la primera muestra permisos distintos, pero no demuestra favoritismo; la segunda explica esta diferencia, sin probar cómo se trata a todos los visitantes.",
+    "cloze": "se reconcilian",
+    "answer": "se reconcilian",
+    "lemma": "reconciliarse",
+    "meaning": "can be reconciled",
+    "audio": "work/audio/es-MX/06/es-06-1040.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1041",
+    "sentence": "En la muestra escolar, el maestro anunció «Todos terminaron la maqueta». Una alumna añadió «No alcanzamos a explicar cómo funciona» y él contestó «Eso queda para otra sesión». Una publicación junta el anuncio y la observación como una corrección al maestro; otra junta la observación y su respuesta como un acuerdo para continuar. Al compararlas, retendría tanto la carencia señalada por la alumna como la disposición del maestro a continuar con la explicación: ella no negó que terminaran la maqueta y él tampoco afirmó que ya hubieran explicado su funcionamiento.",
+    "cloze": "retendría",
+    "answer": "retendría",
+    "lemma": "retener",
+    "meaning": "I would retain",
+    "audio": "work/audio/es-MX/06/es-06-1041.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1042",
+    "sentence": "En el chat abierto de la plaza, una vecina pidió «Apaguen la música mientras termina la lectura». El organizador respondió «La apagamos ahora. Después de la lectura sigue el baile». Un video une la petición con «La apagamos ahora»; otro une la petición con «Después de la lectura sigue el baile». El primero permite decir que el organizador ha cedido durante la lectura, y el segundo conserva el límite de esa concesión; presentarlo como rendición definitiva o como negativa a escuchar perdería una parte distinta del mismo acuerdo.",
+    "cloze": "ha cedido",
+    "answer": "ha cedido",
+    "lemma": "ceder",
+    "meaning": "has yielded",
+    "audio": "work/audio/es-MX/06/es-06-1042.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1043",
+    "sentence": "En el debate escolar, Luz dijo «La idea de hacer un periódico me gusta»; ante la propuesta de publicarlo diario añadió «No podríamos sostener ese ritmo». Una cuenta publica el elogio junto al nombre del promotor; otra publica la reserva junto al mismo nombre. Antes de acusar a una de querer favorecerlo o perjudicarlo, confrontemos lo que ambas permiten atribuirle a Luz: interés por el periódico y rechazo a esa frecuencia. El contraste muestra efectos distintos sobre su aparente apoyo, no los motivos de quienes editaron.",
+    "cloze": "confrontemos",
+    "answer": "confrontemos",
+    "lemma": "confrontar",
+    "meaning": "let us compare",
+    "audio": "work/audio/es-MX/06/es-06-1043.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1044",
+    "sentence": "En la transmisión del barrio, Irene propuso «Hagamos visitas al archivo». El director respondió «Presentaré tu propuesta» y luego anunció «Hagamos visitas al archivo». Un video muestra el anuncio como iniciativa del director; otro reúne la propuesta de Irene y su respuesta como apoyo institucional. Al compararlos, reasignaría a Irene el crédito por la idea, conservando al director el de presentarla; el segundo explica el origen que el primero omite, pero ninguno demuestra que el director quisiera apropiársela.",
+    "cloze": "reasignaría",
+    "answer": "reasignaría",
+    "lemma": "reasignar",
+    "meaning": "I would reassign",
+    "audio": "work/audio/es-MX/06/es-06-1044.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1045",
+    "sentence": "Elsa contó en el foro de exalumnos «Vi al maestro borrar mi pregunta». Un compañero preguntó «¿Desde el pasillo podías leerla?» y ella aclaró «No; vi que borraba algo y supuse que era mi pregunta». Un video enlaza la acusación y la pregunta como denuncia puesta en duda; otro enlaza la pregunta con la aclaración como confesión de que no vio nada. La comparación muestra que Elsa se desdice de haber visto borrar su pregunta, pero mantiene que vio al maestro borrar algo: el primero conserva la acusación que ella revisó y el segundo la razón de esa revisión, sin demostrar que inventara toda la escena.",
+    "cloze": "se desdice",
+    "answer": "se desdice",
+    "lemma": "desdecirse",
+    "meaning": "retracts her claim",
+    "audio": "work/audio/es-MX/06/es-06-1045.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1046",
+    "sentence": "Omar dijo en la charla pública del huerto «Con menos pasto gastaremos menos agua». Celia preguntó «¿Cuánto menos?». Él respondió «¿Estás en contra?» y ella aclaró «Estoy pidiendo una cifra». Un resumen une la propuesta con la pregunta de Celia como oposición; otro une el desafío de Omar con la aclaración como retirada de una objeción. Que los recortes le asignen esas posturas no justifica que la encasillemos en ninguna: el primero documenta una pregunta sobre el ahorro y el segundo cómo la defendió ante Omar; Celia no expresó si apoyaba la propuesta.",
+    "cloze": "la encasillemos",
+    "answer": "la encasillemos",
+    "lemma": "encasillar",
+    "meaning": "we pigeonhole her",
+    "audio": "work/audio/es-MX/06/es-06-1046.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1047",
+    "sentence": "En la entrevista del centro cultural preguntaron a Leo «¿Hubo cambios en la lista?» y respondió «Sí hubo cambios». Ante «¿Los hiciste tú?» contestó «Yo no los hice». Un extracto destaca la primera respuesta como reconocimiento; otro presenta la segunda como defensa. Al ponerlos juntos, queda en pie la afirmación de que hubo cambios, sin que el reconocimiento del primero sea confesión de autoría ni la defensa del segundo pruebe quién los hizo.",
+    "cloze": "queda en pie",
+    "answer": "queda en pie",
+    "lemma": "quedar en pie",
+    "meaning": "still stands",
+    "audio": "work/audio/es-MX/06/es-06-1047.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1048",
+    "sentence": "En el foro de fotografía, Sara informó «Ana me dijo: “Yo llevaré los retratos”». El organizador preguntó «¿Y tú?» y Sara respondió «Yo solo estoy pasando su mensaje». Una publicación presenta «Yo llevaré los retratos» bajo el nombre de Sara como promesa suya; otra junta la pregunta y la respuesta como renuncia a la tarea. Al compararlas, delimitaría lo que cabe exigirle a Sara: la primera conserva las palabras de una oferta que ella atribuye a Ana, y la segunda su papel de mensajera; ninguna demuestra que Sara asumiera la entrega ni confirma por otra vía el compromiso de Ana.",
+    "cloze": "delimitaría",
+    "answer": "delimitaría",
+    "lemma": "delimitar",
+    "meaning": "I would delimit",
+    "audio": "work/audio/es-MX/06/es-06-1048.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1049",
+    "sentence": "En el foro sobre la plaza, Dani pidió «Más árboles» y Vero contestó «Sí, dejando espacio para jugar». Dani añadió «También quiero conservar los juegos». Una publicación junta el pedido con la condición como conflicto; otra reúne el «Sí» de Vero con la última frase como acuerdo. No deduciría de esos recortes que apoyan el mismo diseño: el primero conserva una condición real y el segundo una coincidencia real, pero en la conversación no se propuso ningún diseño concreto.",
+    "cloze": "deduciría",
+    "answer": "deduciría",
+    "lemma": "deducir",
+    "meaning": "I would infer",
+    "audio": "work/audio/es-MX/06/es-06-1049.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1050",
+    "sentence": "En la transmisión del mercado, una clienta dijo «El aviso del cambio llegó tarde». El encargado respondió «Lo publiqué ayer»; ella aclaró «Sí, pero el cambio empezó anteayer». Un video junta la queja con la respuesta como defensa del encargado; otro junta la respuesta con la aclaración como confirmación de la queja. Para explicar lo ocurrido, articulemos los dos datos, la publicación que conserva el primero y el desfase que revela el segundo: sí hubo aviso y fue posterior al cambio; no sabemos por qué se publicó entonces.",
+    "cloze": "articulemos",
+    "answer": "articulemos",
+    "lemma": "articular",
+    "meaning": "let us connect",
+    "audio": "work/audio/es-MX/06/es-06-1050.mp3",
+    "accepted_answers": []
   }
 ]
