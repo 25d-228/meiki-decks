@@ -8064,5 +8064,265 @@
     "meaning": "was opposed",
     "audio": "work/audio/es-MX/06/es-06-0800.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0801",
+    "sentence": "En el chat del huerto, Luis propone reunirse a las ocho. Ana responde: «A esa hora no alcanzo a llegar; no acepto. Pueden explicar mi objeción, pero no decir mi nombre ni mi turno de trabajo». La asamblea de vecinos quiere anunciar que asistirá el grupo completo. Le escribo: «No se puede confirmar la asistencia de todo el grupo a las ocho: una participante rechazó ese horario por no poder llegar».",
+    "cloze": "se puede confirmar",
+    "answer": "se puede confirmar",
+    "lemma": "poder confirmar",
+    "meaning": "can be confirmed",
+    "audio": "work/audio/es-MX/06/es-06-0801.mp3",
+    "accepted_answers": [
+      "puede confirmarse"
+    ]
+  },
+  {
+    "id": "es-06-0802",
+    "sentence": "En la reunión de voluntarios, Eva ofrece las mesas solo para una actividad gratuita; Bruno propone vender boletos. Eva permite comunicar su oferta y su condición a los organizadores del festival, pero sin identificarla. En el resumen para ellos escribo: «Una misma persona ofrece las mesas y condiciona ese préstamo a que la entrada sea gratuita, frente a la propuesta de vender boletos; no son una oferta firme y una objeción de alguien más».",
+    "cloze": "condiciona",
+    "answer": "condiciona",
+    "lemma": "condicionar",
+    "meaning": "makes conditional",
+    "audio": "work/audio/es-MX/06/es-06-0802.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0803",
+    "sentence": "La directora solo recibirá un informe del intercambio por correo: Nora pidió cambiar el cierre del boletín y Joel defendió la versión actual. Nora después indicó: «No usen mi nombre; sigo pidiendo el cambio». En el informe escribo: «La persona que solicitó modificar el cierre no ha retirado su petición; la defensa de la versión actual sigue teniendo esa objeción pendiente».",
+    "cloze": "ha retirado",
+    "answer": "ha retirado",
+    "lemma": "retirar",
+    "meaning": "has withdrawn",
+    "audio": "work/audio/es-MX/06/es-06-0803.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0804",
+    "sentence": "En su correo interno, el club rechaza el cobro que una integrante apoyó por su cuenta: «No presenten ese apoyo como nuestro; comuniquen la diferencia sin identificarla». Los organizadores siguen proponiendo cobrar. En el informe para quienes prestan el salón escribo: «El club se deslinda del apoyo personal al cobro y rechaza cobrar; la propuesta de los organizadores sigue sin contar con el respaldo del club».",
+    "cloze": "se deslinda",
+    "answer": "se deslinda",
+    "lemma": "deslindarse",
+    "meaning": "distances itself",
+    "audio": "work/audio/es-MX/06/es-06-0804.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0805",
+    "sentence": "—El equipo que prepara el calendario pregunta si debe tratar la petición como un capricho. En la conversación privada, Marta insistió en adelantar la hora porque cuida a su papá; Diego prefiere mantenerla. Ella permite comunicar su petición, pero no su nombre ni su situación familiar. —Escribamos: «La petición de adelantar la hora sigue vigente frente a la preferencia por mantenerla; que su motivo no pueda circular no permite calificarla de capricho».",
+    "cloze": "calificarla",
+    "answer": "calificarla",
+    "lemma": "calificar",
+    "meaning": "label it",
+    "audio": "work/audio/es-MX/06/es-06-0805.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0806",
+    "sentence": "En la revisión privada del taller, Pablo defiende pedir una explicación pública a quien falte. Una participante responde: «Anoten mis faltas, pero no me hagan rendir cuentas frente a todo el mundo». Permite resumir su crítica, pero prohíbe citar sus palabras porque la reconocerían. Para los nuevos facilitadores escribo: «La crítica recibida rechaza que cada participante tenga que justificarse ante el grupo por sus ausencias, aunque acepta llevar un registro de asistencia».",
+    "cloze": "tenga que justificarse",
+    "answer": "tenga que justificarse",
+    "lemma": "tener que justificarse",
+    "meaning": "have to explain themselves",
+    "audio": "work/audio/es-MX/06/es-06-0806.mp3",
+    "accepted_answers": [
+      "se tenga que justificar"
+    ]
+  },
+  {
+    "id": "es-06-0807",
+    "sentence": "En la junta del turno, dos personas rechazan atender mensajes por la noche; su portavoz aclara: «Solo hablo por quienes me respondieron. Pueden informar el rechazo, pero sin sus nombres». El coordinador quiere mantener ese servicio. A la dirección le escribo: «Este informe no hace extensivo el rechazo de las personas consultadas a todo el turno; sí registra que el servicio nocturno propuesto tiene oposición entre ellas».",
+    "cloze": "hace extensivo",
+    "answer": "hace extensivo",
+    "lemma": "hacer extensivo",
+    "meaning": "extends",
+    "audio": "work/audio/es-MX/06/es-06-0807.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0808",
+    "sentence": "En la consulta privada, la organizadora defiende el reparto de tareas. Una persona dice que recibió más trabajo por haber llegado después, pero no sabe cómo se decidió; permite resumirlo sin su nombre ni su fecha de ingreso. Para los asesores del proyecto escribo: «La carga adicional no puede atribuirse como hecho comprobado a haber llegado después: esa es la explicación de quien se queja, que desconoce cómo se decidió el reparto defendido por la organizadora».",
+    "cloze": "puede atribuirse",
+    "answer": "puede atribuirse",
+    "lemma": "poder atribuirse",
+    "meaning": "can be attributed",
+    "audio": "work/audio/es-MX/06/es-06-0808.mp3",
+    "accepted_answers": [
+      "se puede atribuir"
+    ]
+  },
+  {
+    "id": "es-06-0809",
+    "sentence": "Al comité de otra calle le escribo: «Raúl propuso un sorteo, pero se recibió una objeción y una petición de comparar disponibilidades. Si preparan una respuesta a esa petición, háganmela llegar para transmitirla a quien la formuló». La nota recoge dos canales del intercambio vecinal: Raúl propuso el sorteo en el chat y una vecina lo rechazó y pidió comparar disponibilidades por mensaje privado. Ella permitió comunicar su petición sin nombre y recibir respuestas por mi conducto.",
+    "cloze": "háganmela llegar",
+    "answer": "háganmela llegar",
+    "lemma": "hacer llegar",
+    "meaning": "send it to me",
+    "audio": "work/audio/es-MX/06/es-06-0809.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0810",
+    "sentence": "En la reunión del festival, Alicia propone que todos los voluntarios hablen ante el público. Una voluntaria ofrece preparar carteles, pero rechaza presentar; permite informar ambas decisiones sin identificarla. Los demás aceptan hablar y el público ya conoce la lista completa de voluntarios. Para quienes coordinan el escenario escribo: «Una voluntaria ofrece carteles, pero rechaza presentar. Publicar quiénes sí hablarán la delataría por comparación con la lista completa, aunque omitiéramos su nombre».",
+    "cloze": "la delataría",
+    "answer": "la delataría",
+    "lemma": "delatar",
+    "meaning": "would reveal her identity",
+    "audio": "work/audio/es-MX/06/es-06-0810.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0811",
+    "sentence": "En el chat del montaje, Pedro propone trabajar también el domingo. Una persona que ya había confirmado su ayuda responde que no acepta ese cambio y cancela su participación; pide que al resto del festival no se le dé su nombre. En el aviso para el equipo de programación escribo: «Una persona que había confirmado su ayuda se ha retirado del montaje ante la propuesta de trabajar también el domingo; el plan ya no cuenta con toda la ayuda anunciada».",
+    "cloze": "se ha retirado",
+    "answer": "se ha retirado",
+    "lemma": "retirarse",
+    "meaning": "has withdrawn",
+    "audio": "work/audio/es-MX/06/es-06-0811.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0812",
+    "sentence": "A los promotores invitados les aclaro: «El nuevo cargo de Inés no deja sin efecto su reserva sobre el uso exclusivo del patio; esa reserva sigue siendo personal y el comité aún no ha tomado postura». En la reunión vecinal, Inés había rechazado reservar el patio solo para conciertos y Omar había defendido esa propuesta. Ahora que preside el comité, Inés confirma su opinión, pero advierte que no puede hablar por él.",
+    "cloze": "deja sin efecto",
+    "answer": "deja sin efecto",
+    "lemma": "dejar sin efecto",
+    "meaning": "cancels",
+    "audio": "work/audio/es-MX/06/es-06-0812.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0813",
+    "sentence": "En una consulta privada, unas personas critican el reparto y otras lo defienden. Todas permiten resumir sus posturas sin nombres. La coordinación acepta responder por la fidelidad del resumen, aunque no ha comprobado las quejas. En su informe a los nuevos responsables escribe: «La coordinación se hace responsable de transmitir fielmente las posiciones recibidas; las críticas proceden de la consulta y no se presentan como hechos que hayamos verificado».",
+    "cloze": "se hace responsable",
+    "answer": "se hace responsable",
+    "lemma": "hacerse responsable",
+    "meaning": "takes responsibility",
+    "audio": "work/audio/es-MX/06/es-06-0813.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0814",
+    "sentence": "—Los observadores externos necesitan un resumen de la reunión cerrada. La encargada dijo que todas las solicitudes de cambio recibieron respuesta; una participante lo negó sobre la suya. Ella permite informar la diferencia, pero excluye su nombre y los datos para localizar su solicitud. —Les escribo: «La afirmación de que todas recibieron respuesta no puede cotejarse aquí con la solicitud mencionada en la objeción, cuyos datos no pueden circular; sigue sin resolverse la diferencia entre la encargada y quien dice que su solicitud no recibió respuesta».",
+    "cloze": "puede cotejarse",
+    "answer": "puede cotejarse",
+    "lemma": "poder cotejarse",
+    "meaning": "can be cross-checked",
+    "audio": "work/audio/es-MX/06/es-06-0814.mp3",
+    "accepted_answers": [
+      "se puede cotejar"
+    ]
+  },
+  {
+    "id": "es-06-0815",
+    "sentence": "En el chat familiar, Elena propone apuntar a cada familia completa para atender la mesa del barrio. Un padre acepta ir él, pero sus hijos no quieren participar; permiten comunicar la diferencia sin nombres ni parentescos. Para el equipo vecinal escribo: «El resultado de la consulta se desglosa en decisiones individuales: una persona acepta ayudar y otras rechazan participar; no se anunciará una aceptación conjunta que esas respuestas no sostienen».",
+    "cloze": "se desglosa",
+    "answer": "se desglosa",
+    "lemma": "desglosarse",
+    "meaning": "is broken down",
+    "audio": "work/audio/es-MX/06/es-06-0815.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0816",
+    "sentence": "En la discusión del taller, Luis propone publicar los relatos completos. Eva dice: «La idea me interesa, pero todavía no doy mi aprobación; primero quiero que cada autor revise su texto». Permite informar su postura sin identificarla. Para la imprenta, que pide saber si hay acuerdo, escribo: «Después de esa revisión habrá que recabar el apoyo que quedó pendiente: la respuesta que podemos comunicar sin nombre expresa interés, pero no promete una aprobación automática».",
+    "cloze": "habrá que recabar",
+    "answer": "habrá que recabar",
+    "lemma": "haber que recabar",
+    "meaning": "it will be necessary to obtain",
+    "audio": "work/audio/es-MX/06/es-06-0816.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0817",
+    "sentence": "En la prueba privada del registro, el diseñador afirma que cualquiera puede completarlo sin ayuda. Una participante cuenta que lo intentó y no pudo; permite comunicar su experiencia, pero no su nombre ni el puesto con que la presentaron. Los organizadores del curso preguntan si, sin ese puesto, queda algo que responder. Les escribo: «Lo que pone en entredicho la afirmación del diseñador es el intento fallido comunicado durante la prueba, no un cargo; esa experiencia tampoco demuestra que nadie pueda registrarse sin ayuda».",
+    "cloze": "pone en entredicho",
+    "answer": "pone en entredicho",
+    "lemma": "poner en entredicho",
+    "meaning": "calls into question",
+    "audio": "work/audio/es-MX/06/es-06-0817.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0818",
+    "sentence": "En los comentarios internos, una colaboradora critica el orden del programa y otro lo defiende. Ella permite que la comisión transmita su crítica sin nombre, pero no que la presente como postura colectiva. La comisión tampoco ha decidido. En la carta a los invitados escribe: «La comisión no hace suya la crítica al orden del programa; comunica una objeción recibida que sigue en discusión frente a la defensa del orden actual».",
+    "cloze": "hace suya",
+    "answer": "hace suya",
+    "lemma": "hacer suyo",
+    "meaning": "adopts as its own",
+    "audio": "work/audio/es-MX/06/es-06-0818.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0819",
+    "sentence": "El resumen para difusión dice: «La lista de quienes aceptan aparecer con nombre y foto no enumera a todas las personas que aceptan un agradecimiento: también se recibió una aceptación del reconocimiento sin identificación, junto con el rechazo del formato propuesto». Así recojo la conversación privada en que Sara propuso reconocer a todos con nombre y foto. Beto respondió: «Así no participo; sí acepto un agradecimiento sin identificarme», y permitió resumir esa respuesta.",
+    "cloze": "enumera",
+    "answer": "enumera",
+    "lemma": "enumerar",
+    "meaning": "lists",
+    "audio": "work/audio/es-MX/06/es-06-0819.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0820",
+    "sentence": "En el intercambio privado del equipo, Mario defiende su propuesta de alargar las reuniones y una compañera la critica. Ella pide omitir su nombre del informe, pero ofrece contestar preguntas por medio de la coordinadora. Mario después propone una duración menor; la compañera aún no responde a ese ajuste. Para los revisores externos escribo: «La respuesta pendiente al ajuste de duración no puede reemplazarse por la valoración de la coordinadora; falta lo que diga quien formuló la crítica y ofreció contestar por medio de ella».",
+    "cloze": "puede reemplazarse",
+    "answer": "puede reemplazarse",
+    "lemma": "poder reemplazarse",
+    "meaning": "can be replaced",
+    "audio": "work/audio/es-MX/06/es-06-0820.mp3",
+    "accepted_answers": [
+      "se puede reemplazar"
+    ]
+  },
+  {
+    "id": "es-06-0821",
+    "sentence": "La propuesta de grabar las reuniones generó un rechazo en el chat del edificio: la administradora la defendió y una vecina explicó que no quería que su intervención llegara a su familia. Ella permite comunicar su rechazo, pero excluye su nombre y esa razón personal. Para los residentes ajenos al chat escribo: «Presentar la objeción como un permiso para grabar todo salvo una voz la desfiguraría: lo comunicado es un rechazo a que se graben las reuniones».",
+    "cloze": "la desfiguraría",
+    "answer": "la desfiguraría",
+    "lemma": "desfigurar",
+    "meaning": "would distort it",
+    "audio": "work/audio/es-MX/06/es-06-0821.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0822",
+    "sentence": "En la revisión privada, Leo rechaza el nuevo programa y Eva pide cambios, sin rechazarlo completo. Ambos permiten resumir sus críticas sin nombres, pero no firmar una declaración por ellos. Para los organizadores que quieren anunciar un frente común escribo: «El permiso para resumir las críticas no autoriza a presentar a sus autores como firmantes de un rechazo conjunto; las objeciones recibidas tienen distinto alcance».",
+    "cloze": "autoriza",
+    "answer": "autoriza",
+    "lemma": "autorizar",
+    "meaning": "authorizes",
+    "audio": "work/audio/es-MX/06/es-06-0822.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0823",
+    "sentence": "Raúl afirmó en la reunión del voluntariado que el nuevo reparto ya resolvía todas las objeciones. Después, una participante escribió que la suya seguía pendiente y permitió comunicarlo sin nombre. El balance para los nuevos coordinadores dice: «Este balance no da por cerrado el desacuerdo sobre el reparto: además de la valoración favorable de Raúl, se recibió una objeción que su autora mantiene».",
+    "cloze": "da por cerrado",
+    "answer": "da por cerrado",
+    "lemma": "dar por cerrado",
+    "meaning": "treats as settled",
+    "audio": "work/audio/es-MX/06/es-06-0823.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0824",
+    "sentence": "En la conversación privada, un revisor rechaza el folleto y aclara: «No decido si se publica; solo doy mi opinión». La editora quiere publicarlo. Él permite informar el desacuerdo, pero excluye su nombre y cargo. Para los colaboradores escribo: «Quien expresó el rechazo no se atribuye autoridad para decidir si se publica; su opinión sigue enfrentada a la de la editora, pero no constituye una orden de detener el folleto».",
+    "cloze": "se atribuye",
+    "answer": "se atribuye",
+    "lemma": "atribuirse",
+    "meaning": "claims for himself",
+    "audio": "work/audio/es-MX/06/es-06-0824.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0825",
+    "sentence": "Difusión nos pide un resumen de los correos del festival. Una colaboradora aceptó prestar su patio, pero rechazó que la anunciaran como promotora; el organizador quería presentar así a todos los que prestaran espacios. Ella permite informar el desacuerdo sin nombre ni dirección. Les escribo: «La reserva recibida deja a salvo el préstamo de un espacio; lo que se rechaza es presentar a quien lo presta como promotora del festival».",
+    "cloze": "deja a salvo",
+    "answer": "deja a salvo",
+    "lemma": "dejar a salvo",
+    "meaning": "leaves unaffected",
+    "audio": "work/audio/es-MX/06/es-06-0825.mp3",
+    "accepted_answers": []
   }
 ]
