@@ -6056,5 +6056,255 @@
     "meaning": "we divided the task among ourselves",
     "audio": "work/audio/es-MX/06/es-06-0600.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-0601",
+    "sentence": "Al contar la mudanza, Eva dijo: «Solo vi a Julia acomodar sillas; no sé quién más ayudó». Yo también vi trabajar a Pedro. En mi resumen, la exclusividad recaía en lo que Eva había visto, no en quiénes habían trabajado; mi recuerdo de Pedro no volvía falsa su observación.",
+    "cloze": "recaía",
+    "answer": "recaía",
+    "lemma": "recaer",
+    "meaning": "fell",
+    "audio": "work/audio/es-MX/06/es-06-0601.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0602",
+    "sentence": "Mamá le había dicho a Nico: «Solo ayúdame a escoger mis fotos; no las subas». Nico abrió el álbum familiar, donde ella ya había publicado otras. ¿Publicarlas él? No; ese permiso no lo tenía, aunque mamá hubiera subido las suyas. Mejor dejarle la selección lista.",
+    "cloze": "Publicarlas",
+    "answer": "Publicarlas",
+    "lemma": "publicar",
+    "meaning": "publish them",
+    "audio": "work/audio/es-MX/06/es-06-0602.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0603",
+    "sentence": "Clara me contó su enojo con Luis: «No lo culpo por el retraso del camión, sino por no avisarme». Después supe que él tampoco tenía batería. En aquel reproche, Clara lo eximía de culpa por el transporte; no por el silencio. El dato de la batería aún no formaba parte de su juicio.",
+    "cloze": "lo eximía",
+    "answer": "lo eximía",
+    "lemma": "eximir",
+    "meaning": "exempted him",
+    "audio": "work/audio/es-MX/06/es-06-0603.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0604",
+    "sentence": "Elena dijo: «Si cancelan la función, no será por falta de público; ya se vendieron todos los boletos». Nosotros supimos después que sí la cancelaron. Si resumimos su frase como «Elena explicó por qué se canceló», presuponemos dentro de su explicación una cancelación que ella todavía planteaba como posibilidad.",
+    "cloze": "presuponemos",
+    "answer": "presuponemos",
+    "lemma": "presuponer",
+    "meaning": "we presuppose",
+    "audio": "work/audio/es-MX/06/es-06-0604.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0605",
+    "sentence": "En el club, Berta dijo: «Prefiero el cuento del concurso, no el de mi vecino; ese final no me gustó». Yo sé que su vecino escribió ambos, pero ella no. No contrapongas a los autores al resumir su preferencia: Berta comparó dos cuentos, sin saber que eran de la misma persona.",
+    "cloze": "contrapongas",
+    "answer": "contrapongas",
+    "lemma": "contraponer",
+    "meaning": "set in opposition",
+    "audio": "work/audio/es-MX/06/es-06-0605.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0606",
+    "sentence": "«De tu primer borrador solo me convence el diálogo; el resto necesita trabajo», me dijo la maestra. Desde entonces cambié todo menos ese diálogo. Tú acabas de leer la versión final: no generalices la crítica de la maestra a esta versión, que ella nunca leyó.",
+    "cloze": "generalices",
+    "answer": "generalices",
+    "lemma": "generalizar",
+    "meaning": "generalize",
+    "audio": "work/audio/es-MX/06/es-06-0606.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0607",
+    "sentence": "Rosa esperaba que todos pidieran ayuda menos Pablo, a quien creía experto. «Hasta Pablo preguntó cómo empezar», nos contó. Yo sabía que él apenas aprendía. Al narrarlo, conservo lo que a Rosa le extrañaba: que pidiera ayuda alguien a quien creía capaz de empezar solo; no presento a Pablo como experto por mi cuenta.",
+    "cloze": "le extrañaba",
+    "answer": "le extrañaba",
+    "lemma": "extrañar",
+    "meaning": "surprised her",
+    "audio": "work/audio/es-MX/06/es-06-0607.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0608",
+    "sentence": "Antes de cambiarme al turno de la mañana, Alicia nos dijo a los de la tarde: «Solo ustedes quedan libres de cerrar el viernes por haber cerrado ayer; nosotros cerramos». El viernes ya estoy con ella en la mañana. Puedo acogerme a aquella excepción por el trabajo que hice con mi antiguo turno; mis compañeros actuales no quedan libres por trabajar ahora conmigo.",
+    "cloze": "acogerme",
+    "answer": "acogerme",
+    "lemma": "acogerse",
+    "meaning": "avail myself",
+    "audio": "work/audio/es-MX/06/es-06-0608.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0609",
+    "sentence": "Papá dijo: «Solo si van tus primos consideraré prestarles la casa; todavía tengo que pensarlo». Los primos fueron y al final sí prestó la casa. Al decir que desde el principio bastaba con que fueran, convertirías su condición para considerar el préstamo en una promesa; el desenlace no autoriza ese cambio.",
+    "cloze": "convertirías",
+    "answer": "convertirías",
+    "lemma": "convertir",
+    "meaning": "you would turn",
+    "audio": "work/audio/es-MX/06/es-06-0609.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0610",
+    "sentence": "En la entrevista, Julia dijo: «No discuto quién autorizó el cambio; niego que se haya cambiado el horario». Ahora tenemos pruebas del cambio. Su respuesta no concedía el hecho para concentrarse en el responsable: rechazaba ese hecho, aunque hoy sepamos que ocurrió.",
+    "cloze": "concedía",
+    "answer": "concedía",
+    "lemma": "conceder",
+    "meaning": "conceded",
+    "audio": "work/audio/es-MX/06/es-06-0610.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0611",
+    "sentence": "Desde su casa, mi hermana pidió: «Solo aquí quiero la reunión, no en casa de mamá». Yo vivo con mamá y contesté desde nuestra sala: «Yo también la quiero solo aquí». Al pasar de su mensaje al mío, parecía que coincidíamos en la sede, pero cada «aquí» elegía una casa distinta y dejaba fuera la que la otra persona quería. Todavía teníamos que acordar dónde reunirnos.",
+    "cloze": "coincidíamos",
+    "answer": "coincidíamos",
+    "lemma": "coincidir",
+    "meaning": "we agreed",
+    "audio": "work/audio/es-MX/06/es-06-0611.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0612",
+    "sentence": "Raúl me contó: «El acomodador dijo que solo habían entrado invitados; yo vi entrar también a una vecina sin invitación». Mi resumen, sin embargo, dice «Raúl aseguró que solo entraron invitados». Antes de desautorizarlo por la vecina, corrijo el resumen: Raúl la mencionó precisamente contra la exclusividad del acomodador.",
+    "cloze": "desautorizarlo",
+    "answer": "desautorizarlo",
+    "lemma": "desautorizar",
+    "meaning": "discredit him",
+    "audio": "work/audio/es-MX/06/es-06-0612.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0613",
+    "sentence": "Inés había dicho: «De estas dos habitaciones, solo me sirve la del patio; no he visto las demás». Más tarde me mostraron otra, todavía más tranquila, que Inés no había visto. No puedo dar por descartadas las demás habitaciones en nombre de Inés: su «solo» comparaba la del patio con la otra que conocía.",
+    "cloze": "dar por descartadas",
+    "answer": "dar por descartadas",
+    "lemma": "dar por descartado",
+    "meaning": "treat as ruled out",
+    "audio": "work/audio/es-MX/06/es-06-0613.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0614",
+    "sentence": "Tomás estimó: «No es imposible que venga Ana; solo lo veo poco probable porque trabaja». Nosotros ya sabíamos que Ana había llegado, pero él aún no la había visto entrar. Para Tomás, la llegada seguía siendo una posibilidad remota; no la daba por imposible.",
+    "cloze": "la daba por imposible",
+    "answer": "la daba por imposible",
+    "lemma": "dar por imposible",
+    "meaning": "treated it as impossible",
+    "audio": "work/audio/es-MX/06/es-06-0614.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0615",
+    "sentence": "«Te apoyo con el festival, pero no prometí estar todos los días; solo ofrecí ir el sábado», me aclaró Lucía. Después terminó ayudando toda la semana. Al recordar aquella respuesta, no diré que se retractaba del apoyo: corrigió la duración que yo le atribuía, y su ayuda posterior fue más amplia que su oferta.",
+    "cloze": "se retractaba",
+    "answer": "se retractaba",
+    "lemma": "retractarse",
+    "meaning": "was retracting",
+    "audio": "work/audio/es-MX/06/es-06-0615.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0616",
+    "sentence": "Omar leyó un aviso: «Solo digo que aquí anuncian la apertura; no sé si ya abrieron». Hoy entramos al local, pero al recordar aquel momento volvemos a Omar frente al aviso. Del anuncio podía hablarnos; de que ya hubieran abierto no podía dar fe.",
+    "cloze": "dar fe",
+    "answer": "dar fe",
+    "lemma": "dar fe",
+    "meaning": "vouch",
+    "audio": "work/audio/es-MX/06/es-06-0616.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0617",
+    "sentence": "En el taller, Leo dijo: «No rechazo esa idea; solo pido que no la repitan como si fuera nueva». La idea era mía, pero él no lo sabía. Ahora que respondo como autora, puedo retomarla reconociendo que ya se había presentado: su límite se refería a repetirla como novedad, no a que yo volviera a proponerla.",
+    "cloze": "retomarla",
+    "answer": "retomarla",
+    "lemma": "retomar",
+    "meaning": "return to it",
+    "audio": "work/audio/es-MX/06/es-06-0617.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0618",
+    "sentence": "«Solo puedes enseñarle mi texto a la vecina de arriba, no a todo su equipo», me pidió Sara. Yo sabía que la vecina dirigía la revista; Sara no. Su permiso restringía la lectura a esa persona. Al presentarla como directora, no puedo convertir el permiso en autorización para que lo revise la redacción.",
+    "cloze": "restringía",
+    "answer": "restringía",
+    "lemma": "restringir",
+    "meaning": "restricted",
+    "audio": "work/audio/es-MX/06/es-06-0618.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0619",
+    "sentence": "«No fue solo el borrador lo que mandaste; también mandaste el final», me dijo Nora. Yo respondí: «No mandé ninguno de los dos». Después comprobé que los había enviado juntos sin darme cuenta. En aquella respuesta yo seguía negando los dos envíos; no estaba admitiendo el primero para discutir únicamente el segundo.",
+    "cloze": "seguía negando",
+    "answer": "seguía negando",
+    "lemma": "seguir negando",
+    "meaning": "was still denying",
+    "audio": "work/audio/es-MX/06/es-06-0619.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0620",
+    "sentence": "La directora le dijo a Eva: «Sé cuánto trabajaste; no cuestiono tu esfuerzo, sino que falten ejemplos». Nosotros sabemos que los ejemplos se perdieron al imprimir; ella aún no lo sabía. En cuanto al esfuerzo, se lo reconocía a Eva; no confundamos su crítica al resultado que vio con una acusación de flojera.",
+    "cloze": "se lo reconocía",
+    "answer": "se lo reconocía",
+    "lemma": "reconocer",
+    "meaning": "gave her credit for it",
+    "audio": "work/audio/es-MX/06/es-06-0620.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0621",
+    "sentence": "«No digo que la distancia no influyera; digo que no fue la única razón por la que se mudó», señaló Andrea. Ella también mencionó el ruido y aclaró que no conocía todos los motivos. En mi resumen junté ambos factores bajo «molestias del departamento», pero esas molestias no agotaban las posibilidades que Andrea dejaba abiertas; escribir «se mudó solo por eso» haría pasar mi agrupación por una lista completa.",
+    "cloze": "agotaban",
+    "answer": "agotaban",
+    "lemma": "agotar",
+    "meaning": "exhausted",
+    "audio": "work/audio/es-MX/06/es-06-0621.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0622",
+    "sentence": "Mi mamá organizó la comida: «Todos traen algo; solo mi papá queda libre de cocinar». Yo pasé el recado a mis hijos, que llaman «mi papá» a otra persona. La indicación lo exceptuaba a él, al papá de mi mamá; si conservo esas palabras como mías, cambiaré quién queda libre de cocinar, aunque todos debamos llevar algo.",
+    "cloze": "lo exceptuaba",
+    "answer": "lo exceptuaba",
+    "lemma": "exceptuar",
+    "meaning": "exempted him",
+    "audio": "work/audio/es-MX/06/es-06-0622.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0623",
+    "sentence": "«No digo que no puedas invitar a Julia; digo que yo no puedo recibirla en mi casa», aclaró mi hermana. Yo sabía que ella y Julia se habían peleado; mi hijo no. Al contárselo, no presentaré un veto: mi hermana no se arrogaba la decisión sobre a quién invitar, aunque yo conociera un posible motivo para negarse a hospedarla.",
+    "cloze": "se arrogaba",
+    "answer": "se arrogaba",
+    "lemma": "arrogarse",
+    "meaning": "claimed for herself",
+    "audio": "work/audio/es-MX/06/es-06-0623.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0624",
+    "sentence": "En recepción pedí: «No estoy pidiendo una devolución, sino que me cambien a un cuarto sin ese ruido». Después el encargado me ofreció devolver el pago y acepté. Mi petición inicial desvinculaba el cambio de cuarto de una exigencia de dinero; no era un rechazo anticipado de cualquier devolución que pudieran ofrecerme.",
+    "cloze": "desvinculaba",
+    "answer": "desvinculaba",
+    "lemma": "desvincular",
+    "meaning": "separated",
+    "audio": "work/audio/es-MX/06/es-06-0624.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-0625",
+    "sentence": "El resumen hablaba de apoyo unánime. Marina respondió: «Luis rechazó el plan. No todos los vecinos lo aprobaron; quizá ninguno, porque todavía no veo las otras respuestas». Hoy sabemos que nadie lo aprobó. Marina matizaba la afirmación de unanimidad sin comprometerse a que hubiera algún voto a favor; no convirtamos su corrección en la afirmación de que algunos sí lo apoyaron.",
+    "cloze": "matizaba",
+    "answer": "matizaba",
+    "lemma": "matizar",
+    "meaning": "qualified",
+    "audio": "work/audio/es-MX/06/es-06-0625.mp3",
+    "accepted_answers": []
   }
 ]
