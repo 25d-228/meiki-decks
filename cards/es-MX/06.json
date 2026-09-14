@@ -10076,5 +10076,255 @@
     "meaning": "false unanimity",
     "audio": "work/audio/es-MX/06/es-06-1000.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-1001",
+    "sentence": "Reasignemos a la tarde las horas de tutoría previstas para reforzar la mañana. El recuento nuevo eliminó solicitudes matutinas duplicadas: el horario actual ya cubre esa demanda, mientras por la tarde siguen esperando asesoría alumnos ya inscritos. Puedo repartir esas horas, pero la directora decide el cupo: atender esa espera no respalda anunciar otro grupo ni me permite abrirlo.",
+    "cloze": "Reasignemos",
+    "answer": "Reasignemos",
+    "lemma": "reasignar",
+    "meaning": "let us reassign",
+    "audio": "work/audio/es-MX/06/es-06-1001.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1002",
+    "sentence": "Tras una prueba sin errores, retiramos al auxiliar y propusimos admitir más alumnos. Ahora sabemos que él corrigió cada ejercicio antes de registrarlo. Como responsable de los turnos, restablecería su apoyo para el grupo actual; la directora decide el cupo y no puede contar esas correcciones como capacidad libre para ampliarlo.",
+    "cloze": "restablecería",
+    "answer": "restablecería",
+    "lemma": "restablecer",
+    "meaning": "I would restore",
+    "audio": "work/audio/es-MX/06/es-06-1002.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1003",
+    "sentence": "Las quejas nos llevaron a proponer quitar todos los recordatorios. El registro recuperado muestra que se repiten por falta de confirmación del cupo, aunque las solicitudes ya llegaron. Como responsables de los mensajes, desactivemos solo el aviso de que falta enviarlas: recepción aún debe asignar los lugares y necesitará conservar el aviso de esa decisión.",
+    "cloze": "desactivemos",
+    "answer": "desactivemos",
+    "lemma": "desactivar",
+    "meaning": "let us deactivate",
+    "audio": "work/audio/es-MX/06/es-06-1003.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1004",
+    "sentence": "—¿Pido otro libro por el capítulo que parecía faltar? —La foto nueva muestra ese capítulo en su ejemplar, y el comprobante confirma que lo entregaron en otra casa. Yo puedo reponer libros incompletos; el encargado de envíos decide los repartos. Por eso canalizaría su solicitud al encargado para recuperar esa entrega, conservando su pedido.",
+    "cloze": "canalizaría",
+    "answer": "canalizaría",
+    "lemma": "canalizar",
+    "meaning": "I would direct",
+    "audio": "work/audio/es-MX/06/es-06-1004.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1005",
+    "sentence": "Reactivemos la consulta sobre el camión, sin restablecer automáticamente las reservas que cancelamos. Los mensajes devueltos explican por qué parecía que nadie quería asistir; varias familias ya confirmaron su interés por teléfono. La escuela mantiene la visita, pero cada familia decide si usa el transporte: ahora hay interés comprobado en asistir, todavía no en viajar juntos.",
+    "cloze": "Reactivemos",
+    "answer": "Reactivemos",
+    "lemma": "reactivar",
+    "meaning": "let us reactivate",
+    "audio": "work/audio/es-MX/06/es-06-1005.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1006",
+    "sentence": "La nueva prueba confirma que podemos preparar las fichas más rápido, pero ahora se acumulan esperando la aprobación de sus autores. Yo organizo las entregas, no apruebo sus textos. Recomendaré una entrega inicial de las fichas ya autorizadas, seguida de las pendientes: el ahorro permite adelantar material, no comprometer una aprobación ajena para prometer todo antes.",
+    "cloze": "Recomendaré",
+    "answer": "Recomendaré",
+    "lemma": "recomendar",
+    "meaning": "I will recommend",
+    "audio": "work/audio/es-MX/06/es-06-1006.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1007",
+    "sentence": "Desistiría de mi petición de acortar el taller. La había hecho porque varios niños se iban antes del cierre; sus familias aclaran ahora que el transporte pasaba temprano y que sí quieren la actividad completa. Como tallerista puedo cambiar el contenido, pero la salida depende de quien organiza el camión: la petición pendiente corresponde a ese horario, no a la duración de la actividad.",
+    "cloze": "Desistiría",
+    "answer": "Desistiría",
+    "lemma": "desistir",
+    "meaning": "I would withdraw",
+    "audio": "work/audio/es-MX/06/es-06-1007.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1008",
+    "sentence": "Revoquemos la orden de excluir las fotos por mala calidad. El impresor acaba de comprobar que usó vistas previas y que los originales salen nítidos, aunque mantener todas las fotos excede las páginas previstas. Podemos cambiar nuestra orden editorial, pero los fotógrafos deciden los recortes; la reducción del programa aún necesita una selección que conserve completas las imágenes elegidas.",
+    "cloze": "Revoquemos",
+    "answer": "Revoquemos",
+    "lemma": "revocar",
+    "meaning": "let us revoke",
+    "audio": "work/audio/es-MX/06/es-06-1008.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1009",
+    "sentence": "¿Podemos alargar toda la muestra? Las nuevas copias autorizadas permiten leer las cartas, aunque todavía alteran los colores. Yo decido la duración; sus dueños fijaron la devolución de los originales. Prorroguemos únicamente la lectura pública con copias: esa parte ya puede continuar tras la devolución, mientras la comparación de tintas depende de que los dueños acepten otro préstamo.",
+    "cloze": "Prorroguemos",
+    "answer": "Prorroguemos",
+    "lemma": "prorrogar",
+    "meaning": "let us extend",
+    "audio": "work/audio/es-MX/06/es-06-1009.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1010",
+    "sentence": "El registro corregido muestra que las visitas aumentaron solo el día gratuito, no en las sesiones de pago. La biblioteca presta espacio por fecha y cada narrador decide sus presentaciones. Redimensionemos la propuesta a una nueva jornada gratuita por negociar con ambos: el resultado permite proponer otra prueba en esas condiciones, pero no dar por respaldado ni comprometido el ciclo semanal de pago.",
+    "cloze": "Redimensionemos",
+    "answer": "Redimensionemos",
+    "lemma": "redimensionar",
+    "meaning": "let us rescale",
+    "audio": "work/audio/es-MX/06/es-06-1010.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1011",
+    "sentence": "Las entregas tardías parecían exigir más personal de captura. La revisión muestra que se atascan al corregir preguntas ambiguas que solo sus autores pueden cambiar. Como responsable de captura, devolvería esas preguntas a sus autores para que las aclaren; el equipo actual puede seguir registrando las respuestas a las preguntas claras. Pedir más capturistas no resolvería las decisiones sobre el contenido que frenan las demás entregas.",
+    "cloze": "devolvería",
+    "answer": "devolvería",
+    "lemma": "devolver",
+    "meaning": "I would return",
+    "audio": "work/audio/es-MX/06/es-06-1011.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1012",
+    "sentence": "¿El ensayo fallido te obliga a retirar también tu oferta de sala? El ensayo falló en el patio, pero la nueva prueba confirma que las mismas voces se oyen bien dentro. Ratificaría mi oferta de prestar la sala para el concierto; el coro todavía debe decidir el traslado y la administración del patio, si acepta cancelar su reserva.",
+    "cloze": "Ratificaría",
+    "answer": "Ratificaría",
+    "lemma": "ratificar",
+    "meaning": "I would reaffirm",
+    "audio": "work/audio/es-MX/06/es-06-1012.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1013",
+    "sentence": "—La lista nueva muestra que quienes pidieron la lectura nocturna también necesitan el transporte temprano. ¿Anunciamos las dos opciones? —Reajustemos juntos esas horas antes de abrir reservas: yo fijo el inicio de la lectura y ustedes, los horarios del camión. Ofrecer ambas ventajas por separado dejaría a ese mismo público sin poder quedarse a escuchar.",
+    "cloze": "Reajustemos",
+    "answer": "Reajustemos",
+    "lemma": "reajustar",
+    "meaning": "let us readjust",
+    "audio": "work/audio/es-MX/06/es-06-1013.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1014",
+    "sentence": "El recorrido corto ya se probó y sí ahorra tiempo, pero ahora deja al grupo lejos del punto donde prometimos devolverlo. Como guía puedo elegir las paradas; usted decide el recorrido del camión. Con usted concertaría la recogida junto a la nueva salida y el traslado al punto prometido, conservando por ahora el recorrido anterior: falta comprobar cuánto dura ese regreso.",
+    "cloze": "concertaría",
+    "answer": "concertaría",
+    "lemma": "concertar",
+    "meaning": "I would arrange",
+    "audio": "work/audio/es-MX/06/es-06-1014.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1015",
+    "sentence": "Aplazaría únicamente la versión sonora y conservaría la selección escrita. La revisión nueva confirma los nombres de los entrevistados, pero descubre que dos autorizaron citar sus palabras, no publicar su voz. Yo selecciono fragmentos; ellos deciden sobre la grabación. La identificación ya comprobada permite cerrar las citas, pero no resuelve la autorización que necesita el audio.",
+    "cloze": "Aplazaría",
+    "answer": "Aplazaría",
+    "lemma": "aplazar",
+    "meaning": "I would postpone",
+    "audio": "work/audio/es-MX/06/es-06-1015.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1016",
+    "sentence": "¿Otra capacitación para reducir las consultas? Al clasificarlas vimos que casi todas piden excepciones que el personal no puede conceder; sí aplica bien las instrucciones. Reconduzcamos la propuesta hacia una sesión de decisiones con la coordinadora: el equipo puede preparar los casos, mientras ella resuelve cuáles excepciones cambian las respuestas que después dará el personal.",
+    "cloze": "Reconduzcamos",
+    "answer": "Reconduzcamos",
+    "lemma": "reconducir",
+    "meaning": "let us redirect",
+    "audio": "work/audio/es-MX/06/es-06-1016.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1017",
+    "sentence": "El montaje simultáneo parecía imposible por falta de mesas; el inventario nuevo confirma que alcanzan, pero solo después de que termine el taller infantil. Yo organizo el montaje y la maestra decide cuándo libera las mesas. Escalonemos la instalación alrededor de esa entrega, dejando preparada la parte que no las usa; tener suficientes mesas no me permite adelantar el cierre del taller.",
+    "cloze": "Escalonemos",
+    "answer": "Escalonemos",
+    "lemma": "escalonar",
+    "meaning": "let us stagger",
+    "audio": "work/audio/es-MX/06/es-06-1017.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1018",
+    "sentence": "La prueba con letra grande ya permite leer los avisos, pero las preguntas nuevas muestran que dos instrucciones se contradicen. Yo decido el diseño; usted, el procedimiento. Sostendría la ampliación de letra y le devolvería esas dos instrucciones para resolverlas antes de imprimir: verlas mejor sigue siendo útil, aunque también haya hecho visible un problema que el diseño no puede decidir.",
+    "cloze": "Sostendría",
+    "answer": "Sostendría",
+    "lemma": "sostener",
+    "meaning": "I would maintain my support for",
+    "audio": "work/audio/es-MX/06/es-06-1018.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1019",
+    "sentence": "Pensábamos anunciar que todos los pedidos estarían listos antes. El registro corregido confirma que el taller ahorra un día, pero la tienda sigue entregando solo los sábados y decide su calendario. Limitemos el adelanto a la opción de recoger directamente en el taller: podemos ofrecerla nosotros; prometerlo también en tienda convertiría nuestro ahorro en un compromiso que no controla el taller.",
+    "cloze": "Limitemos",
+    "answer": "Limitemos",
+    "lemma": "limitar",
+    "meaning": "let us limit",
+    "audio": "work/audio/es-MX/06/es-06-1019.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1020",
+    "sentence": "Retengamos el papel anterior para las ilustraciones. Las pruebas muestran que el nuevo sirve para el texto, pero deja ver las imágenes del reverso. Yo elijo los materiales; la ilustradora decide si sus dibujos pueden ir aparte. Podemos usar ambos papeles en el libro; para usar solo el nuevo en el volumen principal, ella tendría que aceptar un cuadernillo de ilustraciones en el papel anterior.",
+    "cloze": "Retengamos",
+    "answer": "Retengamos",
+    "lemma": "retener",
+    "meaning": "let us retain",
+    "audio": "work/audio/es-MX/06/es-06-1020.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1021",
+    "sentence": "La aclaración de la encuesta muestra que los titulares de pases piden entradas sueltas para sus invitados, no cancelar sus propios lugares. Como organizador administro los asientos libres; cada titular decide sobre su pase. Liberemos para esas visitas solo los asientos sin asignar: hay demanda adicional, pero no los lugares disponibles que habíamos supuesto.",
+    "cloze": "Liberemos",
+    "answer": "Liberemos",
+    "lemma": "liberar",
+    "meaning": "let us release",
+    "audio": "work/audio/es-MX/06/es-06-1021.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1022",
+    "sentence": "Ya vimos en el registro que la mudanza se demoró al esperar las llaves, no al cargar las cajas. Yo organizo a quienes cargan; tú acuerdas la entrega con la dueña. Reordenaría la ayuda para después de esa entrega, manteniendo a las mismas personas: añadir cargadores antes no resolvería la espera ni me daría control sobre cuándo podemos entrar.",
+    "cloze": "Reordenaría",
+    "answer": "Reordenaría",
+    "lemma": "reordenar",
+    "meaning": "I would reorder",
+    "audio": "work/audio/es-MX/06/es-06-1022.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1023",
+    "sentence": "¿Aceleramos el baile? El video completo muestra que los cambios de música fallan al esperar la señal del baile; por separado, ambas partes salen a tiempo. Yo puedo convocar al elenco, pero el sonidista decide su disponibilidad. Solicitemos un ensayo conjunto antes de pedirle al elenco que acelere: otra práctica nuestra a solas no probaría esa coordinación.",
+    "cloze": "Solicitemos",
+    "answer": "Solicitemos",
+    "lemma": "solicitar",
+    "meaning": "let us request",
+    "audio": "work/audio/es-MX/06/es-06-1023.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1024",
+    "sentence": "La prueba nueva mostró que los visitantes encuentran las salas con el mapa, pero siguen necesitando ayuda para consultar las cajas. Yo decido la orientación de entrada; la archivista autoriza las consultas. Reduciríamos la explicación del recorrido, conservando el acompañamiento hasta que ella reciba cada solicitud: saber llegar no convierte la consulta en libre acceso ni vuelve innecesario ese enlace.",
+    "cloze": "Reduciríamos",
+    "answer": "Reduciríamos",
+    "lemma": "reducir",
+    "meaning": "we would shorten",
+    "audio": "work/audio/es-MX/06/es-06-1024.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1025",
+    "sentence": "La prueba en casa mostró que varios alumnos comparten un teléfono: pueden descargar las tareas por turnos, pero no conectarse todos a la sesión en vivo. Como maestra, flexibilizaría la forma de participar, con una grabación descargable y preguntas enviadas por turnos, si la dirección aprueba esa alternativa. Las tareas descargables sí puedo conservarlas mientras decide; por sí solas no resuelven la participación en la sesión.",
+    "cloze": "flexibilizaría",
+    "answer": "flexibilizaría",
+    "lemma": "flexibilizar",
+    "meaning": "I would make more flexible",
+    "audio": "work/audio/es-MX/06/es-06-1025.mp3",
+    "accepted_answers": []
   }
 ]
