@@ -11856,5 +11856,305 @@
     "meaning": "withdraw me",
     "audio": "work/audio/es-MX/06/es-06-1178.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-1179",
+    "sentence": "La agencia dice que el hotel confirmó nuestra llegada tardía; el hotel dice que solo repitió lo que la agencia le atribuyó. Yo aceptaría el traslado si alguien entregara las llaves, pero nadie ha asumido esa entrega. Por favor, enlácenos en una misma llamada con ambos responsables: necesitamos acordar quién nos recibirá antes de confirmar el traslado, no otra confirmación basada en el mismo recado.",
+    "cloze": "enlácenos",
+    "answer": "enlácenos",
+    "lemma": "enlazar",
+    "meaning": "connect us",
+    "audio": "work/audio/es-MX/06/es-06-1179.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1180",
+    "sentence": "La agencia presenta nuestro rechazo al hotel lejano como una renuncia al paseo. Rechazamos ese hotel porque el guía dijo que el recorrido terminaría allí; él aclara que puede dejarnos en el centro, donde tenemos alojamiento desde mañana. Nos hospedaríamos esta noche cerca de la salida si la agencia consigue un cuarto y el guía confirma el regreso al centro; mantenemos nuestro interés en el paseo.",
+    "cloze": "Nos hospedaríamos",
+    "answer": "Nos hospedaríamos",
+    "lemma": "hospedarse",
+    "meaning": "we would stay",
+    "audio": "work/audio/es-MX/06/es-06-1180.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1181",
+    "sentence": "Administración afirma que ya recibí la llave porque el técnico firmó la entrega. Él aclara que recibió la única copia para revisar la puerta y que aún la tiene. Acepté la reparación si podía seguir entrando a casa. Cuando termine la revisión, entréguenmela a mí; si el técnico necesita conservarla para volver, falta acordar otra copia antes de confirmar esa segunda visita.",
+    "cloze": "entréguenmela",
+    "answer": "entréguenmela",
+    "lemma": "entregar",
+    "meaning": "give it to me",
+    "audio": "work/audio/es-MX/06/es-06-1181.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1182",
+    "sentence": "La dueña dice que acepté dejar todo el departamento para pintar; yo ofrecí liberar cada cuarto cuando le tocara. El pintor solo recibió la versión de ella y ofreció terminar en un día trabajando en todos a la vez. Desocuparía primero la sala, si ambos aceptan revisar ese plazo y trabajar por partes; no puedo mantener su fecha a costa de una salida que no ofrecí.",
+    "cloze": "Desocuparía",
+    "answer": "Desocuparía",
+    "lemma": "desocupar",
+    "meaning": "I would vacate",
+    "audio": "work/audio/es-MX/06/es-06-1182.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1183",
+    "sentence": "Ustedes ofrecen devolver las cajas al remitente porque mi vecina rechazó recibirlas. Ella había aceptado guardarlas solo hasta que yo llegara, pero el repartidor le anunció que serían varios días; yo llego hoy. Las cajas, reténganlas en la sucursal mientras le preguntamos si mantiene su oferta para esta tarde. Todavía no cambien el destino ni presenten mi petición de espera como rechazo de la entrega.",
+    "cloze": "reténganlas",
+    "answer": "reténganlas",
+    "lemma": "retener",
+    "meaning": "hold on to them",
+    "audio": "work/audio/es-MX/06/es-06-1183.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1184",
+    "sentence": "El taller cerró mi reporte porque la tienda registró que acepté el reemplazo. Acepté recibir una muestra para compararla; la tienda omitió que el reemplazo dependía de esa comparación y la muestra aún no llega. Necesito reabrirlo para que siga pendiente la reparación original mientras comparo, sin pedir que realicen ambas soluciones ni dar por rechazada una muestra que todavía no he visto.",
+    "cloze": "reabrirlo",
+    "answer": "reabrirlo",
+    "lemma": "reabrir",
+    "meaning": "reopen it",
+    "audio": "work/audio/es-MX/06/es-06-1184.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1185",
+    "sentence": "La administración anotó que acepté una rebaja en lugar de limpiar el departamento. Yo pedí que se me descontara la noche que pasé fuera mientras limpiaban; quien atendió mi llamada solo transmitió la palabra «descuento». Reitero esa petición por la noche perdida y el pedido de limpieza antes de volver. Una rebaja por quedarme sin limpieza sería otra oferta, que todavía no me han hecho.",
+    "cloze": "Reitero",
+    "answer": "Reitero",
+    "lemma": "reiterar",
+    "meaning": "I reiterate",
+    "audio": "work/audio/es-MX/06/es-06-1185.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1186",
+    "sentence": "La tienda propone cobrarme otra entrega porque, según el chofer, yo no estaba. Él confirma ahora que fue a la dirección anterior, aunque yo había recibido la confirmación del cambio. La nueva entrega está en preparación: suspéndanla mientras acuerdan conmigo el domicilio y aclaran ese cargo; quiero recibir el pedido, pero repetir el envío con el mismo dato no resolvería el primer intento.",
+    "cloze": "suspéndanla",
+    "answer": "suspéndanla",
+    "lemma": "suspender",
+    "meaning": "pause it",
+    "audio": "work/audio/es-MX/06/es-06-1186.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1187",
+    "sentence": "La encargada sostiene que acordamos recoger el pedido hoy; yo recuerdo que hoy nos diría cuándo estaría listo. Su compañera cita como prueba mi mensaje «Gracias», pero lo envié antes de recibir la fecha añadida. Los mensajes completos, contrastémoslos antes de decidir quién recogerá: mi hermano solo ofreció hacerlo si coincidía con su salida y aún no conoce una hora confirmada.",
+    "cloze": "contrastémoslos",
+    "answer": "contrastémoslos",
+    "lemma": "contrastar",
+    "meaning": "let us compare them",
+    "audio": "work/audio/es-MX/06/es-06-1187.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1188",
+    "sentence": "La recepción atribuye al huésped el cambio de cuarto; fui yo quien lo pidió al resumir su queja por ruido, sin preguntarle. Él aceptaría cambiar si no tuviera que trasladar las maletas, pero el personal de apoyo aún no confirma. Como encargado, me hago responsable de organizar ese traslado antes de volver a ofrecerle el cambio; no le pediré que solucione una condición que mi resumen omitió.",
+    "cloze": "me hago responsable",
+    "answer": "me hago responsable",
+    "lemma": "hacerse responsable",
+    "meaning": "I take responsibility",
+    "audio": "work/audio/es-MX/06/es-06-1188.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1189",
+    "sentence": "Mi acompañante aceptó cambiar de asiento porque le dijeron que seguiríamos juntas. El conductor entendió que aceptaba separarse y le asignó uno lejos del mío. Una pasajera sentada junto a mi acompañante ofrece cambiar conmigo, pero solo si conserva un asiento de pasillo; mi asiento lo es. Si ella mantiene su oferta al verlo, intercámbiennos los lugares a esa pasajera y a mí: así mi acompañante conserva su nuevo asiento sin perder la compañía que pidió.",
+    "cloze": "intercámbiennos",
+    "answer": "intercámbiennos",
+    "lemma": "intercambiar",
+    "meaning": "switch for us",
+    "audio": "work/audio/es-MX/06/es-06-1189.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1190",
+    "sentence": "Ofrecí recoger las llaves si la visita del técnico terminaba antes. La administradora dijo que mi vecino me sustituiría; él solo había ofrecido recibir al técnico, y ahora me confirma que no puede salir del edificio. La visita ya terminó: reasumiré la recogida que ofrecí, si la dueña confirma que todavía puede entregarme las llaves; no hace falta exigirle al vecino una salida que nunca aceptó.",
+    "cloze": "reasumiré",
+    "answer": "reasumiré",
+    "lemma": "reasumir",
+    "meaning": "I will take back responsibility for",
+    "audio": "work/audio/es-MX/06/es-06-1190.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1191",
+    "sentence": "Como anfitriona ofrecí otra noche a cambio de que los huéspedes dejaran entrar al pintor. Mi ayudante les dijo que la noche compensaba el ruido anterior; ellos aceptaron con esa idea y rechazaron la visita. Desvincularé mi oferta de la entrada del pintor y mantendré la noche adicional como compensación. Para pintar buscaré otro momento con ellos; su aceptación ya no tendrá que cubrir ese permiso pendiente.",
+    "cloze": "Desvincularé",
+    "answer": "Desvincularé",
+    "lemma": "desvincular",
+    "meaning": "I will separate",
+    "audio": "work/audio/es-MX/06/es-06-1191.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1192",
+    "sentence": "Mamá pidió que yo leyera las opciones de alojamiento, sin elegir por ella. La agencia anotó mi consulta sobre un cuarto como aceptación suya y el hotel espera autorización para cambiar la reserva. Esa autorización, recábenla directamente de mamá después de explicarle que el cuarto ofrecido no es el de la foto que ella vio; mi ayuda con la lectura sigue disponible, pero no resuelve su elección.",
+    "cloze": "recábenla",
+    "answer": "recábenla",
+    "lemma": "recabar",
+    "meaning": "obtain it",
+    "audio": "work/audio/es-MX/06/es-06-1192.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1193",
+    "sentence": "Pedí que me avisaran por escrito cuando llegara mi turno. Mi acompañante dijo «Yo le aviso» y el personal entendió que podía mandarme a esperar afuera; él solo ofrecía repetir el aviso dentro de la sala. Todavía no acuerdan quién enviará el mensaje. Mientras lo resuelven, atiéndanme aquí cuando corresponda mi turno; no quiero perderlo por una salida que ninguno de los dos propuso.",
+    "cloze": "atiéndanme",
+    "answer": "atiéndanme",
+    "lemma": "atender",
+    "meaning": "serve me",
+    "audio": "work/audio/es-MX/06/es-06-1193.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1194",
+    "sentence": "Usted ofrece explicarme de nuevo por teléfono y mi hija dice que ya entendí porque asentí. Yo asentí cuando me preguntó si la oía; todavía no me queda claro cuál visita requiere que esté presente. Antes de que mi hija confirme que me acompañará, transcríbame las dos opciones con ese dato. Ella solo puede acompañarme a una y yo aún debo escoger, aunque la llamada ya se escuche bien.",
+    "cloze": "transcríbame",
+    "answer": "transcríbame",
+    "lemma": "transcribir",
+    "meaning": "write out for me",
+    "audio": "work/audio/es-MX/06/es-06-1194.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1195",
+    "sentence": "El encargado dice que ya entregó la respuesta a mi petición de acceso; mi acompañante recibió solo un aviso de que estaba en revisión. Usted ofrece reenviarle el resultado, pero él ya no estará conmigo y nunca aceptó seguir de intermediario. Cuando exista el resultado, hágamelo llegar a mí por escrito; todavía no puedo confirmar mi asistencia con aquel aviso de recepción.",
+    "cloze": "hágamelo llegar",
+    "answer": "hágamelo llegar",
+    "lemma": "hacer llegar",
+    "meaning": "send it to me",
+    "audio": "work/audio/es-MX/06/es-06-1195.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1196",
+    "sentence": "Ustedes dicen que el salón sigue ocupado porque las vecinas conservaron las llaves; ellas aclaran que las guardaron para abrir a quien retirara las mesas, como se les pidió. El transporte aún no confirma. Propongo que les devuelvan las llaves ahora y que recepción abra cuando llegue el transporte, si acepta esa tarea; así la espera de las mesas no obliga a las vecinas a custodiar el salón.",
+    "cloze": "les devuelvan",
+    "answer": "les devuelvan",
+    "lemma": "devolver",
+    "meaning": "they return to you",
+    "audio": "work/audio/es-MX/06/es-06-1196.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1197",
+    "sentence": "Me anotaron entre quienes aceptaron mudarse porque firmé para recibir las cajas de mi vecina si ella cambiaba de casa. Ella aún no decide, pero ustedes citan mi firma para decirle que su traslado ya está acordado. Sáquenme de la lista de mudanzas confirmadas y conserven mi oferta de recepción como condicionada a su decisión; la ayuda que ofrecí depende de ella, no puede sustituir su respuesta.",
+    "cloze": "Sáquenme",
+    "answer": "Sáquenme",
+    "lemma": "sacar",
+    "meaning": "remove me",
+    "audio": "work/audio/es-MX/06/es-06-1197.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1198",
+    "sentence": "En recepción dicen que mi intérprete rechazó participar porque no quiso firmar como responsable de mis decisiones. Él solo rechazó esa función; yo sigo solicitando su apoyo para entender las opciones. Quisiera que lo admitieran como acompañante y me preguntaran a mí por mis decisiones. Si ustedes aceptan ese reparto, falta que él confirme que puede quedarse durante toda la entrevista antes de fijar la hora.",
+    "cloze": "lo admitieran",
+    "answer": "lo admitieran",
+    "lemma": "admitir",
+    "meaning": "you would admit him",
+    "audio": "work/audio/es-MX/06/es-06-1198.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1199",
+    "sentence": "La agencia cambió nuestro recorrido por uno sin escalones porque mi hermana preguntó por el acceso. Ella quería conocer las opciones; no pidió excluir las salas de arriba, y yo solo acepté acompañarla si visitábamos juntos la exposición completa. Restitúyannos la posibilidad de elegir entre ambos recorridos y expliquen el acceso de cada uno; después ella decidirá cuál quiere y hablaremos de cómo acompañarnos.",
+    "cloze": "Restitúyannos",
+    "answer": "Restitúyannos",
+    "lemma": "restituir",
+    "meaning": "restore to us",
+    "audio": "work/audio/es-MX/06/es-06-1199.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1200",
+    "sentence": "El personal dice que rechacé llenar el formulario porque pedí dictar las respuestas; yo pedí dictarlas solo porque el enlace recibido no abre. Mi hermano ofreció prestarme su cuenta, pero esa cuenta enviaría las respuestas a su nombre. Habilítenme el acceso con mis propios datos y después decidiré si aún necesito dictar; no registren un rechazo ni usen la cuenta ajena para dar por resuelta mi solicitud.",
+    "cloze": "Habilítenme",
+    "answer": "Habilítenme",
+    "lemma": "habilitar",
+    "meaning": "enable for me",
+    "audio": "work/audio/es-MX/06/es-06-1200.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1201",
+    "sentence": "Como encargado les ofrecí otra sesión porque la nuestra empezó tarde. Mi asistente la anunció como regalo y el instructor, que solo recibió ese anuncio, pide que traigan nuevos participantes. Quiero resarcirlos por el tiempo perdido, así que la reposición conservará al grupo original. Hablaré con el instructor antes de confirmar cuándo; corregir mi oferta no me permite prometer su disponibilidad ni exigirles conseguir invitados.",
+    "cloze": "resarcirlos",
+    "answer": "resarcirlos",
+    "lemma": "resarcir",
+    "meaning": "compensate you",
+    "audio": "work/audio/es-MX/06/es-06-1201.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1202",
+    "sentence": "La organizadora dice que la huésped quiere quedarse sola; ella pidió que nadie entrara mientras descansaba, no cancelar el traslado de la tarde. El chofer, que recibió la primera versión, ofrece llevar a otro grupo y volver después, sin hora fija. Respetémosle el traslado acordado y consultemos por mensaje si mantiene la salida; proteger su descanso no nos autoriza a ofrecer a otros el vehículo con el que cuenta.",
+    "cloze": "Respetémosle",
+    "answer": "Respetémosle",
+    "lemma": "respetar",
+    "meaning": "let us honor for her",
+    "audio": "work/audio/es-MX/06/es-06-1202.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1203",
+    "sentence": "El proveedor dice que rechacé todo el pedido; rechacé recibirlo junto porque el cuarto de almacenamiento sigue ocupado. Administración me aseguró que estaría libre, pero solo había pedido que lo vaciaran. Yo fraccionaría la entrega: los artículos de uso inmediato ahora y los demás cuando confirmen el espacio, si el proveedor acepta hacerlo sin otro cargo. No puedo confirmar la recepción completa con aquella promesa de administración.",
+    "cloze": "fraccionaría",
+    "answer": "fraccionaría",
+    "lemma": "fraccionar",
+    "meaning": "I would split",
+    "audio": "work/audio/es-MX/06/es-06-1203.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1204",
+    "sentence": "La recepción cree que usé los dos pases porque mi hermana presentó ambos para preguntar por el acceso; solo utilizó el suyo, como confirma quien la atendió. Quiero devolverles el mío sin usar para conservar la opción de cambiarlo que ustedes ofrecieron antes de la visita. Todavía no elijo otra fecha; devolverlo ahora no confirma el horario que mi hermana consultó para ella.",
+    "cloze": "devolverles",
+    "answer": "devolverles",
+    "lemma": "devolver",
+    "meaning": "return to you",
+    "audio": "work/audio/es-MX/06/es-06-1204.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1205",
+    "sentence": "La agencia ofrece trasladarnos al hotel del jardín porque el actual dice que rechazamos una habitación interior. Rechazamos la que daba a la obra; la dirección y el número de cuarto de la nueva oferta corresponden a esa misma habitación. Esa alternativa, descártenla para resolver el ruido. Seguimos dispuestos a cambiar si nos ofrecen una habitación cuyo entorno podamos comprobar antes de entregar la actual.",
+    "cloze": "descártenla",
+    "answer": "descártenla",
+    "lemma": "descartar",
+    "meaning": "rule it out",
+    "audio": "work/audio/es-MX/06/es-06-1205.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1206",
+    "sentence": "El taller dice que perdí mi turno por llegar tarde; recepción me pidió esperar afuera hasta que me llamaran, pero nadie avisó al instructor. Yo estaba allí antes del inicio y la recepcionista lo confirma. Para acordar la reposición, no computen esa espera como tiempo de clase recibido; aceptaría incorporarme al siguiente grupo si todavía pueden darme la explicación inicial, que nadie ha ofrecido reponer.",
+    "cloze": "computen",
+    "answer": "computen",
+    "lemma": "computar",
+    "meaning": "count",
+    "audio": "work/audio/es-MX/06/es-06-1206.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1207",
+    "sentence": "El proveedor dice que mi vecina aceptó recibir también mi pedido; ella aceptó recibir el suyo y guardar el mío si llegaban juntos. Él separó los envíos sin avisarle. Para evitar dos esperas, recogeríamos ambos pedidos en la sucursal si ella acepta cambiar también el suyo y el proveedor detiene las salidas; no voy a usar su primera oferta para imponerle recibirlos por separado.",
+    "cloze": "recogeríamos",
+    "answer": "recogeríamos",
+    "lemma": "recoger",
+    "meaning": "we would collect",
+    "audio": "work/audio/es-MX/06/es-06-1207.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1208",
+    "sentence": "Ustedes ofrecen devolverme todo y cerrar el caso porque recepción anotó que ya no quiero el servicio. Pedí cambiar de persona, no cancelar; quien me atendió dice que basta con que yo vuelva, pero no decide las asignaciones. Antes de aceptar el reembolso, remítanme a quien sí puede asignar a otra persona. Si no hay alternativa, decidiré entonces; mi petición original sigue abierta.",
+    "cloze": "remítanme",
+    "answer": "remítanme",
+    "lemma": "remitir",
+    "meaning": "refer me",
+    "audio": "work/audio/es-MX/06/es-06-1208.mp3",
+    "accepted_answers": []
   }
 ]
