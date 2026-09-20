@@ -11326,5 +11326,255 @@
     "meaning": "consider resolved",
     "audio": "work/audio/es-MX/06/es-06-1125.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-1126",
+    "sentence": "Nuestra prima uruguaya escribió: «Leo, vos traé el postre; Ana trae pan». Leo propone que él y Ana preparen juntos el postre porque entendió «vos» como plural. Le aclaro: ella te lo encarga a ti; Ana ya tiene otra tarea, así que no cambies su participación sin preguntarle.",
+    "cloze": "te lo encarga",
+    "answer": "te lo encarga",
+    "lemma": "encargar",
+    "meaning": "she assigns it to you",
+    "audio": "work/audio/es-MX/06/es-06-1126.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1127",
+    "sentence": "El huésped colombiano escribió «Ya cancelé la habitación» y adjuntó el comprobante de pago; por teléfono confirmó que sí vendrá y que hablaba de pagar. Ustedes borraron su reserva al leer el mensaje. Restablézcanla con las mismas fechas: el huésped pagó la estancia, no pidió dejarla sin efecto.",
+    "cloze": "Restablézcanla",
+    "answer": "Restablézcanla",
+    "lemma": "restablecer",
+    "meaning": "reinstate it",
+    "audio": "work/audio/es-MX/06/es-06-1127.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1128",
+    "sentence": "En la cafetería, una visitante de Bogotá pregunta: «¿Me regala un café?», y enseguida pide el precio para pagarlo. Usted le responde que no hacen regalos. Le está solicitando un café con esa fórmula de cortesía; quiere comprarlo, así que dígale cuánto cuesta.",
+    "cloze": "Le está solicitando",
+    "answer": "Le está solicitando",
+    "lemma": "solicitar",
+    "meaning": "she is requesting from you",
+    "audio": "work/audio/es-MX/06/es-06-1128.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1129",
+    "sentence": "Nuestra compañera de Madrid escribió «He reservado la sala» y luego «La reservé a las nueve». Ustedes contaron dos apartados por las dos formas de contarlo. Acabo de hablar con ella: se refería a la misma gestión de esta mañana. No dupliquemos la reserva en el resumen.",
+    "cloze": "dupliquemos",
+    "answer": "dupliquemos",
+    "lemma": "duplicar",
+    "meaning": "let us duplicate",
+    "audio": "work/audio/es-MX/06/es-06-1129.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1130",
+    "sentence": "Tu abuela de Bogotá te escribió «¿Usted cuándo viene, mi amor?». Sé que siempre te habla de usted y que acaba de decirme cuánto espera la visita. No le atribuyas enojo por ese tratamiento ni canceles el viaje para darle espacio; te está preguntando cuándo llegas.",
+    "cloze": "le atribuyas",
+    "answer": "le atribuyas",
+    "lemma": "atribuir",
+    "meaning": "attribute to her",
+    "audio": "work/audio/es-MX/06/es-06-1130.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1131",
+    "sentence": "Mi hermana argentina ofreció traer «la torta» y me aclaró que será un pastel de chocolate para las velas. Usted iba a cancelar los sándwiches porque creyó que ella traería la comida salada. No anule ese pedido: mi hermana se encargará del pastel, no de sustituir el almuerzo.",
+    "cloze": "anule",
+    "answer": "anule",
+    "lemma": "anular",
+    "meaning": "cancel",
+    "audio": "work/audio/es-MX/06/es-06-1131.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1132",
+    "sentence": "Le propusimos a nuestro compañero argentino ensayar el sábado. Respondió «Dale»; tú lo entendiste como una orden de decidir más rápido y quieres reclamarle. Le pregunté y confirmó que aceptaba el ensayo, no que nos estuviera apurando. No le reproches esa supuesta presión; ya podemos contar con él el sábado.",
+    "cloze": "le reproches",
+    "answer": "le reproches",
+    "lemma": "reprochar",
+    "meaning": "reproach him for",
+    "audio": "work/audio/es-MX/06/es-06-1132.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1133",
+    "sentence": "La anfitriona de Valencia ofrece «mi piso entero» y explica que es un departamento de dos recámaras, no todo el nivel del edificio. Mi hermano anunció que cada pareja tendría un departamento. Se lo preciso antes de que invite a otra pareja: compartiremos ese único departamento y sus dos recámaras.",
+    "cloze": "Se lo preciso",
+    "answer": "Se lo preciso",
+    "lemma": "precisar",
+    "meaning": "I clarify it to him",
+    "audio": "work/audio/es-MX/06/es-06-1133.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1134",
+    "sentence": "Mi tía de Sevilla les escribió a mis hermanos: «Vosotros podéis quedaros en casa». Uno creyó que solo invitaba al otro y busca hotel. La invitación los incluye a ustedes dos, les explico; todavía falta que cada uno decida si quiere quedarse.",
+    "cloze": "los incluye",
+    "answer": "los incluye",
+    "lemma": "incluir",
+    "meaning": "includes you both",
+    "audio": "work/audio/es-MX/06/es-06-1134.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1135",
+    "sentence": "Nuestra visita de Madrid escribió «Ya he comido en ese restaurante». Mi mamá lo tomó como una experiencia de otro viaje y pidió mesa para todos. Acabo de hablar con la visita: se refería al almuerzo de hoy y no quiere otro plato. No la cuentes para comer; sí quiere acompañarnos en la mesa.",
+    "cloze": "la cuentes",
+    "answer": "la cuentes",
+    "lemma": "contar",
+    "meaning": "count her",
+    "audio": "work/audio/es-MX/06/es-06-1135.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1136",
+    "sentence": "En el ensayo por videollamada, tu compañera de España dijo «Venga» y tú dejaste de leer porque creíste que estaba perdiendo la paciencia. Le preguntamos y aclaró: «Quiero darte ánimo; sigue a tu ritmo, quiero oír el final». Te está animando a continuar; no hace falta acelerar la lectura.",
+    "cloze": "Te está animando",
+    "answer": "Te está animando",
+    "lemma": "animar",
+    "meaning": "she is encouraging you",
+    "audio": "work/audio/es-MX/06/es-06-1136.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1137",
+    "sentence": "El viajero español pregunta «¿Dónde puedo cambiar el billete?». Usted lo manda a la caja de cambio. Él aclara que tiene un boleto para hoy y necesita viajar mañana. Indíquele dónde puede solicitar el cambio de fecha; todavía no sabemos si habrá lugar.",
+    "cloze": "Indíquele",
+    "answer": "Indíquele",
+    "lemma": "indicar",
+    "meaning": "tell him",
+    "audio": "work/audio/es-MX/06/es-06-1137.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1138",
+    "sentence": "En la visita a Madrid, la anfitriona llamó «tía» a una amiga de su edad y luego aclaró que no son parientes. Mi hermano quiere presentarla como familiar para justificar que decida quién se queda a dormir. No la presentes como pariente: ese trato entre amigas no le da autoridad sobre los invitados.",
+    "cloze": "la presentes",
+    "answer": "la presentes",
+    "lemma": "presentar",
+    "meaning": "introduce her",
+    "audio": "work/audio/es-MX/06/es-06-1138.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1139",
+    "sentence": "El equipo solo leyó «Qué pena con ustedes» al inicio del mensaje de nuestra compañera colombiana y creyó que lamentaba nuestra situación. El texto sigue: «Les pido disculpas por enviar tarde mi parte; hoy sí la termino». Se disculpa por su propia demora; podemos reconocerlo y seguir esperando la entrega prometida.",
+    "cloze": "Se disculpa",
+    "answer": "Se disculpa",
+    "lemma": "disculparse",
+    "meaning": "she apologizes",
+    "audio": "work/audio/es-MX/06/es-06-1139.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1140",
+    "sentence": "El encargado de la mudanza en España contrató «un camión» y me precisó que llevará solo los muebles. Mis primos solo oyeron «camión», pensaron en un autobús y dieron por resuelto su viaje. Les organizo otro traslado si están de acuerdo: el vehículo contratado no era transporte para ellos.",
+    "cloze": "Les organizo",
+    "answer": "Les organizo",
+    "lemma": "organizar",
+    "meaning": "I arrange for them",
+    "audio": "work/audio/es-MX/06/es-06-1140.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1141",
+    "sentence": "El visitante de Madrid dijo «He perdido la llave esta mañana; sigo sin encontrarla». En el aviso para recepción puse entre comillas «Perdió la llave esta mañana y todavía no la encuentra». Usted pregunta cuál de las dos frases dijo el huésped. Lo parafraseé en el aviso; quito las comillas para conservar el relato de la pérdida sin presentar mi redacción como sus palabras exactas.",
+    "cloze": "Lo parafraseé",
+    "answer": "Lo parafraseé",
+    "lemma": "parafrasear",
+    "meaning": "I paraphrased it",
+    "audio": "work/audio/es-MX/06/es-06-1141.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1142",
+    "sentence": "A nuestra colega de Barcelona le preguntamos si aceptaba revisar solo la introducción. Respondió «Vale» y tú dejaste la tarea sin asignar porque lo entendiste como simple acuse de recibo. Ella aclara: «Sí, me encargo de esa parte». Lo tomamos como aceptación de esa revisión; las conclusiones siguen sin responsable.",
+    "cloze": "Lo tomamos",
+    "answer": "Lo tomamos",
+    "lemma": "tomar",
+    "meaning": "we take it",
+    "audio": "work/audio/es-MX/06/es-06-1142.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1143",
+    "sentence": "Tus compañeros de Zaragoza escribieron al grupo de ustedes dos: «Os mandamos nuestras fotos; elegid las que queráis usar». Tú entendiste que ellos también harían la selección. Te están pidiendo que la hagas con tu compañera: ellos enviarán las fotos, pero no ofrecieron elegirlas por ustedes.",
+    "cloze": "Te están pidiendo",
+    "answer": "Te están pidiendo",
+    "lemma": "pedir",
+    "meaning": "they are asking you",
+    "audio": "work/audio/es-MX/06/es-06-1143.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1144",
+    "sentence": "El anfitrión cubano escribió «Falta confirmar la guagua». Mi compañero chileno entendió que faltaba confirmar a un bebé y quiere apartarle un asiento. Consulté al anfitrión: hablaba del autobús, que aún no está confirmado. No le reserves un asiento a un supuesto bebé; lo pendiente es conseguir transporte para el grupo.",
+    "cloze": "le reserves",
+    "answer": "le reserves",
+    "lemma": "reservar",
+    "meaning": "reserve for them",
+    "audio": "work/audio/es-MX/06/es-06-1144.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1145",
+    "sentence": "De la respuesta de nuestra diseñadora chilena solo viste «Ya» y diste el cambio por terminado. El mensaje completo dice «Ya, mañana lo hago»; ella confirma que con «ya» acepta el encargo. No lo marques como terminado ni mandes el folleto a imprimir; falta recibir la versión nueva.",
+    "cloze": "lo marques",
+    "answer": "lo marques",
+    "lemma": "marcar",
+    "meaning": "mark it",
+    "audio": "work/audio/es-MX/06/es-06-1145.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1146",
+    "sentence": "Mi primo de Madrid canceló su visita: «Estoy en paro y no puedo pagar el viaje». Mi hermana entendió que estaba en huelga y propone fijar la visita para cuando termine. Él me aclara que está desempleado y no sabe cuándo encontrará trabajo. No le fijes otra fecha dando por hecho que espera el fin de una huelga; primero habría que preguntarle cuándo podría venir.",
+    "cloze": "le fijes",
+    "answer": "le fijes",
+    "lemma": "fijar",
+    "meaning": "set for him",
+    "audio": "work/audio/es-MX/06/es-06-1146.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1147",
+    "sentence": "En su mensaje, el huésped de España dice «Voy a coger un taxi» y confirma que ya no necesita que pasemos por él. Mi hermano encuentra vulgar ese verbo y quiere reclamarle por usarlo en el grupo familiar. No lo censures por una supuesta intención de ofender: en ese mensaje habla de tomar un taxi y retira la petición de que lo recojamos.",
+    "cloze": "lo censures",
+    "answer": "lo censures",
+    "lemma": "censurar",
+    "meaning": "rebuke him",
+    "audio": "work/audio/es-MX/06/es-06-1147.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1148",
+    "sentence": "Nuestra prima de Bogotá escribió «De pronto voy el domingo». Tú lo entendiste como una decisión repentina de ir y quieres confirmar su asistencia a la comida. Al preguntarle, explicó que quizá vaya, pero todavía no lo sabe. No les prometas a los demás que asistirá; podemos decirles que su visita sigue siendo una posibilidad.",
+    "cloze": "les prometas",
+    "answer": "les prometas",
+    "lemma": "prometer",
+    "meaning": "promise them",
+    "audio": "work/audio/es-MX/06/es-06-1148.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1149",
+    "sentence": "En la llamada del anfitrión español, mi papá solo alcanzó a oír «Venga» antes de que se cortara la conexión y empezó a buscar cómo llegar a su casa. El anfitrión me escribió después que estaba diciendo «Venga, hasta luego» para cerrar la conversación. Papá, no te traslades hasta allá por esa frase; todavía tendrían que acordar una visita.",
+    "cloze": "te traslades",
+    "answer": "te traslades",
+    "lemma": "trasladarse",
+    "meaning": "travel",
+    "audio": "work/audio/es-MX/06/es-06-1149.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1150",
+    "sentence": "Nuestra coordinadora española empezó su respuesta con «¡Hombre!». Lo interpretaste como una reprimenda y retiraste tu propuesta. Ella acaba de aclarar: «Claro que puedes proponer cambios; quiero escuchar tus ideas, no te estoy regañando». Te está ofreciendo un espacio para comentarla; vuelve a plantearla, sin dar por hecho que ya la aprobó.",
+    "cloze": "Te está ofreciendo",
+    "answer": "Te está ofreciendo",
+    "lemma": "ofrecer",
+    "meaning": "she is offering you",
+    "audio": "work/audio/es-MX/06/es-06-1150.mp3",
+    "accepted_answers": []
   }
 ]
