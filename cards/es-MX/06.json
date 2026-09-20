@@ -11576,5 +11576,285 @@
     "meaning": "she is offering you",
     "audio": "work/audio/es-MX/06/es-06-1150.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-1151",
+    "sentence": "Coordinadora, usted aclara que ahora cada quien entrega su proyecto, pero mi compañera dice que el diplomado exige trabajar en pareja; no ha visto el cambio y cuenta conmigo para cubrir sus ausencias. Habíamos acordado no hacer el trabajo de la otra. Inscríbame individualmente; antes de empezar, le explicaré a mi compañera por qué ya no puedo ofrecerle aquella cobertura.",
+    "cloze": "Inscríbame",
+    "answer": "Inscríbame",
+    "lemma": "inscribir",
+    "meaning": "enroll me",
+    "audio": "work/audio/es-MX/06/es-06-1151.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1152",
+    "sentence": "Papá, mi hermana dice que rechazaste el curso porque no quieres aprender; tú me dices que no entendiste cómo entrar a la primera clase. Ella no vio el mensaje con una clave equivocada que me enseñaste. Me pediste ayuda sin que yo contestara por ti: te acompaño a resolver el acceso y después tú decides si sigues; no voy a inscribirte para demostrarle nada a ella.",
+    "cloze": "te acompaño",
+    "answer": "te acompaño",
+    "lemma": "acompañar",
+    "meaning": "I will accompany you",
+    "audio": "work/audio/es-MX/06/es-06-1152.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1153",
+    "sentence": "Tu amiga dice que quieres terminar conmigo; tú escribiste que necesitas pasar unas semanas a solas. Ella no sabe que también me propusiste vernos después, y yo no sé si entonces querrás seguir. Como acordamos no resolver nuestra relación por medio de amistades, lo hablaré contigo en ese encuentro; no daré por terminada la relación ni confirmaré por los dos el viaje que habíamos pensado.",
+    "cloze": "lo hablaré",
+    "answer": "lo hablaré",
+    "lemma": "hablar",
+    "meaning": "I will discuss it",
+    "audio": "work/audio/es-MX/06/es-06-1153.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1154",
+    "sentence": "Hermana, costearé el taller de dibujo que me pediste, sin exigir que sigas en la carrera ni anunciar que la dejas. Mamá dice que ya la abandonaste porque solo conoce tu solicitud de baja de una materia; tú me explicaste que quieres probar el taller antes de decidir. Yo leí esa solicitud y te prometí no usar el dinero para escoger por ti.",
+    "cloze": "costearé",
+    "answer": "costearé",
+    "lemma": "costear",
+    "meaning": "I will pay for",
+    "audio": "work/audio/es-MX/06/es-06-1154.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1155",
+    "sentence": "—Su solicitud fue rechazada porque faltó una muestra de escritura. —Profesor, mi compañero dice que fue por mi tema, pero no ha visto el correo donde adjunté la muestra. Él me pasó su solicitud en confianza y me pidió no usarla para compararnos. Revíseme la solicitud con mi correo; pido comprobar mi entrega, sin cuestionar la admisión de mi compañero ni afirmar todavía por qué me rechazaron.",
+    "cloze": "Revíseme",
+    "answer": "Revíseme",
+    "lemma": "revisar",
+    "meaning": "review for me",
+    "audio": "work/audio/es-MX/06/es-06-1155.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1156",
+    "sentence": "Abuela, mi primo dice que quieres tenernos en casa toda la semana; tú me acabas de decir que disfrutas las visitas, pero que recibirnos tantos días te cansa. Él solo oyó tu invitación a comer. Te prometí que no tendrías que hospedarnos para que yo viniera: acortaré mi estancia a esa comida. No voy a pedirte que desmientas a mi primo delante de todos.",
+    "cloze": "acortaré",
+    "answer": "acortaré",
+    "lemma": "acortar",
+    "meaning": "I will shorten",
+    "audio": "work/audio/es-MX/06/es-06-1156.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1157",
+    "sentence": "Hoy reactivo mi solicitud de intercambio y hablaré yo con mamá del reparto de tareas; le prometí a mi hermano no hacerlo responsable de convencerla. La retiré porque ella dijo que él se quedaría solo con todo. Él me cuenta que ya acordó repartir las tareas con nuestra tía, algo que mamá todavía no sabe y que ambos me confirmaron. La admisión sigue pendiente.",
+    "cloze": "reactivo",
+    "answer": "reactivo",
+    "lemma": "reactivar",
+    "meaning": "I reactivate",
+    "audio": "work/audio/es-MX/06/es-06-1157.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1158",
+    "sentence": "Acusé a mi hermano ante la familia de ignorar mi presentación. Él dice que nunca recibió la invitación; mi prima asegura que se la mandó. Solo yo sabía que él ya no usaba esa dirección, y comprobé que ella escribió ahí. Habíamos quedado en corregir ante los mismos familiares los reproches injustos: me disculparé con él en el grupo por aquella acusación, sin afirmar que habría asistido.",
+    "cloze": "me disculparé",
+    "answer": "me disculparé",
+    "lemma": "disculparse",
+    "meaning": "I will apologize",
+    "audio": "work/audio/es-MX/06/es-06-1158.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1159",
+    "sentence": "En el brindis de mi boda escribí que mis padres siempre apoyaron nuestra relación. «Así fue», dice mamá; mi pareja recuerda que papá pidió que termináramos. Yo sé que después él cambió de postura, pero ella aún no lo ha oído de él. Como le prometí no borrar aquella dificultad para quedar bien, reescribo el brindis para agradecer el apoyo actual, sin dar por hecha su reconciliación con él.",
+    "cloze": "reescribo",
+    "answer": "reescribo",
+    "lemma": "reescribir",
+    "meaning": "I rewrite",
+    "audio": "work/audio/es-MX/06/es-06-1159.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1160",
+    "sentence": "—Rechazaste mi fecha para dejarme fuera del viaje. —Te dije que podía salir después del examen; aún no has leído el aviso que lo adelantó. Sí viajaré en la fecha que propusiste, ahora que puedo, pero conservaré la visita que quiero hacer por mi cuenta. Como amigas acordamos que acompañarnos no exige hacer todo juntas; quiero aclararlo antes de reservar.",
+    "cloze": "viajaré",
+    "answer": "viajaré",
+    "lemma": "viajar",
+    "meaning": "I will travel",
+    "audio": "work/audio/es-MX/06/es-06-1160.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1161",
+    "sentence": "Dejé el grupo de estudio porque dijeron que mi amigo había copiado mi trabajo. Él afirma que usó apuntes que yo le presté; quien lo acusa solo vio las frases iguales y no conoce ese préstamo. Yo sí veo ahora párrafos completos míos. Como acordamos señalar los errores sin encubrirnos por amistad, me reincorporo para revisar esas coincidencias con ambos; volver no significa que dé por aclarada su autoría.",
+    "cloze": "me reincorporo",
+    "answer": "me reincorporo",
+    "lemma": "reincorporarse",
+    "meaning": "I rejoin",
+    "audio": "work/audio/es-MX/06/es-06-1161.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1162",
+    "sentence": "Mamá dice que regalarte mi computadora resolvería tus estudios; tú me dijiste que solo la necesitas mientras reparan la tuya. Ella no sabe que yo también la uso para mi curso nocturno. Entre hermanas acordamos pedirnos ayuda sin decidir por las cosas de la otra: te la presto por las mañanas durante la reparación, si ese horario te sirve; no confirmaré el regalo que mamá anunció.",
+    "cloze": "te la presto",
+    "answer": "te la presto",
+    "lemma": "prestar",
+    "meaning": "I will lend it to you",
+    "audio": "work/audio/es-MX/06/es-06-1162.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1163",
+    "sentence": "—Si vas al homenaje del abuelo, estarás perdonando a tu papá. —Tíos, él dice que solo me invitó a despedirme. Ustedes no saben que le pedí no hablar de nuestra pelea ese día y él aceptó. Déjenme asistir sin anunciar una reconciliación; voy a despedirme dentro de ese acuerdo y después decidiré si quiero hablar con él.",
+    "cloze": "Déjenme",
+    "answer": "Déjenme",
+    "lemma": "dejar",
+    "meaning": "let me",
+    "audio": "work/audio/es-MX/06/es-06-1163.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1164",
+    "sentence": "Para conservar dos tardes con nuestra hija, reorganizo mi carga de materias. Mi pareja dice que estudiar de noche me deja todas las tardes libres; la tutora confirma clases nocturnas, pero también prácticas vespertinas, cuyo horario él aún no recibe. Habíamos acordado repartir el cuidado, no asignarlo siempre a quien estuviera en casa. Llevaré ambos horarios a nuestra conversación; las demás tardes siguen sin resolverse.",
+    "cloze": "reorganizo",
+    "answer": "reorganizo",
+    "lemma": "reorganizar",
+    "meaning": "I reorganize",
+    "audio": "work/audio/es-MX/06/es-06-1164.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1165",
+    "sentence": "Mi hija dice que su relato era solo para la maestra; ella me explica que anunció una lectura para familias. Mi hija faltó ese día, y la maestra no lo sabía. Yo prometí preguntarle antes de compartir sus escritos. Mi hija sí acepta que la maestra lo lea a solas. Le digo a la maestra: «Resérvelo para esa lectura privada; mi hija no aceptó participar en la lectura familiar».",
+    "cloze": "Resérvelo",
+    "answer": "Resérvelo",
+    "lemma": "reservar",
+    "meaning": "keep it",
+    "audio": "work/audio/es-MX/06/es-06-1165.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1166",
+    "sentence": "Mi pareja cree que rechacé estudiar fuera para quedarme con él; mi asesora dice que perdí interés porque no respondí. Ninguno sabe que pedí el horario y aún no me contestan. Con mi pareja acordé no presentar mis decisiones como sacrificios que él deba devolver: pospondré mi respuesta hasta conocer ese dato y les explicaré la demora; no atribuiré a nuestra relación una renuncia que no he decidido.",
+    "cloze": "atribuiré",
+    "answer": "atribuiré",
+    "lemma": "atribuir",
+    "meaning": "I will attribute",
+    "audio": "work/audio/es-MX/06/es-06-1166.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1167",
+    "sentence": "—Mamá rechazó las videollamadas; mejor no participes en la reunión. —Hermano, tú saliste antes de que explicara su no. A mí me dijo que quiere verme, pero sin salir grabada, y yo le prometí no grabarla. Me conectaré si podemos mantener apagada la grabación; no le pediré que renuncie a ese límite para incluirme.",
+    "cloze": "Me conectaré",
+    "answer": "Me conectaré",
+    "lemma": "conectarse",
+    "meaning": "I will join online",
+    "audio": "work/audio/es-MX/06/es-06-1167.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1168",
+    "sentence": "Bórrame de esa publicación sobre parejas que volvieron. Mi ex te dijo que acepté publicar nuestras fotos; yo dije que podía conservarlas. Tú solo oíste su versión y no sabes que él y yo acordamos no anunciar nada sobre la relación sin hablarlo. Como amiga te aclaro por qué pido salir de la publicación: conservar las fotos no expresa una reconciliación, y yo no he aceptado anunciarla.",
+    "cloze": "Bórrame",
+    "answer": "Bórrame",
+    "lemma": "borrar",
+    "meaning": "remove me",
+    "audio": "work/audio/es-MX/06/es-06-1168.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1169",
+    "sentence": "Mi profesor recomienda que elija el taller porque dos exalumnas lo elogiaron; mi compañera dice que ambas recomendaciones son de la misma persona. Yo reconozco en las dos firmas a mi prima, pero el profesor no sabe que usa un seudónimo. Ella me pidió no revelar esa identidad. Por ahora dejo pasar esta convocatoria: puedo explicar que esas opiniones no me bastan, sin identificarla ni acusar al taller de inventarlas.",
+    "cloze": "dejo pasar",
+    "answer": "dejo pasar",
+    "lemma": "dejar pasar",
+    "meaning": "I pass up",
+    "audio": "work/audio/es-MX/06/es-06-1169.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1170",
+    "sentence": "Mamá dice que mi hermana dejó el coro porque yo entré; mi hermana me cuenta que los ensayos chocan con su trabajo. Mamá no ha visto el horario que ella me mostró y quiere que yo salga para recuperarla. Entre hermanas acordamos no exigirnos renuncias para demostrar cariño: dejo de insistir en que vuelva conmigo y conservaré mi lugar; salir yo no resolvería el horario que ella señaló.",
+    "cloze": "dejo de insistir",
+    "answer": "dejo de insistir",
+    "lemma": "dejar de insistir",
+    "meaning": "I stop insisting",
+    "audio": "work/audio/es-MX/06/es-06-1170.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1171",
+    "sentence": "«Tendrás práctica diaria», dice mi maestra del programa anual del conservatorio. Mi amigo sostiene que solo dejan practicar una vez por semana; él visitó el curso de verano y no conoce el anual. Papá ofreció acompañarme, pero pidió que no eligiera contando con él todos los días. Opto por solicitar el programa anual y buscar mi propio traslado; aún no sé si me admitirán.",
+    "cloze": "Opto",
+    "answer": "Opto",
+    "lemma": "optar",
+    "meaning": "I choose",
+    "audio": "work/audio/es-MX/06/es-06-1171.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1172",
+    "sentence": "Hermano, no te cobraré aquel favor que me debías; buscaré cómo cambiar mi turno para ir al examen. Tú dices que no puedes cubrirlo y mamá insiste en que sí, porque le ofreciste ayuda. Ella no sabe que ofreciste solo la mañana y mi examen es por la tarde. Te prometí no presionarte con favores pendientes; tu oferta a ella no me permite exigirte toda la jornada.",
+    "cloze": "te cobraré",
+    "answer": "te cobraré",
+    "lemma": "cobrar",
+    "meaning": "I will demand repayment from you",
+    "audio": "work/audio/es-MX/06/es-06-1172.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1173",
+    "sentence": "Les agradeceré a papá y a mi tía sus aportaciones por separado en mi graduación. Él dice que sostuvo él solo mis estudios y ella afirma que pagó todo; ninguno conoce los pagos del otro. Yo tengo los recibos: él pagó la inscripción y ella los materiales. Como ambos me pidieron no hablar de cantidades, no repetiré sus afirmaciones de exclusividad ni convertiré el brindis en una comparación de gastos.",
+    "cloze": "Les agradeceré",
+    "answer": "Les agradeceré",
+    "lemma": "agradecer",
+    "meaning": "I will thank them",
+    "audio": "work/audio/es-MX/06/es-06-1173.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1174",
+    "sentence": "Mi compañero dice que reprobar esta materia me obliga a dejar la carrera; la tutora aclara que puedo repetirla, aunque retrasaría las prácticas. Mi pareja solo oyó la primera versión y ofrece asumir todo el cuidado de nuestro hijo para que cambie de carrera. Acordamos no repartir el cuidado sin conocer el plan del otro: recursaré la materia y hablaré con él del nuevo horario, sin dar por aceptado aquel reparto para este plan.",
+    "cloze": "recursaré",
+    "answer": "recursaré",
+    "lemma": "recursar",
+    "meaning": "I will retake",
+    "audio": "work/audio/es-MX/06/es-06-1174.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1175",
+    "sentence": "Como tu tía, te recomendaré para el taller de fin de semana por los trabajos que conozco. Tu profesor dice que saliste del proyecto por falta de interés; tú me explicaste que cambiaron las reuniones a la hora de tu trabajo. Él no recibió el horario que me mostraste. Me pediste apoyo sin hablar por ti: tú explicarás aquella salida y revisarás tu disponibilidad, que yo no puedo certificar.",
+    "cloze": "te recomendaré",
+    "answer": "te recomendaré",
+    "lemma": "recomendar",
+    "meaning": "I will recommend you",
+    "audio": "work/audio/es-MX/06/es-06-1175.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1176",
+    "sentence": "Pensé que habías rechazado mi invitación: tu hermana dijo que no querías verme. Tú me escribiste que no querías volver a aquella casa, pero ese mensaje llegó después. Tu hermana no conocía ese límite de lugar. Como acordamos no llevarte de nuevo ahí por sorpresa, te buscaré para proponerte un café en otro sitio; no tomaré tu aclaración como un sí a vernos.",
+    "cloze": "te buscaré",
+    "answer": "te buscaré",
+    "lemma": "buscar",
+    "meaning": "I will get in touch with you",
+    "audio": "work/audio/es-MX/06/es-06-1176.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1177",
+    "sentence": "La asesora dice que mi compañera hizo todo el proyecto y que yo no debería solicitar la beca; mi compañera dice que repartimos el trabajo. La asesora solo vio la entrega final, pero yo conservo mis borradores. Con mi compañera acordé no usar su trabajo como propio: me postulo con mis borradores y pido que evalúen esa parte, sin presentar su defensa como prueba suficiente de mi aportación.",
+    "cloze": "me postulo",
+    "answer": "me postulo",
+    "lemma": "postularse",
+    "meaning": "I apply",
+    "audio": "work/audio/es-MX/06/es-06-1177.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1178",
+    "sentence": "Coordinadora, usted dice que podré seguir el seminario leyendo la pantalla; un alumno me cuenta que parte de la discusión ocurre solo de viva voz. Necesito leer también las preguntas, algo que usted no sabía. Mi hermana ofreció notas, pero acordamos que acompañarme no la convertiría en intérprete permanente. Retíreme de esta edición; buscaré una que incluya esas preguntas por escrito sin depender de que ella me las transcriba.",
+    "cloze": "Retíreme",
+    "answer": "Retíreme",
+    "lemma": "retirar",
+    "meaning": "withdraw me",
+    "audio": "work/audio/es-MX/06/es-06-1178.mp3",
+    "accepted_answers": []
   }
 ]
