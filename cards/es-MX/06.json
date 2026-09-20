@@ -12416,5 +12416,15 @@
     "meaning": "I will dismiss",
     "audio": "work/audio/es-MX/06/es-06-1234.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-1235",
+    "sentence": "El equipo de atención pidió publicar cuanto antes las instrucciones; la revisora detectó un paso confuso y aceptó validar primero los demás. Los usuarios necesitan empezar, pero no pueden adivinar el paso pendiente. Para ellos, propongo que la explicación se escalone: cuando estén validados, se comunicarían los pasos anteriores al que sigue pendiente, con una indicación de detenerse allí; validar pasos posteriores no bastaría para presentarlos como instrucciones que ya pueden seguir.",
+    "cloze": "se escalone",
+    "answer": "se escalone",
+    "lemma": "escalonar",
+    "meaning": "be presented in stages",
+    "audio": "work/audio/es-MX/06/es-06-1235.mp3",
+    "accepted_answers": []
   }
 ]
