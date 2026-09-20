@@ -12156,5 +12156,265 @@
     "meaning": "refer me",
     "audio": "work/audio/es-MX/06/es-06-1208.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-1209",
+    "sentence": "A quienes van a elegir el documental del cineclub les propongo lo siguiente: proyectaría también la secuencia completa de la discusión que aparece en el avance. Es válida la objeción de que el avance reúne momentos distintos y hace parecer continuo el conflicto. La secuencia sí muestra una discusión real, pero no cuánto duró el desacuerdo fuera de cámara; podemos recomendar la película para debatir esa edición, no como retrato de una convivencia siempre conflictiva.",
+    "cloze": "proyectaría",
+    "answer": "proyectaría",
+    "lemma": "proyectar",
+    "meaning": "I would screen",
+    "audio": "work/audio/es-MX/06/es-06-1209.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1210",
+    "sentence": "Usuarios del catálogo, su objeción al anuncio de que ya funciona es válida: nuestra prueba abrió copias guardadas, mientras ustedes necesitan consultar desde casa. En la página avisaremos qué enlaces pudimos abrir desde fuera de la biblioteca y cuáles siguen pendientes de prueba. Las copias permiten conservar la lectura en sala; indicaremos cómo consultarlas si el enlace falla, sin presentarlas como prueba de que ya resolvimos el acceso remoto.",
+    "cloze": "avisaremos",
+    "answer": "avisaremos",
+    "lemma": "avisar",
+    "meaning": "we will indicate",
+    "audio": "work/audio/es-MX/06/es-06-1210.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1211",
+    "sentence": "Ante quienes aportan al fondo vecinal, graduaría el apoyo al nuevo taller según los gastos que podamos comprobar. Una vecina señala con razón que el presupuesto de materiales está completo, pero el local prestado solo está confirmado para el primer mes. Eso no borra las inscripciones recibidas; sí impide presentar todo el ciclo como financiado. Propongo cubrir el primer mes y mostrar después el costo del espacio antes de pedir otra aportación.",
+    "cloze": "graduaría",
+    "answer": "graduaría",
+    "lemma": "graduar",
+    "meaning": "I would scale",
+    "audio": "work/audio/es-MX/06/es-06-1211.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1212",
+    "sentence": "Visitantes, conservaré en la exposición la carta que dice «Perdimos para siempre nuestro lugar de reunión», pero junto al aviso de cierre temporal. Ustedes tienen razón en que la autora escribió sin conocer ese aviso; su carta no prueba que el cierre fuera definitivo. Sí documenta cómo lo vivió con la información que tenía. Leer ambos textos permite conocer esa experiencia sin presentar su interpretación como confirmación de una pérdida permanente.",
+    "cloze": "conservaré",
+    "answer": "conservaré",
+    "lemma": "conservar",
+    "meaning": "I will retain",
+    "audio": "work/audio/es-MX/06/es-06-1212.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1213",
+    "sentence": "Compañeros del foro, renunciemos a descartar una publicación solo por aparecer en la lista de las más compartidas. Ustedes objetaron con razón que una de ellas coincide con el aviso original: nuestra crítica a usar los reenvíos como prueba no refuta ese contenido. Como nuestros lectores solo ven la lista destacada, pongamos al alcance ese aviso junto a esa publicación. Podemos defender su contenido comprobado sin enseñarles a confundir popularidad y respaldo.",
+    "cloze": "renunciemos",
+    "answer": "renunciemos",
+    "lemma": "renunciar",
+    "meaning": "let us give up",
+    "audio": "work/audio/es-MX/06/es-06-1213.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1214",
+    "sentence": "Vecinas y vecinos que escucharon nuestra charla, repongamos aquí la explicación que quitamos del resumen: las bancas nuevas redujeron el espacio para jugar en esa esquina. La objeción de los jugadores está documentada en los dos planos, aunque solo uno haya hablado en la reunión. Las fotos de personas sentadas sí apoyan conservar lugares de descanso; para discutir dónde ponerlos, ustedes necesitan conocer también la pérdida de espacio, no contar cuántos defendieron cada uso.",
+    "cloze": "repongamos",
+    "answer": "repongamos",
+    "lemma": "reponer",
+    "meaning": "let us restore",
+    "audio": "work/audio/es-MX/06/es-06-1214.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1215",
+    "sentence": "Ante el público de la muestra, compaginaría la lectura de los recuerdos con momentos para mirar las fotografías sin narración. Una visitante objeta que las voces hacen parecer evidente una historia que las imágenes no confirman; tiene razón, varias fechas vienen solo de la memoria de los entrevistados. Las fotos sí muestran los lugares que recuerdan. Escucharlos sigue teniendo valor, siempre que ustedes puedan distinguir lo que ven de lo que alguien recuerda.",
+    "cloze": "compaginaría",
+    "answer": "compaginaría",
+    "lemma": "compaginar",
+    "meaning": "I would combine",
+    "audio": "work/audio/es-MX/06/es-06-1215.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1216",
+    "sentence": "—¿Por qué enseñar un envío sin confirmación en la charla para usuarios nuevos si el mensaje sí llegó? —Porque la usuaria tiene razón: faltó el aviso, no el mensaje. Reproduzcamos ese caso junto al registro donde aparece recibido. Pedir que lo manden otra vez podría duplicarlo; el ejemplo permite explicar por qué hay que consultar ese registro, sin asegurar que hayan llegado todos los envíos sin aviso.",
+    "cloze": "Reproduzcamos",
+    "answer": "Reproduzcamos",
+    "lemma": "reproducir",
+    "meaning": "let us reproduce",
+    "audio": "work/audio/es-MX/06/es-06-1216.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1217",
+    "sentence": "Vecinos, ponderemos la propuesta de un límite de horario a partir de cuándo se reportaron las molestias, sin convertir el número de firmas en una medida de su intensidad. Ustedes señalan con razón que los ensayos tuvieron más quejas, pero también duraron muchas más horas que las lecturas. Los mensajes sí sitúan todas las molestias después de las nueve. Ese dato permite discutir un límite de horario comprensible para ambos grupos, aunque no permita declarar cuál actividad molesta más por hora.",
+    "cloze": "ponderemos",
+    "answer": "ponderemos",
+    "lemma": "ponderar",
+    "meaning": "let us weigh",
+    "audio": "work/audio/es-MX/06/es-06-1217.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1218",
+    "sentence": "Ante quienes quieren sumarse como voluntarios, atemperaría el entusiasmo del anuncio que promete repartir el trabajo entre muchas manos. Es cierta la objeción: la foto reúne a quienes ayudaron en fechas diferentes, no a un equipo disponible cada semana. Los registros sí muestran que se cubrieron todas las jornadas, algunas con una sola persona. Podemos celebrar esa continuidad, pero los nuevos necesitan conocer la carga real antes de ofrecer su tiempo.",
+    "cloze": "atemperaría",
+    "answer": "atemperaría",
+    "lemma": "atemperar",
+    "meaning": "I would temper",
+    "audio": "work/audio/es-MX/06/es-06-1218.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1219",
+    "sentence": "A quienes siguen los avisos del centro les debemos una respuesta: difundamos la confirmación de que mañana abrirá, sin convertirla en prueba de que nunca hubo riesgo de cierre. Ustedes objetan con razón que nuestra alarma de ayer se basó en un mensaje reenviado, no en una decisión confirmada. El aviso de hoy sí fija la apertura. Para organizar su visita necesitan ese dato; para valorar nuestra actuación, también necesitan saber qué respaldo faltaba ayer.",
+    "cloze": "difundamos",
+    "answer": "difundamos",
+    "lemma": "difundir",
+    "meaning": "let us circulate",
+    "audio": "work/audio/es-MX/06/es-06-1219.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1220",
+    "sentence": "Para quienes vienen al taller de escritura, secuenciaría la demostración con el borrador primero y la sugerencia automática después. Una participante objeta que el texto corregido es más claro, pero borra la duda de quien escribió «quizá vuelva». Al ver ambos, ustedes podrán comprobar esa pérdida concreta y decidir qué cambio aceptar. La mejora de puntuación sigue siendo aprovechable; una demostración de esa versión no permite recomendar ni rechazar todas las sugerencias de la herramienta.",
+    "cloze": "secuenciaría",
+    "answer": "secuenciaría",
+    "lemma": "secuenciar",
+    "meaning": "I would sequence",
+    "audio": "work/audio/es-MX/06/es-06-1220.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1221",
+    "sentence": "En esta reunión con los jóvenes del barrio, abandonemos la explicación de que faltaron al taller por desinterés. Ustedes muestran invitaciones entregadas después de la sesión, aunque nosotros sí tenemos mensajes recibidos a tiempo por otros jóvenes. Eso no prueba que todos hubieran asistido con aviso oportuno. Sí cambia nuestra propuesta: antes de pedirles ideas para hacer más atractivo el taller, debemos ofrecerles una fecha que puedan conocer con anticipación.",
+    "cloze": "abandonemos",
+    "answer": "abandonemos",
+    "lemma": "abandonar",
+    "meaning": "let us abandon",
+    "audio": "work/audio/es-MX/06/es-06-1221.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1222",
+    "sentence": "Como integrante del cineclub, respaldaré una función con conversación para quienes nunca han visto cine sin diálogos. Es válida la objeción de que las reseñas favorables vienen de espectadores habituales y no permiten prometer que todos seguirán la historia. Una escena sí deja ver el conflicto sin palabras, pero el cambio de tiempo desconcertó a un visitante nuevo. Esa diferencia justifica acompañar la función, no venderla como fácil para cualquiera ni descartarla como incomprensible.",
+    "cloze": "respaldaré",
+    "answer": "respaldaré",
+    "lemma": "respaldar",
+    "meaning": "I will support",
+    "audio": "work/audio/es-MX/06/es-06-1222.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1223",
+    "sentence": "En la presentación del periódico escolar, reivindiquemos el trabajo de buscar respuestas, sin anunciar que todas quedaron comprobadas. Ustedes señalan con razón que entrevistar a la encargada no confirma por sí solo su explicación del cierre. Los alumnos también compararon horarios publicados y encontraron una contradicción verificable. Para que las familias valoren lo aprendido, mostremos esa comparación y la pregunta todavía abierta; defender el ejercicio no exige defender como cierta cada respuesta recibida.",
+    "cloze": "reivindiquemos",
+    "answer": "reivindiquemos",
+    "lemma": "reivindicar",
+    "meaning": "let us defend the value of",
+    "audio": "work/audio/es-MX/06/es-06-1223.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1224",
+    "sentence": "La campaña llama generosa y útil a toda la donación, pero ustedes objetan que las fotos de cajas cerradas solo prueban la entrega. Para quienes deciden si apoyarla, desplacemos la discusión hacia los libros que la biblioteca puede usar: el inventario posterior distingue manuales incompletos y cuentos que ya había solicitado. La entrega de esos cuentos sigue siendo defendible; pedir que se revise el resto no exige adivinar el motivo del donante ni rechazar todo el lote.",
+    "cloze": "desplacemos",
+    "answer": "desplacemos",
+    "lemma": "desplazar",
+    "meaning": "let us shift",
+    "audio": "work/audio/es-MX/06/es-06-1224.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1225",
+    "sentence": "En el debate abierto sobre el video del barrio, objetemos que una escena actuada se presente como un hecho registrado, sin extender la objeción a todas las entrevistas. Quienes defienden el video tienen razón en que las personas sí dieron esos testimonios; la escena, en cambio, se grabó después para ilustrarlos, según el propio equipo. Los espectadores no recibieron esa aclaración. Añadirla permitiría valorar los relatos sin usar la actuación como una segunda prueba de lo que cuentan.",
+    "cloze": "objetemos",
+    "answer": "objetemos",
+    "lemma": "objetar",
+    "meaning": "let us challenge",
+    "audio": "work/audio/es-MX/06/es-06-1225.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1226",
+    "sentence": "Para quienes visitan la exposición sin teléfono, imprimamos junto a la corrección el fragmento del catálogo que contenía el error. Un visitante objeta que anunciar «ya está corregido» en la página no permite saber qué cambió; tiene razón, allí sustituimos el texto sin conservar la versión anterior. El catálogo sí permite compararlas. Podemos defender la fecha nueva con la carta exhibida y reconocer la anterior, sin exigir que el público crea en una corrección que no puede revisar.",
+    "cloze": "imprimamos",
+    "answer": "imprimamos",
+    "lemma": "imprimir",
+    "meaning": "let us print",
+    "audio": "work/audio/es-MX/06/es-06-1226.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1227",
+    "sentence": "Ante las familias que preguntan si el intercambio de uniformes resuelve la necesidad, contabilizaremos por separado las prendas recibidas y las solicitudes atendidas y pendientes. Ustedes tienen razón: sobran prendas pequeñas y las fotos de mesas llenas no prueban que haya tallas para todos. Las entregas firmadas sí muestran solicitudes resueltas. Publicar ese desglose por talla permitirá pedir lo que falta, sin anunciar éxito total ni desalentar donaciones útiles por el sobrante de otras tallas.",
+    "cloze": "contabilizaremos",
+    "answer": "contabilizaremos",
+    "lemma": "contabilizar",
+    "meaning": "we will count",
+    "audio": "work/audio/es-MX/06/es-06-1227.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1228",
+    "sentence": "A los lectores que preguntan si inventamos las quejas les responderemos sin publicar los mensajes privados completos: mostraremos el aviso de horario y el registro de la puerta cerrada durante ese horario. Es válida la objeción de que ustedes no pueden comprobar testimonios que reservamos; por eso ya no los contaremos como pruebas públicas adicionales. La contradicción documentada sostiene el reclamo sobre ese día, sin probar cuántas personas fueron afectadas ni identificar a quienes nos escribieron.",
+    "cloze": "mostraremos",
+    "answer": "mostraremos",
+    "lemma": "mostrar",
+    "meaning": "we will show",
+    "audio": "work/audio/es-MX/06/es-06-1228.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1229",
+    "sentence": "En esta asamblea vecinal, para quienes deciden si volver a prestar mesas a la biblioteca, el registro de solicitudes rechazadas por falta de mesas apuntala una prueba en días de mayor demanda. Acepto su objeción: las reservas no dicen cuántas personas usaron cada mesa y no justifican pedirlas toda la semana. Mostraremos las fechas de los rechazos para proponer días concretos; el préstamo seguiría dependiendo de ustedes y todavía habría que comprobar el uso de las mesas añadidas.",
+    "cloze": "apuntala",
+    "answer": "apuntala",
+    "lemma": "apuntalar",
+    "meaning": "supports",
+    "audio": "work/audio/es-MX/06/es-06-1229.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1230",
+    "sentence": "Vecinos, dediquemos parte de la próxima jornada de limpieza a identificar qué tipos de objetos vuelven a aparecer, sin anunciar que ya redujimos la basura del parque. Ustedes objetan con razón que llenar más bolsas puede significar más basura, no una mejora duradera. Las fotos sí muestran libre el sendero al terminar. Podemos defender esa limpieza inmediata y enseñar dónde se trabajó, pero para decidir qué cambiar después necesitamos saber qué vuelve, no solo cuánto retiramos.",
+    "cloze": "dediquemos",
+    "answer": "dediquemos",
+    "lemma": "dedicar",
+    "meaning": "let us devote",
+    "audio": "work/audio/es-MX/06/es-06-1230.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1231",
+    "sentence": "Para quienes nos escuchan por radio y no ven las imágenes, cotejaremos en voz alta las dos frases del cartel. Una oyente objeta que prometimos entrada libre y luego cobramos; otra señala que abajo decía «solo la charla». Tiene razón en que existía esa precisión, pero aparecía separada del anuncio general y no la leímos al aire. Podemos defender la gratuidad de la charla, no la claridad de nuestra invitación a toda la feria.",
+    "cloze": "cotejaremos",
+    "answer": "cotejaremos",
+    "lemma": "cotejar",
+    "meaning": "we will compare",
+    "audio": "work/audio/es-MX/06/es-06-1231.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1232",
+    "sentence": "Familias, aplazaremos la recomendación de comprar el cuaderno completo hasta revisar los ejercicios que dependen de las láminas faltantes. Ustedes objetan con razón que nuestra demostración usó copias que no vienen en la edición a la venta. Los ejercicios iniciales sí se pueden hacer con sus páginas. Les indicaremos cuáles vimos funcionar así; esa orientación les permite aprovechar un ejemplar que ya tengan, sin usarla para justificar una compra cuyo contenido aún no comprobamos.",
+    "cloze": "aplazaremos",
+    "answer": "aplazaremos",
+    "lemma": "aplazar",
+    "meaning": "we will postpone",
+    "audio": "work/audio/es-MX/06/es-06-1232.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1233",
+    "sentence": "Vecinos, la moneda dibujada parece duplicar las aportaciones, aunque los recibos muestran un aumento de cien a ciento diez pesos. Su objeción es válida; quitar la imagen, sin más, dejaría sin explicar si también retiramos la cifra. Para quienes no manejan gráficas, sustituyamos ese dibujo por ambos importes escritos y una explicación del error. Así podrán comprobar el aumento con los recibos, sin conservar la exageración ni interpretar la corrección como ausencia de aumento.",
+    "cloze": "sustituyamos",
+    "answer": "sustituyamos",
+    "lemma": "sustituir",
+    "meaning": "let us replace",
+    "audio": "work/audio/es-MX/06/es-06-1233.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1234",
+    "sentence": "Ante quienes vinieron al foro, no desautorizaré la petición de ampliar el turno de preguntas por el error en su conteo. Ustedes dicen que quedaron diez preguntas sin respuesta; al revisar, cinco repiten otras, pero todavía quedan cinco asuntos distintos pendientes. Para quienes necesitan una aclaración antes de inscribirse, importa escuchar esas respuestas. Propongo empezar por ellas; corregir el número no demuestra que el tiempo ofrecido haya bastado ni autoriza a llamar resueltas las dudas restantes.",
+    "cloze": "desautorizaré",
+    "answer": "desautorizaré",
+    "lemma": "desautorizar",
+    "meaning": "I will dismiss",
+    "audio": "work/audio/es-MX/06/es-06-1234.mp3",
+    "accepted_answers": []
   }
 ]
