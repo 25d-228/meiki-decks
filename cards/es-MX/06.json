@@ -11076,5 +11076,255 @@
     "meaning": "claim for myself",
     "audio": "work/audio/es-MX/06/es-06-1100.mp3",
     "accepted_answers": []
+  },
+  {
+    "id": "es-06-1101",
+    "sentence": "Como directora propuse que las tareas se entregaran solo por internet. Ustedes objetan que varias familias no tienen conexión y que la consulta los presenta a todos como promotores. No supeditaré la entrega en papel a que reconozcan la consulta como válida: ofreceré esa opción y corregiré el anuncio, sin afirmar que con ello ustedes aceptan el proyecto.",
+    "cloze": "supeditaré",
+    "answer": "supeditaré",
+    "lemma": "supeditar",
+    "meaning": "I will make conditional",
+    "audio": "work/audio/es-MX/06/es-06-1101.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1102",
+    "sentence": "En la consulta del parque, dos vecinas rechazan la propuesta porque creen que quitará todos los árboles; también protestan porque solo se invitó a propietarios. El plano conserva los del patio central. Ante el barrio les rebato esa predicción con ese dato, pero no anunciaré respaldo vecinal: la exclusión de inquilinos sigue sin respuesta.",
+    "cloze": "les rebato",
+    "answer": "les rebato",
+    "lemma": "rebatir",
+    "meaning": "I rebut their claim",
+    "audio": "work/audio/es-MX/06/es-06-1102.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1103",
+    "sentence": "Los grupos consultados coinciden en que entrar debe ser gratis, pero unos apoyan la muestra y otros rechazan una consulta que solo permite cambiar las fechas. Una vecina objeta que la cuota de materiales contradice lo acordado. Ese criterio sí nos vincula al organizarla: quitaremos la cuota obligatoria, sin presentar el acuerdo sobre la gratuidad como aprobación del programa.",
+    "cloze": "nos vincula",
+    "answer": "nos vincula",
+    "lemma": "vincular",
+    "meaning": "binds us",
+    "audio": "work/audio/es-MX/06/es-06-1103.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1104",
+    "sentence": "La consulta sobre el cine al aire libre nos presentó como promotores, aunque objetamos que terminaría a medianoche. Ahora quitarán nuestros nombres del anuncio. La discusión sobre el horario no se salda con esa corrección: proponemos terminar a las diez; todavía tendríamos que valorar el programa y no estamos hablando por quienes faltaron.",
+    "cloze": "se salda",
+    "answer": "se salda",
+    "lemma": "saldar",
+    "meaning": "is settled",
+    "audio": "work/audio/es-MX/06/es-06-1104.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1105",
+    "sentence": "El cuestionario escolar solo deja elegir qué taller ocupará la biblioteca. Las familias objetan perder la sala de lectura y aparecer como partidarias del cierre cualquiera que sea su respuesta. Propongo que se incorpore la opción de conservarla antes de comparar talleres; las respuestas recogidas entre dos sustitutos no indican que esas familias acepten quedarse sin biblioteca.",
+    "cloze": "se incorpore",
+    "answer": "se incorpore",
+    "lemma": "incorporar",
+    "meaning": "be included",
+    "audio": "work/audio/es-MX/06/es-06-1105.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1106",
+    "sentence": "Las usuarias me encargaron pedir atención después de las seis sin perder el acceso sin cita. Rechazan que la consulta anuncie su apoyo al plan con citas. Usted invoca ese anuncio para negociar conmigo solo la hora de apertura. No reduciré la conversación al horario: la exigencia de cita sigue objetada y mi encargo no me permite aceptarla por ellas.",
+    "cloze": "reduciré",
+    "answer": "reduciré",
+    "lemma": "reducir",
+    "meaning": "I will narrow",
+    "audio": "work/audio/es-MX/06/es-06-1106.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1107",
+    "sentence": "Las familias dejaron la consulta porque cada intervención se contaba como apoyo al paseo. Antes objetaron que la salida fuera anterior al primer camión. Como organizador, no eludiré esa objeción alegando que se retiraron: propondré salir después y les enviaré la respuesta fuera de la consulta, sin registrarlas de nuevo como participantes ni dar su asistencia por confirmada.",
+    "cloze": "eludiré",
+    "answer": "eludiré",
+    "lemma": "eludir",
+    "meaning": "I will evade",
+    "audio": "work/audio/es-MX/06/es-06-1107.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1108",
+    "sentence": "La consulta sobre cerrar la calle reúne dos protestas: los comerciantes perderían las entregas de la mañana y los inquilinos fueron contados como representados por sus caseros. Propongo permitir entregas por la mañana. Eso les resuelve a los comerciantes el obstáculo que señalaron, pero a los inquilinos hay que preguntarles directamente; no anunciaré que ambas protestas quedaron atendidas ni que todos aceptaron el cierre.",
+    "cloze": "les resuelve",
+    "answer": "les resuelve",
+    "lemma": "resolver",
+    "meaning": "resolves for them",
+    "audio": "work/audio/es-MX/06/es-06-1108.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1109",
+    "sentence": "Las familias apoyaron el taller si conservaba el patio para jugar y rechazaron que la consulta anunciara un apoyo incondicional. Para responder a la objeción de que el salón es pequeño, proponemos ocupar el patio durante el juego. Algunos organizadores invocan aquel anuncio para empezar sin preguntar de nuevo. Nos abstendremos de ocuparlo mientras les consultamos esta versión; el anuncio cuestionado no nos autoriza a eliminar la condición de su apoyo.",
+    "cloze": "Nos abstendremos",
+    "answer": "Nos abstendremos",
+    "lemma": "abstenerse",
+    "meaning": "we will refrain",
+    "audio": "work/audio/es-MX/06/es-06-1109.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1110",
+    "sentence": "Los músicos cuestionan que el festival excluya a los grupos nuevos y rechazan una consulta que solo admite elogios para el boletín. Nos proponen reservar un turno abierto. Como organizadores, acogeremos esa propuesta con su origen crítico a la vista; no la presentaremos como una idea de quienes ya respaldan el festival ni les pediremos elogiarlo para incluirla.",
+    "cloze": "acogeremos",
+    "answer": "acogeremos",
+    "lemma": "acoger",
+    "meaning": "we will adopt",
+    "audio": "work/audio/es-MX/06/es-06-1110.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1111",
+    "sentence": "Rosa rechazó que la consulta anunciara un acuerdo de toda la calle, pero aceptó expresamente una banca frente a su casa. Un vecino pide ignorar la consulta y quitar todas las bancas porque estorbarían las entradas. Si borráramos también su respuesta, desconoceríamos una aceptación concreta por el conflicto con la consulta; propongo revisar cada ubicación y mantener la de Rosa solo si deja libre la entrada.",
+    "cloze": "desconoceríamos",
+    "answer": "desconoceríamos",
+    "lemma": "desconocer",
+    "meaning": "we would disregard",
+    "audio": "work/audio/es-MX/06/es-06-1111.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1112",
+    "sentence": "Unos usuarios piden letras grandes; otros necesitan responder oralmente y objetan cerrar el mostrador. Rechazan que la consulta, hecha solo por escrito, los anuncie como partidarios del cierre. Repetirla con letras grandes reproduciría la exclusión de quienes necesitan hablar; propongo admitir respuestas orales antes de decidir sobre el mostrador.",
+    "cloze": "reproduciría",
+    "answer": "reproduciría",
+    "lemma": "reproducir",
+    "meaning": "would reproduce",
+    "audio": "work/audio/es-MX/06/es-06-1112.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1113",
+    "sentence": "Los padres consultados apoyan exhibir los trabajos con nombre; los alumnos objetan perder la opción de no aparecer y protestan porque la escuela llama a ese resultado «la elección de los estudiantes». Invocar el apoyo de los padres para cerrar la discusión desautorizaría la objeción de quienes serían identificados. Propongo exhibir solo trabajos con permiso de sus autores y consultarles esa opción directamente.",
+    "cloze": "desautorizaría",
+    "answer": "desautorizaría",
+    "lemma": "desautorizar",
+    "meaning": "would undermine",
+    "audio": "work/audio/es-MX/06/es-06-1113.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1114",
+    "sentence": "El plan del huerto reparte el riego entre mañana y tarde. En la consulta, los jubilados ofrecieron las mañanas; el anuncio convirtió esa oferta en turnos para todo el barrio. Quienes trabajan de noche objetan los turnos asignados y cuestionan ese anuncio. Encargar todo el riego a los jubilados les transferiría también las tardes, que no ofrecieron. Propongo revisar el reparto con ambos grupos.",
+    "cloze": "les transferiría",
+    "answer": "les transferiría",
+    "lemma": "transferir",
+    "meaning": "would transfer to them",
+    "audio": "work/audio/es-MX/06/es-06-1114.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1115",
+    "sentence": "Mi hermana pide cancelar el festival por el ruido; yo prefiero hacerlo sin amplificadores. Ambas rechazamos que la consulta nos anuncie como promotoras. Ella me encargó pedir que quitaran nuestros nombres. El comité ofrece hacerlo y adoptar mi idea si firmo una solución en nombre de las dos. Esa firma la comprometería con una salida que no me autorizó a aceptar; puedo pedir que corrijan el anuncio, pero no cerrar su petición de cancelar.",
+    "cloze": "la comprometería",
+    "answer": "la comprometería",
+    "lemma": "comprometer",
+    "meaning": "would commit her",
+    "audio": "work/audio/es-MX/06/es-06-1115.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1116",
+    "sentence": "En la consulta del museo critiqué que el taller cobrara materiales y que mi presencia se anunciara como apoyo. Hoy me mostraron que son gratuitos y corregí mi crítica al cobro. El comité cita ese error para negarse a quitar mi nombre de los apoyos. Equivocarme sobre el costo no me inhabilita para rechazar esa representación; pueden responder a mi crítica con el dato correcto sin decidir por mí si respaldo el taller.",
+    "cloze": "me inhabilita",
+    "answer": "me inhabilita",
+    "lemma": "inhabilitar",
+    "meaning": "disqualifies me",
+    "audio": "work/audio/es-MX/06/es-06-1116.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1117",
+    "sentence": "Los vecinos objetan que el programa elimine el baile y que la consulta se anuncie como decisión de todos. Solo hay un salón, pero caben cine y baile en semanas alternas. Como equipo organizador asumimos la responsabilidad de proponer esa alternancia: atiende la pérdida del baile sin atribuir a la consulta un acuerdo que los vecinos cuestionan.",
+    "cloze": "asumimos",
+    "answer": "asumimos",
+    "lemma": "asumir",
+    "meaning": "we take on",
+    "audio": "work/audio/es-MX/06/es-06-1117.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1118",
+    "sentence": "En la consulta sobre el taller del centro cultural, Elena objetó que la única sesión fuera durante su trabajo. Agradeció que le ofrecieran un resumen y el comité publicó ese agradecimiento como aceptación del horario. No doy por retirada su objeción: era no poder participar en el taller, no quedarse sin noticias. Propongo otra sesión fuera de su jornada, sin presentar su agradecimiento como aprobación.",
+    "cloze": "doy por retirada",
+    "answer": "doy por retirada",
+    "lemma": "dar por retirado",
+    "meaning": "consider withdrawn",
+    "audio": "work/audio/es-MX/06/es-06-1118.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1119",
+    "sentence": "Los vecinos informaron que el patio se encharca, pero objetan cubrirlo de cemento y rechazan que la consulta los presente como promotores de esa obra. Usar sus relatos como votos a favor equipararía reconocer el problema con elegir nuestra solución. Propongo comparar opciones que conserven tierra para plantar; sus observaciones justifican atender el agua, no decidir por ellos cómo hacerlo.",
+    "cloze": "equipararía",
+    "answer": "equipararía",
+    "lemma": "equiparar",
+    "meaning": "would equate",
+    "audio": "work/audio/es-MX/06/es-06-1119.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1120",
+    "sentence": "La consulta del centro cultural juntó el taller gratuito y una gala con cuota en una sola pregunta. Quienes pidieron el taller objetan pagar la gala y rechazan que su respuesta se anuncie como apoyo al paquete. Cancelar todo sacrificaría el taller que sí solicitaron. Propongo separar las actividades y preguntar por cada una, sin trasladar aquel pedido a la gala.",
+    "cloze": "sacrificaría",
+    "answer": "sacrificaría",
+    "lemma": "sacrificar",
+    "meaning": "would sacrifice",
+    "audio": "work/audio/es-MX/06/es-06-1120.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1121",
+    "sentence": "Marcos, objetaste que el festival ocupara toda la cancha y dijiste que rechazas una consulta que habla por todo el barrio. Ahora proponemos dejar media cancha libre, pero dices que temes parecer desleal a los otros críticos si aceptas. No te pido que te desmarques de ellos; te pregunto si esta distribución responde a tu objeción, sin usar tu respuesta para representar al resto.",
+    "cloze": "te desmarques",
+    "answer": "te desmarques",
+    "lemma": "desmarcarse",
+    "meaning": "you distance yourself",
+    "audio": "work/audio/es-MX/06/es-06-1121.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1122",
+    "sentence": "Los usuarios objetan que sustituir la atención en persona por llamadas les impida mostrar documentos. Aceptarían probar las llamadas como complemento, pero rechazan que la consulta llame a eso aprobación del reemplazo. La prueba que propongo se restringirá a consultas sin documentos, manteniendo el mostrador abierto; después podrán evaluar esa experiencia sin haber aceptado de antemano la sustitución.",
+    "cloze": "se restringirá",
+    "answer": "se restringirá",
+    "lemma": "restringir",
+    "meaning": "will be restricted",
+    "audio": "work/audio/es-MX/06/es-06-1122.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1123",
+    "sentence": "El fondo alcanza para una jornada cultural gratuita, pero proponemos dos con entrada de pago. En la consulta hubo rechazo al cobro; solo contamos críticas con otro presupuesto y anunciamos que nadie se oponía. La falta de ese documento no nos releva de responder: propongo una sola jornada sin cuota y corregir el anuncio, sin atribuir a los críticos apoyo a esa alternativa todavía.",
+    "cloze": "nos releva",
+    "answer": "nos releva",
+    "lemma": "relevar",
+    "meaning": "relieves us",
+    "audio": "work/audio/es-MX/06/es-06-1123.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1124",
+    "sentence": "Antes de votar sobre la feria, Ana objetó la cuota y que solo pudieran opinar quienes ya la habían pagado. Perdió la votación, y ahora ustedes dicen que critica la consulta por haber perdido. No desacreditemos su objeción como simple reacción al resultado: ya la había planteado. Propongo una versión gratuita y abrir la discusión a quienes quedaron fuera, sin anunciar la aceptación de Ana.",
+    "cloze": "desacreditemos",
+    "answer": "desacreditemos",
+    "lemma": "desacreditar",
+    "meaning": "let us discredit",
+    "audio": "work/audio/es-MX/06/es-06-1124.mp3",
+    "accepted_answers": []
+  },
+  {
+    "id": "es-06-1125",
+    "sentence": "Dos vecinas rechazaban el traslado del taller por la escalera y también cuestionaban una consulta anunciada como unánime. Tras ofrecerles un salón en planta baja, dijeron que ese traslado sí les servía, pero mantuvieron su protesta por el anuncio. Ante el barrio explico que dan por superada la objeción de acceso al traslado; no afirmo que hayan validado la consulta ni aceptado el programa completo.",
+    "cloze": "dan por superada",
+    "answer": "dan por superada",
+    "lemma": "dar por superado",
+    "meaning": "consider resolved",
+    "audio": "work/audio/es-MX/06/es-06-1125.mp3",
+    "accepted_answers": []
   }
 ]
