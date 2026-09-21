@@ -1130,6 +1130,62 @@ class MeikiDecksTests(unittest.TestCase):
 
         self.assertEqual(actual_counts, expected_counts)
 
+    def test_mexican_spanish_build_uses_complete_stage_order_and_names(self):
+        self.language = "es-MX"
+        for stage in ("06", "04", "02", "05", "01", "03"):
+            self.stage = stage
+            card = self.card(f"es-{stage}-test")
+            self.write_stage([card])
+            audio_path = self.root / card["audio"]
+            audio_path.parent.mkdir(parents=True)
+            audio_path.write_bytes(f"audio {stage}".encode())
+
+        summary = meiki_decks.build_language(self.root, self.language, probe=lambda _: 1_500)
+
+        self.assertEqual(summary["card_count"], 6)
+        self.assertEqual(summary["media_object_count"], 6)
+        with zipfile.ZipFile(summary["path"], "r") as archive:
+            collection = json.loads(archive.read("collection.json"))
+        self.assertEqual(
+            [(deck["id"], deck["name"]) for deck in collection["decks"]],
+            [
+                ("deck:es-MX:01", "Mexican Spanish 01 — A1 foundation"),
+                ("deck:es-MX:02", "Mexican Spanish 02 — A2 elementary"),
+                ("deck:es-MX:03", "Mexican Spanish 03 — B1 intermediate"),
+                ("deck:es-MX:04", "Mexican Spanish 04 — B2 upper-intermediate"),
+                ("deck:es-MX:05", "Mexican Spanish 05 — C1 advanced"),
+                ("deck:es-MX:06", "Mexican Spanish 06 — C2 and advanced-use bridge"),
+            ],
+        )
+
+    def test_mexican_spanish_build_requires_the_complete_stage_set(self):
+        self.language = "es-MX"
+        expected_error = "Mexican Spanish complete bundle requires stages 01, 02, 03, 04, 05, 06"
+        archive_path = self.root / "dist" / "meiki-es-mx-complete-v0.1.0.meiki"
+
+        for stage in ("01", "02", "03", "04", "05"):
+            self.stage = stage
+            self.write_stage([self.card(f"es-{stage}-test")])
+
+        with self.subTest(stages="missing 06"):
+            with self.assertRaisesRegex(meiki_decks.DeckError, expected_error):
+                meiki_decks.build_language(self.root, self.language, probe=lambda _: 1_500)
+            self.assertFalse(archive_path.exists())
+
+        self.stage = "six"
+        self.write_stage([self.card("es-six-test")])
+        with self.subTest(stages="06 renamed to six"):
+            with self.assertRaisesRegex(meiki_decks.DeckError, expected_error):
+                meiki_decks.build_language(self.root, self.language, probe=lambda _: 1_500)
+            self.assertFalse(archive_path.exists())
+
+        self.stage = "06"
+        self.write_stage([self.card("es-06-test")])
+        with self.subTest(stages="extra six"):
+            with self.assertRaisesRegex(meiki_decks.DeckError, expected_error):
+                meiki_decks.build_language(self.root, self.language, probe=lambda _: 1_500)
+            self.assertFalse(archive_path.exists())
+
     def test_french_build_uses_complete_stage_order_and_names(self):
         self.language = "fr-FR"
         for stage in meiki_decks.FRENCH_COMPLETE_STAGE_NAMES:
