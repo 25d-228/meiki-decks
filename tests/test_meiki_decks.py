@@ -1106,6 +1106,49 @@ class MeikiDecksTests(unittest.TestCase):
 
         self.assertEqual(actual_counts, expected_counts)
 
+    def test_mandarin_foundation_has_reviewed_count_and_readings(self):
+        repository_root = Path(__file__).resolve().parents[1]
+        cards = meiki_decks.check_stage(repository_root, "zh-Hans-CN", "00")
+
+        self.assertEqual(len(cards), 100)
+        self.assertEqual([card["id"] for card in cards], [
+            f"zh-00-{number:04d}" for number in range(1, 101)
+        ])
+        for card in cards:
+            with self.subTest(card=card["id"]):
+                self.assertIsInstance(card.get("reading"), str)
+                self.assertTrue(card["reading"].strip())
+                self.assertFalse(any(character.isdigit() for character in card["reading"]))
+
+    def test_mandarin_generic_roundtrip_preserves_characters_and_reading(self):
+        self.language = "zh-Hans-CN"
+        self.stage = "00"
+        card = self.card("zh-00-test", "老师，请喝茶。", "老师")
+        card.update(reading="lǎoshī", meaning="teacher", grammar="noun")
+        self.write_stage([card])
+        audio_path = self.root / card["audio"]
+        audio_path.parent.mkdir(parents=True)
+        audio_path.write_bytes(b"synthetic test fixture, not a recording")
+
+        summary = meiki_decks.build_language(self.root, self.language, probe=lambda _: 1_000)
+        meiki_decks.verify_archive(summary["path"])
+
+        with zipfile.ZipFile(summary["path"]) as archive:
+            collection = json.loads(archive.read("collection.json"))
+        self.assertEqual(collection["decks"][0]["name"], "zh-Hans-CN 00")
+        note = collection["notes"][0]
+        segments = note["source_item"]["segments"]
+        self.assertEqual(segments[0]["content"]["text"], "")
+        self.assertEqual(segments[1]["content"]["cloze"]["text"], "老师")
+        self.assertEqual(segments[2]["content"]["text"], "，请喝茶。")
+        cloze = note["clozes"][0]
+        self.assertEqual(cloze["answer"], "老师")
+        self.assertEqual(cloze["accepted_answers"], [])
+        self.assertEqual(
+            {annotation["label"]: annotation["value"] for annotation in cloze["annotations"]},
+            {"Lemma": "老师", "Reading": "lǎoshī", "Grammar": "noun"},
+        )
+
     def test_mexican_spanish_sources_have_current_card_counts(self):
         repository_root = Path(__file__).resolve().parents[1]
         expected_counts = {
