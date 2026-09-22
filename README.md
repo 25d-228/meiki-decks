@@ -17,7 +17,7 @@ Committed stage sources use `coverage/<locale>/<stage>.md` and
 `work/audio/<locale>/<stage>/`, and complete language archives are written to
 `dist/`. Audio, archives, models, and caches remain local and ignored.
 
-French, Japanese, Korean, and Mexican Spanish audio generation runs on a CUDA server with
+French, Japanese, Korean, Mexican Spanish, and Mandarin audio generation runs on a CUDA server with
 VoxCPM2 Ultimate Cloning and FFmpeg. Install the required server packages with:
 
 ```bash
@@ -26,15 +26,15 @@ pip install -U voxcpm soundfile
 
 Place each fixed local reference pair at `work/voices/<locale>/reference.wav` and
 `work/voices/<locale>/reference.txt`. Configured locales are `es-MX`, `fr-FR`, `ja-JP`,
-and `ko-KR`.
+`ko-KR`, and `zh-Hans-CN`.
 The generator downloads the configured model through the VoxCPM runtime on first
 use. It does not use cloud keys or a remote synthesis service.
 
-### French, Japanese, Korean, and Mexican Spanish denoising
+### French, Japanese, Korean, Mexican Spanish, and Mandarin denoising
 
 [Issue #92](https://github.com/25d-228/meiki-decks/issues/92) selected the
 official Apache-2.0 `MossFormer2_SE_48K` speech-enhancement model. The same active
-`generate-audio` path is used for French, Japanese, Korean, and Mexican Spanish with
+`generate-audio` path is used for French, Japanese, Korean, Mexican Spanish, and Mandarin with
 these immutable upstream revisions:
 
 - ClearerVoice-Studio code commit:

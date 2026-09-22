@@ -783,6 +783,11 @@ class MeikiDecksTests(unittest.TestCase):
                     "reference_wav": "work/voices/ko-KR/reference.wav",
                     "reference_text": "work/voices/ko-KR/reference.txt",
                 },
+                "zh-Hans-CN": {
+                    "model": "openbmb/VoxCPM2",
+                    "reference_wav": "work/voices/zh-Hans-CN/reference.wav",
+                    "reference_text": "work/voices/zh-Hans-CN/reference.txt",
+                },
             },
         )
 
@@ -815,62 +820,73 @@ class MeikiDecksTests(unittest.TestCase):
             },
         )
 
-    def test_korean_generation_uses_the_fixed_reference_pair(self):
-        self.language = "ko-KR"
-        self.stage = "00"
-        card = self.card("ko-test-001", "한국어 문장을 연습합니다.", "연습합니다")
-        self.write_stage([card])
-        reference_directory = self.root / "work" / "voices" / self.language
-        reference_directory.mkdir(parents=True)
-        reference_wav = reference_directory / "reference.wav"
-        reference_wav.write_bytes(b"Korean reference audio")
-        reference_text = reference_directory / "reference.txt"
-        reference_text.write_text("차분하게 한국어를 연습합니다.\n", encoding="utf-8")
-        generations = []
-        denoiser_configuration = self.denoiser_configuration()
-
-        class FakeModel:
-            tts_model = mock.Mock(sample_rate=48_000)
-
-            def generate(self, **arguments):
-                generations.append(arguments)
-                return [0.0, 0.1]
-
-        def fake_command(command, **arguments):
-            if command[0] == "fake-mossformer-python":
-                return self.finish_denoiser_batch(command)
-            Path(command[-1]).write_bytes(b"generated audio")
-            return subprocess.CompletedProcess(command, 0, stdout="")
-
-        def fake_write(path, waveform, sample_rate):
-            path.write_bytes(b"untreated baseline")
-
-        with (
-            mock.patch.object(meiki_decks, "load_tts_model", return_value=FakeModel()) as loader,
-            mock.patch.object(meiki_decks, "write_waveform", side_effect=fake_write),
-        ):
-            failures = meiki_decks.generate_audio(
-                self.root,
-                self.language,
-                self.stage,
-                run_command=fake_command,
-                probe=lambda _: 1_000,
-                denoiser_config=denoiser_configuration,
-            )
-
-        self.assertEqual(failures, 0)
-        loader.assert_called_once_with(meiki_decks.TTS_CONFIG["ko-KR"])
-        self.assertEqual(
-            generations,
-            [
-                {
-                    "text": card["sentence"],
-                    "prompt_wav_path": str(reference_wav),
-                    "prompt_text": "차분하게 한국어를 연습합니다.\n",
-                    "reference_wav_path": str(reference_wav),
-                }
-            ],
+    def test_korean_and_mandarin_generation_use_the_fixed_reference_pair(self):
+        test_root = self.root
+        cases = (
+            ("ko-KR", "한국어 문장을 연습합니다.", "연습합니다", "차분하게 한국어를 연습합니다.\n"),
+            ("zh-Hans-CN", "请喝一杯绿茶。", "绿茶", "这是固定的中文参考录音。\n"),
         )
+        for language, sentence, target, transcript in cases:
+            with self.subTest(language=language):
+                self.root = test_root / language
+                self.language = language
+                self.stage = "00"
+                card = self.card("test-001", sentence, target)
+                if language == "zh-Hans-CN":
+                    card["reading"] = "lǜchá"
+                    card["note"] = "The annotation is not spoken."
+                self.write_stage([card])
+                reference_directory = self.root / "work" / "voices" / language
+                reference_directory.mkdir(parents=True)
+                reference_wav = reference_directory / "reference.wav"
+                reference_wav.write_bytes(b"fixed reference audio")
+                reference_text = reference_directory / "reference.txt"
+                reference_text.write_text(transcript, encoding="utf-8")
+                generations = []
+                denoiser_configuration = self.denoiser_configuration()
+
+                class FakeModel:
+                    tts_model = mock.Mock(sample_rate=48_000)
+
+                    def generate(self, **arguments):
+                        generations.append(arguments)
+                        return [0.0, 0.1]
+
+                def fake_command(command, **arguments):
+                    if command[0] == "fake-mossformer-python":
+                        return self.finish_denoiser_batch(command)
+                    Path(command[-1]).write_bytes(b"generated audio")
+                    return subprocess.CompletedProcess(command, 0, stdout="")
+
+                def fake_write(path, waveform, sample_rate):
+                    path.write_bytes(b"untreated baseline")
+
+                with (
+                    mock.patch.object(
+                        meiki_decks, "load_tts_model", return_value=FakeModel()
+                    ) as loader,
+                    mock.patch.object(meiki_decks, "write_waveform", side_effect=fake_write),
+                ):
+                    failures = meiki_decks.generate_audio(
+                        self.root,
+                        language,
+                        self.stage,
+                        run_command=fake_command,
+                        probe=lambda _: 1_000,
+                        denoiser_config=denoiser_configuration,
+                    )
+
+                self.assertEqual(failures, 0)
+                loader.assert_called_once_with(meiki_decks.TTS_CONFIG[language])
+                self.assertEqual(
+                    generations,
+                    [{
+                        "text": sentence,
+                        "prompt_wav_path": str(reference_wav),
+                        "prompt_text": transcript,
+                        "reference_wav_path": str(reference_wav),
+                    }],
+                )
 
     def test_model_loader_uses_voxcpm2_without_denoising_or_compilation(self):
         model = object()

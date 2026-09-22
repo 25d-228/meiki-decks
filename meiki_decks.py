@@ -114,6 +114,11 @@ TTS_CONFIG = {
         "reference_wav": "work/voices/ko-KR/reference.wav",
         "reference_text": "work/voices/ko-KR/reference.txt",
     },
+    "zh-Hans-CN": {
+        "model": "openbmb/VoxCPM2",
+        "reference_wav": "work/voices/zh-Hans-CN/reference.wav",
+        "reference_text": "work/voices/zh-Hans-CN/reference.txt",
+    },
 }
 MOSSFORMER_CONFIG = {
     "model": "MossFormer2_SE_48K",
