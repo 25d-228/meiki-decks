@@ -90,6 +90,7 @@ jobs:
               "cards/ko-KR/04.json",
               "cards/ko-KR/05.json",
               "cards/ko-KR/06.json",
+              "cards/zh-Hans-CN/00.json",
               "coverage/es-MX/01.md",
               "coverage/es-MX/02.md",
               "coverage/es-MX/03.md",
@@ -115,6 +116,7 @@ jobs:
               "coverage/ko-KR/04.md",
               "coverage/ko-KR/05.md",
               "coverage/ko-KR/06.md",
+              "coverage/zh-Hans-CN/00.md",
               "meiki_decks.py",
               "mossformer2_batch.py",
               "pyproject.toml",
@@ -163,6 +165,8 @@ jobs:
           python meiki_decks.py check --language es-MX --stage 04
           python meiki_decks.py check --language es-MX --stage 05
           python meiki_decks.py check --language es-MX --stage 06
+      - name: Validate Mandarin source
+        run: python meiki_decks.py check --language zh-Hans-CN --stage 00
       - name: Build and verify tiny archive
         run: >-
           python -m unittest -v
