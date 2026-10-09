@@ -78,8 +78,18 @@ def validate_records(records, expected_ids):
             errors.append(f"{label}: keep boundary punctuation outside cloze")
         if sentence[-1] not in ".!?":
             errors.append(f"{label}: missing sentence-ending punctuation")
-        if sentence.count("¿") != sentence.count("?") or sentence.count("¡") != sentence.count("!"):
-            errors.append(f"{label}: unpaired Spanish question/exclamation punctuation")
+        for opening, closing in (("¿", "?"), ("¡", "!")):
+            balance = 0
+            for char in sentence:
+                if char == opening:
+                    balance += 1
+                elif char == closing:
+                    balance -= 1
+                    if balance < 0:
+                        break
+            if balance:
+                errors.append(f"{label}: unpaired or out-of-order Spanish question/exclamation punctuation")
+                break
         if card["audio"] != f"audio/{label}.mp3":
             errors.append(f"{label}: audio filename must match source ID")
     if ids != list(expected_ids):
@@ -105,7 +115,7 @@ def validate_coverage(text, expected_ids):
         end = sections[n + 1].start() if n + 1 < len(sections) else len(text)
         body = text[heading.end():end]
         for field in ("Prerequisites", "Objectives"):
-            if not re.search(rf"^{field}:\s*\S.+$", body, re.MULTILINE):
+            if not re.search(rf"^{field}:[ \t]*\S[^\r\n]*$", body, re.MULTILINE):
                 errors.append(f"Slice {heading[1]}: missing {field.lower()}")
         rows = re.findall(r"^\| (es-01-\d{4}) \| ([^|\n]+) \|$", body, re.MULTILINE)
         row_ids = [row[0] for row in rows]

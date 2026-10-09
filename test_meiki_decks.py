@@ -61,6 +61,33 @@ class SourceChecks(unittest.TestCase):
             with self.subTest(coverage=coverage):
                 self.assertTrue(validate_coverage(coverage, self.ids))
 
+    def test_coverage_fields_require_text_on_their_own_line(self):
+        for field, value in (("Prerequisites", "None."),
+                             ("Objectives", "Ask about location.")):
+            for blank in ("", " \t"):
+                with self.subTest(field=field, blank=blank):
+                    coverage = self.coverage.replace(f"{field}: {value}", f"{field}:{blank}")
+                    self.assertIn(f"Slice 01: missing {field.lower()}",
+                                  validate_coverage(coverage, self.ids))
+
+    def test_question_and_exclamation_delimiter_order_and_balance(self):
+        for sentence, valid in (
+            ("Dónde está el baño? ¿Aquí.", False),
+            ("El baño está aquí! ¡Gracias.", False),
+            ("¿Dónde está el baño.", False),
+            ("¡El baño está aquí.", False),
+            ("¿Dónde está el baño? ¡Aquí!", True),
+            ("¿Dónde está el baño? ¿Aquí?", True),
+            ("¡El baño está aquí! ¡Gracias!", True),
+        ):
+            with self.subTest(sentence=sentence):
+                card = dict(self.cards[0], sentence=sentence, cloze="baño", answer="baño")
+                errors = validate_records([card], self.ids)
+                if valid:
+                    self.assertEqual(errors, [])
+                else:
+                    self.assertTrue(any("question/exclamation punctuation" in e for e in errors))
+
     def test_punctuation_and_invalid_values(self):
         for changes in (
             {"cloze": "¿Dónde", "answer": "¿Dónde"},

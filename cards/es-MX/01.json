@@ -4201,7 +4201,7 @@
     "answer": "más",
     "lemma": "más",
     "meaning": "more",
-    "part_of_speech": "comparative adverb",
+    "part_of_speech": "comparative quantifier",
     "audio": "audio/es-01-0370.mp3",
     "accepted_answers": []
   },
@@ -4293,7 +4293,7 @@
     "answer": "menos",
     "lemma": "menos",
     "meaning": "less",
-    "part_of_speech": "comparative adverb",
+    "part_of_speech": "comparative quantifier",
     "audio": "audio/es-01-0378.mp3",
     "accepted_answers": []
   },
@@ -7029,7 +7029,7 @@
     "meaning": "there is no need to",
     "part_of_speech": "impersonal verb phrase",
     "audio": "audio/es-01-0619.mp3",
-    "note": "No hay que expresses that something is unnecessary.",
+    "note": "Here, No hay que means payment is unnecessary because admission is free.",
     "accepted_answers": []
   },
   {
@@ -7544,10 +7544,10 @@
   {
     "id": "es-01-0666",
     "sentence": "Este fin de semana no vamos a viajar.",
-    "cloze": "no vamos a viajar",
-    "answer": "no vamos a viajar",
+    "cloze": "no vamos a",
+    "answer": "no vamos a",
     "lemma": "ir a + infinitive",
-    "meaning": "are not going to travel",
+    "meaning": "we are not going to",
     "part_of_speech": "verb phrase",
     "audio": "audio/es-01-0666.mp3",
     "accepted_answers": []
@@ -7555,10 +7555,10 @@
   {
     "id": "es-01-0667",
     "sentence": "¿No vas a trabajar mañana?",
-    "cloze": "No vas a trabajar",
-    "answer": "No vas a trabajar",
+    "cloze": "No vas a",
+    "answer": "No vas a",
     "lemma": "ir a + infinitive",
-    "meaning": "Aren't you going to work",
+    "meaning": "aren't you going to",
     "part_of_speech": "verb phrase",
     "audio": "audio/es-01-0667.mp3",
     "accepted_answers": []
@@ -7982,7 +7982,7 @@
     "cloze": "lavarse",
     "answer": "lavarse",
     "lemma": "lavarse",
-    "meaning": "to wash themselves",
+    "meaning": "to wash",
     "part_of_speech": "reflexive infinitive",
     "audio": "audio/es-01-0704.mp3",
     "note": "The attached se refers back to the plural subject los niños.",
