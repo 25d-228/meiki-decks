@@ -1,0 +1,27 @@
+name: Source checks
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Validate content and coverage
+        run: python3 meiki_decks.py check --language es-MX --stage 01
+      - name: Test source checks
+        run: python3 -m unittest -v
+      - name: Compile Python with temporary bytecode
+        run: PYTHONPYCACHEPREFIX=/tmp/meiki-decks-es-01/bytecode python3 -m py_compile meiki_decks.py test_meiki_decks.py
+      - name: Check whitespace
+        run: git diff --check HEAD^ HEAD
