@@ -1,4 +1,4 @@
-"""Validate Spanish 01 and 02 authoring sources without media or dependencies."""
+"""Validate Spanish 01–03 authoring sources without media or dependencies."""
 
 import argparse
 from collections import Counter
@@ -9,6 +9,7 @@ import sys
 import unicodedata
 
 ROOT = Path(__file__).resolve().parent
+STAGE_COUNTS = {"01": 800, "02": 800, "03": 1200}
 REQUIRED = {
     "id", "sentence", "cloze", "answer", "accepted_answers", "lemma",
     "meaning", "part_of_speech", "audio",
@@ -139,16 +140,18 @@ def main():
     sub = parser.add_subparsers(dest="command", required=True)
     check = sub.add_parser("check", help="Check a Spanish content stage and coverage")
     check.add_argument("--language", required=True, choices=["es-MX"])
-    check.add_argument("--stage", required=True, choices=["01", "02"])
+    check.add_argument("--stage", required=True, choices=STAGE_COUNTS)
     args = parser.parse_args()
-    expected = [f"es-{args.stage}-{i:04d}" for i in range(1, 801)]
+    expected = [f"es-{args.stage}-{i:04d}" for i in range(1, STAGE_COUNTS[args.stage] + 1)]
     try:
         records = json.loads((ROOT / "cards" / args.language / f"{args.stage}.json").read_text(encoding="utf-8"))
         coverage = (ROOT / "coverage" / args.language / f"{args.stage}.md").read_text(encoding="utf-8")
         previous = []
-        if args.stage == "02":
-            earlier = json.loads((ROOT / "cards" / args.language / "01.json").read_text(encoding="utf-8"))
-            previous = [card["sentence"] for card in earlier]
+        for stage in STAGE_COUNTS:
+            if stage >= args.stage:
+                break
+            earlier = json.loads((ROOT / "cards" / args.language / f"{stage}.json").read_text(encoding="utf-8"))
+            previous.extend(card["sentence"] for card in earlier)
     except (OSError, UnicodeError, json.JSONDecodeError) as exc:
         print(f"Cannot read sources: {exc}", file=sys.stderr)
         return 1

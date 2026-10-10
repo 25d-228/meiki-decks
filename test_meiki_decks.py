@@ -1,8 +1,15 @@
 """Focused source-integrity tests, independent of media and model execution."""
 
 import copy
+from contextlib import redirect_stderr, redirect_stdout
+import io
+import json
+from pathlib import Path
+import tempfile
 import unittest
+from unittest.mock import patch
 
+import meiki_decks
 from meiki_decks import validate_coverage, validate_records
 
 
@@ -45,6 +52,71 @@ class SourceChecks(unittest.TestCase):
         errors = validate_records(self.cards, self.ids, ["¿DÓNDE ESTÁ EL BAÑO?"])
         self.assertIn("es-01-0001: sentence duplicates an earlier stage", errors)
         self.assertEqual(validate_records(self.cards, self.ids), [])
+
+    def stage_03_fixture(self, root):
+        cards = []
+        sections = []
+        for n in range(1, 1201):
+            card_id = f"es-03-{n:04d}"
+            cards.append(dict(self.cards[0], id=card_id,
+                              sentence=f"¿Dónde está el baño número {n}?",
+                              audio=f"audio/{card_id}.mp3"))
+            if (n - 1) % 40 == 0:
+                sections.append(f"## Slice {(n - 1) // 40 + 1:02d} — Questions\n"
+                                "Prerequisites: Location vocabulary.\n"
+                                "Objectives: Ask about location.\n")
+            sections.append(f"| {card_id} | Location question. |\n")
+        for folder in ("cards", "coverage"):
+            (root / folder / "es-MX").mkdir(parents=True)
+        for stage in ("01", "02"):
+            (root / "cards" / "es-MX" / f"{stage}.json").write_text("[]")
+        (root / "cards" / "es-MX" / "03.json").write_text(json.dumps(cards))
+        (root / "coverage" / "es-MX" / "03.md").write_text("\n".join(sections))
+        return cards
+
+    def run_stage_03(self, root):
+        output, errors = io.StringIO(), io.StringIO()
+        with patch.object(meiki_decks, "ROOT", root), patch("sys.argv", [
+            "meiki_decks.py", "check", "--language", "es-MX", "--stage", "03",
+        ]), redirect_stdout(output), redirect_stderr(errors):
+            result = meiki_decks.main()
+        return result, output.getvalue(), errors.getvalue()
+
+    def test_stage_03_requires_1200_records_and_30_complete_slices(self):
+        scratch = Path("/tmp/meiki-decks-es-03")
+        scratch.mkdir(exist_ok=True)
+        with tempfile.TemporaryDirectory(dir=scratch) as directory:
+            root = Path(directory)
+            cards = self.stage_03_fixture(root)
+            result, output, _ = self.run_stage_03(root)
+            self.assertEqual(result, 0)
+            self.assertIn("1200 records, 30 slices, complete coverage", output)
+            source = root / "cards" / "es-MX" / "03.json"
+            source.write_text(json.dumps(cards[:800]))
+            result, _, errors = self.run_stage_03(root)
+            self.assertEqual(result, 1)
+            self.assertIn("Expected 1200 records, found 800", errors)
+            source.write_text(json.dumps(cards))
+            coverage = root / "coverage" / "es-MX" / "03.md"
+            coverage.write_text(coverage.read_text().split("## Slice 30")[0])
+            result, _, errors = self.run_stage_03(root)
+            self.assertEqual(result, 1)
+            self.assertIn("Coverage slices are missing", errors)
+
+    def test_stage_03_compares_sentences_with_both_earlier_sources(self):
+        scratch = Path("/tmp/meiki-decks-es-03")
+        scratch.mkdir(exist_ok=True)
+        with tempfile.TemporaryDirectory(dir=scratch) as directory:
+            root = Path(directory)
+            cards = self.stage_03_fixture(root)
+            for stage in ("01", "02"):
+                with self.subTest(earlier_stage=stage):
+                    source = root / "cards" / "es-MX" / f"{stage}.json"
+                    source.write_text(json.dumps([{"sentence": cards[-1]["sentence"].upper()}]))
+                    result, _, errors = self.run_stage_03(root)
+                    self.assertEqual(result, 1)
+                    self.assertIn("es-03-1200: sentence duplicates an earlier stage", errors)
+                    source.write_text("[]")
 
     def test_absent_ambiguous_and_partial_word_clozes(self):
         for sentence, target, error in (
