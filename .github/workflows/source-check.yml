@@ -18,10 +18,12 @@ jobs:
         with:
           fetch-depth: 2
       - name: Validate content and coverage
-        run: python3 meiki_decks.py check --language es-MX --stage 01
+        run: |
+          python3 meiki_decks.py check --language es-MX --stage 01
+          python3 meiki_decks.py check --language es-MX --stage 02
       - name: Test source checks
         run: python3 -m unittest -v
       - name: Compile Python with temporary bytecode
-        run: PYTHONPYCACHEPREFIX=/tmp/meiki-decks-es-01/bytecode python3 -m py_compile meiki_decks.py test_meiki_decks.py
+        run: PYTHONPYCACHEPREFIX=/tmp/meiki-decks-es-02/bytecode python3 -m py_compile meiki_decks.py test_meiki_decks.py
       - name: Check whitespace
         run: git diff --check HEAD^ HEAD

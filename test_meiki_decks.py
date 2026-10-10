@@ -30,6 +30,22 @@ class SourceChecks(unittest.TestCase):
         self.cards[0]["meaning"] = "cafe\u0301"
         self.assertTrue(any("NFC" in e for e in validate_records(self.cards, self.ids)))
 
+    def test_stage_02_source_and_coverage_use_the_selected_ids(self):
+        ids = ["es-02-0001"]
+        card = dict(self.cards[0], id=ids[0], audio="audio/es-02-0001.mp3")
+        coverage = self.coverage.replace("es-01-0001", ids[0])
+        self.assertEqual(validate_records([card], ids), [])
+        self.assertEqual(validate_coverage(coverage, ids), [])
+        self.assertTrue(validate_records([card], self.ids))
+        self.assertTrue(validate_coverage(self.coverage, ids))
+        self.assertTrue(validate_coverage(coverage + "\nSee es-01-0001.\n", ids))
+
+    def test_cross_stage_sentence_duplicates_are_case_insensitive(self):
+        self.assertEqual(validate_records(self.cards, self.ids, ["Busco el baño."]), [])
+        errors = validate_records(self.cards, self.ids, ["¿DÓNDE ESTÁ EL BAÑO?"])
+        self.assertIn("es-01-0001: sentence duplicates an earlier stage", errors)
+        self.assertEqual(validate_records(self.cards, self.ids), [])
+
     def test_absent_ambiguous_and_partial_word_clozes(self):
         for sentence, target, error in (
             ("Busco el baño.", "Dónde", "exactly once"),

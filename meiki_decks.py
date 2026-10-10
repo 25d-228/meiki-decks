@@ -1,4 +1,4 @@
-"""Validate the Spanish 01 authoring sources without media or dependencies."""
+"""Validate Spanish 01 and 02 authoring sources without media or dependencies."""
 
 import argparse
 from collections import Counter
@@ -15,7 +15,7 @@ REQUIRED = {
 }
 
 
-def validate_records(records, expected_ids):
+def validate_records(records, expected_ids, previous_sentences=()):
     """Return structural errors; expected_ids also defines the source order."""
     errors = []
     if not isinstance(records, list):
@@ -24,6 +24,7 @@ def validate_records(records, expected_ids):
         errors.append(f"Expected {len(expected_ids)} records, found {len(records)}")
     ids = []
     sentences = []
+    previous = {sentence.casefold() for sentence in previous_sentences}
     for index, card in enumerate(records):
         label = f"Record {index + 1}"
         if not isinstance(card, dict):
@@ -42,6 +43,8 @@ def validate_records(records, expected_ids):
         label = card["id"]
         ids.append(label)
         sentences.append(card["sentence"].casefold())
+        if card["sentence"].casefold() in previous:
+            errors.append(f"{label}: sentence duplicates an earlier stage")
         for key in strings:
             value = card[key]
             if unicodedata.normalize("NFC", value) != value:
@@ -117,7 +120,7 @@ def validate_coverage(text, expected_ids):
         for field in ("Prerequisites", "Objectives"):
             if not re.search(rf"^{field}:[ \t]*\S[^\r\n]*$", body, re.MULTILINE):
                 errors.append(f"Slice {heading[1]}: missing {field.lower()}")
-        rows = re.findall(r"^\| (es-01-\d{4}) \| ([^|\n]+) \|$", body, re.MULTILINE)
+        rows = re.findall(r"^\| (es-\d{2}-\d{4}) \| ([^|\n]+) \|$", body, re.MULTILINE)
         row_ids = [row[0] for row in rows]
         begin = (int(heading[1]) - 1) * 40
         if row_ids != list(expected_ids[begin:begin + 40]):
@@ -125,7 +128,7 @@ def validate_coverage(text, expected_ids):
         if any(not point.strip() for _, point in rows):
             errors.append(f"Slice {heading[1]}: empty learning point")
         mapped.extend(row_ids)
-    references = re.findall(r"es-01-\d{4}", text)
+    references = re.findall(r"es-\d{2}-\d{4}", text)
     if mapped != list(expected_ids) or Counter(references) != Counter(expected_ids):
         errors.append("Coverage must reference every source ID exactly once")
     return errors
@@ -134,25 +137,30 @@ def validate_coverage(text, expected_ids):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest="command", required=True)
-    check = sub.add_parser("check", help="Check Spanish 01 content and coverage")
+    check = sub.add_parser("check", help="Check a Spanish content stage and coverage")
     check.add_argument("--language", required=True, choices=["es-MX"])
-    check.add_argument("--stage", required=True, choices=["01"])
+    check.add_argument("--stage", required=True, choices=["01", "02"])
     args = parser.parse_args()
-    expected = [f"es-01-{i:04d}" for i in range(1, 801)]
+    expected = [f"es-{args.stage}-{i:04d}" for i in range(1, 801)]
     try:
         records = json.loads((ROOT / "cards" / args.language / f"{args.stage}.json").read_text(encoding="utf-8"))
         coverage = (ROOT / "coverage" / args.language / f"{args.stage}.md").read_text(encoding="utf-8")
+        previous = []
+        if args.stage == "02":
+            earlier = json.loads((ROOT / "cards" / args.language / "01.json").read_text(encoding="utf-8"))
+            previous = [card["sentence"] for card in earlier]
     except (OSError, UnicodeError, json.JSONDecodeError) as exc:
         print(f"Cannot read sources: {exc}", file=sys.stderr)
         return 1
-    errors = validate_records(records, expected) + validate_coverage(coverage, expected)
+    errors = validate_records(records, expected, previous) + validate_coverage(coverage, expected)
     if errors:
         for error in errors:
             print(error, file=sys.stderr)
         return 1
     counts = Counter(card["answer"] for card in records)
     repeats = {answer: count for answer, count in sorted(counts.items()) if count > 1}
-    print(f"PASS: {len(records)} records, 20 slices, complete coverage; no media required")
+    slice_count = (len(expected) + 39) // 40
+    print(f"PASS: Spanish {args.stage}, {len(records)} records, {slice_count} slices, complete coverage; no media required")
     print(f"Repeated targets for editorial inspection ({len(repeats)}): "
           + json.dumps(repeats, ensure_ascii=False))
     return 0
