@@ -1,6 +1,8 @@
 """Concrete source-contract fixtures, never production cards."""
 
+import contextlib
 import copy
+import io
 import importlib.util
 import json
 from pathlib import Path
@@ -42,7 +44,7 @@ class RecordTests(unittest.TestCase):
         self.assertEqual(SOURCE.check_records([card()], 1), [])
 
     def test_malformed_json_duplicate_keys_and_constants(self):
-        root = Path("/tmp/meiki-decks-es-01")
+        root = Path("/tmp/meiki-decks-es-02")
         root.mkdir(exist_ok=True)
         with tempfile.TemporaryDirectory(dir=root) as directory:
             path = Path(directory) / "source.json"
@@ -176,7 +178,7 @@ class CoverageTests(unittest.TestCase):
             self.assertTrue(any(phrase in x for x in findings), findings)
 
     def test_cli_success_with_no_mp3_files(self):
-        root = Path("/tmp/meiki-decks-es-01")
+        root = Path("/tmp/meiki-decks-es-02")
         root.mkdir(exist_ok=True)
         with tempfile.TemporaryDirectory(dir=root) as directory:
             path = Path(directory)
@@ -187,6 +189,82 @@ class CoverageTests(unittest.TestCase):
             self.assertEqual(list(path.rglob("*.mp3")), [])
             self.assertEqual(SOURCE.main(["--locale", "es-MX", "--stage", "01",
                                          "--expected-count", "600", "--root", str(path)]), 0)
+
+
+def stage02_card(number=1):
+    row = card(number)
+    row.update(id="es-02-{:04d}".format(number),
+               sentence="La ficha nueva {:04d} es azul.".format(number),
+               audio="audio/es-02-{:04d}.mp3".format(number))
+    return row
+
+
+def stage02_mapping(number, dependency="es-01-0600"):
+    block = next(b for b, lo, hi in SOURCE.STAGE_02_BLOCKS if lo <= number <= hi)
+    return ("| es-02-{:04d} | {} | fixture target | [6.3]({}63-routine-communication)"
+            " | fixture; neutral | P | {} | grammar | accepted | none |").format(
+                number, block, SOURCE.GUIDE, dependency)
+
+
+class Stage02Tests(unittest.TestCase):
+    def test_valid_allocation_and_prior_stage_prerequisites(self):
+        rows = [stage02_mapping(n, "es-01-0600" if n == 1 else "es-02-{:04d}".format(n - 1))
+                for n in range(1, 801)]
+        self.assertEqual(SOURCE.check_coverage(coverage(rows), 800, "02"), [])
+        self.assertEqual(SOURCE.check_records([stage02_card()], 1, stage="02"), [])
+        rows[149] = rows[149].replace("| A |", "| B |")
+        self.assertTrue(any("wrong block" in x for x in SOURCE.check_coverage(coverage(rows), 800, "02")))
+
+    def test_invalid_self_forward_unknown_and_cross_stage_prerequisites(self):
+        for dependency in ("es-02-0001", "es-02-0002", "es-01-0601", "es-01-0000",
+                           "es-03-0001", "es-99-0001", "es-02-bad", "ES-01-0601",
+                           "zh-01-0001", "zh-Hans-01-0001", "en-US-01-0001"):
+            with self.subTest(dependency=dependency):
+                text = coverage([stage02_mapping(1, dependency)])
+                self.assertTrue(any("prerequisite" in x for x in SOURCE.check_coverage(text, 1, "02")))
+        text = coverage([mapping(1).replace("introductory fixture", "es-02-0001")])
+        self.assertTrue(any("prerequisite" in x for x in SOURCE.check_coverage(text, 1)))
+
+    def test_stage02_missing_duplicate_out_of_range_and_order(self):
+        rows = [stage02_mapping(n) for n in range(1, 801)]
+        for changed, phrase in ((rows[1:], "missing mapping"),
+                                (rows + [rows[0]], "duplicate mapping"),
+                                ([rows[0].replace("es-02-0001", "es-02-0801")] + rows[1:], "out-of-range")):
+            self.assertTrue(any(phrase in x for x in SOURCE.check_coverage(coverage(changed), 800, "02")))
+        self.assertTrue(SOURCE.check_records([stage02_card(2), stage02_card()], 2, stage="02"))
+
+    def test_cross_stage_duplicates_and_conservative_accents(self):
+        new = stage02_card()
+        self.assertEqual(SOURCE.check_cross_stage([card()], [new]), [])
+        new["sentence"] = "  " + card()["sentence"].upper().replace(" ", "  ") + "  "
+        self.assertTrue(any("duplicate of es-01-0001" in x for x in SOURCE.check_cross_stage([card()], [new])))
+        new["sentence"] = "La ficha 0001 es azúl."
+        self.assertEqual(SOURCE.check_cross_stage([card()], [new]), [])
+        new["id"] = card()["id"]
+        self.assertTrue(any("duplicate ID" in x for x in SOURCE.check_cross_stage([card()], [new])))
+
+    def test_cli_both_stages_without_media_and_stage_count_pairing(self):
+        root = Path("/tmp/meiki-decks-es-02")
+        root.mkdir(exist_ok=True)
+        with tempfile.TemporaryDirectory(dir=root) as directory:
+            path = Path(directory)
+            (path / "cards/es-MX").mkdir(parents=True)
+            (path / "coverage/es-MX").mkdir(parents=True)
+            for stage, count, make_card, make_mapping in (("01", 600, card, mapping),
+                                                         ("02", 800, stage02_card, stage02_mapping)):
+                (path / ("cards/es-MX/" + stage + ".json")).write_text(json.dumps([make_card(n) for n in range(1, count + 1)]))
+                (path / ("coverage/es-MX/" + stage + ".md")).write_text(coverage([make_mapping(n) for n in range(1, count + 1)]))
+                self.assertEqual(SOURCE.main(["--locale", "es-MX", "--stage", stage,
+                                             "--expected-count", str(count), "--root", str(path)]), 0)
+            self.assertEqual(list(path.rglob("*.mp3")), [])
+            duplicate = stage02_card()
+            duplicate["sentence"] = card()["sentence"]
+            (path / "cards/es-MX/02.json").write_text(json.dumps([duplicate] + [stage02_card(n) for n in range(2, 801)]))
+            with contextlib.redirect_stderr(io.StringIO()):
+                self.assertEqual(SOURCE.main(["--locale", "es-MX", "--stage", "02", "--expected-count", "800", "--root", str(path)]), 1)
+                with self.assertRaises(SystemExit) as result:
+                    SOURCE.main(["--locale", "es-MX", "--stage", "02", "--expected-count", "600"])
+                self.assertEqual(result.exception.code, 2)
 
 
 if __name__ == "__main__":

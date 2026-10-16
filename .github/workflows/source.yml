@@ -13,16 +13,18 @@ jobs:
     runs-on: ubuntu-24.04
     env:
       PYTHONDONTWRITEBYTECODE: "1"
-      TMPDIR: /tmp/meiki-decks-es-01
+      TMPDIR: /tmp/meiki-decks-es-02
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
           fetch-depth: 2
       - name: Prepare local temporary directory
-        run: mkdir -p /tmp/meiki-decks-es-01
+        run: mkdir -p /tmp/meiki-decks-es-02
       - name: Focused source fixtures
         run: python3 -B -m unittest discover -s tests -p 'test_*.py'
       - name: Validate Spanish 01 text and coverage
         run: python3 -B scripts/check_source.py --locale es-MX --stage 01 --expected-count 600
+      - name: Validate Spanish 02 text, coverage and cross-stage duplicates
+        run: python3 -B scripts/check_source.py --locale es-MX --stage 02 --expected-count 800
       - name: Whitespace
         run: git diff --check HEAD^ HEAD
