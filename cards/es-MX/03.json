@@ -13451,7 +13451,7 @@
   },
   {
     "id": "es-03-0976",
-    "sentence": "Mi amiga de Madrid, España, escribe a sus amigos Ana y Luis: «Necesito saber si prefieren cenar a las siete o a las ocho; decídmelo hoy para que yo reserve la mesa»; después aclara: «Díganmelo hoy».",
+    "sentence": "Mi amiga de Madrid, España, escribe a sus amigos Ana y Luis: «Necesito saber si preferís cenar a las siete o a las ocho; decídmelo hoy para que yo reserve la mesa»; después aclara: «Díganmelo hoy».",
     "cloze": "decídmelo",
     "answer": "decídmelo",
     "lemma": "decir",
@@ -13460,7 +13460,7 @@
     "audio": "audio/es-03-0976.mp3",
     "grammar": "Decid takes attached me before lo and becomes decídmelo with a written accent. Lo represents the dinner-time choice; yo identifies the writer as the person who will book the table.",
     "register": "Familiar plural command in the attributed Madrid message.",
-    "note": "Prefieren = you both prefer; reserve = I book, present subjunctive after para que; díganmelo is the Mexican-compatible plural request.",
+    "note": "Preferís = you both prefer, familiar second-person plural present indicative of preferir; reserve = I book, present subjunctive after para que; díganmelo is the Mexican-compatible plural request.",
     "accepted_answers": []
   },
   {
