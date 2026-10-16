@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check source contract v1 for the assigned Spanish 01 text stage."""
+"""Check source contract v1 for the assigned Spanish 01 and 02 text stages."""
 
 import argparse
 import json
@@ -17,11 +17,17 @@ OPTIONAL = {"reading", "grammar", "register", "note"}
 BLOCKS = (("A", 1, 70), ("B", 71, 145), ("C", 146, 230),
           ("D", 231, 315), ("E", 316, 380), ("F", 381, 450),
           ("G", 451, 525), ("H", 526, 600))
+STAGE_02_BLOCKS = (("A", 1, 150), ("B", 151, 260), ("C", 261, 350),
+                   ("D", 351, 450), ("E", 451, 530), ("F", 531, 620),
+                   ("G", 621, 700), ("H", 701, 800))
+STAGES = {"01": (600, BLOCKS), "02": (800, STAGE_02_BLOCKS)}
 GUIDE = ("https://github.com/25d-228/meiki-decks/blob/"
          "e1d8239b7560f26b092cc7bb97c005738b34361f/languages/es.md#")
 ANCHORS = {
     "5-essential-systems-to-represent-in-sentences", "61-foundation",
-    "62-basic-communication", "7-pronunciation-aware-sentence-selection",
+    "62-basic-communication", "63-routine-communication",
+    "42-language-specific-prerequisite-checks", "13-writing-and-editing-requirements",
+    "7-pronunciation-aware-sentence-selection",
     "8-listening-support-sentence-composition", "9-reading-script-and-genre-in-sentences",
     "10-contrastive-cloze-design", "11-lexical-support-and-authoring-records",
     "12-social-context-and-editorial-judgment",
@@ -57,7 +63,7 @@ def word_character(character):
                                 or character == "_")
 
 
-def check_records(records, expected_count=600, first=1):
+def check_records(records, expected_count=600, first=1, stage="01"):
     """Also usable for cheap checks of a newly accepted consecutive batch."""
     errors = []
     if not isinstance(records, list):
@@ -86,7 +92,7 @@ def check_records(records, expected_count=600, first=1):
             elif value != value.strip() or re.search(r"[\t\r\n]| {2,}", value):
                 errors.append(label + "/" + field + ": irregular whitespace")
         actual_id = card.get("id")
-        expected_id = "es-01-{:04d}".format(first + offset)
+        expected_id = "es-{}-{:04d}".format(stage, first + offset)
         if actual_id != expected_id:
             errors.append(label + "/id: expected " + expected_id)
         if isinstance(actual_id, str):
@@ -150,7 +156,8 @@ def check_records(records, expected_count=600, first=1):
     return errors
 
 
-def check_coverage(text, expected_count=600):
+def check_coverage(text, expected_count=600, stage="01"):
+    blocks = STAGES[stage][1]
     errors = []
     if text != unicodedata.normalize("NFC", text):
         errors.append("coverage: text must be NFC")
@@ -165,7 +172,7 @@ def check_coverage(text, expected_count=600):
         return errors + ["coverage: incorrect table header"]
     if not re.fullmatch(r"\|[\s:|\-]+\|", lines[1]):
         errors.append("coverage: missing Markdown table separator")
-    found, counts = {}, {block: 0 for block, _, _ in BLOCKS}
+    found, counts = {}, {block: 0 for block, _, _ in blocks}
     for number, line in enumerate(lines[2:], 1):
         parts = [part.strip() for part in line.strip("|").split("|")]
         if len(parts) != len(COLUMNS) or not line.startswith("|") or not line.endswith("|"):
@@ -178,11 +185,11 @@ def check_coverage(text, expected_count=600):
         if identifier in found:
             errors.append(identifier + "/coverage: duplicate mapping")
         found[identifier] = row
-        match = re.fullmatch(r"es-01-(\d{4})", identifier)
+        match = re.fullmatch(r"es-" + stage + r"-(\d{4})", identifier)
         counter = int(match.group(1)) if match else 0
         if not 1 <= counter <= expected_count:
             errors.append(identifier + "/coverage: out-of-range ID")
-        expected_block = next((b for b, lo, hi in BLOCKS if lo <= counter <= hi), None)
+        expected_block = next((b for b, lo, hi in blocks if lo <= counter <= hi), None)
         if row["Block"] != expected_block:
             errors.append(identifier + "/coverage: wrong block, expected " + str(expected_block))
         if row["Block"] in counts:
@@ -191,36 +198,73 @@ def check_coverage(text, expected_count=600):
         if not links or any(not link.startswith(GUIDE) or link[len(GUIDE):] not in ANCHORS for link in links):
             errors.append(identifier + "/coverage: expected a pinned guide subsection link")
         if row["Role"] != "P":
-            errors.append(identifier + "/coverage: Spanish 01 requires production role P")
+            errors.append(identifier + "/coverage: Spanish " + stage + " requires production role P")
         if row["Kind"] not in {"sound", "lexical", "grammar", "function", "construction"}:
             errors.append(identifier + "/coverage: invalid kind")
         if row["Review"] != "accepted" or row["Unresolved"] != "none":
             errors.append(identifier + "/coverage: final review is unresolved")
-        for dependency in re.findall(r"es-01-(\d{4})", row["Prerequisites"]):
-            if not 1 <= int(dependency) < counter:
-                errors.append(identifier + "/coverage: prerequisite must be an earlier card")
-    expected_ids = {"es-01-{:04d}".format(n) for n in range(1, expected_count + 1)}
+        for dependency in re.findall(r"\b(?:es-[\w-]+|[a-z]+(?:-[A-Z]+)?-\d{2}-[\w-]+)",
+                                     row["Prerequisites"], flags=re.IGNORECASE):
+            parsed = re.fullmatch(r"es-(01|02)-(\d{4})", dependency)
+            valid = False
+            if parsed:
+                dep_stage, dep_number = parsed.group(1), int(parsed.group(2))
+                valid = ((dep_stage == stage and 1 <= dep_number < counter)
+                         or (stage == "02" and dep_stage == "01" and 1 <= dep_number <= 600))
+            if not valid:
+                errors.append(identifier + "/coverage: prerequisite must be an earlier card"
+                              + (" or valid accepted 01 ID" if stage == "02" else ""))
+    expected_ids = {"es-{}-{:04d}".format(stage, n) for n in range(1, expected_count + 1)}
     for identifier in sorted(expected_ids - found.keys()):
         errors.append(identifier + "/coverage: missing mapping")
-    for block, low, high in BLOCKS:
+    for block, low, high in blocks:
         expected = max(0, min(high, expected_count) - low + 1)
         if counts[block] != expected:
             errors.append("coverage block {}: expected {}, found {}".format(block, expected, counts[block]))
     return errors
 
 
+def check_cross_stage(earlier, current):
+    """Compare two source arrays conservatively, without rewriting display text."""
+    errors, ids, sentences = [], set(), {}
+    for records in (earlier, current):
+        if not isinstance(records, list):
+            errors.append("cross-stage: expected source arrays")
+            continue
+        for card in records:
+            if not isinstance(card, dict):
+                continue
+            identifier, sentence = card.get("id"), card.get("sentence")
+            if isinstance(identifier, str):
+                if identifier in ids:
+                    errors.append(identifier + "/id: duplicate ID across Spanish sources")
+                ids.add(identifier)
+            if isinstance(sentence, str):
+                key = " ".join(unicodedata.normalize("NFC", sentence).casefold().split())
+                if key in sentences:
+                    errors.append(str(identifier) + "/sentence: duplicate of " + str(sentences[key]))
+                sentences[key] = identifier
+    return errors
+
+
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--locale", required=True, choices=["es-MX"])
-    parser.add_argument("--stage", required=True, choices=["01"])
-    parser.add_argument("--expected-count", required=True, type=int, choices=[600])
+    parser.add_argument("--stage", required=True, choices=["01", "02"])
+    parser.add_argument("--expected-count", required=True, type=int, choices=[600, 800])
     parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1],
                         help="source root (also permits isolated test fixtures)")
     args = parser.parse_args(argv)
+    if args.expected_count != STAGES[args.stage][0]:
+        parser.error("stage {} requires --expected-count {}".format(args.stage, STAGES[args.stage][0]))
     try:
-        records = load_source(args.root / "cards/es-MX/01.json")
-        coverage = (args.root / "coverage/es-MX/01.md").read_text(encoding="utf-8")
-        errors = check_records(records, args.expected_count) + check_coverage(coverage, args.expected_count)
+        records = load_source(args.root / "cards/es-MX" / (args.stage + ".json"))
+        coverage = (args.root / "coverage/es-MX" / (args.stage + ".md")).read_text(encoding="utf-8")
+        errors = (check_records(records, args.expected_count, stage=args.stage)
+                  + check_coverage(coverage, args.expected_count, args.stage))
+        if args.stage == "02":
+            earlier = load_source(args.root / "cards/es-MX/01.json")
+            errors += check_cross_stage(earlier, records)
     except (OSError, UnicodeError, ValueError) as exc:
         errors = [str(exc)]
         records = []
