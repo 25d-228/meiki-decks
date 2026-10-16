@@ -15,6 +15,11 @@ display name **Spanish 02 — A2 everyday communication**. Accepted Spanish 01
 source and coverage remain unchanged; stage 02 adds new learning and uses their
 actual earlier cards as prerequisites.
 
+Spanish 03 adds exactly 1,000 ordered records at `cards/es-MX/03.json`,
+`es-03-0001`–`es-03-1000`, conceptual deck `deck:es-MX:03`, display name
+**Spanish 03 — B1 independent communication**. Accepted 01/02 source and coverage
+remain unchanged; actual earlier learning supports the new stage.
+
 | Required field | Meaning and constraint |
 | --- | --- |
 | `id` | Assigned nonempty unique ordered source ID. |
@@ -51,7 +56,7 @@ justifies compact fixed greetings with meaningful visible context.
 
 ## Coverage
 
-`coverage/es-MX/01.md` and `coverage/es-MX/02.md` record objectives, block
+`coverage/es-MX/01.md`, `coverage/es-MX/02.md`, and `coverage/es-MX/03.md` record objectives, block
 budgets/prerequisites, primary reference decisions, actual lexical/sense/construction breadth, and review evidence.
 Each single mapping table lies between `<!-- cards:start -->` and
 `<!-- cards:end -->`, with these exact columns:
@@ -63,12 +68,19 @@ inside cells. Block A is 0001–0070 (70), B 0071–0145 (75), C 0146–0230 (85
 D 0231–0315 (85), E 0316–0380 (65), F 0381–0450 (70), G 0451–0525 (75),
 H 0526–0600 (75) for Spanish 01. Spanish 02 allocates A 0001–0150 (150),
 B 0151–0260 (110), C 0261–0350 (90), D 0351–0450 (100), E 0451–0530 (80),
-F 0531–0620 (90), G 0621–0700 (80), H 0701–0800 (100). Each row names the actual
+F 0531–0620 (90), G 0621–0700 (80), H 0701–0800 (100). Spanish 03 allocates A 0001–0150 (150),
+B 0151–0290 (140), C 0291–0430 (140), D 0431–0560 (130), E 0561–0680 (120),
+F 0681–0780 (100), G 0781–0900 (120), H 0901–1000 (100). Each row names the actual
 hidden sense/form/construction and a Markdown link to the relevant subsection of `languages/es.md` pinned at
 `e1d8239b7560f26b092cc7bb97c005738b34361f`. Context includes register and relevant
-participants; role is `P` for Mexican-compatible production. Prerequisites cite
+participants; role is `P` for Mexican-compatible production. Stage 03 alone also
+permits `R` in blocks A/H, with explicit Spain, Colombia or River Plate attribution
+in Situation / register; the ordinary table records recognition without adding a
+study mode. Stages 01/02 remain production-only. Prerequisites cite
 actual earlier IDs or explain an introductory frame. Stage 02 permits valid
-accepted `es-01-0001`–`es-01-0600` and earlier stage-02 IDs. Unknown, self,
+accepted `es-01-0001`–`es-01-0600` and earlier stage-02 IDs. Stage 03 permits
+those accepted 01 IDs, accepted `es-02-0001`–`es-02-0800`, and strictly earlier
+stage-03 IDs. Unknown, malformed, self,
 forward and later-stage references are rejected. Kind is one of `sound`,
 `lexical`, `grammar`, `function`, `construction`; visible exposure adds no second
 primary count. After author/editor and final review, `Review` is `accepted` and
@@ -87,14 +99,15 @@ Use the installed Python 3 standard library, without dependency installations:
 ```sh
 python3 -B scripts/check_source.py --locale es-MX --stage 01 --expected-count 600
 python3 -B scripts/check_source.py --locale es-MX --stage 02 --expected-count 800
+python3 -B scripts/check_source.py --locale es-MX --stage 03 --expected-count 1000
 python3 -B -m unittest discover -s tests -p 'test_*.py'
 git diff --check
 ```
 
-The CLI deliberately supports only `es-MX` stages 01/600 and 02/800.
-Stage 02 also loads accepted 01 for duplicate IDs and full sentences across the
-two arrays, using the same conservative normalization. Stage 01 remains usable
-without a stage-02 file. No recording bytes are required.
+The CLI supports only `es-MX` stages 01/600, 02/800 and 03/1000.
+Stage 02 also loads accepted 01 for duplicate IDs and full sentences; stage 03
+compares against both accepted stages, using the same conservative normalization.
+Stage 01 remains usable without 02/03, and 02 without 03. No recording bytes are required.
 `--root <directory>` permits isolated fixtures. It rejects malformed JSON,
 duplicate object keys, bad fields/types/empty values, invalid alternatives,
 incorrect order/count/IDs, duplicate sentences, non-NFC text, mismatched or
@@ -104,12 +117,12 @@ the affected ID/field and report actual count/range. Naturalness, genuine
 alternative validity, curricular breadth, and contextual cloze focus remain
 explicit editorial judgments; passing code does not certify them.
 
-During ingestion, reuse `check_records(new_records, expected_count, first, stage="02")` only
-for new/changed consecutive 02 records (omit `stage` for 01), plus comparisons
-with the accepted inventory in both stages.
+During ingestion, reuse `check_records(new_records, expected_count, first, stage="03")`
+for new/changed consecutive 03 records (`stage="02"` for 02; omit for 01), plus
+incremental comparisons with actual accepted inventory in all preceding Spanish stages.
 After the complete final pass, run one consolidated completion check and compute
 SHA-256 of final source/coverage bytes. Focused fixtures exercise failure cases
 and successful validation with no MP3s. Source CI uses hosted Ubuntu's existing
 Python, runs fixtures and complete source validation, and needs no models, audio,
 server, app, or exporter. Scratch/caches belong in the assigned stage’s local
-`/tmp` directory; Spanish 02 uses `/tmp/meiki-decks-es-02/`.
+`/tmp` directory; Spanish 03 and current fixtures use `/tmp/meiki-decks-es-03/`.

@@ -44,7 +44,7 @@ class RecordTests(unittest.TestCase):
         self.assertEqual(SOURCE.check_records([card()], 1), [])
 
     def test_malformed_json_duplicate_keys_and_constants(self):
-        root = Path("/tmp/meiki-decks-es-02")
+        root = Path("/tmp/meiki-decks-es-03")
         root.mkdir(exist_ok=True)
         with tempfile.TemporaryDirectory(dir=root) as directory:
             path = Path(directory) / "source.json"
@@ -178,7 +178,7 @@ class CoverageTests(unittest.TestCase):
             self.assertTrue(any(phrase in x for x in findings), findings)
 
     def test_cli_success_with_no_mp3_files(self):
-        root = Path("/tmp/meiki-decks-es-02")
+        root = Path("/tmp/meiki-decks-es-03")
         root.mkdir(exist_ok=True)
         with tempfile.TemporaryDirectory(dir=root) as directory:
             path = Path(directory)
@@ -244,7 +244,7 @@ class Stage02Tests(unittest.TestCase):
         self.assertTrue(any("duplicate ID" in x for x in SOURCE.check_cross_stage([card()], [new])))
 
     def test_cli_both_stages_without_media_and_stage_count_pairing(self):
-        root = Path("/tmp/meiki-decks-es-02")
+        root = Path("/tmp/meiki-decks-es-03")
         root.mkdir(exist_ok=True)
         with tempfile.TemporaryDirectory(dir=root) as directory:
             path = Path(directory)
@@ -264,6 +264,125 @@ class Stage02Tests(unittest.TestCase):
                 self.assertEqual(SOURCE.main(["--locale", "es-MX", "--stage", "02", "--expected-count", "800", "--root", str(path)]), 1)
                 with self.assertRaises(SystemExit) as result:
                     SOURCE.main(["--locale", "es-MX", "--stage", "02", "--expected-count", "600"])
+                self.assertEqual(result.exception.code, 2)
+
+
+def stage03_card(number=1):
+    row = card(number)
+    row.update(id="es-03-{:04d}".format(number),
+               sentence="La tercera ficha {:04d} es azul.".format(number),
+               audio="audio/es-03-{:04d}.mp3".format(number))
+    return row
+
+
+def stage03_mapping(number, dependency="es-01-0600; es-02-0800", role="P",
+                    situation="fixture; neutral", anchor="64-independent-communication"):
+    block = next(b for b, lo, hi in SOURCE.STAGE_03_BLOCKS if lo <= number <= hi)
+    return ("| es-03-{:04d} | {} | fixture target | [guide]({}{})"
+            " | {} | {} | {} | grammar | accepted | none |").format(
+                number, block, SOURCE.GUIDE, anchor, situation, role, dependency)
+
+
+class Stage03Tests(unittest.TestCase):
+    def test_valid_complete_records_allocation_and_repeated_answers(self):
+        rows = [stage03_mapping(n) for n in range(1, 1001)]
+        self.assertEqual(SOURCE.check_coverage(coverage(rows), 1000, "03"), [])
+        self.assertEqual(SOURCE.check_records([stage03_card(n) for n in range(1, 1001)],
+                                              1000, stage="03"), [])
+        for number in (150, 290, 430, 560, 680, 780, 900, 1000):
+            broken = list(rows)
+            broken[number - 1] = broken[number - 1].replace("| " + rows[number - 1].split("|")[2].strip() + " |", "| X |", 1)
+            self.assertTrue(any("wrong block" in x for x in SOURCE.check_coverage(coverage(broken), 1000, "03")))
+
+    def test_count_order_missing_duplicate_and_out_of_range(self):
+        rows = [stage03_mapping(n) for n in range(1, 1001)]
+        for changed, phrase in ((rows[1:], "missing mapping"),
+                                (rows + [rows[0]], "duplicate mapping"),
+                                ([rows[0].replace("es-03-0001", "es-03-1001")] + rows[1:], "out-of-range")):
+            self.assertTrue(any(phrase in x for x in SOURCE.check_coverage(coverage(changed), 1000, "03")))
+        self.assertTrue(SOURCE.check_records([stage03_card(2), stage03_card()], 2, stage="03"))
+        self.assertTrue(any("expected 1000" in x for x in SOURCE.check_records([stage03_card()], 1000, stage="03")))
+
+    def test_recognition_attribution_blocks_and_guide_anchors(self):
+        rows = [stage03_mapping(n) for n in range(1, 1001)]
+        for number, region, anchor in ((1, "Spain", "64-independent-communication"),
+                                      (901, "Colombia", "2-production-model-script-and-register"),
+                                      (1000, "River Plate", "8-listening-support-sentence-composition")):
+            rows[number - 1] = stage03_mapping(number, role="R", situation=region + " recognition", anchor=anchor)
+        self.assertEqual(SOURCE.check_coverage(coverage(rows), 1000, "03"), [])
+        for number, role, situation, anchor, phrase in (
+                (1, "R", "unattributed", "64-independent-communication", "recognition"),
+                (151, "R", "Spain recognition", "64-independent-communication", "recognition"),
+                (1, "unknown", "Spain", "64-independent-communication", "role P"),
+                (1, "P", "neutral", "nonexistent", "guide subsection")):
+            text = coverage([stage03_mapping(number, role=role, situation=situation, anchor=anchor)])
+            self.assertTrue(any(phrase in x for x in SOURCE.check_coverage(text, 1000, "03")))
+        for stage, make in (("01", mapping), ("02", stage02_mapping)):
+            text = coverage([make(1).replace("| P |", "| R |")])
+            self.assertTrue(any("role P" in x for x in SOURCE.check_coverage(text, 1, stage)))
+
+    def test_prior_stage_boundaries_and_strictly_earlier_current(self):
+        rows = [stage03_mapping(n, "es-01-0001; es-01-0600; es-02-0001; es-02-0800" +
+                               ("; es-03-{:04d}".format(n - 1) if n > 1 else ""))
+                for n in range(1, 1001)]
+        self.assertEqual(SOURCE.check_coverage(coverage(rows), 1000, "03"), [])
+        for dependency in ("es-01-0000", "es-01-0601", "es-02-0000", "es-02-0801",
+                           "es-03-0001", "es-03-0002", "es-04-0001", "es-99-0001",
+                           "es-03-bad", "es-03-001", "ES-01-0001", "zh-01-0001",
+                           "zh-Hans-01-0001", "en-US-01-0001"):
+            with self.subTest(dependency=dependency):
+                findings = SOURCE.check_coverage(coverage([stage03_mapping(1, dependency)]), 1, "03")
+                self.assertTrue(any("prerequisite" in x for x in findings), findings)
+
+    def test_strict_record_invariants_remain_active(self):
+        for field, value, phrase in (("meaning", "", "meaning"),
+                                     ("answer", "rojo", "must equal cloze"),
+                                     ("cloze", "zul", "boundary"),
+                                     ("sentence", "azul azul", "found 2"),
+                                     ("sentence", "La ficha cafe\u0301 es azul.", "NFC"),
+                                     ("audio", "audio/es-02-0001.mp3", "/audio")):
+            row = stage03_card()
+            row[field] = value
+            if field == "cloze": row["answer"] = value
+            self.assertTrue(any(phrase in x for x in SOURCE.check_records([row], 1, stage="03")))
+        row = stage03_card()
+        row["translation"] = "blue"
+        self.assertTrue(any("undocumented" in x for x in SOURCE.check_records([row], 1, stage="03")))
+
+    def test_cli_three_stages_without_media_and_both_predecessor_conflicts(self):
+        root = Path("/tmp/meiki-decks-es-03")
+        root.mkdir(exist_ok=True)
+        with tempfile.TemporaryDirectory(dir=root) as directory:
+            path = Path(directory)
+            (path / "cards/es-MX").mkdir(parents=True)
+            (path / "coverage/es-MX").mkdir(parents=True)
+            for stage, count, make_card, make_mapping in (("01", 600, card, mapping),
+                                                         ("02", 800, stage02_card, stage02_mapping),
+                                                         ("03", 1000, stage03_card, stage03_mapping)):
+                (path / ("cards/es-MX/" + stage + ".json")).write_text(json.dumps([make_card(n) for n in range(1, count + 1)]))
+                (path / ("coverage/es-MX/" + stage + ".md")).write_text(coverage([make_mapping(n) for n in range(1, count + 1)]))
+                with contextlib.redirect_stdout(io.StringIO()):
+                    self.assertEqual(SOURCE.main(["--locale", "es-MX", "--stage", stage,
+                                                 "--expected-count", str(count), "--root", str(path)]), 0)
+            self.assertEqual(list(path.rglob("*.mp3")), [])
+            for earlier in (card(), stage02_card()):
+                duplicate = stage03_card()
+                duplicate["sentence"] = "  " + earlier["sentence"].upper().replace(" ", "  ") + "  "
+                # Direct cross-stage comparison preserves accents and reports the actual predecessor.
+                self.assertTrue(any("duplicate of " + earlier["id"] in x
+                                    for x in SOURCE.check_cross_stage([earlier], [duplicate])))
+                duplicate["sentence"] = earlier["sentence"]
+                (path / "cards/es-MX/03.json").write_text(json.dumps([duplicate] + [stage03_card(n) for n in range(2, 1001)]))
+                with contextlib.redirect_stdout(io.StringIO()), contextlib.redirect_stderr(io.StringIO()):
+                    self.assertEqual(SOURCE.main(["--locale", "es-MX", "--stage", "03",
+                                                 "--expected-count", "1000", "--root", str(path)]), 1)
+                duplicate["sentence"] = "La tercera ficha 0001 es azúl."
+                self.assertEqual(SOURCE.check_cross_stage([earlier], [duplicate]), [])
+                duplicate["id"] = earlier["id"]
+                self.assertTrue(any("duplicate ID" in x for x in SOURCE.check_cross_stage([earlier], [duplicate])))
+            with contextlib.redirect_stderr(io.StringIO()):
+                with self.assertRaises(SystemExit) as result:
+                    SOURCE.main(["--locale", "es-MX", "--stage", "03", "--expected-count", "800"])
                 self.assertEqual(result.exception.code, 2)
 
 
