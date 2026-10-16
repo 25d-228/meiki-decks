@@ -10279,14 +10279,14 @@
   },
   {
     "id": "es-02-0750",
-    "sentence": "A mi hermana le avisé de un cambio de horario: hoy la clase empieza a las diez.",
+    "sentence": "A mi hermana la avisé de un cambio de horario: hoy la clase empieza a las diez.",
     "cloze": "avisé de",
     "answer": "avisé de",
     "lemma": "avisar de",
     "meaning": "I gave notice of",
     "part_of_speech": "first-person singular preterite verb with a governed preposition",
     "audio": "audio/es-02-0750.mp3",
-    "grammar": "Avisar a alguien de algo introduces the news with de. A mi hermana and le identify the person notified.",
+    "grammar": "In avisar a alguien de algo, a mi hermana is the fronted personal direct object, doubled by the feminine singular direct-object clitic la; de introduces the notification's content.",
     "register": "Neutral family schedule communication.",
     "note": "The notification concerns the class's changed starting time.",
     "accepted_answers": []
