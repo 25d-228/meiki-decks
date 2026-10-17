@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check source contract v1 for the assigned Spanish 01–03 text stages."""
+"""Check source contract v1 for the assigned Spanish 01–04 text stages."""
 
 import argparse
 import json
@@ -23,12 +23,16 @@ STAGE_02_BLOCKS = (("A", 1, 150), ("B", 151, 260), ("C", 261, 350),
 STAGE_03_BLOCKS = (("A", 1, 150), ("B", 151, 290), ("C", 291, 430),
                    ("D", 431, 560), ("E", 561, 680), ("F", 681, 780),
                    ("G", 781, 900), ("H", 901, 1000))
+STAGE_04_BLOCKS = (("A", 1, 180), ("B", 181, 340), ("C", 341, 490),
+                   ("D", 491, 630), ("E", 631, 770), ("F", 771, 900),
+                   ("G", 901, 1070), ("H", 1071, 1200))
 STAGES = {"01": (600, BLOCKS), "02": (800, STAGE_02_BLOCKS),
-          "03": (1000, STAGE_03_BLOCKS)}
+          "03": (1000, STAGE_03_BLOCKS), "04": (1200, STAGE_04_BLOCKS)}
 GUIDE = ("https://github.com/25d-228/meiki-decks/blob/"
          "e1d8239b7560f26b092cc7bb97c005738b34361f/languages/es.md#")
 ANCHORS = {
     "2-production-model-script-and-register", "64-independent-communication",
+    "65-upper-intermediate-operation",
     "5-essential-systems-to-represent-in-sentences", "61-foundation",
     "62-basic-communication", "63-routine-communication",
     "42-language-specific-prerequisite-checks", "13-writing-and-editing-requirements",
@@ -202,11 +206,16 @@ def check_coverage(text, expected_count=600, stage="01"):
         links = re.findall(r"\[[^\]]+\]\(([^)]+)\)", row["Guide"])
         if not links or any(not link.startswith(GUIDE) or link[len(GUIDE):] not in ANCHORS for link in links):
             errors.append(identifier + "/coverage: expected a pinned guide subsection link")
-        recognition = stage == "03" and row["Role"] == "R"
-        if recognition:
+        recognition = row["Role"] == "R"
+        if recognition and stage == "03":
             if row["Block"] not in {"A", "H"} or not re.search(
                     r"\b(?:Spain|Colombia|River Plate)\b", row["Situation / register"]):
                 errors.append(identifier + "/coverage: recognition requires block A/H and explicit region attribution")
+        elif recognition and stage == "04":
+            attributed = re.search(r"\b(?:Spain|Colombia|River Plate)\b", row["Situation / register"])
+            marked_source = re.search(r"\bSource/register:\s*\S", row["Situation / register"], re.IGNORECASE)
+            if row["Block"] != "H" or not (attributed or marked_source):
+                errors.append(identifier + "/coverage: recognition requires block H and explicit region or Source/register attribution")
         elif row["Role"] != "P":
             errors.append(identifier + "/coverage: Spanish " + stage + " requires production role P")
         if row["Kind"] not in {"sound", "lexical", "grammar", "function", "construction"}:
@@ -215,7 +224,7 @@ def check_coverage(text, expected_count=600, stage="01"):
             errors.append(identifier + "/coverage: final review is unresolved")
         for dependency in re.findall(r"\b(?:es-[\w-]+|[a-z]+(?:-[A-Z]+)?-\d{2}-[\w-]+)",
                                      row["Prerequisites"], flags=re.IGNORECASE):
-            parsed = re.fullmatch(r"es-(01|02|03)-(\d{4})", dependency)
+            parsed = re.fullmatch(r"es-(01|02|03|04)-(\d{4})", dependency)
             valid = False
             if parsed:
                 dep_stage, dep_number = parsed.group(1), int(parsed.group(2))
@@ -260,8 +269,8 @@ def check_cross_stage(earlier, current):
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--locale", required=True, choices=["es-MX"])
-    parser.add_argument("--stage", required=True, choices=["01", "02", "03"])
-    parser.add_argument("--expected-count", required=True, type=int, choices=[600, 800, 1000])
+    parser.add_argument("--stage", required=True, choices=["01", "02", "03", "04"])
+    parser.add_argument("--expected-count", required=True, type=int, choices=[600, 800, 1000, 1200])
     parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1],
                         help="source root (also permits isolated test fixtures)")
     args = parser.parse_args(argv)
@@ -272,7 +281,7 @@ def main(argv=None):
         coverage = (args.root / "coverage/es-MX" / (args.stage + ".md")).read_text(encoding="utf-8")
         errors = (check_records(records, args.expected_count, stage=args.stage)
                   + check_coverage(coverage, args.expected_count, args.stage))
-        for previous in ("01", "02"):
+        for previous in ("01", "02", "03"):
             if previous < args.stage:
                 earlier = load_source(args.root / "cards/es-MX" / (previous + ".json"))
                 errors += check_cross_stage(earlier, records)
