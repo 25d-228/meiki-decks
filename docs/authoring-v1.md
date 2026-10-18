@@ -25,6 +25,11 @@ Spanish 04 adds exactly 1,200 ordered records at `cards/es-MX/04.json`,
 **Spanish 04 — B2 extended communication**. Accepted 01–03 source and coverage
 remain unchanged; use their actual senses/constructions as prerequisite evidence.
 
+Spanish 05 adds exactly 1,400 ordered records at `cards/es-MX/05.json`,
+`es-05-0001`–`es-05-1400`, conceptual deck `deck:es-MX:05`, display name
+**Spanish 05 — C1 precise communication**. Preserve accepted 01–04 source/coverage
+and distinguish their actual hidden objectives from visible supporting language.
+
 | Required field | Meaning and constraint |
 | --- | --- |
 | `id` | Assigned nonempty unique ordered source ID. |
@@ -61,8 +66,8 @@ justifies compact fixed greetings with meaningful visible context.
 
 ## Coverage
 
-`coverage/es-MX/01.md`, `coverage/es-MX/02.md`, `coverage/es-MX/03.md`, and
-`coverage/es-MX/04.md` record objectives, block
+`coverage/es-MX/01.md`, `coverage/es-MX/02.md`, `coverage/es-MX/03.md`,
+`coverage/es-MX/04.md`, and `coverage/es-MX/05.md` record objectives, block
 budgets/prerequisites, primary reference decisions, actual lexical/sense/construction breadth, and review evidence.
 Each single mapping table lies between `<!-- cards:start -->` and
 `<!-- cards:end -->`, with these exact columns:
@@ -79,13 +84,16 @@ B 0151–0290 (140), C 0291–0430 (140), D 0431–0560 (130), E 0561–0680 (12
 F 0681–0780 (100), G 0781–0900 (120), H 0901–1000 (100). Spanish 04 allocates
 A 0001–0180 (180), B 0181–0340 (160), C 0341–0490 (150), D 0491–0630 (140),
 E 0631–0770 (140), F 0771–0900 (130), G 0901–1070 (170), H 1071–1200 (130).
+Spanish 05 allocates
+A 0001–0240 (240), B 0241–0420 (180), C 0421–0610 (190), D 0611–0790 (180),
+E 0791–0960 (170), F 0961–1110 (150), G 1111–1270 (160), H 1271–1400 (130).
 Each row names the actual
 hidden sense/form/construction and a Markdown link to the relevant subsection of `languages/es.md` pinned at
 `e1d8239b7560f26b092cc7bb97c005738b34361f`. Context includes register and relevant
 participants; role is `P` for Mexican-compatible production. Stage 03 also
 permits `R` in blocks A/H, with explicit Spain, Colombia or River Plate attribution
 in Situation / register; the ordinary table records recognition without adding a
-study mode. Stage 04 allows `R` only in H, with explicit Spain/Colombia/River Plate
+study mode. Stages 04/05 allow `R` only in H, with explicit Spain/Colombia/River Plate
 attribution for regional recognition or `Source/register:` followed by the actual
 marked source/register in Situation / register. Editorial review verifies the
 claimed attribution and coherent response; a label alone is not language evidence.
@@ -94,7 +102,8 @@ actual earlier IDs or explain an introductory frame. Stage 02 permits valid
 accepted `es-01-0001`–`es-01-0600` and earlier stage-02 IDs. Stage 03 permits
 those accepted 01 IDs, accepted `es-02-0001`–`es-02-0800`, and strictly earlier
 stage-03 IDs. Stage 04 additionally permits accepted `es-03-0001`–`es-03-1000`
-and strictly earlier stage-04 IDs. Unknown, malformed, self,
+and strictly earlier stage-04 IDs. Stage 05 also permits accepted
+`es-04-0001`–`es-04-1200` and strictly earlier stage-05 IDs. Unknown, malformed, self,
 forward and later-stage references are rejected. Kind is one of `sound`,
 `lexical`, `grammar`, `function`, `construction`; visible exposure adds no second
 primary count. After author/editor and final review, `Review` is `accepted` and
@@ -115,13 +124,15 @@ python3 -B scripts/check_source.py --locale es-MX --stage 01 --expected-count 60
 python3 -B scripts/check_source.py --locale es-MX --stage 02 --expected-count 800
 python3 -B scripts/check_source.py --locale es-MX --stage 03 --expected-count 1000
 python3 -B scripts/check_source.py --locale es-MX --stage 04 --expected-count 1200
+python3 -B scripts/check_source.py --locale es-MX --stage 05 --expected-count 1400
 python3 -B -m unittest discover -s tests -p 'test_*.py'
 git diff --check
 ```
 
-The CLI supports only `es-MX` stages 01/600, 02/800, 03/1000 and 04/1200.
+The CLI supports only `es-MX` stages 01/600, 02/800, 03/1000, 04/1200 and 05/1400.
 Stage 02 also loads accepted 01 for duplicate IDs and full sentences; stage 03
-compares against both accepted stages, and stage 04 against all three predecessors,
+compares against both accepted stages, stage 04 against all three predecessors,
+and stage 05 against all four,
 using the same conservative normalization. Each earlier stage remains usable
 without later-stage files. No recording bytes are required.
 `--root <directory>` permits isolated fixtures. It rejects malformed JSON,
@@ -133,12 +144,12 @@ the affected ID/field and report actual count/range. Naturalness, genuine
 alternative validity, curricular breadth, and contextual cloze focus remain
 explicit editorial judgments; passing code does not certify them.
 
-During ingestion, reuse `check_records(new_records, expected_count, first, stage="04")`
-for new/changed consecutive 04 records (use the actual stage for 02/03; omit for 01), plus
+During ingestion, reuse `check_records(new_records, expected_count, first, stage="05")`
+for new/changed consecutive 05 records (use the actual stage for 02–04; omit for 01), plus
 incremental comparisons with actual accepted inventory in all preceding Spanish stages.
 After the complete final pass, run one consolidated completion check and compute
 SHA-256 of final source/coverage bytes. Focused fixtures exercise failure cases
 and successful validation with no MP3s. Source CI uses hosted Ubuntu's existing
 Python, runs fixtures and complete source validation, and needs no models, audio,
 server, app, or exporter. Scratch/caches belong in the assigned stage’s local
-`/tmp` directory; Spanish 04 and current fixtures use `/tmp/meiki-decks-es-04/`.
+`/tmp` directory; Spanish 05 and current fixtures use `/tmp/meiki-decks-es-05/`.
