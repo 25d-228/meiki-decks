@@ -20,6 +20,11 @@ Spanish 03 adds exactly 1,000 ordered records at `cards/es-MX/03.json`,
 **Spanish 03 — B1 independent communication**. Accepted 01/02 source and coverage
 remain unchanged; actual earlier learning supports the new stage.
 
+Spanish 04 adds exactly 1,200 ordered records at `cards/es-MX/04.json`,
+`es-04-0001`–`es-04-1200`, conceptual deck `deck:es-MX:04`, display name
+**Spanish 04 — B2 extended communication**. Accepted 01–03 source and coverage
+remain unchanged; use their actual senses/constructions as prerequisite evidence.
+
 | Required field | Meaning and constraint |
 | --- | --- |
 | `id` | Assigned nonempty unique ordered source ID. |
@@ -56,7 +61,8 @@ justifies compact fixed greetings with meaningful visible context.
 
 ## Coverage
 
-`coverage/es-MX/01.md`, `coverage/es-MX/02.md`, and `coverage/es-MX/03.md` record objectives, block
+`coverage/es-MX/01.md`, `coverage/es-MX/02.md`, `coverage/es-MX/03.md`, and
+`coverage/es-MX/04.md` record objectives, block
 budgets/prerequisites, primary reference decisions, actual lexical/sense/construction breadth, and review evidence.
 Each single mapping table lies between `<!-- cards:start -->` and
 `<!-- cards:end -->`, with these exact columns:
@@ -70,17 +76,25 @@ H 0526–0600 (75) for Spanish 01. Spanish 02 allocates A 0001–0150 (150),
 B 0151–0260 (110), C 0261–0350 (90), D 0351–0450 (100), E 0451–0530 (80),
 F 0531–0620 (90), G 0621–0700 (80), H 0701–0800 (100). Spanish 03 allocates A 0001–0150 (150),
 B 0151–0290 (140), C 0291–0430 (140), D 0431–0560 (130), E 0561–0680 (120),
-F 0681–0780 (100), G 0781–0900 (120), H 0901–1000 (100). Each row names the actual
+F 0681–0780 (100), G 0781–0900 (120), H 0901–1000 (100). Spanish 04 allocates
+A 0001–0180 (180), B 0181–0340 (160), C 0341–0490 (150), D 0491–0630 (140),
+E 0631–0770 (140), F 0771–0900 (130), G 0901–1070 (170), H 1071–1200 (130).
+Each row names the actual
 hidden sense/form/construction and a Markdown link to the relevant subsection of `languages/es.md` pinned at
 `e1d8239b7560f26b092cc7bb97c005738b34361f`. Context includes register and relevant
-participants; role is `P` for Mexican-compatible production. Stage 03 alone also
+participants; role is `P` for Mexican-compatible production. Stage 03 also
 permits `R` in blocks A/H, with explicit Spain, Colombia or River Plate attribution
 in Situation / register; the ordinary table records recognition without adding a
-study mode. Stages 01/02 remain production-only. Prerequisites cite
+study mode. Stage 04 allows `R` only in H, with explicit Spain/Colombia/River Plate
+attribution for regional recognition or `Source/register:` followed by the actual
+marked source/register in Situation / register. Editorial review verifies the
+claimed attribution and coherent response; a label alone is not language evidence.
+Stages 01/02 remain production-only. Prerequisites cite
 actual earlier IDs or explain an introductory frame. Stage 02 permits valid
 accepted `es-01-0001`–`es-01-0600` and earlier stage-02 IDs. Stage 03 permits
 those accepted 01 IDs, accepted `es-02-0001`–`es-02-0800`, and strictly earlier
-stage-03 IDs. Unknown, malformed, self,
+stage-03 IDs. Stage 04 additionally permits accepted `es-03-0001`–`es-03-1000`
+and strictly earlier stage-04 IDs. Unknown, malformed, self,
 forward and later-stage references are rejected. Kind is one of `sound`,
 `lexical`, `grammar`, `function`, `construction`; visible exposure adds no second
 primary count. After author/editor and final review, `Review` is `accepted` and
@@ -100,14 +114,16 @@ Use the installed Python 3 standard library, without dependency installations:
 python3 -B scripts/check_source.py --locale es-MX --stage 01 --expected-count 600
 python3 -B scripts/check_source.py --locale es-MX --stage 02 --expected-count 800
 python3 -B scripts/check_source.py --locale es-MX --stage 03 --expected-count 1000
+python3 -B scripts/check_source.py --locale es-MX --stage 04 --expected-count 1200
 python3 -B -m unittest discover -s tests -p 'test_*.py'
 git diff --check
 ```
 
-The CLI supports only `es-MX` stages 01/600, 02/800 and 03/1000.
+The CLI supports only `es-MX` stages 01/600, 02/800, 03/1000 and 04/1200.
 Stage 02 also loads accepted 01 for duplicate IDs and full sentences; stage 03
-compares against both accepted stages, using the same conservative normalization.
-Stage 01 remains usable without 02/03, and 02 without 03. No recording bytes are required.
+compares against both accepted stages, and stage 04 against all three predecessors,
+using the same conservative normalization. Each earlier stage remains usable
+without later-stage files. No recording bytes are required.
 `--root <directory>` permits isolated fixtures. It rejects malformed JSON,
 duplicate object keys, bad fields/types/empty values, invalid alternatives,
 incorrect order/count/IDs, duplicate sentences, non-NFC text, mismatched or
@@ -117,12 +133,12 @@ the affected ID/field and report actual count/range. Naturalness, genuine
 alternative validity, curricular breadth, and contextual cloze focus remain
 explicit editorial judgments; passing code does not certify them.
 
-During ingestion, reuse `check_records(new_records, expected_count, first, stage="03")`
-for new/changed consecutive 03 records (`stage="02"` for 02; omit for 01), plus
+During ingestion, reuse `check_records(new_records, expected_count, first, stage="04")`
+for new/changed consecutive 04 records (use the actual stage for 02/03; omit for 01), plus
 incremental comparisons with actual accepted inventory in all preceding Spanish stages.
 After the complete final pass, run one consolidated completion check and compute
 SHA-256 of final source/coverage bytes. Focused fixtures exercise failure cases
 and successful validation with no MP3s. Source CI uses hosted Ubuntu's existing
 Python, runs fixtures and complete source validation, and needs no models, audio,
 server, app, or exporter. Scratch/caches belong in the assigned stage’s local
-`/tmp` directory; Spanish 03 and current fixtures use `/tmp/meiki-decks-es-03/`.
+`/tmp` directory; Spanish 04 and current fixtures use `/tmp/meiki-decks-es-04/`.
