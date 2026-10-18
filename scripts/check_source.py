@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check source contract v1 for the assigned Spanish 01–04 text stages."""
+"""Check source contract v1 for the assigned Spanish 01–05 text stages."""
 
 import argparse
 import json
@@ -26,13 +26,17 @@ STAGE_03_BLOCKS = (("A", 1, 150), ("B", 151, 290), ("C", 291, 430),
 STAGE_04_BLOCKS = (("A", 1, 180), ("B", 181, 340), ("C", 341, 490),
                    ("D", 491, 630), ("E", 631, 770), ("F", 771, 900),
                    ("G", 901, 1070), ("H", 1071, 1200))
+STAGE_05_BLOCKS = (("A", 1, 240), ("B", 241, 420), ("C", 421, 610),
+                   ("D", 611, 790), ("E", 791, 960), ("F", 961, 1110),
+                   ("G", 1111, 1270), ("H", 1271, 1400))
 STAGES = {"01": (600, BLOCKS), "02": (800, STAGE_02_BLOCKS),
-          "03": (1000, STAGE_03_BLOCKS), "04": (1200, STAGE_04_BLOCKS)}
+          "03": (1000, STAGE_03_BLOCKS), "04": (1200, STAGE_04_BLOCKS),
+          "05": (1400, STAGE_05_BLOCKS)}
 GUIDE = ("https://github.com/25d-228/meiki-decks/blob/"
          "e1d8239b7560f26b092cc7bb97c005738b34361f/languages/es.md#")
 ANCHORS = {
     "2-production-model-script-and-register", "64-independent-communication",
-    "65-upper-intermediate-operation",
+    "65-upper-intermediate-operation", "66-advanced-development",
     "5-essential-systems-to-represent-in-sentences", "61-foundation",
     "62-basic-communication", "63-routine-communication",
     "42-language-specific-prerequisite-checks", "13-writing-and-editing-requirements",
@@ -211,7 +215,7 @@ def check_coverage(text, expected_count=600, stage="01"):
             if row["Block"] not in {"A", "H"} or not re.search(
                     r"\b(?:Spain|Colombia|River Plate)\b", row["Situation / register"]):
                 errors.append(identifier + "/coverage: recognition requires block A/H and explicit region attribution")
-        elif recognition and stage == "04":
+        elif recognition and stage in {"04", "05"}:
             attributed = re.search(r"\b(?:Spain|Colombia|River Plate)\b", row["Situation / register"])
             marked_source = re.search(r"\bSource/register:\s*\S", row["Situation / register"], re.IGNORECASE)
             if row["Block"] != "H" or not (attributed or marked_source):
@@ -224,7 +228,7 @@ def check_coverage(text, expected_count=600, stage="01"):
             errors.append(identifier + "/coverage: final review is unresolved")
         for dependency in re.findall(r"\b(?:es-[\w-]+|[a-z]+(?:-[A-Z]+)?-\d{2}-[\w-]+)",
                                      row["Prerequisites"], flags=re.IGNORECASE):
-            parsed = re.fullmatch(r"es-(01|02|03|04)-(\d{4})", dependency)
+            parsed = re.fullmatch(r"es-(01|02|03|04|05)-(\d{4})", dependency)
             valid = False
             if parsed:
                 dep_stage, dep_number = parsed.group(1), int(parsed.group(2))
@@ -269,8 +273,8 @@ def check_cross_stage(earlier, current):
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--locale", required=True, choices=["es-MX"])
-    parser.add_argument("--stage", required=True, choices=["01", "02", "03", "04"])
-    parser.add_argument("--expected-count", required=True, type=int, choices=[600, 800, 1000, 1200])
+    parser.add_argument("--stage", required=True, choices=["01", "02", "03", "04", "05"])
+    parser.add_argument("--expected-count", required=True, type=int, choices=[600, 800, 1000, 1200, 1400])
     parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1],
                         help="source root (also permits isolated test fixtures)")
     args = parser.parse_args(argv)
@@ -281,7 +285,7 @@ def main(argv=None):
         coverage = (args.root / "coverage/es-MX" / (args.stage + ".md")).read_text(encoding="utf-8")
         errors = (check_records(records, args.expected_count, stage=args.stage)
                   + check_coverage(coverage, args.expected_count, args.stage))
-        for previous in ("01", "02", "03"):
+        for previous in ("01", "02", "03", "04"):
             if previous < args.stage:
                 earlier = load_source(args.root / "cards/es-MX" / (previous + ".json"))
                 errors += check_cross_stage(earlier, records)
