@@ -41,10 +41,17 @@ Spanish 07 adds exactly 1,000 ordered records at `cards/es-MX/07.json`,
 accepted 01–06. Coverage 07 includes the separate whole-Spanish seven-stage,
 7,600-card substantive reconciliation without repeating predecessor audits.
 
+Chinese 00 adds exactly 200 ordered records at `cards/zh-Hans-CN/00.json`,
+`zh-00-0001`–`zh-00-0200`, conceptual deck `deck:zh-Hans-CN:00`, display name
+**Chinese 00 — Sound, characters, and sentence foundations**. It starts with no
+prior Chinese; accepted Spanish is a project dependency, not a learner prerequisite.
+All 200 targets are Simplified production in standard spoken Chinese (Putonghua).
+There are no recording or application prerequisites.
+
 | Required field | Meaning and constraint |
 | --- | --- |
 | `id` | Assigned nonempty unique ordered source ID. |
-| `sentence` | Exact complete natural Spanish utterance; display and later synthesis use these same bytes. |
+| `sentence` | Exact complete natural target-language utterance; display and later synthesis use these same bytes. |
 | `cloze` | One focused contiguous meaningful span appearing exactly once. |
 | `answer` | Exactly equal to `cloze`. |
 | `accepted_answers` | Array of nonempty strings, normally empty; only editorially verified valid alternatives. No duplicate or canonical duplication, automated synonyms, or accent stripping. |
@@ -60,8 +67,9 @@ form; Spanish 01 does not need phonetic respelling. Explain gender, complements,
 inflection, and register where useful. Keep curriculum IDs and process bookkeeping
 outside learner annotations.
 
-Preserve NFC, accents, ordinary capitalization, single spacing, and paired Spanish
-question/exclamation punctuation. Never rewrite display text to deduplicate it.
+Preserve NFC, accents, ordinary capitalization, and single spacing. Spanish requires
+paired question/exclamation punctuation; Chinese allows ordinary `？` and `！`
+and unspaced Han text. Never rewrite display text to deduplicate it.
 The checker diagnoses sentence duplicates after NFC/case folding/whitespace
 comparison while preserving accents. Repeated answers are allowed for distinct
 useful senses, functions, constructions, or contrasts, subject to editorial review.
@@ -74,6 +82,25 @@ editorial approval; this never permits a split combining mark. Spanish 01 uses
 whole words and compact phrases. There is no arbitrary cloze-length limit:
 editorial review rejects whole propositions or nearly entire predicates and
 justifies compact fixed greetings with meaningful visible context.
+
+Chinese 00 requires a nonempty `reading` on every card: complete tone-marked
+Pinyin of exactly the hidden span, with lexical tones, normal word segmentation,
+unmarked neutral syllables, and the actual contextual reading of polyphonic words.
+Do not silently replace lexical tones with connected-speech tones. Explain useful
+third-tone or 一/不 changes separately in a clearly labeled `note` or `grammar`,
+using the conditions in the actual sentence. Verify every syllable editorially;
+the checker verifies presence and string integrity, not Pinyin accuracy.
+Typed answers retain ordinary Simplified spelling, with no Pinyin alternatives,
+automatic script conversion or accent stripping. Meaning covers the hidden unit;
+lemma and part of speech describe the whole unit.
+
+Han adjacency is valid and does not require a boundary override. A single-character
+word or grammatical unit may be meaningful; an arbitrary substring of a compound
+is not. Deliberate morphemic targets need explicit linguistic justification and
+review. Chinese retains cloze occurrence, combining-mark and punctuation safety;
+semantic word identity and Simplified usage require editorial review. The checker
+does not infer them from a tokenizer or character conversion. Spanish alphabetic
+word-boundary and inverted-punctuation checks remain unchanged.
 
 ## Coverage
 
@@ -160,8 +187,8 @@ python3 -B -m unittest discover -s tests -p 'test_*.py'
 git diff --check
 ```
 
-The CLI supports only `es-MX` stages 01/600, 02/800, 03/1000, 04/1200, 05/1400,
-06/1600 and 07/1000.
+The supported Spanish pairs are `es-MX` stages 01/600, 02/800, 03/1000,
+04/1200, 05/1400, 06/1600 and 07/1000.
 Stage 02 also loads accepted 01 for duplicate IDs and full sentences; stage 03
 compares against both accepted stages, stage 04 against all three predecessors,
 stage 05 against all four, stage 06 against all five, and stage 07 against all six predecessors,
@@ -176,6 +203,34 @@ the affected ID/field and report actual count/range. Naturalness, genuine
 alternative validity, curricular breadth, and contextual cloze focus remain
 explicit editorial judgments; passing code does not certify them.
 
+Chinese 00 coverage is `coverage/zh-Hans-CN/00.md`, using the same ten columns
+and markers. Its fixed blocks are A 0001–0030 (30), B 0031–0065 (35),
+C 0066–0100 (35), D 0101–0130 (30), E 0131–0155 (25),
+F 0156–0180 (25), and G 0181–0200 (20). Every row has role `P`, links to an
+actual subsection of `languages/zh.md` at the same pinned guide commit, and cites
+strictly earlier `zh-00` IDs or explains newly introduced beginner support.
+Malformed, self, forward, later-stage and other-language IDs are rejected.
+The coverage introduction maps both sides of every required sound contrast and
+the tone, sandhi, weak-syllable, prominence/grouping and basic function objectives
+to actual hidden targets. Report cards, target lemmas/expressions/senses, direct
+target characters and incidental character exposure separately, with methods.
+These are exposure/retrieval measures, not handwriting or proficiency evidence.
+
+The additional supported command is:
+
+```sh
+python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 00 --expected-count 200
+```
+
+Only Chinese `zh-Hans-CN/00/200` is added to the Spanish CLI pairs above.
+Chinese validation is independent of Spanish files and media, and Spanish
+commands do not require Chinese files. There are no future-stage CLI pairs.
+During Chinese ingestion use
+`check_records(new_records, count, first, stage="00", locale="zh-Hans-CN")`
+plus incremental duplicate and mapping checks. After final review run the one
+consolidated Chinese validation and preservation check; use focused Chinese
+fixtures locally and exact-head CI for the complete repository suite.
+
 During ingestion, reuse `check_records(new_records, expected_count, first, stage="07")`
 for new/changed consecutive 07 records (use the actual stage for 02–06; omit for 01), plus
 incremental comparisons with actual accepted inventory in all preceding Spanish stages.
@@ -184,4 +239,5 @@ SHA-256 of final source/coverage bytes. Focused fixtures exercise failure cases
 and successful validation with no MP3s. Source CI uses hosted Ubuntu's existing
 Python, runs fixtures and complete source validation, and needs no models, audio,
 server, app, or exporter. Scratch/caches belong in the assigned stage’s local
-`/tmp` directory; Spanish 07 and current fixtures use `/tmp/meiki-decks-es-07/`.
+`/tmp` directory. Chinese 00 and its fixtures use `/tmp/meiki-decks-zh-00/`;
+unchanged Spanish fixtures retain `/tmp/meiki-decks-es-07/`.
