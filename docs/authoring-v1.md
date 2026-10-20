@@ -35,6 +35,12 @@ Spanish 06 adds exactly 1,600 ordered records at `cards/es-MX/06.json`,
 **Spanish 06 — C2 precision, rhetoric, and mediation**. Preserve accepted 01–05
 source/coverage and identify genuinely new hidden learning.
 
+Spanish 07 adds exactly 1,000 ordered records at `cards/es-MX/07.json`,
+`es-07-0001`–`es-07-1000`, conceptual deck `deck:es-MX:07`, display name
+**Spanish 07 — Regional, social, professional, and cultural depth**. Preserve
+accepted 01–06. Coverage 07 includes the separate whole-Spanish seven-stage,
+7,600-card substantive reconciliation without repeating predecessor audits.
+
 | Required field | Meaning and constraint |
 | --- | --- |
 | `id` | Assigned nonempty unique ordered source ID. |
@@ -72,7 +78,8 @@ justifies compact fixed greetings with meaningful visible context.
 ## Coverage
 
 `coverage/es-MX/01.md`, `coverage/es-MX/02.md`, `coverage/es-MX/03.md`,
-`coverage/es-MX/04.md`, `coverage/es-MX/05.md`, and `coverage/es-MX/06.md` record objectives, block
+`coverage/es-MX/04.md`, `coverage/es-MX/05.md`, `coverage/es-MX/06.md`, and
+`coverage/es-MX/07.md` record objectives, block
 budgets/prerequisites, primary reference decisions, actual lexical/sense/construction breadth, and review evidence.
 Each single mapping table lies between `<!-- cards:start -->` and
 `<!-- cards:end -->`, with these exact columns:
@@ -95,6 +102,8 @@ E 0791–0960 (170), F 0961–1110 (150), G 1111–1270 (160), H 1271–1400 (13
 Spanish 06 allocates
 A 0001–0240 (240), B 0241–0460 (220), C 0461–0680 (220), D 0681–0880 (200),
 E 0881–1070 (190), F 1071–1240 (170), G 1241–1430 (190), H 1431–1600 (170).
+Spanish 07 allocates A 0001–0170 (170), B 0171–0340 (170), C 0341–0500 (160),
+D 0501–0640 (140), E 0641–0770 (130), F 0771–0890 (120), G 0891–1000 (110).
 Each row names the actual
 hidden sense/form/construction and a Markdown link to the relevant subsection of `languages/es.md` pinned at
 `e1d8239b7560f26b092cc7bb97c005738b34361f`. Context includes register and relevant
@@ -109,6 +118,11 @@ Stage 06 permits `R` only in G, with explicit Spain/Colombia/River Plate
 attribution or `Source/register:` followed by the actual marked regional,
 generational-context or nonstandard source/register and its limitation. Merely
 naming a generation or participant age does not verify usage. A–F and H remain P.
+Stage 07 permits `R` only in D/G, always with explicit `Source/register:`
+attribution: an actual attributed cultural reference in D, or the actual
+regional/marked source in G. A/B/C/E/F remain P. Semantic attribution and its
+verified scope remain editorial judgments. Section 6.8 uses pinned anchor
+`68-domain-specific-near-native-command`.
 Stages 01/02 remain production-only. Prerequisites cite
 actual earlier IDs or explain an introductory frame. Stage 02 permits valid
 accepted `es-01-0001`–`es-01-0600` and earlier stage-02 IDs. Stage 03 permits
@@ -116,7 +130,9 @@ those accepted 01 IDs, accepted `es-02-0001`–`es-02-0800`, and strictly earlie
 stage-03 IDs. Stage 04 additionally permits accepted `es-03-0001`–`es-03-1000`
 and strictly earlier stage-04 IDs. Stage 05 also permits accepted
 `es-04-0001`–`es-04-1200` and strictly earlier stage-05 IDs. Stage 06 additionally
-permits accepted `es-05-0001`–`es-05-1400` and strictly earlier stage-06 IDs. Unknown, malformed, self,
+permits accepted `es-05-0001`–`es-05-1400` and strictly earlier stage-06 IDs.
+Stage 07 additionally permits accepted `es-06-0001`–`es-06-1600` and strictly
+earlier stage-07 IDs. Unknown, malformed, self,
 forward and later-stage references are rejected. Kind is one of `sound`,
 `lexical`, `grammar`, `function`, `construction`; visible exposure adds no second
 primary count. After author/editor and final review, `Review` is `accepted` and
@@ -139,14 +155,16 @@ python3 -B scripts/check_source.py --locale es-MX --stage 03 --expected-count 10
 python3 -B scripts/check_source.py --locale es-MX --stage 04 --expected-count 1200
 python3 -B scripts/check_source.py --locale es-MX --stage 05 --expected-count 1400
 python3 -B scripts/check_source.py --locale es-MX --stage 06 --expected-count 1600
+python3 -B scripts/check_source.py --locale es-MX --stage 07 --expected-count 1000
 python3 -B -m unittest discover -s tests -p 'test_*.py'
 git diff --check
 ```
 
-The CLI supports only `es-MX` stages 01/600, 02/800, 03/1000, 04/1200, 05/1400 and 06/1600.
+The CLI supports only `es-MX` stages 01/600, 02/800, 03/1000, 04/1200, 05/1400,
+06/1600 and 07/1000.
 Stage 02 also loads accepted 01 for duplicate IDs and full sentences; stage 03
 compares against both accepted stages, stage 04 against all three predecessors,
-stage 05 against all four, and stage 06 against all five predecessors,
+stage 05 against all four, stage 06 against all five, and stage 07 against all six predecessors,
 using the same conservative normalization. Each earlier stage remains usable
 without later-stage files. No recording bytes are required.
 `--root <directory>` permits isolated fixtures. It rejects malformed JSON,
@@ -158,12 +176,12 @@ the affected ID/field and report actual count/range. Naturalness, genuine
 alternative validity, curricular breadth, and contextual cloze focus remain
 explicit editorial judgments; passing code does not certify them.
 
-During ingestion, reuse `check_records(new_records, expected_count, first, stage="06")`
-for new/changed consecutive 06 records (use the actual stage for 02–05; omit for 01), plus
+During ingestion, reuse `check_records(new_records, expected_count, first, stage="07")`
+for new/changed consecutive 07 records (use the actual stage for 02–06; omit for 01), plus
 incremental comparisons with actual accepted inventory in all preceding Spanish stages.
 After the complete final pass, run one consolidated completion check and compute
 SHA-256 of final source/coverage bytes. Focused fixtures exercise failure cases
 and successful validation with no MP3s. Source CI uses hosted Ubuntu's existing
 Python, runs fixtures and complete source validation, and needs no models, audio,
 server, app, or exporter. Scratch/caches belong in the assigned stage’s local
-`/tmp` directory; Spanish 06 and current fixtures use `/tmp/meiki-decks-es-06/`.
+`/tmp` directory; Spanish 07 and current fixtures use `/tmp/meiki-decks-es-07/`.
