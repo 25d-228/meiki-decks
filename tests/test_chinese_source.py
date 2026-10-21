@@ -1,4 +1,4 @@
-"""Chinese 00–01 contract fixtures; generated text here is not curriculum content."""
+"""Chinese 00–02 contract fixtures; generated text here is not curriculum content."""
 
 import contextlib
 import copy
@@ -417,7 +417,7 @@ class ChineseStage01Tests(unittest.TestCase):
 
     def test_unsupported_pairs_rejected_before_loading(self):
         for locale, stage, count in (("zh-Hans-CN", "01", "200"), ("zh-Hans-CN", "00", "400"),
-                                     ("zh-Hans-CN", "02", "600"), ("es-MX", "00", "400"),
+                                     ("zh-Hans-CN", "03", "800"), ("es-MX", "00", "400"),
                                      ("es-MX", "01", "400"), ("zh-Hant-TW", "01", "400")):
             with self.subTest(locale=locale, stage=stage, count=count), contextlib.redirect_stderr(io.StringIO()):
                 with self.assertRaises(SystemExit) as error:
@@ -465,6 +465,230 @@ class ChineseStage01Tests(unittest.TestCase):
         rows[0] = rows[0].replace("61-foundation", "62-basic-communication")
         self.assert_bad(SOURCE.check_coverage(coverage(rows), 200, "00", "zh-Hans-CN"),
                         "guide subsection")
+
+
+# Independently transcribed from issue #29; fixture text is not curriculum.
+ALLOCATION_02 = (("A", 1, 110), ("B", 111, 205), ("C", 206, 290),
+                 ("D", 291, 370), ("E", 371, 445), ("F", 446, 520),
+                 ("G", 521, 600))
+SCRATCH_02 = Path("/tmp/meiki-decks-zh-02")
+
+
+def card_02(number=1):
+    row = card(number)
+    row.update(id="zh-02-{:04d}".format(number),
+               sentence="后编号{:04d}的杯子里有水。".format(number),
+               audio="audio/zh-02-{:04d}.mp3".format(number))
+    return row
+
+
+def mapping_02(number, prerequisite="introduced fixture support"):
+    block = next(b for b, low, high in ALLOCATION_02 if low <= number <= high)
+    return ("| zh-02-{:04d} | {} | fixture hidden water | [6.3]({}63-routine-communication)"
+            " | fixture; neutral | P | {} | lexical | accepted | none |").format(
+                number, block, SOURCE.CHINESE_GUIDE, prerequisite)
+
+
+class ChineseStage02Tests(unittest.TestCase):
+    def setUp(self):
+        self.rows = [mapping_02(n) for n in range(1, 601)]
+        self.records = [card_02(n) for n in range(1, 601)]
+
+    def check_rows(self, rows):
+        return SOURCE.check_coverage(coverage(rows), 600, "02", "zh-Hans-CN")
+
+    def check_records(self, records, count=600, first=1):
+        return SOURCE.check_records(records, count, first, "02", "zh-Hans-CN")
+
+    def assert_bad(self, findings, phrase):
+        self.assertTrue(any(phrase in finding for finding in findings), findings)
+
+    def make_root(self, directory):
+        root = Path(directory)
+        (root / "cards/zh-Hans-CN").mkdir(parents=True)
+        (root / "coverage/zh-Hans-CN").mkdir(parents=True)
+        for stage, records in (("00", [card(n) for n in range(1, 201)]),
+                               ("01", [card_01(n) for n in range(1, 401)]),
+                               ("02", self.records)):
+            (root / "cards/zh-Hans-CN" / (stage + ".json")).write_text(
+                json.dumps(records, ensure_ascii=False), encoding="utf-8")
+        (root / "coverage/zh-Hans-CN/02.md").write_text(coverage(self.rows), encoding="utf-8")
+        return root
+
+    def cli(self, root):
+        return SOURCE.main(["--locale", "zh-Hans-CN", "--stage", "02",
+                            "--expected-count", "600", "--root", str(root)])
+
+    def test_source_count_order_ids_and_incremental_boundaries(self):
+        self.assertEqual(self.check_records(self.records), [])
+        self.assert_bad(self.check_records(self.records[:-1]), "expected 600 records")
+        self.assert_bad(self.check_records(self.records[::-1]), "expected zh-02-0001")
+        for row in (card_02(0), card_02(601), self.records[1]):
+            records = copy.deepcopy(self.records)
+            records[0] = row
+            self.assert_bad(self.check_records(records), "expected zh-02-0001")
+        self.assertEqual(self.check_records(self.records[109:111], 2, 110), [])
+
+    def test_every_independent_block_start_and_end(self):
+        self.assertEqual(SOURCE.CHINESE_02_BLOCKS, ALLOCATION_02)
+        self.assertEqual(self.check_rows(self.rows), [])
+        for block, low, high in ALLOCATION_02:
+            for number in (low, high):
+                with self.subTest(block=block, number=number):
+                    rows = self.rows.copy()
+                    rows[number - 1] = rows[number - 1].replace("| " + block + " |", "| Z |")
+                    self.assert_bad(self.check_rows(rows), "wrong block")
+                    self.assert_bad(self.check_rows(rows), "coverage block " + block)
+
+    def test_missing_duplicate_reordered_and_out_of_range_mappings(self):
+        self.assert_bad(self.check_rows(self.rows[1:]), "missing mapping")
+        self.assert_bad(self.check_rows(self.rows + [self.rows[0]]), "duplicate mapping")
+        self.assert_bad(self.check_rows(self.rows[::-1]), "ordered mapping")
+        for identifier in ("zh-02-0000", "zh-02-0601", "zh-02-001", "zh-01-0001", "zh-02-bad"):
+            rows = self.rows.copy()
+            rows[0] = rows[0].replace("zh-02-0001", identifier)
+            self.assert_bad(self.check_rows(rows), "out-of-range")
+
+    def test_pinned_chinese_guide_and_p_only_in_all_blocks(self):
+        for before, after in ((SOURCE.CHINESE_GUIDE, SOURCE.GUIDE),
+                              ("e1d8239b7560f26b092cc7bb97c005738b34361f", "main"),
+                              ("63-routine-communication", "64-independent-communication"),
+                              ("| P |", "| R |")):
+            for _, low, _ in ALLOCATION_02:
+                rows = self.rows.copy()
+                rows[low - 1] = rows[low - 1].replace(before, after)
+                self.assertTrue(self.check_rows(rows))
+
+    def test_valid_predecessor_endpoints_and_earlier_current_ids(self):
+        for dependency in ("zh-00-0001", "zh-00-0200", "zh-01-0001", "zh-01-0400",
+                           "zh-02-0001", "zh-02-0599"):
+            rows = self.rows.copy()
+            rows[599] = mapping_02(600, dependency)
+            self.assertEqual(self.check_rows(rows), [], dependency)
+        rows = self.rows.copy()
+        rows[0] = mapping_02(1, "zh-00-0200; zh-01-0400; introduced support")
+        self.assertEqual(self.check_rows(rows), [])
+
+    def test_invalid_dependency_bounds_order_language_and_spelling(self):
+        for dependency in ("zh-00-0000", "zh-00-0201", "zh-01-0000", "zh-01-0401",
+                           "zh-02-0000", "zh-02-0002", "zh-02-0003", "zh-02-0601",
+                           "zh-03-0001", "es-01-0001", "ja-00-0001", "en-US-01-0001",
+                           "zh-00-bad", "zh-01-001", "zh-02-", "zh-0001", "ZH-00-0001",
+                           "zh-Hans-CN-01-0001"):
+            with self.subTest(dependency=dependency):
+                rows = self.rows.copy()
+                rows[1] = mapping_02(2, dependency)
+                self.assert_bad(self.check_rows(rows), "earlier card")
+
+    def test_required_reading_and_optional_string_integrity(self):
+        for value in (None, "", " ", [], 3, "shui\u030c"):
+            row = card_02()
+            row["reading"] = value
+            self.assert_bad(self.check_records([row], 1), "/reading")
+        row = card_02()
+        del row["reading"]
+        self.assert_bad(self.check_records([row], 1), "/reading")
+        for field, value in (("note", ""), ("grammar", []), ("register", "two  spaces")):
+            row = card_02()
+            row[field] = value
+            self.assert_bad(self.check_records([row], 1), "/" + field)
+
+    def test_retained_cloze_alternative_path_and_grapheme_invariants(self):
+        for changes, phrase in (({"answer": "茶"}, "must equal cloze"),
+                                ({"sentence": "水杯里有水。"}, "exact occurrence"),
+                                ({"sentence": "哈哈哈。", "cloze": "哈哈", "answer": "哈哈"}, "found 2"),
+                                ({"accepted_answers": ["水"]}, "accepted_answers"),
+                                ({"audio": "../audio/zh-02-0001.mp3"}, "/audio"),
+                                ({"pinyin": "shuǐ"}, "undocumented"),
+                                ({"sentence": "水。", "cloze": "水。", "answer": "水。"}, "boundary"),
+                                ({"sentence": "q\u0301水。", "cloze": "q", "answer": "q"}, "boundary")):
+            row = card_02()
+            row.update(changes)
+            self.assert_bad(self.check_records([row], 1), phrase)
+
+    def test_strict_json_duplicate_keys_constants_and_utf8(self):
+        SCRATCH_02.mkdir(exist_ok=True)
+        with tempfile.TemporaryDirectory(dir=SCRATCH_02) as directory:
+            path = Path(directory) / "02.json"
+            for text in ('[{"id":"zh-02-0001","id":"zh-02-0002"}]', '[NaN]', '[Infinity]'):
+                path.write_text(text, encoding="utf-8")
+                with self.assertRaises(ValueError):
+                    SOURCE.load_source(path)
+            path.write_bytes(b'\xff')
+            with self.assertRaises(ValueError):
+                SOURCE.load_source(path)
+
+    def test_conservative_cross_stage_diagnostics_for_both_predecessors(self):
+        for earlier in (card(), card_01()):
+            current = card_02()
+            self.assertEqual(SOURCE.check_cross_stage([earlier], [current]), [])
+            current["sentence"] = "  " + earlier["sentence"] + "  "
+            self.assert_bad(SOURCE.check_cross_stage([earlier], [current]), "duplicate of " + earlier["id"])
+            current = card_02()
+            current["id"] = earlier["id"]
+            self.assert_bad(SOURCE.check_cross_stage([earlier], [current]), "duplicate ID across")
+        earlier, current = card(), card_02()
+        earlier["sentence"], current["sentence"] = "CAFÉ 水。", "cafe\u0301 水。"
+        self.assert_bad(SOURCE.check_cross_stage([earlier], [current]), "duplicate of")
+        current["sentence"] = "cafe 水。"
+        self.assertEqual(SOURCE.check_cross_stage([earlier], [current]), [])
+
+    def test_unsupported_locale_stage_count_pairs_fail_before_loading(self):
+        for locale, stage, count in (("zh-Hans-CN", "02", "200"), ("zh-Hans-CN", "02", "400"),
+                                     ("zh-Hans-CN", "01", "600"), ("zh-Hans-CN", "00", "600"),
+                                     ("zh-Hans-CN", "03", "800"), ("es-MX", "00", "600"),
+                                     ("es-MX", "02", "600"), ("zh-Hant-TW", "02", "600")):
+            with self.subTest(locale=locale, stage=stage, count=count), contextlib.redirect_stderr(io.StringIO()):
+                with self.assertRaises(SystemExit) as error:
+                    SOURCE.main(["--locale", locale, "--stage", stage, "--expected-count", count])
+                self.assertEqual(error.exception.code, 2)
+
+    def test_isolated_cli_without_predecessor_coverage_spanish_or_media(self):
+        SCRATCH_02.mkdir(exist_ok=True)
+        with tempfile.TemporaryDirectory(dir=SCRATCH_02) as directory:
+            root = self.make_root(directory)
+            self.assertFalse((root / "cards/es-MX").exists())
+            self.assertFalse((root / "coverage/zh-Hans-CN/00.md").exists())
+            self.assertFalse((root / "coverage/zh-Hans-CN/01.md").exists())
+            self.assertEqual(list(root.rglob("*.mp3")), [])
+            with contextlib.redirect_stdout(io.StringIO()):
+                self.assertEqual(self.cli(root), 0)
+
+    def test_cli_duplicate_failure_identifies_each_predecessor(self):
+        SCRATCH_02.mkdir(exist_ok=True)
+        for earlier in (card(), card_01()):
+            with self.subTest(predecessor=earlier["id"]), tempfile.TemporaryDirectory(dir=SCRATCH_02) as directory:
+                root = self.make_root(directory)
+                records = copy.deepcopy(self.records)
+                records[0]["sentence"] = earlier["sentence"]
+                (root / "cards/zh-Hans-CN/02.json").write_text(json.dumps(records, ensure_ascii=False), encoding="utf-8")
+                with contextlib.redirect_stdout(io.StringIO()), contextlib.redirect_stderr(io.StringIO()) as error:
+                    self.assertEqual(self.cli(root), 1)
+                self.assertIn("duplicate of " + earlier["id"], error.getvalue())
+
+    def test_earlier_stages_remain_independent_of_02(self):
+        SCRATCH_02.mkdir(exist_ok=True)
+        with tempfile.TemporaryDirectory(dir=SCRATCH_02) as directory:
+            root = Path(directory)
+            (root / "cards/zh-Hans-CN").mkdir(parents=True)
+            (root / "coverage/zh-Hans-CN").mkdir(parents=True)
+            for stage, records, rows in (("00", [card(n) for n in range(1, 201)], [mapping(n) for n in range(1, 201)]),
+                                         ("01", [card_01(n) for n in range(1, 401)], [mapping_01(n) for n in range(1, 401)])):
+                (root / "cards/zh-Hans-CN" / (stage + ".json")).write_text(json.dumps(records, ensure_ascii=False), encoding="utf-8")
+                (root / "coverage/zh-Hans-CN" / (stage + ".md")).write_text(coverage(rows), encoding="utf-8")
+                with contextlib.redirect_stdout(io.StringIO()):
+                    self.assertEqual(SOURCE.main(["--locale", "zh-Hans-CN", "--stage", stage,
+                                                  "--expected-count", str(len(records)), "--root", str(root)]), 0)
+            self.assertFalse((root / "cards/zh-Hans-CN/02.json").exists())
+
+    def test_prior_anchor_scopes_do_not_expand_with_02(self):
+        for stage, count, rows, anchor in (("00", 200, [mapping(n) for n in range(1, 201)], "61-foundation"),
+                                           ("01", 400, [mapping_01(n) for n in range(1, 401)], "62-basic-communication")):
+            rows[0] = rows[0].replace(anchor, "63-routine-communication")
+            self.assert_bad(SOURCE.check_coverage(coverage(rows), count, stage, "zh-Hans-CN"), "guide subsection")
+        rows = self.rows.copy()
+        rows[0] = rows[0].replace("63-routine-communication", "62-basic-communication")
+        self.assert_bad(self.check_rows(rows), "guide subsection")
 
 
 if __name__ == "__main__":
