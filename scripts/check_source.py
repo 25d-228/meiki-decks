@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check source contract v1 for the assigned Spanish 01–07 text stages."""
+"""Check source contract v1 for Spanish 01–07 and Chinese 00 text."""
 
 import argparse
 import json
@@ -39,6 +39,9 @@ STAGES = {"01": (600, BLOCKS), "02": (800, STAGE_02_BLOCKS),
           "03": (1000, STAGE_03_BLOCKS), "04": (1200, STAGE_04_BLOCKS),
           "05": (1400, STAGE_05_BLOCKS), "06": (1600, STAGE_06_BLOCKS),
           "07": (1000, STAGE_07_BLOCKS)}
+CHINESE_BLOCKS = (("A", 1, 30), ("B", 31, 65), ("C", 66, 100),
+                  ("D", 101, 130), ("E", 131, 155), ("F", 156, 180),
+                  ("G", 181, 200))
 GUIDE = ("https://github.com/25d-228/meiki-decks/blob/"
          "e1d8239b7560f26b092cc7bb97c005738b34361f/languages/es.md#")
 ANCHORS = {
@@ -52,6 +55,16 @@ ANCHORS = {
     "8-listening-support-sentence-composition", "9-reading-script-and-genre-in-sentences",
     "10-contrastive-cloze-design", "11-lexical-support-and-authoring-records",
     "12-social-context-and-editorial-judgment",
+}
+CHINESE_GUIDE = GUIDE.replace("languages/es.md#", "languages/zh.md#")
+CHINESE_ANCHORS = {
+    "2-production-model-script-and-register", "61-foundation",
+    "42-language-specific-prerequisite-checks",
+    "5-essential-systems-to-represent-in-sentences",
+    "7-pronunciation-aware-sentence-selection",
+    "8-listening-support-sentence-composition", "9-reading-script-and-genre-in-sentences",
+    "10-contrastive-cloze-design", "11-lexical-support-and-authoring-records",
+    "12-social-context-and-editorial-judgment", "13-writing-and-editing-requirements",
 }
 COLUMNS = ("ID", "Block", "Hidden learning point", "Guide", "Situation / register",
            "Role", "Prerequisites", "Kind", "Review", "Unresolved")
@@ -84,7 +97,7 @@ def word_character(character):
                                 or character == "_")
 
 
-def check_records(records, expected_count=600, first=1, stage="01"):
+def check_records(records, expected_count=600, first=1, stage="01", locale="es-MX"):
     """Also usable for cheap checks of a newly accepted consecutive batch."""
     errors = []
     if not isinstance(records, list):
@@ -104,6 +117,8 @@ def check_records(records, expected_count=600, first=1, stage="01"):
             errors.append(label + ": missing fields " + ", ".join(sorted(missing)))
         if unknown:
             errors.append(label + ": undocumented fields " + ", ".join(sorted(unknown)))
+        if locale == "zh-Hans-CN" and "reading" not in card:
+            errors.append(label + "/reading: Chinese 00 requires target Pinyin")
         for field in (REQUIRED - {"accepted_answers"}) | (OPTIONAL & card.keys()):
             value = card.get(field)
             if not isinstance(value, str) or not value.strip():
@@ -113,7 +128,8 @@ def check_records(records, expected_count=600, first=1, stage="01"):
             elif value != value.strip() or re.search(r"[\t\r\n]| {2,}", value):
                 errors.append(label + "/" + field + ": irregular whitespace")
         actual_id = card.get("id")
-        expected_id = "es-{}-{:04d}".format(stage, first + offset)
+        prefix = "zh" if locale == "zh-Hans-CN" else "es"
+        expected_id = "{}-{}-{:04d}".format(prefix, stage, first + offset)
         if actual_id != expected_id:
             errors.append(label + "/id: expected " + expected_id)
         if isinstance(actual_id, str):
@@ -147,7 +163,7 @@ def check_records(records, expected_count=600, first=1, stage="01"):
             if key in sentences:
                 errors.append(label + "/sentence: duplicate of " + sentences[key])
             sentences[key] = label
-            for opening, closing in (("¿", "?"), ("¡", "!")):
+            for opening, closing in ((("¿", "?"), ("¡", "!")) if locale == "es-MX" else ()):
                 depth = 0
                 for char in sentence:
                     if char == opening:
@@ -166,8 +182,10 @@ def check_records(records, expected_count=600, first=1, stage="01"):
                     start, end = starts[0], starts[0] + len(cloze)
                     justification = card.get("grammar", "")
                     justified = isinstance(justification, str) and justification.startswith("Boundary target: ") and len(justification) > 17
-                    partial = ((start > 0 and word_character(sentence[start - 1]) and word_character(cloze[0]))
-                               or (end < len(sentence) and word_character(sentence[end]) and word_character(cloze[-1])))
+                    # Han adjacency is normal; Chinese word identity needs editorial review.
+                    partial = locale == "es-MX" and (
+                        (start > 0 and word_character(sentence[start - 1]) and word_character(cloze[0]))
+                        or (end < len(sentence) and word_character(sentence[end]) and word_character(cloze[-1])))
                     split_mark = (unicodedata.category(cloze[0]).startswith("M")
                                   or (end < len(sentence) and unicodedata.category(sentence[end]).startswith("M")))
                     punctuation = (unicodedata.category(cloze[0]).startswith("P")
@@ -177,8 +195,11 @@ def check_records(records, expected_count=600, first=1, stage="01"):
     return errors
 
 
-def check_coverage(text, expected_count=600, stage="01"):
-    blocks = STAGES[stage][1]
+def check_coverage(text, expected_count=600, stage="01", locale="es-MX"):
+    chinese = locale == "zh-Hans-CN"
+    blocks = CHINESE_BLOCKS if chinese else STAGES[stage][1]
+    prefix = "zh" if chinese else "es"
+    guide, anchors = (CHINESE_GUIDE, CHINESE_ANCHORS) if chinese else (GUIDE, ANCHORS)
     errors = []
     if text != unicodedata.normalize("NFC", text):
         errors.append("coverage: text must be NFC")
@@ -206,7 +227,7 @@ def check_coverage(text, expected_count=600, stage="01"):
         if identifier in found:
             errors.append(identifier + "/coverage: duplicate mapping")
         found[identifier] = row
-        match = re.fullmatch(r"es-" + stage + r"-(\d{4})", identifier)
+        match = re.fullmatch(prefix + "-" + stage + r"-(\d{4})", identifier)
         counter = int(match.group(1)) if match else 0
         if not 1 <= counter <= expected_count:
             errors.append(identifier + "/coverage: out-of-range ID")
@@ -216,10 +237,13 @@ def check_coverage(text, expected_count=600, stage="01"):
         if row["Block"] in counts:
             counts[row["Block"]] += 1
         links = re.findall(r"\[[^\]]+\]\(([^)]+)\)", row["Guide"])
-        if not links or any(not link.startswith(GUIDE) or link[len(GUIDE):] not in ANCHORS for link in links):
+        if not links or any(not link.startswith(guide) or link[len(guide):] not in anchors for link in links):
             errors.append(identifier + "/coverage: expected a pinned guide subsection link")
         recognition = row["Role"] == "R"
-        if recognition and stage == "03":
+        if chinese:
+            if row["Role"] != "P":
+                errors.append(identifier + "/coverage: Chinese 00 requires production role P")
+        elif recognition and stage == "03":
             if row["Block"] not in {"A", "H"} or not re.search(
                     r"\b(?:Spain|Colombia|River Plate)\b", row["Situation / register"]):
                 errors.append(identifier + "/coverage: recognition requires block A/H and explicit region attribution")
@@ -243,18 +267,18 @@ def check_coverage(text, expected_count=600, stage="01"):
             errors.append(identifier + "/coverage: invalid kind")
         if row["Review"] != "accepted" or row["Unresolved"] != "none":
             errors.append(identifier + "/coverage: final review is unresolved")
-        for dependency in re.findall(r"\b(?:es-[\w-]+|[a-z]+(?:-[A-Z]+)?-\d{2}-[\w-]+)",
+        for dependency in re.findall(r"\b(?:(?:es|zh)-[\w-]+|[a-z]+(?:-[A-Z]+)?-\d{2}-[\w-]+)",
                                      row["Prerequisites"], flags=re.IGNORECASE):
-            parsed = re.fullmatch(r"es-(01|02|03|04|05|06|07)-(\d{4})", dependency)
+            parsed = re.fullmatch(r"zh-(00)-(\d{4})" if chinese else r"es-(01|02|03|04|05|06|07)-(\d{4})", dependency)
             valid = False
             if parsed:
                 dep_stage, dep_number = parsed.group(1), int(parsed.group(2))
                 valid = ((dep_stage == stage and 1 <= dep_number < counter)
-                         or (dep_stage < stage and 1 <= dep_number <= STAGES[dep_stage][0]))
+                         or (not chinese and dep_stage < stage and 1 <= dep_number <= STAGES[dep_stage][0]))
             if not valid:
                 errors.append(identifier + "/coverage: prerequisite must be an earlier card"
-                              + (" or valid accepted earlier-stage ID" if stage != "01" else ""))
-    expected_ids = {"es-{}-{:04d}".format(stage, n) for n in range(1, expected_count + 1)}
+                              + (" or valid accepted earlier-stage ID" if not chinese and stage != "01" else ""))
+    expected_ids = {"{}-{}-{:04d}".format(prefix, stage, n) for n in range(1, expected_count + 1)}
     for identifier in sorted(expected_ids - found.keys()):
         errors.append(identifier + "/coverage: missing mapping")
     for block, low, high in blocks:
@@ -289,21 +313,25 @@ def check_cross_stage(earlier, current):
 
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--locale", required=True, choices=["es-MX"])
-    parser.add_argument("--stage", required=True, choices=["01", "02", "03", "04", "05", "06", "07"])
-    parser.add_argument("--expected-count", required=True, type=int, choices=[600, 800, 1000, 1200, 1400, 1600])
+    parser.add_argument("--locale", required=True, choices=["es-MX", "zh-Hans-CN"])
+    parser.add_argument("--stage", required=True, choices=["00", "01", "02", "03", "04", "05", "06", "07"])
+    parser.add_argument("--expected-count", required=True, type=int, choices=[200, 600, 800, 1000, 1200, 1400, 1600])
     parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1],
                         help="source root (also permits isolated test fixtures)")
     args = parser.parse_args(argv)
-    if args.expected_count != STAGES[args.stage][0]:
-        parser.error("stage {} requires --expected-count {}".format(args.stage, STAGES[args.stage][0]))
+    chinese = args.locale == "zh-Hans-CN"
+    if (chinese and args.stage != "00") or (not chinese and args.stage not in STAGES):
+        parser.error("unsupported locale/stage pair: {}/{}".format(args.locale, args.stage))
+    expected_count, blocks = (200, CHINESE_BLOCKS) if chinese else STAGES[args.stage]
+    if args.expected_count != expected_count:
+        parser.error("stage {} requires --expected-count {}".format(args.stage, expected_count))
     try:
-        records = load_source(args.root / "cards/es-MX" / (args.stage + ".json"))
-        coverage = (args.root / "coverage/es-MX" / (args.stage + ".md")).read_text(encoding="utf-8")
-        errors = (check_records(records, args.expected_count, stage=args.stage)
-                  + check_coverage(coverage, args.expected_count, args.stage))
+        records = load_source(args.root / "cards" / args.locale / (args.stage + ".json"))
+        coverage = (args.root / "coverage" / args.locale / (args.stage + ".md")).read_text(encoding="utf-8")
+        errors = (check_records(records, args.expected_count, stage=args.stage, locale=args.locale)
+                  + check_coverage(coverage, args.expected_count, args.stage, locale=args.locale))
         for previous in ("01", "02", "03", "04", "05", "06"):
-            if previous < args.stage:
+            if not chinese and previous < args.stage:
                 earlier = load_source(args.root / "cards/es-MX" / (previous + ".json"))
                 errors += check_cross_stage(earlier, records)
     except (OSError, UnicodeError, ValueError) as exc:
@@ -317,7 +345,7 @@ def main(argv=None):
     if errors:
         print("FAILED: {} finding(s)".format(len(errors)), file=sys.stderr)
         return 1
-    print("PASS: source schema, ordered IDs, Unicode, clozes, duplicates, logical paths and {} coverage blocks; text only".format(len(STAGES[args.stage][1])))
+    print("PASS: source schema, ordered IDs, Unicode, clozes, duplicates, logical paths and {} coverage blocks; text only".format(len(blocks)))
     return 0
 
 
