@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check source contract v1 for Spanish 01–07 and Chinese 00–02 text."""
+"""Check source contract v1 for Spanish 01–07 and Chinese 00–03 text."""
 
 import argparse
 import json
@@ -48,8 +48,11 @@ CHINESE_01_BLOCKS = (("A", 1, 65), ("B", 66, 125), ("C", 126, 175),
 CHINESE_02_BLOCKS = (("A", 1, 110), ("B", 111, 205), ("C", 206, 290),
                      ("D", 291, 370), ("E", 371, 445), ("F", 446, 520),
                      ("G", 521, 600))
+CHINESE_03_BLOCKS = (("A", 1, 130), ("B", 131, 245), ("C", 246, 355),
+                     ("D", 356, 460), ("E", 461, 560), ("F", 561, 680),
+                     ("G", 681, 800))
 CHINESE_STAGES = {"00": (200, CHINESE_BLOCKS), "01": (400, CHINESE_01_BLOCKS),
-                  "02": (600, CHINESE_02_BLOCKS)}
+                  "02": (600, CHINESE_02_BLOCKS), "03": (800, CHINESE_03_BLOCKS)}
 GUIDE = ("https://github.com/25d-228/meiki-decks/blob/"
          "e1d8239b7560f26b092cc7bb97c005738b34361f/languages/es.md#")
 ANCHORS = {
@@ -76,6 +79,7 @@ CHINESE_ANCHORS = {
 }
 CHINESE_01_ANCHORS = CHINESE_ANCHORS | {"62-basic-communication"}
 CHINESE_02_ANCHORS = CHINESE_ANCHORS | {"63-routine-communication"}
+CHINESE_03_ANCHORS = (CHINESE_ANCHORS - {"61-foundation"}) | {"64-independent-communication"}
 COLUMNS = ("ID", "Block", "Hidden learning point", "Guide", "Situation / register",
            "Role", "Prerequisites", "Kind", "Review", "Unresolved")
 
@@ -214,6 +218,8 @@ def check_coverage(text, expected_count=600, stage="01", locale="es-MX"):
         anchors = CHINESE_01_ANCHORS
     elif chinese and stage == "02":
         anchors = CHINESE_02_ANCHORS
+    elif chinese and stage == "03":
+        anchors = CHINESE_03_ANCHORS
     errors = []
     if text != unicodedata.normalize("NFC", text):
         errors.append("coverage: text must be NFC")
@@ -236,7 +242,7 @@ def check_coverage(text, expected_count=600, stage="01", locale="es-MX"):
             continue
         row = dict(zip(COLUMNS, parts))
         identifier = row["ID"]
-        if chinese and stage in {"01", "02"} and identifier != "zh-{}-{:04d}".format(stage, number):
+        if chinese and stage in {"01", "02", "03"} and identifier != "zh-{}-{:04d}".format(stage, number):
             errors.append(identifier + "/coverage: expected ordered mapping zh-{}-{:04d}".format(stage, number))
         if any(not value for value in parts):
             errors.append(identifier + "/coverage: empty field")
@@ -285,7 +291,7 @@ def check_coverage(text, expected_count=600, stage="01", locale="es-MX"):
             errors.append(identifier + "/coverage: final review is unresolved")
         for dependency in re.findall(r"\b(?:(?:es|zh)-[\w-]+|[a-z]+(?:-[A-Z]+)?-\d{2}-[\w-]+)",
                                      row["Prerequisites"], flags=re.IGNORECASE):
-            parsed = re.fullmatch(r"zh-(00|01|02)-(\d{4})" if chinese else r"es-(01|02|03|04|05|06|07)-(\d{4})", dependency)
+            parsed = re.fullmatch(r"zh-(00|01|02|03)-(\d{4})" if chinese else r"es-(01|02|03|04|05|06|07)-(\d{4})", dependency)
             valid = False
             if parsed:
                 dep_stage, dep_number = parsed.group(1), int(parsed.group(2))
@@ -347,7 +353,7 @@ def main(argv=None):
         coverage = (args.root / "coverage" / args.locale / (args.stage + ".md")).read_text(encoding="utf-8")
         errors = (check_records(records, args.expected_count, stage=args.stage, locale=args.locale)
                   + check_coverage(coverage, args.expected_count, args.stage, locale=args.locale))
-        for previous in ("00", "01"):
+        for previous in ("00", "01", "02"):
             if chinese and previous < args.stage:
                 earlier = load_source(args.root / "cards/zh-Hans-CN" / (previous + ".json"))
                 errors += check_cross_stage(earlier, records)

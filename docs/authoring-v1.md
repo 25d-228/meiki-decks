@@ -62,6 +62,14 @@ production in standard spoken Chinese (Putonghua), following accepted 00–01.
 Chinese source reaches 1,200 cards/maps. Actual new learning, aspect interpretation,
 complement constraints and practical breadth remain separate acceptance criteria.
 
+Chinese 03 adds exactly 800 ordered records at `cards/zh-Hans-CN/03.json`,
+`zh-03-0001`–`zh-03-0800`, conceptual deck `deck:zh-Hans-CN:03`, display name
+**Chinese 03 — Band 3-oriented independent communication**. All are Simplified
+production in standard spoken Chinese (Putonghua), following accepted 00–02.
+Delivered Chinese source reaches 2,000 records/maps. Common result and extended
+directional complements, affected/passive/potential frames, reference, stance,
+clause relations and register need actual hidden retrieval and editorial review.
+
 | Required field | Meaning and constraint |
 | --- | --- |
 | `id` | Assigned nonempty unique ordered source ID. |
@@ -97,7 +105,7 @@ whole words and compact phrases. There is no arbitrary cloze-length limit:
 editorial review rejects whole propositions or nearly entire predicates and
 justifies compact fixed greetings with meaningful visible context.
 
-Chinese 00–02 require a nonempty `reading` on every card: complete tone-marked
+Chinese 00–03 require a nonempty `reading` on every card: complete tone-marked
 Pinyin of exactly the hidden span, with lexical tones, normal word segmentation,
 unmarked neutral syllables, and the actual contextual reading of polyphonic words.
 Do not silently replace lexical tones with connected-speech tones. Explain useful
@@ -260,28 +268,53 @@ and direct versus incidental characters need explicit methods and limits. The
 guide's approximately 600 recognized characters, 1,270 words/phrases and 200
 handwritten characters are separate landmarks, not quotas or attainment evidence.
 
+Chinese 03 coverage is `coverage/zh-Hans-CN/03.md`, using the same ordered table.
+Its exact blocks are A 0001–0130 (130), B 0131–0245 (115), C 0246–0355 (110),
+D 0356–0460 (105), E 0461–0560 (100), F 0561–0680 (120), G 0681–0800 (120).
+All 800 rows are P and link to pinned `64-independent-communication` or shared
+Chinese system headings. Earlier-stage §6.1–6.3 headings are outside 03's scope;
+00–02 keep their existing anchor scopes.
+Dependencies may cite valid accepted 00/01/02 IDs and strictly earlier 03 IDs.
+Reconcile each §6.4 family and important contrast to actual hidden IDs: common
+result and literal/extended directional complements with lexical constraints and
+viewpoint; 把, 被 and potential with agency/result/nonoccurrence distinctions;
+complex modification and topic–comment with recoverable reference; rhetorical
+questions and sentence-final stance; conditional/concessive/causal/purpose
+relations; formal/conversational alternatives and basic discourse organization.
+Broaden useful lexical senses, original narration, explanation and repair without
+counting visible grammar twice. Keep source evidence and social context inside
+the sentence where interpretation needs them. Report 800 new/2,000 cumulative
+records/maps, exact targets/lemmas/operational lemma-meaning pairs and distinct
+direct/visible/incidental-only Han sets with explicit methods. The guide's
+approximately 900 recognized characters, 2,245 words/phrases and 300 handwritten
+characters are separate landmarks, not replacement quotas or demonstrated skills.
+
 The supported Chinese commands are:
 
 ```sh
 python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 00 --expected-count 200
 python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 01 --expected-count 400
 python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 02 --expected-count 600
+python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 03 --expected-count 800
 ```
 
-Chinese supports only `zh-Hans-CN/00/200`, `zh-Hans-CN/01/400` and
-`zh-Hans-CN/02/600` alongside the Spanish pairs above. Chinese 00 needs no later
+Chinese supports only `zh-Hans-CN/00/200`, `zh-Hans-CN/01/400`,
+`zh-Hans-CN/02/600` and `zh-Hans-CN/03/800` alongside the Spanish pairs above.
+Chinese 00 needs no later
 files. Chinese 01 loads accepted
 Chinese 00 source for conservative duplicate-ID/full-sentence diagnostics, but
 needs no predecessor coverage, Spanish files or recordings. Spanish commands
 remain independent of Chinese. Chinese 02 compares duplicate IDs/full sentences
 with both accepted 00 and 01 sources, without their coverage, Spanish or media;
-01 remains independent of 02. Other locale/stage/count combinations fail.
+01 remains independent of 02. Chinese 03 compares against each of all three
+accepted predecessor sources without their coverage, Spanish or media; 00–02
+remain independent of 03. Other locale/stage/count combinations fail.
 No semantic tokenizer, Pinyin converter or Simplified conversion is introduced;
 Pinyin accuracy, genuine novelty, semantic boundaries and naturalness remain
 editorial judgments.
 During Chinese ingestion use
-`check_records(new_records, count, first, stage="02", locale="zh-Hans-CN")`
-(use the actual `stage="00"` or `stage="01"` for earlier Chinese)
+`check_records(new_records, count, first, stage="03", locale="zh-Hans-CN")`
+(use the actual `stage="00"`, `stage="01"` or `stage="02"` for earlier Chinese)
 plus incremental duplicate and mapping checks. After final review run the one
 consolidated Chinese validation and preservation check; use focused Chinese
 fixtures locally and exact-head CI for the complete repository suite. The focused
@@ -305,12 +338,36 @@ python3 -B -m unittest discover -s tests -p test_chinese_source.py -k ChineseSta
 
 Normal source CI retains all existing fixture methods and nine accepted real-stage
 commands, adding Chinese 02/600 as the tenth. The former unsupported-pair fixture
-now uses 03/800 because 02/600 is implemented. Chinese 02 normally uses fifteen
+now uses 04/1000 because 02/600 and 03/800 are implemented. Chinese 02 normally uses fifteen
 sequential fresh author/editor pairs and one exhaustive final pass in consecutive
 0001–0400 and 0401–0600 partitions. Apply verified findings together, check affected
 records, then run focused implementation tests and one consolidated completion
 check including both predecessors' duplicate diagnostics and 29 protected files.
 Reserve the full repository suite for normal final-head CI.
+
+Chinese 03's focused class command is:
+
+```sh
+python3 -B -m unittest discover -s tests -p test_chinese_source.py -k ChineseStage03Tests
+```
+
+Its scoped fixtures append to the 99 existing methods and exercise independently
+transcribed block endpoints, prior/current dependency bounds, source/mapping
+integrity, isolated media-free success, failures from each of the three prior
+sources and earlier-stage independence/anchor scope. Only obsolete unsupported
+03/800 cases change to unsupported 04/1000. Normal CI retains the full fixture
+suite and ten accepted stage commands, adding Chinese 03/800 as the eleventh.
+Do not duplicate the full workflow locally. Normally use twenty sequential fresh
+author/editor pairs, then one exhaustive final pass in consecutive 0001–0400 and
+0401–0800 partitions. Before every launch verify actual prior ingestion, complete
+required context and explicit resolution of editor limitations; exit 0 alone is
+not structured completion. Apply final corrections together, inspect affected
+records, then run focused tests and one consolidated source/coverage/count/order/
+allocation/dependency/all-three-predecessor-duplicate/31-file preservation check.
+Keep the Spanish fixture module unchanged in addition to the protected files.
+Preflight actual prompt plus schema in characters and UTF-16 units; reversible
+field tables must preserve every value and optional-field presence. Keep raw
+prompts, outputs and diagnostics local under `/tmp`, outside source records.
 
 During ingestion, reuse `check_records(new_records, expected_count, first, stage="07")`
 for new/changed consecutive 07 records (use the actual stage for 02–06; omit for 01), plus
@@ -323,4 +380,5 @@ server, app, or exporter. Scratch/caches belong in the assigned stage’s local
 `/tmp` directory. Chinese 00 and its fixtures use `/tmp/meiki-decks-zh-00/`;
 Chinese 01 and its new fixtures use `/tmp/meiki-decks-zh-01/`;
 Chinese 02 and its new fixtures use `/tmp/meiki-decks-zh-02/`;
+Chinese 03 and its new fixtures use `/tmp/meiki-decks-zh-03/`;
 unchanged Spanish fixtures retain `/tmp/meiki-decks-es-07/`.
