@@ -48,6 +48,13 @@ prior Chinese; accepted Spanish is a project dependency, not a learner prerequis
 All 200 targets are Simplified production in standard spoken Chinese (Putonghua).
 There are no recording or application prerequisites.
 
+Chinese 01 adds exactly 400 ordered records at `cards/zh-Hans-CN/01.json`,
+`zh-01-0001`–`zh-01-0400`, conceptual deck `deck:zh-Hans-CN:01`, display name
+**Chinese 01 — Band 1-oriented basic communication**. All 400 are Simplified
+production. Accepted Chinese 00 supplies actual prerequisites; distinguish its
+hidden targets from merely visible support when identifying new learning.
+Chinese source reaches 600 cards; counts do not establish substantive acceptance.
+
 | Required field | Meaning and constraint |
 | --- | --- |
 | `id` | Assigned nonempty unique ordered source ID. |
@@ -83,7 +90,7 @@ whole words and compact phrases. There is no arbitrary cloze-length limit:
 editorial review rejects whole propositions or nearly entire predicates and
 justifies compact fixed greetings with meaningful visible context.
 
-Chinese 00 requires a nonempty `reading` on every card: complete tone-marked
+Chinese 00 and 01 require a nonempty `reading` on every card: complete tone-marked
 Pinyin of exactly the hidden span, with lexical tones, normal word segmentation,
 unmarked neutral syllables, and the actual contextual reading of polyphonic words.
 Do not silently replace lexical tones with connected-speech tones. Explain useful
@@ -216,20 +223,51 @@ to actual hidden targets. Report cards, target lemmas/expressions/senses, direct
 target characters and incidental character exposure separately, with methods.
 These are exposure/retrieval measures, not handwriting or proficiency evidence.
 
-The additional supported command is:
+Chinese 01 coverage is `coverage/zh-Hans-CN/01.md`, using the same table contract.
+Its exact blocks are A 0001–0065 (65), B 0066–0125 (60), C 0126–0175 (50),
+D 0176–0230 (55), E 0231–0280 (50), F 0281–0335 (55), G 0336–0400 (65).
+All rows follow source-ID order, are P and use pinned Chinese links, including
+`62-basic-communication`. Chinese 00 retains its foundation guide-anchor scope.
+Prerequisites may cite accepted `zh-00-0001`–`zh-00-0200` and strictly earlier
+`zh-01` IDs; invalid bounds, self/forward, malformed, cross-language and later-stage
+references fail. The introduction reconciles the entire §6.2 inventory to actual
+hidden IDs, progression, lexical breadth and direct versus incidental characters.
+Count exact target strings, lemmas and operational lemma/meaning pairs separately;
+none is a certified linguistic sense inventory or completed proficiency measure.
+The guide's character/word/handwriting landmarks are separate from these counts.
+
+The supported Chinese commands are:
 
 ```sh
 python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 00 --expected-count 200
+python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 01 --expected-count 400
 ```
 
-Only Chinese `zh-Hans-CN/00/200` is added to the Spanish CLI pairs above.
-Chinese validation is independent of Spanish files and media, and Spanish
-commands do not require Chinese files. There are no future-stage CLI pairs.
+Chinese supports only `zh-Hans-CN/00/200` and `zh-Hans-CN/01/400` alongside the
+Spanish pairs above. Chinese 00 needs no 01 files. Chinese 01 loads accepted
+Chinese 00 source for conservative duplicate-ID/full-sentence diagnostics, but
+needs no predecessor coverage, Spanish files or recordings. Spanish commands
+remain independent of Chinese. Other locale/stage/count combinations fail.
+No semantic tokenizer, Pinyin converter or Simplified conversion is introduced;
+Pinyin accuracy, genuine novelty, semantic boundaries and naturalness remain
+editorial judgments.
 During Chinese ingestion use
-`check_records(new_records, count, first, stage="00", locale="zh-Hans-CN")`
+`check_records(new_records, count, first, stage="01", locale="zh-Hans-CN")`
+(use `stage="00"` for Chinese 00)
 plus incremental duplicate and mapping checks. After final review run the one
 consolidated Chinese validation and preservation check; use focused Chinese
-fixtures locally and exact-head CI for the complete repository suite.
+fixtures locally and exact-head CI for the complete repository suite. The focused
+Chinese 01 class is available as:
+
+```sh
+python3 -B -m unittest discover -s tests -p test_chinese_source.py -k ChineseStage01Tests
+```
+
+Normal source CI retains all accepted fixtures and eight accepted real-stage
+commands, adding Chinese 01/400 as the ninth. Do not duplicate that whole suite
+locally. Chinese 01 normally uses ten sequential fresh author/editor pairs and
+one exhaustive 400-record final pass, followed by affected corrections and one
+consolidated completion check.
 
 During ingestion, reuse `check_records(new_records, expected_count, first, stage="07")`
 for new/changed consecutive 07 records (use the actual stage for 02–06; omit for 01), plus
@@ -240,4 +278,5 @@ and successful validation with no MP3s. Source CI uses hosted Ubuntu's existing
 Python, runs fixtures and complete source validation, and needs no models, audio,
 server, app, or exporter. Scratch/caches belong in the assigned stage’s local
 `/tmp` directory. Chinese 00 and its fixtures use `/tmp/meiki-decks-zh-00/`;
+Chinese 01 and its new fixtures use `/tmp/meiki-decks-zh-01/`;
 unchanged Spanish fixtures retain `/tmp/meiki-decks-es-07/`.
