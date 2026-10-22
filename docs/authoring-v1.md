@@ -70,6 +70,15 @@ Delivered Chinese source reaches 2,000 records/maps. Common result and extended
 directional complements, affected/passive/potential frames, reference, stance,
 clause relations and register need actual hidden retrieval and editorial review.
 
+Chinese 04 adds exactly 1,000 ordered records at `cards/zh-Hans-CN/04.json`,
+`zh-04-0001`–`zh-04-1000`, deck `deck:zh-Hans-CN:04`, display name
+**Chinese 04 — Band 4-oriented extended communication**. All are Simplified
+production in standard spoken Chinese (Putonghua), following accepted 00–03;
+delivered Chinese text reaches 3,000 records/maps. The guide supplies a functional
+emphasis, not an exhaustive official Band 4 grammar/vocabulary list. The selected
+lexical, narrative, discussion, source-comparison, register and pronunciation-aware
+extensions are authored curriculum choices whose real learning must be reviewed.
+
 | Required field | Meaning and constraint |
 | --- | --- |
 | `id` | Assigned nonempty unique ordered source ID. |
@@ -105,7 +114,7 @@ whole words and compact phrases. There is no arbitrary cloze-length limit:
 editorial review rejects whole propositions or nearly entire predicates and
 justifies compact fixed greetings with meaningful visible context.
 
-Chinese 00–03 require a nonempty `reading` on every card: complete tone-marked
+Chinese 00–04 require a nonempty `reading` on every card: complete tone-marked
 Pinyin of exactly the hidden span, with lexical tones, normal word segmentation,
 unmarked neutral syllables, and the actual contextual reading of polyphonic words.
 Do not silently replace lexical tones with connected-speech tones. Explain useful
@@ -289,6 +298,31 @@ direct/visible/incidental-only Han sets with explicit methods. The guide's
 approximately 900 recognized characters, 2,245 words/phrases and 300 handwritten
 characters are separate landmarks, not replacement quotas or demonstrated skills.
 
+Chinese 04 coverage is `coverage/zh-Hans-CN/04.md`, with exact allocations
+A 0001–0190 (190), B 0191–0340 (150), C 0341–0480 (140), D 0481–0630 (150),
+E 0631–0760 (130), F 0761–0880 (120), G 0881–1000 (120), all P. Link pinned
+`65-upper-intermediate-operation` or appropriate shared system headings;
+§6.1–6.4 and later milestone anchors are outside 04's scope. Earlier stages keep
+their existing scopes. Prerequisites may cite valid accepted 00/01/02/03 IDs or
+strictly earlier 04 IDs. Compare duplicate IDs/full sentences with each of all
+four predecessor sources, without their coverage, Spanish files or recordings;
+each earlier stage remains independent of later files.
+
+Reconcile every §6.5 functional area and each block's actual contrast to hidden
+IDs/ranges, separating guide emphasis from authored extensions: substantive
+lexical senses/collocations, aspect/complement narration and description, argument
+and topic continuity, original source comparison with attribution and evidence
+limits, meaningful formal/informal reformulation, pronunciation/discourse choices
+and broad adult-life/service/cultural/intellectual description. Actual Chinese
+must establish participants, reference, scope and any prominence interpretation;
+back-side support cannot invent roles, ownership, sources or missing context.
+Report 1,000 new/3,000 cumulative cards/maps, exact target/lemma/operational pairs,
+direct/sentence/visible/incidental-only Han sets with explicit methods and limits.
+The guide's approximately 1,200–1,500 recognized characters, 3,200–4,300
+words/phrases and 400–500 handwritten characters are separate working landmarks;
+its stated Band 5 overlap is not a newly certified examination inventory or
+attained proficiency. No final ten-stage reconciliation is implied.
+
 The supported Chinese commands are:
 
 ```sh
@@ -296,10 +330,11 @@ python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 00 --expected-cou
 python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 01 --expected-count 400
 python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 02 --expected-count 600
 python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 03 --expected-count 800
+python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 04 --expected-count 1000
 ```
 
 Chinese supports only `zh-Hans-CN/00/200`, `zh-Hans-CN/01/400`,
-`zh-Hans-CN/02/600` and `zh-Hans-CN/03/800` alongside the Spanish pairs above.
+`zh-Hans-CN/02/600`, `zh-Hans-CN/03/800` and `zh-Hans-CN/04/1000` alongside the Spanish pairs above.
 Chinese 00 needs no later
 files. Chinese 01 loads accepted
 Chinese 00 source for conservative duplicate-ID/full-sentence diagnostics, but
@@ -338,7 +373,7 @@ python3 -B -m unittest discover -s tests -p test_chinese_source.py -k ChineseSta
 
 Normal source CI retains all existing fixture methods and nine accepted real-stage
 commands, adding Chinese 02/600 as the tenth. The former unsupported-pair fixture
-now uses 04/1000 because 02/600 and 03/800 are implemented. Chinese 02 normally uses fifteen
+now uses 05/1000 because 02/600, 03/800 and 04/1000 are implemented. Chinese 02 normally uses fifteen
 sequential fresh author/editor pairs and one exhaustive final pass in consecutive
 0001–0400 and 0401–0600 partitions. Apply verified findings together, check affected
 records, then run focused implementation tests and one consolidated completion
@@ -355,7 +390,8 @@ Its scoped fixtures append to the 99 existing methods and exercise independently
 transcribed block endpoints, prior/current dependency bounds, source/mapping
 integrity, isolated media-free success, failures from each of the three prior
 sources and earlier-stage independence/anchor scope. Only obsolete unsupported
-03/800 cases change to unsupported 04/1000. Normal CI retains the full fixture
+03/800 cases were first moved to 04/1000; Chinese 04 now moves those examples
+to unsupported 05/1000. Normal CI retains the full fixture
 suite and ten accepted stage commands, adding Chinese 03/800 as the eleventh.
 Do not duplicate the full workflow locally. Normally use twenty sequential fresh
 author/editor pairs, then one exhaustive final pass in consecutive 0001–0400 and
@@ -369,6 +405,38 @@ Preflight actual prompt plus schema in characters and UTF-16 units; reversible
 field tables must preserve every value and optional-field presence. Keep raw
 prompts, outputs and diagnostics local under `/tmp`, outside source records.
 
+Chinese 04's focused local command is:
+
+```sh
+python3 -B -m unittest discover -s tests -p test_chinese_source.py -k ChineseStage04Tests
+```
+
+Its fixtures independently transcribe all seven allocations, cover all block
+endpoints, strict prior/current dependencies, source/mapping integrity and retained
+invariants, isolated source-only success, missing/duplicate failures from each of
+four predecessors, and earlier-stage independence/anchor scopes. Keep all 114
+existing fixture methods; only the three obsolete Chinese 04/1000 unsupported
+examples in the Stage01/02/03 classes become unsupported 05/1000. New fixture
+sentences use a distinct deterministic prefix. CI retains eleven accepted real
+stage commands and adds Chinese 04 as the twelfth; reserve the full suite for
+normal final-head CI.
+
+Use `check_records(new_records, count, first, stage="04", locale="zh-Hans-CN")`
+with lightweight new/changed mapping, dependency and incremental duplicate checks
+during ingestion. Normally use 25 fresh Sol 6.1 author/editor pairs, then one
+exhaustive final pass over consecutive 0001–0400, 0401–0800, 0801–1000. Each
+assigned record/map is complete; retain full relevant dependency/contrast records,
+accepted hidden inventory and the full reconciliation. Verify actual prior
+ingestion, all ten mapping columns and resolved limitations before every launch.
+Preflight actual prompt plus schema in characters and UTF-16 units, retaining
+all field values and optional presence in reversible tables; subdivide only still
+pending ranges if capacity requires it. Apply verified final corrections together,
+inspect affected records/dependent mappings, then run focused implementation
+tests and one consolidated source/count/order/coverage/allocation/dependency/
+all-four-predecessor-duplicate/33-file preservation check plus syntax/whitespace.
+Keep Spanish tests unchanged, reuse valid unchanged evidence, and compute each
+final new-file SHA-256 once before index/commit byte comparisons.
+
 During ingestion, reuse `check_records(new_records, expected_count, first, stage="07")`
 for new/changed consecutive 07 records (use the actual stage for 02–06; omit for 01), plus
 incremental comparisons with actual accepted inventory in all preceding Spanish stages.
@@ -381,4 +449,5 @@ server, app, or exporter. Scratch/caches belong in the assigned stage’s local
 Chinese 01 and its new fixtures use `/tmp/meiki-decks-zh-01/`;
 Chinese 02 and its new fixtures use `/tmp/meiki-decks-zh-02/`;
 Chinese 03 and its new fixtures use `/tmp/meiki-decks-zh-03/`;
+Chinese 04 and its new fixtures use `/tmp/meiki-decks-zh-04/`;
 unchanged Spanish fixtures retain `/tmp/meiki-decks-es-07/`.
