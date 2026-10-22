@@ -4290,7 +4290,7 @@
     "part_of_speech": "reciprocal pronoun",
     "audio": "audio/zh-03-0310.mp3",
     "reading": "bǐcǐ",
-    "grammar": "彼此 refers reciprocally to the two roommates. Each can contact the other, rather than contacting herself.",
+    "grammar": "彼此 refers reciprocally to the two roommates: the speaker can contact the roommate, and the roommate can contact the speaker.",
     "note": "交换 jiāohuàn means exchange; 存 cún means save or store. In connected speech, bǐ normally rises to bí before third-tone cǐ.",
     "accepted_answers": []
   },
@@ -9258,7 +9258,7 @@
     "part_of_speech": "verb",
     "audio": "audio/zh-03-0672.mp3",
     "reading": "wéichí",
-    "grammar": "维持 takes the existing condition 整洁 as its object. Daily work preserves that condition during the usual cleaner's absence.",
+    "grammar": "维持 takes the existing condition 整洁 as its object. Daily work preserves that condition during the mother's business trip.",
     "note": "整洁 zhěngjié means neat and clean.",
     "accepted_answers": []
   },
