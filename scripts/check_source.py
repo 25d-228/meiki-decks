@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check source contract v1 for Spanish 01–07 and Chinese 00–06 text."""
+"""Check source contract v1 for Spanish 01–07 and Chinese 00–07 text."""
 
 import argparse
 import json
@@ -60,10 +60,13 @@ CHINESE_05_BLOCKS = (("A", 1, 220), ("B", 221, 380), ("C", 381, 530),
 CHINESE_06_BLOCKS = (("A", 1, 240), ("B", 241, 430), ("C", 431, 610),
                      ("D", 611, 780), ("E", 781, 940), ("F", 941, 1080),
                      ("G", 1081, 1200))
+CHINESE_07_BLOCKS = (("A", 1, 380), ("B", 381, 650), ("C", 651, 900),
+                     ("D", 901, 1140), ("E", 1141, 1370), ("F", 1371, 1590),
+                     ("G", 1591, 1800))
 CHINESE_STAGES = {"00": (200, CHINESE_BLOCKS), "01": (400, CHINESE_01_BLOCKS),
                   "02": (600, CHINESE_02_BLOCKS), "03": (800, CHINESE_03_BLOCKS),
                   "04": (1000, CHINESE_04_BLOCKS), "05": (1000, CHINESE_05_BLOCKS),
-                  "06": (1200, CHINESE_06_BLOCKS)}
+                  "06": (1200, CHINESE_06_BLOCKS), "07": (1800, CHINESE_07_BLOCKS)}
 GUIDE = ("https://github.com/25d-228/meiki-decks/blob/"
          "e1d8239b7560f26b092cc7bb97c005738b34361f/languages/es.md#")
 ANCHORS = {
@@ -94,6 +97,7 @@ CHINESE_03_ANCHORS = (CHINESE_ANCHORS - {"61-foundation"}) | {"64-independent-co
 CHINESE_04_ANCHORS = (CHINESE_ANCHORS - {"61-foundation"}) | {"65-upper-intermediate-operation"}
 CHINESE_05_ANCHORS = (CHINESE_ANCHORS - {"61-foundation"}) | {"66-advanced-development"}
 CHINESE_06_ANCHORS = (CHINESE_ANCHORS - {"61-foundation"}) | {"66-advanced-development"}
+CHINESE_07_ANCHORS = (CHINESE_ANCHORS - {"61-foundation"}) | {"67-proficient-integration"}
 COLUMNS = ("ID", "Block", "Hidden learning point", "Guide", "Situation / register",
            "Role", "Prerequisites", "Kind", "Review", "Unresolved")
 
@@ -240,6 +244,8 @@ def check_coverage(text, expected_count=600, stage="01", locale="es-MX"):
         anchors = CHINESE_05_ANCHORS
     elif chinese and stage == "06":
         anchors = CHINESE_06_ANCHORS
+    elif chinese and stage == "07":
+        anchors = CHINESE_07_ANCHORS
     errors = []
     if text != unicodedata.normalize("NFC", text):
         errors.append("coverage: text must be NFC")
@@ -262,7 +268,7 @@ def check_coverage(text, expected_count=600, stage="01", locale="es-MX"):
             continue
         row = dict(zip(COLUMNS, parts))
         identifier = row["ID"]
-        if chinese and stage in {"01", "02", "03", "04", "05", "06"} and identifier != "zh-{}-{:04d}".format(stage, number):
+        if chinese and stage in {"01", "02", "03", "04", "05", "06", "07"} and identifier != "zh-{}-{:04d}".format(stage, number):
             errors.append(identifier + "/coverage: expected ordered mapping zh-{}-{:04d}".format(stage, number))
         if any(not value for value in parts):
             errors.append(identifier + "/coverage: empty field")
@@ -283,10 +289,10 @@ def check_coverage(text, expected_count=600, stage="01", locale="es-MX"):
             errors.append(identifier + "/coverage: expected a pinned guide subsection link")
         recognition = row["Role"] == "R"
         if chinese:
-            if recognition and stage == "06":
+            if recognition and stage in {"06", "07"}:
                 marked_source = re.search(r"\bSource/register:\s*\S", row["Situation / register"], re.IGNORECASE)
                 if row["Block"] != "F" or not marked_source:
-                    errors.append(identifier + "/coverage: Chinese 06 recognition requires block F and explicit Source/register attribution")
+                    errors.append(identifier + "/coverage: Chinese " + stage + " recognition requires block F and explicit Source/register attribution")
             elif row["Role"] != "P":
                 errors.append(identifier + "/coverage: Chinese " + stage + " requires production role P")
         elif recognition and stage == "03":
@@ -315,7 +321,7 @@ def check_coverage(text, expected_count=600, stage="01", locale="es-MX"):
             errors.append(identifier + "/coverage: final review is unresolved")
         for dependency in re.findall(r"\b(?:(?:es|zh)-[\w-]+|[a-z]+(?:-[A-Z]+)?-\d{2}-[\w-]+)",
                                      row["Prerequisites"], flags=re.IGNORECASE):
-            parsed = re.fullmatch(r"zh-(00|01|02|03|04|05|06)-(\d{4})" if chinese else r"es-(01|02|03|04|05|06|07)-(\d{4})", dependency)
+            parsed = re.fullmatch(r"zh-(00|01|02|03|04|05|06|07)-(\d{4})" if chinese else r"es-(01|02|03|04|05|06|07)-(\d{4})", dependency)
             valid = False
             if parsed:
                 dep_stage, dep_number = parsed.group(1), int(parsed.group(2))
@@ -362,7 +368,7 @@ def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--locale", required=True, choices=["es-MX", "zh-Hans-CN"])
     parser.add_argument("--stage", required=True, choices=["00", "01", "02", "03", "04", "05", "06", "07"])
-    parser.add_argument("--expected-count", required=True, type=int, choices=[200, 400, 600, 800, 1000, 1200, 1400, 1600])
+    parser.add_argument("--expected-count", required=True, type=int, choices=[200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800])
     parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1],
                         help="source root (also permits isolated test fixtures)")
     args = parser.parse_args(argv)
@@ -377,7 +383,7 @@ def main(argv=None):
         coverage = (args.root / "coverage" / args.locale / (args.stage + ".md")).read_text(encoding="utf-8")
         errors = (check_records(records, args.expected_count, stage=args.stage, locale=args.locale)
                   + check_coverage(coverage, args.expected_count, args.stage, locale=args.locale))
-        for previous in ("00", "01", "02", "03", "04", "05"):
+        for previous in ("00", "01", "02", "03", "04", "05", "06"):
             if chinese and previous < args.stage:
                 earlier = load_source(args.root / "cards/zh-Hans-CN" / (previous + ".json"))
                 errors += check_cross_stage(earlier, records)

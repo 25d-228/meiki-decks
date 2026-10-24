@@ -101,6 +101,16 @@ shared 05/06 item against actual hidden IDs/ranges without altering accepted 05.
 This completes the assigned grouping, not the ten-stage language or an official
 syllabus, examination, vocabulary or proficiency claim.
 
+Chinese 07 adds exactly 1,800 ordered records at `cards/zh-Hans-CN/07.json`,
+`zh-07-0001`–`zh-07-1800`, deck `deck:zh-Hans-CN:07`, display name
+**Chinese 07 — Advanced lexical, rhetorical, and source precision**. Following
+accepted 00–06, delivered Chinese text reaches 7,000 cards/maps. This is shared
+§6.7 part A: advanced general/specialist lexical breadth, precise source relations,
+argument, formal writing, rhetoric, idioms/collocations and focused interaction,
+pronunciation/style and source-preserving editing components. Stage 08 retains
+its complete 1,800-card mediation/literary/cultural/regional/Traditional-recognition
+part B; neither the shared milestone nor the ten-stage language is complete at 07.
+
 | Required field | Meaning and constraint |
 | --- | --- |
 | `id` | Assigned nonempty unique ordered source ID. |
@@ -136,7 +146,7 @@ whole words and compact phrases. There is no arbitrary cloze-length limit:
 editorial review rejects whole propositions or nearly entire predicates and
 justifies compact fixed greetings with meaningful visible context.
 
-Chinese 00–06 require a nonempty `reading` on every card, including R: complete tone-marked
+Chinese 00–07 require a nonempty `reading` on every card, including R: complete tone-marked
 Pinyin of exactly the hidden span, with lexical tones, normal word segmentation,
 unmarked neutral syllables, and the actual contextual reading of polyphonic words.
 Do not silently replace lexical tones with connected-speech tones. Explain useful
@@ -397,6 +407,36 @@ exact target/lemma/operational lemma-meaning measures and D/S/V/I Han sets using
 the established methods. Keep shared working landmarks separate from source
 string counts, cited standard anchors and attained skills; 07–09 remain later work.
 
+Chinese 07 coverage is `coverage/zh-Hans-CN/07.md`, with exact allocations
+A 0001–0380 (380), B 0381–0650 (270), C 0651–0900 (250), D 0901–1140 (240),
+E 1141–1370 (230), F 1371–1590 (220), G 1591–1800 (210). A–E/G require P;
+only F permits R for actual attributed marked usage, with substantive
+`Source/register:` attribution, the marked input and relevant audience on the
+visible front, and a compatible natural Simplified hidden interpretation.
+Contemporary formal writing is not automatically R; no numeric R quota applies.
+Accepted 00–05 remains P-only, and 06 retains its F-only attributed-R rule.
+
+Use pinned `67-proficient-integration` or appropriate existing shared headings;
+earlier/later milestone anchors are outside 07's scope. Dependencies may cite
+valid accepted 00–06 IDs within their actual bounds and strictly earlier 07 IDs;
+self/forward/future, malformed, cross-language and invalid bounds fail. Ordered
+maps retain all ten columns. Chinese 07 loads all seven predecessor sources for
+conservative duplicate diagnostics, without earlier coverage, Spanish or media;
+earlier commands need no 07 files. Unsupported Chinese07/1200 stays invalid.
+
+Reconcile assigned part-A objectives against every shared §6.7 category using
+actual hidden IDs/ranges, complete accepted/current hidden inventories and full
+material dependency/novelty records/maps. Explicitly retain stage 08's mediation,
+literary viewpoint/stance, verified historical/cultural references, literary/social
+idioms, internet/media language, regional/dialect recognition, passive Traditional
+recognition with Simplified responses and further integrated discourse/style work.
+Report actual P/R counts/IDs, reference decisions/access limits, lexical/genre
+breadth, 1,800 new/7,000 cumulative cards/maps, exact NFC targets/lemmas/authored
+lemma-meaning pairs and D/S/V/I Han sets. These are source-position/string measures,
+not semantic segmentation, mastered vocabulary, recognized-character attainment
+or handwriting. Keep the advanced working landmarks and cited standard anchors
+separate; shared 07/08 reconciliation remains with 08 and whole-language with 09.
+
 The supported Chinese commands are:
 
 ```sh
@@ -407,11 +447,13 @@ python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 03 --expected-cou
 python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 04 --expected-count 1000
 python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 05 --expected-count 1000
 python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 06 --expected-count 1200
+python3 -B scripts/check_source.py --locale zh-Hans-CN --stage 07 --expected-count 1800
 ```
 
 Chinese supports only `zh-Hans-CN/00/200`, `zh-Hans-CN/01/400`,
 `zh-Hans-CN/02/600`, `zh-Hans-CN/03/800`, `zh-Hans-CN/04/1000`,
-`zh-Hans-CN/05/1000` and `zh-Hans-CN/06/1200` alongside the Spanish pairs above.
+`zh-Hans-CN/05/1000`, `zh-Hans-CN/06/1200` and `zh-Hans-CN/07/1800` alongside
+the Spanish pairs above. No Spanish/1800 or future Chinese stage/count pair is supported.
 Chinese 00 needs no later
 files. Chinese 01 loads accepted
 Chinese 00 source for conservative duplicate-ID/full-sentence diagnostics, but
@@ -421,7 +463,7 @@ with both accepted 00 and 01 sources, without their coverage, Spanish or media;
 01 remains independent of 02. Chinese 03 compares against each of all three
 accepted predecessor sources without their coverage, Spanish or media; 00–02
 remain independent of 03. Chinese 04 compares against all four predecessor
-sources; Chinese 05 compares against all five and 06 against all six. Other locale/stage/count
+sources; Chinese 05 compares against all five, 06 against all six and 07 against all seven. Other locale/stage/count
 combinations fail before loading files.
 No semantic tokenizer, Pinyin converter or Simplified conversion is introduced;
 Pinyin accuracy, genuine novelty, semantic boundaries and naturalness remain
@@ -589,6 +631,47 @@ whitespace. Fix final bytes before computing each new SHA-256 once, then compare
 index/commit bytes with those snapshots. No routine local full workflow, repeated
 accepted-content audit or per-batch hashes/commits.
 
+Chinese 07's focused local command is:
+
+```sh
+python3 -B -m unittest discover -s tests -p test_chinese_source.py -k ChineseStage07Tests
+```
+
+Preserve all 161 existing fixture methods and the Spanish module. Existing
+unsupported Chinese07/1200 tuples remain unchanged: this stage requires 1800.
+Append independently transcribed fixtures for all block endpoints, exact source/
+map integrity, pinned anchors, readings/retained invariants, F-only attributed R,
+seven-predecessor dependency bounds, separate missing/duplicate diagnostics,
+isolated source-only success, rejected CLI pairs before loading, and earlier-stage
+independence/roles. CI retains fourteen real-stage commands and adds 07 as the
+fifteenth; use normal exact-head CI for the complete repository suite.
+
+Normally use 45 sequential fresh Sol 6.1 author/editor pairs, then one exhaustive
+final pass in consecutive 0001–0400, 0401–0800, 0801–1200, 1201–1600 and
+1601–1800 partitions. Before every launch verify actual prior ingestion/resolution,
+complete required context, all source fields/optional presence and ten mapping
+cells. Supply complete accepted/current hidden inventory and actual full material
+dependency/novelty records; final reviewers receive every assigned record/map,
+complete current inventory, reconciliation and relevant full outside support.
+Measure actual prompt-plus-schema characters and UTF-16 units against 1,048,576;
+use only verified lossless transport and subdivide only pending ranges if needed.
+Retain actual CLI exit, normal completion events, structured-result agreement,
+stderr, distinct thread identity and outer-wrapper completion separately.
+Reuse authorized environment evidence unless changed or invalidated, and enforce
+the per-invocation Firecrawl/plugin startup suppression before every call.
+
+During Chinese07 ingestion use `check_records(new_records, count, first,
+stage="07", locale="zh-Hans-CN")` plus cheap changed-map/role/dependency and
+incremental duplicate checks. After the complete final pass, apply verified
+findings together, inspect affected records/maps, then run focused fixtures and one
+consolidated source/count/order/range/coverage/allocation/P-R/dependency/all-seven-
+predecessor-duplicate/39-protected-file comparison. Also preserve the Spanish
+fixture bytes and every earlier Chinese fixture AST definition. Compile in memory
+and check whitespace once at completion. Reproduce final 07/cumulative source-string
+measures once; compute each fixed new file's SHA-256 once, retain byte snapshots
+and compare index/commit bytes. No repeated audits, local full workflow, unchanged
+historical hashes or per-batch commits.
+
 During ingestion, reuse `check_records(new_records, expected_count, first, stage="07")`
 for new/changed consecutive 07 records (use the actual stage for 02–06; omit for 01), plus
 incremental comparisons with actual accepted inventory in all preceding Spanish stages.
@@ -604,4 +687,5 @@ Chinese 03 and its new fixtures use `/tmp/meiki-decks-zh-03/`;
 Chinese 04 and its new fixtures use `/tmp/meiki-decks-zh-04/`;
 Chinese 05 and its new fixtures use `/tmp/meiki-decks-zh-05/`;
 Chinese 06 and its new fixtures use `/tmp/meiki-decks-zh-06/`;
+Chinese 07 and its new fixtures use `/tmp/meiki-decks-zh-07/`;
 unchanged Spanish fixtures retain `/tmp/meiki-decks-es-07/`.
