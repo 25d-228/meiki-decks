@@ -1,0 +1,3959 @@
+[
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0001",
+      "locale": "ja-JP",
+      "sentence": "先生、おはようございます。",
+      "cloze": "おはようございます",
+      "answer": "おはようございます",
+      "accepted_answers": [],
+      "lemma": "おはようございます",
+      "meaning": "good morning",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "おはようございます",
+      "learning_role": "production",
+      "usage": "A polite morning greeting; 先生 (せんせい) means teacher."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0002",
+      "locale": "ja-JP",
+      "sentence": "こんにちは、田中さん。",
+      "cloze": "こんにちは",
+      "answer": "こんにちは",
+      "accepted_answers": [],
+      "lemma": "こんにちは",
+      "meaning": "hello",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "こんにちわ",
+      "learning_role": "production",
+      "pronunciation": "The final は is pronounced わ in this greeting.",
+      "usage": "A daytime greeting; さん is a respectful suffix used after a name. 田中 is read たなか."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0003",
+      "locale": "ja-JP",
+      "sentence": "こんばんは、山田さん。",
+      "cloze": "こんばんは",
+      "answer": "こんばんは",
+      "accepted_answers": [],
+      "lemma": "こんばんは",
+      "meaning": "good evening",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "こんばんわ",
+      "learning_role": "production",
+      "pronunciation": "The final は is pronounced わ in this greeting.",
+      "usage": "山田 is read やまだ; さん is a respectful suffix used after a name."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0004",
+      "locale": "ja-JP",
+      "sentence": "おやすみなさい、またあした。",
+      "cloze": "おやすみなさい",
+      "answer": "おやすみなさい",
+      "accepted_answers": [],
+      "lemma": "おやすみなさい",
+      "meaning": "good night",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "おやすみなさい",
+      "learning_role": "production",
+      "usage": "Said when parting for the night or before sleep."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0005",
+      "locale": "ja-JP",
+      "sentence": "ありがとう、たすかったよ。",
+      "cloze": "ありがとう",
+      "answer": "ありがとう",
+      "accepted_answers": [],
+      "lemma": "ありがとう",
+      "meaning": "thank you",
+      "part_of_speech": "expression",
+      "register": "casual"
+    },
+    "language_specific": {
+      "target_reading": "ありがとう",
+      "learning_role": "production",
+      "usage": "A casual way to thank someone; たすかった means their help made a difference."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0006",
+      "locale": "ja-JP",
+      "sentence": "すみません、えきはどこですか。",
+      "cloze": "すみません",
+      "answer": "すみません",
+      "accepted_answers": [],
+      "lemma": "すみません",
+      "meaning": "excuse me",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "すみません",
+      "learning_role": "production",
+      "usage": "Used here to get someone's attention politely before a question."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0007",
+      "locale": "ja-JP",
+      "sentence": "ごめんなさい、おくれました。",
+      "cloze": "ごめんなさい",
+      "answer": "ごめんなさい",
+      "accepted_answers": [],
+      "lemma": "ごめんなさい",
+      "meaning": "I'm sorry",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "ごめんなさい",
+      "learning_role": "production",
+      "usage": "An apology; おくれました means that the speaker was late."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0008",
+      "locale": "ja-JP",
+      "sentence": "じゃあ、またね。",
+      "cloze": "またね",
+      "answer": "またね",
+      "accepted_answers": [],
+      "lemma": "またね",
+      "meaning": "see you",
+      "part_of_speech": "expression",
+      "register": "casual"
+    },
+    "language_specific": {
+      "target_reading": "またね",
+      "learning_role": "production",
+      "usage": "A casual farewell suggesting that you will see the other person again."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0009",
+      "locale": "ja-JP",
+      "sentence": "はじめまして、さとうです。",
+      "cloze": "はじめまして",
+      "answer": "はじめまして",
+      "accepted_answers": [],
+      "lemma": "はじめまして",
+      "meaning": "nice to meet you",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "はじめまして",
+      "learning_role": "production",
+      "usage": "Said on meeting someone for the first time."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0010",
+      "locale": "ja-JP",
+      "sentence": "わたしは、さとうです。",
+      "cloze": "わたし",
+      "answer": "わたし",
+      "accepted_answers": [],
+      "lemma": "わたし",
+      "meaning": "I",
+      "part_of_speech": "pronoun",
+      "note": "は marks the topic and is pronounced わ; です politely identifies it."
+    },
+    "language_specific": {
+      "target_reading": "わたし",
+      "learning_role": "production",
+      "usage": "A broadly usable first-person pronoun; it is often omitted when understood."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0011",
+      "locale": "ja-JP",
+      "sentence": "わたしはがくせいです。",
+      "cloze": "がくせい",
+      "answer": "がくせい",
+      "accepted_answers": [],
+      "lemma": "がくせい",
+      "meaning": "student",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "がくせい",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0012",
+      "locale": "ja-JP",
+      "sentence": "あの人は先生です。",
+      "cloze": "先生",
+      "answer": "先生",
+      "accepted_answers": [],
+      "lemma": "先生",
+      "meaning": "teacher",
+      "part_of_speech": "noun",
+      "note": "あの人 (あのひと) means that person."
+    },
+    "language_specific": {
+      "target_reading": "せんせい",
+      "learning_role": "production",
+      "usage": "Here 先生 identifies someone's occupation."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0013",
+      "locale": "ja-JP",
+      "sentence": "これはわたしのほんです。",
+      "cloze": "ほん",
+      "answer": "ほん",
+      "accepted_answers": [],
+      "lemma": "ほん",
+      "meaning": "book",
+      "part_of_speech": "noun",
+      "note": "これは means as for this; の links the book to its owner."
+    },
+    "language_specific": {
+      "target_reading": "ほん",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0014",
+      "locale": "ja-JP",
+      "sentence": "これはかぎですか。",
+      "cloze": "かぎ",
+      "answer": "かぎ",
+      "accepted_answers": [],
+      "lemma": "かぎ",
+      "meaning": "key",
+      "part_of_speech": "noun",
+      "note": "か at the end makes this a polite question."
+    },
+    "language_specific": {
+      "target_reading": "かぎ",
+      "learning_role": "production",
+      "pronunciation": "ぎ has a voiced consonant, unlike き."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0015",
+      "locale": "ja-JP",
+      "sentence": "それはなんですか。",
+      "cloze": "なん",
+      "answer": "なん",
+      "accepted_answers": [],
+      "lemma": "何",
+      "meaning": "what",
+      "part_of_speech": "pronoun"
+    },
+    "language_specific": {
+      "target_reading": "なん",
+      "learning_role": "production",
+      "usage": "なん is the form of 何 used before です in this question."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0016",
+      "locale": "ja-JP",
+      "sentence": "これはわたしのかさです。",
+      "cloze": "これ",
+      "answer": "これ",
+      "accepted_answers": [],
+      "lemma": "これ",
+      "meaning": "this",
+      "part_of_speech": "pronoun"
+    },
+    "language_specific": {
+      "target_reading": "これ",
+      "learning_role": "production",
+      "usage": "Refers to a thing near the speaker."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0017",
+      "locale": "ja-JP",
+      "sentence": "それはだれのかばんですか。",
+      "cloze": "だれ",
+      "answer": "だれ",
+      "accepted_answers": [],
+      "lemma": "だれ",
+      "meaning": "who",
+      "part_of_speech": "pronoun",
+      "note": "だれの asks whose; かばん means bag."
+    },
+    "language_specific": {
+      "target_reading": "だれ",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0018",
+      "locale": "ja-JP",
+      "sentence": "えきはどこですか。",
+      "cloze": "どこ",
+      "answer": "どこ",
+      "accepted_answers": [],
+      "lemma": "どこ",
+      "meaning": "where",
+      "part_of_speech": "pronoun",
+      "note": "えき means station."
+    },
+    "language_specific": {
+      "target_reading": "どこ",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0019",
+      "locale": "ja-JP",
+      "sentence": "ここはとしょかんです。",
+      "cloze": "ここ",
+      "answer": "ここ",
+      "accepted_answers": [],
+      "lemma": "ここ",
+      "meaning": "here",
+      "part_of_speech": "pronoun",
+      "note": "としょかん means library."
+    },
+    "language_specific": {
+      "target_reading": "ここ",
+      "learning_role": "production",
+      "usage": "Refers to a place near the speaker."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0020",
+      "locale": "ja-JP",
+      "sentence": "いえはえきのそばです。",
+      "cloze": "いえ",
+      "answer": "いえ",
+      "accepted_answers": [],
+      "lemma": "いえ",
+      "meaning": "home",
+      "part_of_speech": "noun",
+      "note": "えきのそば means near the station."
+    },
+    "language_specific": {
+      "target_reading": "いえ",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0021",
+      "locale": "ja-JP",
+      "sentence": "にわにいぬがいます。",
+      "cloze": "いぬ",
+      "answer": "いぬ",
+      "accepted_answers": [],
+      "lemma": "いぬ",
+      "meaning": "dog",
+      "part_of_speech": "noun",
+      "note": "にわに means in the garden; います indicates an animate being is there."
+    },
+    "language_specific": {
+      "target_reading": "いぬ",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0022",
+      "locale": "ja-JP",
+      "sentence": "ねこがいすにいます。",
+      "cloze": "ねこ",
+      "answer": "ねこ",
+      "accepted_answers": [],
+      "lemma": "ねこ",
+      "meaning": "cat",
+      "part_of_speech": "noun",
+      "note": "いすにいます means is on the chair."
+    },
+    "language_specific": {
+      "target_reading": "ねこ",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0023",
+      "locale": "ja-JP",
+      "sentence": "ははがすきです。",
+      "cloze": "はは",
+      "answer": "はは",
+      "accepted_answers": [],
+      "lemma": "はは",
+      "meaning": "my mother",
+      "part_of_speech": "noun",
+      "note": "The speaker says they like their mother."
+    },
+    "language_specific": {
+      "target_reading": "はは",
+      "learning_role": "production",
+      "usage": "Used for one's own mother when speaking to someone outside the family."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0024",
+      "locale": "ja-JP",
+      "sentence": "ちちはいま、いえです。",
+      "cloze": "ちち",
+      "answer": "ちち",
+      "accepted_answers": [],
+      "lemma": "ちち",
+      "meaning": "my father",
+      "part_of_speech": "noun",
+      "note": "いま、いえです means is at home now."
+    },
+    "language_specific": {
+      "target_reading": "ちち",
+      "learning_role": "production",
+      "usage": "Used for one's own father when speaking to someone outside the family."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0025",
+      "locale": "ja-JP",
+      "sentence": "ともだちとえきであいます。",
+      "cloze": "ともだち",
+      "answer": "ともだち",
+      "accepted_answers": [],
+      "lemma": "ともだち",
+      "meaning": "friend",
+      "part_of_speech": "noun",
+      "note": "と marks the person met; えきであいます means meet at the station."
+    },
+    "language_specific": {
+      "target_reading": "ともだち",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0026",
+      "locale": "ja-JP",
+      "sentence": "おみずをください。",
+      "cloze": "おみず",
+      "answer": "おみず",
+      "accepted_answers": [],
+      "lemma": "おみず",
+      "meaning": "water",
+      "part_of_speech": "noun",
+      "note": "をください is a polite way to request something."
+    },
+    "language_specific": {
+      "target_reading": "おみず",
+      "learning_role": "production",
+      "usage": "The prefix お makes みず sound more polite in this request."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0027",
+      "locale": "ja-JP",
+      "sentence": "あたたかいおちゃです。",
+      "cloze": "おちゃ",
+      "answer": "おちゃ",
+      "accepted_answers": [],
+      "lemma": "おちゃ",
+      "meaning": "tea",
+      "part_of_speech": "noun",
+      "note": "あたたかい means warm."
+    },
+    "language_specific": {
+      "target_reading": "おちゃ",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0028",
+      "locale": "ja-JP",
+      "sentence": "あさはパンをたべます。",
+      "cloze": "あさ",
+      "answer": "あさ",
+      "accepted_answers": [],
+      "lemma": "あさ",
+      "meaning": "morning",
+      "part_of_speech": "noun",
+      "note": "パン (ぱん) をたべます means eat bread."
+    },
+    "language_specific": {
+      "target_reading": "あさ",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0029",
+      "locale": "ja-JP",
+      "sentence": "ひるにごはんをたべます。",
+      "cloze": "ごはん",
+      "answer": "ごはん",
+      "accepted_answers": [],
+      "lemma": "ごはん",
+      "meaning": "a meal",
+      "part_of_speech": "noun",
+      "note": "ひるに means at midday; たべます means eat."
+    },
+    "language_specific": {
+      "target_reading": "ごはん",
+      "learning_role": "production",
+      "usage": "ごはん can mean cooked rice or a meal; either interpretation is possible here."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0030",
+      "locale": "ja-JP",
+      "sentence": "りんごがすきです。",
+      "cloze": "すき",
+      "answer": "すき",
+      "accepted_answers": [],
+      "lemma": "すき",
+      "meaning": "like",
+      "part_of_speech": "na-adjective",
+      "note": "が marks the thing liked; です makes the statement polite."
+    },
+    "language_specific": {
+      "target_reading": "すき",
+      "learning_role": "production",
+      "usage": "Expresses a preference; the person who likes something is understood here."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0031",
+      "locale": "ja-JP",
+      "sentence": "このみかんはあまいです。",
+      "cloze": "あまい",
+      "answer": "あまい",
+      "accepted_answers": [],
+      "lemma": "あまい",
+      "meaning": "sweet",
+      "part_of_speech": "i-adjective",
+      "note": "このみかん means this mandarin."
+    },
+    "language_specific": {
+      "target_reading": "あまい",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0032",
+      "locale": "ja-JP",
+      "sentence": "このおちゃはあついです。",
+      "cloze": "あつい",
+      "answer": "あつい",
+      "accepted_answers": [],
+      "lemma": "あつい",
+      "meaning": "hot",
+      "part_of_speech": "i-adjective",
+      "note": "このおちゃ means this tea."
+    },
+    "language_specific": {
+      "target_reading": "あつい",
+      "learning_role": "production",
+      "usage": "Describes the temperature of the tea."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0033",
+      "locale": "ja-JP",
+      "sentence": "きょうはあめです。",
+      "cloze": "あめ",
+      "answer": "あめ",
+      "accepted_answers": [],
+      "lemma": "あめ",
+      "meaning": "rain",
+      "part_of_speech": "noun",
+      "note": "きょうは means as for today."
+    },
+    "language_specific": {
+      "target_reading": "あめ",
+      "learning_role": "production",
+      "usage": "In this weather statement, あめ means rain."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0034",
+      "locale": "ja-JP",
+      "sentence": "あしたはやすみです。",
+      "cloze": "あした",
+      "answer": "あした",
+      "accepted_answers": [],
+      "lemma": "あした",
+      "meaning": "tomorrow",
+      "part_of_speech": "noun",
+      "note": "やすみです means it is a day off."
+    },
+    "language_specific": {
+      "target_reading": "あした",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0035",
+      "locale": "ja-JP",
+      "sentence": "はい、がくせいです。",
+      "cloze": "はい",
+      "answer": "はい",
+      "accepted_answers": [],
+      "lemma": "はい",
+      "meaning": "yes",
+      "part_of_speech": "interjection",
+      "note": "がくせいです means someone is a student; the person is understood from context."
+    },
+    "language_specific": {
+      "target_reading": "はい",
+      "learning_role": "production",
+      "usage": "A polite affirmative response to a question or statement."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0036",
+      "locale": "ja-JP",
+      "sentence": "いいえ、先生ではありません。",
+      "cloze": "いいえ",
+      "answer": "いいえ",
+      "accepted_answers": [],
+      "lemma": "いいえ",
+      "meaning": "no",
+      "part_of_speech": "interjection",
+      "note": "先生ではありません means someone is not a teacher; the person is understood from context."
+    },
+    "language_specific": {
+      "target_reading": "いいえ",
+      "learning_role": "production",
+      "usage": "A polite negative response to a question or statement."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0037",
+      "locale": "ja-JP",
+      "sentence": "おちゃをください。",
+      "cloze": "ください",
+      "answer": "ください",
+      "accepted_answers": [],
+      "lemma": "ください",
+      "meaning": "please give me",
+      "part_of_speech": "expression",
+      "note": "を marks the item requested."
+    },
+    "language_specific": {
+      "target_reading": "ください",
+      "learning_role": "production",
+      "usage": "Used after a noun marked by を to make a polite request."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0038",
+      "locale": "ja-JP",
+      "sentence": "ごはん、いただきます。",
+      "cloze": "いただきます",
+      "answer": "いただきます",
+      "accepted_answers": [],
+      "lemma": "いただきます",
+      "meaning": "said before eating",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "いただきます",
+      "learning_role": "production",
+      "usage": "Conventionally said before starting a meal."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0039",
+      "locale": "ja-JP",
+      "sentence": "おいしかった。ごちそうさま。",
+      "cloze": "ごちそうさま",
+      "answer": "ごちそうさま",
+      "accepted_answers": [],
+      "lemma": "ごちそうさま",
+      "meaning": "thank you for the meal",
+      "part_of_speech": "expression",
+      "note": "おいしかった means it was delicious."
+    },
+    "language_specific": {
+      "target_reading": "ごちそうさま",
+      "learning_role": "production",
+      "usage": "Conventionally said after a meal; ごちそうさまでした is more polite."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0040",
+      "locale": "ja-JP",
+      "sentence": "いってきます、またあとで。",
+      "cloze": "いってきます",
+      "answer": "いってきます",
+      "accepted_answers": [],
+      "lemma": "いってきます",
+      "meaning": "I'm off",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "いってきます",
+      "learning_role": "production",
+      "usage": "Said when leaving a place to which one expects to return."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0041",
+      "locale": "ja-JP",
+      "sentence": "わたしはマンションにすんでいます。",
+      "cloze": "マンション",
+      "answer": "マンション",
+      "accepted_answers": [],
+      "lemma": "マンション",
+      "meaning": "apartment building",
+      "part_of_speech": "noun",
+      "note": "すんでいます means 'live' in a place."
+    },
+    "language_specific": {
+      "target_reading": "まんしょん",
+      "learning_role": "production",
+      "pronunciation": "The small ョ combines with シ; ン counts as one mora each time.",
+      "usage": "In Japanese, マンション usually means an apartment building, not a mansion."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0042",
+      "locale": "ja-JP",
+      "sentence": "コンセントはどこにありますか。",
+      "cloze": "コンセント",
+      "answer": "コンセント",
+      "accepted_answers": [],
+      "lemma": "コンセント",
+      "meaning": "electrical outlet",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "こんせんと",
+      "learning_role": "production",
+      "pronunciation": "Each ン counts as one mora.",
+      "usage": "This means an electrical outlet or socket."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0043",
+      "locale": "ja-JP",
+      "sentence": "ペットボトルのおみずをください。",
+      "cloze": "ペットボトル",
+      "answer": "ペットボトル",
+      "accepted_answers": [],
+      "lemma": "ペットボトル",
+      "meaning": "plastic drink bottle",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "ぺっとぼとる",
+      "learning_role": "production",
+      "pronunciation": "The small ッ indicates a lengthened consonant in ト; ペ has a handakuten and ボ has a dakuten.",
+      "usage": "This refers to a PET drink bottle. When typing, select the small ッ rather than a full-size ツ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0044",
+      "locale": "ja-JP",
+      "sentence": "スーパーでパンをかいます。",
+      "cloze": "スーパー",
+      "answer": "スーパー",
+      "accepted_answers": [],
+      "lemma": "スーパー",
+      "meaning": "supermarket",
+      "part_of_speech": "noun",
+      "note": "かいます means 'buy'."
+    },
+    "language_specific": {
+      "target_reading": "すーぱー",
+      "learning_role": "production",
+      "pronunciation": "Both vowels marked by ー are long.",
+      "usage": "スーパー commonly means a supermarket. Include both long-vowel marks when typing."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0045",
+      "locale": "ja-JP",
+      "sentence": "バスでえきにいきます。",
+      "cloze": "バス",
+      "answer": "バス",
+      "accepted_answers": [],
+      "lemma": "バス",
+      "meaning": "bus",
+      "part_of_speech": "noun",
+      "note": "いきます means 'go'; で marks the means of transport."
+    },
+    "language_specific": {
+      "target_reading": "ばす",
+      "learning_role": "production",
+      "pronunciation": "バ is voiced and written with dakuten."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0046",
+      "locale": "ja-JP",
+      "sentence": "えきでタクシーにのります。",
+      "cloze": "タクシー",
+      "answer": "タクシー",
+      "accepted_answers": [],
+      "lemma": "タクシー",
+      "meaning": "taxi",
+      "part_of_speech": "noun",
+      "note": "にのります means 'get into' a vehicle here."
+    },
+    "language_specific": {
+      "target_reading": "たくしー",
+      "learning_role": "production",
+      "pronunciation": "The final シー has a long vowel."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0047",
+      "locale": "ja-JP",
+      "sentence": "テレビをみますか。",
+      "cloze": "テレビ",
+      "answer": "テレビ",
+      "accepted_answers": [],
+      "lemma": "テレビ",
+      "meaning": "television",
+      "part_of_speech": "noun",
+      "note": "みます means 'watch' here."
+    },
+    "language_specific": {
+      "target_reading": "てれび",
+      "learning_role": "production",
+      "pronunciation": "The final ビ is voiced; there is no long vowel."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0048",
+      "locale": "ja-JP",
+      "sentence": "あさ、ラジオをききます。",
+      "cloze": "ラジオ",
+      "answer": "ラジオ",
+      "accepted_answers": [],
+      "lemma": "ラジオ",
+      "meaning": "radio",
+      "part_of_speech": "noun",
+      "note": "ききます means 'listen to' here."
+    },
+    "language_specific": {
+      "target_reading": "らじお",
+      "learning_role": "production",
+      "pronunciation": "ジ and オ form separate morae."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0049",
+      "locale": "ja-JP",
+      "sentence": "スマホはかばんのなかです。",
+      "cloze": "スマホ",
+      "answer": "スマホ",
+      "accepted_answers": [],
+      "lemma": "スマホ",
+      "meaning": "smartphone",
+      "part_of_speech": "noun",
+      "note": "なか means 'inside'."
+    },
+    "language_specific": {
+      "target_reading": "すまほ",
+      "learning_role": "production",
+      "usage": "スマホ is a common short form of スマートフォン."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0050",
+      "locale": "ja-JP",
+      "sentence": "パソコンをつかいます。",
+      "cloze": "パソコン",
+      "answer": "パソコン",
+      "accepted_answers": [],
+      "lemma": "パソコン",
+      "meaning": "personal computer",
+      "part_of_speech": "noun",
+      "note": "つかいます means 'use'."
+    },
+    "language_specific": {
+      "target_reading": "ぱそこん",
+      "learning_role": "production",
+      "pronunciation": "パ has a handakuten; the final ン counts as one mora.",
+      "usage": "パソコン is the usual word for a personal computer."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0051",
+      "locale": "ja-JP",
+      "sentence": "このアプリはべんりです。",
+      "cloze": "アプリ",
+      "answer": "アプリ",
+      "accepted_answers": [],
+      "lemma": "アプリ",
+      "meaning": "app",
+      "part_of_speech": "noun",
+      "note": "べんり means 'convenient' or 'useful'."
+    },
+    "language_specific": {
+      "target_reading": "あぷり",
+      "learning_role": "production",
+      "pronunciation": "プ has a handakuten.",
+      "usage": "アプリ is a common short form for a software application."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0052",
+      "locale": "ja-JP",
+      "sentence": "ともだちにメールをおくります。",
+      "cloze": "メール",
+      "answer": "メール",
+      "accepted_answers": [],
+      "lemma": "メール",
+      "meaning": "email",
+      "part_of_speech": "noun",
+      "note": "おくります means 'send'; に marks the recipient."
+    },
+    "language_specific": {
+      "target_reading": "めーる",
+      "learning_role": "production",
+      "pronunciation": "メー has a long vowel.",
+      "usage": "メール commonly means an email or electronic message."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0053",
+      "locale": "ja-JP",
+      "sentence": "このページのコピーをください。",
+      "cloze": "コピー",
+      "answer": "コピー",
+      "accepted_answers": [],
+      "lemma": "コピー",
+      "meaning": "copy",
+      "part_of_speech": "noun",
+      "note": "ページ means 'page'."
+    },
+    "language_specific": {
+      "target_reading": "こぴー",
+      "learning_role": "production",
+      "pronunciation": "ピー has a long vowel and a handakuten."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0054",
+      "locale": "ja-JP",
+      "sentence": "カメラでねこをとります。",
+      "cloze": "カメラ",
+      "answer": "カメラ",
+      "accepted_answers": [],
+      "lemma": "カメラ",
+      "meaning": "camera",
+      "part_of_speech": "noun",
+      "note": "とります means 'take a picture' here."
+    },
+    "language_specific": {
+      "target_reading": "かめら",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0055",
+      "locale": "ja-JP",
+      "sentence": "かぎはポケットにあります。",
+      "cloze": "ポケット",
+      "answer": "ポケット",
+      "accepted_answers": [],
+      "lemma": "ポケット",
+      "meaning": "pocket",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "ぽけっと",
+      "learning_role": "production",
+      "pronunciation": "The small ッ indicates a lengthened consonant in ト; ポ has a handakuten.",
+      "usage": "When typing, select the small ッ rather than a full-size ツ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0056",
+      "locale": "ja-JP",
+      "sentence": "ねこはベッドのうえにいます。",
+      "cloze": "ベッド",
+      "answer": "ベッド",
+      "accepted_answers": [],
+      "lemma": "ベッド",
+      "meaning": "bed",
+      "part_of_speech": "noun",
+      "note": "うえ means 'on top'."
+    },
+    "language_specific": {
+      "target_reading": "べっど",
+      "learning_role": "production",
+      "pronunciation": "The small ッ indicates a lengthened consonant in ド; ベ and ド have dakuten."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0057",
+      "locale": "ja-JP",
+      "sentence": "ソファにすわります。",
+      "cloze": "ソファ",
+      "answer": "ソファ",
+      "accepted_answers": [],
+      "lemma": "ソファ",
+      "meaning": "sofa",
+      "part_of_speech": "noun",
+      "note": "にすわります means 'sit on' here."
+    },
+    "language_specific": {
+      "target_reading": "そふぁ",
+      "learning_role": "production",
+      "pronunciation": "ファ is one mora, made with フ and a small ァ.",
+      "usage": "When typing, select the small ァ rather than a full-size ア."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0058",
+      "locale": "ja-JP",
+      "sentence": "しろいシャツをきます。",
+      "cloze": "シャツ",
+      "answer": "シャツ",
+      "accepted_answers": [],
+      "lemma": "シャツ",
+      "meaning": "shirt",
+      "part_of_speech": "noun",
+      "note": "しろい means 'white'; きます means 'put on' here."
+    },
+    "language_specific": {
+      "target_reading": "しゃつ",
+      "learning_role": "production",
+      "pronunciation": "シャ is one mora, made with シ and a small ャ.",
+      "usage": "When typing, select the small ャ rather than a full-size ヤ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0059",
+      "locale": "ja-JP",
+      "sentence": "さむいです。コートをきます。",
+      "cloze": "コート",
+      "answer": "コート",
+      "accepted_answers": [],
+      "lemma": "コート",
+      "meaning": "coat",
+      "part_of_speech": "noun",
+      "note": "さむい means 'cold'; きます means 'put on'."
+    },
+    "language_specific": {
+      "target_reading": "こーと",
+      "learning_role": "production",
+      "pronunciation": "コー has a long vowel."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0060",
+      "locale": "ja-JP",
+      "sentence": "このセーターはあたたかいです。",
+      "cloze": "セーター",
+      "answer": "セーター",
+      "accepted_answers": [],
+      "lemma": "セーター",
+      "meaning": "sweater",
+      "part_of_speech": "noun",
+      "note": "あたたかい means 'warm'."
+    },
+    "language_specific": {
+      "target_reading": "せーたー",
+      "learning_role": "production",
+      "pronunciation": "Both vowels marked by ー are long."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0061",
+      "locale": "ja-JP",
+      "sentence": "このジャケットをください。",
+      "cloze": "ジャケット",
+      "answer": "ジャケット",
+      "accepted_answers": [],
+      "lemma": "ジャケット",
+      "meaning": "jacket",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "じゃけっと",
+      "learning_role": "production",
+      "pronunciation": "ジャ is one mora; the small ッ indicates a lengthened consonant in ト.",
+      "usage": "When typing, use small ャ and small ッ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0062",
+      "locale": "ja-JP",
+      "sentence": "つめたいジュースをください。",
+      "cloze": "ジュース",
+      "answer": "ジュース",
+      "accepted_answers": [],
+      "lemma": "ジュース",
+      "meaning": "juice",
+      "part_of_speech": "noun",
+      "note": "つめたい means 'cold' to the touch or taste."
+    },
+    "language_specific": {
+      "target_reading": "じゅーす",
+      "learning_role": "production",
+      "pronunciation": "ジ and small ュ combine; ー makes the vowel long.",
+      "usage": "ジュース can also refer broadly to sweet soft drinks, depending on context."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0063",
+      "locale": "ja-JP",
+      "sentence": "パンにチーズをのせます。",
+      "cloze": "チーズ",
+      "answer": "チーズ",
+      "accepted_answers": [],
+      "lemma": "チーズ",
+      "meaning": "cheese",
+      "part_of_speech": "noun",
+      "note": "のせます means 'put on top'."
+    },
+    "language_specific": {
+      "target_reading": "ちーず",
+      "learning_role": "production",
+      "pronunciation": "チー has a long vowel; ズ is voiced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0064",
+      "locale": "ja-JP",
+      "sentence": "スーパーでパンをえらびます。",
+      "cloze": "パン",
+      "answer": "パン",
+      "accepted_answers": [],
+      "lemma": "パン",
+      "meaning": "bread",
+      "part_of_speech": "noun",
+      "note": "えらびます means 'choose'."
+    },
+    "language_specific": {
+      "target_reading": "ぱん",
+      "learning_role": "production",
+      "pronunciation": "パ has a handakuten; ン counts as one mora.",
+      "usage": "パン means bread, not a cooking pan."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0065",
+      "locale": "ja-JP",
+      "sentence": "ケーキとおちゃをください。",
+      "cloze": "ケーキ",
+      "answer": "ケーキ",
+      "accepted_answers": [],
+      "lemma": "ケーキ",
+      "meaning": "cake",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "けーき",
+      "learning_role": "production",
+      "pronunciation": "ケー has a long vowel."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0066",
+      "locale": "ja-JP",
+      "sentence": "このチョコはあまいです。",
+      "cloze": "チョコ",
+      "answer": "チョコ",
+      "accepted_answers": [],
+      "lemma": "チョコ",
+      "meaning": "chocolate",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "ちょこ",
+      "learning_role": "production",
+      "pronunciation": "チョ is one mora, made with チ and a small ョ.",
+      "usage": "チョコ is a common short form of チョコレート. When typing, select the small ョ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0067",
+      "locale": "ja-JP",
+      "sentence": "サンドイッチをたべますか。",
+      "cloze": "サンドイッチ",
+      "answer": "サンドイッチ",
+      "accepted_answers": [],
+      "lemma": "サンドイッチ",
+      "meaning": "sandwich",
+      "part_of_speech": "noun",
+      "note": "たべます means 'eat'."
+    },
+    "language_specific": {
+      "target_reading": "さんどいっち",
+      "learning_role": "production",
+      "pronunciation": "ン counts as one mora, and the small ッ indicates a lengthened consonant in チ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0068",
+      "locale": "ja-JP",
+      "sentence": "あついコーヒーをのみます。",
+      "cloze": "コーヒー",
+      "answer": "コーヒー",
+      "accepted_answers": [],
+      "lemma": "コーヒー",
+      "meaning": "coffee",
+      "part_of_speech": "noun",
+      "note": "のみます means 'drink'."
+    },
+    "language_specific": {
+      "target_reading": "こーひー",
+      "learning_role": "production",
+      "pronunciation": "Both vowels marked by ー are long.",
+      "usage": "Include both long-vowel marks when typing."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0069",
+      "locale": "ja-JP",
+      "sentence": "コップにおみずをいれます。",
+      "cloze": "コップ",
+      "answer": "コップ",
+      "accepted_answers": [],
+      "lemma": "コップ",
+      "meaning": "drinking glass",
+      "part_of_speech": "noun",
+      "note": "いれます means 'put in' or 'pour into' here."
+    },
+    "language_specific": {
+      "target_reading": "こっぷ",
+      "learning_role": "production",
+      "pronunciation": "The small ッ indicates a lengthened consonant in プ, which has a handakuten.",
+      "usage": "コップ commonly means a drinking glass or tumbler."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0070",
+      "locale": "ja-JP",
+      "sentence": "スプーンをください。",
+      "cloze": "スプーン",
+      "answer": "スプーン",
+      "accepted_answers": [],
+      "lemma": "スプーン",
+      "meaning": "spoon",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "すぷーん",
+      "learning_role": "production",
+      "pronunciation": "プー has a long vowel; the final ン counts as one mora."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0071",
+      "locale": "ja-JP",
+      "sentence": "ケーキはフォークでたべます。",
+      "cloze": "フォーク",
+      "answer": "フォーク",
+      "accepted_answers": [],
+      "lemma": "フォーク",
+      "meaning": "fork",
+      "part_of_speech": "noun",
+      "note": "で marks the utensil; たべます means 'eat'."
+    },
+    "language_specific": {
+      "target_reading": "ふぉーく",
+      "learning_role": "production",
+      "pronunciation": "フォ uses a small ォ, and its vowel is long.",
+      "usage": "When typing, select the small ォ rather than a full-size オ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0072",
+      "locale": "ja-JP",
+      "sentence": "ナイフをください。",
+      "cloze": "ナイフ",
+      "answer": "ナイフ",
+      "accepted_answers": [],
+      "lemma": "ナイフ",
+      "meaning": "knife",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "ないふ",
+      "learning_role": "production",
+      "pronunciation": "ナ and イ form separate morae."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0073",
+      "locale": "ja-JP",
+      "sentence": "レストランはえきのまえです。",
+      "cloze": "レストラン",
+      "answer": "レストラン",
+      "accepted_answers": [],
+      "lemma": "レストラン",
+      "meaning": "restaurant",
+      "part_of_speech": "noun",
+      "note": "まえ means 'in front'."
+    },
+    "language_specific": {
+      "target_reading": "れすとらん",
+      "learning_role": "production",
+      "pronunciation": "The final ン counts as one mora."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0074",
+      "locale": "ja-JP",
+      "sentence": "すみません、トイレはどこですか。",
+      "cloze": "トイレ",
+      "answer": "トイレ",
+      "accepted_answers": [],
+      "lemma": "トイレ",
+      "meaning": "toilet; restroom",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "といれ",
+      "learning_role": "production",
+      "usage": "トイレ can refer to the restroom as well as the toilet itself."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0075",
+      "locale": "ja-JP",
+      "sentence": "エレベーターはどこですか。",
+      "cloze": "エレベーター",
+      "answer": "エレベーター",
+      "accepted_answers": [],
+      "lemma": "エレベーター",
+      "meaning": "elevator",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "えれべーたー",
+      "learning_role": "production",
+      "pronunciation": "Both vowels marked by ー are long.",
+      "usage": "Include both long-vowel marks when typing."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0076",
+      "locale": "ja-JP",
+      "sentence": "ドアをしめてください。",
+      "cloze": "ドア",
+      "answer": "ドア",
+      "accepted_answers": [],
+      "lemma": "ドア",
+      "meaning": "door",
+      "part_of_speech": "noun",
+      "note": "しめてください means 'please close'."
+    },
+    "language_specific": {
+      "target_reading": "どあ",
+      "learning_role": "production",
+      "pronunciation": "ド and ア form separate morae."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0077",
+      "locale": "ja-JP",
+      "sentence": "おかいけいはカードでいいですか。",
+      "cloze": "カード",
+      "answer": "カード",
+      "accepted_answers": [],
+      "lemma": "カード",
+      "meaning": "payment card",
+      "part_of_speech": "noun",
+      "note": "おかいけい means payment or checkout; でいいですか asks whether that payment method is acceptable."
+    },
+    "language_specific": {
+      "target_reading": "かーど",
+      "learning_role": "production",
+      "pronunciation": "カー has a long vowel; ド is voiced.",
+      "usage": "In a payment situation, カード commonly means a credit or debit card."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0078",
+      "locale": "ja-JP",
+      "sentence": "レジはあちらです。",
+      "cloze": "レジ",
+      "answer": "レジ",
+      "accepted_answers": [],
+      "lemma": "レジ",
+      "meaning": "checkout",
+      "part_of_speech": "noun",
+      "note": "あちら means 'over there' politely."
+    },
+    "language_specific": {
+      "target_reading": "れじ",
+      "learning_role": "production",
+      "usage": "レジ refers to the cash register or checkout area."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0079",
+      "locale": "ja-JP",
+      "sentence": "ホテルはえきのちかくです。",
+      "cloze": "ホテル",
+      "answer": "ホテル",
+      "accepted_answers": [],
+      "lemma": "ホテル",
+      "meaning": "hotel",
+      "part_of_speech": "noun",
+      "note": "ちかく means 'near'."
+    },
+    "language_specific": {
+      "target_reading": "ほてる",
+      "learning_role": "production",
+      "pronunciation": "Each of ホ, テ, and ル counts as one mora."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0080",
+      "locale": "ja-JP",
+      "sentence": "えきでチケットをかいます。",
+      "cloze": "チケット",
+      "answer": "チケット",
+      "accepted_answers": [],
+      "lemma": "チケット",
+      "meaning": "ticket",
+      "part_of_speech": "noun",
+      "note": "かいます means 'buy'."
+    },
+    "language_specific": {
+      "target_reading": "ちけっと",
+      "learning_role": "production",
+      "pronunciation": "The small ッ indicates a lengthened consonant in ト."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0081",
+      "locale": "ja-JP",
+      "sentence": "わたしのおばさんはパンがすきです。",
+      "cloze": "おばさん",
+      "answer": "おばさん",
+      "accepted_answers": [],
+      "lemma": "おばさん",
+      "meaning": "aunt",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "おばさん",
+      "learning_role": "production",
+      "pronunciation": "お・ば・さ・ん has four morae; the vowel in ば is short, and ん takes one mora.",
+      "usage": "Here the word refers to the speaker's aunt; it can also refer to a middle-aged woman."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0082",
+      "locale": "ja-JP",
+      "sentence": "わたしのおばあさんはどこですか。",
+      "cloze": "おばあさん",
+      "answer": "おばあさん",
+      "accepted_answers": [],
+      "lemma": "おばあさん",
+      "meaning": "grandmother",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "おばあさん",
+      "learning_role": "production",
+      "pronunciation": "お・ば・あ・さ・ん has five morae; あ lengthens the vowel in ば by one mora, and ん takes one mora.",
+      "usage": "Here the word refers to the speaker's grandmother; it can also refer to an elderly woman."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0083",
+      "locale": "ja-JP",
+      "sentence": "ここになまえをかいてください。",
+      "cloze": "ここ",
+      "answer": "ここ",
+      "accepted_answers": [],
+      "lemma": "ここ",
+      "meaning": "here",
+      "part_of_speech": "pronoun",
+      "note": "なまえ means name; かいてください means please write."
+    },
+    "language_specific": {
+      "target_reading": "ここ",
+      "learning_role": "production",
+      "pronunciation": "こ・こ has two morae, each with a short vowel.",
+      "usage": "ここに marks where the name should be written."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0084",
+      "locale": "ja-JP",
+      "sentence": "いもうとはこうこうのせいとです。",
+      "cloze": "こうこう",
+      "answer": "こうこう",
+      "accepted_answers": [],
+      "lemma": "高校",
+      "meaning": "high school",
+      "part_of_speech": "noun",
+      "note": "いもうと means younger sister; せいと means student."
+    },
+    "language_specific": {
+      "target_reading": "こうこう",
+      "learning_role": "production",
+      "pronunciation": "こ・う・こ・う has four morae; each う lengthens the preceding o vowel by one mora."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0085",
+      "locale": "ja-JP",
+      "sentence": "あした、いえにきてください。",
+      "cloze": "きて",
+      "answer": "きて",
+      "accepted_answers": [],
+      "lemma": "来る",
+      "meaning": "come",
+      "part_of_speech": "verb",
+      "note": "〜てください is a polite request."
+    },
+    "language_specific": {
+      "target_reading": "きて",
+      "learning_role": "production",
+      "pronunciation": "き・て has two morae, with no っ between them.",
+      "usage": "This is a request to come to a home."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0086",
+      "locale": "ja-JP",
+      "sentence": "てがみにきってをはります。",
+      "cloze": "きって",
+      "answer": "きって",
+      "accepted_answers": [],
+      "lemma": "切手",
+      "meaning": "postage stamp",
+      "part_of_speech": "noun",
+      "note": "てがみ means letter; はります means stick on."
+    },
+    "language_specific": {
+      "target_reading": "きって",
+      "learning_role": "production",
+      "pronunciation": "き・っ・て has three morae; っ takes one mora and holds the following t consonant."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0087",
+      "locale": "ja-JP",
+      "sentence": "かこのことをはなします。",
+      "cloze": "かこ",
+      "answer": "かこ",
+      "accepted_answers": [],
+      "lemma": "過去",
+      "meaning": "the past",
+      "part_of_speech": "noun",
+      "note": "はなします means 'talk' here."
+    },
+    "language_specific": {
+      "target_reading": "かこ",
+      "learning_role": "production",
+      "pronunciation": "か・こ has two morae, with a single k sound between the vowels."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0088",
+      "locale": "ja-JP",
+      "sentence": "なまえをかっこにいれてください。",
+      "cloze": "かっこ",
+      "answer": "かっこ",
+      "accepted_answers": [],
+      "lemma": "括弧",
+      "meaning": "parentheses",
+      "part_of_speech": "noun",
+      "note": "なまえ means name; いれてください means please put in."
+    },
+    "language_specific": {
+      "target_reading": "かっこ",
+      "learning_role": "production",
+      "pronunciation": "か・っ・こ has three morae; っ takes one mora and holds the following k consonant.",
+      "usage": "Here かっこ means the punctuation marks around the name."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0089",
+      "locale": "ja-JP",
+      "sentence": "ねつがあります。びょういんへいきます。",
+      "cloze": "びょういん",
+      "answer": "びょういん",
+      "accepted_answers": [],
+      "lemma": "病院",
+      "meaning": "hospital",
+      "part_of_speech": "noun",
+      "note": "ねつがあります means I have a fever."
+    },
+    "language_specific": {
+      "target_reading": "びょういん",
+      "learning_role": "production",
+      "pronunciation": "びょ・う・い・ん has four morae. Small ょ combines with び; う lengthens its vowel, and ん takes one mora.",
+      "usage": "This is a medical facility."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0090",
+      "locale": "ja-JP",
+      "sentence": "びよういんでかみをきります。",
+      "cloze": "びよういん",
+      "answer": "びよういん",
+      "accepted_answers": [],
+      "lemma": "美容院",
+      "meaning": "hair salon",
+      "part_of_speech": "noun",
+      "note": "かみ means hair; きります means cut."
+    },
+    "language_specific": {
+      "target_reading": "びよういん",
+      "learning_role": "production",
+      "pronunciation": "び・よ・う・い・ん has five morae. Full-size よ is a separate mora; う lengthens its vowel, and ん takes one mora.",
+      "usage": "This is a place to have one's hair done."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0091",
+      "locale": "ja-JP",
+      "sentence": "わたしのおじさんがきます。",
+      "cloze": "おじさん",
+      "answer": "おじさん",
+      "accepted_answers": [],
+      "lemma": "おじさん",
+      "meaning": "uncle",
+      "part_of_speech": "noun",
+      "note": "きます means 'comes' here."
+    },
+    "language_specific": {
+      "target_reading": "おじさん",
+      "learning_role": "production",
+      "pronunciation": "お・じ・さ・ん has four morae; the vowel in じ is short, and ん takes one mora.",
+      "usage": "Here the word refers to the speaker's uncle; it can also refer to a middle-aged man."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0092",
+      "locale": "ja-JP",
+      "sentence": "わたしのおじいさんにおちゃをください。",
+      "cloze": "おじいさん",
+      "answer": "おじいさん",
+      "accepted_answers": [],
+      "lemma": "おじいさん",
+      "meaning": "grandfather",
+      "part_of_speech": "noun",
+      "note": "に marks the person receiving the tea."
+    },
+    "language_specific": {
+      "target_reading": "おじいさん",
+      "learning_role": "production",
+      "pronunciation": "お・じ・い・さ・ん has five morae; い lengthens the vowel in じ by one mora, and ん takes one mora.",
+      "usage": "Here the word refers to the speaker's grandfather; it can also refer to an elderly man."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0093",
+      "locale": "ja-JP",
+      "sentence": "きょうはゆきです。",
+      "cloze": "ゆき",
+      "answer": "ゆき",
+      "accepted_answers": [],
+      "lemma": "雪",
+      "meaning": "snow",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "ゆき",
+      "learning_role": "production",
+      "pronunciation": "ゆ・き has two morae; the vowel in ゆ is short."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0094",
+      "locale": "ja-JP",
+      "sentence": "ゆうきがひつようです。",
+      "cloze": "ゆうき",
+      "answer": "ゆうき",
+      "accepted_answers": [],
+      "lemma": "勇気",
+      "meaning": "courage",
+      "part_of_speech": "noun",
+      "note": "ひつようです means is needed."
+    },
+    "language_specific": {
+      "target_reading": "ゆうき",
+      "learning_role": "production",
+      "pronunciation": "ゆ・う・き has three morae; う lengthens the vowel in ゆ by one mora."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0095",
+      "locale": "ja-JP",
+      "sentence": "あのきにとりがいます。",
+      "cloze": "とり",
+      "answer": "とり",
+      "accepted_answers": [],
+      "lemma": "鳥",
+      "meaning": "bird",
+      "part_of_speech": "noun",
+      "note": "あのき means that tree."
+    },
+    "language_specific": {
+      "target_reading": "とり",
+      "learning_role": "production",
+      "pronunciation": "と・り has two morae; the vowel in と is short."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0096",
+      "locale": "ja-JP",
+      "sentence": "このとおりをまっすぐいきます。",
+      "cloze": "とおり",
+      "answer": "とおり",
+      "accepted_answers": [],
+      "lemma": "通り",
+      "meaning": "street",
+      "part_of_speech": "noun",
+      "note": "まっすぐ means straight ahead."
+    },
+    "language_specific": {
+      "target_reading": "とおり",
+      "learning_role": "production",
+      "pronunciation": "と・お・り has three morae; お lengthens the vowel in と by one mora."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0097",
+      "locale": "ja-JP",
+      "sentence": "えきのまえにビルがあります。",
+      "cloze": "ビル",
+      "answer": "ビル",
+      "accepted_answers": [],
+      "lemma": "ビル",
+      "meaning": "building",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "びる",
+      "learning_role": "production",
+      "pronunciation": "ビ・ル has two morae; the vowel in ビ is short."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0098",
+      "locale": "ja-JP",
+      "sentence": "ばんごはんにビールをのみます。",
+      "cloze": "ビール",
+      "answer": "ビール",
+      "accepted_answers": [],
+      "lemma": "ビール",
+      "meaning": "beer",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "びーる",
+      "learning_role": "production",
+      "pronunciation": "ビ・ー・ル has three morae; ー lengthens the vowel in ビ by one mora."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0099",
+      "locale": "ja-JP",
+      "sentence": "ねつがあります。みずをください。",
+      "cloze": "ねつ",
+      "answer": "ねつ",
+      "accepted_answers": [],
+      "lemma": "熱",
+      "meaning": "fever",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "ねつ",
+      "learning_role": "production",
+      "pronunciation": "ね・つ has two morae; full-size つ is a syllable, not a small っ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0100",
+      "locale": "ja-JP",
+      "sentence": "きのねっこはつちのなかです。",
+      "cloze": "ねっこ",
+      "answer": "ねっこ",
+      "accepted_answers": [],
+      "lemma": "根っこ",
+      "meaning": "root",
+      "part_of_speech": "noun",
+      "note": "つち means soil."
+    },
+    "language_specific": {
+      "target_reading": "ねっこ",
+      "learning_role": "production",
+      "pronunciation": "ね・っ・こ has three morae; small っ takes one mora and holds the following k consonant."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0101",
+      "locale": "ja-JP",
+      "sentence": "えきのまえにさかがあります。",
+      "cloze": "さか",
+      "answer": "さか",
+      "accepted_answers": [],
+      "lemma": "坂",
+      "meaning": "slope",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "さか",
+      "learning_role": "production",
+      "pronunciation": "さ・か has two morae, with a single k sound between the vowels."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0102",
+      "locale": "ja-JP",
+      "sentence": "あねはさっかです。",
+      "cloze": "さっか",
+      "answer": "さっか",
+      "accepted_answers": [],
+      "lemma": "作家",
+      "meaning": "writer",
+      "part_of_speech": "noun",
+      "note": "あね means my older sister."
+    },
+    "language_specific": {
+      "target_reading": "さっか",
+      "learning_role": "production",
+      "pronunciation": "さ・っ・か has three morae; っ takes one mora and holds the following k consonant."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0103",
+      "locale": "ja-JP",
+      "sentence": "ここにいてください。",
+      "cloze": "いて",
+      "answer": "いて",
+      "accepted_answers": [],
+      "lemma": "いる",
+      "meaning": "stay",
+      "part_of_speech": "verb",
+      "note": "〜てください is a polite request."
+    },
+    "language_specific": {
+      "target_reading": "いて",
+      "learning_role": "production",
+      "pronunciation": "い・て has two morae, with no っ between them.",
+      "usage": "This asks someone to remain here."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0104",
+      "locale": "ja-JP",
+      "sentence": "さきにえきへいってください。",
+      "cloze": "いって",
+      "answer": "いって",
+      "accepted_answers": [],
+      "lemma": "行く",
+      "meaning": "go",
+      "part_of_speech": "verb",
+      "note": "さきに means ahead of someone else."
+    },
+    "language_specific": {
+      "target_reading": "いって",
+      "learning_role": "production",
+      "pronunciation": "い・っ・て has three morae; っ takes one mora and holds the following t consonant.",
+      "usage": "This asks someone to go to the station ahead of others."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0105",
+      "locale": "ja-JP",
+      "sentence": "このまちにはこうえんがあります。",
+      "cloze": "まち",
+      "answer": "まち",
+      "accepted_answers": [],
+      "lemma": "町",
+      "meaning": "town",
+      "part_of_speech": "noun",
+      "note": "こうえん means park."
+    },
+    "language_specific": {
+      "target_reading": "まち",
+      "learning_role": "production",
+      "pronunciation": "ま・ち has two morae, with no っ before ち."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0106",
+      "locale": "ja-JP",
+      "sentence": "マッチでろうそくにひをつけます。",
+      "cloze": "マッチ",
+      "answer": "マッチ",
+      "accepted_answers": [],
+      "lemma": "マッチ",
+      "meaning": "match",
+      "part_of_speech": "noun",
+      "note": "ろうそく means candle; ひをつけます means light it."
+    },
+    "language_specific": {
+      "target_reading": "まっち",
+      "learning_role": "production",
+      "pronunciation": "マ・ッ・チ has three morae; ッ takes one mora and holds the consonant at the start of チ.",
+      "usage": "This is a match used to light a flame."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0107",
+      "locale": "ja-JP",
+      "sentence": "そとでおとがします。",
+      "cloze": "おと",
+      "answer": "おと",
+      "accepted_answers": [],
+      "lemma": "音",
+      "meaning": "sound",
+      "part_of_speech": "noun",
+      "note": "おとがします means a sound is heard."
+    },
+    "language_specific": {
+      "target_reading": "おと",
+      "learning_role": "production",
+      "pronunciation": "お・と has two morae, with a single t sound between the vowels."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0108",
+      "locale": "ja-JP",
+      "sentence": "おっとはいま、かいしゃにいます。",
+      "cloze": "おっと",
+      "answer": "おっと",
+      "accepted_answers": [],
+      "lemma": "夫",
+      "meaning": "husband",
+      "part_of_speech": "noun",
+      "note": "かいしゃ means company or workplace."
+    },
+    "language_specific": {
+      "target_reading": "おっと",
+      "learning_role": "production",
+      "pronunciation": "お・っ・と has three morae; っ takes one mora and holds the following t consonant.",
+      "usage": "夫 is a way to refer to one's own husband."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0109",
+      "locale": "ja-JP",
+      "sentence": "きょうはともだちとあいます。",
+      "cloze": "きょう",
+      "answer": "きょう",
+      "accepted_answers": [],
+      "lemma": "今日",
+      "meaning": "today",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "きょう",
+      "learning_role": "production",
+      "pronunciation": "きょ・う has two morae. Small ょ combines with き; う lengthens the resulting vowel by one mora."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0110",
+      "locale": "ja-JP",
+      "sentence": "あねはきようです。ふくをつくります。",
+      "cloze": "きよう",
+      "answer": "きよう",
+      "accepted_answers": [],
+      "lemma": "器用",
+      "meaning": "skillful with one's hands",
+      "part_of_speech": "na-adjective",
+      "note": "あね means my older sister; ふくをつくります means makes clothes."
+    },
+    "language_specific": {
+      "target_reading": "きよう",
+      "learning_role": "production",
+      "pronunciation": "き・よ・う has three morae. Full-size よ is separate from き; う lengthens the vowel in よ by one mora.",
+      "usage": "Here きよう describes someone's manual skill."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0111",
+      "locale": "ja-JP",
+      "sentence": "がっこうのせんぱいにそうだんします。",
+      "cloze": "せんぱい",
+      "answer": "せんぱい",
+      "accepted_answers": [],
+      "lemma": "先輩",
+      "meaning": "senior student",
+      "part_of_speech": "noun",
+      "note": "がっこう means school; そうだんします means consult someone."
+    },
+    "language_specific": {
+      "target_reading": "せんぱい",
+      "learning_role": "production",
+      "pronunciation": "せ・ん・ぱ・い has four morae; ん takes one mora and may sound m-like before p.",
+      "usage": "A 先輩 is someone senior to the speaker in a shared setting."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0112",
+      "locale": "ja-JP",
+      "sentence": "あさ、こうえんをさんぽします。",
+      "cloze": "さんぽ",
+      "answer": "さんぽ",
+      "accepted_answers": [],
+      "lemma": "散歩",
+      "meaning": "walk",
+      "part_of_speech": "noun",
+      "note": "こうえん means park."
+    },
+    "language_specific": {
+      "target_reading": "さんぽ",
+      "learning_role": "production",
+      "pronunciation": "さ・ん・ぽ has three morae; ん takes one mora and may sound m-like before p.",
+      "usage": "さんぽします means to take a walk."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0113",
+      "locale": "ja-JP",
+      "sentence": "ちちはあさ、しんぶんをよみます。",
+      "cloze": "しんぶん",
+      "answer": "しんぶん",
+      "accepted_answers": [],
+      "lemma": "新聞",
+      "meaning": "newspaper",
+      "part_of_speech": "noun",
+      "note": "よみます means read."
+    },
+    "language_specific": {
+      "target_reading": "しんぶん",
+      "learning_role": "production",
+      "pronunciation": "し・ん・ぶ・ん has four morae. Each ん takes one mora; the first may sound m-like before b, while the final one varies with context."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0114",
+      "locale": "ja-JP",
+      "sentence": "ははにでんわをかけます。",
+      "cloze": "でんわ",
+      "answer": "でんわ",
+      "accepted_answers": [],
+      "lemma": "電話",
+      "meaning": "telephone call",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "でんわ",
+      "learning_role": "production",
+      "pronunciation": "で・ん・わ has three morae; ん takes one mora, and its nasal quality varies with the following sound.",
+      "usage": "電話をかける means to make a phone call."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0115",
+      "locale": "ja-JP",
+      "sentence": "あしたのてんきはあめです。",
+      "cloze": "てんき",
+      "answer": "てんき",
+      "accepted_answers": [],
+      "lemma": "天気",
+      "meaning": "weather",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "てんき",
+      "learning_role": "production",
+      "pronunciation": "て・ん・き has three morae; ん takes one mora and may sound like the nasal in English 'sing' before k."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0116",
+      "locale": "ja-JP",
+      "sentence": "あさごはんにりんごをたべます。",
+      "cloze": "りんご",
+      "answer": "りんご",
+      "accepted_answers": [],
+      "lemma": "りんご",
+      "meaning": "apple",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "りんご",
+      "learning_role": "production",
+      "pronunciation": "り・ん・ご has three morae; ん takes one mora and may sound like the nasal in English 'sing' before g."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0117",
+      "locale": "ja-JP",
+      "sentence": "としょかんでほんをかります。",
+      "cloze": "ほん",
+      "answer": "ほん",
+      "accepted_answers": [],
+      "lemma": "本",
+      "meaning": "book",
+      "part_of_speech": "noun",
+      "note": "かります means borrow."
+    },
+    "language_specific": {
+      "target_reading": "ほん",
+      "learning_role": "production",
+      "pronunciation": "ほ・ん has two morae; ん takes one mora, and its sound varies with the following context."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0118",
+      "locale": "ja-JP",
+      "sentence": "きんようびにびょういんへいきます。",
+      "cloze": "きんようび",
+      "answer": "きんようび",
+      "accepted_answers": [],
+      "lemma": "金曜日",
+      "meaning": "Friday",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "きんようび",
+      "learning_role": "production",
+      "pronunciation": "き・ん・よ・う・び has five morae. ん takes one mora and varies before y; full-size よ is separate, and う lengthens its vowel."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0119",
+      "locale": "ja-JP",
+      "sentence": "かばんにかぎをいれます。",
+      "cloze": "かばん",
+      "answer": "かばん",
+      "accepted_answers": [],
+      "lemma": "かばん",
+      "meaning": "bag",
+      "part_of_speech": "noun",
+      "note": "かぎ means key."
+    },
+    "language_specific": {
+      "target_reading": "かばん",
+      "learning_role": "production",
+      "pronunciation": "か・ば・ん has three morae; ん takes one mora, and its sound varies with the following context."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0120",
+      "locale": "ja-JP",
+      "sentence": "このほんはせんえんです。",
+      "cloze": "せんえん",
+      "answer": "せんえん",
+      "accepted_answers": [],
+      "lemma": "千円",
+      "meaning": "one thousand yen",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "せんえん",
+      "learning_role": "production",
+      "pronunciation": "せ・ん・え・ん has four morae; each ん takes one mora, and its nasal quality varies with context."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0121",
+      "locale": "ja-JP",
+      "sentence": "もういちどおねがいします。",
+      "cloze": "もういちどおねがいします",
+      "answer": "もういちどおねがいします",
+      "accepted_answers": [],
+      "lemma": "もういちどおねがいします",
+      "meaning": "once more, please",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "もういちどおねがいします",
+      "learning_role": "production",
+      "usage": "Use this to ask someone to repeat what they said."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0122",
+      "locale": "ja-JP",
+      "sentence": "ゆっくりはなしてください。",
+      "cloze": "ゆっくり",
+      "answer": "ゆっくり",
+      "accepted_answers": [],
+      "lemma": "ゆっくり",
+      "meaning": "slowly",
+      "part_of_speech": "adverb",
+      "note": "はなしてください means “please speak.”"
+    },
+    "language_specific": {
+      "target_reading": "ゆっくり",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0123",
+      "locale": "ja-JP",
+      "sentence": "「あした」はどういういみですか。",
+      "cloze": "どういういみですか",
+      "answer": "どういういみですか",
+      "accepted_answers": [],
+      "lemma": "どういういみですか",
+      "meaning": "what does it mean?",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "どういういみですか",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0124",
+      "locale": "ja-JP",
+      "sentence": "すみません、よくわかりません。",
+      "cloze": "よくわかりません",
+      "answer": "よくわかりません",
+      "accepted_answers": [],
+      "lemma": "よくわかりません",
+      "meaning": "I don't quite understand",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "よくわかりません",
+      "learning_role": "production",
+      "usage": "A polite way to say that an explanation or statement is unclear."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0125",
+      "locale": "ja-JP",
+      "sentence": "ここまで、わかりますか。",
+      "cloze": "わかりますか",
+      "answer": "わかりますか",
+      "accepted_answers": [],
+      "lemma": "わかる",
+      "meaning": "do you understand?",
+      "part_of_speech": "verb",
+      "note": "ここまで means “up to this point.”"
+    },
+    "language_specific": {
+      "target_reading": "わかりますか",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0126",
+      "locale": "ja-JP",
+      "sentence": "「はし」ですよね。",
+      "cloze": "ですよね",
+      "answer": "ですよね",
+      "accepted_answers": [],
+      "lemma": "ですよね",
+      "meaning": "is that right?",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "ですよね",
+      "learning_role": "production",
+      "usage": "Here the speaker checks whether the word is はし."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0127",
+      "locale": "ja-JP",
+      "sentence": "あなたのなまえのつづりをかいてください。",
+      "cloze": "かいて",
+      "answer": "かいて",
+      "accepted_answers": [],
+      "lemma": "かく",
+      "meaning": "write",
+      "part_of_speech": "verb",
+      "note": "なまえ means “name,” and つづり means “spelling.”"
+    },
+    "language_specific": {
+      "target_reading": "かいて",
+      "learning_role": "production",
+      "usage": "With ください, this asks the listener to write down the spelling of their name."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0128",
+      "locale": "ja-JP",
+      "sentence": "「water」はにほんごでなんですか。",
+      "cloze": "にほんごで",
+      "answer": "にほんごで",
+      "accepted_answers": [],
+      "lemma": "にほんごで",
+      "meaning": "in Japanese",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "にほんごで",
+      "learning_role": "production",
+      "usage": "The question asks for the Japanese word for “water.”"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0129",
+      "locale": "ja-JP",
+      "sentence": "えいごでおねがいします。",
+      "cloze": "えいごで",
+      "answer": "えいごで",
+      "accepted_answers": [],
+      "lemma": "えいごで",
+      "meaning": "in English",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "えいごで",
+      "learning_role": "production",
+      "usage": "This asks the other person to speak or explain in English."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0130",
+      "locale": "ja-JP",
+      "sentence": "あしたですね。わかりました。",
+      "cloze": "わかりました",
+      "answer": "わかりました",
+      "accepted_answers": [],
+      "lemma": "わかる",
+      "meaning": "I understand",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_reading": "わかりました",
+      "learning_role": "production",
+      "usage": "This acknowledges that the speaker has understood the information."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0131",
+      "locale": "ja-JP",
+      "sentence": "ここにすわってもいいですか。",
+      "cloze": "もいいですか",
+      "answer": "もいいですか",
+      "accepted_answers": [],
+      "lemma": "もいいですか",
+      "meaning": "may I?",
+      "part_of_speech": "expression",
+      "note": "すわって is the te-form of すわる, “sit.” The permission component もいいですか follows it."
+    },
+    "language_specific": {
+      "target_reading": "もいいですか",
+      "learning_role": "production",
+      "usage": "After すわって, もいいですか asks permission to sit here."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0132",
+      "locale": "ja-JP",
+      "sentence": "このいす、いいですか。",
+      "cloze": "いいですか",
+      "answer": "いいですか",
+      "accepted_answers": [],
+      "lemma": "いいですか",
+      "meaning": "may I use it?",
+      "part_of_speech": "expression",
+      "note": "いす means “chair.”"
+    },
+    "language_specific": {
+      "target_reading": "いいですか",
+      "learning_role": "production",
+      "usage": "In this context, the speaker asks whether the chair is available to use."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0133",
+      "locale": "ja-JP",
+      "sentence": "ドアをあけてください。",
+      "cloze": "あけて",
+      "answer": "あけて",
+      "accepted_answers": [],
+      "lemma": "あける",
+      "meaning": "open",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_reading": "あけて",
+      "learning_role": "production",
+      "usage": "With ください, this is a polite request to open the door."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0134",
+      "locale": "ja-JP",
+      "sentence": "ちょっとてつだってください。",
+      "cloze": "てつだって",
+      "answer": "てつだって",
+      "accepted_answers": [],
+      "lemma": "てつだう",
+      "meaning": "help",
+      "part_of_speech": "verb",
+      "note": "ちょっと softens the request here."
+    },
+    "language_specific": {
+      "target_reading": "てつだって",
+      "learning_role": "production",
+      "usage": "With ください, this asks someone for a little help."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0135",
+      "locale": "ja-JP",
+      "sentence": "コーヒーをおねがいします。",
+      "cloze": "おねがいします",
+      "answer": "おねがいします",
+      "accepted_answers": [],
+      "lemma": "おねがいします",
+      "meaning": "please",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "おねがいします",
+      "learning_role": "production",
+      "usage": "This politely orders coffee."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0136",
+      "locale": "ja-JP",
+      "sentence": "メニューをみせてください。",
+      "cloze": "みせて",
+      "answer": "みせて",
+      "accepted_answers": [],
+      "lemma": "みせる",
+      "meaning": "show",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_reading": "みせて",
+      "learning_role": "production",
+      "usage": "With ください, this asks someone to show the speaker the menu."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0137",
+      "locale": "ja-JP",
+      "sentence": "おかいけい、おねがいします。",
+      "cloze": "おかいけい",
+      "answer": "おかいけい",
+      "accepted_answers": [],
+      "lemma": "おかいけい",
+      "meaning": "the bill",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "おかいけい",
+      "learning_role": "production",
+      "usage": "Use this at a restaurant or shop to ask to pay."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0138",
+      "locale": "ja-JP",
+      "sentence": "かぎがみつからないんです。",
+      "cloze": "みつからない",
+      "answer": "みつからない",
+      "accepted_answers": [],
+      "lemma": "みつかる",
+      "meaning": "cannot be found",
+      "part_of_speech": "verb",
+      "note": "かぎ means “key.” Learn this missing-object expression as a chunk."
+    },
+    "language_specific": {
+      "target_reading": "みつからない",
+      "learning_role": "production",
+      "usage": "The speaker explains that they cannot find the key."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0139",
+      "locale": "ja-JP",
+      "sentence": "かさをさがしてください。",
+      "cloze": "さがして",
+      "answer": "さがして",
+      "accepted_answers": [],
+      "lemma": "さがす",
+      "meaning": "look for",
+      "part_of_speech": "verb",
+      "note": "かさ means “umbrella.”"
+    },
+    "language_specific": {
+      "target_reading": "さがして",
+      "learning_role": "production",
+      "usage": "With ください, this asks someone to look for the umbrella."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0140",
+      "locale": "ja-JP",
+      "sentence": "にもつをもってください。",
+      "cloze": "もって",
+      "answer": "もって",
+      "accepted_answers": [],
+      "lemma": "もつ",
+      "meaning": "hold or carry",
+      "part_of_speech": "verb",
+      "note": "にもつ means “luggage” or “belongings.”"
+    },
+    "language_specific": {
+      "target_reading": "もって",
+      "learning_role": "production",
+      "usage": "With ください, this asks someone to hold or carry the belongings."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0141",
+      "locale": "ja-JP",
+      "sentence": "なにがすきですか。",
+      "cloze": "がすきです",
+      "answer": "がすきです",
+      "accepted_answers": [],
+      "lemma": "がすきです",
+      "meaning": "like",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "がすきです",
+      "learning_role": "production",
+      "usage": "With なに and the final か, this asks what the other person likes."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0142",
+      "locale": "ja-JP",
+      "sentence": "コーヒーはにがてです。",
+      "cloze": "にがてです",
+      "answer": "にがてです",
+      "accepted_answers": [],
+      "lemma": "にがて",
+      "meaning": "I don't care for it",
+      "part_of_speech": "na-adjective"
+    },
+    "language_specific": {
+      "target_reading": "にがてです",
+      "learning_role": "production",
+      "usage": "This is a mild way to say that coffee is not to the speaker's taste."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0143",
+      "locale": "ja-JP",
+      "sentence": "おちゃとコーヒー、どちらがいいですか。",
+      "cloze": "どちら",
+      "answer": "どちら",
+      "accepted_answers": [],
+      "lemma": "どちら",
+      "meaning": "which one",
+      "part_of_speech": "pronoun"
+    },
+    "language_specific": {
+      "target_reading": "どちら",
+      "learning_role": "production",
+      "usage": "This politely asks for a choice between the two drinks."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0144",
+      "locale": "ja-JP",
+      "sentence": "コーヒーよりおちゃのほうがいいです。",
+      "cloze": "のほうが",
+      "answer": "のほうが",
+      "accepted_answers": [],
+      "lemma": "のほうが",
+      "meaning": "rather; more",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "のほうが",
+      "learning_role": "production",
+      "usage": "With より and いいです, this expresses a preference for tea over coffee."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0145",
+      "locale": "ja-JP",
+      "sentence": "おみずがほしいです。",
+      "cloze": "ほしいです",
+      "answer": "ほしいです",
+      "accepted_answers": [],
+      "lemma": "ほしい",
+      "meaning": "want",
+      "part_of_speech": "i-adjective"
+    },
+    "language_specific": {
+      "target_reading": "ほしいです",
+      "learning_role": "production",
+      "usage": "The speaker says they want water."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0146",
+      "locale": "ja-JP",
+      "sentence": "おちゃをのみませんか。",
+      "cloze": "のみませんか",
+      "answer": "のみませんか",
+      "accepted_answers": [],
+      "lemma": "のむ",
+      "meaning": "would you like to drink?",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_reading": "のみませんか",
+      "learning_role": "production",
+      "usage": "This is an invitation to have tea together, despite its negative form."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0147",
+      "locale": "ja-JP",
+      "sentence": "いっしょにいきましょう。",
+      "cloze": "いっしょに",
+      "answer": "いっしょに",
+      "accepted_answers": [],
+      "lemma": "いっしょに",
+      "meaning": "together",
+      "part_of_speech": "adverb",
+      "note": "いきましょう means “let's go.”"
+    },
+    "language_specific": {
+      "target_reading": "いっしょに",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0148",
+      "locale": "ja-JP",
+      "sentence": "わたしはこれにします。",
+      "cloze": "にします",
+      "answer": "にします",
+      "accepted_answers": [],
+      "lemma": "にする",
+      "meaning": "will choose",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "にします",
+      "learning_role": "production",
+      "usage": "This announces the speaker's choice from the available options."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0149",
+      "locale": "ja-JP",
+      "sentence": "おちゃをもういっぱい、いかがですか。",
+      "cloze": "いかがですか",
+      "answer": "いかがですか",
+      "accepted_answers": [],
+      "lemma": "いかがですか",
+      "meaning": "would you like some?",
+      "part_of_speech": "expression",
+      "note": "もういっぱい means “one more cup” here."
+    },
+    "language_specific": {
+      "target_reading": "いかがですか",
+      "learning_role": "production",
+      "usage": "This is a polite offer of another cup of tea."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0150",
+      "locale": "ja-JP",
+      "sentence": "おちゃはあまりすきじゃないです。",
+      "cloze": "あまり",
+      "answer": "あまり",
+      "accepted_answers": [],
+      "lemma": "あまり",
+      "meaning": "not very much",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "target_reading": "あまり",
+      "learning_role": "production",
+      "usage": "With the negative すきじゃないです, this softens the dislike."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0151",
+      "locale": "ja-JP",
+      "sentence": "あしたはあめだとおもいます。",
+      "cloze": "とおもいます",
+      "answer": "とおもいます",
+      "accepted_answers": [],
+      "lemma": "とおもう",
+      "meaning": "I think",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "とおもいます",
+      "learning_role": "production",
+      "usage": "This presents tomorrow's rain as the speaker's expectation."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0152",
+      "locale": "ja-JP",
+      "sentence": "「あしたですね」「そうです」",
+      "cloze": "そうです",
+      "answer": "そうです",
+      "accepted_answers": [],
+      "lemma": "そうです",
+      "meaning": "that's right",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "そうです",
+      "learning_role": "production",
+      "usage": "The reply confirms that tomorrow is correct."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0153",
+      "locale": "ja-JP",
+      "sentence": "「これですか」「ちがいます」",
+      "cloze": "ちがいます",
+      "answer": "ちがいます",
+      "accepted_answers": [],
+      "lemma": "ちがう",
+      "meaning": "that's not it",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_reading": "ちがいます",
+      "learning_role": "production",
+      "usage": "The reply says that the indicated item is not the right one."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0154",
+      "locale": "ja-JP",
+      "sentence": "あしたはどうですか。あしたはちょっとむずかしいです。",
+      "cloze": "ちょっと",
+      "answer": "ちょっと",
+      "accepted_answers": [],
+      "lemma": "ちょっと",
+      "meaning": "a little",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "target_reading": "ちょっと",
+      "learning_role": "production",
+      "usage": "Here ちょっと softens the response that tomorrow is difficult."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0155",
+      "locale": "ja-JP",
+      "sentence": "あしたはたぶんあめです。",
+      "cloze": "たぶん",
+      "answer": "たぶん",
+      "accepted_answers": [],
+      "lemma": "たぶん",
+      "meaning": "probably",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "target_reading": "たぶん",
+      "learning_role": "production",
+      "usage": "This marks the statement as uncertain."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0156",
+      "locale": "ja-JP",
+      "sentence": "じかんはまだわかりません。",
+      "cloze": "まだ",
+      "answer": "まだ",
+      "accepted_answers": [],
+      "lemma": "まだ",
+      "meaning": "not yet",
+      "part_of_speech": "adverb",
+      "note": "じかん means “time.”"
+    },
+    "language_specific": {
+      "target_reading": "まだ",
+      "learning_role": "production",
+      "usage": "With わかりません, this says the time is not known yet."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0157",
+      "locale": "ja-JP",
+      "sentence": "すみません、まちがえました。",
+      "cloze": "まちがえました",
+      "answer": "まちがえました",
+      "accepted_answers": [],
+      "lemma": "まちがえる",
+      "meaning": "I made a mistake",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_reading": "まちがえました",
+      "learning_role": "production"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0158",
+      "locale": "ja-JP",
+      "sentence": "きょうです。あ、ちがいます、あしたです。",
+      "cloze": "ちがいます",
+      "answer": "ちがいます",
+      "accepted_answers": [],
+      "lemma": "ちがう",
+      "meaning": "that is wrong",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_reading": "ちがいます",
+      "learning_role": "production",
+      "usage": "The speaker corrects their statement that it is today, then says it is tomorrow."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0159",
+      "locale": "ja-JP",
+      "sentence": "なんじにしまりますか。",
+      "cloze": "なんじに",
+      "answer": "なんじに",
+      "accepted_answers": [],
+      "lemma": "なんじ",
+      "meaning": "at what time",
+      "part_of_speech": "expression",
+      "note": "しまりますか means “does it close?” Learn the question as a practical chunk."
+    },
+    "language_specific": {
+      "target_reading": "なんじに",
+      "learning_role": "production",
+      "usage": "This asks for the closing time."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0160",
+      "locale": "ja-JP",
+      "sentence": "しはらいはカードでもいいですか。",
+      "cloze": "でもいいですか",
+      "answer": "でもいいですか",
+      "accepted_answers": [],
+      "lemma": "でもいいですか",
+      "meaning": "is it okay to use?",
+      "part_of_speech": "expression",
+      "note": "しはらい means “payment.”"
+    },
+    "language_specific": {
+      "target_reading": "でもいいですか",
+      "learning_role": "production",
+      "usage": "This checks whether paying by card is acceptable."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0161",
+      "locale": "ja-JP",
+      "sentence": "あめです。かさはありますか。",
+      "cloze": "あめ",
+      "answer": "あめ",
+      "accepted_answers": [],
+      "lemma": "あめ",
+      "meaning": "rain",
+      "part_of_speech": "noun",
+      "note": "かさ means umbrella."
+    },
+    "language_specific": {
+      "target_reading": "あめ",
+      "learning_role": "production",
+      "pronunciation": "In the Tokyo word model, あ is high and the pitch falls before め."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0162",
+      "locale": "ja-JP",
+      "sentence": "このあめはあまいです。",
+      "cloze": "あめ",
+      "answer": "あめ",
+      "accepted_answers": [],
+      "lemma": "あめ",
+      "meaning": "candy",
+      "part_of_speech": "noun",
+      "note": "あまい means sweet."
+    },
+    "language_specific": {
+      "target_reading": "あめ",
+      "learning_role": "production",
+      "pronunciation": "In the Tokyo word model, あめ has no lexical fall; め remains high into a following particle."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0163",
+      "locale": "ja-JP",
+      "sentence": "ごはんをたべます。はしをください。",
+      "cloze": "はし",
+      "answer": "はし",
+      "accepted_answers": [],
+      "lemma": "はし",
+      "meaning": "chopsticks",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "はし",
+      "learning_role": "production",
+      "pronunciation": "In the Tokyo word model, は is high and the pitch falls before し; the following を is also low.",
+      "usage": "The speaker asks for chopsticks to eat a meal."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0164",
+      "locale": "ja-JP",
+      "sentence": "かわにはしがあります。",
+      "cloze": "はし",
+      "answer": "はし",
+      "accepted_answers": [],
+      "lemma": "はし",
+      "meaning": "bridge",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "はし",
+      "learning_role": "production",
+      "pronunciation": "In the Tokyo word model, は is low and し is high; the fall after し can be heard on the following が.",
+      "usage": "The sentence says there is a bridge over the river."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0165",
+      "locale": "ja-JP",
+      "sentence": "ゆきはすきですが、あめはいやです。",
+      "cloze": "あめ",
+      "answer": "あめ",
+      "accepted_answers": [],
+      "lemma": "あめ",
+      "meaning": "rain",
+      "part_of_speech": "noun",
+      "note": "The sentence contrasts liking snow with disliking rain."
+    },
+    "language_specific": {
+      "target_reading": "あめ",
+      "learning_role": "production",
+      "pronunciation": "Sentence: To highlight the contrast with ゆきは, you can give あめ in あめは extra prominence. Rain あめ has a Tokyo lexical fall after あ; sentence intonation varies with context.",
+      "usage": "The two は-marked topics contrast snow, which the speaker likes, with rain, which the speaker dislikes."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0166",
+      "locale": "ja-JP",
+      "sentence": "ケーキですか。いいえ、あめです。",
+      "cloze": "あめ",
+      "answer": "あめ",
+      "accepted_answers": [],
+      "lemma": "あめ",
+      "meaning": "candy",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "あめ",
+      "learning_role": "production",
+      "pronunciation": "Sentence: Give あめ informative focus when correcting the guess. Its Tokyo word model has no lexical fall; focus does not add a lexical fall.",
+      "usage": "The reply corrects a guess of cake: it is candy."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0167",
+      "locale": "ja-JP",
+      "sentence": "はしでたべますか。",
+      "cloze": "はし",
+      "answer": "はし",
+      "accepted_answers": [],
+      "lemma": "はし",
+      "meaning": "chopsticks",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "はし",
+      "learning_role": "production",
+      "pronunciation": "Sentence: A rise at the end can mark the question. The Tokyo word model for chopsticks still falls after は; the question rise does not move that lexical fall to the later bridge pattern.",
+      "usage": "The question asks whether someone eats with chopsticks."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0168",
+      "locale": "ja-JP",
+      "sentence": "はしでかわをわたります。",
+      "cloze": "はし",
+      "answer": "はし",
+      "accepted_answers": [],
+      "lemma": "はし",
+      "meaning": "bridge",
+      "part_of_speech": "noun",
+      "note": "かわ means river; わたります means cross."
+    },
+    "language_specific": {
+      "target_reading": "はし",
+      "learning_role": "production",
+      "pronunciation": "Sentence: You can group はしで as the means of crossing, with a light boundary before かわをわたります. That boundary is optional and depends on the intended phrasing.",
+      "usage": "The sentence describes crossing the river by bridge."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0169",
+      "locale": "ja-JP",
+      "sentence": "ねこがすきです。",
+      "cloze": "すき",
+      "answer": "すき",
+      "accepted_answers": [],
+      "lemma": "すき",
+      "meaning": "liked",
+      "part_of_speech": "na-adjective"
+    },
+    "language_specific": {
+      "target_reading": "すき",
+      "learning_role": "production",
+      "pronunciation": "The う vowel in す may devoice between the voiceless sounds s and k. Keep す in the spelling."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0170",
+      "locale": "ja-JP",
+      "sentence": "くつはここです。",
+      "cloze": "くつ",
+      "answer": "くつ",
+      "accepted_answers": [],
+      "lemma": "くつ",
+      "meaning": "shoes",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "くつ",
+      "learning_role": "production",
+      "pronunciation": "The う vowel in く may devoice between the voiceless sounds k and ts. It remains in the spelling."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0171",
+      "locale": "ja-JP",
+      "sentence": "かばんはつくえのしたです。",
+      "cloze": "した",
+      "answer": "した",
+      "accepted_answers": [],
+      "lemma": "した",
+      "meaning": "underneath",
+      "part_of_speech": "noun",
+      "note": "つくえ means desk."
+    },
+    "language_specific": {
+      "target_reading": "した",
+      "learning_role": "production",
+      "pronunciation": "The い vowel in し may devoice between the voiceless sounds sh and t; it is still written."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0172",
+      "locale": "ja-JP",
+      "sentence": "きたはどちらですか。",
+      "cloze": "きた",
+      "answer": "きた",
+      "accepted_answers": [],
+      "lemma": "きた",
+      "meaning": "north",
+      "part_of_speech": "noun",
+      "note": "どちら means which direction."
+    },
+    "language_specific": {
+      "target_reading": "きた",
+      "learning_role": "production",
+      "pronunciation": "The い vowel in き may devoice between k and t. Do not omit き from the spelling."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0173",
+      "locale": "ja-JP",
+      "sentence": "あのひとはだれですか。",
+      "cloze": "ひと",
+      "answer": "ひと",
+      "accepted_answers": [],
+      "lemma": "ひと",
+      "meaning": "person",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "ひと",
+      "learning_role": "production",
+      "pronunciation": "The い vowel in ひ may devoice between the voiceless sounds h and t; it remains part of the written word."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0174",
+      "locale": "ja-JP",
+      "sentence": "このふくはあおいです。",
+      "cloze": "ふく",
+      "answer": "ふく",
+      "accepted_answers": [],
+      "lemma": "ふく",
+      "meaning": "clothes",
+      "part_of_speech": "noun",
+      "note": "あおい means blue."
+    },
+    "language_specific": {
+      "target_reading": "ふく",
+      "learning_role": "production",
+      "pronunciation": "The う vowel in ふ may devoice between the voiceless sounds f and k. Keep the ordinary spelling."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0175",
+      "locale": "ja-JP",
+      "sentence": "これはおちゃです。",
+      "cloze": "です",
+      "answer": "です",
+      "accepted_answers": [],
+      "lemma": "です",
+      "meaning": "is",
+      "part_of_speech": "copula",
+      "note": "おちゃ means tea."
+    },
+    "language_specific": {
+      "target_reading": "です",
+      "learning_role": "production",
+      "pronunciation": "At the end of a phrase, the う vowel in す may be devoiced. The spelling remains です."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0176",
+      "locale": "ja-JP",
+      "sentence": "みずをのみます。",
+      "cloze": "のみます",
+      "answer": "のみます",
+      "accepted_answers": [],
+      "lemma": "のむ",
+      "meaning": "drink",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_reading": "のみます",
+      "learning_role": "production",
+      "pronunciation": "At the end of a phrase, the う vowel in す may be devoiced. Keep ます in the spelling."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0177",
+      "locale": "ja-JP",
+      "sentence": "そっち？いいえ、こっちです。",
+      "cloze": "こっち",
+      "answer": "こっち",
+      "accepted_answers": [],
+      "lemma": "こっち",
+      "meaning": "this way",
+      "part_of_speech": "pronoun"
+    },
+    "language_specific": {
+      "target_reading": "こっち",
+      "learning_role": "production",
+      "pronunciation": "Sentence: Give こっち the focus when correcting the proposed direction; a short pause after いいえ helps separate the correction.",
+      "usage": "Casual speech; そっち refers to the other person's side or direction."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0178",
+      "locale": "ja-JP",
+      "sentence": "だれですか。わたしです。",
+      "cloze": "わたし",
+      "answer": "わたし",
+      "accepted_answers": [],
+      "lemma": "わたし",
+      "meaning": "I; me",
+      "part_of_speech": "pronoun"
+    },
+    "language_specific": {
+      "target_reading": "わたし",
+      "learning_role": "production",
+      "pronunciation": "In the answer, make わたし the informative focus: it supplies the person asked for."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0179",
+      "locale": "ja-JP",
+      "sentence": "どれですか。これです。",
+      "cloze": "これ",
+      "answer": "これ",
+      "accepted_answers": [],
+      "lemma": "これ",
+      "meaning": "this one",
+      "part_of_speech": "pronoun"
+    },
+    "language_specific": {
+      "target_reading": "これ",
+      "learning_role": "production",
+      "pronunciation": "Focus これ in the reply to identify the item among the available choices.",
+      "usage": "どれ asks which one."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0180",
+      "locale": "ja-JP",
+      "sentence": "でんわのひとはだれですか。",
+      "cloze": "だれ",
+      "answer": "だれ",
+      "accepted_answers": [],
+      "lemma": "だれ",
+      "meaning": "who",
+      "part_of_speech": "pronoun",
+      "note": "でんわ means telephone."
+    },
+    "language_specific": {
+      "target_reading": "だれ",
+      "learning_role": "production",
+      "pronunciation": "Sentence: A light boundary after でんわのひとは can set up the topic; give だれ informative focus to ask for the identity of the person on the phone.",
+      "usage": "The speaker asks who the person on the phone is."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0181",
+      "locale": "ja-JP",
+      "sentence": "これは、なんですか。",
+      "cloze": "なん",
+      "answer": "なん",
+      "accepted_answers": [],
+      "lemma": "なに",
+      "meaning": "what",
+      "part_of_speech": "pronoun"
+    },
+    "language_specific": {
+      "target_reading": "なん",
+      "learning_role": "production",
+      "pronunciation": "Sentence: After a light boundary following これは, focus なん when asking what the item is.",
+      "usage": "なん is the form used before です."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0182",
+      "locale": "ja-JP",
+      "sentence": "トイレは、どこですか。",
+      "cloze": "どこ",
+      "answer": "どこ",
+      "accepted_answers": [],
+      "lemma": "どこ",
+      "meaning": "where",
+      "part_of_speech": "pronoun"
+    },
+    "language_specific": {
+      "target_reading": "どこ",
+      "learning_role": "production",
+      "pronunciation": "Sentence: A light boundary after トイレは introduces the topic; focus どこ to ask for its location."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0183",
+      "locale": "ja-JP",
+      "sentence": "あしたですか。そうです。",
+      "cloze": "そう",
+      "answer": "そう",
+      "accepted_answers": [],
+      "lemma": "そう",
+      "meaning": "that is right",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "target_reading": "そう",
+      "learning_role": "production",
+      "pronunciation": "In the reply, focus そう to confirm the proposed day; keep its long vowel for two morae.",
+      "usage": "あした means tomorrow."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0184",
+      "locale": "ja-JP",
+      "sentence": "おちゃ、いりますか。はい。",
+      "cloze": "はい",
+      "answer": "はい",
+      "accepted_answers": [],
+      "lemma": "はい",
+      "meaning": "yes",
+      "part_of_speech": "interjection",
+      "note": "いりますか asks whether someone wants or needs something."
+    },
+    "language_specific": {
+      "target_reading": "はい",
+      "learning_role": "production",
+      "pronunciation": "Sentence: Say はい as a separate response after the question, with a clear boundary between the two turns.",
+      "usage": "The reply accepts the offer of tea."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0185",
+      "locale": "ja-JP",
+      "sentence": "あしたです。そうですか。",
+      "cloze": "そうですか",
+      "answer": "そうですか",
+      "accepted_answers": [],
+      "lemma": "そうですか",
+      "meaning": "is that so?",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_reading": "そうですか",
+      "learning_role": "production",
+      "pronunciation": "A gentle, relatively level or falling ending can acknowledge the information; a rise can instead sound like a request for confirmation.",
+      "usage": "The first speaker says it is tomorrow."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0186",
+      "locale": "ja-JP",
+      "sentence": "これ、ただです。ほんとう？",
+      "cloze": "ほんとう",
+      "answer": "ほんとう",
+      "accepted_answers": [],
+      "lemma": "ほんとう",
+      "meaning": "really?",
+      "part_of_speech": "na-adjective",
+      "note": "ただ means free of charge."
+    },
+    "language_specific": {
+      "target_reading": "ほんとう",
+      "learning_role": "production",
+      "pronunciation": "A rising ending can convey surprise and a request for confirmation. The final う extends the vowel.",
+      "usage": "This bare question is casual."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0187",
+      "locale": "ja-JP",
+      "sentence": "このほんをよんでもいいですか。",
+      "cloze": "いいですか",
+      "answer": "いいですか",
+      "accepted_answers": [],
+      "lemma": "いいですか",
+      "meaning": "is it okay?",
+      "part_of_speech": "expression",
+      "note": "このほんをよんでも sets up the request to read this book."
+    },
+    "language_specific": {
+      "target_reading": "いいですか",
+      "learning_role": "production",
+      "pronunciation": "Sentence: A gentle rise at the end can mark this as a request for permission.",
+      "usage": "The full sentence asks permission to read this book."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0188",
+      "locale": "ja-JP",
+      "sentence": "「あしたです。」「すみません、もういちど。」",
+      "cloze": "もういちど",
+      "answer": "もういちど",
+      "accepted_answers": [],
+      "lemma": "もういちど",
+      "meaning": "once more",
+      "part_of_speech": "expression",
+      "note": "あした means tomorrow."
+    },
+    "language_specific": {
+      "target_reading": "もういちど",
+      "learning_role": "production",
+      "pronunciation": "Sentence: Use a gentle request intonation in the second turn; a small boundary after すみません is optional. もう has a long vowel.",
+      "usage": "The second speaker asks the first to repeat what they said."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0189",
+      "locale": "ja-JP",
+      "sentence": "おちゃ、いりますか。ええ。",
+      "cloze": "ええ",
+      "answer": "ええ",
+      "accepted_answers": [],
+      "lemma": "ええ",
+      "meaning": "yes",
+      "part_of_speech": "interjection"
+    },
+    "language_specific": {
+      "target_reading": "ええ",
+      "learning_role": "production",
+      "pronunciation": "A settled, falling response can signal agreement; hold the vowel for two morae.",
+      "usage": "Here ええ accepts the offer of tea."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0190",
+      "locale": "ja-JP",
+      "sentence": "おちゃですか。いいえ、みずです。",
+      "cloze": "いいえ",
+      "answer": "いいえ",
+      "accepted_answers": [],
+      "lemma": "いいえ",
+      "meaning": "no",
+      "part_of_speech": "interjection"
+    },
+    "language_specific": {
+      "target_reading": "いいえ",
+      "learning_role": "production",
+      "pronunciation": "Sentence: A gentle falling response followed by a small pause prepares the correction みずです.",
+      "usage": "The speaker corrects the guess: it is water."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0191",
+      "locale": "ja-JP",
+      "sentence": "あした、だいじょうぶですか。",
+      "cloze": "だいじょうぶ",
+      "answer": "だいじょうぶ",
+      "accepted_answers": [],
+      "lemma": "だいじょうぶ",
+      "meaning": "okay",
+      "part_of_speech": "na-adjective"
+    },
+    "language_specific": {
+      "target_reading": "だいじょうぶ",
+      "learning_role": "production",
+      "pronunciation": "Sentence: A gentle rise at the end of the full question can invite confirmation. In だいじょうぶ, keep じょう long.",
+      "usage": "This checks whether tomorrow works for the listener."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0192",
+      "locale": "ja-JP",
+      "sentence": "おちゃです。どうぞ。",
+      "cloze": "どうぞ",
+      "answer": "どうぞ",
+      "accepted_answers": [],
+      "lemma": "どうぞ",
+      "meaning": "here you are",
+      "part_of_speech": "interjection"
+    },
+    "language_specific": {
+      "target_reading": "どうぞ",
+      "learning_role": "production",
+      "pronunciation": "A gentle falling ending can make the offer sound settled; どう has a long vowel.",
+      "usage": "The speaker offers tea to someone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0193",
+      "locale": "ja-JP",
+      "sentence": "あかがすきです。",
+      "cloze": "あか",
+      "answer": "あか",
+      "accepted_answers": [],
+      "lemma": "あか",
+      "meaning": "red",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "あか",
+      "learning_role": "production",
+      "pronunciation": "あか has two morae, both with the vowel /a/. In romaji input, aka gives あか."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0194",
+      "locale": "ja-JP",
+      "sentence": "いかはすきですか。",
+      "cloze": "いか",
+      "answer": "いか",
+      "accepted_answers": [],
+      "lemma": "いか",
+      "meaning": "squid",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "いか",
+      "learning_role": "production",
+      "pronunciation": "いか has two morae, with /i/ followed by /a/. In romaji input, ika gives いか."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0195",
+      "locale": "ja-JP",
+      "sentence": "うみはどこですか。",
+      "cloze": "うみ",
+      "answer": "うみ",
+      "accepted_answers": [],
+      "lemma": "うみ",
+      "meaning": "sea",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "うみ",
+      "learning_role": "production",
+      "pronunciation": "うみ has two morae, with /u/ followed by /i/. In romaji input, umi gives うみ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0196",
+      "locale": "ja-JP",
+      "sentence": "このえはすてきです。",
+      "cloze": "え",
+      "answer": "え",
+      "accepted_answers": [],
+      "lemma": "え",
+      "meaning": "picture",
+      "part_of_speech": "noun",
+      "note": "すてき means lovely."
+    },
+    "language_specific": {
+      "target_reading": "え",
+      "learning_role": "production",
+      "pronunciation": "え is one mora with the vowel /e/. In romaji input, e gives え."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0197",
+      "locale": "ja-JP",
+      "sentence": "このおとはなんですか。",
+      "cloze": "おと",
+      "answer": "おと",
+      "accepted_answers": [],
+      "lemma": "おと",
+      "meaning": "sound",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "おと",
+      "learning_role": "production",
+      "pronunciation": "おと has two morae, both with the vowel /o/. In romaji input, oto gives おと."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0198",
+      "locale": "ja-JP",
+      "sentence": "きゅうりをください。",
+      "cloze": "きゅうり",
+      "answer": "きゅうり",
+      "accepted_answers": [],
+      "lemma": "きゅうり",
+      "meaning": "cucumber",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_reading": "きゅうり",
+      "learning_role": "production",
+      "pronunciation": "きゅうり has three morae: きゅ, う, り. The small ゅ joins き; in romaji input, kyuuri gives きゅうり."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0199",
+      "locale": "ja-JP",
+      "sentence": "びょうきです。くすりはありますか。",
+      "cloze": "びょうき",
+      "answer": "びょうき",
+      "accepted_answers": [],
+      "lemma": "びょうき",
+      "meaning": "ill; sick",
+      "part_of_speech": "noun",
+      "note": "くすり means medicine."
+    },
+    "language_specific": {
+      "target_reading": "びょうき",
+      "learning_role": "production",
+      "pronunciation": "びょうき has three morae: びょ, う, き. The small ょ joins び; in romaji input, byouki gives びょうき.",
+      "usage": "びょうきです means the speaker is ill here."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ja-00-0200",
+      "locale": "ja-JP",
+      "sentence": "ゆうびんのまどぐちはここですか。",
+      "cloze": "ゆうびん",
+      "answer": "ゆうびん",
+      "accepted_answers": [],
+      "lemma": "ゆうびん",
+      "meaning": "mail; postal service",
+      "part_of_speech": "noun",
+      "note": "まどぐち means counter."
+    },
+    "language_specific": {
+      "target_reading": "ゆうびん",
+      "learning_role": "production",
+      "pronunciation": "ゆうびん has four morae: ゆ, う, び, ん. The second unit of the long vowel and the final ん each count as one mora; in romaji input, yuubin gives ゆうびん.",
+      "usage": "The speaker asks whether this is the postal counter."
+    }
+  }
+]

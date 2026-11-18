@@ -1,0 +1,3729 @@
+[
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0001",
+      "locale": "zh-Hans-CN",
+      "sentence": "这是我家。",
+      "cloze": "家",
+      "answer": "家",
+      "accepted_answers": [],
+      "lemma": "家",
+      "meaning": "home",
+      "part_of_speech": "noun",
+      "note": "“这” means this, “是” links a subject to what it is, and “我” means I or me. “我家” means my home; a family relationship can be expressed without “的”."
+    },
+    "language_specific": {
+      "target_pinyin": "jiā",
+      "pronunciation_note": "In 家, j is an alveolo-palatal initial; contrast it with retroflex zh."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0002",
+      "locale": "zh-Hans-CN",
+      "sentence": "这是一只鸡。",
+      "cloze": "鸡",
+      "answer": "鸡",
+      "accepted_answers": [],
+      "lemma": "鸡",
+      "meaning": "chicken",
+      "part_of_speech": "noun",
+      "note": "“一” means one; “只” is a measure word used to count animals."
+    },
+    "language_specific": {
+      "target_pinyin": "jī",
+      "pronunciation_note": "In 鸡, j is alveolo-palatal; contrast it with retroflex zh. The vowel in jī differs from the apical vowel in zhī."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0003",
+      "locale": "zh-Hans-CN",
+      "sentence": "你有几个苹果？",
+      "cloze": "几",
+      "answer": "几",
+      "accepted_answers": [],
+      "lemma": "几",
+      "meaning": "how many",
+      "part_of_speech": "pronoun",
+      "note": "“你” means you, “有” means to have, and “苹果” means apple. “个” is a general measure word used when counting apples."
+    },
+    "language_specific": {
+      "target_pinyin": "jǐ",
+      "pronunciation_note": "In 几, j is alveolo-palatal; contrast it with retroflex zh. The vowel in jǐ differs from the apical vowel in zhǐ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0004",
+      "locale": "zh-Hans-CN",
+      "sentence": "请坐这里。",
+      "cloze": "请",
+      "answer": "请",
+      "accepted_answers": [],
+      "lemma": "请",
+      "meaning": "please",
+      "part_of_speech": "verb",
+      "note": "“坐” means to sit; “这里” means here."
+    },
+    "language_specific": {
+      "target_pinyin": "qǐng",
+      "pronunciation_note": "In 请, q is an aspirated alveolo-palatal initial; contrast it with aspirated retroflex ch."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0005",
+      "locale": "zh-Hans-CN",
+      "sentence": "我有钱。",
+      "cloze": "钱",
+      "answer": "钱",
+      "accepted_answers": [],
+      "lemma": "钱",
+      "meaning": "money",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "qián",
+      "pronunciation_note": "In 钱, q is alveolo-palatal and aspirated; contrast it with retroflex ch."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0006",
+      "locale": "zh-Hans-CN",
+      "sentence": "你去吗？",
+      "cloze": "去",
+      "answer": "去",
+      "accepted_answers": [],
+      "lemma": "去",
+      "meaning": "to go",
+      "part_of_speech": "verb",
+      "note": "“吗” at the end turns a statement into a yes-or-no question."
+    },
+    "language_specific": {
+      "target_pinyin": "qù",
+      "pronunciation_note": "In 去, q is alveolo-palatal and aspirated; contrast it with retroflex ch. The written u after q represents ü."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0007",
+      "locale": "zh-Hans-CN",
+      "sentence": "你姓什么？",
+      "cloze": "姓",
+      "answer": "姓",
+      "accepted_answers": [],
+      "lemma": "姓",
+      "meaning": "to have as one's surname",
+      "part_of_speech": "verb",
+      "note": "“什么” means what."
+    },
+    "language_specific": {
+      "target_pinyin": "xìng",
+      "pronunciation_note": "In 姓, x is an alveolo-palatal initial; contrast it with retroflex sh."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0008",
+      "locale": "zh-Hans-CN",
+      "sentence": "请写名字。",
+      "cloze": "写",
+      "answer": "写",
+      "accepted_answers": [],
+      "lemma": "写",
+      "meaning": "to write",
+      "part_of_speech": "verb",
+      "note": "“名字” means name."
+    },
+    "language_specific": {
+      "target_pinyin": "xiě",
+      "pronunciation_note": "In 写, x is alveolo-palatal; contrast it with retroflex sh."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0009",
+      "locale": "zh-Hans-CN",
+      "sentence": "这个杯子很小。",
+      "cloze": "小",
+      "answer": "小",
+      "accepted_answers": [],
+      "lemma": "小",
+      "meaning": "small",
+      "part_of_speech": "adjective",
+      "note": "“这个” means this, used before a noun; “杯子” means cup. “很” links the subject to an adjective and need not mean very."
+    },
+    "language_specific": {
+      "target_pinyin": "xiǎo",
+      "pronunciation_note": "In 小, x is alveolo-palatal; contrast it with retroflex sh."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0010",
+      "locale": "zh-Hans-CN",
+      "sentence": "我喜欢茶。",
+      "cloze": "喜欢",
+      "answer": "喜欢",
+      "accepted_answers": [],
+      "lemma": "喜欢",
+      "meaning": "to like",
+      "part_of_speech": "verb",
+      "note": "“茶” means tea."
+    },
+    "language_specific": {
+      "target_pinyin": "xǐhuan",
+      "pronunciation_note": "In 喜欢, the x of 喜 is alveolo-palatal; contrast it with retroflex sh. 欢 has a neutral tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0011",
+      "locale": "zh-Hans-CN",
+      "sentence": "这是什么？",
+      "cloze": "这",
+      "answer": "这",
+      "accepted_answers": [],
+      "lemma": "这",
+      "meaning": "this",
+      "part_of_speech": "pronoun"
+    },
+    "language_specific": {
+      "target_pinyin": "zhè",
+      "pronunciation_note": "In 这, zh is retroflex; contrast it with alveolo-palatal j."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0012",
+      "locale": "zh-Hans-CN",
+      "sentence": "我学中文。",
+      "cloze": "中文",
+      "answer": "中文",
+      "accepted_answers": [],
+      "lemma": "中文",
+      "meaning": "Chinese language",
+      "part_of_speech": "noun",
+      "note": "“学” means to learn or study."
+    },
+    "language_specific": {
+      "target_pinyin": "Zhōngwén",
+      "pronunciation_note": "In 中文, the zh of 中 is retroflex; contrast it with alveolo-palatal j."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0013",
+      "locale": "zh-Hans-CN",
+      "sentence": "书在桌子上。",
+      "cloze": "桌子",
+      "answer": "桌子",
+      "accepted_answers": [],
+      "lemma": "桌子",
+      "meaning": "table",
+      "part_of_speech": "noun",
+      "note": "“书” means book. “在” marks location; “在…上” means on top of something."
+    },
+    "language_specific": {
+      "target_pinyin": "zhuōzi",
+      "pronunciation_note": "In 桌子, the zh of 桌 is retroflex; contrast it with alveolo-palatal j. 子 has a neutral tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0014",
+      "locale": "zh-Hans-CN",
+      "sentence": "我知道他的名字。",
+      "cloze": "知道",
+      "answer": "知道",
+      "accepted_answers": [],
+      "lemma": "知道",
+      "meaning": "to know",
+      "part_of_speech": "verb",
+      "note": "“他” means he or him; “的” marks possession, so “他的” means his."
+    },
+    "language_specific": {
+      "target_pinyin": "zhīdao",
+      "pronunciation_note": "In 知道, the zh of 知 is retroflex, unlike alveolo-palatal j; its apical vowel differs from the vowel in jī."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0015",
+      "locale": "zh-Hans-CN",
+      "sentence": "你要茶吗？",
+      "cloze": "茶",
+      "answer": "茶",
+      "accepted_answers": [],
+      "lemma": "茶",
+      "meaning": "tea",
+      "part_of_speech": "noun",
+      "note": "“要” means to want."
+    },
+    "language_specific": {
+      "target_pinyin": "chá",
+      "pronunciation_note": "In 茶, ch is an aspirated retroflex initial; contrast it with alveolo-palatal q."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0016",
+      "locale": "zh-Hans-CN",
+      "sentence": "我吃米饭。",
+      "cloze": "吃",
+      "answer": "吃",
+      "accepted_answers": [],
+      "lemma": "吃",
+      "meaning": "to eat",
+      "part_of_speech": "verb",
+      "note": "“米饭” means cooked rice."
+    },
+    "language_specific": {
+      "target_pinyin": "chī",
+      "pronunciation_note": "In 吃, ch is retroflex, unlike alveolo-palatal q; its apical vowel differs from the vowel in qī."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0017",
+      "locale": "zh-Hans-CN",
+      "sentence": "那是我的车。",
+      "cloze": "车",
+      "answer": "车",
+      "accepted_answers": [],
+      "lemma": "车",
+      "meaning": "car; vehicle",
+      "part_of_speech": "noun",
+      "note": "“那” means that."
+    },
+    "language_specific": {
+      "target_pinyin": "chē",
+      "pronunciation_note": "In 车, ch is aspirated and retroflex; contrast it with alveolo-palatal q."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0018",
+      "locale": "zh-Hans-CN",
+      "sentence": "我是老师。",
+      "cloze": "是",
+      "answer": "是",
+      "accepted_answers": [],
+      "lemma": "是",
+      "meaning": "to be",
+      "part_of_speech": "verb",
+      "note": "“老师” means teacher."
+    },
+    "language_specific": {
+      "target_pinyin": "shì",
+      "pronunciation_note": "In 是, sh is retroflex, unlike alveolo-palatal x; its apical vowel differs from the vowel in xì."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0019",
+      "locale": "zh-Hans-CN",
+      "sentence": "请给我水。",
+      "cloze": "水",
+      "answer": "水",
+      "accepted_answers": [],
+      "lemma": "水",
+      "meaning": "water",
+      "part_of_speech": "noun",
+      "note": "“给” means to give; the recipient can follow it before the thing given."
+    },
+    "language_specific": {
+      "target_pinyin": "shuǐ",
+      "pronunciation_note": "In 水, sh is retroflex; contrast it with alveolo-palatal x."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0020",
+      "locale": "zh-Hans-CN",
+      "sentence": "这是我的书。",
+      "cloze": "书",
+      "answer": "书",
+      "accepted_answers": [],
+      "lemma": "书",
+      "meaning": "book",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "shū",
+      "pronunciation_note": "In 书, sh is retroflex; contrast it with alveolo-palatal x."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0021",
+      "locale": "zh-Hans-CN",
+      "sentence": "这个字怎么写？",
+      "cloze": "字",
+      "answer": "字",
+      "accepted_answers": [],
+      "lemma": "字",
+      "meaning": "written character",
+      "part_of_speech": "noun",
+      "note": "“怎么” means how; it comes before the action being asked about."
+    },
+    "language_specific": {
+      "target_pinyin": "zì",
+      "pronunciation_note": "In 字, z is dental, unlike retroflex zh. The i in zì represents an apical vowel."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0022",
+      "locale": "zh-Hans-CN",
+      "sentence": "我们走吧。",
+      "cloze": "走",
+      "answer": "走",
+      "accepted_answers": [],
+      "lemma": "走",
+      "meaning": "to leave; to go",
+      "part_of_speech": "verb",
+      "note": "“我们” means we or us; final “吧” makes a suggestion."
+    },
+    "language_specific": {
+      "target_pinyin": "zǒu",
+      "pronunciation_note": "In 走, z is dental; contrast it with retroflex zh."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0023",
+      "locale": "zh-Hans-CN",
+      "sentence": "请坐这儿。",
+      "cloze": "坐",
+      "answer": "坐",
+      "accepted_answers": [],
+      "lemma": "坐",
+      "meaning": "to sit",
+      "part_of_speech": "verb",
+      "note": "“这儿” means here."
+    },
+    "language_specific": {
+      "target_pinyin": "zuò",
+      "pronunciation_note": "In 坐, z is dental; contrast it with retroflex zh."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0024",
+      "locale": "zh-Hans-CN",
+      "sentence": "这个菜很好吃。",
+      "cloze": "菜",
+      "answer": "菜",
+      "accepted_answers": [],
+      "lemma": "菜",
+      "meaning": "dish; cooked food",
+      "part_of_speech": "noun",
+      "note": "“好吃” means tasty."
+    },
+    "language_specific": {
+      "target_pinyin": "cài",
+      "pronunciation_note": "In 菜, c is an aspirated dental initial; contrast it with retroflex ch."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0025",
+      "locale": "zh-Hans-CN",
+      "sentence": "你要醋吗？",
+      "cloze": "醋",
+      "answer": "醋",
+      "accepted_answers": [],
+      "lemma": "醋",
+      "meaning": "vinegar",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "cù",
+      "pronunciation_note": "In 醋, c is dental and aspirated; contrast it with retroflex ch."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0026",
+      "locale": "zh-Hans-CN",
+      "sentence": "这个字写错了。",
+      "cloze": "错",
+      "answer": "错",
+      "accepted_answers": [],
+      "lemma": "错",
+      "meaning": "wrong; incorrectly",
+      "part_of_speech": "adjective",
+      "note": "“写错了” expresses the result of writing something incorrectly; “了” marks the resulting situation."
+    },
+    "language_specific": {
+      "target_pinyin": "cuò",
+      "pronunciation_note": "In 错, c is dental and aspirated; contrast it with retroflex ch."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0027",
+      "locale": "zh-Hans-CN",
+      "sentence": "我有三个杯子。",
+      "cloze": "三",
+      "answer": "三",
+      "accepted_answers": [],
+      "lemma": "三",
+      "meaning": "three",
+      "part_of_speech": "numeral"
+    },
+    "language_specific": {
+      "target_pinyin": "sān",
+      "pronunciation_note": "In 三, s is dental; contrast it with retroflex sh."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0028",
+      "locale": "zh-Hans-CN",
+      "sentence": "桌上有四本书。",
+      "cloze": "四",
+      "answer": "四",
+      "accepted_answers": [],
+      "lemma": "四",
+      "meaning": "four",
+      "part_of_speech": "numeral",
+      "note": "“桌上” means on the table; “有” can express that something is there. “本” is a measure word for books."
+    },
+    "language_specific": {
+      "target_pinyin": "sì",
+      "pronunciation_note": "In 四, s is dental, unlike retroflex sh. The i in sì represents an apical vowel."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0029",
+      "locale": "zh-Hans-CN",
+      "sentence": "这是你的伞吗？",
+      "cloze": "伞",
+      "answer": "伞",
+      "accepted_answers": [],
+      "lemma": "伞",
+      "meaning": "umbrella",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "sǎn",
+      "pronunciation_note": "In 伞, s is dental; contrast it with retroflex sh."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0030",
+      "locale": "zh-Hans-CN",
+      "sentence": "我在找我的书。",
+      "cloze": "找",
+      "answer": "找",
+      "accepted_answers": [],
+      "lemma": "找",
+      "meaning": "to look for",
+      "part_of_speech": "verb",
+      "note": "“在” before an action marks it as ongoing."
+    },
+    "language_specific": {
+      "target_pinyin": "zhǎo",
+      "pronunciation_note": "In 找, zh is retroflex; contrast it with dental z."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0031",
+      "locale": "zh-Hans-CN",
+      "sentence": "我住在中国。",
+      "cloze": "中国",
+      "answer": "中国",
+      "accepted_answers": [],
+      "lemma": "中国",
+      "meaning": "China",
+      "part_of_speech": "proper noun",
+      "note": "“住” means to live or reside; “住在” introduces the place of residence."
+    },
+    "language_specific": {
+      "target_pinyin": "Zhōngguó",
+      "pronunciation_note": "In 中国, the zh of 中 is retroflex; contrast it with dental z."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0032",
+      "locale": "zh-Hans-CN",
+      "sentence": "今天穿什么？",
+      "cloze": "穿",
+      "answer": "穿",
+      "accepted_answers": [],
+      "lemma": "穿",
+      "meaning": "to wear; to put on",
+      "part_of_speech": "verb",
+      "note": "“今天” means today. The person is left unstated."
+    },
+    "language_specific": {
+      "target_pinyin": "chuān",
+      "pronunciation_note": "In 穿, ch is retroflex and aspirated; contrast it with dental c."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0033",
+      "locale": "zh-Hans-CN",
+      "sentence": "请从这儿出去。",
+      "cloze": "出去",
+      "answer": "出去",
+      "accepted_answers": [],
+      "lemma": "出去",
+      "meaning": "to go out",
+      "part_of_speech": "verb",
+      "note": "“从” introduces the place from which an action starts."
+    },
+    "language_specific": {
+      "target_pinyin": "chūqu",
+      "pronunciation_note": "In 出去, the ch of 出 is retroflex; contrast it with dental c. 去 has a neutral tone in this directional expression."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0034",
+      "locale": "zh-Hans-CN",
+      "sentence": "她是谁？",
+      "cloze": "谁",
+      "answer": "谁",
+      "accepted_answers": [],
+      "lemma": "谁",
+      "meaning": "who",
+      "part_of_speech": "pronoun",
+      "note": "“她” means she or her."
+    },
+    "language_specific": {
+      "target_pinyin": "shéi",
+      "pronunciation_note": "In 谁, sh is retroflex; contrast it with dental s."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0035",
+      "locale": "zh-Hans-CN",
+      "sentence": "那个人是我。",
+      "cloze": "人",
+      "answer": "人",
+      "accepted_answers": [],
+      "lemma": "人",
+      "meaning": "person",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "rén",
+      "pronunciation_note": "In 人, r is a voiced retroflex initial; contrast it with voiceless retroflex sh."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0036",
+      "locale": "zh-Hans-CN",
+      "sentence": "这个茶很热。",
+      "cloze": "热",
+      "answer": "热",
+      "accepted_answers": [],
+      "lemma": "热",
+      "meaning": "hot",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "target_pinyin": "rè",
+      "pronunciation_note": "In 热, r is voiced and retroflex; contrast it with voiceless retroflex sh."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0037",
+      "locale": "zh-Hans-CN",
+      "sentence": "我不吃肉。",
+      "cloze": "肉",
+      "answer": "肉",
+      "accepted_answers": [],
+      "lemma": "肉",
+      "meaning": "meat",
+      "part_of_speech": "noun",
+      "note": "“不” before a verb negates it."
+    },
+    "language_specific": {
+      "target_pinyin": "ròu",
+      "pronunciation_note": "In 肉, r is voiced and retroflex; contrast it with voiceless retroflex sh."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0038",
+      "locale": "zh-Hans-CN",
+      "sentence": "你认识她吗？",
+      "cloze": "认识",
+      "answer": "认识",
+      "accepted_answers": [],
+      "lemma": "认识",
+      "meaning": "to know or be acquainted with",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_pinyin": "rènshi",
+      "pronunciation_note": "In 认识, the r of 认 is voiced and retroflex, unlike the voiceless retroflex sh of 识. 识 has a neutral tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0039",
+      "locale": "zh-Hans-CN",
+      "sentence": "这日子真好。",
+      "cloze": "日子",
+      "answer": "日子",
+      "accepted_answers": [],
+      "lemma": "日子",
+      "meaning": "days; life",
+      "part_of_speech": "noun",
+      "note": "“真” means really; “好” means good."
+    },
+    "language_specific": {
+      "target_pinyin": "rìzi",
+      "pronunciation_note": "In 日子, the r of 日 is voiced and retroflex, unlike dental z in 子. The i in rì is an apical vowel; 子 has a neutral tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0040",
+      "locale": "zh-Hans-CN",
+      "sentence": "请让我看看。",
+      "cloze": "让",
+      "answer": "让",
+      "accepted_answers": [],
+      "lemma": "让",
+      "meaning": "to let; to allow",
+      "part_of_speech": "verb",
+      "note": "“看看” means to take a look; the repeated verb suggests a brief look."
+    },
+    "language_specific": {
+      "target_pinyin": "ràng",
+      "pronunciation_note": "In 让, r is voiced and retroflex; contrast it with voiceless retroflex sh."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0041",
+      "locale": "zh-Hans-CN",
+      "sentence": "她是我女儿。",
+      "cloze": "女儿",
+      "answer": "女儿",
+      "accepted_answers": [],
+      "lemma": "女儿",
+      "meaning": "daughter",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "nǚ'ér",
+      "pronunciation_note": "In 女, nǚ has the final ü, written with dots after n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0042",
+      "locale": "zh-Hans-CN",
+      "sentence": "我要绿茶。",
+      "cloze": "绿茶",
+      "answer": "绿茶",
+      "accepted_answers": [],
+      "lemma": "绿茶",
+      "meaning": "green tea",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "lǜchá",
+      "pronunciation_note": "In 绿, lǜ has the final ü, written with dots after l."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0043",
+      "locale": "zh-Hans-CN",
+      "sentence": "你喜欢旅游吗？",
+      "cloze": "旅游",
+      "answer": "旅游",
+      "accepted_answers": [],
+      "lemma": "旅游",
+      "meaning": "to travel",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_pinyin": "lǚyóu",
+      "pronunciation_note": "In 旅, lǚ has the final ü, written with dots after l."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0044",
+      "locale": "zh-Hans-CN",
+      "sentence": "这条路很长。",
+      "cloze": "路",
+      "answer": "路",
+      "accepted_answers": [],
+      "lemma": "路",
+      "meaning": "road",
+      "part_of_speech": "noun",
+      "note": "“条” is a measure word used for roads; “长” means long."
+    },
+    "language_specific": {
+      "target_pinyin": "lù",
+      "pronunciation_note": "路 has the final u, distinct from ü in lǜ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0045",
+      "locale": "zh-Hans-CN",
+      "sentence": "这是橘子。",
+      "cloze": "橘子",
+      "answer": "橘子",
+      "accepted_answers": [],
+      "lemma": "橘子",
+      "meaning": "mandarin orange",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "júzi",
+      "pronunciation_note": "In 橘, jú has the final ü; the dots are omitted after j. 子 is neutral tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0046",
+      "locale": "zh-Hans-CN",
+      "sentence": "我有一张地图。",
+      "cloze": "地图",
+      "answer": "地图",
+      "accepted_answers": [],
+      "lemma": "地图",
+      "meaning": "map",
+      "part_of_speech": "noun",
+      "note": "“张” is a measure word used for flat objects such as maps."
+    },
+    "language_specific": {
+      "target_pinyin": "dìtú",
+      "pronunciation_note": "In 图, tú has the final u, distinct from ü in nǚ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0047",
+      "locale": "zh-Hans-CN",
+      "sentence": "我想吃鱼。",
+      "cloze": "鱼",
+      "answer": "鱼",
+      "accepted_answers": [],
+      "lemma": "鱼",
+      "meaning": "fish",
+      "part_of_speech": "noun",
+      "note": "“想” before an action means to want to do it."
+    },
+    "language_specific": {
+      "target_pinyin": "yú",
+      "pronunciation_note": "鱼 has the final ü; the dots are omitted in the spelling yu."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0048",
+      "locale": "zh-Hans-CN",
+      "sentence": "今天有雨吗？",
+      "cloze": "雨",
+      "answer": "雨",
+      "accepted_answers": [],
+      "lemma": "雨",
+      "meaning": "rain",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "yǔ",
+      "pronunciation_note": "雨 has the final ü; the dots are omitted in the spelling yu."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0049",
+      "locale": "zh-Hans-CN",
+      "sentence": "你需要水吗？",
+      "cloze": "需要",
+      "answer": "需要",
+      "accepted_answers": [],
+      "lemma": "需要",
+      "meaning": "to need",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_pinyin": "xūyào",
+      "pronunciation_note": "In 需, xū has the final ü; the dots are omitted after x."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0050",
+      "locale": "zh-Hans-CN",
+      "sentence": "这条裙子很长。",
+      "cloze": "裙子",
+      "answer": "裙子",
+      "accepted_answers": [],
+      "lemma": "裙子",
+      "meaning": "skirt",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "qúnzi",
+      "pronunciation_note": "In 裙, qun contains ü; the dots are omitted after q. 子 is neutral tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0051",
+      "locale": "zh-Hans-CN",
+      "sentence": "你喝茶吗？",
+      "cloze": "喝",
+      "answer": "喝",
+      "accepted_answers": [],
+      "lemma": "喝",
+      "meaning": "to drink",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_pinyin": "hē",
+      "pronunciation_note": "喝 has the final e, distinct from o, uo and ou."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0052",
+      "locale": "zh-Hans-CN",
+      "sentence": "我很饿。",
+      "cloze": "饿",
+      "answer": "饿",
+      "accepted_answers": [],
+      "lemma": "饿",
+      "meaning": "hungry",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "target_pinyin": "è",
+      "pronunciation_note": "饿 is the syllable e with fourth tone, distinct from o, uo and ou."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0053",
+      "locale": "zh-Hans-CN",
+      "sentence": "哦，我要茶。",
+      "cloze": "哦",
+      "answer": "哦",
+      "accepted_answers": [],
+      "lemma": "哦",
+      "meaning": "oh; I see",
+      "part_of_speech": "interjection"
+    },
+    "language_specific": {
+      "target_pinyin": "ó",
+      "pronunciation_note": "Here 哦 is ó, an acknowledgment with the final o, distinct from e, uo and ou."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0054",
+      "locale": "zh-Hans-CN",
+      "sentence": "这是我的票。",
+      "cloze": "我",
+      "answer": "我",
+      "accepted_answers": [],
+      "lemma": "我",
+      "meaning": "I; me (my before 的)",
+      "part_of_speech": "pronoun",
+      "note": "“票” means ticket."
+    },
+    "language_specific": {
+      "target_pinyin": "wǒ",
+      "pronunciation_note": "我 has the final uo, written wo when it has no initial."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0055",
+      "locale": "zh-Hans-CN",
+      "sentence": "我要一杯果汁。",
+      "cloze": "果汁",
+      "answer": "果汁",
+      "accepted_answers": [],
+      "lemma": "果汁",
+      "meaning": "fruit juice",
+      "part_of_speech": "noun",
+      "note": "“杯” is a measure word for a cup or glass of a drink."
+    },
+    "language_specific": {
+      "target_pinyin": "guǒzhī",
+      "pronunciation_note": "In 果, guǒ has the final uo, distinct from e, o and ou."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0056",
+      "locale": "zh-Hans-CN",
+      "sentence": "这里的人很多。",
+      "cloze": "多",
+      "answer": "多",
+      "accepted_answers": [],
+      "lemma": "多",
+      "meaning": "many",
+      "part_of_speech": "adjective",
+      "note": "“这里的” modifies “人”: the people here."
+    },
+    "language_specific": {
+      "target_pinyin": "duō",
+      "pronunciation_note": "多 has the final uo, distinct from e, o and ou."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0057",
+      "locale": "zh-Hans-CN",
+      "sentence": "你家有几口人？",
+      "cloze": "口",
+      "answer": "口",
+      "accepted_answers": [],
+      "lemma": "口",
+      "meaning": "measure word for family members",
+      "part_of_speech": "measure word"
+    },
+    "language_specific": {
+      "target_pinyin": "kǒu",
+      "pronunciation_note": "口 has the final ou, distinct from e, o and uo."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0058",
+      "locale": "zh-Hans-CN",
+      "sentence": "这些水够吗？",
+      "cloze": "够",
+      "answer": "够",
+      "accepted_answers": [],
+      "lemma": "够",
+      "meaning": "to be enough",
+      "part_of_speech": "verb",
+      "note": "“这些” means these, or this amount of something."
+    },
+    "language_specific": {
+      "target_pinyin": "gòu",
+      "pronunciation_note": "够 has the final ou, distinct from e, o and uo."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0059",
+      "locale": "zh-Hans-CN",
+      "sentence": "河在那边。",
+      "cloze": "河",
+      "answer": "河",
+      "accepted_answers": [],
+      "lemma": "河",
+      "meaning": "river",
+      "part_of_speech": "noun",
+      "note": "“那边” means over there."
+    },
+    "language_specific": {
+      "target_pinyin": "hé",
+      "pronunciation_note": "河 has the final e, distinct from o, uo and ou."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0060",
+      "locale": "zh-Hans-CN",
+      "sentence": "我们去买豆浆。",
+      "cloze": "豆浆",
+      "answer": "豆浆",
+      "accepted_answers": [],
+      "lemma": "豆浆",
+      "meaning": "soy milk",
+      "part_of_speech": "noun",
+      "note": "“买” means to buy; “去买” means to go and buy."
+    },
+    "language_specific": {
+      "target_pinyin": "dòujiāng",
+      "pronunciation_note": "In 豆, dòu has the final ou, distinct from e, o and uo."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0061",
+      "locale": "zh-Hans-CN",
+      "sentence": "饭在桌子上。",
+      "cloze": "饭",
+      "answer": "饭",
+      "accepted_answers": [],
+      "lemma": "饭",
+      "meaning": "cooked rice; meal",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "fàn",
+      "pronunciation_note": "饭 has the final an, ending in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0062",
+      "locale": "zh-Hans-CN",
+      "sentence": "这是你的碗吗？",
+      "cloze": "碗",
+      "answer": "碗",
+      "accepted_answers": [],
+      "lemma": "碗",
+      "meaning": "bowl",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "wǎn",
+      "pronunciation_note": "碗 has the final uan, written wan; its an portion ends in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0063",
+      "locale": "zh-Hans-CN",
+      "sentence": "你看这本书。",
+      "cloze": "看",
+      "answer": "看",
+      "accepted_answers": [],
+      "lemma": "看",
+      "meaning": "to look at; to read",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_pinyin": "kàn",
+      "pronunciation_note": "看 has the final an, ending in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0064",
+      "locale": "zh-Hans-CN",
+      "sentence": "菜在盘子里。",
+      "cloze": "盘子",
+      "answer": "盘子",
+      "accepted_answers": [],
+      "lemma": "盘子",
+      "meaning": "plate",
+      "part_of_speech": "noun",
+      "note": "“里” after a noun means in or inside it."
+    },
+    "language_specific": {
+      "target_pinyin": "pánzi",
+      "pronunciation_note": "In 盘, pán has the final an, ending in n rather than ng. 子 is neutral tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0065",
+      "locale": "zh-Hans-CN",
+      "sentence": "晚上我在家。",
+      "cloze": "晚上",
+      "answer": "晚上",
+      "accepted_answers": [],
+      "lemma": "晚上",
+      "meaning": "evening; at night",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "wǎnshang",
+      "pronunciation_note": "In 晚, wǎn has the final uan, whose an portion ends in n rather than ng. 上 is neutral tone here."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0066",
+      "locale": "zh-Hans-CN",
+      "sentence": "我的房间在那边。",
+      "cloze": "房间",
+      "answer": "房间",
+      "accepted_answers": [],
+      "lemma": "房间",
+      "meaning": "room",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "fángjiān",
+      "pronunciation_note": "In 房, fáng has the final ang, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0067",
+      "locale": "zh-Hans-CN",
+      "sentence": "请上车。",
+      "cloze": "上",
+      "answer": "上",
+      "accepted_answers": [],
+      "lemma": "上",
+      "meaning": "to board",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_pinyin": "shàng",
+      "pronunciation_note": "In the verb 上, shàng has the final ang, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0068",
+      "locale": "zh-Hans-CN",
+      "sentence": "妈妈在我旁边。",
+      "cloze": "旁边",
+      "answer": "旁边",
+      "accepted_answers": [],
+      "lemma": "旁边",
+      "meaning": "beside",
+      "part_of_speech": "localizer",
+      "note": "“妈妈” means mother or mum."
+    },
+    "language_specific": {
+      "target_pinyin": "pángbiān",
+      "pronunciation_note": "In 旁, páng has the final ang, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0069",
+      "locale": "zh-Hans-CN",
+      "sentence": "窗户在门旁边。",
+      "cloze": "窗户",
+      "answer": "窗户",
+      "accepted_answers": [],
+      "lemma": "窗户",
+      "meaning": "window",
+      "part_of_speech": "noun",
+      "note": "“门” means door."
+    },
+    "language_specific": {
+      "target_pinyin": "chuānghu",
+      "pronunciation_note": "In 窗, chuāng has the final uang, whose ang portion ends in ng rather than n. 户 is neutral tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0070",
+      "locale": "zh-Hans-CN",
+      "sentence": "这碗汤很热。",
+      "cloze": "汤",
+      "answer": "汤",
+      "accepted_answers": [],
+      "lemma": "汤",
+      "meaning": "soup",
+      "part_of_speech": "noun",
+      "note": "“碗” can also measure a bowlful of food or drink."
+    },
+    "language_specific": {
+      "target_pinyin": "tāng",
+      "pronunciation_note": "汤 has the final ang, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0071",
+      "locale": "zh-Hans-CN",
+      "sentence": "门在那边。",
+      "cloze": "门",
+      "answer": "门",
+      "accepted_answers": [],
+      "lemma": "门",
+      "meaning": "door",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "mén",
+      "pronunciation_note": "门 has the final en, ending in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0072",
+      "locale": "zh-Hans-CN",
+      "sentence": "桌上有一本书。",
+      "cloze": "本",
+      "answer": "本",
+      "accepted_answers": [],
+      "lemma": "本",
+      "meaning": "measure word for books",
+      "part_of_speech": "measure word"
+    },
+    "language_specific": {
+      "target_pinyin": "běn",
+      "pronunciation_note": "本 has the final en, ending in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0073",
+      "locale": "zh-Hans-CN",
+      "sentence": "水在盆里。",
+      "cloze": "盆",
+      "answer": "盆",
+      "accepted_answers": [],
+      "lemma": "盆",
+      "meaning": "basin",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "pén",
+      "pronunciation_note": "盆 has the final en, ending in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0074",
+      "locale": "zh-Hans-CN",
+      "sentence": "这汤真好喝。",
+      "cloze": "真",
+      "answer": "真",
+      "accepted_answers": [],
+      "lemma": "真",
+      "meaning": "really",
+      "part_of_speech": "adverb",
+      "note": "“好喝” means pleasant to drink."
+    },
+    "language_specific": {
+      "target_pinyin": "zhēn",
+      "pronunciation_note": "真 has the final en, ending in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0075",
+      "locale": "zh-Hans-CN",
+      "sentence": "桌上有一根筷子。",
+      "cloze": "根",
+      "answer": "根",
+      "accepted_answers": [],
+      "lemma": "根",
+      "meaning": "measure word for long, thin objects",
+      "part_of_speech": "measure word",
+      "note": "“筷子” means chopstick or chopsticks; here “一根” counts one chopstick."
+    },
+    "language_specific": {
+      "target_pinyin": "gēn",
+      "pronunciation_note": "根 has the final en, ending in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0076",
+      "locale": "zh-Hans-CN",
+      "sentence": "房间里有灯。",
+      "cloze": "灯",
+      "answer": "灯",
+      "accepted_answers": [],
+      "lemma": "灯",
+      "meaning": "lamp; light",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "dēng",
+      "pronunciation_note": "灯 has the final eng, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0077",
+      "locale": "zh-Hans-CN",
+      "sentence": "今天很冷。",
+      "cloze": "冷",
+      "answer": "冷",
+      "accepted_answers": [],
+      "lemma": "冷",
+      "meaning": "cold",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "target_pinyin": "lěng",
+      "pronunciation_note": "冷 has the final eng, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0078",
+      "locale": "zh-Hans-CN",
+      "sentence": "朋友在我家。",
+      "cloze": "朋友",
+      "answer": "朋友",
+      "accepted_answers": [],
+      "lemma": "朋友",
+      "meaning": "friend",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "péngyou",
+      "pronunciation_note": "In 朋, péng has the final eng, ending in ng rather than n. 友 is neutral tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0079",
+      "locale": "zh-Hans-CN",
+      "sentence": "这是什么声音？",
+      "cloze": "声音",
+      "answer": "声音",
+      "accepted_answers": [],
+      "lemma": "声音",
+      "meaning": "sound; voice",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "shēngyīn",
+      "pronunciation_note": "In 声, shēng has the final eng, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0080",
+      "locale": "zh-Hans-CN",
+      "sentence": "请在门口等我。",
+      "cloze": "等",
+      "answer": "等",
+      "accepted_answers": [],
+      "lemma": "等",
+      "meaning": "to wait for",
+      "part_of_speech": "verb",
+      "note": "“门口” means the entrance or doorway."
+    },
+    "language_specific": {
+      "target_pinyin": "děng",
+      "pronunciation_note": "等 has the final eng, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0081",
+      "locale": "zh-Hans-CN",
+      "sentence": "今天是阴天。",
+      "cloze": "阴天",
+      "answer": "阴天",
+      "accepted_answers": [],
+      "lemma": "阴天",
+      "meaning": "overcast day",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "yīntiān",
+      "pronunciation_note": "Target: 阴 has the final in, ending in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0082",
+      "locale": "zh-Hans-CN",
+      "sentence": "这是一本新书。",
+      "cloze": "新",
+      "answer": "新",
+      "accepted_answers": [],
+      "lemma": "新",
+      "meaning": "new",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "target_pinyin": "xīn",
+      "pronunciation_note": "Target: 新 has the final in, ending in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0083",
+      "locale": "zh-Hans-CN",
+      "sentence": "我家离学校很近。",
+      "cloze": "近",
+      "answer": "近",
+      "accepted_answers": [],
+      "lemma": "近",
+      "meaning": "near",
+      "part_of_speech": "adjective",
+      "note": "“学校” means school; “离” introduces the place from which distance is measured."
+    },
+    "language_specific": {
+      "target_pinyin": "jìn",
+      "pronunciation_note": "Target: 近 has the final in, ending in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0084",
+      "locale": "zh-Hans-CN",
+      "sentence": "请进，我在家。",
+      "cloze": "进",
+      "answer": "进",
+      "accepted_answers": [],
+      "lemma": "进",
+      "meaning": "enter; come in",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_pinyin": "jìn",
+      "pronunciation_note": "Target: 进 has the final in, ending in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0085",
+      "locale": "zh-Hans-CN",
+      "sentence": "明天你有空吗？",
+      "cloze": "明天",
+      "answer": "明天",
+      "accepted_answers": [],
+      "lemma": "明天",
+      "meaning": "tomorrow",
+      "part_of_speech": "noun",
+      "note": "“有空” means to have free time."
+    },
+    "language_specific": {
+      "target_pinyin": "míngtiān",
+      "pronunciation_note": "Target: 明 has the final ing, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0086",
+      "locale": "zh-Hans-CN",
+      "sentence": "他生病了，在家休息。",
+      "cloze": "生病",
+      "answer": "生病",
+      "accepted_answers": [],
+      "lemma": "生病",
+      "meaning": "fall ill; be ill",
+      "part_of_speech": "verb",
+      "note": "“了” marks a changed situation; “休息” means to rest."
+    },
+    "language_specific": {
+      "target_pinyin": "shēngbìng",
+      "pronunciation_note": "Target: 病 has the final ing, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0087",
+      "locale": "zh-Hans-CN",
+      "sentence": "我们一起听音乐。",
+      "cloze": "听",
+      "answer": "听",
+      "accepted_answers": [],
+      "lemma": "听",
+      "meaning": "listen to",
+      "part_of_speech": "verb",
+      "note": "“一起” means together; “音乐” means music."
+    },
+    "language_specific": {
+      "target_pinyin": "tīng",
+      "pronunciation_note": "Target: 听 has the final ing, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0088",
+      "locale": "zh-Hans-CN",
+      "sentence": "天上有很多星星。",
+      "cloze": "星星",
+      "answer": "星星",
+      "accepted_answers": [],
+      "lemma": "星星",
+      "meaning": "star",
+      "part_of_speech": "noun",
+      "note": "“天上” means in the sky."
+    },
+    "language_specific": {
+      "target_pinyin": "xīngxing",
+      "pronunciation_note": "Target: the first 星 has the final ing, ending in ng rather than n; the second 星 is neutral tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0089",
+      "locale": "zh-Hans-CN",
+      "sentence": "今天是星期天。",
+      "cloze": "今天",
+      "answer": "今天",
+      "accepted_answers": [],
+      "lemma": "今天",
+      "meaning": "today",
+      "part_of_speech": "noun",
+      "note": "“星期天” means Sunday."
+    },
+    "language_specific": {
+      "target_pinyin": "jīntiān",
+      "pronunciation_note": "Target: 天 has the final ian, ending in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0090",
+      "locale": "zh-Hans-CN",
+      "sentence": "我们明天见。",
+      "cloze": "见",
+      "answer": "见",
+      "accepted_answers": [],
+      "lemma": "见",
+      "meaning": "meet; see",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_pinyin": "jiàn",
+      "pronunciation_note": "Target: 见 has the final ian, ending in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0091",
+      "locale": "zh-Hans-CN",
+      "sentence": "学校前面有家店。",
+      "cloze": "前面",
+      "answer": "前面",
+      "accepted_answers": [],
+      "lemma": "前面",
+      "meaning": "front; in front",
+      "part_of_speech": "noun",
+      "note": "“店” means shop; “家” is a measure word for businesses, with “一” omitted here."
+    },
+    "language_specific": {
+      "target_pinyin": "qiánmiàn",
+      "pronunciation_note": "Target: 前 has the final ian, ending in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0092",
+      "locale": "zh-Hans-CN",
+      "sentence": "桌上有两本书。",
+      "cloze": "两",
+      "answer": "两",
+      "accepted_answers": [],
+      "lemma": "两",
+      "meaning": "two",
+      "part_of_speech": "numeral"
+    },
+    "language_specific": {
+      "target_pinyin": "liǎng",
+      "pronunciation_note": "Target: 两 has the final iang, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0093",
+      "locale": "zh-Hans-CN",
+      "sentence": "我想回家休息。",
+      "cloze": "想",
+      "answer": "想",
+      "accepted_answers": [],
+      "lemma": "想",
+      "meaning": "want to",
+      "part_of_speech": "verb",
+      "note": "“回家” means to go home."
+    },
+    "language_specific": {
+      "target_pinyin": "xiǎng",
+      "pronunciation_note": "Target: 想 has the final iang, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0094",
+      "locale": "zh-Hans-CN",
+      "sentence": "早上天气很凉。",
+      "cloze": "凉",
+      "answer": "凉",
+      "accepted_answers": [],
+      "lemma": "凉",
+      "meaning": "cool",
+      "part_of_speech": "adjective",
+      "note": "“早上” means morning; “天气” means weather."
+    },
+    "language_specific": {
+      "target_pinyin": "liáng",
+      "pronunciation_note": "Target: 凉 has the final iang, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0095",
+      "locale": "zh-Hans-CN",
+      "sentence": "出门前请关灯。",
+      "cloze": "关",
+      "answer": "关",
+      "accepted_answers": [],
+      "lemma": "关",
+      "meaning": "turn off; close",
+      "part_of_speech": "verb",
+      "note": "“出门前” means before going out."
+    },
+    "language_specific": {
+      "target_pinyin": "guān",
+      "pronunciation_note": "Target: 关 has the final uan, ending in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0096",
+      "locale": "zh-Hans-CN",
+      "sentence": "今天很暖和。",
+      "cloze": "暖和",
+      "answer": "暖和",
+      "accepted_answers": [],
+      "lemma": "暖和",
+      "meaning": "warm",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "target_pinyin": "nuǎnhuo",
+      "pronunciation_note": "Target: 暖 has the final uan, ending in n rather than ng; 和 is neutral tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0097",
+      "locale": "zh-Hans-CN",
+      "sentence": "这个苹果有点酸。",
+      "cloze": "酸",
+      "answer": "酸",
+      "accepted_answers": [],
+      "lemma": "酸",
+      "meaning": "sour",
+      "part_of_speech": "adjective",
+      "note": "“有点” before an adjective means a little, often expressing a less desirable quality."
+    },
+    "language_specific": {
+      "target_pinyin": "suān",
+      "pronunciation_note": "Target: 酸 has the final uan, ending in n rather than ng."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0098",
+      "locale": "zh-Hans-CN",
+      "sentence": "阳光从窗户进来。",
+      "cloze": "阳光",
+      "answer": "阳光",
+      "accepted_answers": [],
+      "lemma": "阳光",
+      "meaning": "sunlight",
+      "part_of_speech": "noun",
+      "note": "“进来” means to come in."
+    },
+    "language_specific": {
+      "target_pinyin": "yángguāng",
+      "pronunciation_note": "Target: 光 has the final uang, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0099",
+      "locale": "zh-Hans-CN",
+      "sentence": "这朵花是黄色的。",
+      "cloze": "黄色",
+      "answer": "黄色",
+      "accepted_answers": [],
+      "lemma": "黄色",
+      "meaning": "yellow",
+      "part_of_speech": "noun",
+      "note": "“花” means flower; “朵” is a measure word for flowers. “是…的” describes a quality here."
+    },
+    "language_specific": {
+      "target_pinyin": "huángsè",
+      "pronunciation_note": "Target: 黄 has the final uang, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0100",
+      "locale": "zh-Hans-CN",
+      "sentence": "猫在床上睡觉。",
+      "cloze": "床",
+      "answer": "床",
+      "accepted_answers": [],
+      "lemma": "床",
+      "meaning": "bed",
+      "part_of_speech": "noun",
+      "note": "“猫” means cat; “睡觉” means to sleep."
+    },
+    "language_specific": {
+      "target_pinyin": "chuáng",
+      "pronunciation_note": "Target: 床 has the final uang, ending in ng rather than n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0101",
+      "locale": "zh-Hans-CN",
+      "sentence": "那只猫是白色的。",
+      "cloze": "猫",
+      "answer": "猫",
+      "accepted_answers": [],
+      "lemma": "猫",
+      "meaning": "cat",
+      "part_of_speech": "noun",
+      "note": "“白色” means white."
+    },
+    "language_specific": {
+      "target_pinyin": "māo",
+      "pronunciation_note": "Target: 猫 has a high, level first tone in citation."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0102",
+      "locale": "zh-Hans-CN",
+      "sentence": "鸟在天上飞。",
+      "cloze": "飞",
+      "answer": "飞",
+      "accepted_answers": [],
+      "lemma": "飞",
+      "meaning": "fly",
+      "part_of_speech": "verb",
+      "note": "“鸟” means bird."
+    },
+    "language_specific": {
+      "target_pinyin": "fēi",
+      "pronunciation_note": "Target: 飞 has a high, level first tone in citation."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0103",
+      "locale": "zh-Hans-CN",
+      "sentence": "这棵树很高。",
+      "cloze": "高",
+      "answer": "高",
+      "accepted_answers": [],
+      "lemma": "高",
+      "meaning": "tall; high",
+      "part_of_speech": "adjective",
+      "note": "“树” means tree; “棵” is a measure word for trees."
+    },
+    "language_specific": {
+      "target_pinyin": "gāo",
+      "pronunciation_note": "Target: 高 has a high, level first tone in citation."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0104",
+      "locale": "zh-Hans-CN",
+      "sentence": "那头牛在吃草。",
+      "cloze": "牛",
+      "answer": "牛",
+      "accepted_answers": [],
+      "lemma": "牛",
+      "meaning": "cow; cattle",
+      "part_of_speech": "noun",
+      "note": "“头” is a measure word for cattle; “草” means grass."
+    },
+    "language_specific": {
+      "target_pinyin": "niú",
+      "pronunciation_note": "Target: 牛 has a rising second tone in citation."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0105",
+      "locale": "zh-Hans-CN",
+      "sentence": "这个球是我的。",
+      "cloze": "球",
+      "answer": "球",
+      "accepted_answers": [],
+      "lemma": "球",
+      "meaning": "ball",
+      "part_of_speech": "noun",
+      "note": "“我的” means mine; the possessed noun is understood."
+    },
+    "language_specific": {
+      "target_pinyin": "qiú",
+      "pronunciation_note": "Target: 球 has a rising second tone in citation."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0106",
+      "locale": "zh-Hans-CN",
+      "sentence": "她的衣服是红的。",
+      "cloze": "红",
+      "answer": "红",
+      "accepted_answers": [],
+      "lemma": "红",
+      "meaning": "red",
+      "part_of_speech": "adjective",
+      "note": "“衣服” means clothes or a garment."
+    },
+    "language_specific": {
+      "target_pinyin": "hóng",
+      "pronunciation_note": "Target: 红 has a rising second tone in citation."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0107",
+      "locale": "zh-Hans-CN",
+      "sentence": "那匹马在跑。",
+      "cloze": "马",
+      "answer": "马",
+      "accepted_answers": [],
+      "lemma": "马",
+      "meaning": "horse",
+      "part_of_speech": "noun",
+      "note": "“匹” is a measure word for horses; “跑” means to run."
+    },
+    "language_specific": {
+      "target_pinyin": "mǎ",
+      "pronunciation_note": "Target: 马 has a dipping third tone in citation; in connected speech it is often low without a full rise."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0108",
+      "locale": "zh-Hans-CN",
+      "sentence": "这袋米有多重？",
+      "cloze": "米",
+      "answer": "米",
+      "accepted_answers": [],
+      "lemma": "米",
+      "meaning": "uncooked rice",
+      "part_of_speech": "noun",
+      "note": "“袋” measures a bagful; “重” means heavy. “多重” asks how heavy something is."
+    },
+    "language_specific": {
+      "target_pinyin": "mǐ",
+      "pronunciation_note": "Target: 米 has a dipping third tone in citation; in connected speech it is often low without a full rise."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0109",
+      "locale": "zh-Hans-CN",
+      "sentence": "狗在门外叫。",
+      "cloze": "狗",
+      "answer": "狗",
+      "accepted_answers": [],
+      "lemma": "狗",
+      "meaning": "dog",
+      "part_of_speech": "noun",
+      "note": "“门外” means outside the door; “叫” means to bark here."
+    },
+    "language_specific": {
+      "target_pinyin": "gǒu",
+      "pronunciation_note": "Target: 狗 has a dipping third tone in citation; in connected speech it is often low without a full rise."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0110",
+      "locale": "zh-Hans-CN",
+      "sentence": "这个房间很大。",
+      "cloze": "大",
+      "answer": "大",
+      "accepted_answers": [],
+      "lemma": "大",
+      "meaning": "big",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "target_pinyin": "dà",
+      "pronunciation_note": "Target: 大 has a falling fourth tone in citation."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0111",
+      "locale": "zh-Hans-CN",
+      "sentence": "你几月回家？",
+      "cloze": "月",
+      "answer": "月",
+      "accepted_answers": [],
+      "lemma": "月",
+      "meaning": "month",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "yuè",
+      "pronunciation_note": "Target: 月 has a falling fourth tone in citation."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0112",
+      "locale": "zh-Hans-CN",
+      "sentence": "门前有一棵树。",
+      "cloze": "树",
+      "answer": "树",
+      "accepted_answers": [],
+      "lemma": "树",
+      "meaning": "tree",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "shù",
+      "pronunciation_note": "Target: 树 has a falling fourth tone in citation."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0113",
+      "locale": "zh-Hans-CN",
+      "sentence": "爸爸在做饭。",
+      "cloze": "爸爸",
+      "answer": "爸爸",
+      "accepted_answers": [],
+      "lemma": "爸爸",
+      "meaning": "dad",
+      "part_of_speech": "noun",
+      "note": "“做饭” means to cook or prepare a meal."
+    },
+    "language_specific": {
+      "target_pinyin": "bàba",
+      "pronunciation_note": "Target: the second 爸 is neutral tone and has no tone mark."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0114",
+      "locale": "zh-Hans-CN",
+      "sentence": "我妈妈是老师。",
+      "cloze": "妈妈",
+      "answer": "妈妈",
+      "accepted_answers": [],
+      "lemma": "妈妈",
+      "meaning": "mom",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "māma",
+      "pronunciation_note": "Target: the second 妈 is neutral tone and has no tone mark."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0115",
+      "locale": "zh-Hans-CN",
+      "sentence": "请坐在这把椅子上。",
+      "cloze": "椅子",
+      "answer": "椅子",
+      "accepted_answers": [],
+      "lemma": "椅子",
+      "meaning": "chair",
+      "part_of_speech": "noun",
+      "note": "“把” is a measure word for chairs; “坐在…上” means to sit on something."
+    },
+    "language_specific": {
+      "target_pinyin": "yǐzi",
+      "pronunciation_note": "Target: 子 is neutral tone in 椅子 and has no tone mark."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0116",
+      "locale": "zh-Hans-CN",
+      "sentence": "这件衣服很漂亮。",
+      "cloze": "衣服",
+      "answer": "衣服",
+      "accepted_answers": [],
+      "lemma": "衣服",
+      "meaning": "clothes; garment",
+      "part_of_speech": "noun",
+      "note": "“件” is a measure word for garments; “漂亮” means pretty."
+    },
+    "language_specific": {
+      "target_pinyin": "yīfu",
+      "pronunciation_note": "Target: 服 is neutral tone in 衣服 and has no tone mark."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0117",
+      "locale": "zh-Hans-CN",
+      "sentence": "她自己做早饭。",
+      "cloze": "自己",
+      "answer": "自己",
+      "accepted_answers": [],
+      "lemma": "自己",
+      "meaning": "oneself; by oneself",
+      "part_of_speech": "pronoun",
+      "note": "“早饭” means breakfast."
+    },
+    "language_specific": {
+      "target_pinyin": "zìjǐ",
+      "pronunciation_note": "Target: 自 has the apical vowel written i after z. It differs from the apical vowel after zh, ch, sh or r and from i after j, q or x."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0118",
+      "locale": "zh-Hans-CN",
+      "sentence": "这个词是什么意思？",
+      "cloze": "词",
+      "answer": "词",
+      "accepted_answers": [],
+      "lemma": "词",
+      "meaning": "word",
+      "part_of_speech": "noun",
+      "note": "“意思” means meaning; “是什么意思？” asks what something means."
+    },
+    "language_specific": {
+      "target_pinyin": "cí",
+      "pronunciation_note": "Target: 词 has the apical vowel written i after c. It differs from the apical vowel after zh, ch, sh or r and from i after j, q or x."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0119",
+      "locale": "zh-Hans-CN",
+      "sentence": "请给我一张纸。",
+      "cloze": "纸",
+      "answer": "纸",
+      "accepted_answers": [],
+      "lemma": "纸",
+      "meaning": "paper",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "zhǐ",
+      "pronunciation_note": "Target: 纸 has the retroflex apical vowel written i after zh. It differs from the apical vowel after z, c or s and from i after j, q or x."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0120",
+      "locale": "zh-Hans-CN",
+      "sentence": "这是今年的日历。",
+      "cloze": "日历",
+      "answer": "日历",
+      "accepted_answers": [],
+      "lemma": "日历",
+      "meaning": "calendar",
+      "part_of_speech": "noun",
+      "note": "“今年” means this year."
+    },
+    "language_specific": {
+      "target_pinyin": "rìlì",
+      "pronunciation_note": "Target: 日 has the retroflex apical vowel written i after r. It differs from the apical vowel after z, c or s and from i after j, q or x."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0121",
+      "locale": "zh-Hans-CN",
+      "sentence": "咖啡在桌上。",
+      "cloze": "咖啡",
+      "answer": "咖啡",
+      "accepted_answers": [],
+      "lemma": "咖啡",
+      "meaning": "coffee",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "kāfēi",
+      "pronunciation_note": "In 咖啡, both syllables have lexical first tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0122",
+      "locale": "zh-Hans-CN",
+      "sentence": "他在公司工作。",
+      "cloze": "公司",
+      "answer": "公司",
+      "accepted_answers": [],
+      "lemma": "公司",
+      "meaning": "company",
+      "part_of_speech": "noun",
+      "note": "“工作” means to work."
+    },
+    "language_specific": {
+      "target_pinyin": "gōngsī",
+      "pronunciation_note": "In 公司, both syllables have lexical first tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0123",
+      "locale": "zh-Hans-CN",
+      "sentence": "工人在吃饭。",
+      "cloze": "工人",
+      "answer": "工人",
+      "accepted_answers": [],
+      "lemma": "工人",
+      "meaning": "worker",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "gōngrén",
+      "pronunciation_note": "In 工人, 工 has lexical first tone and 人 has lexical second tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0124",
+      "locale": "zh-Hans-CN",
+      "sentence": "爸爸在看新闻。",
+      "cloze": "新闻",
+      "answer": "新闻",
+      "accepted_answers": [],
+      "lemma": "新闻",
+      "meaning": "news",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "xīnwén",
+      "pronunciation_note": "In 新闻, 新 has lexical first tone and 闻 has lexical second tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0125",
+      "locale": "zh-Hans-CN",
+      "sentence": "西北的冬天冷。",
+      "cloze": "西北",
+      "answer": "西北",
+      "accepted_answers": [],
+      "lemma": "西北",
+      "meaning": "northwest",
+      "part_of_speech": "noun",
+      "note": "“冬天” means winter."
+    },
+    "language_specific": {
+      "target_pinyin": "xīběi",
+      "pronunciation_note": "In 西北, 西 has lexical first tone and 北 has lexical third tone. Before 的, 北 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0126",
+      "locale": "zh-Hans-CN",
+      "sentence": "她喜欢书法。",
+      "cloze": "书法",
+      "answer": "书法",
+      "accepted_answers": [],
+      "lemma": "书法",
+      "meaning": "calligraphy",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "shūfǎ",
+      "pronunciation_note": "In 书法, 书 has lexical first tone and 法 has lexical third tone. At the end of this sentence, 法 may have a full dipping tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0127",
+      "locale": "zh-Hans-CN",
+      "sentence": "我在家工作。",
+      "cloze": "工作",
+      "answer": "工作",
+      "accepted_answers": [],
+      "lemma": "工作",
+      "meaning": "to work",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_pinyin": "gōngzuò",
+      "pronunciation_note": "In 工作, 工 has lexical first tone and 作 has lexical fourth tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0128",
+      "locale": "zh-Hans-CN",
+      "sentence": "现在说话方便吗？",
+      "cloze": "方便",
+      "answer": "方便",
+      "accepted_answers": [],
+      "lemma": "方便",
+      "meaning": "convenient",
+      "part_of_speech": "adjective",
+      "note": "“现在” means now; “说话” means to speak or talk."
+    },
+    "language_specific": {
+      "target_pinyin": "fāngbiàn",
+      "pronunciation_note": "In 方便, 方 has lexical first tone and 便 has lexical fourth tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0129",
+      "locale": "zh-Hans-CN",
+      "sentence": "厨师在做饭。",
+      "cloze": "厨师",
+      "answer": "厨师",
+      "accepted_answers": [],
+      "lemma": "厨师",
+      "meaning": "cook; chef",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "chúshī",
+      "pronunciation_note": "In 厨师, 厨 has lexical second tone and 师 has lexical first tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0130",
+      "locale": "zh-Hans-CN",
+      "sentence": "冬天皮肤很干。",
+      "cloze": "皮肤",
+      "answer": "皮肤",
+      "accepted_answers": [],
+      "lemma": "皮肤",
+      "meaning": "skin",
+      "part_of_speech": "noun",
+      "note": "“干” means dry."
+    },
+    "language_specific": {
+      "target_pinyin": "pífū",
+      "pronunciation_note": "In 皮肤, 皮 has lexical second tone and 肤 has lexical first tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0131",
+      "locale": "zh-Hans-CN",
+      "sentence": "食堂的饭很香。",
+      "cloze": "食堂",
+      "answer": "食堂",
+      "accepted_answers": [],
+      "lemma": "食堂",
+      "meaning": "canteen",
+      "part_of_speech": "noun",
+      "note": "“香” means fragrant or appetizing."
+    },
+    "language_specific": {
+      "target_pinyin": "shítáng",
+      "pronunciation_note": "In 食堂, both syllables have lexical second tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0132",
+      "locale": "zh-Hans-CN",
+      "sentence": "他喜欢踢足球。",
+      "cloze": "足球",
+      "answer": "足球",
+      "accepted_answers": [],
+      "lemma": "足球",
+      "meaning": "football; soccer",
+      "part_of_speech": "noun",
+      "note": "“踢” means to kick; “踢足球” means to play football."
+    },
+    "language_specific": {
+      "target_pinyin": "zúqiú",
+      "pronunciation_note": "In 足球, both syllables have lexical second tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0133",
+      "locale": "zh-Hans-CN",
+      "sentence": "牛奶在冰箱里。",
+      "cloze": "牛奶",
+      "answer": "牛奶",
+      "accepted_answers": [],
+      "lemma": "牛奶",
+      "meaning": "milk",
+      "part_of_speech": "noun",
+      "note": "“冰箱” means refrigerator."
+    },
+    "language_specific": {
+      "target_pinyin": "niúnǎi",
+      "pronunciation_note": "In 牛奶, 牛 has lexical second tone and 奶 has lexical third tone. Before 在, 奶 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0134",
+      "locale": "zh-Hans-CN",
+      "sentence": "词典在桌上。",
+      "cloze": "词典",
+      "answer": "词典",
+      "accepted_answers": [],
+      "lemma": "词典",
+      "meaning": "dictionary",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "cídiǎn",
+      "pronunciation_note": "In 词典, 词 has lexical second tone and 典 has lexical third tone. Before 在, 典 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0135",
+      "locale": "zh-Hans-CN",
+      "sentence": "学校在前面。",
+      "cloze": "学校",
+      "answer": "学校",
+      "accepted_answers": [],
+      "lemma": "学校",
+      "meaning": "school",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "xuéxiào",
+      "pronunciation_note": "In 学校, 学 has lexical second tone and 校 has lexical fourth tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0136",
+      "locale": "zh-Hans-CN",
+      "sentence": "这茶叶很香。",
+      "cloze": "茶叶",
+      "answer": "茶叶",
+      "accepted_answers": [],
+      "lemma": "茶叶",
+      "meaning": "tea leaves",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "cháyè",
+      "pronunciation_note": "In 茶叶, 茶 has lexical second tone and 叶 has lexical fourth tone. This card uses the dictionary-supported full-toned reading cháyè."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0137",
+      "locale": "zh-Hans-CN",
+      "sentence": "早餐有鸡蛋。",
+      "cloze": "早餐",
+      "answer": "早餐",
+      "accepted_answers": [],
+      "lemma": "早餐",
+      "meaning": "breakfast",
+      "part_of_speech": "noun",
+      "note": "“鸡蛋” means egg."
+    },
+    "language_specific": {
+      "target_pinyin": "zǎocān",
+      "pronunciation_note": "In 早餐, 早 has lexical third tone and 餐 has lexical first tone. Before 餐, 早 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0138",
+      "locale": "zh-Hans-CN",
+      "sentence": "火车什么时候到？",
+      "cloze": "火车",
+      "answer": "火车",
+      "accepted_answers": [],
+      "lemma": "火车",
+      "meaning": "train",
+      "part_of_speech": "noun",
+      "note": "“什么时候” means when; “到” means to arrive."
+    },
+    "language_specific": {
+      "target_pinyin": "huǒchē",
+      "pronunciation_note": "In 火车, 火 has lexical third tone and 车 has lexical first tone. Before 车, 火 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0139",
+      "locale": "zh-Hans-CN",
+      "sentence": "语言课在上午。",
+      "cloze": "语言",
+      "answer": "语言",
+      "accepted_answers": [],
+      "lemma": "语言",
+      "meaning": "language",
+      "part_of_speech": "noun",
+      "note": "“课” means class or lesson; “上午” means morning."
+    },
+    "language_specific": {
+      "target_pinyin": "yǔyán",
+      "pronunciation_note": "In 语言, 语 has lexical third tone and 言 has lexical second tone. Before 言, 语 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0140",
+      "locale": "zh-Hans-CN",
+      "sentence": "她的中文水平很高。",
+      "cloze": "水平",
+      "answer": "水平",
+      "accepted_answers": [],
+      "lemma": "水平",
+      "meaning": "level of ability",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "shuǐpíng",
+      "pronunciation_note": "In 水平, 水 has lexical third tone and 平 has lexical second tone. Before 平, 水 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0141",
+      "locale": "zh-Hans-CN",
+      "sentence": "老板在办公室。",
+      "cloze": "老板",
+      "answer": "老板",
+      "accepted_answers": [],
+      "lemma": "老板",
+      "meaning": "boss; business owner",
+      "part_of_speech": "noun",
+      "note": "“办公室” means office."
+    },
+    "language_specific": {
+      "target_pinyin": "lǎobǎn",
+      "pronunciation_note": "In 老板, both syllables have lexical third tone. 老 is pronounced with a rising tone before 板; before 在, 板 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0142",
+      "locale": "zh-Hans-CN",
+      "sentence": "手表在桌上。",
+      "cloze": "手表",
+      "answer": "手表",
+      "accepted_answers": [],
+      "lemma": "手表",
+      "meaning": "wristwatch",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "shǒubiǎo",
+      "pronunciation_note": "In 手表, both syllables have lexical third tone. 手 is pronounced with a rising tone before 表; before 在, 表 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0143",
+      "locale": "zh-Hans-CN",
+      "sentence": "今天的米饭很香。",
+      "cloze": "米饭",
+      "answer": "米饭",
+      "accepted_answers": [],
+      "lemma": "米饭",
+      "meaning": "cooked rice",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "mǐfàn",
+      "pronunciation_note": "In 米饭, 米 has lexical third tone and 饭 has lexical fourth tone. Before 饭, 米 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0144",
+      "locale": "zh-Hans-CN",
+      "sentence": "早饭吃什么？",
+      "cloze": "早饭",
+      "answer": "早饭",
+      "accepted_answers": [],
+      "lemma": "早饭",
+      "meaning": "breakfast",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "zǎofàn",
+      "pronunciation_note": "In 早饭, 早 has lexical third tone and 饭 has lexical fourth tone. Before 饭, 早 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0145",
+      "locale": "zh-Hans-CN",
+      "sentence": "汽车在门外。",
+      "cloze": "汽车",
+      "answer": "汽车",
+      "accepted_answers": [],
+      "lemma": "汽车",
+      "meaning": "car; automobile",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "qìchē",
+      "pronunciation_note": "In 汽车, 汽 has lexical fourth tone and 车 has lexical first tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0146",
+      "locale": "zh-Hans-CN",
+      "sentence": "她是一名教师。",
+      "cloze": "教师",
+      "answer": "教师",
+      "accepted_answers": [],
+      "lemma": "教师",
+      "meaning": "teacher",
+      "part_of_speech": "noun",
+      "note": "“名” is a measure word for people, often used with professions."
+    },
+    "language_specific": {
+      "target_pinyin": "jiàoshī",
+      "pronunciation_note": "In 教师, 教 has lexical fourth tone and 师 has lexical first tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0147",
+      "locale": "zh-Hans-CN",
+      "sentence": "她在大学教中文。",
+      "cloze": "大学",
+      "answer": "大学",
+      "accepted_answers": [],
+      "lemma": "大学",
+      "meaning": "university",
+      "part_of_speech": "noun",
+      "note": "“教” means to teach."
+    },
+    "language_specific": {
+      "target_pinyin": "dàxué",
+      "pronunciation_note": "In 大学, 大 has lexical fourth tone and 学 has lexical second tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0148",
+      "locale": "zh-Hans-CN",
+      "sentence": "面条在碗里。",
+      "cloze": "面条",
+      "answer": "面条",
+      "accepted_answers": [],
+      "lemma": "面条",
+      "meaning": "noodles",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "miàntiáo",
+      "pronunciation_note": "In 面条, 面 has lexical fourth tone and 条 has lexical second tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0149",
+      "locale": "zh-Hans-CN",
+      "sentence": "电脑在办公室。",
+      "cloze": "电脑",
+      "answer": "电脑",
+      "accepted_answers": [],
+      "lemma": "电脑",
+      "meaning": "computer",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "diànnǎo",
+      "pronunciation_note": "In 电脑, 电 has lexical fourth tone and 脑 has lexical third tone. Before 在, 脑 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0150",
+      "locale": "zh-Hans-CN",
+      "sentence": "字典在书包里。",
+      "cloze": "字典",
+      "answer": "字典",
+      "accepted_answers": [],
+      "lemma": "字典",
+      "meaning": "character dictionary",
+      "part_of_speech": "noun",
+      "note": "“书包” means schoolbag."
+    },
+    "language_specific": {
+      "target_pinyin": "zìdiǎn",
+      "pronunciation_note": "In 字典, 字 has lexical fourth tone and 典 has lexical third tone. Before 在, 典 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0151",
+      "locale": "zh-Hans-CN",
+      "sentence": "会议在下午。",
+      "cloze": "会议",
+      "answer": "会议",
+      "accepted_answers": [],
+      "lemma": "会议",
+      "meaning": "meeting",
+      "part_of_speech": "noun",
+      "note": "“下午” means afternoon."
+    },
+    "language_specific": {
+      "target_pinyin": "huìyì",
+      "pronunciation_note": "In 会议, both syllables have lexical fourth tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0152",
+      "locale": "zh-Hans-CN",
+      "sentence": "他在写报告。",
+      "cloze": "报告",
+      "answer": "报告",
+      "accepted_answers": [],
+      "lemma": "报告",
+      "meaning": "report",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "bàogào",
+      "pronunciation_note": "In 报告, both syllables have lexical fourth tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0153",
+      "locale": "zh-Hans-CN",
+      "sentence": "妈妈在洗菜。",
+      "cloze": "洗",
+      "answer": "洗",
+      "accepted_answers": [],
+      "lemma": "洗",
+      "meaning": "to wash",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_pinyin": "xǐ",
+      "pronunciation_note": "In 洗菜, lexical third-tone 洗 commonly has a low partial realization before fourth-tone 菜."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0154",
+      "locale": "zh-Hans-CN",
+      "sentence": "今天我早到。",
+      "cloze": "早",
+      "answer": "早",
+      "accepted_answers": [],
+      "lemma": "早",
+      "meaning": "early",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "target_pinyin": "zǎo",
+      "pronunciation_note": "In 早到, lexical third-tone 早 commonly has a low partial realization before fourth-tone 到."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0155",
+      "locale": "zh-Hans-CN",
+      "sentence": "我去买面包。",
+      "cloze": "买",
+      "answer": "买",
+      "accepted_answers": [],
+      "lemma": "买",
+      "meaning": "to buy",
+      "part_of_speech": "verb",
+      "note": "“面包” means bread."
+    },
+    "language_specific": {
+      "target_pinyin": "mǎi",
+      "pronunciation_note": "In 买面包, lexical third-tone 买 commonly has a low partial realization before fourth-tone 面."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0156",
+      "locale": "zh-Hans-CN",
+      "sentence": "他每天跑步。",
+      "cloze": "跑步",
+      "answer": "跑步",
+      "accepted_answers": [],
+      "lemma": "跑步",
+      "meaning": "to run; to jog",
+      "part_of_speech": "verb",
+      "note": "“每天” means every day."
+    },
+    "language_specific": {
+      "target_pinyin": "pǎobù",
+      "pronunciation_note": "In 跑步, lexical third-tone 跑 commonly has a low partial realization before fourth-tone 步."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0157",
+      "locale": "zh-Hans-CN",
+      "sentence": "这些水果新鲜。",
+      "cloze": "水果",
+      "answer": "水果",
+      "accepted_answers": [],
+      "lemma": "水果",
+      "meaning": "fruit",
+      "part_of_speech": "noun",
+      "note": "“新鲜” means fresh."
+    },
+    "language_specific": {
+      "target_pinyin": "shuǐguǒ",
+      "pronunciation_note": "In 水果, both syllables have lexical third tone. 水 is pronounced with a rising tone before 果; before 新, 果 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0158",
+      "locale": "zh-Hans-CN",
+      "sentence": "现在可以出发。",
+      "cloze": "可以",
+      "answer": "可以",
+      "accepted_answers": [],
+      "lemma": "可以",
+      "meaning": "may; can",
+      "part_of_speech": "modal verb",
+      "note": "“出发” means to set off."
+    },
+    "language_specific": {
+      "target_pinyin": "kěyǐ",
+      "pronunciation_note": "In 可以, both syllables have lexical third tone. 可 is pronounced with a rising tone before 以; before 出, 以 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0159",
+      "locale": "zh-Hans-CN",
+      "sentence": "雨伞在门口。",
+      "cloze": "雨伞",
+      "answer": "雨伞",
+      "accepted_answers": [],
+      "lemma": "雨伞",
+      "meaning": "umbrella",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "yǔsǎn",
+      "pronunciation_note": "In 雨伞, both syllables have lexical third tone. 雨 is pronounced with a rising tone before 伞; before 在, 伞 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0160",
+      "locale": "zh-Hans-CN",
+      "sentence": "展览在学校。",
+      "cloze": "展览",
+      "answer": "展览",
+      "accepted_answers": [],
+      "lemma": "展览",
+      "meaning": "exhibition",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "zhǎnlǎn",
+      "pronunciation_note": "In 展览, both syllables have lexical third tone. 展 is pronounced with a rising tone before 览; before 在, 览 commonly has a low partial third tone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0161",
+      "locale": "zh-Hans-CN",
+      "sentence": "我们数：一、二、三。",
+      "cloze": "一",
+      "answer": "一",
+      "accepted_answers": [],
+      "lemma": "一",
+      "meaning": "one",
+      "part_of_speech": "numeral",
+      "note": "“数” means to count; “二” means two in a counting sequence."
+    },
+    "language_specific": {
+      "target_pinyin": "yī",
+      "pronunciation_note": "Target: 一 keeps its first tone when counting."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0162",
+      "locale": "zh-Hans-CN",
+      "sentence": "我是第一，你是第二。",
+      "cloze": "第一",
+      "answer": "第一",
+      "accepted_answers": [],
+      "lemma": "第一",
+      "meaning": "first",
+      "part_of_speech": "ordinal"
+    },
+    "language_specific": {
+      "target_pinyin": "dì yī",
+      "pronunciation_note": "Target: 一 keeps its first tone in this ordinal.",
+      "usage_note": "第 before a number forms an ordinal."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0163",
+      "locale": "zh-Hans-CN",
+      "sentence": "这两本书一共十块。",
+      "cloze": "一共",
+      "answer": "一共",
+      "accepted_answers": [],
+      "lemma": "一共",
+      "meaning": "altogether",
+      "part_of_speech": "adverb",
+      "note": "“十” means ten; “块” is a colloquial unit of Chinese currency."
+    },
+    "language_specific": {
+      "target_pinyin": "yīgòng",
+      "pronunciation_note": "Target: 一 is realized as yí before fourth-tone 共."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0164",
+      "locale": "zh-Hans-CN",
+      "sentence": "这两个碗一样大。",
+      "cloze": "一样",
+      "answer": "一样",
+      "accepted_answers": [],
+      "lemma": "一样",
+      "meaning": "equally; the same",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "target_pinyin": "yīyàng",
+      "pronunciation_note": "Target: 一 is realized as yí before fourth-tone 样.",
+      "usage_note": "一样 before an adjective expresses the same degree."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0165",
+      "locale": "zh-Hans-CN",
+      "sentence": "我和妈妈一起吃饭。",
+      "cloze": "一起",
+      "answer": "一起",
+      "accepted_answers": [],
+      "lemma": "一起",
+      "meaning": "together",
+      "part_of_speech": "adverb",
+      "note": "“和” joins people here: “我和妈妈” means my mother and I."
+    },
+    "language_specific": {
+      "target_pinyin": "yīqǐ",
+      "pronunciation_note": "Target: 一 is realized as yì before third-tone 起."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0166",
+      "locale": "zh-Hans-CN",
+      "sentence": "请给我一点水。",
+      "cloze": "一点",
+      "answer": "一点",
+      "accepted_answers": [],
+      "lemma": "一点",
+      "meaning": "a little",
+      "part_of_speech": "quantity expression"
+    },
+    "language_specific": {
+      "target_pinyin": "yīdiǎn",
+      "pronunciation_note": "Target: 一 is realized as yì before third-tone 点.",
+      "usage_note": "一点 can express a small amount before a noun."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0167",
+      "locale": "zh-Hans-CN",
+      "sentence": "桌上有一杯茶。",
+      "cloze": "一杯",
+      "answer": "一杯",
+      "accepted_answers": [],
+      "lemma": "一杯",
+      "meaning": "one cup of",
+      "part_of_speech": "quantity expression"
+    },
+    "language_specific": {
+      "target_pinyin": "yī bēi",
+      "pronunciation_note": "Target: 一 is realized as yì before first-tone 杯.",
+      "usage_note": "杯 measures a cup or glass of a drink."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0168",
+      "locale": "zh-Hans-CN",
+      "sentence": "爸爸要在中国工作一年。",
+      "cloze": "一年",
+      "answer": "一年",
+      "accepted_answers": [],
+      "lemma": "一年",
+      "meaning": "one year",
+      "part_of_speech": "duration expression"
+    },
+    "language_specific": {
+      "target_pinyin": "yī nián",
+      "pronunciation_note": "Target: 一 is realized as yì before second-tone 年.",
+      "usage_note": "一年 can express a duration of one year."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0169",
+      "locale": "zh-Hans-CN",
+      "sentence": "我早上不喝咖啡。",
+      "cloze": "不",
+      "answer": "不",
+      "accepted_answers": [],
+      "lemma": "不",
+      "meaning": "do not",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "target_pinyin": "bù",
+      "pronunciation_note": "Target: 不 is realized as bù before first-tone 喝.",
+      "usage_note": "Here 不 negates a habitual action."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0170",
+      "locale": "zh-Hans-CN",
+      "sentence": "我不喜欢吃肉。",
+      "cloze": "不",
+      "answer": "不",
+      "accepted_answers": [],
+      "lemma": "不",
+      "meaning": "do not",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "target_pinyin": "bù",
+      "pronunciation_note": "Target: 不 is realized as bù before third-tone 喜."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0171",
+      "locale": "zh-Hans-CN",
+      "sentence": "我不会写这个字。",
+      "cloze": "不",
+      "answer": "不",
+      "accepted_answers": [],
+      "lemma": "不",
+      "meaning": "cannot; not",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "target_pinyin": "bù",
+      "pronunciation_note": "Target: 不 is realized as bú before fourth-tone 会.",
+      "usage_note": "Here 不 negates 会 to express a lack of learned ability."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0172",
+      "locale": "zh-Hans-CN",
+      "sentence": "这里不许吃东西。",
+      "cloze": "不",
+      "answer": "不",
+      "accepted_answers": [],
+      "lemma": "不",
+      "meaning": "not",
+      "part_of_speech": "adverb",
+      "note": "“不许” means must not or is not allowed to; “东西” means things, and “吃东西” means to eat."
+    },
+    "language_specific": {
+      "target_pinyin": "bù",
+      "pronunciation_note": "Target: 不 is realized as bù before third-tone 许.",
+      "usage_note": "不许 expresses a prohibition."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0173",
+      "locale": "zh-Hans-CN",
+      "sentence": "我现在不去，明天去。",
+      "cloze": "不",
+      "answer": "不",
+      "accepted_answers": [],
+      "lemma": "不",
+      "meaning": "will not",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "target_pinyin": "bù",
+      "pronunciation_note": "Target: 不 is realized as bú before fourth-tone 去.",
+      "usage_note": "Here 不 negates an intended action at the stated time."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0174",
+      "locale": "zh-Hans-CN",
+      "sentence": "今天不冷，很暖和。",
+      "cloze": "不",
+      "answer": "不",
+      "accepted_answers": [],
+      "lemma": "不",
+      "meaning": "not",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "target_pinyin": "bù",
+      "pronunciation_note": "Target: 不 is realized as bù before third-tone 冷.",
+      "usage_note": "不 can negate an adjective describing a state."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0175",
+      "locale": "zh-Hans-CN",
+      "sentence": "谢谢！不用谢。",
+      "cloze": "不",
+      "answer": "不",
+      "accepted_answers": [],
+      "lemma": "不",
+      "meaning": "not",
+      "part_of_speech": "adverb",
+      "note": "“谢谢” means thank you. In “不用谢”, “用” expresses need, and the whole response means you are welcome."
+    },
+    "language_specific": {
+      "target_pinyin": "bù",
+      "pronunciation_note": "Target: 不 is realized as bú before fourth-tone 用.",
+      "usage_note": "The full response 不用谢 is a conventional reply to thanks."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0176",
+      "locale": "zh-Hans-CN",
+      "sentence": "不是三本，是四本。",
+      "cloze": "不",
+      "answer": "不",
+      "accepted_answers": [],
+      "lemma": "不",
+      "meaning": "not",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "target_pinyin": "bù",
+      "pronunciation_note": "Target: 不 is realized as bú before fourth-tone 是.",
+      "usage_note": "不是 can reject an identification or quantity before a correction."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0177",
+      "locale": "zh-Hans-CN",
+      "sentence": "哥哥在房间看书。",
+      "cloze": "哥哥",
+      "answer": "哥哥",
+      "accepted_answers": [],
+      "lemma": "哥哥",
+      "meaning": "older brother",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "gēge",
+      "pronunciation_note": "Target: the second 哥 is a neutral-tone syllable in this kinship word."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0178",
+      "locale": "zh-Hans-CN",
+      "sentence": "妹妹喜欢吃鱼。",
+      "cloze": "妹妹",
+      "answer": "妹妹",
+      "accepted_answers": [],
+      "lemma": "妹妹",
+      "meaning": "younger sister",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "mèimei",
+      "pronunciation_note": "Target: the second 妹 is a neutral-tone syllable in this kinship word."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0179",
+      "locale": "zh-Hans-CN",
+      "sentence": "你的杯子在桌上。",
+      "cloze": "杯子",
+      "answer": "杯子",
+      "accepted_answers": [],
+      "lemma": "杯子",
+      "meaning": "cup; glass",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "bēizi",
+      "pronunciation_note": "Target: 子 is a neutral-tone noun suffix in 杯子."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0180",
+      "locale": "zh-Hans-CN",
+      "sentence": "我们中午吃包子。",
+      "cloze": "包子",
+      "answer": "包子",
+      "accepted_answers": [],
+      "lemma": "包子",
+      "meaning": "steamed stuffed bun",
+      "part_of_speech": "noun",
+      "note": "“中午” means noon or around midday."
+    },
+    "language_specific": {
+      "target_pinyin": "bāozi",
+      "pronunciation_note": "Target: 子 is a neutral-tone noun suffix in 包子."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0181",
+      "locale": "zh-Hans-CN",
+      "sentence": "妈妈买书，不是我买书。",
+      "cloze": "妈妈",
+      "answer": "妈妈",
+      "accepted_answers": [],
+      "lemma": "妈妈",
+      "meaning": "mother",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "māma",
+      "pronunciation_note": "Sentence focus: 妈妈 can receive prominence as the corrected buyer."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0182",
+      "locale": "zh-Hans-CN",
+      "sentence": "我喝茶，不喝咖啡。",
+      "cloze": "茶",
+      "answer": "茶",
+      "accepted_answers": [],
+      "lemma": "茶",
+      "meaning": "tea",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "chá",
+      "pronunciation_note": "Sentence focus: 茶 can receive prominence in contrast with 咖啡."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0183",
+      "locale": "zh-Hans-CN",
+      "sentence": "我明天去，不是今天去。",
+      "cloze": "明天",
+      "answer": "明天",
+      "accepted_answers": [],
+      "lemma": "明天",
+      "meaning": "tomorrow",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "míngtiān",
+      "pronunciation_note": "Sentence focus: 明天 can receive prominence as the corrected day."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0184",
+      "locale": "zh-Hans-CN",
+      "sentence": "书在桌上，不在床上。",
+      "cloze": "桌上",
+      "answer": "桌上",
+      "accepted_answers": [],
+      "lemma": "桌上",
+      "meaning": "on the table",
+      "part_of_speech": "place expression"
+    },
+    "language_specific": {
+      "target_pinyin": "zhuō shàng",
+      "pronunciation_note": "Sentence focus: 桌上 can receive prominence in contrast with 床上."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0185",
+      "locale": "zh-Hans-CN",
+      "sentence": "我要三本书，不是四本。",
+      "cloze": "三本",
+      "answer": "三本",
+      "accepted_answers": [],
+      "lemma": "三本",
+      "meaning": "three volumes",
+      "part_of_speech": "quantity expression"
+    },
+    "language_specific": {
+      "target_pinyin": "sān běn",
+      "pronunciation_note": "Sentence focus: 三 can receive prominence within 三本 as the corrected quantity.",
+      "usage_note": "本 is a measure word for books."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0186",
+      "locale": "zh-Hans-CN",
+      "sentence": "这个杯子是红的，不是绿的。",
+      "cloze": "红",
+      "answer": "红",
+      "accepted_answers": [],
+      "lemma": "红",
+      "meaning": "red",
+      "part_of_speech": "adjective",
+      "note": "“绿” means green; “绿的” describes something as green."
+    },
+    "language_specific": {
+      "target_pinyin": "hóng",
+      "pronunciation_note": "Sentence focus: 红 can receive prominence as the corrected color."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0187",
+      "locale": "zh-Hans-CN",
+      "sentence": "我写中文，不写英文。",
+      "cloze": "中文",
+      "answer": "中文",
+      "accepted_answers": [],
+      "lemma": "中文",
+      "meaning": "Chinese language",
+      "part_of_speech": "noun",
+      "note": "“英文” means the English language."
+    },
+    "language_specific": {
+      "target_pinyin": "Zhōngwén",
+      "pronunciation_note": "Sentence focus: 中文 can receive prominence in contrast with 英文."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0188",
+      "locale": "zh-Hans-CN",
+      "sentence": "妹妹在看书，不是在写字。",
+      "cloze": "看书",
+      "answer": "看书",
+      "accepted_answers": [],
+      "lemma": "看书",
+      "meaning": "read a book",
+      "part_of_speech": "verb phrase"
+    },
+    "language_specific": {
+      "target_pinyin": "kàn shū",
+      "pronunciation_note": "Sentence focus: 看书 can receive prominence as the corrected activity."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0189",
+      "locale": "zh-Hans-CN",
+      "sentence": "不是红茶，是绿茶。",
+      "cloze": "绿茶",
+      "answer": "绿茶",
+      "accepted_answers": [],
+      "lemma": "绿茶",
+      "meaning": "green tea",
+      "part_of_speech": "noun",
+      "note": "“红茶” means black tea."
+    },
+    "language_specific": {
+      "target_pinyin": "lǜchá",
+      "pronunciation_note": "Sentence phrasing: the comma marks a natural boundary between the rejected drink and its correction."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0190",
+      "locale": "zh-Hans-CN",
+      "sentence": "妈妈，请关门。",
+      "cloze": "关门",
+      "answer": "关门",
+      "accepted_answers": [],
+      "lemma": "关门",
+      "meaning": "close the door",
+      "part_of_speech": "verb phrase"
+    },
+    "language_specific": {
+      "target_pinyin": "guān mén",
+      "pronunciation_note": "Sentence phrasing: a brief pause after 妈妈 separates the addressee from the request."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0191",
+      "locale": "zh-Hans-CN",
+      "sentence": "这本书，是爸爸的。",
+      "cloze": "爸爸",
+      "answer": "爸爸",
+      "accepted_answers": [],
+      "lemma": "爸爸",
+      "meaning": "father",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "bàba",
+      "pronunciation_note": "Sentence phrasing: a pause after 这本书 sets the book apart before its owner is identified."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0192",
+      "locale": "zh-Hans-CN",
+      "sentence": "先洗手，再吃饭。",
+      "cloze": "先",
+      "answer": "先",
+      "accepted_answers": [],
+      "lemma": "先",
+      "meaning": "first; before doing something else",
+      "part_of_speech": "adverb",
+      "note": "“洗手” means to wash one's hands; “再” introduces the next action."
+    },
+    "language_specific": {
+      "target_pinyin": "xiān",
+      "pronunciation_note": "Sentence phrasing: a brief pause at the comma separates the first instruction from the instruction that follows.",
+      "usage_note": "先 marks the action to do first; 再 introduces the subsequent action."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0193",
+      "locale": "zh-Hans-CN",
+      "sentence": "外面下雨，带上雨衣。",
+      "cloze": "雨衣",
+      "answer": "雨衣",
+      "accepted_answers": [],
+      "lemma": "雨衣",
+      "meaning": "raincoat",
+      "part_of_speech": "noun",
+      "note": "“外面” means outside; “下雨” means it is raining; “带上” means to take something along."
+    },
+    "language_specific": {
+      "target_pinyin": "yǔyī",
+      "usage_note": "雨衣 is one noun for a raincoat; 衣 contributes the sense of clothing within the word."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0194",
+      "locale": "zh-Hans-CN",
+      "sentence": "天黑了，打开电灯。",
+      "cloze": "电灯",
+      "answer": "电灯",
+      "accepted_answers": [],
+      "lemma": "电灯",
+      "meaning": "electric light",
+      "part_of_speech": "noun",
+      "note": "“黑” means dark; “天黑了” says it has become dark. “打开” means to turn on here."
+    },
+    "language_specific": {
+      "target_pinyin": "diàndēng",
+      "usage_note": "电灯 is one noun for an electric light; 电 specifies the kind of lamp within the compound, rather than stating a separate action."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0195",
+      "locale": "zh-Hans-CN",
+      "sentence": "我用手机给妈妈打电话。",
+      "cloze": "手机",
+      "answer": "手机",
+      "accepted_answers": [],
+      "lemma": "手机",
+      "meaning": "mobile phone",
+      "part_of_speech": "noun",
+      "note": "“用” introduces the means used; “给” introduces the recipient. “打电话” means to make a phone call."
+    },
+    "language_specific": {
+      "target_pinyin": "shǒujī",
+      "usage_note": "手机 is the complete word for a mobile phone, not just a hand or a machine."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0196",
+      "locale": "zh-Hans-CN",
+      "sentence": "桌上有一张照片。",
+      "cloze": "照片",
+      "answer": "照片",
+      "accepted_answers": [],
+      "lemma": "照片",
+      "meaning": "photograph",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_pinyin": "zhàopiàn",
+      "usage_note": "照片 is a noun naming a photograph, the resulting image, rather than the action of taking a photo. 张 is a common measure word for it."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0197",
+      "locale": "zh-Hans-CN",
+      "sentence": "我没听清，请再说一遍。",
+      "cloze": "再说一遍",
+      "answer": "再说一遍",
+      "accepted_answers": [],
+      "lemma": "再说一遍",
+      "meaning": "say it again",
+      "part_of_speech": "verb phrase",
+      "note": "“没听清” means did not hear clearly; “再” means again, and “遍” counts a complete repetition."
+    },
+    "language_specific": {
+      "target_pinyin": "zài shuō yī biàn",
+      "pronunciation_note": "Target: 一 is realized as yí before fourth-tone 遍.",
+      "usage_note": "Use this chunk to request a repetition; 请 makes the request polite."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0198",
+      "locale": "zh-Hans-CN",
+      "sentence": "我没听清，请说慢一点。",
+      "cloze": "慢一点",
+      "answer": "慢一点",
+      "accepted_answers": [],
+      "lemma": "慢一点",
+      "meaning": "a little more slowly",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_pinyin": "màn yīdiǎn",
+      "pronunciation_note": "Target: 一 is realized as yì before third-tone 点.",
+      "usage_note": "After 说, this asks someone to speak more slowly."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0199",
+      "locale": "zh-Hans-CN",
+      "sentence": "这个字是什么意思？",
+      "cloze": "什么意思",
+      "answer": "什么意思",
+      "accepted_answers": [],
+      "lemma": "什么意思",
+      "meaning": "what meaning",
+      "part_of_speech": "question expression"
+    },
+    "language_specific": {
+      "target_pinyin": "shénme yìsi",
+      "pronunciation_note": "Target: 么 and 思 are neutral-tone syllables in 什么 and 意思.",
+      "usage_note": "Use 是什么意思 to ask what a word or expression means."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "zh-00-0200",
+      "locale": "zh-Hans-CN",
+      "sentence": "你说明天去，对吗？",
+      "cloze": "对吗",
+      "answer": "对吗",
+      "accepted_answers": [],
+      "lemma": "对吗",
+      "meaning": "is that right?",
+      "part_of_speech": "question expression"
+    },
+    "language_specific": {
+      "target_pinyin": "duì ma",
+      "pronunciation_note": "Target: 吗 is a neutral-tone question particle.",
+      "usage_note": "Use 对吗 after a statement to check that you heard or understood it correctly."
+    }
+  }
+]
