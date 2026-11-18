@@ -1,0 +1,3887 @@
+[
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0001",
+      "locale": "ko-KR",
+      "sentence": "저는 학생이에요.",
+      "cloze": "학생",
+      "answer": "학생",
+      "accepted_answers": [],
+      "lemma": "학생",
+      "meaning": "student",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "학생 has two syllable blocks: 학 and 생. Each block contains consonant and vowel symbols."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0002",
+      "locale": "ko-KR",
+      "sentence": "이분은 선생님이에요.",
+      "cloze": "선생님",
+      "answer": "선생님",
+      "accepted_answers": [],
+      "lemma": "선생님",
+      "meaning": "teacher",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "social_context": "선생님 is a respectful way to refer to a teacher.",
+      "script_note": "선생님 has three syllable blocks: 선, 생, and 님. Each begins with a consonant symbol."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0003",
+      "locale": "ko-KR",
+      "sentence": "제 이름은 민수예요.",
+      "cloze": "이름",
+      "answer": "이름",
+      "accepted_answers": [],
+      "lemma": "이름",
+      "meaning": "name",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "In 이, ㅇ occupies the initial position before the vowel ㅣ. It has no consonant sound there."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0004",
+      "locale": "ko-KR",
+      "sentence": "여기는 학교예요.",
+      "cloze": "학교",
+      "answer": "학교",
+      "accepted_answers": [],
+      "lemma": "학교",
+      "meaning": "school",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 학교 [학꾜]. The ㄱ at the start of 교 is pronounced tense after the final ㄱ in 학.",
+      "speech_level": "informal polite",
+      "script_note": "학교 consists of 학 and 교. In 교, ㄱ is above the horizontal vowel ㅛ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0005",
+      "locale": "ko-KR",
+      "sentence": "가방이 여기 있어요.",
+      "cloze": "가방",
+      "answer": "가방",
+      "accepted_answers": [],
+      "lemma": "가방",
+      "meaning": "bag",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "In 가 and 방, the initial consonants ㄱ and ㅂ sit to the left of the vertical vowel ㅏ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0006",
+      "locale": "ko-KR",
+      "sentence": "이건 나무예요.",
+      "cloze": "나무",
+      "answer": "나무",
+      "accepted_answers": [],
+      "lemma": "나무",
+      "meaning": "tree",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "나 places ㄴ beside ㅏ; 무 places ㅁ above ㅜ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0007",
+      "locale": "ko-KR",
+      "sentence": "여기는 바다예요.",
+      "cloze": "바다",
+      "answer": "바다",
+      "accepted_answers": [],
+      "lemma": "바다",
+      "meaning": "sea",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "바다 has two left-to-right blocks. The initial consonants ㅂ and ㄷ are different symbols."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0008",
+      "locale": "ko-KR",
+      "sentence": "저 사람은 의사예요.",
+      "cloze": "의사",
+      "answer": "의사",
+      "accepted_answers": [],
+      "lemma": "의사",
+      "meaning": "doctor",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "In 사, ㅅ is the initial consonant and ㅏ is the vowel to its right."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0009",
+      "locale": "ko-KR",
+      "sentence": "따뜻한 차를 마셔요.",
+      "cloze": "차",
+      "answer": "차",
+      "accepted_answers": [],
+      "lemma": "차",
+      "meaning": "tea",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "차 is one syllable block: initial ㅊ followed by the vertical vowel ㅏ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0010",
+      "locale": "ko-KR",
+      "sentence": "코가 아파요.",
+      "cloze": "코",
+      "answer": "코",
+      "accepted_answers": [],
+      "lemma": "코",
+      "meaning": "nose",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "In 코, initial ㅋ sits above the horizontal vowel ㅗ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0011",
+      "locale": "ko-KR",
+      "sentence": "아이가 웃어요.",
+      "cloze": "아이",
+      "answer": "아이",
+      "accepted_answers": [],
+      "lemma": "아이",
+      "meaning": "child",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "아 and 이 begin with silent ㅇ. Their vertical vowels ㅏ and ㅣ sit to its right."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0012",
+      "locale": "ko-KR",
+      "sentence": "우유가 있어요.",
+      "cloze": "우유",
+      "answer": "우유",
+      "accepted_answers": [],
+      "lemma": "우유",
+      "meaning": "milk",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "우 and 유 place silent initial ㅇ above the horizontal vowels ㅜ and ㅠ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0013",
+      "locale": "ko-KR",
+      "sentence": "오이가 싱싱해요.",
+      "cloze": "오이",
+      "answer": "오이",
+      "accepted_answers": [],
+      "lemma": "오이",
+      "meaning": "cucumber",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "In 오, ㅗ sits below ㅇ; in 이, ㅣ sits to its right."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0014",
+      "locale": "ko-KR",
+      "sentence": "여기는 어디예요?",
+      "cloze": "어디",
+      "answer": "어디",
+      "accepted_answers": [],
+      "lemma": "어디",
+      "meaning": "where",
+      "part_of_speech": "pronoun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "어 contains the vertical vowel ㅓ, whose short stroke extends to the left."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0015",
+      "locale": "ko-KR",
+      "sentence": "지도에서 길을 찾아요.",
+      "cloze": "지도",
+      "answer": "지도",
+      "accepted_answers": [],
+      "lemma": "지도",
+      "meaning": "map",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "지 uses the vertical vowel ㅣ beside ㅈ; 도 uses the horizontal vowel ㅗ below ㄷ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0016",
+      "locale": "ko-KR",
+      "sentence": "구두가 커요.",
+      "cloze": "구두",
+      "answer": "구두",
+      "accepted_answers": [],
+      "lemma": "구두",
+      "meaning": "dress shoes",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "Both 구 and 두 place an initial consonant above the horizontal vowel ㅜ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0017",
+      "locale": "ko-KR",
+      "sentence": "여기는 병원이에요.",
+      "cloze": "병원",
+      "answer": "병원",
+      "accepted_answers": [],
+      "lemma": "병원",
+      "meaning": "hospital",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "병 contains ㅕ, a vertical vowel with two short strokes on its left."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0018",
+      "locale": "ko-KR",
+      "sentence": "여기가 우리 집이에요.",
+      "cloze": "우리",
+      "answer": "우리",
+      "accepted_answers": [],
+      "lemma": "우리",
+      "meaning": "we; our",
+      "part_of_speech": "pronoun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "lexical_frame": "우리 집: our home; often used for one's own home.",
+      "script_note": "우 has ㅜ under ㅇ, while 리 has ㅣ to the right of ㄹ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0019",
+      "locale": "ko-KR",
+      "sentence": "포도가 맛있어요.",
+      "cloze": "포도",
+      "answer": "포도",
+      "accepted_answers": [],
+      "lemma": "포도",
+      "meaning": "grapes",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "Both blocks in 포도 use ㅗ below an initial consonant."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0020",
+      "locale": "ko-KR",
+      "sentence": "이 드라마가 재미있어요.",
+      "cloze": "드라마",
+      "answer": "드라마",
+      "accepted_answers": [],
+      "lemma": "드라마",
+      "meaning": "drama series",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "드 places ㄷ above the horizontal vowel ㅡ; 라 and 마 place consonants beside ㅏ."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0021",
+      "locale": "ko-KR",
+      "sentence": "집이 가까워요.",
+      "cloze": "집",
+      "answer": "집",
+      "accepted_answers": [],
+      "lemma": "집",
+      "meaning": "home; house",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 집이 [지비]. The final ㅂ is pronounced at the start of the following syllable before 이.",
+      "speech_level": "informal polite",
+      "script_note": "집 has initial ㅈ, vowel ㅣ, and final ㅂ. The final consonant sits at the bottom of the block."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0022",
+      "locale": "ko-KR",
+      "sentence": "밥이 따뜻해요.",
+      "cloze": "밥",
+      "answer": "밥",
+      "accepted_answers": [],
+      "lemma": "밥",
+      "meaning": "cooked rice",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 밥이 [바비]. The final ㅂ is pronounced at the start of the following syllable before 이.",
+      "speech_level": "informal polite",
+      "script_note": "밥 contains ㅂ both at the start and in the bottom final position."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0023",
+      "locale": "ko-KR",
+      "sentence": "손을 씻어요.",
+      "cloze": "손",
+      "answer": "손",
+      "accepted_answers": [],
+      "lemma": "손",
+      "meaning": "hand",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 손을 [소늘]. The final ㄴ is pronounced at the start of the following syllable before 을.",
+      "speech_level": "informal polite",
+      "script_note": "손 stacks initial ㅅ, vowel ㅗ, and final ㄴ from top to bottom."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0024",
+      "locale": "ko-KR",
+      "sentence": "창문을 열어요.",
+      "cloze": "창문",
+      "answer": "창문",
+      "accepted_answers": [],
+      "lemma": "창문",
+      "meaning": "window",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 창문을 [창무늘]. The final ㄴ in 문 is pronounced at the start of the following syllable before 을.",
+      "speech_level": "informal polite",
+      "script_note": "창 ends in ㅇ at the bottom; 문 ends in ㄴ at the bottom. Final ㅇ represents a consonant sound."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0025",
+      "locale": "ko-KR",
+      "sentence": "이 과일은 달아요.",
+      "cloze": "과일",
+      "answer": "과일",
+      "accepted_answers": [],
+      "lemma": "과일",
+      "meaning": "fruit",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "과 contains the compound vowel ㅘ: ㅗ lies below ㄱ and ㅏ lies to its right."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0026",
+      "locale": "ko-KR",
+      "sentence": "의자가 편해요.",
+      "cloze": "의자",
+      "answer": "의자",
+      "accepted_answers": [],
+      "lemma": "의자",
+      "meaning": "chair",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "의 contains the compound vowel ㅢ, written with ㅡ below ㅇ and ㅣ to the right."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0027",
+      "locale": "ko-KR",
+      "sentence": "회사가 어디예요?",
+      "cloze": "회사",
+      "answer": "회사",
+      "accepted_answers": [],
+      "lemma": "회사",
+      "meaning": "company",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 회사 [회사] or [훼사]. Both pronunciations are standard.",
+      "speech_level": "informal polite",
+      "script_note": "회 contains the compound vowel ㅚ, with ㅗ below ㅎ and ㅣ to the right."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0028",
+      "locale": "ko-KR",
+      "sentence": "뭐가 필요해요?",
+      "cloze": "뭐",
+      "answer": "뭐",
+      "accepted_answers": [],
+      "lemma": "뭐",
+      "meaning": "what",
+      "part_of_speech": "pronoun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "뭐 is a contraction of 무엇.",
+      "speech_level": "informal polite",
+      "script_note": "뭐 contains the compound vowel ㅝ, with ㅜ below ㅁ and ㅓ to the right."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0029",
+      "locale": "ko-KR",
+      "sentence": "가게가 저기 있어요.",
+      "cloze": "가게",
+      "answer": "가게",
+      "accepted_answers": [],
+      "lemma": "가게",
+      "meaning": "shop",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "For ㄱ in 가게, write the horizontal stroke from left to right, then the vertical stroke downward."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0030",
+      "locale": "ko-KR",
+      "sentence": "누나가 요리해요.",
+      "cloze": "누나",
+      "answer": "누나",
+      "accepted_answers": [],
+      "lemma": "누나",
+      "meaning": "older sister of a male speaker",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "social_context": "A male speaker uses 누나 for an older sister.",
+      "script_note": "For ㄴ in 누나, write downward first, then continue the bottom stroke to the right."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0031",
+      "locale": "ko-KR",
+      "sentence": "사과를 주세요.",
+      "cloze": "사과",
+      "answer": "사과",
+      "accepted_answers": [],
+      "lemma": "사과",
+      "meaning": "apple",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "For ㅏ in 사 and 과, write the long vertical stroke downward, then add the short stroke to the right."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0032",
+      "locale": "ko-KR",
+      "sentence": "제 자리에 앉아요.",
+      "cloze": "자리",
+      "answer": "자리",
+      "accepted_answers": [],
+      "lemma": "자리",
+      "meaning": "seat",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "For ㅣ in 리, write one vertical stroke from top to bottom."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0033",
+      "locale": "ko-KR",
+      "sentence": "모자가 멋있어요.",
+      "cloze": "모자",
+      "answer": "모자",
+      "accepted_answers": [],
+      "lemma": "모자",
+      "meaning": "hat",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "For ㅗ in 모, write the short vertical stroke downward, then write the horizontal stroke from left to right."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0034",
+      "locale": "ko-KR",
+      "sentence": "두부가 있어요.",
+      "cloze": "두부",
+      "answer": "두부",
+      "accepted_answers": [],
+      "lemma": "두부",
+      "meaning": "tofu",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "For ㅜ in 두부, write the horizontal stroke from left to right, then the short vertical stroke downward."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0035",
+      "locale": "ko-KR",
+      "sentence": "문을 닫아 주세요.",
+      "cloze": "문",
+      "answer": "문",
+      "accepted_answers": [],
+      "lemma": "문",
+      "meaning": "door",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 문을 [무늘]. The final ㄴ is pronounced at the start of the following syllable before 을.",
+      "speech_level": "informal polite",
+      "script_note": "On the standard two-set Korean keyboard, type 문 with the keys a, n, s in that order."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0036",
+      "locale": "ko-KR",
+      "sentence": "책이 방에 있어요.",
+      "cloze": "책",
+      "answer": "책",
+      "accepted_answers": [],
+      "lemma": "책",
+      "meaning": "book",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "On the standard two-set Korean keyboard, type 책 with the keys c, o, r in that order."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0037",
+      "locale": "ko-KR",
+      "sentence": "물을 마셔요.",
+      "cloze": "물",
+      "answer": "물",
+      "accepted_answers": [],
+      "lemma": "물",
+      "meaning": "water",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 물을 [무를]. The final ㄹ is pronounced at the start of the following syllable before 을.",
+      "speech_level": "informal polite",
+      "script_note": "On the standard two-set Korean keyboard, type 물 with the keys a, n, f in that order."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0038",
+      "locale": "ko-KR",
+      "sentence": "오늘은 비가 와요.",
+      "cloze": "비",
+      "answer": "비",
+      "accepted_answers": [],
+      "lemma": "비",
+      "meaning": "rain",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "lexical_frame": "비가 오다: rain falls.",
+      "script_note": "On the standard two-set Korean keyboard, type 비 with the keys q, l in that order."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0039",
+      "locale": "ko-KR",
+      "sentence": "커피를 마셔요.",
+      "cloze": "커피",
+      "answer": "커피",
+      "accepted_answers": [],
+      "lemma": "커피",
+      "meaning": "coffee",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "On the standard two-set Korean keyboard, type 커피 with the keys z, j, v, l in that order."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0040",
+      "locale": "ko-KR",
+      "sentence": "고양이가 자요.",
+      "cloze": "고양이",
+      "answer": "고양이",
+      "accepted_answers": [],
+      "lemma": "고양이",
+      "meaning": "cat",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "script_note": "On the standard two-set Korean keyboard, type 고양이 with the keys r, h, d, i, d, d, l in that order."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0041",
+      "locale": "ko-KR",
+      "sentence": "고기가 아직 뜨거워요.",
+      "cloze": "고기",
+      "answer": "고기",
+      "accepted_answers": [],
+      "lemma": "고기",
+      "meaning": "meat",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 고기 [고기]. Both ㄱ sounds are plain; the second is voiced between vowels. Contrast plain ㄱ with aspirated ㅋ and tense ㄲ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0042",
+      "locale": "ko-KR",
+      "sentence": "칼이 아주 잘 들어요.",
+      "cloze": "칼",
+      "answer": "칼",
+      "accepted_answers": [],
+      "lemma": "칼",
+      "meaning": "knife",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 칼 [칼]. Initial ㅋ is aspirated, with a stronger burst of air than plain ㄱ; contrast also tense ㄲ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0043",
+      "locale": "ko-KR",
+      "sentence": "차에 꿀을 넣어요.",
+      "cloze": "꿀",
+      "answer": "꿀",
+      "accepted_answers": [],
+      "lemma": "꿀",
+      "meaning": "honey",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 꿀 [꿀]. Initial ㄲ is tense; contrast it with plain ㄱ and aspirated ㅋ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "꿀을 넣다: add honey."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0044",
+      "locale": "ko-KR",
+      "sentence": "다리가 아파요.",
+      "cloze": "다리",
+      "answer": "다리",
+      "accepted_answers": [],
+      "lemma": "다리",
+      "meaning": "leg",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 다리 [다리]. Initial ㄷ is plain; contrast it with aspirated ㅌ and tense ㄸ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0045",
+      "locale": "ko-KR",
+      "sentence": "토끼가 풀을 먹어요.",
+      "cloze": "토끼",
+      "answer": "토끼",
+      "accepted_answers": [],
+      "lemma": "토끼",
+      "meaning": "rabbit",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 토끼 [토끼]. Initial ㅌ is aspirated; contrast it with plain ㄷ and tense ㄸ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0046",
+      "locale": "ko-KR",
+      "sentence": "딸이 벌써 열 살이에요.",
+      "cloze": "딸",
+      "answer": "딸",
+      "accepted_answers": [],
+      "lemma": "딸",
+      "meaning": "daughter",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 딸 [딸]. Initial ㄸ is tense; contrast it with plain ㄷ and aspirated ㅌ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0047",
+      "locale": "ko-KR",
+      "sentence": "발이 커요.",
+      "cloze": "발",
+      "answer": "발",
+      "accepted_answers": [],
+      "lemma": "발",
+      "meaning": "foot",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 발 [발]. Initial ㅂ is plain; contrast it with aspirated ㅍ and tense ㅃ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0048",
+      "locale": "ko-KR",
+      "sentence": "팔을 위로 올려요.",
+      "cloze": "팔",
+      "answer": "팔",
+      "accepted_answers": [],
+      "lemma": "팔",
+      "meaning": "arm",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 팔 [팔]. Initial ㅍ is aspirated; contrast it with plain ㅂ and tense ㅃ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "팔을 올리다: raise an arm."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0049",
+      "locale": "ko-KR",
+      "sentence": "사슴 머리에 뿔이 있어요.",
+      "cloze": "뿔",
+      "answer": "뿔",
+      "accepted_answers": [],
+      "lemma": "뿔",
+      "meaning": "horn",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 뿔 [뿔]. Initial ㅃ is tense; contrast it with plain ㅂ and aspirated ㅍ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0050",
+      "locale": "ko-KR",
+      "sentence": "밤에 잠이 안 와요.",
+      "cloze": "잠",
+      "answer": "잠",
+      "accepted_answers": [],
+      "lemma": "잠",
+      "meaning": "sleep",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 잠 [잠]. Initial ㅈ is plain; contrast it with aspirated ㅊ and tense ㅉ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "잠이 오다: feel sleepy."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0051",
+      "locale": "ko-KR",
+      "sentence": "춤을 춰요.",
+      "cloze": "춤",
+      "answer": "춤",
+      "accepted_answers": [],
+      "lemma": "춤",
+      "meaning": "dance",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 춤 [춤]. Initial ㅊ is aspirated; contrast it with plain ㅈ and tense ㅉ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "춤을 추다: dance."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0052",
+      "locale": "ko-KR",
+      "sentence": "양말 한 짝이 없어요.",
+      "cloze": "짝",
+      "answer": "짝",
+      "accepted_answers": [],
+      "lemma": "짝",
+      "meaning": "one of a pair",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 짝 [짝]. Initial ㅉ is tense; contrast it with plain ㅈ and aspirated ㅊ. Final ㄱ is unreleased.",
+      "speech_level": "informal polite",
+      "lexical_frame": "양말 한 짝: one sock from a pair."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0053",
+      "locale": "ko-KR",
+      "sentence": "거울을 봐요.",
+      "cloze": "거울",
+      "answer": "거울",
+      "accepted_answers": [],
+      "lemma": "거울",
+      "meaning": "mirror",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 거울 [거울]. The first vowel is ㅓ; contrast it with the more rounded ㅗ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0054",
+      "locale": "ko-KR",
+      "sentence": "오리가 연못에서 헤엄쳐요.",
+      "cloze": "오리",
+      "answer": "오리",
+      "accepted_answers": [],
+      "lemma": "오리",
+      "meaning": "duck",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 오리 [오리]. The first vowel is rounded ㅗ; contrast it with ㅓ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0055",
+      "locale": "ko-KR",
+      "sentence": "버스가 곧 도착해요.",
+      "cloze": "버스",
+      "answer": "버스",
+      "accepted_answers": [],
+      "lemma": "버스",
+      "meaning": "bus",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 버스 [버스]. The first vowel is ㅓ; contrast it with the more rounded ㅗ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0056",
+      "locale": "ko-KR",
+      "sentence": "밥에 보리를 넣어요.",
+      "cloze": "보리",
+      "answer": "보리",
+      "accepted_answers": [],
+      "lemma": "보리",
+      "meaning": "barley",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 보리 [보리]. The first vowel is rounded ㅗ; contrast it with ㅓ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0057",
+      "locale": "ko-KR",
+      "sentence": "그릇에 국을 담아요.",
+      "cloze": "그릇",
+      "answer": "그릇",
+      "accepted_answers": [],
+      "lemma": "그릇",
+      "meaning": "bowl",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 그릇 [그륻]. The vowels are unrounded ㅡ; contrast them with rounded ㅜ. In isolation, final ㅅ is an unreleased ㄷ sound. In 그릇에 [그르세], ㅅ carries over before 에.",
+      "speech_level": "informal polite",
+      "lexical_frame": "그릇에 담다: put food in a bowl."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0058",
+      "locale": "ko-KR",
+      "sentence": "하늘에 구름이 많아요.",
+      "cloze": "구름",
+      "answer": "구름",
+      "accepted_answers": [],
+      "lemma": "구름",
+      "meaning": "cloud",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 구름 [구름]. The first vowel ㅜ is rounded; the second vowel ㅡ is unrounded.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0059",
+      "locale": "ko-KR",
+      "sentence": "금으로 반지를 만들어요.",
+      "cloze": "금",
+      "answer": "금",
+      "accepted_answers": [],
+      "lemma": "금",
+      "meaning": "gold",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 금 [금]. The vowel ㅡ is unrounded; contrast it with rounded ㅜ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "금으로 만들다: make something from gold."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0060",
+      "locale": "ko-KR",
+      "sentence": "겨울에는 굴이 맛있어요.",
+      "cloze": "굴",
+      "answer": "굴",
+      "accepted_answers": [],
+      "lemma": "굴",
+      "meaning": "oyster",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 굴 [굴]. The vowel ㅜ is rounded; contrast it with unrounded ㅡ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0061",
+      "locale": "ko-KR",
+      "sentence": "머리가 길어요.",
+      "cloze": "머리",
+      "answer": "머리",
+      "accepted_answers": [],
+      "lemma": "머리",
+      "meaning": "hair",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 머리 [머리]. The first vowel is ㅓ; contrast it with the more rounded ㅗ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0062",
+      "locale": "ko-KR",
+      "sentence": "아이들이 모래로 성을 만들어요.",
+      "cloze": "모래",
+      "answer": "모래",
+      "accepted_answers": [],
+      "lemma": "모래",
+      "meaning": "sand",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 모래 [모래]. The first vowel is rounded ㅗ; contrast it with ㅓ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "모래로 성을 만들다: make a castle from sand."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0063",
+      "locale": "ko-KR",
+      "sentence": "허리가 아파요.",
+      "cloze": "허리",
+      "answer": "허리",
+      "accepted_answers": [],
+      "lemma": "허리",
+      "meaning": "lower back",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 허리 [허리]. The first vowel is ㅓ; contrast it with the more rounded ㅗ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0064",
+      "locale": "ko-KR",
+      "sentence": "호수가 커요.",
+      "cloze": "호수",
+      "answer": "호수",
+      "accepted_answers": [],
+      "lemma": "호수",
+      "meaning": "lake",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 호수 [호수]. The first vowel is rounded ㅗ; contrast it with ㅓ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0065",
+      "locale": "ko-KR",
+      "sentence": "쓰레기를 봉투에 넣어요.",
+      "cloze": "쓰레기",
+      "answer": "쓰레기",
+      "accepted_answers": [],
+      "lemma": "쓰레기",
+      "meaning": "rubbish",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 쓰레기 [쓰레기]. The first vowel ㅡ is unrounded; contrast it with rounded ㅜ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0066",
+      "locale": "ko-KR",
+      "sentence": "여름에는 수박이 시원해요.",
+      "cloze": "수박",
+      "answer": "수박",
+      "accepted_answers": [],
+      "lemma": "수박",
+      "meaning": "watermelon",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 수박 [수박]. The first vowel ㅜ is rounded; contrast it with unrounded ㅡ. Final ㄱ is unreleased.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0067",
+      "locale": "ko-KR",
+      "sentence": "신발 끈을 묶어요.",
+      "cloze": "끈",
+      "answer": "끈",
+      "accepted_answers": [],
+      "lemma": "끈",
+      "meaning": "lace or cord",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 끈 [끈]. The vowel ㅡ is unrounded, unlike ㅜ; initial ㄲ is tense, unlike plain ㄱ and aspirated ㅋ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "신발 끈을 묶다: tie a shoelace."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0068",
+      "locale": "ko-KR",
+      "sentence": "밤에 꿈을 꿔요.",
+      "cloze": "꿈",
+      "answer": "꿈",
+      "accepted_answers": [],
+      "lemma": "꿈",
+      "meaning": "dream",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 꿈 [꿈]. The vowel ㅜ is rounded, unlike ㅡ; initial ㄲ is tense, unlike plain ㄱ and aspirated ㅋ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "꿈을 꾸다: have a dream while asleep."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0069",
+      "locale": "ko-KR",
+      "sentence": "기차가 터널에 들어가요.",
+      "cloze": "터널",
+      "answer": "터널",
+      "accepted_answers": [],
+      "lemma": "터널",
+      "meaning": "tunnel",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 터널 [터널]. The first syllable has aspirated ㅌ and vowel ㅓ; contrast ㄷ and ㄸ, and the vowel ㅗ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0070",
+      "locale": "ko-KR",
+      "sentence": "샐러드에 토마토를 넣어요.",
+      "cloze": "토마토",
+      "answer": "토마토",
+      "accepted_answers": [],
+      "lemma": "토마토",
+      "meaning": "tomato",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 토마토 [토마토]. Both ㅌ sounds are aspirated, and both ㅗ vowels are rounded; contrast ㄷ and ㄸ, and the vowel ㅓ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0071",
+      "locale": "ko-KR",
+      "sentence": "아침에 주스를 마셔요.",
+      "cloze": "주스",
+      "answer": "주스",
+      "accepted_answers": [],
+      "lemma": "주스",
+      "meaning": "juice",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 주스 [주스]. The first vowel ㅜ is rounded; the second vowel ㅡ is unrounded.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0072",
+      "locale": "ko-KR",
+      "sentence": "오늘 밤 달이 밝아요.",
+      "cloze": "달",
+      "answer": "달",
+      "accepted_answers": [],
+      "lemma": "달",
+      "meaning": "moon",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 달 [달]. Initial ㄷ is plain; contrast it with aspirated ㅌ and tense ㄸ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0073",
+      "locale": "ko-KR",
+      "sentence": "땀이 나요.",
+      "cloze": "땀",
+      "answer": "땀",
+      "accepted_answers": [],
+      "lemma": "땀",
+      "meaning": "sweat",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 땀 [땀]. Initial ㄸ is tense; contrast it with plain ㄷ and aspirated ㅌ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "땀이 나다: sweat."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0074",
+      "locale": "ko-KR",
+      "sentence": "방에 불을 켜요.",
+      "cloze": "불",
+      "answer": "불",
+      "accepted_answers": [],
+      "lemma": "불",
+      "meaning": "light",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 불 [불]. Initial ㅂ is plain; contrast it with aspirated ㅍ and tense ㅃ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "불을 켜다: turn on a light."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0075",
+      "locale": "ko-KR",
+      "sentence": "소가 풀을 뜯어요.",
+      "cloze": "풀",
+      "answer": "풀",
+      "accepted_answers": [],
+      "lemma": "풀",
+      "meaning": "grass",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 풀 [풀]. Initial ㅍ is aspirated; contrast it with plain ㅂ and tense ㅃ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0076",
+      "locale": "ko-KR",
+      "sentence": "생선 뼈를 조심하세요.",
+      "cloze": "뼈",
+      "answer": "뼈",
+      "accepted_answers": [],
+      "lemma": "뼈",
+      "meaning": "bone",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 뼈 [뼈]. Initial ㅃ is tense; contrast it with plain ㅂ and aspirated ㅍ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0077",
+      "locale": "ko-KR",
+      "sentence": "여행 가방에 짐을 넣어요.",
+      "cloze": "짐",
+      "answer": "짐",
+      "accepted_answers": [],
+      "lemma": "짐",
+      "meaning": "belongings or luggage",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 짐 [짐]. Initial ㅈ is plain; contrast it with aspirated ㅊ and tense ㅉ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0078",
+      "locale": "ko-KR",
+      "sentence": "시계에서 종이 울려요.",
+      "cloze": "종",
+      "answer": "종",
+      "accepted_answers": [],
+      "lemma": "종",
+      "meaning": "bell",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 종 [종]. Initial ㅈ is plain; contrast it with aspirated ㅊ and tense ㅉ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "종이 울리다: a bell rings."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0079",
+      "locale": "ko-KR",
+      "sentence": "우산을 펴요.",
+      "cloze": "우산",
+      "answer": "우산",
+      "accepted_answers": [],
+      "lemma": "우산",
+      "meaning": "umbrella",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 우산 [우산]. The first vowel ㅜ is rounded; contrast it with unrounded ㅡ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "우산을 펴다: open an umbrella."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0080",
+      "locale": "ko-KR",
+      "sentence": "빵에 버터를 발라요.",
+      "cloze": "빵",
+      "answer": "빵",
+      "accepted_answers": [],
+      "lemma": "빵",
+      "meaning": "bread",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 빵 [빵]. Initial ㅃ is tense; contrast it with plain ㅂ and aspirated ㅍ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0081",
+      "locale": "ko-KR",
+      "sentence": "국이 따뜻해요.",
+      "cloze": "국",
+      "answer": "국",
+      "accepted_answers": [],
+      "lemma": "국",
+      "meaning": "soup",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 국이 [구기]; the final ㄱ links to the vowel in 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0082",
+      "locale": "ko-KR",
+      "sentence": "국 한 그릇 주세요.",
+      "cloze": "국",
+      "answer": "국",
+      "accepted_answers": [],
+      "lemma": "국",
+      "meaning": "soup",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 국 한 [구칸]; final ㄱ combines with the following ㅎ as aspirated ㅋ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0083",
+      "locale": "ko-KR",
+      "sentence": "부엌이 좁아요.",
+      "cloze": "부엌",
+      "answer": "부엌",
+      "accepted_answers": [],
+      "lemma": "부엌",
+      "meaning": "kitchen",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 부엌이 [부어키]; final ㅋ links to 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0084",
+      "locale": "ko-KR",
+      "sentence": "부엌 문이 커요.",
+      "cloze": "부엌",
+      "answer": "부엌",
+      "accepted_answers": [],
+      "lemma": "부엌",
+      "meaning": "kitchen",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 부엌 [부억]; final ㅋ is pronounced as an unreleased ㄱ before a consonant.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0085",
+      "locale": "ko-KR",
+      "sentence": "밖에 비가 와요.",
+      "cloze": "밖에",
+      "answer": "밖에",
+      "accepted_answers": [],
+      "lemma": "밖",
+      "meaning": "outside",
+      "part_of_speech": "noun with particle"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "밖 + 에: the noun 밖 takes the location particle 에.",
+      "pronunciation": "Target: 밖에 [바께]; final ㄲ links to 에.",
+      "speech_level": "informal polite",
+      "lexical_frame": "밖에: outside, as a location."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0086",
+      "locale": "ko-KR",
+      "sentence": "방이 작아요.",
+      "cloze": "방",
+      "answer": "방",
+      "accepted_answers": [],
+      "lemma": "방",
+      "meaning": "room",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 방이 [방이]; final ㅇ remains at the end of 방 before 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0087",
+      "locale": "ko-KR",
+      "sentence": "빵을 사요.",
+      "cloze": "빵",
+      "answer": "빵",
+      "accepted_answers": [],
+      "lemma": "빵",
+      "meaning": "bread",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 빵을 [빵을]; final ㅇ remains at the end of 빵 before 을.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0088",
+      "locale": "ko-KR",
+      "sentence": "산에 눈이 와요.",
+      "cloze": "산",
+      "answer": "산",
+      "accepted_answers": [],
+      "lemma": "산",
+      "meaning": "mountain",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 산에 [사네]; final ㄴ links to 에.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0089",
+      "locale": "ko-KR",
+      "sentence": "눈을 감아요.",
+      "cloze": "눈",
+      "answer": "눈",
+      "accepted_answers": [],
+      "lemma": "눈",
+      "meaning": "eye",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 눈을 [누늘]; final ㄴ links to 을.",
+      "speech_level": "informal polite",
+      "lexical_frame": "눈을 감다: close one's eyes."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0090",
+      "locale": "ko-KR",
+      "sentence": "돈이 없어요.",
+      "cloze": "돈",
+      "answer": "돈",
+      "accepted_answers": [],
+      "lemma": "돈",
+      "meaning": "money",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 돈이 [도니]; final ㄴ links to 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0091",
+      "locale": "ko-KR",
+      "sentence": "문을 닫아요.",
+      "cloze": "닫아요",
+      "answer": "닫아요",
+      "accepted_answers": [],
+      "lemma": "닫다",
+      "meaning": "close",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "닫- + -아요: the stem of 닫다 joins the informal polite ending.",
+      "pronunciation": "Target: 닫아요 [다다요]; final ㄷ links to 아.",
+      "speech_level": "informal polite",
+      "lexical_frame": "문을 닫다: close a door."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0092",
+      "locale": "ko-KR",
+      "sentence": "옷이 예뻐요.",
+      "cloze": "옷",
+      "answer": "옷",
+      "accepted_answers": [],
+      "lemma": "옷",
+      "meaning": "clothes",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 옷이 [오시]; final ㅅ links to 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0093",
+      "locale": "ko-KR",
+      "sentence": "옷 가게가 저기 있어요.",
+      "cloze": "옷",
+      "answer": "옷",
+      "accepted_answers": [],
+      "lemma": "옷",
+      "meaning": "clothes",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 옷 [옫]; final ㅅ is pronounced as an unreleased ㄷ before a consonant.",
+      "speech_level": "informal polite",
+      "lexical_frame": "옷 가게: a clothes shop."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0094",
+      "locale": "ko-KR",
+      "sentence": "꽃이 피어요.",
+      "cloze": "꽃",
+      "answer": "꽃",
+      "accepted_answers": [],
+      "lemma": "꽃",
+      "meaning": "flower",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 꽃이 [꼬치]; final ㅊ links to 이.",
+      "speech_level": "informal polite",
+      "lexical_frame": "꽃이 피다: a flower blooms."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0095",
+      "locale": "ko-KR",
+      "sentence": "꽃 한 송이 주세요.",
+      "cloze": "꽃",
+      "answer": "꽃",
+      "accepted_answers": [],
+      "lemma": "꽃",
+      "meaning": "flower",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 꽃 한 [꼬탄]; final ㅊ is neutralized to ㄷ, which combines with the following ㅎ as aspirated ㅌ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0096",
+      "locale": "ko-KR",
+      "sentence": "낮에 만나요.",
+      "cloze": "낮",
+      "answer": "낮",
+      "accepted_answers": [],
+      "lemma": "낮",
+      "meaning": "daytime",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 낮에 [나제]; final ㅈ links to 에.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0097",
+      "locale": "ko-KR",
+      "sentence": "낮 시간이 좋아요.",
+      "cloze": "낮",
+      "answer": "낮",
+      "accepted_answers": [],
+      "lemma": "낮",
+      "meaning": "daytime",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 낮 [낟]; final ㅈ is pronounced as an unreleased ㄷ before a consonant.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0098",
+      "locale": "ko-KR",
+      "sentence": "빛이 밝아요.",
+      "cloze": "빛",
+      "answer": "빛",
+      "accepted_answers": [],
+      "lemma": "빛",
+      "meaning": "light",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 빛이 [비치]; final ㅊ links to 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0099",
+      "locale": "ko-KR",
+      "sentence": "밭이 넓어요.",
+      "cloze": "밭",
+      "answer": "밭",
+      "accepted_answers": [],
+      "lemma": "밭",
+      "meaning": "field",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 밭이 [바치]; final ㅌ becomes ㅊ before 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0100",
+      "locale": "ko-KR",
+      "sentence": "밭 밖에 나무가 있어요.",
+      "cloze": "밭",
+      "answer": "밭",
+      "accepted_answers": [],
+      "lemma": "밭",
+      "meaning": "field",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 밭 밖에 [받 빠께]; final ㅌ in 밭 is pronounced as an unreleased ㄷ before ㅂ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0101",
+      "locale": "ko-KR",
+      "sentence": "맛이 좋아요.",
+      "cloze": "맛",
+      "answer": "맛",
+      "accepted_answers": [],
+      "lemma": "맛",
+      "meaning": "taste",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 맛이 [마시]; final ㅅ links to 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0102",
+      "locale": "ko-KR",
+      "sentence": "끝이 보여요.",
+      "cloze": "끝",
+      "answer": "끝",
+      "accepted_answers": [],
+      "lemma": "끝",
+      "meaning": "end",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 끝이 [끄치]; final ㅌ becomes ㅊ before 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0103",
+      "locale": "ko-KR",
+      "sentence": "달이 밝아요.",
+      "cloze": "달",
+      "answer": "달",
+      "accepted_answers": [],
+      "lemma": "달",
+      "meaning": "moon",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 달이 [다리]; final ㄹ links to 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0104",
+      "locale": "ko-KR",
+      "sentence": "길을 건너요.",
+      "cloze": "길",
+      "answer": "길",
+      "accepted_answers": [],
+      "lemma": "길",
+      "meaning": "road",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 길을 [기를]; final ㄹ links to 을.",
+      "speech_level": "informal polite",
+      "lexical_frame": "길을 건너다: cross the road."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0105",
+      "locale": "ko-KR",
+      "sentence": "거울이 커요.",
+      "cloze": "거울",
+      "answer": "거울",
+      "accepted_answers": [],
+      "lemma": "거울",
+      "meaning": "mirror",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 거울이 [거우리]; final ㄹ links to 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0106",
+      "locale": "ko-KR",
+      "sentence": "소금을 넣어요.",
+      "cloze": "소금",
+      "answer": "소금",
+      "accepted_answers": [],
+      "lemma": "소금",
+      "meaning": "salt",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 소금을 [소그믈]; final ㅁ links to 을.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0107",
+      "locale": "ko-KR",
+      "sentence": "얼음이 녹아요.",
+      "cloze": "얼음",
+      "answer": "얼음",
+      "accepted_answers": [],
+      "lemma": "얼음",
+      "meaning": "ice",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 얼음이 [어르미]; final ㅁ links to 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0108",
+      "locale": "ko-KR",
+      "sentence": "밤을 구워요.",
+      "cloze": "밤",
+      "answer": "밤",
+      "accepted_answers": [],
+      "lemma": "밤",
+      "meaning": "chestnut",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 밤을 [바믈]; final ㅁ links to 을.",
+      "speech_level": "informal polite",
+      "lexical_frame": "밤을 굽다: roast chestnuts."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0109",
+      "locale": "ko-KR",
+      "sentence": "컵에 차가 있어요.",
+      "cloze": "컵",
+      "answer": "컵",
+      "accepted_answers": [],
+      "lemma": "컵",
+      "meaning": "cup",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 컵에 [커베]; final ㅂ links to 에.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0110",
+      "locale": "ko-KR",
+      "sentence": "컵 두 개 주세요.",
+      "cloze": "컵",
+      "answer": "컵",
+      "accepted_answers": [],
+      "lemma": "컵",
+      "meaning": "cup",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 컵 [컵]; final ㅂ is unreleased before a consonant.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0111",
+      "locale": "ko-KR",
+      "sentence": "잎이 작아요.",
+      "cloze": "잎",
+      "answer": "잎",
+      "accepted_answers": [],
+      "lemma": "잎",
+      "meaning": "leaf",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 잎이 [이피]; final ㅍ links to 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0112",
+      "locale": "ko-KR",
+      "sentence": "잎 한 장이 떨어져요.",
+      "cloze": "잎",
+      "answer": "잎",
+      "accepted_answers": [],
+      "lemma": "잎",
+      "meaning": "leaf",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 잎 한 [이판]; final ㅍ is neutralized to ㅂ, which combines with the following ㅎ as aspirated ㅍ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0113",
+      "locale": "ko-KR",
+      "sentence": "숲에 나무가 많아요.",
+      "cloze": "숲",
+      "answer": "숲",
+      "accepted_answers": [],
+      "lemma": "숲",
+      "meaning": "forest",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 숲에 [수페]; final ㅍ links to 에.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0114",
+      "locale": "ko-KR",
+      "sentence": "앞에 의자가 있어요.",
+      "cloze": "앞에",
+      "answer": "앞에",
+      "accepted_answers": [],
+      "lemma": "앞",
+      "meaning": "in front",
+      "part_of_speech": "noun with particle"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "앞 + 에: the noun 앞 takes the location particle 에.",
+      "pronunciation": "Target: 앞에 [아페]; final ㅍ links to 에.",
+      "speech_level": "informal polite",
+      "lexical_frame": "앞에: in front, as a location."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0115",
+      "locale": "ko-KR",
+      "sentence": "무릎이 아파요.",
+      "cloze": "무릎",
+      "answer": "무릎",
+      "accepted_answers": [],
+      "lemma": "무릎",
+      "meaning": "knee",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 무릎이 [무르피]; final ㅍ links to 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0116",
+      "locale": "ko-KR",
+      "sentence": "닭이 마당에 있어요.",
+      "cloze": "닭",
+      "answer": "닭",
+      "accepted_answers": [],
+      "lemma": "닭",
+      "meaning": "chicken",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 닭이 [달기]; ㄹ remains in the first syllable and ㄱ links to 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0117",
+      "locale": "ko-KR",
+      "sentence": "닭 한 마리가 있어요.",
+      "cloze": "닭",
+      "answer": "닭",
+      "accepted_answers": [],
+      "lemma": "닭",
+      "meaning": "chicken",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 닭 한 [다칸]; final ㄺ simplifies to ㄱ, which combines with the following ㅎ as aspirated ㅋ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0118",
+      "locale": "ko-KR",
+      "sentence": "흙이 많아요.",
+      "cloze": "흙",
+      "answer": "흙",
+      "accepted_answers": [],
+      "lemma": "흙",
+      "meaning": "soil",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 흙이 [흘기]; ㄹ remains in the first syllable and ㄱ links to 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0119",
+      "locale": "ko-KR",
+      "sentence": "값이 얼마예요?",
+      "cloze": "값",
+      "answer": "값",
+      "accepted_answers": [],
+      "lemma": "값",
+      "meaning": "price",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 값이 [갑씨]; ㅂ remains in the first syllable and ㅅ links to 이 as ㅆ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "값이 얼마예요?: How much does it cost?"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0120",
+      "locale": "ko-KR",
+      "sentence": "값도 알려 주세요.",
+      "cloze": "값",
+      "answer": "값",
+      "accepted_answers": [],
+      "lemma": "값",
+      "meaning": "price",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Sentence: 값도 [갑또]; the final ㅄ cluster is pronounced as unreleased ㅂ, and 도 begins with a tense consonant.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0121",
+      "locale": "ko-KR",
+      "sentence": "국물이 뜨거워요.",
+      "cloze": "국물",
+      "answer": "국물",
+      "accepted_answers": [],
+      "lemma": "국물",
+      "meaning": "broth",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 국물 [궁물]. Final ㄱ becomes ㅇ before ㅁ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0122",
+      "locale": "ko-KR",
+      "sentence": "한국말을 배워요.",
+      "cloze": "한국말",
+      "answer": "한국말",
+      "accepted_answers": [],
+      "lemma": "한국말",
+      "meaning": "the Korean language",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 한국말 [한궁말]. Final ㄱ becomes ㅇ before ㅁ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0123",
+      "locale": "ko-KR",
+      "sentence": "앞문이 커요.",
+      "cloze": "앞문",
+      "answer": "앞문",
+      "accepted_answers": [],
+      "lemma": "앞문",
+      "meaning": "front door",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 앞문 [암문]. Final ㅍ becomes ㅁ before ㅁ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0124",
+      "locale": "ko-KR",
+      "sentence": "밥맛이 좋아요.",
+      "cloze": "밥맛",
+      "answer": "밥맛",
+      "accepted_answers": [],
+      "lemma": "밥맛",
+      "meaning": "taste of cooked rice",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 밥맛 [밤맏]. Final ㅂ becomes ㅁ before ㅁ; in isolation, final ㅅ is pronounced ㄷ. In 밥맛이 [밤마시], ㅅ links to 이.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0125",
+      "locale": "ko-KR",
+      "sentence": "식물에 물을 줘요.",
+      "cloze": "식물",
+      "answer": "식물",
+      "accepted_answers": [],
+      "lemma": "식물",
+      "meaning": "plant",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 식물 [싱물]. Final ㄱ becomes ㅇ before ㅁ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0126",
+      "locale": "ko-KR",
+      "sentence": "작년 사진이에요.",
+      "cloze": "작년",
+      "answer": "작년",
+      "accepted_answers": [],
+      "lemma": "작년",
+      "meaning": "last year",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 작년 [장년]. Final ㄱ becomes ㅇ before ㄴ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0127",
+      "locale": "ko-KR",
+      "sentence": "백만 원이에요.",
+      "cloze": "백만",
+      "answer": "백만",
+      "accepted_answers": [],
+      "lemma": "백만",
+      "meaning": "one million",
+      "part_of_speech": "determiner"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 백만 [뱅만]. Final ㄱ becomes ㅇ before ㅁ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0128",
+      "locale": "ko-KR",
+      "sentence": "제 동생이 막내예요.",
+      "cloze": "막내",
+      "answer": "막내",
+      "accepted_answers": [],
+      "lemma": "막내",
+      "meaning": "youngest child or sibling",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 막내 [망내]. Final ㄱ becomes ㅇ before ㄴ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0129",
+      "locale": "ko-KR",
+      "sentence": "택시가 와요.",
+      "cloze": "택시",
+      "answer": "택시",
+      "accepted_answers": [],
+      "lemma": "택시",
+      "meaning": "taxi",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 택시 [택씨]. ㅅ becomes tense after final ㄱ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0130",
+      "locale": "ko-KR",
+      "sentence": "약국이 어디예요?",
+      "cloze": "약국",
+      "answer": "약국",
+      "accepted_answers": [],
+      "lemma": "약국",
+      "meaning": "pharmacy",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 약국 [약꾹]. ㄱ becomes tense after final ㄱ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0131",
+      "locale": "ko-KR",
+      "sentence": "식당에 사람이 많아요.",
+      "cloze": "식당",
+      "answer": "식당",
+      "accepted_answers": [],
+      "lemma": "식당",
+      "meaning": "restaurant",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 식당 [식땅]. ㄷ becomes tense after final ㄱ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0132",
+      "locale": "ko-KR",
+      "sentence": "책상 위에 펜이 있어요.",
+      "cloze": "책상",
+      "answer": "책상",
+      "accepted_answers": [],
+      "lemma": "책상",
+      "meaning": "desk",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 책상 [책쌍]. ㅅ becomes tense after final ㄱ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0133",
+      "locale": "ko-KR",
+      "sentence": "입구가 저기예요.",
+      "cloze": "입구",
+      "answer": "입구",
+      "accepted_answers": [],
+      "lemma": "입구",
+      "meaning": "entrance",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 입구 [입꾸]. ㄱ becomes tense after final ㅂ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0134",
+      "locale": "ko-KR",
+      "sentence": "축구를 좋아해요.",
+      "cloze": "축구",
+      "answer": "축구",
+      "accepted_answers": [],
+      "lemma": "축구",
+      "meaning": "football; soccer",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 축구 [축꾸]. ㄱ becomes tense after final ㄱ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0135",
+      "locale": "ko-KR",
+      "sentence": "오늘 숙제가 있어요.",
+      "cloze": "숙제",
+      "answer": "숙제",
+      "accepted_answers": [],
+      "lemma": "숙제",
+      "meaning": "homework",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 숙제 [숙쩨]. ㅈ becomes tense after final ㄱ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0136",
+      "locale": "ko-KR",
+      "sentence": "옷장에 코트가 있어요.",
+      "cloze": "옷장",
+      "answer": "옷장",
+      "accepted_answers": [],
+      "lemma": "옷장",
+      "meaning": "wardrobe; clothes closet",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 옷장 [옫짱]. Final ㅅ is pronounced ㄷ, and the following ㅈ becomes tense.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0137",
+      "locale": "ko-KR",
+      "sentence": "백화점이 어디예요?",
+      "cloze": "백화점",
+      "answer": "백화점",
+      "accepted_answers": [],
+      "lemma": "백화점",
+      "meaning": "department store",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 백화점 [배콰점]. Final ㄱ and following ㅎ combine as ㅋ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0138",
+      "locale": "ko-KR",
+      "sentence": "이 꽃은 국화예요.",
+      "cloze": "국화",
+      "answer": "국화",
+      "accepted_answers": [],
+      "lemma": "국화",
+      "meaning": "chrysanthemum",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 국화 [구콰]. Final ㄱ and following ㅎ combine as ㅋ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0139",
+      "locale": "ko-KR",
+      "sentence": "저는 맏형이에요.",
+      "cloze": "맏형",
+      "answer": "맏형",
+      "accepted_answers": [],
+      "lemma": "맏형",
+      "meaning": "eldest brother",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 맏형 [마텽]. Final ㄷ and following ㅎ combine as ㅌ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0140",
+      "locale": "ko-KR",
+      "sentence": "생일 축하해요.",
+      "cloze": "축하해요",
+      "answer": "축하해요",
+      "accepted_answers": [],
+      "lemma": "축하하다",
+      "meaning": "congratulate; celebrate",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "축하해요 = 축하하- + -여요, with 하여 contracted to 해.",
+      "pronunciation": "Target: 축하해요 [추카해요]. Final ㄱ and following ㅎ combine as ㅋ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "생일 축하해요: happy birthday."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0141",
+      "locale": "ko-KR",
+      "sentence": "대학 입학을 축하해요.",
+      "cloze": "입학",
+      "answer": "입학",
+      "accepted_answers": [],
+      "lemma": "입학",
+      "meaning": "admission to a school",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 입학 [이팍]. Final ㅂ and following ㅎ combine as ㅍ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "대학 입학: admission to university."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0142",
+      "locale": "ko-KR",
+      "sentence": "이거 어떻게 해요?",
+      "cloze": "어떻게",
+      "answer": "어떻게",
+      "accepted_answers": [],
+      "lemma": "어떻다",
+      "meaning": "how",
+      "part_of_speech": "adverbial form"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "어떻게 = 어떻- + -게, the adverbial form of 어떻다.",
+      "pronunciation": "Target: 어떻게 [어떠케]. Final ㅎ and following ㄱ combine as ㅋ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "어떻게 해요?: how do I do it?"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0143",
+      "locale": "ko-KR",
+      "sentence": "신라는 옛 나라예요.",
+      "cloze": "신라",
+      "answer": "신라",
+      "accepted_answers": [],
+      "lemma": "신라",
+      "meaning": "Silla, an ancient Korean kingdom",
+      "part_of_speech": "proper noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 신라 [실라]. ㄴ before ㄹ is pronounced ㄹ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0144",
+      "locale": "ko-KR",
+      "sentence": "설날에 가족을 만나요.",
+      "cloze": "설날",
+      "answer": "설날",
+      "accepted_answers": [],
+      "lemma": "설날",
+      "meaning": "Korean Lunar New Year's Day",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 설날 [설랄]. ㄴ after ㄹ is pronounced ㄹ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0145",
+      "locale": "ko-KR",
+      "sentence": "칼날이 날카로워요.",
+      "cloze": "칼날",
+      "answer": "칼날",
+      "accepted_answers": [],
+      "lemma": "칼날",
+      "meaning": "knife blade",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 칼날 [칼랄]. ㄴ after ㄹ is pronounced ㄹ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0146",
+      "locale": "ko-KR",
+      "sentence": "여기는 물난리예요.",
+      "cloze": "물난리",
+      "answer": "물난리",
+      "accepted_answers": [],
+      "lemma": "물난리",
+      "meaning": "flooding; flood disaster",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 물난리 [물랄리]. Both instances of ㄴ are pronounced ㄹ next to ㄹ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0147",
+      "locale": "ko-KR",
+      "sentence": "친구에게 연락해요.",
+      "cloze": "연락해요",
+      "answer": "연락해요",
+      "accepted_answers": [],
+      "lemma": "연락하다",
+      "meaning": "contact",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "연락해요 = 연락하- + -여요, with 하여 contracted to 해.",
+      "pronunciation": "Target: 연락해요 [열라캐요]. ㄴ before ㄹ is pronounced ㄹ; final ㄱ and following ㅎ combine as ㅋ.",
+      "speech_level": "informal polite",
+      "lexical_frame": "친구에게 연락해요: contact a friend."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0148",
+      "locale": "ko-KR",
+      "sentence": "실내에서 신발을 벗어요.",
+      "cloze": "실내",
+      "answer": "실내",
+      "accepted_answers": [],
+      "lemma": "실내",
+      "meaning": "indoors; interior",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "pronunciation": "Target: 실내 [실래]. ㄴ after ㄹ is pronounced ㄹ.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0149",
+      "locale": "ko-KR",
+      "sentence": "전 학생이에요.",
+      "cloze": "전",
+      "answer": "전",
+      "accepted_answers": [],
+      "lemma": "저",
+      "meaning": "I, as the topic",
+      "part_of_speech": "pronoun with particle"
+    },
+    "language_specific": {
+      "target_unit": "phrase",
+      "morphology": "전 contracts 저 + 는. The topic particle 는 attaches to 저.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0150",
+      "locale": "ko-KR",
+      "sentence": "이건 제 우산이에요.",
+      "cloze": "이건",
+      "answer": "이건",
+      "accepted_answers": [],
+      "lemma": "이것",
+      "meaning": "this, as the topic",
+      "part_of_speech": "pronoun with particle"
+    },
+    "language_specific": {
+      "target_unit": "phrase",
+      "morphology": "이건 contracts 이것 + 은. The topic particle 은 attaches to 이것.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0151",
+      "locale": "ko-KR",
+      "sentence": "그건 제 가방이에요.",
+      "cloze": "그건",
+      "answer": "그건",
+      "accepted_answers": [],
+      "lemma": "그것",
+      "meaning": "that, as the topic",
+      "part_of_speech": "pronoun with particle"
+    },
+    "language_specific": {
+      "target_unit": "phrase",
+      "morphology": "그건 contracts 그것 + 은. The topic particle 은 attaches to 그것.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0152",
+      "locale": "ko-KR",
+      "sentence": "제 번호는 여기 있어요.",
+      "cloze": "제",
+      "answer": "제",
+      "accepted_answers": [],
+      "lemma": "저",
+      "meaning": "my, humble",
+      "part_of_speech": "pronoun with particle"
+    },
+    "language_specific": {
+      "target_unit": "phrase",
+      "morphology": "제 contracts 저 + 의. The possessive particle 의 attaches to 저.",
+      "speech_level": "informal polite",
+      "lexical_frame": "제 번호: my number."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0153",
+      "locale": "ko-KR",
+      "sentence": "매일 운동해요.",
+      "cloze": "운동해요",
+      "answer": "운동해요",
+      "accepted_answers": [],
+      "lemma": "운동하다",
+      "meaning": "exercise",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "운동해요 = 운동하- + -여요, with 하여 contracted to 해.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0154",
+      "locale": "ko-KR",
+      "sentence": "카드 결제 돼요?",
+      "cloze": "돼요",
+      "answer": "돼요",
+      "accepted_answers": [],
+      "lemma": "되다",
+      "meaning": "be possible",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "돼요 is the contraction of 되어요: 되- + -어요. It is the polite present form of 되다.",
+      "speech_level": "informal polite",
+      "lexical_frame": "카드 결제 돼요?: is card payment possible?"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0155",
+      "locale": "ko-KR",
+      "sentence": "선생님, 안녕하세요?",
+      "cloze": "안녕하세요",
+      "answer": "안녕하세요",
+      "accepted_answers": [],
+      "lemma": "안녕하세요",
+      "meaning": "hello",
+      "part_of_speech": "interjection"
+    },
+    "language_specific": {
+      "target_unit": "fixed utterance",
+      "prosody": "Sentence: Address 선생님 as one group, then give 안녕하세요 a smooth greeting contour.",
+      "speech_level": "informal polite",
+      "social_context": "A learner greets a teacher politely."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0156",
+      "locale": "ko-KR",
+      "sentence": "네, 고맙습니다.",
+      "cloze": "고맙습니다",
+      "answer": "고맙습니다",
+      "accepted_answers": [],
+      "lemma": "고맙다",
+      "meaning": "thank you",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "target_unit": "fixed utterance",
+      "morphology": "고맙습니다 = 고맙- + -습니다, a formal polite form of 고맙다.",
+      "pronunciation": "Target: 고맙습니다 [고맙씀니다]. ㅅ becomes tense after final ㅂ, and final ㅂ becomes ㅁ before ㄴ.",
+      "prosody": "Sentence: Say 네 as a short acknowledgment, then 고맙습니다 as a separate group with a falling finish.",
+      "speech_level": "formal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0157",
+      "locale": "ko-KR",
+      "sentence": "천천히 말해 주세요.",
+      "cloze": "천천히",
+      "answer": "천천히",
+      "accepted_answers": [],
+      "lemma": "천천히",
+      "meaning": "slowly",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "prosody": "Sentence: Group 천천히 with the request 말해 주세요; keep the pace unhurried and finish gently.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0158",
+      "locale": "ko-KR",
+      "sentence": "다시 한번 말해 주세요.",
+      "cloze": "다시 한번",
+      "answer": "다시 한번",
+      "accepted_answers": [],
+      "lemma": "다시 한번",
+      "meaning": "once more",
+      "part_of_speech": "adverbial phrase"
+    },
+    "language_specific": {
+      "target_unit": "phrase",
+      "prosody": "Sentence: Keep 다시 한번 together, then continue smoothly into 말해 주세요.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0159",
+      "locale": "ko-KR",
+      "sentence": "이거 얼마예요?",
+      "cloze": "얼마예요",
+      "answer": "얼마예요",
+      "accepted_answers": [],
+      "lemma": "얼마",
+      "meaning": "how much is it?",
+      "part_of_speech": "interrogative with copula"
+    },
+    "language_specific": {
+      "target_unit": "phrase",
+      "morphology": "얼마예요 = 얼마 + 예요, with the polite copula attached to 얼마.",
+      "prosody": "Sentence: Say 이거 as the item being indicated, then group 얼마예요 as the question.",
+      "speech_level": "informal polite",
+      "lexical_frame": "이거 얼마예요?: how much is this?"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0160",
+      "locale": "ko-KR",
+      "sentence": "네, 맞아요.",
+      "cloze": "맞아요",
+      "answer": "맞아요",
+      "accepted_answers": [],
+      "lemma": "맞다",
+      "meaning": "that's right",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_unit": "fixed utterance",
+      "morphology": "맞아요 = 맞- + -아요, the informal polite form of 맞다.",
+      "pronunciation": "Target: 맞아요 [마자요]. Final ㅈ moves to the vowel-initial ending.",
+      "prosody": "Sentence: Give 네 a short acknowledgment, then say 맞아요 as a separate confirming group.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0161",
+      "locale": "ko-KR",
+      "sentence": "여기 자리 있어요?",
+      "cloze": "있어요",
+      "answer": "있어요",
+      "accepted_answers": [],
+      "lemma": "있다",
+      "meaning": "is available",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "lexical_frame": "자리 있어요?: ask whether a seat is available."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0162",
+      "locale": "ko-KR",
+      "sentence": "처음 뵙겠습니다.",
+      "cloze": "처음 뵙겠습니다",
+      "answer": "처음 뵙겠습니다",
+      "accepted_answers": [],
+      "lemma": "처음 뵙겠습니다",
+      "meaning": "nice to meet you",
+      "part_of_speech": "expression",
+      "note": "A conventional formal greeting when meeting someone for the first time."
+    },
+    "language_specific": {
+      "target_unit": "fixed utterance",
+      "morphology": "처음 + 뵙- + -겠- + -습니다 forms 처음 뵙겠습니다; 뵙다 is the humble verb for meeting or seeing someone.",
+      "speech_level": "formal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0163",
+      "locale": "ko-KR",
+      "sentence": "저는 민지예요.",
+      "cloze": "예요",
+      "answer": "예요",
+      "accepted_answers": [],
+      "lemma": "이다",
+      "meaning": "am; is",
+      "part_of_speech": "copula"
+    },
+    "language_specific": {
+      "target_unit": "attached morpheme",
+      "morphology": "민지 + 예요: 예요 is the informal polite form of 이다 attached to a vowel-final noun.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0164",
+      "locale": "ko-KR",
+      "sentence": "이분은 제 친구예요.",
+      "cloze": "이분",
+      "answer": "이분",
+      "accepted_answers": [],
+      "lemma": "이분",
+      "meaning": "this person",
+      "part_of_speech": "pronoun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "social_context": "The speaker politely introduces a friend to another person."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0165",
+      "locale": "ko-KR",
+      "sentence": "선물 고마워요.",
+      "cloze": "고마워요",
+      "answer": "고마워요",
+      "accepted_answers": [],
+      "lemma": "고맙다",
+      "meaning": "thank you",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "고맙- + -어요 → 고마워요 is a ㅂ-irregular form.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0166",
+      "locale": "ko-KR",
+      "sentence": "고마워요. 천만에요.",
+      "cloze": "천만에요",
+      "answer": "천만에요",
+      "accepted_answers": [],
+      "lemma": "천만에요",
+      "meaning": "you're welcome",
+      "part_of_speech": "interjection",
+      "note": "A conventional polite response to thanks."
+    },
+    "language_specific": {
+      "target_unit": "fixed utterance",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0167",
+      "locale": "ko-KR",
+      "sentence": "아, 죄송합니다.",
+      "cloze": "죄송합니다",
+      "answer": "죄송합니다",
+      "accepted_answers": [],
+      "lemma": "죄송하다",
+      "meaning": "I am sorry",
+      "part_of_speech": "adjective",
+      "note": "A conventional polite apology."
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "죄송하- + -ㅂ니다 forms 죄송합니다, the formal polite form of 죄송하다.",
+      "speech_level": "formal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0168",
+      "locale": "ko-KR",
+      "sentence": "미안해요. 괜찮아요.",
+      "cloze": "괜찮아요",
+      "answer": "괜찮아요",
+      "accepted_answers": [],
+      "lemma": "괜찮다",
+      "meaning": "it's all right",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "괜찮- + -아요 forms 괜찮아요, the informal polite form of 괜찮다.",
+      "speech_level": "informal polite",
+      "lexical_frame": "괜찮아요 can accept an apology and reassure the other person."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0169",
+      "locale": "ko-KR",
+      "sentence": "여기 앉아도 돼요?",
+      "cloze": "앉아도 돼요",
+      "answer": "앉아도 돼요",
+      "accepted_answers": [],
+      "lemma": "앉아도 되다",
+      "meaning": "may I sit",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_unit": "phrase",
+      "morphology": "앉- + -아도 + 돼요 forms 앉아도 돼요, using the permission pattern -아도 되다.",
+      "speech_level": "informal polite",
+      "lexical_frame": "여기 앉아도 돼요?: ask permission to sit here."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0170",
+      "locale": "ko-KR",
+      "sentence": "사진 찍어도 돼요?",
+      "cloze": "찍어도 돼요",
+      "answer": "찍어도 돼요",
+      "accepted_answers": [],
+      "lemma": "찍어도 되다",
+      "meaning": "may I take a photo",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_unit": "phrase",
+      "morphology": "찍- + -어도 + 돼요 forms 찍어도 돼요, using the permission pattern -어도 되다.",
+      "speech_level": "informal polite",
+      "lexical_frame": "사진 찍다: take a photo."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0171",
+      "locale": "ko-KR",
+      "sentence": "이게 무슨 뜻이에요?",
+      "cloze": "무슨 뜻이에요",
+      "answer": "무슨 뜻이에요",
+      "accepted_answers": [],
+      "lemma": "무슨 뜻이다",
+      "meaning": "what does it mean",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_unit": "phrase",
+      "morphology": "무슨 + 뜻 + 이에요: 이에요 is the informal polite form of 이다 after the consonant-final noun 뜻.",
+      "speech_level": "informal polite",
+      "lexical_frame": "이게 무슨 뜻이에요?: ask what something means."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0172",
+      "locale": "ko-KR",
+      "sentence": "김밥 포장해 주세요.",
+      "cloze": "포장해 주세요",
+      "answer": "포장해 주세요",
+      "accepted_answers": [],
+      "lemma": "포장해 주다",
+      "meaning": "please pack it to take away",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_unit": "phrase",
+      "morphology": "포장하- + -여 forms 포장해; 주- + -세요 forms 주세요. Together 포장해 주세요 is a polite request based on 포장해 주다.",
+      "speech_level": "informal polite",
+      "lexical_frame": "김밥 포장해 주세요: ask for gimbap to be packed to take away."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0173",
+      "locale": "ko-KR",
+      "sentence": "지금 영업해요?",
+      "cloze": "영업해요",
+      "answer": "영업해요",
+      "accepted_answers": [],
+      "lemma": "영업하다",
+      "meaning": "be open for business",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "영업하- + -여요 contracts to 영업해요, the informal polite form of 영업하다.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0174",
+      "locale": "ko-KR",
+      "sentence": "그 단어는 몰라요.",
+      "cloze": "몰라요",
+      "answer": "몰라요",
+      "accepted_answers": [],
+      "lemma": "모르다",
+      "meaning": "I do not know",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "모르- + -아요 forms 몰라요: the 르 irregular pattern adds ㄹ to the preceding syllable and changes 르 to 라.",
+      "speech_level": "informal polite",
+      "lexical_frame": "그 단어는 몰라요: I do not know that word."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0175",
+      "locale": "ko-KR",
+      "sentence": "설명을 이해 못했어요.",
+      "cloze": "이해 못했어요",
+      "answer": "이해 못했어요",
+      "accepted_answers": [],
+      "lemma": "이해 못하다",
+      "meaning": "I did not understand",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_unit": "phrase",
+      "morphology": "이해 + 못하다 forms the dictionary phrase 이해 못하다. In the sentence, 못하- + -였어요 contracts to 못했어요.",
+      "speech_level": "informal polite",
+      "lexical_frame": "설명을 이해 못했어요: I did not understand the explanation."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0176",
+      "locale": "ko-KR",
+      "sentence": "성함이 어떻게 되세요?",
+      "cloze": "성함",
+      "answer": "성함",
+      "accepted_answers": [],
+      "lemma": "성함",
+      "meaning": "your name",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "social_context": "The speaker respectfully asks the other person their name.",
+      "lexical_frame": "성함이 어떻게 되세요?: a respectful way to ask someone's name."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0177",
+      "locale": "ko-KR",
+      "sentence": "어느 나라에서 왔어요?",
+      "cloze": "어느 나라에서",
+      "answer": "어느 나라에서",
+      "accepted_answers": [],
+      "lemma": "어느 나라",
+      "meaning": "from which country",
+      "part_of_speech": "phrase"
+    },
+    "language_specific": {
+      "target_unit": "phrase",
+      "morphology": "어느 + 나라 + 에서: 에서 attaches to 나라 and marks the place of origin with 오다.",
+      "speech_level": "informal polite",
+      "lexical_frame": "어느 나라에서 왔어요?: which country are you from?"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0178",
+      "locale": "ko-KR",
+      "sentence": "화장실이 어디예요?",
+      "cloze": "화장실",
+      "answer": "화장실",
+      "accepted_answers": [],
+      "lemma": "화장실",
+      "meaning": "restroom",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "lexical_frame": "화장실이 어디예요?: where is the restroom?"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0179",
+      "locale": "ko-KR",
+      "sentence": "저는 한국어를 배워요.",
+      "cloze": "배워요",
+      "answer": "배워요",
+      "accepted_answers": [],
+      "lemma": "배우다",
+      "meaning": "learn",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "배우- + -어요 contracts to 배워요, the informal polite form of 배우다.",
+      "speech_level": "informal polite",
+      "lexical_frame": "한국어를 배우다: learn Korean."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0180",
+      "locale": "ko-KR",
+      "sentence": "한국어를 조금 해요.",
+      "cloze": "조금",
+      "answer": "조금",
+      "accepted_answers": [],
+      "lemma": "조금",
+      "meaning": "a little",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "lexical_frame": "한국어를 조금 해요: I speak a little Korean."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0181",
+      "locale": "ko-KR",
+      "sentence": "한국어는 아직 어려워요.",
+      "cloze": "아직",
+      "answer": "아직",
+      "accepted_answers": [],
+      "lemma": "아직",
+      "meaning": "still",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "lexical_frame": "아직 어려워요: it is still difficult."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0182",
+      "locale": "ko-KR",
+      "sentence": "가방이 무거워요. 도와주세요.",
+      "cloze": "도와주세요",
+      "answer": "도와주세요",
+      "accepted_answers": [],
+      "lemma": "도와주다",
+      "meaning": "please help me",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "돕- + -아 주다 forms 도와주다 through the ㅂ irregular pattern; 도와주- + -세요 forms 도와주세요.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0183",
+      "locale": "ko-KR",
+      "sentence": "물 드릴까요? 네, 주세요.",
+      "cloze": "네, 주세요",
+      "answer": "네, 주세요",
+      "accepted_answers": [],
+      "lemma": "네, 주세요",
+      "meaning": "yes, please",
+      "part_of_speech": "expression",
+      "note": "A conventional way to accept an offer of something."
+    },
+    "language_specific": {
+      "target_unit": "fixed utterance",
+      "morphology": "네 + 주- + -세요 forms 네, 주세요; 주세요 is the polite request form of 주다.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0184",
+      "locale": "ko-KR",
+      "sentence": "차 드릴까요? 아니요, 괜찮아요.",
+      "cloze": "아니요, 괜찮아요",
+      "answer": "아니요, 괜찮아요",
+      "accepted_answers": [],
+      "lemma": "아니요, 괜찮아요",
+      "meaning": "no, thank you",
+      "part_of_speech": "expression",
+      "note": "A conventional polite way to decline an offer."
+    },
+    "language_specific": {
+      "target_unit": "fixed utterance",
+      "morphology": "아니요 + 괜찮- + -아요 forms 아니요, 괜찮아요; 괜찮아요 is the informal polite form of 괜찮다.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0185",
+      "locale": "ko-KR",
+      "sentence": "저기요, 계산해 주세요.",
+      "cloze": "저기요",
+      "answer": "저기요",
+      "accepted_answers": [],
+      "lemma": "저기요",
+      "meaning": "excuse me",
+      "part_of_speech": "interjection"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "social_context": "A customer gets someone's attention before asking to pay."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0186",
+      "locale": "ko-KR",
+      "sentence": "잠시만요, 직원분!",
+      "cloze": "잠시만요",
+      "answer": "잠시만요",
+      "accepted_answers": [],
+      "lemma": "잠시만요",
+      "meaning": "one moment, please",
+      "part_of_speech": "interjection",
+      "note": "A conventional request for someone to wait briefly."
+    },
+    "language_specific": {
+      "target_unit": "fixed utterance",
+      "speech_level": "informal polite",
+      "social_context": "The speaker asks a staff member to wait briefly."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0187",
+      "locale": "ko-KR",
+      "sentence": "영수증 주세요.",
+      "cloze": "영수증",
+      "answer": "영수증",
+      "accepted_answers": [],
+      "lemma": "영수증",
+      "meaning": "receipt",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "speech_level": "informal polite",
+      "lexical_frame": "영수증 주세요: please give me the receipt."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0188",
+      "locale": "ko-KR",
+      "sentence": "여기에 써 주세요.",
+      "cloze": "써 주세요",
+      "answer": "써 주세요",
+      "accepted_answers": [],
+      "lemma": "써 주다",
+      "meaning": "please write",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_unit": "phrase",
+      "morphology": "쓰- + -어 주다 forms 써 주다, with ㅡ dropped; 주- + -세요 forms 주세요.",
+      "speech_level": "informal polite",
+      "lexical_frame": "여기에 써 주세요: please write it here."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0189",
+      "locale": "ko-KR",
+      "sentence": "이 주소를 보여 주세요.",
+      "cloze": "보여 주세요",
+      "answer": "보여 주세요",
+      "accepted_answers": [],
+      "lemma": "보여 주다",
+      "meaning": "please show",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_unit": "phrase",
+      "morphology": "보이- + -어 주다 forms 보여 주다 by contraction; 주- + -세요 forms 주세요.",
+      "speech_level": "informal polite",
+      "lexical_frame": "주소를 보여 주세요: please show me the address."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0190",
+      "locale": "ko-KR",
+      "sentence": "안녕히 가세요, 선생님.",
+      "cloze": "안녕히 가세요",
+      "answer": "안녕히 가세요",
+      "accepted_answers": [],
+      "lemma": "안녕히 가세요",
+      "meaning": "goodbye to someone leaving",
+      "part_of_speech": "expression",
+      "note": "A conventional farewell said to someone who is leaving."
+    },
+    "language_specific": {
+      "target_unit": "fixed utterance",
+      "morphology": "안녕히 + 가- + -세요 forms 안녕히 가세요, a farewell using 가다.",
+      "speech_level": "informal polite",
+      "social_context": "The speaker says goodbye to a departing teacher."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0191",
+      "locale": "ko-KR",
+      "sentence": "안녕히 계세요, 사장님.",
+      "cloze": "안녕히 계세요",
+      "answer": "안녕히 계세요",
+      "accepted_answers": [],
+      "lemma": "안녕히 계세요",
+      "meaning": "goodbye to someone staying",
+      "part_of_speech": "expression",
+      "note": "A conventional farewell said by someone who is leaving."
+    },
+    "language_specific": {
+      "target_unit": "fixed utterance",
+      "morphology": "안녕히 + 계시- + -어요 forms 안녕히 계세요; 계시다 is the honorific verb for staying.",
+      "speech_level": "informal polite",
+      "social_context": "The speaker says goodbye to 사장님 while leaving; the addressee remains."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0192",
+      "locale": "ko-KR",
+      "sentence": "내일 또 봬요, 선생님.",
+      "cloze": "또 봬요",
+      "answer": "또 봬요",
+      "accepted_answers": [],
+      "lemma": "또 뵈다",
+      "meaning": "see you again",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_unit": "phrase",
+      "morphology": "또 + 뵈- + -어요 contracts to 또 봬요; 뵈다 is a humble verb for seeing or meeting someone.",
+      "speech_level": "informal polite",
+      "social_context": "A learner tells a teacher they will meet again tomorrow."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0193",
+      "locale": "ko-KR",
+      "sentence": "좋은 하루 보내세요.",
+      "cloze": "좋은 하루 보내세요",
+      "answer": "좋은 하루 보내세요",
+      "accepted_answers": [],
+      "lemma": "좋은 하루 보내세요",
+      "meaning": "have a good day",
+      "part_of_speech": "expression",
+      "note": "A conventional polite parting wish."
+    },
+    "language_specific": {
+      "target_unit": "fixed utterance",
+      "morphology": "좋은 하루 + 보내- + -세요 forms 좋은 하루 보내세요, using 보내다 for spending a day.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0194",
+      "locale": "ko-KR",
+      "sentence": "이거 한국어로 뭐예요?",
+      "cloze": "한국어로",
+      "answer": "한국어로",
+      "accepted_answers": [],
+      "lemma": "한국어",
+      "meaning": "in Korean",
+      "part_of_speech": "noun with particle"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "한국어 + 로: 로 attaches to the vowel-final noun 한국어 and marks the language used.",
+      "speech_level": "informal polite",
+      "lexical_frame": "한국어로 뭐예요?: what is it in Korean?"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0195",
+      "locale": "ko-KR",
+      "sentence": "영어로 말해도 돼요?",
+      "cloze": "영어로",
+      "answer": "영어로",
+      "accepted_answers": [],
+      "lemma": "영어",
+      "meaning": "in English",
+      "part_of_speech": "noun with particle"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "영어 + 로: 로 attaches to the vowel-final noun 영어 and marks the language used.",
+      "speech_level": "informal polite",
+      "lexical_frame": "영어로 말하다: speak in English."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0196",
+      "locale": "ko-KR",
+      "sentence": "이 버스가 역에 가요?",
+      "cloze": "역에",
+      "answer": "역에",
+      "accepted_answers": [],
+      "lemma": "역",
+      "meaning": "to the station",
+      "part_of_speech": "noun with particle"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "역 + 에: 에 attaches to 역 and marks the destination.",
+      "speech_level": "informal polite",
+      "lexical_frame": "역에 가다: go to the station."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0197",
+      "locale": "ko-KR",
+      "sentence": "물 좀 주세요.",
+      "cloze": "주세요",
+      "answer": "주세요",
+      "accepted_answers": [],
+      "lemma": "주다",
+      "meaning": "please give",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "주- + -세요 → 주세요.",
+      "speech_level": "informal polite"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0198",
+      "locale": "ko-KR",
+      "sentence": "카드로 결제해 주세요.",
+      "cloze": "카드로",
+      "answer": "카드로",
+      "accepted_answers": [],
+      "lemma": "카드",
+      "meaning": "by card",
+      "part_of_speech": "noun with particle"
+    },
+    "language_specific": {
+      "target_unit": "word",
+      "morphology": "카드 + 로: 로 attaches to the vowel-final noun 카드 and marks the means of payment.",
+      "speech_level": "informal polite",
+      "lexical_frame": "카드로 결제하다: pay by card."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0199",
+      "locale": "ko-KR",
+      "sentence": "메뉴 좀 볼 수 있을까요?",
+      "cloze": "볼 수 있을까요",
+      "answer": "볼 수 있을까요",
+      "accepted_answers": [],
+      "lemma": "볼 수 있다",
+      "meaning": "could I see",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "target_unit": "phrase",
+      "morphology": "보- + -ㄹ 수 있다 + -을까요 forms 볼 수 있을까요, a polite question about possibility.",
+      "speech_level": "informal polite",
+      "social_context": "A customer politely asks to see the menu.",
+      "lexical_frame": "메뉴를 볼 수 있을까요?: could I see the menu?"
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ko-00-0200",
+      "locale": "ko-KR",
+      "sentence": "만나서 반가웠어요.",
+      "cloze": "만나서 반가웠어요",
+      "answer": "만나서 반가웠어요",
+      "accepted_answers": [],
+      "lemma": "만나서 반갑다",
+      "meaning": "it was nice meeting you",
+      "part_of_speech": "expression",
+      "note": "A conventional polite remark when parting after a meeting."
+    },
+    "language_specific": {
+      "target_unit": "fixed utterance",
+      "morphology": "만나- + -아서 contracts to 만나서; 반갑- + -었어요 forms 반가웠어요 through the ㅂ irregular pattern.",
+      "speech_level": "informal polite"
+    }
+  }
+]

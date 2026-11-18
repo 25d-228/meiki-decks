@@ -1,0 +1,3834 @@
+[
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0001",
+      "locale": "pt-BR",
+      "sentence": "Minha avó é mãe da minha mãe.",
+      "cloze": "avó",
+      "answer": "avó",
+      "accepted_answers": [],
+      "lemma": "avó",
+      "meaning": "grandmother",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: avó has final stress and open /ɔ/; avô has closed /o/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0002",
+      "locale": "pt-BR",
+      "sentence": "Meu avô é pai do meu pai.",
+      "cloze": "avô",
+      "answer": "avô",
+      "accepted_answers": [],
+      "lemma": "avô",
+      "meaning": "grandfather",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: avô has final stress and closed /o/; avó has open /ɔ/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0003",
+      "locale": "pt-BR",
+      "sentence": "O café está na xícara.",
+      "cloze": "café",
+      "answer": "café",
+      "accepted_answers": [],
+      "lemma": "café",
+      "meaning": "coffee",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: café has final stress on open /ɛ/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0004",
+      "locale": "pt-BR",
+      "sentence": "Meu pé está no chão.",
+      "cloze": "pé",
+      "answer": "pé",
+      "accepted_answers": [],
+      "lemma": "pé",
+      "meaning": "foot",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: pé has stressed open /ɛ/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0005",
+      "locale": "pt-BR",
+      "sentence": "A festa é aqui em casa.",
+      "cloze": "festa",
+      "answer": "festa",
+      "accepted_answers": [],
+      "lemma": "festa",
+      "meaning": "party",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: festa is stressed on the first syllable, with open /ɛ/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0006",
+      "locale": "pt-BR",
+      "sentence": "A janela da sala está aberta.",
+      "cloze": "janela",
+      "answer": "janela",
+      "accepted_answers": [],
+      "lemma": "janela",
+      "meaning": "window",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: janela is stressed on ne, with open /ɛ/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0007",
+      "locale": "pt-BR",
+      "sentence": "A pedra está no jardim.",
+      "cloze": "pedra",
+      "answer": "pedra",
+      "accepted_answers": [],
+      "lemma": "pedra",
+      "meaning": "stone",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: pedra is stressed on the first syllable, with open /ɛ/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0008",
+      "locale": "pt-BR",
+      "sentence": "A terra está no vaso.",
+      "cloze": "terra",
+      "answer": "terra",
+      "accepted_answers": [],
+      "lemma": "terra",
+      "meaning": "soil",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: terra is stressed on the first syllable, with open /ɛ/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0009",
+      "locale": "pt-BR",
+      "sentence": "O médico está no hospital.",
+      "cloze": "médico",
+      "answer": "médico",
+      "accepted_answers": [],
+      "lemma": "médico",
+      "meaning": "doctor",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: médico has stress on mé, with open /ɛ/; in São Paulo, the final o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0010",
+      "locale": "pt-BR",
+      "sentence": "A mesa está na cozinha.",
+      "cloze": "mesa",
+      "answer": "mesa",
+      "accepted_answers": [],
+      "lemma": "mesa",
+      "meaning": "table",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: mesa is stressed on the first syllable, with closed /e/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0011",
+      "locale": "pt-BR",
+      "sentence": "Você é da minha família.",
+      "cloze": "Você",
+      "answer": "Você",
+      "accepted_answers": [],
+      "lemma": "você",
+      "meaning": "you",
+      "part_of_speech": "pronoun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: você has final stress on closed /e/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0012",
+      "locale": "pt-BR",
+      "sentence": "O bebê está com a mãe.",
+      "cloze": "bebê",
+      "answer": "bebê",
+      "accepted_answers": [],
+      "lemma": "bebê",
+      "meaning": "baby",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: bebê has final stress on closed /e/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0013",
+      "locale": "pt-BR",
+      "sentence": "O anel está no dedo.",
+      "cloze": "dedo",
+      "answer": "dedo",
+      "accepted_answers": [],
+      "lemma": "dedo",
+      "meaning": "finger",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: dedo is stressed on the first syllable, with closed /e/; in São Paulo, final o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0014",
+      "locale": "pt-BR",
+      "sentence": "O cabelo dela é preto.",
+      "cloze": "cabelo",
+      "answer": "cabelo",
+      "accepted_answers": [],
+      "lemma": "cabelo",
+      "meaning": "hair",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: cabelo is stressed on be, with closed /e/; in São Paulo, final o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0015",
+      "locale": "pt-BR",
+      "sentence": "Onde fica o banheiro?",
+      "cloze": "banheiro",
+      "answer": "banheiro",
+      "accepted_answers": [],
+      "lemma": "banheiro",
+      "meaning": "bathroom",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: banheiro is stressed on nhei, with closed /e/; in São Paulo, final o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0016",
+      "locale": "pt-BR",
+      "sentence": "A igreja fica naquela rua.",
+      "cloze": "igreja",
+      "answer": "igreja",
+      "accepted_answers": [],
+      "lemma": "igreja",
+      "meaning": "church",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: igreja is stressed on gre, with closed /e/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0017",
+      "locale": "pt-BR",
+      "sentence": "A porta da casa está aberta.",
+      "cloze": "porta",
+      "answer": "porta",
+      "accepted_answers": [],
+      "lemma": "porta",
+      "meaning": "door",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: porta is stressed on the first syllable, with open /ɔ/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0018",
+      "locale": "pt-BR",
+      "sentence": "A bola está no chão.",
+      "cloze": "bola",
+      "answer": "bola",
+      "accepted_answers": [],
+      "lemma": "bola",
+      "meaning": "ball",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: bola is stressed on the first syllable, with open /ɔ/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0019",
+      "locale": "pt-BR",
+      "sentence": "A escola fica perto de casa.",
+      "cloze": "escola",
+      "answer": "escola",
+      "accepted_answers": [],
+      "lemma": "escola",
+      "meaning": "school",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: escola is stressed on co, with open /ɔ/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0020",
+      "locale": "pt-BR",
+      "sentence": "A foto da família está aqui.",
+      "cloze": "foto",
+      "answer": "foto",
+      "accepted_answers": [],
+      "lemma": "foto",
+      "meaning": "photograph",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: foto is stressed on the first syllable, with open /ɔ/; in São Paulo, final o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0021",
+      "locale": "pt-BR",
+      "sentence": "O copo de água está aqui.",
+      "cloze": "copo",
+      "answer": "copo",
+      "accepted_answers": [],
+      "lemma": "copo",
+      "meaning": "drinking glass",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: copo is stressed on the first syllable, with open /ɔ/; in São Paulo, final o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0022",
+      "locale": "pt-BR",
+      "sentence": "O sol está no céu.",
+      "cloze": "sol",
+      "answer": "sol",
+      "accepted_answers": [],
+      "lemma": "sol",
+      "meaning": "sun",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: sol has stressed open /ɔ/; in São Paulo, final l is commonly [w]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0023",
+      "locale": "pt-BR",
+      "sentence": "O pó está na mesa.",
+      "cloze": "pó",
+      "answer": "pó",
+      "accepted_answers": [],
+      "lemma": "pó",
+      "meaning": "dust",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: pó has stressed open /ɔ/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0024",
+      "locale": "pt-BR",
+      "sentence": "Qual é o seu nome?",
+      "cloze": "nome",
+      "answer": "nome",
+      "accepted_answers": [],
+      "lemma": "nome",
+      "meaning": "name",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: nome is stressed on no, with closed /o/, which may be nasalized as [õ] before m; in São Paulo, final e is commonly [i]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0025",
+      "locale": "pt-BR",
+      "sentence": "O bolo está na mesa.",
+      "cloze": "bolo",
+      "answer": "bolo",
+      "accepted_answers": [],
+      "lemma": "bolo",
+      "meaning": "cake",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: bolo is stressed on the first syllable, with closed /o/; in São Paulo, final o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0026",
+      "locale": "pt-BR",
+      "sentence": "A roupa está no armário.",
+      "cloze": "roupa",
+      "answer": "roupa",
+      "accepted_answers": [],
+      "lemma": "roupa",
+      "meaning": "clothes",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: roupa is stressed on rou; in São Paulo, this vowel is commonly realized as closed [o]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0027",
+      "locale": "pt-BR",
+      "sentence": "A boca do bebê está aberta.",
+      "cloze": "boca",
+      "answer": "boca",
+      "accepted_answers": [],
+      "lemma": "boca",
+      "meaning": "mouth",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: boca is stressed on the first syllable, with closed /o/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0028",
+      "locale": "pt-BR",
+      "sentence": "O almoço está na mesa.",
+      "cloze": "almoço",
+      "answer": "almoço",
+      "accepted_answers": [],
+      "lemma": "almoço",
+      "meaning": "lunch",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: almoço is stressed on mo, with closed /o/; in São Paulo, final o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0029",
+      "locale": "pt-BR",
+      "sentence": "A flor está no vaso.",
+      "cloze": "flor",
+      "answer": "flor",
+      "accepted_answers": [],
+      "lemma": "flor",
+      "meaning": "flower",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: flor has stressed closed /o/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0030",
+      "locale": "pt-BR",
+      "sentence": "O sofá fica na sala.",
+      "cloze": "sofá",
+      "answer": "sofá",
+      "accepted_answers": [],
+      "lemma": "sofá",
+      "meaning": "sofa",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: sofá has final stress on oral /a/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0031",
+      "locale": "pt-BR",
+      "sentence": "A casa da Ana é aqui.",
+      "cloze": "casa",
+      "answer": "casa",
+      "accepted_answers": [],
+      "lemma": "casa",
+      "meaning": "house",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: casa is stressed on the first syllable, with oral /a/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0032",
+      "locale": "pt-BR",
+      "sentence": "A sala fica aqui.",
+      "cloze": "sala",
+      "answer": "sala",
+      "accepted_answers": [],
+      "lemma": "sala",
+      "meaning": "room; living room",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: sala is stressed on the first syllable, with oral /a/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0033",
+      "locale": "pt-BR",
+      "sentence": "O gato está no sofá.",
+      "cloze": "gato",
+      "answer": "gato",
+      "accepted_answers": [],
+      "lemma": "gato",
+      "meaning": "cat",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: gato is stressed on the first syllable, with oral /a/; in São Paulo, final o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0034",
+      "locale": "pt-BR",
+      "sentence": "A chave está na bolsa.",
+      "cloze": "chave",
+      "answer": "chave",
+      "accepted_answers": [],
+      "lemma": "chave",
+      "meaning": "key",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: chave is stressed on the first syllable, with oral /a/; in São Paulo, final e is commonly [i]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0035",
+      "locale": "pt-BR",
+      "sentence": "Minha filha está na escola.",
+      "cloze": "filha",
+      "answer": "filha",
+      "accepted_answers": [],
+      "lemma": "filha",
+      "meaning": "daughter",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: filha is stressed on the first syllable, with oral /i/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0036",
+      "locale": "pt-BR",
+      "sentence": "O livro está na mochila.",
+      "cloze": "livro",
+      "answer": "livro",
+      "accepted_answers": [],
+      "lemma": "livro",
+      "meaning": "book",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: livro is stressed on the first syllable, with oral /i/; in São Paulo, final o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0037",
+      "locale": "pt-BR",
+      "sentence": "O telefone está na cama.",
+      "cloze": "telefone",
+      "answer": "telefone",
+      "accepted_answers": [],
+      "lemma": "telefone",
+      "meaning": "telephone",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: telefone is stressed on fo, with closed /o/, which may be nasalized as [õ] before n; in São Paulo, final e is commonly [i]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0038",
+      "locale": "pt-BR",
+      "sentence": "A lua está no céu.",
+      "cloze": "lua",
+      "answer": "lua",
+      "accepted_answers": [],
+      "lemma": "lua",
+      "meaning": "moon",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: lua is stressed on the first syllable, with oral /u/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0039",
+      "locale": "pt-BR",
+      "sentence": "A rua da escola é aquela.",
+      "cloze": "rua",
+      "answer": "rua",
+      "accepted_answers": [],
+      "lemma": "rua",
+      "meaning": "street",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: rua is stressed on the first syllable, with oral /u/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0040",
+      "locale": "pt-BR",
+      "sentence": "A luz da cozinha está acesa.",
+      "cloze": "luz",
+      "answer": "luz",
+      "accepted_answers": [],
+      "lemma": "luz",
+      "meaning": "light",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: luz has stressed oral /u/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0041",
+      "locale": "pt-BR",
+      "sentence": "O pão está quente.",
+      "cloze": "pão",
+      "answer": "pão",
+      "accepted_answers": [],
+      "lemma": "pão",
+      "meaning": "bread",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: pão is stressed and has the nasal diphthong /ɐ̃w̃/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0042",
+      "locale": "pt-BR",
+      "sentence": "Minha mãe trabalha aqui.",
+      "cloze": "mãe",
+      "answer": "mãe",
+      "accepted_answers": [],
+      "lemma": "mãe",
+      "meaning": "mother",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: mãe is stressed and has the nasal diphthong /ɐ̃j̃/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0043",
+      "locale": "pt-BR",
+      "sentence": "O limão está na cozinha.",
+      "cloze": "limão",
+      "answer": "limão",
+      "accepted_answers": [],
+      "lemma": "limão",
+      "meaning": "lime",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: limão has final stress on the nasal diphthong /ɐ̃w̃/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0044",
+      "locale": "pt-BR",
+      "sentence": "Meu irmão está na cozinha.",
+      "cloze": "irmão",
+      "answer": "irmão",
+      "accepted_answers": [],
+      "lemma": "irmão",
+      "meaning": "brother",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: irmão has final stress on the nasal diphthong /ɐ̃w̃/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0045",
+      "locale": "pt-BR",
+      "sentence": "Minha mão está fria.",
+      "cloze": "mão",
+      "answer": "mão",
+      "accepted_answers": [],
+      "lemma": "mão",
+      "meaning": "hand",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: mão is stressed and has the nasal diphthong /ɐ̃w̃/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0046",
+      "locale": "pt-BR",
+      "sentence": "O chão está molhado.",
+      "cloze": "chão",
+      "answer": "chão",
+      "accepted_answers": [],
+      "lemma": "chão",
+      "meaning": "floor",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: chão is stressed and has the nasal diphthong /ɐ̃w̃/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0047",
+      "locale": "pt-BR",
+      "sentence": "Ela quer queijo no pão.",
+      "cloze": "queijo",
+      "answer": "queijo",
+      "accepted_answers": [],
+      "lemma": "queijo",
+      "meaning": "cheese",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: queijo has an oral stressed vowel; its final unstressed o is commonly [u] in São Paulo."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0048",
+      "locale": "pt-BR",
+      "sentence": "Tem presunto no sanduíche.",
+      "cloze": "presunto",
+      "answer": "presunto",
+      "accepted_answers": [],
+      "lemma": "presunto",
+      "meaning": "ham",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: presunto has stressed nasal /ũ/; its final unstressed o is commonly [u] in São Paulo."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0049",
+      "locale": "pt-BR",
+      "sentence": "O jantar é às oito.",
+      "cloze": "jantar",
+      "answer": "jantar",
+      "accepted_answers": [],
+      "lemma": "jantar",
+      "meaning": "dinner",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: jantar has a nasal vowel in the first syllable and stress on the final syllable."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0050",
+      "locale": "pt-BR",
+      "sentence": "A banana está madura.",
+      "cloze": "banana",
+      "answer": "banana",
+      "accepted_answers": [],
+      "lemma": "banana",
+      "meaning": "banana",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: banana is stressed on the middle syllable; its stressed vowel is nasalized before n in São Paulo."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0051",
+      "locale": "pt-BR",
+      "sentence": "Tem uma maçã na bolsa.",
+      "cloze": "maçã",
+      "answer": "maçã",
+      "accepted_answers": [],
+      "lemma": "maçã",
+      "meaning": "apple",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: maçã has final stress on the nasal vowel /ɐ̃/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0052",
+      "locale": "pt-BR",
+      "sentence": "O feijão ainda está quente.",
+      "cloze": "feijão",
+      "answer": "feijão",
+      "accepted_answers": [],
+      "lemma": "feijão",
+      "meaning": "beans",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: feijão has final stress on the nasal diphthong /ɐ̃w̃/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0053",
+      "locale": "pt-BR",
+      "sentence": "A comida tem muito sal.",
+      "cloze": "sal",
+      "answer": "sal",
+      "accepted_answers": [],
+      "lemma": "sal",
+      "meaning": "salt",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: sal has an oral vowel; final l is commonly [w] in São Paulo."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0054",
+      "locale": "pt-BR",
+      "sentence": "O suco é de laranja.",
+      "cloze": "laranja",
+      "answer": "laranja",
+      "accepted_answers": [],
+      "lemma": "laranja",
+      "meaning": "orange",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: laranja has stress on the nasal vowel in its middle syllable."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0055",
+      "locale": "pt-BR",
+      "sentence": "O cachorro está no jardim.",
+      "cloze": "jardim",
+      "answer": "jardim",
+      "accepted_answers": [],
+      "lemma": "jardim",
+      "meaning": "garden",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: jardim has final stress on nasal /ĩ/; in São Paulo, d before this vowel is commonly [dʒ]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0056",
+      "locale": "pt-BR",
+      "sentence": "Meu vizinho tem um cão.",
+      "cloze": "cão",
+      "answer": "cão",
+      "accepted_answers": [],
+      "lemma": "cão",
+      "meaning": "dog",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: cão is stressed and has the nasal diphthong /ɐ̃w̃/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0057",
+      "locale": "pt-BR",
+      "sentence": "Os pães estão na sacola.",
+      "cloze": "pães",
+      "answer": "pães",
+      "accepted_answers": [],
+      "lemma": "pão",
+      "meaning": "loaves of bread",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: pães has stressed nasal /ɐ̃j̃/, followed by /s/.",
+      "grammar": "Target: masculine plural of pão, agreeing with os."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0058",
+      "locale": "pt-BR",
+      "sentence": "As mães conversam na escola.",
+      "cloze": "mães",
+      "answer": "mães",
+      "accepted_answers": [],
+      "lemma": "mãe",
+      "meaning": "mothers",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: mães has stressed nasal /ɐ̃j̃/, followed by /s/.",
+      "grammar": "Target: feminine plural of mãe, agreeing with as."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0059",
+      "locale": "pt-BR",
+      "sentence": "Os limões estão na geladeira.",
+      "cloze": "limões",
+      "answer": "limões",
+      "accepted_answers": [],
+      "lemma": "limão",
+      "meaning": "limes",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: limões has final stress on nasal /õj̃/, followed by /s/.",
+      "grammar": "Target: masculine plural of limão, agreeing with os."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0060",
+      "locale": "pt-BR",
+      "sentence": "As mãos dele estão frias.",
+      "cloze": "mãos",
+      "answer": "mãos",
+      "accepted_answers": [],
+      "lemma": "mão",
+      "meaning": "hands",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: mãos has stressed nasal /ɐ̃w̃/, followed by /s/.",
+      "grammar": "Target: feminine plural of mão, agreeing with as and frias."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0061",
+      "locale": "pt-BR",
+      "sentence": "O coração bate rápido.",
+      "cloze": "coração",
+      "answer": "coração",
+      "accepted_answers": [],
+      "lemma": "coração",
+      "meaning": "heart",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: coração has final stress on the nasal diphthong /ɐ̃w̃/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0062",
+      "locale": "pt-BR",
+      "sentence": "A estação fica perto daqui.",
+      "cloze": "estação",
+      "answer": "estação",
+      "accepted_answers": [],
+      "lemma": "estação",
+      "meaning": "station",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: estação has final stress on the nasal diphthong /ɐ̃w̃/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0063",
+      "locale": "pt-BR",
+      "sentence": "O ônibus está na avenida.",
+      "cloze": "ônibus",
+      "answer": "ônibus",
+      "accepted_answers": [],
+      "lemma": "ônibus",
+      "meaning": "bus",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: ônibus has initial stress; its stressed vowel is nasalized before n in São Paulo."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0064",
+      "locale": "pt-BR",
+      "sentence": "Ela espera o trem.",
+      "cloze": "trem",
+      "answer": "trem",
+      "accepted_answers": [],
+      "lemma": "trem",
+      "meaning": "train",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: trem is stressed and ends in nasal /ẽj̃/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0065",
+      "locale": "pt-BR",
+      "sentence": "O banco está fechado hoje.",
+      "cloze": "banco",
+      "answer": "banco",
+      "accepted_answers": [],
+      "lemma": "banco",
+      "meaning": "bank",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: banco has stressed nasal /ɐ̃/; its final unstressed o is commonly [u] in São Paulo."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0066",
+      "locale": "pt-BR",
+      "sentence": "O boné é do menino.",
+      "cloze": "boné",
+      "answer": "boné",
+      "accepted_answers": [],
+      "lemma": "boné",
+      "meaning": "cap",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: boné has final stress on oral /ɛ/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0067",
+      "locale": "pt-BR",
+      "sentence": "Meu casaco está no cabide.",
+      "cloze": "casaco",
+      "answer": "casaco",
+      "accepted_answers": [],
+      "lemma": "casaco",
+      "meaning": "coat",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: casaco has stress on an oral vowel in the middle syllable; final unstressed o is commonly [u] in São Paulo."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0068",
+      "locale": "pt-BR",
+      "sentence": "Minha camisa está limpa.",
+      "cloze": "camisa",
+      "answer": "camisa",
+      "accepted_answers": [],
+      "lemma": "camisa",
+      "meaning": "shirt",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: camisa has stress on oral /i/ in the middle syllable."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0069",
+      "locale": "pt-BR",
+      "sentence": "A tinta está no papel.",
+      "cloze": "tinta",
+      "answer": "tinta",
+      "accepted_answers": [],
+      "lemma": "tinta",
+      "meaning": "paint",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: tinta has initial stress on nasal /ĩ/; t before this vowel is commonly [tʃ] in São Paulo."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0070",
+      "locale": "pt-BR",
+      "sentence": "A pinta no braço é pequena.",
+      "cloze": "pinta",
+      "answer": "pinta",
+      "accepted_answers": [],
+      "lemma": "pinta",
+      "meaning": "mole on the skin",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: pinta has initial stress on nasal /ĩ/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0071",
+      "locale": "pt-BR",
+      "sentence": "O papel está em cima do livro.",
+      "cloze": "papel",
+      "answer": "papel",
+      "accepted_answers": [],
+      "lemma": "papel",
+      "meaning": "paper",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: papel has final stress on oral /ɛ/; final l is commonly [w] in São Paulo."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0072",
+      "locale": "pt-BR",
+      "sentence": "Meu cinto está na gaveta.",
+      "cloze": "cinto",
+      "answer": "cinto",
+      "accepted_answers": [],
+      "lemma": "cinto",
+      "meaning": "belt",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: cinto has initial stress on nasal /ĩ/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0073",
+      "locale": "pt-BR",
+      "sentence": "Amanhã eu trabalho em casa.",
+      "cloze": "Amanhã",
+      "answer": "Amanhã",
+      "accepted_answers": [],
+      "lemma": "amanhã",
+      "meaning": "tomorrow",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: amanhã has final stress on nasal /ɐ̃/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0074",
+      "locale": "pt-BR",
+      "sentence": "Hoje não tem aula.",
+      "cloze": "não",
+      "answer": "não",
+      "accepted_answers": [],
+      "lemma": "não",
+      "meaning": "not",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: não has the nasal diphthong /ɐ̃w̃/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0075",
+      "locale": "pt-BR",
+      "sentence": "Você quer água? Sim, por favor.",
+      "cloze": "Sim",
+      "answer": "Sim",
+      "accepted_answers": [],
+      "lemma": "sim",
+      "meaning": "yes",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: sim is stressed and ends in nasal /ĩ/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0076",
+      "locale": "pt-BR",
+      "sentence": "O cinema fica longe?",
+      "cloze": "cinema",
+      "answer": "cinema",
+      "accepted_answers": [],
+      "lemma": "cinema",
+      "meaning": "movie theater",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: cinema is stressed on the middle syllable; its stressed vowel is nasalized before m in São Paulo."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0077",
+      "locale": "pt-BR",
+      "sentence": "A menina canta bem.",
+      "cloze": "canta",
+      "answer": "canta",
+      "accepted_answers": [],
+      "lemma": "cantar",
+      "meaning": "sings",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: canta has initial stress on nasal /ɐ̃/.",
+      "grammar": "Target: third-person singular present of cantar, agreeing with a menina."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0078",
+      "locale": "pt-BR",
+      "sentence": "O menino pula na água.",
+      "cloze": "pula",
+      "answer": "pula",
+      "accepted_answers": [],
+      "lemma": "pular",
+      "meaning": "jumps",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: pula has initial stress on oral /u/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0079",
+      "locale": "pt-BR",
+      "sentence": "A gente vai junto?",
+      "cloze": "junto",
+      "answer": "junto",
+      "accepted_answers": [],
+      "lemma": "junto",
+      "meaning": "together",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: junto has initial stress on nasal /ũ/; final unstressed o is commonly [u] in São Paulo."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0080",
+      "locale": "pt-BR",
+      "sentence": "Seu nome é João?",
+      "cloze": "João",
+      "answer": "João",
+      "accepted_answers": [],
+      "lemma": "João",
+      "meaning": "João",
+      "part_of_speech": "proper noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: João has final stress on the nasal diphthong /ɐ̃w̃/."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0081",
+      "locale": "pt-BR",
+      "sentence": "A filha da Ana dorme.",
+      "cloze": "filha",
+      "answer": "filha",
+      "accepted_answers": [],
+      "lemma": "filha",
+      "meaning": "daughter",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, lh is commonly [ʎ], a palatal lateral sound."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0082",
+      "locale": "pt-BR",
+      "sentence": "O coelho come cenoura.",
+      "cloze": "coelho",
+      "answer": "coelho",
+      "accepted_answers": [],
+      "lemma": "coelho",
+      "meaning": "rabbit",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, lh is commonly [ʎ], and final unstressed o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0083",
+      "locale": "pt-BR",
+      "sentence": "A colher está na mesa.",
+      "cloze": "colher",
+      "answer": "colher",
+      "accepted_answers": [],
+      "lemma": "colher",
+      "meaning": "spoon",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In the São Paulo reference model, lh is [ʎ] and final r is a tap [ɾ]; a retroflex [ɻ] also occurs."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0084",
+      "locale": "pt-BR",
+      "sentence": "O milho está quente.",
+      "cloze": "milho",
+      "answer": "milho",
+      "accepted_answers": [],
+      "lemma": "milho",
+      "meaning": "corn",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, lh is commonly [ʎ], and final unstressed o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0085",
+      "locale": "pt-BR",
+      "sentence": "O ninho está na árvore.",
+      "cloze": "ninho",
+      "answer": "ninho",
+      "accepted_answers": [],
+      "lemma": "ninho",
+      "meaning": "nest",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, nh is commonly [ɲ], a palatal nasal; final unstressed o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0086",
+      "locale": "pt-BR",
+      "sentence": "Minha avó mora aqui.",
+      "cloze": "Minha",
+      "answer": "Minha",
+      "accepted_answers": [],
+      "lemma": "meu",
+      "meaning": "my",
+      "part_of_speech": "possessive determiner"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, nh is commonly [ɲ]; the preceding vowel is nasalized.",
+      "grammar": "Target: minha is feminine singular, agreeing with avó."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0087",
+      "locale": "pt-BR",
+      "sentence": "A aranha está na parede.",
+      "cloze": "aranha",
+      "answer": "aranha",
+      "accepted_answers": [],
+      "lemma": "aranha",
+      "meaning": "spider",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, nh is commonly [ɲ]; the preceding vowel is nasalized."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0088",
+      "locale": "pt-BR",
+      "sentence": "O menino toma banho.",
+      "cloze": "banho",
+      "answer": "banho",
+      "accepted_answers": [],
+      "lemma": "banho",
+      "meaning": "bath",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, nh is commonly [ɲ], the preceding vowel is nasalized, and final unstressed o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0089",
+      "locale": "pt-BR",
+      "sentence": "O carro está na garagem.",
+      "cloze": "carro",
+      "answer": "carro",
+      "accepted_answers": [],
+      "lemma": "carro",
+      "meaning": "car",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, rr commonly sounds [ʁ] or [h], unlike the tap [ɾ] in caro."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0090",
+      "locale": "pt-BR",
+      "sentence": "O livro é caro.",
+      "cloze": "caro",
+      "answer": "caro",
+      "accepted_answers": [],
+      "lemma": "caro",
+      "meaning": "expensive",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the single r between vowels is a tap [ɾ], unlike rr in carro."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0091",
+      "locale": "pt-BR",
+      "sentence": "O cachorro corre no parque.",
+      "cloze": "corre",
+      "answer": "corre",
+      "accepted_answers": [],
+      "lemma": "correr",
+      "meaning": "runs",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, rr commonly sounds [ʁ] or [h]; final unstressed e is commonly [i].",
+      "grammar": "Target: corre is third-person singular present, referring to the cachorro."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0092",
+      "locale": "pt-BR",
+      "sentence": "O cachorro está na rua.",
+      "cloze": "rua",
+      "answer": "rua",
+      "accepted_answers": [],
+      "lemma": "rua",
+      "meaning": "street",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, word-initial r commonly sounds [ʁ] or [h]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0093",
+      "locale": "pt-BR",
+      "sentence": "O prato está na mesa.",
+      "cloze": "prato",
+      "answer": "prato",
+      "accepted_answers": [],
+      "lemma": "prato",
+      "meaning": "plate",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, r after p is a tap [ɾ]; final unstressed o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0094",
+      "locale": "pt-BR",
+      "sentence": "A porta está aberta.",
+      "cloze": "porta",
+      "answer": "porta",
+      "accepted_answers": [],
+      "lemma": "porta",
+      "meaning": "door",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In the São Paulo reference model, syllable-final r before t is a tap [ɾ]; a retroflex [ɻ] also occurs."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0095",
+      "locale": "pt-BR",
+      "sentence": "Vamos beber água.",
+      "cloze": "beber",
+      "answer": "beber",
+      "accepted_answers": [],
+      "lemma": "beber",
+      "meaning": "to drink",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Sentence: In São Paulo, the final r of beber can link to the following vowel as a tap [ɾ]; omission of infinitive-final r is common in conversation. The spelling retains r."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0096",
+      "locale": "pt-BR",
+      "sentence": "O rio passa pela cidade.",
+      "cloze": "rio",
+      "answer": "rio",
+      "accepted_answers": [],
+      "lemma": "rio",
+      "meaning": "river",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, word-initial r commonly sounds [ʁ] or [h]; final unstressed o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0097",
+      "locale": "pt-BR",
+      "sentence": "A casa fica perto da escola.",
+      "cloze": "casa",
+      "answer": "casa",
+      "accepted_answers": [],
+      "lemma": "casa",
+      "meaning": "house",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, s between vowels is voiced [z]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0098",
+      "locale": "pt-BR",
+      "sentence": "A rosa está no vaso.",
+      "cloze": "rosa",
+      "answer": "rosa",
+      "accepted_answers": [],
+      "lemma": "rosa",
+      "meaning": "rose",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, s between vowels is voiced [z]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0099",
+      "locale": "pt-BR",
+      "sentence": "A massa já está pronta.",
+      "cloze": "massa",
+      "answer": "massa",
+      "accepted_answers": [],
+      "lemma": "massa",
+      "meaning": "pasta; dough",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, ss between vowels is voiceless [s]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0100",
+      "locale": "pt-BR",
+      "sentence": "O pássaro está na árvore.",
+      "cloze": "pássaro",
+      "answer": "pássaro",
+      "accepted_answers": [],
+      "lemma": "pássaro",
+      "meaning": "bird",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, ss is voiceless [s]; the accented first syllable is stressed."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0101",
+      "locale": "pt-BR",
+      "sentence": "A sopa está quente.",
+      "cloze": "sopa",
+      "answer": "sopa",
+      "accepted_answers": [],
+      "lemma": "sopa",
+      "meaning": "soup",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, word-initial s is voiceless [s]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0102",
+      "locale": "pt-BR",
+      "sentence": "O sapato está molhado.",
+      "cloze": "sapato",
+      "answer": "sapato",
+      "accepted_answers": [],
+      "lemma": "sapato",
+      "meaning": "shoe",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, word-initial s is voiceless [s]; final unstressed o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0103",
+      "locale": "pt-BR",
+      "sentence": "A escola abre cedo.",
+      "cloze": "escola",
+      "answer": "escola",
+      "accepted_answers": [],
+      "lemma": "escola",
+      "meaning": "school",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, s before voiceless c is commonly [s]; the initial unstressed e is commonly [i]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0104",
+      "locale": "pt-BR",
+      "sentence": "O menino passa pela praça.",
+      "cloze": "passa",
+      "answer": "passa",
+      "accepted_answers": [],
+      "lemma": "passar",
+      "meaning": "passes",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, ss between vowels is voiceless [s].",
+      "grammar": "Target: passa is third-person singular present, referring to the menino."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0105",
+      "locale": "pt-BR",
+      "sentence": "A faca está na gaveta.",
+      "cloze": "faca",
+      "answer": "faca",
+      "accepted_answers": [],
+      "lemma": "faca",
+      "meaning": "knife",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, c before a is pronounced [k]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0106",
+      "locale": "pt-BR",
+      "sentence": "O copo está vazio.",
+      "cloze": "copo",
+      "answer": "copo",
+      "accepted_answers": [],
+      "lemma": "copo",
+      "meaning": "glass",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, c before o is [k]; final unstressed o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0107",
+      "locale": "pt-BR",
+      "sentence": "A criança brinca na praça.",
+      "cloze": "criança",
+      "answer": "criança",
+      "accepted_answers": [],
+      "lemma": "criança",
+      "meaning": "child",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, ç before a is pronounced [s]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0108",
+      "locale": "pt-BR",
+      "sentence": "A praça tem árvores.",
+      "cloze": "praça",
+      "answer": "praça",
+      "accepted_answers": [],
+      "lemma": "praça",
+      "meaning": "town square",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, ç before a is [s], and r after p is a tap [ɾ]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0109",
+      "locale": "pt-BR",
+      "sentence": "A cebola está na panela.",
+      "cloze": "cebola",
+      "answer": "cebola",
+      "accepted_answers": [],
+      "lemma": "cebola",
+      "meaning": "onion",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, c before e is pronounced [s]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0110",
+      "locale": "pt-BR",
+      "sentence": "A cidade fica longe.",
+      "cloze": "cidade",
+      "answer": "cidade",
+      "accepted_answers": [],
+      "lemma": "cidade",
+      "meaning": "city",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, c before i is [s]; final de is commonly [dʒi]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0111",
+      "locale": "pt-BR",
+      "sentence": "O açúcar está no pote.",
+      "cloze": "açúcar",
+      "answer": "açúcar",
+      "accepted_answers": [],
+      "lemma": "açúcar",
+      "meaning": "sugar",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, ç before u is [s], and c before a is [k]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0112",
+      "locale": "pt-BR",
+      "sentence": "A menina come cenoura.",
+      "cloze": "cenoura",
+      "answer": "cenoura",
+      "accepted_answers": [],
+      "lemma": "cenoura",
+      "meaning": "carrot",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, c before e is [s]; ou is commonly realized as [o]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0113",
+      "locale": "pt-BR",
+      "sentence": "A menina quer água.",
+      "cloze": "quer",
+      "answer": "quer",
+      "accepted_answers": [],
+      "lemma": "querer",
+      "meaning": "wants",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, qu before e is [k]; the written u is silent.",
+      "grammar": "Target: quer is third-person singular present, referring to the menina."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0114",
+      "locale": "pt-BR",
+      "sentence": "A máquina fica na cozinha.",
+      "cloze": "máquina",
+      "answer": "máquina",
+      "accepted_answers": [],
+      "lemma": "máquina",
+      "meaning": "machine",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, qu before i is [k]; the written u is silent, and the first syllable is stressed."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0115",
+      "locale": "pt-BR",
+      "sentence": "O parque abre cedo.",
+      "cloze": "parque",
+      "answer": "parque",
+      "accepted_answers": [],
+      "lemma": "parque",
+      "meaning": "park",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, qu is [k]; the written u is silent and final unstressed e is commonly [i]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0116",
+      "locale": "pt-BR",
+      "sentence": "O quarto tem uma janela.",
+      "cloze": "quarto",
+      "answer": "quarto",
+      "accepted_answers": [],
+      "lemma": "quarto",
+      "meaning": "bedroom",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, qu before a is [kw]; the u is pronounced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0117",
+      "locale": "pt-BR",
+      "sentence": "A água está fria.",
+      "cloze": "água",
+      "answer": "água",
+      "accepted_answers": [],
+      "lemma": "água",
+      "meaning": "water",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, gu before a is [ɡw]; the u is pronounced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0118",
+      "locale": "pt-BR",
+      "sentence": "A guerra é longa.",
+      "cloze": "guerra",
+      "answer": "guerra",
+      "accepted_answers": [],
+      "lemma": "guerra",
+      "meaning": "war",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, gu before e is [ɡ], with silent u; rr commonly sounds [ʁ] or [h]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0119",
+      "locale": "pt-BR",
+      "sentence": "A guitarra está no quarto.",
+      "cloze": "guitarra",
+      "answer": "guitarra",
+      "accepted_answers": [],
+      "lemma": "guitarra",
+      "meaning": "electric guitar",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, gu before i is [ɡ], with silent u; rr commonly sounds [ʁ] or [h]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0120",
+      "locale": "pt-BR",
+      "sentence": "A piscina é grande.",
+      "cloze": "piscina",
+      "answer": "piscina",
+      "accepted_answers": [],
+      "lemma": "piscina",
+      "meaning": "swimming pool",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, sc before i is pronounced [s], a single consonant sound."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0121",
+      "locale": "pt-BR",
+      "sentence": "O leite está na geladeira.",
+      "cloze": "leite",
+      "answer": "leite",
+      "accepted_answers": [],
+      "lemma": "leite",
+      "meaning": "milk",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final unstressed e in leite is commonly [i], and the preceding t is commonly [tʃ]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0122",
+      "locale": "pt-BR",
+      "sentence": "Eu acordo cedo todos os dias.",
+      "cloze": "cedo",
+      "answer": "cedo",
+      "accepted_answers": [],
+      "lemma": "cedo",
+      "meaning": "early",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final unstressed o in cedo is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0123",
+      "locale": "pt-BR",
+      "sentence": "Estou com fome agora.",
+      "cloze": "fome",
+      "answer": "fome",
+      "accepted_answers": [],
+      "lemma": "fome",
+      "meaning": "hunger",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final unstressed e in fome is commonly [i]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0124",
+      "locale": "pt-BR",
+      "sentence": "Você quer suco de laranja?",
+      "cloze": "suco",
+      "answer": "suco",
+      "accepted_answers": [],
+      "lemma": "suco",
+      "meaning": "juice",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final unstressed o in suco is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0125",
+      "locale": "pt-BR",
+      "sentence": "O pente está na bolsa.",
+      "cloze": "pente",
+      "answer": "pente",
+      "accepted_answers": [],
+      "lemma": "pente",
+      "meaning": "comb",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final unstressed e in pente is commonly [i], and the preceding t is commonly [tʃ]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0126",
+      "locale": "pt-BR",
+      "sentence": "O vento está forte.",
+      "cloze": "vento",
+      "answer": "vento",
+      "accepted_answers": [],
+      "lemma": "vento",
+      "meaning": "wind",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final unstressed o in vento is commonly [u]; the preceding t is not before [i]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0127",
+      "locale": "pt-BR",
+      "sentence": "A ponte fica perto daqui.",
+      "cloze": "ponte",
+      "answer": "ponte",
+      "accepted_answers": [],
+      "lemma": "ponte",
+      "meaning": "bridge",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final unstressed e in ponte is commonly [i], and the preceding t is commonly [tʃ]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0128",
+      "locale": "pt-BR",
+      "sentence": "Meu olho esquerdo está vermelho.",
+      "cloze": "olho",
+      "answer": "olho",
+      "accepted_answers": [],
+      "lemma": "olho",
+      "meaning": "eye",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final unstressed o in olho is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0129",
+      "locale": "pt-BR",
+      "sentence": "O tomate está maduro.",
+      "cloze": "tomate",
+      "answer": "tomate",
+      "accepted_answers": [],
+      "lemma": "tomate",
+      "meaning": "tomato",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final unstressed e in tomate is commonly [i], and the preceding t is commonly [tʃ]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0130",
+      "locale": "pt-BR",
+      "sentence": "Ela come ovo no café da manhã.",
+      "cloze": "ovo",
+      "answer": "ovo",
+      "accepted_answers": [],
+      "lemma": "ovo",
+      "meaning": "egg",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final unstressed o in ovo is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0131",
+      "locale": "pt-BR",
+      "sentence": "A tarde está fria.",
+      "cloze": "tarde",
+      "answer": "tarde",
+      "accepted_answers": [],
+      "lemma": "tarde",
+      "meaning": "afternoon",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final unstressed e in tarde is commonly [i], and the preceding d is commonly [dʒ]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0132",
+      "locale": "pt-BR",
+      "sentence": "O balde está cheio.",
+      "cloze": "balde",
+      "answer": "balde",
+      "accepted_answers": [],
+      "lemma": "balde",
+      "meaning": "bucket",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, l before d is commonly [w]; the final de is commonly [dʒi]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0133",
+      "locale": "pt-BR",
+      "sentence": "O time joga hoje.",
+      "cloze": "time",
+      "answer": "time",
+      "accepted_answers": [],
+      "lemma": "time",
+      "meaning": "team",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, t before the stressed i in time is commonly [tʃ]; final unstressed e is commonly [i]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0134",
+      "locale": "pt-BR",
+      "sentence": "Minha tia mora aqui.",
+      "cloze": "tia",
+      "answer": "tia",
+      "accepted_answers": [],
+      "lemma": "tia",
+      "meaning": "aunt",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, t before the stressed i in tia is commonly [tʃ]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0135",
+      "locale": "pt-BR",
+      "sentence": "O dia está bonito.",
+      "cloze": "dia",
+      "answer": "dia",
+      "accepted_answers": [],
+      "lemma": "dia",
+      "meaning": "day",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, d before the stressed i in dia is commonly [dʒ]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0136",
+      "locale": "pt-BR",
+      "sentence": "O dinheiro está na bolsa.",
+      "cloze": "dinheiro",
+      "answer": "dinheiro",
+      "accepted_answers": [],
+      "lemma": "dinheiro",
+      "meaning": "money",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, d before the unstressed i in dinheiro is commonly [dʒ]; final unstressed o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0137",
+      "locale": "pt-BR",
+      "sentence": "O vestido azul é dela.",
+      "cloze": "vestido",
+      "answer": "vestido",
+      "accepted_answers": [],
+      "lemma": "vestido",
+      "meaning": "dress",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, t before the stressed i in vestido is commonly [tʃ]; final unstressed o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0138",
+      "locale": "pt-BR",
+      "sentence": "A rede de dormir está no jardim.",
+      "cloze": "rede",
+      "answer": "rede",
+      "accepted_answers": [],
+      "lemma": "rede",
+      "meaning": "hammock",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final de in rede is commonly [dʒi].",
+      "usage": "Target: Rede means a hammock in this garden context."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0139",
+      "locale": "pt-BR",
+      "sentence": "O futebol começa às oito.",
+      "cloze": "futebol",
+      "answer": "futebol",
+      "accepted_answers": [],
+      "lemma": "futebol",
+      "meaning": "soccer",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final l in futebol is commonly [w]; the unstressed e after t is commonly [i], with t realized as [tʃ]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0140",
+      "locale": "pt-BR",
+      "sentence": "Seu anel é de ouro?",
+      "cloze": "anel",
+      "answer": "anel",
+      "accepted_answers": [],
+      "lemma": "anel",
+      "meaning": "ring",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final l in anel is commonly [w]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0141",
+      "locale": "pt-BR",
+      "sentence": "Meu pai lê o jornal diariamente.",
+      "cloze": "jornal",
+      "answer": "jornal",
+      "accepted_answers": [],
+      "lemma": "jornal",
+      "meaning": "newspaper",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final l in jornal is commonly [w]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0142",
+      "locale": "pt-BR",
+      "sentence": "O hotel fica na esquina.",
+      "cloze": "hotel",
+      "answer": "hotel",
+      "accepted_answers": [],
+      "lemma": "hotel",
+      "meaning": "hotel",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final l in hotel is commonly [w]; the h is silent."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0143",
+      "locale": "pt-BR",
+      "sentence": "A parede é azul.",
+      "cloze": "azul",
+      "answer": "azul",
+      "accepted_answers": [],
+      "lemma": "azul",
+      "meaning": "blue",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final l in azul is commonly [w]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0144",
+      "locale": "pt-BR",
+      "sentence": "O animal bebe água.",
+      "cloze": "animal",
+      "answer": "animal",
+      "accepted_answers": [],
+      "lemma": "animal",
+      "meaning": "animal",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final l in animal is commonly [w]; stress falls on the last syllable."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0145",
+      "locale": "pt-BR",
+      "sentence": "Preciso de um pincel.",
+      "cloze": "pincel",
+      "answer": "pincel",
+      "accepted_answers": [],
+      "lemma": "pincel",
+      "meaning": "paintbrush",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final l in pincel is commonly [w]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0146",
+      "locale": "pt-BR",
+      "sentence": "O lençol está limpo.",
+      "cloze": "lençol",
+      "answer": "lençol",
+      "accepted_answers": [],
+      "lemma": "lençol",
+      "meaning": "bedsheet",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final l in lençol is commonly [w]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0147",
+      "locale": "pt-BR",
+      "sentence": "Os amigos estão aqui.",
+      "cloze": "amigos",
+      "answer": "amigos",
+      "accepted_answers": [],
+      "lemma": "amigo",
+      "meaning": "friends",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Sentence: In connected São Paulo speech, the final s of os is voiced [z] and links to the initial vowel of amigos, starting its first spoken syllable."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0148",
+      "locale": "pt-BR",
+      "sentence": "A menina abre a caixa.",
+      "cloze": "menina",
+      "answer": "menina",
+      "accepted_answers": [],
+      "lemma": "menina",
+      "meaning": "girl",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Sentence: In connected São Paulo speech, the final a in menina can merge with the initial a in abre."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0149",
+      "locale": "pt-BR",
+      "sentence": "Quero uma blusa amarela.",
+      "cloze": "blusa amarela",
+      "answer": "blusa amarela",
+      "accepted_answers": [],
+      "lemma": "blusa amarela",
+      "meaning": "yellow blouse",
+      "part_of_speech": "noun phrase"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In connected São Paulo speech, the final a in blusa can merge with the initial a in amarela."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0150",
+      "locale": "pt-BR",
+      "sentence": "Quero café com leite.",
+      "cloze": "café com leite",
+      "answer": "café com leite",
+      "accepted_answers": [],
+      "lemma": "café com leite",
+      "meaning": "coffee with milk",
+      "part_of_speech": "noun phrase"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo speech, café and leite carry prominent stresses; com is normally less prominent between them."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0151",
+      "locale": "pt-BR",
+      "sentence": "Esta câmera tira fotos bonitas.",
+      "cloze": "câmera",
+      "answer": "câmera",
+      "accepted_answers": [],
+      "lemma": "câmera",
+      "meaning": "camera",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In câmera, stress falls on the first syllable; the following syllables are less prominent."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0152",
+      "locale": "pt-BR",
+      "sentence": "A boneca está na cama.",
+      "cloze": "boneca",
+      "answer": "boneca",
+      "accepted_answers": [],
+      "lemma": "boneca",
+      "meaning": "doll",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In boneca, stress falls on ne; the first and last syllables are less prominent."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0153",
+      "locale": "pt-BR",
+      "sentence": "O menino está com a bola.",
+      "cloze": "menino",
+      "answer": "menino",
+      "accepted_answers": [],
+      "lemma": "menino",
+      "meaning": "boy",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In menino, stress falls on ni; in São Paulo the final unstressed o is commonly [u]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0154",
+      "locale": "pt-BR",
+      "sentence": "A panela está no fogão.",
+      "cloze": "panela",
+      "answer": "panela",
+      "accepted_answers": [],
+      "lemma": "panela",
+      "meaning": "cooking pot",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In panela, stress falls on ne; the first and last syllables are less prominent."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0155",
+      "locale": "pt-BR",
+      "sentence": "O abacaxi está doce hoje.",
+      "cloze": "abacaxi",
+      "answer": "abacaxi",
+      "accepted_answers": [],
+      "lemma": "abacaxi",
+      "meaning": "pineapple",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In abacaxi, stress falls on the final syllable; the preceding syllables are less prominent."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0156",
+      "locale": "pt-BR",
+      "sentence": "O menino está na cozinha.",
+      "cloze": "cozinha",
+      "answer": "cozinha",
+      "accepted_answers": [],
+      "lemma": "cozinha",
+      "meaning": "kitchen",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In cozinha, stress falls on zi; the first and last syllables are less prominent."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0157",
+      "locale": "pt-BR",
+      "sentence": "Por favor, onde fica a saída?",
+      "cloze": "Por favor",
+      "answer": "Por favor",
+      "accepted_answers": [],
+      "lemma": "por favor",
+      "meaning": "please",
+      "part_of_speech": "politeness phrase"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In por favor, the final syllable of favor is the main stressed syllable; por is normally less prominent.",
+      "usage": "Target: Por favor makes the request polite."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0158",
+      "locale": "pt-BR",
+      "sentence": "Pode entrar, a sala está livre.",
+      "cloze": "Pode entrar",
+      "answer": "Pode entrar",
+      "accepted_answers": [],
+      "lemma": "poder entrar",
+      "meaning": "you may come in",
+      "part_of_speech": "verb phrase"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: In São Paulo, the final de of pode is commonly [dʒi]; in connected speech it leads into the vowel beginning entrar.",
+      "grammar": "Target: Pode is the present form of poder used here to give the addressee permission to enter."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0159",
+      "locale": "pt-BR",
+      "sentence": "A bolsa é minha, não dela.",
+      "cloze": "minha",
+      "answer": "minha",
+      "accepted_answers": [],
+      "lemma": "meu",
+      "meaning": "mine",
+      "part_of_speech": "possessive pronoun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: Minha can receive extra stress here to contrast the owner with dela.",
+      "grammar": "Target: Minha agrees in feminine singular with bolsa and stands for the possessor's bag."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0160",
+      "locale": "pt-BR",
+      "sentence": "A festa é agora, não amanhã.",
+      "cloze": "agora",
+      "answer": "agora",
+      "accepted_answers": [],
+      "lemma": "agora",
+      "meaning": "now",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: Agora can receive extra stress here to contrast the time with amanhã."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0161",
+      "locale": "pt-BR",
+      "sentence": "A porta da sala está aberta.",
+      "cloze": "da",
+      "answer": "da",
+      "accepted_answers": [],
+      "lemma": "de",
+      "meaning": "of the",
+      "part_of_speech": "preposition and definite article"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: da is pronounced [da] in São Paulo speech.",
+      "grammar": "Target: da combines de with the feminine singular article a before sala."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0162",
+      "locale": "pt-BR",
+      "sentence": "O nome do professor é Paulo.",
+      "cloze": "do",
+      "answer": "do",
+      "accepted_answers": [],
+      "lemma": "de",
+      "meaning": "of the",
+      "part_of_speech": "preposition and definite article"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: do is commonly pronounced [du] in São Paulo speech.",
+      "grammar": "Target: do combines de with the masculine singular article o before professor."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0163",
+      "locale": "pt-BR",
+      "sentence": "A bolsa está na cadeira.",
+      "cloze": "na",
+      "answer": "na",
+      "accepted_answers": [],
+      "lemma": "em",
+      "meaning": "on the",
+      "part_of_speech": "preposition and definite article"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: na is pronounced [na] in São Paulo speech.",
+      "grammar": "Target: na combines em with the feminine singular article a before cadeira."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0164",
+      "locale": "pt-BR",
+      "sentence": "O celular está no bolso.",
+      "cloze": "no",
+      "answer": "no",
+      "accepted_answers": [],
+      "lemma": "em",
+      "meaning": "in the",
+      "part_of_speech": "preposition and definite article"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: no is commonly pronounced [nu] in São Paulo speech.",
+      "grammar": "Target: no combines em with the masculine singular article o before bolso."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0165",
+      "locale": "pt-BR",
+      "sentence": "Este copo é da Ana.",
+      "cloze": "da",
+      "answer": "da",
+      "accepted_answers": [],
+      "lemma": "de",
+      "meaning": "belonging to",
+      "part_of_speech": "preposition and definite article"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: da is pronounced [da] in São Paulo speech.",
+      "grammar": "Target: da combines de with the feminine article a used before Ana here; the phrase indicates possession."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0166",
+      "locale": "pt-BR",
+      "sentence": "Esta mochila é do Rafael.",
+      "cloze": "do",
+      "answer": "do",
+      "accepted_answers": [],
+      "lemma": "de",
+      "meaning": "belonging to",
+      "part_of_speech": "preposition and definite article"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: do is commonly pronounced [du] in São Paulo speech.",
+      "grammar": "Target: do combines de with the masculine article o used before Rafael here; the phrase indicates possession."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0167",
+      "locale": "pt-BR",
+      "sentence": "Nós estamos na escola.",
+      "cloze": "na",
+      "answer": "na",
+      "accepted_answers": [],
+      "lemma": "em",
+      "meaning": "at the",
+      "part_of_speech": "preposition and definite article"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: na is pronounced [na] in São Paulo speech.",
+      "grammar": "Target: na combines em with the feminine singular article a before escola."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0168",
+      "locale": "pt-BR",
+      "sentence": "O médico trabalha no hospital.",
+      "cloze": "no",
+      "answer": "no",
+      "accepted_answers": [],
+      "lemma": "em",
+      "meaning": "at the",
+      "part_of_speech": "preposition and definite article"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: no is commonly pronounced [nu] in São Paulo speech.",
+      "grammar": "Target: no combines em with the masculine singular article o before hospital."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0169",
+      "locale": "pt-BR",
+      "sentence": "Eu estou lendo o jornal.",
+      "cloze": "estou",
+      "answer": "estou",
+      "accepted_answers": [],
+      "lemma": "estar",
+      "meaning": "am",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: first-person singular present of estar; with lendo it forms a progressive action."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0170",
+      "locale": "pt-BR",
+      "sentence": "Ela está lendo um livro.",
+      "cloze": "lendo",
+      "answer": "lendo",
+      "accepted_answers": [],
+      "lemma": "ler",
+      "meaning": "reading",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: gerund of ler; after está it describes an action in progress."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0171",
+      "locale": "pt-BR",
+      "sentence": "A criança está dormindo no sofá.",
+      "cloze": "está",
+      "answer": "está",
+      "accepted_answers": [],
+      "lemma": "estar",
+      "meaning": "is",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: third-person singular present of estar, agreeing with a criança; with dormindo it forms a progressive action."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0172",
+      "locale": "pt-BR",
+      "sentence": "O bebê está dormindo no berço.",
+      "cloze": "dormindo",
+      "answer": "dormindo",
+      "accepted_answers": [],
+      "lemma": "dormir",
+      "meaning": "sleeping",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: gerund of dormir; after está it describes an action in progress."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0173",
+      "locale": "pt-BR",
+      "sentence": "Nós estamos esperando o ônibus.",
+      "cloze": "estamos",
+      "answer": "estamos",
+      "accepted_answers": [],
+      "lemma": "estar",
+      "meaning": "are",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: first-person plural present of estar, agreeing with nós; with esperando it forms a progressive action."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0174",
+      "locale": "pt-BR",
+      "sentence": "Estou esperando minha irmã aqui.",
+      "cloze": "esperando",
+      "answer": "esperando",
+      "accepted_answers": [],
+      "lemma": "esperar",
+      "meaning": "waiting for",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: gerund of esperar; it takes minha irmã directly as its object."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0175",
+      "locale": "pt-BR",
+      "sentence": "As crianças estão brincando no parque.",
+      "cloze": "estão",
+      "answer": "estão",
+      "accepted_answers": [],
+      "lemma": "estar",
+      "meaning": "are",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: third-person plural present of estar, agreeing with as crianças; with brincando it forms a progressive action."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0176",
+      "locale": "pt-BR",
+      "sentence": "Meu filho está brincando com o gato.",
+      "cloze": "brincando",
+      "answer": "brincando",
+      "accepted_answers": [],
+      "lemma": "brincar",
+      "meaning": "playing",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: gerund of brincar; after está it describes an action in progress."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0177",
+      "locale": "pt-BR",
+      "sentence": "Você está ouvindo a música?",
+      "cloze": "ouvindo",
+      "answer": "ouvindo",
+      "accepted_answers": [],
+      "lemma": "ouvir",
+      "meaning": "listening to",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: gerund of ouvir; it takes a música directly as its object."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0178",
+      "locale": "pt-BR",
+      "sentence": "Meu pai está fazendo café.",
+      "cloze": "fazendo",
+      "answer": "fazendo",
+      "accepted_answers": [],
+      "lemma": "fazer",
+      "meaning": "making",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: gerund of fazer; after está it describes an action in progress."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0179",
+      "locale": "pt-BR",
+      "sentence": "Quem é aquela mulher?",
+      "cloze": "Quem",
+      "answer": "Quem",
+      "accepted_answers": [],
+      "lemma": "quem",
+      "meaning": "who",
+      "part_of_speech": "interrogative pronoun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: quem asks for a person's identity."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0180",
+      "locale": "pt-BR",
+      "sentence": "Qual é o nome da professora?",
+      "cloze": "Qual",
+      "answer": "Qual",
+      "accepted_answers": [],
+      "lemma": "qual",
+      "meaning": "what",
+      "part_of_speech": "interrogative pronoun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: qual asks for the teacher's name in the frame qual é."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0181",
+      "locale": "pt-BR",
+      "sentence": "Onde fica a farmácia?",
+      "cloze": "Onde",
+      "answer": "Onde",
+      "accepted_answers": [],
+      "lemma": "onde",
+      "meaning": "where",
+      "part_of_speech": "interrogative adverb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: onde asks for a location."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0182",
+      "locale": "pt-BR",
+      "sentence": "Como você escreve seu nome?",
+      "cloze": "Como",
+      "answer": "Como",
+      "accepted_answers": [],
+      "lemma": "como",
+      "meaning": "how",
+      "part_of_speech": "interrogative adverb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: como asks about the way the name is written."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0183",
+      "locale": "pt-BR",
+      "sentence": "O que é isto na caixa?",
+      "cloze": "O que",
+      "answer": "O que",
+      "accepted_answers": [],
+      "lemma": "o que",
+      "meaning": "what",
+      "part_of_speech": "interrogative phrase"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: o que asks for the identity of a thing."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0184",
+      "locale": "pt-BR",
+      "sentence": "De onde você é?",
+      "cloze": "De onde",
+      "answer": "De onde",
+      "accepted_answers": [],
+      "lemma": "de onde",
+      "meaning": "where from",
+      "part_of_speech": "interrogative phrase"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: de onde asks about origin; de introduces the place of origin."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0185",
+      "locale": "pt-BR",
+      "sentence": "Meu nome é Luiza; sou professora.",
+      "cloze": "sou",
+      "answer": "sou",
+      "accepted_answers": [],
+      "lemma": "ser",
+      "meaning": "am",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: first-person singular present of ser, identifying the speaker's profession."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0186",
+      "locale": "pt-BR",
+      "sentence": "Esta é a minha colega, Renata.",
+      "cloze": "colega",
+      "answer": "colega",
+      "accepted_answers": [],
+      "lemma": "colega",
+      "meaning": "colleague",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: singular noun; the feminine article a identifies the colleague as female here."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0187",
+      "locale": "pt-BR",
+      "sentence": "Oi, Marina! Você está bem?",
+      "cloze": "Oi",
+      "answer": "Oi",
+      "accepted_answers": [],
+      "lemma": "oi",
+      "meaning": "hi",
+      "part_of_speech": "interjection"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: oi is pronounced [oj] in São Paulo speech.",
+      "usage": "Target: a friendly everyday greeting to Marina."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0188",
+      "locale": "pt-BR",
+      "sentence": "Bom dia, professora! Tudo bem?",
+      "cloze": "Bom dia",
+      "answer": "Bom dia",
+      "accepted_answers": [],
+      "lemma": "bom dia",
+      "meaning": "good morning",
+      "part_of_speech": "greeting"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: in São Paulo speech, dia commonly begins [dʒi].",
+      "usage": "Target: a morning greeting suitable for addressing a teacher."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0189",
+      "locale": "pt-BR",
+      "sentence": "Boa tarde, doutora. Sou a Clara.",
+      "cloze": "Boa tarde",
+      "answer": "Boa tarde",
+      "accepted_answers": [],
+      "lemma": "boa tarde",
+      "meaning": "good afternoon",
+      "part_of_speech": "greeting"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: in São Paulo speech, the final de in tarde is commonly [dʒi].",
+      "usage": "Target: an afternoon greeting suitable when addressing a doctor."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0190",
+      "locale": "pt-BR",
+      "sentence": "Boa noite, vizinhos! Até amanhã.",
+      "cloze": "Boa noite",
+      "answer": "Boa noite",
+      "accepted_answers": [],
+      "lemma": "boa noite",
+      "meaning": "good night",
+      "part_of_speech": "farewell"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: in São Paulo speech, the final te in noite is commonly [tʃi].",
+      "usage": "Target: an evening farewell to neighbors."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0191",
+      "locale": "pt-BR",
+      "sentence": "Sou o André. Obrigado pela ajuda, Pedro!",
+      "cloze": "Obrigado",
+      "answer": "Obrigado",
+      "accepted_answers": [],
+      "lemma": "obrigado",
+      "meaning": "thank you",
+      "part_of_speech": "interjection"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: the final o in obrigado is commonly [u] in São Paulo speech.",
+      "grammar": "Target: obrigado is the conventional masculine form used by a male speaker.",
+      "usage": "Target: thanks Pedro for his help."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0192",
+      "locale": "pt-BR",
+      "sentence": "Sou a Marta. Obrigada pelo convite, Ana!",
+      "cloze": "Obrigada",
+      "answer": "Obrigada",
+      "accepted_answers": [],
+      "lemma": "obrigado",
+      "meaning": "thank you",
+      "part_of_speech": "interjection"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: obrigada is the conventional feminine form used by a female speaker.",
+      "usage": "Target: thanks Ana for the invitation."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0193",
+      "locale": "pt-BR",
+      "sentence": "Desculpe pelo atraso, senhora.",
+      "cloze": "Desculpe",
+      "answer": "Desculpe",
+      "accepted_answers": [],
+      "lemma": "desculpar",
+      "meaning": "sorry",
+      "part_of_speech": "interjection"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: the final pe in desculpe is commonly [pi] in São Paulo speech.",
+      "usage": "Target: apologizes to the woman for being late."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0194",
+      "locale": "pt-BR",
+      "sentence": "Com licença, posso passar?",
+      "cloze": "Com licença",
+      "answer": "Com licença",
+      "accepted_answers": [],
+      "lemma": "com licença",
+      "meaning": "excuse me",
+      "part_of_speech": "polite expression"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "usage": "Target: a polite way to ask for space to pass."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0195",
+      "locale": "pt-BR",
+      "sentence": "Pode repetir seu nome? Não entendi.",
+      "cloze": "Pode repetir",
+      "answer": "Pode repetir",
+      "accepted_answers": [],
+      "lemma": "poder repetir",
+      "meaning": "can you repeat",
+      "part_of_speech": "polite question"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: in São Paulo speech, the final de in pode is commonly [dʒi].",
+      "grammar": "Target: pode is the third-person singular present of poder, followed by the infinitive repetir.",
+      "usage": "Target: politely asks the listener to repeat their name."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0196",
+      "locale": "pt-BR",
+      "sentence": "O que significa essa palavra? Não entendi.",
+      "cloze": "O que significa",
+      "answer": "O que significa",
+      "accepted_answers": [],
+      "lemma": "o que significar",
+      "meaning": "what does ... mean",
+      "part_of_speech": "question frame"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "grammar": "Target: significa is third-person singular present; essa palavra is its subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0197",
+      "locale": "pt-BR",
+      "sentence": "O número é quinze ou cinquenta?",
+      "cloze": "ou",
+      "answer": "ou",
+      "accepted_answers": [],
+      "lemma": "ou",
+      "meaning": "or",
+      "part_of_speech": "conjunction"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: ou is commonly realized as [o] in São Paulo speech.",
+      "grammar": "Target: ou presents two alternatives for clarification."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0198",
+      "locale": "pt-BR",
+      "sentence": "Não sei escrever seu sobrenome.",
+      "cloze": "sobrenome",
+      "answer": "sobrenome",
+      "accepted_answers": [],
+      "lemma": "sobrenome",
+      "meaning": "surname",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "pronunciation": "Target: the final e in sobrenome is commonly [i] in São Paulo speech."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0199",
+      "locale": "pt-BR",
+      "sentence": "Prazer, João. Eu sou a Marta.",
+      "cloze": "Prazer",
+      "answer": "Prazer",
+      "accepted_answers": [],
+      "lemma": "prazer",
+      "meaning": "pleased to meet you",
+      "part_of_speech": "greeting"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "usage": "Target: a conventional expression used when meeting João."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "pt-00-0200",
+      "locale": "pt-BR",
+      "sentence": "Até amanhã, pessoal! A aula termina aqui.",
+      "cloze": "Até amanhã",
+      "answer": "Até amanhã",
+      "accepted_answers": [],
+      "lemma": "até amanhã",
+      "meaning": "see you tomorrow",
+      "part_of_speech": "farewell"
+    },
+    "language_specific": {
+      "variety": "pt-BR",
+      "mode": "production",
+      "usage": "Target: a farewell to people the speaker expects to see the next day."
+    }
+  }
+]

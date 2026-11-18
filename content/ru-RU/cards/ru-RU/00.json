@@ -1,0 +1,3826 @@
+[
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0001",
+      "locale": "ru-RU",
+      "sentence": "Привет, Анна! Как дела?",
+      "cloze": "Привет",
+      "answer": "Привет",
+      "accepted_answers": [],
+      "lemma": "привет",
+      "meaning": "hi",
+      "part_of_speech": "interjection",
+      "register": "informal"
+    },
+    "language_specific": {
+      "reading": "Приве́т",
+      "pronunciation": "Target: The printed Russian Р resembles Latin P but represents a different sound.",
+      "usage": "«Привет» is an informal greeting."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0002",
+      "locale": "ru-RU",
+      "sentence": "Доброе утро, мама!",
+      "cloze": "утро",
+      "answer": "утро",
+      "accepted_answers": [],
+      "lemma": "утро",
+      "meaning": "morning",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "у́тро",
+      "morphology": "Nominative singular neuter, in the greeting «доброе утро».",
+      "pronunciation": "Target: Russian у resembles Latin y in print, but represents the vowel in English «food»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0003",
+      "locale": "ru-RU",
+      "sentence": "До свидания, Ирина!",
+      "cloze": "До свидания",
+      "answer": "До свидания",
+      "accepted_answers": [],
+      "lemma": "до свидания",
+      "meaning": "goodbye",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "reading": "До свида́ния",
+      "pronunciation": "Target: Printed с resembles Latin c; Russian в resembles Latin B in uppercase.",
+      "usage": "«До свидания» is a polite farewell."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0004",
+      "locale": "ru-RU",
+      "sentence": "Спасибо, это мой чай.",
+      "cloze": "Спасибо",
+      "answer": "Спасибо",
+      "accepted_answers": [],
+      "lemma": "спасибо",
+      "meaning": "thank you",
+      "part_of_speech": "interjection"
+    },
+    "language_specific": {
+      "reading": "Спаси́бо",
+      "pronunciation": "Target: Printed С has the shape of Latin C but represents an s sound.",
+      "usage": "«Спасибо» is a general expression of thanks."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0005",
+      "locale": "ru-RU",
+      "sentence": "Пожалуйста, вот ваша вода.",
+      "cloze": "Пожалуйста",
+      "answer": "Пожалуйста",
+      "accepted_answers": [],
+      "lemma": "пожалуйста",
+      "meaning": "here you are",
+      "part_of_speech": "interjection"
+    },
+    "language_specific": {
+      "reading": "Пожа́луйста",
+      "pronunciation": "Target: The letter й has a short curved mark above и.",
+      "usage": "Here «пожалуйста» accompanies giving something to someone."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0006",
+      "locale": "ru-RU",
+      "sentence": "Да, это моя книга.",
+      "cloze": "Да",
+      "answer": "Да",
+      "accepted_answers": [],
+      "lemma": "да",
+      "meaning": "yes",
+      "part_of_speech": "particle"
+    },
+    "language_specific": {
+      "reading": "Да",
+      "pronunciation": "Target: Uppercase Д and lowercase д are forms of the same letter."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0007",
+      "locale": "ru-RU",
+      "sentence": "Нет, это не мой телефон.",
+      "cloze": "Нет",
+      "answer": "Нет",
+      "accepted_answers": [],
+      "lemma": "нет",
+      "meaning": "no",
+      "part_of_speech": "particle"
+    },
+    "language_specific": {
+      "reading": "Нет",
+      "pronunciation": "Target: Printed Н resembles Latin H; on a standard Russian keyboard, н shares the key labeled Y."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0008",
+      "locale": "ru-RU",
+      "sentence": "Меня зовут Нина.",
+      "cloze": "Нина",
+      "answer": "Нина",
+      "accepted_answers": [],
+      "lemma": "Нина",
+      "meaning": "Nina",
+      "part_of_speech": "proper noun"
+    },
+    "language_specific": {
+      "reading": "Ни́на",
+      "morphology": "Nominative singular feminine; the name used after «меня зовут».",
+      "pronunciation": "Target: The first letter is uppercase Н; the same letter appears lowercase as н."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0009",
+      "locale": "ru-RU",
+      "sentence": "Это мой брат Роман.",
+      "cloze": "Роман",
+      "answer": "Роман",
+      "accepted_answers": [],
+      "lemma": "Роман",
+      "meaning": "Roman, a given name",
+      "part_of_speech": "proper noun"
+    },
+    "language_specific": {
+      "reading": "Рома́н",
+      "morphology": "Nominative singular masculine, naming the brother.",
+      "pronunciation": "Target: Printed Р resembles Latin P; on a standard Russian keyboard, р shares the key labeled H."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0010",
+      "locale": "ru-RU",
+      "sentence": "Это Анна, моя сестра.",
+      "cloze": "сестра",
+      "answer": "сестра",
+      "accepted_answers": [],
+      "lemma": "сестра",
+      "meaning": "sister",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "сестра́",
+      "morphology": "Nominative singular feminine, identifying Анна.",
+      "pronunciation": "Target: On a standard Russian keyboard, с shares the key labeled C."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0011",
+      "locale": "ru-RU",
+      "sentence": "Вот мой брат Иван.",
+      "cloze": "брат",
+      "answer": "брат",
+      "accepted_answers": [],
+      "lemma": "брат",
+      "meaning": "brother",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "брат",
+      "morphology": "Nominative singular masculine, identifying Иван.",
+      "pronunciation": "Target: Lowercase р corresponds to uppercase Р and resembles Latin p in print."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0012",
+      "locale": "ru-RU",
+      "sentence": "Это мой друг Саша.",
+      "cloze": "друг",
+      "answer": "друг",
+      "accepted_answers": [],
+      "lemma": "друг",
+      "meaning": "friend",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "друг",
+      "morphology": "Nominative singular masculine, identifying Саша.",
+      "pronunciation": "Target: The final г is pronounced like к before the following с in «Саша»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0013",
+      "locale": "ru-RU",
+      "sentence": "Это Москва, столица России.",
+      "cloze": "Москва",
+      "answer": "Москва",
+      "accepted_answers": [],
+      "lemma": "Москва",
+      "meaning": "Moscow",
+      "part_of_speech": "proper noun"
+    },
+    "language_specific": {
+      "reading": "Москва́",
+      "morphology": "Nominative singular feminine, naming the city.",
+      "pronunciation": "Target: The city name begins with uppercase М; its lowercase form is м."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0014",
+      "locale": "ru-RU",
+      "sentence": "Наш город — Казань.",
+      "cloze": "город",
+      "answer": "город",
+      "accepted_answers": [],
+      "lemma": "город",
+      "meaning": "city",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "го́род",
+      "morphology": "Nominative singular masculine; the subject identified as Казань.",
+      "pronunciation": "Target: Lowercase handwritten г often has a curved form, unlike the angular upright printed г; handwriting varies. Typed recognition does not assess handwriting."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0015",
+      "locale": "ru-RU",
+      "sentence": "Вот наш дом.",
+      "cloze": "дом",
+      "answer": "дом",
+      "accepted_answers": [],
+      "lemma": "дом",
+      "meaning": "house",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "дом",
+      "morphology": "Nominative singular masculine, identifying the house.",
+      "pronunciation": "Target: Lowercase handwritten д commonly resembles Latin cursive g, unlike its usual upright printed form."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0016",
+      "locale": "ru-RU",
+      "sentence": "Вот дверь, а там окно.",
+      "cloze": "окно",
+      "answer": "окно",
+      "accepted_answers": [],
+      "lemma": "окно",
+      "meaning": "window",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "окно́",
+      "morphology": "Nominative singular neuter, identifying the window.",
+      "pronunciation": "Target: The two written о letters have different stress: only the final о is stressed."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0017",
+      "locale": "ru-RU",
+      "sentence": "Ключ здесь, у двери.",
+      "cloze": "Ключ",
+      "answer": "Ключ",
+      "accepted_answers": [],
+      "lemma": "ключ",
+      "meaning": "key",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Ключ",
+      "morphology": "Nominative singular masculine; the subject.",
+      "pronunciation": "Target: The letter ю indicates that the preceding л is soft."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0018",
+      "locale": "ru-RU",
+      "sentence": "Где мой телефон?",
+      "cloze": "телефон",
+      "answer": "телефон",
+      "accepted_answers": [],
+      "lemma": "телефон",
+      "meaning": "phone",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "телефо́н",
+      "morphology": "Nominative singular masculine; the thing being located.",
+      "pronunciation": "Target: In many Russian italic fonts, lowercase т resembles Latin m; the form depends on the font."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0019",
+      "locale": "ru-RU",
+      "sentence": "Вот ваша карта города.",
+      "cloze": "карта",
+      "answer": "карта",
+      "accepted_answers": [],
+      "lemma": "карта",
+      "meaning": "map",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "ка́рта",
+      "morphology": "Nominative singular feminine, identifying the map.",
+      "pronunciation": "Target: Russian р resembles Latin p in print but is a different letter."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0020",
+      "locale": "ru-RU",
+      "sentence": "Это моя книга по русскому.",
+      "cloze": "книга",
+      "answer": "книга",
+      "accepted_answers": [],
+      "lemma": "книга",
+      "meaning": "book",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "кни́га",
+      "morphology": "Nominative singular feminine, identifying the book.",
+      "pronunciation": "Target: Printed и resembles a reversed Latin N; handwritten и commonly resembles Latin cursive u."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0021",
+      "locale": "ru-RU",
+      "sentence": "Ручка на столе.",
+      "cloze": "Ручка",
+      "answer": "Ручка",
+      "accepted_answers": [],
+      "lemma": "ручка",
+      "meaning": "pen",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Ру́чка",
+      "morphology": "Nominative singular feminine; the subject.",
+      "pronunciation": "Target: Russian у resembles Latin y; on a standard Russian keyboard, у shares the key labeled E."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0022",
+      "locale": "ru-RU",
+      "sentence": "Тетрадь у меня в сумке.",
+      "cloze": "Тетрадь",
+      "answer": "Тетрадь",
+      "accepted_answers": [],
+      "lemma": "тетрадь",
+      "meaning": "notebook",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Тетра́дь",
+      "morphology": "Nominative singular feminine; the subject.",
+      "pronunciation": "Target: The final ь marks the preceding д as soft; it is not pronounced as a separate vowel."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0023",
+      "locale": "ru-RU",
+      "sentence": "Учитель здесь, в классе.",
+      "cloze": "Учитель",
+      "answer": "Учитель",
+      "accepted_answers": [],
+      "lemma": "учитель",
+      "meaning": "teacher",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Учи́тель",
+      "morphology": "Nominative singular masculine; the subject.",
+      "pronunciation": "Target: Uppercase У and lowercase у are the same Russian letter."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0024",
+      "locale": "ru-RU",
+      "sentence": "Повторите, пожалуйста, это слово.",
+      "cloze": "слово",
+      "answer": "слово",
+      "accepted_answers": [],
+      "lemma": "слово",
+      "meaning": "word",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "сло́во",
+      "morphology": "Accusative singular neuter; the object of «повторите», with the same form as the nominative.",
+      "pronunciation": "Target: Russian в looks like Latin B in uppercase; on a standard Russian keyboard, в shares the key labeled D."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0025",
+      "locale": "ru-RU",
+      "sentence": "Какой это язык?",
+      "cloze": "язык",
+      "answer": "язык",
+      "accepted_answers": [],
+      "lemma": "язык",
+      "meaning": "language",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "язы́к",
+      "morphology": "Nominative singular masculine; the noun being identified.",
+      "pronunciation": "Target: ы is a single Cyrillic letter, although its printed form has two visible parts."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0026",
+      "locale": "ru-RU",
+      "sentence": "Это русский язык.",
+      "cloze": "русский",
+      "answer": "русский",
+      "accepted_answers": [],
+      "lemma": "русский",
+      "meaning": "Russian",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "reading": "ру́сский",
+      "morphology": "Nominative singular masculine, agreeing with «язык».",
+      "pronunciation": "Target: The word ends in й, distinct from и; on a standard Russian keyboard, й shares the key labeled Q."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0027",
+      "locale": "ru-RU",
+      "sentence": "Где здесь выход?",
+      "cloze": "выход",
+      "answer": "выход",
+      "accepted_answers": [],
+      "lemma": "выход",
+      "meaning": "exit",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "вы́ход",
+      "morphology": "Nominative singular masculine; the thing being located.",
+      "pronunciation": "Target: On a standard Russian keyboard, ы shares the key labeled S, and х shares the key labeled [."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0028",
+      "locale": "ru-RU",
+      "sentence": "Вход с другой стороны.",
+      "cloze": "Вход",
+      "answer": "Вход",
+      "accepted_answers": [],
+      "lemma": "вход",
+      "meaning": "entrance",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Вход",
+      "morphology": "Nominative singular masculine; the subject.",
+      "pronunciation": "Target: Russian х resembles Latin x but represents a different sound, like the final sound in Scottish «loch»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0029",
+      "locale": "ru-RU",
+      "sentence": "Вот вода для вас.",
+      "cloze": "вода",
+      "answer": "вода",
+      "accepted_answers": [],
+      "lemma": "вода",
+      "meaning": "water",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "вода́",
+      "morphology": "Nominative singular feminine, identifying the water.",
+      "pronunciation": "Target: The initial в corresponds to uppercase В, which resembles Latin B."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0030",
+      "locale": "ru-RU",
+      "sentence": "Ваш чай на столе.",
+      "cloze": "чай",
+      "answer": "чай",
+      "accepted_answers": [],
+      "lemma": "чай",
+      "meaning": "tea",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "чай",
+      "morphology": "Nominative singular masculine; the subject.",
+      "pronunciation": "Target: The final й is written with a short curved mark above и."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0031",
+      "locale": "ru-RU",
+      "sentence": "Это суп или каша?",
+      "cloze": "суп",
+      "answer": "суп",
+      "accepted_answers": [],
+      "lemma": "суп",
+      "meaning": "soup",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "суп",
+      "morphology": "Nominative singular masculine, one of the possible identifications.",
+      "pronunciation": "Target: Russian с resembles Latin c and represents an s sound; Russian у resembles Latin y and represents a vowel."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0032",
+      "locale": "ru-RU",
+      "sentence": "Хлеб на кухне.",
+      "cloze": "Хлеб",
+      "answer": "Хлеб",
+      "accepted_answers": [],
+      "lemma": "хлеб",
+      "meaning": "bread",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Хлеб",
+      "morphology": "Nominative singular masculine; the subject.",
+      "pronunciation": "Target: The final б is pronounced like п before the following н in «на»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0033",
+      "locale": "ru-RU",
+      "sentence": "Это сыр для салата.",
+      "cloze": "сыр",
+      "answer": "сыр",
+      "accepted_answers": [],
+      "lemma": "сыр",
+      "meaning": "cheese",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "сыр",
+      "morphology": "Nominative singular masculine, identifying the food.",
+      "pronunciation": "Target: ы is one letter; on a standard Russian keyboard, it shares the key labeled S."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0034",
+      "locale": "ru-RU",
+      "sentence": "Молоко ещё в холодильнике.",
+      "cloze": "Молоко",
+      "answer": "Молоко",
+      "accepted_answers": [],
+      "lemma": "молоко",
+      "meaning": "milk",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Молоко́",
+      "morphology": "Nominative singular neuter; the subject.",
+      "pronunciation": "Target: The last of the three written о letters is stressed."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0035",
+      "locale": "ru-RU",
+      "sentence": "Где ближайшая аптека?",
+      "cloze": "аптека",
+      "answer": "аптека",
+      "accepted_answers": [],
+      "lemma": "аптека",
+      "meaning": "pharmacy",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "апте́ка",
+      "morphology": "Nominative singular feminine; the place being located.",
+      "pronunciation": "Target: Printed п resembles an arch; in many italic fonts its lowercase form resembles Latin n."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0036",
+      "locale": "ru-RU",
+      "sentence": "Автобус уже на остановке.",
+      "cloze": "Автобус",
+      "answer": "Автобус",
+      "accepted_answers": [],
+      "lemma": "автобус",
+      "meaning": "bus",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Авто́бус",
+      "morphology": "Nominative singular masculine; the subject.",
+      "pronunciation": "Target: The uppercase А and lowercase а have the same basic shape as their Latin counterparts."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0037",
+      "locale": "ru-RU",
+      "sentence": "Метро совсем рядом.",
+      "cloze": "Метро",
+      "answer": "Метро",
+      "accepted_answers": [],
+      "lemma": "метро",
+      "meaning": "metro",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Метро́",
+      "morphology": "Indeclinable neuter noun; here it is the subject.",
+      "pronunciation": "Target: The final о is stressed; Russian р resembles Latin p in print."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0038",
+      "locale": "ru-RU",
+      "sentence": "Это моё место у окна.",
+      "cloze": "место",
+      "answer": "место",
+      "accepted_answers": [],
+      "lemma": "место",
+      "meaning": "seat",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "ме́сто",
+      "morphology": "Nominative singular neuter, identifying the seat.",
+      "pronunciation": "Target: Printed с resembles Latin c but represents an s sound."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0039",
+      "locale": "ru-RU",
+      "sentence": "Моя фамилия — Орлова.",
+      "cloze": "фамилия",
+      "answer": "фамилия",
+      "accepted_answers": [],
+      "lemma": "фамилия",
+      "meaning": "surname",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "фами́лия",
+      "morphology": "Nominative singular feminine; the subject.",
+      "pronunciation": "Target: Printed ф has a distinctive vertical stroke through a rounded shape."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0040",
+      "locale": "ru-RU",
+      "sentence": "Вот моё имя: Мария.",
+      "cloze": "имя",
+      "answer": "имя",
+      "accepted_answers": [],
+      "lemma": "имя",
+      "meaning": "first name",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "и́мя",
+      "morphology": "Nominative singular neuter, introducing the name.",
+      "pronunciation": "Target: The final я is a Cyrillic letter; its shape is distinct from Latin R."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0041",
+      "locale": "ru-RU",
+      "sentence": "Мама уже дома.",
+      "cloze": "Мама",
+      "answer": "Мама",
+      "accepted_answers": [],
+      "lemma": "мама",
+      "meaning": "mom",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Ма́ма",
+      "pronunciation": "Target: Both consonants in «мама» are hard; the second «а» is unstressed.",
+      "morphology": "Nominative singular feminine; subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0042",
+      "locale": "ru-RU",
+      "sentence": "Здесь живёт моя тётя.",
+      "cloze": "тётя",
+      "answer": "тётя",
+      "accepted_answers": [],
+      "lemma": "тётя",
+      "meaning": "aunt",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "тётя",
+      "pronunciation": "Target: Both «т» consonants in «тётя» are soft; «ё» marks the stressed vowel.",
+      "morphology": "Nominative singular feminine; subject of «живёт»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0043",
+      "locale": "ru-RU",
+      "sentence": "Это мой дядя Паша.",
+      "cloze": "дядя",
+      "answer": "дядя",
+      "accepted_answers": [],
+      "lemma": "дядя",
+      "meaning": "uncle",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "дя́дя",
+      "pronunciation": "Target: Both «д» consonants in «дядя» are soft; «я» marks their softness.",
+      "morphology": "Nominative singular masculine; identifies the person introduced by «это»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0044",
+      "locale": "ru-RU",
+      "sentence": "У папы новая лампа.",
+      "cloze": "папы",
+      "answer": "папы",
+      "accepted_answers": [],
+      "lemma": "папа",
+      "meaning": "dad",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "па́пы",
+      "morphology": "Genitive singular of «папа», used after «у» to identify the owner.",
+      "pronunciation": "Target: The second «п» in «папы» is hard before «ы»; the final vowel is unstressed."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0045",
+      "locale": "ru-RU",
+      "sentence": "Мой сын уже дома.",
+      "cloze": "сын",
+      "answer": "сын",
+      "accepted_answers": [],
+      "lemma": "сын",
+      "meaning": "son",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "сын",
+      "pronunciation": "Target: «с» is hard before «ы» in «сын».",
+      "morphology": "Nominative singular masculine; subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0046",
+      "locale": "ru-RU",
+      "sentence": "На столе синий шарф.",
+      "cloze": "синий",
+      "answer": "синий",
+      "accepted_answers": [],
+      "lemma": "синий",
+      "meaning": "blue",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "reading": "си́ний",
+      "morphology": "Nominative singular masculine, agreeing with «шарф».",
+      "pronunciation": "Target: «с» is soft before stressed «и»; the final «й» is a consonant."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0047",
+      "locale": "ru-RU",
+      "sentence": "Там стоит высокий стол.",
+      "cloze": "стол",
+      "answer": "стол",
+      "accepted_answers": [],
+      "lemma": "стол",
+      "meaning": "table",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "стол",
+      "pronunciation": "Target: Final «л» is hard in «стол», unlike the soft «л» in «соль».",
+      "morphology": "Nominative singular masculine; subject of «стоит»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0048",
+      "locale": "ru-RU",
+      "sentence": "На полке стоит соль.",
+      "cloze": "соль",
+      "answer": "соль",
+      "accepted_answers": [],
+      "lemma": "соль",
+      "meaning": "salt",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "соль",
+      "pronunciation": "Target: Final «ль» has a soft «л»; «ь» has no sound of its own.",
+      "morphology": "Nominative singular feminine; subject of «стоит»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0049",
+      "locale": "ru-RU",
+      "sentence": "Здесь спит маленький кот.",
+      "cloze": "кот",
+      "answer": "кот",
+      "accepted_answers": [],
+      "lemma": "кот",
+      "meaning": "male cat",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "кот",
+      "pronunciation": "Target: Final «т» is hard in «кот».",
+      "morphology": "Nominative singular masculine; subject of «спит»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0050",
+      "locale": "ru-RU",
+      "sentence": "Вечером мы смотрим фильм.",
+      "cloze": "фильм",
+      "answer": "фильм",
+      "accepted_answers": [],
+      "lemma": "фильм",
+      "meaning": "film",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "фильм",
+      "morphology": "Accusative singular inanimate, identical in form to the nominative; direct object of «смотрим».",
+      "pronunciation": "Target: «ль» marks a soft «л» before «м»; «ь» is not pronounced separately."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0051",
+      "locale": "ru-RU",
+      "sentence": "У меня есть дочь.",
+      "cloze": "дочь",
+      "answer": "дочь",
+      "accepted_answers": [],
+      "lemma": "дочь",
+      "meaning": "daughter",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "дочь",
+      "pronunciation": "Target: «ч» is always soft; the final «ь» is a spelling marker, not a separate sound.",
+      "morphology": "Nominative singular feminine; subject of the possessive construction with «есть»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0052",
+      "locale": "ru-RU",
+      "sentence": "У нас есть мышь.",
+      "cloze": "мышь",
+      "answer": "мышь",
+      "accepted_answers": [],
+      "lemma": "мышь",
+      "meaning": "mouse",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "мышь",
+      "pronunciation": "Target: «ш» is hard despite the final «ь»; the sign marks the noun's spelling class.",
+      "morphology": "Nominative singular feminine; subject of the possessive construction with «есть»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0053",
+      "locale": "ru-RU",
+      "sentence": "На столе лежит нож.",
+      "cloze": "нож",
+      "answer": "нож",
+      "accepted_answers": [],
+      "lemma": "нож",
+      "meaning": "knife",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "нож",
+      "pronunciation": "Target: Final «ж» is pronounced as hard «ш» before a pause; no «ь» is written.",
+      "morphology": "Nominative singular masculine; subject of «лежит»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0054",
+      "locale": "ru-RU",
+      "sentence": "Это наш новый мяч.",
+      "cloze": "мяч",
+      "answer": "мяч",
+      "accepted_answers": [],
+      "lemma": "мяч",
+      "meaning": "ball",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "мяч",
+      "pronunciation": "Target: «м» is soft before «я», and final «ч» is always soft.",
+      "morphology": "Nominative singular masculine; identifies the object introduced by «это»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0055",
+      "locale": "ru-RU",
+      "sentence": "Мы купили новый столик.",
+      "cloze": "столик",
+      "answer": "столик",
+      "accepted_answers": [],
+      "lemma": "столик",
+      "meaning": "small table",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "сто́лик",
+      "morphology": "Accusative singular inanimate, identical in form to the nominative; direct object of «купили».",
+      "pronunciation": "Target: «л» is soft before unstressed «и». In italics and handwriting, lowercase «т» can resemble printed «м»; recognition depends on context."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0056",
+      "locale": "ru-RU",
+      "sentence": "Это письмо для мамы.",
+      "cloze": "письмо",
+      "answer": "письмо",
+      "accepted_answers": [],
+      "lemma": "письмо",
+      "meaning": "letter",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "письмо́",
+      "pronunciation": "Target: «ь» marks the preceding «с» as soft; it has no sound of its own.",
+      "morphology": "Nominative singular neuter; письмо names what this is."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0057",
+      "locale": "ru-RU",
+      "sentence": "Моя семья живёт здесь.",
+      "cloze": "семья",
+      "answer": "семья",
+      "accepted_answers": [],
+      "lemma": "семья",
+      "meaning": "family",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "семья́",
+      "pronunciation": "Target: In «мья», separating «ь» shows that «я» begins with a «й» sound after soft «м».",
+      "morphology": "Nominative singular feminine; subject of «живёт»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0058",
+      "locale": "ru-RU",
+      "sentence": "Вот моя новая статья.",
+      "cloze": "статья",
+      "answer": "статья",
+      "accepted_answers": [],
+      "lemma": "статья",
+      "meaning": "article",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "статья́",
+      "pronunciation": "Target: Separating «ь» shows that «я» begins with a «й» sound after soft «т».",
+      "morphology": "Nominative singular feminine; names the item presented by «вот»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0059",
+      "locale": "ru-RU",
+      "sentence": "У стула сломано сиденье.",
+      "cloze": "сиденье",
+      "answer": "сиденье",
+      "accepted_answers": [],
+      "lemma": "сиденье",
+      "meaning": "seat",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "сиде́нье",
+      "pronunciation": "Target: Separating «ь» shows a «й» sound before the final unstressed vowel written «е».",
+      "morphology": "Nominative singular neuter; subject of «сломано»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0060",
+      "locale": "ru-RU",
+      "sentence": "На полу лежат перья.",
+      "cloze": "перья",
+      "answer": "перья",
+      "accepted_answers": [],
+      "lemma": "перо",
+      "meaning": "feathers",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "пе́рья",
+      "morphology": "Nominative plural of «перо», the subject of «лежат».",
+      "pronunciation": "Target: Separating «ь» shows a «й» sound before the unstressed vowel written «я»; stress falls on «е»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0061",
+      "locale": "ru-RU",
+      "sentence": "Подъезд находится за углом.",
+      "cloze": "Подъезд",
+      "answer": "Подъезд",
+      "accepted_answers": [],
+      "lemma": "подъезд",
+      "meaning": "building entrance",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Подъе́зд",
+      "pronunciation": "Target: Separating «ъ» has no sound of its own; it shows that «е» begins with a «й» sound after the prefix.",
+      "morphology": "Nominative singular masculine; subject of «находится»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0062",
+      "locale": "ru-RU",
+      "sentence": "Мы смотрим на объявление.",
+      "cloze": "объявление",
+      "answer": "объявление",
+      "accepted_answers": [],
+      "lemma": "объявление",
+      "meaning": "notice",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "объявле́ние",
+      "morphology": "Accusative singular inanimate, identical in form to the nominative; used after «смотрим на».",
+      "pronunciation": "Target: Separating «ъ» shows a «й» sound before the unstressed vowel written «я»; «ъ» itself has no sound."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0063",
+      "locale": "ru-RU",
+      "sentence": "Это большой объём работы.",
+      "cloze": "объём",
+      "answer": "объём",
+      "accepted_answers": [],
+      "lemma": "объём",
+      "meaning": "amount",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "объём",
+      "pronunciation": "Target: Separating «ъ» shows a «й» sound before stressed «ё»; «ъ» itself has no sound.",
+      "usage": "«Объём работы» means the amount of work.",
+      "morphology": "Nominative singular masculine; identifies the amount referred to by «это» and governs genitive «работы»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0064",
+      "locale": "ru-RU",
+      "sentence": "Я ещё пью кофе.",
+      "cloze": "пью",
+      "answer": "пью",
+      "accepted_answers": [],
+      "lemma": "пить",
+      "meaning": "I drink",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "reading": "пью",
+      "morphology": "First person singular present.",
+      "verb": "«Пить» is imperfective; «выпить» is a contextual perfective partner for consuming a drink. The present form «пью» is stressed on its only vowel and takes an accusative object; here it describes an ongoing activity.",
+      "pronunciation": "Target: Separating «ь» indicates a «й» sound between soft «п» and the vowel represented by «ю»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0065",
+      "locale": "ru-RU",
+      "sentence": "Я люблю свою семью.",
+      "cloze": "люблю",
+      "answer": "люблю",
+      "accepted_answers": [],
+      "lemma": "любить",
+      "meaning": "I love",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "reading": "люблю́",
+      "morphology": "First person singular present.",
+      "verb": "«Любить» is imperfective and has no simple aspect partner in this sense. The present form «люблю» is stressed on the ending and takes an accusative object; here it expresses an enduring feeling.",
+      "pronunciation": "Target: «ю» marks a soft preceding «л» in both syllables; the second «ю» is stressed."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0066",
+      "locale": "ru-RU",
+      "sentence": "Дай мне, пожалуйста, яблоко.",
+      "cloze": "яблоко",
+      "answer": "яблоко",
+      "accepted_answers": [],
+      "lemma": "яблоко",
+      "meaning": "apple",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "я́блоко",
+      "morphology": "Accusative singular inanimate, identical in form to the nominative; direct object of «дай».",
+      "pronunciation": "Target: Initial stressed «я» begins with a «й» sound; the later vowels are unstressed."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0067",
+      "locale": "ru-RU",
+      "sentence": "На окне растёт ёлка.",
+      "cloze": "ёлка",
+      "answer": "ёлка",
+      "accepted_answers": [],
+      "lemma": "ёлка",
+      "meaning": "spruce tree",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "ёлка",
+      "pronunciation": "Target: Initial «ё» begins with a «й» sound and is stressed.",
+      "morphology": "Nominative singular feminine; subject of «растёт»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0068",
+      "locale": "ru-RU",
+      "sentence": "Юля сегодня у бабушки.",
+      "cloze": "Юля",
+      "answer": "Юля",
+      "accepted_answers": [],
+      "lemma": "Юля",
+      "meaning": "Yulya",
+      "part_of_speech": "proper noun"
+    },
+    "language_specific": {
+      "reading": "Ю́ля",
+      "pronunciation": "Target: Initial «ю» begins with a «й» sound; «я» marks the preceding «л» as soft.",
+      "morphology": "Nominative singular feminine; subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0069",
+      "locale": "ru-RU",
+      "sentence": "Елена работает в школе.",
+      "cloze": "Елена",
+      "answer": "Елена",
+      "accepted_answers": [],
+      "lemma": "Елена",
+      "meaning": "Elena",
+      "part_of_speech": "proper noun"
+    },
+    "language_specific": {
+      "reading": "Еле́на",
+      "pronunciation": "Target: Initial unstressed «Е» begins with a «й» sound; the second «е» is stressed and follows soft «л».",
+      "morphology": "Nominative singular feminine; subject of «работает»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0070",
+      "locale": "ru-RU",
+      "sentence": "Мой дедушка любит музыку.",
+      "cloze": "дедушка",
+      "answer": "дедушка",
+      "accepted_answers": [],
+      "lemma": "дедушка",
+      "meaning": "grandfather",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "де́душка",
+      "pronunciation": "Target: The first «д» is soft before stressed «е»; the second «д» is hard before «у».",
+      "morphology": "Nominative singular masculine; subject of «любит»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0071",
+      "locale": "ru-RU",
+      "sentence": "Это мой старый рюкзак.",
+      "cloze": "рюкзак",
+      "answer": "рюкзак",
+      "accepted_answers": [],
+      "lemma": "рюкзак",
+      "meaning": "backpack",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "рюкза́к",
+      "pronunciation": "Target: «ю» marks a soft «р»; its vowel is unstressed.",
+      "morphology": "Nominative singular masculine; identifies the object introduced by «это»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0072",
+      "locale": "ru-RU",
+      "sentence": "На столе лежит мел.",
+      "cloze": "мел",
+      "answer": "мел",
+      "accepted_answers": [],
+      "lemma": "мел",
+      "meaning": "chalk",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "мел",
+      "pronunciation": "Target: «е» marks a soft «м» and is stressed; compare «мёл», a verb form with «ё».",
+      "morphology": "Nominative singular masculine; subject of «лежит»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0073",
+      "locale": "ru-RU",
+      "sentence": "Вчера папа мёл пол.",
+      "cloze": "мёл",
+      "answer": "мёл",
+      "accepted_answers": [],
+      "lemma": "мести",
+      "meaning": "was sweeping",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "reading": "мёл",
+      "morphology": "Past tense masculine singular, agreeing with «папа».",
+      "verb": "«Мести» is imperfective; «подмести» is a contextual perfective partner for sweeping an area. The past form «мёл» has stressed «ё» and takes an accusative object; here it describes an activity in progress in the past.",
+      "pronunciation": "Target: «ё» marks soft «м» and a stressed vowel; compare the noun «мел» with «е»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0074",
+      "locale": "ru-RU",
+      "sentence": "Мой конь стоит там.",
+      "cloze": "конь",
+      "answer": "конь",
+      "accepted_answers": [],
+      "lemma": "конь",
+      "meaning": "horse",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "конь",
+      "pronunciation": "Target: Final «нь» has a soft «н»; the soft sign is not pronounced separately.",
+      "morphology": "Nominative singular masculine; subject of «стоит»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0075",
+      "locale": "ru-RU",
+      "sentence": "В зоопарке живёт слон.",
+      "cloze": "слон",
+      "answer": "слон",
+      "accepted_answers": [],
+      "lemma": "слон",
+      "meaning": "elephant",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "слон",
+      "pronunciation": "Target: Final «н» is hard; there is no soft sign after it.",
+      "morphology": "Nominative singular masculine; слон is the subject of живёт."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0076",
+      "locale": "ru-RU",
+      "sentence": "Дай мне, пожалуйста, мыло.",
+      "cloze": "мыло",
+      "answer": "мыло",
+      "accepted_answers": [],
+      "lemma": "мыло",
+      "meaning": "soap",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "мы́ло",
+      "morphology": "Accusative singular inanimate, identical in form to the nominative; direct object of «дай».",
+      "pronunciation": "Target: «м» is hard before stressed «ы», unlike soft «м» before «и» in «Мила»."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0077",
+      "locale": "ru-RU",
+      "sentence": "Мила сегодня дома.",
+      "cloze": "Мила",
+      "answer": "Мила",
+      "accepted_answers": [],
+      "lemma": "Мила",
+      "meaning": "Mila",
+      "part_of_speech": "proper noun"
+    },
+    "language_specific": {
+      "reading": "Ми́ла",
+      "pronunciation": "Target: «м» is soft before stressed «и», unlike hard «м» before «ы» in «мыло».",
+      "morphology": "Nominative singular feminine; subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0078",
+      "locale": "ru-RU",
+      "sentence": "Открой, пожалуйста, эту дверь.",
+      "cloze": "дверь",
+      "answer": "дверь",
+      "accepted_answers": [],
+      "lemma": "дверь",
+      "meaning": "door",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "дверь",
+      "morphology": "Accusative singular inanimate, identical in form to the nominative; direct object of «открой».",
+      "pronunciation": "Target: Final «рь» has a soft «р»; «ь» has no separate sound."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0079",
+      "locale": "ru-RU",
+      "sentence": "В классе стоят парты.",
+      "cloze": "парты",
+      "answer": "парты",
+      "accepted_answers": [],
+      "lemma": "парта",
+      "meaning": "school desks",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "па́рты",
+      "morphology": "Nominative plural of «парта», the subject of «стоят».",
+      "pronunciation": "Target: «т» is hard before unstressed «ы». In italics and handwriting, lowercase «т» can resemble printed «м»; recognition depends on context."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0080",
+      "locale": "ru-RU",
+      "sentence": "Дай мне, пожалуйста, карандаш.",
+      "cloze": "карандаш",
+      "answer": "карандаш",
+      "accepted_answers": [],
+      "lemma": "карандаш",
+      "meaning": "pencil",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "каранда́ш",
+      "morphology": "Accusative singular inanimate, identical in form to the nominative; direct object of «дай».",
+      "pronunciation": "Target: Final «ш» is hard and has no following «ь». In italics and handwriting, «ш» has three similar strokes; surrounding letters help recognition."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0081",
+      "locale": "ru-RU",
+      "sentence": "Где здесь вокзал?",
+      "cloze": "вокзал",
+      "answer": "вокзал",
+      "accepted_answers": [],
+      "lemma": "вокзал",
+      "meaning": "railway station",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "вокза́л",
+      "morphology": "Nominative singular masculine; the thing being located.",
+      "pronunciation": "Target: The first о is unstressed and reduced; the final а is stressed."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0082",
+      "locale": "ru-RU",
+      "sentence": "Магазин рядом с метро.",
+      "cloze": "рядом",
+      "answer": "рядом",
+      "accepted_answers": [],
+      "lemma": "рядом",
+      "meaning": "nearby",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "reading": "ря́дом",
+      "pronunciation": "Target: The first syllable is stressed; the final о is reduced.",
+      "usage": "Рядом с means near something; с метро names the nearby place."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0083",
+      "locale": "ru-RU",
+      "sentence": "Кафе сейчас открыто?",
+      "cloze": "открыто",
+      "answer": "открыто",
+      "accepted_answers": [],
+      "lemma": "открытый",
+      "meaning": "open",
+      "part_of_speech": "short adjective"
+    },
+    "language_specific": {
+      "reading": "откры́то",
+      "morphology": "Short-form neuter singular, agreeing with кафе.",
+      "pronunciation": "Target: The ы is stressed; both instances of о are unstressed and reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0084",
+      "locale": "ru-RU",
+      "sentence": "Извините, где остановка?",
+      "cloze": "остановка",
+      "answer": "остановка",
+      "accepted_answers": [],
+      "lemma": "остановка",
+      "meaning": "stop",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "остано́вка",
+      "morphology": "Nominative singular feminine; the place being located.",
+      "pronunciation": "Target: The second о is stressed; the first о and the а before the stressed syllable are reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0085",
+      "locale": "ru-RU",
+      "sentence": "Туалет там, справа.",
+      "cloze": "справа",
+      "answer": "справа",
+      "accepted_answers": [],
+      "lemma": "справа",
+      "meaning": "on the right",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "reading": "спра́ва",
+      "pronunciation": "Target: The first а is stressed; the final а is reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0086",
+      "locale": "ru-RU",
+      "sentence": "Касса слева от входа.",
+      "cloze": "слева",
+      "answer": "слева",
+      "accepted_answers": [],
+      "lemma": "слева",
+      "meaning": "on the left",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "reading": "сле́ва",
+      "pronunciation": "Target: Е is stressed and follows a soft л; the final а is reduced.",
+      "usage": "Слева от locates something to the left of the place named after от."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0087",
+      "locale": "ru-RU",
+      "sentence": "Здесь есть свободное кресло?",
+      "cloze": "свободное",
+      "answer": "свободное",
+      "accepted_answers": [],
+      "lemma": "свободный",
+      "meaning": "unoccupied",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "reading": "свобо́дное",
+      "morphology": "Nominative singular neuter, agreeing with кресло.",
+      "pronunciation": "Target: The second о is stressed; the first о is reduced.",
+      "usage": "Свободное describes a seat that is not occupied."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0088",
+      "locale": "ru-RU",
+      "sentence": "Это место уже занято.",
+      "cloze": "занято",
+      "answer": "занято",
+      "accepted_answers": [],
+      "lemma": "занятый",
+      "meaning": "occupied",
+      "part_of_speech": "short adjective"
+    },
+    "language_specific": {
+      "reading": "за́нято",
+      "morphology": "Short-form neuter singular, agreeing with место.",
+      "pronunciation": "Target: The first а is stressed; the vowels written я and о are unstressed and reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0089",
+      "locale": "ru-RU",
+      "sentence": "У вас есть сдача?",
+      "cloze": "сдача",
+      "answer": "сдача",
+      "accepted_answers": [],
+      "lemma": "сдача",
+      "meaning": "change from a payment",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "сда́ча",
+      "morphology": "Nominative singular feminine; the thing whose availability is being asked about.",
+      "pronunciation": "Target: The first а is stressed; the final а is reduced. The с is voiced before д.",
+      "usage": "Сдача here means money returned after payment."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0090",
+      "locale": "ru-RU",
+      "sentence": "Большое спасибо за помощь!",
+      "cloze": "помощь",
+      "answer": "помощь",
+      "accepted_answers": [],
+      "lemma": "помощь",
+      "meaning": "help",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "по́мощь",
+      "morphology": "Accusative singular feminine, identical in form to the nominative, after за.",
+      "pronunciation": "Target: The first о is stressed; the second о is reduced.",
+      "usage": "Спасибо за помощь thanks someone for help."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0091",
+      "locale": "ru-RU",
+      "sentence": "Спасибо за ваш ответ.",
+      "cloze": "ответ",
+      "answer": "ответ",
+      "accepted_answers": [],
+      "lemma": "ответ",
+      "meaning": "answer",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "отве́т",
+      "morphology": "Accusative singular masculine, identical in form to the nominative, after за.",
+      "pronunciation": "Target: The е is stressed; the initial о is reduced.",
+      "usage": "Спасибо за ваш ответ thanks someone for their answer."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0092",
+      "locale": "ru-RU",
+      "sentence": "У меня болит зуб.",
+      "cloze": "зуб",
+      "answer": "зуб",
+      "accepted_answers": [],
+      "lemma": "зуб",
+      "meaning": "tooth",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "зуб",
+      "morphology": "Nominative singular masculine; subject of болит.",
+      "pronunciation": "Target: The single vowel is stressed; final б is pronounced as voiceless п before the pause."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0093",
+      "locale": "ru-RU",
+      "sentence": "Повторите, пожалуйста, адрес.",
+      "cloze": "адрес",
+      "answer": "адрес",
+      "accepted_answers": [],
+      "lemma": "адрес",
+      "meaning": "address",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "а́дрес",
+      "morphology": "Accusative singular masculine, identical in form to the nominative; object of повторите.",
+      "pronunciation": "Target: The first а is stressed; the е in the second syllable is unstressed and reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0094",
+      "locale": "ru-RU",
+      "sentence": "Можно ещё один билет?",
+      "cloze": "ещё",
+      "answer": "ещё",
+      "accepted_answers": [],
+      "lemma": "ещё",
+      "meaning": "more; additional",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "reading": "ещё",
+      "pronunciation": "Target: Ё marks the stressed vowel; the initial е is unstressed and reduced.",
+      "usage": "Ещё modifies один билет to request an additional ticket."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0095",
+      "locale": "ru-RU",
+      "sentence": "Этот этаж уже открыт?",
+      "cloze": "этаж",
+      "answer": "этаж",
+      "accepted_answers": [],
+      "lemma": "этаж",
+      "meaning": "floor of a building",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "эта́ж",
+      "morphology": "Nominative singular masculine; agrees with этот and открыт.",
+      "pronunciation": "Target: The а is stressed. The final ж is devoiced before the following vowel in уже because it is at the end of этаж."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0096",
+      "locale": "ru-RU",
+      "sentence": "Сейчас у нас обед.",
+      "cloze": "обед",
+      "answer": "обед",
+      "accepted_answers": [],
+      "lemma": "обед",
+      "meaning": "lunch",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "обе́д",
+      "morphology": "Nominative singular masculine; names what is taking place now.",
+      "pronunciation": "Target: Е is stressed and the initial о is reduced; final д is pronounced as voiceless т before the pause."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0097",
+      "locale": "ru-RU",
+      "sentence": "Вот номер вашего заказа.",
+      "cloze": "номер",
+      "answer": "номер",
+      "accepted_answers": [],
+      "lemma": "номер",
+      "meaning": "number",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "но́мер",
+      "morphology": "Nominative singular masculine; presented by вот.",
+      "pronunciation": "Target: О is stressed; the е in the second syllable is unstressed and reduced.",
+      "usage": "Номер refers to the identifying number of the order."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0098",
+      "locale": "ru-RU",
+      "sentence": "Ваш паспорт на столе.",
+      "cloze": "паспорт",
+      "answer": "паспорт",
+      "accepted_answers": [],
+      "lemma": "паспорт",
+      "meaning": "passport",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "па́спорт",
+      "morphology": "Nominative singular masculine; the thing being located.",
+      "pronunciation": "Target: А is stressed; the following о is unstressed and reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0099",
+      "locale": "ru-RU",
+      "sentence": "Кафе на первом этаже.",
+      "cloze": "этаже",
+      "answer": "этаже",
+      "accepted_answers": [],
+      "lemma": "этаж",
+      "meaning": "floor of a building",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "этаже́",
+      "morphology": "Prepositional singular masculine after на, indicating location; первом agrees with it.",
+      "pronunciation": "Target: The final е is stressed, unlike the а in the dictionary form эта́ж."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0100",
+      "locale": "ru-RU",
+      "sentence": "Вода в стакане холодная.",
+      "cloze": "стакане",
+      "answer": "стакане",
+      "accepted_answers": [],
+      "lemma": "стакан",
+      "meaning": "glass",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "стака́не",
+      "morphology": "Prepositional singular masculine after в, indicating location.",
+      "pronunciation": "Target: The second а is stressed; the first а is reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0101",
+      "locale": "ru-RU",
+      "sentence": "Где моя сумка?",
+      "cloze": "сумка",
+      "answer": "сумка",
+      "accepted_answers": [],
+      "lemma": "сумка",
+      "meaning": "bag",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "су́мка",
+      "morphology": "Nominative singular feminine; agrees with моя.",
+      "pronunciation": "Target: У is stressed; the final а is unstressed and reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0102",
+      "locale": "ru-RU",
+      "sentence": "В сумке есть салфетки.",
+      "cloze": "салфетки",
+      "answer": "салфетки",
+      "accepted_answers": [],
+      "lemma": "салфетка",
+      "meaning": "napkins",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "салфе́тки",
+      "morphology": "Nominative plural feminine; the items available.",
+      "pronunciation": "Target: Е is stressed; the preceding а is reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0103",
+      "locale": "ru-RU",
+      "sentence": "У вас есть зарядка?",
+      "cloze": "зарядка",
+      "answer": "зарядка",
+      "accepted_answers": [],
+      "lemma": "зарядка",
+      "meaning": "charger",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "заря́дка",
+      "morphology": "Nominative singular feminine; the item whose availability is being asked about.",
+      "pronunciation": "Target: Я is stressed; the preceding а is reduced. Д is devoiced before к.",
+      "usage": "Зарядка is an everyday word for a charger."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0104",
+      "locale": "ru-RU",
+      "sentence": "Розетка возле двери.",
+      "cloze": "Розетка",
+      "answer": "Розетка",
+      "accepted_answers": [],
+      "lemma": "розетка",
+      "meaning": "power socket",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Розе́тка",
+      "morphology": "Nominative singular feminine; the thing being located.",
+      "pronunciation": "Target: Е is stressed; the preceding о is reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0105",
+      "locale": "ru-RU",
+      "sentence": "Здесь хороший интернет?",
+      "cloze": "интернет",
+      "answer": "интернет",
+      "accepted_answers": [],
+      "lemma": "интернет",
+      "meaning": "internet connection",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "интерне́т",
+      "morphology": "Nominative singular masculine; agrees with хороший.",
+      "pronunciation": "Target: The final е is stressed; the earlier е is unstressed.",
+      "usage": "Хороший интернет asks about the quality of the connection here."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0106",
+      "locale": "ru-RU",
+      "sentence": "Это правильный адрес?",
+      "cloze": "правильный",
+      "answer": "правильный",
+      "accepted_answers": [],
+      "lemma": "правильный",
+      "meaning": "correct",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "reading": "пра́вильный",
+      "morphology": "Nominative singular masculine, agreeing with адрес.",
+      "pronunciation": "Target: The first а is stressed; the following vowels are unstressed."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0107",
+      "locale": "ru-RU",
+      "sentence": "Это другой автобус.",
+      "cloze": "другой",
+      "answer": "другой",
+      "accepted_answers": [],
+      "lemma": "другой",
+      "meaning": "different; another",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "reading": "друго́й",
+      "morphology": "Nominative singular masculine, agreeing with автобус.",
+      "pronunciation": "Target: The final о is stressed."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0108",
+      "locale": "ru-RU",
+      "sentence": "Ваш билет на завтра.",
+      "cloze": "завтра",
+      "answer": "завтра",
+      "accepted_answers": [],
+      "lemma": "завтра",
+      "meaning": "tomorrow",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "reading": "за́втра",
+      "pronunciation": "Target: The first а is stressed; the final а is reduced. В is devoiced before т.",
+      "usage": "На завтра specifies the day for which the ticket is valid."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0109",
+      "locale": "ru-RU",
+      "sentence": "Сегодня музей закрыт.",
+      "cloze": "Сегодня",
+      "answer": "Сегодня",
+      "accepted_answers": [],
+      "lemma": "сегодня",
+      "meaning": "today",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "reading": "Сего́дня",
+      "pronunciation": "Target: О is stressed; the unstressed е and final я are reduced. The written г is pronounced like в."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0110",
+      "locale": "ru-RU",
+      "sentence": "Музей закрыт по понедельникам.",
+      "cloze": "закрыт",
+      "answer": "закрыт",
+      "accepted_answers": [],
+      "lemma": "закрытый",
+      "meaning": "closed",
+      "part_of_speech": "short adjective"
+    },
+    "language_specific": {
+      "reading": "закры́т",
+      "morphology": "Short-form masculine singular, agreeing with музей.",
+      "pronunciation": "Target: Ы is stressed; the preceding а is reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0111",
+      "locale": "ru-RU",
+      "sentence": "Где ближайший банк?",
+      "cloze": "ближайший",
+      "answer": "ближайший",
+      "accepted_answers": [],
+      "lemma": "ближайший",
+      "meaning": "nearest",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "reading": "ближа́йший",
+      "morphology": "Nominative singular masculine, agreeing with банк.",
+      "pronunciation": "Target: А is stressed; the preceding и is unstressed.",
+      "usage": "Ближайший asks for the nearest bank."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0112",
+      "locale": "ru-RU",
+      "sentence": "Ваш заказ уже готов.",
+      "cloze": "готов",
+      "answer": "готов",
+      "accepted_answers": [],
+      "lemma": "готовый",
+      "meaning": "ready",
+      "part_of_speech": "short adjective"
+    },
+    "language_specific": {
+      "reading": "гото́в",
+      "morphology": "Short-form masculine singular, agreeing with заказ.",
+      "pronunciation": "Target: The second о is stressed; the first о is reduced. Final в is devoiced at the end of the sentence."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0113",
+      "locale": "ru-RU",
+      "sentence": "У вас есть мелкие деньги?",
+      "cloze": "мелкие",
+      "answer": "мелкие",
+      "accepted_answers": [],
+      "lemma": "мелкий",
+      "meaning": "small-denomination",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "reading": "ме́лкие",
+      "morphology": "Nominative plural, agreeing with деньги.",
+      "pronunciation": "Target: The first е is stressed; the vowels in the ending are unstressed.",
+      "usage": "Мелкие деньги means small denominations of money."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0114",
+      "locale": "ru-RU",
+      "sentence": "Сколько стоит эта открытка?",
+      "cloze": "открытка",
+      "answer": "открытка",
+      "accepted_answers": [],
+      "lemma": "открытка",
+      "meaning": "postcard",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "откры́тка",
+      "morphology": "Nominative singular feminine; agrees with эта.",
+      "pronunciation": "Target: Ы is stressed; the initial о and final а are reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0115",
+      "locale": "ru-RU",
+      "sentence": "Чай без сахара, пожалуйста.",
+      "cloze": "сахара",
+      "answer": "сахара",
+      "accepted_answers": [],
+      "lemma": "сахар",
+      "meaning": "sugar",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "са́хара",
+      "morphology": "Genitive singular masculine after без.",
+      "pronunciation": "Target: The first а is stressed; the other two а vowels are reduced.",
+      "usage": "Без сахара specifies tea without sugar."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0116",
+      "locale": "ru-RU",
+      "sentence": "Можно меню, пожалуйста?",
+      "cloze": "меню",
+      "answer": "меню",
+      "accepted_answers": [],
+      "lemma": "меню",
+      "meaning": "menu",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "меню́",
+      "morphology": "Indeclinable neuter noun; the requested item.",
+      "pronunciation": "Target: Ю is stressed; the preceding е is unstressed and reduced.",
+      "usage": "Можно меню is a request for a menu."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0117",
+      "locale": "ru-RU",
+      "sentence": "Извините, здесь тихо?",
+      "cloze": "тихо",
+      "answer": "тихо",
+      "accepted_answers": [],
+      "lemma": "тихо",
+      "meaning": "quiet",
+      "part_of_speech": "predicative adverb"
+    },
+    "language_specific": {
+      "reading": "ти́хо",
+      "pronunciation": "Target: И is stressed; the final о is unstressed and reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0118",
+      "locale": "ru-RU",
+      "sentence": "Здесь шумно, а там тихо.",
+      "cloze": "шумно",
+      "answer": "шумно",
+      "accepted_answers": [],
+      "lemma": "шумно",
+      "meaning": "noisy",
+      "part_of_speech": "predicative adverb"
+    },
+    "language_specific": {
+      "reading": "шу́мно",
+      "pronunciation": "Target: У is stressed; the final о is unstressed and reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0119",
+      "locale": "ru-RU",
+      "sentence": "Подскажите, это нужный кабинет?",
+      "cloze": "кабинет",
+      "answer": "кабинет",
+      "accepted_answers": [],
+      "lemma": "кабинет",
+      "meaning": "office or consultation room",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "кабине́т",
+      "morphology": "Nominative singular masculine; agrees with нужный.",
+      "pronunciation": "Target: Е is stressed; the earlier а and и are unstressed.",
+      "usage": "Нужный кабинет means the particular room the speaker is looking for."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0120",
+      "locale": "ru-RU",
+      "sentence": "Большое спасибо за билет!",
+      "cloze": "Большое",
+      "answer": "Большое",
+      "accepted_answers": [],
+      "lemma": "большой",
+      "meaning": "great; a lot",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "reading": "Большо́е",
+      "morphology": "Nominative singular neuter, agreeing with спасибо.",
+      "pronunciation": "Target: The second о is stressed; the first о is unstressed and reduced. The acute in большо́е marks stress and is omitted in ordinary spelling.",
+      "usage": "Большое спасибо expresses warm thanks."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0121",
+      "locale": "ru-RU",
+      "sentence": "Где моя шапка?",
+      "cloze": "шапка",
+      "answer": "шапка",
+      "accepted_answers": [],
+      "lemma": "шапка",
+      "meaning": "hat",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "ша́пка",
+      "morphology": "Nominative singular feminine; agrees with моя.",
+      "pronunciation": "Target: ш is hard; the first а is stressed."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0122",
+      "locale": "ru-RU",
+      "sentence": "Эта щётка для обуви.",
+      "cloze": "щётка",
+      "answer": "щётка",
+      "accepted_answers": [],
+      "lemma": "щётка",
+      "meaning": "brush",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "щётка",
+      "morphology": "Nominative singular feminine; agrees with эта.",
+      "pronunciation": "Target: щ is a long soft consonant, unlike hard ш; ё marks the stressed vowel.",
+      "usage": "Для обуви specifies that this is a shoe brush."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0123",
+      "locale": "ru-RU",
+      "sentence": "Вот чистая чашка.",
+      "cloze": "чашка",
+      "answer": "чашка",
+      "accepted_answers": [],
+      "lemma": "чашка",
+      "meaning": "cup",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "ча́шка",
+      "morphology": "Nominative singular feminine; agrees with чистая.",
+      "pronunciation": "Target: ч is soft even before а; ш is hard."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0124",
+      "locale": "ru-RU",
+      "sentence": "Вот цена билета.",
+      "cloze": "цена",
+      "answer": "цена",
+      "accepted_answers": [],
+      "lemma": "цена",
+      "meaning": "price",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "цена́",
+      "morphology": "Nominative singular feminine.",
+      "pronunciation": "Target: ц is hard, unlike soft ч; the final а is stressed.",
+      "usage": "Билета identifies what the price is for."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0125",
+      "locale": "ru-RU",
+      "sentence": "Холодно, закрой окно.",
+      "cloze": "Холодно",
+      "answer": "Холодно",
+      "accepted_answers": [],
+      "lemma": "холодно",
+      "meaning": "it is cold",
+      "part_of_speech": "predicative"
+    },
+    "language_specific": {
+      "reading": "Хо́лодно",
+      "pronunciation": "Target: х is a voiceless sound made with friction at the back of the mouth; the first о is stressed.",
+      "usage": "Холодно describes the temperature; the request to close the window supplies the situation."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0126",
+      "locale": "ru-RU",
+      "sentence": "Наш поезд уже здесь.",
+      "cloze": "поезд",
+      "answer": "поезд",
+      "accepted_answers": [],
+      "lemma": "поезд",
+      "meaning": "train",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "по́езд",
+      "morphology": "Nominative singular masculine; agrees with наш.",
+      "pronunciation": "Target: the written зд cluster ends in с т before the vowel sound at the start of уже: поезд уже."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0127",
+      "locale": "ru-RU",
+      "sentence": "Где здесь лестница?",
+      "cloze": "лестница",
+      "answer": "лестница",
+      "accepted_answers": [],
+      "lemma": "лестница",
+      "meaning": "staircase",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "ле́стница",
+      "morphology": "Nominative singular feminine.",
+      "pronunciation": "Target: the written т in стн is not pronounced; с is followed by н."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0128",
+      "locale": "ru-RU",
+      "sentence": "Солнце уже высоко.",
+      "cloze": "Солнце",
+      "answer": "Солнце",
+      "accepted_answers": [],
+      "lemma": "солнце",
+      "meaning": "sun",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Со́лнце",
+      "morphology": "Nominative singular neuter.",
+      "pronunciation": "Target: the written л in лнц is not pronounced; н is followed by ц."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0129",
+      "locale": "ru-RU",
+      "sentence": "Возьми ложку для супа.",
+      "cloze": "ложку",
+      "answer": "ложку",
+      "accepted_answers": [],
+      "lemma": "ложка",
+      "meaning": "spoon",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "ло́жку",
+      "morphology": "Accusative singular feminine; direct object of возьми.",
+      "pronunciation": "Target: ж is pronounced as voiceless ш before к.",
+      "usage": "Для супа identifies the spoon's intended use."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0130",
+      "locale": "ru-RU",
+      "sentence": "Эта вилка чистая.",
+      "cloze": "вилка",
+      "answer": "вилка",
+      "accepted_answers": [],
+      "lemma": "вилка",
+      "meaning": "fork",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "ви́лка",
+      "morphology": "Nominative singular feminine; agrees with эта and чистая.",
+      "pronunciation": "Target: в is soft before и; л is hard before к."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0131",
+      "locale": "ru-RU",
+      "sentence": "Тарелка стоит на столе.",
+      "cloze": "Тарелка",
+      "answer": "Тарелка",
+      "accepted_answers": [],
+      "lemma": "тарелка",
+      "meaning": "plate",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Таре́лка",
+      "morphology": "Nominative singular feminine; subject of стоит.",
+      "pronunciation": "Target: р is soft before е; the е is stressed."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0132",
+      "locale": "ru-RU",
+      "sentence": "На кухне есть холодильник.",
+      "cloze": "холодильник",
+      "answer": "холодильник",
+      "accepted_answers": [],
+      "lemma": "холодильник",
+      "meaning": "refrigerator",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "холоди́льник",
+      "morphology": "Nominative singular masculine; names what is present.",
+      "pronunciation": "Target: х is hard; и stresses the third syllable, while the preceding о vowels are reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0133",
+      "locale": "ru-RU",
+      "sentence": "Кухня у нас маленькая.",
+      "cloze": "Кухня",
+      "answer": "Кухня",
+      "accepted_answers": [],
+      "lemma": "кухня",
+      "meaning": "kitchen",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Ку́хня",
+      "morphology": "Nominative singular feminine; agrees with маленькая.",
+      "pronunciation": "Target: х is followed by soft н, indicated by я."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0134",
+      "locale": "ru-RU",
+      "sentence": "Вещи уже в шкафу.",
+      "cloze": "шкафу",
+      "answer": "шкафу",
+      "accepted_answers": [],
+      "lemma": "шкаф",
+      "meaning": "cupboard",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "шкафу́",
+      "morphology": "Locative singular masculine after в, indicating location inside; stress falls on у, unlike шкаф.",
+      "pronunciation": "Target: ш is hard, followed directly by к; the final у is stressed."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0135",
+      "locale": "ru-RU",
+      "sentence": "Где вещи для поездки?",
+      "cloze": "вещи",
+      "answer": "вещи",
+      "accepted_answers": [],
+      "lemma": "вещь",
+      "meaning": "things",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "ве́щи",
+      "morphology": "Nominative plural of feminine вещь.",
+      "pronunciation": "Target: щ is long and soft; и follows it in ordinary spelling.",
+      "usage": "Для поездки specifies the things needed for a trip."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0136",
+      "locale": "ru-RU",
+      "sentence": "Чемодан слишком тяжёлый.",
+      "cloze": "Чемодан",
+      "answer": "Чемодан",
+      "accepted_answers": [],
+      "lemma": "чемодан",
+      "meaning": "suitcase",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Чемода́н",
+      "morphology": "Nominative singular masculine; agrees with тяжёлый.",
+      "pronunciation": "Target: ч is soft; the final а is stressed and the preceding vowels are reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0137",
+      "locale": "ru-RU",
+      "sentence": "У меня есть билет.",
+      "cloze": "билет",
+      "answer": "билет",
+      "accepted_answers": [],
+      "lemma": "билет",
+      "meaning": "ticket",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "биле́т",
+      "morphology": "Nominative singular masculine; names what the speaker has.",
+      "pronunciation": "Target: б and л are soft before и and е; е is stressed."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0138",
+      "locale": "ru-RU",
+      "sentence": "Где платформа номер два?",
+      "cloze": "платформа",
+      "answer": "платформа",
+      "accepted_answers": [],
+      "lemma": "платформа",
+      "meaning": "platform",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "платфо́рма",
+      "morphology": "Nominative singular feminine.",
+      "pronunciation": "Target: the written тф cluster is pronounced with т followed by ф."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0139",
+      "locale": "ru-RU",
+      "sentence": "Следующая станция — Парк.",
+      "cloze": "станция",
+      "answer": "станция",
+      "accepted_answers": [],
+      "lemma": "станция",
+      "meaning": "station",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "ста́нция",
+      "morphology": "Nominative singular feminine; agrees with следующая.",
+      "pronunciation": "Target: ц is hard; unstressed ия follows it."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0140",
+      "locale": "ru-RU",
+      "sentence": "Мне нужна пересадка?",
+      "cloze": "пересадка",
+      "answer": "пересадка",
+      "accepted_answers": [],
+      "lemma": "пересадка",
+      "meaning": "transfer",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "переса́дка",
+      "morphology": "Nominative singular feminine; agrees with нужна.",
+      "pronunciation": "Target: д is pronounced as voiceless т before к.",
+      "usage": "Нужна пересадка asks whether a change of transport is necessary."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0141",
+      "locale": "ru-RU",
+      "sentence": "Покажите ваш билет, пожалуйста.",
+      "cloze": "Покажите",
+      "answer": "Покажите",
+      "accepted_answers": [],
+      "lemma": "показать",
+      "meaning": "show",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "reading": "Покажи́те",
+      "morphology": "Polite or plural imperative.",
+      "verb": "Показать is perfective; its contextual imperfective partner is показывать. Покажите has stress on и and requests one completed showing; it takes an accusative object, here билет.",
+      "pronunciation": "Target: ж is hard even before и; и is stressed.",
+      "usage": "Пожалуйста supports the polite request."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0142",
+      "locale": "ru-RU",
+      "sentence": "Подскажите, где остановка?",
+      "cloze": "Подскажите",
+      "answer": "Подскажите",
+      "accepted_answers": [],
+      "lemma": "подсказать",
+      "meaning": "tell me",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "reading": "Подскажи́те",
+      "morphology": "Polite or plural imperative.",
+      "verb": "Подсказать is perfective; its contextual imperfective partner is подсказывать. Подскажите has stress on и and requests a piece of information; the indirect question где остановка supplies the information sought.",
+      "pronunciation": "Target: д is pronounced as т before с; ж is hard before и.",
+      "usage": "The imperative introduces a polite request for directions."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0143",
+      "locale": "ru-RU",
+      "sentence": "Извините, это ваше место?",
+      "cloze": "Извините",
+      "answer": "Извините",
+      "accepted_answers": [],
+      "lemma": "извинить",
+      "meaning": "excuse me",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "reading": "Извини́те",
+      "morphology": "Polite or plural imperative, used as a fixed courtesy formula.",
+      "verb": "Извинить is perfective; извинять is its imperfective partner in the sense of excusing someone. Извините has stress on the final и; here it is a courtesy formula without an expressed object.",
+      "pronunciation": "Target: з remains voiced before voiced в; н is soft before stressed и.",
+      "usage": "Извините politely attracts attention before the question."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0144",
+      "locale": "ru-RU",
+      "sentence": "Помогите открыть дверь, пожалуйста.",
+      "cloze": "Помогите",
+      "answer": "Помогите",
+      "accepted_answers": [],
+      "lemma": "помочь",
+      "meaning": "help",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "reading": "Помоги́те",
+      "morphology": "Polite or plural imperative.",
+      "verb": "Помочь is perfective; its imperfective partner is помогать. Помогите has stress on и and requests help with a completed task; it can take a dative person and an infinitive, here открыть.",
+      "pronunciation": "Target: г is soft before stressed и.",
+      "usage": "Открыть дверь names the task for which help is requested."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0145",
+      "locale": "ru-RU",
+      "sentence": "Можно чек, пожалуйста?",
+      "cloze": "чек",
+      "answer": "чек",
+      "accepted_answers": [],
+      "lemma": "чек",
+      "meaning": "receipt",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "чек",
+      "morphology": "Accusative singular masculine inanimate, identical in form to the nominative; the requested item.",
+      "pronunciation": "Target: ч is soft; the following е is stressed.",
+      "usage": "Можно followed by the item is a short request; пожалуйста makes it polite."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0146",
+      "locale": "ru-RU",
+      "sentence": "У вас есть наличные?",
+      "cloze": "наличные",
+      "answer": "наличные",
+      "accepted_answers": [],
+      "lemma": "наличные",
+      "meaning": "cash",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "нали́чные",
+      "morphology": "Plural form used as a noun; names what the addressee may have.",
+      "pronunciation": "Target: ч is soft in the чн cluster; stress falls on и.",
+      "usage": "Наличные means money in cash, as opposed to payment by card."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0147",
+      "locale": "ru-RU",
+      "sentence": "В ресторане я оплачу счёт.",
+      "cloze": "счёт",
+      "answer": "счёт",
+      "accepted_answers": [],
+      "lemma": "счёт",
+      "meaning": "bill",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "счёт",
+      "morphology": "Accusative singular masculine inanimate; direct object of оплачу.",
+      "pronunciation": "Target: сч is pronounced as a long soft щ sound; ё marks stress.",
+      "usage": "Оплатить счёт means to pay the bill."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0148",
+      "locale": "ru-RU",
+      "sentence": "В супе есть овощи.",
+      "cloze": "овощи",
+      "answer": "овощи",
+      "accepted_answers": [],
+      "lemma": "овощ",
+      "meaning": "vegetables",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "о́вощи",
+      "morphology": "Nominative plural of masculine овощ.",
+      "pronunciation": "Target: щ is long and soft; the first о is stressed and the second о is reduced."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0149",
+      "locale": "ru-RU",
+      "sentence": "Огурец уже чистый.",
+      "cloze": "Огурец",
+      "answer": "Огурец",
+      "accepted_answers": [],
+      "lemma": "огурец",
+      "meaning": "cucumber",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Огуре́ц",
+      "morphology": "Nominative singular masculine; agrees with чистый.",
+      "pronunciation": "Target: р is soft before stressed е, while final ц is hard."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0150",
+      "locale": "ru-RU",
+      "sentence": "Положи перец в суп.",
+      "cloze": "перец",
+      "answer": "перец",
+      "accepted_answers": [],
+      "lemma": "перец",
+      "meaning": "pepper",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "пе́рец",
+      "morphology": "Accusative singular masculine inanimate; direct object of положи.",
+      "pronunciation": "Target: п is soft before stressed е; ц is hard."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0151",
+      "locale": "ru-RU",
+      "sentence": "На завтрак есть каша.",
+      "cloze": "каша",
+      "answer": "каша",
+      "accepted_answers": [],
+      "lemma": "каша",
+      "meaning": "porridge",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "ка́ша",
+      "morphology": "Nominative singular feminine; names the available food.",
+      "pronunciation": "Target: ш is hard; the first а is stressed."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0152",
+      "locale": "ru-RU",
+      "sentence": "Можно яичницу без хлеба?",
+      "cloze": "яичницу",
+      "answer": "яичницу",
+      "accepted_answers": [],
+      "lemma": "яичница",
+      "meaning": "fried eggs",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "яи́чницу",
+      "morphology": "Accusative singular feminine in a food request.",
+      "pronunciation": "Target: in яичницу, written чн is pronounced шн; stress falls on и.",
+      "usage": "Можно introduces a request; без хлеба specifies that no bread is wanted."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0153",
+      "locale": "ru-RU",
+      "sentence": "Я мажу хлеб маслом.",
+      "cloze": "маслом",
+      "answer": "маслом",
+      "accepted_answers": [],
+      "lemma": "масло",
+      "meaning": "butter",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "ма́слом",
+      "morphology": "Instrumental singular neuter; names what is spread on the bread.",
+      "pronunciation": "Target: с and л are both pronounced in the сл cluster; the first а is stressed.",
+      "usage": "Мазать хлеб маслом means to spread butter on bread."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0154",
+      "locale": "ru-RU",
+      "sentence": "Вода в душе горячая.",
+      "cloze": "душе",
+      "answer": "душе",
+      "accepted_answers": [],
+      "lemma": "душ",
+      "meaning": "shower",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "ду́ше",
+      "morphology": "Prepositional singular masculine after в, indicating location.",
+      "pronunciation": "Target: ш remains hard before е; у is stressed.",
+      "usage": "В душе refers to the shower as the source of the water."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0155",
+      "locale": "ru-RU",
+      "sentence": "Полотенце уже сухое.",
+      "cloze": "Полотенце",
+      "answer": "Полотенце",
+      "accepted_answers": [],
+      "lemma": "полотенце",
+      "meaning": "towel",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "Полоте́нце",
+      "morphology": "Nominative singular neuter; agrees with сухое.",
+      "pronunciation": "Target: т is soft before stressed е; ц is hard before е."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0156",
+      "locale": "ru-RU",
+      "sentence": "Положи щётку сюда.",
+      "cloze": "сюда",
+      "answer": "сюда",
+      "accepted_answers": [],
+      "lemma": "сюда",
+      "meaning": "here, to this place",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "reading": "сюда́",
+      "pronunciation": "Target: с is soft before ю; the final а is stressed.",
+      "usage": "Сюда gives the destination of положи."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0157",
+      "locale": "ru-RU",
+      "sentence": "Это чистое полотенце?",
+      "cloze": "чистое",
+      "answer": "чистое",
+      "accepted_answers": [],
+      "lemma": "чистый",
+      "meaning": "clean",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "reading": "чи́стое",
+      "morphology": "Nominative singular neuter; agrees with полотенце.",
+      "pronunciation": "Target: ч is soft before stressed и; с and т are pronounced in the ст cluster."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0158",
+      "locale": "ru-RU",
+      "sentence": "Здесь есть лифт?",
+      "cloze": "лифт",
+      "answer": "лифт",
+      "accepted_answers": [],
+      "lemma": "лифт",
+      "meaning": "lift",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "лифт",
+      "morphology": "Nominative singular masculine; names what may be present.",
+      "pronunciation": "Target: л is soft before и; ф and т are both pronounced in the final cluster."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0159",
+      "locale": "ru-RU",
+      "sentence": "Выключи свет, пожалуйста.",
+      "cloze": "свет",
+      "answer": "свет",
+      "accepted_answers": [],
+      "lemma": "свет",
+      "meaning": "light",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "свет",
+      "morphology": "Accusative singular masculine inanimate; direct object of выключи.",
+      "pronunciation": "Target: в is soft before е in the initial св cluster.",
+      "usage": "Выключи свет means to turn off the light."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0160",
+      "locale": "ru-RU",
+      "sentence": "Этот чемодан тяжёлый.",
+      "cloze": "тяжёлый",
+      "answer": "тяжёлый",
+      "accepted_answers": [],
+      "lemma": "тяжёлый",
+      "meaning": "heavy",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "reading": "тяжёлый",
+      "morphology": "Nominative singular masculine; agrees with чемодан.",
+      "pronunciation": "Target: т is soft before я, but ж is hard before ё; ё marks stress."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0161",
+      "locale": "ru-RU",
+      "sentence": "Доброе утро, Анна Ивановна!",
+      "cloze": "Доброе утро",
+      "answer": "Доброе утро",
+      "accepted_answers": [],
+      "lemma": "доброе утро",
+      "meaning": "good morning",
+      "part_of_speech": "greeting"
+    },
+    "language_specific": {
+      "reading": "До́брое у́тро",
+      "morphology": "Доброе is nominative singular neuter, agreeing with утро.",
+      "usage": "A morning greeting suitable for addressing Анна Ивановна respectfully."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0162",
+      "locale": "ru-RU",
+      "sentence": "Добрый день, Мария Сергеевна!",
+      "cloze": "Добрый день",
+      "answer": "Добрый день",
+      "accepted_answers": [],
+      "lemma": "добрый день",
+      "meaning": "good afternoon; hello",
+      "part_of_speech": "greeting"
+    },
+    "language_specific": {
+      "reading": "До́брый день",
+      "morphology": "Добрый is nominative singular masculine, agreeing with день.",
+      "usage": "A polite daytime greeting suitable for addressing Мария Сергеевна."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0163",
+      "locale": "ru-RU",
+      "sentence": "Добрый вечер, проходите в зал.",
+      "cloze": "Добрый вечер",
+      "answer": "Добрый вечер",
+      "accepted_answers": [],
+      "lemma": "добрый вечер",
+      "meaning": "good evening",
+      "part_of_speech": "greeting"
+    },
+    "language_specific": {
+      "reading": "До́брый ве́чер",
+      "morphology": "Добрый is nominative singular masculine, agreeing with вечер.",
+      "usage": "An evening greeting addressed to someone being invited inside."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0164",
+      "locale": "ru-RU",
+      "sentence": "Здравствуйте, доктор! Я к вам.",
+      "cloze": "Здравствуйте",
+      "answer": "Здравствуйте",
+      "accepted_answers": [],
+      "lemma": "здравствуйте",
+      "meaning": "hello",
+      "part_of_speech": "greeting",
+      "register": "polite"
+    },
+    "language_specific": {
+      "reading": "Здра́вствуйте",
+      "usage": "A polite greeting to the doctor."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0165",
+      "locale": "ru-RU",
+      "sentence": "Пока, мама! Я уже у двери.",
+      "cloze": "Пока",
+      "answer": "Пока",
+      "accepted_answers": [],
+      "lemma": "пока",
+      "meaning": "bye",
+      "part_of_speech": "farewell",
+      "register": "informal"
+    },
+    "language_specific": {
+      "reading": "Пока́",
+      "usage": "An informal farewell to a close family member."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0166",
+      "locale": "ru-RU",
+      "sentence": "До завтра, коллеги! Хорошего вечера.",
+      "cloze": "До завтра",
+      "answer": "До завтра",
+      "accepted_answers": [],
+      "lemma": "до завтра",
+      "meaning": "see you tomorrow",
+      "part_of_speech": "farewell"
+    },
+    "language_specific": {
+      "reading": "До за́втра",
+      "usage": "A farewell anticipating another meeting tomorrow."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0167",
+      "locale": "ru-RU",
+      "sentence": "Спокойной ночи, дети! Свет выключен.",
+      "cloze": "Спокойной ночи",
+      "answer": "Спокойной ночи",
+      "accepted_answers": [],
+      "lemma": "спокойной ночи",
+      "meaning": "good night",
+      "part_of_speech": "farewell"
+    },
+    "language_specific": {
+      "reading": "Споко́йной но́чи",
+      "morphology": "Спокойной ночи has genitive singular feminine forms in this fixed wish.",
+      "usage": "A bedtime wish addressed here to children."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0168",
+      "locale": "ru-RU",
+      "sentence": "Большое спасибо за вашу карту!",
+      "cloze": "Большое спасибо",
+      "answer": "Большое спасибо",
+      "accepted_answers": [],
+      "lemma": "большое спасибо",
+      "meaning": "thank you very much",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "reading": "Большо́е спаси́бо",
+      "morphology": "Большое is the neuter singular form used in this fixed expression.",
+      "usage": "An emphatic expression of thanks; за introduces what the speaker is grateful for."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0169",
+      "locale": "ru-RU",
+      "sentence": "Спасибо за чай! — Не за что.",
+      "cloze": "Не за что",
+      "answer": "Не за что",
+      "accepted_answers": [],
+      "lemma": "не за что",
+      "meaning": "you're welcome",
+      "part_of_speech": "expression"
+    },
+    "language_specific": {
+      "reading": "Не́ за что",
+      "usage": "A response to thanks, here for the tea."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0170",
+      "locale": "ru-RU",
+      "sentence": "Простите, я занял ваше место.",
+      "cloze": "Простите",
+      "answer": "Простите",
+      "accepted_answers": [],
+      "lemma": "простить",
+      "meaning": "forgive me; sorry",
+      "part_of_speech": "verb",
+      "register": "polite"
+    },
+    "language_specific": {
+      "reading": "Прости́те",
+      "morphology": "Plural or polite singular imperative, used to address the person whose seat was taken.",
+      "verb": "Простить is perfective; the imperfective partner is прощать. Прости́те has stress on и; it can take an accusative person. The imperative asks for forgiveness for a completed act."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0171",
+      "locale": "ru-RU",
+      "sentence": "Мне жаль, что вы заболели.",
+      "cloze": "Мне жаль",
+      "answer": "Мне жаль",
+      "accepted_answers": [],
+      "lemma": "жаль",
+      "meaning": "I'm sorry",
+      "part_of_speech": "predicative expression"
+    },
+    "language_specific": {
+      "reading": "Мне жаль",
+      "morphology": "Мне is dative singular; жаль is an impersonal predicative.",
+      "usage": "Expresses sympathy about the situation introduced by что."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0172",
+      "locale": "ru-RU",
+      "sentence": "Повторите, пожалуйста, ваш адрес.",
+      "cloze": "Повторите",
+      "answer": "Повторите",
+      "accepted_answers": [],
+      "lemma": "повторить",
+      "meaning": "repeat",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "reading": "Повтори́те",
+      "morphology": "Plural or polite singular imperative.",
+      "verb": "Повторить is perfective; the imperfective partner is повторять. Повтори́те has stress on и; it takes an accusative object, here адрес. The imperative requests one repetition."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0173",
+      "locale": "ru-RU",
+      "sentence": "Скажите это ещё раз, пожалуйста.",
+      "cloze": "ещё раз",
+      "answer": "ещё раз",
+      "accepted_answers": [],
+      "lemma": "ещё раз",
+      "meaning": "once more",
+      "part_of_speech": "adverbial expression"
+    },
+    "language_specific": {
+      "reading": "ещё раз",
+      "usage": "Modifies скажите: the speaker asks to hear the same thing again."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0174",
+      "locale": "ru-RU",
+      "sentence": "Говорите медленнее, пожалуйста, я учусь.",
+      "cloze": "медленнее",
+      "answer": "медленнее",
+      "accepted_answers": [],
+      "lemma": "медленно",
+      "meaning": "more slowly",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "reading": "ме́дленнее",
+      "morphology": "Comparative form of the adverb медленно.",
+      "usage": "Modifies говорите and asks the listener to reduce their speaking speed."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0175",
+      "locale": "ru-RU",
+      "sentence": "Я не понял ваш вопрос.",
+      "cloze": "не понял",
+      "answer": "не понял",
+      "accepted_answers": [],
+      "lemma": "понять",
+      "meaning": "did not understand",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "reading": "не по́нял",
+      "morphology": "Negated past singular masculine; a female speaker would use не поняла.",
+      "verb": "Понять is perfective; the imperfective partner is понимать. По́нял has stress on the first syllable; понять takes an accusative object, here вопрос. The past form reports a failure to understand."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0176",
+      "locale": "ru-RU",
+      "sentence": "Что значит слово «выход»?",
+      "cloze": "значит",
+      "answer": "значит",
+      "accepted_answers": [],
+      "lemma": "значить",
+      "meaning": "mean",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "reading": "зна́чит",
+      "morphology": "Third-person singular present; слово is the subject.",
+      "verb": "Значить is imperfective in the sense ‘mean’, with no simple aspectual partner. Зна́чит has stress on the first syllable; что asks for the meaning. The present form asks what the word means."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0177",
+      "locale": "ru-RU",
+      "sentence": "Как это слово по-русски?",
+      "cloze": "по-русски",
+      "answer": "по-русски",
+      "accepted_answers": [],
+      "lemma": "по-русски",
+      "meaning": "in Russian",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "reading": "по-ру́сски",
+      "usage": "With как, asks for the Russian equivalent of the word under discussion."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0178",
+      "locale": "ru-RU",
+      "sentence": "Как пишется ваше имя?",
+      "cloze": "пишется",
+      "answer": "пишется",
+      "accepted_answers": [],
+      "lemma": "писаться",
+      "meaning": "is written; is spelled",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "reading": "пи́шется",
+      "morphology": "Third-person singular present reflexive form; имя is the subject.",
+      "verb": "Писаться is imperfective here, with no simple partner for asking about a spelling. Пи́шется has stress on и; как asks for the manner of writing. The present form asks how the name is normally spelled."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0179",
+      "locale": "ru-RU",
+      "sentence": "Мне плохо. Вызовите скорую, пожалуйста.",
+      "cloze": "плохо",
+      "answer": "плохо",
+      "accepted_answers": [],
+      "lemma": "плохо",
+      "meaning": "unwell",
+      "part_of_speech": "predicative adverb"
+    },
+    "language_specific": {
+      "reading": "пло́хо",
+      "usage": "Мне плохо states that the speaker feels unwell; мне identifies the person experiencing the condition."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0180",
+      "locale": "ru-RU",
+      "sentence": "Где здесь туалет, скажите?",
+      "cloze": "туалет",
+      "answer": "туалет",
+      "accepted_answers": [],
+      "lemma": "туалет",
+      "meaning": "toilet; restroom",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "туале́т",
+      "morphology": "Nominative singular masculine inanimate; the place being located."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0181",
+      "locale": "ru-RU",
+      "sentence": "Сколько стоит этот билет?",
+      "cloze": "Сколько",
+      "answer": "Сколько",
+      "accepted_answers": [],
+      "lemma": "сколько",
+      "meaning": "how much",
+      "part_of_speech": "interrogative word"
+    },
+    "language_specific": {
+      "reading": "Ско́лько",
+      "usage": "With стоит, asks for the price of the ticket.",
+      "pronunciation": "Sentence: The question word Сколько can carry the main stress; the contour commonly falls after it."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0182",
+      "locale": "ru-RU",
+      "sentence": "Когда начинается урок русского?",
+      "cloze": "Когда",
+      "answer": "Когда",
+      "accepted_answers": [],
+      "lemma": "когда",
+      "meaning": "when",
+      "part_of_speech": "interrogative word"
+    },
+    "language_specific": {
+      "reading": "Когда́",
+      "usage": "Asks for the time at which the Russian lesson begins.",
+      "pronunciation": "Sentence: Когда can carry the main stress in this information question; the contour commonly falls after it."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0183",
+      "locale": "ru-RU",
+      "sentence": "Кто сегодня наш преподаватель?",
+      "cloze": "Кто",
+      "answer": "Кто",
+      "accepted_answers": [],
+      "lemma": "кто",
+      "meaning": "who",
+      "part_of_speech": "interrogative pronoun"
+    },
+    "language_specific": {
+      "reading": "Кто",
+      "morphology": "Nominative interrogative pronoun asking for a person's identity.",
+      "pronunciation": "Sentence: Кто can carry the main stress in this question; the contour commonly falls after it."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0184",
+      "locale": "ru-RU",
+      "sentence": "Это ваш зонт? — Да, мой.",
+      "cloze": "ваш",
+      "answer": "ваш",
+      "accepted_answers": [],
+      "lemma": "ваш",
+      "meaning": "your",
+      "part_of_speech": "possessive pronoun"
+    },
+    "language_specific": {
+      "reading": "ваш",
+      "morphology": "Nominative singular masculine, agreeing with зонт.",
+      "pronunciation": "Sentence: In the yes-or-no question, a rise on ваш can focus the question on whose umbrella it is; the reply confirms ownership."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0185",
+      "locale": "ru-RU",
+      "sentence": "Это чай? — Нет, это кофе.",
+      "cloze": "кофе",
+      "answer": "кофе",
+      "accepted_answers": [],
+      "lemma": "кофе",
+      "meaning": "coffee",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "ко́фе",
+      "morphology": "Indeclinable masculine noun, used here to identify the drink.",
+      "pronunciation": "Sentence: Чай can carry a rising contour in the yes-or-no question; ко́фе carries the corrective focus in the reply, with a falling contour."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0186",
+      "locale": "ru-RU",
+      "sentence": "Что там? — Там аптека.",
+      "cloze": "аптека",
+      "answer": "аптека",
+      "accepted_answers": [],
+      "lemma": "аптека",
+      "meaning": "pharmacy",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "апте́ка",
+      "morphology": "Nominative singular feminine inanimate; identifies what is there.",
+      "pronunciation": "Sentence: In the reply, апте́ка is the new information and can receive the main phrase stress with a falling contour."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0187",
+      "locale": "ru-RU",
+      "sentence": "Где ключ? — Ключ на столе.",
+      "cloze": "на столе",
+      "answer": "на столе",
+      "accepted_answers": [],
+      "lemma": "на + стол",
+      "meaning": "on the table",
+      "part_of_speech": "prepositional phrase"
+    },
+    "language_specific": {
+      "reading": "на столе́",
+      "morphology": "На governs prepositional singular столе for a location.",
+      "pronunciation": "Sentence: The reply answers where the key is, so столе́ can carry the main phrase stress with a falling contour."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0188",
+      "locale": "ru-RU",
+      "sentence": "Когда встреча? — Встреча завтра.",
+      "cloze": "завтра",
+      "answer": "завтра",
+      "accepted_answers": [],
+      "lemma": "завтра",
+      "meaning": "tomorrow",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "reading": "за́втра",
+      "pronunciation": "Sentence: За́втра answers the question about time and can carry the main stress in the reply, with a falling contour."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0189",
+      "locale": "ru-RU",
+      "sentence": "Встреча завтра? — Нет, сегодня.",
+      "cloze": "сегодня",
+      "answer": "сегодня",
+      "accepted_answers": [],
+      "lemma": "сегодня",
+      "meaning": "today",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "reading": "сего́дня",
+      "pronunciation": "Sentence: The question can rise on за́втра; сего́дня is the correction in the reply and can carry a falling contour."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0190",
+      "locale": "ru-RU",
+      "sentence": "Вам нужен врач? — Да, срочно.",
+      "cloze": "срочно",
+      "answer": "срочно",
+      "accepted_answers": [],
+      "lemma": "срочно",
+      "meaning": "urgently",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "reading": "сро́чно",
+      "usage": "Adds urgency to the confirmed need for a doctor."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0191",
+      "locale": "ru-RU",
+      "sentence": "Вызовите скорую, человеку плохо!",
+      "cloze": "Вызовите",
+      "answer": "Вызовите",
+      "accepted_answers": [],
+      "lemma": "вызвать",
+      "meaning": "call for",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "reading": "Вы́зовите",
+      "morphology": "Plural or polite singular imperative.",
+      "verb": "Вызвать is perfective; the imperfective partner is вызывать. Вы́зовите has stress on the first syllable; it takes an accusative object, here скорую. The imperative requests that an ambulance be called."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0192",
+      "locale": "ru-RU",
+      "sentence": "Осторожно, здесь горячая вода!",
+      "cloze": "Осторожно",
+      "answer": "Осторожно",
+      "accepted_answers": [],
+      "lemma": "осторожно",
+      "meaning": "careful",
+      "part_of_speech": "interjection"
+    },
+    "language_specific": {
+      "reading": "Осторо́жно",
+      "usage": "A warning to take care because the water is hot."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0193",
+      "locale": "ru-RU",
+      "sentence": "Подождите минуту, я ищу ключ.",
+      "cloze": "Подождите",
+      "answer": "Подождите",
+      "accepted_answers": [],
+      "lemma": "подождать",
+      "meaning": "wait",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "reading": "Подожди́те",
+      "morphology": "Plural or polite singular imperative.",
+      "verb": "Подождать is perfective; ждать is the related imperfective verb. Подожди́те has stress on и. Минуту gives the duration in the accusative; the imperative requests a short wait."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0194",
+      "locale": "ru-RU",
+      "sentence": "Можно войти? — Да, дверь открыта.",
+      "cloze": "Можно войти",
+      "answer": "Можно войти",
+      "accepted_answers": [],
+      "lemma": "можно войти",
+      "meaning": "may I come in",
+      "part_of_speech": "verbal construction"
+    },
+    "language_specific": {
+      "reading": "Мо́жно войти́",
+      "morphology": "Impersonal можно with the infinitive войти asks permission.",
+      "verb": "Войти is perfective; the imperfective partner is входить. Войти́ has final stress. It describes one directed entry on foot; в- indicates movement inward. It has no object here, and можно asks permission for the prospective action.",
+      "pronunciation": "Sentence: A rise on войти́ can mark this as a yes-or-no permission question."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0195",
+      "locale": "ru-RU",
+      "sentence": "Здесь свободно? — Да, садитесь.",
+      "cloze": "свободно",
+      "answer": "свободно",
+      "accepted_answers": [],
+      "lemma": "свободно",
+      "meaning": "free; available",
+      "part_of_speech": "predicative"
+    },
+    "language_specific": {
+      "reading": "свобо́дно",
+      "usage": "Asks whether the place indicated by здесь is available to sit in.",
+      "pronunciation": "Sentence: A rise on свобо́дно can mark the question; the reply invites the speaker to sit."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0196",
+      "locale": "ru-RU",
+      "sentence": "Можно воду без газа?",
+      "cloze": "без газа",
+      "answer": "без газа",
+      "accepted_answers": [],
+      "lemma": "без газа",
+      "meaning": "still; without carbonation",
+      "part_of_speech": "prepositional phrase"
+    },
+    "language_specific": {
+      "reading": "без га́за",
+      "morphology": "Без governs genitive singular газа.",
+      "usage": "Describes the requested water as non-carbonated."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0197",
+      "locale": "ru-RU",
+      "sentence": "Мне нужна помощь с дверью.",
+      "cloze": "помощь",
+      "answer": "помощь",
+      "accepted_answers": [],
+      "lemma": "помощь",
+      "meaning": "help",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "reading": "по́мощь",
+      "morphology": "Nominative singular feminine inanimate; нужна agrees with помощь.",
+      "usage": "С дверью specifies what the speaker needs help with."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0198",
+      "locale": "ru-RU",
+      "sentence": "У меня болит голова.",
+      "cloze": "болит",
+      "answer": "болит",
+      "accepted_answers": [],
+      "lemma": "болеть",
+      "meaning": "hurts",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "reading": "боли́т",
+      "morphology": "Third-person singular present; голова is the subject.",
+      "verb": "Болеть is imperfective in the sense ‘hurt’, with no simple perfective partner for the ongoing state. Боли́т has final stress; у меня identifies the person experiencing the pain. The present form describes current pain."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0199",
+      "locale": "ru-RU",
+      "sentence": "Я потерял телефон в автобусе.",
+      "cloze": "потерял",
+      "answer": "потерял",
+      "accepted_answers": [],
+      "lemma": "потерять",
+      "meaning": "lost",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "reading": "потеря́л",
+      "morphology": "Past singular masculine; a female speaker would use потеряла.",
+      "verb": "Потерять is perfective; the imperfective partner is терять. Потеря́л has stress on я; it takes an accusative object, here телефон. The past form reports a completed loss."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "ru-00-0200",
+      "locale": "ru-RU",
+      "sentence": "Это мой автобус? — Да, ваш.",
+      "cloze": "мой",
+      "answer": "мой",
+      "accepted_answers": [],
+      "lemma": "мой",
+      "meaning": "my",
+      "part_of_speech": "possessive pronoun"
+    },
+    "language_specific": {
+      "reading": "мой",
+      "morphology": "Nominative singular masculine, agreeing with автобус.",
+      "pronunciation": "Sentence: A rise on мой can focus the yes-or-no question on whether this is the speaker's bus; ваш confirms it in the reply."
+    }
+  }
+]
